@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10104_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10104_1-dlg",
+    "original": "어서 오시게. 내 마음이… 마음에 드오? ",
+    "context": "EN :\nWelcome. Now what does your heart say... about what you see of my heart?\nJP :\nいざ給え。私の心が…心に付ききや？"
+  },
+  {
+    "key": "lobby_morning_10104_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10104_1-dlg",
+    "original": "장지는 그대로 열어두게. 볕이… 간만에 따스하니까.",
+    "context": "EN :\nKeep the door ajar. The sunbeam... is warm for once.\nJP :\n障子はそのまま開けおけ。 日差しが…久々に暖かければ。"
+  },
+  {
+    "key": "lobby_noon_10104_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10104_1-dlg",
+    "original": "식사는 하셨는가. 어디… 감자는 어떻소? 점심에 퍽 어울리오.\n…싹은 나지 않았으니, 걱정마시게.",
+    "context": "EN :\nI wonder if you have dined. Let's see... How about potatoes? They are quite fitting as luncheon.\n...Worry not, for they have not sprouted.\nJP :\n食事せりや。どれ…ジャガイモはいかがなりや？昼餉にひたと適いけり。\n…芽は出でたらねば、安心なされよ。"
+  },
+  {
+    "key": "lobby_night_10104_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10104_1-dlg",
+    "original": "밤은 익숙치 않소… 한치 앞이 보이지 아니하기 때문이요.\n스러져간 새 동료들을 떠올리면… 또 다시 적적함 속에 삼켜질까봐 두렵기도 하오.",
+    "context": "EN :\nI am not quite used to the night... It's thanks to the dark that prevents me from seeing further than my nose.\nThinking of my new colleagues who have perished... this solitude brings me fear that I will soon be consumed by another.\nJP :\n夜は慣れぬ…一寸先が見えねば。\n消え失せし新しき仲間たちを思い出すと…また、寂々さに飲み込まれぬやと恐るることもあり。"
+  },
+  {
+    "key": "smalltalk_10104_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10104_1-dlg",
+    "original": "K사의 그자 말인가. 이제는 벗도 뭣도 아니며, 그저 더러운 사상을 갖고 기술을 능욕하는… 아니, 굳이 입까지 더럽힐 필요는 없지.",
+    "context": "EN :\nYou wish to hear my thoughts on that man in K Corp. He is no longer a companion or anyone worth mentioning; he is no more than a worm with wretched ideas, humiliating technology with... nay, there is no need to sully my tongue.\nJP :\nK社の彼の人のことか。いまや朋にも何にもあらず、ただ汚し思想に技術を凌辱す…いや、あえて口まで汚す要こそなけれ。"
+  },
+  {
+    "key": "smalltalk_10104_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10104_2-dlg",
+    "original": "…가끔 그렇게 생각하지 않소? 대단히 빼어난 것을 보고나서, 차라리 이것을 더 나누고 싶다고.\n처음 그것을 보았던 순간을, 누가 되었던 다시 겪게 하고 싶은 것이지.",
+    "context": "EN :\n...Does it sometimes occur to you when you see a remarkable thing that you want to share the wonderment with others?\nThat you would like anyone to experience the same moment when you first saw it.\nJP :\n…稀にこう思わずや？いと秀でしものを見しより、いっそこれをより分かち合わねばと。\n初めてそれを見し瞬間を、誰であれ再び経験させたきものなり。"
+  },
+  {
+    "key": "smalltalk_10104_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10104_3-dlg",
+    "original": "닭들이 싸우는 것을 본 적이 있소. 덩치가 작은 놈이 항상 머리를 쪼이기 일쑤 였지.\n여직 우리도 그러했으나… 어디, 언제까지 그럴지. 곧 알게 되지 않겠는가.",
+    "context": "EN :\nI have seen chickens fight. The smaller one was always being pecked on its head.\nWe have been similar until now... but will that last? It will come to light soon enough.\nJP :\n鶏どもの戦いを見し試しあり。小柄なるが、日ごろ頭をつつかるるが常なりき。\nいままでの私たちも、さにあれど…いづこ、いつまでさにあるか。やがて分からむ。"
+  },
+  {
+    "key": "smalltalk_10104_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10104_4-dlg",
+    "original": "알싸한 향이 나지 않는가. 땅에 고꾸라질 정도로 정신이 아찔해지는… 짙고도 향긋한 향이지.",
+    "context": "EN :\nIt makes a pungent smell, does it not? It strikes your senses so intensely, you might almost fall to the ground... Such a deep and fragrant scent, it is.\nJP :\nえ辛き香りやせぬ。地面に倒るるほど目くらむ…濃厚に香ばしき香りぞかし。"
+  },
+  {
+    "key": "smalltalk_10104_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10104_5-dlg",
+    "original": "어찌, 사람 얼굴을 그리 뚫어지게 쳐다보오. 그래… 잠시 넋이라도 나갔었나보오?",
+    "context": "EN :\nPray, for what reason do you stare so intently into my face? I see... Were you enraptured for a moment?\nJP :\nいかで、人の顔を穴の空くほど眺むなりや。げに…暫時、魂抜けきめりかし？"
+  },
+  {
+    "key": "neglect_10104_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10104_1-dlg",
+    "original": "그래, 그대도 하던 일 마저 보시게.\n피차, 서로의 목표가 더 중요한 법이지 않겠나.",
+    "context": "EN :\nRIght, then. Go back to tending to your business if you insist.\nAfter all, nothing matters more to us than our goals.\nJP :\nそよ、そなたもやれることを収めたまえ。\nいづかたにせよ、互いの目標がより大事ならざらむや。"
+  },
+  {
+    "key": "gacksung_10104_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10104_1-dlg",
+    "original": "자… 보시게. 흐드러지게 피어나지 않았는가.\n이 꽃 모두를 붉게 물들이면… 비로소, '나'또한 피어날테요.",
+    "context": "EN :\nNow... Behold. These flowers are in full glory.\nOnce all these flowers have been stained red... that shall be when 'I' bloom as well.\nJP :\nさぁ…ご覧ぜよ。咲き乱れたらずや。\nこの花全てを赤く染み…初めて、「私」も咲きださん。"
+  },
+  {
+    "key": "formation_10104_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10104_1-dlg",
+    "original": "재촉치 마시오. 어련히 가겠지.",
+    "context": "EN :\nPress me not. I'll be on my way when I need to.\nJP :\nな催促しそ。定かに行かん。"
+  },
+  {
+    "key": "battleentry_10104_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10104_1-dlg",
+    "original": "…순수했던 나날로.",
+    "context": "EN :\n...To the innocent times.\nJP :\n…純粋なりし日々へ。"
+  },
+  {
+    "key": "battle_select_10104_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10104_1-dlg",
+    "original": "불렀는가?",
+    "context": "EN :\nDid you call me?\nJP :\nお呼びか？"
+  },
+  {
+    "key": "battle_endcommand_10104_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10104_1-dlg",
+    "original": "피워보지.",
+    "context": "EN :\nLet's make it bloom.\nJP :\n咲かせん。"
+  },
+  {
+    "key": "battle_enemy_break_10104_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10104_1-dlg",
+    "original": "흐드러졌구료.",
+    "context": "EN :\nSo did they bloom.\nJP :\n乱れきかし。"
+  },
+  {
+    "key": "battle_break_10104_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10104_1-dlg",
+    "original": "아아… 이런.",
+    "context": "EN :\nAhh... Dear.\nJP :\nあな…よもあらじ。"
+  },
+  {
+    "key": "battle_kill_10104_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10104_1-dlg",
+    "original": "다시 못살게 구는 일은 없을 것이오.",
+    "context": "EN :\nThey will not be tormenting anyone any longer.\nJP :\n二度といびることはあらざらむ。"
+  },
+  {
+    "key": "battle_dead_10104_1-desc",
+    "original": "본인 사망 시",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10104_1-dlg",
+    "original": "때가… 되면… 시들 수 밖에 없는 운명…",
+    "context": "EN :\nWhen... the time comes... I would have to wilt...\nJP :\n時が来ば…枯るべき運命…。"
+  },
+  {
+    "key": "choice_success_p_10104_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10104_2-dlg",
+    "original": "고맙소, 이런 순간을 보여주어.",
+    "context": "EN :\nThank you for showing me such a moment.\nJP :\nかたじけなし、かかる瞬間を見し給いて。"
+  },
+  {
+    "key": "choice_fail_n_10104_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10104_1-dlg",
+    "original": "…흙을 덮어두는게 어떻겠소.",
+    "context": "EN :\n...Let's cover this moment with dirt, shall we.\nJP :\n…土を覆り置くはいかがなり。"
+  },
+  {
+    "key": "battle_clear_10104_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10104_1-dlg",
+    "original": "봉오리가 폈구료. 결실을 맺은게로지.",
+    "context": "EN :\nThe bud has risen. Effort has borne fruit.\nJP :\n蕾が咲きき。実を結びけん。"
+  },
+  {
+    "key": "battle_clear_ex_10104_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10104_1-dlg",
+    "original": "개화하였구료… 이 순간을 어딘가에 담고 싶군.",
+    "context": "EN :\nSo it has bloomed... I would like to capture this moment somewhere.\nJP :\n開花せり…。この瞬間を何かに込めたし。"
+  },
+  {
+    "key": "battle_defeat_10104_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10104_1-dlg",
+    "original": "여직 운이 좋았던 것 뿐이지… 그저, 지금껏 우리가 판 땅이 비옥했던 것 뿐…",
+    "context": "EN :\nWe were simply in fortune's favor until now... It was only the land we tilled that was fertile...\nJP :\n今まで運の良かりしばかりなり…。ただ、今まで私たちの掘れる土地が、肥沃なりしばかり…。"
+  }
+]

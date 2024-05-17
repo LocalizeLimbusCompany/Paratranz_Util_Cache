@@ -1,0 +1,528 @@
+[
+  {
+    "key": "0-place",
+    "original": "P사 뒷골목, 천막 앞",
+    "context": "EN :\nBackstreets of P Corp., Outside the Tent\nJP :\nP社裏路地、テント前"
+  },
+  {
+    "key": "0-model",
+    "original": "혈귀사냥꾼",
+    "translation": "血魔猎人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "0-teller",
+    "original": "혈귀 사냥꾼",
+    "context": "EN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "0-title",
+    "original": "송곳니 사냥 사무소",
+    "context": "EN :\nFanghunt Office\nJP :\n牙狩事務所"
+  },
+  {
+    "key": "0-content",
+    "original": "도대체 그런 변신 기술은… 듣도 보도 못한 기술을 쓰는군.",
+    "context": "EN :\nYour... transformations... I must say, I haven't seen anything like it before.\nJP :\n一体そんな変身技術は…見たことも\n聞いたこともない技術を使うんだな。"
+  },
+  {
+    "key": "1-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "1-content",
+    "original": "야, 이 정도면 혈귀들이고 뭐고 죽사발 만들 조건은 되냐?",
+    "context": "EN :\nThat enough demonstration for you, you twit?\nJP :\nおい、こんくれぇなら、血鬼でもなんでもを\nぶちのめせる条件は満たせてんじゃねぇの？"
+  },
+  {
+    "key": "2-model",
+    "original": "혈귀사냥꾼",
+    "translation": "血魔猎人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "2-teller",
+    "original": "혈귀 사냥꾼",
+    "context": "EN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "2-title",
+    "original": "송곳니 사냥 사무소",
+    "context": "EN :\nFanghunt Office\nJP :\n牙狩事務所"
+  },
+  {
+    "key": "2-content",
+    "original": "그래, 이 정도면… 인정할 수밖에 없지.",
+    "context": "EN :\n... Fine. I'll admit, you've got some skill.\nJP :\nああ、この程度なら…認めるしかないな。"
+  },
+  {
+    "key": "3-model",
+    "original": "로메로",
+    "translation": "罗梅罗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRomero\nJP :\nロメロ"
+  },
+  {
+    "key": "3-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "3-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "3-content",
+    "original": "오... 생각보다 괜찮은 놈들이 왔는데? 제 몫을 할 줄 아는 해결사는 언제나 환영이지.",
+    "context": "EN :\nOoh, they're not half bad! We always welcome cooperation with fellow Fixers who can carry their own weight.\nJP :\nおぉ…思っててたより良い奴らが来たな？\n自分の役目を果たせるフィクサーなら、いつだって大歓迎さ。"
+  },
+  {
+    "key": "4-model",
+    "original": "로메로",
+    "translation": "罗梅罗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRomero\nJP :\nロメロ"
+  },
+  {
+    "key": "4-content",
+    "original": "이제 보니 너희 전에 워프 승강장 앞에서 떠들던 걔들이구나? 되게 바빠 보이던. 아, 나는 로메로야.",
+    "context": "EN :\nHey, I recognize you. I saw you guys busily chatting away back at the WARP train platform. My name's Romero, by the way.\nJP :\n今気づいたけど、君たちってこの前にワープのプラットフォームの前で\n騒いでたあの子らだよね？すごく忙しそうだった。ああ、僕はロメロ。"
+  },
+  {
+    "key": "5-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "5-content",
+    "original": "일행이 싸우는데, 뒤에서 구경하고 있었던 건가?",
+    "context": "EN :\nYou just sat there and watched as your men were out here fighting?\nJP :\n一行が戦っていたのを、それを後ろで見物していたということか？"
+  },
+  {
+    "key": "6-model",
+    "original": "로메로",
+    "translation": "罗梅罗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRomero\nJP :\nロメロ"
+  },
+  {
+    "key": "6-content",
+    "original": "처음부터 구경했던 건 아니고, 중간부터 봤어. 어차피 얘네들은 말려도 내 말을 잘 안 듣거든. 그리고 아까 보니까, 쉽게 당할 실력도 아니길래…",
+    "context": "EN :\nYeah, but the fight was already underway when I got here. And I doubt I would've been able to talk them out of it. Besides, I had a feeling that you guys could hold your own against my men.\nJP :\n最初から見てたわけじゃなくて、途中から見てたんだ。どうせこいつら、\n止めても僕の言うことなんてあんまり聞かないからさ。それに、\nさっき見た感じだと、簡単にやられるような腕前でもなさそうだったし…。"
+  },
+  {
+    "key": "7-model",
+    "original": "로메로",
+    "translation": "罗梅罗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRomero\nJP :\nロメロ"
+  },
+  {
+    "key": "7-content",
+    "original": "이해해 줘. 나쁜 친구들은 아니야. 혈귀들을 사냥할 때 온갖 일을 겪다 보니 조금 예민한 거지.",
+    "context": "EN :\nSo please allow me to ask for your understanding. They're not bad people; they're just on edge. Anyone would be after what they've gone through in their struggles against the Bloodfiends.\nJP :\n分かってくれ。悪い子らじゃないんだ。血鬼を狩るときにありとあらゆることを\n経験してきたから、ちょっと神経質になってるだけなんだよ。"
+  },
+  {
+    "key": "8-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "8-content",
+    "original": "이해하오. 그런 존재를 사냥하다 보면, 많은 것에 의구심을 품을 수밖에 없을 테니.",
+    "context": "EN :\nYou have my understanding. Hunting entities such as those who lie beyond the ken must plant seeds of doubt in many a heart of men.\nJP :\n理解せり。さる存在を狩れると、\n多くのことに疑いを抱かざるを得ぬであろう。"
+  },
+  {
+    "key": "9-model",
+    "original": "로메로",
+    "translation": "罗梅罗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRomero\nJP :\nロメロ"
+  },
+  {
+    "key": "9-content",
+    "original": "사실 나도 얘들 의견에 부분적으로는 동의해. 토벌 상대에 비해서 P사와 하나 협회에서 내건 토벌 참가 조건은 지나칠 정도로 분별력이 떨어져.",
+    "context": "EN :\nRight. And I do agree with them, at least partially. The bar set by P Corp. and the Hana Association for Fixers participating in this contract is... shockingly low and indiscriminate.\nJP :\n実は僕も、こいつらの意見に一部同意してるんだ。討伐対象の割に\nP社やハナ協会が設定した討伐参加条件は、判断力に\n著しく欠けていると言っても過言じゃないよ。"
+  },
+  {
+    "key": "10-model",
+    "original": "로메로",
+    "translation": "罗梅罗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRomero\nJP :\nロメロ"
+  },
+  {
+    "key": "10-content",
+    "original": "나였다면 그런 식으로 조건을 낮춰서 모집하진 않았을 거야.",
+    "context": "EN :\nIf it were up to me, I would've set a more strict set of conditions.\nJP :\n僕だったらそんな風に条件を下げて募集したりはしなかったかな。"
+  },
+  {
+    "key": "11-content",
+    "original": "말을 잇는 그자의 얼굴에서 웃음기가 살짝 사라졌다.",
+    "context": "EN :\nHis friendly smile faltered slightly as he gestured around the empty lot.\nJP :\n言葉を続けるその者の顔から、笑みがわずかに消えた。"
+  },
+  {
+    "key": "12-model",
+    "original": "로메로",
+    "translation": "罗梅罗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRomero\nJP :\nロメロ"
+  },
+  {
+    "key": "12-content",
+    "original": "저쪽 천막 주위를 둘러봐. 뭘 알고서 온 놈들이 있긴 하는지. 이런 건 전문가에게 맡기는 게 제일 안전했을 텐데 말이야.",
+    "context": "EN :\nLook around, over there by the command tent. Just one look at who we're working with, and I'm sure it'll become plenty clear that they don't know what they're walking into. They should've hired only the professionals to take on this contract.\nJP :\nあっちのテント周りを見てみてよ。ちゃんと分かって来た奴らは本当にいるんだか。\nこういうのは、専門家に任せるのが一番安全だったはずなんだけどな。"
+  },
+  {
+    "key": "13-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "13-content",
+    "original": "<천막 주위… 라면.>",
+    "context": "EN :\n<Around the command tent...?>\nJP :\n<テントの周り…っていうと。>"
+  },
+  {
+    "key": "14-content",
+    "original": "아까부터 신경 쓰였던 소란스러운 공간으로, 나와 수감자들의 시선이 쏟아졌다.",
+    "context": "EN :\nWe all simultaneously turned to look at the large, noisy tent.\nJP :\n先ほどから気になっていた騒がしい空間に、\n私と囚人たちの視線が一斉に向けられた。"
+  },
+  {
+    "key": "15-model",
+    "original": "까미유카메라",
+    "translation": "卡米尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCamille\nJP :\nカミーユ"
+  },
+  {
+    "key": "15-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "15-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "15-content",
+    "original": "여러분들, 봤어? 저기 입구 쪽에서 싸움 난 거? 정말 난장판이지? 세상에~ 내가 이런 놈들이랑 같은 의뢰를 하면서 부대끼고 있어야 된다는 거야…",
+    "context": "EN :\nWow. Chat, is this for real? There was a huge brawl by the entrance! It's real amateur hour out here, guys. Can you believe that I gotta stand shoulder-to-shoulder with these idiots for the contract...?\nJP :\n皆さん、見ました？あの入口のところで起きた喧嘩？\n本当にめちゃくちゃだったよね？ まったく～、俺がこんな連中と同じ依頼を\n遂行しながら間でもまれないといけないだなんてねぇ…。"
+  },
+  {
+    "key": "16-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "16-content",
+    "original": "저자는 또… 뭐지?",
+    "context": "EN :\nWhat... the hell is he doing?\nJP :\nあの者はいったい…何だ？"
+  },
+  {
+    "key": "17-content",
+    "original": "카메라로 추정되는 조그만 기계를 들고 누구인지 모를 청자를 향해 호소를 하고 있는 자가 보였다.",
+    "context": "EN :\nIn the distance, we saw some guy running his mouth and striking several exaggerated, dramatic poses at a tiny device—most likely a camera of sorts.\nJP :\nカメラらしき小さな機械を手に持ち、誰か分からない相手に向かって\n訴えかけている人物が見えた。"
+  },
+  {
+    "key": "18-content",
+    "original": "…나는, 우리는 비슷한 경험을 어디선가 한 적이 있다.",
+    "context": "EN :\n... I... no, we have all had experience with someone like him in the past.\nJP :\n…私は、私たちは似たような経験をどこかでしたことがある。"
+  },
+  {
+    "key": "19-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "19-content",
+    "original": "<닮았네…>",
+    "context": "EN :\n<That guy reminds me of a certain someone...>\nJP :\n<似てるね…。>"
+  },
+  {
+    "key": "20-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "20-content",
+    "original": "…지크프리트처럼 사진을 찍어대네요.",
+    "context": "EN :\n... He's taking pics like that guy, Siegfried.\nJP :\n…ジークフリートみたいに写真を撮りまくってますね。"
+  },
+  {
+    "key": "21-content",
+    "original": "그는 이 풍경을 전부 보여주고 싶었던 건지, 카메라를 들고 공터를 돌아다니다가…",
+    "context": "EN :\nHe ran around for a while, visiting every corner of the empty lot, trying to get every detail in the frame...\nJP :\n彼はこの風景を全部見せたかったのか、\nカメラを持って空き地を歩き回ると…。"
+  },
+  {
+    "key": "22-content",
+    "original": "뭔가 마음에 들지 않았던 모양인지 우리를 향해 다가왔다.",
+    "context": "EN :\n... and suddenly started striding toward us in an annoyed gait.\nJP :\n何か気に入らなかったようで、私たちに近づいてきた。"
+  },
+  {
+    "key": "23-model",
+    "original": "까미유",
+    "translation": "卡米尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCamille\nJP :\nカミーユ"
+  },
+  {
+    "key": "23-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "23-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "23-content",
+    "original": "이봐, 너희!",
+    "context": "EN :\nHello, yes, you guys over there!\nJP :\nおい、お前たち！"
+  },
+  {
+    "key": "24-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "24-content",
+    "original": "보, 본인을 불렀는가?!",
+    "context": "EN :\nH-hast thou called upon us?!\nJP :\nと、当人のことを呼んだのでありまするか！？"
+  },
+  {
+    "key": "25-model",
+    "original": "까미유",
+    "translation": "卡米尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCamille\nJP :\nカミーユ"
+  },
+  {
+    "key": "25-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "25-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "25-content",
+    "original": "좀 다른 데로 가줄래? 시청자들한테 방해가 되잖아.",
+    "context": "EN :\nDo you mind loitering around somewhere else? Shoo, you're getting in the way of my viewers, guys.\nJP :\nちょっと他のところに行ってくれるか？\n視聴者の邪魔になるだろ。"
+  },
+  {
+    "key": "26-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "26-content",
+    "original": "저희의 통행에도 방해가 되는데요… 그쪽이.",
+    "context": "EN :\nBut... you're literally in our way. Guy.\nJP :\n私たちの通行にも邪魔になるんですけどね…そっちが。"
+  },
+  {
+    "key": "27-content",
+    "original": "그자는 못 들은 척을 한 건지 귀 기울일 가치조차 없다고 판단한 건지 카메라를 보며 말을 이어 나갔다.",
+    "context": "EN :\nHe whipped his attention back to the camera as though he was pretending not to hear what Ishmael said, or as if he decided that her words weren't worth entertaining.\nJP :\n彼は聞こえないフリをしたのか、それとも耳を傾ける価値さえないと\n判断したのか、カメラを見ながら話を続けた。"
+  },
+  {
+    "key": "28-model",
+    "original": "까미유카메라",
+    "translation": "卡米尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCamille\nJP :\nカミーユ"
+  },
+  {
+    "key": "28-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "28-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "28-content",
+    "original": "아, 지금 내가 어디 왔냐고? 너무 놀라지 마. 바로 바로, P사가 있는! 16구 뒷골목이지.",
+    "context": "EN :\nOh, you wanna know where I am? Hold onto your seats, guys. I'm at the Backstreets of District 16. Yep, where P Corp. is!\nJP :\nあ、今俺がどこに来たかって？驚かないでね。\nまさに、P社のある！ 16区の裏通りさ。"
+  },
+  {
+    "key": "29-model",
+    "original": "까미유카메라",
+    "translation": "卡米尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCamille\nJP :\nカミーユ"
+  },
+  {
+    "key": "29-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "29-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "29-content",
+    "original": "맞아. 지난번에 P사 150년산 아이스크림 반영구 통조림 후기 방송 다들 기억하지? 그런데 아쉽게도 오늘은 아이스크림을 먹으러 온 게 아니야.",
+    "context": "EN :\nOh yeah. Remember the P Corp. 150 Vintage Semi-permanent Canned Ice Cream unboxing & review livestream? Yep, the very same. Unfortunately, I'm not here to eat ice cream today.\nJP :\nそうそう。この前のP社150年熟成アイスクリーム半永久缶詰の\nレビュー放送、みんな覚えてるよね？\nでも残念ながら、今日はアイスクリームを食べに来たわけじゃないんだ。"
+  },
+  {
+    "key": "30-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "30-content",
+    "original": "저 양반은 아까부터 계속 뭐 하고 있는 거야? 누구한테 말을 하고 있는 건데?",
+    "context": "EN :\nSo I've been meaning to ask... who's that fella even talking to? The heck's he doing?\nJP :\nあのやっこさんはさっきからずっと何やってるんだ？\n誰に向かって話してるんだろう？"
+  },
+  {
+    "key": "31-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "31-content",
+    "original": "아마도 방송을 보고 있는 자기 시청자들한테 말하고 있는 것 같아요…",
+    "context": "EN :\nI think he's talking to his 'viewers' who are watching his show...\nJP :\n多分、配信を見ている自分の視聴者たちに向かって\n話してるんだと思います…。"
+  },
+  {
+    "key": "32-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "32-content",
+    "original": "모종의 방송 호스트라는 느낌이 드는군. 최근 일부 도시에서는 카메라를 통해 간단한 방송을 송출하는 문화가 유행이라는 것 같다.",
+    "context": "EN :\nIt appears that he is the host of a certain show. It has been reported that, in certain parts of the City, a new culture of \"livestreaming\" via those cameras has been on the rise.\nJP :\nある種の放送ホストのような感じがするな。最近、一部の都市では\nカメラを通じて簡単な配信を行う文化が流行しているようだ。"
+  },
+  {
+    "key": "33-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "33-content",
+    "original": "무례한 작자네. 꼬맹이, 너무 신경 쓰지 마~",
+    "context": "EN :\nWhat a rude piece of work. Don't let him get ya down, kiddo~\nJP :\n無礼なやつねぇ。おちびちゃん、あまり気にしないで～。"
+  },
+  {
+    "key": "34-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "34-content",
+    "original": "오늘은… 정말…",
+    "context": "EN :\nWhat... what a...\nJP :\n本日は…本当に…。"
+  },
+  {
+    "key": "35-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "35-content",
+    "original": "으… 으응?",
+    "context": "EN :\nH-huh...?\nJP :\nえ…えぇ？"
+  },
+  {
+    "key": "36-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "36-content",
+    "original": "흑, 흐흑… 경사스러운 날이 아닐 수 없군…",
+    "context": "EN :\nSob... what a glorious day it is...\nJP :\nうっ、ぐずっ…喜ばしい日と言わざるを得ぬな…。"
+  },
+  {
+    "key": "37-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "37-content",
+    "original": "저자는 3대 해결사 잡지 중 하나인 ‘월간 해결사들’ 10월호에서 ‘주목해야 하는 신인 해결사 10위’ 중 한 명으로 뽑힌, 서부 섕크 협회의 까미유 나리란 말일세!",
+    "context": "EN :\nBehold! This man is Sir Camille of Cinq Association West, his name honored as one of the 'Top Ten Up-and-coming New Generation Fixers' featured in the October issue of 'Fixers Monthly', one of the big three Fixer Magazines of the City!\nJP :\nあの者は、3大フィクサー雑誌の一つ「月刊フィクサーズ」10月号で\n「注目すべき新人フィクサートップ10」の一人に選ばれた、\n西部センク協会のカミーユ殿である！"
+  },
+  {
+    "key": "38-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "38-content",
+    "original": "누누이 말하는 거지만, 그런 걸 아는 사람은… 하. 됐어요.",
+    "context": "EN :\nI know we say this every single time, but most people don't know what— Haah, nevermind.\nJP :\n何度も言ってますけど、そんなこと知ってる人は…はぁ。\nもういいです。"
+  },
+  {
+    "key": "39-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "39-content",
+    "original": "지난번에 버스에서 보여주기까지 했는데! 아무도 듣지 않았다는 것인가!?",
+    "context": "EN :\nHow?! Have ye not hearken'd when I shared this news of grave significance aboard the bus?! Hath none of you heeded mine words!?\nJP :\n確かに前回バスで見せたのだ！\n誰も聞いていなかったというのでありまするか！？"
+  },
+  {
+    "key": "40-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "40-content",
+    "original": "미쳤냐, 그걸 듣게? 당연히 안 듣고 잤지.",
+    "context": "EN :\nAre you mad? Why would I listen to you when I can nap instead?\nJP :\n正気か？アレを聞くって？当然寝てたさ。"
+  },
+  {
+    "key": "41-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "41-content",
+    "original": "굽잇길을 운행 중에 그런 길고 긴말은… 멀미를 유발하오, 돈키호테 양.",
+    "context": "EN :\nSuch haranguing over a winding path... is oft a cause for sickness on the road, Miss Don Quixote.\nJP :\n曲がりくねりし道を運行中、さる長き長き物語は…\n乗り物酔いを誘発せり、ドンキホーテ嬢。"
+  },
+  {
+    "key": "42-content",
+    "original": "돈키호테는 궁시렁대는 수감자들의 말은 이미 귀에 들어오지도 않는지, 감동에 겨운 표정으로 거친 호흡을 뿜어대고 있을 뿐이었다.",
+    "context": "EN :\nThe grumbling Sinners clearly existed outside Don Quixote's world; she was breathing very heavily, a look of admiration clear on her face.\nJP :\nドンキホーテは、ぶつぶつ文句を言う囚人たちの声など全く耳に入らないようで、\n感激に満ちた表情で荒い息を吐き続けているだけだった。"
+  },
+  {
+    "key": "43-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "43-content",
+    "original": "으흐흑… 그런 까미유 나리와 손수 인사까지 나누게 될 줄이야…",
+    "context": "EN :\nHeeugh... I for one did not imagine even in mine wildest dreams that I should be shaking hands with Sir Camille in person...\nJP :\nうふぅう…そんなカミーユ殿と直接挨拶を交わすことになるとは…。"
+  },
+  {
+    "key": "44-content",
+    "original": "…물론 까미유라는 자와 정식으로 인사를 나눈 사람은 아무도 없었지만.",
+    "context": "EN :\n... Of course, no one 'shook hands' or exchanged the simplest pleasantries with Camille just yet.\nJP :\n…もちろん、カミーユという者と\n正式に挨拶を交わした者は誰一人いなかったけども。"
+  }
+]

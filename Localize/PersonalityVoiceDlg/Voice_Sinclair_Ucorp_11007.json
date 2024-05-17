@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_11007_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_11007_1-dlg",
+    "original": "음… 보트 맡기러 온 고객 분이신가요? 잘 부탁드릴게요.",
+    "context": "EN :\nMm... Are you here to get your boat fixed up? We'll take good care of it.\nJP :\nうーん…ボートを任せにきたお客さんですか？よろしくお願いします。"
+  },
+  {
+    "key": "lobby_morning_11007_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_11007_1-dlg",
+    "original": "아직 가게 문은 열지 않았는데요… 아, 대신 의자라도 갖다 드릴테니 앉아서 쉬고 계세요.",
+    "context": "EN :\nThe shop isn't open yet... Oh, I'll get you a chair so you can sit and rest while you wait.\nJP :\nまだ店開けてないんですけど…。あぁ、代わりに椅子を持ってきますから座って休んでてください。"
+  },
+  {
+    "key": "lobby_noon_11007_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_11007_1-dlg",
+    "original": "우으… 이젠 점심으로 다른 것 좀 먹고 싶어요… 저 비린내 나는 크랲게로 찜, 탕, 구이, 수프… 온갖 종류로 요리를 해봤지만, 어떻게 해도 맛이 없었어요!",
+    "context": "EN :\nMmgh... I wanna eat something else for once... We've made all kinds of dishes out of those trash crabs—steamed, stewed, roasted, souped, you name it... but none of them ever taste any good!\nJP :\nうぅ…そろそろお昼に別のものを食べたいです…。あの生臭いクラップ蟹で蒸し、姿煮、焼き、スープ…いろんな調理方法を試してみたんですけど、煮ても焼いても不味いです！"
+  },
+  {
+    "key": "lobby_night_11007_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_11007_1-dlg",
+    "original": "아! 용접 불꽃 때문에 눈이 좀 부시셨나요? 죄송해요… 가게 문 닫고 나서도 틈틈이 작업해놔야 해서요.",
+    "context": "EN :\nAh! Did the flash from the welding rod hurt your eyes? Sorry about that... There's work to be done even after the shop's closed.\nJP :\nあっ！溶接の火花のせいで眩しかったですか？すみません…閉店しても合間合間に作業しないといけなくて。"
+  },
+  {
+    "key": "smalltalk_11007_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_11007_1-dlg",
+    "original": "처음 여기서 깨어났을 때는 정말 뭐가 뭔지 몰라서… 그저 정처없이 돌아다니다가 굶어 죽을 뻔했었죠.",
+    "context": "EN :\nWhen I first got up and found myself here, I had no idea what to make of anything... I almost starved to death wandering around.\nJP :\n最初ここで目覚めたときは本当に何が何だか分からなくて…ただ行く当てもなく彷徨って飢え死にするところでした。"
+  },
+  {
+    "key": "smalltalk_11007_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_11007_2-dlg",
+    "original": "기계를 다루는 건 그렇게 익숙하지 않지만… 전에 살던 곳으로 돌아가기 위해서라도 열심히 연습해야죠.\n어쩌면, 이 경험이 돌아갔을 때 도움을 주게 될지도 모르고요.",
+    "context": "EN :\nI'm not all too used to handling machinery...but I've got to practice hard if I want to get back to where I used to live. And who knows, this experience might be pretty handy in the future.\nJP :\n機械の扱いには余り慣れてないですけど…前住んでた場所に帰るためにも頑張って練習しないとですね。\nもしかすると、帰ったときにこの経験が役に立つかもしれませんし。"
+  },
+  {
+    "key": "smalltalk_11007_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_11007_3-dlg",
+    "original": "지금은 일상적으로 쓰고 있긴 하지만, U사의 이 특이점은 처음 볼 때부터 신기했다고 해야할까요… 이걸 통해서 붙여두면, 마치 이 부품이 처음부터 한 몸이었던 것처럼 붙게 되니까요.",
+    "context": "EN :\nI'm used to it now, but U Corp's Singularity was always so fascinating to me... Attaching parts with this thing melds them together, as though they were made this way from the start.\nJP :\n今は日常的に使ってはいますが、U社のこの特異点は最初見たときから不思議だったと言うべきでしょうか…。これを通じてくっ付けておけば、まるでこの部品が最初から一体だったかのようにくっ付くんですよね。"
+  },
+  {
+    "key": "smalltalk_11007_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_11007_4-dlg",
+    "original": "이 무기도, 여기서 배운 용접이나 기계 지식을 통해서 직접 덧대어 개조, 수리한 거예요. 살짝 조잡해 보이긴 하지만… 그래도 꽤 괜찮죠?",
+    "context": "EN :\nThis weapon too, was made from mechanical knowledge and welding skills I learned here. It doesn't look very sophisticated, but... Not bad, right?\nJP :\nこの武器も、ここで学んだ溶接や機械の知識を通じて直接付け加えて改造、修理したものです。ちょっと粗雑には見えますけど…それでも結構悪くないですよね？"
+  },
+  {
+    "key": "smalltalk_11007_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_11007_5-dlg",
+    "original": "근처에 계셨던 다른 보트 센터 분들이 도와주신 덕에 여기까지 오게 된 거죠.\n…이젠 안 계시는 분들이지만요.",
+    "context": "EN :\nWe could come this far thanks to all the help from people in other boat shops here.\n...They're no longer around, though.\nJP :\n近くにいらっしゃった他のボートセンターの方々が手伝ってくれたおかげでここまで来れたんです。\n…もういらっしゃらない方々ですけど。"
+  },
+  {
+    "key": "neglect_11007_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_11007_1-dlg",
+    "original": "음… 이 틈에 정비 책이라도 읽어 둬야겠어요.",
+    "context": "EN :\nHmm... I should read more books on maintenance in the meantime.\nJP :\nうーん…この隙に整備の本でも読んでおかないとですね。"
+  },
+  {
+    "key": "gacksung_11007_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_11007_1-dlg",
+    "original": "개조를 했더니 출력은 나아졌는데… 여전히 게 딱지나 잡고 있다니, 괜히 했나 싶네요.",
+    "context": "EN :\nThe upgrade certainly improved the output... but it kinda feels redundant if all I'm doing with it is catching more crabs.\nJP :\n改造したら出力は良くなりましたけど…未だに蟹甲羅ばっかり捕まえてますし、無駄だったかなって気分になりますね。"
+  },
+  {
+    "key": "formation_11007_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_11007_1-dlg",
+    "original": "장비 시동 걸었습니다.",
+    "context": "EN :\nThe gears are in motion.\nJP :\n装備のエンジン掛けました。"
+  },
+  {
+    "key": "battleentry_11007_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_11007_1-dlg",
+    "original": "어어어? 출력이 왜 이러지…?",
+    "context": "EN :\nHäää? What's wrong with the power output...?\nJP :\nあれれ？なんで出力がこんな…？"
+  },
+  {
+    "key": "battle_select_11007_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_11007_1-dlg",
+    "original": "수리 문의신가요?",
+    "context": "EN :\nNeed something repaired?\nJP :\n修理のお問い合わせですか？"
+  },
+  {
+    "key": "battle_endcommand_11007_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_11007_1-dlg",
+    "original": "출력 안정화… 됐다!",
+    "context": "EN :\nStabilizing output... There!\nJP :\n出力安定化…した！"
+  },
+  {
+    "key": "battle_enemy_break_11007_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_11007_1-dlg",
+    "original": "성능 좋고…!",
+    "context": "EN :\nGood going...!\nJP :\n性能よし…！"
+  },
+  {
+    "key": "battle_break_11007_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_11007_1-dlg",
+    "original": "윽…",
+    "context": "EN :\nNgh…\nJP :\nうっ…。"
+  },
+  {
+    "key": "battle_kill_11007_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_11007_1-dlg",
+    "original": "후, 해치웠네요.",
+    "context": "EN :\nPhew, took care of that one.\nJP :\nふぅ、片付きましたね。"
+  },
+  {
+    "key": "battle_dead_11007_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_11007_1-dlg",
+    "original": "아… 다들… 기다리실… 텐데.",
+    "context": "EN :\nNo... They're... waiting... for me.\nJP :\nあぁ…みんな…待っていらっしゃる…のに。"
+  },
+  {
+    "key": "choice_success_p_11007_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_11007_2-dlg",
+    "original": "정답이었군요!",
+    "context": "EN :\nThat was the right answer!\nJP :\n正解でしたね！"
+  },
+  {
+    "key": "choice_fail_n_11007_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_11007_1-dlg",
+    "original": "아… 이게 아닌데.",
+    "context": "EN :\nThis... wasn't quite it.\nJP :\nあ…これじゃないのに。"
+  },
+  {
+    "key": "battle_clear_11007_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_11007_1-dlg",
+    "original": "이제 돌아가서 밀린 작업이나 마저 해야겠어요.",
+    "context": "EN :\nI should go back and deal with the remaining work.\nJP :\nそろそろ戻って、押してる作業を終わらせないとですね。"
+  },
+  {
+    "key": "battle_clear_ex_11007_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_11007_1-dlg",
+    "original": "깔끔했죠? 제가 봐도 뿌듯할 정도네요. 어, 근데 무기가… 왜, 왜 이러지?",
+    "context": "EN :\nThat was clean, wasn't it? I'm pretty proud of it if I do say so myself. Huh, my weapon's going... Wha, what's wrong with it?\nJP :\n綺麗に終わりましたね？我ながら誇らしいくらいにです。あれ、でも武器が…なっ、なんでこんな…？"
+  },
+  {
+    "key": "battle_defeat_11007_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_11007_1-dlg",
+    "original": "아니… 이렇게 될 줄은… 뭔가 부족했던 걸까요…",
+    "context": "EN :\nNoo... I didn't think it'd go this way... What was I missing...\nJP :\nいや…こうなるとは…何かが足りなかったんですかね…。"
+  }
+]

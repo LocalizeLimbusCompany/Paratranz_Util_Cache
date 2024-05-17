@@ -1,0 +1,506 @@
+[
+  {
+    "key": "0-place",
+    "original": "심상 거울 던전",
+    "context": "EN :\nMirror Dungeon of the Fathoms\nJP :\n心象鏡ダンジョン"
+  },
+  {
+    "key": "0-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "0-content",
+    "original": "<저 뒤에 있는 게…>",
+    "context": "EN :\n<So that thing behind him is...>\nJP :\n<あの後ろにあるの…。>"
+  },
+  {
+    "key": "1-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-content",
+    "original": "모노리스입니다. 김삿갓에게 힘을 부여한 시점에서 이미 심상 안에 숨어들었던 것이군요.",
+    "context": "EN :\nIndeed, that is the Monolith. The artifact must have entered his fathoms of ego the moment it imbued Bamboo-hatted Kim with strength.\nJP :\nモノリスです。キムサッガッに力を付与した時点で\n既に心象の中に隠れていたのですね。"
+  },
+  {
+    "key": "2-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "2-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "2-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "2-content",
+    "original": "이 저택은… 분명 S사를 떠나기 전 마지막으로 맡으셨던 호위 임무의 대상이 살던 집인데.",
+    "context": "EN :\nThis manor must be... where the mentor's last protectee resided before we departed S Corp.\nJP :\nこの邸宅は…確かS社を去る前、\n最後に引き受けた護衛任務の対象が住んでいた家のはずだ。"
+  },
+  {
+    "key": "3-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "3-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "3-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "3-content",
+    "original": "아아… 이 참상…",
+    "context": "EN :\nAh... such massacre...\nJP :\nあぁ…この惨状は…。"
+  },
+  {
+    "key": "4-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "4-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "4-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "4-content",
+    "original": "여태껏… 이 참상의 기억이 우두의 발목을 부여잡고 있던 것입니까…",
+    "context": "EN :\nMentor, was this carnage the memory that has haunted your dreams and your waking hours for so long...?\nJP :\n今まで…この惨状の記憶がお頭の足を引っ張っていたということでしょうか…。"
+  },
+  {
+    "key": "5-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "5-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "5-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "5-content",
+    "original": "하지만… 그렇다 한들… 친우들의 억울한 죽음은…",
+    "context": "EN :\nYet... the deaths of our dear fellows...\nJP :\nしかし…だからとはいえ…親友たちの悔やみきれぬ死は…。"
+  },
+  {
+    "key": "6-content",
+    "original": "앵두의 눈가에 물기가 맺혀가기 시작한다.",
+    "context": "EN :\nTear begins to well in Aeng-du's eyes.\nJP :\nエンドゥの目尻が湿り始めた。"
+  },
+  {
+    "key": "7-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "7-content",
+    "original": "<…앗.>",
+    "context": "EN :\n<...Ah.>\nJP :\n<…あっ。>"
+  },
+  {
+    "key": "8-content",
+    "original": "머릿속에서 또 무언가 웅얼거리는 소리가 들린다.",
+    "context": "EN :\nAgain, something murmurs in my head.\nJP :\n頭の中からまた、何かぶつぶつ言う声が聞こえてくる。"
+  },
+  {
+    "key": "9-content",
+    "original": "이건… 김삿갓의 과거일까.",
+    "context": "EN :\nIs this... Bamboo-hatted Kim's past?\nJP :\nこれは…キムサッガッの過去だろうか。"
+  },
+  {
+    "key": "10-content",
+    "original": "무겁고 음울한 소리가 머릿속에 직접 울리는 것만 같다.",
+    "context": "EN :\nA somber voice, drenched with woe, echoes in my head.\nJP :\n重くて陰鬱な音が、頭の中へと直接鳴り響いているような気がする。"
+  },
+  {
+    "key": "11-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "김삿갓",
+    "context": "EN :\nBamboo-hatted Kim\nJP :\nキムサッガッ"
+  },
+  {
+    "key": "11-title",
+    "original": "검계 우두머리",
+    "context": "EN :\nBlade Lineage Mentor\nJP :\n剣契 頭目"
+  },
+  {
+    "key": "11-content",
+    "original": "명예라는 것을 가졌던 때가 잠시 있었다.",
+    "context": "EN :\n... For a fleeting moment, I once had this thing people call 'honor'.\nJP :\n名誉というものを持っていた時期が、時にあった。"
+  },
+  {
+    "key": "12-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "김삿갓",
+    "context": "EN :\nBamboo-hatted Kim\nJP :\nキムサッガッ"
+  },
+  {
+    "key": "12-title",
+    "original": "검계 우두머리",
+    "context": "EN :\nBlade Lineage Mentor\nJP :\n剣契 頭目"
+  },
+  {
+    "key": "12-content",
+    "original": "청렴한 관리의 앞에는 누구나 악한 마음을 갖고 다가가는 자가 있었고.",
+    "context": "EN :\nVile men, whose hearts are consumed by evil, oft approach virtuous officials to seek harm.\nJP :\n清廉な官吏の前へは、悪い心を持って近づく者がおり。"
+  },
+  {
+    "key": "13-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "김삿갓",
+    "context": "EN :\nBamboo-hatted Kim\nJP :\nキムサッガッ"
+  },
+  {
+    "key": "13-title",
+    "original": "검계 우두머리",
+    "context": "EN :\nBlade Lineage Mentor\nJP :\n剣契 頭目"
+  },
+  {
+    "key": "13-content",
+    "original": "그 마수를 나의 검으로 뿌리친다는 호위무사라는 일감이, 나에게는 제법 명예로운 일이었으니.",
+    "context": "EN :\nAnd I considered it an honorable deed to be a protector of the virtuous, to hew those that sought harm against them.\nJP :\nその魔の手を私の剣で振り解くという護衛武士という仕事が、\n俺にとってはそれなり名誉なことだったのだから。"
+  },
+  {
+    "key": "14-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "김삿갓",
+    "context": "EN :\nBamboo-hatted Kim\nJP :\nキムサッガッ"
+  },
+  {
+    "key": "14-title",
+    "original": "검계 우두머리",
+    "context": "EN :\nBlade Lineage Mentor\nJP :\n剣契 頭目"
+  },
+  {
+    "key": "14-content",
+    "original": "…하지만 그저 청렴하기만 했던 인물은 언제나 세간의 먹잇감이 될 뿐이고.",
+    "context": "EN :\nYet, to be virtuous in a world of the vicious was to be prey to this merciless world.\nJP :\n…しかし、ただ清廉でしかない人物はいつも世間の餌食になるだけであり。"
+  },
+  {
+    "key": "15-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "15-teller",
+    "original": "김삿갓",
+    "context": "EN :\nBamboo-hatted Kim\nJP :\nキムサッガッ"
+  },
+  {
+    "key": "15-title",
+    "original": "검계 우두머리",
+    "context": "EN :\nBlade Lineage Mentor\nJP :\n剣契 頭目"
+  },
+  {
+    "key": "15-content",
+    "original": "이미 타락할 대로 타락한 탐관오리들의 마수를 막아내기에, 나는 역부족일 뿐이었다.",
+    "context": "EN :\nAnd before such overwhelming might of the vicious, the irrevocably corrupt officials... my strength was inconsequential.\nJP :\n既に堕落に堕落を重ねた貪官汚吏たちの魔の手を防ぐには、俺は力不足でしかなかった。"
+  },
+  {
+    "key": "16-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "김삿갓",
+    "context": "EN :\nBamboo-hatted Kim\nJP :\nキムサッガッ"
+  },
+  {
+    "key": "16-title",
+    "original": "검계 우두머리",
+    "context": "EN :\nBlade Lineage Mentor\nJP :\n剣契 頭目"
+  },
+  {
+    "key": "16-content",
+    "original": "결국 부러진 마음을 끌어안고, 동료들과 함께 S사를 떠날 수 밖에.",
+    "context": "EN :\nI had little choice but to leave S Corp. cradling my broken spirit alongside my fellows.\nJP :\n結局は折れた心を抱き、仲間たちと共にS社から離れるしかない。"
+  },
+  {
+    "key": "17-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "김삿갓",
+    "context": "EN :\nBamboo-hatted Kim\nJP :\nキムサッガッ"
+  },
+  {
+    "key": "17-title",
+    "original": "검계 우두머리",
+    "context": "EN :\nBlade Lineage Mentor\nJP :\n剣契 頭目"
+  },
+  {
+    "key": "17-content",
+    "original": "임무를 완수하지 못한 나의 명예는, 그곳에 함께 두고 왔다.",
+    "context": "EN :\nI have left my scarred honor behind at the land of my failure.\nJP :\n任務を完遂できなかった俺の名誉は、そこへと置いてきた。"
+  },
+  {
+    "key": "18-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "김삿갓",
+    "context": "EN :\nBamboo-hatted Kim\nJP :\nキムサッガッ"
+  },
+  {
+    "key": "18-title",
+    "original": "검계 우두머리",
+    "context": "EN :\nBlade Lineage Mentor\nJP :\n剣契 頭目"
+  },
+  {
+    "key": "18-content",
+    "original": "있을 곳을 잃고 이곳저곳을 돌아다니며 지치는 나의 동료들과 나.",
+    "context": "EN :\nWe became vagabonds. Lost, wandering, and weary; aimless drifters without a place to call their home.\nJP :\n居場所を失い、あちこち歩き回りながら疲れていく\n私の仲間達と私。"
+  },
+  {
+    "key": "19-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "19-teller",
+    "original": "김삿갓",
+    "context": "EN :\nBamboo-hatted Kim\nJP :\nキムサッガッ"
+  },
+  {
+    "key": "19-title",
+    "original": "검계 우두머리",
+    "context": "EN :\nBlade Lineage Mentor\nJP :\n剣契 頭目"
+  },
+  {
+    "key": "19-content",
+    "original": "나를 믿고 떠나온 이들의 신뢰도 조금씩 떨어지고, 나 역시도 스스로에 대한 신뢰를 잃어만 갔다.",
+    "context": "EN :\nEven their faith in my decision to leave began to crumble piece by piece. So did my faith in myself.\nJP :\n俺を信じて去った彼らからの信頼も少しずつ落ち、\n俺も自らに対する信頼を失っていった。"
+  },
+  {
+    "key": "20-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "20-teller",
+    "original": "김삿갓",
+    "context": "EN :\nBamboo-hatted Kim\nJP :\nキムサッガッ"
+  },
+  {
+    "key": "20-title",
+    "original": "검계 우두머리",
+    "context": "EN :\nBlade Lineage Mentor\nJP :\n剣契 頭目"
+  },
+  {
+    "key": "20-content",
+    "original": "나는… 닳아만 갔다.",
+    "context": "EN :\nI began to... fall apart.\nJP :\n俺は…磨り減ってばかりいった。"
+  },
+  {
+    "key": "21-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "김삿갓",
+    "context": "EN :\nBamboo-hatted Kim\nJP :\nキムサッガッ"
+  },
+  {
+    "key": "21-title",
+    "original": "검계 우두머리",
+    "context": "EN :\nBlade Lineage Mentor\nJP :\n剣契 頭目"
+  },
+  {
+    "key": "21-content",
+    "original": "이미 임무를 완수하지 못한 내가, 정말 이들을 이끌 수는 있는 걸까.",
+    "context": "EN :\nI have already failed once. What's there to say that I am not failing my dear fellows once again...?\nJP :\n任務を完遂できなかった俺が、本当に彼らを導くことができるのか。"
+  },
+  {
+    "key": "22-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "22-teller",
+    "original": "김삿갓",
+    "context": "EN :\nBamboo-hatted Kim\nJP :\nキムサッガッ"
+  },
+  {
+    "key": "22-title",
+    "original": "검계 우두머리",
+    "context": "EN :\nBlade Lineage Mentor\nJP :\n剣契 頭目"
+  },
+  {
+    "key": "22-content",
+    "original": "적어도 안정된 삶을 살 수 있게 도우지 않으면…",
+    "context": "EN :\nThe least I could do is to help them lead a stable life...\nJP :\n少なくとも安定した人生を送れるように助けなければ…。"
+  },
+  {
+    "key": "23-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "23-teller",
+    "original": "김삿갓",
+    "context": "EN :\nBamboo-hatted Kim\nJP :\nキムサッガッ"
+  },
+  {
+    "key": "23-title",
+    "original": "검계 우두머리",
+    "context": "EN :\nBlade Lineage Mentor\nJP :\n剣契 頭目"
+  },
+  {
+    "key": "23-content",
+    "original": "하지만, 그런 마음으로 얻은 ‘초대장’은, 도리어 모두를 죽음에 이르게 만들게 되었고.",
+    "context": "EN :\nYet that 'invitation' I received... only led them to their demise.\nJP :\nしかし、そんな気持ちで得た「招待状」は却って\n全員を死に至らせることになり。"
+  },
+  {
+    "key": "24-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "24-teller",
+    "original": "김삿갓",
+    "context": "EN :\nBamboo-hatted Kim\nJP :\nキムサッガッ"
+  },
+  {
+    "key": "24-title",
+    "original": "검계 우두머리",
+    "context": "EN :\nBlade Lineage Mentor\nJP :\n剣契 頭目"
+  },
+  {
+    "key": "24-content",
+    "original": "나는 결국, 임무도 명예도 친우도 모두 잃고…",
+    "context": "EN :\nIn the end... I failed my mission. I failed my honor. I failed my dear fellows.\nJP :\n俺は結局、任務も名誉も親友も全て失い…。"
+  },
+  {
+    "key": "25-model",
+    "original": "최종김삿갓",
+    "translation": "最终金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "25-teller",
+    "original": "김삿갓?",
+    "context": "EN :\nBamboo-hatted Kim?\nJP :\nキムサッガッ?"
+  },
+  {
+    "key": "25-title",
+    "original": "검계?",
+    "context": "EN :\nBlade Lineage?\nJP :\n剣契?"
+  },
+  {
+    "key": "25-content",
+    "original": "또 다시 그때와 같은 모습을 재현하고…",
+    "context": "EN :\nAgain, I am returned to the land of my failure...\nJP :\nまたあのときと同じ姿になり…。"
+  },
+  {
+    "key": "26-content",
+    "original": "그 이후에도 무언가 말을 하는 것만 같았지만… 낮은 울음 같은 소리로 웅얼거리는 것으로 밖에 들리지 않았다.",
+    "context": "EN :\nThe voice continued to murmur. But... it had devolved into nothing but a low growl, a quiet and incoherent rumbling.\nJP :\nその後も何か言っているような気がしたが…。\n低いうなり声のように、もごもごという音しか聞こえなかった。"
+  },
+  {
+    "key": "27-content",
+    "original": "숨이 살짝 막혀올 정도로 먹먹한 과거의 나열에, 애처로운 생각이 들기는 하지만…",
+    "context": "EN :\nI can't help but feel a bit of sympathy at his suffocatingly painful past...\nJP :\n息が少し詰まりそうなくらいに苦しい過去の羅列に、\n不憫だという気持ちが湧きはしたが…。"
+  },
+  {
+    "key": "28-content",
+    "original": "그렇기 때문에라도 빨리 맞서서 저 뒤틀림에서 벗어나게 해주어야 할 것만 같다.",
+    "context": "EN :\n... but that's exactly why we have to face him. Free him from this Distortion.\nJP :\nだからこそ早く立ち向かい、あのねじれから抜け出させてあげるべきだ。"
+  },
+  {
+    "key": "29-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "29-content",
+    "original": "<얘들아, 여기서 결판을 짓자.>",
+    "context": "EN :\n<Guys. We're putting an end to this. Right here, right now.>\nJP :\n<みんな、ここで決着をつけよう。>"
+  },
+  {
+    "key": "30-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "30-content",
+    "original": "네, 이 이후는 없겠다는 느낌이 강하게 드는군요.",
+    "context": "EN :\nYes. It appears that we have no choice.\nJP :\nはい、後はないだろうという雰囲気を強く感じますね。"
+  },
+  {
+    "key": "31-content",
+    "original": "감정적으로 변한 앵두는 원활하게 전투를 치를 수 없을 것이다.",
+    "context": "EN :\nAeng-du's grown far too agitated to function properly in this battle.\nJP :\n感情的になってしまったエンドゥは、\n円滑に戦闘を行うことはできないだろう。"
+  },
+  {
+    "key": "32-content",
+    "original": "우리가… 해내야 해.",
+    "context": "EN :\nIt's... all up to us now.\nJP :\n私たちが…やり遂げないと。"
+  }
+]

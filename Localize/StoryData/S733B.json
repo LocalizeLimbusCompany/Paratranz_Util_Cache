@@ -1,0 +1,353 @@
+[
+  {
+    "key": "0-place",
+    "original": "카니발 퍼레이드",
+    "context": "EN :\nCarnival Parade\nJP :\nカーニバルパレード"
+  },
+  {
+    "key": "0-content",
+    "original": "혈귀와의 전투가 잠시 소강상태에 접어든 뒤…",
+    "context": "EN :\nWe finally found a moment of respite from Bloodfiends...\nJP :\n血鬼との戦闘が一時的に小康状態に入ってから…。"
+  },
+  {
+    "key": "1-content",
+    "original": "나는 돈키호테가 있는 방향을 잠시 바라보다, 곧바로 파우스트에게 다가갔다.",
+    "context": "EN :\nI looked toward Don Quixote for a moment before turning to Faust.\nJP :\n私はドンキホーテがいる方向を一瞥し、\nすぐにファウストに近づいた。"
+  },
+  {
+    "key": "2-content",
+    "original": "더 앞으로 나아가기 전에, 답을 들어야 할 이야기가 있다.",
+    "context": "EN :\nI had to know the answer to this question before moving forward.\nJP :\nこれ以上進む前に、答えを聞かなければならない話がある。"
+  },
+  {
+    "key": "3-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "3-content",
+    "original": "<…파우스트는 알고 있는 거지?>",
+    "context": "EN :\n<... Faust knows why, doesn't she?>\nJP :\n<…ファウストは知ってるんだよね？>"
+  },
+  {
+    "key": "4-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "4-content",
+    "original": "<그때 돈키호테가 왜 변했는지…>",
+    "context": "EN :\n<Why... what caused Don Quixote to transform, back then...>\nJP :\n<あのとき、ドンキホーテがどうして変貌したのか…。>"
+  },
+  {
+    "key": "5-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "5-content",
+    "original": "네…",
+    "context": "EN :\nYes...\nJP :\nはい…。"
+  },
+  {
+    "key": "6-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "6-content",
+    "original": "여기까지 온 이상, 말씀드리지 않을 이유도 없겠네요.",
+    "context": "EN :\nI suppose there is no reason for this information to remain classified from you any longer, now that we are here.\nJP :\nここまで来た以上、お話ししない理由もありませんね。"
+  },
+  {
+    "key": "7-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "7-content",
+    "original": "…혈귀에게 피를 거스르는 패륜은 금기. 그때, 카세티는 돈키호테 씨를 권속으로 만들려고 했습니다. 하위 권속이 상위 권속을 권속으로 삼으려 했죠.",
+    "context": "EN :\n... For Bloodfiends, going against the bloodstream is akin to a taboo. Back on the WARP train, Cassetti attempted to turn Don Quixote into his Kindred. In other words... a lower Bloodfiend attempted to turn a higher Bloodfiend.\nJP :\n…血鬼にとって血に逆らう不孝行は禁忌。そのとき、カセッティはドンキホーテさんを\n眷属にしようとしました。下位の眷属が上位の眷属を眷属にしようとしたのです。"
+  },
+  {
+    "key": "8-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "8-content",
+    "original": "<모제스라는 사람은 그런 건 대체로 불가능하다고 했었는데…>",
+    "context": "EN :\n<Didn't Moses say that there's a... psychological barrier that makes it practically impossible for them to do that?\nJP :\n<モーゼスって人は、そんなことは大抵不可能だと言ってたけど…。>"
+  },
+  {
+    "key": "9-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "9-content",
+    "original": "로시난테 때문입니다. 로시난테를 신고 있는 동안, 돈키호테 씨는 피를 향한 욕망을 제외한 혈귀로서의 특성과 힘을 모두 잃으니까요.",
+    "context": "EN :\nYet, there was a variable then, by the name of Rocinante. As long as Rocinante remains on her feet, Don Quixote loses all characteristics and powers of a Bloodfiend save for her desire for blood.\nJP :\nロシナンテのせいです。ロシナンテを履いている間、ドンキホーテさんは\n血への欲望を除いた血鬼としての特性と力を全て失いますので。"
+  },
+  {
+    "key": "10-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10-content",
+    "original": "그러다가, 카세티가 금기를 어긴 것에 반응한 로시난테가 돈키호테 씨의 발에서 스스로 벗겨졌고…",
+    "context": "EN :\nThen, when Rocinante sensed that Cassetti had broken the Bloodfiend taboo, they slipped off on their own from Don Quixote...\nJP :\nところが、カセッティが禁忌を犯したことに反応したロシナンテが、\nドンキホーテさんの足から自ら脱げて…。"
+  },
+  {
+    "key": "11-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-content",
+    "original": "혈귀로서의 본성을 되찾은 돈키호테 씨는… 패륜을 저지르려한 카세티에게 큰 거부감과 분노를 느꼈을 테죠.",
+    "context": "EN :\n... and Don Quixote, her nature as Bloodfiend returned, must have felt a strong level of instinctual revulsion and fury against Cassetti who attempted to break the taboo.\nJP :\n血鬼としての本性を取り戻したドンキホーテさんは…\n不孝行を犯そうとしたカセッティに強い嫌悪感と怒りを感じたのでしょう。"
+  },
+  {
+    "key": "12-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "12-content",
+    "original": "유독 강렬한 공격성을 보였던 것도 그 때문이었을 겁니다.",
+    "context": "EN :\nThat would explain her high level of aggression at the time.\nJP :\n特に強烈な攻撃性を見せたのもそのためだったのでしょう。"
+  },
+  {
+    "key": "13-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "13-content",
+    "original": "<그럼…>",
+    "context": "EN :\n<Then...>\nJP :\n<じゃあ…。>"
+  },
+  {
+    "key": "14-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "14-content",
+    "original": "미치겠네, 줄이 뭐 이렇게 길어!",
+    "context": "EN :\nCome on, where's the end of this line?!\nJP :\nイカれちまいそうだ、なんでこんな列が長ぇんだよ！"
+  },
+  {
+    "key": "15-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "15-content",
+    "original": "불만을 중얼거릴 시간은 없다! 관리자님이 편안히 선두로 갈 수 있게 빨리 길을 닦아두도록.",
+    "context": "EN :\nThere is no time to gripe! Clear the path ahead so that our Executive Manager won't have to suffer these monsters.\nJP :\n不満を呟いている時間はない！管理人様が楽に先頭へと行けるように\n素早く道を切り開いておくように。"
+  },
+  {
+    "key": "16-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "16-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "17-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "17-content",
+    "original": "더 질문하지 않으시나요.",
+    "context": "EN :\nWill you not inquire further?\nJP :\nこれ以上は質問しないのですか。"
+  },
+  {
+    "key": "18-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "18-content",
+    "original": "<응…>",
+    "context": "EN :\n<No...>\nJP :\n<うん…。>"
+  },
+  {
+    "key": "19-content",
+    "original": "궁금한 건 산더미처럼 많다.",
+    "context": "EN :\nOf course, I had a whole mountain of questions to ask her.\nJP :\n気になることは山ほどある。"
+  },
+  {
+    "key": "20-content",
+    "original": "하지만 파우스트에게 답을 들어서 해결될 물음들은 아니다.",
+    "context": "EN :\nBut the answers to those questions did not lie with Faust.\nJP :\nでもファウストに答えを聞いて解決できる疑問ではない。"
+  },
+  {
+    "key": "21-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "21-content",
+    "original": "<지금 중요한 건, 계속 앞으로 나아가는 거니까…>",
+    "context": "EN :\n<Because what matters now is that we keep forging onward.>\nJP :\n<今大事なのは、前に進み続けることだから…。>"
+  },
+  {
+    "key": "22-model",
+    "original": "돌시부하2",
+    "translation": "杜尔西内娅手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "22-teller",
+    "original": "양산을 든 혈귀",
+    "context": "EN :\nBloodfiend holding a Parasol\nJP :\n日傘を持った血鬼"
+  },
+  {
+    "key": "22-content",
+    "original": "♬미쳐가요♬ ♬타는 갈증♬",
+    "context": "EN :\n♬I'm going insane♬ ♬From this burning thirst♬\nJP :\n♬狂っていきます♬ ♬燃える渇き♬"
+  },
+  {
+    "key": "23-model",
+    "original": "돌시부하2",
+    "translation": "杜尔西内娅手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "23-teller",
+    "original": "양산을 든 혈귀",
+    "context": "EN :\nBloodfiend holding a Parasol\nJP :\n日傘を持った血鬼"
+  },
+  {
+    "key": "23-content",
+    "original": "♬거리에는♬",
+    "context": "EN :\n♬In the streets♬\nJP :\n♬道には♬"
+  },
+  {
+    "key": "24-model",
+    "original": "돌시부하2",
+    "translation": "杜尔西内娅手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "24-teller",
+    "original": "양산을 든 혈귀",
+    "context": "EN :\nBloodfiend holding a Parasol\nJP :\n日傘を持った血鬼"
+  },
+  {
+    "key": "24-content",
+    "original": "저렇게 먹을 것들이 널렸는데!!",
+    "context": "EN :\nSaunter SO MANY TASTY MORSELS FOR US!!\nJP :\nあんなに食べ物が一杯あるのに！！"
+  },
+  {
+    "key": "25-model",
+    "original": "돌시부하2",
+    "translation": "杜尔西内娅手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "25-teller",
+    "original": "양산을 든 혈귀",
+    "context": "EN :\nBloodfiend holding a Parasol\nJP :\n日傘を持った血鬼"
+  },
+  {
+    "key": "25-content",
+    "original": "♬찢어지고♬ (제 손톱이 계속 빠져요…!)",
+    "context": "EN :\n♬As it tears♬ (My nails are falling off…!)\nJP :\n♬引き裂かれて♬(私の爪が抜け続けてるんです…！)"
+  },
+  {
+    "key": "26-model",
+    "original": "돌시부하2",
+    "translation": "杜尔西内娅手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "양산을 든 혈귀",
+    "context": "EN :\nBloodfiend holding a Parasol\nJP :\n日傘を持った血鬼"
+  },
+  {
+    "key": "26-content",
+    "original": "♬갈라져도♬ (내 손이... 내 얼굴이!!!)",
+    "context": "EN :\n♬As it cracks♬ (My hands... my face...!!!)\nJP :\n♬ひび割れても♬(私の手が…私の顔が！！！)"
+  },
+  {
+    "key": "27-model",
+    "original": "돌시부하1",
+    "translation": "杜尔西内娅手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "양산을 쥔 혈귀",
+    "context": "EN :\nBloodfiend with a Parasol\nJP :\n日傘を握った血鬼"
+  },
+  {
+    "key": "27-content",
+    "original": "♬지어봐요♬ ♬미소를♬",
+    "context": "EN :\n♬Keep smilin'♬ ♬With those lips♬\nJP :\n♬浮かべましょうよ♬ ♬笑顔を♬"
+  },
+  {
+    "key": "28-model",
+    "original": "돌시부하1",
+    "translation": "杜尔西内娅手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "양산을 쥔 혈귀",
+    "context": "EN :\nBloodfiend with a Parasol\nJP :\n日傘を握った血鬼"
+  },
+  {
+    "key": "28-content",
+    "original": "입이… 입꼬리가 움직여지지 않아…",
+    "context": "EN :\nI can't... I can't move my lips anymore... Stuck in a smile...\nJP :\n口が…口角が動かない…。"
+  },
+  {
+    "key": "29-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "29-content",
+    "original": "노래가사가 왠지 모르게 점점…",
+    "context": "EN :\nThe lyrics are...\nJP :\n歌詞がなんとなく段々と…。"
+  },
+  {
+    "key": "30-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "30-content",
+    "original": "…그래. 비참해지는군.",
+    "context": "EN :\n... Yes. Getting increasingly depressing.\nJP :\n…そうだ。惨めになっているな。"
+  }
+]

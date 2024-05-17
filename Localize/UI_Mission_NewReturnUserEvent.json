@@ -1,0 +1,217 @@
+[
+  {
+    "key": "mission_ui_condition_tags_103001001-content",
+    "original": "1장 이후의 임의의 스토리 스테이지 누적 {0}회 클리어",
+    "context": "EN :\nPast Canto I, clear any {0} Story Stages\nJP :\n1章以降の任意のストーリーステージを累計で{0}回クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_103002001-content",
+    "original": "경험치 채광 누적 {0}회 클리어",
+    "context": "EN :\nClear EXP Luxcavation a total of {0} time(s)\nJP :\n経験値採光を類型で{0}回クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_103003001-content",
+    "original": "끈 채광 누적 {0}회 클리어",
+    "context": "EN :\nClear Thread Luxcavation a total of {0} time(s)\nJP :\n紐採光を類型で{0}回クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_103004001-content",
+    "original": "거울 던전 노드(전투 스테이지 노드) {0}개 클리어",
+    "context": "EN :\nClear {0} Mirror Dungeon (combat)Nodes\nJP :\n鏡ダンジョンノード(戦闘ステージノード)を{0}個クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_103004002-content",
+    "original": "거울 던전 노말 이상 난이도를 최소 {0}층까지 도달한 후 클리어",
+    "context": "EN :\nClear a Mirror Dungeon (Normal or higher difficulty) after reaching Floor {0}\nJP :\n鏡ダンジョン ノーマル以上の難易度を最低{0}階層まで到達してクリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_103004003-content",
+    "original": "거울 던전 노말 이상 난이도를 최소 {0}층까지 도달한 후 클리어",
+    "context": "EN :\nClear a Mirror Dungeon (Normal or higher difficulty) after reaching Floor {0}\nJP :\n鏡ダンジョン ノーマル以上の難易度を最低{0}階層まで到達してクリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_103004004-content",
+    "original": "거울 던전 노말 이상 난이도 {0}회 클리어\n(마지막 층 보스전까지 클리어 필요)",
+    "context": "EN :\nClear a Mirror Dungeon (Normal or harder) {0} time(s)\n(Must finish the final floor boss fight as well)\nJP :\n鏡ダンジョン ノーマル以上の難易度を{0}回クリア\n(最終階層のボス戦までクリアする必要あり)"
+  },
+  {
+    "key": "mission_ui_condition_tags_103005001-content",
+    "original": "임의의 인격 {0}명 {1}레벨 달성",
+    "context": "EN :\nLevel up {0} Identity(Identities) to Level {1}\nJP :\n任意の人格{0}名をレベル{1}にする"
+  },
+  {
+    "key": "mission_ui_condition_tags_103005002-content",
+    "original": "기본 인격이 아닌 임의의 인격 {0}명 동기화 {1}단계 달성",
+    "context": "EN :\nUptie {0} non-LCB Sinner Identity(Identities) to Uptie Tier {1}\nJP :\n基本人格ではない任意の人格{0}名を同期化段階{1}にする"
+  },
+  {
+    "key": "mission_ui_condition_tags_103005003-content",
+    "original": "임의의 인격 {0}명 동기화 {1}단계 달성",
+    "context": "EN :\nUptie any {0} Identity(Identities) to Uptie Tier {1}\nJP :\n任意の人格{0}名を同期化段階{1}にする"
+  },
+  {
+    "key": "mission_ui_condition_tags_103005004-content",
+    "original": "임의의 E.G.O {0}개 환상 해석 {1}단계 달성",
+    "context": "EN :\nThreadspin any {0} E.G.O to Threadspin Tier {1}\nJP :\n任意のE.G.O{0}個を幻想解析段階{1}にする"
+  },
+  {
+    "key": "mission_ui_condition_tags_103006001-content",
+    "original": "일일 미션 {0}개 클리어",
+    "context": "EN :\nClear {0} Daily Missions\nJP :\nデイリーミッションを{0}個クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_103006002-content",
+    "original": "주간 미션 {0}개 클리어",
+    "context": "EN :\nClear {0} Weekly Missions\nJP :\nウィークリーミッションを{0}個クリア"
+  },
+  {
+    "key": "mission_condition_ui_group_2-content",
+    "original": "스토리 스테이지",
+    "context": "EN :\nStory Stages\nJP :\nストーリーステージ"
+  },
+  {
+    "key": "mission_condition_ui_group_3-content",
+    "original": "경험치 채광",
+    "context": "EN :\nEXP Luxcavation\nJP :\n経験値採光"
+  },
+  {
+    "key": "mission_condition_ui_group_4-content",
+    "original": "끈 채광",
+    "context": "EN :\nThread Luxcavation\nJP :\n紐採光 "
+  },
+  {
+    "key": "mission_condition_ui_group_6-content",
+    "original": "거울 던전",
+    "context": "EN :\nMirror Dungeon\nJP :\n鏡ダンジョン"
+  },
+  {
+    "key": "mission_condition_ui_group_8-content",
+    "original": "육성",
+    "context": "EN :\nUpgrading\nJP :\n育成"
+  },
+  {
+    "key": "mission_condition_ui_group_11-content",
+    "original": "배틀 패스",
+    "context": "EN :\nBattle Pass\nJP :\nバトルパス"
+  },
+  {
+    "key": "return_user_remain_Luxcavation_bonus-content",
+    "original": "잔여 일일 복귀 보너스",
+    "context": "EN :\nRemaining Daily Bonuses for Returnees\nJP :\n残りデイリー復帰ボーナス"
+  },
+  {
+    "key": "move_to_luxcavation-content",
+    "original": "채광으로 이동",
+    "context": "EN :\nGo to Luxcavations\nJP :\n採光へ移動"
+  },
+  {
+    "key": "move_to_shop-content",
+    "original": "상점으로 이동",
+    "context": "EN :\nGo to Shop\nJP :\nショップへ移動"
+  },
+  {
+    "key": "information_about_luxcavation-content",
+    "original": "채광 보너스 안내",
+    "context": "EN :\nAbout Lux. Bonus\nJP :\n採光ボーナス案内"
+  },
+  {
+    "key": "information_about_returning_user_package-content",
+    "original": "복귀 한정 패키지 안내",
+    "context": "EN :\nAbout the Back to Office Pack\nJP :\n復帰限定パッケージ案内"
+  },
+  {
+    "key": "information_about_returning_user_package_desc-content",
+    "original": "이벤트 기간 동안 복귀 한정 패키지를\n상점에서 구매하실 수 있습니다.",
+    "context": "EN :\nDuring the Event period, the Back to Office Pack\nwill become available from the Shop.\nJP :\nイベント期間中、復帰限定パッケージを\nショップで購入できます。"
+  },
+  {
+    "key": "returning_user_exp_luxcavation_bonus_desc-content",
+    "original": "경험치 채광 일일 보너스 횟수 : {0} 회",
+    "context": "EN :\nExp Lux. Daily Bonus Count : {0}\nJP :\n経験値採光デイリーボーナス回数 : {0}回"
+  },
+  {
+    "key": "returning_user_thread_luxcavation_bonus_desc-content",
+    "original": "끈 채광 일일 보너스 횟수 : {0} 회",
+    "context": "EN :\nThread Lux. Daily Bonus Count : {0}\nJP :\n紐採光デイリーボーナス回数 : {0}回"
+  },
+  {
+    "key": "returning_user_luxcavation_bonus_desc-content",
+    "original": "이벤트 기간 동안 채광 클리어 시 기본 보상을 추가로 획득할 수 있습니다.",
+    "context": "EN :\nYou can obtain bonus Luxcavation rewards during the Event period.\nJP :\nイベント期間中、採光クリア時に基本報酬を追加で獲得できます。"
+  },
+  {
+    "key": "returning_user_mission-content",
+    "original": "복귀 미션",
+    "context": "EN :\nReturning Manager Missions\nJP :\n復帰ミッション"
+  },
+  {
+    "key": "attendance_check-content",
+    "original": "출석 체크",
+    "context": "EN :\nAttendance Check\nJP :\n出席チェック"
+  },
+  {
+    "key": "welcome_returning_user-content",
+    "original": "업무 복귀를 환영합니다. 관리자님!",
+    "context": "EN :\nWelcome back to the office, Manager!\nJP :\n業務復帰を歓迎いたします、管理人様！"
+  },
+  {
+    "key": "luxcavation_bonus_and_package-content",
+    "original": "채광 보너스&패키지",
+    "context": "EN :\nLuxcavation Bonus & Pack\nJP :\n採光ボーナス&パッケージ"
+  },
+  {
+    "key": "until_event_finish_date-content",
+    "original": "이벤트 종료까지 {0}일 남음",
+    "context": "EN :\n{0} Days until the end of Event\nJP :\nイベント終了まであと{0}日"
+  },
+  {
+    "key": "event_for_new_user_from_date-content",
+    "original": "대상 : <color=#990000>{0}월 {1}일</color> 12:00(KST) 이후 신규 생성된 계정",
+    "context": "EN :\nFor : new accounts created after <color=#990000>{0}/{1}</color>, 12:00(KST)\nJP :\n対象 : <color=#990000>{0}月{1}日</color> 12:00(KST)以降新規生成されたアカウント"
+  },
+  {
+    "key": "mission_progress_rate-content",
+    "original": "미션 진행도",
+    "context": "EN :\nMission Progress\nJP :\nミッション進行度"
+  },
+  {
+    "key": "welcome_returing_user_title-content",
+    "original": "복귀 지원\n물품 지급",
+    "context": "EN :\nWork Re-adjustment\nResources\nJP :\n復帰支援\n物資支給"
+  },
+  {
+    "key": "welcome_returing_user_desc-content",
+    "original": "관리자님의 복귀를 환영합니다.",
+    "context": "EN :\nWelcome back to the office, Manager.\nJP :\n管理人様の復帰を歓迎いたします。"
+  },
+  {
+    "key": "returning_user_attendance_check_title-content",
+    "original": "복귀 관리자님을 위한 출석 체크 이벤트",
+    "context": "EN :\nRoll Call for our returning Manager\nJP :\n復帰管理人様専用 出席チェックイベント"
+  },
+  {
+    "key": "returning_user_attendance_check_desc-content",
+    "original": "※ 이벤트 기간 동안 누적 출석 일수에 따라 보상을 획득할 수 있습니다.\n\n※ 일간 초기화를 기준으로 서버 통신이 진행되면 당일 출석한 것으로 인정됩니다.",
+    "context": "EN :\n※ Collect more attendance checks and unlock greater rewards.\n\n※ Log in after the daily reset period and receive your daily attendance checks.\nJP :\n※イベント期間中、累計出席日数によって報酬が獲得できます。\n\n※デイリー初期化を基準にサーバー通信が実施されると、当日出席の判定がなされます。"
+  },
+  {
+    "key": "complete_to_receive-content",
+    "original": "수령 완료",
+    "context": "EN :\nClaimed\nJP :\n受領完了"
+  },
+  {
+    "key": "already_owned-content",
+    "original": "보유 중",
+    "context": "EN :\nOwned\nJP :\n保有中"
+  },
+  {
+    "key": "move_shortcut-content",
+    "original": "바로가기",
+    "context": "EN :\nGo to\nJP :\n移動"
+  },
+  {
+    "key": "warning_about_change_season_item-content",
+    "original": "시즌 4 동기화, 환상해석 전용 파편 아이템은 새로운 시즌이 시작될 때 절반으로 감소한 뒤 이월되는 아이템입니다.\n그래도 수령하시겠습니까?",
+    "context": "EN :\nWhen a new Season starts, only half of your stock of 'Season 4 Uptie & Threadspinning only Shard' will be migrated to the upcoming Season.\nClaim them anyway?\nJP :\nシーズン4同期化・幻想解析専用破片アイテムは新シーズンが始まるとき、半減されて繰り越されるアイテムです。\nそれでも受領しますか？"
+  }
+]

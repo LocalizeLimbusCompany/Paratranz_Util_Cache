@@ -1,0 +1,412 @@
+[
+  {
+    "key": "0-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "0-content",
+    "original": "아주 긴 침묵이 세월을 덮었소.",
+    "context": "EN :\nAn overlong silence shrouded the passage of time.\nJP :\nいと長き沈黙が歳月を覆いき。"
+  },
+  {
+    "key": "1-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "1-content",
+    "original": "그동안 내 모든 시간은, 덤이었네.",
+    "context": "EN :\nAll my time during it was a mere adjunct.\nJP :\n今までの私の全ての時間は、おまけなりしかな。"
+  },
+  {
+    "key": "2-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "2-content",
+    "original": "사방이 하얗게 칠해진 사각형 안에서 유일한 방문자는 딱 둘이었소.",
+    "context": "EN :\nIn the square wholly painted white, only two visitors came to see me.\nJP :\n四方の白く塗られし四角形に、唯一の訪問者は二人ばかりなりけり。"
+  },
+  {
+    "key": "3-place",
+    "original": "N사 사각형의 방",
+    "context": "EN :\nN Corp. Cubic Room\nJP :\nN社 四角形の部屋"
+  },
+  {
+    "key": "3-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "3-content",
+    "original": "보태 말하자면… 사각형의 내부의 사각형에 방문하는 자와, 사각형의 내부의 사각형의 내부의 사각형 안에 방문한 자.",
+    "context": "EN :\nTo supplement... One visited in the square within the square, and the other visited in the square within the square within the square.\nJP :\n付け加えて言わば…四角形の内部の四角形に訪問する者と、\n四角形の内部の四角形の内部の四角形の中へ訪問せし者。"
+  },
+  {
+    "key": "4-model",
+    "original": "구보",
+    "translation": "仇甫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "4-teller",
+    "original": "구보",
+    "context": "EN :\nGubo\nJP :\nクボ"
+  },
+  {
+    "key": "4-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "4-content",
+    "original": "여기서 마음껏 연구해 보도록 해.",
+    "context": "EN :\nYou're free to do your research here.\nJP :\nここで心置きなく研究すればいい。"
+  },
+  {
+    "key": "5-model",
+    "original": "구보",
+    "translation": "仇甫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "5-teller",
+    "original": "구보",
+    "context": "EN :\nGubo\nJP :\nクボ"
+  },
+  {
+    "key": "5-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "5-content",
+    "original": "자네가 그토록 사랑했던 거울 기술을 말이야.",
+    "context": "EN :\nThe mirror you seemed to love so dearly.\nJP :\nそなたがあれほどに愛せし鏡技術をね。"
+  },
+  {
+    "key": "6-model",
+    "original": "구보",
+    "translation": "仇甫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "6-teller",
+    "original": "구보",
+    "context": "EN :\nGubo\nJP :\nクボ"
+  },
+  {
+    "key": "6-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "6-content",
+    "original": "매일 식사와 영양제 챙겨 먹는 거, 잊지 말고.",
+    "context": "EN :\nDon't forget to eat your meals and supplements every day.\nJP :\n毎日食事と栄養剤を摂取すること、忘れずに。"
+  },
+  {
+    "key": "7-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "7-content",
+    "original": "더 이상 거울을 보며 즐거워 할 이들은 없었고, 더 이상 놀이도 아니었지만…",
+    "context": "EN :\nThere was no one left to gaze at the mirror and enjoy its sight, and it ceased to be a tool of amusement...\nJP :\nこれ以上鏡を見つつ楽しむ人はあらざりき、これ以上遊びにもあらねど…。"
+  },
+  {
+    "key": "8-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "8-content",
+    "original": "그럼에도 내가 거울을 붙잡고 있었던 연유는…",
+    "context": "EN :\nYet I still held on to it, for a reason...\nJP :\nさりとて私が鏡を掴める理由は···。"
+  },
+  {
+    "key": "9-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "9-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "9-content",
+    "original": "요새는 구보와도 말을 안 하더군. 하루 종일 거울만 붙들고 있던데.",
+    "context": "EN :\nYou wouldn't talk to even Gubo these days. You've been grasping at the mirror all day long.\nJP :\n近頃はクボとも話をしないんだな。一日中鏡ばかりを掴んでいるようだが。"
+  },
+  {
+    "key": "10-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "10-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "10-content",
+    "original": "네 등만 말없이 쳐다보다 나갔어. 표정이 안 좋던데.",
+    "context": "EN :\nHe just stared at your back before leaving. The expression on his face wasn't so good.\nJP :\n黙って君の背中ばかりを見つめて出て行った。表情が良くなさそうだったが。"
+  },
+  {
+    "key": "11-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "11-content",
+    "original": "상관 없소. 나는 그대와 마주 보며 이야기하는 편이 더 나으니.",
+    "context": "EN :\nIt concerns me not. I would much rather face you and talk to you.\nJP :\n構うことなし。私はそなたと向かい合いて話すこそ、なお良ければ。"
+  },
+  {
+    "key": "12-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "12-content",
+    "original": "내가 등을 돌리면 자네도 같이 등을 돌려주지 않는가.",
+    "context": "EN :\nWhen I turn away, I would like you to do the same.\nJP :\n私が背を向けば、そなたも共に背を向けずや。"
+  },
+  {
+    "key": "13-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "13-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "13-content",
+    "original": "이상, 구보는 너를 진심으로 아끼고 있어. 알고 있지?",
+    "context": "EN :\nYi Sang, Gubo genuinely cares about you. You know that, right?\nJP :\nイサン、クボはお前のことを心から大事にしている。分かっているな？"
+  },
+  {
+    "key": "14-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "14-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "14-content",
+    "original": "구보가 막바지에나마 구인회에 합류한 것도, 네 영향이 제일 클걸.",
+    "context": "EN :\nI'm pretty sure you're the biggest reason he decided to join the League before it fell apart.\nJP :\nクボが最後の方ではあるけど九人会へ合流したのも、お前の影響が一番大きいと思うよ。"
+  },
+  {
+    "key": "15-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "15-content",
+    "original": "그렇지 않소. 구보가 제일 아끼는 자는… 자기 자신이오.",
+    "context": "EN :\nThat is untrue. The one Gubo cares for the most... would be himself.\nJP :\nさにあらず。クボが一番慈しむ者は…おのれなり。"
+  },
+  {
+    "key": "16-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "16-content",
+    "original": "자신을 드러내게 할 수 있는 것을 찾던 중, 마침 눈에 띈 것이 나인 것이지.",
+    "context": "EN :\nHe simply happened to chance upon me while looking for things to make him stand out.\nJP :\nおのれを表へ出すべき物を探したりし中、ちょうど目につきしが私なり。"
+  },
+  {
+    "key": "17-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "17-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "17-content",
+    "original": "그럼… 드러나게 해주면 되지. 그의 옆에만 있다면 너도 빛날 수 있잖아.",
+    "context": "EN :\nThen... let him do that. You can be under the limelight as long as you're standing next to him.\nJP :\nじゃあ…表に出してあげれば良いじゃないか。彼の横にさえいれば、お前も輝けるだろ。"
+  },
+  {
+    "key": "18-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "18-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "18-content",
+    "original": "지금은 N사의 이사가 너와 구보, 아세아를 데리고 새로운 구인회를 만들고 있던데.",
+    "context": "EN :\nRight now, N Corp's director has been trying to form a new League of Nine with you, Gubo, and Aseah.\nJP :\n今はN社の理事がお前とクボ、アセアを連れて新しい九人会を作っているとのことだが。"
+  },
+  {
+    "key": "19-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "19-content",
+    "original": "뿌리부터 달라진 그 집단을 나는 구인회라고 부를 수가 없소. 이름을 빌려 간 것뿐, 언젠간 돌려줘야 할 날이 올 것이오.",
+    "context": "EN :\nI cannot bring myself to call that organization the League when its roots are entirely different. It has simply borrowed the name that will have to be returned one day.\nJP :\n根から変わりしその集団を、私は九人会と呼ぶべからず。名を借りしばかりに、いつかは返すべき日が来ん。"
+  },
+  {
+    "key": "20-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "20-content",
+    "original": "…밖은 어떻소? 그대는 날개가 있으니 어디든 갈 수 있지 않소.",
+    "context": "EN :\n...How go the affairs in the world outside? With your wings, you can be anywhere you'd like.\nJP :\n…外はいかがなり？そなたは翼があれば、いづこへも行かるべし。"
+  },
+  {
+    "key": "21-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "21-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "21-content",
+    "original": "밖… 하. 매번 똑같아서 지겹지. 세상은 항상 동일한 흐름으로 흘러가니까.",
+    "context": "EN :\nThe outside... Haah. It's the same, tiring stuff. The world always flows along the same current.\nJP :\n外…はぁ。毎回同じで飽きたよ。世界はいつも同じ流れで流れていくから。"
+  },
+  {
+    "key": "22-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "22-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "22-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "22-content",
+    "original": "그렇지 않아? 그렇게 결속이 단단했던 구인회도 뿔뿔이 흩어지고…",
+    "context": "EN :\nIsn't that the truth? The League used to be bound with such strong solidarity, but now it has disbanded...\nJP :\nそうじゃないか？あれほど結束の固かった九人会もバラバラになって…。"
+  },
+  {
+    "key": "23-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "23-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "23-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "23-content",
+    "original": "모든 순간에 일일이 기뻐하고 절망하는 것도 아무 의미가 없어.",
+    "context": "EN :\nThere's no point in feeling joy or despair over every passing moment.\nJP :\n全ての瞬間に一々喜んで絶望するのも、何の意味もない。"
+  },
+  {
+    "key": "24-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "24-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "24-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "24-content",
+    "original": "그러니까 너만은 이 곳에 같이 머물러줘. 내 대화 상대도 되어 주면서.",
+    "context": "EN :\nSo I want you to stay here with me. Be someone I can talk with.\nJP :\nだからお前だけはこの場で共に留まってくれ。俺の会話相手もしながらな。"
+  }
+]

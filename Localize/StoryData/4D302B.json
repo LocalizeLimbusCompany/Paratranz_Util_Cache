@@ -1,0 +1,649 @@
+[
+  {
+    "key": "0-place",
+    "original": "N사 사각형의 방",
+    "context": "EN :\nN Corp. Cubic Room\nJP :\nN社 四角形の部屋"
+  },
+  {
+    "key": "0-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "0-content",
+    "original": "구보라는 친구분은 거울을 이용해서 무엇을 하려고 했던 건가요?",
+    "context": "EN :\nWhat did that fellow named Gubo want to do with the mirror, I wonder?\nJP :\nクボというご友人さんは鏡を利用して何をしようとしてたんですか？"
+  },
+  {
+    "key": "1-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "1-content",
+    "original": "N사에서 정확히 무엇을 하려고 하였는지… 나도 자세히는 모르오. 구태여 묻지 않았지.",
+    "context": "EN :\nWhat exactly N Corp. wished to do... I do not know in detail. I did not bother to ask.\nJP :\nN社に正確に何せんとせるやは…私も詳しくは分からず。あえて聞かざりき。"
+  },
+  {
+    "key": "2-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "2-content",
+    "original": "다만…",
+    "context": "EN :\nHowever...\nJP :\nただ…。"
+  },
+  {
+    "key": "3-model",
+    "original": "헤르만",
+    "translation": "赫尔曼",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\nヘルマン"
+  },
+  {
+    "key": "3-teller",
+    "original": "헤르만",
+    "context": "EN :\nHermann\nJP :\nヘルマン"
+  },
+  {
+    "key": "3-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "3-content",
+    "original": "이곳은 어때, 지낼만 하니? 밥은 잘 먹고?",
+    "context": "EN :\nHow do you like it here, is it comfortable enough? Are you keeping yourself fed?\nJP :\nここはどうだ、住み心地は？食事もちゃんと摂ってるか？"
+  },
+  {
+    "key": "4-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "4-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "5-model",
+    "original": "구보",
+    "translation": "仇甫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "5-teller",
+    "original": "구보",
+    "context": "EN :\nGubo\nJP :\nクボ"
+  },
+  {
+    "key": "5-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "5-content",
+    "original": "제가 말하지 않았습니까, 말이 도통 없는 자라고.",
+    "context": "EN :\nLike I said, ma'am, he is a reticent man.\nJP :\n言ったじゃないですか、口数がかなり少ない者だと。"
+  },
+  {
+    "key": "6-model",
+    "original": "헤르만",
+    "translation": "赫尔曼",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\nヘルマン"
+  },
+  {
+    "key": "6-teller",
+    "original": "헤르만",
+    "context": "EN :\nHermann\nJP :\nヘルマン"
+  },
+  {
+    "key": "6-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "6-content",
+    "original": "거울과 유리 속 세계를… 그 모든 가능성의 세계를 파괴하는 법에 대해서도 알고 있나?",
+    "context": "EN :\nDo you know of a way... to destroy all the worlds and the myriad possibilities they represent in the mirror and the glass window?\nJP :\n鏡と硝子の中の世界を…あらゆる可能性の世界を破壊する方法についても知っているか？"
+  },
+  {
+    "key": "7-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "7-content",
+    "original": "나는…",
+    "context": "EN :\nI...\nJP :\n私は…。"
+  },
+  {
+    "key": "8-model",
+    "original": "헤르만",
+    "translation": "赫尔曼",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\nヘルマン"
+  },
+  {
+    "key": "8-teller",
+    "original": "헤르만",
+    "context": "EN :\nHermann\nJP :\nヘルマン"
+  },
+  {
+    "key": "8-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "8-content",
+    "original": "모른다고 하겠지. 알아보라는 뜻이야.",
+    "context": "EN :\nOf course you'd say no. I am telling you what to study.\nJP :\n知らないと言うのだろう。調べろという意味だ。"
+  },
+  {
+    "key": "9-model",
+    "original": "헤르만",
+    "translation": "赫尔曼",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\nヘルマン"
+  },
+  {
+    "key": "9-teller",
+    "original": "헤르만",
+    "context": "EN :\nHermann\nJP :\nヘルマン"
+  },
+  {
+    "key": "9-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "9-content",
+    "original": "내키지 않는다고 해도 내게 남은 방법은 많아.",
+    "context": "EN :\nEven if you say you don't want to, I have plenty of other ways.\nJP :\n気が向かなかったとしても、私の取れる手段は多い。"
+  },
+  {
+    "key": "10-model",
+    "original": "헤르만",
+    "translation": "赫尔曼",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\nヘルマン"
+  },
+  {
+    "key": "10-teller",
+    "original": "헤르만",
+    "context": "EN :\nHermann\nJP :\nヘルマン"
+  },
+  {
+    "key": "10-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "10-content",
+    "original": "하지만 먼저 이렇게 공손하게 물어보는 편이, 네 친구에 대한 예의라고 생각했거든.",
+    "context": "EN :\nBut I thought I should have the courtesy to politely ask you first, for your friend's sake.\nJP :\nでもまずこんな風に丁寧に訊ねてみるのが、君の友達に対する礼儀と考えたんだ。"
+  },
+  {
+    "key": "11-model",
+    "original": "헤르만",
+    "translation": "赫尔曼",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\nヘルマン"
+  },
+  {
+    "key": "11-teller",
+    "original": "헤르만",
+    "context": "EN :\nHermann\nJP :\nヘルマン"
+  },
+  {
+    "key": "11-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "11-content",
+    "original": "아, 이건 우리 셋만의 조그만 비밀로 해두자.",
+    "context": "EN :\nAh, let's keep this as a little secret between the three of us, shall we?\nJP :\nあぁ、これは私たち三人だけの小さな秘密にしておこう。"
+  },
+  {
+    "key": "12-model",
+    "original": "헤르만",
+    "translation": "赫尔曼",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\nヘルマン"
+  },
+  {
+    "key": "12-teller",
+    "original": "헤르만",
+    "context": "EN :\nHermann\nJP :\nヘルマン"
+  },
+  {
+    "key": "12-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "12-content",
+    "original": "…둘은 구인회의 재가입을 아직도 유보하고 있니? 아세아는 어찌 되든 상관없어 보이던데. 둘은 좀 까다롭네.",
+    "context": "EN :\n...Are the two still reluctant to rejoin the League? Aseah didn't seem to care either way, but these two are being tricky.\nJP :\n…二人は九人会の再加入をまだ留保しているのか？アセアはどうなっても良さそうに見えたが。二人は少し気難しいんだな。"
+  },
+  {
+    "key": "13-model",
+    "original": "구보",
+    "translation": "仇甫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "구보",
+    "context": "EN :\nGubo\nJP :\nクボ"
+  },
+  {
+    "key": "13-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "13-content",
+    "original": "염려치 마십시오. 곧 마음을 정할 겁니다.",
+    "context": "EN :\nThere is no need for concern. They'll make up their minds soon.\nJP :\nご心配なさらず。すぐに決心するでしょう。"
+  },
+  {
+    "key": "14-model",
+    "original": "구보",
+    "translation": "仇甫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "구보",
+    "context": "EN :\nGubo\nJP :\nクボ"
+  },
+  {
+    "key": "14-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "14-content",
+    "original": "이곳에서 새롭게 창설될 구인회는 이전보다 훨씬 강력해질 거야. 다른 누구도 아닌 헤르만 님이 받쳐주고 계시니.",
+    "context": "EN :\nThe new League formed here will be more powerful than ever. It's backed by none other than Miss Hermann.\nJP :\nここで新たに創設される九人会は、以前よりかなり強力になるだろう。他の誰でもない、ヘルマン様が支えてくださるがゆえに。"
+  },
+  {
+    "key": "15-model",
+    "original": "구보",
+    "translation": "仇甫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "15-teller",
+    "original": "구보",
+    "context": "EN :\nGubo\nJP :\nクボ"
+  },
+  {
+    "key": "15-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "15-content",
+    "original": "왜, 동랑과 동백. 그자들 없이는 선뜻 가입을 못하겠나?",
+    "context": "EN :\nWhat is the problem? Are you hesitant to take the offer without Dongrang and Dongbaek to accompany you?\nJP :\nどうして、ドンランとドンベク。あの者たち無しには快く加入してくれないんだ？"
+  },
+  {
+    "key": "16-model",
+    "original": "구보",
+    "translation": "仇甫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "구보",
+    "context": "EN :\nGubo\nJP :\nクボ"
+  },
+  {
+    "key": "16-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "16-content",
+    "original": "…자네가 의사를 확실히 밝혀야 나도 마음 편히 들어갈 수 있다는 걸 정말 몰라서 이러는 건가?",
+    "context": "EN :\n...Do you really not see that I can only set my mind at ease once you make your stance clear?\nJP :\n…そなたが意思を明らかにしてこそ、僕も心置きなく入れるということが分からないのか？"
+  },
+  {
+    "key": "17-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "17-content",
+    "original": "내 뜻은 이전과 변하지 않았소.",
+    "context": "EN :\nMy mind has not changed from before.\nJP :\n私の意は以前と変わらず。"
+  },
+  {
+    "key": "18-model",
+    "original": "구보",
+    "translation": "仇甫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "구보",
+    "context": "EN :\nGubo\nJP :\nクボ"
+  },
+  {
+    "key": "18-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "18-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "19-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "19-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "19-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "19-content",
+    "original": "…거울 세계의 파괴라. 구보와 헤르만이라는 자는 꽤 진심으로 보였어.",
+    "context": "EN :\n...Destruction of the mirror worlds, huh. Gubo and Hermann seemed pretty serious about it.\nJP :\n…鏡の世界の破壊か。クボとヘルマンという者はかなり本気に見えたな。"
+  },
+  {
+    "key": "20-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "20-content",
+    "original": "맞소. 그가 걷고자 마음을 먹었다면, 이루고 말 것이오.",
+    "context": "EN :\nYou would be right. Once they have set their mind on it, it will undoubtedly be done.\nJP :\nさなり。彼の者が歩まんと決心すれば、実現しぬ。"
+  },
+  {
+    "key": "21-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "21-content",
+    "original": "그리고 나 또한… 그가 원하는 바를 이뤄주고 말겠지…",
+    "context": "EN :\nAnd I... would end up aiding him in his purpose...\nJP :\nかくて私も…彼の者の望むことを実現しぬべし。"
+  },
+  {
+    "key": "22-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "22-content",
+    "original": "하지만…",
+    "context": "EN :\nHowever...\nJP :\nされど…。"
+  },
+  {
+    "key": "23-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "23-content",
+    "original": "자네만큼은 사라지지 않았으면 좋겠소.",
+    "context": "EN :\nI do not wish for you to perish as a result.\nJP :\nそなたばかりは、消えまほしからず。"
+  },
+  {
+    "key": "24-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "24-content",
+    "original": "구보가 자네마저 파괴하기 전에 이곳을 날아가시오.",
+    "context": "EN :\nYou must fly away and leave before Gubo destroys you as well.\nJP :\nクボがそなたまでをも損なう前に、ここより飛びたまえ。"
+  },
+  {
+    "key": "25-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "25-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "25-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "25-content",
+    "original": "…너는?",
+    "context": "EN :\n...What about you?\nJP :\n…お前は？"
+  },
+  {
+    "key": "26-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "26-content",
+    "original": "알고 있지 않소? 나는 할 수 있는 게 아무것도 없음을. 자네처럼 날개가 있어 날아갈 수 있는 것도 아니고.",
+    "context": "EN :\nIs it not abundantly clear? There is nothing I am capable of. Unlike you, I have no wings to fly with.\nJP :\n知らずや？私は為す術が何もあらぬことを。そなたのごとく翼も無ければ、飛ぶべき術もあらず。"
+  },
+  {
+    "key": "27-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "27-content",
+    "original": "나에게는 불평이 없소. 잠자코 저들이 하라는 대로 지낸다면, 나를 건드리지는 않을 것이오.",
+    "context": "EN :\nI have no complaints. If I mutely follow whatever they demand, they will at least let me be.\nJP :\n私には不平なし。黙りて彼らの言う通りに過ごさば、私に手を出すことはなかろうて。"
+  },
+  {
+    "key": "28-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "28-content",
+    "original": "말하지 않았는가, 내게 남은 것은… 거울 밖의 자네밖에 없다고.",
+    "context": "EN :\nAs I have said, all that I have left... is you outside the mirror.\nJP :\n言わざりしや、私に残りしは…鏡の外のそなたばかりと。"
+  },
+  {
+    "key": "29-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "29-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "29-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "29-content",
+    "original": "…잃어버리면, 새로이 메꿀 생각은 하지 않는 거야?",
+    "context": "EN :\n...When you've suffered a loss, shouldn't you consider filling the void back up with new things?\nJP :\n…失ったのなら、新しく埋めようとはしないのか？"
+  },
+  {
+    "key": "30-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "30-content",
+    "original": "묘한 소리를 하는군. 내 세계는 이곳이 전부인데, 어떻게 새롭게 메운다는 것이오?",
+    "context": "EN :\nWhat a peculiar question. This is all that is of my world, so how will I be able to fill it anew?\nJP :\n妙なることを言うかな。私の世界はここが全てなれど、いかで新しく埋むというや？"
+  },
+  {
+    "key": "31-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "31-content",
+    "original": "그리고 나서 그대는 한동안 내 앞에 나타나지 않았네.",
+    "context": "EN :\nAfter that, you wouldn't show up before me for a time.\nJP :\nそれよりそなたは、しばらく私の前へ現れざりき。"
+  },
+  {
+    "key": "32-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "32-content",
+    "original": "문득 궁금해지곤 한다오.",
+    "context": "EN :\nA question occurs to me at times.\nJP :\nふと気になることもあるなり。"
+  },
+  {
+    "key": "33-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "33-content",
+    "original": "전부라고 했던 건 나인데, 왜 그대가 모든 걸 잃은 듯한 표정을 지었던 건지.",
+    "context": "EN :\nI was the one who said this was all that I had, so why did you make such a devastated expression as though you lost everything?\nJP :\n全てと言いしは私なれど、何故そなたがすべてを失わん顔せりや。"
+  },
+  {
+    "key": "34-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "34-content",
+    "original": "거울 속의 이상 씨는…",
+    "context": "EN :\nIt sounds like the Yi Sang in the mirror...\nJP :\n鏡の中のイサンさんは…。"
+  },
+  {
+    "key": "35-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "35-content",
+    "original": "이상 씨를 이곳에 계속 붙잡아 두려는 것 같았어요. 바깥세상은 위험하다, 그러니 안에만 있어라…",
+    "context": "EN :\nWanted to keep him in this place. Telling him that it's not safe outside, so he should stay inside...\nJP :\nイサンさんをここにずっと捕らえておこうとしているようでしたね。外の世界は危ない、だから中にいなさい…。"
+  },
+  {
+    "key": "36-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "36-content",
+    "original": "하지만 굳이 그럴 이유가…",
+    "context": "EN :\nBut, why would he do such a...\nJP :\nでも、わざわざそうする理由が…。"
+  },
+  {
+    "key": "37-model",
+    "original": "T사기술청1",
+    "translation": "T公司技术局1",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "37-teller",
+    "original": "징수직 3등급 직원",
+    "context": "EN :\nClass 3 Collector\nJP :\n徴収職 3級職員"
+  },
+  {
+    "key": "37-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "37-content",
+    "original": "허가받지 않은 불온 조직, 구인회에서 만든 기술을 회수하러 왔다.",
+    "context": "EN :\nWe're here to seize the technology created by the League of Nine, an unauthorized organization with illicit activities.\nJP :\n許可されていない不穏組織、九人会で作った技術を回収しに来た。"
+  },
+  {
+    "key": "38-model",
+    "original": "T사기술청1",
+    "translation": "T公司技术局1",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "38-teller",
+    "original": "징수직 3등급 직원",
+    "context": "EN :\nClass 3 Collector\nJP :\n徴収職 3級職員"
+  },
+  {
+    "key": "38-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "38-content",
+    "original": "모두 시계를 꺼낸 후, 정확한 신분을 밝혀라.",
+    "context": "EN :\nPresent your clocks and identify yourselves in detail.\nJP :\n全員時計を取り出し、正確な身分を明らかにしろ。"
+  },
+  {
+    "key": "39-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "39-content",
+    "original": "<T사 기술청 직원들이 여기까지 쫓아온 거야?>",
+    "context": "EN :\n<Did the tech agency staff follow him all the way there?>\nJP :\n<T社技術庁の職員たちがここまで追いかけてきたの？>"
+  },
+  {
+    "key": "40-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "40-content",
+    "original": "T사 기술청 직원들이 N사까지 찾아오는 것은 불가능합니다.",
+    "context": "EN :\nIt's implausible for employees of T Corp's tech agency to chase him into N Corp.\nJP :\nT社の技術庁職員がN社まで訪ねることは不可能です。"
+  },
+  {
+    "key": "41-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "41-content",
+    "original": "그러니 자아 심도를 침범하려는 이물질 중 하나일 것입니다.",
+    "context": "EN :\nWhich suggests this is a foreign substance attempting to breach into the fathoms of ego.\nJP :\nですから、自我心道を侵犯しようとする異物の一つでしょう。"
+  }
+]

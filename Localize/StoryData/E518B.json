@@ -1,0 +1,531 @@
+[
+  {
+    "key": "0-place",
+    "original": "용진 빌딩 6층 사무실",
+    "context": "EN :\nYong-jin Building 6F Office\nJP :\nヨンジンビル6階 事務室"
+  },
+  {
+    "key": "0-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "0-teller",
+    "original": "김삿갓?",
+    "context": "EN :\nBamboo-hatted Kim?\nJP :\nキムサッガッ?"
+  },
+  {
+    "key": "0-title",
+    "original": "검계?",
+    "context": "EN :\nBlade Lineage?\nJP :\n剣契?"
+  },
+  {
+    "key": "0-content",
+    "original": "…후우. 후.",
+    "context": "EN :\n... Haah. Hah.\nJP :\n…ふう。ふっ。"
+  },
+  {
+    "key": "1-content",
+    "original": "그는 잠시 무릎을 꿇고 숨을 몰아쉬었지만, 이내 그 뒤로 일렁거리는 무언가가 생겨났다.",
+    "context": "EN :\nBamboo-hatted Kim kneeled and caught his breath. Something began to shimmer behind him.\nJP :\n彼はしばらく膝を突いて息を切らしていたが、\nすぐにその後ろに揺れる何かが現れてきた。"
+  },
+  {
+    "key": "2-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "2-content",
+    "original": "심상 거울 던전입니다.",
+    "context": "EN :\nThis is a dungeon—A Mirror Dungeon of the Fathoms.\nJP :\n心象鏡ダンジョンです。"
+  },
+  {
+    "key": "3-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "3-content",
+    "original": "동이 치킨 때랑 같은 곳이다, 그거지?",
+    "context": "EN :\nThis is just like the Dingdong's Bar & Fryers, huh?\nJP :\nビンボウチキンのときと同じ場所だ、そうだろ？"
+  },
+  {
+    "key": "4-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "4-content",
+    "original": "봉이 치킨이요, 봉이…",
+    "context": "EN :\nIt's 'Eunbong's', Gregor. 'Eunbong's'...\nJP :\nウンボンですよ、ウンボン…。"
+  },
+  {
+    "key": "5-model",
+    "original": "김삿갓",
+    "translation": "金笠",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "5-teller",
+    "original": "김삿갓?",
+    "context": "EN :\nBamboo-hatted Kim?\nJP :\nキムサッガッ?"
+  },
+  {
+    "key": "5-title",
+    "original": "검계?",
+    "context": "EN :\nBlade Lineage?\nJP :\n剣契?"
+  },
+  {
+    "key": "5-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "6-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "6-content",
+    "original": "이미 들어갔군.",
+    "context": "EN :\nHe has already entered the dungeon.\nJP :\nもう入ったか。"
+  },
+  {
+    "key": "7-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "7-content",
+    "original": "하… 저거, 따라가야겠지?",
+    "context": "EN :\nHaah... so we've got to follow the bloke, eh?\nJP :\nはぁ…あれ、追いかけるべきだよな？"
+  },
+  {
+    "key": "8-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "8-content",
+    "original": "<응… 확보하는 것까지가 임무였으니까.>",
+    "context": "EN :\n<Yeah... we were ordered to secure the Distortion as well. So...>\nJP :\n<うん…確保するまでが任務だったから。>"
+  },
+  {
+    "key": "9-content",
+    "original": "그리고… 아까는 느끼지 못했던 엄청나게 무거운 감각이 안에서 느껴진다.",
+    "context": "EN :\n... An immense, heavy sensation emanates from within that space.\nJP :\nそして…先程までは感じられなかった\nとてつもなく重い感覚が中から感じられる。"
+  },
+  {
+    "key": "10-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "10-content",
+    "original": "<아마도… 그 모노리스도 저 안에 있을 거 같아.>",
+    "context": "EN :\n<That 'Monolith' has to be somewhere in there, too.>\nJP :\n<きっと…あのモノリスもあの中にあるはず。>"
+  },
+  {
+    "key": "11-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "11-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "11-content",
+    "original": "…따라가지.",
+    "context": "EN :\n... Let us follow.\nJP :\n…ついて行こう。"
+  },
+  {
+    "key": "12-content",
+    "original": "받아들일 수 없는 상황에 아득해진 것만 같은 얼굴이지만, 결연해 보이는 몸짓에 우리는 어떠한 말을 덧붙일 수도 없었다.",
+    "context": "EN :\nWhile she was clearly dumbfounded by the turn of events, I could tell that she was determined to see this to the end. We had nothing more to add.\nJP :\n受け入れ難い状況に気が遠くなったような顔をしているが\n覚悟を決めたような姿勢を見て、私たちは何も口出しすることはできなかった。"
+  },
+  {
+    "key": "13-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "13-content",
+    "original": "진입하겠습니다.",
+    "context": "EN :\nAdvancing.\nJP :\n進入します。"
+  },
+  {
+    "key": "14-place",
+    "original": "심상 거울 던전",
+    "context": "EN :\nMirror Dungeon of the Fathoms\nJP :\n心象鏡ダンジョン"
+  },
+  {
+    "key": "14-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "14-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "14-content",
+    "original": "이건…",
+    "context": "EN :\nThis is...\nJP :\nこれは…。"
+  },
+  {
+    "key": "15-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "15-content",
+    "original": "S사의 모습이구료…",
+    "context": "EN :\nThis place has taken the likeness of S Corp...\nJP :\nS社の様相なり…。"
+  },
+  {
+    "key": "16-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "16-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "16-content",
+    "original": "단순한 S사가 아니지.",
+    "context": "EN :\nNot just anywhere in S Corp.\nJP :\n単純なS社じゃないな。"
+  },
+  {
+    "key": "17-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "17-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "17-content",
+    "original": "심상…이라 했나. 김삿갓 님의 기억이… 영향을 끼치는 것 같군.",
+    "context": "EN :\nYou call this place the 'fathoms of ego'...? It appears that mentor Bamboo-hatted Kim's memories are... affecting this place.\nJP :\n心象…と言ったか。\nキムサッガッ様の記憶が…影響を及ぼしてるみたいだ。"
+  },
+  {
+    "key": "18-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "18-content",
+    "original": "알고 있는 것이 있는가?",
+    "context": "EN :\nIs there aught from his past that you are aware of?\nJP :\n知れることやある？"
+  },
+  {
+    "key": "19-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "19-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "19-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "19-content",
+    "original": "아니… 자세히는 모르지. 주워듣기만 한 이야기로 그분의 과거를 읊을 자격은 내게 없기도 하고.",
+    "context": "EN :\nNo... nothing in detail. I don't believe I have the right to divulge a depiction of his past based on hearsay, either.\nJP :\nいや…詳しいことは知らない。拾い聞き下だけで、\nあの方の過去を述べる資格は私にない。"
+  },
+  {
+    "key": "20-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "20-content",
+    "original": "…음.",
+    "context": "EN :\n... Mm.\nJP :\n…ふむ。"
+  },
+  {
+    "key": "21-content",
+    "original": "앵두는 침울한 목소리로 말을 이어갔다.",
+    "context": "EN :\nAeng-du continued in a morose tone.\nJP :\nエンドゥは沈んだ声で話し続けた。"
+  },
+  {
+    "key": "22-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "22-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "22-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "22-content",
+    "original": "이 빌딩에 갑작스럽게 등장하셨을 때.",
+    "context": "EN :\nWhen he appeared so suddenly at this building...\nJP :\nこのビルへ突然現れたとき。"
+  },
+  {
+    "key": "23-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "23-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "23-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "23-content",
+    "original": "…아마, 우두께선 별 탈 없이 흑운회를 베어 넘기고 계셨겠지.",
+    "context": "EN :\n... I don't suppose he had much trouble cutting down the Kurokumo Clan henchmen.\nJP :\n…おそらく、お頭は順調に黒雲会を斬り倒していらっしゃったでしょう。"
+  },
+  {
+    "key": "24-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "24-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "24-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "24-content",
+    "original": "우두와 함께 다니던 인물들 모두가 뛰어났고, 아무리 흑운회 같은 규모가 큰 조직이라 해도 간부가 아니고서는 조직원의 수가 많았어도 족히 백은 혼자서 쓸어 담을 능력이 있으니.",
+    "context": "EN :\nI am certain he was flanked by competent men and women. It would not have mattered how many henchmen they threw against the mentor; nothing short of a Kurokumo Clan officer could have given him any trouble. In fact, I surmise that he would have been able to cut down a hundred of their men on his own.\nJP :\nお頭と共にいた人々は皆優れていて、いくら黒雲会のような\n大規模な組織が相手であれど幹部でなければ、組織員の数が多くとも\n一人で優に百人は一掃できる力があるから。"
+  },
+  {
+    "key": "25-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "25-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "25-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "25-content",
+    "original": "하지만…",
+    "context": "EN :\nBut...\nJP :\nでも…。"
+  },
+  {
+    "key": "26-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "26-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "26-content",
+    "original": "주변인 모두가 김삿갓님만한 강함이 있는가 하면, 그건 또 아니지. 그분과 우리는 하늘과 땅만 한 차이가 있으니.",
+    "context": "EN :\nNot all those who accompanied master Bamboo-hatted Kim were as powerful as he. His capabilities lie far beyond our own.\nJP :\n周りの人全員がキムサッガッ様ほどの強さがあるかと聞かれたら、それはまた別だ。\nあの方と私たちには、天と地ほどの差があるから。"
+  },
+  {
+    "key": "27-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "27-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "27-content",
+    "original": "끊임없이 몰려드는 흑운회 놈들에게… 친우들이 하나하나 당해갔을 것이오.",
+    "context": "EN :\nHis fellows must have fallen one by one before the endless onslaught of the Kurokumo Clan henchmen.\nJP :\n絶え間なく襲いかかってくる黒雲会のヤツらに…\n親友たちが一人一人殺されていったんだろう。"
+  },
+  {
+    "key": "28-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "28-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "28-content",
+    "original": "그 모습은… 제법 과거와 비슷한 구석이 있었으리라 생각이 드는군.",
+    "context": "EN :\nAnd... I cannot help but imagine that the sight must have reminded him of a rather tragic event in his past.\nJP :\nその光景は…きっと似た出来事が過去にあったんだろうな。"
+  },
+  {
+    "key": "29-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "29-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "29-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "29-content",
+    "original": "김삿갓님은… 그 장면에 마음의 동요를 크게 일으켰을 테고.",
+    "context": "EN :\nAn unpleasant event that likely shook mentor Bamboo-hatted Kim to the core.\nJP :\nキムサッガッ様は…その光景に大きく動揺したはずで。"
+  },
+  {
+    "key": "30-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "30-content",
+    "original": "뒤틀림이 일어나기 좋은 조건이군요. 모노리스의 영향이 스며들기도 좋은 환경입니다.",
+    "context": "EN :\nThat alone fits numerous criteria that make it ripe for a manifestation of a Distortion. He was in a very receptive state to the Monolith's influences as well.\nJP :\nねじれが発生するのに良い条件ですね。\nモノリスの影響が染み入るのにも良い環境です。"
+  },
+  {
+    "key": "31-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "31-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "31-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "31-content",
+    "original": "그렇게… 검귀가 되신 것인가.",
+    "context": "EN :\nSo that is how... the mentor became beholden to his blade. Like a fiend...\nJP :\nそうして…剣鬼になられたのだろうか。"
+  },
+  {
+    "key": "32-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "32-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "32-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "32-content",
+    "original": "그렇다 하더라도… 어떻게 그런 짓을…",
+    "context": "EN :\nYet... still... how could he...\nJP :\nだとしても…どうしてそんなことを…。"
+  },
+  {
+    "key": "33-content",
+    "original": "앵두의 한탄 섞인 말과 함께, 우리는 한동안 침묵을 지킨 상태로 앞을 걸어 나갔고…",
+    "context": "EN :\nWe remained wordless and advanced as Aeng-du despondently muttered to herself.\nJP :\nエンドゥの嘆き混じりの言葉と共に、\n私たちはしばらく沈黙を守った状態で前へと歩き…。"
+  },
+  {
+    "key": "34-content",
+    "original": "사박거리는 흙 밟는 소리만이 여럿 따라갈 뿐이었다.",
+    "context": "EN :\nIt was all silent, save for the sound of our shoes lightly pressing into the soft soil beneath our feet.\nJP :\nいくつかの土を踏み締める音だけが、その後に続いた。"
+  }
+]

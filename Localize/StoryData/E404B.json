@@ -1,0 +1,863 @@
+[
+  {
+    "key": "0-place",
+    "original": "21구 뒷골목 어딘가",
+    "context": "EN :\nBackstreets of District 21\nJP :\n21区 裏路地のどこか"
+  },
+  {
+    "key": "0-content",
+    "original": "이틀 정도 시간이 지났던 걸까.",
+    "context": "EN :\nWe've been at it for about two days, perhaps.\nJP :\n二日くらい経っただろうか。"
+  },
+  {
+    "key": "1-content",
+    "original": "우리들은 꽤 많은 크<size=110%>랲</size>게들을 잡을 수 있었고, 수레에 한 가득 채워도 남을 정도의 폐품도 모을 수 있었다.",
+    "context": "EN :\nWe were able to defeat a considerable number of trash crabs and collect enough scrap to fill a whole wagon and then some.\nJP :\n私たちはそこそこ沢山のクラップ蟹を捕まえることができ、荷車にぎっしり詰め込んでも残るくらいの廃品も集めることができた。"
+  },
+  {
+    "key": "2-place",
+    "original": "어금니 보트 센터 입구",
+    "context": "EN :\nMolar Boatworks Entrance\nJP :\n奥歯ボートセンター 入口"
+  },
+  {
+    "key": "2-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "2-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "2-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "2-content",
+    "original": "네, 이 정도면 해볼 수 있겠네요.",
+    "context": "EN :\nRight, I think this'll be enough for us to get started.\nJP :\nはい、これくらいならやれそうですね。"
+  },
+  {
+    "key": "3-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "3-content",
+    "original": "휴우~ 그럼 이제 쉬어도 되는 거지? 들려? 어깨 돌릴 때마다 뚜둑 소리 나고 있잖아~",
+    "context": "EN :\nPhew~ Can we rest now? Listen, I can hear my shoulders creaking with every move~\nJP :\nふぅ～じゃあそろそろ休んでもいいんだよね？聞こえる？肩回すたびにボキボキ音が鳴ってるでしょ～。"
+  },
+  {
+    "key": "4-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "4-content",
+    "original": "로쟈 씨, 그러니까 겁이라도 주는 것 같잖아요… 자제를…",
+    "context": "EN :\nRodion, can you stop that? It looks like you're flexing at them...\nJP :\nロージャさん、そうしてると威嚇してるように見えるじゃないですか…少しは自重…。"
+  },
+  {
+    "key": "5-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "5-content",
+    "original": "뭐, 개조를 하는데 드는 시간도 있을테니, 적어도 며칠은 즐길 수 있겠어.",
+    "context": "EN :\nWell, it'll take some time to modify the bus, so we'll at least have a few days to enjoy.\nJP :\nまぁ、改造を施すのに掛かる時間もあるだろうし、少なくとも数日は楽しめそうだな。"
+  },
+  {
+    "key": "6-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "6-content",
+    "original": "물론… 여전히 휴양과 어울리지 않는 곳이지만.",
+    "context": "EN :\nThough... this place doesn't exactly resemble a tourist attraction.\nJP :\nもちろん…バカンスと似つかわしくない場所なのは相変わらずだけど。"
+  },
+  {
+    "key": "7-content",
+    "original": "수감자들은 저마다 기지개를 켜며 이제야 일이 끝났다는 듯 말하고 있었지만…",
+    "context": "EN :\nThe Sinners were all busy stretching and chattering, relieved that the work was finally over...\nJP :\n囚人のめいめいが伸びをして、ようやく仕事が終わったという風に喋っていたが…。"
+  },
+  {
+    "key": "8-content",
+    "original": "이것도 직감일까. 이걸로 끝날 것 같지는 않은데.",
+    "context": "EN :\nBut I had a terrible feeling that this was probably not the end of our toil.\nJP :\nこれも直感だろうか。これで終わりそうな気がしないんだけど。"
+  },
+  {
+    "key": "9-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "9-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "9-content",
+    "original": "네? 쉬기는 뭘 쉬어요?",
+    "context": "EN :\nHm? Enjoy what?\nJP :\nはい？休むって何がですか？"
+  },
+  {
+    "key": "10-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "10-content",
+    "original": "으응…?",
+    "context": "EN :\nHuh...?\nJP :\nうぅん…？"
+  },
+  {
+    "key": "11-content",
+    "original": "거봐. 이럴 줄 알았지.",
+    "context": "EN :\nOf course. I knew it.\nJP :\nほれ見ろ。こうなるって思ってたよ。"
+  },
+  {
+    "key": "12-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "12-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "12-content",
+    "original": "제가 말한 건, 이제 ‘시작’만 해볼 수 있겠다고 말한 거예요.",
+    "context": "EN :\nI said it was enough to 'get started'.\nJP :\n私が言ったのは、これで「開始」はできそうという話です。"
+  },
+  {
+    "key": "13-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "13-content",
+    "original": "그… 렇다는 것은?",
+    "context": "EN :\nWhich... means...?\nJP :\nって…ことは？"
+  },
+  {
+    "key": "14-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "14-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "14-content",
+    "original": "당연히 더 주워오셔야죠.",
+    "context": "EN :\nWhich means you'll have to go collect more scrap, of course.\nJP :\n当然もっと拾ってこないといけませんよ。"
+  },
+  {
+    "key": "15-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "15-content",
+    "original": "참고 삼아… 그 양은?",
+    "context": "EN :\nHow much... more, to be exact?\nJP :\n参考までに…その量は？"
+  },
+  {
+    "key": "16-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "16-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "16-content",
+    "original": "음… 지금의 한… 다섯 배?",
+    "context": "EN :\nUmm... about... five times the amount you've collected so far?\nJP :\nうーん…これの大体…五倍？"
+  },
+  {
+    "key": "17-model",
+    "original": "레인",
+    "translation": "雷恩",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "레인",
+    "context": "EN :\nRain\nJP :\nレイン"
+  },
+  {
+    "key": "17-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "17-content",
+    "original": "미카~ 후륜 쪽도 포함해야 할 것 같은데?",
+    "context": "EN :\nMika, we're going to have to work on the rear wheels too.\nJP :\nミカ～後輪の方も含めるべきだと思うけど？"
+  },
+  {
+    "key": "18-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "18-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "18-content",
+    "original": "아, 일곱 배로 방금 막 늘어났어요.",
+    "context": "EN :\nSorry, seven times.\nJP :\nあぁ、たった今七倍に増えました。"
+  },
+  {
+    "key": "19-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "19-content",
+    "original": "지금까지의 효율을 고려하면, 적절한 휴식은 취하지 못하겠군.",
+    "context": "EN :\nConsidering our current productivity rate, it seems that we will not be provided with adequate rest.\nJP :\n今までの効率を考慮すると、適切な休憩は取れそうにないな。"
+  },
+  {
+    "key": "20-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "20-content",
+    "original": "기존보다 수면에 할애하던 시간을 줄이는 편이 좋을 것이다.",
+    "context": "EN :\nPerhaps reducing the time dedicated to sleep would be contributive to our collective effort.\nJP :\n睡眠に割いていた時間を既存より減らす方が良いだろう。"
+  },
+  {
+    "key": "21-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "21-content",
+    "original": "이, 이럴 수는 없는 거요! 이럴 순 없소!!!",
+    "context": "EN :\nN-no. This cannot be! We simply cannot!!!\nJP :\nこ、これはいけませぬ！こんなのってありませぬ！！！"
+  },
+  {
+    "key": "22-content",
+    "original": "돈키호테는 완전히 울상이 되어 주저앉기 직전인 것 같았다.",
+    "context": "EN :\nDon Quixote looked as though she was about to collapse, a woeful look on her face.\nJP :\nドンキホーテは完全に泣きっ面になり、へたり込む一歩手前のようだ。"
+  },
+  {
+    "key": "23-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "23-content",
+    "original": "아니~ 있잖아, 이런 고철 덩어리들을 주워 온다고 작업이 되긴 되는 거야?",
+    "context": "EN :\nHang on a sec, though~ How does collecting these pieces of scrap even help modify the bus?\nJP :\nいや～現に起こってるでしょ、こんな鉄のスクラップを拾ってくるのが仕事にはなるの？"
+  },
+  {
+    "key": "24-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "24-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "24-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "24-content",
+    "original": "그야, 고철을 적당히 볼트로 결합하는 방식이라면 죽도 밥도 안되겠지만…",
+    "context": "EN :\nOf course, if we were simply bolting these scraps onto the bus willy-nilly, it wouldn't amount to much...\nJP :\nもちろん、スクラップを適当にボートに結合させるやり方なら毒にも薬にもならないでしょうけど…。"
+  },
+  {
+    "key": "25-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "25-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "25-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "25-content",
+    "original": "U사의 특이점을 이용해 결합하는 과정을 거치면, 마치 처음부터 자신의 부속품이었던 것 처럼 기능하게 할 수 있으니까요.",
+    "context": "EN :\nBut using U Corp's Singularity to fuse the parts, we can make them work as though they were tailor-made for this bus.\nJP :\nU社の特異点を利用して結合する工程を挟むと、まるで最初から自分の付属品であったかのように機能させることができますからね。"
+  },
+  {
+    "key": "26-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "26-content",
+    "original": "U사…? 걔네 특이점이라면 무슨 음식 완벽히 포장 하는 기술 아니었어?",
+    "context": "EN :\nU Corp...? I thought their deal was some kind of a food packaging tech?\nJP :\nU社…？あそこの特異点って食べ物とかを完璧に包装する技術じゃなかったの？"
+  },
+  {
+    "key": "27-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "27-content",
+    "original": "뜯기 전까지는 절대 내용물이 변하지 않는… 그런 거였는데? 거기서 제조했던 통조림도 요긴하게 먹고 그랬었는데…",
+    "context": "EN :\nYou know, stuff that stops the contents inside from spoiling or changing in any way until you open the packaging? I used to eat a bunch of their canned food...\nJP :\n開けるまでは絶対に内容物が変わらない…そういうやつだったけど？そこで製造してた缶詰もありがたく食べてたんだけど…。"
+  },
+  {
+    "key": "28-model",
+    "original": "레인",
+    "translation": "雷恩",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "레인",
+    "context": "EN :\nRain\nJP :\nレイン"
+  },
+  {
+    "key": "28-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "28-content",
+    "original": "어째 누님과 똑같은 말씀을 하시네요… 둥지마다 특이점을 활용한 여러 기술들이 있을 수도 있는 거잖아요.",
+    "context": "EN :\nFunny, Big Sis said the exact same thing. Some Nests have more than one way of using their Singularity, in case you didn't know.\nJP :\n姐さんと同じことをおっしゃるんですね…。巣ごとに特異点を活用した様々か技術が存在し得るってことじゃないですか。"
+  },
+  {
+    "key": "29-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "29-content",
+    "original": "…원리만 활용한다면, 근본적인 특이점을 기반으로 얼마든지 활용하여 A사에 기반 특허를 낼 수 있습니다. U사에서는 현상 보존 포장 기술과 더불어 공명 굽쇠가 유명하죠.",
+    "context": "EN :\n...If the working principle is the same, one can always utilize the Singularity's fundamentals to patent a Singularity-based technology at A Corp. U Corp is not only known for its stasis preservation packaging but also for its resonance tuning fork.\nJP :\n…原理さえ活用すれば、根本的な特異点を基盤に工夫を加えることでいくらでもA社に基盤特許を出すことができます。U社では現状保存包装技術に加え、共鳴叉が有名です。"
+  },
+  {
+    "key": "30-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "30-content",
+    "original": "공명 굽쇠…",
+    "context": "EN :\nResonance tuning fork...\nJP :\n共鳴叉…。"
+  },
+  {
+    "key": "31-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "31-content",
+    "original": "그 놈이랑 똑같았지…",
+    "context": "EN :\nJust like that bastard...\nJP :\nあの野郎と同じだった…。"
+  },
+  {
+    "key": "32-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "32-content",
+    "original": "여기 저기에 엉겨 붙고, 유착되어서는…",
+    "context": "EN :\nEntwined, fused with... things...\nJP :\nあちこち絡み付いて、癒着して…。"
+  },
+  {
+    "key": "33-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "33-content",
+    "original": "기어이 삼켜버리겠지… 언제 그랬냐는 듯…",
+    "context": "EN :\nAnd eventually devour them all... as though they've never even existed...\nJP :\nそして呑み込んでしまうんだ…いつ呑み込んだのかも分からないうちに…。"
+  },
+  {
+    "key": "34-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "34-content",
+    "original": "<이스마엘… 왜 그러는 거야?>",
+    "context": "EN :\n<Ishmael... What's the problem?>\nJP :\n<イシュメール…どうしたんだ？>"
+  },
+  {
+    "key": "35-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "35-content",
+    "original": "관리자 님. 지금이라도 베르길리우스 씨에게 말해주세요.",
+    "context": "EN :\nDante. You have to tell Vergilius immediately.\nJP :\n管理人さん。今からでもヴェルギリウスさんに伝えてください。"
+  },
+  {
+    "key": "36-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "36-content",
+    "original": "순서를 바꿔서, 다른 지부의 황금 가지를 해결하자고요.",
+    "context": "EN :\nTell him that we have to collect the Golden Boughs of other branches first.\nJP :\n順番を変えて、他の支部の黄金の枝から回収しようって。"
+  },
+  {
+    "key": "37-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "37-content",
+    "original": "<이스마엘… 잠깐… 괜찮아?>",
+    "context": "EN :\n<Give me a moment, Ishmael... Are you okay?>\nJP :\n<イシュメール…待って…大丈夫？>"
+  },
+  {
+    "key": "38-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "38-content",
+    "original": "지금은 충분하지 않아요. 모두의 경험도… 대호수에 대한 것도, 고래에 대한 지식도…",
+    "context": "EN :\nNo, no. We are not ready. We're inexperienced, we don't know enough about the Great Lake, nor about the whale...\nJP :\n今はまだ足りません。全員の経験も…大湖についても、鯨に対する知識も…。"
+  },
+  {
+    "key": "39-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "39-content",
+    "original": "그래요, 제가… 제가 알려드리고 도와드릴게요. 충분한 시간이 지난 후에 도전해야만 하는 곳이예요, 저 곳은. 그러니까…!",
+    "context": "EN :\nI know, I'll help you out. I'll help you make Vergilius understand. We shouldn't go there, not yet. I'm telling you, that place is...!\nJP :\nそうです、私が…私が教えますし、手伝います。十分な時間が経ってから挑戦すべき場所なんですよ、あそこは。だから…！"
+  },
+  {
+    "key": "40-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "40-content",
+    "original": "야, 자꾸 뭐하자는 거야? 아까 먹은 크<size=110%>랲</size>차우더인지 뭔지가 잘못되기라도 했냐?",
+    "context": "EN :\nBlimey, what's gotten into you, eh? What, gettin' indigestion from the crab chowder or something?\nJP :\nおい、何のつもりだ？さっき食ったクラップチャウダーとやらに当たったのか？"
+  },
+  {
+    "key": "41-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "41-content",
+    "original": "다같이 그 게 같은 게딱지 내장을 긁어 먹긴 했지만, 전 아주 멀쩡해요.",
+    "context": "EN :\nWe all scraped through the same crab guts, but I'm totally fine.\nJP :\nみんなであのクソみたいな蟹甲羅の内臓を掻き込みましたけど、私は本当に何ともないです。"
+  },
+  {
+    "key": "42-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "42-content",
+    "original": "근데 뭐가 문제야?! 뭐, 지금까지는 우리가 준비해서 쳐 들어 갔냐? 다 뒤져가면서 해결한 일이잖아!",
+    "context": "EN :\nSo what's got you throwing a fit? This ain't the first time we're going in not knowing a nit about what we're doing. We've been dead enough times to get used to it!\nJP :\nなら何が問題だってんだ！？はぁ、今までオレたちがまともに準備して突っ込んでったか？みんなくたばりながら解決したろ！"
+  },
+  {
+    "key": "43-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "43-content",
+    "original": "죽고 죽어가면서 일을 처리한게 어디 자랑할 거리는 아닌 거, 아시죠?",
+    "context": "EN :\nDying your way through a mission isn't really something to be proud of, Heathcliff.\nJP :\n死んで死にながら仕事を片付けたことが自慢できることじゃないってこと、ご存じですよね？"
+  },
+  {
+    "key": "44-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "44-content",
+    "original": "저희가 그냥 해결사였다면 첫 임무부터 진작에 전원 사망으로, 순식간에 협회에서 이름이 지워졌겠죠.",
+    "context": "EN :\nIf we were your average Fixers, we would've been dead and gone on our very first mission, our names scraped clean from whatever Association's registry.\nJP :\n私たちがただのフィクサーだったなら最初の任務から全員死亡したことによって、すぐに協会から名前が消されてたでしょう。"
+  },
+  {
+    "key": "45-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "45-content",
+    "original": "야, 누가 몰라? 나도 뒷골목 조직 생활하면서 몇 번이나 죽을 뻔 했는데, 목숨이 하나 뿐인걸 모르겠냐고!",
+    "context": "EN :\nYou think me daft? I've had enough years toilin' and brushing with death for the Syndicates of the Backstreets to know that I've got but one life!\nJP :\nおい、馬鹿にしてんのか？オレも裏路地で組織暮らししてて何度も死にかけたってのに、命が一つしか無いってことくらい分かってんぞ！"
+  },
+  {
+    "key": "46-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "46-content",
+    "original": "그거랑 다르지! 지금은 시계 대가리 덕분에 여러 번 살아나고 있잖아!",
+    "context": "EN :\nBut it's different now! Clockface's here to bring us back every time!\nJP :\nでもそれとは違ぇだろ！いまは時計ヅラのおかげで何度も生き返ってるだろ！"
+  },
+  {
+    "key": "47-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "47-content",
+    "original": "지금까지 운이 좋았으니까 멀쩡하게 살아날 수 있었다고 생각하지는 않나 보죠?",
+    "context": "EN :\nDon't you think we've simply been lucky that Dante was able to bring us back intact?\nJP :\n今まで運が良かったからまともに生き返ることができたとは思っていないようですね？"
+  },
+  {
+    "key": "48-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "48-content",
+    "original": "아니… 야! 왜 자꾸 못한다고 하는 건데? 환상체한테 머리가 깨져서 뒤졌으면 이번에는 다리를 내주고 피하고, 그렇게 계속 쳐 부술 수 있는 거잖아. 어?",
+    "context": "EN :\nWhat-what's up with this attitude? If an Abnormality cracks my skull, turn the clock and I'll let it crack my leg next time. We can keep crawlin' back until they're smashed to pieces, no?\nJP :\nいや…おい！なんで何度もできねぇって言うんだ？幻想体にドタマを潰されてくたばったんなら、今度は足を差し出して避けながら、そうやって何度もぶっ潰せばいいだろ。あぁん？"
+  },
+  {
+    "key": "49-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "49-content",
+    "original": "지금껏 겪었던 게 전부라고 생각하세요? 그럴 리가 없잖아요?",
+    "context": "EN :\nOh, so you think we've seen everything there is to see at this point? You know that's not true.\nJP :\n今まで経験してきたことが全部だって思ってますか？そんなわけ無いじゃないですか。"
+  },
+  {
+    "key": "50-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "50-content",
+    "original": "최악의 경우엔 복구가 불가능할 수도 있는 거예요. 시계를 아무리 쳐 돌려도!",
+    "context": "EN :\nIn the worst case scenario, Dante could turn the clock all day and not be able to bring us back!\nJP :\n最悪の場合は復旧が不可能になる可能性があるんです。時計をいくらブン回しても！"
+  },
+  {
+    "key": "51-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "51-content",
+    "original": "…다시 원래대로 돌아가지도 못할 수 있다고요.",
+    "context": "EN :\n...What if we encounter something we can never come back right from.\nJP :\n…元通りになれないかもしれないんですよ。"
+  },
+  {
+    "key": "52-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "52-content",
+    "original": "특히 그 거대한 고래는… 하, 됐어요.",
+    "context": "EN :\nEspecially that monstrous whale... Hah, nevermind.\nJP :\n特にあの巨大な鯨は…はぁ、もういいです。"
+  },
+  {
+    "key": "53-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "53-content",
+    "original": "설명해도 못 알아들을 것처럼 말하지 마라. 어?",
+    "context": "EN :\nOh, don't do that. Like I won't understand a thing.\nJP :\n説明しても分かんねぇだろうって言い方すんじゃねぇよ。あ゛？"
+  },
+  {
+    "key": "54-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "54-content",
+    "original": "말도 못 알아듣는 버러지 취급하는 것 같아서 열 받으니까.",
+    "context": "EN :\nIt narks me when you treat me like a stupid sod. \nJP :\n言われても分かんねぇ虫ケラ扱いされてるみてぇで腹立つから。"
+  },
+  {
+    "key": "55-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "55-content",
+    "original": "…하.",
+    "context": "EN :\n...Ha.\nJP :\n…はぁ。"
+  },
+  {
+    "key": "56-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "56-content",
+    "original": "이 개!",
+    "context": "EN :\nYou-!\nJP :\nこのクソア―！"
+  },
+  {
+    "key": "57-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "57-content",
+    "original": "자, 말씀 좀 여쭙겠소.",
+    "context": "EN :\nNow, if you will allow me to inquire!\nJP :\nいで、お話を伺うかし。"
+  },
+  {
+    "key": "58-content",
+    "original": "여태껏 한 번도 그러지 않았던 사람의 돌발행동이라서 였을까.",
+    "context": "EN :\nIt was perhaps because he was never the type to do such a thing...\nJP :\n今まで一度もそういうことをしなかった人の突発行動だったからだろうか。"
+  },
+  {
+    "key": "59-content",
+    "original": "이상이 듣도 보도 못한 높은 목소리로 갑작스럽게 둘의 다툼 사이에 끼어드는 걸 보고, 웅성거리던 모두가 한 순간에 조용해졌다.",
+    "context": "EN :\nBut the crowd immediately fell silent when Yi Sang suddenly, loudly, and uncharacteristically intruded upon their argument.\nJP :\nイサンが今まで発したことの無いような高い声で急に二人の争いの間に挟まったのを見て、ざわざわしていた全員が一瞬にして静まった。"
+  },
+  {
+    "key": "60-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "60-content",
+    "original": "그대들, 버스에서 제법 하고픈 것이 많다 하지 않았는가.",
+    "context": "EN :\nLet us call to mind the various desires of ours that we so enthusiastically proclaimed on our journey here.\nJP :\nそなたたち、バスにて結構やりたきこと多しと言いたらずや。"
+  },
+  {
+    "key": "61-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "61-content",
+    "original": "과업이 남은 것은 사실이나, 소기의 목표를 달한 것도 사실이오. 그렇다면 짤달막한 휴식 정도는 바랄 수 있을 거라 보오만.",
+    "context": "EN :\nIt is true, there is still significant toil to be had. Yet it can also be said that we have accomplished a certain milestone. Perhaps a momentary respite is warranted.\nJP :\n課業の残りしは事実なれど、所期の目標を達成せるも事実なり。それならば、短き休息程度は望むべかるめれど。"
+  },
+  {
+    "key": "62-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "62-content",
+    "original": "단테… 이 정도는 괜찮지 않겠소?",
+    "context": "EN :\nIsn't that true, Dante?\nJP :\nダンテ…かばかりなれば、大丈夫にあらずや？"
+  },
+  {
+    "key": "63-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "63-content",
+    "original": "<이상…!>",
+    "context": "EN :\n<Yi Sang...!>\nJP :\n<イサン…！>"
+  },
+  {
+    "key": "64-content",
+    "original": "버스에 탄 이후로, 이상이 이렇게 든든할 때가 있었던가…!",
+    "context": "EN :\nThis is the first time Yi Sang appeared so dependable since we started our bus journey...!\nJP :\nバスに乗って以来、イサンがこんなに心強いって思うときが来るだなんて…！"
+  },
+  {
+    "key": "65-content",
+    "original": "나는 크게 고개를 끄덕였다.",
+    "context": "EN :\nI nodded emphatically.\nJP :\n私は大きく頷いた。"
+  },
+  {
+    "key": "66-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "66-content",
+    "original": "<이상 말 대로야. 조금 쉬엄쉬엄 일해도 될 것 같은데, 이럴 때 해보고 싶은 걸 같이 하는 게 어때?>",
+    "context": "EN :\n<Yeah, I agree with Yi Sang. I think we can slow down for a bit and do some team-building activities together, how's that sound?>\nJP :\n<イサンの言う通りだ。少しは休み休みやっても良いと思うけど、この機会にやってみたいことを一緒にやるのってどうかな？>"
+  },
+  {
+    "key": "67-model",
+    "original": "레인",
+    "translation": "雷恩",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "67-teller",
+    "original": "레인",
+    "context": "EN :\nRain\nJP :\nレイン"
+  },
+  {
+    "key": "67-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "67-content",
+    "original": "네, 조금 쉬고 계셔도 될 것 같네요.",
+    "context": "EN :\nSure, I think you guys can take some time off.\nJP :\nはい、少し休まれても良さそうですね。"
+  },
+  {
+    "key": "68-model",
+    "original": "레인",
+    "translation": "雷恩",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "68-teller",
+    "original": "레인",
+    "context": "EN :\nRain\nJP :\nレイン"
+  },
+  {
+    "key": "68-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "68-content",
+    "original": "저희 쪽에서 준비가 되면 말씀 드릴게요.",
+    "context": "EN :\nWe'll let you know once we're ready.\nJP :\n僕らの方で準備ができたら声を掛けますね。"
+  },
+  {
+    "key": "69-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "69-content",
+    "original": "저기! 그렇다면!",
+    "context": "EN :\nExcelsior! In that case!\nJP :\nその！そうであれば！"
+  },
+  {
+    "key": "70-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "70-content",
+    "original": "뷔취이~ 발리볼! 다들 하지 않겠는가!",
+    "context": "EN :\nI say that we partake in a game of beach volleyball!\nJP :\nビィチィ～ヴァリーボール！皆でやらぬか！"
+  },
+  {
+    "key": "71-content",
+    "original": "나쁘지 않은 타이밍에, 돈키호테가 거들어주었고…",
+    "context": "EN :\nWith Don Quixote's well-timed assist...\nJP :\n悪くないタイミングで、ドンキホーテが助け船を出してくれて…。"
+  },
+  {
+    "key": "72-content",
+    "original": "싸늘해질 뻔한 분위기도 그 덕에 어느 정도 돌아올 수 있었다.",
+    "context": "EN :\nThe almost icy mood seemed to defrost slightly.\nJP :\n冷えそうになった空気もそのおかげで、ある程度元に戻った。"
+  }
+]

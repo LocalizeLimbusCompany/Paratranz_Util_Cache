@@ -1,0 +1,82 @@
+[
+  {
+    "key": "tkt_stagebutton_not_clear-content",
+    "original": "6-48 클리어 시 개방",
+    "context": "EN :\nClear 6-48 to Unlock\nJP :\n6-48クリア時に解放"
+  },
+  {
+    "key": "tkt_stagebutton_normal-content",
+    "original": "스테이지",
+    "context": "EN :\nStages\nJP :\nステージ"
+  },
+  {
+    "key": "tkt_stagebutton_end_event-content",
+    "original": "이벤트 기간 종료",
+    "context": "EN :\nEvent Closed\nJP :\nイベント期間終了"
+  },
+  {
+    "key": "tkt_storybutton_before_start-content",
+    "original": "<size=75%>이벤트 첫 번째 이야기 감상 시 개방</size>",
+    "context": "EN :\n<size=75%>View the 1st event Story Stage to Unlock</size>\nJP :\n<size=75%>イベントストーリー1話を閲覧時に開放</size>"
+  },
+  {
+    "key": "tkt_storybutton_normal-content",
+    "original": "상영관 이동",
+    "context": "EN :\nTo Theater\nJP :\n上映館へ移動"
+  },
+  {
+    "key": "tkt_rewardShopButton-content",
+    "original": "보상 교환",
+    "context": "EN :\nReward Exchange\nJP :\n報酬交換"
+  },
+  {
+    "key": "tkt_scrap_guide_title-content",
+    "original": "이벤트 재화 안내",
+    "context": "EN :\nEvent Currency Guide\nJP :\nイベントアイテム案内"
+  },
+  {
+    "key": "tkt_scrap_guide_desc-content",
+    "original": "이벤트와 주요 이야기의 스테이지 및 던전 또는 거울 던전을 클리어하면 낮은 확률로</color> <color=#c69136>[회중시계 묶음]</color>을 획득할 수 있습니다.\n\n<color=#c69136>[회중시계 묶음]</color>은 획득 즉시, <color=#c69136>[회중시계]</color> 20개로 전환됩니다.",
+    "context": "EN :\nRarely, you may obtain </color>[Pocket Watch Bundle]<color=#c69136> from clearing Event Stages, Main Story Stages, or Mirror Dungeons.\n\n</color>[Pocket Watch Bundle]<color=#c69136> is immediately converted to 20 </color>[Pocket Watch]<color=#c69136> upon acquisition.\nJP :\nイベント・メインストーリーのステージとダンジョン、または鏡ダンジョンをクリアすると低確率で</color><color=#c69136>[懐中時計の束]</color>を獲得することができます。\n\n<color=#c69136>[懐中時計の束]</color>は<color=#c69136>[懐中時計]</color>20個に変換されます。"
+  },
+  {
+    "key": "tkt_rewardpage_desc-content",
+    "original": "이벤트 스테이지와 던전을 클리어할 때마다 <color=#c69136>[회중시계]</color>를 획득할 수 있습니다. 이외에도 주요 이야기\n스테이지와 던전을 최초로 클리어하거나 거울 던전 클리어 시, <color=#c69136>[회중시계]</color>를 획득할 수 있습니다.\n\n이벤트와 주요 이야기의 스테이지 및 던전 또는 거울 던전을 클리어하면 낮은 확률로 <color=#c69136>[회중시계 묶음]</color>을 획득할 수 있으며, <color=#c69136>[회중시계 묶음]</color>은 획득 즉시 <color=#c69136>[회중시계]</color> 20개로 전환됩니다.\n\n<color=#c69136>[보상 교환]</color> 창에서 <color=#c69136>[회중시계]</color>를 지불하여 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nDuring the event, you can earn <color=#c69136>[Pocket Watch]</color> by clearing event Stages and Dungeons. You can also obtain <color=#c69136>[Pocket Watch]</color> by clearing Main Story Stages or Dungeons for the first time, or clearing the Mirror Dungeon.\n\nRarely, you may obtain <color=#c69136>[Pocket Watch Bundle]</color> from clearing Event Stages, Main Story Stages, or Mirror Dungeons,\nand <color=#c69136>[Pocket Watch Bundle]</color> is automatically converted to 20 <color=#c69136>[Pocket Watch]</color> upon acquisition.\n\nIn the <color=#c69136>[Reward Exchange]</color> window, you can purchase various rewards by spending <color=#c69136>[Pocket Watch]</color> you have collected.\nJP :\nイベントステージとダンジョンをクリアする度に<color=#c69136>[懐中時計]</color>を獲得できます。これ以外にもメインストーリー\nステージとダンジョンを初回クリアするか、鏡ダンジョンクリア時に<color=#c69136>[懐中時計]</color>を獲得できます。\n\nイベント・メインストーリーのステージ、または鏡ダンジョンをクリアすれば低確率で<color=#c69136>[懐中時計の束]</color>獲得することができ、<color=#c69136>[懐中時計の束]</color>は獲得すると即時<color=#c69136>[懐中時計]</color>20個に変換されます。\n\n<color=#c69136>[報酬交換]</color>ウィンドウより<color=#c69136>[懐中時計]</color>を支払い、様々な報酬を獲得できます。"
+  },
+  {
+    "key": "tkt_reward_popup_desc-content",
+    "original": "이벤트 스테이지와 던전, 주요 이야기\n최초 클리어, 거울 던전 클리어를 통해\n<color=#c69136>[회중시계]</color>를 획득할 수 있습니다.\n\n<color=#c69136>[보상 교환]</color> 창에서 <color=#c69136>[회중시계]</color>를\n지불하여 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nEarn <color=#c69136>[Pocket Watch]</color> via the following methods:\nEvent Stage & Dungeon clears, Mirror Dungeon clears,\nand Main Story Stage & Dungeon first-time clears.\n\nIn the <color=#c69136>[Reward Exchange]</color> window, you can purchase various rewards\nby spending <color=#c69136>[Pocket Watch]</color> you have collected.\nJP :\nイベントステージとダンジョン、メインストーリー\n初回クリア、鏡ダンジョンをクリアすることで\n<color=#c69136>[懐中時計]</color>を獲得できます。\n\n<color=#c69136>[報酬交換]</color>ウィンドウより<color=#c69136>[懐中時計]</color>を\n支払い、様々な報酬を獲得できます。"
+  },
+  {
+    "key": "tkt_reward_popup_num_of_owned_items-content",
+    "original": "보유 아이템 수",
+    "context": "EN :\nItems Owned\nJP :\n保有アイテム数"
+  },
+  {
+    "key": "tkt_bonusUI_Title-content",
+    "original": "증가",
+    "context": "EN :\nGain\nJP :\n増加"
+  },
+  {
+    "key": "tkt_bonusUI_Title_contain_false-content",
+    "original": "미보유",
+    "context": "EN :\nNot Owned\nJP :\n未保有"
+  },
+  {
+    "key": "tkt_bonusUI_Desc-content",
+    "original": "이벤트 기간 동안 해당 인격, E.G.O 편성 시, <color=#c69136>[회중시계]</color>의 획득량이 상승합니다.\n획득량 상승치 합계는 최대 <color=#c69136>120%</color>까지 적용됩니다.",
+    "context": "EN :\nDuring the event period, deploying the following Identities or E.G.O on your team will\nboost the amount of <color=#c69136>[Pocket Watch]</color> earned.\nYou can earn a maximum of <color=#c69136>120%</color> boost to the amount of event currency earned.\nJP :\nイベント期間中、該当人格・E.G.Oを編成すると<color=#c69136>[懐中時計]</color>の獲得量が上昇します。\n獲得量上昇値の合計は、最大<color=#c69136>120%</color>まで適用されます。"
+  },
+  {
+    "key": "tkt_bonus_popup_title-content",
+    "original": "이벤트 특화 대상",
+    "context": "EN :\nEvent Bonus Units\nJP :\nイベント特化対象"
+  },
+  {
+    "key": "tkt_bonus_preview-content",
+    "original": "이벤트 특화 대상",
+    "context": "EN :\nEvent Bonus Units\nJP :\nイベント特化対象"
+  }
+]

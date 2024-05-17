@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10810_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10810_1-dlg",
+    "original": "떠들지 말고 줄 똑바로 맞춰 서세요. 아침 조회부터 한소리 듣는 건 질색이라서요.",
+    "context": "EN :\nZip it and get in line. I'd prefer it if we didn't have to sit through a scolding in the morning assembly.\nJP :\n騒がずに一列にまっすぐ並んでください。朝礼から小言を言われるのは嫌なので。"
+  },
+  {
+    "key": "lobby_morning_10810_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10810_1-dlg",
+    "original": "…아침 구보는 왜 선택 사항이 아닐까요?\n뛰는 건 상관 없지만, 그… 단체로 거리를 뛰는 건 좀 그렇더라고요.",
+    "context": "EN :\n... Why aren't morning jogs optional?\nI don't mind the running, but... I don't like running in a group. Especially through the streets...\nJP :\n…朝の走り込みはどうして選択制じゃないんですか？\n走るのは問題じゃないんですが、その…団体で道を走るのはちょっとアレなんですよね。"
+  },
+  {
+    "key": "lobby_noon_10810_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10810_1-dlg",
+    "original": "점심시간에 대검을 테이블이나 의자처럼 쓰는 거 꽤 괜찮은 아이디어 같지 않나요?",
+    "context": "EN :\nMaybe we can use these greatswords as tables or chairs during lunch break. How's that for an idea?\nJP :\nお昼の時間に大剣をテーブルや椅子のように使うのって結構良いアイデアだと思いませんか？"
+  },
+  {
+    "key": "lobby_night_10810_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10810_1-dlg",
+    "original": "밤에도 지정 구역을 순찰하고는 있지만, 그래도 조심하세요.\n방패의 그늘도 밤에는 희미해지거든요.",
+    "context": "EN :\nOf course, we're always keeping up our patrols in each of our designated zones even during nighttime... but you should still be careful.\nEven the shield's shadow grows dim under the moonlight.\nJP :\n夜も指定区域を巡察してはいますけど、それでも気を付けてください。\n盾の陰も、夜には薄れますから。"
+  },
+  {
+    "key": "smalltalk_10810_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10810_1-dlg",
+    "original": "세상에… 대검에 갑옷까지 입고 있으면 느릴 거라는 구시대적인 발상을 하는 사람이 아직도 있을 줄이야.\n이거, 생각보다 가벼워요. 공방에서 만든 장비인데 당연하지 않겠어요?",
+    "context": "EN :\nWow... Do you seriously think this greatsword and a full suit of armor are heavy, unwieldy, and clunky? You know that misconception was debunked forever ago, right?\nThese things are lighter than they look. They're workshop-made, so it should be obvious.\nJP :\nまさか…大剣に鎧まで着込めば遅いだろうという旧時代的な発想をする人がまだいるだなんて。\nこれ、想像以上に軽いですよ。工房で作った装備なんですし、当たり前じゃないです？"
+  },
+  {
+    "key": "smalltalk_10810_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10810_2-dlg",
+    "original": "기사도라니… 그런 건 사고나 치고 돌아다니는 편력기사들에게 찾는 게 빠를 걸요.\n저희는 츠바이 협회 소속의 방패지, 동화 속의 기사님이 아니거든요.",
+    "context": "EN :\nChivalry, really...? Take that to one of those Knight-errant troublemakers.\nWe're just shields working for the Zwei Association, not noble knights from your fairy tales.\nJP :\n騎士道だなんて…そんなのは事故でも起こしてさすらってる遍歴の騎士から見出す方が早いと思いますよ。\n我々はツヴァイ協会所属の盾であって、童話の中の騎士じゃないですので。"
+  },
+  {
+    "key": "smalltalk_10810_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10810_3-dlg",
+    "original": "고래잡이에 미쳐있던 배 위보다는 보람차고… 날개보다는 덜 지루하지만… 언제까지 여기 있을 수는 없겠죠.\n지키는 걸 천직으로 여기고 살기엔… 반드시 복수해야 할 사람이 한 명이 있어서요.",
+    "context": "EN :\nThis is more fulfilling than that insanity that was Whaling, and more exciting than working for a Wing, but... I don't think I'll be here forever.\nI can't stand the irony of making my living by protecting people... when I live to get my revenge on that bastard.\nJP :\n鯨捕りに狂っていた船の上よりかはやり甲斐があって…翼より詰まらなくはないけど…いつまでもここにいるわけにはいきませんよね。\n守ることを天職と思って生きるにも…必ず復讐しなければならない人が一人ますので。"
+  },
+  {
+    "key": "smalltalk_10810_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10810_4-dlg",
+    "original": "의뢰인 주변에 자연스레 녹아들어서 경호하는 건… 남부 협회가 잘하는 일이죠.\n저희는 이렇게 대검을 들고… 올테면 와보시지… 같은 느낌으로 옆에 서있는 게 전문이거든요.",
+    "context": "EN :\nLow-key protection job, pretending like they're not even there... now that's how the southern branch does it. Our job is to stand imposingly next to our clients with these huge swords and intimidate any assailants before they even dare to attack.\nJP :\n依頼人の周辺に自然と溶け込んで警護するのは…南部協会が得意とすることですね。\n我々はこうやって大剣を持って…来るなら来い…という感じで横に立っているのが専門なので。"
+  },
+  {
+    "key": "smalltalk_10810_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10810_5-dlg",
+    "original": "서부에서 스스로를 기사단이라고 자칭하는 사람들을 너무 믿지 마세요. M사의 월면기사단처럼 날개 소속이면 모를까, 보통은 해결사 사무소랑 크게 다르지 않거든요.\n괜한 로망을 가지고 접근했다가 피 보지 마시고… 보호의뢰는 받은 만큼 확실한 저희 츠바이에 의뢰하시죠.",
+    "context": "EN :\nDon't put too much faith in those 'Knight Orders' of the west unless they're part of a Wing like M Corp.'s Order of the Lunar Visage. Otherwise, they're no different from your usual Fixer Offices, so don't get your hopes up.\nIf you want a proper protection job, always hire experts like the Zwei and stay away from those amateurs.\nJP :\n西部で自らを騎士団と自称する人をあまり信じすぎないでください。M社の月面騎士団みたいに翼所属ならまだしも、普通はフィクサー事務所と大きく変わらないんですよね。\n変にロマンを抱きながら接触して血を見るより…保護依頼を受けられるくらい腕が確かな我がツヴァイにご依頼ください。"
+  },
+  {
+    "key": "gacksung_10810_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10810_1-dlg",
+    "original": "안심하세요. 제 뒤에 있는 한, 당신에게 화살 하나 닿지 못할 테니까요.",
+    "context": "EN :\nDon't worry. Not even a single arrow will get through as long as I stand between you and your enemies.\nJP :\n安心してください。私の後ろにいる限り、あなたには矢の一本も当たらないでしょうから。"
+  },
+  {
+    "key": "neglect_10810_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10810_1-dlg",
+    "original": "슬금슬금 어딜 가시는 건데요. 조회 빼먹으려는 거 아니죠?",
+    "context": "EN :\nHey, where are you slinking off to? Not thinking of skipping the morning assembly, are you?\nJP :\nコソコソどこに行くつもりですか。朝会抜けるつもりじゃないですよね？"
+  },
+  {
+    "key": "formation_10810_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10810_1-dlg",
+    "original": "지정 보호 구역에 소요 사태 확인.",
+    "context": "EN :\nDisruption in the territory protection zone confirmed.\nJP :\n指定保護区域に騒乱を確認。"
+  },
+  {
+    "key": "battleentry_10810_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10810_1-dlg",
+    "original": "목표 위치로 돌격 중.",
+    "context": "EN :\nAdvancing to the target location.\nJP :\n目標位置へ突撃中。"
+  },
+  {
+    "key": "battle_select_10810_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10810_1-dlg",
+    "original": "전투중이니까, 짧게 부탁드리죠.",
+    "context": "EN :\nWe're mid-battle. Keep it short.\nJP :\n戦闘中なので、手短にお願いします。"
+  },
+  {
+    "key": "battle_endcommand_10810_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10810_1-dlg",
+    "original": "위험 인물 발견. 제압할게요.",
+    "context": "EN :\nPotentially dangerous individual identified. Moving in to suppress.\nJP :\n危険人物発見。制圧しますね。"
+  },
+  {
+    "key": "battle_enemy_break_10810_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10810_1-dlg",
+    "original": "츠바이에 의뢰했다면…",
+    "context": "EN :\nShould've contracted the Zwei...\nJP :\nツヴァイに依頼したなら…。"
+  },
+  {
+    "key": "battle_break_10810_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10810_1-dlg",
+    "original": "어, 어어…?",
+    "context": "EN :\nWh— huh...?\nJP :\nあっ、ああっ…？"
+  },
+  {
+    "key": "battle_kill_10810_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10810_1-dlg",
+    "original": "…대검에 머리가 쪼개지진 않았을텐데.",
+    "context": "EN :\n... or your head wouldn't have been crushed by my greatsword.\nJP :\n…頭を大剣で割られることはなかったでしょうに。"
+  },
+  {
+    "key": "battle_dead_10810_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10810_1-dlg",
+    "original": "당했네요… 빨리 지원 요청을…",
+    "context": "EN :\nDammit, they got us... We need to call for reinforcements...\nJP :\nやられましたね…早く支援要請を…。"
+  },
+  {
+    "key": "choice_success_p_10810_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10810_2-dlg",
+    "original": "흠흠. 의뢰비 인상에 대해서 대화를 나눠볼 만한 성과 아닌가요?",
+    "context": "EN :\nAhem, ahem. I'd say our performance might just warrant a bonus for going above and beyond.\nJP :\nふむふむ。依頼費アップについて対話しても良いような成果ではないでしょうか？"
+  },
+  {
+    "key": "choice_fail_n_10810_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10810_1-dlg",
+    "original": "제가 지켜야 할 대상은 아니었잖아요.",
+    "context": "EN :\nNot my client anyway.\nJP :\n私が守るべき対象では無かったじゃないですか。"
+  },
+  {
+    "key": "battle_clear_10810_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10810_1-dlg",
+    "original": "주변 피해가 조금 있었네요. 이것도 다 실적에서 차감되겠지만… 그래도 사람은 지켰으니 다행이죠.",
+    "context": "EN :\nWe had some collateral damage... I guess it'll get deducted from the performance review. Hey, at least we managed to protect our client.\nJP :\n周辺に被害が少しありましたね。これも全て実績から差し引かれるとは思いますが…それでも人は守れたので幸いです。"
+  },
+  {
+    "key": "battle_clear_ex_10810_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10810_1-dlg",
+    "original": "인명 피해 없음. 기물 피해 경미… 완벽한데요? 소문이 퍼지면… 당분간 귀하신 분들의 영지 보호 의뢰가 끊이질 않겠어요.",
+    "context": "EN :\nNo casualties, minimum collateral damage... that was perfect. Hey, if this story gets out, who knows? Maybe some important folks of the City might be hiring us for those dominion protection jobs.\nJP :\n人命被害無し。器物被害軽微…完璧ですね？噂が広まれば…当分は高貴な方からの領地保護依頼が絶えないでしょう。"
+  },
+  {
+    "key": "battle_defeat_10810_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10810_1-dlg",
+    "original": "지역 보호 실패… 하아… 제 실수 때문에 츠바이의 명예가 땅에 떨어지겠네요…",
+    "context": "EN :\nTerritory protection failed... Haah... looks like I'll be leaving a mark on the honor of the Zwei.\nJP :\n地域保護失敗…。はぁ…。私の失敗のせいでツヴァイの名誉が地に墜ちることになりそうですね…。"
+  }
+]

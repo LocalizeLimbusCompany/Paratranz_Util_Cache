@@ -1,0 +1,107 @@
+[
+  {
+    "key": "CleanUp_LowMorale-name",
+    "original": "정리 강박",
+    "context": "EN :\nOrganization Compulsion\nJP :\n整理強迫"
+  },
+  {
+    "key": "CleanUp_LowMorale-desc",
+    "original": "- 사기 저하\n- 합 패배 시 정신력 5 감소. 피격 시 다음 턴에 신속 1 얻음 (최대 2)",
+    "context": "EN :\n- Low Morale\n- Lose 5 SP on Clash Lose. Gain 1 Haste next turn when hit (max 2)\nJP :\n- 士気低下\n- マッチ敗北時に精神力が5減少。被ダメージ時、次のターンにクイック1を得る(最大2)"
+  },
+  {
+    "key": "CleanUp_LowMorale-summary",
+    "original": "합 패배 시 정신력 5 감소. 피격 시 다음 턴에 신속 1 얻음",
+    "context": "EN :\nLose 5 SP on Clash Lose. Gain 1 Haste next turn when hit\nJP :\n- マッチ敗北時に精神力が5減少。被ダメージ時、次のターンにクイック1を得る"
+  },
+  {
+    "key": "CleanUp_Panic-name",
+    "original": "정리 강박",
+    "context": "EN :\nOrganization Compulsion\nJP :\n整理強迫"
+  },
+  {
+    "key": "CleanUp_Panic-desc",
+    "original": "- 패닉\n- 취약 2 얻음. 피격 시 다음 턴에 신속 1 얻음 (최대 3)",
+    "context": "EN :\n- Panic\n- Gain 2 Fragile. Gain 1 Haste next turn when hit (max 3)\nJP :\n- パニック\n- 脆弱2を得る。被ダメージ時、次のターンにクイック1を得る(最大3)"
+  },
+  {
+    "key": "CleanUp_Panic-summary",
+    "original": "취약 2 얻음. 피격 시 다음 턴에 신속 1 얻음",
+    "context": "EN :\nGain 3 Fragile. Gain 1 Haste next turn when hit\nJP :\n脆弱2を得る。被ダメージ時、次のターンにクイック1を得る"
+  },
+  {
+    "key": "Acclamation_LowMorale-name",
+    "original": "저택의 메아리",
+    "context": "EN :\nEchoes of the Manor\nJP :\n邸宅の木霊"
+  },
+  {
+    "key": "Acclamation_LowMorale-desc",
+    "original": "- 사기 저하\n- 자신의 합 위력 -1. 앞면 적중 시 피해량 +10%",
+    "context": "EN :\n- Low Morale\n- Clash Power -1 on self. Deal +10% more damage on Heads Hit\nJP :\n- 士気低下\n- 自分のマッチ威力 -1, 表面的中時のダメージ量 +10%"
+  },
+  {
+    "key": "Acclamation_LowMorale-summary",
+    "original": "자신의 합 위력 -1. 앞면 적중 시 피해량 +10%",
+    "context": "EN :\nClash Power -1 on self. Deal +10% more damage on Heads Hit\nJP :\n自分のマッチ威力 -1, 表面的中時のダメージ量 +10%"
+  },
+  {
+    "key": "Acclamation_Panic-name",
+    "original": "저택의 메아리",
+    "context": "EN :\nEchoes of the Manor\nJP :\n邸宅の木霊"
+  },
+  {
+    "key": "Acclamation_Panic-desc",
+    "original": "- 패닉\n- 자신의 합 위력 -2. 피해량 증가 1 얻음",
+    "context": "EN :\n- Panic\n- Clash Power -2 on self. Gain 1 Damage Up\nJP :\n- パニック\n- 自分のマッチ威力 -1, 表面的中時のダメージ量 +10%"
+  },
+  {
+    "key": "Acclamation_Panic-summary",
+    "original": "자신의 합 위력 -2. 피해량 증가 1 얻음",
+    "context": "EN :\nClash Power -2 on self. Gain 1 Damage Up\nJP :\n- 自分のマッチ威力 -1, 表面的中時のダメージ量 +10%"
+  },
+  {
+    "key": "Unstable_LowMorale-name",
+    "original": "분열",
+    "context": "EN :\nSplitting\nJP :\n分裂"
+  },
+  {
+    "key": "Unstable_LowMorale-desc",
+    "original": "- 사기 저하\n- 합 진행 시 매 합마다 자신의 체력 2 피해, 턴 시작 시 공격 레벨 증가 1 얻음.",
+    "context": "EN :\n- Low Morale\n- Lose 2 HP on self with every Clash. Gain 1 Offense Level Up at Turn Start.\nJP :\n- 士気低下\n- マッチ進行時、各マッチごとに自分へ2ダメージ。ターン開始時に攻撃レベル増加1を得る。"
+  },
+  {
+    "key": "Unstable_LowMorale-summary",
+    "original": "합마다 자신의 체력 2 피해",
+    "context": "EN :\nLose 2 HP on self with every Clash\nJP :\nマッチごとに自分へ2ダメージ"
+  },
+  {
+    "key": "Unstable_Panic-name",
+    "original": "분열",
+    "context": "EN :\nSplitting\nJP :\n分裂"
+  },
+  {
+    "key": "Unstable_Panic-desc",
+    "original": "- 패닉\n- 합 진행 시 매 합마다 자신의 체력 3 피해, 턴 시작 시 공격 레벨 증가 2 얻음.",
+    "context": "EN :\n- Panic\n- Lose 3 HP on self with every Clash. Gain 2 Offense Level Up at Turn Start.\nJP :\n- パニック\n- マッチ進行時、各マッチごとに自分へ3ダメージ。ターン開始時に攻撃レベル増加2を得る。"
+  },
+  {
+    "key": "Unstable_Panic-summary",
+    "original": "합마다 자신의 체력 3 피해",
+    "context": "EN :\nLose 3 HP on self with every Clash\nJP :\nマッチごとに自分へ3ダメージ"
+  },
+  {
+    "key": "AaCfPaBa-name",
+    "original": "상실",
+    "context": "EN :\nBereavement\nJP :\n喪失"
+  },
+  {
+    "key": "AaCfPaBa-desc",
+    "original": "턴 종료 시 정신력이 -15 이상이면, 정신력 10 감소.\n피격 시 정신력 2 감소, 다음 턴에 공격 레벨 증가 1 얻음.(턴 당 3회)\n턴 시작 시 정신력이 0 미만이면, 공격 위력 증가 3 얻음.",
+    "context": "EN :\nTurn End: at -15 or higher SP, lose 10 SP.\nWhen hit, lose 2 SP and gain 1 Offense Level Up next turn. (3 times per turn)\nTurn Start: at less than 0 SP, gain 3 Attack Power Up.\nJP :\nターン終了時に精神力が-15以上なら、精神力が10減少。\n被ダメージ時に精神力が2減少、次のターンに攻撃レベル増加1を得る(1ターンにつき3回)\nターン開始時に精神力が0未満なら、攻撃威力増加3を得る。"
+  },
+  {
+    "key": "AaCfPaBa-summary",
+    "original": "피격 시 정신력 2 감소, 다음 턴에 공격 레벨 증가 1 얻음.\n턴 시작 시 정신력이 0 미만이면, 공격 위력 증가 3 얻음.",
+    "context": "EN :\nWhen hit, lose SP and gain 1 Offense Level Up next turn.\nTurn Start: at less than 0 SP, gain 3 Attack Power Up.\nJP :\n被ダメージ時に精神力が2減少、次のターンに攻撃レベル増加1を得る\nターン開始時に精神力が0未満なら、攻撃威力増加3を得る"
+  }
+]

@@ -1,0 +1,732 @@
+[
+  {
+    "key": "9008801-levelList$[0].name",
+    "original": "두려움 심기",
+    "context": "EN :\nSow Fear\nJP :\n恐怖を植える"
+  },
+  {
+    "key": "9008801-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 대상의 정신력 피해 2",
+    "context": "EN :\n[OnSucceedAttackTail] Deal 2 SP damage\nJP :\n[OnSucceedAttackTail] 対象へ精神力ダメージ2"
+  },
+  {
+    "key": "9008801-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 대상의 정신력 피해 2",
+    "context": "EN :\n[OnSucceedAttackTail] Deal 2 SP damage\nJP :\n[OnSucceedAttackTail] 対象へ精神力ダメージ2"
+  },
+  {
+    "key": "9008802-levelList$[0].name",
+    "original": "공포 새기기",
+    "context": "EN :\nEngrave Horror\nJP :\n恐怖を刻む"
+  },
+  {
+    "key": "9008802-levelList$[0].desc",
+    "original": "[WinDuel] 대상의 정신력 피해 5, 자신의 체력 10만큼 회복",
+    "context": "EN :\n[WinDuel] Deal 10 SP damage to target; this unit heals 10 HP\nJP :\n[WinDuel] 対象へ精神力ダメージ5, 自分の体力を10回復"
+  },
+  {
+    "key": "9008802-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 1を付与"
+  },
+  {
+    "key": "9008803-levelList$[0].name",
+    "original": "공포 수확",
+    "context": "EN :\nReap Horror\nJP :\n恐怖収穫"
+  },
+  {
+    "key": "9008803-levelList$[0].desc",
+    "original": "대상의 정신력이 20미만이면, 이 공격의 체력 회복량 20% 추가 회복",
+    "context": "EN :\nIf target’s SP is below 20, heal 20% more HP from this attack\nJP :\n対象の精神力が20未満なら、この攻撃の体力回復量を20%追加で回復"
+  },
+  {
+    "key": "9008803-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 대상의 정신력 피해 3",
+    "context": "EN :\n[OnSucceedAttackTail] Deal 3 SP damage\nJP :\n[OnSucceedAttackTail] 対象へ精神力ダメージ3"
+  },
+  {
+    "key": "9008803-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 피해량의 30%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 30% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の30%分体力を回復"
+  },
+  {
+    "key": "9008803-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 대상의 정신력 피해 3",
+    "context": "EN :\n[OnSucceedAttackTail] Deal 3 SP damage\nJP :\n[OnSucceedAttackTail] 対象へ精神力ダメージ3"
+  },
+  {
+    "key": "9008803-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 피해량의 30%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 30% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の30%分体力を回復"
+  },
+  {
+    "key": "9008804-levelList$[0].name",
+    "original": "정신 마비",
+    "context": "EN :\nParalyze Mind\nJP :\n精神麻痺"
+  },
+  {
+    "key": "9008804-levelList$[0].desc",
+    "original": "대상의 정신력이 -15미만이면, 피해량 +50%",
+    "context": "EN :\nIf target's SP is below -15, deal +50% damage\nJP :\n対象の精神力が-15未満なら、与ダメージ量+10%"
+  },
+  {
+    "key": "9008804-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 2を付与"
+  },
+  {
+    "key": "9008804-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 2を付与"
+  },
+  {
+    "key": "9008901-levelList$[0].name",
+    "original": "-... - ..-",
+    "context": "EN :\n-... - ..-\nJP :\n-... - ..-"
+  },
+  {
+    "key": "9008901-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Sinking\nJP :\n[OnSucceedAttack] 沈潜 3を付与"
+  },
+  {
+    "key": "9008901-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Sinking\nJP :\n[OnSucceedAttack] 沈潜 3を付与"
+  },
+  {
+    "key": "9008902-levelList$[0].name",
+    "original": "-- ... -.-",
+    "context": "EN :\n-- ... -.-\nJP :\n-- ... -.-"
+  },
+  {
+    "key": "9008902-levelList$[0].desc",
+    "original": "[WinDuel] 창백한 소음 1 부여",
+    "context": "EN :\n[WinDuel] Inflict 1 Pallid Noise\nJP :\n[WinDuel] 蒼白な騒音 1を付与"
+  },
+  {
+    "key": "9008902-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Sinking\nJP :\n[OnSucceedAttack] 沈潜 3を付与"
+  },
+  {
+    "key": "9008902-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 침잠 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +3 Sinking Count\nJP :\n[OnSucceedAttackHead] 沈潜 回数が3増加"
+  },
+  {
+    "key": "9008903-levelList$[0].name",
+    "original": "...- .",
+    "context": "EN :\n...- .\nJP :\n...- ."
+  },
+  {
+    "key": "9008903-levelList$[0].desc",
+    "original": "자신을 제외한 살아있는 백화 상태의 아군이 있다면, 아군당 최종 위력 +1",
+    "context": "EN :\nFinal Power +1 for each surviving Pallidified ally (not counting this unit)\nJP :\n自分を除いた生存している白化 状態の味方がいれば、味方1つにつき最終威力 +1"
+  },
+  {
+    "key": "9008903-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 40%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 40% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の40%分体力を回復"
+  },
+  {
+    "key": "9008903-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상이 가지고있는 버프 하나를 다음 턴에 자신이 얻음.\n(공격 위력 증가, 신속, 피해량 증가, <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">보호</link></u></color>에 한함)",
+    "context": "EN :\n[OnSucceedAttack] Copy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, Damage Up, and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)\nJP :\n[OnSucceedAttack] 対象の持つバフ1つを次のターンに自分が得る。\n(攻撃威力増加, クイック, ダメージ量増加, <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">保護</link></u></color>に限る)"
+  },
+  {
+    "key": "9008903-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 40%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 40% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の40%分体力を回復"
+  },
+  {
+    "key": "9009001-levelList$[0].name",
+    "original": "..-. .",
+    "context": "EN :\n..-. .\nJP :\n..-. ."
+  },
+  {
+    "key": "9009001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が2増加"
+  },
+  {
+    "key": "9009001-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が2増加"
+  },
+  {
+    "key": "9009002-levelList$[0].name",
+    "original": "..-. . --",
+    "context": "EN :\n..-. . --\nJP :\n..-. . --"
+  },
+  {
+    "key": "9009002-levelList$[0].desc",
+    "original": "[WinDuel] 창백한 소음 1 부여",
+    "context": "EN :\n[WinDuel] Inflict 1 Pallid Noise\nJP :\n[WinDuel] 蒼白な騒音 1を付与"
+  },
+  {
+    "key": "9009002-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が2増加"
+  },
+  {
+    "key": "9009002-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 침잠 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Sinking\nJP :\n[OnSucceedAttackHead] 沈潜 2を付与"
+  },
+  {
+    "key": "9009003-levelList$[0].name",
+    "original": ".-.. -",
+    "context": "EN :\n.-.. -\nJP :\n.-.. -"
+  },
+  {
+    "key": "9009003-levelList$[0].desc",
+    "original": "[WinDuel] 자신을 제외한 살아있는 백화 상태의 아군 수당 대상의 정신력 피해 1",
+    "context": "EN :\n[WinDuel] Deal 1 SP damage to target for each surviving Pallidified ally (not counting this unit)\nJP :\n[WinDuel] 自分を除いた生存している白化状態の味方の数だけ対象へ精神力ダメージ1"
+  },
+  {
+    "key": "9009003-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 40%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 40% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の40%分体力を回復"
+  },
+  {
+    "key": "9009003-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "대상이 가지고있는 버프 하나를 다음 턴에 자신이 얻음.\n(공격 위력 증가, 신속, 피해량 증가, <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">보호</link></u></color>에 한함)",
+    "context": "EN :\nCopy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, Damage Up, and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)\nJP :\n対象の持つバフ1つを次のターンに自分が得る。\n(攻撃威力増加, クイック, ダメージ量増加, <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">保護</link></u></color>に限る)"
+  },
+  {
+    "key": "9009003-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 40%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 40% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の40%分体力を回復"
+  },
+  {
+    "key": "9009101-levelList$[0].name",
+    "original": "-... .…",
+    "context": "EN :\n-... .…\nJP :\n-... .…"
+  },
+  {
+    "key": "9009101-levelList$[0].desc",
+    "original": "대상에게 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">침잠</link></u></color>이 있다면, 체력 회복 효과가 체력이 가장 낮은 백화 상태의 아군 1명에게 같이 적용됨",
+    "context": "EN :\nIf the target has <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, the HP heal effect also applies to 1 other Pallidified ally with the lowest SP\nJP :\n対象に<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</link></u></color>があるなら体力回復効果が最も低い白化状態の味方1名へ、同様に適用される"
+  },
+  {
+    "key": "9009101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 30%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 30% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の30%分体力を回復"
+  },
+  {
+    "key": "9009101-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 침잠 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Sinking\nJP :\n[OnSucceedAttackHead] 沈潜 1を付与"
+  },
+  {
+    "key": "9009101-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 30%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 30% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の30%分体力を回復"
+  },
+  {
+    "key": "9009101-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 침잠 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Sinking\nJP :\n[OnSucceedAttackHead] 沈潜 1を付与"
+  },
+  {
+    "key": "9009102-levelList$[0].name",
+    "original": ".--- .",
+    "context": "EN :\n.--- .\nJP :\n.--- ."
+  },
+  {
+    "key": "9009102-levelList$[0].desc",
+    "original": "대상에게 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">침잠</link></u></color>이 있다면, 체력 회복 효과가 체력이 가장 낮은 백화 상태의 아군 1명에게 같이 적용됨",
+    "context": "EN :\nIf the target has <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, the HP heal effect also applies to 1 other Pallidified ally with the lowest SP\nJP :\n対象に<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</link></u></color>があるなら体力回復効果が最も低い白化状態の味方1名へ、同様に適用される"
+  },
+  {
+    "key": "9009102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 50%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 50% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の50%分体力を回復"
+  },
+  {
+    "key": "9009102-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 창백한 소음 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Pallid Noise\nJP :\n[OnSucceedAttack] 蒼白な騒音 2を付与"
+  },
+  {
+    "key": "9009103-levelList$[0].name",
+    "original": "-. .…",
+    "context": "EN :\n-. .…\nJP :\n-. .…"
+  },
+  {
+    "key": "9009103-levelList$[0].desc",
+    "original": "[WhenUse] 대상에게 <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">창백한 소음</link></u></color>이 있을 때, 자신을 제외한 체력이 가장 낮은 백화 상태의 아군 체력 30 회복",
+    "context": "EN :\n[WhenUse] If the target has <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Pallid Noise</link></u></color>, all other Pallidified allies heal 30 HP\nJP :\n[WhenUse] 対象に<sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">蒼白な騒音</link></u></color>があるとき、自分を除く体力が最も低い白化状態の味方の体力を30回復"
+  },
+  {
+    "key": "9009103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "대상이 가지고있는 버프 하나를 다음 턴에 자신이 얻음.\n(공격 위력 증가, 신속, 피해량 증가, <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">보호</link></u></color>에 한함)",
+    "context": "EN :\nCopy one of the buffs currently applied to the target. Gain the copied buff next turn.\n(Limited to: Attack Power Up, Haste, Damage Up, and <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)\nJP :\n対象の持つバフ1つを次のターンに自分が得る。\n(攻撃威力増加, クイック, ダメージ量増加, <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">保護</link></u></color>に限る)"
+  },
+  {
+    "key": "9009103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 체력 20 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 20 HP on self\nJP :\n[OnSucceedAttack] 自分の体力を20回復"
+  },
+  {
+    "key": "9009201-levelList$[0].name",
+    "original": "-- . -.-",
+    "context": "EN :\n-- . -.-\nJP :\n-- . -.-"
+  },
+  {
+    "key": "9009201-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Tremor\nJP :\n[OnSucceedAttack] 振動 3を付与"
+  },
+  {
+    "key": "9009201-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Tremor\nJP :\n[OnSucceedAttack] 振動 3を付与"
+  },
+  {
+    "key": "9009202-levelList$[0].name",
+    "original": "-... .-",
+    "context": "EN :\n-... .-\nJP :\n-... .-"
+  },
+  {
+    "key": "9009202-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 자신을 제외한 무작위 아군 1명에게 보호 1 부여. 대상이 백화 상태면 추가로 1 부여",
+    "context": "EN :\n[WhenUse] Apply 1 Protection to 1 other random ally next turn. If the ally is a Pallidified ally, apply 1 additional Protection.\nJP :\n[WhenUse] 次のターンに自分を除いたランダムな味方1名に保護 1を付与。対象が白化状態なら、追加で1付与"
+  },
+  {
+    "key": "9009202-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 횟수 4 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +4 Tremor Count\nJP :\n[OnSucceedAttack] 振動 回数が4増加"
+  },
+  {
+    "key": "9009203-levelList$[0].name",
+    "original": "-.-. ..-",
+    "context": "EN :\n-.-. ..-\nJP :\n-.-. ..-"
+  },
+  {
+    "key": "9009203-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "9009203-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 진동 횟수 2 감소",
+    "context": "EN :\n[OnSucceedAttack] Reduce Tremor Count by 2\nJP :\n[OnSucceedAttack] 振動 回数が2減少"
+  },
+  {
+    "key": "9009203-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 창백한 소음 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Pallid Noise\nJP :\n[OnSucceedAttack] 蒼白な騒音 1を付与"
+  },
+  {
+    "key": "9009203-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 10 부여, 파열 횟수 4 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 10 Rupture and +4 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 10を付与、破裂 回数4増加"
+  },
+  {
+    "key": "9009204-levelList$[0].name",
+    "original": ".--. .",
+    "context": "EN :\n.--. .\nJP :\n.--. ."
+  },
+  {
+    "key": "9009204-levelList$[0].desc",
+    "original": "[StartBattle] 다음 턴에 자신을 제외한 백화 상태의 아군 2명당 보호 1 얻음\n보호막이 있는 동안 피격 시 공격자에게 진동 1 부여",
+    "context": "EN :\n[StartBattle] Gain 1 Protection for every 2 Pallidified ally (not counting this unit)\nWhen attacked while this unit has Shield, inflict 1 Tremor to the attacker\nJP :\n[StartBattle] 次のターンに自分を除く白化状態の味方2名につき、保護 1を得る\nバリアがあるとき、被ダメージ時に攻撃者に振動1を付与"
+  },
+  {
+    "key": "9009301-levelList$[0].name",
+    "original": "..-. .",
+    "context": "EN :\n..-. .\nJP :\n..-. ."
+  },
+  {
+    "key": "9009301-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 방어 레벨 감소 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Defense Level Down\nJP :\n[OnSucceedAttack] 防御レベル減少 2を付与"
+  },
+  {
+    "key": "9009302-levelList$[0].name",
+    "original": ".-.. .",
+    "context": "EN :\n.-.. .\nJP :\n.-.. ."
+  },
+  {
+    "key": "9009302-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 자신을 제외한 무작위 백화 상태의 아군 1명에게 피해량 증가 1을 부여",
+    "context": "EN :\n[WhenUse] Apply 1 Damage Up to 1 other random Pallidified ally next turn\nJP :\n[WhenUse] 次のターンに自分を除いたランダムな白化状態の味方1名にダメージ量増加 1を付与"
+  },
+  {
+    "key": "9009302-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 마비 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Paralyze\nJP :\n[OnSucceedAttack] 麻痺 2を付与"
+  },
+  {
+    "key": "9009302-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 창백한 소음 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Pallid Noise\nJP :\n[OnSucceedAttackHead] 蒼白な騒音 1を付与"
+  },
+  {
+    "key": "9009303-levelList$[0].name",
+    "original": ".-.. .-",
+    "context": "EN :\n.-.. .-\nJP :\n.-.. .-"
+  },
+  {
+    "key": "9009303-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 자신을 포함한 백화 상태의 무작위 아군 1명에게 공격 위력 증가 1을 부여",
+    "context": "EN :\n[WhenUse] Apply 1 Damage Up to 1 random Pallidified ally next turn\nJP :\n[WhenUse] 次のターンに自分を含めた白化状態のランダムな味方1名に攻撃威力増加 1を付与"
+  },
+  {
+    "key": "9009303-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 방어 레벨 감소 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Defense Level Down\nJP :\n[OnSucceedAttack] 防御レベル減少 2を付与"
+  },
+  {
+    "key": "9009303-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 창백한 소음 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Pallid Noise\nJP :\n[OnSucceedAttack] 蒼白な騒音 1を付与"
+  },
+  {
+    "key": "9009303-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 방어 레벨 감소 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Defense Level Down\nJP :\n[OnSucceedAttack] 防御レベル減少 2を付与"
+  },
+  {
+    "key": "9009401-levelList$[0].name",
+    "original": "--. . ...-",
+    "context": "EN :\n--. . ...-\nJP :\n--. . ...-"
+  },
+  {
+    "key": "9009401-levelList$[0].desc",
+    "original": "대상에게 <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">창백한 소음</link></u></color>이 있을 때, 자신을 제외한 살아있는 아군당 대상의 정신력 피해 1",
+    "context": "EN :\nIf the target has <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Pallid Noise</link></u></color>, deal 1 SP damage to target for every other surviving ally\nJP :\n対象に<sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">蒼白な騒音</link></u></color>があるとき、自分を除く生存している味方1つにつき対象へ精神力ダメージ1"
+  },
+  {
+    "key": "9009401-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が2増加"
+  },
+  {
+    "key": "9009401-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 출혈 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Bleed\nJP :\n[OnSucceedAttackHead] 出血 3を付与"
+  },
+  {
+    "key": "9009402-levelList$[0].name",
+    "original": "...- …",
+    "context": "EN :\n...- …\nJP :\n...- …"
+  },
+  {
+    "key": "9009402-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 창백한 소음 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Pallid Noise\nJP :\n[OnSucceedAttack] 蒼白な騒音 1を付与"
+  },
+  {
+    "key": "9009402-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が3増加"
+  },
+  {
+    "key": "9009402-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bleed\nJP :\n[OnSucceedAttack] 出血 3を付与"
+  },
+  {
+    "key": "9009403-levelList$[0].name",
+    "original": ".--. .... -",
+    "context": "EN :\n.--. .... -\nJP :\n.--. .... -"
+  },
+  {
+    "key": "9009403-levelList$[0].desc",
+    "original": "[WinDuel] 창백한 소음 1 부여",
+    "context": "EN :\n[WinDuel] Inflict 1 Pallid Noise\nJP :\n[WinDuel] 蒼白な騒音 1を付与"
+  },
+  {
+    "key": "9009403-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 출혈 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Bleed next turn\nJP :\n[OnSucceedAttack] 次のターンに出血 4を付与"
+  },
+  {
+    "key": "9009403-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 취약 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Fragile next turn\nJP :\n[OnSucceedAttack] 次のターンに脆弱 2を付与"
+  },
+  {
+    "key": "9009404-levelList$[0].name",
+    "original": "-.- -",
+    "context": "EN :\n-.- -\nJP :\n-.- -"
+  },
+  {
+    "key": "9009404-levelList$[0].desc",
+    "original": "보호막이 남았을 때 피격 시 대상에게 창백한 소음 1 부여\n[EndBattle] 보호막이 남았을 때, 다음 턴에 호흡 3을 얻음.",
+    "context": "EN :\nWhen attacked while this unit has Shield, inflict 1 Pallid Noise to the target\n[EndBattle] If this unit has Shield, gain 3 Poise next turn\nJP :\nバリアが残っているとき、被ダメージ時に対象に蒼白な騒音 1を付与\n[EndBattle] バリアが残っているとき、次のターンにて呼吸 3を得る。"
+  },
+  {
+    "key": "9009501-levelList$[0].name",
+    "original": ".--. -",
+    "context": "EN :\n.--. -\nJP :\n.--. -"
+  },
+  {
+    "key": "9009501-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "9009501-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "9009502-levelList$[0].name",
+    "original": ".-.. - ..-",
+    "context": "EN :\n.-.. - ..-\nJP :\n.-.. - ..-"
+  },
+  {
+    "key": "9009502-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 1を付与"
+  },
+  {
+    "key": "9009502-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "9009502-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 피해량 감소 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Damage Down next turn\nJP :\n[OnSucceedAttack] 次のターンにダメージ量減少 2を付与"
+  },
+  {
+    "key": "9009502-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "9009503-levelList$[0].name",
+    "original": "-- .... -",
+    "context": "EN :\n-- .... -\nJP :\n-- .... -"
+  },
+  {
+    "key": "9009503-levelList$[0].desc",
+    "original": "[WhenUse] 아군이 살아있다면, 1명당 보호 1을 얻음. (최대 3)",
+    "context": "EN :\n[WhenUse] Gain 1 Protection for every surviving ally. (Max 3)\nJP :\n[WhenUse] 味方が生存しているなら、1名に付き保護 1を得る。(最大3)"
+  },
+  {
+    "key": "9009503-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 보호 2 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 Protection\nJP :\n[OnSucceedAttack] 保護 2を得る"
+  },
+  {
+    "key": "9009503-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 창백한 소음 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Pallid Noise\nJP :\n[OnSucceedAttackHead] 蒼白な騒音 1を付与"
+  },
+  {
+    "key": "9009503-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 보호 2 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 Protection next turn\nJP :\n[OnSucceedAttack] 次のターンに保護 2を得る"
+  },
+  {
+    "key": "9009503-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 출혈 4 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 4 Bleed next turn\nJP :\n[OnSucceedAttackHead] 次のターンに出血 4を付与"
+  },
+  {
+    "key": "9009504-levelList$[0].name",
+    "original": "-.- ..",
+    "context": "EN :\n-.- ..\nJP :\n-.- .."
+  },
+  {
+    "key": "9009504-levelList$[0].desc",
+    "original": "[WhenUse] 보호 2 얻음\n보호막이 남았을 때 피격 시 대상에게 창백한 소음 1 부여\n[EndBattle] 자신의 체력을 남은 보호막의 2배만큼 회복함.",
+    "context": "EN :\n[WhenUse] Gain 2 Protection\nWhen attacked while this unit has Shield, inflict 1 Pallid Noise to the target\n[EndBattle] Heal HP by x2 of the remaining Shield HP.\nJP :\n[WhenUse] 保護2を得る\nバリアが残っているとき、被ダメージに対象へ蒼白な騒音 1を付与\n[EndBattle] 自分の体力を残存しているバリアの2倍だけ回復する。"
+  },
+  {
+    "key": "9009601-levelList$[0].name",
+    "original": "명치 후리기",
+    "context": "EN :\nRight in the Solar Plexus\nJP :\nみぞおちを殴る"
+  },
+  {
+    "key": "9009601-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Paralyze next turn\nJP :\n[OnSucceedAttackHead] 次のターンに麻痺 1を付与"
+  },
+  {
+    "key": "9009602-levelList$[0].name",
+    "original": "기억한다!",
+    "context": "EN :\nWe Remember!\nJP :\n覚える！"
+  },
+  {
+    "key": "9009602-levelList$[0].desc",
+    "original": "[DefeatDuel] 다음 턴에 피해량 증가 1 얻음",
+    "context": "EN :\n[DefeatDuel] Gain 1 Damage Up next turn\nJP :\n[DefeatDuel] 次のターンにダメージ量増加 1を得る"
+  },
+  {
+    "key": "9009602-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "9009602-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 웨이브동안 죽은 중지 소속 아군 수만큼 추가 고정 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal additional fixed damage equal to the number of the Middle allies killed during this wave\nJP :\n[OnSucceedAttack] ウェーブの間、死んだ中指所属の味方の数だけ追加固定ダメージ"
+  },
+  {
+    "key": "9009603-levelList$[0].name",
+    "original": "머리 으깨기",
+    "context": "EN :\nSkull Crushing\nJP :\n頭を潰す"
+  },
+  {
+    "key": "9009603-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Attack Power Down next turn\nJP :\n[OnSucceedAttack] 次のターンに攻撃威力減少 1を付与"
+  },
+  {
+    "key": "9009603-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 2を付与"
+  },
+  {
+    "key": "9009604-levelList$[0].name",
+    "original": "새길 준비",
+    "context": "EN :\nReady to Write\nJP :\n刻む準備"
+  },
+  {
+    "key": "9009604-levelList$[0].desc",
+    "original": "[EndBattle] 보호막이 남아있으면 다음 턴에 공격 위력 증가 1 얻음",
+    "context": "EN :\n[EndBattle] If this unit has Shield, gain 1 Attack Power Up next turn\nJP :\n[EndBattle] バリアが残っているなら、次のターンに攻撃威力増加 1を得る"
+  },
+  {
+    "key": "9009605-levelList$[0].name",
+    "original": "앙갚음",
+    "context": "EN :\nVengeance\nJP :\n報復"
+  },
+  {
+    "key": "9009605-levelList$[0].desc",
+    "original": "[DefeatDuel] 다음 턴에 피해량 증가 1 얻음",
+    "context": "EN :\n[DefeatDuel] Gain 1 Damage Up next turn\nJP :\n[DefeatDuel] 次のターンにダメージ量増加 1を得る"
+  },
+  {
+    "key": "9009605-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 2を付与"
+  },
+  {
+    "key": "9009605-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackTail] 8만큼 흐트러짐 손상",
+    "context": "EN :\n[OnSucceedAttackTail] Raise Stagger Threshold by 8\nJP :\n[OnSucceedAttackTail] 混乱区間を8前進"
+  },
+  {
+    "key": "9009606-levelList$[0].name",
+    "original": "배로 갚기",
+    "context": "EN :\nMultifold Retribution\nJP :\n倍返し"
+  },
+  {
+    "key": "9009606-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 30만큼 흐트러짐 손상",
+    "context": "EN :\n[OnSucceedAttack] Raise Stagger Threshold by 30\nJP :\n[OnSucceedAttack] 混乱区間を30前進"
+  },
+  {
+    "key": "9009606-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 20만큼 고정 체력 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal 20 fixed HP damage\nJP :\n[OnSucceedAttack] 20の固定ダメージ"
+  },
+  {
+    "key": "9009606-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 3を付与"
+  },
+  {
+    "key": "9009701-levelList$[0].name",
+    "original": "명치 후리기",
+    "context": "EN :\nRight in the Solar Plexus\nJP :\nみぞおちを殴る"
+  },
+  {
+    "key": "9009701-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 1を付与"
+  },
+  {
+    "key": "9009702-levelList$[0].name",
+    "original": "새겨라!",
+    "context": "EN :\nWrite Their Sins!\nJP :\n刻め！"
+  },
+  {
+    "key": "9009702-levelList$[0].desc",
+    "original": "[DefeatDuel] 다음 턴에 피해량 증가 1 얻음",
+    "context": "EN :\n[DefeatDuel] Gain 1 Damage Up next turn\nJP :\n[DefeatDuel] 次のターンにダメージ量増加 1を得る"
+  },
+  {
+    "key": "9009702-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 피해량 감소 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Damage Down next turn\nJP :\n[OnSucceedAttack] 次のターンにダメージ量減少 2を付与"
+  },
+  {
+    "key": "9009702-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 웨이브동안 죽은 중지 소속 아군 수만큼 추가 고정 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal additional fixed damage equal to the number of the Middle allies killed during this wave\nJP :\n[OnSucceedAttack] ウェーブの間、死んだ中指所属の味方の数だけ追加固定ダメージ"
+  },
+  {
+    "key": "9009703-levelList$[0].name",
+    "original": "머리 터트리기",
+    "context": "EN :\nSkull Bursting\nJP :\n頭を割る"
+  },
+  {
+    "key": "9009703-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 더하기 코인 약화1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Plus Coin Drop next turn\nJP :\n[OnSucceedAttack] 次のターンに加算コイン弱化 1を付与"
+  },
+  {
+    "key": "9009703-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 더하기 코인 약화1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Plus Coin Drop next turn\nJP :\n[OnSucceedAttack] 次のターンに加算コイン弱化 1を付与"
+  },
+  {
+    "key": "9009704-levelList$[0].name",
+    "original": "새길 준비",
+    "context": "EN :\nReady to Write\nJP :\n刻む準備"
+  },
+  {
+    "key": "9009704-levelList$[0].desc",
+    "original": "보호막이 전부 소진되면, 다음 턴에 공격 위력 증가 1 얻음",
+    "context": "EN :\nIf this unit's Shield is fully depleted, gain 1 Attack Power Up next turn\nJP :\nバリアが全て消耗されると、次のターンに攻撃威力増加 1を得る"
+  },
+  {
+    "key": "9009705-levelList$[0].name",
+    "original": "앙갚음",
+    "context": "EN :\nVengeance\nJP :\n報復"
+  },
+  {
+    "key": "9009705-levelList$[0].desc",
+    "original": "[DefeatDuel] 다음 턴에 피해량 증가 1 얻음",
+    "context": "EN :\n[DefeatDuel] Gain 1 Damage Up next turn\nJP :\n[DefeatDuel] 次のターンにダメージ量増加 1を得る"
+  },
+  {
+    "key": "9009705-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 2を付与"
+  },
+  {
+    "key": "9009705-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackTail] 8만큼 흐트러짐 손상",
+    "context": "EN :\n[OnSucceedAttackTail] Raise Stagger Threshold by 8\nJP :\n[OnSucceedAttackTail] 混乱区間を8前進"
+  },
+  {
+    "key": "9009706-levelList$[0].name",
+    "original": "배로 갚기",
+    "context": "EN :\nMultifold Retribution\nJP :\n倍返し"
+  },
+  {
+    "key": "9009706-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 30만큼 흐트러짐 손상",
+    "context": "EN :\n[OnSucceedAttack] Raise Stagger Threshold by 30\nJP :\n[OnSucceedAttack] 混乱区間を30前進"
+  },
+  {
+    "key": "9009706-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 20만큼 고정 체력 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal 20 fixed HP damage\nJP :\n[OnSucceedAttack] 20の固定ダメージ"
+  },
+  {
+    "key": "9009706-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 3を付与"
+  }
+]

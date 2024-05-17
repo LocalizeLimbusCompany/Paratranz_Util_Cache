@@ -1,0 +1,556 @@
+[
+  {
+    "key": "0-place",
+    "original": "워더링하이츠 옥상",
+    "context": "EN :\nWuthering Heights Rooftop\nJP :\nワザリング・ハイツ 屋上"
+  },
+  {
+    "key": "0-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "0-content",
+    "original": "<파우스트, 만약 여기서 상황이 나아지지 않는다면…>",
+    "context": "EN :\n<Faust. If... if things don't get any better...>\nJP :\n<ファウスト、もしこれ以上状況が好転しなかったら…。>"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<이들은 어떻게 될 거 같아?>",
+    "context": "EN :\n<What will happen to them?>\nJP :\n<二人ともどうなるの？>"
+  },
+  {
+    "key": "2-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "2-content",
+    "original": "히스클리프 씨를 소멸시키는 데 성공한 마왕 히스클리프는… 모든 세계를 넘어 다니면서 히스클리프를 소멸시킬 것이며…",
+    "context": "EN :\nErlking Heathcliff, once he kills Heathcliff of this world for good... will leap over to other worlds to slay other versions of Heathcliff.\nJP :\nヒースクリフさんを消滅させることに成功した魔王ヒースクリフは…\n全ての世界を巡りながらヒースクリフを消滅させるでしょうし…。"
+  },
+  {
+    "key": "3-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "3-content",
+    "original": "캐서린의 소환이 성공한다면… 그녀 또한 모든 세계를 돌아다니면서 캐서린을 탄생시키겠죠.",
+    "context": "EN :\nIf Catherine's summoning succeeds... she will become another Catherine who leaps between every world, creating more Catherines like herself.\nJP :\nキャサリンの召喚が成功すれば…彼女もまた、\n全ての世界を巡りながらキャサリンを誕生させるでしょう。"
+  },
+  {
+    "key": "4-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "4-content",
+    "original": "<그렇게 되면 그 끝은…?>",
+    "context": "EN :\n<... To what end?>\nJP :\n<そうなったら最終的にどうなるの…？>"
+  },
+  {
+    "key": "5-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "5-content",
+    "original": "그 끝엔… 이 히스클리프와 캐서린… 둘만의 절규가 남지 않을까요.",
+    "context": "EN :\n... To an end where there is nothing but the silence and the lamentation of both Heathcliff and Catherine. Wouldn't you agree?\nJP :\nその果てには…このヒースクリフとキャサリン…\n二人の絶叫だけが残るんじゃないですかね。"
+  },
+  {
+    "key": "6-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "6-content",
+    "original": "<…어?>",
+    "context": "EN :\n<...Huh?>\nJP :\n<…え？>"
+  },
+  {
+    "key": "7-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "7-content",
+    "original": "<단말기에서부터… 소리가 들려오고 있어…>",
+    "context": "EN :\n<There's a sound... coming from my device... >\nJP :\n<端末から…声が聞こえる…。>"
+  },
+  {
+    "key": "10-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "10-content",
+    "original": "단테.",
+    "context": "EN :\nDante.\nJP :\nダンテ。"
+  },
+  {
+    "key": "11-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "11-content",
+    "original": "당신도 일기를 쓰네.",
+    "context": "EN :\nI see that you write a diary of your own.\nJP :\nあなたも日記を書いてるのね。"
+  },
+  {
+    "key": "12-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "12-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "13-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "13-content",
+    "original": "엄밀히 말하면 일기는 아니야. 하루 일과를 쓰는 게 아니니까…",
+    "context": "EN :\nI wouldn't call it a diary. It's not like I record what happens every day in here...\nJP :\n厳密に言うと日記じゃないかな。\n一日の日課を書いてるわけじゃないから…。"
+  },
+  {
+    "key": "14-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "14-content",
+    "original": "그것도 일기지.",
+    "context": "EN :\nThat counts as a diary still.\nJP :\nそれも日記よ。"
+  },
+  {
+    "key": "15-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "15-content",
+    "original": "삶의 기록이잖아.",
+    "context": "EN :\nIt is a record of your life.\nJP :\n人生の記録だからよ。"
+  },
+  {
+    "key": "16-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "16-content",
+    "original": "그럼… 그런 셈이라고 볼 수 있겠네.",
+    "context": "EN :\nThen... I suppose it is.\nJP :\nじゃあ…そうだって言えるかもね。"
+  },
+  {
+    "key": "17-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "17-content",
+    "original": "캐서린.",
+    "context": "EN :\nCatherine.\nJP :\nキャサリン。"
+  },
+  {
+    "key": "18-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "18-content",
+    "original": "하루 중 가장 고요한 시간인 새벽이 되면 나는 일기를 썼어.",
+    "context": "EN :\nJust before the break of dawn, during the quietest hours of the day... I would write my diary.\nJP :\n一日の中で最も静かな時間である夜明けになると、\n私は日記を書いたの。"
+  },
+  {
+    "key": "19-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "19-content",
+    "original": "열병을 앓는 날에는 특히. 그 허물들을 전부 종이에 토해놓지 않으면 도저히 견딜 수가 없었지.",
+    "context": "EN :\nEspecially on days when I suffered from fevers. I could not bear to keep going without vomiting every fault of mine on a piece of paper.\nJP :\n熱病が酷い日は特に。私の過ちを全部紙に吐き出さないと、到底耐えられそうになかったから。"
+  },
+  {
+    "key": "20-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "20-content",
+    "original": "난 일기장 속에 모든 걸 솔직하게 적어 놓았어.",
+    "context": "EN :\nI was always honest with my diary.\nJP :\n私は、日記帳には全てを正直に書いたわ。"
+  },
+  {
+    "key": "21-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "21-content",
+    "original": "하지만…",
+    "context": "EN :\nBut...\nJP :\nでも…。"
+  },
+  {
+    "key": "22-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "22-content",
+    "original": "일기장 밖에선 누구보다 솔직하지 못했던 것 같아.",
+    "context": "EN :\nIt seems that I could never be honest anywhere else.\nJP :\n日記帳の外では、誰よりも正直になれなかったの。"
+  },
+  {
+    "key": "23-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "23-content",
+    "original": "좋아하는 사람들에게 진심을 숨기고 말을 하지 않은 주제에… 내 마음을 알아주지 못한 것에 항상 화가 났었거든.",
+    "context": "EN :\nWhile I hid my true feelings from the ones I loved... while refusing to communicate myself... I became angry at those who couldn't understand me.\nJP :\n好きな人に本心を隠して言わない癖に…\n私の気持ちを分かってくれないのに対していつも怒っていたの。"
+  },
+  {
+    "key": "24-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "24-content",
+    "original": "히스클리프는 영영 모를 거야.",
+    "context": "EN :\nHeathcliff shall never know.\nJP :\nヒースクリフはこの先ずっと知らないままいるでしょうね。"
+  },
+  {
+    "key": "25-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "25-content",
+    "original": "내가 얼마나…",
+    "context": "EN :\nHe will never know how much I...\nJP :\n私がどれだけ…。"
+  },
+  {
+    "key": "26-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "26-content",
+    "original": "얼마나…",
+    "context": "EN :\nHow much I...\nJP :\nどれだけ…。"
+  },
+  {
+    "key": "27-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "27-content",
+    "original": "아니, 난 알아야 해.",
+    "context": "EN :\nNo. I have to know.\nJP :\nいや、オレは知らなきゃならねぇ。"
+  },
+  {
+    "key": "28-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "28-content",
+    "original": "히스클리프? 어떻게 여기에?",
+    "context": "EN :\nHeathcliff? How did you...?\nJP :\nヒースクリフ？どうしてここに？"
+  },
+  {
+    "key": "29-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "29-content",
+    "original": "여기까지 오기 위해 많은 용기가 필요했어.",
+    "context": "EN :\nI needed a lot of courage to get here.\nJP :\nここまで来るのに沢山の勇気が必要だったさ。"
+  },
+  {
+    "key": "30-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "30-content",
+    "original": "캐서린.",
+    "context": "EN :\nCatherine.\nJP :\nキャサリン。"
+  },
+  {
+    "key": "31-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "31-content",
+    "original": "너는 너무도 쉽게 나를 무너뜨리고…",
+    "context": "EN :\nIt’s all so easy for you. For you to topple me...\nJP :\n君はいとも簡単にオレを崩し…。"
+  },
+  {
+    "key": "32-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "32-content",
+    "original": "나를 아무것도 아닌 걸로 만들어 버려.",
+    "context": "EN :\nFor you to ground me up until I'm nothing.\nJP :\nオレを何でもないような存在にしちまう。"
+  },
+  {
+    "key": "33-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "33-content",
+    "original": "네가 오면 너무도 기뻤고 네가 날 쳐다보면 그날 하루가 행복했어. 마치 재앙 같았지.",
+    "context": "EN :\nI was so happy whenever you came to visit me. A single glance from you in my direction could brighten my entire day. You were almost like a calamity.\nJP :\n君が来ればすごく嬉しかったし、君がオレを見つめたらその日は一日中幸せだった。まるで災いみたいだったさ。"
+  },
+  {
+    "key": "34-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "34-content",
+    "original": "그리고 나는 그 폭풍 같은 재앙을…",
+    "context": "EN :\nAnd I have always, always...\nJP :\nでもオレはその嵐みてぇな災いを…。"
+  },
+  {
+    "key": "35-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "35-content",
+    "original": "한순간도 사랑하지 않은 적이 없었어, 캐서린.",
+    "context": "EN :\n... always loved that very calamity that swept over me like the tempest, Catherine.\nJP :\n一度たりとも愛さなかったことはなかった、キャサリン。"
+  },
+  {
+    "key": "36-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "36-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "37-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "37-content",
+    "original": "고마워, 용기를 내줘서.",
+    "context": "EN :\nThank you. For having the courage.\nJP :\nありがとう、勇気を出してくれて。"
+  },
+  {
+    "key": "38-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "38-content",
+    "original": "우리의 마음은…",
+    "context": "EN :\nFinally, our hearts...\nJP :\n私たちの心は…。"
+  },
+  {
+    "key": "39-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "39-content",
+    "original": "이제야 어긋나지 않아졌구나.",
+    "context": "EN :\n... are no longer broken apart.\nJP :\nやっと擦れ違わずにいられるのね。"
+  },
+  {
+    "key": "40-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "40-content",
+    "original": "단테, 내가 너의 일기장을 조금 빌려도 될까?",
+    "context": "EN :\nDante. May I borrow your diary for a moment?\nJP :\nダンテ。私、あなたの日記帳を少し借りてもいいかしら？"
+  },
+  {
+    "key": "41-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "41-content",
+    "original": "황금가지는 생각보다 훨씬 대단한 힘을 가지고 있더라고.",
+    "context": "EN :\nThe Golden Bough has far more impressive powers than any of us could have ever imagined.\nJP :\n黄金の枝は思っていたよりも、かなり強い力を持っていたのよ。"
+  },
+  {
+    "key": "42-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "42-content",
+    "original": "어떤…?",
+    "context": "EN :\nWhat powers...?\nJP :\nどんな…？"
+  },
+  {
+    "key": "43-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "43-content",
+    "original": "여태껏 너의 소망을 이루어 주고 있었잖아.",
+    "context": "EN :\nIt has been bringing your own wishes to reality, has it not?\nJP :\n今まであなたの望みを叶えてきてくれたじゃない。"
+  },
+  {
+    "key": "44-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "44-content",
+    "original": "그러니까…",
+    "context": "EN :\nSo...\nJP :\nだから…。"
+  },
+  {
+    "key": "45-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "45-content",
+    "original": "나의 히스클리프가 행복할 수 있는 방법은…",
+    "context": "EN :\nThe key to my Heathcliff's happiness...\nJP :\n私のヒースクリフが幸せになれる方法は…。"
+  },
+  {
+    "key": "46-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "46-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "47-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "47-content",
+    "original": "네 일기장 속에 있을 거야.",
+    "context": "EN :\n... is in your diary.\nJP :\nあなたの日記帳の中にあるはず。"
+  },
+  {
+    "key": "48-content",
+    "original": "그래서 나는…",
+    "context": "EN :\nSo I...\nJP :\nだから私は…。"
+  },
+  {
+    "key": "49-content",
+    "original": "그저 기록용에 지나지 않았을 거라 생각했던 내 단말기의 화면을 보았다.",
+    "context": "EN :\n... looked down at the screen of the device I carried. Something I used to think was nothing but a tool for recording things.\nJP :\n私は、ただの記録用機器でしかないとばかり思っていた\n自分の端末の画面を見た。"
+  },
+  {
+    "key": "50-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "50-content",
+    "original": "먼저 말해줘서 고마워, 히스클리프.",
+    "context": "EN :\nThank you so much for being the first one to talk, Heathcliff.\nJP :\n先に言ってくれてありがとう、ヒースクリフ。"
+  },
+  {
+    "key": "51-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "51-content",
+    "original": "나도 모든 세계의 히스클리프가 아닌…",
+    "context": "EN :\nI don't love every Heathcliff in every world.\nJP :\n私も全ての世界のヒースクリフじゃなくて…。"
+  },
+  {
+    "key": "52-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "52-content",
+    "original": "지금의 너를 사랑해.",
+    "context": "EN :\nI love you. As you are now.\nJP :\n今のあなたを愛してる。"
+  }
+]

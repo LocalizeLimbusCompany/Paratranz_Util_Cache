@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_11206_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_11206_1-dlg",
+    "original": "아! 아이구, 고객님… 혹시 라이터 한 번만 빌려줄 수 있으시나?",
+    "context": "EN :\nAh! Hey, our client buddy, pal... Any chance I could borrow a light?\nJP :\nあっ！おっとぉ、お客さん…よかったらライター1回だけ貸してもらってもよろしいか？"
+  },
+  {
+    "key": "lobby_morning_11206_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_11206_1-dlg",
+    "original": "어휴, 아침부터 바쁘시네… 너무 앞서가지 마. 경호원이랑 발 좀 맞추자고. 응?",
+    "context": "EN :\nWhew, you're an early riser. Don't stray too far, eh? Make it a little easier for your bodyguard to tag along.\nJP :\nふぅ、朝からお忙しいなぁ…あんまり前に出るな。警護員と足並み揃えようよ。なっ？"
+  },
+  {
+    "key": "lobby_noon_11206_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_11206_1-dlg",
+    "original": "밥은 먹고 하자고… 고객님? 당 떨어지면 싸우기 힘들단 말이야…",
+    "context": "EN :\n'Scuse me, client fella? Can we at least get something to eat? I can't fight on an empty stomach...\nJP :\n飯は食ってからやろうって…お客さん？糖分不足じゃ戦うのキツいんだよ…。"
+  },
+  {
+    "key": "lobby_night_11206_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_11206_1-dlg",
+    "original": "밤엔 불빛이 얼마 없으니까 조심조심 하자고… 여차하면 옆에 꼭 붙고. 알겠지?",
+    "context": "EN :\nIt gets dark at night, so let's watch our steps... If anything happens, just stick to my side. Got it?\nJP :\n夜には明かりがあんまないから気を付けような…。いざとなったら隣にグッとひっ付くんだ。分かったか？"
+  },
+  {
+    "key": "smalltalk_11206_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_11206_1-dlg",
+    "original": "설렁설렁이라니? 제일 좋은 경호가 티 안나는 경호라는 거, 몰라? 알만한 분이…",
+    "context": "EN :\nI don't look very vigilant? Come on, you should know that the best bodyguards are the least obvious ones.\nJP :\nテキトーって？一番良い警護は目立たない警護だってこと、 知らないのか？その辺り、分かってそうな方なのにねぇ…。"
+  },
+  {
+    "key": "smalltalk_11206_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_11206_2-dlg",
+    "original": "아… 장갑? 훗, 처음부터 비장의 무기를 티내고 다니긴 좀 그렇잖아?",
+    "context": "EN :\nOh, the glove? Heh, don't want to show all my cards just yet, wouldn't you agree?\nJP :\nあぁ…手袋？ふっ、最初から秘蔵の武器を自慢して回るのはちょっとアレだろ？"
+  },
+  {
+    "key": "smalltalk_11206_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_11206_3-dlg",
+    "original": "여기서 한 대 태우고 가자구. 이야~ 이번 고객님은 흡연자라서 편해, 그치? 담배 태울 시간도 있고 말이야.",
+    "context": "EN :\nLet's take a smoke break here before moving on. Damn, aren't I lucky to have a client who smokes? Gives me time for a cig.\nJP :\nここで一本ふかしてから行こうって。いやぁ～今回のお客さんは喫煙者だから楽だよ、なっ？煙草ふかす時間もあるし。"
+  },
+  {
+    "key": "smalltalk_11206_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_11206_4-dlg",
+    "original": "흣~ 자, 자. 뒤에 잘 숨어있으라고!",
+    "context": "EN :\nHeh~ Right, right. Stick close!\nJP :\nふ～っ、ささ。後ろにちゃんと隠れてろよ！"
+  },
+  {
+    "key": "smalltalk_11206_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_11206_5-dlg",
+    "original": "할 때는 한다니까~ 내가 실력도 없이 당신 옆에 붙어있었을까봐?\n어중간한 사람이 4과에 붙어있겠냐고~ 응?",
+    "context": "EN :\nWhat'd I say? Thought they'd send some greenhorn to protect you?\nI'm not in Section 4 for nothing, yeah?\nJP :\nやるときはやるって～俺が実力なしであんたの隣に付いてるとでも？\n中途半端な人が4課に引っ付いてると思うかぁ～ん？"
+  },
+  {
+    "key": "neglect_11206_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_11206_1-dlg",
+    "original": "음흠~ 이렇게 기다리는 동안에는 맛있게 한 대… 아, 라이터가 안 켜졌었지…",
+    "context": "EN :\nHmm hmm, time for a smoke break... Oh, right. I'm out of lighter fluid...\nJP :\nふふ～、こうやって待ってる間は旨く一本…あっ、ライター点かないんだった…。"
+  },
+  {
+    "key": "gacksung_11206_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_11206_1-dlg",
+    "original": "자~ 나서볼 때구만? 당신의 방패가 되어드리지!",
+    "context": "EN :\nMy time to shine, huh? Let me be your shield!\nJP :\nさぁ～出番が来たか？あなたの盾になってやろうじゃないか！"
+  },
+  {
+    "key": "formation_11206_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_11206_1-dlg",
+    "original": "어어. 금방 가지.",
+    "context": "EN :\nUh huh. On my way.\nJP :\nおい、すぐ行くって。"
+  },
+  {
+    "key": "battleentry_11206_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_11206_1-dlg",
+    "original": "습… 천천히 가자니까~",
+    "context": "EN :\nPuff... Slow down, will ya?\nJP :\nすぅ…まったりやろうって～。"
+  },
+  {
+    "key": "battle_select_11206_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_11206_1-dlg",
+    "original": "어, 무슨 일이야?",
+    "context": "EN :\nYeah, what's up?\nJP :\nん、なんだ？"
+  },
+  {
+    "key": "battle_endcommand_11206_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_11206_1-dlg",
+    "original": "내 뒤로!",
+    "context": "EN :\nGet behind me!\nJP :\n俺の後ろに！"
+  },
+  {
+    "key": "battle_enemy_break_11206_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_11206_1-dlg",
+    "original": "어이쿠, 그정돈가?",
+    "context": "EN :\nOof, did it hurt that much?\nJP :\nありゃぁ、その程度か？"
+  },
+  {
+    "key": "battle_break_11206_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_11206_1-dlg",
+    "original": "윽…",
+    "context": "EN :\nUgh...\nJP :\nうっ…。"
+  },
+  {
+    "key": "battle_kill_11206_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_11206_1-dlg",
+    "original": "위협 요소 제거!",
+    "context": "EN :\nThreat neutralized!\nJP :\n脅威要素を除去！"
+  },
+  {
+    "key": "battle_dead_11206_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_11206_1-dlg",
+    "original": "하아… 미안하구만… 고객… 님.",
+    "context": "EN :\nHaah... Sorry about that... Client fella...\nJP :\nはぁ…すまねぇな…お客…さん。"
+  },
+  {
+    "key": "choice_success_p_11206_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_11206_2-dlg",
+    "original": "어때, 맘에 드시나?",
+    "context": "EN :\nHow do you like that?\nJP :\nどうだ、気に入ったか？"
+  },
+  {
+    "key": "choice_fail_n_11206_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_11206_1-dlg",
+    "original": "에잉… 뭐, 잘 안될 수도 있지.",
+    "context": "EN :\nDarn... Well, things don't always work out, I guess.\nJP :\nいやぁ…まぁ、上手くいかないときだってあるさ。"
+  },
+  {
+    "key": "battle_clear_11206_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_11206_1-dlg",
+    "original": "자, 계약 완수라고. 걱정할 필요 없었지?",
+    "context": "EN :\nContract fulfilled. See? It wasn't anything to worry about.\nJP :\nさっ、契約完遂だ。心配する必要なかっただろ？"
+  },
+  {
+    "key": "battle_clear_ex_11206_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_11206_1-dlg",
+    "original": "최선의 방어는 역시 공격이지… 하, 전투 방패라고 들어봤어?",
+    "context": "EN :\nThe best defense is always offense... Ha, ever heard of offensive shield-use?\nJP :\n最大の防御はやはり攻撃だろ…はぁ、戦闘用盾って知ってるか？"
+  },
+  {
+    "key": "battle_defeat_11206_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_11206_1-dlg",
+    "original": "쓰읍… 임무 실패라… 쯧. 보수도 못 받고… 이참에 강제로 금연하게 생겼구만.",
+    "context": "EN :\nTsk... Mission failed, damn... Looks like I'll be forced to quit smoking for a while.\nJP :\n…任務失敗かぁ、チッ。報酬も貰えないし…おかげさまで強制禁煙するハメになったかぁ。"
+  }
+]

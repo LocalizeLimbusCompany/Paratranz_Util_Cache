@@ -1,0 +1,686 @@
+[
+  {
+    "key": "0-place",
+    "original": "용진 빌딩 입구",
+    "context": "EN :\nYong-jin Building Entrance\nJP :\nヨンジンビル 入口"
+  },
+  {
+    "key": "0-teller",
+    "original": "쓰러진 조직원",
+    "context": "EN :\nDefeated Henchman\nJP :\n倒れた組員"
+  },
+  {
+    "key": "0-title",
+    "original": "흑운회",
+    "context": "EN :\nKurokumo Clan\nJP :\n黒雲会"
+  },
+  {
+    "key": "0-content",
+    "original": "큭… 젠장!",
+    "context": "EN :\nAch... Damn it!\nJP :\nくっ…クソッ！"
+  },
+  {
+    "key": "1-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "1-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "1-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "1-content",
+    "original": "이놈이 마지막이었던 것 같군…",
+    "context": "EN :\nLooks like this was the last one of them.\nJP :\nこいつが最後みたいだな…。"
+  },
+  {
+    "key": "2-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "2-content",
+    "original": "피 냄새… 방금 솟아오른 것부터 잔뜩 눌어붙은 향기까지…",
+    "context": "EN :\nAh, the aroma of blood... Some splattered fresh, some old and growing viscous...\nJP :\n血の匂い…先程噴き上がったものから、\n大量にこびりついた香りまで…。"
+  },
+  {
+    "key": "3-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "3-content",
+    "original": "훗, 직접 보지 않아도 다양한 혈흔의 콜라주가 펼쳐져 있겠군.",
+    "context": "EN :\nHeh, I can already tell that there will be a collage of different blood splatters waiting for me in there. I am excited to see this collection for myself.\nJP :\nふっ、見ずとも様々な血痕のコラージュが広がっているだろう。"
+  },
+  {
+    "key": "4-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "4-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "4-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "4-content",
+    "original": "…이자는 아무렇지도 않게 잔혹한 생각을 하는군.",
+    "context": "EN :\n... This one expresses brutal thoughts with such nonchalance as one muses about their next meal.\nJP :\n…この人は、なんてことないように\n残酷なことを考えるんだな。"
+  },
+  {
+    "key": "5-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "5-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "5-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "5-content",
+    "original": "크흠, 아무튼! 이제 안으로 들어설 수 있겠군! 어서!",
+    "context": "EN :\nAhm, whichever may be the case... The way is open! We must move with haste!\nJP :\nけほん、とにかく！今から中へ入れそうだな！早く！"
+  },
+  {
+    "key": "6-content",
+    "original": "앵두는 우리에게 소리치며 순식간에 입구 안으로 사라졌다.",
+    "context": "EN :\nAeng-du did not hesitate for a second before disappearing into the building's entrance.\nJP :\nエンドゥは私たちに向かって叫び、\nあっという間に入口から中へと消えていった。"
+  },
+  {
+    "key": "7-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "7-content",
+    "original": "기절했다가 깬 지 얼마 되지도 않았는데 대단하구만…",
+    "context": "EN :\nMan, I'm impressed by her energy. Wasn't she knocked out cold just a few minutes ago?\nJP :\n気絶して目が覚めたばかりなのに凄いなぁ…。"
+  },
+  {
+    "key": "8-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "8-content",
+    "original": "정신력이겠지. 우두머리가 잡혀있다면 저럴 수밖에.",
+    "context": "EN :\nIt is sheer willpower that moves her. What other choice does she have when her superior is captured?\nJP :\n精神力だろう。頭目が捕まっているならああなるしか。"
+  },
+  {
+    "key": "9-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "9-content",
+    "original": "어… 그런데, 6층밖에 안 되는 건물을 빌딩이라고 부르기도 하나 보네요?",
+    "context": "EN :\nHuh... from the name alone I expected Yong-jin Building to be much taller than just 6 floors. 'Building' and all.\nJP :\nあ…でも、6階しかない建物もビルって呼ぶんですね？"
+  },
+  {
+    "key": "10-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10-content",
+    "original": "네, 뒷골목에서는 비교적 흔한 일이죠.",
+    "context": "EN :\nIt is a common naming convention in the Backstreets.\nJP :\nはい、裏路地では比較的よくあることです。"
+  },
+  {
+    "key": "11-content",
+    "original": "입구로 들어서면서 홍루가 바라보는 빌딩의 가장 위, 끝자락을 바라보다 문득 궁금한 것이 생겼다.",
+    "context": "EN :\nI looked up toward the rooftop of the building Hong Lu was looking at... and suddenly grew curious.\nJP :\n入口から入りつつホンルが眺めているビルの一番上、\nその端を眺めていると、ふと気になることが生まれた。"
+  },
+  {
+    "key": "12-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "12-content",
+    "original": "<어… 지금 몇 시지?>",
+    "context": "EN :\n<Uh... What time is it right now?>\nJP :\n<あ…今何時？>"
+  },
+  {
+    "key": "13-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "13-content",
+    "original": "거울 줄까?",
+    "context": "EN :\nNeed a mirror?\nJP :\n鏡要る？"
+  },
+  {
+    "key": "14-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "14-content",
+    "original": "<…내 머리는 시간을 알려주는 기능은 없다고.>",
+    "context": "EN :\n<... My head doesn't actually tell time, you know.>\nJP :\n<…私の頭は今の時間を指す機能はないんだってば。>"
+  },
+  {
+    "key": "15-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "15-content",
+    "original": "현재 시각은 오후 2시 10분입니다.",
+    "context": "EN :\nIt is 2:10 in the afternoon.\nJP :\n現時刻は午後2時10分です。"
+  },
+  {
+    "key": "16-content",
+    "original": "오후 2시면 정오는 아니지만, 그래도 한창 대낮일 시간인데…",
+    "context": "EN :\n2 in the afternoon... It's not midday, but it's not supposed to be this dark, is it?\nJP :\n午後2時なら正午じゃないけど、それでも真っ昼だというのに…。"
+  },
+  {
+    "key": "17-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "17-content",
+    "original": "<이 시간에 이렇게 뿌옇고 어둑한 게… 시간 감각이 없어질 것 같네.>",
+    "context": "EN :\n<How is it this gloomy and dark at 2 in the afternoon? I'm starting to lose my sense of time in here.>\nJP :\n<この時間でもこんなにぼやけて薄暗いとか…時間感覚がなくなりそうだ。>"
+  },
+  {
+    "key": "18-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "18-content",
+    "original": "여기가 유독 심한 것 같네… 뭐, 연기전쟁 때와 비교하면 애교 수준이지만.",
+    "context": "EN :\nSeems particularly darker around this area we're in. ... Well, compared to the Smoke War days, it's still bright as a sunny day.\nJP :\nここが特に酷い気がするな…。\nまぁ、煙戦争のときと比べるとぜんぜん可愛いくらいだけど。"
+  },
+  {
+    "key": "19-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "19-content",
+    "original": "흠… 그건 그렇지.",
+    "context": "EN :\nHm... I suppose that's true.\nJP :\nふむ…それはそうだな。"
+  },
+  {
+    "key": "20-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "20-content",
+    "original": "T사의 뒷골목은 줄곧 이런 상태라고 알려져 있습니다.",
+    "context": "EN :\nThe Backstreets of T Corp. are known to be in a perpetual state of murkiness.\nJP :\nT社の裏路地は、常にこういった状態であることが知られております。"
+  },
+  {
+    "key": "21-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "21-content",
+    "original": "기계가 계속해서 돌아가면서 연기를 지속적으로 배출하는 환경인데다, 색이 추출되고 있으므로 더욱 매캐해 보이게 만들지요.",
+    "context": "EN :\nTheir machines ceaselessly discharge heavy plumes of smoke which cloud the skies. That, and the constant color drainage keeps the Backstreets of T Corp. dark and dreary.\nJP :\n機械が動作を続けながら煙を持続的に排出する環境である上、\n色が抽出されているので、より煙たく見えます。"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-content",
+    "original": "물론, 이건 연기전쟁의 결과로 제약이 걸려 많이 저감된 모습이지, 이전에는…",
+    "context": "EN :\nOf course, I must also inform you that the conditions have improved somewhat after the Smoke War due to the various extenuating, prohibitive conditions introduced by the outcome of that war that limits the production of smoke. Before the war—\nJP :\nもちろんこれは煙戦争の結果制約が掛かったことで\nかなり軽減された様子であり、以前は…。"
+  },
+  {
+    "key": "23-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "23-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "23-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "23-content",
+    "original": "노닥거릴 시간 없지 않은가? 어서 들어오시오!",
+    "context": "EN :\nWe have no time for idle chatter! Come now!\nJP :\nべらべら喋っている時間はないぞ？早く入るんだ！"
+  },
+  {
+    "key": "24-content",
+    "original": "안쪽에서 들리는 앵두의 호통이 들리는 방향으로, 우리는 발걸음 속도를 높여 들어갔다.",
+    "context": "EN :\nWe hurried toward Aeng-du's urgent cries.\nJP :\nエンドゥの怒声が聞こえる方向へ、\n私たちは速度を上げつつ進んでいった。"
+  },
+  {
+    "key": "25-place",
+    "original": "용진 빌딩 1층",
+    "context": "EN :\nYong-jin Building 1F\nJP :\nヨンジンビル 1階"
+  },
+  {
+    "key": "25-teller",
+    "original": "쓰러진 조직원",
+    "context": "EN :\nDefeated Henchman\nJP :\n倒れた組員"
+  },
+  {
+    "key": "25-title",
+    "original": "흑운회",
+    "context": "EN :\nKurokumo Clan\nJP :\n黒雲会"
+  },
+  {
+    "key": "25-content",
+    "original": "크윽… 검계 쪽에 아직도 부를 사람이 남았을 줄이야…",
+    "context": "EN :\nAgh... There were more Blade Lineage bastards left...?\nJP :\nくっ…剣契にもまだ人が残っていたとは…。"
+  },
+  {
+    "key": "26-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "26-content",
+    "original": "뭐야…? 벌써 다 해치워놨네?",
+    "context": "EN :\nWhat the... The lass took 'em all out already.\nJP :\nなんだよ…？もう全員倒したのか？"
+  },
+  {
+    "key": "27-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "27-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "27-content",
+    "original": "잔챙이들이요.",
+    "context": "EN :\nThey were nothing but mewling minions.\nJP :\n残党達です。"
+  },
+  {
+    "key": "28-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "28-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "28-content",
+    "original": "어째, 하나 같이 위로 올라갈 생각은 못 하고 실력도 안 되는 것들이 깡으로 덤비기만 하더군.",
+    "context": "EN :\nThe size of their bravado ill-matched their immature skills. They foolishly decided to stand their ground instead of retreating upstairs.\nJP :\n高みへ登り詰めようともせず、実力もないやつらが\n度胸一本で飛び掛かってくるばかりだったな。"
+  },
+  {
+    "key": "29-content",
+    "original": "치지직.",
+    "context": "EN :\nTzzt.\nJP :\nジジジッ。"
+  },
+  {
+    "key": "30-content",
+    "original": "그때, 내 품속에서 전자음 같은 것이 들렸다.",
+    "context": "EN :\nAn electric buzz of sorts played from the radio I had stashed in my clothes.\nJP :\nそのとき、私の懐から電子音のようなものが聞こえてきた。"
+  },
+  {
+    "key": "31-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "31-content",
+    "original": "<무전인가…?>",
+    "context": "EN :\n<Is someone calling this radio...?>\nJP :\n<無線かな…？>"
+  },
+  {
+    "key": "32-content",
+    "original": "무전기를 꺼내 접힌 안테나를 꺼내자, 소리가 선명하게 들려왔다.",
+    "context": "EN :\nThe sound became much clearer when I unfolded the antenna from the radio.\nJP :\n無線機を取り出し、折りたたまれたアンテナを伸ばすと\n音がくっきりと聞こえてきた。"
+  },
+  {
+    "key": "33-teller",
+    "original": "무전기",
+    "context": "EN :\nRadio\nJP :\n無線機"
+  },
+  {
+    "key": "33-title",
+    "original": "LCD?",
+    "context": "EN :\nLCD?\nJP :\nLCD?"
+  },
+  {
+    "key": "33-content",
+    "original": "여기는 LCD! LCD! 들리지? 들려? 대답! 빨리~",
+    "context": "EN :\nLCD here, LCD here! Can you hear me? Acknowledge! C'mon~\nJP :\nこちらLCD！LCD！聞こえる？聞こえてるよね？返事！はやくぅ～。"
+  },
+  {
+    "key": "34-content",
+    "original": "무전기 너머의 목소리는 굉장히 활발하고… 정신이 없었다.",
+    "context": "EN :\nThe voice coming from the other end of the radio was... upbeat, to put it mildly. And very chaotic.\nJP :\n無線機越しに聞こえる声はすごく活発で…忙しなかった。"
+  },
+  {
+    "key": "35-content",
+    "original": "이, 일단 버튼을 누르고…",
+    "context": "EN :\nO-okay, I just have to press this button, right...?\nJP :\nと、とりあえずボタンを押して…。"
+  },
+  {
+    "key": "36-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "36-content",
+    "original": "<마, 말해봐야 내 목소리는 안 들리는데…>",
+    "context": "EN :\n<W-well, I'll talk. But it's not like you can hear—>\nJP :\n<し、喋ったところで私の声は聞こえないけど…。>"
+  },
+  {
+    "key": "37-teller",
+    "original": "무전기",
+    "context": "EN :\nRadio\nJP :\n無線機"
+  },
+  {
+    "key": "37-title",
+    "original": "LCD?",
+    "context": "EN :\nLCD?\nJP :\nLCD?"
+  },
+  {
+    "key": "37-content",
+    "original": "와하하! 진짜 째깍거려!",
+    "context": "EN :\nAhahaha! They actually tick-tock!\nJP :\nわはは！本当にチクタクいってる！"
+  },
+  {
+    "key": "38-teller",
+    "original": "무전기",
+    "context": "EN :\nRadio\nJP :\n無線機"
+  },
+  {
+    "key": "38-title",
+    "original": "LCD?",
+    "context": "EN :\nLCD?\nJP :\nLCD?"
+  },
+  {
+    "key": "38-content",
+    "original": "아, 이럴 때가 아니지. 어차피 전달만 하면 끝이니까 굳이 대답할 필요는 없어!",
+    "context": "EN :\nOh right, I called you for a reason. I'm just calling to relay a message, so don't bother responding! Yeah?\nJP :\nあ、こうしてる場合じゃなかった。\nどうせ伝えれば終わりだし、別に答える必要ないからね！"
+  },
+  {
+    "key": "39-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "39-content",
+    "original": "<그, 그렇구나…>",
+    "context": "EN :\n<O-okay...>\nJP :\n<そ、そっか…。>"
+  },
+  {
+    "key": "40-teller",
+    "original": "무전기",
+    "context": "EN :\nRadio\nJP :\n無線機"
+  },
+  {
+    "key": "40-title",
+    "original": "LCD?",
+    "context": "EN :\nLCD?\nJP :\nLCD?"
+  },
+  {
+    "key": "40-content",
+    "original": "급하니까 한 번만 말할게!",
+    "context": "EN :\nWe don't have much time, so lemme keep it short!\nJP :\n忙しいから一回だけ言うよ！"
+  },
+  {
+    "key": "41-teller",
+    "original": "무전기",
+    "context": "EN :\nRadio\nJP :\n無線機"
+  },
+  {
+    "key": "41-title",
+    "original": "LCD?",
+    "context": "EN :\nLCD?\nJP :\nLCD?"
+  },
+  {
+    "key": "41-content",
+    "original": "너희가 회수해야 한다고 전달받은 모노리스, 그 검은 비석 말이야!",
+    "context": "EN :\nRemember that black stele you guys were sent to retrieve? The Monolith?\nJP :\n君たちが回収してって伝達されたモノリス、あの黒い碑石なんだけどね！"
+  },
+  {
+    "key": "42-teller",
+    "original": "무전기",
+    "context": "EN :\nRadio\nJP :\n無線機"
+  },
+  {
+    "key": "42-title",
+    "original": "LCD?",
+    "context": "EN :\nLCD?\nJP :\nLCD?"
+  },
+  {
+    "key": "42-content",
+    "original": "지금 그 위치에서 모노리스의 활동 신호가 엄청 강하게 나오거든? 사람을 강제로 뒤틀림화 시키는 신호 말이야!",
+    "context": "EN :\nI'm picking up a super huge bump in the Monolith signal in the area near you! That signal can force people to Distort, for your information!\nJP :\n今その位置から、モノリスの活動信号がものすごく強烈に出てるんだよね？\n人を強制的にねじれ化させる信号が！"
+  },
+  {
+    "key": "43-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "43-content",
+    "original": "강제로 뒤틀림화를 시킨다고…?",
+    "context": "EN :\nForce people to Distort...?\nJP :\n強制的にねじれ化させるって…？"
+  },
+  {
+    "key": "44-teller",
+    "original": "무전기",
+    "context": "EN :\nRadio\nJP :\n無線機"
+  },
+  {
+    "key": "44-title",
+    "original": "LCD?",
+    "context": "EN :\nLCD?\nJP :\nLCD?"
+  },
+  {
+    "key": "44-content",
+    "original": "그거, 전부 흘러나오기 전에 빨리 회수해야 해! 알았지?",
+    "context": "EN :\nWe HAVE to contain it before that seeping signal goes completely out of control, okay?!\nJP :\nそれ、全部流れ出る前に早く回収してね！分かった？"
+  },
+  {
+    "key": "45-teller",
+    "original": "무전기",
+    "context": "EN :\nRadio\nJP :\n無線機"
+  },
+  {
+    "key": "45-title",
+    "original": "LCD?",
+    "context": "EN :\nLCD?\nJP :\nLCD?"
+  },
+  {
+    "key": "45-content",
+    "original": "아잇, 이건 또 뭐야?!",
+    "context": "EN :\nAgh, what the heck is this?!\nJP :\nえっ、なんなのこれ！？"
+  },
+  {
+    "key": "46-teller",
+    "original": "무전기",
+    "context": "EN :\nRadio\nJP :\n無線機"
+  },
+  {
+    "key": "46-title",
+    "original": "LCD?",
+    "context": "EN :\nLCD?\nJP :\nLCD?"
+  },
+  {
+    "key": "46-content",
+    "original": "아, 미안! 여기도 일하는 중이라 바쁘거든! 길게는 말 못 해주겠다! 암튼, 급하다고 분명히 말했다! 이상, 전달 끝!",
+    "context": "EN :\nOh, my bad! I've got some stuff going on over here too, y'know? Anyway, I gotta keep this short, so lemme just emphasize that time is of the essence here! Over and out!\nJP :\nあ、ごめん！こっちも働いてる最中だから忙しいんだ！\nもうそろそろ限界かな！とりま、急を要するってちゃんと伝えたから！\n以上、伝達終了！"
+  },
+  {
+    "key": "47-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "47-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "48-content",
+    "original": "무전은 그렇게 일방적으로 끊겼다.",
+    "context": "EN :\nThe call dropped before any of us even had the chance to say anything.\nJP :\nそうして、無線は一方的に切られた。"
+  },
+  {
+    "key": "49-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "49-content",
+    "original": "<뭔가 되게 활기찬 걸…>",
+    "context": "EN :\n<... She's uh, pretty lively, huh.>\nJP :\n<なんだか凄く元気だったね…。>"
+  },
+  {
+    "key": "50-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "50-content",
+    "original": "한가롭게 감상을 말할 때냐?",
+    "context": "EN :\nWe don't have time to sit around dumbfounded, Clockhead. Let's crack on.\nJP :\nのんきに感想言ってる場合か？"
+  },
+  {
+    "key": "51-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "51-content",
+    "original": "저… 여기, 엘리베이터는 고장난 거 같아요.",
+    "context": "EN :\nUm, everyone... I think the elevator's broken.\nJP :\nその…この、エレベーターは壊れてるみたいです。"
+  },
+  {
+    "key": "52-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "52-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "52-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "52-content",
+    "original": "그대들도 급해질 이유가 이제 충분해진 것 같군.",
+    "context": "EN :\nI see that you and your fellows now also have a reason to hurry.\nJP :\nそなたらも急ぐ理由が今や十二分に生じたようだな。"
+  },
+  {
+    "key": "53-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "53-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "53-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "53-content",
+    "original": "이대로 층계참을 돌파하는 것이 좋지 않겠는가?",
+    "context": "EN :\nI say that we break through their lines and rise through the stairwell. What say you?\nJP :\nこのまま踊り場を突破した方が良いんじゃないか？"
+  },
+  {
+    "key": "54-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "54-content",
+    "original": "<어쩔 수 없지… 서두르자!>",
+    "context": "EN :\n<We don't have a choice... Come on, let's go!>\nJP :\n<どうしようもないか…急ごう！>"
+  },
+  {
+    "key": "55-content",
+    "original": "나는 무전기를 다시 품에 집어넣고, 계단을 향해 뛰어갔다.",
+    "context": "EN :\nI put the radio back in my pocket and began running up the stairs.\nJP :\n私は無線機を懐に再び突っ込み、階段へ向かって駆けだした。"
+  }
+]

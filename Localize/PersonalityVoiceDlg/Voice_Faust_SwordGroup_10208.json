@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10208_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10208_1-dlg",
+    "original": "출정전야는 반드시 고요한 법이죠. 마침… 달도 가득 차올랐군요.",
+    "context": "EN :\nA night before a battle is always so silent. Ah, and the moon has waxed full tonight, too.\nJP :\n出戦前夜は、決まって静かなものです。ちょうど…月も満ち満ちていますね。"
+  },
+  {
+    "key": "lobby_morning_10208_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10208_1-dlg",
+    "original": "좋은 아침입니다. 소박한 식사와 따스한 차 한 잔을 즐기기 좋은 시간이군요. 서두를 필요는 없겠지요.",
+    "context": "EN :\nGood morning. This is an opportune time for a modest meal and a warm cup of tea. There is no need for urgency.\nJP :\nおはようございます。素朴な食事と温かいお茶を楽しむのに良い時間ですね。急ぐ必要はないでしょう。"
+  },
+  {
+    "key": "lobby_noon_10208_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10208_1-dlg",
+    "original": "정오 훈련은 다음으로 미루려 합니다.\n오히려… 지금은 혹시 빠졌던 사실은 없었는지, 검술을 기록한 책자를 검토하는 것이 좋겠네요.",
+    "context": "EN :\nI plan to postpone my noon training until next time.\nI... believe that it is best that I review my book of techniques to ensure that I have not left anything behind.\nJP :\n正午の訓練は次回に延期しようと思います。\nむしろ…今は念のため抜けが無いか、剣術を記録した冊子を見直す方が良いでしょう"
+  },
+  {
+    "key": "lobby_night_10208_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10208_1-dlg",
+    "original": "달이 새하얗게 빛나고 있습니다. 밝게, 가리워지는 부분 없이. 지금이 적기겠군요.",
+    "context": "EN :\nThe pale moon glimmers white. With no trace of shadows, bright. Now is the time most apt.\nJP :\n月が真っ白に輝いています。明るく、陰る部分もなく。今が適期ですね。"
+  },
+  {
+    "key": "smalltalk_10208_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10208_1-dlg",
+    "original": "홍매화의 꽃잎을 던지고, 그 잎들을 조각내는 무예를 연습했던 적도 있었죠. 붉은 꽃잎이 사방으로 흩날리는 것은, 과히 아름다웠습니다.\n지금도 종종, 그 아름다운 광경을 보곤 합니다. 좀 더 액체에 가깝기는 하나.",
+    "context": "EN :\nI once trained my precision by casting the red plum petals under the starry sky... and rending them before they hit the floor. The sight of scattering red petals was... I daresay that it was quite beautiful.\nI witness that beauty still, from time to time. The only difference is that the petals are more liquid than solid.\nJP :\n紅梅の花びらを投げて、その花弁を切り刻む武芸を練習したこともありました。 紅い花びらが四方に舞い散る様子は、とても美しかったです。\n今でも時々、その美しい光景を見ることがあります。どちらかというと液体に近くはありますが。"
+  },
+  {
+    "key": "smalltalk_10208_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10208_2-dlg",
+    "original": "검술에 집착하는 건 어느 누구든, 계에 몸을 담고 있는 일원이라면 같겠지만…\n몸으로 배우는 시기는 이미 지난 터라, 이렇게 머리로 하는 공부를 하고 있습니다.",
+    "context": "EN :\nObsession with the blade is a shared passion among those who are a part of the Lineage.\nBut I believe that I am past the stage of learning via muscle memory. Now, I train with my mind.\nJP :\n剣術にこだわるのは誰であれ、契に身を寄せている一員なら同じでしょうが…。\n身体で学ぶ時期はもう過ぎたので、このように頭でする勉強に励んでおります。"
+  },
+  {
+    "key": "smalltalk_10208_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10208_3-dlg",
+    "original": "검의 흐름을 보면, 간혹 그것이 무술이라기 보단 예술 같다는 생각이 들지 않나요.\n흐름이 끊기지 않게, 유려히 하늘 위를 도화지 삼아… 아, 이런. 잠시 상상에 취해버렸군요.",
+    "context": "EN :\nWitness the whirling arc of the blade. Does it not resemble art beyond the realms of martial techniques?\nLet the sky be the paper upon which my blade draws an arc that breaks not... Ah, I seem to have lost myself for a moment.\nJP :\n剣の流れを見ると、希にそれが武術よりかは芸術であるような気はしませんか？\n流れが途切れないように、流麗に空の上を画用紙に…おっと。少し想像に耽ってしまいましたね。"
+  },
+  {
+    "key": "smalltalk_10208_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10208_4-dlg",
+    "original": "이 정도 뿐입니까, 흑운회. 야음을 틈타 우리의 터전 턱 끝까지 점거한 무뢰한들 치고는 성의 없이 흩어지는군요.",
+    "context": "EN :\nAfter going through so much trouble to advance before our gates under the cover of night... is this all you could muster, Kurokumo Clan? You scatter so helplessly.\nJP :\nこの程度ですか、黒雲会。夜陰に乗じて我々の拠り所の目と鼻の先まで占拠した無頼漢にしては、乱雑に散るんですね。"
+  },
+  {
+    "key": "smalltalk_10208_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10208_5-dlg",
+    "original": "저들은 스스로 흩날리는 꽃잎이 된 것도 자각하지 못할 것입니다. 같은 '검'이라는 도구를 쓰면서도 격의 차이가 이리도 현격하니.",
+    "context": "EN :\nThey will not, to their last moments of consciousness, understand that they have become naught but red petals blowing in the wind. Though our tools are much alike, I remain a step above them still.\nJP :\n彼らは、自ら舞い散る花びらになったことすら自覚できないでしょう。同じ「剣」という道具を使いながらも、格の差がこれほどまでに顕著ですから。"
+  },
+  {
+    "key": "neglect_10208_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10208_1-dlg",
+    "original": "종일 가만히 있으셔도 괜찮습니다. 달과 좀 더 이야기하죠.",
+    "context": "EN :\nYou may remain still all day. I shall converse with the moon.\nJP :\n一日中じっとしていても問題ありません。月ともう少し対話しましょうか。"
+  },
+  {
+    "key": "gacksung_10208_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10208_1-dlg",
+    "original": "오늘은 검무를 펼치기 좋은 밤입니다. 달을 머금은 칼날 끝에서 피어나는 꽃무리가 절경이죠. 꽃놀이는 어떠신지.",
+    "context": "EN :\nThis is a good night to engage in a dance of blades. Particularly exquisite are the flowers blossoming from the tip of a moon-dipped blade. Why not go and appreciate the petals?\nJP :\n今日は剣舞を繰り広げるのに良い夜です。月を宿した刃の先から咲き出す花々は絶景ですよ。花遊びはいかがでしょうか。"
+  },
+  {
+    "key": "formation_10208_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10208_1-dlg",
+    "original": "출정이군요.",
+    "context": "EN :\nSo we march.\nJP :\n出征ですね。"
+  },
+  {
+    "key": "battleentry_10208_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10208_1-dlg",
+    "original": "꽃을 피워볼까요.",
+    "context": "EN :\nLet the flowers bloom.\nJP :\n花を咲かせましょうか。"
+  },
+  {
+    "key": "battle_select_10208_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10208_1-dlg",
+    "original": "즐기고 계신가요?",
+    "context": "EN :\nAre you enjoying yourself?\nJP :\n楽しんでいらっしゃいますか？"
+  },
+  {
+    "key": "battle_endcommand_10208_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10208_1-dlg",
+    "original": "무뢰배들.",
+    "context": "EN :\nScoundrels.\nJP :\n無頼漢ども。"
+  },
+  {
+    "key": "battle_enemy_break_10208_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10208_1-dlg",
+    "original": "흐드러지게.",
+    "context": "EN :\nLet it blossom.\nJP :\n溢れるほどに。"
+  },
+  {
+    "key": "battle_break_10208_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10208_1-dlg",
+    "original": "으음.",
+    "context": "EN :\nMmm.\nJP :\nうぅむ。"
+  },
+  {
+    "key": "battle_kill_10208_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10208_1-dlg",
+    "original": "피어나리.",
+    "context": "EN :\nLike a bed of flowers.\nJP :\n咲き乱れろ。"
+  },
+  {
+    "key": "battle_dead_10208_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10208_1-dlg",
+    "original": "홍매화… 제게도… 피어나는 것… 이었군요.",
+    "context": "EN :\nSo... the red plum blossom... blooms from me all the same...\nJP :\n紅梅…私にも…咲くもの…だったんですね。"
+  },
+  {
+    "key": "choice_success_p_10208_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10208_2-dlg",
+    "original": "어긋날 연유도 없죠.",
+    "context": "EN :\nNo cause for it to be amiss.\nJP :\n外れる理由もないでしょう。"
+  },
+  {
+    "key": "choice_fail_n_10208_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10208_1-dlg",
+    "original": "어그러지는 것 또한 필연.",
+    "context": "EN :\nIt was fated to be amiss.\nJP :\n外れるのもまた必然。"
+  },
+  {
+    "key": "battle_clear_10208_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10208_1-dlg",
+    "original": "불량한 꽃들을 흩뜨려냈습니다. 이제 우리가 지낼 자리를 봐두어 볼까요.",
+    "context": "EN :\nI have cast the unsightly flowers from here. Let us see where we will now reside.\nJP :\n粗悪な花を散らしました。それでは私たちが住むことになる場を見ておきましょうか。"
+  },
+  {
+    "key": "battle_clear_ex_10208_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10208_1-dlg",
+    "original": "꽃은 지고, 새로운 나무가 이 곳에 움틀 것입니다. 그것이 우리의 터전을 수호할 재목이라는 건 틀림없는 사실이죠.",
+    "context": "EN :\nWhen the flowers wither, a new tree shall take root here. It will grow to be a pillar that will protect our home. I am certain of that.\nJP :\n花は散り、新しい木がここに芽吹くでしょう。それが私たちの拠り所を守る材木だということは疑いようのない事実です。"
+  },
+  {
+    "key": "battle_defeat_10208_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10208_1-dlg",
+    "original": "우리는… 정처 없이 떠도는 떠돌이, 흙에 내려 앉지 못한 씨앗… 언제쯤 정착할 수 있을지.",
+    "context": "EN :\nWe are... wanderers without destinations. Seeds without soil to take root in... When will our home be found?\nJP :\n私たちは…あてもなくさすらう流れ者、土に降り立つことのできなかった種…いつになれば根を下ろすことができるのでしょうか。"
+  }
+]

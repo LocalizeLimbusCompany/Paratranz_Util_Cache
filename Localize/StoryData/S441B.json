@@ -1,0 +1,420 @@
+[
+  {
+    "key": "0-place",
+    "original": "아수라장 된 K사 연구소 복도",
+    "context": "EN :\nRuined K Corp. Laboratory Hallway\nJP :\n修羅場になったK社研究所 廊下"
+  },
+  {
+    "key": "0-content",
+    "original": "뜨거운 눈빛이 아래쪽에서부터 시계로 부딪히는 것 같았지만, 애써 무시했다.",
+    "context": "EN :\nI did my best to ignore the fierce glare at my clock from below.\nJP :\n熱い眼差しが下の方から時計にぶつかってきたような気がしたが、頑張って無視した。"
+  },
+  {
+    "key": "1-content",
+    "original": "지금껏 마주쳤던 K사 직원들과는 확연히 다른 위압감을 갖고 걸어오는 자들이 눈에 띄었다.",
+    "context": "EN :\nI noticed a group of staff walking this way, carrying an imposing aura, unlike any other K Corp. employee we've met.\nJP :\n今まで対面してきたK社職員とは、明らかに異なる威圧感を醸しながら歩いてくる者たちが目に付いた。"
+  },
+  {
+    "key": "2-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "2-content",
+    "original": "아, K사에서 온 직원인가 보군. 어이! 저쪽에 대피 못 한 연구원들이 보였는데 말이지…",
+    "context": "EN :\nAh, you must be K Corp. staff. Hey! I saw some researchers that haven't evacuated over there...\nJP :\nあぁ、K社から来た職員みたいだな。おい！そっちに待避できてない研究員達がいるんだけど…。"
+  },
+  {
+    "key": "3-model",
+    "original": "K사3등급전투원",
+    "translation": "K公司3级战斗员",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "3-teller",
+    "original": "3등급 적출직 직원",
+    "context": "EN :\nClass 3 Excision Staff\nJP :\n3級 摘出職職員"
+  },
+  {
+    "key": "3-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "3-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "4-content",
+    "original": "그들은 우리의( 정확히는 그레고르의) 말은 가볍게 무시하며 위층으로 올라갔다.",
+    "context": "EN :\nThey ignored our–or Gregor's, rather–words and proceeded upstairs.\nJP :\n彼らは私たちの（正確にはグレゴールの）話を軽く無視し、上の階へと登っていった。"
+  },
+  {
+    "key": "5-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "5-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "5-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "5-content",
+    "original": "저들의 목적은 구출이 아니에요. 침입자의 제거 및 기밀 기술에 대한 보안을 담당하죠.",
+    "context": "EN :\nThey aren't here to rescue anyone. Their role is eliminating intruders and keeping classified technologies secure.\nJP :\n彼らの目的は救出じゃありません。侵入者の除去および機密技術に対する保安を担当してるんですよ。"
+  },
+  {
+    "key": "6-content",
+    "original": "이야기가 끝났는지 어느새 온 동랑이 자연스럽게 끼어들었다.",
+    "context": "EN :\nDongrang interjected like he's always been here. I suppose he's got done with the call.\nJP :\n話が終わったのか、いつの間にか来たドンランは自然と割り込んできた。"
+  },
+  {
+    "key": "7-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "7-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "7-content",
+    "original": "구조는 1등급들의 몫이잖아요.",
+    "context": "EN :\nRescuing is left to Class 1 staff.\nJP :\n救助は1級たちの役目じゃないですか。"
+  },
+  {
+    "key": "8-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "8-content",
+    "original": "헉! 1등급이면 해결사와 같이 엄청 높은 직원들인 것 아니오?! 역시 고결한…!",
+    "context": "EN :\nGasp! Is Class 1 not the highest level an employee can reach, precisely like Grade 1 is for Fixers?! Verily, 'tis no wonder that they are the noblest...!\nJP :\nはっ！1級ならフィクサーと同じく物凄く高い職員達なのではないか？やはり高潔な…！"
+  },
+  {
+    "key": "9-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "9-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "9-content",
+    "original": "예?  둥지에서는 1등급이 제일 낮고 숫자가 높을수록 우수합니다만…",
+    "context": "EN :\nSorry? In this Nest, Class 1 is the lowest level, and higher numbers indicate better ranks...\nJP :\nはい？巣では1級が一番低く、数字が高いほど優秀なんですけど…。"
+  },
+  {
+    "key": "10-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10-content",
+    "original": "뭐무머머머…뭣이?!!!",
+    "context": "EN :\nWha, wuh, wah, wha, wai... Whaat?!!!\nJP :\nなぬぁなななな…なんとぉ！？！？"
+  },
+  {
+    "key": "11-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "11-content",
+    "original": "…그렇다 해도 목숨을 구조하는 일엔 귀천이 있을 수 없는데, 어찌 역할이 나뉘어 있다는 것인가?",
+    "context": "EN :\n...Even still, none can be too lordly or lowly to save lives, so how can the roles be divided?\nJP :\n…だとしても命を救助する仕事には貴賤などありはしないのに、どうして役割が別れているのだ？"
+  },
+  {
+    "key": "12-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "12-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "12-content",
+    "original": "하하, 숫자는 돈처럼 많은 게 기분이 좋잖아요?",
+    "context": "EN :\nHaha, bigger is better for numbers and riches alike, isn't that right?\nJP :\nはは、数字はお金みたいに沢山ある方がいいじゃないですか？"
+  },
+  {
+    "key": "13-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "13-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "13-content",
+    "original": "아, 이야기가 조금 길어졌는데… 걱정할 거 없어요, 승인은 무사히 받아 놓았어요.",
+    "context": "EN :\nAh, the conversation dragged on for a bit... But there's nothing to worry about, I've acquired the permission.\nJP :\nあっ、話がちょっと長くなりましたけど…心配することはありません、承認は無事貰えましたから。"
+  },
+  {
+    "key": "14-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "14-content",
+    "original": "<…?>",
+    "context": "EN :\n<…?>\nJP :\n<…？>"
+  },
+  {
+    "key": "15-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "15-content",
+    "original": "뭐? 승인? 무슨 승인?",
+    "context": "EN :\nWhat? Permission? For what?\nJP :\nは？承認？なんの承認だ？"
+  },
+  {
+    "key": "16-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "16-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "16-content",
+    "original": "원래는 이런저런 서류 작성도 해야 하는 것 같은데, 위기 상황이니까 절차는 최대한 건너뛰기로 하죠. 괜찮겠지, 삼조 씨?",
+    "context": "EN :\nNormally, it seems to require a bunch of paperwork as well, but since we're in an emergency, let's skip the procedures that we can. Should be fine, right, Samjo?\nJP :\n本当はあれこれ書類も作らないと駄目だったと思うんですけど、危機的状態だから手続きはできる限り飛ばすことにしましょう。大丈夫だよね、サムジョさん？"
+  },
+  {
+    "key": "17-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "17-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "17-content",
+    "original": "뭐… 사흘 하고 반나절 정도 야근하면서 보고서를 제출하면 어떻게든 될 것 같군요.",
+    "context": "EN :\nWell... I believe it could be managed with three days and a half of working on the report overtime.\nJP :\nまぁ…三日半くらい残業しながら報告書を提出すれば、どうにかなりそうな気はしますね。"
+  },
+  {
+    "key": "18-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "18-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "18-content",
+    "original": "그리고 엄밀히 말하자면 저분들을 보고도 안 하고 연구실로 데려온 것부터가 문제였습니다.",
+    "context": "EN :\nAnd strictly speaking, the problem already began when you brought them to your lab without any report.\nJP :\nそして厳密に言うなら、あの方々を報告もなしで研究室へ連れて行ったことが最初の問題でした。"
+  },
+  {
+    "key": "19-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "19-content",
+    "original": "아니, 그러니까 무슨 승인인데!",
+    "context": "EN :\nJust tell us what that permission is about first!\nJP :\nいや、だからなんの承認だよ！"
+  },
+  {
+    "key": "20-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "20-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "20-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "20-content",
+    "original": "아무래도 동백이 그곳으로 향한 것 같아서요.",
+    "context": "EN :\nIt would seem that Dongbaek has headed that way.\nJP :\nどうやらドンベクがそこへ向かったみたいなんです。"
+  },
+  {
+    "key": "21-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "21-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "21-content",
+    "original": "감상실.",
+    "context": "EN :\nThe screening room.\nJP :\n鑑賞室。"
+  },
+  {
+    "key": "22-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "22-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "22-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "22-content",
+    "original": "그곳은 정말 정말… 보안 절차가 까다롭거든요.",
+    "context": "EN :\nThe security procedures for entering that place can be... extremely convoluted.\nJP :\nそこはホントのホントに…保安手続きがややこしいんですよ。"
+  },
+  {
+    "key": "23-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "23-content",
+    "original": "감상실? 말만 들어서는 무엇을 하는 곳인지 감이 안 오네~",
+    "context": "EN :\nScreening room? The name doesn't give a very clear idea of what it's about~\nJP :\n鑑賞室？名前聞いただけじゃ何をする場所かピンと来ないねぇ～。"
+  },
+  {
+    "key": "24-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "24-content",
+    "original": "보안이 까다로울 이유도 모르겠고요~",
+    "context": "EN :\nWonder why the security is so tight about it~\nJP :\nセキュリティが厳しい理由も分からないですしね～。"
+  },
+  {
+    "key": "25-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "25-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "25-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "25-content",
+    "original": "연구실의 제일 꼭대기에 있어요.",
+    "context": "EN :\nIt's at the very top of the building.\nJP :\n研究室の一番上にあります。"
+  },
+  {
+    "key": "26-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "26-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "26-content",
+    "original": "원래 접근하기 까다롭게 해 놓으려면… 둘 중 하나잖아요. 지하에 감춰 놓던가, 제일 꼭대기에 올려두던가.",
+    "context": "EN :\nThere are two ways to make something inaccessible: put it underground, or at the highest point.\nJP :\nそもそも、接近させづらくするなら…二択しか無いじゃないですか。地下に隠しておくか、一番上に置いておくか。"
+  }
+]

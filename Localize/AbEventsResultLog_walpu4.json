@@ -1,0 +1,32 @@
+[
+  {
+    "key": "836601_succeed_1-content",
+    "original": "물리 간섭 보호장 기능 활성화",
+    "context": "EN :\nPhysical Intervention Shield Activated\nJP :\n物理干渉保護フィールド機能 活性化"
+  },
+  {
+    "key": "836601_failed_1-content",
+    "original": "물리 간섭 보호장 기능 활성화",
+    "context": "EN :\nPhysical Intervention Shield Activated\nJP :\n物理干渉保護フィールド機能 活性化"
+  },
+  {
+    "key": "836602_1_1-content",
+    "original": "모든 아군의 <color=#00ff9c>체력 30</color> 회복",
+    "context": "EN :\nAll allies <color=#00ff9c>heal 30 HP</color>\nJP :\n全味方の<color=#00ff9c>体力 30</color>回復"
+  },
+  {
+    "key": "836602_2_1-content",
+    "original": "모든 아군의 <color=#80c9ff>정신력 30</color> 회복",
+    "context": "EN :\nAll allies <color=#80c9ff>heal 30 SP</color>\nJP :\n全味方の<color=#80c9ff>精神力 30</color>回復"
+  },
+  {
+    "key": "836602_3_1-content",
+    "original": "모든 아군의 <color=#00ff9c>체력 턴마다 3</color> 회복",
+    "context": "EN :\nAll allies <color=#00ff9c>heal 3 HP every turn</color>\nJP :\n全味方の<color=#00ff9c>体力 ターンごとに3</color>回復"
+  },
+  {
+    "key": "836602_3_2-content",
+    "original": "모든 아군의 <color=#80c9ff>정신력 턴마다 3</color> 회복",
+    "context": "EN :\nAll allies <color=#80c9ff>heal 3 SP every turn</color>\nJP :\n全味方の<color=#80c9ff>精神力 ターンごとに3</color>回復"
+  }
+]

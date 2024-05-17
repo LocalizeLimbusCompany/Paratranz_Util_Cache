@@ -1,0 +1,632 @@
+[
+  {
+    "key": "0-place",
+    "original": "로보토미 지부 시추선 어딘가",
+    "context": "EN :\nAbandoned Lobotomy Corp. Drilling Ship\nJP :\nロボトミー支部 掘削船のどこか"
+  },
+  {
+    "key": "0-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "0-content",
+    "original": "<결국 황금가지도, 생존자도 없었네…>",
+    "context": "EN :\n<No Golden Bough, no survivors...>\nJP :\n<結局黄金の枝も、生存者もいなかったか…。>"
+  },
+  {
+    "key": "1-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "1-content",
+    "original": "허. 탕.",
+    "context": "EN :\nA.T.F.N.\nJP :\n骨・折。"
+  },
+  {
+    "key": "2-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "2-content",
+    "original": "아니. 새로운 시선의 작품을 볼 수 있는 기회였으니 나쁘진 않았군. 훗.",
+    "context": "EN :\nNo. It was a good chance to observe art crafted from a different perspective. I suppose all that wasn't for nothing. Heh.\nJP :\nいや。新たな視線の作品を見られる機会だったから悪くはなかったか。\nふっ。"
+  },
+  {
+    "key": "3-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "3-content",
+    "original": "뭐~ 괜찮지 않겠어? 보통 이렇게 털리는 경우는 다음부터 대박 날 징조더라고~",
+    "context": "EN :\nWell~ We're going to be a-okay. A big win always follows a big loss like this~\nJP :\nまぁ～大丈夫じゃない？こんな風に大損した次は\n大もうけする兆しだからね～。"
+  },
+  {
+    "key": "4-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "4-content",
+    "original": "아무래도 그 가지를 찾으려면 호수 한복판을 헤적거려야 할 것 같은데… 끄응. 수영을 배웠어야 했나…",
+    "context": "EN :\nWe're going to have to scour the middle of the Great Lake to find that Bough... Mm. Maybe I should've learned how to swim...\nJP :\nどうにも、その枝を探すにゃ湖の真ん中を掻き回らないと\nいけないみたいだな…。ぐっ。泳ぎでも習うべきだったか…。"
+  },
+  {
+    "key": "5-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "5-content",
+    "original": "그자의 말대로라면 황금가지는 창백한 고래가 삼키고 갔다는 거예요.",
+    "context": "EN :\nIf we are to believe Rim, that Golden Bough... is inside the Pallid Whale.\nJP :\nあの人の言う通りなら、黄金の枝は蒼白な鯨が呑み込んでいったってことです。"
+  },
+  {
+    "key": "6-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "6-content",
+    "original": "정말 가는 것이오? 그 풍차만 한… 아니, 집채만 한… 아니…? 성채만 한?",
+    "context": "EN :\nAre we truly journeying in search of the Pallid Whale...\nJP :\n本当に行くのでございましょうか？\nあの風車ほどの…いや、家ほどの…。いや…？砦ほどの？"
+  },
+  {
+    "key": "7-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "7-content",
+    "original": "창백한 고래를 찾으러 말이오?",
+    "context": "EN :\nA Whale as big as a windmi— I mean, as large as a mansion? Nay, as grand as a castillo?\nJP :\n蒼白な鯨を探しに？"
+  },
+  {
+    "key": "8-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "8-content",
+    "original": "그… 만한 걸 우리가 잡을 수 있을까?",
+    "context": "EN :\nCan... we even catch something like that?\nJP :\nあんなの…を私たちが捕まえられるかな？"
+  },
+  {
+    "key": "9-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "9-content",
+    "original": "그리고 잡는다고 해도… 황금가지는 어떻게 얻어? 다시 뱉으라고 해?",
+    "context": "EN :\nEven if we catch up to it, what then? Ask it nicely to please puke the Bough back into our palms?\nJP :\nそして捕まえるといっても…黄金の枝はどうやって手に入れるの？\nもう吐き出してって言う？"
+  },
+  {
+    "key": "10-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "10-content",
+    "original": "돌아가는 편이…",
+    "context": "EN :\nGuys, maybe we should just go back...\nJP :\n引き返した方が…。"
+  },
+  {
+    "key": "11-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "11-content",
+    "original": "돌아간다고요?",
+    "context": "EN :\nGo back?\nJP :\n引き返すって？"
+  },
+  {
+    "key": "12-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "12-content",
+    "original": "아… 그, 그게~",
+    "context": "EN :\nOh, I-I mean~\nJP :\nあっ…そっ、その～。"
+  },
+  {
+    "key": "13-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "13-content",
+    "original": "돌아가면, 그 다음은 어떻게 하실 건가요? 아, 뭐 황금가지를 포기한다?",
+    "context": "EN :\nAnd then what? What are you going to do after we 'go back'? What, give up the Golden Bough, just like that?\nJP :\n引き返したら、その次はどうするんですか？\nあぁ、それで黄金の枝を諦める？"
+  },
+  {
+    "key": "14-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "14-content",
+    "original": "그렇게 아무렇지 않게 없던 일로 하고, 그다음 작전으로 넘어간다?",
+    "context": "EN :\nPretend like nothing happened and just move on to our next mission?\nJP :\nそうして何も無かったことにして、\n次の作戦に行く？"
+  },
+  {
+    "key": "15-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "15-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "16-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "16-content",
+    "original": "황금가지를 이런 식으로 포기하는 게, 이 집단에서 용인되었는지도 모르겠지만…",
+    "context": "EN :\nI don't know how or when it's become acceptable in this group to throw away a Golden Bough just like that, but...\nJP :\n黄金の枝をこんな風に諦めることが、\nこの集団で容認されたのかすら分かりませんが…。"
+  },
+  {
+    "key": "17-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "17-content",
+    "original": "그게 어찌 되었든, 저는 돌아가지 않아요. 여기까지 내가 어떤 마음으로 버텨왔는데…",
+    "context": "EN :\n... not me. I'm not going back. I've endured too much to go back now...\nJP :\nそれがどうであれ、私は引き返しません。\nここまで私がどんな気持ちで耐えてきたと思って…。"
+  },
+  {
+    "key": "18-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "18-content",
+    "original": "이 망할 회사에 들어오고, 줄곧 버티고 있던 이유는 항상 하나뿐이었어요.",
+    "context": "EN :\nThere was just ONE thing that kept me going in this shitty company. One thing.\nJP :\nこのクソッタレな会社に入ってきて、\nずっと耐えていた理由はいつであれずっと一つでした。"
+  },
+  {
+    "key": "19-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "19-content",
+    "original": "파우스트, 당신은 알죠?",
+    "context": "EN :\nAnd you know what that is, Faust.\nJP :\nファウスト、あなたは知ってますよね？"
+  },
+  {
+    "key": "20-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "20-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "21-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "21-content",
+    "original": "이스마엘 씨의 말씀대로, 이 정도의 상황에서 황금가지 수복을 포기하는 건 허용되지 않습니다.",
+    "context": "EN :\nIt is as Ishmael said. Abandoning the Golden Bough retrieval in the present situation is not permitted. Success is still within reach.\nJP :\nイシュメール氏のおっしゃるとおり、この程度の状況で\n黄金の枝の奪回を諦めることは許容されません。"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-content",
+    "original": "하지만… 지금 당장은 어디론가 이동하지는 못할 겁니다.",
+    "context": "EN :\nBut... we cannot move at this moment.\nJP :\nしかし…今すぐに何処かへ移動することはできないでしょう。"
+  },
+  {
+    "key": "23-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "23-content",
+    "original": "베르길리우스 씨와 합류해서 추후에 대한 논의를 하는 편이 적합할 것 같네요.",
+    "context": "EN :\nIt would be best that we rendezvous with Vergilius before discussing our next course of action.\nJP :\nヴェルギリウスさんと合流して、今後に関する論議をする方が適切ですね。"
+  },
+  {
+    "key": "24-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "24-content",
+    "original": "하, 그건가? 이번에도 그 거지 같은 호수의 규칙 때문이지?",
+    "context": "EN :\nHah, I see. It's that stupid law of the Great Lake again, huh?\nJP :\nはっ、そうか？\n今度もあのクソみてぇな湖の規則のせいだろ？"
+  },
+  {
+    "key": "25-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "25-content",
+    "original": "네, 그렇습니다. 약 두 시간이 남았군요.",
+    "context": "EN :\nYes, it is. We have 2 hours remaining.\nJP :\nはい、そうです。\n約二時間残っていますね。"
+  },
+  {
+    "key": "26-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "26-content",
+    "original": "참 잘했어요, 히스클리프 씨.",
+    "context": "EN :\nWow! Good work, Heathcliff! You're so smart.\nJP :\n良くできましたね、ヒースクリフさん。"
+  },
+  {
+    "key": "27-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "27-content",
+    "original": "이…",
+    "context": "EN :\nYou little...\nJP :\nこんの…。"
+  },
+  {
+    "key": "28-teller",
+    "original": "수감자들",
+    "context": "EN :\nSinners\nJP :\n囚人たち"
+  },
+  {
+    "key": "28-title",
+    "original": "수감자",
+    "context": "EN :\nSinners\nJP :\n囚人"
+  },
+  {
+    "key": "28-content",
+    "original": "으악!",
+    "context": "EN :\nWoah!\nJP :\nうわぁっ！"
+  },
+  {
+    "key": "29-content",
+    "original": "갑작스럽게 부딪힌 강한 충격에 모두가 휘청거렸다.",
+    "context": "EN :\nA sudden shock shook everyone.\nJP :\n突然訪れた強い衝撃に、みんながよろめいた。"
+  },
+  {
+    "key": "30-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "30-content",
+    "original": "<이, 일단 밖으로 나가자!>",
+    "context": "EN :\n<Let’s get outta here first!>\nJP :\n<と、とりあえず外に出よう！>"
+  },
+  {
+    "key": "31-place",
+    "original": "로보토미 지부 시추선 입구",
+    "context": "EN :\nLobotomy Corp. Drilling Ship Entrance\nJP :\nロボトミー支部 掘削船入口"
+  },
+  {
+    "key": "31-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "31-content",
+    "original": "뭐… 뭐… 뭣이오?!",
+    "context": "EN :\nW-what madness is this?!\nJP :\nな…な…なんにございますか！？"
+  },
+  {
+    "key": "32-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "32-content",
+    "original": "안개 너머로 선박 여러 척을 관측했다. 단, 메피스토펠레스의 윤곽은 아니다.",
+    "context": "EN :\nI observe multiple ships on the horizon, beyond the wall of mist. None of their silhouettes resemble Mephistopheles.\nJP :\n霧越しに船舶数隻を観測した。\nただし、メフィストフェレスの輪郭ではない。"
+  },
+  {
+    "key": "33-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "33-content",
+    "original": "뭐, 뭐야… 오발이라도 있었던 건가?",
+    "context": "EN :\nW-what the... Misfire, maybe?\nJP :\nな、なんだよ…誤射でもしたのか？"
+  },
+  {
+    "key": "34-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "34-content",
+    "original": "아, 아니 잠깐만! 니네 그게 먼저냐?",
+    "context": "EN :\nW-wait! Look around!\nJP :\nあ、いや、ちょっと待て！\nオメェらもっとあんだろ？"
+  },
+  {
+    "key": "35-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "35-content",
+    "original": "원래 여기까지 물이 차 있지 않았었잖아!!",
+    "context": "EN :\nThe water level... it'll be up to our britches any minute!\nJP :\n元々ここまで水が満ちてただろ！！"
+  },
+  {
+    "key": "36-content",
+    "original": "히스클리프가 외친 것처럼, 분명 들어올 때는 저 밑에 있었던 수면이, 어느새 우리가 서 있는 지부 플랫폼과 비슷한 수준까지 올라와 찰랑거리고 있었다.",
+    "context": "EN :\nIt was as Heathcliff said. When we first got to this branch, the water level was down there... But now, it had risen high enough that the waves were lapping at the platform we were standing on.\nJP :\nヒースクリフが叫んだ通り、確かに入ってくるときは下にあった水面がいつの間にか\n私たちの立つ支部のプラットフォームと同じ高さまでせり上がって揺らめいていた。"
+  },
+  {
+    "key": "37-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "37-content",
+    "original": "만조군요. 이 호수는 시간이 흐르면 수면이 높은 고저 차로 오르내리는 현상이 있는 것 같습니다.",
+    "context": "EN :\nIt's high tide. It appears that this Lake's water levels rise and fall depending on the time of day.\nJP :\n満潮ですね。この湖では時が流れると水面が上下する現象があるようです。"
+  },
+  {
+    "key": "38-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "38-content",
+    "original": "뭔가 발사되었다.",
+    "context": "EN :\nThey have launched something in our direction.\nJP :\n何かが発射された。"
+  },
+  {
+    "key": "39-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "39-content",
+    "original": "충격에 대비해라! 또 온다!",
+    "context": "EN :\nBrace for impact! Here comes another!\nJP :\n衝撃に備えろ！また来るぞ！"
+  },
+  {
+    "key": "40-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "40-content",
+    "original": "잘못 발사된 건… 아니네…",
+    "context": "EN :\nSo... not a misfire, then...\nJP :\n誤射じゃ…ないな…。"
+  },
+  {
+    "key": "41-content",
+    "original": "바닥에 연달아 박혀 오는 것은 작살이었다.",
+    "context": "EN :\nNumerous harpoons suddenly riddled the ground we were on.\nJP :\n床へ立て続けに打ち込まれたのは、銛だった。"
+  },
+  {
+    "key": "42-content",
+    "original": "사람이 맞게 되더라도 전혀 상관없다는 듯, 무자비하게 날아오르는 작살에 모두가 정신없이 피하기만 했다.",
+    "context": "EN :\nWe were being bombarded with harpoon shots—flung with nary a care whether it hit someone or not.\nJP :\n人に当たっても知ったことでは無いという風に\n無慈悲に飛んでくる銛を、皆が夢中で避けてばかりいた。"
+  },
+  {
+    "key": "43-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "43-content",
+    "original": "윽…",
+    "context": "EN :\nAgh...\nJP :\nうっ…。"
+  },
+  {
+    "key": "44-content",
+    "original": "료슈는 칼등으로 날아오는 작살 몇 개를 튕기는 데 성공했지만… 전부 쳐내는 건 무리였던 것 같다.",
+    "context": "EN :\nRyoshu parried a few harpoons away with the back of her sword, but there were simply too many.\nJP :\n良秀は鞘で飛んでくる銛をいくつか弾くことに成功したが…\n全部弾くのは無理だったようだ。"
+  },
+  {
+    "key": "45-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "45-content",
+    "original": "그… 쌍가오리 녀석들인가… 끈질긴 거 하나만큼은 정말 존경스럽네.",
+    "context": "EN :\nIt's those Twithook Pirates again, huh... Gotta say, I can respect their tenacity.\nJP :\nあの…双頭のやつらか…しぶといのだけは尊敬したいくらいだ。"
+  },
+  {
+    "key": "46-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "46-content",
+    "original": "관리자님, 당신이 기어코 살려 두었던, 그자가 부른 찌꺼기들이겠죠.",
+    "context": "EN :\nThose trash are here only thanks to your very stubborn mercy, Dante.\nJP :\n管理人様、あんたが生かした、アイツが呼んだカスたちでしょうね。"
+  },
+  {
+    "key": "47-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "47-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "48-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "48-content",
+    "original": "그런 말 마시오… 관리자 나리가 행했던 건 누구나 하기 어려운 숭고한 판단이였소…",
+    "context": "EN :\nSay not such things... What Manager Esquire did that day was a judgment most noble. 'Twas not an easy decision, forsooth...\nJP :\nそう言うな…管理人殿の行ったことは誰にもできぬ崇高な判断であったぞ…。"
+  },
+  {
+    "key": "49-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "49-content",
+    "original": "잠깐! 조금만 머리를 굴려보면 알 수 있잖아.",
+    "context": "EN :\nWait! Just use your noggins for once.\nJP :\n待てよ！少し頭をすっ転がせば分かるだろ。"
+  },
+  {
+    "key": "50-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "50-content",
+    "original": "우리가 호수에 묶여 있는 것처럼 저것들도 호수에 묶여 있을 거 아냐?",
+    "context": "EN :\nThey're bound to that Lake, just as we are to this one.\nJP :\nオレたちが湖に縛られてるみてぇに、あいつらも湖に縛られてんだろ？"
+  },
+  {
+    "key": "51-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "51-content",
+    "original": "뭐, 작살을 실컷 박는다고 해도 이 너머까지 배를 직접 끌고 오진 못하니까… 그 사이에… 뭐냐.",
+    "context": "EN :\nHarpoon us all they want, it's not like them sods can drag their ships toward us. So, in the meanwhile... whassit...\nJP :\nまあ銛をバカバカ打っても、あっち側まで船を\n引っ張ってくことはできねぇから…その間に…何だ。"
+  },
+  {
+    "key": "52-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "52-content",
+    "original": "아니.",
+    "context": "EN :\nNo.\nJP :\nいいえ。"
+  },
+  {
+    "key": "53-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "53-content",
+    "original": "보통… 해적들이 작살을 날리는 건, 그런 의도가 아니죠.",
+    "context": "EN :\nThat's... not what the Pirates use harpoons for.\nJP :\n普通…海賊たちが銛を飛ばすのは、そういう意図では無いです。"
+  },
+  {
+    "key": "54-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "54-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "55-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "55-content",
+    "original": "<저런 방법이 있었구나…>",
+    "context": "EN :\n<So that's how...>\nJP :\n<あんな方法があったんだ…。>"
+  },
+  {
+    "key": "56-teller",
+    "original": "유쾌한 해적",
+    "context": "EN :\nJolly Pirate\nJP :\n愉快な海賊"
+  },
+  {
+    "key": "56-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "56-content",
+    "original": "핫하, 우리가 갈고리를 단 건 지금 같은 추진력을 위해서였다고!",
+    "context": "EN :\nHa ha, now ye know why they call us the Twinhooks!\nJP :\nハハッ、俺たちが鉤を付けたのは今みてぇな推進力のためさ！"
+  },
+  {
+    "key": "57-teller",
+    "original": "유쾌한 해적",
+    "context": "EN :\nJolly Pirate\nJP :\n愉快な海賊"
+  },
+  {
+    "key": "57-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "57-content",
+    "original": "작살 타고 싶은 사람? 나요! 나!",
+    "context": "EN :\nAre ye ready, kids? Who wants to ride the harpoon?!\nJP :\n銛に乗りてぇ人？はいはい！俺！"
+  }
+]

@@ -1,0 +1,733 @@
+[
+  {
+    "key": "0-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "0-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "0-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "0-content",
+    "original": "자! 이쪽으로 어서 오시게!",
+    "context": "EN :\nAh! Please, come thee hither!\nJP :\nさぁ！こちらへ早く来たまえ！"
+  },
+  {
+    "key": "1-content",
+    "original": "아이는 들뜬 표정으로 골목을 앞질러 나아갔어. 그 뒤편에는 자그마한 수첩을 든 자도 함께 하고 있었지.",
+    "context": "EN :\nThe child strode through the alley, excitement clear in her eyes. Following closely behind her was a woman with a small notepad in her hands.\nJP :\n子供は浮かれた表情で路地を駆け抜けていた。その後方には、小さな手帳を持った者も共にいたんだ。"
+  },
+  {
+    "key": "2-model",
+    "original": "인터뷰어",
+    "context": "这是当前说话人物的默认名称,仅供参考\n但是,令人震惊的是,此版本并没有相关翻译,请前往NickName条目查看相关内容"
+  },
+  {
+    "key": "2-teller",
+    "original": "인터뷰어",
+    "context": "EN :\nInterviewer\nJP :\nインタビュアー"
+  },
+  {
+    "key": "2-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "2-content",
+    "original": "자, 잠시만요… 이번 인터뷰의 목적은 섕크 협회의 업무를 알아보는 것이었는데요?",
+    "context": "EN :\nW-wait... But the purpose of this interview was to learn about the kind of jobs that the Cinq Association would take?\nJP :\nちょ、ちょっと待ってください…。今回のインタビューの目的は、センク協会の業務を知ることなんですけど…。"
+  },
+  {
+    "key": "3-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "3-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "3-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "3-content",
+    "original": "하고 있지 않은가? 지금!",
+    "context": "EN :\nThou art learning, at this very moment!\nJP :\nやっているであろう？今！"
+  },
+  {
+    "key": "4-model",
+    "original": "인터뷰어",
+    "context": "这是当前说话人物的默认名称,仅供参考\n但是,令人震惊的是,此版本并没有相关翻译,请前往NickName条目查看相关内容"
+  },
+  {
+    "key": "4-teller",
+    "original": "인터뷰어",
+    "context": "EN :\nInterviewer\nJP :\nインタビュアー"
+  },
+  {
+    "key": "4-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "4-content",
+    "original": "아뇨, 지금은 골목 산책만 하고 있잖아요…",
+    "context": "EN :\nNo, we're just taking a stroll through the alleys...\nJP :\nいえ、今やってるのは裏路地の散策じゃないですか…。"
+  },
+  {
+    "key": "5-content",
+    "original": "수첩을 구깃거리는 자의 표정이 점점 뚱한 모습으로 변해가고 있었어.",
+    "context": "EN :\nThe woman, fidgeting with the notepad, was growing increasingly and visibly disappointed.\nJP :\n手帳をくしゃくしゃにしているインタビュアーの表情が、段々と機嫌悪そうになってるね。"
+  },
+  {
+    "key": "6-content",
+    "original": "분명 인터뷰 약속을 잡을 때까지만 하더라도 잘 알려지지 않았던 섕크 협회의 업무 환경을 알 수 있을 거라 기대하고 왔던 것이지만…",
+    "context": "EN :\nWhen she landed this interview, she was excited at the prospect of learning more of the Cinq Association's work environment, which has remained rather obscure until now...\nJP :\n確かにインタビューの約束を取り付けたときは、あまり知られていないセンク協会の業務環境を知ることができるだろうと期待して来ただろうけど…。"
+  },
+  {
+    "key": "7-content",
+    "original": "막상 부장이라는 사람은 30분째 골목을 휘적거리기만 하고 있었으니까 말이야.",
+    "context": "EN :\nAnd here she was, tagging along to this director's leisurely afternoon stroll about the alleyways.\nJP :\nいざ会うと、部長という人は30分も裏路地をうろついてばかりいたからね。"
+  },
+  {
+    "key": "8-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "8-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "8-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "8-content",
+    "original": "쯧쯧… 그대, 잘 모르는 게로군!",
+    "context": "EN :\nTsk tsk, thou art yet to understand!\nJP :\nちっちっ…そなた、よく分かっていないようだな！"
+  },
+  {
+    "key": "9-content",
+    "original": "하지만 아이는 아랑곳하지 않고, 집게손가락을 까딱거리며 웃을 뿐이야.",
+    "context": "EN :\nYet the child's nonchalance was unrelenting, as she grinned and wagged her index finger at the woman.\nJP :\nでも子供は気にせず、人差し指を左右に揺らして笑っていたんだ。"
+  },
+  {
+    "key": "10-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "10-content",
+    "original": "묻지! 그대는 섕크의 주 역할이 무엇일 거라 생각하는가?",
+    "context": "EN :\nI ask thee! What dost thou think the primary function of the Cinq Association is?\nJP :\n問おう！そなたはセンクの主な役割は何であると思うか？"
+  },
+  {
+    "key": "11-teller",
+    "original": "인터뷰어",
+    "context": "EN :\nInterviewer\nJP :\nインタビュアー"
+  },
+  {
+    "key": "11-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "11-content",
+    "original": "그야… 섕크는 결투 협회잖아요.",
+    "context": "EN :\nWell... it's a dueling association, isn't it?\nJP :\nそりゃぁ…センクは決闘協会じゃないですか。"
+  },
+  {
+    "key": "12-teller",
+    "original": "인터뷰어",
+    "context": "EN :\nInterviewer\nJP :\nインタビュアー"
+  },
+  {
+    "key": "12-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "12-content",
+    "original": "의뢰자분들의 대리 결투에 들어가거나… 뭐, 그런 일들을 하시는 거 아닌가요?",
+    "context": "EN :\nYou fight duels in your clients' stead... and stuff like that, right?\nJP :\n依頼人の代理決闘に出たり…まぁ、そんなことをしてるんじゃないですか？"
+  },
+  {
+    "key": "13-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "13-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "13-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "13-content",
+    "original": "하하, 거보게! 잘 모르지 않나?",
+    "context": "EN :\nHa ha! Forsooth, thou art indeed yet to understand!\nJP :\nはは、ほれ見ろ！よく分かっていないではないか？"
+  },
+  {
+    "key": "14-teller",
+    "original": "인터뷰어",
+    "context": "EN :\nInterviewer\nJP :\nインタビュアー"
+  },
+  {
+    "key": "14-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "14-content",
+    "original": "…설마, 악인을 찾아 결투를 신청하러 다닌다는 말씀을 하시려는 건 아니겠죠?",
+    "context": "EN :\n...You're not about to tell me that you seek out evildoers to duel them in the name of justice, are you?\nJP :\n…まさか、悪人を見つけて決闘を申し込んで回っているとおっしゃるつもりじゃないですよね？"
+  },
+  {
+    "key": "15-teller",
+    "original": "인터뷰어",
+    "context": "EN :\nInterviewer\nJP :\nインタビュアー"
+  },
+  {
+    "key": "15-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "15-content",
+    "original": "무슨 정의의 사도도 아니고… 부장님께서 그런 환상을 갖고 있다는 제보도 있었지만, 무시했죠.",
+    "context": "EN :\nIt's not like you guys are pretending to be 'bringers of justice' or anything like that. There were reports claiming that you had some odd delusions of grandeur, but that'd be preposterous.\nJP :\nそんな正義の使者でもあるまいし…部長さんがそんな幻想を抱いてるって情報提供もあったんですけど、無視したんですよ。"
+  },
+  {
+    "key": "16-teller",
+    "original": "인터뷰어",
+    "context": "EN :\nInterviewer\nJP :\nインタビュアー"
+  },
+  {
+    "key": "16-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "16-content",
+    "original": "그런 유치한 생각을 갖고 어떻게 부장 자리까지 앉았겠어요, 그렇죠?",
+    "context": "EN :\nI mean, you couldn't possibly have gotten so far in this industry with such a childish philosophy, right?\nJP :\nそんな幼稚な考えを持ったまま部長の座に就けるわけないじゃないですか、そうですよね？"
+  },
+  {
+    "key": "17-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "17-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "17-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "17-content",
+    "original": "에흠! 크흐흠…",
+    "context": "EN :\nAhem! Khm...\nJP :\nうぇっへん！こほん…。"
+  },
+  {
+    "key": "18-content",
+    "original": "어딘가 찔린 구석이 있는 것 같았지만, 아이는 개의치 않았어.",
+    "context": "EN :\nShe coughed as though the interviewer had touched upon a sensitive subject, but responded confidently.\nJP :\nどこかしら刺さるところがあったかもしれないけど、子供は気にしなかった。"
+  },
+  {
+    "key": "19-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "19-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "19-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "19-content",
+    "original": "당연히… 그런 건 아닐세. 조금 더 실리적인 이유라고나 할까?",
+    "context": "EN :\nPatently not... of course. I must say, mine motivation was something of a more practical nature.\nJP :\nもちろん…そういうことではあらぬ。もう少し実利的な理由と言えば良いだろうか？"
+  },
+  {
+    "key": "20-content",
+    "original": "그 말과 함께 골목을 벗어나자…",
+    "context": "EN :\nAs they walked out of the alleyway...\nJP :\nその言葉と共に裏路地を抜けると…。"
+  },
+  {
+    "key": "21-content",
+    "original": "시끌시끌한 군중들 사이에서 금방이라도 싸움이 벌어질 것만 같은 두 사람이 눈에 들어왔지.",
+    "context": "EN :\nTwo people, surrounded by a large crowd and appearing ready to throw down, came into view.\nJP :\nガヤガヤとしている群衆の間に、今にも喧嘩を始めそうな二人が目に入ってきたんだ。"
+  },
+  {
+    "key": "22-teller",
+    "original": "인터뷰어",
+    "context": "EN :\nInterviewer\nJP :\nインタビュアー"
+  },
+  {
+    "key": "22-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "22-content",
+    "original": "뭐죠…? 의뢰가 들어왔던 건가요?",
+    "context": "EN :\nWhat is this...? Was there a request?\nJP :\n何ですか…？依頼が入ってたんですか？"
+  },
+  {
+    "key": "23-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "23-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "23-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "23-content",
+    "original": "아니! 의뢰는 다른 협회원들에게 전달했네.",
+    "context": "EN :\nNay! I have relayed what request there was to other members of the Association.\nJP :\nいいや！依頼は他の協会員に伝達したのである。"
+  },
+  {
+    "key": "24-teller",
+    "original": "인터뷰어",
+    "context": "EN :\nInterviewer\nJP :\nインタビュアー"
+  },
+  {
+    "key": "24-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "24-content",
+    "original": "그렇다면…",
+    "context": "EN :\nThen what is...\nJP :\nということは…。"
+  },
+  {
+    "key": "25-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "25-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "25-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "25-content",
+    "original": "알겠는가? 이런 골목에서 시비가 붙고, 싸움이 벌어지는 상황은 너무도 흔하지.",
+    "context": "EN :\nDost thou see now? 'Tis too commonplace an occurrence, kerfuffles such as this, in these alleys.\nJP :\n分かったか？こんな路地では言い争いが起こり、喧嘩になる状況はとても頻繁にあるのだ。"
+  },
+  {
+    "key": "26-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "26-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "26-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "26-content",
+    "original": "그런 만큼~",
+    "context": "EN :\nThus~\nJP :\nだからこそ～。"
+  },
+  {
+    "key": "27-teller",
+    "original": "싸움 구경꾼",
+    "context": "EN :\nFight Spectator\nJP :\n外野"
+  },
+  {
+    "key": "27-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "27-content",
+    "original": "섀, 섕크 협회다!",
+    "context": "EN :\nI-it's the Cinq Association!\nJP :\nせ、センク協会だ！"
+  },
+  {
+    "key": "28-teller",
+    "original": "억울한 시민",
+    "context": "EN :\nBullied Citizen\nJP :\n悔しがっている市民"
+  },
+  {
+    "key": "28-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "28-content",
+    "original": "자, 잘 왔구만! 여기! 내가 대리 결투를 신청할게!",
+    "context": "EN :\nO-oh boy, am I glad to have one of you here! Lemme request you to duel in my stead!\nJP :\nよ、よく来た！こっち！代理決闘を申請しよう！"
+  },
+  {
+    "key": "29-teller",
+    "original": "흥분한 시민",
+    "context": "EN :\nAgitated Citizen\nJP :\n興奮した市民"
+  },
+  {
+    "key": "29-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "29-content",
+    "original": "엇, 이, 이 새끼가… 나, 나도!",
+    "context": "EN :\nWha- Oh, you cheeky little... M-me, too!\nJP :\nあっ、こ、この野郎…お、俺も！"
+  },
+  {
+    "key": "30-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "30-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "30-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "30-content",
+    "original": "자자~ 진정들 하시고! 어디, 무슨 상황이었는지나 들어볼까?",
+    "context": "EN :\nNow now, calm thyselves! Now explain-what hath transpired here?\nJP :\nさあさぁ～落ち着きなされ！どれ、どういう状況だったのか話を聞こうではないか？"
+  },
+  {
+    "key": "31-content",
+    "original": "아이는 두 사람의 이야기를 들으며 장갑을 벗더니…",
+    "context": "EN :\nHearing what the two had to say, the child took off one of her gloves...\nJP :\n子供は二人の話を聞いて手袋を脱ぐと…。"
+  },
+  {
+    "key": "32-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "32-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "32-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "32-content",
+    "original": "흐흠. 내가 계약할 의뢰자는 정해졌군!",
+    "context": "EN :\nAhem. Then mine client has been decided!\nJP :\nふぅむ。私が契約する依頼者は決まったようだな！"
+  },
+  {
+    "key": "33-content",
+    "original": "건너편에 서 있던 자에게 냅다 장갑을 내던졌어.",
+    "context": "EN :\nAnd hurled it at the one standing opposite of her.\nJP :\n向こうに立っていた者へいきなり手袋を投げつけた。"
+  },
+  {
+    "key": "34-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "34-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "34-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "34-content",
+    "original": "결투 의뢰를 하는 데에도 절차와 격식이 있는 법!",
+    "context": "EN :\nThere are rules and etiquette to proposing a proper duel!\nJP :\n決闘依頼をするのにも手順と格式があるものだ！"
+  },
+  {
+    "key": "35-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "35-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "35-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "35-content",
+    "original": "마구잡이로 들이밀면서 언성만 높이는 자네는, 용서할 수가 없군.",
+    "context": "EN :\nI cannot forgive thee, knave, thou who holler with nary a care for such things!\nJP :\n無闇に詰め寄ってきて声だけ荒らげるそなたは、許せないな。"
+  },
+  {
+    "key": "36-teller",
+    "original": "흥분한 시민",
+    "context": "EN :\nAgitated Citizen\nJP :\n興奮した市民"
+  },
+  {
+    "key": "36-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "36-content",
+    "original": "크윽… 이… 개…",
+    "context": "EN :\nAgh... You son of a...\nJP :\nくぅっ…この…クソ…。"
+  },
+  {
+    "key": "37-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "37-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "37-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "37-content",
+    "original": "나, 참. 고귀한 결투 신청을 왜 항상 이렇게 화를 내며 받아들이는지.",
+    "context": "EN :\nAlas, I must wonder what part of this noble duel request irks thee so.\nJP :\nまったく。高貴な決闘の申し込みを、どうしていつもこんな風に怒りながら受け入れるのであろうか。"
+  },
+  {
+    "key": "38-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "38-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "38-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "38-content",
+    "original": "아, 인터뷰어 군! 그대는 좀 떨어져 있게!",
+    "context": "EN :\nNow step aside, dear interviewer!\nJP :\nあぁ、インタビュアー君！そなたは少し離れるが良い！"
+  },
+  {
+    "key": "39-content",
+    "original": "아이는 허리춤에서 검을 뽑아 들며 자세를 취했고,",
+    "context": "EN :\nThe child drew her sword from the waist and readied herself.\nJP :\n子供は腰から剣を抜き取ってフォームを取り、"
+  },
+  {
+    "key": "40-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "40-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "40-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "40-content",
+    "original": "알레!(Allez!)",
+    "context": "EN :\nAllez!\nJP :\nアレ！(Allez!)"
+  },
+  {
+    "key": "41-content",
+    "original": "곧, 장갑을 얻어맞은 자의 패배로 결투는 끝나버렸지.",
+    "context": "EN :\nThe duel ended swiftly, with the defeat of the one that had been slapped by the glove.\nJP :\nじきに、手袋を当てられた者の敗北で決闘は終わってしまったんだ。"
+  },
+  {
+    "key": "42-teller",
+    "original": "인터뷰어",
+    "context": "EN :\nInterviewer\nJP :\nインタビュアー"
+  },
+  {
+    "key": "42-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "42-content",
+    "original": "굉장해… 이렇게 순식간에?",
+    "context": "EN :\nAmazing... Such haste!\nJP :\nすごい…こんな瞬時に？"
+  },
+  {
+    "key": "43-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "43-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "43-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "43-content",
+    "original": "놀랄만한 실력은 아니지만. 아, 의뢰에 대한 값은 이쪽으로 치르게.",
+    "context": "EN :\nThis was naught to be amazed about. Ah, Make thy payment for the request to this address.\nJP :\n驚くべき実力ではあるまいが。あぁ、依頼に対する代金はこちらに払いたまえ。"
+  },
+  {
+    "key": "44-content",
+    "original": "아이는 연신 고개를 숙이는 의뢰인에게 명함 한 장을 건네주곤 인터뷰어에게로 돌아왔어.",
+    "context": "EN :\nThe child handed a card to the profusely bowing client before returning to the interviewer.\nJP :\n子供は何度も頭を下げる依頼人に名刺一枚を渡し、インタビュアーのところに戻った。"
+  },
+  {
+    "key": "45-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "45-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "45-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "45-content",
+    "original": "정의의 사도… 도시에서는 그것을 유치하다고 받아들일지 모르네만.",
+    "context": "EN :\nHeroes fighting in the name of justice... Indeed, such a notion may appear childish in the City.\nJP :\n正義の使者…都市ではそれを幼稚と受けとめるやもしれぬが。"
+  },
+  {
+    "key": "46-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "46-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "46-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "46-content",
+    "original": "이런 ‘업무’의 방식으로 수행한다면, 그건 또 실적으로 인정하더군.",
+    "context": "EN :\nIf performed in the form of \"business\" such as this, however, they consider it a real result worth counting.\nJP :\nこんな「業務」の方式で遂行すれば、それはまた実績として認められたのだ。"
+  },
+  {
+    "key": "47-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "47-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "47-title",
+    "original": "섕크 협회 5과 부장",
+    "context": "EN :\nCinq Section 5 Director\nJP :\nセンク協会 5課 部長"
+  },
+  {
+    "key": "47-content",
+    "original": "이게 내 나름의 타협점일세. 어때, 아직도 유치한가?",
+    "context": "EN :\nAnd that is my compromise. What say you, is it still a childish delusion?\nJP :\nこれが私なりの妥協点である。どうだ、まだ幼稚だと思うか？"
+  },
+  {
+    "key": "48-content",
+    "original": "상쾌한 미소와 함께 말이야.",
+    "context": "EN :\nWith that, she smiled radiantly.\nJP :\n爽快な笑顔と共にね。"
+  }
+]

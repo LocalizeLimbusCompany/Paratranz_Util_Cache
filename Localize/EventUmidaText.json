@@ -1,0 +1,52 @@
+[
+  {
+    "key": "umida_stagebutton_not_clear_cp4-content",
+    "original": "4-54 클리어 시 개방",
+    "context": "EN :\nClear 4-54 to Unlock\nJP :\n4-54クリア時に解放"
+  },
+  {
+    "key": "umida_stagebutton_normal-content",
+    "original": "폐품 수집",
+    "context": "EN :\nGather Scrap\nJP :\n廃品回収"
+  },
+  {
+    "key": "umida_stagebutton_end_event-content",
+    "original": "이벤트 종료",
+    "context": "EN :\nEvent Closed\nJP :\nイベント終了"
+  },
+  {
+    "key": "umida_storybutton_before_start-content",
+    "original": "4.5-1 클리어 시 개방",
+    "context": "EN :\nClear 4.5-1 to Unlock\nJP :\n4.5-1クリア時に解放"
+  },
+  {
+    "key": "umida_storybutton_normal-content",
+    "original": "회상하기",
+    "context": "EN :\nRecollect\nJP :\n回想"
+  },
+  {
+    "key": "umida_exchange_scrap-content",
+    "original": "폐품 수집함",
+    "context": "EN :\nScrap Box\nJP :\n廃品回収箱"
+  },
+  {
+    "key": "umida_scrap_guide_title-content",
+    "original": "특별한 폐품",
+    "context": "EN :\nExtraordinary Scrap\nJP :\n特別な廃品"
+  },
+  {
+    "key": "umida_scrap_guide_desc-content",
+    "original": "이벤트 혹은 주요 이야기의 스테이지와 던전을 클리어하면\n낮은 확률로 <color=#f8c200>[희귀한 말굽이 포함된 버스 개조용 폐품]</color>을 획득할 수 있습니다.\n\n<color=#f8c200>[희귀한 말굽이 포함된 버스 개조용 폐품]</color>은 <color=#f8c200>[버스 개조용 폐품]</color> 20개로 전환됩니다.",
+    "context": "EN :\nRarely, you may obtain <color=#f8c200>[Rare Horseshoe with Bus-modifying Scrap]</color> from clearing Event Stages, Main Story Stages, or Dungeons.\n\n<color=#f8c200>[Rare Horseshoe with Bus-modifying Scrap]</color> is converted to 20 <color=#f8c200>[Bus-modifying Scrap]</color>.\nJP :\nイベント又はメインストーリーのダンジョンをクリアすると\n低確率で<color=#f8c200>[珍しい蹄鉄の入ったバス改造用廃品]</color>を獲得することができます。\n\n<color=#f8c200>[珍しい蹄鉄の入ったバス改造用廃品]</color>は<color=#f8c200>[バス改造用廃品]</color>20個に変換されます。"
+  },
+  {
+    "key": "umida_rewardpage_desc-content",
+    "original": "이벤트 혹은 주요 이야기의 스테이지와 던전을 클리어하여 <color=#f8c200>[버스 개조용 폐품]</color>을 획득할 수 있습니다.\n\n획득한 <color=#f8c200>[버스 개조용 폐품]</color> 수량에 비례하여 <color=#f8c200>[폐품 수집함]</color>에서 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nClear Event Stages, Main Story Stages, or Dungeons to earn <color=#f8c200>[Bus-modifying Scrap]</color>.\n\nYou can redeem various rewards from the <color=#f8c200>[Scrap Box]</color> based on the number of <color=#f8c200>[Bus-modifying Scrap]</color> you have.\nJP :\nイベントまたはメインストーリーのステージ、ダンジョンをクリアして<color=#f8c200>[バス改造用廃品]</color>を獲得することができます。\n\n獲得した<color=#f8c200>[バス改造用廃品]</color>の数に比例して<color=#f8c200>[廃品回収箱]</color>から様々な報酬を獲得することができます。"
+  },
+  {
+    "key": "umida_scrap_counter_label-content",
+    "original": "수집한 폐품 수량",
+    "context": "EN :\nScrap Collected\nJP :\n集めた品の数"
+  }
+]

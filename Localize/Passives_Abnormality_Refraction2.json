@@ -1,0 +1,982 @@
+[
+  {
+    "key": "853901-name",
+    "original": "부서진 우산",
+    "context": "EN :\nBroken Umbrella\nJP :\n壊れた傘"
+  },
+  {
+    "key": "853901-desc",
+    "original": "몸통 부위 파괴 시, 매 턴마다 몸통 부위 피해량 감소 1 얻음",
+    "context": "EN :\nWhen the body is broken, the body is inflicted with 1 Damage Down every turn.\nJP :\n胴体部位破壊時、毎ターン胴体部位ダメージ量減少 1を得る"
+  },
+  {
+    "key": "853902-name",
+    "original": "다해진 우산",
+    "context": "EN :\nRagged Umbrella\nJP :\n破れきった傘"
+  },
+  {
+    "key": "853902-desc",
+    "original": "머리 부위 파괴 시, 매 턴마다 피해량 감소 1 얻음",
+    "context": "EN :\nWhen the head is broken, gain 1 Damage Down every turn\nJP :\n頭部位破壊時、毎ターンダメージ量減少 1を得る"
+  },
+  {
+    "key": "853903-name",
+    "original": "마지막 발버둥",
+    "context": "EN :\nLast Struggle\nJP :\n最後のあがき"
+  },
+  {
+    "key": "853903-desc",
+    "original": "체력이 전체 체력의 15%만큼 남았다면, 매 턴마다 속박 10, 공격 위력 감소 1 얻음\n새로 소환된 낡은 우산 체력 30% 증가. 매 턴마다 무언가를 찾는 울음소리 사용",
+    "context": "EN :\nAt 15% HP, this unit gains 10 Bind and 1 Attack Power Down every turn\nNewly spawned Old Umbrellas have 30% more HP. Uses 'Cries Seeking Something' every turn.\nJP :\n残り体力が15%のとき、毎ターン束縛 10, 攻撃威力減少 1を得る\n新しく召喚された古傘の体力が30%増加。毎ターン何かを探す鳴き声を使用"
+  },
+  {
+    "key": "853904-name",
+    "original": "허영된 마음",
+    "context": "EN :\nVain Heart\nJP :\n虚栄の心"
+  },
+  {
+    "key": "853904-desc",
+    "original": "1턴 시작 시 <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">보호 우산</color></link></u>을 2 얻음. (최대 6)\n<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">보호 우산</color></link></u>을 얻을 때 \"순환 횟수\"만큼 추가로 얻음.\n보유중인 <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">보호 우산</color></link></u>만큼 <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">보호</color></link></u>를 얻음\n기다림 스킬이 슬롯에 있다면, 낡은 우산을 <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">보호 우산</color></link></u>만큼 소환",
+    "context": "EN :\nGain 2 <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> at the start of the first turn. (Max 6)\nGain additional <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> equal to the number of \"Cycle Counts\".\nGain <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</color></link></u> equal to the Count of <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> on self.\nIf Waiting Skill is slotted, summon Old Umbrella equal to the number of <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u>\nJP :\n1ターン開始時、<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">保護傘</color></link></u>を2得る。(最大6)\n<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">保護傘</color></link></u>を得るとき、「循環回数」だけ追加で得る。\n保有している<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">保護傘</color></link></u>だけ<sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">保護</color></link></u>を得る\nスキル「待ちわびる」がスロットにあるなら、古傘を<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">保護傘</color></link></u>だけ召喚"
+  },
+  {
+    "key": "853905-name",
+    "original": "굴절된 파열과 침잠",
+    "context": "EN :\nRefracted Rupture and Sinking\nJP :\n屈折された破裂と沈潜"
+  },
+  {
+    "key": "853905-desc",
+    "original": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">파열</color></link></u>과 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">침잠</color></link></u>의 위력이 30까지만 누적됨.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">파열</color></link></u>과 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">침잠</color></link></u>의 횟수가 5까지만 누적됨.",
+    "context": "EN :\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> and <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u> Potency maxes out at 30.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> and <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u> Count maxes out at 5.\nJP :\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の回数が5まで蓄積される。"
+  },
+  {
+    "key": "853906-name",
+    "original": "굴절 출혈 부과",
+    "context": "EN :\nApply Refracted Bleed\nJP :\n屈折出血負荷"
+  },
+  {
+    "key": "853906-desc",
+    "original": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>을 얻을 때 위력과 횟수를 1 추가로 얻음.",
+    "context": "EN :\nWhen gaining <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain 1 additional Potency and Count\nJP :\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>を得るとき、威力と回数を追加で1得る。"
+  },
+  {
+    "key": "854001-name",
+    "original": "버려진 낡은 우산",
+    "context": "EN :\nOld and Abandoned\nJP :\n捨てられた古傘"
+  },
+  {
+    "key": "854001-desc",
+    "original": "이 유닛이 인격에 의해 처치되면 다음 턴에 처치한 캐릭터 신속 2 얻음.\n떠돌이 여우 모든 부위에 속박 2 부여.\n떠돌이 여우에게 우산 파편 1 부여.",
+    "context": "EN :\nWhen this unit is defeated, the unit that defeated it gains 2 Haste next turn.\nAll Drifting Fox parts are inflicted with 2 Bind.\nApply 1 Umbrella Splinters to Drifting Fox.\nJP :\nこのユニットが人格によって倒されると、倒したキャラクターが次のターンにクイック 2を得る。\nさすらいの狐の全部位に束縛 2を付与。\nさすらいの狐に傘の破片 1を付与。"
+  },
+  {
+    "key": "854101-name",
+    "original": "쇠퇴한 생명력",
+    "context": "EN :\nDeteriorated Persistence\nJP :\n衰退した生命力"
+  },
+  {
+    "key": "854101-desc",
+    "original": "방어 스킬 사용 후 보호막 체력이 전부 소모되었다면, 다음 턴에 공격 레벨 감소 3, 취약 3을 얻음.",
+    "context": "EN :\nIf Shield HP is fully depleted after using a defensive skill, gain 3 Offense Level Down and 3 Fragile next turn.\nJP :\n防御スキル使用後にバリアが全て消耗されると、次のターンに攻撃レベル減少 3, 脆弱 3を得る。"
+  },
+  {
+    "key": "854102-name",
+    "original": "단단한 갑각",
+    "context": "EN :\nSolid Exoskeleton\nJP :\n堅い甲殻"
+  },
+  {
+    "key": "854102-desc",
+    "original": "머리가 부위 파괴 상태가 아니라면\n매 턴마다 몸통이 보호 3을 얻음.",
+    "context": "EN :\nIf head isn't broken,\nBody gains 3 Protection every turn.\nJP :\n頭が部位破壊状態でなければ\n毎ターン胴体が保護3を得る。"
+  },
+  {
+    "key": "854104-name",
+    "original": "굴절된 충전",
+    "context": "EN :\nRefracted Charge\nJP :\n屈折された充電"
+  },
+  {
+    "key": "854104-desc",
+    "original": "대상에게 충전이 있다면, 공격 적중 시 대상의 충전 횟수를 1 감소시키고 자가 충전 1을 얻음. (턴 당 3번)",
+    "context": "EN :\nIf target has Charge, reduce target's Charge Count by 1 on hit and gain 1 Self-charge. (3 times per turn)\nJP :\n対象に充電があるなら、攻撃的中時に対象の充電 回数を1減少させて自家発電 1を得る(1ターンにつき3回)"
+  },
+  {
+    "key": "854103-name",
+    "original": "굴절된 출혈과 진동",
+    "context": "EN :\nRefracted Bleed and Tremor\nJP :\n屈折された出血と振動"
+  },
+  {
+    "key": "854103-desc",
+    "original": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>과 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">진동</color></link></u>의 위력이 30까지만 누적됨.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>과 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">진동</color></link></u>의 횟수가 5까지만 누적됨.",
+    "context": "EN :\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> and <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Potency maxes out at 30.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> and <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Count maxes out at 5.\nJP :\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の回数が5まで蓄積される。"
+  },
+  {
+    "key": "854105-name",
+    "original": "자가 충전",
+    "context": "EN :\nSelf-charge\nJP :\n自家発電"
+  },
+  {
+    "key": "854105-desc",
+    "original": "1턴 시작 시, 자가 충전 3을 얻음\n순환 횟수가 늘어날수록 얻는 자가 충전이 1씩 증가함. (최대 8)",
+    "context": "EN :\nGain 3 Self-charge at the start of the first turn.\nGain 1 additional Self-charge for each Cycle Count. (Max 8)\nJP :\n1ターン開始時、自家発電 3を得る\n循環回数が増えるにつれ、得る自家発電 が1ずつ増加(最大8)"
+  },
+  {
+    "key": "854201-name",
+    "original": "세포 분열",
+    "context": "EN :\nMitosis\nJP :\n細胞分裂"
+  },
+  {
+    "key": "854201-desc",
+    "original": "팔 부위 파괴 시, 모든 부위 매 턴마다 공격 위력 감소 1 얻음.",
+    "context": "EN :\nWhen the arm is broken, all parts gain 1 Attack Power Down every turn.\nJP :\n腕部破壊時、全部位が毎ターン攻撃威力減少 1を得る."
+  },
+  {
+    "key": "854202-name",
+    "original": "눈독 들인 요정주",
+    "context": "EN :\nEnticing Fairy Wine\nJP :\n目を付けた妖精酒"
+  },
+  {
+    "key": "854202-desc",
+    "original": "요정주가 있을 때, 모든 부위 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">속박</color></link></u>을 5 얻음.",
+    "context": "EN :\nWhen Fairy Wine is on the field, all parts gain 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Bind</color></link></u>.\nJP :\n妖精酒があるとき、全部位が<sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">束縛</color></link></u>5を得る。"
+  },
+  {
+    "key": "854203-name",
+    "original": "굴절된 출혈과 진동",
+    "context": "EN :\nRefracted Bleed and Tremor\nJP :\n屈折された出血と振動"
+  },
+  {
+    "key": "854203-desc",
+    "original": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>과 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">진동</color></link></u>의 위력이 30까지만 누적됨.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>과 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">진동</color></link></u>의 횟수가 5까지만 누적됨.",
+    "context": "EN :\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> and <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Potency maxes out at 30.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> and <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Count maxes out at 5.\nJP :\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の回数が5まで蓄積される。"
+  },
+  {
+    "key": "854204-name",
+    "original": "굴절 파열 부과",
+    "context": "EN :\nApply Refracted Rupture\nJP :\n屈折破裂負荷"
+  },
+  {
+    "key": "854204-desc",
+    "original": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">파열</color></link></u>을 얻을 때 위력과 횟수를 1 추가로 얻음.",
+    "context": "EN :\nWhen gaining <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, gain 1 additional Potency and Count\nJP :\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>を得るとき、威力と回数を追加で1得る。"
+  },
+  {
+    "key": "854301-name",
+    "original": "요정주",
+    "context": "EN :\nFairy Wine\nJP :\n妖精酒"
+  },
+  {
+    "key": "854301-desc",
+    "original": "인격에게 죽었을 때, 모든 인격에게 다음 턴에 취기 5를 부여.\n죽지 않았을 때, 신사 요정에게 다음 턴에 체력 10% 회복, 공격 위력 증가 2, 신속 2, 보호 2를 부여함.\n턴 종료 시 소멸",
+    "context": "EN :\nWhen defeated by an Identity, all Identities gain 5 Tipsy next turn.\nIf not defeated, Fairy Gentleman heals 10% HP and gains 2 Attack Power Up, 2 Haste, and 2 Protection.\nExpires at the end of the turn\nJP :\n人格に倒されたとき、全人格へ次のターンにて酔い 5を付与。\n倒されなかったとき、紳士妖精へ次のターンにて体力10パーセント回復、攻撃威力増加 2, クイック 2, 保護 2を付与。\nターン終了時消滅"
+  },
+  {
+    "key": "854401-name",
+    "original": "부서진 수단",
+    "context": "EN :\nBroken Means\nJP :\n壊れた手段"
+  },
+  {
+    "key": "854401-desc",
+    "original": "팔 부위 파괴 시, 매 턴마다 팔 부위에 공격 위력 감소 1 얻음",
+    "context": "EN :\nWhen the arm is broken, the arm gains 1 Attack Power Down every turn.\nJP :\n腕部破壊時、毎ターン腕部位が攻撃威力減少 1を得る"
+  },
+  {
+    "key": "854402-name",
+    "original": "굴절 침잠 부과",
+    "context": "EN :\nApply Refracted Sinking\nJP :\n屈折沈潜負荷"
+  },
+  {
+    "key": "854402-desc",
+    "original": "<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">침잠</color></link></u>을 얻을 때 위력과 횟수를 1 추가로 얻음.",
+    "context": "EN :\nWhen gaining <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u>, gain 1 additional Potency and Count\nJP :\n<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>を得るとき、威力と回数を追加で1得る。"
+  },
+  {
+    "key": "854501-name",
+    "original": "잃어버린 수단",
+    "context": "EN :\nLost Means\nJP :\n失った手段"
+  },
+  {
+    "key": "854501-desc",
+    "original": "팔 부위 파괴 시, 매 턴마다 공격 위력 감소 1 얻음",
+    "context": "EN :\nWhen the arm is broken, the unit gains 1 Attack Power Down every turn.\nJP :\n腕部破壊時、毎ターン攻撃威力減少 1を得る"
+  },
+  {
+    "key": "854502-name",
+    "original": "훼손된 그늘",
+    "context": "EN :\nDamaged Shade\nJP :\n壊された陰"
+  },
+  {
+    "key": "854502-desc",
+    "original": "머리 부위 파괴 시, 매 턴마다 방어 레벨 감소 2 얻음",
+    "context": "EN :\nWhen the head is broken, the unit gains 2 Defense Level Down every turn.\nJP :\n頭破壊時、毎ターン防御レベル減少 2を得る"
+  },
+  {
+    "key": "854503-name",
+    "original": "굴절된 출혈과 진동",
+    "context": "EN :\nRefracted Bleed and Tremor\nJP :\n屈折された出血と振動"
+  },
+  {
+    "key": "854503-desc",
+    "original": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>과 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">진동</color></link></u>의 위력이 30까지만 누적됨.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>과 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">진동</color></link></u>의 횟수가 5까지만 누적됨.",
+    "context": "EN :\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> and <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Potency maxes out at 30.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> and <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Count maxes out at 5.\nJP :\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の回数が5まで蓄積される。"
+  },
+  {
+    "key": "854504-name",
+    "original": "굴절 파열 부과",
+    "context": "EN :\nApply Refracted Rupture\nJP :\n屈折破裂負荷"
+  },
+  {
+    "key": "854504-desc",
+    "original": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">파열</color></link></u>을 얻을 때 위력과 횟수를 1 추가로 얻음.",
+    "context": "EN :\nWhen gaining <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, gain 1 additional Potency and Count\nJP :\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>を得るとき、威力と回数を追加で1得る。"
+  },
+  {
+    "key": "854601-name",
+    "original": "오염시키는 잎사귀",
+    "context": "EN :\nContaminating Leaf\nJP :\n汚染する葉っぱ"
+  },
+  {
+    "key": "854601-desc",
+    "original": "매 턴 시작 시 키다리 요정과 신사 요정이 체력 회복 증가 3, 공격 위력 증가 1을 얻음.\n4턴 이상 클로버가 생존해 있다면, 추가로 공격 위력 증가 1, 피해량 증가 2를 얻음.",
+    "context": "EN :\nAt the start of every turn, Fairy-Long-Legs and Fairy Gentleman gain 3 HP Healing Boost and 1 Attack Power Up.\nIf the Clover survives for 4+ turns, gain additional 1 Attack Power Up and 2 Damage Up.\nJP :\n毎ターン開始時、足長妖精と紳士妖精が体力回復増加 3, 攻撃威力増加 1を得る。\n4ターン以上クローバーが生存しているなら、追加で攻撃威力増加 1, ダメージ量増加 2を得る。"
+  },
+  {
+    "key": "854701-name",
+    "original": "세포 분열",
+    "context": "EN :\nMitosis\nJP :\n細胞分裂"
+  },
+  {
+    "key": "854701-desc",
+    "original": "팔 부위 파괴 시, 매 턴마다 공격 위력 감소 1 얻음.",
+    "context": "EN :\nWhen the arm is broken, the unit gains 1 Attack Power Down every turn.\nJP :\n腕部破壊時、毎ターン攻撃威力減少 1を得る."
+  },
+  {
+    "key": "854702-name",
+    "original": "눈독 들인 요정주",
+    "context": "EN :\nEnticing Fairy Wine\nJP :\n目を付けた妖精酒"
+  },
+  {
+    "key": "854702-desc",
+    "original": "요정주가 있을 때, <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">속박</color></link></u>을 5 얻음.",
+    "context": "EN :\nWhen Fairy Wine is on the field, all parts gain 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Bind</color></link></u>.\nJP :\n妖精酒があるとき、全部位が<sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">束縛</color></link></u>5を得る。"
+  },
+  {
+    "key": "854703-name",
+    "original": "굴절된 출혈과 진동",
+    "context": "EN :\nRefracted Bleed and Tremor\nJP :\n屈折された出血と振動"
+  },
+  {
+    "key": "854703-desc",
+    "original": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>과 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">진동</color></link></u>의 위력이 30까지만 누적됨.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>과 <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">진동</color></link></u>의 횟수가 5까지만 누적됨.",
+    "context": "EN :\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> and <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Potency maxes out at 30.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> and <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Count maxes out at 5.\nJP :\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の回数が5まで蓄積される。"
+  },
+  {
+    "key": "854704-name",
+    "original": "굴절 파열 부과",
+    "context": "EN :\nApply Refracted Rupture\nJP :\n屈折破裂負荷"
+  },
+  {
+    "key": "854704-desc",
+    "original": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">파열</color></link></u>을 얻을 때 위력과 횟수를 1 추가로 얻음.",
+    "context": "EN :\nWhen gaining <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, gain 1 additional Potency and Count\nJP :\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>を得るとき、威力と回数を追加で1得る。"
+  },
+  {
+    "key": "854801-name",
+    "original": "요정주",
+    "context": "EN :\nFairy Wine\nJP :\n妖精酒"
+  },
+  {
+    "key": "854801-desc",
+    "original": "인격에게 죽었을 때, 모든 인격에게 다음 턴에 취기 5를 부여.\n죽지 않았을 때, 신사 요정에게 다음 턴에 체력 10% 회복, 공격 위력 증가 2, 신속 2, 보호 2를 부여함.\n턴 종료 시 소멸",
+    "context": "EN :\nWhen defeated by an Identity, all Identities gain 5 Tipsy next turn.\nIf not defeated, Fairy Gentleman heals 10% HP and gains 2 Attack Power Up, 2 Haste, and 2 Protection.\nExpires at the end of the turn\nJP :\n人格に倒されたとき、全人格へ次のターンにて酔い 5を付与。\n倒されなかったとき、紳士妖精へ次のターンにて体力10パーセント回復、攻撃威力増加 2, クイック 2, 保護 2を付与。\nターン終了時消滅"
+  },
+  {
+    "key": "854901-name",
+    "original": "매혹",
+    "context": "EN :\nCharmed\nJP :\n魅了"
+  },
+  {
+    "key": "854901-desc",
+    "original": "속도가 가장 낮은 적에게 매혹 부여.\n순환 횟수에 따라 매혹 인원 증가.\n요정 부위 재생 시 매혹 인원 증가.",
+    "context": "EN :\nInflict Charmed to the enemy with the lowest Speed.\nNumber of targets increases with every Cycle Count.\nNumber of targets increases when Fairy is restored.\nJP :\n速度が最も低い敵に魅了を付与。\n循環回数によって魅了人員が増加。\n妖精部位が再生時、魅了人員が増加。"
+  },
+  {
+    "key": "854902-name",
+    "original": "드러난 심연",
+    "context": "EN :\nUncovered Abyss\nJP :\n露わになった深淵"
+  },
+  {
+    "key": "854902-desc",
+    "original": "요정 부위 파괴 시, 몸통이 드러남.\n몸통이 다시 숨을 때, 가지고 있는 버프 및 디버프 전부 삭제.",
+    "context": "EN :\nReveal body when Fairy is broken.\nAll Buffs and Debuffs expire when the body hides again.\nJP :\n妖精部位破壊時、胴体が露わになる。\n胴体が再び隠れるとき、保有しているバフ・デバフが全て消失。"
+  },
+  {
+    "key": "854903-name",
+    "original": "앞선 미끼",
+    "context": "EN :\nLeading Lure\nJP :\n先立つ好餌"
+  },
+  {
+    "key": "854903-desc",
+    "original": "요정 부위를 공격 당해도 본체 체력이 소모되지 않음.\n<sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">매혹</color></link></u>된 인원 수에 따라 공격 슬롯이 증가함.",
+    "context": "EN :\nCannot damage Core by damaging the Fairy.\nTargets more slots based on the number of <sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">Charmed</color></link></u> units.\nJP :\n妖精部位を攻撃されても本体の体力が消耗されない。\n<sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">魅了</color></link></u>された人員数によって攻撃スロットが増加する。"
+  },
+  {
+    "key": "854904-name",
+    "original": "파괴된 밑동",
+    "context": "EN :\nBroken Stump\nJP :\n破壊された根元"
+  },
+  {
+    "key": "854904-desc",
+    "original": "몸통 부위가 파괴되면, 요정 재생 시 체력이 60%로 재생함.\n몸통 부위가 파괴되면, 스킬에 의한 본체 체력 회복 +20",
+    "context": "EN :\nWhen the body is broken, Fairy will have 60% of its Max HP upon restoration.\nWhen the body is broken, Core heals +20 more HP with Skill effects\nJP :\n胴体部位が破壊されると、妖精再生時の体力が60%になる。\n胴体部位が破壊されると、スキルによる本体体力回復 +20"
+  },
+  {
+    "key": "854905-name",
+    "original": "진화하는 미끼",
+    "context": "EN :\nEvolving Lure\nJP :\n進化する好餌"
+  },
+  {
+    "key": "854905-desc",
+    "original": "요정 부위 재생 시 최대 체력이 20% 증가.",
+    "context": "EN :\nFairy gains 20% increased Max HP when restored.\nJP :\n妖精部位再生時、体力最大値が20%増加"
+  },
+  {
+    "key": "854906-name",
+    "original": "굴절된 파열과 침잠",
+    "context": "EN :\nRefracted Rupture and Sinking\nJP :\n屈折された破裂と沈潜"
+  },
+  {
+    "key": "854906-desc",
+    "original": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">파열</color></link></u>과 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">침잠</color></link></u>의 위력이 30까지만 누적됨.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">파열</color></link></u>과 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">침잠</color></link></u>의 횟수가 5까지만 누적됨.",
+    "context": "EN :\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> and <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u> Potency maxes out at 30.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> and <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u> Count maxes out at 5.\nJP :\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の回数が5まで蓄積される。"
+  },
+  {
+    "key": "854907-name",
+    "original": "요정 가루",
+    "context": "EN :\nFairy Dust\nJP :\n妖精の粉"
+  },
+  {
+    "key": "854907-desc",
+    "original": "요정이 죽었을 때, 모든 인격이 다음 턴에 호흡 5, 호흡 횟수 2 얻음",
+    "context": "EN :\nWhen the Fairy is killed, all Identities gain 5 Poise and 2 Poise Count next turn\nJP :\n妖精が倒されたとき、全人格が次のターンに呼吸 5, 呼吸 回数2を得る"
+  },
+  {
+    "key": "855001-name",
+    "original": "차원 도주",
+    "context": "EN :\nDimensional Escape\nJP :\n次元逃走"
+  },
+  {
+    "key": "855001-desc",
+    "original": "2턴부터 일정 턴마다 차원으로 숨음.\n모든 부위가 흐트러짐 상태이면, 다음 턴에 숨음.\n차원으로 숨었을 때에는, 흐트러짐 상태가 되지 않음.\n본체 체력이 최대 체력의 30% 이하면, 차원으로 숨지 않음.",
+    "context": "EN :\nStarting from turn 2, escape to a Dimensional Rift every few turns.\nWhen all parts are Staggered, escape to a Dimensional Rift next turn.\nCannot be Staggered while inside a Dimensional Rift.\nWhen Core is at 30% or less HP, does not escape to a Dimensional Rift.\nJP :\n2ターン目から一定ターンごとに次元に隠れる。\n全部位が混乱状態なら、次のターンに隠れる。\n次元に隠れた時は、混乱状態にならない。\n本体体力が最大体力値の30%以下なら、次元に隠れない。"
+  },
+  {
+    "key": "855002-name",
+    "original": "갇혀버린 차원 탈출",
+    "context": "EN :\nTrapped Dimensional Escape\nJP :\n閉じ込められた次元脱出"
+  },
+  {
+    "key": "855002-desc",
+    "original": "모든 차원이 생성된 턴에 파괴되면, 다음 턴에 스스로 차원을 찢고 나옴.\n이후 충전 횟수 5를 잃고, 모든 부위가 흐트러짐 손상 30을 입음.",
+    "context": "EN :\nWhen all Dimensional Rifts are broken on the same turn they are created, voluntarily emerge from a Dimensional Rift.\nAfterward, lose 5 Charge Count and raise Stagger Threshold by 30 on all parts.\nJP :\n全ての次元が生成されたターンに破壊されると、次のターンに自ら次元を裂いて出てくる。\n以後、充電 回数5を失って全部位の混乱区間が30前進。"
+  },
+  {
+    "key": "855003-name",
+    "original": "차원 굴절 칼날 수복",
+    "context": "EN :\nRegenerate Dimensional Refraction Blade\nJP :\n次元屈折刃修復"
+  },
+  {
+    "key": "855003-desc",
+    "original": "칼날 부위가 파괴되면, 충전 횟수 5를 잃고,\n다음 턴 종료 시 충전 횟수 2를 소모하여 칼날 부위를 회복함.\n칼날 부위가 파괴된 상태면, 매 턴 시작 시 공격 레벨 감소 2를 얻음.",
+    "context": "EN :\nWhen the blade part is broken, lose 5 Charge Count,\nand at the end of the next turn, recover blade part by spending 2 Charge Count.\nWhen the blade part is broken, gain 2 Offense Level Down at the start of every turn.\nJP :\n刃部位が破壊されると充電 回数5を失い、\n次のターン終了時に充電 回数2を消耗して刃部位を回復する。\n刃部位が破壊された状態なら、毎ターン開始時に攻撃レベル減少 2を得る。"
+  },
+  {
+    "key": "855004-name",
+    "original": "굴절된 화상과 파열",
+    "context": "EN :\nRefracted Burn and Rupture\nJP :\n屈折された火傷と破裂"
+  },
+  {
+    "key": "855004-desc",
+    "original": "<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">화상</color></link></u>과 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">파열</color></link></u>의 위력이 30까지만 누적됨.\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">화상</color></link></u>과 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">파열</color></link></u>의 횟수가 5까지만 누적됨.",
+    "context": "EN :\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Burn</color></link></u> and <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> Potency maxes out at 30.\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Burn</color></link></u> and <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> Count maxes out at 5.\nJP :\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>と<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>と<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>の回数が5まで蓄積される。"
+  },
+  {
+    "key": "855005-name",
+    "original": "굴절 진동 부과",
+    "context": "EN :\nApply Refracted Tremor\nJP :\n屈折振動負荷"
+  },
+  {
+    "key": "855005-desc",
+    "original": "<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">진동</color></link></u>을 얻을 때 위력과 횟수를 1 추가로 얻음.",
+    "context": "EN :\nWhen gaining <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>, gain 1 additional Potency and Count\nJP :\n<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>を得るとき、威力と回数を追加で1得る。"
+  },
+  {
+    "key": "856001-name",
+    "original": "피가 흐르는 차원",
+    "context": "EN :\nHemorrhaging Dimension\nJP :\n血の流れる次元"
+  },
+  {
+    "key": "856001-desc",
+    "original": "피가 흐르는 차원을 통과했다면, 피해량 +10%",
+    "context": "EN :\nDeal +10% damage after passing through the Hemorrhaging Dimension\nJP :\n血の流れる次元を通過したなら、ダメージ量 +10%"
+  },
+  {
+    "key": "856101-name",
+    "original": "독이 들끓는 차원",
+    "context": "EN :\nPoisonous Dimension\nJP :\n毒の沸き立つ次元"
+  },
+  {
+    "key": "856101-desc",
+    "original": "독이 들끓는 차원을 통과했다면, 기본 본체 최대 체력 +20%",
+    "context": "EN :\nCore gains +20% Max HP after passing through the Poisonous Dimension\nJP :\n毒の沸き立つ次元を通過したなら、本体基本体力最大値 +20%"
+  },
+  {
+    "key": "856201-name",
+    "original": "끊임없이 진동하는 차원",
+    "context": "EN :\nTremoring Dimension\nJP :\n絶えず振動する次元"
+  },
+  {
+    "key": "856201-desc",
+    "original": "끊임없이 진동하는 차원을 통과했다면, 속도 1 증가",
+    "context": "EN :\nGain 1 Speed after passing through the Tremoring Dimension\nJP :\n絶えず振動する次元通過したなら、速度が1増加"
+  },
+  {
+    "key": "856301-name",
+    "original": "전류를 뿜어내는 차원",
+    "context": "EN :\nElectrifying Dimension\nJP :\n電流を吐き出す次元"
+  },
+  {
+    "key": "856301-desc",
+    "original": "전류를 뿜어내는 차원을 통과했다면, 코인 위력 +1",
+    "context": "EN :\nGain +1 Coin Power after passing through the Electrifying Dimension\nJP :\n電流を吐き出す次元を通過したなら、コイン威力 +20%"
+  },
+  {
+    "key": "855101-name",
+    "original": "황금 시간",
+    "context": "EN :\nGolden Time\nJP :\nゴールデンタイム"
+  },
+  {
+    "key": "855101-desc",
+    "original": "턴 종료 시 체력이 6% ~ 24%사이로 남았을 때, 전체 체력의 80%만큼 본체와 부위체력 즉시 회복. 흐트러짐 상태 해제. (최대 1회)",
+    "context": "EN :\nAt the end of the turn, if the HP is between 6% and 24%, Core parts instantly heal up to 80% of Max HP, and recover from stagger. (One-time only)\nJP :\nターン終了時に体力が6~24%残っているなら、体力を最大値の80%本体と部位体力を即回復。混乱状態を解除。(最大1回)"
+  },
+  {
+    "key": "855102-name",
+    "original": "시간 역행 반동",
+    "context": "EN :\nTime Reversion Retroaction\nJP :\n時間逆行の反動"
+  },
+  {
+    "key": "855102-desc",
+    "original": "황금 시간 발동 이후, 턴 시작 시 취약 2 얻음",
+    "context": "EN :\nAfter activating Golden Time, gain 2 Fragile at the start of the turn.\nJP :\nゴールデンタイム発動以降、ターン開始時に脆弱 2を得る"
+  },
+  {
+    "key": "855103-name",
+    "original": "과충전",
+    "context": "EN :\nOvercharge\nJP :\n過充電"
+  },
+  {
+    "key": "855103-desc",
+    "original": "턴 종료 시 충전 횟수가 5이상이면, 다음 턴에 피해량 증가 3 얻음",
+    "context": "EN :\nIf at 5+ Charge Count at the end of the turn, gain 3 Damage Up next turn\nJP :\nターン終了時に充電 回数が5以上なら、次のターンにダメージ量増加 3を得る"
+  },
+  {
+    "key": "855104-name",
+    "original": "굴절된 파열과 침잠",
+    "context": "EN :\nRefracted Rupture and Sinking\nJP :\n屈折された破裂と沈潜"
+  },
+  {
+    "key": "855104-desc",
+    "original": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">파열</color></link></u>과 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">침잠</color></link></u>의 위력이 30까지만 누적됨.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">파열</color></link></u>과 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">침잠</color></link></u>의 횟수가 5까지만 누적됨.",
+    "context": "EN :\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> and <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u> Potency maxes out at 30.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> and <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u> Count maxes out at 5.\nJP :\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の回数が5まで蓄積される。"
+  },
+  {
+    "key": "855105-name",
+    "original": "굴절 화상 부과",
+    "context": "EN :\nApply Refracted Burn\nJP :\n屈折火傷負荷"
+  },
+  {
+    "key": "855105-desc",
+    "original": "<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">화상</color></link></u>을 얻을 때 위력과 횟수를 1 추가로 얻음.",
+    "context": "EN :\nWhen gaining <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Burn</color></link></u>, gain 1 additional Potency and Count.\nJP :\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>を得るとき、威力と回数を追加で1得る。"
+  },
+  {
+    "key": "855501-name",
+    "original": "돌아오는 과거",
+    "context": "EN :\nReturning Past\nJP :\n戻ってくる過去"
+  },
+  {
+    "key": "855501-desc",
+    "original": "<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">축적된 과거</color></link></u>가 50 이상이면, 본체 체력이 80% 이하일 때 턴 종료 시 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">축적된 과거</color></link></u>를 50 소모하여 본체 체력을 200 회복함.",
+    "context": "EN :\nIf at 50+ <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Accumulated Past</color></link></u>, and if Core's HP is less than or equal to 80%, Core gains 200 HP by spending 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Accumulated Past</color></link></u>.\nJP :\n<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>が50以上なら、本体体力をが80%以下のときターン終了時に<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>を50消耗することで本体体力を200回復する。"
+  },
+  {
+    "key": "855502-name",
+    "original": "소실된 과거",
+    "context": "EN :\nMisplaced Past\nJP :\n消失した過去"
+  },
+  {
+    "key": "855502-desc",
+    "original": "몸통 부위 파괴 시, <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">축적된 과거</color></link></u> 전부 소모.\n몸통 부위 파괴 시, 다음 턴부터 이번 전투동안 몸통 부위가 모든 속성과 공격 유형에 대하여 내성(0.5)이 됨.",
+    "context": "EN :\nWhen the body is broken, spend all <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Accumulated Past</color></link></u>.\nWhen the body is broken, all Attack Types and Affinities become ineffective(0.5) against the body starting next turn until the end of this encounter.\nJP :\n胴体部位破壊時、<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>を全て消耗。\n胴体部位破壊時、次のターンから今回の戦闘の間、胴体部位が全属性と攻撃タイプに対して耐性(0.5)になる。"
+  },
+  {
+    "key": "855503-name",
+    "original": "파괴된 배연 기관",
+    "context": "EN :\nBroken Exhaust Port\nJP :\n破壊された排煙機関"
+  },
+  {
+    "key": "855503-desc",
+    "original": "증기총 부위 파괴 시, 모든 부위의 호흡 전부 소모.\n증기총 부위가 파괴된 이후, <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">호흡</color></link></u>을 얻을 때마다 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">취약</color></link></u>을 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">호흡</color></link></u>만큼 얻음.\n증기총 부위가 파괴된 이후, 매 공격 스킬 사용 시 호흡 1을 잃음.",
+    "context": "EN :\nWhen the Steam Blaster is broken, completely spend all parts' Poise.\nAfter the Steam Blaster is broken, gain <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Fragile</color></link></u> equal to the number of <sprite name=\"Breath\"><color=#e30000><u><link=\"Breath\">Poise</color></link></u> every time this unit gains <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u>.\nAfter the Steam Blaster is broken, lose 1 Poise every time this unit uses an Attack Skill.\nJP :\n蒸気銃部位破壊時、全部位の呼吸を全て消耗。\n蒸気銃部位が破壊されると以降、<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>を得るたびに<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>を<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>だけ得る。\n蒸気銃部位が破壊されると以降、攻撃スキルを使用するたびに呼吸 1を失う。"
+  },
+  {
+    "key": "855504-name",
+    "original": "굴절된 화상과 출혈",
+    "context": "EN :\nRefracted Burn and Bleed\nJP :\n屈折された火傷と出血"
+  },
+  {
+    "key": "855504-desc",
+    "original": "<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">화상</color></link></u>과 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>의 위력이 30까지만 누적됨.\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">화상</color></link></u>과 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>의 횟수가 5까지만 누적됨.",
+    "context": "EN :\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Burn</color></link></u> and <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> Potency maxes out at 30.\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Burn</color></link></u> and <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> Count maxes out at 5.\nJP :\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>と<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>と<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>の回数が5まで蓄積される。"
+  },
+  {
+    "key": "855505-name",
+    "original": "굴절 침잠 부과",
+    "context": "EN :\nApply Refracted Sinking\nJP :\n屈折沈潜負荷"
+  },
+  {
+    "key": "855505-desc",
+    "original": "<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">침잠</color></link></u>을 얻을 때 위력과 횟수를 1 추가로 얻음.",
+    "context": "EN :\nWhen gaining <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u>, gain 1 additional Potency and Count\nJP :\n<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>を得るとき、威力と回数を追加で1得る。"
+  },
+  {
+    "key": "855506-name",
+    "original": "새어나오는 증기",
+    "context": "EN :\nLeaking Steam\nJP :\n漏れ出る蒸気"
+  },
+  {
+    "key": "855506-desc",
+    "original": "증기총 부위 피격 시, <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">호흡</color></link></u>과 호흡 횟수 1 감소",
+    "context": "EN :\nWhen the Steam Blaster is hit, lose 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> and 1 Poise Count\nJP :\n蒸気銃部位破壊時、<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>と呼吸 回数が1減少"
+  },
+  {
+    "key": "855507-name",
+    "original": "겹쳐지는 과거",
+    "context": "EN :\nOverlapping Past\nJP :\n重なる過去"
+  },
+  {
+    "key": "855507-desc",
+    "original": "매 턴마다 축적된 과거 80당 공격 위력 증가 1 얻음.\n<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">축적된 과거</color></link></u>가 80을 넘었다면, 슬롯 1개 추가.",
+    "context": "EN :\nGain 1 Attack Power Up for every 80 Accumulated Past every turn.\nAt 80+ <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u>, gain +1 Slot.\nJP :\n毎ターン、蓄積された80につき攻撃威力増加 1を得る。\n<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">蓄積された過去</color></link></u>が80を越えると、スロットが1つ追加。"
+  },
+  {
+    "key": "855508-name",
+    "original": "메트로놈",
+    "context": "EN :\nMetronome\nJP :\nメトロノーム"
+  },
+  {
+    "key": "855508-desc",
+    "original": "<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">축적된 과거</color></link></u>가 홀수이면 [Vulnerable]과 [AttackDmgUp]를 3 얻음\n짝수이면, [Protection]와 [AttackDmgDown]를 3 얻음",
+    "context": "EN :\nIf the <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Accumulated Past</color></link></u> is an odd number, gain 3 [Vulnerable] and [AttackDmgUp]\nIf it is an even number, gain 3 [Protection] and [AttackDmgDown]\nJP :\n<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>が奇数なら[Vulnerable]と[AttackDmgUp]を3得る\n偶数なら[Protection]と[AttackDmgDown]を3得る"
+  },
+  {
+    "key": "855601-name",
+    "original": "영원한 굴레",
+    "context": "EN :\nEternal Yoke\nJP :\n永遠のくびき"
+  },
+  {
+    "key": "855601-desc",
+    "original": "최대 체력이 (순환 횟수 X 5)%만큼 증가.\n가하는 피해량이 (순환 횟수 X 5)%만큼 감소",
+    "context": "EN :\nMax HP increases by (Cycle Count X 5)%.\nDeal (Cycle Count X 5)% less damage\nJP :\n体力最大値が(循環回数 × 5)%だけ増加。\n与ダメージ量が(循環回数 × 5)%だけ減少。"
+  },
+  {
+    "key": "855602-name",
+    "original": "부서진 표지판",
+    "context": "EN :\nBroken Sign\nJP :\n壊れた表示板"
+  },
+  {
+    "key": "855602-desc",
+    "original": "표지판 부위가 부서지면 장미의 최대 체력 감소",
+    "context": "EN :\nWhen the sign is broken, Rose loses Max HP\nJP :\n表示板部位が破壊されると、薔薇の体力最大値が減少"
+  },
+  {
+    "key": "855603-name",
+    "original": "흩어진 살점",
+    "context": "EN :\nScattered Flesh\nJP :\n散らばった肉片"
+  },
+  {
+    "key": "855603-desc",
+    "original": "살 부위가 파괴되면 본체의 최대 체력 감소",
+    "context": "EN :\nWhen the flesh is broken, Core loses Max HP\nJP :\n肉部位が破壊されると、本体の体力最大値が減少"
+  },
+  {
+    "key": "855604-name",
+    "original": "하나의 덩쿨",
+    "context": "EN :\nSingular Vine\nJP :\nひとつの蔓"
+  },
+  {
+    "key": "855604-desc",
+    "original": "장미를 처치하면 본체와 살 부위의 체력이 30 감소.\n이후 이번 전투 동안 해당 죄악 속성의 내성이 0.1 감소함 (중첩 가능)",
+    "context": "EN :\nWhen a Rose is defeated, Core and flesh loses 30 HP.\nLose 0.1 Resistance to the corresponding Sin Affinity during this encounter (Stackable)\nJP :\n薔薇を倒すと本体と肉部位の体力が30減少。\n以降、今回の戦闘の間は該当する罪悪属性の耐性が0.1減少する(重複可能)"
+  },
+  {
+    "key": "856401-name",
+    "original": "증오",
+    "context": "EN :\nHatred\nJP :\n憎悪"
+  },
+  {
+    "key": "856401-desc",
+    "original": "피격 시 마다 다음 턴에 공격 레벨 증가 1, 방어 레벨 감소 1을 얻음",
+    "context": "EN :\nWhen hit, gain 1 Offense Level Up and 1 Defense Level Down\nJP :\n被ダメージ毎に、次のターンにて攻撃レベル増加 1, 防御レベル減少 1を得る"
+  },
+  {
+    "key": "856402-name",
+    "original": "잔화",
+    "context": "EN :\nEmbers\nJP :\n残り火"
+  },
+  {
+    "key": "856402-desc",
+    "original": "피격으로 사망 시 대상에게 받은 피해량만큼 피해를 주고, 화상 5 부여",
+    "context": "EN :\nWhen defeated by a direct hit, return the damage to the attacker and inflict 5 Burn\nJP :\n被ダメージで死亡時、受けたダメージ量分のダメージを対象に与え、火傷 5を付与"
+  },
+  {
+    "key": "856403-name",
+    "original": "활짝 핀 죄악",
+    "context": "EN :\nBlossoming Sins\nJP :\n満開の罪悪"
+  },
+  {
+    "key": "856403-desc",
+    "original": "피어나는 죄 가 4가 되면 이번 전투동안 강화 상태가 됨",
+    "context": "EN :\nIf at 4 Blooming Sin, enter Power-up state for this encounter\nJP :\n咲き出す罪 が4になると今回の戦闘の間、強化状態になる"
+  },
+  {
+    "key": "856404-name",
+    "original": "끓어오르는 분노",
+    "context": "EN :\nBoiling Wrath\nJP :\n湧き上がる憤怒"
+  },
+  {
+    "key": "856404-desc",
+    "original": "강화 상태일 때 스킬의 효과로 부여하는 화상 +1.\n강화 상태에서 사망 시 모든 아군에게 화상 횟수 4 부여",
+    "context": "EN :\nDuring Power-up state, inflict +1 more Burn with Skill effects\nIf killed during Power-up state, inflict 4 Burn Count to all allies\nJP :\n強化状態のとき、スキル効果で付与する火傷 +1\n強化状態で死亡時、全味方へ火傷 回数4を付与"
+  },
+  {
+    "key": "856405-name",
+    "original": "덩쿨에 핀 장미",
+    "context": "EN :\nRose on a Vine\nJP :\n蔓に咲いた薔薇"
+  },
+  {
+    "key": "856405-desc",
+    "original": "장미 표지판 본체 잡으면 사망",
+    "context": "EN :\nDies when the Core of Sign of Roses is killed\nJP :\n薔薇の表示板の本体を倒すと死亡"
+  },
+  {
+    "key": "856501-name",
+    "original": "일방적 욕망",
+    "context": "EN :\nOne-sided Desire\nJP :\n一方的欲望"
+  },
+  {
+    "key": "856501-desc",
+    "original": "합 진행 시 최종 위력 -2, 일방 공격 시 최종 위력 +2",
+    "context": "EN :\nIn a clash, Final Power -2; In an unopposed attack, Final Power +2\nJP :\nマッチ進行時の最終威力 -2, 一方攻撃時の最終威力 +2"
+  },
+  {
+    "key": "856502-name",
+    "original": "활짝 핀 죄악",
+    "context": "EN :\nBlossoming Sins\nJP :\n満開の罪悪"
+  },
+  {
+    "key": "856502-desc",
+    "original": "피어나는 죄 가 4가 되면 이번 전투동안 강화 상태가 됨",
+    "context": "EN :\nIf at 4 Blooming Sin, enter Power-up state for this encounter\nJP :\n咲き出す罪 が4になると今回の戦闘の間、強化状態になる"
+  },
+  {
+    "key": "856503-name",
+    "original": "일렁이는 색욕",
+    "context": "EN :\nShimmering Lust\nJP :\n揺らめく色欲"
+  },
+  {
+    "key": "856503-desc",
+    "original": "강화 상태일 때 스킬의 효과로 부여하는 출혈 +1.\n강화 상태에서 사망 시 모든 아군에게 출혈 횟수 4 부여",
+    "context": "EN :\nDuring Power-up state, inflict +1 more Bleed with Skill effects\nIf killed during Power-up state, inflict 4 Bleed Count to all allies\nJP :\n強化状態のとき、スキル効果で付与する出血 +1\n強化状態で死亡時、全味方へ出血 回数4を付与"
+  },
+  {
+    "key": "856504-name",
+    "original": "덩쿨에 핀 장미",
+    "context": "EN :\nRose on a Vine\nJP :\n蔓に咲いた薔薇"
+  },
+  {
+    "key": "856504-desc",
+    "original": "장미 표지판 본체 잡으면 사망",
+    "context": "EN :\nDies when the Core of Sign of Roses is killed\nJP :\n薔薇の表示板の本体を倒すと死亡"
+  },
+  {
+    "key": "856601-name",
+    "original": "무기력",
+    "context": "EN :\nPowerless\nJP :\n無気力"
+  },
+  {
+    "key": "856601-desc",
+    "original": "피격 시 다음 턴에 흐트러짐 상태가 아니면 보호 5를 얻음",
+    "context": "EN :\nWhen hit, gain 5 Protection next turn unless Staggered\nJP :\n被ダメージ時、次のターンに混乱状態でなければ保護 5を得る"
+  },
+  {
+    "key": "856602-name",
+    "original": "노란 장미 2",
+    "context": "EN :\nYellow Rose 2\nJP :\n黄色い薔薇2"
+  },
+  {
+    "key": "856602-desc",
+    "original": "피어남이 4가 되면 이번 전투동안 강화 상태가 됨",
+    "context": "EN :\nIf at 4 Blooming Sin, enter Power-up state for this encounter\nJP :\n咲き出す罪 が4になると今回の戦闘の間、強化状態になる"
+  },
+  {
+    "key": "856603-name",
+    "original": "짓누르는 나태",
+    "context": "EN :\nCrushing Sloth\nJP :\n押し潰す怠惰"
+  },
+  {
+    "key": "856603-desc",
+    "original": "강화 상태일 때 스킬의 효과로 부여하는 진동 +1.\n강화 상태에서 사망 시 모든 아군에게 진동 횟수 4 부여",
+    "context": "EN :\nDuring Power-up state, inflict +1 more Tremor with Skill effects\nIf killed during Power-up state, inflict 4 Tremor Count to all allies\nJP :\n強化状態のとき、スキル効果で付与する振動 +1\n強化状態で死亡時、全味方へ振動 回数4を付与"
+  },
+  {
+    "key": "856604-name",
+    "original": "노란 장미 4",
+    "context": "EN :\nYellow Rose 4\nJP :\n黄色い薔薇4"
+  },
+  {
+    "key": "856604-desc",
+    "original": "장미 표지판 본체 잡으면 사망",
+    "context": "EN :\nDies when the Core of Sign of Roses is killed\nJP :\n薔薇の表示板の本体を倒すと死亡"
+  },
+  {
+    "key": "856701-name",
+    "original": "허기",
+    "context": "EN :\nHunger\nJP :\n餓え"
+  },
+  {
+    "key": "856701-desc",
+    "original": "턴 종료 시 이번 턴에 피해를 주지 못한 경우 파열 취약 2를 얻음",
+    "context": "EN :\nIf this unit fails to deal damage in a turn, gain 2 Rupture Fragility\nJP :\nターン終了時、このターンにてダメージを与えられなかった場合は破裂脆弱 2を得る"
+  },
+  {
+    "key": "856702-name",
+    "original": "초록 장미 2",
+    "context": "EN :\nGreen Rose 2\nJP :\n緑の薔薇2"
+  },
+  {
+    "key": "856702-desc",
+    "original": "피어남이 4가 되면 이번 전투동안 강화 상태가 됨",
+    "context": "EN :\nIf at 4 Blooming Sin, enter Power-up state for this encounter\nJP :\n咲き出す罪 が4になると今回の戦闘の間、強化状態になる"
+  },
+  {
+    "key": "856703-name",
+    "original": "자라나는 탐식",
+    "context": "EN :\nGrowing Gluttony\nJP :\n育ちゆく暴食"
+  },
+  {
+    "key": "856703-desc",
+    "original": "강화 상태일 때 스킬의 효과로 부여하는 파열 +1.\n강화 상태에서 사망 시 모든 아군에게 파열 횟수 4 부여",
+    "context": "EN :\nDuring Power-up state, inflict +1 more Rupture with Skill effects\nIf killed during Power-up state, inflict 4 Rupture Count to all allies\nJP :\n強化状態のとき、スキル効果で付与する破裂 +1\n強化状態で死亡時、全味方へ破裂 回数4を付与"
+  },
+  {
+    "key": "856704-name",
+    "original": "초록 장미 4",
+    "context": "EN :\nGreen Rose 4\nJP :\n緑の薔薇4"
+  },
+  {
+    "key": "856704-desc",
+    "original": "장미 표지판 본체 잡으면 사망",
+    "context": "EN :\nDies when the Core of Sign of Roses is killed\nJP :\n薔薇の表示板の本体を倒すと死亡"
+  },
+  {
+    "key": "856801-name",
+    "original": "불안",
+    "context": "EN :\nAnxiety\nJP :\n不安"
+  },
+  {
+    "key": "856801-desc",
+    "original": "합 진행 시 최종 위력 +2, 일방 공격 시 최종 위력 -2",
+    "context": "EN :\nIn a clash, Final Power +2; In an unopposed attack, Final Power -2\nJP :\nマッチ進行時の最終威力 +2, 一方攻撃時の最終威力 -2"
+  },
+  {
+    "key": "856802-name",
+    "original": "자기 파괴",
+    "context": "EN :\nSelf Destruction\nJP :\n自己破壊"
+  },
+  {
+    "key": "856802-desc",
+    "original": "피격 시 다음 턴에 우울 내성이 약점(1.5)으로 변경되고, 보호 5 를 얻음",
+    "context": "EN :\nWhen hit, Gloom Resist turns into Gloom Weak(1.5) and gain 5 Protection\nJP :\n被ダメージ時、次のターンにて憂鬱耐性が弱点(1.5)に変更され、保護 5を得る"
+  },
+  {
+    "key": "856803-name",
+    "original": "파란 장미 3",
+    "context": "EN :\nBlue Rose 3\nJP :\n青い薔薇3"
+  },
+  {
+    "key": "856803-desc",
+    "original": "피어남이 4가 되면 이번 전투동안 강화 상태가 됨",
+    "context": "EN :\nIf at 4 Blooming Sin, enter Power-up state for this encounter\nJP :\n咲き出す罪 が4になると今回の戦闘の間、強化状態になる"
+  },
+  {
+    "key": "856804-name",
+    "original": "일렁이는 우울",
+    "context": "EN :\nShimmering Gloom\nJP :\n揺らめく憂鬱"
+  },
+  {
+    "key": "856804-desc",
+    "original": "강화 상태일 때 스킬의 효과로 부여하는 침잠 +1.\n강화 상태에서 사망 시 모든 아군에게 침잠 횟수 4 부여",
+    "context": "EN :\nDuring Power-up state, inflict +1 more Sinking with Skill effects\nIf killed during Power-up state, inflict 4 Sinking Count to all allies\nJP :\n強化状態のとき、スキル効果で付与する沈潜 +1\n強化状態で死亡時、全味方へ沈潜 回数4を付与"
+  },
+  {
+    "key": "856805-name",
+    "original": "파란 장미 5",
+    "context": "EN :\nBlue Rose 5\nJP :\n青い薔薇5"
+  },
+  {
+    "key": "856805-desc",
+    "original": "장미 표지판 본체 잡으면 사망",
+    "context": "EN :\nDies when the Core of Sign of Roses is killed\nJP :\n薔薇の表示板の本体を倒すと死亡"
+  },
+  {
+    "key": "856901-name",
+    "original": "비난",
+    "context": "EN :\nOutlash\nJP :\n非難"
+  },
+  {
+    "key": "856901-desc",
+    "original": "매 턴 시작 시 아군에게 호흡 1, 호흡 횟수 1 부여",
+    "context": "EN :\nAt the start of every turn, apply 1 Poise and 1 Poise count to allies\nJP :\n毎ターン開始時、味方へ呼吸 1, 呼吸 回数 1を付与"
+  },
+  {
+    "key": "856902-name",
+    "original": "우월함",
+    "context": "EN :\nSuperiority\nJP :\n優越感"
+  },
+  {
+    "key": "856902-desc",
+    "original": "이 유닛이 생존해있으면, 각 아군이 자신의 호흡 1 당 크리티컬 피해량 +5%",
+    "context": "EN :\nIf this unit is alive, every ally gains +5% Critical Damage per Poise on self\nJP :\nこのユニットが生存しているなら、各味方が自分の呼吸 1につきクリティカルダメージ量 +5%"
+  },
+  {
+    "key": "856903-name",
+    "original": "남색 장미 3",
+    "context": "EN :\nAzure Rose 3\nJP :\n藍の薔薇3"
+  },
+  {
+    "key": "856903-desc",
+    "original": "피어남이 4가 되면 이번 전투동안 강화 상태가 됨",
+    "context": "EN :\nIf at 4 Blooming Sin, enter Power-up state for this encounter\nJP :\n咲き出す罪 が4になると今回の戦闘の間、強化状態になる"
+  },
+  {
+    "key": "856904-name",
+    "original": "부풀어오른 오만",
+    "context": "EN :\nOverinflated Pride\nJP :\n膨れ上がった傲慢"
+  },
+  {
+    "key": "856904-desc",
+    "original": "강화 상태일 때 턴 시작 시, 스킬의 효과로 부여하는 호흡 +1.\n강화 상태에서 사망 시 모든 적에게 호흡 횟수 4 부여",
+    "context": "EN :\nIf starting a turn in a Power-up state, gain +1 more Poise with Skill effects\nIf killed during Power-up state, apply 4 Poise Count to all enemies\nJP :\n強化状態のときターン開始時、スキル効果で付与する呼吸 +1\n強化状態で死亡時、全味方へ呼吸 回数4を付与"
+  },
+  {
+    "key": "856905-name",
+    "original": "남색 장미 5",
+    "context": "EN :\nAzure Rose 5\nJP :\n藍の薔薇5"
+  },
+  {
+    "key": "856905-desc",
+    "original": "장미 표지판 본체 잡으면 사망",
+    "context": "EN :\nDies when the Core of Sign of Roses is killed\nJP :\n薔薇の表示板の本体を倒すと死亡"
+  },
+  {
+    "key": "857001-name",
+    "original": "시기",
+    "context": "EN :\nJealousness\nJP :\n猜忌"
+  },
+  {
+    "key": "857001-desc",
+    "original": "매 턴 시작 시 무작위 아군 2명에게 충전 횟수 1 부여",
+    "context": "EN :\nAt the start of the turn, apply 1 Charge Count to 2 random allies\nJP :\n毎ターン開始時、ランダムな味方2名へ充電 回数を1付与"
+  },
+  {
+    "key": "857002-name",
+    "original": "열등감",
+    "context": "EN :\nInferiority Complex\nJP :\n劣等感"
+  },
+  {
+    "key": "857002-desc",
+    "original": "이 유닛이 생존해있으면, 각 아군이 자신의 충전 횟수 1 당 피해량 +5%",
+    "context": "EN :\nIf this unit is alive, each ally gains +5% Critical Damage per Charge Count on self\nJP :\nこのユニットが生存しているなら、各味方が自分の充電回数 1につきダメージ量 +5%"
+  },
+  {
+    "key": "857003-name",
+    "original": "보란 장미 3",
+    "context": "EN :\nPurple Rose 3\nJP :\n紫の薔薇3"
+  },
+  {
+    "key": "857003-desc",
+    "original": "피어남이 4가 되면 이번 전투동안 강화 상태가 됨",
+    "context": "EN :\nIf at 4 Blooming Sin, enter Power-up state for this encounter\nJP :\n咲き出す罪 が4になると今回の戦闘の間、強化状態になる"
+  },
+  {
+    "key": "857004-name",
+    "original": "번뜩이는 질투",
+    "context": "EN :\nGlaring Envy\nJP :\nぎらつく嫉妬"
+  },
+  {
+    "key": "857004-desc",
+    "original": "강화 상태일 때 턴 시작 시, 스킬의 효과로 부여하는 충전 횟수 +1.\n강화 상태에서 사망 시 모든 적에게 충전 횟수 4 부여",
+    "context": "EN :\nIf starting a turn in a Power-up state, inflict +1 more Charge Count with Skill effects\nIf killed during Power-up state, apply 4 Charge Count to all enemies\nJP :\n強化状態のときターン開始時、スキル効果で付与する充電回数 +1\n強化状態で死亡時、全味方へ充電 回数4を付与"
+  },
+  {
+    "key": "857005-name",
+    "original": "보란 장미 5",
+    "context": "EN :\nPurple Rose 5\nJP :\n紫の薔薇5"
+  },
+  {
+    "key": "857005-desc",
+    "original": "장미 표지판 본체 잡으면 사망",
+    "context": "EN :\nDies when the Core of Sign of Roses is killed\nJP :\n薔薇の表示板の本体を倒すと死亡"
+  },
+  {
+    "key": "855605-name",
+    "original": "활짝 핀 죄악",
+    "context": "EN :\nBlossoming Sins\nJP :\n満開の罪悪"
+  },
+  {
+    "key": "855605-desc",
+    "original": "피어나는 죄 가 4가 되면 이번 전투동안 강화 상태가 됨",
+    "context": "EN :\nIf at 4 Blooming Sin, enter Power-up state for this encounter\nJP :\n咲き出す罪 が4になると今回の戦闘の間、強化状態になる"
+  },
+  {
+    "key": "855606-name",
+    "original": "덩쿨에 핀 장미",
+    "context": "EN :\nRose on a Vine\nJP :\n蔓に咲いた薔薇"
+  },
+  {
+    "key": "855606-desc",
+    "original": "장미 표지판이 제압되면 함께 제압됨",
+    "context": "EN :\nDies when Sign of Roses is defeated\nJP :\n薔薇の表示板が制圧されると、共に制圧される"
+  },
+  {
+    "key": "854403-name",
+    "original": "옮겨붙는 불씨",
+    "context": "EN :\nSpreading Ember\nJP :\n燃え移る火種"
+  },
+  {
+    "key": "854403-desc",
+    "original": "턴 종료 시 자신에게 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">화상</color></link></u>이 있다면, <sprite name=\"WrappedCurseTagRe\"><color=#a16a3b><u><link=\"WrappedCurseTagRe\">얽혀온 저주 부적</color></link></u>을 가지고 있는 모든 대상에게 가지고 있는 <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">화상</color></link></u>만큼 다음 턴에 화상 부여",
+    "context": "EN :\nAt the end of the turn, if this unit has <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Burn</color></link></u>, inflict the same amount of <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Burn</color></link></u> to all units with <sprite name=\"WrappedCurseTagRe\"><color=#a16a3b><u><link=\"WrappedCurseTagRe\">Entangled Curse Talisman</color></link></u> next turn\nJP :\nターン終了時、自分に<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>があれば<sprite name=\"WrappedCurseTagRe\"><color=#a16a3b><u><link=\"WrappedCurseTagRe\">絡み付いた呪いの札</color></link></u>を持つ全ての対象へ、保有している<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>だけ次のターンに火傷 を付与"
+  },
+  {
+    "key": "855607-name",
+    "original": "죄를 머금은 가시 덩쿨",
+    "context": "EN :\nSin-drenched Brambles\nJP :\n罪を宿した茨"
+  },
+  {
+    "key": "855607-desc",
+    "original": "매 턴마다 모든 부위가 면류관 효과를 가진 수감자 수만큼 보호 를 얻음",
+    "context": "EN :\nEvery turn, all parts gain Protection equal to the number of Sinners with the Crown of Thorns effect\nJP :\n毎ターン、全部位が冠 効果を持つ囚人の数だけ保護を得る"
+  }
+]

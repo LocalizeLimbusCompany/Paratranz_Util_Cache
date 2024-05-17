@@ -1,0 +1,1100 @@
+[
+  {
+    "key": "0-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "0-content",
+    "original": "속셈을 말해.",
+    "context": "EN :\nWhat the hell do you want?\nJP :\n何のつもりか言え。"
+  },
+  {
+    "key": "1-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "1-content",
+    "original": "이젠 정말 지긋지긋해졌으니까… 힌들리도… 정체를 알 수 없는 네놈도…",
+    "context": "EN :\nHindley, you, and your mysteries... everything. I'm tired of it.\nJP :\nもう本当にうんざりだ…ヒンドリーも…。\n得体の知れないテメェも…。"
+  },
+  {
+    "key": "2-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "2-content",
+    "original": "말하지 않는다면…",
+    "context": "EN :\nIf you won't talk, then I'll...\nJP :\n言わねぇなら…。"
+  },
+  {
+    "key": "3-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "3-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "3-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "3-content",
+    "original": "크큭…",
+    "context": "EN :\nAhaha...\nJP :\nふっふっふ…。"
+  },
+  {
+    "key": "4-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "4-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "4-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "4-content",
+    "original": "죽인다고?",
+    "context": "EN :\nWhat, kill me?\nJP :\n殺すつもりか？"
+  },
+  {
+    "key": "5-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "5-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "5-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "5-content",
+    "original": "네가… 나를?",
+    "context": "EN :\nYou're going to kill... *me*?\nJP :\nお前が…オレを？"
+  },
+  {
+    "key": "6-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "6-content",
+    "original": "…!",
+    "context": "EN :\n...!\nJP :\n…！"
+  },
+  {
+    "key": "7-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "7-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "7-content",
+    "original": "소개는 생략할까?",
+    "context": "EN :\nI suppose introductions are unnecessary.\nJP :\n自己紹介は省略しようか？"
+  },
+  {
+    "key": "8-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "8-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "8-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "8-content",
+    "original": "보다시피, 지옥에서 살아 걸어온 너지.",
+    "context": "EN :\nI am you, as it is plain to see. And I have clawed my way back from hell.\nJP :\nご覧の通り、地獄から生き返って歩いてきたお前だ。"
+  },
+  {
+    "key": "9-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "9-content",
+    "original": "…어떻게, 똑같은 사람이 동시에…",
+    "context": "EN :\n... H-how can there be two of the same person...?\nJP :\n…どうして、同じ人が同時に。"
+  },
+  {
+    "key": "10-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10-content",
+    "original": "동일한 사람이… 아닙니다.",
+    "context": "EN :\nThey are... not the same people.\nJP :\n同じ人では…ありません。"
+  },
+  {
+    "key": "11-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-content",
+    "original": "그는 인격입니다.",
+    "context": "EN :\nThis one is an Identity.\nJP :\n彼は人格です。"
+  },
+  {
+    "key": "12-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "12-content",
+    "original": "인격…? 인격이라고?",
+    "context": "EN :\nIdentity...? He's an Identity?\nJP :\n人格…？人格だと？"
+  },
+  {
+    "key": "13-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "13-content",
+    "original": "저자가 어딘가의 거울 세계에 있던… 히스클리프 씨라고요?",
+    "context": "EN :\nSo he's a Heathcliff... from one of the Mirror Worlds?\nJP :\nあの人はどこかの鏡の世界にいた…ヒースクリフさんなんですか？"
+  },
+  {
+    "key": "14-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "14-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "14-content",
+    "original": "나를 대적하던 자들. 내게 모욕을 주었던 자들.",
+    "context": "EN :\nAll those who challenged me, stood in my way. All those who humiliated me.\nJP :\nオレに敵対していた者たち。オレに侮辱を与えた者たち。"
+  },
+  {
+    "key": "15-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "15-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "15-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "15-content",
+    "original": "하나하나씩 찾아낸 뒤 그에 버금가는 최후를 주려고 했지.",
+    "context": "EN :\nI intended to find them one by one, to give them deaths that befit their crimes.\nJP :\n一つ一つ探し出してから、\nそれに値する最期を与えようとしたのさ。"
+  },
+  {
+    "key": "16-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "16-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "16-content",
+    "original": "그리고 마지막엔…",
+    "context": "EN :\nAnd in the end...\nJP :\nそして最後には…。"
+  },
+  {
+    "key": "17-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "17-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "17-content",
+    "original": "나의 캐시를 죽게 만든… 자를 내 손으로 끝장내 주겠다고.",
+    "context": "EN :\nI would kill... the one who killed my Cathy... with my own hands.\nJP :\nオレのキャシーを死に至らせた…者をオレの手で終わらせてやるって。"
+  },
+  {
+    "key": "18-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "18-content",
+    "original": "나의 캐시? …죽게 만든 자? 누가… 아니, 뭘 말하고 있는 거야!",
+    "context": "EN :\nMy Cathy? The one who— Who... no, what the bloody hell are you talking about?!\nJP :\nオレのキャシー？…死に至らせた者？\n誰が…いや、なに言ってんだよ！"
+  },
+  {
+    "key": "19-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "19-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "19-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "19-content",
+    "original": "뻔하지.",
+    "context": "EN :\nObvious, is it not?\nJP :\nフツーに分かるだろ。"
+  },
+  {
+    "key": "20-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "20-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "20-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "20-content",
+    "original": "너… 그리고 나.",
+    "context": "EN :\nIt's you. And... me.\nJP :\nお前…そしてオレ。"
+  },
+  {
+    "key": "21-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "21-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "21-content",
+    "original": "모르겠나? 캐시를 죽인 건 우리야.",
+    "context": "EN :\nDo you still fail to understand? We are her murderers.\nJP :\n分かんねぇのか？キャシーを殺したのはオレたちだ。"
+  },
+  {
+    "key": "22-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "22-content",
+    "original": "개소리를 씨… 알아듣게…",
+    "context": "EN :\nWhat a load of rubbish... talk like a normal person or...\nJP :\n何わけの分かんねぇこと…もっと分かるように…。"
+  },
+  {
+    "key": "23-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "23-content",
+    "original": "잠깐.",
+    "context": "EN :\n... Wait.\nJP :\n待て。"
+  },
+  {
+    "key": "24-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "24-content",
+    "original": "너, 캐시의 죽음에 대해 어디까지 알고 있어.",
+    "context": "EN :\nHow much do you know about Cathy's death?\nJP :\nテメェ、キャシーの死についてどこまで知ってんだ。"
+  },
+  {
+    "key": "25-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "25-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "25-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "25-content",
+    "original": "이 세계에 내가 사랑하는 사람, 나를 사랑하는 사람은 아무도 없지.",
+    "context": "EN :\nI have no love left for anyone in this world. This world has none to spare for me, either.\nJP :\nこの世界にオレが愛する人、オレを愛する人は誰もいない。"
+  },
+  {
+    "key": "26-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "26-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "26-content",
+    "original": "내 미래는 두 가지뿐이었어. 죽음과 지옥. 캐시가 죽은 후 나는 지옥 속에 떨어졌으니까.",
+    "context": "EN :\nI had but two paths before me. Death, or inferno... because I was already cast into the depths of hell upon Cathy's demise.\nJP :\nオレの未来は二つだけだった。死と地獄。\nキャシーが死んでからオレは地獄へと落ちたから。"
+  },
+  {
+    "key": "27-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "27-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "27-content",
+    "original": "그런데, 너는.",
+    "context": "EN :\nBut you...\nJP :\nそれなのに、お前は。"
+  },
+  {
+    "key": "28-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "28-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "28-content",
+    "original": "그녀와 달콤한 재회나 꿈꾸며 같잖은 모험 따위를 해내고 있더군.",
+    "context": "EN :\nI watched you going on your puerile adventures, dreaming of some saccharine, heartfelt reunion with her.\nJP :\n彼女と甘い再会なんて夢見ながら\nくだらない冒険なんかしていやがったのさ。"
+  },
+  {
+    "key": "29-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "29-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "29-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "29-content",
+    "original": "그래서 이곳에도 넘어왔지. 그 시간들을 모조리 먹어 치우기 위해.",
+    "context": "EN :\nThus, I have journeyed to this world. To devour every one of those hours.\nJP :\nだからここにもやってきた。\nその時間を全て喰らい尽くすために。"
+  },
+  {
+    "key": "30-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "30-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "30-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "30-content",
+    "original": "그래서 나의 절망에 물들일 수 있도록…",
+    "context": "EN :\nSo that you may be stained with the same despair that painted me...\nJP :\nそしてオレの絶望に染まるよう…。"
+  },
+  {
+    "key": "31-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "31-content",
+    "original": "똑바로 말해.",
+    "context": "EN :\nStop talking in circles!\nJP :\nはっきり言えよ！"
+  },
+  {
+    "key": "32-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "32-content",
+    "original": "캐시를 죽인 게. 너라는 소리냐?",
+    "context": "EN :\nAre you saying that you're the one who killed Cathy?\nJP :\nキャシーを殺したの。テメェってことか？"
+  },
+  {
+    "key": "33-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "33-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "33-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "33-content",
+    "original": "우리라고 해야지. 히스클리프.",
+    "context": "EN :\nUs, Heathcliff. It's us.\nJP :\nオレたちって言うべきだろ。ヒースクリフ。"
+  },
+  {
+    "key": "34-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "34-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "34-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "34-content",
+    "original": "너와 나는 그렇게 태어났잖냐.",
+    "context": "EN :\nThat's what we are. How we were born to this world.\nJP :\nお前とオレはそう生まれてきたじゃないか。"
+  },
+  {
+    "key": "35-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "35-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "35-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "35-content",
+    "original": "답이 없는 넝마 자루를 뒤집어쓴 망나니 새끼로.",
+    "context": "EN :\nA witless brigand. A vagrant. A thing wrapped in a filthy, stinking rag of a sack.\nJP :\n情けない、ずた袋を被ったならず者の子として。"
+  },
+  {
+    "key": "36-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "36-content",
+    "original": "망나니…",
+    "context": "EN :\nA witless brigand...\nJP :\nならず者…。"
+  },
+  {
+    "key": "37-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "37-content",
+    "original": "…그래.",
+    "context": "EN :\n... Yeah.\nJP :\n…そうだ。"
+  },
+  {
+    "key": "38-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "38-content",
+    "original": "난 그런 새끼였지.",
+    "context": "EN :\nThat's what I always was.\nJP :\nオレはそんなヤツだったさ。"
+  },
+  {
+    "key": "39-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "39-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "39-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "39-content",
+    "original": "말해봐라, 히스클리프.",
+    "context": "EN :\nTell me, Heathcliff.\nJP :\n言ってみろ、ヒースクリフ。"
+  },
+  {
+    "key": "40-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "40-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "40-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "40-content",
+    "original": "그녀가 죽었다는 소식을 듣자마자…",
+    "context": "EN :\nWhat was your first thought...\nJP :\n彼女が死んだという話を聞いて…。"
+  },
+  {
+    "key": "41-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "41-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "41-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "41-content",
+    "original": "너는 어떤 생각을 했지?",
+    "context": "EN :\n... when you first heard the news of her death?\nJP :\nお前は何を考えた？"
+  },
+  {
+    "key": "42-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "42-content",
+    "original": "만약 캐시를 누가 죽인 거라면… 캐시를 죽음으로 몰고 간 자들을 찾아낸 다음…",
+    "context": "EN :\nIf she was killed... I would pursue her murderers to the ends of this earth...\nJP :\nもしキャシーを誰かが殺したってんなら…\nキャシーを死へと追いやった者たちを探し出して…。"
+  },
+  {
+    "key": "43-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "43-content",
+    "original": "남김없이 죽여버리겠다고… 그게 누구든 간에.",
+    "context": "EN :\n... and kill every last one of them. Whoever that may be.\nJP :\n一人残らず殺してやると…それが誰であれ。"
+  },
+  {
+    "key": "44-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "44-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "44-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "44-content",
+    "original": "그래!",
+    "context": "EN :\nYES!\nJP :\nそうだ！"
+  },
+  {
+    "key": "45-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "45-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "45-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "45-content",
+    "original": "그딴 새끼가! 멀쩡한 모습으로! 살아서 돌아다니면 안 되겠지… 그렇지 않나?",
+    "context": "EN :\nA bloody wretch like 'em! ... Should not be allowed to live. ... Don't you agree?\nJP :\nそんなヤツらが！何事もなかったかのように！\nまともに生きて良いわけないだろう…そう思わないのか？"
+  },
+  {
+    "key": "46-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "46-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "46-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "46-content",
+    "original": "수백 번 찢어 죽여도 석연치 않을 거야.",
+    "context": "EN :\nYou could kill them and tear their corpses from limb to limb a hundred times, but it still wouldn't be enough.\nJP :\n数百回引き裂き殺したとしても、腹の虫は治まらないだろう。"
+  },
+  {
+    "key": "47-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "47-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "47-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "47-content",
+    "original": "네가 앞으로 겪을 고통에 비해선… 턱 없이 모자라니까.",
+    "context": "EN :\nBecause it won't even compare... to the terrible suffering that awaits you.\nJP :\nお前がこの先味わうことになる苦痛に比べれば…\nべらぼうに足りないからな。"
+  },
+  {
+    "key": "48-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "48-content",
+    "original": "그리고… 캐서린을 죽인 찢어 죽일 놈이… 바로 나라는 거고…",
+    "context": "EN :\nAnd I... I am Catherine's murderer... I am the wretch that killed her...\nJP :\nそして…キャサリンを殺した、\n引き裂き殺すべきヤツは…オレだってことで…。"
+  },
+  {
+    "key": "49-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "49-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "49-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "49-content",
+    "original": "넌 앞으로 끝없이 괴로운 밤을 보내게 될 거다.",
+    "context": "EN :\nEndless, excruciatingly sleepless nights lie await in your future.\nJP :\nお前はこれから、絶えず苦しい夜を過ごすことになるだろう。"
+  },
+  {
+    "key": "50-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "50-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "50-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "50-content",
+    "original": "보이지 않지만, 어딘가에서 너를 부르는 그녀의 환청을 듣게 되겠지.",
+    "context": "EN :\nThough you will not see her, her beckoning voice shall haunt and torment you until you draw your last agonising breath.\nJP :\n見えはしないが、どこからともなく\nお前を呼ぶ彼女の幻聴を聞くことになるだろう。"
+  },
+  {
+    "key": "51-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "51-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "51-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "51-content",
+    "original": "자, 들리지 않나? 흐느끼는 캐시의 울음소리가!",
+    "context": "EN :\nCan you not hear her? Cathy, she weeps!\nJP :\nさぁ、聞こえてこないか？\nすすり泣くキャシーの泣き声が！"
+  },
+  {
+    "key": "52-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "52-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "52-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "52-content",
+    "original": "너는 모르겠지만, 캐시가 묻히던 날엔 눈이 내렸어. 겨울처럼 찬 바람이 불고 있었고 주위에는 아무도 없었지.",
+    "context": "EN :\nYou would not know this, but it snowed the day they buried Cathy. I stood there alone by her grave, nothing but the cold, wintery gust to accompany my vigil.\nJP :\nお前は知らないだろうけど、キャシーが埋められた日には雪が降った。\n冬のように冷たい風が吹き、周囲には誰もいなかったのさ。"
+  },
+  {
+    "key": "53-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "53-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "53-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "53-content",
+    "original": "아아… 눈보라 소리가 들리는군.",
+    "context": "EN :\nAh... I hear the howling blizzard still.\nJP :\nあぁ…吹雪の音が聞こえてくる。"
+  },
+  {
+    "key": "54-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "54-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "54-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "54-content",
+    "original": "어디 있지, 캐시?",
+    "context": "EN :\nWhere are you, dear Cathy?\nJP :\nどこにいるんだ、キャシー？"
+  },
+  {
+    "key": "55-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "55-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "55-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "55-content",
+    "original": "내가 결코 닿을 수 없는 어딘가에서 원망을 하고 있는 건가?",
+    "context": "EN :\nResenting me still, from whence I shall never reach?\nJP :\nオレが決して至れないどこかで、恨んでいるのか？"
+  },
+  {
+    "key": "56-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "56-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "56-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "56-content",
+    "original": "내 곁에 있지? 그렇지? 내 아래가 아닌! 나와 같은 땅 위에서!!!",
+    "context": "EN :\nYou are beside me, are you not? Not under me—but with me, upon this very earth!!!\nJP :\nオレの側にいるんだろう？そうなんだろ？\n君の下ではなく、俺と同じ地面の上で！！！"
+  },
+  {
+    "key": "57-content",
+    "original": "히스클리프와 똑같이 생겼지만, 훨씬 비참하고 정신이 나간 듯이 보이는 또 다른 히스클리프가 캐서린이란 이름을 부르짖는다.",
+    "context": "EN :\nThough he looks just like Heathcliff, he appears beaten down, distraught, and insane. Heathcliff from another world mournfully roars Catherine's name.\nJP :\nヒースクリフとそっくりだが、彼より更に惨めで気が狂ったように見える\nもう一人のヒースクリフがキャサリンという名前を叫ぶ。"
+  },
+  {
+    "key": "58-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "58-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "58-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "58-content",
+    "original": "그래, 캐시, 나를 괴롭혀줘. 내가 살아있는 한 편히 쉬지 못하게!",
+    "context": "EN :\nYes, Cathy... torment me. So that I may never rest until my very last breath!\nJP :\nそうだ、キャシー、オレを苦しめてくれ。\n俺が生きてる限り、安息できないように！"
+  },
+  {
+    "key": "59-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "59-content",
+    "original": "캐시를… 네가… 우리가…",
+    "context": "EN :\nCathy... You... no, we...!\nJP :\nキャシーを…お前が…オレたちが…。"
+  },
+  {
+    "key": "60-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "60-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "60-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "60-content",
+    "original": "그래, 나를 산산조각 내라.",
+    "context": "EN :\nYes. Break me to a thousand shards.\nJP :\nそうだ、オレを粉々にしろ。"
+  },
+  {
+    "key": "61-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "61-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "61-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "61-content",
+    "original": "나를 고통 속에서 미쳐버리게끔!",
+    "context": "EN :\nSo that I may be driven mad with suffering!\nJP :\nオレを苦痛の中で狂わせるんだ！"
+  },
+  {
+    "key": "62-model",
+    "original": "마왕히스클리프1",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "62-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "62-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "62-content",
+    "original": "그래서 캐시가 나를 조금이나마 용서하기를…",
+    "context": "EN :\nSo that Cathy may forgive me... even a little.\nJP :\nそうすればキャシーはオレを\nほんの少しだけでも許してくれるはず…。"
+  },
+  {
+    "key": "63-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "63-content",
+    "original": "그만!!!",
+    "context": "EN :\nSTOP!!!\nJP :\nやめろ！！！"
+  }
+]

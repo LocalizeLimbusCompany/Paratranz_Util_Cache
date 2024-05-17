@@ -1,0 +1,856 @@
+[
+  {
+    "key": "0-place",
+    "original": "임시 작전 천막",
+    "context": "EN :\nMakeshift Command Tent\nJP :\n臨時作戦テント"
+  },
+  {
+    "key": "0-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "0-content",
+    "original": "주, 주변 구경이라도 가볼까…",
+    "context": "EN :\nW-well, does anybody wanna take a quick stroll around the empty lot while we wait...?\nJP :\nしゅ、周辺の見物でもしよっかな…。"
+  },
+  {
+    "key": "1-content",
+    "original": "눈치를 보던 로쟈가 천막 밖으로 슬쩍 나가려 하자 베르길리우스가 제지했다.",
+    "context": "EN :\nAfter nervously looking around the room, Rodya tried to leave the tent. But Vergilius stopped her.\nJP :\n様子をうかがっていたロージャがテントの外へこっそり\n出ようとすると、ヴェルギリウスが制止した。"
+  },
+  {
+    "key": "2-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "2-content",
+    "original": "남아 있어라. 마지막 전달 사항이 있으니.",
+    "context": "EN :\nNo, stay. I have something to share.\nJP :\n残っていろ。最後の伝達事項がある。"
+  },
+  {
+    "key": "3-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "3-content",
+    "original": "그, 교육 같은 건 좀 끝나고 해도 되지 않겠냐… 꼬맹이가 사고 친 건 맞지만 그래도 별일 없었잖아?",
+    "context": "EN :\nOh, come on. Can't you give her a moment, at least until the mission's over with? I know the lass really botched it this time, but nothing came of it in the end, did it?\nJP :\nその、教育みてぇなのは後でやってもいいんじゃねぇか…。\nチビが問題を起こしたのは事実だけど、\nそれでも大したことは無かったろ？"
+  },
+  {
+    "key": "4-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "4-content",
+    "original": "회사 측에서 제공할 단독 정보가 있어서 남으라고 했을 뿐이다.",
+    "context": "EN :\n... The company has some exclusive information they'd like to share with you. That is the only reason I asked you to stay.\nJP :\n会社側が提供する単独情報があるから、残るように言っただけだ。"
+  },
+  {
+    "key": "5-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "5-content",
+    "original": "그… 부, 부부부… 붉은시선 나리. 아, 아까는…",
+    "context": "EN :\nAh... ahem... Sir... Lord... R-Red Gaze... E-earlier, what I had done...\nJP :\nその…あ、あああ…赤い視線殿。さ、先程は…。"
+  },
+  {
+    "key": "6-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "6-content",
+    "original": "문제 삼지 않을 테니 조용히 듣기나 하도록.",
+    "context": "EN :\n... I won't hold it against you. So be quiet and pay attention.\nJP :\n問題にはしないから、静かに聞いていろ。"
+  },
+  {
+    "key": "7-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "7-content",
+    "original": "허엉… 붉은 특색이시여… 본인은 언제나 그대에게만 충정을 바칠 것을 맹세하겠네…",
+    "context": "EN :\nSob... O Red Gaze the illustrious... I swear to pledge mine undying loyalty to thee...\nJP :\nはひぃん…赤い特色様よ…当人はいつでもあなたにだけ\n忠誠を捧げることを誓いまする…。"
+  },
+  {
+    "key": "8-content",
+    "original": "베르길리우스는 조그만 타블렛 기기를 꺼내 조작하기 시작했다.",
+    "context": "EN :\nVergilius produced a small tablet and began loading something up on its screen.\nJP :\nヴェルギリウスは小さなタブレット端末を取り出し、操作し始めた。"
+  },
+  {
+    "key": "9-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "9-content",
+    "original": "우리에게 정보를 제공해 줄 자는 현재 일신상의 사정으로 이 자리엔 함께할 수 없는 상황이다.",
+    "context": "EN :\nThe one who will now brief us on this exclusive intelligence cannot be with us in person, due to... personal reasons.\nJP :\n我々に情報を提供してくれる者は、現在一身上の都合で\nこの場には同席できない状況だ。"
+  },
+  {
+    "key": "10-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "10-content",
+    "original": "불가피하게 기기를 활용해서 전달할 수밖에 없다는 점 양해바란다더군.",
+    "context": "EN :\nShe wanted me to tell you that she regrets having to deliver the information remotely via this device.\nJP :\nやむを得ず、機器を利用して伝達するしかないことを\n了承してほしいとのことだ。"
+  },
+  {
+    "key": "11-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "11-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "11-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "11-content",
+    "original": "아, 아, 들리나?",
+    "context": "EN :\nHello. One, two, testing. Am I coming through?\nJP :\nあー、あー、聞こえるか？"
+  },
+  {
+    "key": "12-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "12-content",
+    "original": "어? 아까는 공식적으로 허가가 된 영상이 아니면 모두…",
+    "context": "EN :\nHuh? Didn't the Hana Fixer ban any unauthorized recordings or video feeds earlier?\nJP :\nえ？さっきは公式に許可された映像でなければ全て…。"
+  },
+  {
+    "key": "13-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "13-content",
+    "original": "물론 허가는 받았다. 뿐만 아니라 이 장소에서 들려오는 모든 참가자의 대화는 P사에서 녹음하고 있지.",
+    "context": "EN :\nOf course, but we've received prior authorization. Besides, P Corp. is already recording the conversations of every participant in this mission.\nJP :\nもちろん許可は取った。それだけでなく、この場所で交わされる\n全ての参加者の会話はP社で録音している。"
+  },
+  {
+    "key": "14-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "14-content",
+    "original": "그 정도면 녹음이 아니라 도청 아닌가…",
+    "context": "EN :\nThat just sounds like a roundabout way of saying they've got us all bugged.\nJP :\nそのレベルだと録音じゃなくて盗聴じゃないかなぁ…。"
+  },
+  {
+    "key": "15-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "15-content",
+    "original": "물론, 그쪽에서 대가 없이 제공한 호의는 아니다. 라만차랜드를 만든 원흉을 잡아 오는 것과 관련이 있는 정보라는 것을 설득해야 했지.",
+    "context": "EN :\nOf course, the authorization was not free. We had to convince them that the information would be pertinent to capturing the entity at the origin of La Manchaland.\nJP :\nもちろん、向こうが対価なしで提供した好意ではない。\nラ・マンチャランドを作った元凶を捕まえることに\n関連する情報だと説得する必要があった。"
+  },
+  {
+    "key": "16-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "16-content",
+    "original": "림버스 컴퍼니 LCD 부서의 현장 추리 팀장, 모제스라고 한다. 오래전부터 뒤틀림 현상에 대해 추적하고 정보를 수집했었지. 그리고…",
+    "context": "EN :\nLCD On-site Investigative Reasoning Team Leader, Moses here. I've been studying and investigating the Distortion phenomenon for a long time. And—\nJP :\nリンバスカンパニーLCD部の現場推理チーム長、モーゼスという。\n以前からねじれ現象を追跡し、情報を収集してきた。そして…。"
+  },
+  {
+    "key": "17-content",
+    "original": "그러고 보니 지난번에도 LCD에서 온 자와 인사를 나눈 적이 있었다. 시끌시끌한 목소리에…이름이…",
+    "context": "EN :\nThat reminds me. We did have a quick call with someone from the LCD back when. She had a pretty bubbly personality, I think, and her name was...\nJP :\nそういえば前回もLCDから来た者と挨拶を交わしたことがあった。\n騒がしい声で…名前が…。"
+  },
+  {
+    "key": "18-model",
+    "original": "에즈라",
+    "translation": "以斯拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nEzra\nJP :\nエズラ"
+  },
+  {
+    "key": "18-content",
+    "original": "나도 있어, 나도! 오랜만! 에즈라야!",
+    "context": "EN :\nHey, hey! It's me again, Ezra! Been a while!\nJP :\n私もいるよ、私も！おひさ！エズラだよ！"
+  },
+  {
+    "key": "19-model",
+    "original": "에즈라",
+    "translation": "以斯拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nEzra\nJP :\nエズラ"
+  },
+  {
+    "key": "19-content",
+    "original": "너희 혈귀들 잡으러 간다며? 탐정님… 아니 팀장님의 조언도 없이 그냥 갈 셈이었어? 우리 팀장님은 말이지 왕년에 혈귀들을 여럿 상대하고 다니시기도 했어.",
+    "context": "EN :\nHunting Bloodfiends this time, huh? Don't tell me you were about to jump headfirst into that business without even asking the detec—I mean, our Team Leader! I'm tellin' ya now, she used to bust plenty of Bloodfiend heads back in the day.\nJP :\n君たち、血鬼を倒しに行くんだって？探偵さん…いや、\nチーフの助言もなしにそのまま行くつもりだったの？\nうちのチーフはね、昔はたくさんの血鬼を相手してきたんだ。"
+  },
+  {
+    "key": "20-model",
+    "original": "에즈라",
+    "translation": "以斯拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nEzra\nJP :\nエズラ"
+  },
+  {
+    "key": "20-content",
+    "original": "말씀 좀 해주세요~ 팀장님, 그때 막 습… 하. 휘리릭 화리릭 하고…!",
+    "context": "EN :\nYou tell 'em how you used to whoop 'em, boss. You'd go sshhhhhh on that smoking pipe, and went whirr! Whirr! And—\nJP :\n話してくださいよ～チーフさん、あのときのこう…スーッ、はあ。\nひゅるり、はらり…ってやつ！"
+  },
+  {
+    "key": "21-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "21-content",
+    "original": "그래, 일전에는 혈귀들에 대해서도 연구하고 상대해 본 적이 있었다. 그때 나는 혈귀 중 장로… 그러니까 제1권속과도 만난 적이 있었지.",
+    "context": "EN :\nWell, yes. I do have some experience with investigating and battling Bloodfiends. I've even met one of the Bloodfiend Elders... also known as the First Kindreds.\nJP :\nそうだ、以前には血鬼たちについても研究し、相手をしたことがあった。\nそのとき、私は血鬼の長老…つまり第1眷属とも会ったことがある。"
+  },
+  {
+    "key": "22-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "22-content",
+    "original": "어, 잠깐만요… 제1권속이면…",
+    "context": "EN :\nWait, one of the First Kindreds?\nJP :\nえ、待ってください…第1眷属っていうと…。"
+  },
+  {
+    "key": "23-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "23-content",
+    "original": "저번에 만난 게 제6권속… 그리고 제7권속이었으니까…",
+    "context": "EN :\nUhh, let's see. The one we fought last time was a Sixth Kindred, and a Seventh Kindred...\nJP :\n前に会ったのが第6眷属…そして第7眷属だったから…。"
+  },
+  {
+    "key": "24-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "24-content",
+    "original": "뭐, 그날의 자세한 이야기까지 하기에는 이야기가 길어지니 생략하도록 하지.",
+    "context": "EN :\nWell, I don't want to waste your time by talking your ears off about what happened that day, so I'll get straight to the point.\nJP :\nまあ、その日の詳しい話まですると長くなるから省略しよう。"
+  },
+  {
+    "key": "25-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "25-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "26-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "26-content",
+    "original": "1권속을… 처치했는가?",
+    "context": "EN :\n... Didst thou... slay the First Kindred?\nJP :\n第1眷属を…倒したのであるか？"
+  },
+  {
+    "key": "27-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "27-content",
+    "original": "그럴 리가.",
+    "context": "EN :\nOf course not.\nJP :\nそんなわけ。"
+  },
+  {
+    "key": "28-model",
+    "original": "에즈라",
+    "translation": "以斯拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nEzra\nJP :\nエズラ"
+  },
+  {
+    "key": "28-content",
+    "original": "팀장님이 봐준 거야, 봐준 거.",
+    "context": "EN :\nYeah, 'cuz she went easy on 'em, I tell ya.\nJP :\nチーフが見逃してあげたの、見逃して。"
+  },
+  {
+    "key": "29-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "29-content",
+    "original": "정확히는 그자가 나를 봐줬다고 보는 게 더 올바르겠지. 너희들이 상상하고 있는 것처럼 피비린내가 날 일은 벌어지지 않았다.",
+    "context": "EN :\nNo, the Bloodfiend took mercy on me. Our meeting wasn't as bloody as the scene you might be imagining at the moment.\nJP :\n正確には、あの者が私を見逃してくれたと見るのが正しいだろう。\n君たちが想像しているような血生臭いことは起こらなかった。"
+  },
+  {
+    "key": "30-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "30-content",
+    "original": "오히려 그자는 내게 의자를 내어주었고 우리는 길지 않은 시간 동안 대화를 나누었지.",
+    "context": "EN :\nIn fact, she was generous enough to give me a place to sit. And we even had a moment to converse.\nJP :\nむしろあの者は私に椅子を差し出してきて\n私たちは短くない間、会話を交わしたのさ。"
+  },
+  {
+    "key": "31-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "31-content",
+    "original": "뭐? 혈귀 놈이 뭘 내줬다고? 그걸 믿으라고 하는 소리냐?!",
+    "context": "EN :\nWhat? The Bloodfiend gave you a seat?! You expect me to believe that shite?\nJP :\nはぁ？血鬼野郎が何を差し出したって！？\nそれを信じろっていうのか？"
+  },
+  {
+    "key": "32-model",
+    "original": "에즈라",
+    "translation": "以斯拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nEzra\nJP :\nエズラ"
+  },
+  {
+    "key": "32-content",
+    "original": "얌마! 너 탐정… 아니 팀장님한테 무슨 말버릇이야!",
+    "context": "EN :\nHey! Rude! You do *not* talk to the detec— I mean, our Team Leader like that, capiche?!\nJP :\nオメェ！お前探偵…いや、チーフに対してなんて口の利き方してんの！"
+  },
+  {
+    "key": "33-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "33-content",
+    "original": "뭐, 혈귀라는 인상이 너희들에겐 그다지 유쾌하지 않을 거라는 건 알고 있다. 하지만 적어도 그자를 포함한 일부 혈귀들은 인간과 갈등 없는 평온한 나날을 보내는 걸 원하고 있었어.",
+    "context": "EN :\nHm, I do understand that the public's perception of Bloodfiends is... far from amicable. But I do know that at least some of them, including the Elder I met, wish for a peaceful coexistence with humans.\nJP :\nまあ、血鬼という印象が君たちにとってあまり愉快ではないであろうことは分かっている。\nしかし少なくともあの者を含む一部の血鬼たちは、\n人間と葛藤のない平穏な日々を送りたいと望んでいた。"
+  },
+  {
+    "key": "34-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "34-content",
+    "original": "나는 그때까지만 해도 혈귀들은 지금까지 봐온 뒤틀림과 동일한 존재라고 단언했다. 그때 내게 보인 피로 일렁이고 찰랑이는 눈동자는 뒤틀림과 유사하다 생각했으니까. 그자는 내 말에 부정도, 긍정도 하지 않더군.",
+    "context": "EN :\nBack then, I used to be able to state with absolute certainty that the Bloodfiends weren't special, that they were no different from the Distortions I'd faced in the past. Those wells of blood, splashing inside their pupils were my evidence. But when I shared this thought with the Elder, she did not confirm nor deny my assertions.\nJP :\n私はそのときまで、血鬼たちはこれまで見てきたねじれと同じ存在だと断言していた。\nそのときあの者が見せた、血で揺らめく瞳はねじれに似ていると思ったからだ。\nあの者は私の言葉に否定も肯定もしなかった。"
+  },
+  {
+    "key": "35-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "35-content",
+    "original": "하지만 정정하고 싶군. 혈귀는 단순히 뒤틀림 현상으로만 해석할 수 있는 존재가 아니다.",
+    "context": "EN :\nBut now, I would like to make a correction to my prior theory. Bloodfiends cannot be explained only through the simple lens of viewing them as Distortions.\nJP :\nしかし訂正したい。\n血鬼は単にねじれ現象としてだけ解釈できる存在ではない。"
+  },
+  {
+    "key": "36-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "36-content",
+    "original": "그 본질은 뒤틀림과 유사하지만, 결과적으로는 뒤틀림이 아니었다. 우리는 뒤틀림을 해결하듯 혈귀를 풀어내려다 실패했지.",
+    "context": "EN :\nTheir essence is similar to that of Distortions, yes. However, we eventually drew the conclusion that the Bloodfiends cannot be filed under that category. Our attempt to 'resolve' a Bloodfiend as one does a Distortion failed.\nJP :\nその本質はねじれに似ているが、結果的にはねじれではなかった。\n我々はねじれを解決するように血鬼を解き明かそうとして失敗した。"
+  },
+  {
+    "key": "37-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "37-content",
+    "original": "그 근원에 대해서는 따로 연구를 진행 중에 있다.",
+    "context": "EN :\nStudies into their true origin are currently underway.\nJP :\nその根源については別途研究を進めている最中だ。"
+  },
+  {
+    "key": "38-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "38-content",
+    "original": "연구를 진행 중이라면, 일반적으로 알려지지 않은 정보를 우리에게 제공할 수 있다는 뜻이겠군.",
+    "context": "EN :\nIf your team is looking into the Bloodfiends, I suppose you have some publicly unavailable information to share with the rest of us?\nJP :\n研究を進めているということは、一般的に知られていない情報を\n我々に提供できるという意味だな。"
+  },
+  {
+    "key": "39-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "39-content",
+    "original": "…그런 셈이지.",
+    "context": "EN :\n... Yes, I suppose we do.\nJP :\n…そういうことだ。"
+  },
+  {
+    "key": "40-content",
+    "original": "모제스는 아는 사이인지 오티스를 잠시 빤히 바라보다가, 다시 이야기를 이어 나갔다.",
+    "context": "EN :\nI noticed on the video feed that Moses intently, yet briefly, stared at Outis before continuing with her briefing. Maybe they knew each other from somewhere.\nJP :\nモーゼスは知り合いであるかのように\nウーティスをしばらくじっと見つめてから、再び話を続けた。"
+  },
+  {
+    "key": "41-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "41-content",
+    "original": "마침 이야기가 나왔으니… 백야와 흑주 이후. 뒤틀림으로 발생하는 혈귀가 아닌, 너희가 조우한 제대로 된 혈귀의 기준에서 권속을 설명하지.",
+    "context": "EN :\nWhich brings us to... this. The following is what we learned about Kindreds of true Bloodfiends, those in the same vein as the one you've already encountered. I'm not talking about the ones that manifested as Distortions after the White Nights and Dark Days incident, mind.\nJP :\nちょうど話が出たんだし…白夜と黒昼以降。ねじれで発生する血鬼ではなく、\n君たちが遭遇した本物の血鬼の基準で眷属を説明しよう。"
+  },
+  {
+    "key": "42-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "42-content",
+    "original": "태초의 혈귀는 강력한 힘을 가지고 수많은 사람을 권속으로 만들었다고 전해지지만… 그렇게 탄생한 제1권속부터는 긴 생애 동안 단 두 명의 권속밖에 만들지 못한다.",
+    "context": "EN :\nIt is said that the primogenitor, the very first Bloodfiend, wielded unimaginable power and could embrace countless humans and turn them into their Kindreds. However, starting from the Kindreds of the first generation after the primogenitor, which are referred to as the First Kindreds, they were restricted to creating only two Kindreds of a lower generation in their long existences.\nJP :\n太初の血鬼は強力な力を持ち、多くの人々を眷属にしたと言われているが…\nそうして誕生した第1眷属からは、長い生涯の間にたった2名眷属しか作れない。"
+  },
+  {
+    "key": "43-model",
+    "original": "에즈라",
+    "translation": "以斯拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nEzra\nJP :\nエズラ"
+  },
+  {
+    "key": "43-content",
+    "original": "가족을 무분별하게 만드는 건 있을 수 없는 일이어서 그렇대~ 이거 내가 그린거야, 잘 그렸지?",
+    "context": "EN :\nSomething about how they can't just create 'families' willy-nilly, or something like that~ I drew this chart, by the way! Not half bad, huh?\nJP :\n家族を無分別に増やすことはあり得ないからだって～。\nこれ、私が描いたんだよ。上手く描けてるでしょ？"
+  },
+  {
+    "key": "44-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "44-content",
+    "original": "아, 하긴 카세트라는 녀석. 샤샤를 권속으로 만든 걸 꽤 아까워하는 눈치였지.",
+    "context": "EN :\nHuh, yeah. I think that Cassette guy was pretty disappointed about choosing Sha-sha as his Kindred.\nJP :\nああ、確かにカセッティってヤツ。\nシャシャを眷属にしたことをかなり惜しんでたよな。"
+  },
+  {
+    "key": "45-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "45-content",
+    "original": "…어디서부터 지적해야 할지, 파우스트도 쉽게 알 수 없는 발언이네요.",
+    "context": "EN :\n... Faust finds the inaccuracies in your statement difficult to correct due to their egregious nature.\nJP :\n…どこから指摘すればいいのか、ファウストにも簡単には分からない発言ですね。"
+  },
+  {
+    "key": "46-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "46-content",
+    "original": "이렇게 만들어진 혈귀를 하위 권속. 권속을 만든 혈귀는 상위 권속이라고 부르지. 권속 앞에 붙는 숫자가 하나씩 오를 때마다 유의미할 정도로 힘과 능력에 차이가 나는 경우가 많다.",
+    "context": "EN :\nWhen a Bloodfiend of a higher generation creates a lower-generation Kindred, the one that embraced them is called a 'higher Kindred', while the one that's been embraced is called a 'lower Kindred'. It is often the case that Kindreds higher up the bloodstream wield a much greater power than the ones beneath them.\nJP :\nこうして作られた血鬼を下位眷属。眷属を作った血鬼を上位眷属と呼ぶ。\n眷属の前に付く数字が1つずつ上がるたび、力と能力に有意な差が出る場合が多い。"
+  },
+  {
+    "key": "47-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "47-content",
+    "original": "많다, 라는 건 그렇지 않은 경우도 있다는 것으로 들린다.",
+    "context": "EN :\nYou started your sentence with the conditional 'it is often the case'. Therefore, it can be interpreted as a statement that there are cases in which such is not the case.\nJP :\n多い、というのはそうでない場合もあるという風に聞こえる。"
+  },
+  {
+    "key": "48-model",
+    "original": "에즈라",
+    "translation": "以斯拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nEzra\nJP :\nエズラ"
+  },
+  {
+    "key": "48-content",
+    "original": "정확히 들었어! 뒤틀림이 제각각이듯 혈귀도…",
+    "context": "EN :\nYou're right on the money! Just like how each Distortion is different, Bloodfiends are also different in ways—\nJP :\nその通り！ねじれがそれぞれであるように、血鬼も…。"
+  },
+  {
+    "key": "49-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "49-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "50-model",
+    "original": "에즈라",
+    "translation": "以斯拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nEzra\nJP :\nエズラ"
+  },
+  {
+    "key": "50-content",
+    "original": "나머지는 팀장님이 설명해 줄 거야!",
+    "context": "EN :\n—that our Team Leader will explain!\nJP :\n残りはチーフが説明してくれると思う！"
+  },
+  {
+    "key": "51-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "51-content",
+    "original": "하아… 혈귀 또한 상위 권속에 따라 능력이 제각각이기 때문이다. 하지만 반란은 대체로 불가능하지. 물리적으로는 가능하지만, 심리적인 거부감이 상상 이상으로 크기 때문에.",
+    "context": "EN :\nHaah... Yes. Each Bloodfiend's powers and idiosyncrasies often vary depending on the higher Bloodfiend's abilities. However, it is usually impossible for lower Bloodfiends to revolt against someone higher up the bloodstream. While there is no physical barrier stopping them, there is an intense psychological barrier preventing them from doing so.\nJP :\nはあ…血鬼もまた、上位眷属によって能力がそれぞれ異なるからだ。\nしかし反乱は大抵不可能だ。物理的には可能だが、\n心理的な拒否感が想像以上に大きいためだ。"
+  },
+  {
+    "key": "52-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "52-content",
+    "original": "…부모 자식처럼 말인가?",
+    "context": "EN :\n... Like a parent and their child, huh.\nJP :\n…親子みたいにか？"
+  },
+  {
+    "key": "53-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "53-content",
+    "original": "그래. 위아래로 어버이나 자식이라 서로를 부르는 걸 보면… 비유가 아니라 상위 권속과 하위 권속의 관계는 부모를 따르는 자식과 동일하다. 그래서 그런 반란을 패륜이라고 받아들인다더군.",
+    "context": "EN :\nYes, like parents and their children. Considering that they even call one another with familial terms such as 'Father', 'Mother', and 'Child'... it is no mere metaphor. That is why they call such acts of revolt, going against the bloodstream... 'filial impiety'.\nJP :\nそうだ。上下で親や子と互いに呼び合うのを見ると…比喩ではなく、\n上位眷属と下位眷属の関係は親を慕う子と同一だ。\nそれでそのような反乱を不孝行と受け止めるそうだ。"
+  },
+  {
+    "key": "54-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "54-content",
+    "original": "피를 가장 중요한 가치로 생각하게 되듯이, 거스를 수 없는 가족이라는 개념도 새로 덧씌워지는 거다. 머릿속에서 도덕적 가치판단의 기준이 완전히 새롭게 정립되는 거지.",
+    "context": "EN :\nJust as how 'blood' becomes their axis of value judgment, so does this idea of the inviolable relationship between family members get imprinted into the core of their very being. Upon being turned, Bloodfiends experience that extreme level of twist in their moral judgment.\nJP :\n血が最も重要な価値を有すると考えるように、逆らえない家族という概念も\n新たに上書きされるということだ。頭の中で道徳的な\n価値判断の基準が完全に新しく確立されるというわけだ。"
+  },
+  {
+    "key": "55-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "55-content",
+    "original": "제일 아래에 있는 피주머니들도 그래서…",
+    "context": "EN :\nAnd that's why the Bloodbags, who are at the bottom rung of the family tree...\nJP :\n一番下にいる血袋たちもそれで…。"
+  },
+  {
+    "key": "56-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "56-content",
+    "original": "그들은… 다르다. 피주머니와 혈귀는 가족 같은 따스한 말을 붙일 수도 없는 관계지. ",
+    "context": "EN :\nBloodbags are... a different story. Bloodfiends and Bloodbags are the furthest two groups of beings could be from family.\nJP :\n彼らは…違う。血袋と血鬼は家族のような\n温かい言葉を付けられるような関係ではない。"
+  },
+  {
+    "key": "57-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "57-content",
+    "original": "권속이 되지 못한 찌꺼기. 피를 보충하기 위한 휴대용 식량. 딱 그 정도의 위치다.",
+    "context": "EN :\nDregs that failed to become Kindreds. To Bloodfiends, they are... quite literally, portable bags of blood to replenish themselves at times of need.\nJP :\n眷属になれなかった残りかす。\n血を補充するための携帯用食料。ただその程度の位置だ。"
+  },
+  {
+    "key": "58-model",
+    "original": "에즈라",
+    "translation": "以斯拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nEzra\nJP :\nエズラ"
+  },
+  {
+    "key": "58-content",
+    "original": "탐정님, 아니 팀장님. 그 얘기도 해주세요. 왜, 제가 그것들 모가지를 확 꺾어버린 다음에 물속에 첨벙하고…",
+    "context": "EN :\nDetective, I mean... Team Leader, you should mention this too. You know, when I snapped their necks and smashed them right into water—\nJP :\n探偵さん、いやチーフさん。あの話もしてくださいよ。\nほら、私がそいつらの首をグキッと折った後に水の中にドボンって―"
+  },
+  {
+    "key": "59-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "59-content",
+    "original": "그래, 혈귀들은 물에 대해 극도로 공포심을 가지고 있다. 실제로 물이 접촉하여 물리적인 피해를 받는 것은 아니지만, 모든 혈귀는 물을 두려워하더군.",
+    "context": "EN :\nYes. Bloodfiends have an irrationally extreme fear of water. Water doesn't physically harm them, but every Bloodfiend I have seen thus far has been afraid of it.\nJP :\nそうだ、血鬼たちは水に対して極度の恐怖心を持っている。\n実際に水が接触して物理的な被害を受けるわけではないが、\nすべての血鬼は水を恐れていたな。"
+  },
+  {
+    "key": "60-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "60-content",
+    "original": "어라? 그럼 물을 잔뜩 들고 가면 쉽게 처리할 수 있는 거 아냐?",
+    "context": "EN :\nHuh? Sounds like an easy solution, then. Can't we just spray them with water to keep 'em off our backs?\nJP :\nあれ？じゃあ水をたくさん持って行けば簡単に処理できるんじゃない？"
+  },
+  {
+    "key": "61-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "61-content",
+    "original": "물론 너희들이 곧 방문할 혈귀들만의 공간에선 물은 있지도 않겠지만.",
+    "context": "EN :\nSince you're about to visit their den that's crawling with Bloodfiends... good luck finding even a drop of water in there.\nJP :\nもちろん君たちがこれから訪れる血鬼たちだけの空間には、\n水なんて無いだろうけどな。"
+  },
+  {
+    "key": "62-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "62-content",
+    "original": "아, 그쪽에 뒤틀림을 감지할 수 있는 자가 있다고 전달받았다. 비공식적으로 들은 사항이긴 하지만.",
+    "context": "EN :\nOh, and I was informed that one of you can 'sense' a Distortion. I learned this through unofficial channels, but I still wished to share.\nJP :\nああ、そちらにねじれを感知できる者がいると伝えられた。\n非公式的に聞いた事項ではあるが。"
+  },
+  {
+    "key": "63-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "63-content",
+    "original": "<어…>",
+    "context": "EN :\n<Uh...>\nJP :\n<あ…。>"
+  },
+  {
+    "key": "64-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "64-content",
+    "original": "반갑군. 이해받을 수 있는 처지가 된다는 건 기쁜 일이지.",
+    "context": "EN :\nGlad to know there's someone else out there who understands this particular sensation.\nJP :\n会えて嬉しいよ。理解される立場になるというのは喜ばしいことだ。"
+  },
+  {
+    "key": "65-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "65-content",
+    "original": "언젠가 실제로 보게 될 날이 오면 좋겠어.",
+    "context": "EN :\nI'd very much like to meet you in person one day.\nJP :\nいつか実際に会える日が来るといいな。"
+  },
+  {
+    "key": "66-model",
+    "original": "에즈라",
+    "translation": "以斯拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nEzra\nJP :\nエズラ"
+  },
+  {
+    "key": "66-content",
+    "original": "아쉽다, 우리도 갔으면 진짜 재밌었을 텐데. 거기 해결사들은 누구누구 왔어? 아까 들으니까 그 재수 없는 까미유 놈도 간다는 것 같던데, 만나면 나 대신 뒤통수 한 대만 까주라! 그 자식, 방송하는 곳에서 한방 먹여주려고 했는데 날 차단했단 말이야!!",
+    "context": "EN :\nReal shame we can't be there to see it for ourselves. Are there any famous Fixers there? I heard earlier that stupid Camille kid'll be there too... Kick his ass for me, won't ya? I tried to pull a prank on him, but the bastard banned me from the chat!\nJP :\n残念だなぁ、私たちも行ったら本当に面白かっただろうに。そこのフィクサーたちは誰が来てるの？さっき聞いたら、あのムカつくカミーユの野郎も行くみたいだったけど、会ったら私の代わりに後頭部を一発殴っといて！あいつ、放送してるところで一発食らわせてやろうとしたのに、私のことBANしてきたんだよ！！"
+  },
+  {
+    "key": "67-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "67-content",
+    "original": "이미 우리 쪽이 까였어…",
+    "context": "EN :\nWell, he already kicked one of our asses...\nJP :\nもう、うちの方でやられてるんだよね…。"
+  },
+  {
+    "key": "68-model",
+    "original": "에즈라",
+    "translation": "以斯拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nEzra\nJP :\nエズラ"
+  },
+  {
+    "key": "68-content",
+    "original": "아, 베스파! 그거 단단히 막고 있으라고 했잖아.",
+    "context": "EN :\nOh, Vespa! Come on! I told you to hold the line!\nJP :\nあっ、ベスパ！それしっかり防いでおけって言ったでしょ。"
+  },
+  {
+    "key": "69-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "69-content",
+    "original": "저쪽도 뭔가… 심상치 않은 일을 하고 있나 보오.",
+    "context": "EN :\nIt appears that they are partaking in... quite the activity themselves.\nJP :\n向こうも何か…ただならぬことしているようなり。"
+  },
+  {
+    "key": "70-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "70-content",
+    "original": "모제스. 통신은 이쯤으로 하시죠.",
+    "context": "EN :\nI think we can end the call here, Moses.\nJP :\nモーゼス。通信はこの辺にしておきましょう。"
+  },
+  {
+    "key": "71-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "71-content",
+    "original": "그러지.",
+    "context": "EN :\nVery well.\nJP :\nそうしよう。"
+  },
+  {
+    "key": "72-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "72-content",
+    "original": "뭐 더 말해줄 거 없어?",
+    "context": "EN :\nGot any last words of advice?\nJP :\n何か他に話してくれることはない？"
+  },
+  {
+    "key": "73-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "73-content",
+    "original": "더… 흠.",
+    "context": "EN :\nAny last words...? Hm.\nJP :\n他に…ふむ。"
+  },
+  {
+    "key": "74-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "74-content",
+    "original": "상위 권속 중에는 물에 대한 공포심을 이겨낸 혈귀도 있다더군. 피는 언젠가 물보다 진해지는 법이지. 그 외에는 따로 말해줄 건…",
+    "context": "EN :\nI once heard that some Kindreds higher up the bloodstream have overcome their fear of water. Blood eventually does get thicker than water, after all. Now, let's see if there's anything I left out...\nJP :\n上位眷属の中には水に対する恐怖心を克服した血鬼もいるそうだ。\n血はいつか水よりも濃くなるものだ。他には特に話すことは…。"
+  },
+  {
+    "key": "75-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "75-content",
+    "original": "아, 이걸 말해두는 편이 좋겠군. 그들은 너희의 생각보다 피에 대해서 더욱…",
+    "context": "EN :\nAh, I must advise you against underestimating their bloodlust. Because no matter how hungry for blood you think they are…\nJP :\nあぁ、これは言っておいた方が良いだろう。\n奴らはお前たちが思っているより、血に対してかなり…。"
+  },
+  {
+    "key": "76-model",
+    "original": "모제스",
+    "translation": "摩西",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMoses\nJP :\nモーゼス"
+  },
+  {
+    "key": "76-content",
+    "original": "절실하다.",
+    "context": "EN :\nThey will be worse.\nJP :\n餓えている。"
+  },
+  {
+    "key": "77-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "77-content",
+    "original": "뭐야, 그게…",
+    "context": "EN :\nWhat's that supposed to mean...?\nJP :\nなにそれ…。"
+  },
+  {
+    "key": "78-content",
+    "original": "잘 모를 이야기와 함께, 통신은 그렇게 끝이 났다.",
+    "context": "EN :\nWith her last words, which left us wondering what they were supposed to mean, the call dropped.\nJP :\nよく分からない話と共に、通信はそうして終わった。"
+  }
+]

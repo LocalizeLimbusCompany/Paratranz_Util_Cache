@@ -1,0 +1,327 @@
+[
+  {
+    "key": "battlepass_battlepass-content",
+    "original": "배틀 패스",
+    "context": "EN :\nBattle Pass\nJP :\nバトルパス"
+  },
+  {
+    "key": "battlepass_passmission-content",
+    "original": "패스 미션",
+    "context": "EN :\nPass Missions\nJP :\nパスミッション"
+  },
+  {
+    "key": "battlepass_dailymission-content",
+    "original": "일일미션",
+    "context": "EN :\nDaily\nJP :\nデイリーミッション"
+  },
+  {
+    "key": "battlepass_weeklymission-content",
+    "original": "주간미션",
+    "context": "EN :\nWeekly\nJP :\nウィークリーミッション"
+  },
+  {
+    "key": "battlepass_seasonmission-content",
+    "original": "시즌미션",
+    "context": "EN :\nSeasonal\nJP :\nシーズンミッション"
+  },
+  {
+    "key": "battlepass_freeandpaid-content",
+    "original": "유료 {0} 무료 {1}",
+    "context": "EN :\nPaid {0} Free {1}\nJP :\n有償{0} 無償{1}"
+  },
+  {
+    "key": "battlepass_mission_tag_normal-content",
+    "original": "일반",
+    "context": "EN :\nRegular\nJP :\n一般"
+  },
+  {
+    "key": "battlepass_mission_tag_battle-content",
+    "original": "전투",
+    "context": "EN :\nCombat\nJP :\n戦闘"
+  },
+  {
+    "key": "battlepass_remain_time-content",
+    "original": "{0}일 {1}시간 남음",
+    "context": "EN :\n{0} days {1} hours left\nJP :\n残り {0}日 {1}時間"
+  },
+  {
+    "key": "battlepass_ask_purchase_limbus_pass-content",
+    "original": "림버스 패스 구매 시, {0}\n 기간 동안 다음과 같은 혜택이 제공됩니다.",
+    "context": "EN :\nPurchasing the Limbus Pass will give you the following benefits during {0}:\nJP :\nリンバスパス購入時、{0}の間\n以下の特典が提供されます。"
+  },
+  {
+    "key": "battlepass_limbus_pass_benefit_reward-content",
+    "original": "림버스 패스 보상 획득 가능",
+    "context": "EN :\nLimbus Pass Rewards Available\nJP :\nリンバスパス 報酬獲得可能"
+  },
+  {
+    "key": "battlepass_limbus_pass_benefit_ex_reward-content",
+    "original": "패스 레벨 초과 보상 강화",
+    "context": "EN :\nMax Pass Level Reward Upgraded\nJP :\nパスレベル超過 報酬強化"
+  },
+  {
+    "key": "battlepass_level_up-content",
+    "original": "패스 레벨 업",
+    "context": "EN :\nPass Level-up\nJP :\nパスレベルアップ"
+  },
+  {
+    "key": "battlepass_level_up_ask-content",
+    "original": "[유료 광기]를 소모하여 패스 레벨 업 하시겠습니까?",
+    "context": "EN :\nLevel up the Pass using [Paid Lunacy]?\nJP :\n[有償狂気]を消耗し、パスをレベルアップしますか？"
+  },
+  {
+    "key": "battlepass_level_upgrade-content",
+    "original": "패스 레벨 상승",
+    "context": "EN :\nPass Level Up\nJP :\nパスレベル上昇"
+  },
+  {
+    "key": "battlepass_level_max-content",
+    "original": "패스 <color=#f8c200>최대 레벨</color> 달성",
+    "context": "EN :\n<color=#f8c200>Max Pass Level</color> reached.\nJP :\nパス <color=#f8c200>最大レベル</color>達成"
+  },
+  {
+    "key": "battlepass_purchase_level_up_failed-content",
+    "original": "패스 레벨 구매 불가",
+    "context": "EN :\nCannot Purchase Pass Level\nJP :\nパスレベル購入不可"
+  },
+  {
+    "key": "lack_if_paid_lunacy-content",
+    "original": "유료 광기 부족",
+    "context": "EN :\nInsufficient Paid Lunacy\nJP :\n有償狂気不足"
+  },
+  {
+    "key": "remain_days_with_label-content",
+    "original": "{0}일 남음",
+    "context": "EN :\n{0}d left\nJP :\n残り {0}日"
+  },
+  {
+    "key": "remain_hours_with_label-content",
+    "original": "{0}시간 남음",
+    "context": "EN :\n{0}h left\nJP :\n残り {0}時間"
+  },
+  {
+    "key": "remain_minutes_with_label-content",
+    "original": "{0}분 남음",
+    "context": "EN :\n{0}m left\nJP :\n残り {0}分"
+  },
+  {
+    "key": "update_progress-content",
+    "original": "진행도 갱신",
+    "context": "EN :\nProgress Updated\nJP :\n進行度更新"
+  },
+  {
+    "key": "able_to_acquire_ex_pass_level_reward-content",
+    "original": "패스 레벨 초과 보상 수령 가능",
+    "context": "EN :\nEligible for Max Pass Level rewards\nJP :\nパスレベル超過報酬 受け取り可能"
+  },
+  {
+    "key": "ask_to_use_paid_lunacy_to_level_up_pass-content",
+    "original": "유료 광기 {0}개를 소모하여 패스 레벨을 구매하시겠습니까?",
+    "context": "EN :\nSpend {0} Paid Lunacy to purchase Pass Levels?\nJP :\n有償狂気{0}つを消耗し、パスレベルを購入しますか？"
+  },
+  {
+    "key": "battlepass_purchase_level_up-content",
+    "original": "패스 레벨 구매",
+    "context": "EN :\nBuy Pass Levels\nJP :\nパスレベルを購入"
+  },
+  {
+    "key": "lack_of_paid_lunacy-content",
+    "original": "유료 광기가 부족합니다.",
+    "context": "EN :\nYou don’t have enough paid Lunacy.\nJP :\n有償狂気が足りません。"
+  },
+  {
+    "key": "only_paid_lunacy_for_battlepass_levelup-content",
+    "original": "※배틀 패스 레벨 구매 시, 유료 광기 300을 소모합니다.",
+    "context": "EN :\n※ Purchasing Battle Pass Levels costs 300 Paid Lunacy.\nJP :\n※バトルパスレベルを購入時、有償狂気300を消耗します。"
+  },
+  {
+    "key": "buy_battlepass_word-content",
+    "original": "구매",
+    "context": "EN :\nBuy\nJP :\n購入"
+  },
+  {
+    "key": "battlepass_level_ex_reward-content",
+    "original": "패스 레벨 초과 보상",
+    "context": "EN :\nMax Pass Level Reward\nJP :\nパスレベル超過報酬"
+  },
+  {
+    "key": "battlepass_progress-content",
+    "original": "패스 경험치",
+    "context": "EN :\nBattle Pass XP\nJP :\nパス経験値"
+  },
+  {
+    "key": "battlepass_free-content",
+    "original": "무료",
+    "context": "EN :\nFree\nJP :\n無償"
+  },
+  {
+    "key": "battlepass_limbuspass-content",
+    "original": "림버스패스",
+    "context": "EN :\nLimbus Pass\nJP :\nリンバスパス"
+  },
+  {
+    "key": "battlepass_unable_levelup_by_level-content",
+    "original": "최대 레벨 도달",
+    "context": "EN :\nMax Level Reached\nJP :\n最大レベル 到達"
+  },
+  {
+    "key": "battlepass_reward_opened_at-content",
+    "original": "{0} 업데이트",
+    "context": "EN :\n{0} Update\nJP :\n{0} アップデート"
+  },
+  {
+    "key": "battlepass_package_purchase-content",
+    "original": "<font=\"BebasKai SDF\">LIMBUS PASS</style> 패키지",
+    "context": "EN :\n<font=\"BebasKai SDF\">LIMBUS PASS</style> Package\nJP :\n<font=\"BebasKai SDF\">LIMBUS PASS</style>パッケージ"
+  },
+  {
+    "key": "battlepass_package_desc_level-content",
+    "original": "「림버스 패키지 특별 배너」 포함 각종 보상",
+    "context": "EN :\nContains various rewards including the 「Limbus Pass Package Special Banner」\nJP :\n「リンバスパスパッケージ 特別バナー」を含む各種報酬"
+  },
+  {
+    "key": "battlepass_package_desc_banner-content",
+    "original": "+ [LIMBUS PASS] 증정",
+    "context": "EN :\n+ [LIMBUS PASS] Activation\nJP :\n+ [LIMBUS PASS] 贈呈"
+  },
+  {
+    "key": "battlepass_package_ask_purchase-content",
+    "original": "유료 광기 {0}를 소모하여 패키지를 구매하시겠습니까?",
+    "context": "EN :\nSpend {0} Paid Lunacy to purchase this Package?\nJP :\n有償狂気{0}を消耗し、パッケージを購入しますか？"
+  },
+  {
+    "key": "battlepass_package_warning-content",
+    "original": "※ 구매 즉시 사용되는 상품으로, 청약 철회가 제한되는 상품입니다.",
+    "context": "EN :\n※ This item will be immediately used upon purchase; refund may be restricted.\nJP :\n※購入すると即時使用される商品です、請約撤回が制限される商品です。"
+  },
+  {
+    "key": "battlepass_limbus_pass_benefit_ex_box_reward-content",
+    "original": "구매 시, 다음 패스 레벨 초과 보상 획득",
+    "context": "EN :\nReceive the following Max Pass Level EX Rewards upon purchase\nJP :\n購入時、次のパスレベル超過報酬を獲得"
+  },
+  {
+    "key": "battlepass_limbus_pass_benefit_ex_box_reward_count-content",
+    "original": "<size=75%>(구매 시, 현재 패스 레벨 기준으로\n시즌 {0} 자아 파편 선택 상자 <style=\"highlightConverted\">{1}</style>개 획득 가능)</size>",
+    "context": "EN :\n<size=75%>(At your Pass Level, you can obtain <style=\"highlightConverted\">{1}</style> Season {0} Nominable Egoshard Crates upon purchase)</size>\nJP :\n<size=75%>(購入時、現在のパスレベル基準で\nシーズン{0} 自我の破片セレクトボックス<style=\"highlightConverted\">{1}</style>個獲得可能)</size>"
+  },
+  {
+    "key": "battlepass_select_product_popup_title-content",
+    "original": "패스/패키지 선택",
+    "context": "EN :\nSelect Pass/Package\nJP :\nパス/パッケージ選択"
+  },
+  {
+    "key": "only_paid_lunacy_for_battlepass_levelup_with_number-content",
+    "original": "※ 패스 레벨 1 구매 시, 유료 광기 {0} 소모",
+    "context": "EN :\n※ Purchasing a Pass Level costs {0} Paid Lunacy.\nJP :\n※パスレベル1購入時、有償狂気{0}消耗"
+  },
+  {
+    "key": "battle_pass_package_button_desc-content",
+    "original": "특별 배너 포함\n각종 보상 획득",
+    "context": "EN :\nVarious Rewards\nIncluding the Special Banner\nJP :\n特別バナー同梱\n各種報酬獲得"
+  },
+  {
+    "key": "battle_pass_select_popup_package_desc-content",
+    "original": "특별 배너 포함\n각종 보상 획득",
+    "context": "EN :\nVarious Rewards\nIncluding the Special Banner\nJP :\n特別バナー同梱\n各種報酬獲得"
+  },
+  {
+    "key": "battle_pass_select_popup_limbus_desc-content",
+    "original": "◆ 림버스 패스 보상 획득 가능\n◆ 패스 레벨 초과 보상 강화",
+    "context": "EN :\n◆ Unlocks Limbus Pass Rewards\n◆ Upgrades Max Pass Level EX Rewards\nJP :\n◆ リンバスパス報酬 獲得可能\n◆ パスレベル超過報酬 強化"
+  },
+  {
+    "key": "battle_pass_package_purchase_popup_desc-content",
+    "original": "◆ 구매 즉시 패스 레벨이 10만큼 증가합니다.\n◆ 다음 구성품이 포함되어 있습니다.",
+    "context": "EN :\n◆ Gain 10 Pass Levels immediately upon purchase.\n◆ Includes the following contents.\nJP :\n◆ 購入するとパスレベルが即10増加します。\n◆ 以下のアイテムが含まれています。"
+  },
+  {
+    "key": "battle_pass_limbus_purchase_popup_desc-content",
+    "original": "◆ 림버스 패스에 포함된 각종 보상을 획득할 수 있습니다.\n◆ 패스 레벨 초과 보상으로 획득할 수 있는 시즌 3 자아 파편 선택 상자의 수량이 1개에서 3개로 증가합니다.",
+    "context": "EN :\n◆ Receive various rewards from the Limbus Pass.\n◆ Receive 3 [Season 3] Nominable Egoshard Crates instead of 1 from the Max Pass Level EX Rewards.\nJP :\n◆ リンバスパスに含まれる各種報酬を獲得できます。\n◆ パスレベル超過報酬で獲得できるシーズン3 自我の破片セレクトボックスの数量が1から3つに増加します。"
+  },
+  {
+    "key": "battle_pass_package_button_desc_with_limbus-content",
+    "original": "특별 배너 포함\n각종 보상 획득\n+[LIMBUS PASS] 증정",
+    "context": "EN :\nVarious Rewards\nIncluding the Special Banner\n+ [LIMBUS PASS]\nJP :\n特別バナー同梱\n各種報酬獲得\n+ [LIMBUS PASS] 贈呈"
+  },
+  {
+    "key": "battle_pass_package_purchase_popup_desc_in_box-content",
+    "original": "- 림버스 패키지 특별 배너\n- 인격 특수 강화 티켓 IV",
+    "context": "EN :\n- Limbus Pass Package Special Banner\n- Level Boost Ticket IV\nJP :\n- リンバスパッケージ 特別バナー\n- 人格特殊強化チケット IV"
+  },
+  {
+    "key": "until_season_4_start-content",
+    "original": "~ 시즌 4 업데이트 전까지",
+    "context": "EN :\n~ Until Season 4 Update\nJP :\n~ シーズン4アップデート前まで"
+  },
+  {
+    "key": "until_season_5_start-content",
+    "original": "시즌 6 업데이트 전까지",
+    "context": "EN :\nUntil Season 6 Update\nJP :\nシーズン6アップデート前まで"
+  },
+  {
+    "key": "battlepass_ask_purchase_limbus_pass_package-content",
+    "original": "림버스 패스 패키지 구매 시,\n{0}기간 동안 다음과 같은 혜택이 제공됩니다.",
+    "context": "EN :\nPurchasing the Limbus Pass Package will\ngive you the following benefits during {0}:\nJP :\nリンバスパスパッケージ購入時、\n{0}の間以下の特典が提供されます。"
+  },
+  {
+    "key": "battlepass_purchase_desc_pass-content",
+    "original": "림버스 패스에 포함된 각종 보상 획득 가능",
+    "context": "EN :\nVarious rewards included in the Limbus Pass\nJP :\nリンバスパスに含まれる各種報酬獲得可能"
+  },
+  {
+    "key": "battlepass_purchase_desc_ex-content",
+    "original": "패스 레벨 초과 보상으로 획득할 수 있는 시즌 5 자아 파편 선택 상자의 수량이 <style=\"highlightConverted\">{0}</style>개에서 <style=\"highlightConverted\">{1}</style>개로 증가",
+    "context": "EN :\nReceive <style=\"highlightConverted\">{1}</style> Season 5 Nominable Egoshard Crates from Max Pass Level+ Rewards instead of <style=\"highlightConverted\">{0}</style>\nJP :\nパスレベル超過報酬で獲得できるシーズン5自我の破片セレクトボックスの数量が<style=\"highlightConverted\">{0}</style>個から<style=\"highlightConverted\">{1}</style>個に増加"
+  },
+  {
+    "key": "battlepass_purchase_desc_pass_level-content",
+    "original": "구매 즉시 패스 레벨 10 증가",
+    "context": "EN :\nImmediately gain 10 Pass Levels upon purchase\nJP :\n購入で即時パスレベルが10増加"
+  },
+  {
+    "key": "battlepass_purchase_desc_level_ticket-content",
+    "original": "인격 특수 강화 티켓 V",
+    "context": "EN :\nLevel Boost Ticket V\nJP :\n人格特殊強化チケットV"
+  },
+  {
+    "key": "battlepass_purchase_desc_special_banner-content",
+    "original": "림버스 패키지 특별 배너",
+    "context": "EN :\nLimbus Pass Package Special Banner\nJP :\nリンバスパッケージ特別バナー"
+  },
+  {
+    "key": "battlepass_purchase_desc_policy-content",
+    "original": "※ 구매 즉시 사용되는 상품으로, 청약 철회가 제한되는 상품입니다.\n\n※ 배틀 패스는 [시즌 시작일로부터 최소 90일 이상의 기간]이 보장됩니다.\n배틀 패스 이용 종료일의 정확한 날짜는 [다음 시즌을 안내하는 공지 사항이 공개되는 시점]에 공지 사항을 통해 안내해 드립니다.\n배틀 패스 구매 일자는 이용할 수 있는 일수에 영향을 주지 않으니, 이 점을 유의하여 구매 과정에서 반드시 참고해 주시길 바랍니다.",
+    "context": "EN :\n※ This item will be used immediately upon purchase; refund will be restricted.\n\n※ The Battle Pass is guaranteed to last [at least 90 days from the start of the Season].\nThe exact end date of the Battle Pass will be notified when the next [Guide for the upcoming Season] is posted.\nPlease note that your Battle Pass purchase date has no effect on the active duration of the Battle Pass.\nJP :\n※ 購入すると即時使用される商品で、請約撤回が制限されます。\n\n※ バトルパスは[シーズン開始日から最低90日以上の期間]が保証されます。\nバトルパス利用終了日の正確な日付は、[次のシーズンを案内する告知が公開される時点]で、告知よりご案内いたします。\nバトルパスの購入日は利用可能日数に影響を与えませんので、この点に留意しつつ購入の際はお気を付けください。"
+  },
+  {
+    "key": "owned_count-content",
+    "original": "소지 {0}",
+    "context": "EN :\n{0} Owned\nJP :\n所持 {0}"
+  },
+  {
+    "key": "battle_pass_package_button_desc_with_limbus_2-content",
+    "original": "◆ 구매 즉시 패스 LV 10 상승\n◆ 추가 특별 배너 2종 증정\n◆ 인격 특수 강화 티켓 V",
+    "context": "EN :\n◆ Immediately gain 10 Pass LV upon purchase\n◆ Receive 2 Special Banners\n◆ Level Boost Ticket V\nJP :\n◆ 購入時にパスLV10 即時上昇\n◆ 追加特別バナー2種進呈\n◆ 人格特殊強化チケットV"
+  },
+  {
+    "key": "battle_pass_product_limbus_desc_summary-content",
+    "original": "◆ 림버스 패스 보상 획득 가능\n◆ 패스 레벨 초과 보상 강화",
+    "context": "EN :\n◆ Unlocks Limbus Pass Rewards\n◆ Upgrades Max Pass Level EX Rewards\nJP :\n◆ リンバスパス報酬 獲得可能\n◆ パスレベル超過報酬 強化"
+  },
+  {
+    "key": "battle_pass_product_package_with_limbus_desc_summary-content",
+    "original": "◆ 시즌 5 림버스 패스\n◆ 구매 즉시 패스 레벨 10 상승\n◆ 인격 특수 강화 티켓 V\n◆ 림버스 패키지 특별 배너 2종",
+    "context": "EN :\n◆ Season 5 Limbus Pass\n◆ Immediately gain 10 Pass LV upon purchase\n◆ Level Boost Ticket V\n◆ Limbus Package Special Banner x2\nJP :\n◆ シーズン5 リンバスパス\n◆ 購入時にパスLV10 即時上昇\n◆ 人格特殊強化チケットV\n◆ リンバスパッケージ特別バナー2種"
+  },
+  {
+    "key": "battle_pass_product_package_without_limbus_desc_summary-content",
+    "original": "◆ 구매 즉시 패스 레벨 10 상승\n◆ 인격 특수 강화 티켓 V\n◆ 림버스 패키지 특별 배너 2종",
+    "context": "EN :\n◆ Immediately gain 10 Pass LV upon purchase\n◆ Level Boost Ticket V\n◆ Limbus Package Special Banner x2\nJP :\n◆ 購入時にパスLV10 即時上昇\n◆ 人格特殊強化チケットV\n◆ リンバスパッケージ特別バナー2種"
+  },
+  {
+    "key": "battle_pass_sale_10-content",
+    "original": "기존 대비 10% 할인",
+    "context": "EN :\n10% Discount\nJP :\n従来比10%割引"
+  }
+]

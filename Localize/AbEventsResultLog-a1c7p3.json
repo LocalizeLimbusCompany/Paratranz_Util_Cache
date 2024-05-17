@@ -1,0 +1,37 @@
+[
+  {
+    "key": "837901-content",
+    "original": "<color=#ebcaa2>모든 수감자</color>가 <color=#fe4b48>{0}만큼 정신력 피해</color>",
+    "context": "EN :\n<color=#ebcaa2>All Sinners</color> <color=#fe4b48>take {0} SP damage</color>\nJP :\n<color=#ebcaa2>全囚人</color>が<color=#fe4b48>{0}の精神力ダメージ</color>"
+  },
+  {
+    "key": "837902_1-content",
+    "original": "<color=#ebcaa2>[{0}] 수감자</color>가 <color=#e30000>{1}만큼 체력 피해</color>, <color=#80c9ff>{2}만큼 정신력 회복</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>takes {1} HP damage</color>, and <color=#80c9ff>heals {2} SP</color>\nJP :\n<color=#ebcaa2>囚人[{0}]</color>が<color=#e30000>{1}の体力ダメージ</color>、<color=#80c9ff>{2}精神力を回復</color>"
+  },
+  {
+    "key": "837902_2-content",
+    "original": "<color=#ebcaa2>[{0}]</color>가 매턴 %[{1}] {2}/% 얻음",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> gains %{2} [{1}]/% every turn\nJP :\n<color=#ebcaa2>[{0}]</color>が毎ターン%[{1}] {2}/% 獲得"
+  },
+  {
+    "key": "837601_success_1_1-content",
+    "original": "장미 사냥꾼 <color=#e30000>공격 레벨 감소 3, 방어 레벨 감소 3</color> 얻음",
+    "context": "EN :\nThe Rose Hunter gains <color=#e30000>3 Offense Level Down and 3 Defense Level Down</color>\nJP :\n薔薇の狩人 <color=#e30000>攻撃レベル減少3, 防御レベル減少3</color> 獲得"
+  },
+  {
+    "key": "837601_success_1_2-content",
+    "original": "장미 사냥꾼 <color=#e30000>공격 레벨 감소 3, 방어 레벨 감소 3</color> 얻음",
+    "context": "EN :\nThe Rose Hunter gains <color=#e30000>3 Offense Level Down and 3 Defense Level Down</color>\nJP :\n薔薇の狩人 <color=#e30000>攻撃レベル減少3, 防御レベル減少3</color> 獲得"
+  },
+  {
+    "key": "837601_failure_1_1-content",
+    "original": "{0} 수감자 <color=#e30000>최대 체력의 15%만큼 피해</color> 입음",
+    "context": "EN :\n{0} takes <color=#e30000>damage equal to 15% of their max HP</color>\nJP :\n囚人{0} <color=#e30000>体力最大値の15%分ダメージを</color>受ける"
+  },
+  {
+    "key": "837601_failure_1_2-content",
+    "original": "장미 사냥꾼 <color=#f8c200>공격 레벨 증가 3, 방어 레벨 증가 3</color> 얻음",
+    "context": "EN :\nThe Rose Hunter gains <color=#f8c200>3 Offense Level Up and 3 Defense Level Up</color>\nJP :\n薔薇の狩人 <color=#f8c200>攻撃レベル増加3, 防御レベル増加3</color> 獲得"
+  }
+]

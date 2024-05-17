@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10505_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10505_1-dlg",
+    "original": "음… 새로운 업무는 좌측에… 아, 호출이시군요.",
+    "context": "EN :\nHm… You can place new assignments on the left— Ah, you called for me.\nJP :\nうむ…新しい業務は左側へ…あぁ、呼び出しですね。"
+  },
+  {
+    "key": "lobby_morning_10505_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10505_1-dlg",
+    "original": "…아침… 입니까? 이상하군요. 아직 퇴근을 누르지 않았는데.",
+    "context": "EN :\n…Is it… morning? C’est étrange. I do not remember clocking out.\nJP :\n…朝…ですか？変ですね。まだ退勤ボタンを押してないのですが。"
+  },
+  {
+    "key": "lobby_noon_10505_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10505_1-dlg",
+    "original": "잠시… 눈 붙이겠습니다. 점심 식사는 먼저… 하십시오…",
+    "context": "EN :\nAllow me… to nap for a moment. You can… have your lunch first…\nJP :\nしばらく…目を閉じさせていただきます。昼食は先にお摂り…ください…。"
+  },
+  {
+    "key": "lobby_night_10505_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10505_1-dlg",
+    "original": "야간은 보통 외근입니다. 아, 저는 아까 눈을 붙여두어 괜찮습니다.",
+    "context": "EN :\nMy evenings are mostly occupied with outdoor assignments. Ah, I had my rest earlier today, so it’s fine.\nJP :\n夜間は通常外勤です。あぁ、私は先程目を閉じていたので問題ございません。"
+  },
+  {
+    "key": "smalltalk_10505_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10505_1-dlg",
+    "original": "말씀하신 작업은 처리해 두었습니다. 총 네 분의 일감이 남아있어서, 다음 요청이 있으시다면 그 후에… 가능합니다.",
+    "context": "EN :\nI have taken care of the task you told me. I currently have assignments from four people, so if you have another request to make… It will have to wait until I’m done with these.\nJP :\nおっしゃった作業は処理しておきました。計四名の仕事が残っておりますので、次の要請がありましたらそのあとで…可能です。"
+  },
+  {
+    "key": "smalltalk_10505_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10505_2-dlg",
+    "original": "퇴근… 하지 않은 지 조금 오래되었군요. 하지만, 부탁하신 일이 끝나지 않았으니 어쩔 수 없습니다.",
+    "context": "EN :\nIt has… been quite some time since I clocked out last. However, I cannot leave while the work I’ve been entrusted with isn’t done.\nJP :\n退勤…しなくなってからかなり経ちましたね。しかし、ご依頼なさいました仕事が終わっておりませんので、どうしようもありません。"
+  },
+  {
+    "key": "smalltalk_10505_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10505_3-dlg",
+    "original": "이 음료… 말입니까. 아뇨, 그다지 좋아하지는 않습니다. 피로를 단시간에 풀 수 있는 방법이 이것밖에 없을 뿐입니다.",
+    "context": "EN :\nYou’re… curious about this drink, I see. No, it’s not my preference. It simply is the only method I have to relieve exhaustion quickly.\nJP :\nこの飲み物…ですか。いいえ、あまり好んではおりません。疲労を短時間で取ることのできる方法が、これしかないだけです。"
+  },
+  {
+    "key": "smalltalk_10505_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10505_4-dlg",
+    "original": "일감을… 대신 처리해 주신다는 말씀이십니까?\n잘 이해가 되지 않는군요. 이것은 제게 맡겨진 일입니다. 나눌 필요는 없습니다.",
+    "context": "EN :\nYou’ll… do some of my work for me?\nI do not understand. These assignments are my responsibility. There is no need to share my burden.\nJP :\n仕事を…代わりに片付けてくださるということですか？\nあまり理解が出来ませんね。これは私に任された仕事です。分ける必要はありません。"
+  },
+  {
+    "key": "smalltalk_10505_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10505_5-dlg",
+    "original": "처음부터 이렇게 일이 많지는 않았습니다. 다만, 다른 분들이 일을 맡기셨고, 저는 그걸 할 수 있었을 뿐입니다.",
+    "context": "EN :\nThe workload wasn’t always this heavy. When others left their work to me, I simply proved capable of handling it.\nJP :\n最初からこれほど仕事が多いわけではありませんでした。しかし、他の方々から仕事を任され、私がそれを処理することができただけです。"
+  },
+  {
+    "key": "neglect_10505_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10505_1-dlg",
+    "original": "……. (조금 코고는 소리)",
+    "context": "EN :\n……\n(He’s snoring softly)\nJP :\n……。(小さないびき)"
+  },
+  {
+    "key": "gacksung_10505_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10505_1-dlg",
+    "original": "음. 연봉 인상입니까. 알겠습니다. 그럼 저는 남은 일을 끝내야 해서…",
+    "context": "EN :\nHm. You’re giving me a raise. Entendu. Pardon me then, as I have tasks to take care of…\nJP :\nふむ。年俸増額ですか。分かりました。それでは私は残った仕事を終えねばならないので…。"
+  },
+  {
+    "key": "formation_10505_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10505_1-dlg",
+    "original": "제가 필요하시군요.",
+    "context": "EN :\nI see you need me.\nJP :\n私が必要なのですね。"
+  },
+  {
+    "key": "battleentry_10505_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10505_1-dlg",
+    "original": "외근, 시작합니다.",
+    "context": "EN :\nEngaging in external assignment.\nJP :\n外勤、開始します。"
+  },
+  {
+    "key": "battle_select_10505_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10505_1-dlg",
+    "original": "요청이라도 있으십니까.",
+    "context": "EN :\nI presume you have a request.\nJP :\nご要請ですか？"
+  },
+  {
+    "key": "battle_endcommand_10505_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10505_1-dlg",
+    "original": "그렇게 하죠.",
+    "context": "EN :\nEntendu, will do.\nJP :\nそうしましょう。"
+  },
+  {
+    "key": "battle_enemy_break_10505_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10505_1-dlg",
+    "original": "일이 끝나갈 조짐이 보이는군요.",
+    "context": "EN :\nThe assignment is steadily approaching completion.\nJP :\n仕事が終わりゆく兆しが見えますね。"
+  },
+  {
+    "key": "battle_break_10505_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10505_1-dlg",
+    "original": "헉.",
+    "context": "EN :\nGasp.\nJP :\nはっ。"
+  },
+  {
+    "key": "battle_kill_10505_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10505_1-dlg",
+    "original": "하나 마무리했습니다.",
+    "context": "EN :\nOne has been taken care of.\nJP :\n一つ片付けました。"
+  },
+  {
+    "key": "battle_dead_10505_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10505_1-dlg",
+    "original": "아… 잠시… 쉬겠습니다…",
+    "context": "EN :\nAh… Allow me… to rest for a moment…\nJP :\nあぁ…少し…休みます…。"
+  },
+  {
+    "key": "choice_success_p_10505_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10505_2-dlg",
+    "original": "정시 퇴근… 가능할 것 같군요.",
+    "context": "EN :\nIt appears I… will be able to leave work on time.\nJP :\n定時退社…出来そうですね。"
+  },
+  {
+    "key": "choice_fail_n_10505_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10505_1-dlg",
+    "original": "야근은 확정… 이군요.",
+    "context": "EN :\nThat has confirmed that I… will have overtime.\nJP :\n残業は確定…ですね。"
+  },
+  {
+    "key": "battle_clear_10505_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10505_1-dlg",
+    "original": "완료했습니다. 사무소로 돌아가겠습니다.",
+    "context": "EN :\nAssignment complete. I’ll be returning to the office.\nJP :\n完了しました。事務所へと帰還します。"
+  },
+  {
+    "key": "battle_clear_ex_10505_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10505_1-dlg",
+    "original": "완료했습니다. …현장 퇴근 말씀이십니까. 알겠습니다. 후우…",
+    "context": "EN :\nAssignment complete. …You mean that I can go home today. Entendu. Ouf…\nJP :\n完了しました。…直帰ですか。承知しました。ふぅ…。"
+  },
+  {
+    "key": "battle_defeat_10505_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10505_1-dlg",
+    "original": "일이… 꼬였군요.",
+    "context": "EN :\nThings… have gotten complicated.\nJP :\n予定が…狂いましたね。"
+  }
+]

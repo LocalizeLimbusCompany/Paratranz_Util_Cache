@@ -1,0 +1,107 @@
+[
+  {
+    "key": "806301-levelList$[0].name",
+    "original": "마구 마구 찍기",
+    "context": "EN :\nBrutal Pummelling\nJP :\n乱々突き"
+  },
+  {
+    "key": "806301-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nJP :\n[OnSucceedAttack] 破裂 2を付与"
+  },
+  {
+    "key": "806301-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nJP :\n[OnSucceedAttack] 破裂 2を付与"
+  },
+  {
+    "key": "806301-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nJP :\n[OnSucceedAttack] 破裂 2を付与"
+  },
+  {
+    "key": "806302-levelList$[0].name",
+    "original": "세게! 찍기",
+    "context": "EN :\nPowerful! Pummel\nJP :\n強く！突く"
+  },
+  {
+    "key": "806302-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 4 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +4 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が4増加"
+  },
+  {
+    "key": "806303-levelList$[0].name",
+    "original": "게거품",
+    "context": "EN :\nFoaming\nJP :\n蟹の泡"
+  },
+  {
+    "key": "806303-levelList$[0].desc",
+    "original": "[CantIdentify]",
+    "context": "EN :\n[CantIdentify]\nJP :\n[CantIdentify]"
+  },
+  {
+    "key": "806303-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 5 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +5 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が5増加"
+  },
+  {
+    "key": "806303-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 5 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +5 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が5増加"
+  },
+  {
+    "key": "806304-levelList$[0].name",
+    "original": "등딱지 어택!!!",
+    "context": "EN :\nShell Attack!!!\nJP :\n甲羅アタック！！！"
+  },
+  {
+    "key": "806304-levelList$[0].desc",
+    "original": "[CantIdentify]\n대상의 파열 횟수 5마다 피해량 +20%",
+    "context": "EN :\n[CantIdentify] \nDeal +20% damage per 5 Rupture Count on target\nJP :\n[CantIdentify]\n対象の破裂 回数5につき、ダメージ量 +20%"
+  },
+  {
+    "key": "806304-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Rupture\nJP :\n[OnSucceedAttack] 破裂 5を付与"
+  },
+  {
+    "key": "806304-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 5 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +5 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が5増加"
+  },
+  {
+    "key": "806305-levelList$[0].name",
+    "original": "게판 벌이기",
+    "context": "EN :\nCrab Rave\nJP :\nかーにバル"
+  },
+  {
+    "key": "806305-levelList$[0].desc",
+    "original": "[CantIdentify]\n대상의 파열 횟수 5마다 피해량 +20%\n[EndSkill] 턴 종료 시 자신 제외 5마리 이하인 경우, 게 3마리를 불러옴 (최대 5마리)",
+    "context": "EN :\n[CantIdentify] Damage +20% per 5 Rupture Count on Target\n[EndSkill] Summon 3 Crabs if there are less than 5 other Crabs on field at the end of the turn (Max 5)\nJP :\n[CantIdentify]\n対象の破裂 回数5につき、ダメージ量 +20%\n[EndSkill] ターン終了時、自分を除いて5匹以下なら蟹を3匹呼ぶ(最大5匹)"
+  },
+  {
+    "key": "806305-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Rupture\nJP :\n[OnSucceedAttack] 破裂 5を付与"
+  },
+  {
+    "key": "806306-levelList$[0].name",
+    "original": "거품 두르기",
+    "context": "EN :\nFoam Armor\nJP :\n泡をまとう"
+  },
+  {
+    "key": "806306-levelList$[0].desc",
+    "original": "[StartBattle] 보호막 체력이 있는 상태에서 피격시 피해 7 반사.\n파열 1 부여",
+    "context": "EN :\n[StartBattle] When attacked while this unit has Shield HP, deal 7 damage back to the attacker, and inflict 1 Rupture\nJP :\n[StartBattle] 体力バリアがある状態で被ダメージ時、ダメージを7反射。\n破裂 を1付与"
+  },
+  {
+    "key": "806307-levelList$[0].name",
+    "original": "거품 두르기",
+    "context": "EN :\nFoam Armor\nJP :\n泡をまとう"
+  },
+  {
+    "key": "806307-levelList$[0].desc",
+    "original": "[StartBattle] 보호막 체력이 있는 상태에서 피격시 피해 7 반사.\n파열 1 부여",
+    "context": "EN :\n[StartBattle] When attacked while this unit has Shield HP, deal 7 damage back to the attacker, and inflict 1 Rupture\nJP :\n[StartBattle] 体力バリアがある状態で被ダメージ時、ダメージを7反射。\n破裂 を1付与"
+  }
+]

@@ -1,0 +1,1374 @@
+[
+  {
+    "key": "0-place",
+    "original": "T사 골목 어딘가",
+    "context": "EN :\nAlleyways of T Corp.\nJP :\nT社の路地 どこか"
+  },
+  {
+    "key": "0-model",
+    "original": "유로지비멤버1",
+    "translation": "准备逃跑的活动成员",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "0-teller",
+    "original": "계획적인 활동단원",
+    "context": "EN :\nMeticulous Activist\nJP :\n計画的な活動団員"
+  },
+  {
+    "key": "0-title",
+    "original": "20구 유로지비",
+    "context": "EN :\nDistrict 20 Yurodivy\nJP :\n20区 ユロージヴィ"
+  },
+  {
+    "key": "0-content",
+    "original": "쳇, 후퇴다! ",
+    "context": "EN :\nTsk, retreat!\nJP :\nチッ、撤退だ！"
+  },
+  {
+    "key": "1-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "1-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "1-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "1-content",
+    "original": "이봐, 참가상.",
+    "context": "EN :\nHey, participation trophy.\nJP :\nおい、参加賞。"
+  },
+  {
+    "key": "2-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "2-content",
+    "original": "<참가상…? 설마 나 말하는 거야?>",
+    "context": "EN :\n<Participation... trophy...? Is he talking to me?>\nJP :\n<参加賞…？もしかして私のこと？>"
+  },
+  {
+    "key": "3-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "3-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "3-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "3-content",
+    "original": "아까 그거 어떻게 했던 거야? 똑딱똑딱하더니 다친 친구들의 시간을 돌려 놓았잖아. 그런 식으로 시간을 돌리는 기술은 살면서 한 번도 본 적 없거든. ",
+    "context": "EN :\nHow on earth did you do that earlier? Tick-tock tick-tock and voilà, it seemed to me that you rewound the time and un-wounded your friends. I've never seen a tech that could rewind time like that.\nJP :\nさっきのアレどうやったんだ？カチコチやったら\n傷付いたお友達の時間が巻き戻ったじゃないか。\nそんな風に時間を回す技術は生まれてこの方見たことがなくてな。"
+  },
+  {
+    "key": "4-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "4-content",
+    "original": "<그건…>",
+    "context": "EN :\n<Well, that's...>\nJP :\n<それは…。>"
+  },
+  {
+    "key": "5-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "5-content",
+    "original": "영업 비밀. 알면 다쳐. ",
+    "context": "EN :\nTrade secret. Ask and you shall receive... pain.\nJP :\n営業秘密。知れば怪我する。"
+  },
+  {
+    "key": "6-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "6-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "6-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "6-content",
+    "original": "신기하네… 너희는 시간이 무섭지 않아? ",
+    "context": "EN :\nFascinating... Aren't you terrified of 'time'?\nJP :\n不思議だな…お前たちは時間が怖くないのか？"
+  },
+  {
+    "key": "7-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "7-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "7-content",
+    "original": "격리되지 않은 공간에서 한 개체의 시간을 따로 되돌리는 방법 같은 건 없어. 그게 아니라면 내 탐구가 부진했거나. 아냐, 그럼 정말 심각한 문제인데, 난 꽤 절실한 축에 속했으니까.",
+    "context": "EN :\nAs far as I am aware, there is practically no way to 'rewind' time for a singular entity that exists in an open, unenclosed area. Either that, or my study didn't reach as far as I thought it did. Wait, no. That's actually a very serious problem, then. I was very desperate, you know. It's very unlikely that I missed anything.\nJP :\n隔離されていない空間で一個体の時間を別途巻き戻す方法なんてない。\nそうじゃなきゃ私の探求が不振だったか。いや、それなら本当に\n深刻な問題だ、私はかなり切実にやってる方に属してたからな。"
+  },
+  {
+    "key": "8-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "8-content",
+    "original": "이런 상황에서 한가하게 대화를 나누는 게 더 심각하거든? 빨리 쫓아가자, 단테!",
+    "context": "EN :\nYa know what else is a serious problem? The fact that we're wasting our time chatting about inane stuff while they're all getting away! C'mon, Dante!\nJP :\nこんな状況で暢気に会話してる方がよっぽど深刻だと思うけど？\n早く追いかけよう、ダンテ！"
+  },
+  {
+    "key": "9-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "9-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "9-content",
+    "original": "잠깐 기다려봐, 한가하다니! 이건 진짜 심각한 이야기라고… 저런 불순분자 몇을 붙잡는 게 문제가 아냐. 음, 아직 머리에서 찾아오지 않는 걸 보면 생명 부활은 아닐 테니, 역시 시간을 건드리는 방식일 텐데…",
+    "context": "EN :\nHold on, 'inane stuff'? This is extremely serious! Its importance is absolutely incomparable to what amounts to arresting a few small-fry revolutionaries. Mm... if it was a true resurrection, then the Head would've been after your heads already, so I doubt that's what this is. Then it must have something to do with time manipulation, I'm certain of it...\nJP :\n少し待ってくれよ、暢気だなんて！これは本当に深刻なことだよ…。あんな不純分子\n数人を捕まえるのは問題なんかではない。うむ、まだ頭から派遣されてないってことは\n生命復活では無いだろうから、やっぱり時間に抵触する方法だろうけど…。"
+  },
+  {
+    "key": "10-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "10-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "10-content",
+    "original": "TT2 프로토콜처럼… 은 아니겠네. 그건 격리된 공간에나 가능한 거지 개별적으로 적용할 수 있는 기술이 아니니까. ",
+    "context": "EN :\nMaybe it works with the same mechanisms as the TT2 Protocol under the hood—nope, that works only within an isolated enclosure; it can't rewind the time of a singular individual.\nJP :\nTT2プロトコルのように…ではなさそうか。\nあれは隔離された空間にのみ可能であって、個別適用できる技術ではないからな。"
+  },
+  {
+    "key": "11-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "11-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "11-content",
+    "original": "그럼 어딘가에서 끌어온 시간을 주입시키는 건가? 음… 응, 그나마 그럴 듯해. 애초에 되돌리는 방식이면 살아나는 모습이 그런 식으로 보여질 리도 없고. 역시 너도 시간을 되돌리거나 건너뛸 수는 없는 거야. 그치?",
+    "context": "EN :\nPerhaps they are drawing time from elsewhere to inject it into their timestreams? Mm... ah, that seems a tad more plausible. If you're actually 'rewinding' their time, then the visual elements of that process would manifest in a vastly different manner. I suppose this means that you can't really 'rewind' or 'skip' time either, am I right?\nJP :\nそれなら、どこかから引っ張ってきた時間を注入させるのか？うーん…うん、まだあり得そうだ。そもそも巻き戻す方法だとすると、生き返る姿があんな風に見えるはずもないし。 やっぱり君も時間を戻したり飛ばしたりはできないんだろう。ねっ？"
+  },
+  {
+    "key": "12-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "12-content",
+    "original": "<알아들을 수 없는 말만 잔뜩 다다닥하고서 맞냐고 물어도…>",
+    "context": "EN :\n<You can't just say all that gibberish and expect me to be able to—>\nJP :\n<理解できない言葉をわんさか並べといて合ってるかって聞かれても―>"
+  },
+  {
+    "key": "13-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "13-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "13-content",
+    "original": "그리고 꽤 고통스러운 기색이던데… 쩝, 다행이라고 하긴 좀 그렇지만, 너한테 희소식이 하나 있어. 원래는 뒷골목 같은 위험 지역에 갈 때 설명해주려고 했는데… 좀 늦었지만 배지 뒤쪽에 있는 작은 태엽을 돌려볼래?",
+    "context": "EN :\nThe process also seemed to involve a great degree of pain... Oh well. It seems to be in bad taste to say that it's good news, but I suppose I can say that what I'm about to tell you is somewhat auspicious. I was going to get into the nitty-gritty only if we had to venture into one of the more dangerous places like the Backstreets, but here we go. Check the other side of your badges; there should be a small clockwork knob attached to your badges in there. Mind rotating it for me?\nJP :\nそれに結構苦しそうだったが…。まぁ、幸いと言うには微妙だけど、君に良い知らせが一つある。本来は裏路地みたいな危険地域に行くときに説明しようと思ったんだけど…少し遅くなってしまったな。バッジの裏にある小さなぜんまいを回してみてくれないか？"
+  },
+  {
+    "key": "14-content",
+    "original": "내가 무슨 반응을 하든 말든 쉴새없이 주절거리던 직원은, 우리가 착용한 배지를 가리켰다. ",
+    "context": "EN :\nThe Class 5 Staff jabbered on endlessly, zapping between numerous subjects within matter of seconds, before reaching out and pointing at the badges we were wearing.\nJP :\n私がどんな反応をしようがしまいが\n絶え間なくブツブツ呟いていた職員は、私たちが着用しているバッジを指した。"
+  },
+  {
+    "key": "15-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "15-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "15-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "15-content",
+    "original": "탐정 의뢰를 맡아준 해결사가 항상 제 몸을 지킬 만큼 강하진 않거든. 그래서 특별 수사관 배지는 T사의 고등급 직원 슈트에 장착된 것과 비슷한 기능이 있어.",
+    "context": "EN :\nNot all Fixers specializing in investigations are strong enough to defend themselves in emergencies. That is why these Special Investigator Badges are all equipped with the same special function that goes into suits that higher-ranking staff members of T Corp wear.\nJP :\n探偵依頼を任せたフィクサーが、自分の身を守れるほど強くないこともある。\nだから特別捜査官バッジにはT社の高ランク職員スーツに\n装着されたものと似た機能があるのさ。"
+  },
+  {
+    "key": "16-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "16-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "16-content",
+    "original": "기능의 이름은 골든타임. 태엽을 감아두면, 착용자가 죽을 것 같은 상황에 처했을 때, 신체의 회복 시간을 최대로 가속해줘. 네가 한 것보다야 하찮지만, 그래도 굉장하지?",
+    "context": "EN :\nIt's called 'Golden Time'. If you keep the clockwork wound, it will automatically speed up the body's natural regeneration process as soon as it detects that its wearer is at risk of death. It's nothing compared to what you're capable of... but it's quite something, isn't it?\nJP :\n機能の名前はゴールデンタイム。ぜんまいを巻けば着用者が\n死にそうな状況に陥ったとき、身体の回復時間を最大にまで加速してくれるのさ。\n君がやってたのよりはつまらないものだが、それでも凄いだろ？"
+  },
+  {
+    "key": "17-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "17-content",
+    "original": "<그러니까… 내가 직접 시계를 되감지 않아도 된다는 건가?>",
+    "context": "EN :\n<So... I don't actually have to turn the clock myself?>\nJP :\n<だから…私が時計を巻き戻さなくても良いってこと？>"
+  },
+  {
+    "key": "18-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "18-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "18-content",
+    "original": "물론 한 번 쓰고 나면, 다음에 쓸 때까지 시간이 좀 걸리니까, 그때는 참가상, 네가 아픈 걸 참고 살려주면 되는 거지.",
+    "context": "EN :\nOf course, it takes some time for it to refill once its charge is spent. If you ever run out of its uses, then... I suppose it all comes down to you, participation trophy! You'll have to take one for the team and bring them all back yourself.\nJP :\n勿論、一度使うとまた使えるようになるまで時間が少し掛かるから\nそのときは参加賞、君が痛みに耐えながら生き返らせればいいんだ。"
+  },
+  {
+    "key": "19-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "19-content",
+    "original": "우리가 상처 입고 피 흘리기 전에 뭘 조치해줄 생각은 없다… 이거지? 허.",
+    "context": "EN :\nYou're willing to do that, but not willing to help us before we get torn to shreds, huh?\nJP :\n私たちが傷付いて血を流すまで\n措置を講じるつもりはない…ってことだよね？はっ。"
+  },
+  {
+    "key": "20-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "20-content",
+    "original": "오히려… 좋지. 후.",
+    "context": "EN :\nI... prefer that. Good. Hoo.\nJP :\nむしろ…良いな。ふぅ。"
+  },
+  {
+    "key": "21-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "21-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "21-content",
+    "original": "자, 그럼 쫓아가볼까?",
+    "context": "EN :\nReady? Let's go after them, then!\nJP :\nじゃあ、追いかけるとするか！"
+  },
+  {
+    "key": "22-content",
+    "original": "잠시 후…",
+    "context": "EN :\nSome time later...\nJP :\nしばらくして…。"
+  },
+  {
+    "key": "23-place",
+    "original": "음습한 T사 골목",
+    "context": "EN :\nDark Alleyways of T Corp.\nJP :\n薄暗いT社の路地"
+  },
+  {
+    "key": "23-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "23-content",
+    "original": "<헉, 헉… 그 놈들, 어디로 사라진 거야…?>",
+    "context": "EN :\n<Haah, haah... Where... did they run off to...?>\nJP :\n<はぁ、はぁ…。あいつら、どこに消えたんだ…？>"
+  },
+  {
+    "key": "24-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "24-content",
+    "original": "분명 이 근방으로 뛰었는데…",
+    "context": "EN :\nI'm pretty sure they came this way...\nJP :\n確かにこの辺りへ逃げていったはずなのに…。"
+  },
+  {
+    "key": "25-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "25-content",
+    "original": "쯧, 발자국이 끊겼군. 그 시시한 설명을 너무 오래 들었어. ",
+    "context": "EN :\nTsk, no more tracks. We wasted too much time on his boring lectures.\nJP :\nチッ、足跡が途絶えた。\nあのくだらねぇ説明を長く聞きすぎた。"
+  },
+  {
+    "key": "26-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "26-content",
+    "original": "그런데 조수, 그렇게 여유롭게 따라와도 되는 거야?  ",
+    "context": "EN :\nHeya, Assistant. Are you sure it's okay for you to just... saunter behind us like you're out on a picnic?\nJP :\nところで助手、そんな余裕そうに追いかけてきても大丈夫なの？"
+  },
+  {
+    "key": "27-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "27-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "27-content",
+    "original": "왜? 난 뛰는 게 싫어.",
+    "context": "EN :\nWhy would I run? I hate running.\nJP :\nなんでだ？私は走るのが嫌いだ。"
+  },
+  {
+    "key": "28-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "28-content",
+    "original": "유로지비를 체포해야 되는 게 당신 일 아니야? ",
+    "context": "EN :\nIt's literally your job to arrest the Yurodiviye, isn't it?\nJP :\nユロージヴィを逮捕するのがあなたの仕事じゃないの？"
+  },
+  {
+    "key": "29-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "29-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "29-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "29-content",
+    "original": "그런가? 지금 내 일은 유로지비를 체포하는 게 아니라, 너희가 시간 살인마를 잘 잡는지 감시하는 건데?",
+    "context": "EN :\nIs it, though? But my job at this precise moment is to keep my eyes on you and your investigation regarding the Case of Timekilling Time, not making Yurodiviye arrests.\nJP :\nそうか？今の私の仕事はユロージヴィを逮捕することじゃなくて、\n君たちが時間殺人鬼を逮捕するか監視することだと思うが？"
+  },
+  {
+    "key": "30-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "30-content",
+    "original": "당신은 T사 소속 직원이잖아!",
+    "context": "EN :\nBut you're a T Corp. employee!\nJP :\nあんたはT社所属職員でしょ！"
+  },
+  {
+    "key": "31-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "31-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "31-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "31-content",
+    "original": "뭐, 내가 열심히 뛰어서 탐정 님들을 도와 유로지비를 잡는다고 치자. 그런다고 T사에 있는 문제가 모두 해결되고, 살기 좋은 곳이 되기라도 해? 어차피 주도자를 찾지 못하는 이상 다시 퍼질 거야. ",
+    "context": "EN :\nOkay, fine. Let's say that I decided to run instead of walk and helped you capture those Yurodiviye rascals. What then? Will T Corp. suddenly stop having problems just because they're gone? Will this place suddenly transform into some kind of humanitarian paradise? Not to mention that, as long as their leader runs free, they'll be back before you know it.\nJP :\nまぁ、私が頑張って走り回って探偵さんたちを助けてユロージヴィを捕まえたとしよう。\nだからってT社の問題が全て解決して、棲みやすい場所にでもなると思うのか？\nどうせ首謀者を見つけられない以上、また広がるだろう。"
+  },
+  {
+    "key": "32-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "32-content",
+    "original": "궤변이군. 전. 소. 하면 그만이지 않나? ",
+    "context": "EN :\nExcuses. Then K.T.A.\nJP :\n詭弁だな。全・掃すればおしまいだろ？"
+  },
+  {
+    "key": "33-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "33-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "33-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "33-content",
+    "original": "소탕하면 더 위험한 조직이 그 자리를 차지할 가능성도 있어. 그때는 저 뒤에 계속 서 있는 징수직 친구는 지루한 검문보다 더 고통스러운 상황을 겪게될지도 모르지. 열심히 뛴 나도 마찬가지고. ",
+    "context": "EN :\nIf we do kill them all, that only opens up room for a worse Syndicate to take their place. If that happens... that Collector friend from earlier might end up suffering from something much, much worse than having to stop-and-search random passers-by. Not to mention that I'll be getting muscle cramps from all the running.\nJP :\n掃討すればもっと危険な組織が占領する可能性もある。そのときは\nあの後ろの方に立っている徴収職の子は退屈な検問よりもっと苦しい状況に\n陥るかもしれないな。頑張って走り回った私も同じだ。"
+  },
+  {
+    "key": "34-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "34-content",
+    "original": "그건… ",
+    "context": "EN :\nThat's...\nJP :\nそれは…。"
+  },
+  {
+    "key": "35-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "35-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "35-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "35-content",
+    "original": "그리고 당신 친구가 있는 단체라면서. 내가 체포하지 않길 바라야 하는 거 아니야? ",
+    "context": "EN :\nBesides, isn't your friend one of them? Weird, I thought you wouldn't want me to arrest them.\nJP :\nそれに君の友達がいる団体だって聞いたけど。\n私が逮捕しないことを願わなきゃならないんじゃないのか？"
+  },
+  {
+    "key": "36-model",
+    "original": "탐정홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "36-content",
+    "original": "그러게요. 저도 로쟈 씨가 유로지비를 좀 더 반가워하실 줄 알았어요.",
+    "context": "EN :\nRight? I thought Rodya would be a bit happier to be reunited with the Yurodiviye.\nJP :\nそうですね。僕もロージャさんがユロージヴィを\nもうちょっとは歓迎するかと思っていました。"
+  },
+  {
+    "key": "37-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "37-content",
+    "original": "<이, 일단 발자국이 끊겼으니까 검문하던 직원에게 돌아가서, 수상한 사람은 없었는지 물어볼까.>",
+    "context": "EN :\n<W-well, since it looks like the trail's gone cold, let's go back to the stop-and-search lady and ask if she noticed anything suspicious since we left.>\nJP :\n<と、とにかく足跡が途絶えたんだし、検問してた職員のところに戻って\n怪しい人がいなかったか聞いてみようか。>"
+  },
+  {
+    "key": "38-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "38-content",
+    "original": "…그래.",
+    "context": "EN :\n... Fine.\nJP :\n…そうだね。"
+  },
+  {
+    "key": "39-content",
+    "original": "우리의 앞에는 아까 전에 본 T사 직원이 어떠한 미동도 없이 가만히 멈춰서 있었다. ",
+    "context": "EN :\nThe T Corp. employee we met earlier was still standing completely inert, not moving a muscle.\nJP :\n私たちの前には、先ほど会ったT社の職員が\n微動だにせずじっと立ち止まっていた。"
+  },
+  {
+    "key": "40-model",
+    "original": "탐정홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "40-content",
+    "original": "딱하게도, 이 늦은 시간까지 당직 중이신가 보네요. ",
+    "context": "EN :\nPoor woman! I can’t believe she's still on duty at such a late hour.\nJP :\nお気の毒に、こんな遅い時間まで当直みたいですね。"
+  },
+  {
+    "key": "41-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "41-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "41-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "41-content",
+    "original": "직장인의 인생이란 그런 거니까. ",
+    "context": "EN :\nSuch is the life of a laborer.\nJP :\n会社員の人生なんてそんなもんだよ。"
+  },
+  {
+    "key": "42-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "42-content",
+    "original": "…아니.",
+    "context": "EN :\n... No.\nJP :\n…いや。"
+  },
+  {
+    "key": "43-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "43-content",
+    "original": "이자, 당했군. 숨소리도 들리지 않아.",
+    "context": "EN :\nThey got her. I can't even hear her breathing.\nJP :\nこいつ、やられたな。息の音も聞こえない。"
+  },
+  {
+    "key": "44-model",
+    "original": "탐정홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "44-content",
+    "original": "시간 살인마의 수법이네요!",
+    "context": "EN :\nThat's the Time Ripper's M.O.!\nJP :\n時間殺人鬼の手口ですね！"
+  },
+  {
+    "key": "45-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "45-content",
+    "original": "<그 사이에 시간 살인마가 다녀간 거야?>",
+    "context": "EN :\n<The Time Ripper got to her that fast...?>\nJP :\n<あの隙に時間殺人鬼が来たってこと？>"
+  },
+  {
+    "key": "46-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "46-content",
+    "original": "정지 상태. 그 자체다.",
+    "context": "EN :\nShe's in a state of absolute stillness.\nJP :\n停止状態。そのものだ。"
+  },
+  {
+    "key": "47-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "47-content",
+    "original": "손에 피를 묻히지 않아도 죽음의 상태로 만든다. ",
+    "context": "EN :\nA deathlike state achieved without a thimble of blood on their hands.\nJP :\n手を血で汚さずとも死の状態にする。"
+  },
+  {
+    "key": "48-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "48-content",
+    "original": "결벽적인 예술이군…",
+    "context": "EN :\nWhat a mysophobic art.\nJP :\n潔癖的な芸術だな…。"
+  },
+  {
+    "key": "49-model",
+    "original": "탐정홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "49-content",
+    "original": "저희에겐 비록 멈춘 것처럼 보이지만,",
+    "context": "EN :\nThough she may be in a state of stasis to those of us watching from the outside...\nJP :\n僕たちには止まったように見えますけど…"
+  },
+  {
+    "key": "50-model",
+    "original": "탐정홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "50-content",
+    "original": "이 분에겐 눈 깜박할 정도의 찰나겠죠. ",
+    "context": "EN :\n... for her, this must be as brief as a blink of an eye.\nJP :\nこの方にとっては、瞬きするくらいの刹那だったでしょうね。"
+  },
+  {
+    "key": "51-model",
+    "original": "탐정홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "51-content",
+    "original": "범인은 그 많은 시간들을 어디에 쓰려는 걸까요?",
+    "context": "EN :\nWhat do you think the culprit's trying to do with all that time?\nJP :\n犯人はそんな沢山の時間を何に使うつもりなんでしょう？"
+  },
+  {
+    "key": "52-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "52-content",
+    "original": "<다들 사건 현장이니까 시체는… 아니, 피해자는 건드리지 말고…>",
+    "context": "EN :\n<Guys, this is a crime scene. Let's try to not touch the body... I mean, the victim...>\nJP :\n<みんな事件現場だから死体は…いや、被害者には触らないで…。>"
+  },
+  {
+    "key": "53-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "53-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "53-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "53-content",
+    "original": "우와, 이것 봐. 시공간 전위 중첩 현상이 일어나고 있나 봐. 만져지지가 않아.",
+    "context": "EN :\nWoah, look! There must be some sort of spatio-temporal displacement superposition phenomenon going on here. She is entirely incorporeal.\nJP :\nうわぁ、見てみろ。時空間転移重畳現象が起こってるみたいだ。\n触れないぞ。"
+  },
+  {
+    "key": "54-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "54-content",
+    "original": "아니, 이 와중에 무슨 감상평을… ",
+    "context": "EN :\nIs this seriously the time to—\nJP :\nいや、こんなときによく感想が…。"
+  },
+  {
+    "key": "55-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "55-content",
+    "original": "<로쟈, 저기 앞에!>",
+    "context": "EN :\n<Rodya, there! Up ahead!>\nJP :\n<ロージャ、あそこ！>"
+  },
+  {
+    "key": "56-content",
+    "original": "이제 제법 익숙해진 뒤틀림의 기척을 따라 고개를 돌리자, 안개 속에서 사라져 가는 수상한 자의 실루엣이 드문 보였다 사라졌다.",
+    "context": "EN :\nI whipped around, noticing the now-familiar sensation of a Distortion, and caught a brief glimpse of a suspicious figure slowly slipping into the fog.\nJP :\n今や結構馴染み深くなったねじれの気配を追って振り向くと、\n霧の中へと消えてゆく怪しいシルエットが微かに見え、すぐに消えた。"
+  },
+  {
+    "key": "57-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "57-content",
+    "original": "거기, 멈춰!!",
+    "context": "EN :\nYou, stop!\nJP :\nそこ、止まれ！"
+  },
+  {
+    "key": "58-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "58-content",
+    "original": "<쫓아갈 수 있겠어, 료슈?>",
+    "context": "EN :\n<Ryōshū, think you can catch up?>\nJP :\n<追いかけられる、良秀？>"
+  },
+  {
+    "key": "59-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "59-content",
+    "original": "사냥개 역할은 사절인데. 이번만 어울려주지. ",
+    "context": "EN :\nI'm not your hunting dog... but sure. I'll entertain you, just this once.\nJP :\n猟犬の役目はお断りだが。今回だけは付き合ってやる。"
+  },
+  {
+    "key": "60-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "60-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "60-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "60-content",
+    "original": "오, 제법 빠른 속도로 쫓아가네.",
+    "context": "EN :\nOoh, she's pretty fast.\nJP :\nおぉ、結構速いな。"
+  },
+  {
+    "key": "61-model",
+    "original": "탐정홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "61-content",
+    "original": "료슈 씨는 재미있는게 생겼을 때 달리기가 빨라지거든요.",
+    "context": "EN :\nRyōshū sure moves fast when she finds something interesting.\nJP :\n良秀さんは面白いことがあると足が速くなるんです。"
+  },
+  {
+    "key": "62-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "62-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "62-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "62-content",
+    "original": "너희처럼 앞만 보면서 열심히 뛰어가는 사람은 오랜만에 봐.",
+    "context": "EN :\nIt's been a while since I've seen people like you—the kind who sprint forward with their eyes fixed on the horizon.\nJP :\n君たちみたいに、前だけを見て必死に走る人は久々に見るよ。"
+  },
+  {
+    "key": "63-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "63-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "63-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "63-content",
+    "original": "여기 사람들은 발끝만 내려다보며 걸어가잖아. 구부정하게. ",
+    "context": "EN :\nHere, everyone only ever looks down, their necks bent and gaze locked to the ground. Watching their own feet take their halting steps.\nJP :\nここの人たちはつま先だけを見下ろしながら歩いていくだろ。\n曲がった腰で。"
+  },
+  {
+    "key": "64-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "64-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "64-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "64-content",
+    "original": "아마 사람들이 고개를 들 때라고는 시계탑을 볼 때 뿐일 거야.",
+    "context": "EN :\nI suppose they only ever look up to check the time on the Clock Towers.\nJP :\nきっと人々が頭を上げるのは、時計塔を見るときだけだろう。"
+  },
+  {
+    "key": "65-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "65-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "65-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "65-content",
+    "original": "옛날에는 모두가 허리를 꼿꼿이 펴고 다니던 시절도 있었을 텐데...",
+    "context": "EN :\nBut there must have been a time when everyone walked tall...\nJP :\n昔は皆が腰を真っ直ぐに伸ばして歩いていたときもあっただろうに…。"
+  },
+  {
+    "key": "66-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "66-content",
+    "original": "나 왜 그런지 알 거 같아.",
+    "context": "EN :\nI think I know why that is.\nJP :\n私、どうしてそうなったか分かるかも。"
+  },
+  {
+    "key": "67-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "67-content",
+    "original": "무기력해져서 그래.",
+    "context": "EN :\nIt's because they all learned helplessness.\nJP :\n無気力だから。"
+  },
+  {
+    "key": "68-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "68-content",
+    "original": "숨이 가쁘도록 뛰어봐도 달라질 게 없을 거라는 걸 깨달아서…",
+    "context": "EN :\nBecause they realized that, even if they ran 'till their lungs burst... nothing will change. That it doesn't matter.\nJP :\n息が弾むほどに走っても何も変わらないって気付いたから…。"
+  },
+  {
+    "key": "69-model",
+    "original": "탐정홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "69-content",
+    "original": "아무래도 뫼르소 씨처럼 균일한 호흡법을 익히는 건 힘들테니까요.",
+    "context": "EN :\nYeah, not everyone can run like Meursault. Learning to maintain a stable breathing rhythm is not easy!\nJP :\n確かに、ムルソーさんみたいに均一な呼吸法を身につけるのは\n大変ですからね。"
+  },
+  {
+    "key": "70-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "70-content",
+    "original": "아하하… 그런 말은 아닌데.",
+    "context": "EN :\nAha ha ha... That's not what I'm talking about.\nJP :\nあはは…そういう意味じゃ無いんだけどね。"
+  },
+  {
+    "key": "71-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "71-content",
+    "original": "<그런데 이 사람 말이야… 얼굴을 한 번 봐.>",
+    "context": "EN :\n<Wait, take a closer look at her face.>\nJP :\n<ところでこの人…ちょっと顔見てみて。>"
+  },
+  {
+    "key": "72-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "72-content",
+    "original": "<기억나? 아까 지나가는 사람들에게 ‘검문이다!’ 라고 외쳤을 때 그 표정이야.>",
+    "context": "EN :\n<Remember? It's the same face she was making earlier when she shouted \"It's a stop-and-search!\"\nJP :\n<覚えてる？さっき通りかかった人に「検問だ！」って叫んだときの\nあの表情だ。>"
+  },
+  {
+    "key": "73-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "73-content",
+    "original": "그러게, 수상한 사람을 보고 검문을 하려다가 당한 걸 수도 있겠어… 돌아오면 물어보자.",
+    "context": "EN :\nYeah... maybe she saw someone suspicious, approached them for a stop-and-search, and got ambushed... We should ask her when she recovers.\nJP :\nそうだね、怪しい人を見かけて検問を行おうとしたら\nやられたのかもね…戻ったら聞いてみましょ。"
+  },
+  {
+    "key": "74-model",
+    "original": "탐정홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "74-content",
+    "original": "언제 돌아오실진… 모르겠지만요.",
+    "context": "EN :\nBut we don't know when she'll... recover.\nJP :\nいつ戻ってくるかは…分かりませんけどね。"
+  },
+  {
+    "key": "75-content",
+    "original": "잠시 후…",
+    "context": "EN :\nSome time later...\nJP :\nしばらくして…。"
+  },
+  {
+    "key": "76-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "76-content",
+    "original": "받아라.",
+    "context": "EN :\nCatch.\nJP :\n受け取れ。"
+  },
+  {
+    "key": "77-model",
+    "original": "유로지비멤버1",
+    "translation": "准备逃跑的活动成员",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "77-teller",
+    "original": "기절한 활동단원",
+    "context": "EN :\nFainted Activist\nJP :\n気絶した活動団員"
+  },
+  {
+    "key": "77-title",
+    "original": "20구 유로지비",
+    "context": "EN :\nDistrict 20 Yurodivy\nJP :\n20区 ユロージヴィ"
+  },
+  {
+    "key": "77-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "78-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "78-content",
+    "original": "<…살려서 데려온 거 맞아?>",
+    "context": "EN :\n<... Are you sure you captured him alive?>\nJP :\n<…生きてるんだよね？>"
+  },
+  {
+    "key": "79-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "79-content",
+    "original": "저기 료슈, 그런데 아무리 봐도…",
+    "context": "EN :\nHey, Ryōshū, doesn't he kinda look...\nJP :\nその…良秀、どこからどう見ても…。"
+  },
+  {
+    "key": "80-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "80-content",
+    "original": "아까 도망가던 범인이랑은 다른 옷차림처럼 보이지 않아?",
+    "context": "EN :\n... a bit different from the mysterious person that got away? He's clearly wearing something different.\nJP :\nさっき逃げていった犯人とは違う服装じゃない？"
+  },
+  {
+    "key": "81-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "81-content",
+    "original": "그리고 이 사람은 아까 봤던 유로지비 중 하나잖아…",
+    "context": "EN :\nBesides, he's one of the Yurodiviye we already ran into.\nJP :\nそれにこの人はさっき見たユロージヴィの1人でしょ…。"
+  },
+  {
+    "key": "82-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "82-content",
+    "original": "옷차림 따위 껍데기일 뿐. ",
+    "context": "EN :\nClothes are just husks that can be cast off at any moment.\nJP :\n身なりなんてガワに過ぎない。"
+  },
+  {
+    "key": "83-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "83-content",
+    "original": "이 놈, 나를 보더니 줄행랑을 쳤다. ",
+    "context": "EN :\nHe started running as soon as our eyes met.\nJP :\nこいつ、俺を見るやいなや逃亡した。"
+  },
+  {
+    "key": "84-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "84-content",
+    "original": "어이, 눈 떠. ",
+    "context": "EN :\nHey. Rise and shine.\nJP :\nおい、目ぇ開けろ。"
+  },
+  {
+    "key": "85-model",
+    "original": "유로지비멤버1",
+    "translation": "准备逃跑的活动成员",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "85-teller",
+    "original": "도망치던 활동단원",
+    "context": "EN :\nFleeing Activist\nJP :\n逃げようとした活動団員"
+  },
+  {
+    "key": "85-title",
+    "original": "20구 유로지비",
+    "context": "EN :\nDistrict 20 Yurodivy\nJP :\n20区 ユロージヴィ"
+  },
+  {
+    "key": "85-content",
+    "original": "으…윽… 수, 수상한 건… 네 쪽이지… 그렇게 칼을 든 채로 무섭게 쫓아오고 있으면… 누가 봐도 도망가게 된다고…",
+    "context": "EN :\nU...ugh… How am I the suspicious one…? Anyone would run if someone like you started sprinting after them… with that big sword in your hands…\nJP :\nう…うっ…怪しいのは…お前の方だろ…そんな刀を持ったまま\n追いかけてきたら…誰だって逃げるだろ…。"
+  },
+  {
+    "key": "86-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "86-content",
+    "original": "후우, 진실을 게워내게 만드는 방식은 여러가지가 있지.",
+    "context": "EN :\nHaah... I have many, many ways to crush the truth out of you.\nJP :\nふぅ、真実をゲロらせる方法はいくつかある。"
+  },
+  {
+    "key": "87-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "87-content",
+    "original": "첫째…",
+    "context": "EN :\nFirst.\nJP :\n一つ目…。"
+  },
+  {
+    "key": "88-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "88-content",
+    "original": "<신체 절단은 안돼.>",
+    "context": "EN :\n<No dismembering.>\nJP :\n<身体切断はナシ。>"
+  },
+  {
+    "key": "89-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "89-content",
+    "original": "…흠.",
+    "context": "EN :\n... Hm.\nJP :\n…ふむ。"
+  },
+  {
+    "key": "90-model",
+    "original": "유로지비멤버1",
+    "translation": "准备逃跑的活动成员",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "90-teller",
+    "original": "도망치던 활동단원",
+    "context": "EN :\nFleeing Activist\nJP :\n逃げようとした活動団員"
+  },
+  {
+    "key": "90-title",
+    "original": "20구 유로지비",
+    "context": "EN :\nDistrict 20 Yurodivy\nJP :\n20区 ユロージヴィ"
+  },
+  {
+    "key": "90-content",
+    "original": "이 주변은 우리 유로지비의 구역이야. 여기로 날 데려온 걸 후회하게 될 걸. ",
+    "context": "EN :\nThis is the Yurodiviye's turf. You'll soon regret dragging me down here.\nJP :\nこの周辺は俺たちユロージヴィの区域だ。\nここに俺を連れてきたことを、じきに後悔することになるだろう。"
+  },
+  {
+    "key": "91-model",
+    "original": "유로지비멤버1",
+    "translation": "准备逃跑的活动成员",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "91-teller",
+    "original": "도망치던 활동단원",
+    "context": "EN :\nFleeing Activist\nJP :\n逃げようとした活動団員"
+  },
+  {
+    "key": "91-title",
+    "original": "20구 유로지비",
+    "context": "EN :\nDistrict 20 Yurodivy\nJP :\n20区 ユロージヴィ"
+  },
+  {
+    "key": "91-content",
+    "original": "크큭… 이럴 때를 대비해서 가져온 비장의 무기… ",
+    "context": "EN :\nHeh... I prepared this secret weapon just for this occasion...\nJP :\nクク…こういうときのために持ってきた秘蔵の武器…。"
+  },
+  {
+    "key": "92-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "92-content",
+    "original": "<조, 조심해!>",
+    "context": "EN :\n<W-watch out!>\nJP :\n<き、気を付けて！>"
+  },
+  {
+    "key": "93-content",
+    "original": "…하지만 아무일도 없었다.",
+    "context": "EN :\n... But nothing happened.\nJP :\n…しかし、何も起こらなかった。"
+  },
+  {
+    "key": "94-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "94-content",
+    "original": "<…뭐한 거야?>",
+    "context": "EN :\n<... What was that?>\nJP :\n<…何したの？>"
+  },
+  {
+    "key": "95-model",
+    "original": "유로지비멤버1",
+    "translation": "准备逃跑的活动成员",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "95-teller",
+    "original": "도망치던 활동단원",
+    "context": "EN :\nFleeing Activist\nJP :\n逃げようとした活動団員"
+  },
+  {
+    "key": "95-title",
+    "original": "20구 유로지비",
+    "context": "EN :\nDistrict 20 Yurodivy\nJP :\n20区 ユロージヴィ"
+  },
+  {
+    "key": "95-content",
+    "original": "주변에 있는 동지들을 불러 모으는 유로지비 T사 지부의 5대 역작 중 하나. 휴대용진동조정식점등형음파발생기다! ",
+    "context": "EN :\nOne of the five greatest inventions of the Yurodiviye T Corp. Branch, the PortableAdjustableFrequencyPeriodicalLightingApparatusAttachmentSoundwave Generator! This will call every single Yurodivy in its range to this exact location!\nJP :\n周辺にいる仲間を呼び寄せるユロージヴィT社支部の五大力作の一つ。\n携帯用振動調整式点灯型音波発生器だ！"
+  },
+  {
+    "key": "96-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "96-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "96-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "96-content",
+    "original": "발명가들은 보통 저게 문제야. 발명품 이름을 너무 길게 짓는다니까.",
+    "context": "EN :\nThere, see what I mean? You see the problem prevalent among inventors: they never know when to stop when it comes to naming their inventions.\nJP :\n発明家たちはアレが問題だ。\n発明品に名前付けするとき、やけに長くする。"
+  },
+  {
+    "key": "97-model",
+    "original": "유로지비멤버1",
+    "translation": "准备逃跑的活动成员",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "97-teller",
+    "original": "도망치던 활동단원",
+    "context": "EN :\nFleeing Activist\nJP :\n逃げようとした活動団員"
+  },
+  {
+    "key": "97-title",
+    "original": "20구 유로지비",
+    "context": "EN :\nDistrict 20 Yurodivy\nJP :\n20区 ユロージヴィ"
+  },
+  {
+    "key": "97-content",
+    "original": "내 뒤통수를 후린 대가는 만만치 않다는 걸 알게 될 거다! ",
+    "context": "EN :\nYou'll pay dearly for smacking me in the back of my noggin!\nJP :\n俺の後頭部を殴った対価はそう安くないってことを思い知るがよい！"
+  }
+]

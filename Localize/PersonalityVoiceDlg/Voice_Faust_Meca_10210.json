@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10210_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10210_1-dlg",
+    "original": "이 계획에는 다수의 결함이 존재합니다만, 파우스트가 이 허점투성이 계획을 완전무결하게 만들어드리죠.",
+    "context": "EN :\nWhile there are numerous deficiencies and points of failure to this plan, Faust will hone it into utter, unfailing perfection.\nJP :\nこの計画には多数の欠陥が存在しますが、ファウストがこの穴だらけの計画を完全無欠にして差し上げましょう。"
+  },
+  {
+    "key": "lobby_morning_10210_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10210_1-dlg",
+    "original": "아침의 커피 한 잔을 위해 팔 하나 정도는 항상 비워둘 수 있어요. 그래도 세 개가 남기 때문에…",
+    "context": "EN :\nAn arm can always be spared for a cup of coffee in the morning. There are three more arms to utilize, after all.\nJP :\n朝のコーヒー1杯のため、腕の1本程度は常に空けておけます。それでも3本が余りますので…。"
+  },
+  {
+    "key": "lobby_noon_10210_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10210_1-dlg",
+    "original": "사무소 카드를 사용했다면, 영수증은 반드시 제출해주세요.\n계속 누락한다면 점심 식사는 사비로 해결하도록 방침을 바꾸겠습니다.",
+    "context": "EN :\nPlease remember to submit the receipts after using a corporate credit card.\nThis Office may no longer provide a lunch budget should the employees continuously fail to submit their receipts.\nJP :\n事務所カードを使用したのなら、領収証は必ず提出してください。\n何度も忘れるようであれば、昼食は自費で解決するように方針を変更します。"
+  },
+  {
+    "key": "lobby_night_10210_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10210_1-dlg",
+    "original": "해 질 무렵까지 일해도 의체는 아프지 않아요.\n…삐걱거리게 된다면 정비를 해야겠지만요.",
+    "context": "EN :\nThe prosthetic body does not feel muscular pain, even if it were to be put to work from sunrise to sunset.\n... However, a regular maintenance may be needed to prevent creaking.\nJP :\n日が暮れる頃まで働いても義体は痛くありません。\n…ギシギシ言い始めたら整備をする必要がありますけどね。"
+  },
+  {
+    "key": "smalltalk_10210_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10210_1-dlg",
+    "original": "혹시 머리 외에도 다른 의체를 고려하신다면, 트레스 협회의 인증을 받은 G10 모델 의족을 추천드립니다.\n좋은 다리를 가지면, 당신도 위험한 상황에서 빠르게 도망칠 수 있을 거예요.",
+    "context": "EN :\nIf you would ever consider replacing more parts of your body than your head with prostheses, a good recommendation would be the Tres Association certified G10 model prosthetic legs.\nA high-performance ambulatory apparatus is very useful for making oneself scarce from high-risk situations.\nJP :\nもしも頭以外にも他の義体を検討しているのであれば、トレス協会の認証を受けたG10モデルの義足をお勧めいたします。\n良い足を持てば、あなたも危険な状況から素早く逃れられるでしょう。"
+  },
+  {
+    "key": "smalltalk_10210_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10210_2-dlg",
+    "original": "워프 열차 왕복권은 사비로 결제했습니다. 파우스트는 일등석으로 예약했죠.\n일반석이 아니라, 일등석을 예약한 이유에 대해서 아직 저는 알 수 없어요. 하지만 파우스트는 알고 있겠죠.",
+    "context": "EN :\nThe WARP train round trip ticket has been purchased via private funds, with Faust reserving a first class seat.\nI do not yet know why the first class ticket has been purchased instead of the economy class ticket; however, Faust must know of the reason.\nJP :\nワープ列車往復券は自費で決済しました。ファウストは1等席で予約しました。\n一般席では無く1等席を予約した理由に関しては、まだ私には分かりません。しかしファウストは知っているでしょう。"
+  },
+  {
+    "key": "smalltalk_10210_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10210_3-dlg",
+    "original": "전신 의체에 대해서도 고려해 보지 않은 건 아니지만… 더 좋은 의체로의 교체 비용과 리스크를 감당할 수 없어 선택하지 않았습니다.\n파우스트가 생각하기에, 교체가 편리한 부분 의체로 점차 업그레이드하는 것이 더 효율적이겠죠.",
+    "context": "EN :\nA whole-body prosthetic has been considered, yes. ... However, the upgrade budget for higher-quality prosthetics and the related risks were too significant to be followed through.\nFaust believed it would be more efficient to slowly upgrade this body toward an increasingly stronger partial prosthetic.\nJP :\n全身義体に関しても検討したことが無いわけではありませんが…より良い義体への交換費用とリスクを甘受できずに選択しませんでした。\nファウストが思うに、交換が便利な部分義体へ段々とアップグレードしていく方がより効率的でしょう。"
+  },
+  {
+    "key": "smalltalk_10210_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10210_4-dlg",
+    "original": "이 정도 크기의 대검은 누구나 다룰 수 있습니다. 충분한 돈과 약간의 적응 시간, 그리고 믿을 수 있는 공방만 있다면 하루아침에 휘두를 수 있죠.\n물론 그걸로 어떤 전투 스타일을 추구할지는 본인의 재량이지만요.",
+    "context": "EN :\nA greatsword of this size can be wielded by any individual as long as they possess sufficient budget, enough time to acclimatize, and the work of a trusted workshop.\nOf course, it is up to each individual as to what kind of combat style they wish to employ.\nJP :\nこの程度の大きさの大剣は誰でも扱うことができます。十分なお金と若干の適応時間、そして信頼できる工房さえあれば一晩で振り回すことができます。\nもちろん、それでどのような戦闘スタイルを追求するかは本人の裁量ですが。"
+  },
+  {
+    "key": "smalltalk_10210_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10210_5-dlg",
+    "original": "의체화된 신체는 대부분 통각을 느끼지 않죠. 그렇기에 저희 의체 해결사에겐 고통이나 부상에 대한 두려움이 없답니다.\n돈은 일반적인 치료보다 많이 들겠지만요.",
+    "context": "EN :\nProsthetic bodies are rarely installed with pain receptors. Therefore, Fixers such as ourselves who utilize prosthetic bodies do not fear pain or injury.\n... It is much more expensive to fix a prosthetic than it is to heal flesh, however.\nJP :\n義体化された身体は殆ど痛覚を感じません。それゆえ、我々義体フィクサーたちには苦痛や負傷に対する恐れがありません。\nお金は一般的な治療よりも掛かるとは思いますけどね。"
+  },
+  {
+    "key": "neglect_10210_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10210_1-dlg",
+    "original": "부른 뒤에 조용히 사라지다니. 비효율적인 행동이네요.",
+    "context": "EN :\nTo summon someone and not address them is a highly inefficient action.\nJP :\n呼び出してから静かに消えるだなんて。非効率的な行動ですね。"
+  },
+  {
+    "key": "gacksung_10210_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10210_1-dlg",
+    "original": "의뢰 목표를 처리했습니다. 이번 원정 의뢰도 철저히 준비한 보람이 있군요.",
+    "context": "EN :\nThe contract target has been taken care of. The meticulous preparation for this contract expedition has certainly borne fruit.\nJP :\n依頼目標を処理しました。今回の遠征依頼も徹底して準備した甲斐がありましたね。"
+  },
+  {
+    "key": "formation_10210_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10210_1-dlg",
+    "original": "준비는 완료했습니다. 출발하죠.",
+    "context": "EN :\nAll preparations have been made. Let us depart.\nJP :\n準備は完了しました。出発しましょう。"
+  },
+  {
+    "key": "battleentry_10210_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10210_1-dlg",
+    "original": "모델 40Y-3 충전. 전투 준비 완료.",
+    "context": "EN :\nModel 40Y-3 fully charged. Ready for deployment.\nJP :\nモデル40Y-3充電。戦闘準備完了。"
+  },
+  {
+    "key": "battle_select_10210_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10210_1-dlg",
+    "original": "계획을 잊으셨나요?",
+    "context": "EN :\nHave you forgotten the plan?\nJP :\n計画をお忘れになりましたか？"
+  },
+  {
+    "key": "battle_endcommand_10210_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10210_1-dlg",
+    "original": "공격 범위 확인.",
+    "context": "EN :\nAttack range confirmed.\nJP :\n攻撃範囲確認。"
+  },
+  {
+    "key": "battle_enemy_break_10210_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10210_1-dlg",
+    "original": "효율적으로…",
+    "context": "EN :\nEfficiently...\nJP :\n効率的に…。"
+  },
+  {
+    "key": "battle_break_10210_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10210_1-dlg",
+    "original": "어…",
+    "context": "EN :\nUh...\nJP :\nあ…。"
+  },
+  {
+    "key": "battle_kill_10210_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10210_1-dlg",
+    "original": "…처리했습니다.",
+    "context": "EN :\n... dispatched.\nJP :\n…処理しました。"
+  },
+  {
+    "key": "battle_dead_10210_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10210_1-dlg",
+    "original": "보험은… 들어두었습니다…",
+    "context": "EN :\nI have... insurance...\nJP :\n保険には…入っています…。"
+  },
+  {
+    "key": "choice_success_p_10210_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10210_2-dlg",
+    "original": "파우스트의 계산대로네요.",
+    "context": "EN :\nAs per Faust's calculations.\nJP :\nファウストの計算通りですね。"
+  },
+  {
+    "key": "choice_fail_n_10210_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10210_1-dlg",
+    "original": "오류가 있었군요.",
+    "context": "EN :\nThere was an error.\nJP :\n不具合があったようですね。"
+  },
+  {
+    "key": "battle_clear_10210_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10210_1-dlg",
+    "original": "이 정도 승리는 당연한 일이죠. 파우스트의 지식대로 움직였으니까요.",
+    "context": "EN :\nA predictable victory, guided by Faust's knowledge.\nJP :\nこの程度の勝利は当然のことです。ファウストの知識通りに動きましたので。"
+  },
+  {
+    "key": "battle_clear_ex_10210_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10210_1-dlg",
+    "original": "계획보다 더 일찍 의뢰를 완수했네요. 저와 파우스트의 뛰어난 능력 덕분이지만, 여러분의 노력도 나쁘지 않았어요.",
+    "context": "EN :\nThis contract was completed far ahead of schedule. A majority of credit would go to Faust and my expertise, but your effort was at an acceptable level as well.\nJP :\n計画よりも早く依頼を完遂できましたね。私とファウストの優れた能力のおかげですが、皆さんの努力も悪くありませんでした。"
+  },
+  {
+    "key": "battle_defeat_10210_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10210_1-dlg",
+    "original": "원정은 실패했습니다. 퇴각 후 파손된 의체를 교체하고, 다시 준비해야겠군요.",
+    "context": "EN :\nThis expedition was a failure. Expeditious retreat and prosthetic replacement are necessary before we prepare for the expedition once again.\nJP :\n遠征は失敗しました。退却後に破損した義体を交換して、もう一度準備しなければなりませんね。"
+  }
+]

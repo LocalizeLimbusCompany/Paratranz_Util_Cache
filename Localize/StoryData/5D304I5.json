@@ -1,0 +1,629 @@
+[
+  {
+    "key": "0-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "0-content",
+    "original": "창백한 고래… 그리고 에이해브는…",
+    "context": "EN :\nThe Pallid Whale, and... Ahab...\nJP :\n蒼白な鯨…そしてエイハブは…。"
+  },
+  {
+    "key": "1-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "1-content",
+    "original": "마음의 틈과 틈 사이를 파고든다.",
+    "context": "EN :\nThey force their way into the cracks in our hearts.\nJP :\n心の隙へと喰い入ってくる。"
+  },
+  {
+    "key": "2-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "2-content",
+    "original": "사람이라면 응당 있을 수밖에 없는 흔들리고 떨리는 미세한 틈.",
+    "context": "EN :\nEveryone has those cracks in their hearts. They're what makes us hesitate, what makes us waver.\nJP :\n人間なら持ち合わせて当然の、揺れ動き、震える微細な隙。"
+  },
+  {
+    "key": "3-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "3-content",
+    "original": "혼란과 외로움. 불확실에 대한 불안. 겪을 수 밖에 없는 상실.",
+    "context": "EN :\nConfusion. Loneliness. The anxiety of the unknown. The fear of knowing that the people... the things you cherish... will one day leave your side.\nJP :\n混乱と寂しさ。不確実に対する不安。\n経験せざるを得ない喪失。"
+  },
+  {
+    "key": "4-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "4-content",
+    "original": "이 연약하고도 무수한 틈 사이를 촘촘하게 메꿔버린다.",
+    "context": "EN :\nThey tightly choke these fragile, countless cracks in our hearts to the point of breaking.\nJP :\nこのか弱くも無数にある隙間を、びっしりと埋め尽くしてしまう。"
+  },
+  {
+    "key": "5-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "5-content",
+    "original": "어느 순간부터 나의 틈은… 단 하나의 집념으로… 숨이 막힐 정도로 가득 채워져 있었다.",
+    "context": "EN :\nBefore I even knew it, those cracks in my heart... were filled with a singular obsession. So much so that I was suffocating.\nJP :\nある瞬間から私の隙間は…\nたった一つの執念で…息が詰まるほどに埋められていた。"
+  },
+  {
+    "key": "6-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "6-content",
+    "original": "이 상황을 만들어 온… 모든 일의 원흉, 에이해브를 죽이겠노라.",
+    "context": "EN :\n\"I will kill Captain Ahab. The cause of all evils in the world that has brought me to this point.\"\nJP :\nこの状況を作ってきた…全ての元凶、エイハブを殺さん。"
+  },
+  {
+    "key": "7-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "7-content",
+    "original": "그 생각들로, 너무나도 겹겹이 채워 놓아서…",
+    "context": "EN :\nThat obsession has wrapped me so tightly, and in so many impenetrable layers, that I...\nJP :\nその考えを数えきれぬ程、幾重にも重ね、満たし…。"
+  },
+  {
+    "key": "8-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "8-content",
+    "original": "모두와의 시간과… 그때 그때의 내 선택들도 알아볼 수 없을 정도로 메워두어서…",
+    "context": "EN :\n... I could no longer even recognize the times I've spent with everyone... and the choices I've made...\nJP :\nみんなとの時間と…その時々の私の選択すら\n分からなくなってしまうくらいに埋め尽くして…。"
+  },
+  {
+    "key": "9-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "9-content",
+    "original": "언젠가부터 나는…",
+    "context": "EN :\nAnd all of a sudden...\nJP :\nいつしか私は…。"
+  },
+  {
+    "key": "10-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10-content",
+    "original": "원래의 내 모습이 무엇이었는지조차 잊어버리기 시작한 채 가라앉아.",
+    "context": "EN :\nI began to sink, even memories of my own shape fading into oblivion.\nJP :\n本来の自分の姿が何だったのかさえ忘れ始めたまま、沈んでいく。"
+  },
+  {
+    "key": "11-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "11-content",
+    "original": "어디로 가야 할지도 알 수 없게 되었어.",
+    "context": "EN :\nI'm lost here. I don't know where to go anymore.\nJP :\nどこへ行くべきなのかも分からなくなった。"
+  },
+  {
+    "key": "12-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "12-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "13-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "13-content",
+    "original": "뭐하냐?",
+    "context": "EN :\nThe hell are you doing in there?\nJP :\nなにやってんだ？"
+  },
+  {
+    "key": "14-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "14-content",
+    "original": "나와.",
+    "context": "EN :\nCome out.\nJP :\n出てこいよ。"
+  },
+  {
+    "key": "15-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "15-content",
+    "original": "히스… 클리프?",
+    "context": "EN :\nHeath... cliff...?\nJP :\nヒース…クリフ？"
+  },
+  {
+    "key": "16-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "16-content",
+    "original": "저… 언제부터… 뒤덮여 가고 있었던 거죠… 모르고 있었는데…",
+    "context": "EN :\nWhen... when did this happen...? When did it... I-I didn't realize...\nJP :\n私…いつの間に…覆われてたんですか…。\n気付かなかったんですけど…。"
+  },
+  {
+    "key": "17-place",
+    "original": "창백한 고래의 심장",
+    "context": "EN :\nThe Pallid Whale's Heart\nJP :\n蒼白な鯨の心臓"
+  },
+  {
+    "key": "17-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "17-content",
+    "original": "아니, 네 낯짝은 처음 봤을 때부터 그 꼬락서니였어.",
+    "context": "EN :\nNo. I saw that very same look on your mug from the moment we first met.\nJP :\nいや、お前のツラは最初見たときからそのザマだったさ。"
+  },
+  {
+    "key": "18-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "18-content",
+    "original": "언제 숨 막혀서 뒈져도 이상하지 않을 거라고 생각했지.",
+    "context": "EN :\nThought you might suffocate and kick the bucket any minute.\nJP :\nいつ息が詰まってくたばっちまっても\nおかしくはないだろうなって思ってたさ。"
+  },
+  {
+    "key": "19-model",
+    "original": "다친이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "19-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "20-content",
+    "original": "이스마엘의 눈 앞에서 하얗게 변해가는 퀴케그가 있다.",
+    "context": "EN :\nThe pallid membrane devours Queequeg before Ishmael's eyes.\nJP :\nイシュメールの目の前に、白くなっていくクィークェグがいる。"
+  },
+  {
+    "key": "21-model",
+    "original": "다친이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "21-content",
+    "original": "미안해, 퀴케그… 구해주지 못해서…",
+    "context": "EN :\nI’m so sorry, Queequeg… I… couldn’t save you…\nJP :\nごめん、クィークェグ…助けられなくて…。"
+  },
+  {
+    "key": "22-model",
+    "original": "퀴케그녹음",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "22-content",
+    "original": "내가 너무. 늦은 거야.",
+    "context": "EN :\nNo. I was. Too late.\nJP :\nあたいが、とても。おそかったんだ。"
+  },
+  {
+    "key": "23-model",
+    "original": "퀴케그녹음",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "23-content",
+    "original": "뭐가 옳은지 그른 지를. 스스로 생각하는 거.",
+    "context": "EN :\nToo late to think. About what is right and what is wrong. To think for myself. Too late.\nJP :\nなにがただしいのか、まちがってるか。\nじぶんでかんがえるの。"
+  },
+  {
+    "key": "24-model",
+    "original": "다친이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "24-content",
+    "original": "내가, 내가 더…",
+    "context": "EN :\nI, I should have been more... I should have...\nJP :\n私が、私がもっと…。"
+  },
+  {
+    "key": "25-model",
+    "original": "퀴케그녹음",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "25-content",
+    "original": "있잖아.",
+    "context": "EN :\nHey.\nJP :\nあのな。"
+  },
+  {
+    "key": "26-model",
+    "original": "퀴케그녹음",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "26-content",
+    "original": "네 이름. 한 번 더. 알려줘.",
+    "context": "EN :\nYour name. Tell me. Once more.\nJP :\nきみのなまえ。もういっかい。おしえて。"
+  },
+  {
+    "key": "27-place",
+    "original": "피쿼드호",
+    "context": "EN :\nThe Pequod\nJP :\nピークォド号"
+  },
+  {
+    "key": "27-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "27-content",
+    "original": "호수는 끔찍해도 노을은 이쁘지 않아요?",
+    "context": "EN :\nThe Great Lake might be one of the worst places in the City... but it sure has a pretty sunset.\nJP :\n湖はおぞましくても、夕焼けは綺麗じゃないですか？"
+  },
+  {
+    "key": "28-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "28-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "29-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "29-content",
+    "original": "너. 이름. 뭐야?",
+    "context": "EN :\nYour name. What?\nJP :\nお前。名前。なんだ？"
+  },
+  {
+    "key": "30-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "30-content",
+    "original": "내 이름은 왜… 왜요?",
+    "context": "EN :\nMy name? W-why?\nJP :\nどうして私の…名前を？"
+  },
+  {
+    "key": "31-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "31-content",
+    "original": "왜냐면, 네 머리 색깔. 마음에 들어.",
+    "context": "EN :\nBecause, your hair color. I like it.\nJP :\nどうしてかって、お前の髪。気に入った。"
+  },
+  {
+    "key": "32-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "32-content",
+    "original": "고래들. 죽을 때 고개를 돌려. 해를 향해서.",
+    "context": "EN :\nWhales. When they die, they turn to the sun.\nJP :\n鯨たち。死ぬとき頭を上げる。太陽に向かって。"
+  },
+  {
+    "key": "33-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "33-content",
+    "original": "그리고 노을이야. 네 머리는.",
+    "context": "EN :\nAnd your hair color. Sunset-color.\nJP :\nそして夕焼けだ。お前の髪は。"
+  },
+  {
+    "key": "34-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "34-content",
+    "original": "그러니 내가 작살을 던질 때. 고래들은 방향 이동할 거야. 너를 향해서.",
+    "context": "EN :\nSo when I throw the harpoon, Whales turn to you.\nJP :\nだからあたいが銛を投げるとき。鯨たちは方向転換するだろう。\nお前に向かって。"
+  },
+  {
+    "key": "35-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "35-content",
+    "original": "우리는 될 수 있어. 좋은 친구.",
+    "context": "EN :\nWe can be good friends.\nJP :\nあたいたちはなれる。良い友だち。"
+  },
+  {
+    "key": "36-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "36-content",
+    "original": "…저를 이스마엘이라고 불러주세요.",
+    "context": "EN :\nWell... call me Ishmael, if you please.\nJP :\n…私をイシュメールと呼んでください。"
+  },
+  {
+    "key": "37-place",
+    "original": "창백한 고래의 심장",
+    "context": "EN :\nThe Pallid Whale's Heart\nJP :\n蒼白な鯨の心臓"
+  },
+  {
+    "key": "37-model",
+    "original": "다친이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "37-content",
+    "original": "나를… 이스마엘이라고… 불러줘…",
+    "context": "EN :\n... Call me... Ishmael...\nJP :\n私を…イシュメールって…呼んでよ…。"
+  },
+  {
+    "key": "38-model",
+    "original": "퀴케그녹음",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "38-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n…。"
+  },
+  {
+    "key": "39-content",
+    "original": "서서히 녹아내리던 퀴케그는 어느덧 보이지 않게 되었다.",
+    "context": "EN :\nQueequeg disintegrated until she was no more.\nJP :\n徐々に融け落ちていたクィークェグは、いつの間にか見えなくなっていた。"
+  },
+  {
+    "key": "40-model",
+    "original": "다친이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "40-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "41-content",
+    "original": "이스마엘은 절뚝이며 누워 있는 에이해브에게 향한다.",
+    "context": "EN :\nIshmael limps toward Ahab. The Captain is on the ground, defeated.\nJP :\nイシュメールは足を引きずりながら、横たわっているエイハブの方を向いた。"
+  },
+  {
+    "key": "42-content",
+    "original": "오로지 이 순간만을 위해 갈고 또 간 작살을 들고서.",
+    "context": "EN :\nIn Ishmael's hand is the harpoon that has been whetted and sharpened for this singular moment.\nJP :\nただ、この瞬間のためだけに研いだ銛を構えて。"
+  },
+  {
+    "key": "43-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "43-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "44-model",
+    "original": "다친이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "44-content",
+    "original": "이번에도 내 앞을 가로막는군요, 단테.",
+    "context": "EN :\nYou're in my way, Dante. Again.\nJP :\n今度も、私の前に立ちはだかるんですね、ダンテ。"
+  },
+  {
+    "key": "45-model",
+    "original": "다친이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "45-content",
+    "original": "왜 그러는 거예요? 왜 계속 저를 막아요? 왜 계속 시계를 돌려주는 거예요? 그래서 당신이 뭘 얻는다고?",
+    "context": "EN :\nWhy are you doing this? Why do you keep getting in my way? Why do you even turn the clock for me? What the hell do you get out of all this?\nJP :\nどうしてそうするんですか？どうして何度も私を止めるんですか？\nどうして何度も時計を回してくれるんですか？\nそれがあなたにとって何になるっていうんですか？"
+  },
+  {
+    "key": "46-model",
+    "original": "다친이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "46-content",
+    "original": "그렇게 좋게 좋게 넘어가려는 듯이 착한 척하면 속이 편해요?",
+    "context": "EN :\nWhat, does pretending to be a good person help you feel better?\nJP :\nそうやって、なあなあで済ませながら\n優しいフリをすれば気が楽になるんですか？"
+  },
+  {
+    "key": "47-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "47-content",
+    "original": "<너에 대해서 더 알고 싶었어.>",
+    "context": "EN :\n<I wanted to know more about you.>\nJP :\n<君についてもっと知りたかったんだ。>"
+  },
+  {
+    "key": "48-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "48-content",
+    "original": "<그래서… 되풀이가 아닌, 다른 방향을 알려 주고 싶었어.>",
+    "context": "EN :\n<So I can... find you a path that doesn't go in circles.>\nJP :\n<だから…繰り返すことじゃなくて、別の方向を教えたかったんだ。>"
+  },
+  {
+    "key": "49-model",
+    "original": "다친이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "49-content",
+    "original": "당신은… 알고 있어요?",
+    "context": "EN :\nDo you... Do you even know?\nJP :\nあなたは…知ってるんですか？"
+  },
+  {
+    "key": "50-model",
+    "original": "다친이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "50-content",
+    "original": "당신이 나아가려는 곳이 어디인지?",
+    "context": "EN :\nDo you even know where you're going?\nJP :\nあなたが進もうとしてる場所がどこなのかは。"
+  },
+  {
+    "key": "51-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "51-content",
+    "original": "<계속해서… 찾아가는 중이야.>",
+    "context": "EN :\n<I'm... constantly searching.>\nJP :\n<まだ…ずっと探し続けてる。>"
+  },
+  {
+    "key": "52-content",
+    "original": "내가 시간을 끌어모아 시침과 분침을 돌리는 이유는,",
+    "context": "EN :\nMaybe I summon the flow of time to turn the hands of my clock...\nJP :\n私が時間を手繰り寄せて\n時針と分針を回す理由は、"
+  },
+  {
+    "key": "53-content",
+    "original": "수감자들의 무수한 방황을 고정하기 위함이었을지도 모른다.",
+    "context": "EN :\n... to find the paths for the endlessly wandering Sinners.\nJP :\n囚人たちによる無数の彷徨を固定するためだったのかもしれない。"
+  },
+  {
+    "key": "54-content",
+    "original": "방향을 잃은 모든 이들을 위해.",
+    "context": "EN :\nFor all those who are lost.\nJP :\n方向を失った全員のために。"
+  },
+  {
+    "key": "55-content",
+    "original": "내 방향을 잃지 않도록.",
+    "context": "EN :\nSo that I may not be lost.\nJP :\n私の方向を失わないため。"
+  },
+  {
+    "key": "56-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "56-content",
+    "original": "<이스마엘, 우리는 저마다 자기 마음의 선장일거야.>",
+    "context": "EN :\n<Ishmael, we're all Captains of our own hearts.>\nJP :\n<イシュメール。私たちは、みんな自分の心の船長なんだ。>"
+  },
+  {
+    "key": "57-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "57-content",
+    "original": "<어쩌다 같은 곳을 항해하다 보니 함께하고 누군가에게 선장의 역할을 잠시 맡기기도 하겠지만…>",
+    "context": "EN :\n<We just happened to be sailing the same path, and sometimes we'd let each other take the helm...>\nJP :\n<偶然同じ場所を航海していたら一緒に過ごすことになって、\n誰かに船長の役割をしばらく任せたりもするけど…。>"
+  },
+  {
+    "key": "58-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "58-content",
+    "original": "<마지막의 마지막에는 자신의 배의 키를 잡고 움직여야 하는 선장은 자신일 거야…>",
+    "context": "EN :\n<But at the end of all things, you still have to be the Captain of your own ship. You're the one who has to steer your very own path...>\nJP :\n<最後の最後に、自分の船の舵を取って動くべき船長は\nきっと自分なんだ…。>"
+  },
+  {
+    "key": "59-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "59-content",
+    "original": "<그러니까 항해가 끝날 때까지… 나도… 이스마엘, 너도… 자기 배의 키를 스스로 놓아버리지는 말자.>",
+    "context": "EN :\n<So don't you dare let go of your helm before the voyage is over. Because I... I won't, either.>\nJP :\n<だから航海が終わるときまで…私も…イシュメール、君も…。\n自分の船の舵を、自ら手放すのはやめにしよう。>"
+  }
+]

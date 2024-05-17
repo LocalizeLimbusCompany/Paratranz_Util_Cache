@@ -1,0 +1,780 @@
+[
+  {
+    "key": "0-place",
+    "original": "감상실",
+    "context": "EN :\nScreening Room\nJP :\n鑑賞室"
+  },
+  {
+    "key": "0-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "0-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "0-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "0-content",
+    "original": "이렇게 생각하는 게 어때?",
+    "context": "EN :\nWhy don't we look at it this way?\nJP :\nこう考えるのはどうかな？"
+  },
+  {
+    "key": "1-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "1-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "1-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "1-content",
+    "original": "N사에 새로운 구인회가 만들어졌다는 거 알고 있어?",
+    "context": "EN :\nDid you know that a new League of Nine has been formed in N Corp?\nJP :\nN社に新しい九人会が作られたのって知ってる？"
+  },
+  {
+    "key": "2-model",
+    "original": "동백에고각성중_다침",
+    "translation": "冬柏E.G.O觉醒中_受伤",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "2-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "2-title",
+    "original": "개화 E.G.O::동백",
+    "context": "EN :\nTechnology Liberation Alliance\nJP :\n開花 E.G.O::壇香梅"
+  },
+  {
+    "key": "2-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "3-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "3-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "3-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "3-content",
+    "original": "거기서 네가 하려 했던 거랑 비슷하게 예전 기술이나 사람들을 모으고 있나 봐.",
+    "context": "EN :\nThey seem to be recruiting the old members and their technologies, similar to what you tried to do.\nJP :\nそこで君がやろうとしていたのと同じように、昔の技術や人を集めているみたい。"
+  },
+  {
+    "key": "4-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "4-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "4-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "4-content",
+    "original": "오히려 그때를 지우려 하고 있는 것 같기도 하고.",
+    "context": "EN :\nThough, it looks like they're trying to erase that past, rather.\nJP :\nむしろ、あのときを消そうとしてるような気もするし。"
+  },
+  {
+    "key": "5-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "5-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "5-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "5-content",
+    "original": "그래서 이건 순전히 내 생각일 뿐인데 우리는 어차피 구보, 그 친구에게 차례차례 죽어서 박제당할 목숨이야.",
+    "context": "EN :\nThis is purely conjecture, but we're all doomed to die at the hands of our dear fellow Gubo and be taxidermied, one after another.\nJP :\nだからこれは単なる僕の考えなんだけど、僕たちはどうせクボ、あいつに順序よく殺されて剥製にされる運命なんだ。"
+  },
+  {
+    "key": "6-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "6-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "6-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "6-content",
+    "original": "내가 지금 그 순간을 앞당겼을 뿐이지.",
+    "context": "EN :\nAll I did was bring that predetermined death a bit earlier.\nJP :\n僕が今その瞬間を少し早めただけさ。"
+  },
+  {
+    "key": "7-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "7-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "7-content",
+    "original": "그리고… 지난 우정으로 모든 걸 덮기에는 너무 선을 넘었어, 동백.",
+    "context": "EN :\nBesides... You've gone too far for our past friendship to forgive, Dongbaek.\nJP :\nそして…過ぎた友情で全てを埋め合わせるにも、とっくに一線を越えてるからね。ドンベク。"
+  },
+  {
+    "key": "8-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "8-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "8-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "8-content",
+    "original": "아~ 내일 회식, 정말 기대하고 있었는데.",
+    "context": "EN :\nAhh~ I was looking forward to the staff dinner tomorrow, I really was.\nJP :\nあ～明日の会食、本当に楽しみにしてたんだけどな。"
+  },
+  {
+    "key": "9-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "9-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "9-content",
+    "original": "자… 그만 흐드러지자, 동백.",
+    "context": "EN :\nCome on, then... It's time you ceased the bloom, Dongbaek.\nJP :\nさぁ…咲き誇るのはやめだ、ドンベク。"
+  },
+  {
+    "key": "10-content",
+    "original": "황금가지를 집은 동랑은 망설임 없이 동백을 꿰뚫는다. ",
+    "context": "EN :\nWith the Golden Bough in hand, Dongrang stabs Dongbaek without hesitation.\nJP :\n黄金の枝を掴んだドンランは、躊躇うことなくドンベクを貫く。"
+  },
+  {
+    "key": "11-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "11-content",
+    "original": "왜…",
+    "context": "EN :\nBut why…\nJP :\nどうして…。"
+  },
+  {
+    "key": "12-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "12-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "12-content",
+    "original": "… … …",
+    "context": "EN :\n… … …\nJP :\n… … …。"
+  },
+  {
+    "key": "13-model",
+    "original": "동백에고각성중_찔림",
+    "translation": "冬柏E.G.O觉醒中_被刺",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "13-title",
+    "original": "개화 E.G.O::동백",
+    "context": "EN :\nTechnology Liberation Alliance\nJP :\n開花 E.G.O::壇香梅"
+  },
+  {
+    "key": "13-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "14-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "14-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "14-content",
+    "original": "많은 이유를 설명할 수 있지만… 그래, 이건 내 마지막 온정이야.",
+    "context": "EN :\nI could state many reasons, but... right, let's say this is my parting act of compassion.\nJP :\n理由は沢山説明できるけど…うん、これは僕の最後の温情だよ。"
+  },
+  {
+    "key": "15-model",
+    "original": "동백에고각성중_찔림",
+    "translation": "冬柏E.G.O觉醒中_被刺",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "15-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "15-title",
+    "original": "개화 E.G.O::동백",
+    "context": "EN :\nTechnology Liberation Alliance\nJP :\n開花 E.G.O::壇香梅"
+  },
+  {
+    "key": "15-content",
+    "original": "…때가 되면 시들 수밖에 없다는 걸 알고 있었지만…",
+    "context": "EN :\n...I knew I'd have to wilt when the time came, but...\nJP :\n…時が来れば枯れるしかないということは分かっていたけど。"
+  },
+  {
+    "key": "16-model",
+    "original": "동백에고각성중_찔림",
+    "translation": "冬柏E.G.O觉醒中_被刺",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "16-title",
+    "original": "개화 E.G.O::동백",
+    "context": "EN :\nTechnology Liberation Alliance\nJP :\n開花 E.G.O::壇香梅"
+  },
+  {
+    "key": "16-content",
+    "original": "나는… 언제나…",
+    "context": "EN :\nI... always...\nJP :\n私は…いつでも…。"
+  },
+  {
+    "key": "17-model",
+    "original": "동백에고각성중_찔림",
+    "translation": "冬柏E.G.O觉醒中_被刺",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "17-title",
+    "original": "개화 E.G.O::동백",
+    "context": "EN :\nTechnology Liberation Alliance\nJP :\n開花 E.G.O::壇香梅"
+  },
+  {
+    "key": "17-content",
+    "original": "곧 피어날… 향기를 머금은 봉우리이고 싶었어…",
+    "context": "EN :\nWished to be a bud... soon to bloom, bearing the scent within...\nJP :\nもうじき咲き出す…香りを宿した蕾でありたかった…。"
+  },
+  {
+    "key": "18-model",
+    "original": "동백에고각성중_찔림",
+    "translation": "冬柏E.G.O觉醒中_被刺",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "18-title",
+    "original": "개화 E.G.O::동백",
+    "context": "EN :\nTechnology Liberation Alliance\nJP :\n開花 E.G.O::壇香梅"
+  },
+  {
+    "key": "18-content",
+    "original": "이상, 네가… 날아가고 싶은 꿈을… 꾼 것처럼…",
+    "context": "EN :\nLike you, Yi Sang... How you dreamed... of flying...\nJP :\nイサン、あなたが…飛んでいきたい夢を…見たように…。"
+  },
+  {
+    "key": "19-model",
+    "original": "동백에고각성중_찔림",
+    "translation": "冬柏E.G.O觉醒中_被刺",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "19-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "19-title",
+    "original": "개화 E.G.O::동백",
+    "context": "EN :\nTechnology Liberation Alliance\nJP :\n開花 E.G.O::壇香梅"
+  },
+  {
+    "key": "19-content",
+    "original": "나도… 그저… 너희들과 함께… 알싸한 꽃향기에… 흔적도 없이 파묻히고 싶었던 것 뿐이야…",
+    "context": "EN :\nLike that... I just... wanted to be buried... under a piquant scent of flowers... with you all...\nJP :\n私も…ただ…あなたたちと一緒に…え辛い香りへと…跡形もなく埋もれたかっただけなの…。"
+  },
+  {
+    "key": "20-model",
+    "original": "K사안내방송",
+    "translation": "K公司广播",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "20-teller",
+    "original": "아나운서",
+    "context": "EN :\nAnnouncer\nJP :\nアナウンサー"
+  },
+  {
+    "key": "20-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "20-content",
+    "original": "새로운 사료가 추가되었습니다.",
+    "context": "EN :\nNew feed has been added.\nJP :\n新しい飼料が追加されました。"
+  },
+  {
+    "key": "21-content",
+    "original": "이윽고 화면은 노란 꽃잎들로 채워져 간다. ",
+    "context": "EN :\nSoon, the screen is filled with yellow petals.\nJP :\nやがて画面は黄色い花びらで満たされていく。"
+  },
+  {
+    "key": "22-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "22-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "23-model",
+    "original": "과거동백",
+    "translation": "过去的冬柏",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "23-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "23-title",
+    "original": "구인회",
+    "context": "EN :\nLeague of Nine Littérateurs\nJP :\n九人会"
+  },
+  {
+    "key": "23-content",
+    "original": "고마워, 이상. 내게 그런 순간을 보여줘서.",
+    "context": "EN :\nThank you, Yi Sang. For showing me such a moment.\nJP :\nありがとう、イサン。私にあんな瞬間を見せてくれて。"
+  },
+  {
+    "key": "24-model",
+    "original": "과거동백",
+    "translation": "过去的冬柏",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "24-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "24-title",
+    "original": "구인회",
+    "context": "EN :\nLeague of Nine Littérateurs\nJP :\n九人会"
+  },
+  {
+    "key": "24-content",
+    "original": "내 전부를 걸고 갚고 싶을 정도야…",
+    "context": "EN :\nI would dedicate my entire life to repay you for this favor...\nJP :\n私の全てを懸けてお返ししたいくらいだったよ…。"
+  },
+  {
+    "key": "25-model",
+    "original": "과거동랑",
+    "translation": "过去的东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "25-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "25-title",
+    "original": "구인회",
+    "context": "EN :\nLeague of Nine Littérateurs\nJP :\n九人会"
+  },
+  {
+    "key": "25-content",
+    "original": "이상, 나랑 나중에 따로 연구실 차릴 생각은 없어? 하루하루가 재밌을 것 같다는 생각이 들거든.",
+    "context": "EN :\nHey, Yi Sang, what say you to setting up a lab with me? I get the feeling every day spent with you will be a fun one.\nJP :\nイサン、僕と後で研究室を別途で作るつもりはない？毎日が面白くなりそうだって思うんだ。"
+  },
+  {
+    "key": "26-model",
+    "original": "영지",
+    "translation": "灵之",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "영지",
+    "context": "EN :\nYoung-ji\nJP :\nヨンジ"
+  },
+  {
+    "key": "26-title",
+    "original": "구인회",
+    "context": "EN :\nLeague of Nine Littérateurs\nJP :\n九人会"
+  },
+  {
+    "key": "26-content",
+    "original": "대단하구나, 이상. 너는 나랑 달리… 똑바른 참모습을 비추려고 하였구나.",
+    "context": "EN :\nAmazing, Yi Sang. Unlike me, you attempted to reflect the true image in all its uprightness.\nJP :\n凄いんだね、イサン。君は僕と違って…まっすぐな真の姿を映そうとしたんだね。"
+  },
+  {
+    "key": "27-model",
+    "original": "영지",
+    "translation": "灵之",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "영지",
+    "context": "EN :\nYoung-ji\nJP :\nヨンジ"
+  },
+  {
+    "key": "27-title",
+    "original": "구인회",
+    "context": "EN :\nLeague of Nine Littérateurs\nJP :\n九人会"
+  },
+  {
+    "key": "27-content",
+    "original": "겹쳐지지도 않고… 흐릿하지도, 흔들리지도 않네.",
+    "context": "EN :\nThe images don't overlap... They aren't blurry or shaky.\nJP :\n重なりもせず…ぼやけも、揺れもしないね。"
+  },
+  {
+    "key": "28-model",
+    "original": "과거구보",
+    "translation": "过去的仇甫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "구보",
+    "context": "EN :\nGubo\nJP :\nクボ"
+  },
+  {
+    "key": "28-title",
+    "original": "구인회",
+    "context": "EN :\nLeague of Nine Littérateurs\nJP :\n九人会"
+  },
+  {
+    "key": "28-content",
+    "original": "이상, 자네는 너무 물러.",
+    "context": "EN :\nYi Sang, you're too lax.\nJP :\nイサン、そなたはあまりにも柔い。"
+  },
+  {
+    "key": "29-model",
+    "original": "과거구보",
+    "translation": "过去的仇甫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "29-teller",
+    "original": "구보",
+    "context": "EN :\nGubo\nJP :\nクボ"
+  },
+  {
+    "key": "29-title",
+    "original": "구인회",
+    "context": "EN :\nLeague of Nine Littérateurs\nJP :\n九人会"
+  },
+  {
+    "key": "29-content",
+    "original": "대체 그걸 왜 놀잇거리로만 두는 건가?",
+    "context": "EN :\nWhy on earth would you leave it as a plaything when it can be so much more?\nJP :\n一体どうしてそれを遊ぶ用途だけに留めたんだ？"
+  },
+  {
+    "key": "30-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "30-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "30-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "30-content",
+    "original": "가만히.",
+    "context": "EN :\nBe still.\nJP :\nじっとしろ。"
+  },
+  {
+    "key": "31-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "31-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "31-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "31-content",
+    "original": "그냥 가만히 숨만 쉬는 거야.",
+    "context": "EN :\nJust be still, and do nothing more than breathe.\nJP :\nただじっと息だけを吸うんだ。"
+  },
+  {
+    "key": "32-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "32-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "32-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "32-content",
+    "original": "지금은, 그렇게 살아야 해.",
+    "context": "EN :\nFor now, that's how you must live.\nJP :\n今は、そうやって生きなければならないんだ。"
+  },
+  {
+    "key": "33-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "33-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "33-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "33-content",
+    "original": "너는 날지 못해.",
+    "context": "EN :\nYou cannot fly.\nJP :\nお前は飛べやしない。"
+  },
+  {
+    "key": "34-model",
+    "original": "과거구보",
+    "translation": "过去的仇甫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "34-teller",
+    "original": "구보",
+    "context": "EN :\nGubo\nJP :\nクボ"
+  },
+  {
+    "key": "34-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "34-content",
+    "original": "구인회는 산산조각 났어! 우린 이곳을 떠나야 돼.",
+    "context": "EN :\nThe League has fallen apart! We have to leave this place.\nJP :\n九人会はバラバラだ！僕たちはここを去らなきゃならないんだ。"
+  },
+  {
+    "key": "35-model",
+    "original": "과거구보",
+    "translation": "过去的仇甫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "35-teller",
+    "original": "구보",
+    "context": "EN :\nGubo\nJP :\nクボ"
+  },
+  {
+    "key": "35-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "35-content",
+    "original": "이상, 자네는 나와 함께 가는 거야.",
+    "context": "EN :\nYi Sang, you will come with me.\nJP :\nイサン、そなたは僕と共に行くんだ。"
+  },
+  {
+    "key": "36-model",
+    "original": "과거구보",
+    "translation": "过去的仇甫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "36-teller",
+    "original": "구보",
+    "context": "EN :\nGubo\nJP :\nクボ"
+  },
+  {
+    "key": "36-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "36-content",
+    "original": "원한다면 눈은 감아도 돼. 자네는 너무나 무르니까 한 치 앞은 내가 대신 봐주지.",
+    "context": "EN :\nYou can close your eyes if you so wish. Since you're too faint-hearted, I'll see ahead in your stead.\nJP :\n望むなら目は閉じてもいい。そなたはとても柔いから、一寸先は僕が代わりに見てあげよう。"
+  },
+  {
+    "key": "37-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "37-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "37-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "37-content",
+    "original": "무슨 생각을 하고 있어?",
+    "context": "EN :\nWhat are you thinking?\nJP :\n何を考えてるんだい？"
+  },
+  {
+    "key": "38-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "38-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "39-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "39-content",
+    "original": "아무것도.",
+    "context": "EN :\nNothing.\nJP :\n何も。"
+  },
+  {
+    "key": "40-content",
+    "original": "<color=#d4e1e8>그리고 묘혈의 향기가 만개하였소.</color>",
+    "context": "EN :\n<color=#d4e1e8>And the scent of the grave was in full bloom.</color>\nJP :\n<color=#d4e1e8>かくして、墓穴の香りが満開なりけり。</color>"
+  }
+]

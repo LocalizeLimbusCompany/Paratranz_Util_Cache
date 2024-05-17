@@ -1,0 +1,52 @@
+[
+  {
+    "key": "KeptBlood-name",
+    "original": "머금은 피",
+    "context": "EN :\nStored Blood\nJP :\n宿した血"
+  },
+  {
+    "key": "KeptBlood-desc",
+    "original": "- 최대 10\n- 최대 체력의 5%를 잃을 때마다 1씩 감소함.\n- 적중 시 최대 체력의 1%만큼 체력 회복",
+    "context": "EN :\n- Max Value: 10\n- Lose 1 value every time this unit loses 5% HP.\n- On Hit, heal 1% of this unit's HP\nJP :\n- 最大10\n- 体力を最大値の5%失うたびに1ずつ減少\n- 的中時、体力最大値の1%だけ体力を回復"
+  },
+  {
+    "key": "BloodyCrave-name",
+    "original": "핏빛 갈구",
+    "context": "EN :\nBloodtinged Craving\nJP :\n血紅色の渇求"
+  },
+  {
+    "key": "BloodyCrave-desc",
+    "original": "- 매 턴마다 합 위력 증가 1 , 피해량 증가 1 얻음\n- 적중 시, 머금은 피를  1 얻음\n- 이번 턴에 머금은 피를 얻지 못했다면,  매 턴 얻는 효과 대신 다음 턴에 취약 2, 신속 1, 공격 레벨 증가 4 얻음",
+    "context": "EN :\n- Gain 1 Clash Power Up and 1 Damage Up every turn\n- On Hit, gain 1 Stored Blood\n- If this unit did not gain Stored Blood this turn, gain 2 Fragile, 1 Haste, and 4 Offense Level Up next turn instead of the above effect\nJP :\n- 毎ターンマッチ威力増加1, ダメージ量増加 1を得る\n- 的中時、宿した血 1を得る\n- このターンに宿した血 を得られなかったなら、毎ターン得る効果の代わりに次のターンにて脆弱 2, クイック 1, 攻撃レベル増加 4を得る"
+  },
+  {
+    "key": "BloodPocket_LowMorale-name",
+    "original": "흡혈 갈망",
+    "context": "EN :\nBloodthirst\nJP :\n吸血の渇望"
+  },
+  {
+    "key": "BloodPocket_LowMorale-desc",
+    "original": "턴 시작 시 취약, 피해량 증가 1 얻음",
+    "context": "EN :\nTurn Start: Gain 1 Fragile and Damage Up\nJP :\nターン開始時に脆弱, ダメージ量増加 1を得る"
+  },
+  {
+    "key": "BloodPocket_Panic-name",
+    "original": "흡혈 갈망",
+    "context": "EN :\nBloodthirst\nJP :\n吸血の渇望"
+  },
+  {
+    "key": "BloodPocket_Panic-desc",
+    "original": "턴 시작시 취약, 피해량 증가 2 얻음",
+    "context": "EN :\nTurn Start: Gain 2 Fragile and Damage Up\nJP :\nターン開始時に脆弱, ダメージ量増加 2を得る"
+  },
+  {
+    "key": "HardenedBlood-name",
+    "original": "경화 혈액",
+    "context": "EN :\nCoagulated Blood\nJP :\n硬化血液"
+  },
+  {
+    "key": "HardenedBlood-desc",
+    "original": "수치만큼 자신의 공격 레벨과 방어 레벨이 증가 (최대 5)",
+    "context": "EN :\nGain Offense Level and Defense Level equal to the value (max 5)\nJP :\n数値だけ自分の攻撃レベルと防御レベルが増加(最大5)"
+  }
+]

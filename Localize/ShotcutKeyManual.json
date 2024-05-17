@@ -1,0 +1,72 @@
+[
+  {
+    "key": "shotcutKeyManual_confirm_popup-content",
+    "original": "[공용] 팝업 확인",
+    "context": "EN :\n[General] Confirm Popup\nJP :\n[共用] ポップアップ確認"
+  },
+  {
+    "key": "shotcutKeyManual_skip_story-content",
+    "original": "[스토리] 대화 넘기기",
+    "context": "EN :\n[Story] Skip Dialogue\nJP :\n[ストーリー] ダイアログをスキップ"
+  },
+  {
+    "key": "shotcutKeyManual_skip_extraction-content",
+    "original": "[추출] 연출 스킵",
+    "context": "EN :\n[Extractions] Skip Animation\nJP :\n[抽出] 演出スキップ"
+  },
+  {
+    "key": "shotcutKeyManual_pause_and_play-content",
+    "original": "[전투] 일시정지 · 재개",
+    "context": "EN :\n[Encounters] Pause & Resume\nJP :\n[戦闘] 一時停止・再開"
+  },
+  {
+    "key": "shotcutKeyManual_start_battle-content",
+    "original": "[전투] 시작",
+    "context": "EN :\n[Encounters] Start Combat Phase\nJP :\n[戦闘] 開始"
+  },
+  {
+    "key": "shotcutKeyManual_button_winning-content",
+    "original": "[전투] 승률 버튼",
+    "context": "EN :\n[Encounters] Win Rate\nJP :\n[戦闘] 勝率ボタン"
+  },
+  {
+    "key": "shotcutKeyManual_button_damage-content",
+    "original": "피해량 버튼",
+    "context": "EN :\nDamage Button\nJP :\nダメージ量ボタン"
+  },
+  {
+    "key": "shotcutKeyManual_close_popup-content",
+    "original": "[공용] 팝업 닫기",
+    "context": "EN :\n[General] Close Popup\nJP :\n[共用] ポップアップを閉じる"
+  },
+  {
+    "key": "shotcutKeyManual_cancel_back-content",
+    "original": "취소 · 뒤로 가기",
+    "context": "EN :\nCancel or Return to Previous Menu\nJP :\nキャンセル・戻る"
+  },
+  {
+    "key": "shotcutKeyManual_quit_game-content",
+    "original": "게임 종료",
+    "context": "EN :\nQuit game\nJP :\nゲーム終了"
+  },
+  {
+    "key": "shotcutKeyManual_move_screen-content",
+    "original": "[전투] 화면 이동",
+    "context": "EN :\n[Encounters] Move Camera\nJP :\n[戦闘] カメラ移動"
+  },
+  {
+    "key": "shotcutKeyManual_show_current_situation-content",
+    "original": "[전투] 화살표 표시",
+    "context": "EN :\n[Encounters] Display Clash Arrows\nJP :\n[戦闘] カーソル表示"
+  },
+  {
+    "key": "shotcutKeyManual_open_manual-content",
+    "original": "[공용] UI 매뉴얼 열기",
+    "context": "EN :\n[General] Open UI Manual\nJP :\n[共用] UIマニュアルを開く"
+  },
+  {
+    "key": "shotcutKeyManual_zoom_inout_battle-content",
+    "original": "[전투] 화면 확대 축소",
+    "context": "EN :\n[Encounters] Zoom In & Out\nJP :\n[戦闘] 画面拡大・縮小"
+  }
+]

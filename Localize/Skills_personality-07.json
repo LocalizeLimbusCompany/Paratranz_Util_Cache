@@ -1,0 +1,922 @@
+[
+  {
+    "key": "1070701-levelList$[0].name",
+    "original": "사냥감 추적",
+    "context": "EN :\nStalk Prey\nJP :\n獲物追跡"
+  },
+  {
+    "key": "1070701-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 호흡 횟수 2 증가\n[WhenUse] 다음 턴에 이 슬롯이 도발치 2을 얻음",
+    "context": "EN :\n[WhenUse] Gain +2 Poise Count\n[WhenUse] Gain +2 Aggro to this Skill Slot next turn\nJP :\n[WhenUse] 自分の呼吸 回数が2増加\n[WhenUse] 次のターンにこのスロットが挑発値2を得る"
+  },
+  {
+    "key": "1070701-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Bleed\nJP :\n[OnSucceedAttackHead] 出血 2を付与"
+  },
+  {
+    "key": "1070701-levelList$[1].name",
+    "original": "사냥감 추적",
+    "context": "EN :\nStalk Prey\nJP :\n獲物追跡"
+  },
+  {
+    "key": "1070701-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 호흡 횟수 3 증가\n[WhenUse] 다음 턴에 이 슬롯이 도발치 3을 얻음",
+    "context": "EN :\n[WhenUse] Gain +3 Poise Count\n[WhenUse] Gain +3 Aggro to this Skill Slot next turn\nJP :\n[WhenUse] 自分の呼吸 回数が3増加\n[WhenUse] 次のターンにこのスロットが挑発値3を得る"
+  },
+  {
+    "key": "1070701-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "1070701-levelList$[2].name",
+    "original": "사냥감 추적",
+    "context": "EN :\nStalk Prey\nJP :\n獲物追跡"
+  },
+  {
+    "key": "1070701-levelList$[2].desc",
+    "original": "[WhenUse] 자신의 호흡 횟수 4 증가\n[WhenUse] 다음 턴에 이 슬롯이 도발치 5를 얻음",
+    "context": "EN :\n[WhenUse] Gain +4 Poise Count\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn\nJP :\n[WhenUse] 自分の呼吸 回数が4増加\n[WhenUse] 次のターンにこのスロットが挑発値5を得る"
+  },
+  {
+    "key": "1070701-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "1070702-levelList$[0].name",
+    "original": "작살박이",
+    "context": "EN :\nSnagharpoon\nJP :\n銛穿ち"
+  },
+  {
+    "key": "1070702-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 이 슬롯이 도발치 2를 얻음",
+    "context": "EN :\n[WhenUse] Gain +2 Aggro to this Skill Slot next turn\nJP :\n[WhenUse] 次のターンにこのスロットが挑発値2を得る"
+  },
+  {
+    "key": "1070702-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] 대상의 출혈 위력의 1/4만큼 대상의 출혈 횟수 증가 (최대 10)",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict Bleed Count equal to 1/4 of Bleed Potency on target (Max 10)\nJP :\n[CriticalOnSucceedAttack] 対象の出血 威力の1/4だけ、対象の出血回数が増加(最大10)"
+  },
+  {
+    "key": "1070702-levelList$[1].name",
+    "original": "작살박이",
+    "context": "EN :\nSnagharpoon\nJP :\n銛穿ち"
+  },
+  {
+    "key": "1070702-levelList$[1].desc",
+    "original": "[WhenUse] 다음 턴에 이 슬롯이 도발치 3을 얻음\n[WhenUse] 대상의 출혈 3당 호흡 1 얻음 (최대 10)",
+    "context": "EN :\n[WhenUse] Gain +3 Aggro to this Skill Slot next turn\n[WhenUse] Gain 1 Poise for every 3 Bleed on target (Max 10)\nJP :\n[WhenUse] 次のターンにこのスロットが挑発値3を得る\n[WhenUse] 対象の出血 3につき、呼吸 1を得る(最大10)"
+  },
+  {
+    "key": "1070702-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] 대상의 출혈 위력의 1/4만큼 대상의 출혈 횟수 증가 (최대 10)",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict Bleed Count equal to 1/4 of Bleed Potency on target (Max 10)\nJP :\n[CriticalOnSucceedAttack] 対象の出血 威力の1/4だけ、対象の出血回数が増加(最大10)"
+  },
+  {
+    "key": "1070702-levelList$[2].name",
+    "original": "작살박이",
+    "context": "EN :\nSnagharpoon\nJP :\n銛穿ち"
+  },
+  {
+    "key": "1070702-levelList$[2].desc",
+    "original": "[WhenUse] 다음 턴에 이 슬롯이 도발치 5를 얻음\n[WhenUse] 대상의 출혈 3당 호흡 1 얻음 (최대 10)",
+    "context": "EN :\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn\n[WhenUse] Gain 1 Poise for every 3 Bleed on target (Max 10)\nJP :\n[WhenUse] 次のターンにこのスロットが挑発値5を得る\n[WhenUse] 対象の出血 3につき、呼吸 1を得る(最大10)"
+  },
+  {
+    "key": "1070702-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] 대상의 출혈 위력의 1/3만큼 대상의 출혈 횟수 증가 (최대 10)",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict Bleed Count equal to 1/3 of Bleed Potency on target (Max 10)\nJP :\n[CriticalOnSucceedAttack] 対象の出血 威力の1/3だけ、対象の出血回数が増加(最大10)"
+  },
+  {
+    "key": "1070703-levelList$[0].name",
+    "original": "매듭 끊기",
+    "context": "EN :\nSever Knot\nJP :\n結び目を絶つ"
+  },
+  {
+    "key": "1070703-levelList$[0].desc",
+    "original": "질투 공명 3 이상이면 합 위력 +1\n질투 공명 4 이상이면 코인 위력 +1",
+    "context": "EN :\nAt 3+ Envy Reson., Clash Power +1\nAt 4+ Envy Reson., Coin Power +1\nJP :\n嫉妬共鳴が3以上ならマッチ威力+1\n嫉妬完全共鳴が4以上ならコイン威力+1"
+  },
+  {
+    "key": "1070703-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "1070703-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 체력이 최대 체력의 50% 미만이면 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] At 50%- HP, inflict 1 Bleed\nJP :\n[OnSucceedAttack] 自分の体力が最大値の50%未満なら、出血 1を付与"
+  },
+  {
+    "key": "1070703-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "1070703-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 체력이 최대 체력의 50% 미만이면 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] At 50%- HP, inflict 1 Bleed\nJP :\n[OnSucceedAttack] 自分の体力が最大値の50%未満なら、出血 1を付与"
+  },
+  {
+    "key": "1070703-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] 크리티컬 피해량 +30%",
+    "context": "EN :\n[CriticalOnSucceedAttack] +30% Damage on Critical Hit\nJP :\n[CriticalOnSucceedAttack] クリティカルダメージ量 +30%"
+  },
+  {
+    "key": "1070703-levelList$[1].name",
+    "original": "매듭 끊기",
+    "context": "EN :\nSever Knot\nJP :\n結び目を絶つ"
+  },
+  {
+    "key": "1070703-levelList$[1].desc",
+    "original": "질투 공명 3 이상이면 합 위력 +1\n질투 공명 4 이상이면 코인 위력 +1\n질투 완전 공명 6 이상이면 코인 위력 +1",
+    "context": "EN :\nAt 3+ Envy Reson., Clash Power +1\nAt 4+ Envy Reson., Coin Power +1\nAt 6+ Envy A-Reson., Coin Power +1\nJP :\n嫉妬共鳴が3以上なら、マッチ威力 +1\n嫉妬共鳴が4以上なら、コイン威力 +1\n嫉妬完全共鳴6以上ならコイン威力 +1"
+  },
+  {
+    "key": "1070703-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "1070703-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 체력이 최대 체력의 75% 미만이면 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] At 75%- HP, inflict 1 Bleed\nJP :\n[OnSucceedAttack] 自分の体力が最大値の75%未満なら、出血 1を付与"
+  },
+  {
+    "key": "1070703-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 자신의 체력이 최대 체력의 50% 미만이면 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] At 50%- HP, inflict 1 Bleed\nJP :\n[OnSucceedAttack] 自分の体力が最大値の50%未満なら、出血 1を付与"
+  },
+  {
+    "key": "1070703-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "1070703-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 체력이 최대 체력의 75% 미만이면 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] At 75%- HP, inflict 1 Bleed\nJP :\n[OnSucceedAttack] 自分の体力が最大値の75%未満なら、出血 1を付与"
+  },
+  {
+    "key": "1070703-levelList$[1].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 자신의 체력이 최대 체력의 50% 미만이면 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] At 50%- HP, inflict 1 Bleed\nJP :\n[OnSucceedAttack] 自分の体力が最大値の50%未満なら、出血 1を付与"
+  },
+  {
+    "key": "1070703-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] 크리티컬 피해량 +50%",
+    "context": "EN :\n[CriticalOnSucceedAttack] +50% Damage on Critical Hit\nJP :\n[CriticalOnSucceedAttack] クリティカルダメージ量 +50%"
+  },
+  {
+    "key": "1070704-levelList$[0].name",
+    "original": "되갚기",
+    "context": "EN :\nPayback\nJP :\nお返し"
+  },
+  {
+    "key": "1070704-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 이 슬롯이 도발치 2를 얻음\n[StartBattle] 자신의 [Breath]만큼 [DefenseUp]를 얻음. (최대 10)",
+    "context": "EN :\n[WhenUse] Gain +2 Aggro to this Skill Slot next turn\n[StartBattle] Gain [DefenseUp] for every [Breath] on self (Max 10)\nJP :\n[WhenUse] 次のターンにこのスロットが挑発値2を得る\n[StartBattle] 自分の[Breath]だけ[DefenseUp]を得る(最大10)"
+  },
+  {
+    "key": "1070704-levelList$[1].name",
+    "original": "되갚기",
+    "context": "EN :\nPayback\nJP :\nお返し"
+  },
+  {
+    "key": "1070704-levelList$[1].desc",
+    "original": "[WhenUse] 다음 턴에 이 슬롯이 도발치 5를 얻음\n[StartBattle] 자신의 [Breath]만큼 [DefenseUp]를 얻음. (최대 10)",
+    "context": "EN :\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn\n[StartBattle] Gain [DefenseUp] for every [Breath] on self (Max 10)\nJP :\n[WhenUse] 次のターンにこのスロットが挑発値5を得る\n[StartBattle] 自分の[Breath]だけ[DefenseUp]を得る(最大10)"
+  },
+  {
+    "key": "1070801-levelList$[0].name",
+    "original": "이행 권고",
+    "context": "EN :\nExecution Advised\nJP :\n履行勧告"
+  },
+  {
+    "key": "1070801-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]回数が2増加"
+  },
+  {
+    "key": "1070801-levelList$[1].name",
+    "original": "이행 권고",
+    "context": "EN :\nExecution Advised\nJP :\n履行勧告"
+  },
+  {
+    "key": "1070801-levelList$[1].desc",
+    "original": "대상의 [Vibration]이 3 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf the target has 3+ [Vibration], Coin Power +1\nJP :\n対象の[Vibration]が3以上ならコイン威力 +1"
+  },
+  {
+    "key": "1070801-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]回数が2増加"
+  },
+  {
+    "key": "1070801-levelList$[2].name",
+    "original": "이행 권고",
+    "context": "EN :\nExecution Advised\nJP :\n履行勧告"
+  },
+  {
+    "key": "1070801-levelList$[2].desc",
+    "original": "대상의 [Vibration] 3 당 코인 위력 +1 (최대 2)",
+    "context": "EN :\nCoin Power +1 for every 3 [Vibration] on target (Max 2)\nJP :\n対象の[Vibration]3につきコイン威力 +1(最大2)"
+  },
+  {
+    "key": "1070801-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]回数が2増加"
+  },
+  {
+    "key": "1070802-levelList$[0].name",
+    "original": "마지막 경고",
+    "context": "EN :\nFinal Warning\nJP :\n最終警告"
+  },
+  {
+    "key": "1070802-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]2を付与"
+  },
+  {
+    "key": "1070802-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]2を付与"
+  },
+  {
+    "key": "1070802-levelList$[1].name",
+    "original": "마지막 경고",
+    "context": "EN :\nFinal Warning\nJP :\n最終警告"
+  },
+  {
+    "key": "1070802-levelList$[1].desc",
+    "original": "대상의 [Vibration]이 6 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf the target has 6+ [Vibration], Coin Power +1\nJP :\n対象の[Vibration]が6以上ならコイン威力 +1"
+  },
+  {
+    "key": "1070802-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]2を付与"
+  },
+  {
+    "key": "1070802-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]2を付与"
+  },
+  {
+    "key": "1070802-levelList$[2].name",
+    "original": "마지막 경고",
+    "context": "EN :\nFinal Warning\nJP :\n最終警告"
+  },
+  {
+    "key": "1070802-levelList$[2].desc",
+    "original": "대상의 [Vibration] 6 당 코인 위력 +1 (최대 2)",
+    "context": "EN :\nCoin Power +1 for every 6 [Vibration] on target (Max 2)\nJP :\n対象の[Vibration]6につきコイン威力 +1(最大2)"
+  },
+  {
+    "key": "1070802-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]2を付与"
+  },
+  {
+    "key": "1070802-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]2を付与"
+  },
+  {
+    "key": "1070803-levelList$[0].name",
+    "original": "집행 선고",
+    "context": "EN :\nExecution Sentencing\nJP :\n執行宣告"
+  },
+  {
+    "key": "1070803-levelList$[0].desc",
+    "original": "대상의 [Vibration]이 6 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf the target has 6+ [Vibration], Coin Power +1\nJP :\n対象の[Vibration]が6以上ならコイン威力 +1"
+  },
+  {
+    "key": "1070803-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]1を付与"
+  },
+  {
+    "key": "1070803-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]1を付与"
+  },
+  {
+    "key": "1070803-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Vibration] 위력과 횟수의 합이 20 이상이면, [VibrationCollapse]로 [Switch_Vibration]",
+    "context": "EN :\n[OnSucceedAttack] If the sum of the target's [Vibration] Potency + Count is 20 or higher, trigger [Switch_Vibration] on target, converting [Vibration] to [VibrationCollapse]\nJP :\n[OnSucceedAttack] 対象の[Vibration]威力と回数の合計が20以上なら、[VibrationCollapse]へ[Switch_Vibration]"
+  },
+  {
+    "key": "1070803-levelList$[1].name",
+    "original": "집행 선고",
+    "context": "EN :\nExecution Sentencing\nJP :\n執行宣告"
+  },
+  {
+    "key": "1070803-levelList$[1].desc",
+    "original": "대상의 [Vibration] 6 당 코인 위력 +1 (최대 2)",
+    "context": "EN :\nCoin Power +1 for every 6 [Vibration] on target (Max 2)\nJP :\n対象の[Vibration]6につきコイン威力 +1(最大2)"
+  },
+  {
+    "key": "1070803-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]1を付与"
+  },
+  {
+    "key": "1070803-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]1を付与"
+  },
+  {
+    "key": "1070803-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Vibration] 위력과 횟수의 합이 20 이상이면, [VibrationCollapse]로 [Switch_Vibration]",
+    "context": "EN :\n[OnSucceedAttack] If the sum of the target's [Vibration] Potency + Count is 20 or higher, trigger [Switch_Vibration] on target, converting [Vibration] to [VibrationCollapse]\nJP :\n[OnSucceedAttack] 対象の[Vibration]威力と回数の合計が20以上なら、[VibrationCollapse]へ[Switch_Vibration]"
+  },
+  {
+    "key": "1070804-levelList$[0].name",
+    "original": "방해는 금지다",
+    "context": "EN :\nDo Not Obstruct\nJP :\n妨害禁止だ"
+  },
+  {
+    "key": "1070804-levelList$[0].desc",
+    "original": "보호막이 있는 동안 피격 시 공격자의 [Vibration] 횟수 1 증가 (이 스킬의 효과는 중복되어 적용되지 않음)",
+    "context": "EN :\nWhen attacked while this unit has Shield, inflict +1 [Vibration] Count on the attacker (this Skill's effect does not stack with multiple uses)\nJP :\nバリアがある間、被ダメージ時に攻撃者の[Vibration]回数が1増加(このスキルの効果は重複発動しない)"
+  },
+  {
+    "key": "1070804-levelList$[1].name",
+    "original": "방해는 금지다",
+    "context": "EN :\nDo Not Obstruct\nJP :\n妨害禁止だ"
+  },
+  {
+    "key": "1070804-levelList$[1].desc",
+    "original": "보호막이 있는 동안 피격 시 공격자의 [Vibration] 횟수 1 증가 (이 스킬의 효과는 중복되어 적용되지 않음)",
+    "context": "EN :\nWhen attacked while this unit has Shield, inflict +1 [Vibration] Count on the attacker (this Skill's effect does not stack with multiple uses)\nJP :\nバリアがある間、被ダメージ時に攻撃者の[Vibration]回数が1増加(このスキルの効果は重複発動しない)"
+  },
+  {
+    "key": "1070901-levelList$[0].name",
+    "original": "40S-2 가동",
+    "context": "EN :\n40S-2 Activation\nJP :\n40S-2稼働"
+  },
+  {
+    "key": "1070901-levelList$[0].desc",
+    "original": "[WhenUse] [Charge] 횟수를 5 소모하여 코인 위력 +1",
+    "context": "EN :\n[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1\nJP :\n[WhenUse] [Charge]回数を5消耗し、コイン威力 +1"
+  },
+  {
+    "key": "1070901-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 [Charge] Count\nJP :\n[OnSucceedAttack] 自分の[Charge]回数が2増加"
+  },
+  {
+    "key": "1070901-levelList$[1].name",
+    "original": "40S-2 가동",
+    "context": "EN :\n40S-2 Activation\nJP :\n40S-2稼働"
+  },
+  {
+    "key": "1070901-levelList$[1].desc",
+    "original": "[WhenUse] [Charge] 횟수를 5 소모하여 코인 위력 +1<style=\"highlight\"></style>",
+    "context": "EN :\n[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>\nJP :\n[WhenUse] [Charge]回数を5消耗し、コイン威力 +1<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1070901-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Gain +2 [Charge] Count</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 自分の[Charge]回数が2増加</style>"
+  },
+  {
+    "key": "1070901-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 [Charge] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の[Charge]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1070901-levelList$[2].name",
+    "original": "40S-2 가동",
+    "context": "EN :\n40S-2 Activation\nJP :\n40S-2稼働"
+  },
+  {
+    "key": "1070901-levelList$[2].desc",
+    "original": "[WhenUse] [Charge] 횟수를 5 소모하여 코인 위력 +1<style=\"highlight\"></style>",
+    "context": "EN :\n[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>\nJP :\n[WhenUse] [Charge]回数を5消耗し、コイン威力 +1<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1070901-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 [Charge] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の[Charge]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1070901-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 [Charge] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の[Charge]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1070902-levelList$[0].name",
+    "original": "광전 표식",
+    "context": "EN :\nPhotoelectric Mark\nJP :\n光電標識"
+  },
+  {
+    "key": "1070902-levelList$[0].desc",
+    "original": "[WhenUse] [Charge] 횟수가 5 이상 10 미만이면, 최대 체력의 2 x (10 - 현재 [Charge] 횟수)%만큼 체력을 소모하여 [Charge] 횟수가 10으로 증가\n[WhenUse] [Charge] 횟수를 10 소모하여 코인 위력 +1",
+    "context": "EN :\n[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1\nJP :\n[WhenUse] [Charge]回数が5以上10未満なら、体力最大値の2 × (10 - 現在の[Charge]回数)%だけ体力を消耗して[Charge]回数が10へと増加\n[WhenUse] [Charge]回数を10消耗してコイン威力 +1"
+  },
+  {
+    "key": "1070902-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Charge]만큼 [PhotoElectricity] 부여 (최대 2)",
+    "context": "EN :\n[OnSucceedAttack] Inflict [PhotoElectricity] equal to [Charge] (max 2)\nJP :\n[OnSucceedAttack] 自分の[Charge]だけ[PhotoElectricity]を付与(最大2)"
+  },
+  {
+    "key": "1070902-levelList$[1].name",
+    "original": "광전 표식",
+    "context": "EN :\nPhotoelectric Mark\nJP :\n光電標識"
+  },
+  {
+    "key": "1070902-levelList$[1].desc",
+    "original": "[WhenUse] [Charge] 횟수가 5 이상 10 미만이면, 최대 체력의 2 x (10 - 현재 [Charge] 횟수)%만큼 체력을 소모하여 [Charge] 횟수가 10으로 증가\n[WhenUse] [Charge] 횟수를 10 소모하여 코인 위력 +1<style=\"highlight\"></style>",
+    "context": "EN :\n[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>\nJP :\n[WhenUse] [Charge]回数が5以上10未満なら、体力最大値の2 × (10 - 現在の[Charge]回数)%だけ体力を消耗して[Charge]回数が10へと増加\n[WhenUse] [Charge]回数を10消耗してコイン威力 +1<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1070902-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [Charge] 횟수를 소모했으면, [DefenseDown] 2 부여</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] If this unit consumed [Charge] Count, inflict 2 [DefenseDown]</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] [Charge]回数を消耗したなら、[DefenseDown]を2付与</style>"
+  },
+  {
+    "key": "1070902-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [TakeHpHealReduce] 1 부여</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Inflict 1 [TakeHpHealReduce]</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] [TakeHpHealReduce]1を付与</style>"
+  },
+  {
+    "key": "1070902-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 [Charge]만큼 [PhotoElectricity] 부여 (최대 <style=\"highlight\">3</style>)",
+    "context": "EN :\n[OnSucceedAttack] Inflict [PhotoElectricity] equal to [Charge] (max <style=\"highlight\">3</style>)\nJP :\n[OnSucceedAttack] 自分の[Charge]だけ[PhotoElectricity]を付与(最大<style=\"highlight\">3</style>)"
+  },
+  {
+    "key": "1070902-levelList$[2].name",
+    "original": "광전 표식",
+    "context": "EN :\nPhotoelectric Mark\nJP :\n光電標識"
+  },
+  {
+    "key": "1070902-levelList$[2].desc",
+    "original": "[WhenUse] [Charge] 횟수가 5 이상 10 미만이면, 최대 체력의 2 x (10 - 현재 [Charge] 횟수)%만큼 체력을 소모하여 [Charge] 횟수가 10으로 증가\n[WhenUse] [Charge] 횟수를 10 소모하여 코인 위력 <style=\"highlight\">+2</style>",
+    "context": "EN :\n[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power <style=\"highlight\">+2</style>\nJP :\n[WhenUse] [Charge]回数が5以上10未満なら、体力最大値の2 × (10 - 現在の[Charge]回数)%だけ体力を消耗して[Charge]回数が10へと増加\n[WhenUse] [Charge]回数を10消耗してコイン威力 <style=\"highlight\">+2</style>"
+  },
+  {
+    "key": "1070902-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [Charge] 횟수를 소모했으면, [DefenseDown] 2 부여</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] If this unit consumed [Charge] Count, inflict 2 [DefenseDown]</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] [Charge]回数を消耗したなら、[DefenseDown]を2付与</style>"
+  },
+  {
+    "key": "1070902-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Charge] 횟수를 소모했으면, [DefenseDown] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] If this unit consumed [Charge] Count, inflict 2 [DefenseDown]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Charge]回数を消耗したなら、[DefenseDown]を2付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1070902-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [TakeHpHealReduce] <style=\"highlight\">2</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [TakeHpHealReduce]\nJP :\n[OnSucceedAttack] [TakeHpHealReduce]<style=\"highlight\">2</style>を付与"
+  },
+  {
+    "key": "1070902-levelList$[2].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 [Charge]만큼 [PhotoElectricity] 부여 (최대 3)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict [PhotoElectricity] equal to [Charge] (max 3)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の[Charge]だけ[PhotoElectricity]を付与(最大3)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1070903-levelList$[0].name",
+    "original": "광전 작살",
+    "context": "EN :\nPhotoelectric Harpoon\nJP :\n光電銛"
+  },
+  {
+    "key": "1070903-levelList$[0].desc",
+    "original": "[Charge]이 2 이상이면, 코인 위력 +1",
+    "context": "EN :\nAt 2+ [Charge], Coin Power +1\nJP :\n[Charge]が2以上なら、コイン威力 +1"
+  },
+  {
+    "key": "1070903-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Charge] 횟수 5 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +5 [Charge] Count\nJP :\n[OnSucceedAttack] 自分の[Charge]回数が5増加"
+  },
+  {
+    "key": "1070903-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] ([Charge] x 3)만큼 자신의 [Charge] 횟수 증가 (최대 9)",
+    "context": "EN :\n[OnSucceedAttack] Gain +([Charge] x 3) [Charge] Count (max 9)\nJP :\n[OnSucceedAttack] ([Charge] × 3)だけ、自分の[Charge]回数が増加(最大9)"
+  },
+  {
+    "key": "1070903-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Charge]만큼 [PhotoElectricity] 부여 (최대 3)",
+    "context": "EN :\n[OnSucceedAttack] Inflict [PhotoElectricity] equal to [Charge] (max 3)\nJP :\n[OnSucceedAttack] 自分の[Charge]だけ[PhotoElectricity]を付与(最大3)"
+  },
+  {
+    "key": "1070903-levelList$[1].name",
+    "original": "광전 작살",
+    "context": "EN :\nPhotoelectric Harpoon\nJP :\n光電銛"
+  },
+  {
+    "key": "1070903-levelList$[1].desc",
+    "original": "<style=\"highlight\">[Charge] 2당 코인 위력 +1 (최대 2)</style>",
+    "context": "EN :\n<style=\"highlight\">Coin Power +1 for every 2 [Charge] on self (max 2)</style>\nJP :\n<style=\"highlight\">[Charge]2につきコイン威力 +1(最大2)</style>"
+  },
+  {
+    "key": "1070903-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Charge] 횟수 <style=\"highlight\">7</style> 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +<style=\"highlight\">7</style> [Charge] Count\nJP :\n[OnSucceedAttack] 自分の[Charge]回数が<style=\"highlight\">7</style>増加"
+  },
+  {
+    "key": "1070903-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] ([Charge] x 3)만큼 자신의 [Charge] 횟수 증가 (최대 9)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Gain +([Charge] x 3) [Charge] Count (max 9)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] ([Charge] × 3)だけ、自分の[Charge]回数が増加(最大9)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1070903-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Charge]만큼 [PhotoElectricity] 부여 (최대 3)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict [PhotoElectricity] equal to [Charge] (max 3)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の[Charge]だけ[PhotoElectricity]を付与(最大3)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1070903-levelList$[1].coinlist[3].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 자신의 [Charge] 2당 [HitTakeDamageUp] 1 부여 (최대 2)</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Inflict 1 [HitTakeDamageUp] for every 2 [Charge] (max 2)</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 自分の[Charge]2につき[HitTakeDamageUp]1を付与(最大2)</style>"
+  },
+  {
+    "key": "1070904-levelList$[0].name",
+    "original": "충전",
+    "context": "EN :\nCharge\nJP :\n充電"
+  },
+  {
+    "key": "1070904-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Charge] 횟수 3 증가 (턴 당 1회)",
+    "context": "EN :\n[WhenUse] Gain +3 [Charge] Count (once per turn)\nJP :\n[WhenUse] 自分の[Charge]回数が3増加(1ターンにつき1回)"
+  },
+  {
+    "key": "1070904-levelList$[1].name",
+    "original": "충전",
+    "context": "EN :\nCharge\nJP :\n充電"
+  },
+  {
+    "key": "1070904-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 [Charge] 횟수 3 증가 (턴 당 <style=\"highlight\">2</style>회)",
+    "context": "EN :\n[WhenUse] Gain +3 [Charge] Count (<style=\"highlight\">2 times</style> per turn)\nJP :\n[WhenUse] 自分の[Charge]回数が3増加(1ターンにつき<style=\"highlight\">2</style>回)"
+  },
+  {
+    "key": "1071001-levelList$[0].name",
+    "original": "참수",
+    "context": "EN :\nBeheading\nJP :\n斬首"
+  },
+  {
+    "key": "1071001-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Sinking]이 8 이상이면 합 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 8+ [Sinking], Clash Power +1\nJP :\n[WhenUse] 対象の[Sinking]が8以上なら、マッチ威力 +1"
+  },
+  {
+    "key": "1071001-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "1071001-levelList$[1].name",
+    "original": "참수",
+    "context": "EN :\nBeheading\nJP :\n斬首"
+  },
+  {
+    "key": "1071001-levelList$[1].desc",
+    "original": "[WhenUse] 대상의 [Sinking]이 6 이상이면 합 위력 +1\n<style=\"highlight\">[WhenUse] 대상의 [Sinking] 횟수 3 이상이면, 코인 위력 +1</style>",
+    "context": "EN :\n[WhenUse] If the target has 6+ [Sinking], Clash Power +1\n<style=\"highlight\">[WhenUse] If the target has 3+ [Sinking] Count, Coin Power +1</style>\nJP :\n[WhenUse] 対象の[Sinking]が6以上なら、マッチ威力 +1\n<style=\"highlight\">[WhenUse] 対象の[Sinking]回数が3以上なら、コイン威力 +1</style>"
+  },
+  {
+    "key": "1071001-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "1071001-levelList$[2].name",
+    "original": "참수",
+    "context": "EN :\nBeheading\nJP :\n斬首"
+  },
+  {
+    "key": "1071001-levelList$[2].desc",
+    "original": "[WhenUse] 대상의 [Sinking]이 6 이상이면 합 위력 +1\n[WhenUse] 대상의 [Sinking] 횟수 <style=\"highlight\">3 당</style> 코인 위력 +1 <style=\"highlight\">(최대 2)</style>",
+    "context": "EN :\n[WhenUse] If the target has 6+ [Sinking], Clash Power +1\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 3 [Sinking] Count on the target (max 2)</style>\nJP :\n[WhenUse] 対象の[Sinking]が6以上なら、マッチ威力 +1\n[WhenUse] 対象の[Sinking]回数<style=\"highlight\">3につき</style>、コイン威力 +1<style=\"highlight\">(最大2)</style>"
+  },
+  {
+    "key": "1071001-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]<style=\"highlight\">3</style> を付与"
+  },
+  {
+    "key": "1071002-levelList$[0].name",
+    "original": "추도 행진",
+    "context": "EN :\nMemorial Procession\nJP :\n追悼行進"
+  },
+  {
+    "key": "1071002-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Sinking]이 5 이상이면 코인 위력 +1\n[EndSkill] 자신에게 [NightPathfinding]이 있으면, 정신력 10 감소",
+    "context": "EN :\n[WhenUse] If the target has 5+ [Sinking], Coin Power +1\n[EndSkill] If this unit has [NightPathfinding], lose 10 SP\nJP :\n[WhenUse] 対象の[Sinking]が5以上なら、コイン威力 +1\n[EndSkill] 自分に[NightPathfinding]があれば、精神力が10減少"
+  },
+  {
+    "key": "1071002-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "1071002-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "1071002-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [WanderingFootsteps] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [WanderingFootsteps] next turn\nJP :\n[OnSucceedAttack] 次のターンに[WanderingFootsteps]2を付与"
+  },
+  {
+    "key": "1071002-levelList$[1].name",
+    "original": "추도 행진",
+    "context": "EN :\nMemorial Procession\nJP :\n追悼行進"
+  },
+  {
+    "key": "1071002-levelList$[1].desc",
+    "original": "[WhenUse] 대상의 [Sinking]이 5 이상이면 코인 위력 +1\n<style=\"highlight\">[WhenUse] 자신의 [Coffin] 4 이상이면, 공격 가중치 +1\n[WhenUse] 자신에게 [NightPathfinding]이 있으면, 공격 가중치 +1</style>\n[EndSkill] 자신에게 [NightPathfinding]이 있으면, 정신력 10 감소",
+    "context": "EN :\n[WhenUse] If the target has 5+ [Sinking], Coin Power +1\n<style=\"highlight\">[WhenUse] At 4+ [Coffin], Atk Weight +1\n[WhenUse] If this unit has [NightPathfinding], Atk Weight +1</style>\n[EndSkill] If this unit has [NightPathfinding], lose 10 SP\nJP :\n[WhenUse] 対象の[Sinking]が5以上なら、コイン威力 +1\n<style=\"highlight\">[WhenUse] 自分の[Coffin]が4以上なら、攻撃加重値 +1\n[WhenUse] 自分に[NightPathfinding]があるなら、攻撃加重値 +1</style>\n[EndSkill] 自分に[NightPathfinding]があるなら、精神力が10減少"
+  },
+  {
+    "key": "1071002-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "1071002-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "1071002-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [WanderingFootsteps] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [WanderingFootsteps] next turn\nJP :\n[OnSucceedAttack] 次のターンに[WanderingFootsteps]2を付与"
+  },
+  {
+    "key": "1071002-levelList$[2].name",
+    "original": "추도 행진",
+    "context": "EN :\nMemorial Procession\nJP :\n追悼行進"
+  },
+  {
+    "key": "1071002-levelList$[2].desc",
+    "original": "[WhenUse] 대상의 [Sinking] <style=\"highlight\">5 당</style> 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n[WhenUse] 자신의 [Coffin] <style=\"highlight\">4당</style> 공격 가중치 +1 <style=\"highlight\">(최대 2)</style>\n[WhenUse] 자신에게 [NightPathfinding]이 있으면, 공격 가중치 +1\n[EndSkill] 자신에게 [NightPathfinding]이 있으면, 정신력 10 감소",
+    "context": "EN :\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 Sinking on the target (max 2)</style>\n[WhenUse] <style=\"highlight\">Atk Weight +1 for every 4 [Coffin] on self (max 2)</style>\n[WhenUse] If this unit has [NightPathfinding], Atk Weight +1\n[EndSkill] If this unit has [NightPathfinding], lose 10 SP\nJP :\n[WhenUse] 対象の[Sinking]<style=\"highlight\">5につき</style>、コイン威力 +1<style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[Coffin]<style=\"highlight\">4につき</style>、攻撃加重値 +1<style=\"highlight\">(最大2)</style>\n[WhenUse] 自分に[NightPathfinding]があるなら、攻撃加重値 +1\n[EndSkill] 自分に[NightPathfinding]があるなら、精神力が10減少"
+  },
+  {
+    "key": "1071002-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "1071002-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]<style=\"highlight\">3</style> を付与"
+  },
+  {
+    "key": "1071002-levelList$[2].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [WanderingFootsteps] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [WanderingFootsteps] next turn\nJP :\n[OnSucceedAttack] 次のターンに[WanderingFootsteps]2を付与"
+  },
+  {
+    "key": "1071003-levelList$[0].name",
+    "original": "레퀴엠",
+    "context": "EN :\nRequiem\nJP :\nレクイエム"
+  },
+  {
+    "key": "1071003-levelList$[0].desc",
+    "original": "[WinDuel] 정신력 10 회복\n[BeforeUse] 자신에게 [NightPathfinding]이 있으면, '비탄하고, 애탄하며, 파탄하라'로 발동됨\n[WhenUse] 대상의 [Sinking] 6 당 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [Coffin] 1당 피해량 +7% (최대 70%)\n[WhenUse] [Coffin] 1 얻음\n[EndSkill] 이 스킬 공격으로 대상 처치시 [Coffin] 2 얻음",
+    "context": "EN :\n[WinDuel] Heal 10 SP\n[BeforeUse] If this unit has [NightPathfinding], activate 'Lament, Mourn, and Despair' instead\n[WhenUse] Coin Power +1 for every 6 [Sinking] on the target (max 2)\n[WhenUse] Deal +7% more damage for every [Coffin] on self (max 70%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]\nJP :\n[WinDuel] 精神力を10回復\n[BeforeUse] 自分に[NightPathfinding]があるなら、「悲嘆し、哀嘆し、破綻せよ」として発動\n[WhenUse] 対象の[Sinking]6につき、コイン威力 +1(最大2)\n[WhenUse] 自分の[Coffin]1につき、ダメージ量 +7%(最大70%)\n[WhenUse] [Coffin]1を得る\n[EndSkill] このスキルの攻撃で対象を討伐時、[Coffin]2を得る"
+  },
+  {
+    "key": "1071003-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]回数が3増加"
+  },
+  {
+    "key": "1071003-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 [WanderingFootsteps]이 있으면, [Sinking] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] If the target has [WanderingFootsteps], inflict +2 [Sinking] Count\nJP :\n[OnSucceedAttack] 対象に[WanderingFootsteps]があれば、[Sinking]回数が2増加"
+  },
+  {
+    "key": "1071003-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "1071003-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[EnemyKill] 처치한 대상의 ([Sinking] / 3)만큼 무작위 적 2명에게 [Sinking] 부여 (최대 3)",
+    "context": "EN :\n[EnemyKill] Inflict ([Sinking] on killed target/3) Sinking on 2 random enemies (max 3)\nJP :\n[EnemyKill] 倒した対象の([Sinking] ÷ 3)だけ、ランダムな敵2名へ[Sinking]を付与(最大3)"
+  },
+  {
+    "key": "1071003-levelList$[1].name",
+    "original": "레퀴엠",
+    "context": "EN :\nRequiem\nJP :\nレクイエム"
+  },
+  {
+    "key": "1071003-levelList$[1].desc",
+    "original": "[WinDuel] 정신력 10 회복\n[BeforeUse] 자신에게 [NightPathfinding]이 있으면, '비탄하고, 애탄하며, 파탄하라'로 발동됨\n[WhenUse] 대상의 [Sinking] <style=\"highlight\">3 당</style> 코인 위력 +1 (최대 <style=\"highlight\">4</style>)\n[WhenUse] 자신의 [Coffin] 1당 피해량 +12% (최대 120%)\n[WhenUse] [Coffin] 1 얻음\n[EndSkill] 이 스킬 공격으로 대상 처치시 [Coffin] 2 얻음",
+    "context": "EN :\n[WinDuel] Heal 10 SP\n[BeforeUse] If this unit has [NightPathfinding], activate 'Lament, Mourn, and Despair' instead\n[WhenUse] Coin Power +1 for <style=\"highlight\">every 3</style> [Sinking] on the target (max <style=\"highlight\">4</style>)\n[WhenUse] Deal +12% more damage for every [Coffin] on self (max 120%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]\nJP :\n[WinDuel] 精神力を10回復\n[BeforeUse] 自分に[NightPathfinding]があるなら、「悲嘆し、哀嘆し、破綻せよ」として発動\n[WhenUse] 対象の[Sinking]<style=\"highlight\">3につき</style>、コイン威力 +1(最大<style=\"highlight\">4</style>)\n[WhenUse] 自分の[Coffin]1につき、ダメージ量 +12%(最大120%)\n[WhenUse] [Coffin]1を得る\n[EndSkill] このスキルの攻撃で対象を討伐時、[Coffin]2を得る"
+  },
+  {
+    "key": "1071003-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 횟수 <style=\"highlight\">4</style> 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">+4</style> [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]回数が<style=\"highlight\">4</style>増加"
+  },
+  {
+    "key": "1071003-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 [WanderingFootsteps]이 있으면, [Sinking] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] If the target has [WanderingFootsteps], inflict +2 [Sinking] Count\nJP :\n[OnSucceedAttack] 対象に[WanderingFootsteps]があれば、[Sinking]回数が2増加"
+  },
+  {
+    "key": "1071003-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]<style=\"highlight\">3</style> を付与"
+  },
+  {
+    "key": "1071003-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[EnemyKill] 처치한 대상의 ([Sinking] / <style=\"highlight\">2</style>)만큼 무작위 적 2명에게 [Sinking] 부여 (최대 <style=\"highlight\">5</style>)",
+    "context": "EN :\n[EnemyKill] Inflict ([Sinking] on killed target/<style=\"highlight\">2</style>) Sinking on 2 random enemies (max <style=\"highlight\">5</style>)\nJP :\n[EnemyKill] 倒した対象の([Sinking] ÷ <style=\"highlight\">2</style>)だけ、ランダムな敵2名へ[Sinking]を付与(最大<style=\"highlight\">5</style>)"
+  },
+  {
+    "key": "1071004-levelList$[0].name",
+    "original": "듀라한이여...!",
+    "context": "EN :\nO Dullahan...!\nJP :\nデュラハンよ…！"
+  },
+  {
+    "key": "1071004-levelList$[0].desc",
+    "original": "[DuelCounter]\n[StartBattle] [NightPathfinding]이 없으면, 다음 턴에 [NightPathfinding]을 1 얻음 (턴 당 1회 발동)\n[EndBattle] [NightPathfinding]이 있으면 제거함",
+    "context": "EN :\n[DuelCounter]\n[StartBattle] If this unit does not have [NightPathfinding], gain 1 [NightPathfinding] next turn (once per turn)\n[EndBattle] If this unit has [NightPathfinding], lose [NightPathfinding]\nJP :\n[DuelCounter]\n[StartBattle] [NightPathfinding]が無いなら、次のターンに[NightPathfinding]を1得る(1ターンにつき1回発動)\n[EndBattle] [NightPathfinding]があるなら除去"
+  },
+  {
+    "key": "1071004-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "1071004-levelList$[1].name",
+    "original": "듀라한이여...!",
+    "context": "EN :\nO Dullahan...!\nJP :\nデュラハンよ…！"
+  },
+  {
+    "key": "1071004-levelList$[1].desc",
+    "original": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] [NightPathfinding]이 있고 정신력이 15 이상이면, 비탄하고, 애탄하며, 파탄하라로 반격함 (턴 당 1회 발동)</style>\n[StartBattle] [NightPathfinding]이 없으면, 다음 턴에 [NightPathfinding]을 1 얻음 (턴 당 1회 발동)\n<style=\"highlight\">[WhenUse] 대상의 [Sinking]이 6 이상이면, 코인 위력 +1</style>\n[EndBattle] [NightPathfinding]이 있으면 제거함",
+    "context": "EN :\n[DuelCounter]\n<style=\"highlight\">[BeforeUse] If this unit has [NightPathfinding] and has 15+ SP, use Lament, Mourn, and Despair as Counter (once per turn)</style>\n[StartBattle] If this unit does not have [NightPathfinding], gain 1 [NightPathfinding] next turn (once per turn)\n<style=\"highlight\">[WhenUse] If the target has 6+ [Sinking], Coin Power +1</style>\n[EndBattle] If this unit has [NightPathfinding], lose [NightPathfinding]\nJP :\n[DuelCounter]\n<style=\"highlight\">[BeforeUse] [NightPathfinding]があるかつ、精神力が15以上なら「悲嘆し、哀嘆し、破綻せよ」で反撃(1ターンにつき1回発動)</style>\n[StartBattle] [NightPathfinding]が無いなら、次のターンに[NightPathfinding]を1得る(1ターンにつき1回発動)\n<style=\"highlight\">[WhenUse] 対象の[Sinking]が6以上なら、コイン威力 +1</style>\n[EndBattle] [NightPathfinding]があるなら除去"
+  },
+  {
+    "key": "1071004-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "1071004-levelList$[2].name",
+    "original": "듀라한이여...!",
+    "context": "EN :\nO Dullahan...!\nJP :\nデュラハンよ…！"
+  },
+  {
+    "key": "1071004-levelList$[2].desc",
+    "original": "[DuelCounter]\n[BeforeUse] [NightPathfinding]이 있고 정신력이 15 이상이면, '비탄하고, 애탄하며, 파탄하라'로 반격함 (턴 당 1회 발동)\n[StartBattle] [NightPathfinding]이 없으면, 다음 턴에 [NightPathfinding]을 1 얻음 (턴 당 1회 발동)\n[WhenUse] 대상의 [Sinking] <style=\"highlight\">3 당</style> 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n<style=\"highlight\">[WinDuel] (합 횟수/ 3)만큼 다음 턴에 [AttackUp]를 얻음 (최대 3, 턴 당 1회 발동)</style>\n[EndBattle] [NightPathfinding]이 있으면 제거함",
+    "context": "EN :\n[DuelCounter]\n[BeforeUse] If this unit has [NightPathfinding] and has 15+ SP, use Lament, Mourn, and Despair as Counter (once per turn)\n[StartBattle] If this unit does not have [NightPathfinding], gain 1 [NightPathfinding] next turn (once per turn)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 3 [Sinking] on the target (max 2)</style>\n<style=\"highlight\">[WinDuel] Gain [AttackUp] next turn equal to (# of Clashes/3) (max 3, once per turn)</style>\n[EndBattle] If this unit has [NightPathfinding], lose [NightPathfinding]\nJP :\n[DuelCounter]\n[BeforeUse] [NightPathfinding]があるかつ、精神力が15以上なら「悲嘆し、哀嘆し、破綻せよ」で反撃(1ターンにつき1回発動)\n[StartBattle] [NightPathfinding]が無いなら、次のターンに[NightPathfinding]を1得る(1ターンにつき1回発動)\n[WhenUse] 対象の[Sinking]<style=\"highlight\">3につき</style>、コイン威力 +1<style=\"highlight\">(最大2)</style>\n<style=\"highlight\">[WinDuel] (マッチ回数 ÷ 3)だけ次のターンに[AttackUp]を得る(最大3, 1ターンにつき1回発動)</style>\n[EndBattle] [NightPathfinding]があるなら除去"
+  },
+  {
+    "key": "1071004-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여<style=\"highlight\">, 침잠 횟수 1 증가</style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking] <style=\"highlight\">and +1 [Sinking] Count</style>\nJP :\n[OnSucceedAttack] [Sinking]2を付与、<style=\"highlight\">[Sinking]回数が1増加</style>"
+  },
+  {
+    "key": "1071005-levelList$[0].name",
+    "original": "비탄하고, 애탄하며, 파탄하라",
+    "context": "EN :\nLament, Mourn, and Despair\nJP :\n悲嘆し、哀嘆し、破綻せよ"
+  },
+  {
+    "key": "1071005-levelList$[0].desc",
+    "original": "[WhenUse] 정신력 15 감소\n[WhenUse] 대상의 [Sinking] 5 당 기본 위력 +1 (최대 2)\n[WhenUse] 자신의 정신력이 낮을수록 피해량이 증가 (정신력 1당 +0.3%, 최대 21%)\n[WhenUse] 자신의 [Coffin] 1당 피해량 +7% (최대 70%)\n[WhenUse] 자신의 [NightPathfinding] 1당 피해량 +10% (최대 30%)\n[WhenUse] [Coffin] 1 얻음\n[EndSkill] 이 스킬 공격으로 대상 처치시 [Coffin] 2 얻음\n[EndSkill] 정신력이 0 미만이면, 정신력 10 회복. 정신력이 0보다 낮을수록 회복량 증가 (차이 1당 1 회복, 최대 25)\n[EndBattle] [NightPathfinding] 제거",
+    "context": "EN :\n[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on the target (max 2)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% more damage for every missing SP, max 21%)\n[WhenUse] Deal +7% more damage for every Coffin on self (max 70%)\n[WhenUse] Deal +10% more damage for every [NightPathfinding] on self (max 30%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal 1 additional SP for every missing SP; max 25)\n[EndBattle] Lose [NightPathfinding]\nJP :\n[WhenUse] 精神力が15減少\n[WhenUse] 対象の[Sinking]5につき、基本威力 +1(最大2)\n[WhenUse] 自分の精神力が低くなるほどダメージ量が増加(精神力1につき +0.3%, 最大21%)\n[WhenUse] 自分の[Coffin]1につき、ダメージ量 +7%(最大70%)\n[WhenUse] 自分の[NightPathfinding]1につき、ダメージ量 +10%(最大30%)\n[WhenUse] [Coffin]1を得る\n[EndSkill] このスキルで対象討伐時、[Coffin]2を得る\n[EndSkill] 精神力が0未満なら、精神力を10回復。精神力が0より低くなるにつれて回復量が増加(1につき1回復、最大25)\n[EndBattle] [NightPathfinding]を除去"
+  },
+  {
+    "key": "1071005-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 3 부여, [Sinking] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Sinking] and +1 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]3を付与、[Sinking]回数が1増加"
+  },
+  {
+    "key": "1071005-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 피해량의 20%만큼 흐트러짐 손상 입힘",
+    "context": "EN :\n[OnSucceedAttack] Raise the target's Stagger Threshold by 20% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の20%分、混乱区間を前進"
+  },
+  {
+    "key": "1071005-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]만큼 우울 속성 피해를 줌 (최대 15)",
+    "context": "EN :\n[OnSucceedAttack] Inflict Gloom Affinity damage equal to [Sinking] on target (max 15)\nJP :\n[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性ダメージを与える(最大15)"
+  },
+  {
+    "key": "1071005-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[EnemyKill] 처치한 대상의 ([Sinking] / 3)만큼 무작위 적 2명에게 [Sinking] 부여 (최대 4)",
+    "context": "EN :\n[EnemyKill] Inflict ([Sinking] on killed target/3) Sinking on 2 random enemies (max 4)\nJP :\n[EnemyKill] 倒した対象の([Sinking] ÷ 3)だけ、ランダムな敵2名へ[Sinking]を付与(最大4)"
+  },
+  {
+    "key": "1071005-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[EnemyKill] 정신력 15 회복",
+    "context": "EN :\n[EnemyKill] Heal 15 SP\nJP :\n[EnemyKill] 精神力を15回復"
+  },
+  {
+    "key": "1071005-levelList$[1].name",
+    "original": "비탄하고, 애탄하며, 파탄하라",
+    "context": "EN :\nLament, Mourn, and Despair\nJP :\n悲嘆し、哀嘆し、破綻せよ"
+  },
+  {
+    "key": "1071005-levelList$[1].desc",
+    "original": "[WhenUse] 정신력 15 감소\n[WhenUse] 대상의 [Sinking] 5 당 기본 위력 +1 (최대 <style=\"highlight\">4</style>)\n[WhenUse] 자신의 정신력이 낮을수록 피해량이 증가 (정신력 1당 +0.3%, 최대 21%)\n[WhenUse] 자신의 [Coffin] 1당 피해량 +<style=\"highlight\">10</style>% (최대 <style=\"highlight\">100</style>%)\n[WhenUse] 자신의 [NightPathfinding] 1당 피해량 +<style=\"highlight\">20</style>% (최대 <style=\"highlight\">60</style>%)\n[WhenUse] [Coffin] <style=\"highlight\">2</style> 얻음\n[EndSkill] 이 스킬 공격으로 대상 처치시 [Coffin] <style=\"highlight\">3</style> 얻음\n[EndSkill] 정신력이 0 미만이면, 정신력 10 회복. 정신력이 0보다 낮을수록 회복량 증가 (차이 1당 <style=\"highlight\">2</style> 회복, 최대 <style=\"highlight\">50</style>)\n[EndBattle] [NightPathfinding] 제거",
+    "context": "EN :\n[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on the target (max <style=\"highlight\">4</style>)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% more damage for every missing SP, max 21%)\n[WhenUse] Deal +<style=\"highlight\">10</style>% more damage for every Coffin on self (max <style=\"highlight\">100</style>%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% more damage for every [NightPathfinding] on self (max <style=\"highlight\">60</style>%)\n[WhenUse] Gain <style=\"highlight\">2</style> [Coffin]\n[EndSkill] If this Skill attack kills the target, gain <style=\"highlight\">3</style> [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal <style=\"highlight\">2</style> additional SP for every missing SP; max <style=\"highlight\">50</style>)\n[EndBattle] Lose [NightPathfinding]\nJP :\n[WhenUse] 精神力が15減少\n[WhenUse] 対象の[Sinking]5につき、基本威力 +1(最大<style=\"highlight\">4</style>)\n[WhenUse] 自分の精神力が低くなるほどダメージ量が増加(精神力1につき +0.3%, 最大21%)\n[WhenUse] 自分の[Coffin] 1につき、ダメージ量 +<style=\"highlight\">10</style>%(最大<style=\"highlight\">100</style>%)\n[WhenUse] 自分の[NightPathfinding]1につき、ダメージ量 +<style=\"highlight\">20</style>%(最大<style=\"highlight\">60%</style>)\n[WhenUse] [Coffin]<style=\"highlight\">2</style>を得る\n[EndSkill] このスキルで対象討伐時、[Coffin]<style=\"highlight\">3</style>を得る\n[EndSkill] 精神力が0未満なら、精神力を10回復。精神力が0より低くなるにつれて回復量が増加(1につき<style=\"highlight\">2</style>回復、最大<style=\"highlight\">50</style>)\n[EndBattle] [NightPathfinding]を除去"
+  },
+  {
+    "key": "1071005-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] <style=\"highlight\">5</style> 부여, [Sinking] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">5</style> [Sinking] and +2 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]<style=\"highlight\">5</style>を付与、[Sinking]回数が2増加"
+  },
+  {
+    "key": "1071005-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 피해량의 <style=\"highlight\">30</style>%만큼 흐트러짐 손상 입힘",
+    "context": "EN :\n[OnSucceedAttack] Raise the target's Stagger Threshold by <style=\"highlight\">30</style>% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の<style=\"highlight\">30</style>%分、混乱区間を前進"
+  },
+  {
+    "key": "1071005-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]만큼 우울 속성 피해를 줌 (최대 <style=\"highlight\">30</style>)",
+    "context": "EN :\n[OnSucceedAttack] Inflict Gloom Affinity damage equal to [Sinking] on target (max <style=\"highlight\">30</style>)\nJP :\n[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性ダメージを与える(最大<style=\"highlight\">30</style>)"
+  },
+  {
+    "key": "1071005-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[EnemyKill] 처치한 대상의 ([Sinking] / <style=\"highlight\">2</style>)만큼 무작위 적 2명에게 [Sinking] 부여 (최대 <style=\"highlight\">8</style>)",
+    "context": "EN :\n[EnemyKill] Inflict ([Sinking] on killed target/<style=\"highlight\">2</style>) Sinking on 2 random enemies (max <style=\"highlight\">8</style>)\nJP :\n[EnemyKill] 倒した対象の([Sinking] ÷ <style=\"highlight\">2</style>)だけ、ランダムな敵2名へ[Sinking]を付与(最大<style=\"highlight\">8</style>)"
+  },
+  {
+    "key": "1071005-levelList$[1].coinlist[1].coindescs[2].desc",
+    "original": "[EnemyKill] 정신력 15 회복",
+    "context": "EN :\n[EnemyKill] Heal 15 SP\nJP :\n[EnemyKill] 精神力を15回復"
+  },
+  {
+    "key": "1071006-levelList$[0].name",
+    "original": "비탄하고, 애탄하며, 파탄하라",
+    "context": "EN :\nLament, Mourn, and Despair\nJP :\n悲嘆し、哀嘆し、破綻せよ"
+  },
+  {
+    "key": "1071006-levelList$[0].desc",
+    "original": "[WhenUse] 정신력 15 감소\n[WhenUse] 대상의 [Sinking] 5 당 기본 위력 +1 (최대 2)\n[WhenUse] 자신의 정신력이 낮을수록 피해량이 증가 (정신력 1당 +0.3%, 최대 21%)\n[WhenUse] 자신의 [Coffin] 1당 피해량 +7% (최대 70%)\n[WhenUse] 자신의 [NightPathfinding] 1당 피해량 +10% (최대 30%)\n[WhenUse] [Coffin] 1 얻음\n[EndSkill] 이 스킬 공격으로 대상 처치시 [Coffin] 2 얻음\n[EndSkill] 정신력이 0 미만이면, 정신력 10 회복. 정신력이 0보다 낮을수록 회복량 증가 (차이 1당 1 회복, 최대 25)\n[EndBattle] [NightPathfinding] 제거",
+    "context": "EN :\n[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on the target (max 2)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% more damage for every missing SP, max 21%)\n[WhenUse] Deal +7% more damage for every Coffin on self (max 70%)\n[WhenUse] Deal +10% more damage for every [NightPathfinding] on self (max 30%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal 1 additional SP for every missing SP; max 25)\n[EndBattle] Lose [NightPathfinding]\nJP :\n[WhenUse] 精神力が15減少\n[WhenUse] 対象の[Sinking]5につき、基本威力 +1(最大2)\n[WhenUse] 自分の精神力が低くなるほどダメージ量が増加(精神力1につき +0.3%, 最大21%)\n[WhenUse] 自分の[Coffin]1につき、ダメージ量 +7%(最大70%)\n[WhenUse] 自分の[NightPathfinding]1につき、ダメージ量 +10%(最大30%)\n[WhenUse] [Coffin]1を得る\n[EndSkill] このスキルで対象討伐時、[Coffin]2を得る\n[EndSkill] 精神力が0未満なら、精神力を10回復。精神力が0より低くなるにつれて回復量が増加(1につき1回復、最大25)\n[EndBattle] [NightPathfinding]を除去"
+  },
+  {
+    "key": "1071006-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 3 부여, [Sinking] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Sinking] and +1 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]3を付与、[Sinking]回数が1増加"
+  },
+  {
+    "key": "1071006-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 피해량의 20%만큼 흐트러짐 손상 입힘",
+    "context": "EN :\n[OnSucceedAttack] Raise the target's Stagger Threshold by 20% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の20%分、混乱区間を前進"
+  },
+  {
+    "key": "1071006-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]만큼 우울 속성 피해를 줌 (최대 15)",
+    "context": "EN :\n[OnSucceedAttack] Inflict Gloom Affinity damage equal to [Sinking] on target (max 15)\nJP :\n[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性ダメージを与える(最大15)"
+  },
+  {
+    "key": "1071006-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[EnemyKill] 처치한 대상의 ([Sinking] / 3)만큼 무작위 적 2명에게 [Sinking] 부여 (최대 4)",
+    "context": "EN :\n[EnemyKill] Inflict ([Sinking] on killed target/3) Sinking on 2 random enemies (max 4)\nJP :\n[EnemyKill] 倒した対象の([Sinking] ÷ 3)だけ、ランダムな敵2名へ[Sinking]を付与(最大4)"
+  },
+  {
+    "key": "1071006-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[EnemyKill] 정신력 15 회복",
+    "context": "EN :\n[EnemyKill] Heal 15 SP\nJP :\n[EnemyKill] 精神力を15回復"
+  },
+  {
+    "key": "1071006-levelList$[1].name",
+    "original": "비탄하고, 애탄하며, 파탄하라",
+    "context": "EN :\nLament, Mourn, and Despair\nJP :\n悲嘆し、哀嘆し、破綻せよ"
+  },
+  {
+    "key": "1071006-levelList$[1].desc",
+    "original": "[WhenUse] 정신력 15 감소\n[WhenUse] 대상의 [Sinking] 5 당 기본 위력 +1 (최대 <style=\"highlight\">4</style>)\n[WhenUse] 자신의 정신력이 낮을수록 피해량이 증가 (정신력 1당 +0.3%, 최대 21%)\n[WhenUse] 자신의 [Coffin] 1당 피해량 +<style=\"highlight\">10</style>% (최대 <style=\"highlight\">100</style>%)\n[WhenUse] 자신의 [NightPathfinding] 1당 피해량 +<style=\"highlight\">20</style>% (최대 <style=\"highlight\">60</style>%)\n[WhenUse] [Coffin] <style=\"highlight\">2</style> 얻음\n[EndSkill] 이 스킬 공격으로 대상 처치시 [Coffin] <style=\"highlight\">3</style> 얻음\n[EndSkill] 정신력이 0 미만이면, 정신력 10 회복. 정신력이 0보다 낮을수록 회복량 증가 (차이 1당 <style=\"highlight\">2</style> 회복, 최대 <style=\"highlight\">50</style>)\n[EndBattle] [NightPathfinding] 제거",
+    "context": "EN :\n[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on the target (max <style=\"highlight\">4</style>)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% more damage for every missing SP, max 21%)\n[WhenUse] Deal +<style=\"highlight\">10</style>% more damage for every Coffin on self (max <style=\"highlight\">100</style>%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% more damage for every [NightPathfinding] on self (max <style=\"highlight\">60</style>%)\n[WhenUse] Gain <style=\"highlight\">2</style> [Coffin]\n[EndSkill] If this Skill attack kills the target, gain <style=\"highlight\">3</style> [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal <style=\"highlight\">2</style> additional SP for every missing SP; max <style=\"highlight\">50</style>)\n[EndBattle] Lose [NightPathfinding]\nJP :\n[WhenUse] 精神力が15減少\n[WhenUse] 対象の[Sinking]5につき、基本威力 +1(最大<style=\"highlight\">4</style>)\n[WhenUse] 自分の精神力が低くなるほどダメージ量が増加(精神力1につき +0.3%, 最大21%)\n[WhenUse] 自分の[Coffin] 1につき、ダメージ量 +<style=\"highlight\">10</style>%(最大<style=\"highlight\">100</style>%)\n[WhenUse] 自分の[NightPathfinding]1につき、ダメージ量 +<style=\"highlight\">20</style>%(最大<style=\"highlight\">60%</style>)\n[WhenUse] [Coffin]<style=\"highlight\">2</style>を得る\n[EndSkill] このスキルで対象討伐時、[Coffin]<style=\"highlight\">3</style>を得る\n[EndSkill] 精神力が0未満なら、精神力を10回復。精神力が0より低くなるにつれて回復量が増加(1につき<style=\"highlight\">2</style>回復、最大<style=\"highlight\">50</style>)\n[EndBattle] [NightPathfinding]を除去"
+  },
+  {
+    "key": "1071006-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] <style=\"highlight\">5</style> 부여, [Sinking] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">5</style> [Sinking] and +2 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]<style=\"highlight\">5</style>を付与、[Sinking]回数が2増加"
+  },
+  {
+    "key": "1071006-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 피해량의 <style=\"highlight\">30</style>%만큼 흐트러짐 손상 입힘",
+    "context": "EN :\n[OnSucceedAttack] Raise the target's Stagger Threshold by <style=\"highlight\">30</style>% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の<style=\"highlight\">30</style>%分、混乱区間を前進"
+  },
+  {
+    "key": "1071006-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]만큼 우울 속성 피해를 줌 (최대 <style=\"highlight\">30</style>)",
+    "context": "EN :\n[OnSucceedAttack] Inflict Gloom Affinity damage equal to [Sinking] on target (max <style=\"highlight\">30</style>)\nJP :\n[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性ダメージを与える(最大<style=\"highlight\">30</style>)"
+  },
+  {
+    "key": "1071006-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[EnemyKill] 처치한 대상의 ([Sinking] / <style=\"highlight\">2</style>)만큼 무작위 적 2명에게 [Sinking] 부여 (최대 <style=\"highlight\">8</style>)",
+    "context": "EN :\n[EnemyKill] Inflict ([Sinking] on killed target/<style=\"highlight\">2</style>) Sinking on 2 random enemies (max <style=\"highlight\">8</style>)\nJP :\n[EnemyKill] 倒した対象の([Sinking] ÷ <style=\"highlight\">2</style>)だけ、ランダムな敵2名へ[Sinking]を付与(最大<style=\"highlight\">8</style>)"
+  },
+  {
+    "key": "1071006-levelList$[1].coinlist[1].coindescs[2].desc",
+    "original": "[EnemyKill] 정신력 15 회복",
+    "context": "EN :\n[EnemyKill] Heal 15 SP\nJP :\n[EnemyKill] 精神力を15回復"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "key": "1019-panicName",
+    "original": "흐트러진 그림",
+    "context": "EN :\nMisshapen Painting\nJP :\n乱れた絵"
+  },
+  {
+    "key": "1019-lowMoraleDescription",
+    "original": "[Enhancement] 1, [Vulnerable] 1 얻음",
+    "context": "EN :\nGain 1 [Enhancement] and 1 [Vulnerable]\nJP :\n[Enhancement]1, [Vulnerable]1を得る"
+  },
+  {
+    "key": "1019-panicDescription",
+    "original": "[PlusCoinValueUp] 1, [Vulnerable] 3 얻음.",
+    "context": "EN :\nGain 1 [PlusCoinValueUp] and 3 [Vulnerable].\nJP :\n[PlusCoinValueUp]1, [Vulnerable]3を得る。"
+  },
+  {
+    "key": "1021-panicName",
+    "original": "복수",
+    "context": "EN :\nRevenge\nJP :\n復讐"
+  },
+  {
+    "key": "1021-lowMoraleDescription",
+    "original": "[DefenseDown] 3, [AttackDmgUp] 3 얻음",
+    "context": "EN :\nGain 3 [DefenseDown] and 3 [AttackDmgUp]\nJP :\n[DefenseDown]3, [AttackDmgUp]3を得る"
+  },
+  {
+    "key": "1021-panicDescription",
+    "original": "[DefenseDown] 6, [AttackDmgUp] 5 얻음",
+    "context": "EN :\nGain 6 [DefenseDown] and 5 [AttackDmgUp]\nJP :\n[DefenseDown]6, [AttackDmgUp]5を得る"
+  },
+  {
+    "key": "1022-panicName",
+    "original": "증오",
+    "context": "EN :\nHatred\nJP :\n憎悪"
+  },
+  {
+    "key": "1022-lowMoraleDescription",
+    "original": "합 승리 시 다음 턴에 [AttackUp]를 1 얻음. (턴 당 최대 3)\n합 패배 시 [DefenseUp]를 1 얻음. (턴 당 최대 3)",
+    "context": "EN :\nClash Win: Gain 1 [AttackUp] next turn. (3 times per turn)\nClash Lose: Gain 1 [DefenseUp]. (3 times per turn)\nJP :\nマッチ勝利時、次のターンに[AttackUp]を1得る。(1ターンにつき最大3)\nマッチ敗北時、[DefenseUp]を1得る。(1ターンにつき最大3)"
+  },
+  {
+    "key": "1022-panicDescription",
+    "original": "합 승리 시 이번 턴과 다음 턴에 [AttackUp]를 1 얻음. (턴 당 최대 3)\n합 패배 시 [DefenseUp]를 1 얻음. (턴 당 최대 3)\n턴 종료 시 다음 턴에 [Agility]을 2 얻음",
+    "context": "EN :\nClash Win: Gain 1 [AttackUp] this turn and next turn (3 times per turn)\nClash Lose: Gain 1 [DefenseUp] (3 times per turn)\nTurn End: Gain 2 [Agility] next turn\nJP :\nマッチ勝利時、このターンと次のターンに[AttackUp]を1得る。(1ターンにつき最大3)\nマッチ敗北時、[DefenseUp]1を得る。(1ターンにつき最大3)\nターン終了時、次のターンに[Agility]2を得る"
+  }
+]

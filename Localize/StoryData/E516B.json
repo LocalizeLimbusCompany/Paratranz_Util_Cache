@@ -1,0 +1,759 @@
+[
+  {
+    "key": "0-place",
+    "original": "용진 빌딩 6층",
+    "context": "EN :\nYong-jin Building 6F\nJP :\nヨンジンビル 6階"
+  },
+  {
+    "key": "0-model",
+    "original": "시계쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "0-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "0-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "0-content",
+    "original": "하… 쯧. 이건 또 왜 고장이 나서…",
+    "context": "EN :\nHaah... tsk. Why'd this have to break? Why now...?\nJP :\nはぁ…チッ。なんでまた今これが壊れんだ…。"
+  },
+  {
+    "key": "1-content",
+    "original": "계단의 끝, 빌딩의 가장 최상층인 6층에 도착하니…",
+    "context": "EN :\nThere was a nervous-looking man on top of the stairs, on the uppermost floor of the building.\nJP :\n階段の果て、ビルの最上階の6階に到着すると…。"
+  },
+  {
+    "key": "2-content",
+    "original": "지금까지와는 다른 분위기를 지닌 자가 어느 문 앞에 초조한 표정으로 서 있었다.",
+    "context": "EN :\nI could immediately tell that this man was unlike any other foe we faced in this building.\nJP :\n今までとは違う雰囲気を持つ人が、とあるドアの前に\n焦った表情で立っていた。"
+  },
+  {
+    "key": "3-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "3-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "3-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "3-content",
+    "original": "안은… 조용한가? 가만히라도 있어 줬으면 좋겠는데…",
+    "context": "EN :\nIt better be quiet in there... I hope that thing at least stays put...\nJP :\n中は…静かか？大人しくしてくれると助かるんだが…。"
+  },
+  {
+    "key": "4-content",
+    "original": "문 안에 뭔가 두려운 것이라도 있는 듯, 그는 안절부절 못하는 모양새로 자꾸만 회중시계를 쳐다보고 있었다.",
+    "context": "EN :\nHe kept looking into his pocket watch as though he was expecting something awful to come out of that door.\nJP :\n扉の中に何か恐ろしいものがいるかのように、\n彼はそわそわしながらしきりに懐中時計を眺めていた。"
+  },
+  {
+    "key": "5-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "5-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "5-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "5-content",
+    "original": "저자는…",
+    "context": "EN :\nHe is...\nJP :\nあの人は…。"
+  },
+  {
+    "key": "6-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "6-content",
+    "original": "흑운회의 복장과 유사도가 높다. 관련된 인물일 가능성이 크고, 종전의 인물들보다 상위 계급일 것으로 보인다.",
+    "context": "EN :\nHis garb, which highly resembles the Kurokumo Clan's standard outfits, suggests that he is a relevant individual in this case. It is possible to extrapolate from his outfit that he is of higher rank than any foe we have defeated on the course to this location.\nJP :\n黒雲会の服装と類似度が高い。\n関連した人物である可能性が高く、従来の人物より上位階級であるものと見られる。"
+  },
+  {
+    "key": "7-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "7-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "7-content",
+    "original": "그렇다면…!",
+    "context": "EN :\nThen...!\nJP :\nそれなら…！"
+  },
+  {
+    "key": "8-content",
+    "original": "어떻게 대응할지 이야기를 나눠보기도 전에, 앵두는 벼락같은 속도로 그에게 달려들었다.",
+    "context": "EN :\nBefore I even had the chance to suggest waiting for a bit to come up with a strategy, Aeng-du was already charging at the man.\nJP :\nどのように対応するかについて話す前に、\nエンドゥは稲妻のような速さで彼へ飛びかかった。"
+  },
+  {
+    "key": "9-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "9-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "9-content",
+    "original": "네 놈, 분명 흑운회의 부조장이렷다!",
+    "context": "EN :\nYou must be a Captain of the Kurokumo Clan!\nJP :\nキサマ、まさしく黒雲会の副組長だろう！"
+  },
+  {
+    "key": "10-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "10-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "10-content",
+    "original": "뭐야?!",
+    "context": "EN :\nWhat the—?!\nJP :\n何だ！？"
+  },
+  {
+    "key": "11-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "11-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "11-content",
+    "original": "네놈들이 그렇게 바라던 검계의 수급이 지금 앞에 있다! 검을 받아라!",
+    "context": "EN :\nYou wish to hunt the Blade Lineage? Very well, here I stand before you! Face my blade!\nJP :\nお前らがあれほど望んでいた剣契の首が今、目の前にある！\n剣を取れ！"
+  },
+  {
+    "key": "12-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "12-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "12-content",
+    "original": "쯧… 애들은 전부 치우고 올라왔나.",
+    "context": "EN :\nTsk, I suppose this means that my men are all dead, huh?\nJP :\nちっ…子分ら全員片して登ってきたのか。"
+  },
+  {
+    "key": "13-model",
+    "original": "시계쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "13-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "13-content",
+    "original": "…마음 같아서는 그냥 사무실 안으로 집어 던져 넣고 싶지만.",
+    "context": "EN :\nI'd toss you into that office if I could, but...\nJP :\n…俺としちゃぁ、そのまま事務室の中にぶち込みたいけどな。"
+  },
+  {
+    "key": "14-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "14-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "14-content",
+    "original": "안에 ‘상품’이 있는데 그럴 수도 없는 노릇이고… 아, 열받네… 진짜.",
+    "context": "EN :\n... the 'merchandise' is still in there... Gah, come on...\nJP :\n中に「商品」があるからそうもできないし…。\nあぁ、ムカつく…マジで。"
+  },
+  {
+    "key": "15-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "15-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "15-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "15-content",
+    "original": "상대하는 것 말고 방법이 있나… 이름이나 묻지.",
+    "context": "EN :\n'Spose I've got no choice but to fight. At least allow me to introduce myself. Then you can tell me who you are.\nJP :\n相手にする以外に方法はないか…名前でも聞くとしよう。"
+  },
+  {
+    "key": "16-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "쥰",
+    "context": "EN :\nJun\nJP :\nジュン"
+  },
+  {
+    "key": "16-title",
+    "original": "흑운회 부조장",
+    "context": "EN :\nKurokumo Clan Captain\nJP :\n黒雲会 副組長"
+  },
+  {
+    "key": "16-content",
+    "original": "나는 쥰이다. 네놈이 쳐부수고 올라온 것들의 부조장.",
+    "context": "EN :\nName's Jun. Captain of the boys you killed.\nJP :\n俺はジュンだ。オメェらがぶっ潰して登ってきたヤツらの副組長。"
+  },
+  {
+    "key": "17-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "17-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "17-content",
+    "original": "…앵두. 검을 다루는 계의 살수, 우두머리 김삿갓의 부하.",
+    "context": "EN :\n... Aeng-du. Salsu from the Lineage of Blades. A follower of mentor Bamboo-hatted Kim.\nJP :\n…エンドゥ。剣を扱う契の殺手、頭目キムサッガッの部下。"
+  },
+  {
+    "key": "18-content",
+    "original": "사무실 앞 복도가 차분하게 가라앉는다.",
+    "context": "EN :\nThe hallway before the door falls silent. It is as calm as a winter dawn.\nJP :\n事務室前の廊下が静まりかえる。"
+  },
+  {
+    "key": "19-content",
+    "original": "검을 뽑은 두 사람이 탐색전을 하듯 천천히 거리를 가늠하더니…",
+    "context": "EN :\nThe two warriors, blades drawn, begin to take cautious steps. It's as though they are attempting to gauge the distance between each other...\nJP :\n剣を抜いた二人が探り合いをするかのように\nゆっくり距離を推し量ると…。"
+  },
+  {
+    "key": "20-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "20-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "20-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "20-content",
+    "original": "핫!",
+    "context": "EN :\nHah!\nJP :\nはっ！"
+  },
+  {
+    "key": "21-content",
+    "original": "눈 깜빡할 사이에 한 합이 이루어졌는지, 정신을 차리고 보니 이미 둘은 서로가 서 있던 자리에 반대로 위치해 있었다.",
+    "context": "EN :\nThere was a sudden flash. When I came to my senses, the pair had suddenly switched sides, facing away from each other.\nJP :\n瞬く間に鍔迫り合いが起こっていたのか、気が付いたときには\n既に二人はお互いが立っていた場所とは反対側に立っていた。"
+  },
+  {
+    "key": "22-content",
+    "original": "결과는…",
+    "context": "EN :\nThe outcome of this clash...\nJP :\n結果は…。"
+  },
+  {
+    "key": "23-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "23-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "23-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "23-content",
+    "original": "…윽.",
+    "context": "EN :\n... Agh.\nJP :\n…うっ。"
+  },
+  {
+    "key": "24-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "24-teller",
+    "original": "쥰",
+    "context": "EN :\nJun\nJP :\nジュン"
+  },
+  {
+    "key": "24-title",
+    "original": "흑운회 부조장",
+    "context": "EN :\nKurokumo Clan Captain\nJP :\n黒雲会 副組長"
+  },
+  {
+    "key": "24-content",
+    "original": "야, 뭐냐 이건? 엉?",
+    "context": "EN :\nC'mon, that's it?! Huh?!\nJP :\nおい、なんだこれは？えぇ？"
+  },
+  {
+    "key": "25-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "25-content",
+    "original": "앵두 씨!",
+    "context": "EN :\nM-miss Aeng-du!\nJP :\nエンドゥさん！"
+  },
+  {
+    "key": "26-content",
+    "original": "앵두가 그 합에서 패배했던 것인지, 돌연히 무릎을 꿇었다.",
+    "context": "EN :\n... appears to have been Aeng-du's defeat. She fell to her knees.\nJP :\nエンドゥがその競り合いで敗北したのか、突然膝を突いた。"
+  },
+  {
+    "key": "27-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "쥰",
+    "context": "EN :\nJun\nJP :\nジュン"
+  },
+  {
+    "key": "27-title",
+    "original": "흑운회 부조장",
+    "context": "EN :\nKurokumo Clan Captain\nJP :\n黒雲会 副組長"
+  },
+  {
+    "key": "27-content",
+    "original": "아니… 뭐 제대로 시작도 안 했다.",
+    "context": "EN :\nI mean... I was just getting started.\nJP :\nいや…まだ初めてすらいないんだけどな。"
+  },
+  {
+    "key": "28-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "쥰",
+    "context": "EN :\nJun\nJP :\nジュン"
+  },
+  {
+    "key": "28-title",
+    "original": "흑운회 부조장",
+    "context": "EN :\nKurokumo Clan Captain\nJP :\n黒雲会 副組長"
+  },
+  {
+    "key": "28-content",
+    "original": "저렇게 지쳐있는데 잘도 달려들 생각을 하는군…",
+    "context": "EN :\nI'm surprised you even had any energy left for that attack...\nJP :\nそんなに疲れてた癖して、よく噛みつこうって思えたもんだ…。"
+  },
+  {
+    "key": "29-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "29-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "29-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "29-content",
+    "original": "크윽…",
+    "context": "EN :\nGah...\nJP :\nぐっ…。"
+  },
+  {
+    "key": "30-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "30-content",
+    "original": "<…계속 우리보다 앞서서 흑운회 조직원들을 상대했으니까, 체력이 다했을 수도 있겠네.>",
+    "context": "EN :\n<... She's been fighting the Kurokumo Clan henchmen on the front lines before we even had the chance to catch up. No wonder she's exhausted.>\nJP :\n<…ずっと私たちより先に黒雲会の組員たちと戦っていたから、\n体力が尽きたのかもしれないね。>"
+  },
+  {
+    "key": "31-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "31-content",
+    "original": "중상에서 회복한 지도 얼마 되지 않았습니다. 무리를 했군요.",
+    "context": "EN :\nI must also remind you that she was on the verge of death not so long ago. She has overexerted herself.\nJP :\nそして重傷から回復したばかりです。無理をしたのですね。"
+  },
+  {
+    "key": "32-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "32-teller",
+    "original": "쥰",
+    "context": "EN :\nJun\nJP :\nジュン"
+  },
+  {
+    "key": "32-title",
+    "original": "흑운회 부조장",
+    "context": "EN :\nKurokumo Clan Captain\nJP :\n黒雲会 副組長"
+  },
+  {
+    "key": "32-content",
+    "original": "…너희들도 덤벼들 거냐? 이렇게 많은 인원은 아무리 나라도 좀 벅찬데…",
+    "context": "EN :\n... What, are the rest of you gonna fight me too? This hardly seems fair, me against all of you...\nJP :\n…テメェらも掛かってくんのか？\nこんなに人が多いと俺でも少しキツいんだが…。"
+  },
+  {
+    "key": "33-content",
+    "original": "검을 어깨에 턱 걸치면서 말하는 쥰 이라는 자는 짜증 나는 듯 인상을 찌푸리고 있었지만, 방금 전에 보여준 검을 놀리는 모습을 보면 쉬운 상대는 아닐 것 같다는 생각이 든다.",
+    "context": "EN :\nThis 'Jun' rested his blade on his shoulder with an annoyed scowl. I could tell from his single clash against Aeng-du that he wasn't going to go down easily.\nJP :\n剣を肩にトンと掛けながら話すジュンという者はイライラしてるらしく\nしかめっ面をしていたが、先ほどの剣を扱う姿を見るに\n中々手強い相手のような気がしてくる。"
+  },
+  {
+    "key": "34-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "34-content",
+    "original": "<좀 비겁해 보이긴 하지만…>",
+    "context": "EN :\n<Well, I don't like that we're all ganging up against this one guy, but...>\nJP :\n<少し卑怯だとは思うけど…。>"
+  },
+  {
+    "key": "35-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "35-teller",
+    "original": "쥰",
+    "context": "EN :\nJun\nJP :\nジュン"
+  },
+  {
+    "key": "35-title",
+    "original": "흑운회 부조장",
+    "context": "EN :\nKurokumo Clan Captain\nJP :\n黒雲会 副組長"
+  },
+  {
+    "key": "35-content",
+    "original": "겁나게 째깍대네. T사에는 이런 시계 의체까지 돌아다니는 건가?",
+    "context": "EN :\nYou've got one loud-ass clock for a head. What even is that? Is this some local T Corp. clock-shaped prosthetic fashion or something?\nJP :\nクッソチクタク鳴ってんな。\nT社にはこんな時計の義体まで出回ってるのか？"
+  },
+  {
+    "key": "36-model",
+    "original": "시계쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "36-teller",
+    "original": "쥰",
+    "context": "EN :\nJun\nJP :\nジュン"
+  },
+  {
+    "key": "36-title",
+    "original": "흑운회 부조장",
+    "context": "EN :\nKurokumo Clan Captain\nJP :\n黒雲会 副組長"
+  },
+  {
+    "key": "36-content",
+    "original": "…아, 시계? 야. 저거 맞는 시계냐?",
+    "context": "EN :\n... It is a clock, right? You there. Is that clock head on time?\nJP :\n…あ、時計？おい。アレ時間合ってるのか？"
+  },
+  {
+    "key": "37-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "37-content",
+    "original": "맞겠냐. 저건 그런 용도의 시계가 아냐.",
+    "context": "EN :\nMate, what do you think? That clock ain't for telling time.\nJP :\n合ってるとでも？ありゃぁそんな用途の時計じゃねぇよ。"
+  },
+  {
+    "key": "38-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "38-teller",
+    "original": "쥰",
+    "context": "EN :\nJun\nJP :\nジュン"
+  },
+  {
+    "key": "38-title",
+    "original": "흑운회 부조장",
+    "context": "EN :\nKurokumo Clan Captain\nJP :\n黒雲会 副組長"
+  },
+  {
+    "key": "38-content",
+    "original": "엉? 그러면 뭐 하러 모가지를 갈아끼냐? 쓸모도 없네…",
+    "context": "EN :\nHuh? Then what'd ya decapitate yourself for? What a useless clock...\nJP :\nはぁ？なら何でドタマを入れ替えたんだ？使えねぇな…。"
+  },
+  {
+    "key": "39-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "39-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "40-model",
+    "original": "시계쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "40-teller",
+    "original": "쥰",
+    "context": "EN :\nJun\nJP :\nジュン"
+  },
+  {
+    "key": "40-title",
+    "original": "흑운회 부조장",
+    "context": "EN :\nKurokumo Clan Captain\nJP :\n黒雲会 副組長"
+  },
+  {
+    "key": "40-content",
+    "original": "그럼, 너희 중에 시계 갖고 있는 놈은 없냐? 이 애물단지, 또 망가졌단 말이지.",
+    "context": "EN :\nOkay, then. Any of you got a timepiece? A clock... a watch... anyone? My stupid watch broke again.\nJP :\nじゃぁ、テメェらの中に時計持ってるヤツはいねぇか？\nこいつまた壊れちまったんだよ。"
+  },
+  {
+    "key": "41-content",
+    "original": "수감자들은 대답 없이 그저 쥰을 에워쌀 뿐이다.",
+    "context": "EN :\nThe Sinners wordlessly begin to surround Jun.\nJP :\n囚人たちは返事をせず、ジュンを取り囲んだ。"
+  },
+  {
+    "key": "42-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "42-teller",
+    "original": "쥰",
+    "context": "EN :\nJun\nJP :\nジュン"
+  },
+  {
+    "key": "42-title",
+    "original": "흑운회 부조장",
+    "context": "EN :\nKurokumo Clan Captain\nJP :\n黒雲会 副組長"
+  },
+  {
+    "key": "42-content",
+    "original": "없어…? 손목도 다 비어있네.",
+    "context": "EN :\nI guess not. Are any of you even wearing a watch?\nJP :\nいねぇのか…？手首もお留守か。"
+  },
+  {
+    "key": "43-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "43-teller",
+    "original": "쥰",
+    "context": "EN :\nJun\nJP :\nジュン"
+  },
+  {
+    "key": "43-title",
+    "original": "흑운회 부조장",
+    "context": "EN :\nKurokumo Clan Captain\nJP :\n黒雲会 副組長"
+  },
+  {
+    "key": "43-content",
+    "original": "제정신이냐, 시계도 안 갖고 다닌다니…",
+    "context": "EN :\nYou must all be insane. Sauntering about without a timepiece...\nJP :\n頭おかしいのか？時計持たずにほっつき回るとか…。"
+  },
+  {
+    "key": "44-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "44-content",
+    "original": "있다고 한들, 그대에게 말해 줄 의리도 없네만!",
+    "context": "EN :\nEven if I did, I would hardly find it within myself to show it to thee!\nJP :\n持っていたとしても、そなたに伝える義理もないのでありまする！"
+  },
+  {
+    "key": "45-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "45-teller",
+    "original": "쥰",
+    "context": "EN :\nJun\nJP :\nジュン"
+  },
+  {
+    "key": "45-title",
+    "original": "흑운회 부조장",
+    "context": "EN :\nKurokumo Clan Captain\nJP :\n黒雲会 副組長"
+  },
+  {
+    "key": "45-content",
+    "original": "…짜증 나게 하는 구만, 이것들…!",
+    "context": "EN :\nYou're all really getting on my nerves...!\nJP :\n…いちいちウッゼぇな、こいつら…！"
+  },
+  {
+    "key": "46-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "46-teller",
+    "original": "쥰",
+    "context": "EN :\nJun\nJP :\nジュン"
+  },
+  {
+    "key": "46-title",
+    "original": "흑운회 부조장",
+    "context": "EN :\nKurokumo Clan Captain\nJP :\n黒雲会 副組長"
+  },
+  {
+    "key": "46-content",
+    "original": "어차피 뒤도 없어. 나도 이 안에 들여보내면 곤란해지는 몸이라.",
+    "context": "EN :\nYou know what? That's it. I'll be in deep shit if I let anyone in there anyway.\nJP :\nどうせ後もねぇ。俺もこの中に入られると困るんだよな。"
+  },
+  {
+    "key": "47-model",
+    "original": "쥰",
+    "translation": "俊",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "47-teller",
+    "original": "쥰",
+    "context": "EN :\nJun\nJP :\nジュン"
+  },
+  {
+    "key": "47-title",
+    "original": "흑운회 부조장",
+    "context": "EN :\nKurokumo Clan Captain\nJP :\n黒雲会 副組長"
+  },
+  {
+    "key": "47-content",
+    "original": "빨리빨리 덤벼! 더 기운 빠지기 전에 한 놈이라도 더 썰게!",
+    "context": "EN :\nSo come and get me! I'll cut you down if it's the last thing I do!\nJP :\nつべこべ言わず掛かって来いや！\n気力無くなるまで一人でも多く斬ってやる！"
+  }
+]

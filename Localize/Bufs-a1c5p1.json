@@ -1,0 +1,17 @@
+[
+  {
+    "key": "AaCePaBa-name",
+    "original": "강박",
+    "context": "EN :\nCompulsion\nJP :\n強迫"
+  },
+  {
+    "key": "AaCePaBa-desc",
+    "original": "정신력 -25상태로 전투 시작. 턴 시작 시 정신력이 0 미만일 때 공격 위력 증가 3을 얻음.",
+    "context": "EN :\nStarts encounter with -25 SP. At less than 0 SP at Turn Start, gain 3 Attack Power Up.\nJP :\n精神力が-25の状態から戦闘開始。ターン開始時に精神力が0未満のとき、攻撃威力増加 3を得る。"
+  },
+  {
+    "key": "AaCePaBa-summary",
+    "original": "정신력이 0 미만일 때 공격 위력 증가 3을 얻음",
+    "context": "EN :\nAt less than 0 SP, gain 3 Attack Power Up\nJP :\n精神力が0未満のとき、攻撃威力増加 3を得る"
+  }
+]

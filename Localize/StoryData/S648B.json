@@ -1,0 +1,338 @@
+[
+  {
+    "key": "0-place",
+    "original": "워더링하이츠 옥상",
+    "context": "EN :\nWuthering Heights Rooftop\nJP :\nワザリング・ハイツ 屋上"
+  },
+  {
+    "key": "0-content",
+    "original": "히스클리프가 그토록 바랐던 캐서린이 눈을 뜬 채로 관 속에서 걸어 나오고 있었다.",
+    "context": "EN :\nCatherine, who Heathcliff desired so desperately to reach... she was walking out of the coffin, her eyes opened.\nJP :\nヒースクリフが待ち望んでいたキャサリンは、\n目を開けたまま棺の中から歩き出てきた。"
+  },
+  {
+    "key": "1-content",
+    "original": "그러나…",
+    "context": "EN :\nYet...\nJP :\nでも…。"
+  },
+  {
+    "key": "2-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "2-content",
+    "original": "아니야.",
+    "context": "EN :\nNo.\nJP :\n違う。"
+  },
+  {
+    "key": "3-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "3-content",
+    "original": "<일곱 번째 벼락이 쳤고…>",
+    "context": "EN :\n<The seventh lightning has struck...>\nJP :\n<七回目の雷が落ちて…。>"
+  },
+  {
+    "key": "4-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "4-content",
+    "original": "<다른 세계의 캐서린이… 덧씌워지고 있어…>",
+    "context": "EN :\n<She's... being overwritten by a Catherine from a different world...>\nJP :\n<他の世界のキャサリンで…上書きされてる…。>"
+  },
+  {
+    "key": "5-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "5-content",
+    "original": "캐서린, 내게 이러지 마.",
+    "context": "EN :\nPlease don't do this, Catherine.\nJP :\nキャサリン、やめろ。"
+  },
+  {
+    "key": "6-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "6-content",
+    "original": "저택 안에서나, 밖에서나 모든 걸 견뎌 낸 이유는 너였어.",
+    "context": "EN :\nI endured everything for you. Everything at the manor. Everything I suffered out there.\nJP :\n邸宅の中でも外でも、全部耐えられたのは君がいたからだ。"
+  },
+  {
+    "key": "7-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "7-content",
+    "original": "그냥 이 저택에 다시 돌아와서… 너를 만나고 싶었어. 그것뿐인데…",
+    "context": "EN :\nAll I ever wanted was to see you again... to return to this manor, to meet you...\nJP :\nただこの邸宅に戻ってきて…君に会いたかったんだ。\nそれだけなのに…。"
+  },
+  {
+    "key": "8-content",
+    "original": "절규하며 울부짖고 있는 캐서린은 어딘가 불안정한듯 주위가 일그러져 간다.",
+    "context": "EN :\nThe space surrounding Catherine, who is screaming and wailing... begins to bend and refract as though something has gone wrong.\nJP :\n絶叫しながら泣き叫ぶキャサリンは、\nどこか不安定なようで周囲が歪んでいく。"
+  },
+  {
+    "key": "9-model",
+    "original": "마왕캐서린",
+    "translation": "魔王凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "모든 캐서린",
+    "context": "EN :\nEvery Catherine\nJP :\n全てのキャサリン"
+  },
+  {
+    "key": "9-title",
+    "original": "어떤 모든 세계",
+    "context": "EN :\nA Certain Every World\nJP :\nとある全ての世界"
+  },
+  {
+    "key": "9-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "10-model",
+    "original": "마왕캐서린",
+    "translation": "魔王凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "모든 캐서린",
+    "context": "EN :\nEvery Catherine\nJP :\n全てのキャサリン"
+  },
+  {
+    "key": "10-title",
+    "original": "어떤 모든 세계",
+    "context": "EN :\nA Certain Every World\nJP :\nとある全ての世界"
+  },
+  {
+    "key": "10-content",
+    "original": "캐서린!",
+    "context": "EN :\nCatherine!\nJP :\nキャサリン！"
+  },
+  {
+    "key": "11-model",
+    "original": "마왕캐서린",
+    "translation": "魔王凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "모든 캐서린",
+    "context": "EN :\nEvery Catherine\nJP :\n全てのキャサリン"
+  },
+  {
+    "key": "11-title",
+    "original": "어떤 모든 세계",
+    "context": "EN :\nA Certain Every World\nJP :\nとある全ての世界"
+  },
+  {
+    "key": "11-content",
+    "original": "왜 멋대로 마음을 바꾸는 거야? 우리의 소원을 잊었어?",
+    "context": "EN :\nWhy have you changed your mind?! Have you forgotten our wish?\nJP :\nどうして勝手に心変わりしたの？\n私たちの願いを忘れたの？"
+  },
+  {
+    "key": "12-model",
+    "original": "마왕캐서린",
+    "translation": "魔王凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "모든 캐서린",
+    "context": "EN :\nEvery Catherine\nJP :\n全てのキャサリン"
+  },
+  {
+    "key": "12-title",
+    "original": "어떤 모든 세계",
+    "context": "EN :\nA Certain Every World\nJP :\n全てのキャサリン"
+  },
+  {
+    "key": "12-content",
+    "original": "히스클리프가 우리로 인해서 어떻게 비참해지고 불행해지는지 그 수없는 낮밤 동안 지켜보았잖아!",
+    "context": "EN :\nYou have spent countless days and nights watching how Heathcliff suffers! The suffering that we have inflicted upon him!\nJP :\nヒースクリフが私たちのせいでどれだけ惨めに、不幸になったか\n数え切れないほどの昼と夜を過ごしながら見てきたでしょう！"
+  },
+  {
+    "key": "13-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "13-content",
+    "original": "아니야…",
+    "context": "EN :\nNo...\nJP :\nいいえ…。"
+  },
+  {
+    "key": "14-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "14-content",
+    "original": "달라…",
+    "context": "EN :\nIt's... different.\nJP :\n違うの…。"
+  },
+  {
+    "key": "15-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "15-content",
+    "original": "내게 이런 말을 해줄 수 있는 건…",
+    "context": "EN :\nThe only person who can tell me this is...\nJP :\n私にこんなことを言ってくれるのは…。"
+  },
+  {
+    "key": "16-model",
+    "original": "마왕캐서린",
+    "translation": "魔王凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "모든 캐서린",
+    "context": "EN :\nEvery Catherine\nJP :\n全てのキャサリン"
+  },
+  {
+    "key": "16-title",
+    "original": "어떤 모든 세계",
+    "context": "EN :\nA Certain Every World\nJP :\n全てのキャサリン"
+  },
+  {
+    "key": "16-content",
+    "original": "이 세계의 모든 히스클리프가 어떻게 되든 말든, 너와는 아무 상관 없는 일이라고 생각하는 거야?",
+    "context": "EN :\nDoes it not matter to you, what happens to every Heathcliff in every world? Are you truly so selfish that you feel detached from its consequences?\nJP :\nこの世全てのヒースクリフがどうなろうと、\nあなたには関係ないとでも思ってるの？"
+  },
+  {
+    "key": "17-model",
+    "original": "마왕캐서린",
+    "translation": "魔王凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "모든 캐서린",
+    "context": "EN :\nEvery Catherine\nJP :\n全てのキャサリン"
+  },
+  {
+    "key": "17-title",
+    "original": "어떤 모든 세계",
+    "context": "EN :\nA Certain Every World\nJP :\n全てのキャサリン"
+  },
+  {
+    "key": "17-content",
+    "original": "히스클리프는 곧 나야. 내가 세상에서 느낀 가장 큰 고통은 히스클리프가 느낀 고통이고, 내가 살면서 가장 많이 생각해 온 건 히스클리프야!",
+    "context": "EN :\nI am Heathcliff. My greatest miseries in this world have been Heathcliff's miseries, and I have watched and felt each from the beginning: my great thought in living is himself!\nJP :\n私こそヒースクリフよ。\n私がこの世で感じた一番の大きな苦痛はヒースクリフの苦痛で、\n私が生きてる間に一番考えてきたことはヒースクリフよ！"
+  },
+  {
+    "key": "18-model",
+    "original": "마왕캐서린",
+    "translation": "魔王凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "모든 캐서린",
+    "context": "EN :\nEvery Catherine\nJP :\n全てのキャサリン"
+  },
+  {
+    "key": "18-title",
+    "original": "어떤 모든 세계",
+    "context": "EN :\nA Certain Every World\nJP :\n全てのキャサリン"
+  },
+  {
+    "key": "18-content",
+    "original": "다른 모든 것이 남고 그 애가 없는 세상이 도달할 거라면, 캐서린 또한 존재해서는 안 돼!",
+    "context": "EN :\nIf all else remained, and he were annihilated... no Catherine should seem a part of that world any longer!\nJP :\n他の全てが残り、あの子がいない世界が到達するというなら\nキャサリンも存在してはならないの！"
+  },
+  {
+    "key": "19-model",
+    "original": "마왕히스클리프3",
+    "translation": "魔王希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nErlking Heathcliff\nJP :\n魔王ヒースクリフ"
+  },
+  {
+    "key": "19-title",
+    "original": "또 다른 세계",
+    "context": "EN :\nA Distant World\nJP :\n別の世界"
+  },
+  {
+    "key": "19-content",
+    "original": "캐시! 어딘가에 네가 느껴져. 어디 있지? ",
+    "context": "EN :\nCathy! You are here, somewhere...! Where are you?!\nJP :\nキャシー！どこかに君を感じるんだ。どこにいるんだ？"
+  },
+  {
+    "key": "20-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "20-content",
+    "original": "<인격 소환이… 제대로 이뤄지지 않고 있는 것 같아.>",
+    "context": "EN :\n<The Identity... something's gone wrong with the summoning.>\nJP :\n<人格召喚が…上手いこといってないみたいだ。>"
+  },
+  {
+    "key": "21-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "21-content",
+    "original": "캐서린 씨의 의지가 개입되고 있는 것이 주요 원인으로 파악됩니다.",
+    "context": "EN :\nIt is likely that Miss Catherine's will is intervening in the summoning.\nJP :\nキャサリン氏の意志が介入していることが主要な要因とみられます。"
+  },
+  {
+    "key": "22-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "22-content",
+    "original": "캐서린 씨가 소환을 거부하고 있다는 거예요?",
+    "context": "EN :\nShe's... refusing the summoning?\nJP :\nキャサリンさんが召喚を拒否しているってことですか？"
+  },
+  {
+    "key": "23-model",
+    "original": "마왕캐서린",
+    "translation": "魔王凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "23-teller",
+    "original": "모든 캐서린",
+    "context": "EN :\nEvery Catherine\nJP :\n全てのキャサリン"
+  },
+  {
+    "key": "23-title",
+    "original": "어떤 모든 세계",
+    "context": "EN :\nA Certain Every World\nJP :\n全てのキャサリン"
+  },
+  {
+    "key": "23-content",
+    "original": "나를 방해하지 마! 나를 불러와 줘! 네가 진정으로 히스클리프를 사랑하는 것이 맞다면!",
+    "context": "EN :\nDo not obstruct me! Summon me, if your love for Heathcliff is true!\nJP :\n私を邪魔しないで！私を呼んで！\nあなたがヒースクリフを本当に愛しているなら！"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "key": "860501-levelList$[0].name",
+    "original": "이곳에서 나가세요",
+    "context": "EN :\nLeave This Place\nJP :\nここから出て行ってください"
+  },
+  {
+    "key": "860501-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Sinking]이 4 이상이면, 합 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 4+ [Sinking], Clash Power +1\nJP :\n[WhenUse] 対象の[Sinking]が4以上なら、マッチ威力 +1"
+  },
+  {
+    "key": "860501-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]回数が3増加"
+  },
+  {
+    "key": "860502-levelList$[0].name",
+    "original": "그런 표정은 짓지 마시죠",
+    "context": "EN :\nDon't Make That Face\nJP :\nそんな表情を浮かべないでください"
+  },
+  {
+    "key": "860502-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Sinking] 횟수가 3 이상이면, 합 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 3+ [Sinking] Count, Clash Power +1\nJP :\n[WhenUse] 対象の[Sinking]回数が3以上なら、マッチ威力 +1"
+  },
+  {
+    "key": "860502-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]3を付与"
+  },
+  {
+    "key": "860502-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]3を付与"
+  },
+  {
+    "key": "860503-levelList$[0].name",
+    "original": "당신은 누군가요?",
+    "context": "EN :\nWho Might You Be?\nJP :\nあなたは誰ですか？"
+  },
+  {
+    "key": "860503-levelList$[0].desc",
+    "original": "[UninvitedGuest] 대상 우선 공격\n대상이 [UninvitedGuest]을 가지고 있을 경우, 이 스킬에서 부여하는 [Sinking], [Sinking] 횟수 +1",
+    "context": "EN :\nPrioritizes [UninvitedGuest]\nIf the target has [UninvitedGuest], inflict +1 more [Sinking] Potency and Count with this Skill\nJP :\n[UninvitedGuest]対象を優先して攻撃\n対象が[UninvitedGuest]を持っているなら、このスキルで付与する[Sinking], [Sinking]回数 +1"
+  },
+  {
+    "key": "860503-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]回数が2増加"
+  },
+  {
+    "key": "860503-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]回数が2増加"
+  },
+  {
+    "key": "860503-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]3を付与"
+  },
+  {
+    "key": "860503-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]3を付与"
+  },
+  {
+    "key": "860503-levelList$[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 [UninvitedGuest]이 있다면, 다음 턴에 [Paralysis] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has [UninvitedGuest], Inflict 2 [Paralysis] next turn\nJP :\n[OnSucceedAttack]対象へ[UninvitedGuest]があるなら、次のターンに[Paralysis]2を付与"
+  },
+  {
+    "key": "860504-levelList$[0].name",
+    "original": "불청객인가요?",
+    "context": "EN :\nInterloper, Are You?\nJP :\n招かざる客ですか？"
+  },
+  {
+    "key": "860504-levelList$[0].desc",
+    "original": "[UninvitedGuest] 대상 우선 공격\n대상이 [UninvitedGuest]을 가지고 있을 경우, 이 스킬에서 부여하는 [Sinking], [Sinking] 횟수 +1",
+    "context": "EN :\nPrioritizes [UninvitedGuest]\nIf the target has [UninvitedGuest], inflict +1 more [Sinking] Potency and Count with this Skill\nJP :\n[UninvitedGuest]対象を優先して攻撃\n対象が[UninvitedGuest]を持っているなら、このスキルで付与する[Sinking], [Sinking]回数 +1"
+  },
+  {
+    "key": "860504-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]5を付与"
+  },
+  {
+    "key": "860504-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [Sinking] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +2 [Sinking] Count\nJP :\n[OnSucceedAttackHead] [Sinking]回数が2増加"
+  },
+  {
+    "key": "860504-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]5を付与"
+  },
+  {
+    "key": "860504-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 [UninvitedGuest]이 있다면, 다음 턴에 [Paralysis] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has [UninvitedGuest], Inflict 2 [Paralysis] next turn\nJP :\n[OnSucceedAttack]対象へ[UninvitedGuest]があるなら、次のターンに[Paralysis]2を付与"
+  },
+  {
+    "key": "860504-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttackHead] [Sinking] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +2 [Sinking] Count\nJP :\n[OnSucceedAttackHead] [Sinking]回数が2増加"
+  },
+  {
+    "key": "860505-levelList$[0].name",
+    "original": "불청객은 나가세요",
+    "context": "EN :\nLeave, Interloper\nJP :\n招かざる客は出て行ってください"
+  },
+  {
+    "key": "860505-levelList$[0].desc",
+    "original": "[UninvitedGuest] 대상 우선 공격\n[UninvitedGuest]을 가진 적만큼 가중치 증가\n[WhenUse] [UninvitedGuest]을 가진 적만큼 합 위력이 증가",
+    "context": "EN :\nPrioritizes [UninvitedGuest]\nGain Atk Weight equal to number of enemies with [UninvitedGuest]\n[WhenUse] Gain Clash Power equal to the number of enemies with [UninvitedGuest]\nJP :\n[UninvitedGuest]対象を優先して攻撃\n[UninvitedGuest]を持つ的だけ加重値増加\n[WhenUse] [UninvitedGuest]を持つ敵だけマッチ威力が増加"
+  },
+  {
+    "key": "860505-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]5を付与"
+  },
+  {
+    "key": "860505-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]回数が3増加"
+  },
+  {
+    "key": "860505-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [SinkingSurge]",
+    "context": "EN :\n[OnSucceedAttack] Cause [SinkingSurge]\nJP :\n[OnSucceedAttack] [SinkingSurge]"
+  },
+  {
+    "key": "860506-levelList$[0].name",
+    "original": "나의 주인님",
+    "context": "EN :\nMy Master\nJP :\n私のご主人様"
+  },
+  {
+    "key": "860506-levelList$[0].desc",
+    "original": "[DefeatDuel] 연결된 초상화의 모습을 보여줌",
+    "context": "EN :\n[DefeatDuel] Reveals the Portrait attached to this Skill Slot\nJP :\n[DefeatDuel] 繋がった肖像画の姿を見せる"
+  },
+  {
+    "key": "860506-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]回数が3増加"
+  },
+  {
+    "key": "860507-levelList$[0].name",
+    "original": "슬픈 주인님",
+    "context": "EN :\nMy Tragic Master\nJP :\n哀しいご主人様"
+  },
+  {
+    "key": "860507-levelList$[0].desc",
+    "original": "[DefeatDuel] 연결된 초상화의 모습을 보여줌",
+    "context": "EN :\n[DefeatDuel] Reveals the Portrait attached to this Skill Slot\nJP :\n[DefeatDuel] 繋がった肖像画の姿を見せる"
+  },
+  {
+    "key": "860507-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]3を付与"
+  },
+  {
+    "key": "860601-levelList$[0].name",
+    "original": "주인님...?",
+    "context": "EN :\nMaster...?\nJP :\nご主人様…？"
+  },
+  {
+    "key": "860701-levelList$[0].name",
+    "original": "회피",
+    "context": "EN :\nEvade\nJP :\n回避"
+  },
+  {
+    "key": "860801-levelList$[0].name",
+    "original": "뿔 들이박기",
+    "context": "EN :\nHorned Charge\nJP :\n角を突き立てる"
+  },
+  {
+    "key": "860801-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Charge] 횟수 1 증가",
+    "context": "EN :\n[WhenUse] Gain +1 [Charge] Count\nJP :\n[WhenUse] 自分の[Charge]回数が1増加"
+  },
+  {
+    "key": "860801-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [DefenseDown] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [DefenseDown] next turn\nJP :\n[OnSucceedAttack] 次のターンに[DefenseDown]2を付与"
+  },
+  {
+    "key": "860802-levelList$[0].name",
+    "original": "양뿔 들이박기",
+    "context": "EN :\nRam Charge\nJP :\n羊角を突き立てる"
+  },
+  {
+    "key": "860802-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Charge] 횟수 1 증가",
+    "context": "EN :\n[WhenUse] Gain +1 [Charge] Count\nJP :\n[WhenUse] 自分の[Charge]回数が1増加"
+  },
+  {
+    "key": "860802-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [AttackDown] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [AttackDown] next turn\nJP :\n[OnSucceedAttack] 次のターンに[AttackDown]1を付与"
+  },
+  {
+    "key": "860802-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [AttackDown] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [AttackDown] next turn\nJP :\n[OnSucceedAttack] 次のターンに[AttackDown]2を付与"
+  },
+  {
+    "key": "860803-levelList$[0].name",
+    "original": "양울음",
+    "context": "EN :\nLamb's Cry\nJP :\n羊鳴き"
+  },
+  {
+    "key": "860803-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Charge] 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +2 [Charge] Count\nJP :\n[WhenUse] 自分の[Charge]回数が2増加"
+  },
+  {
+    "key": "860803-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Paralysis] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Paralysis] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Paralysis]1を付与"
+  },
+  {
+    "key": "860804-levelList$[0].name",
+    "original": "번개 조작",
+    "context": "EN :\nLightning Manipulation\nJP :\n雷操作"
+  },
+  {
+    "key": "860804-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Charge] 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +2 [Charge] Count\nJP :\n[WhenUse] 自分の[Charge]回数が2増加"
+  },
+  {
+    "key": "860804-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Paralysis] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Paralysis] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Paralysis]2を付与"
+  },
+  {
+    "key": "860804-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [AttackDown] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [AttackDown] next turn\nJP :\n[OnSucceedAttack] 次のターンに[AttackDown]2を付与"
+  },
+  {
+    "key": "860805-levelList$[0].name",
+    "original": "전기울음",
+    "context": "EN :\nElectric Screaming\nJP :\n電気哀鳴"
+  },
+  {
+    "key": "860805-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Charge] 횟수 4당 가중치 +1 (최대 5)\n[WhenUse] 자신의 [Charge] 횟수 5당 합 위력 +3 (최대 4)\n[WhenUse] 자신의 [Charge] 횟수 6당 [VioletDamageUp] 1 얻음 (최대 3)\n[EndBattle] 모든 [Charge] 횟수 소모. [ConnectedPlug] 제거",
+    "context": "EN :\n[WhenUse] Atk Weight +1 for every 4 [Charge] Count on self (max 5)\n[WhenUse] Clash Power +3 for every 5 [Charge] Count on self (max 4)\n[WhenUse] Gain 1 [VioletDamageUp] for every 6 [Charge] Count on self (max 3)\n[EndBattle] All [Charge] Count on self expires. Loses [ConnectedPlug]\nJP :\n[WhenUse] 自分の[Charge]回数4につき加重値 +1(最大5)\n[WhenUse] 自分の[Charge]回数5につきマッチ威力 +3(最大4)\n[WhenUse] 自分の[Charge]回数6につき[VioletDamageUp]1を得る(最大3)\n[EndBattle] 全[Charge]回数を消耗。[ConnectedPlug]を除去"
+  },
+  {
+    "key": "860805-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [DefenseDown] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [DefenseDown] next turn\nJP :\n[OnSucceedAttack] 次のターンに[DefenseDown]4を付与"
+  },
+  {
+    "key": "860805-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [AttackDown] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [AttackDown] next turn\nJP :\n[OnSucceedAttack] 次のターンに[AttackDown]4を付与"
+  },
+  {
+    "key": "860805-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Paralysis] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Paralysis] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Paralysis]3を付与"
+  },
+  {
+    "key": "860806-levelList$[0].name",
+    "original": "전기울음",
+    "context": "EN :\nElectric Screaming\nJP :\n電気哀鳴"
+  },
+  {
+    "key": "860806-levelList$[0].desc",
+    "original": "[CantDuel]\n[WhenUse] [Protection] 10 얻음\n[WhenUse] 자신의 [Charge] 횟수 4당 가중치 +1 (최대 5)\n[WhenUse] 자신의 [Charge] 횟수 5당 합 위력 +3 (최대 4)\n[WhenUse] 자신의 [Charge] 횟수 6당 [VioletDamageUp] 1 얻음 (최대 3)",
+    "context": "EN :\n[CantDuel]\n[WhenUse] Gain 10 [Protection]\n[WhenUse] Atk Weight +1 for every 4 [Charge] Count on self (max 5)\n[WhenUse] Clash Power +3 for every 5 [Charge] Count on self (max 4)\n[WhenUse] Gain 1 [VioletDamageUp] for every 6 [Charge] Count on self (max 3)\nJP :\n[CantDuel]\n[WhenUse] [Protection]10を得る\n[WhenUse] 自分の[Charge]回数4につき加重値 +1(最大5)\n[WhenUse] 自分の[Charge]回数5につきマッチ威力 +3(最大4)\n[WhenUse] 自分の[Charge]回数6につき[VioletDamageUp]1を得る(最大3)"
+  },
+  {
+    "key": "860807-levelList$[0].name",
+    "original": "접지 거부",
+    "context": "EN :\nGrounding Refusal\nJP :\n接地拒否"
+  },
+  {
+    "key": "860807-levelList$[0].desc",
+    "original": "[AntiSheepGround]가 있는 인격 우선 공격\n[ConnectedPlug]당 합 위력 +1\n[StartBattle] (3 - [ConnectedPlug] 수) * 2만큼 [Protection]를 얻음\n[WhenUse] 자신의 [Charge] 횟수 1 증가\n[DefeatDuel] 대상에게 [AntiSheepGround]가 있다면, [ConnectedPlug] 1 얻음",
+    "context": "EN :\nPrioritizes targets with [AntiSheepGround]\nClash Power +1 for every [ConnectedPlug]\n[StartBattle] Gain 2(3 - [ConnectedPlug]) [Protection]\n[WhenUse] Gain +1 [Charge] Count\n[DefeatDuel] If the target has [AntiSheepGround], gain 1 [ConnectedPlug]\nJP :\n[AntiSheepGround]を持つ人格を優先して攻撃\n[ConnectedPlug]1につきマッチ威力 +1\n[StartBattle] (3 - [ConnectedPlug]の数) × 2だけ[Protection]を得る\n[WhenUse] 自分の[Charge]回数が1増加\n[DefeatDuel] 対象に[AntiSheepGround]があれば、[ConnectedPlug]1を得る"
+  },
+  {
+    "key": "860807-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Paralysis] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Paralysis] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Paralysis]1を付与"
+  },
+  {
+    "key": "860807-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [DefenseDown] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [DefenseDown] next turn\nJP :\n[OnSucceedAttack] 次のターンに[DefenseDown]2を付与"
+  },
+  {
+    "key": "862801-levelList$[0].name",
+    "original": "과충전 방출",
+    "context": "EN :\nOvercharge Release\nJP :\n過充電放出"
+  },
+  {
+    "key": "862801-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Paralysis] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Paralysis] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Paralysis]2を付与"
+  },
+  {
+    "key": "862901-levelList$[0].name",
+    "original": "휘감는 체념",
+    "context": "EN :\nEnveloping Resignation\nJP :\n縛り付ける諦念"
+  },
+  {
+    "key": "862901-levelList$[0].desc",
+    "original": "대상의 [Sinking]이 6 이상이면 코인 위력 +1\n[WinDuel] [Sinking] 횟수 3 증가",
+    "context": "EN :\nIf the target has 6+ [Sinking], Coin Power +1\n[WinDuel] Inflict +3 [Sinking] Count\nJP :\n対象の[Sinking]が6以上なら、コイン威力 +1\n[WinDuel] [Sinking]回数が3増加"
+  },
+  {
+    "key": "862901-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "862901-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "862902-levelList$[0].name",
+    "original": "옥죄는 절망",
+    "context": "EN :\nStrangling Despair\nJP :\n締め付ける絶望"
+  },
+  {
+    "key": "862902-levelList$[0].desc",
+    "original": "대상의 [Sinking] 6 당 코인 위력+1 (최대 2)\n[WinDuel] [Sinking] 횟수 3 증가\n[DefeatDuel] [Sinking] 횟수 1 감소",
+    "context": "EN :\nCoin Power +1 for every 6 [Sinking] on target (max 2)\n[WinDuel] Inflict +3 [Sinking] Count\n[DefeatDuel] Reduce [Sinking] Count by 1\nJP :\n対象の[Sinking]6につき、コイン威力 +1(最大2)\n[WinDuel] [Sinking]回数が3増加\n[DefeatDuel] [Sinking]回数が1減少"
+  },
+  {
+    "key": "862902-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]回数が2増加"
+  },
+  {
+    "key": "862902-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]3を付与"
+  },
+  {
+    "key": "862902-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]3を付与"
+  },
+  {
+    "key": "862903-levelList$[0].name",
+    "original": "사슬 끊기",
+    "context": "EN :\nChainbreaker\nJP :\n鎖を断つ"
+  },
+  {
+    "key": "862903-levelList$[0].desc",
+    "original": "대상에게 [Binding]이 있으면 합 위력 +1\n [WinDuel] [Sinking] 횟수 4 증가\n[DefeatDuel] [Sinking] 위력 2 감소",
+    "context": "EN :\nIf the target has [Binding], Clash Power +1\n[WinDuel] Inflict +4 [Sinking] Count\n[DefeatDuel] Reduce [Sinking] Potency by 2\nJP :\n対象に[Binding]があればマッチ威力 +1\n[WinDuel] [Sinking]回数が4増加\n[DefeatDuel] [Sinking]威力が2減少"
+  },
+  {
+    "key": "862903-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "862903-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "862903-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "862903-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]2を付与"
+  },
+  {
+    "key": "862904-levelList$[0].name",
+    "original": "구속의 사슬",
+    "context": "EN :\nChains of Binding\nJP :\n拘束の鎖"
+  },
+  {
+    "key": "862904-levelList$[0].desc",
+    "original": "대상의 [Sinking] 6 당 코인 위력 +1(최대 2)\n[DefeatDuel] [Sinking] 횟수 2 감소\n[DefeatDuel] [BandageOfTheBoundKing] 부여",
+    "context": "EN :\nCoin Power + for every 6 [Sinking] on target (max 2)\n[DefeatDuel] Reduce [Sinking] Count by 2\n[DefeatDuel] Apply [BandageOfTheBoundKing]\nJP :\n対象の[Sinking]6につき、コイン威力 +1(最大2)\n[DefeatDuel] [Sinking]回数が2減少\n[DefeatDuel] [BandageOfTheBoundKing]を付与"
+  },
+  {
+    "key": "862904-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Binding] 3 부여\n[OnSucceedAttack] 대상의 [Sinking] 만큼 [Vibration] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Binding] next turn\n[OnSucceedAttack] Inflict [Vibration] equal to [Sinking] on target\nJP :\n[OnSucceedAttack] 次のターンに[Binding]3を付与\n[OnSucceedAttack] 対象の[Sinking]だけ[Vibration]を付与"
+  },
+  {
+    "key": "862904-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]\nJP :\n[OnSucceedAttack] [VibrationExplosion]"
+  },
+  {
+    "key": "862905-levelList$[0].name",
+    "original": "가라앉으라",
+    "context": "EN :\nThou Wilt Sink\nJP :\n沈むがよい"
+  },
+  {
+    "key": "862905-levelList$[0].desc",
+    "original": "대상에게 [Binding]이 있으면 합 위력 +1\n[WinDuel] [Sinking] 횟수 2 증가\n[DefeatDuel] [Sinking] 위력 4 감소",
+    "context": "EN :\nIf the target has [Binding], Clash Power +1\n[WinDuel] Inflict +2 [Sinking] Count\n[DefeatDuel] Reduce [Sinking] Potency by 4\nJP :\n対象に[Binding]があればマッチ威力 +1\n[WinDuel] [Sinking]回数が2増加\n[DefeatDuel] [Sinking]威力が4減少"
+  },
+  {
+    "key": "862905-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [SinkingSurge]",
+    "context": "EN :\n[OnSucceedAttack] Cause [SinkingSurge]\nJP :\n[OnSucceedAttack] [SinkingSurge]"
+  },
+  {
+    "key": "862906-levelList$[0].name",
+    "original": "왕의 앞으로 오라",
+    "context": "EN :\nPresent Thyself Before the King\nJP :\n王の前へ出でよ"
+  },
+  {
+    "key": "862906-levelList$[0].desc",
+    "original": "[CantDuel]\n[StartBattle] 다음 턴에 [Binding] 5, [ComeForwardToTheKing] 1, [Enhancement] 2 얻음.\n[WhenUse] [BandageOfTheBoundKing]가 부여된 대상에게 보호막 300 부여",
+    "context": "EN :\n[CantDuel]\n[StartBattle] Gain 5 [Binding], 1 [ComeForwardToTheKing], and 2 [Enhancement] next turn.\n[WhenUse] Apply 300 Shield to targets with [BandageOfTheBoundKing]\nJP :\n[CantDuel]\n[StartBattle] 次のターンに[Binding]5, [ComeForwardToTheKing]1, [Enhancement]2を得る。\n[WhenUse] [BandageOfTheBoundKing]が付与された対象へバリアを300付与"
+  },
+  {
+    "key": "862906-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 피해를 주었으면, 대상의 [Sinking]만큼 [Vibration] 부여",
+    "context": "EN :\n[OnSucceedAttack] If this unit dealt damage to the target, inflict [Vibration] equal to [Sinking] on target\nJP :\n[OnSucceedAttack] 対象にダメージを与えたなら、対象の[Sinking]だけ[Vibration]を付与"
+  },
+  {
+    "key": "862906-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]\nJP :\n[OnSucceedAttack] [VibrationExplosion]"
+  },
+  {
+    "key": "860602-levelList$[0].name",
+    "original": "주인님의 초상화",
+    "context": "EN :\nMaster's Portrait\nJP :\nご主人様の肖像画"
+  }
+]

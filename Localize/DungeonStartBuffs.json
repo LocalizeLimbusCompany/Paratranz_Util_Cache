@@ -1,0 +1,552 @@
+[
+  {
+    "key": "ADDITIONAL_START_COST-description",
+    "original": "[공용]\n\n시작 코스트 {0}을 획득",
+    "context": "EN :\n[Universal]\n\nGain +{0} Starting Cost\nJP :\n[共用]\n\n開始コストを{0}獲得"
+  },
+  {
+    "key": "ADDITIONAL_BATTLE_WIN_COST_RATE-description",
+    "original": "[공용]\n\n전투 승리 시 획득하는 코스트 {0}% 증가 (시작 버프, 다른 E.G.O 기프트의 영향을 받지 않음)",
+    "context": "EN :\n[Universal]\n\nGain +{0}% Cost after winning a Combat Encounter. (Not affected by Starter Buffs or other E.G.O Gifts)\nJP :\n[共用]\n\n[戦闘勝利時に獲得するコストが{0}%増加。(開始バフ、他のE.G.Oギフトの影響を受けない)"
+  },
+  {
+    "key": "ADDITIONAL_EGO_GIFT_CHANCE-description",
+    "original": "[공용]\n\nE.G.O 기프트 3종 추가로 등장",
+    "context": "EN :\n[Universal]\n\nIntroduce 3 new E.G.O Gifts to the Gift pool\nJP :\n[共用]\n\nE.G.Oギフト3種類が追加で出現"
+  },
+  {
+    "key": "ADDITIONAL_3_TIER_START_EGO_GIFT_CHANCE-description",
+    "original": "[공용]\n\n별새김 진행 시, 별빛 200 획득 (최초 1회 한정, 활성화 영향을 받지 않음)",
+    "context": "EN :\n[Universal]\n\nGain 200 Starlight upon engraving this Star (1-time only, unaffected by activation status)\nJP :\n[共用]\n\n刻星時、星明かりを200獲得(初回1回限定、活性化の影響を受けない)"
+  },
+  {
+    "key": "ADDITIONAL_START_EGO_GIFT_SELECT-description",
+    "original": "[시작 E.G.O 기프트]\n\nE.G.O 기프트 선택 수 +{0}",
+    "context": "EN :\n[Starting E.G.O Gift]\n\nE.G.O Gift choice +{0}\nJP :\n[開始E.G.Oギフト]\n\nE.G.Oギフト選択数 +{0}"
+  },
+  {
+    "key": "ACQUIRE_4_TIER_START_EGO_GIFT-description",
+    "original": "[시작 E.G.O 기프트]\n\n시작 단계에서 선택한 항목의 4등급 무작위 E.G.O 기프트를 추가로 획득",
+    "context": "EN :\n[Starting E.G.O Gift]\n\nAfter selecting a Starting E.G.O Gift, receive a random Tier 4 E.G.O Gift\nJP :\n[開始E.G.Oギフト]\n\n開始時点に選択したカテゴリの、ランク4のE.G.Oギフトをランダムに追加獲得。"
+  },
+  {
+    "key": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE-description",
+    "original": "[상점]\n\nE.G.O 기프트의 출현 등급이 상승하고 4등급 이상의 E.G.O 기프트가 낮은 확률로 출현",
+    "context": "EN :\n[Shops]\n\nHigher Tier E.G.O Gifts appear; small chance for Tier 4+ E.G.O Gifts to appear\nJP :\n[ショップ]\n\nE.G.Oギフトの出現ランクが上昇し、ランク4以上のE.G.Oギフトが低確率で出現"
+  },
+  {
+    "key": "ADDITIONAL_SHOP_EGO_GIFT_SLOT-description",
+    "original": "[상점]\n\n상점에 등장하는 E.G.O 기프트 수 +{0}",
+    "context": "EN :\n[Shops]\n\nNumber of E.G.O Gifts sold at Shops +{0}\nJP :\n[ショップ]\n\nショップに出現するE.G.Oギフト数 +{0}"
+  },
+  {
+    "key": "REDUCE_SHOP_REFRESH_EGO_GIFT_COST_RATE-description",
+    "original": "[상점]\n\n코스트를 소모하는 새로고침 비용 {0}% 감소",
+    "context": "EN :\n[Shops]\n\nRefresh Cost -{0}% for Refreshes that consume Cost\nJP :\n[ショップ]\n\nコストを消耗する更新費用が{0}%減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE-description",
+    "original": "[상점]\n\nE.G.O 기프트 구매 비용 {0}% 감소",
+    "context": "EN :\n[Shops]\n\nE.G.O Gift purchase price -{0}%\nJP :\n[ショップ]\n\nE.G.Oギフト購入コストが{0}%減少"
+  },
+  {
+    "key": "INCREASE_SHOP_SELL_EGO_GIFT_COST_RATE-description",
+    "original": "[상점]\n\nE.G.O 기프트 판매 시 획득하는 코스트 {0}% 증가",
+    "context": "EN :\n[Shops]\n\nGain +{0}% more Cost when selling E.G.O Gifts\nJP :\n[ショップ]\n\nE.G.Oギフト売却時に獲得するコストが{0}%増加"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST-description",
+    "original": "[쉼터]\n\nE.G.O 기프트 강화 비용 {0}% 감소",
+    "context": "EN :\n[Rest Stops]\n\nE.G.O Gift Enhance Cost -{0}%\nJP :\n[憩いの場]\n\nE.G.Oギフト強化コストが{0}%減少"
+  },
+  {
+    "key": "AttackLevelAdder-description",
+    "original": "공격 레벨 + {0}",
+    "context": "EN :\nOffense Level +{0}\nJP :\n攻撃レベル +{0}"
+  },
+  {
+    "key": "AttackLevelMultiply-description",
+    "original": "공격 레벨 + {0}%",
+    "context": "EN :\nOffense Level +{0}%\nJP :\n攻撃レベル +{0}%"
+  },
+  {
+    "key": "DefenseLevelAdder-description",
+    "original": "방어 레벨 + {0}",
+    "context": "EN :\nDefense Level +{0}\nJP :\n防御レベル +{0}"
+  },
+  {
+    "key": "DefenseLevelMultiply-description",
+    "original": "방어 레벨 + {0}%",
+    "context": "EN :\nDefense Level +{0}%\nJP :\n防御レベル +{0}%"
+  },
+  {
+    "key": "MaxHpAdder-description",
+    "original": "최대 체력 + {0} 증가",
+    "context": "EN :\nMax HP +{0}\nJP :\n体力最大値 +{0}増加"
+  },
+  {
+    "key": "MaxHpMultiply-description",
+    "original": "최대 체력 + {0}% 증가",
+    "context": "EN :\nMax HP +{0}%\nJP :\n体力最大値 +{0}%増加"
+  },
+  {
+    "key": "MaxSpeedUpAdder-description",
+    "original": "속도 최댓값 + {0}",
+    "context": "EN :\nMax Speed +{0}\nJP :\n速度の最大値 +{0}"
+  },
+  {
+    "key": "AttackDamageAdder-description",
+    "original": "가하는 피해량 + {0} 증가",
+    "context": "EN :\nDamage Dealt +{0}\nJP :\n与ダメージ量 +{0}増加"
+  },
+  {
+    "key": "AttackDamageMultiply-description",
+    "original": "가하는 피해량 + {0}% 증가",
+    "context": "EN :\nDamage Dealt +{0}%\nJP :\n与ダメージ量 +{0}%増加"
+  },
+  {
+    "key": "TakeAttackDamageReducer-description",
+    "original": "받는 피해량 {0} 감소",
+    "context": "EN :\nDamage Taken -{0}\nJP :\n被ダメージ量 {0}減少"
+  },
+  {
+    "key": "TakeAttackDamageMultipliedReducer-description",
+    "original": "받는 피해량 {0}% 감소",
+    "context": "EN :\nDamage Taken -{0}%\nJP :\n被ダメージ量 {0}%減少"
+  },
+  {
+    "key": "StickCoinHeadAndTailToMaxPer-description",
+    "original": "{0} 턴마다 사용하는 아군 인격 스킬의 코인 결과가 종류에 따라 전부 앞면 혹은 뒷면으로 결정",
+    "context": "EN :\nEvery {0} turns, allies' Plus Coin Skills flip all Heads and Minus Coin Skills flip all Tails.\nJP :\n{0}ターンごとに使用する味方人格スキルのコイン結果が、種類によって全て表面または裏面に決定"
+  },
+  {
+    "key": "RemoveBreakSection-description",
+    "original": "아군 인격의 첫 번째 흐트러짐 구간을 무효로 함",
+    "context": "EN :\nNullify allies' 1st Stagger thresholds\nJP :\n味方人格の最初の混乱区間を無効にする"
+  },
+  {
+    "key": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE_S1-description",
+    "original": "[상점]\n\n등장하는 E.G.O 기프트의 출현 등급 상승 (다른 연결된 버프와 동일하게 확률 증가)",
+    "context": "EN :\n[Shops]\n\nMore chance for higher Tier E.G.O Gifts appear in Shops (Same % gain as the other linked Buffs)\nJP :\n[ショップ] \n\nE.G.Oギフトの出現ランクが上昇(上昇率は他の繋がったバフと同様)"
+  },
+  {
+    "key": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE_S2-description",
+    "original": "[상점]\n\n등장하는 E.G.O 기프트의 출현 등급 상승 (다른 연결된 버프와 동일하게 확률 증가)",
+    "context": "EN :\n[Shops]\n\nMore chance for higher Tier E.G.O Gifts appear in Shops (Same % gain as the other linked Buffs)\nJP :\n[ショップ] \n\nE.G.Oギフトの出現ランクが上昇(上昇率は他の繋がったバフと同様)"
+  },
+  {
+    "key": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE_S3-description",
+    "original": "[상점]\n\n등장하는 E.G.O 기프트의 출현 등급 상승 (다른 연결된 버프와 동일하게 확률 증가)",
+    "context": "EN :\n[Shops]\n\nMore chance for higher Tier E.G.O Gifts appear in Shops (Same % gain as the other linked Buffs)\nJP :\n[ショップ] \n\nE.G.Oギフトの出現ランクが上昇(上昇率は他の繋がったバフと同様)"
+  },
+  {
+    "key": "ADDITIONAL_SHOP_EGO_GIFT_SLOT_NESTING-description",
+    "original": "[상점]\n\n상점에 등장하는 E.G.O 기프트 수 +1",
+    "context": "EN :\n[Shops]\n\nNumber of E.G.O Gifts sold at Shops +1\nJP :\n[ショップ]\n\nショップに出現するE.G.Oギフト数 +1"
+  },
+  {
+    "key": "ADDITIONAL_START_COST_ADD_S1-description",
+    "original": "[공용]\n\n시작 코스트 50을 추가로 획득",
+    "context": "EN :\n[Universal]\n\nGain +50 Starting Cost\nJP :\n[共用]\n\n開始コストを50追加で獲得"
+  },
+  {
+    "key": "ADDITIONAL_START_COST_ADD_S2-description",
+    "original": "[공용]\n\n시작 코스트 50을 추가로 획득",
+    "context": "EN :\n[Universal]\n\nGain +50 Starting Cost\nJP :\n[共用]\n\n開始コストを50追加で獲得"
+  },
+  {
+    "key": "ADDITIONAL_START_COST_ADD_S3-description",
+    "original": "[공용]\n\n시작 코스트 50을 추가로 획득",
+    "context": "EN :\n[Universal]\n\nGain +50 Starting Cost\nJP :\n[共用]\n\n開始コストを50追加で獲得"
+  },
+  {
+    "key": "ADDITIONAL_BATTLE_WIN_COST_RATE_NORMAL-description",
+    "original": "[공용]\n\n일반 전투 승리 시, 획득하는 코스트 10% 추가로 증가 (시작 버프, 다른 E.G.O 기프트의 영향을 받지 않음)",
+    "context": "EN :\n[Universal]\n\nGain +10% Cost after winning a Regular Encounter. (Not affected by Starter Buffs or other E.G.O Gifts)\nJP :\n[共用]\n\n一般戦闘勝利時に獲得するコストが10%追加で増加。(開始バフ、他のE.G.Oギフトの影響を受けない)"
+  },
+  {
+    "key": "ADDITIONAL_BATTLE_WIN_COST_RATE_ABNORMALITY-description",
+    "original": "[공용]\n\n집중 전투 승리 시, 획득하는 코스트 10% 추가로 증가 (시작 버프, 다른 E.G.O 기프트의 영향을 받지 않음)",
+    "context": "EN :\n[Universal]\n\nGain +10% Cost after winning a Focused Encounter. (Not affected by Starter Buffs or other E.G.O Gifts)\nJP :\n[共用]\n\n集中戦闘勝利時に獲得するコストが10%追加で増加。(開始バフ、他のE.G.Oギフトの影響を受けない)"
+  },
+  {
+    "key": "ADDITIONAL_BATTLE_WIN_COST_RATE_HARD-description",
+    "original": "[공용]\n\n위험 전투 승리 시, 획득하는 코스트 10% 추가로 증가 (시작 버프, 다른 E.G.O 기프트의 영향을 받지 않음)",
+    "context": "EN :\n[Universal]\n\nGain +10% Cost after winning a Risky Encounter. (Not affected by Starter Buffs or other E.G.O Gifts)\nJP :\n[共用]\n\n危険戦闘勝利時に獲得するコストが10%追加で増加。(開始バフ、他のE.G.Oギフトの影響を受けない)"
+  },
+  {
+    "key": "ADDITIONAL_BATTLE_WIN_COST_RATE_BOSS-description",
+    "original": "[공용]\n\n층 보스 전투 승리 시, 획득하는 코스트 10% 추가로 증가 (시작 버프, 다른 E.G.O 기프트의 영향을 받지 않음)",
+    "context": "EN :\n[Universal]\n\nGain +10% Cost after winning a Floor Boss Encounter. (Not affected by Starter Buffs or other E.G.O Gifts)\nJP :\n[共用]\n\n階層ボス戦闘勝利時に獲得するコストが10%追加で増加。(開始バフ、他のE.G.Oギフトの影響を受けない)"
+  },
+  {
+    "key": "REDUCE_SHOP_REFRESH_EGO_GIFT_COST_RATE_NESTING-description",
+    "original": "[상점]\n\n코스트를 소모하는 새로고침 비용 {0}% 감소",
+    "context": "EN :\n[Shops]\n\nRefresh Cost -{0}% for Refreshes that consume Cost\nJP :\n[ショップ]\n\nコストを消耗する更新費用が{0}%減少"
+  },
+  {
+    "key": "FREE_SHOP_REFRESH_EGO_GIFT_COST_RATE-description",
+    "original": "[상점]\n\n20% 확률로 새로고침할 때 비용이 소모되지 않음",
+    "context": "EN :\n[Shops]\n\n20% chance for a Cost-free Refresh\nJP :\n[ショップ]\n\n20%の確率で更新時にコストが消耗されない"
+  },
+  {
+    "key": "REDUCE_SHOP_UPGRADE_SKILL_COST_RATE-description",
+    "original": "[상점]\n\n스킬 교체 비용 20% 감소",
+    "context": "EN :\n[Shops]\n\nSkill Replacement Cost -20%\nJP :\n[ショップ]\n\nスキル交換コストが20%減少"
+  },
+  {
+    "key": "REDUCE_SHOP_UPGRADE_SKILL_COST_RATE_NESTING-description",
+    "original": "[상점]\n\n스킬 교체 비용 20% 감소",
+    "context": "EN :\n[Shops]\n\nSkill Replacement Cost -20%\nJP :\n[ショップ]\n\nスキル交換コストが20%減少"
+  },
+  {
+    "key": "FREE_UPGRADE_EGO_GIFT_COST-description",
+    "original": "[쉼터]\n\n20% 확률로 강화할 때 비용을 되돌려줌",
+    "context": "EN :\n[Rest Stops]\n\nWhen Enhancing, 20% chance to refund Enhancement Cost\nJP :\n[憩いの場]\n\n20%の確率で強化時にコストが返還される"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_COMBUSTION-description",
+    "original": "[쉼터]\n\n화상 키워드를 보유한 E.G.O 기프트의 강화 비용이 {0}% 추가로 감소",
+    "context": "EN :\n[Rest Stops]\n\nAdditional -{0}% Enhance Cost for E.G.O Gifts with Burn\nJP :\n[憩いの場]\n\nキーワード:火傷を持つE.G.Oギフトの強化コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_LACERATION-description",
+    "original": "[쉼터]\n\n출혈 키워드를 보유한 E.G.O 기프트의 강화 비용이 {0}% 추가로 감소",
+    "context": "EN :\n[Rest Stops]\n\nAdditional -{0}% Enhance Cost for E.G.O Gifts with Bleed\nJP :\n[憩いの場]\n\nキーワード:出血を持つE.G.Oギフトの強化コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_VIBRATION-description",
+    "original": "[쉼터]\n\n진동 키워드를 보유한 E.G.O 기프트의 강화 비용이 {0}% 추가로 감소",
+    "context": "EN :\n[Rest Stops]\n\nAdditional -{0}% Enhance Cost for E.G.O Gifts with Tremor\nJP :\n[憩いの場]\n\nキーワード:振動を持つE.G.Oギフトの強化コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_BURST-description",
+    "original": "[쉼터]\n\n파열 키워드를 보유한 E.G.O 기프트의 강화 비용이 {0}% 추가로 감소",
+    "context": "EN :\n[Rest Stops]\n\nAdditional -{0}% Enhance Cost for E.G.O Gifts with Rupture\nJP :\n[憩いの場]\n\nキーワード:破裂を持つE.G.Oギフトの強化コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_SINKING-description",
+    "original": "[쉼터]\n\n침잠 키워드를 보유한 E.G.O 기프트의 강화 비용이 {0}% 추가로 감소",
+    "context": "EN :\n[Rest Stops]\n\nAdditional -{0}% Enhance Cost for E.G.O Gifts with Sinking\nJP :\n[憩いの場]\n\nキーワード:沈潜を持つE.G.Oギフトの強化コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_BREATH-description",
+    "original": "[쉼터]\n\n호흡 키워드를 보유한 E.G.O 기프트의 강화 비용이 {0}% 추가로 감소",
+    "context": "EN :\n[Rest Stops]\n\nAdditional -{0}% Enhance Cost for E.G.O Gifts with Poise\nJP :\n[憩いの場]\n\nキーワード:呼吸を持つE.G.Oギフトの強化コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_CHARGE-description",
+    "original": "[쉼터]\n\n충전 키워드를 보유한 E.G.O 기프트의 강화 비용이 {0}% 추가로 감소",
+    "context": "EN :\n[Rest Stops]\n\nAdditional -{0}% Enhance Cost for E.G.O Gifts with Charge\nJP :\n[憩いの場]\n\nキーワード:充電を持つE.G.Oギフトの強化コストが{0}%追加で減少"
+  },
+  {
+    "key": "INCREASE_SHOP_SELL_EGO_GIFT_COST_RATE_NESTING-description",
+    "original": "[상점]\n\nE.G.O 기프트 판매 시 획득하는 코스트 20% 추가로 증가",
+    "context": "EN :\n[Shops]\n\nGain +20% Cost when selling E.G.O Gifts\nJP :\n[ショップ]\n\nE.G.Oギフト売却時に獲得するコストが20%追加で増加"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_COMBUSTION-description",
+    "original": "[상점]\n\n화상 키워드를 보유한 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소",
+    "context": "EN :\n[Shops]\n\nAdditional -{0}% purchase Cost for E.G.O Gifts with Burn\nJP :\n[ショップ]\n\nキーワード:火傷を持つE.G.Oギフトの購入コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_LACERATION-description",
+    "original": "[상점]\n\n출혈 키워드를 보유한 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소",
+    "context": "EN :\n[Shops]\n\nAdditional -{0}% purchase Cost for E.G.O Gifts with Bleed\nJP :\n[ショップ]\n\nキーワード:出血を持つE.G.Oギフトの購入コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_VIBRATION-description",
+    "original": "[상점]\n\n진동 키워드를 보유한 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소",
+    "context": "EN :\n[Shops]\n\nAdditional -{0}% purchase Cost for E.G.O Gifts with Tremor\nJP :\n[ショップ]\n\nキーワード:振動を持つE.G.Oギフトの購入コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_BURST-description",
+    "original": "[상점]\n\n파열 키워드를 보유한 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소",
+    "context": "EN :\n[Shops]\n\nAdditional -{0}% purchase Cost for E.G.O Gifts with Rupture\nJP :\n[ショップ]\n\nキーワード:破裂を持つE.G.Oギフトの購入コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_SINKING-description",
+    "original": "[상점]\n\n침잠 키워드를 보유한 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소",
+    "context": "EN :\n[Shops]\n\nAdditional -{0}% purchase Cost for E.G.O Gifts with Sinking\nJP :\n[ショップ]\n\nキーワード:沈潜を持つE.G.Oギフトの購入コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_BREATH-description",
+    "original": "[상점]\n\n호흡 키워드를 보유한 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소",
+    "context": "EN :\n[Shops]\n\nAdditional -{0}% purchase Cost for E.G.O Gifts with Poise\nJP :\n[ショップ]\n\nキーワード:呼吸を持つE.G.Oギフトの購入コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_CHARGE-description",
+    "original": "[상점]\n\n충전 키워드를 보유한 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소",
+    "context": "EN :\n[Shops]\n\nAdditional -{0}% purchase Cost for E.G.O Gifts with Charge\nJP :\n[ショップ]\n\nキーワード:充電を持つE.G.Oギフトの購入コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_NONE-description",
+    "original": "[상점]\n\n별도 키워드가 없는 E.G.O 기프트의 구매 비용이 {0}% 추가로 감소",
+    "context": "EN :\n[Shops]\n\nAdditional -{0}% purchase Cost for Keywordless E.G.O Gifts\nJP :\n[ショップ]\n\nキーワードのないE.G.Oギフトの購入コストが{0}%追加で減少"
+  },
+  {
+    "key": "SlashAttackDamageMultiply-description",
+    "original": "가하는 참격 피해량 {0}% 증가",
+    "context": "EN :\nDeal +{0}% Slash Damage\nJP :\n斬撃与ダメージ量が{0}%増加"
+  },
+  {
+    "key": "PenetrateAttackDamageMultiply-description",
+    "original": "가하는 관통 피해량 {0}% 증가",
+    "context": "EN :\nDeal +{0}% Pierce Damage\nJP :\n貫通与ダメージ量が{0}%増加"
+  },
+  {
+    "key": "HitAttackDamageMultiply-description",
+    "original": "가하는 타격 피해량 {0}% 증가",
+    "context": "EN :\nDeal +{0}% Blunt Damage\nJP :\n打撃与ダメージ量が{0}%増加"
+  },
+  {
+    "key": "SlashResistReducer-description",
+    "original": "참격 내성 {0}만큼 감소",
+    "context": "EN :\nSlash Resistance -{0}\nJP :\n斬撃耐性が{0}減少"
+  },
+  {
+    "key": "PenetrateResistReducer-description",
+    "original": "관통 내성 {0}만큼 감소",
+    "context": "EN :\nPierce Resistance -{0}\nJP :\n貫通耐性が{0}減少"
+  },
+  {
+    "key": "HitResistReducer-description",
+    "original": "타격 내성 {0}만큼 감소",
+    "context": "EN :\nBlunt Resistance -{0}\nJP :\n打撃耐性が{0}減少"
+  },
+  {
+    "key": "EGO_RESOURCE-description",
+    "original": "[전투]\n\n모든 속성 E.G.O 자원 +{0}",
+    "context": "EN :\n[Encounters]\n\n+{0} to all E.G.O resources at the start of the Mirror Dungeon run\nJP :\n[戦闘]\n\n全属性のE.G.O資源 +{0}"
+  },
+  {
+    "key": "ADDITIONAL_ALLTYPE_EGOSTOCK-description",
+    "original": "[전투]\n\n모든 속성 E.G.O 자원 +{0}",
+    "context": "EN :\n[Encounters]\n\n+{0} to all E.G.O resources at the start of the Mirror Dungeon run\nJP :\n[戦闘]\n\n全属性のE.G.O資源 +{0}"
+  },
+  {
+    "key": "ADDITIONAL_ALLTYPE_EGOSTOCK_NESTING-description",
+    "original": "[전투]\n\n모든 속성 E.G.O 자원 +{0}",
+    "context": "EN :\n[Encounters]\n\n+{0} to all E.G.O resources at the start of the Mirror Dungeon run\nJP :\n[戦闘]\n\n全属性のE.G.O資源 +{0}"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_ALL1-description",
+    "original": "[상점]\n\nE.G.O 기프트의 구매 비용 {0}% 감소",
+    "context": "EN :\n[Shops]\n\nE.G.O Gift purchase Cost -{0}%\nJP :\n[ショップ]\n\nE.G.Oギフトの購入コストが{0}%減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER1-description",
+    "original": "[상점]\n\n1등급 E.G.O 기프트의 구매 비용 {0}% 추가로 감소",
+    "context": "EN :\n[Shops]\n\nAdditional Discount: Tier 1 E.G.O Gift purchase Cost -{0}%\nJP :\n[ショップ]\n\nランク1E.G.Oギフトの購入コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER2-description",
+    "original": "[상점]\n\n2등급 E.G.O 기프트의 구매 비용 {0}% 추가로 감소",
+    "context": "EN :\n[Shops]\n\nAdditional Discount: Tier 2 E.G.O Gift purchase Cost -{0}%\nJP :\n[ショップ]\n\nランク2E.G.Oギフトの購入コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER3-description",
+    "original": "[상점]\n\n3등급 E.G.O 기프트의 구매 비용 {0}% 추가로 감소",
+    "context": "EN :\n[Shops]\n\nAdditional Discount: Tier 3 E.G.O Gift purchase Cost -{0}%\nJP :\n[ショップ]\n\nランク3E.G.Oギフトの購入コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_TIER4-description",
+    "original": "[상점]\n\n4등급 이상 E.G.O 기프트의 구매 비용 {0}% 추가로 감소",
+    "context": "EN :\n[Shops]\n\nAdditional Discount: Tier 4+ E.G.O Gift purchase Cost -{0}%\nJP :\n[ショップ]\n\nランク4以上のE.G.Oギフト購入コストが{0}%追加で減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_ALL2-description",
+    "original": "[상점]\n\nE.G.O 기프트의 구매 비용 {0}% 감소",
+    "context": "EN :\n[Shops]\n\nE.G.O Gift purchase Cost -{0}%\nJP :\n[ショップ]\n\nE.G.Oギフトの購入コストが{0}%減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_ALL3-description",
+    "original": "[상점]\n\nE.G.O 기프트의 구매 비용 {0}% 감소",
+    "context": "EN :\n[Shops]\n\nE.G.O Gift purchase Cost -{0}%\nJP :\n[ショップ]\n\nE.G.Oギフトの購入コストが{0}%減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_SLASH-description",
+    "original": "[상점]\n\n참격 E.G.O 기프트의 구매 비용 {0}% 감소",
+    "context": "EN :\n[Shops]\n\nSlash E.G.O Gift purchase Cost -{0}%\nJP :\n[ショップ]\n\n斬撃E.G.Oギフトの購入コストが{0}%減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_PENETRATE-description",
+    "original": "[상점]\n\n관통 E.G.O 기프트의 구매 비용 {0}% 감소",
+    "context": "EN :\n[Shops]\n\nPierce E.G.O Gift purchase Cost -{0}%\nJP :\n[ショップ]\n\n貫通E.G.Oギフトの購入コストが{0}%減少"
+  },
+  {
+    "key": "REDUCE_SHOP_BUY_EGO_GIFT_COST_RATE_HIT-description",
+    "original": "[상점]\n\n타격 E.G.O 기프트의 구매 비용 {0}% 감소",
+    "context": "EN :\n[Shops]\n\nBlunt E.G.O Gift purchase Cost -{0}%\nJP :\n[ショップ]\n\n打撃E.G.Oギフトの購入コストが{0}%減少"
+  },
+  {
+    "key": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER1-description",
+    "original": "[상점]\n\n1등급 E.G.O 기프트 판매 시 획득하는 코스트 {0}% 추가로 증가",
+    "context": "EN :\n[Shops]\n\nGain +{0}% additional Cost when selling Tier 1 E.G.O Gifts\nJP :\n[ショップ]\n\nランク1E.G.Oギフト売却時に獲得するコストが{0}%追加で増加"
+  },
+  {
+    "key": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER2-description",
+    "original": "[상점]\n\n2등급 E.G.O 기프트 판매 시 획득하는 코스트 {0}% 추가로 증가",
+    "context": "EN :\n[Shops]\n\nGain +{0}% additional Cost when selling Tier 2 E.G.O Gifts\nJP :\n[ショップ]\n\nランク2E.G.Oギフト売却時に獲得するコストが{0}%追加で増加"
+  },
+  {
+    "key": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER3-description",
+    "original": "[상점]\n\n3등급 E.G.O 기프트 판매 시 획득하는 코스트 {0}% 추가로 증가",
+    "context": "EN :\n[Shops]\n\nGain +{0}% additional Cost when selling Tier 3 E.G.O Gifts\nJP :\n[ショップ]\n\nランク3E.G.Oギフト売却時に獲得するコストが{0}%追加で増加"
+  },
+  {
+    "key": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_TIER4MORE-description",
+    "original": "[상점]\n\n4등급 이상 E.G.O 기프트 판매 시 획득하는 코스트 {0}% 추가로 증가",
+    "context": "EN :\n[Shops]\n\nGain +{0}% additional Cost when selling Tier 4+ E.G.O Gifts\nJP :\n[ショップ]\n\nランク4以上のE.G.Oギフト売却時に獲得するコストが{0}%追加で増加"
+  },
+  {
+    "key": "ADDITIONAL_EGO_GIFT_CHANCE_TIER1TOTIER2-description",
+    "original": "[공용]\n\n2등급 E.G.O 기프트 {0}종이 상점, 합성 결과, 전투 보상 목록에 추가로 등장\n\n<목록>\n- 울화통 (2등급, 화상)\n- 경외심 (2등급, 출혈)\n- 시큼한 주향 (2등급, 진동)\n- 거울 촉각 공감각 (2등급, 진동)\n- 유연 화약 (2등급, 파열)\n- 해진 우산 (2등급, 파열)\n- 장엄 (2등급, 침잠)\n- 낡은 목각 인형 (2등급, 호흡)\n- 순찰용 손전등 (2등급, 충전)\n- 재단용 가위 (2등급, 참격)\n- 결의 (2등급, 참격)\n- 축복이었던 (2등급, 관통)\n- 찢어진 밴돌리어 (2등급, 관통)\n- 압박 붕대 (2등급, 타격)\n- 시간 굴레 (2등급, 타격)\n- 오라클 (2등급)",
+    "context": "EN :\n[Universal]\n\nIntroduce {0} Tier 2 E.G.O Gifts to the Shops, Gift Fusion results, and Encounter Rewards pool\n\n<List>\n- Pain of Stifled Rage (Tier 2, Burn)\n- Awe (Tier 2, Bleed)\n- Sour Liquor Aroma (Tier 2, Tremor)\n- Mirror Tactile Synaesthesia (Tier 2, Tremor)\n- Smoking Gunpowder (Tier 2, Rupture)\n- Ragged Umbrella (Tier 2, Rupture)\n- Grandeur (Tier 2, Sinking)\n- Old Wooden Doll (Tier 2, Poise)\n- Patrolling Flashlight (Tier 2, Charge)\n- Tailor's Scissors (Tier 2, Slash)\n- Resolution (Tier 2, Slash)\n- Once, A Blessing (Tier 2, Pierce)\n- Torn Bandolier (Tier 2, Pierce)\n- Compression Bandage (Tier 2, Blunt)\n- Temporal Bridle (Tier 2, Blunt)\n- Oracle (Tier 2)\nJP :\n[共用]\n\nランク2E.G.Oギフト{0}種がショップ、合成結果、戦闘報酬リストに追加で出現\n\n<一覧>\n- かんしゃく玉 (ランク2, 火傷)\n- 畏敬の念 (ランク2, 出血)\n- 酸っぱい酒香 (ランク2, 振動)\n- 鏡触覚共感覚 (ランク2, 振動)\n- 有煙火薬 (ランク2, 破裂)\n- 破れた傘 (ランク2, 破裂)\n- 荘厳 (ランク2, 沈潜)\n- 古い木彫り人形 (ランク2, 呼吸)\n- 巡察用懐中電灯 (ランク2, 充電)\n- 裁断用ハサミ (ランク2, 斬撃)\n- 決意 (ランク2, 斬撃)\n- かつての祝福 (ランク2, 貫通)\n- 破れたバンドリヤー (ランク2, 貫通)\n- 圧迫包帯 (ランク2, 打撃)\n- 時間のくびき (ランク2, 打撃)\n- オラクル (ランク2)"
+  },
+  {
+    "key": "ADDITIONAL_EGO_GIFT_CHANCE_TIER3TOTIER4-description",
+    "original": "[공용]\n\n3~4등급 E.G.O 기프트 {0}종이 상점, 합성 결과, 전투 보상 목록에 추가로 등장\n\n<목록>\n- 먼지에서 먼지로 (3등급, 화상)\n- 연기와 철조망 (3등급, 출혈)\n- 진실의 종 (3등급, 진동)\n- 근무용 통상 배터리 (3등급, 파열)\n- 한겨울 밤의 악몽 (3등급, 침잠)\n- 네잎클로버 (3등급, 호흡)\n- 물리 간섭 보호장 (3등급, 충전)\n- 불빛꽃 (3등급, 화상)\n- 안식처 (3등급, 출혈)\n- 톱니바퀴 태엽 (3등급, 진동)\n- 죽음바라기 (3등급, 파열)\n- 머나먼 별 (3등급, 침잠)\n- 미련 (3등급, 호흡)\n- 모조발전기 (3등급, 충전)\n- 선고의 순간 (3등급, 참격)\n- 벼려진 가지 (3등급, 관통)\n- 굳게 쥔 상 (3등급, 타격)\n- 강요된 무게 (3등급)\n\n- 업화 조각 (4등급, 화상)\n- 매혹 조각 (4등급, 출혈)\n- 타성 조각 (4등급, 진동)\n- 욕망 조각 (4등급, 파열)\n- 잠식 조각 (4등급, 침잠)\n- 교만 조각 (4등급, 호흡)\n- 마찰 조각 (4등급, 충전)\n- 잘려나간 기억 (4등급, 참격)\n- 구멍난 기억 (4등급, 관통)\n- 바스라진 기억 (4등급, 타격)",
+    "context": "EN :\n[Universal]\n\nIntroduce {0} Tier 3~4 E.G.O Gifts to Shops, Gift Fusion results, and Encounter Rewards pool\n\n<List>\n- Dust to Dust (Tier 3, Burn)\n- Smokes and Wires (Tier 3, Bleed)\n- Bell of Truth (Tier 3, Tremor)\n- Standard-duty Battery(Tier 3, Rupture)\n- Midwinter Nightmare(Tier 3, Sinking)\n- Four-leaf Clover (Tier 3, Poise)\n- Material Interference Force Field (Tier 3, Charge)\n- Ardent Flower(Tier 3, Burn)\n- Respite (Tier 3, Bleed)\n- Clockwork Spring (Tier 3, Tremor)\n- Deathseeker (Tier 3, Rupture)\n- Distant Star (Tier 3, Sinking)\n- Finifugality (Tier 3, Poise)\n- Imitative Generator (Tier 3, Charge)\n- Moment of Sentencing (Tier 3, Slash)\n- Keenbranch (Tier 3, Pierce)\n- Clasped Sculpture (Tier 3, Blunt)\n- Imposed Weight (Tier 3)\n\n- Fragment of Hellfire (Tier 4, Burn)\n- Fragment of Allurement(Tier 4, Bleed)\n- Fragment of Inertia (Tier 4, Tremor)\n- Fragment of Desire (Tier 4, Rupture)\n- Fragment of Decay (Tier 4, Sinking)\n- Fragment of Conceit (Tier 4, Poise)\n- Fragment of Friction (Tier 4, Charge)\n- Sundered Memory (Tier 4, Slash)\n- Punctured Memory(Tier 4, Pierce)\n- Crushed Memory (Tier 4, Blunt)\nJP :\n[共用]\n\nランク3～4E.G.Oギフト{0}種がショップ、合成結果、戦闘報酬リストに追加で出現\n\n<一覧>\n- 塵は塵に (ランク3, 火傷)\n- 煙と鉄条網 (ランク3, 出血)\n- 真実の鐘 (ランク3, 振動)\n- 勤務用通常バッテリー (ランク3, 破裂)\n- 真冬の夜の悪夢 (ランク3, 沈潜)\n- 四つ葉のクローバー (ランク3, 呼吸)\n- 物理干渉保護フィールド (ランク3, 充電)\n- 灯り花 (ランク3, 火傷)\n- 安息の地 (ランク3, 出血)\n- 歯車のぜんまい (ランク3, 振動)\n- 死にたがり (ランク3, 破裂)\n- 彼方の星 (ランク3, 沈潜)\n- 未練 (ランク3, 呼吸)\n- 模造発電機 (ランク3, 充電)\n- 宣告の瞬間 (ランク3, 斬撃)\n- 捨てられた枝 (ランク3, 貫通)\n- 握り締めた像 (ランク3, 打撃)\n- 強要された重荷 (ランク3)\n\n- 業火の欠片 (ランク4, 火傷)\n- 魅惑の欠片 (ランク4, 出血)\n- 惰性の欠片 (ランク4, 振動)\n- 欲望の欠片 (ランク4, 破裂)\n- 蚕食の欠片 (ランク4, 沈潜)\n- 驕慢の欠片 (ランク4, 呼吸)\n- 摩擦の欠片 (ランク4, 充電)\n- 切り取られた記憶 (ランク4, 斬撃)\n- 穴の空いた記憶 (ランク4, 貫通)\n- 砕けた記憶 (ランク4, 打撃)"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_ALL1-description",
+    "original": "[쉼터]\n\nE.G.O 기프트의 강화 비용 {0}% 감소",
+    "context": "EN :\n[Rest Stops]\n\nE.G.O Gift Enhance Cost -{0}%\nJP :\n[憩いの場]\n\nE.G.Oギフトの強化コストが{0}%減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER1-description",
+    "original": "[쉼터]\n\n1등급 E.G.O 기프트의 강화 비용 {0}% 감소",
+    "context": "EN :\n[Rest Stops]\n\nTier 1 E.G.O Gift Enhance Cost -{0}%\nJP :\n[憩いの場]\n\nランク1E.G.Oギフトの強化コストが{0}%減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER2-description",
+    "original": "[쉼터]\n\n2등급 E.G.O 기프트의 강화 비용 {0}% 감소",
+    "context": "EN :\n[Rest Stops]\n\nTier 2 E.G.O Gift Enhance Cost -{0}%\nJP :\n[憩いの場]\n\nランク2E.G.Oギフトの強化コストが{0}%減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER3-description",
+    "original": "[쉼터]\n\n3등급 E.G.O 기프트의 강화 비용 {0}% 감소",
+    "context": "EN :\n[Rest Stops]\n\nTier 3 E.G.O Gift Enhance Cost -{0}%\nJP :\n[憩いの場]\n\nランク3E.G.Oギフトの強化コストが{0}%減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_TIER4MORE-description",
+    "original": "[쉼터]\n\n4등급 이상 E.G.O 기프트의 강화 비용 {0}% 감소",
+    "context": "EN :\n[Rest Stops]\n\nTier 4+ E.G.O Gift Enhance Cost -{0}%\nJP :\n[憩いの場]\n\nランク4以上のE.G.Oギフト強化コストが{0}%減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_ALL2-description",
+    "original": "[쉼터]\n\nE.G.O 기프트의 강화 비용 {0}% 감소",
+    "context": "EN :\n[Rest Stops]\n\nE.G.O Gift Enhance Cost -{0}%\nJP :\n[憩いの場]\n\nE.G.Oギフトの強化コストが{0}%減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_ALL3-description",
+    "original": "[쉼터]\n\nE.G.O 기프트의 강화 비용 {0}% 감소",
+    "context": "EN :\n[Rest Stops]\n\nE.G.O Gift Enhance Cost -{0}%\nJP :\n[憩いの場]\n\nE.G.Oギフトの強化コストが{0}%減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_SLASH-description",
+    "original": "[쉼터]\n\n참격 E.G.O 기프트의 강화 비용 {0}% 감소",
+    "context": "EN :\n[Rest Stops]\n\nSlash E.G.O Gift Enhance Cost -{0}%\nJP :\n[憩いの場]\n\n斬撃E.G.Oギフトの強化コストが{0}%減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_PENETRATE-description",
+    "original": "[쉼터]\n\n관통 E.G.O 기프트의 강화 비용 {0}% 감소",
+    "context": "EN :\n[Rest Stops]\n\nPierce E.G.O Gift Enhance Cost -{0}%\nJP :\n[憩いの場]\n\n貫通E.G.Oギフトの強化コストが{0}%減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_HIT-description",
+    "original": "[쉼터]\n\n타격 E.G.O 기프트의 강화 비용 {0}% 감소",
+    "context": "EN :\n[Rest Stops]\n\nBlunt E.G.O Gift Enhance Cost -{0}%\nJP :\n[憩いの場]\n\n打撃E.G.Oギフトの強化コストが{0}%減少"
+  },
+  {
+    "key": "REDUCE_UPGRADE_EGO_GIFT_COST_NONE-description",
+    "original": "[쉼터]\n\n키워드가 없는 E.G.O 기프트의 강화 비용 {0}% 추가로 감소",
+    "context": "EN :\n[Shops]\n\nAdditional Discount: Enhancement Cost for E.G.O Gifts with no specific Status effect/Buff Category -{0}%\nJP :\n[憩いの場]\n\nキーワードのないE.G.Oギフト強化コストが{0}%追加で減少"
+  },
+  {
+    "key": "ADDITIONAL_FLOOR_THEME_NUMBER-description",
+    "original": "[층 테마]\n\n층 테마 등장 수 +{0}",
+    "context": "EN :\n[Floor Theme]\n\nNumber of Floor Theme Choices +{0}\nJP :\n[階層テーマ]\n\n階層テーマ出現数 +{0}"
+  },
+  {
+    "key": "ADDITIONAL_FLOOR_THEME_NUMBER_NESTING-description",
+    "original": "[층 테마]\n\n층 테마 등장 수 +{0}",
+    "context": "EN :\n[Floor Theme]\n\nNumber of Floor Theme Choices +{0}\nJP :\n[階層テーマ]\n\n階層テーマ出現数 +{0}"
+  },
+  {
+    "key": "ADDITIONAL_BATTLE_REWARD_CASE_NUMBER-description",
+    "original": "[전투 보상 카드]\n\n전투 보상 카드 등장 수 +{0}",
+    "context": "EN :\n[Encounter Reward Cards]\n\nNumber of Encounter Reward Card Choices +{0}\nJP :\n[戦闘報酬カード]\n\n戦闘報酬カードの出現数 +{0}"
+  },
+  {
+    "key": "ADDITIONAL_FLOOR_THEME_NUMBER_SUB1-description",
+    "original": "[층 테마]\n\n층 테마 등장 수 +{0}",
+    "context": "EN :\n[Floor Theme]\n\nNumber of Floor Theme Choices +{0}\nJP :\n[階層テーマ]\n\n階層テーマ出現数 +{0}"
+  },
+  {
+    "key": "ADDITIONAL_CHIP-description",
+    "original": "[한정]\n\n별새김 진행 시, 별빛 200 획득 (최초 1회 한정, 활성화 영향을 받지 않음)",
+    "context": "EN :\n[Limited]\n\nGain 200 Starlight upon engraving this Star (1-time only, unaffected by activation status)\nJP :\n[限定]\n\n刻星時、星明かりを200獲得(初回1回限定、活性化の影響を受けない)"
+  },
+  {
+    "key": "ADDITIONAL_START_EGO_GIFT_CHANCE_BUF-description",
+    "original": "[시작 E.G.O 기프트]\n\nE.G.O 기프트 7종이 시작 E.G.O 기프트 목록에 추가로 등장\n\n<목록>\n- 울화통 (2등급, 화상)\n- 경외심 (2등급, 출혈)\n- 시큼한 주향 (2등급, 진동)\n- 유연 화약 (2등급, 파열)\n- 장엄 (2등급, 침잠)\n- 낡은 목각 인형 (2등급, 호흡)\n- 순찰용 손전등 (2등급, 충전)",
+    "context": "EN :\n[Starting E.G.O Gift]\n\nIntroduce 7 E.G.O Gifts to the Starting E.G.O Gift pool\n\n<List>\n- Pain of Stifled Rage (Tier 2, Burn)\n- Awe (Tier 2, Bleed)\n- Sour Liquor Aroma (Tier 2, Tremor)\n- Smoking Gunpowder (Tier 2, Rupture)\n- Grandeur (Tier 2, Sinking)\n- Old Wooden Doll (Tier 2, Poise)\n- Patrolling Flashlight (Tier 2, Charge)\nJP :\n[開始E.G.Oギフト]\n\nE.G.Oギフト7種が開始E.G.Oギフトリストに追加で出現\n\n<一覧>\n- かんしゃく玉 (ランク2, 火傷)\n- 畏敬の念 (ランク2, 出血)\n- 酸っぱい酒香 (ランク2, 振動)\n- 有煙火薬 (ランク2, 破裂)\n- 荘厳 (ランク2, 沈潜)\n- 古い木彫り人形 (ランク2, 呼吸)\n- 巡察用懐中電灯 (ランク2, 充電)"
+  },
+  {
+    "key": "ADDITIONAL_START_EGO_GIFT_COMBUSTION-description",
+    "original": "[시작 E.G.O 기프트]\n\n화상 E.G.O 기프트 항목을 선택할 수 있음",
+    "context": "EN :\n[Starting E.G.O Gift]\n\nUnlocks the Burn E.G.O Gift Category\nJP :\n[開始E.G.Oギフト]\n\n火傷E.G.Oギフトの項目が選択可能になる"
+  },
+  {
+    "key": "ADDITIONAL_START_EGO_GIFT_LACERATION-description",
+    "original": "[시작 E.G.O 기프트]\n\n출혈 E.G.O 기프트 항목을 선택할 수 있음",
+    "context": "EN :\n[Starting E.G.O Gift]\n\nUnlocks the Bleed E.G.O Gift Category\nJP :\n[開始E.G.Oギフト]\n\n出血E.G.Oギフトの項目が選択可能になる"
+  },
+  {
+    "key": "ADDITIONAL_START_EGO_GIFT_VIBRATION-description",
+    "original": "[시작 E.G.O 기프트]\n\n진동 E.G.O 기프트 항목을 선택할 수 있음",
+    "context": "EN :\n[Starting E.G.O Gift]\n\nUnlocks the Tremor E.G.O Gift Category\nJP :\n[開始E.G.Oギフト]\n\n振動E.G.Oギフトの項目が選択可能になる"
+  },
+  {
+    "key": "ADDITIONAL_START_EGO_GIFT_BURST-description",
+    "original": "[시작 E.G.O 기프트]\n\n파열 E.G.O 기프트 항목을 선택할 수 있음",
+    "context": "EN :\n[Starting E.G.O Gift]\n\nUnlocks the Rupture E.G.O Gift Category\nJP :\n[開始E.G.Oギフト]\n\n破裂E.G.Oギフトの項目が選択可能になる"
+  },
+  {
+    "key": "ADDITIONAL_START_EGO_GIFT_SINKING-description",
+    "original": "[시작 E.G.O 기프트]\n\n침잠 E.G.O 기프트 항목을 선택할 수 있음",
+    "context": "EN :\n[Starting E.G.O Gift]\n\nUnlocks the Sinking E.G.O Gift Category\nJP :\n[開始E.G.Oギフト]\n\n沈潜E.G.Oギフトの項目が選択可能になる"
+  },
+  {
+    "key": "ADDITIONAL_START_EGO_GIFT_BREATH-description",
+    "original": "[시작 E.G.O 기프트]\n\n호흡 E.G.O 기프트 항목을 선택할 수 있음",
+    "context": "EN :\n[Starting E.G.O Gift]\n\nUnlocks the Poise E.G.O Gift Category\nJP :\n[開始E.G.Oギフト]\n\n呼吸E.G.Oギフトの項目が選択可能になる"
+  },
+  {
+    "key": "ADDITIONAL_START_EGO_GIFT_CHARGE-description",
+    "original": "[시작 E.G.O 기프트]\n\n충전 E.G.O 기프트 항목을 선택할 수 있음",
+    "context": "EN :\n[Starting E.G.O Gift]\n\nUnlocks the Charge E.G.O Gift Category\nJP :\n[開始E.G.Oギフト]\n\n充電E.G.Oギフトの項目が選択可能になる"
+  },
+  {
+    "key": "ADDITIONAL_START_EGO_GIFT_CHANCE_ATK-description",
+    "original": "[시작 E.G.O 기프트]\n\nE.G.O 기프트 6종이 시작 E.G.O 기프트 목록에 추가로 등장\n\n<목록>\n- 재단용 가위 (2등급, 참격)\n- 결의 (2등급, 참격)\n- 축복이었던 (2등급, 관통)\n- 찢어진 밴돌리어 (2등급, 관통)\n- 압박 붕대 (2등급, 타격)\n- 시간 굴레 (2등급, 타격)",
+    "context": "EN :\n[Starting E.G.O Gift]\n\nIntroduce 6 E.G.O Gifts to the Starting E.G.O Gift pool\n\n<List>\n- Tailor's Scissors (Tier 2, Slash)\n- Resolution (Tier 2, Slash)\n- Once, A Blessing (Tier 2, Pierce)\n- Torn Bandolier (Tier 2, Pierce)\n- Compression Bandage (Tier 2, Blunt)\n- Temporal Bridle (Tier 2, Blunt)\nJP :\n[開始E.G.Oギフト]\n\nE.G.Oギフト6種が開始E.G.Oギフトリストに追加で出現\n\n<一覧>\n- 裁断用ハサミ (ランク2, 斬撃)\n- 決意 (ランク2, 斬撃)\n- かつての祝福 (ランク2, 貫通)\n- 破れたバンドリヤー (ランク2, 貫通)\n- 圧迫包帯 (ランク2, 打撃)\n- 時間のくびき (ランク2, 打撃)"
+  },
+  {
+    "key": "ADDITIONAL_START_EGO_GIFT_CHANCE_SLASH-description",
+    "original": "[시작 E.G.O 기프트]\n\n참격 E.G.O 기프트 항목을 선택할 수 있음",
+    "context": "EN :\n[Starting E.G.O Gift]\n\nUnlocks the Slash E.G.O Gift Category\nJP :\n[開始E.G.Oギフト]\n\n斬撃E.G.Oギフトの項目が選択可能になる"
+  },
+  {
+    "key": "ADDITIONAL_START_EGO_GIFT_CHANCE_PENETRATE-description",
+    "original": "[시작 E.G.O 기프트]\n\n관통 E.G.O 기프트 항목을 선택할 수 있음",
+    "context": "EN :\n[Starting E.G.O Gift]\n\nUnlocks the Pierce E.G.O Gift Category\nJP :\n[開始E.G.Oギフト]\n\n貫通E.G.Oギフトの項目が選択可能になる"
+  },
+  {
+    "key": "ADDITIONAL_START_EGO_GIFT_CHANCE_HIT-description",
+    "original": "[시작 E.G.O 기프트]\n\n타격 E.G.O 기프트 항목을 선택할 수 있음",
+    "context": "EN :\n[Starting E.G.O Gift]\n\nUnlocks the Blunt E.G.O Gift Category\nJP :\n[開始E.G.Oギフト]\n\n打撃E.G.Oギフトの項目が選択可能になる"
+  }
+]

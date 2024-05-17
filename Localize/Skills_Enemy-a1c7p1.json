@@ -1,0 +1,657 @@
+[
+  {
+    "key": "9015201-levelList$[0].name",
+    "original": "경혈식 찌르기",
+    "context": "EN :\nHardblood Stab\nJP :\n硬血式突き"
+  },
+  {
+    "key": "9015201-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]3を付与"
+  },
+  {
+    "key": "9015202-levelList$[0].name",
+    "original": "경혈식 베어내기",
+    "context": "EN :\nHardblood Cleave\nJP :\n硬血式切り払い"
+  },
+  {
+    "key": "9015202-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 8 이상이면, 피해량 +20%",
+    "context": "EN :\n[WhenUse] If the target has 8+ [Laceration], deal +20% damage\nJP :\n[WhenUse] 対象の[Laceration]が8以上なら、ダメージ量 +20%"
+  },
+  {
+    "key": "9015202-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "9015202-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "9015202-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]이 6 이상이면 [HardenedBlood]을 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] At 6+ [Laceration], gain 1 [HardenedBlood]\nJP :\n[OnSucceedAttack] [Laceration]が6以上なら、[HardenedBlood]を1得る"
+  },
+  {
+    "key": "9015202-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "9015202-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 8, [BloodScissor] 1 얻음.",
+    "context": "EN :\n[OnSucceedAttack] Gain 8 [Laceration] and 1 [BloodScissor]\nJP :\n[OnSucceedAttack] [Laceration]8, [BloodScissor]1を得る"
+  },
+  {
+    "key": "9015203-levelList$[0].name",
+    "original": "경혈식 강화 베어내기",
+    "context": "EN :\nHardblood Powercleave\nJP :\n硬血式強化切り払い"
+  },
+  {
+    "key": "9015203-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 6 이상이면, 기본 위력 +1\n[HardenedBlood]당 피해량 +5% (최대 25%)\n[EndSkill] [HardenedBlood], [BloodScissor] 전부 소모",
+    "context": "EN :\n[WhenUse] If the target has 6+ [Laceration], Base Power +1\nDeal +5% more damage for every [HardenedBlood] (max 25%)\n[EndSkill] Consume all [HardenedBlood] and [BloodScissor]\nJP :\n[WhenUse] 対象の[Laceration]が6以上なら、基本威力 +1\n[HardenedBlood]1につきダメージ量 +5%(最大25%)\n[EndSkill] [HardenedBlood], [BloodScissor]全部消耗"
+  },
+  {
+    "key": "9015203-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]3を付与、[Laceration]回数が2増加"
+  },
+  {
+    "key": "9015203-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 최대 체력의 (대상의 [Laceration])%만큼 체력 회복 (최대 20%)",
+    "context": "EN :\n[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 20%)\nJP :\n[OnSucceedAttack] 体力最大値(対象の[Laceration])%だけ体力回復(最大20%)"
+  },
+  {
+    "key": "9015204-levelList$[0].name",
+    "original": "반격",
+    "context": "EN :\nCounter\nJP :\n反撃"
+  },
+  {
+    "key": "9015204-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [HardenedBlood] 1당, 기본 위력 +1",
+    "context": "EN :\n[WhenUse] Base Power +1 for every [HardenedBlood] on self\nJP :\n[WhenUse] 自分の[HardenedBlood]1につき、基本威力 +1"
+  },
+  {
+    "key": "9015204-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttackHead] [Laceration]2を付与"
+  },
+  {
+    "key": "9015301-levelList$[0].name",
+    "original": "경혈식 쐐기",
+    "context": "EN :\nHardblood Wedge\nJP :\n硬血式楔"
+  },
+  {
+    "key": "9015301-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "9015302-levelList$[0].name",
+    "original": "경혈식 가르기",
+    "context": "EN :\nHardblood Chop\nJP :\n硬血式裂き"
+  },
+  {
+    "key": "9015302-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 4 이상이면, 피해량 +10%",
+    "context": "EN :\n[WhenUse] If the target has 4+ [Laceration], deal +10% more damage\nJP :\n[WhenUse] 対象の[Laceration]が4以上なら、ダメージ量 +10%"
+  },
+  {
+    "key": "9015302-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "9015302-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "9015302-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]이 6 이상이면 [HardenedBlood]을 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] At 6+ [Laceration], gain 1 [HardenedBlood]\nJP :\n[OnSucceedAttack] [Laceration]が6以上なら、[HardenedBlood]を1得る"
+  },
+  {
+    "key": "9015302-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "9015302-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 8, [BloodScissor] 1 얻음.",
+    "context": "EN :\n[OnSucceedAttack] Gain 8 [Laceration] and 1 [BloodScissor]\nJP :\n[OnSucceedAttack] [Laceration]8, [BloodScissor]1を得る"
+  },
+  {
+    "key": "9015303-levelList$[0].name",
+    "original": "경혈식 강화 가르기",
+    "context": "EN :\nHardblood Powerchop\nJP :\n硬血式強化裂き"
+  },
+  {
+    "key": "9015303-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Laceration] 횟수가 6 이상이면, 기본 위력 +1\n[HardenedBlood]당 피해량 +5% (최대 25%)\n[EndSkill] [HardenedBlood], [BloodScissor] 전부 소모",
+    "context": "EN :\n[WhenUse] If the target has 6+ [Laceration] Count, Base Power +1\nDeal +5% more damage for every [HardenedBlood] (max 25%)\n[EndSkill] Consume all [HardenedBlood] and [BloodScissor]\nJP :\n[WhenUse] 対象の[Laceration]回数が6以上なら、基本威力 +1\n[HardenedBlood]1につきダメージ量 +5%(最大25%)\n[EndSkill] [HardenedBlood], [BloodScissor]全部消耗"
+  },
+  {
+    "key": "9015303-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]3を付与、[Laceration]回数が2増加"
+  },
+  {
+    "key": "9015303-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 최대 체력의 (대상의 [Laceration])%만큼 체력 회복 (최대 20%)",
+    "context": "EN :\n[OnSucceedAttack] Heal ([Laceration] on target)% HP (max 20%)\nJP :\n[OnSucceedAttack] 体力最大値(対象の[Laceration])%だけ体力回復(最大20%)"
+  },
+  {
+    "key": "9015304-levelList$[0].name",
+    "original": "반격",
+    "context": "EN :\nCounter\nJP :\n反撃"
+  },
+  {
+    "key": "9015304-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [HardenedBlood] 1당, 기본 위력 +1",
+    "context": "EN :\n[WhenUse] Base Power +1 for every [HardenedBlood] on self\nJP :\n[WhenUse] 自分の[HardenedBlood]1につき、基本威力 +1"
+  },
+  {
+    "key": "9015304-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttackHead] [Laceration]2を付与"
+  },
+  {
+    "key": "9015401-levelList$[0].name",
+    "original": "축제야 축제!",
+    "context": "EN :\nIt's a Festival, a Festival!\nJP :\n祭りだ祭り！"
+  },
+  {
+    "key": "9015401-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]3を付与"
+  },
+  {
+    "key": "9015401-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]3を付与"
+  },
+  {
+    "key": "9015402-levelList$[0].name",
+    "original": "옷 입혀줄게",
+    "context": "EN :\nLet's Dress Up\nJP :\n服着せてあげる"
+  },
+  {
+    "key": "9015402-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 6 이상이면, 피해량 +20%",
+    "context": "EN :\n[WhenUse] If the target has 6+ [Laceration], deal +20% damage\nJP :\n[WhenUse] 対象の[Laceration]が6以上なら、ダメージ量 +20%"
+  },
+  {
+    "key": "9015402-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が3増加"
+  },
+  {
+    "key": "9015402-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 5 이상이면, [HardenedBlood]을 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] If the target has 5+ [Laceration], gain 1 [HardenedBlood]\nJP :\n[OnSucceedAttack] 対象の[Laceration]が5以上なら、[HardenedBlood]を1得る"
+  },
+  {
+    "key": "9015403-levelList$[0].name",
+    "original": "이벤트가 남아있어!",
+    "context": "EN :\nWe've an Event for You!\nJP :\nイベントが残ってる！"
+  },
+  {
+    "key": "9015403-levelList$[0].desc",
+    "original": "[WhenUse] [BloodDinner]을 최대 50 소모하여, 소모한 [BloodDinner] 10당 [BloodScissor] 1 얻음\n[WhenUse] 이 스킬에서 [BloodDinner]을 소모하지 못했으면, [Laceration] 5, [HardenedBlood]을 1 얻음.\n[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1",
+    "context": "EN :\n[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodScissor] for every 10 [BloodDinner] consumed\n[WhenUse] If this unit failed to consume [BloodDinner] with this Skill, gain 5 [Laceration] and 1 [HardenedBlood].\n[WhenUse] If the target has 5+ [Laceration], Coin Power +1\nJP :\n[WhenUse] [BloodDinner]を最大で50消耗し、消耗した[BloodDinner]10につき[BloodScissor]1を得る\n[WhenUse] このスキルで[BloodDinner]を消耗できなければ、[Laceration]5, [HardenedBlood]1を得る\n[WhenUse] 対象の[Laceration]が5以上なら、コイン威力 +1"
+  },
+  {
+    "key": "9015403-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]3を付与"
+  },
+  {
+    "key": "9015403-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]3を付与"
+  },
+  {
+    "key": "9015404-levelList$[0].name",
+    "original": "재촉하지마",
+    "context": "EN :\nDon't Rush Me\nJP :\n急かさないで"
+  },
+  {
+    "key": "9015404-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1\n[WhenUse] [BloodScissor]에 비례해서, 합 위력 +1 (최대 3)\n[HardenedBlood]당 피해량 +7% (최대 35%)\n[EndSkill] [HardenedBlood] 전부 소모",
+    "context": "EN :\n[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every [BloodScissor] (max 3)\nDeal +7% more damage for every [HardenedBlood] (max 35%)\n[EndSkill] Consume all [HardenedBlood]\nJP :\n[WhenUse] 対象の[Laceration]が5以上なら、コイン威力 +1\n[WhenUse] [BloodScissor]に比例して、マッチ威力 +1(最大3)\n[HardenedBlood]1につきダメージ量 +7%(最大35%)\n[EndSkill] [HardenedBlood]を全て消耗"
+  },
+  {
+    "key": "9015404-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "9015404-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [Laceration] 8 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 8 [Laceration]\nJP :\n[OnSucceedAttackHead] [Laceration]8を付与"
+  },
+  {
+    "key": "9015404-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [BloodScissor]를 최대 5 소모하여 피해량 (20 * 소모한 [BloodScissor])% 증가 (최대 100%)",
+    "context": "EN :\n[OnSucceedAttack] Consume up to 5 [BloodScissor] and deal +(20 * consumed [BloodScissor])% more damage (max 100%)\nJP :\n[OnSucceedAttack] [BloodScissor]を最大5消耗し、ダメージ量が(20 × 消耗した[BloodScissor])%増加(最大100%)"
+  },
+  {
+    "key": "9015404-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 최대 체력의 (대상의 [Laceration] 위력)%만큼 체력 회복 (최대 30%)",
+    "context": "EN :\n[OnSucceedAttack] Heal ([Laceration] Potency on target)% HP (max 30%)\nJP :\n[OnSucceedAttack] 体力最大値(対象の[Laceration]威力)%だけ体力回復(最大30%)"
+  },
+  {
+    "key": "9015405-levelList$[0].name",
+    "original": "반격",
+    "context": "EN :\nCounter\nJP :\n反撃"
+  },
+  {
+    "key": "9015405-levelList$[0].desc",
+    "original": "[WhenUse] [BloodScissor] 1 이상이면, 기본 위력 +1\n[WhenUse] 자신의 [HardenedBlood] 3 이상이면 코인 위력 +1",
+    "context": "EN :\n[WhenUse] At 1+ [BloodScissor], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], Coin Power +1\nJP :\n[WhenUse] [BloodScissor]が1以上なら、基本威力 +1\n[WhenUse] 自分の[HardenedBlood]が3以上なら、コイン威力 +1"
+  },
+  {
+    "key": "9015405-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "9015501-levelList$[0].name",
+    "original": "더 많이 와줘",
+    "context": "EN :\nMore, More!\nJP :\nもっといっぱい来て"
+  },
+  {
+    "key": "9015501-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "9015501-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "9015502-levelList$[0].name",
+    "original": "조금 더 먹을래",
+    "context": "EN :\nI'll Have Some More\nJP :\nもうちょっと食べちゃう"
+  },
+  {
+    "key": "9015502-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 4 이상이면, 피해량 +10%",
+    "context": "EN :\n[WhenUse] If the target has 4+ [Laceration], deal +10% more damage\nJP :\n[WhenUse] 対象の[Laceration]が4以上なら、ダメージ量 +10%"
+  },
+  {
+    "key": "9015502-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]4を付与"
+  },
+  {
+    "key": "9015502-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 5 이상이면, [HardenedBlood]을 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] If the target has 5+ [Laceration], gain 1 [HardenedBlood]\nJP :\n[OnSucceedAttack] 対象の[Laceration]が5以上なら、[HardenedBlood]を1得る"
+  },
+  {
+    "key": "9015503-levelList$[0].name",
+    "original": "맛이 기가 막힐거야!",
+    "context": "EN :\nWhat Heavenly Taste!\nJP :\nきっとすっごく美味しいだろうね！"
+  },
+  {
+    "key": "9015503-levelList$[0].desc",
+    "original": "[WhenUse] 혈찬을 최대 50 소모하여 소모한 혈찬 10당 [BloodScissor] 1 얻음.\n[WhenUse] 이 스킬에서 [BloodDinner]을 소모하지 못했으면, [Laceration] 5, [HardenedBlood]을 1 얻음.\n[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1",
+    "context": "EN :\n[WhenUse] Consume up to 50 [BloodDinner]; gain 1 [BloodScissor] for every 10 [BloodDinner] consumed\n[WhenUse] If this unit failed to consume [BloodDinner] with this Skill, gain 5 [Laceration] and 1 [HardenedBlood].\n[WhenUse] If the target has 5+ [Laceration], Coin Power +1\nJP :\n[WhenUse] [BloodDinner]を最大で50消耗し、消耗した[BloodDinner]10につき[BloodScissor]1を得る\n[WhenUse] このスキルで[BloodDinner]を消耗できなければ、[Laceration]5, [HardenedBlood]1を得る\n[WhenUse] 対象の[Laceration]が5以上なら、コイン威力 +1"
+  },
+  {
+    "key": "9015503-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]3を付与"
+  },
+  {
+    "key": "9015503-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]3を付与"
+  },
+  {
+    "key": "9015504-levelList$[0].name",
+    "original": "쥐새끼 같은 꼴이구나!",
+    "context": "EN :\nYou Rat Bastard!\nJP :\nドブネズミみたいなザマね！"
+  },
+  {
+    "key": "9015504-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1\n[WhenUse] [BloodScissor]에 비례해서, 합 위력 +1 (최대 3)\n[HardenedBlood]당 피해량 +7% (최대 35%)\n[EndSkill] [HardenedBlood] 전부 소모",
+    "context": "EN :\n[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every [BloodScissor] (max 3)\nDeal +7% more damage for every [HardenedBlood] (max 35%)\n[EndSkill] Consume all [HardenedBlood]\nJP :\n[WhenUse] 対象の[Laceration]が5以上なら、コイン威力 +1\n[WhenUse] [BloodScissor]に比例して、マッチ威力 +1(最大3)\n[HardenedBlood]1につきダメージ量 +7%(最大35%)\n[EndSkill] [HardenedBlood]を全て消耗"
+  },
+  {
+    "key": "9015504-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "9015504-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 8 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 8 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]8を付与"
+  },
+  {
+    "key": "9015504-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [BloodScissor]를 최대 5 소모하여 피해량 (20 * 소모한 [BloodScissor])% 증가 (최대 100%)",
+    "context": "EN :\n[OnSucceedAttack] Consume up to 5 [BloodScissor] and deal +(20 * consumed [BloodScissor])% more damage (max 100%)\nJP :\n[OnSucceedAttack] [BloodScissor]を最大5消耗し、ダメージ量が(20 × 消耗した[BloodScissor])%増加(最大100%)"
+  },
+  {
+    "key": "9015504-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 최대 체력의 (대상의 [Laceration] 위력)%만큼 체력 회복 (최대 30%)",
+    "context": "EN :\n[OnSucceedAttack] Heal ([Laceration] Potency on target)% HP (max 30%)\nJP :\n[OnSucceedAttack] 体力最大値(対象の[Laceration]威力)%だけ体力回復(最大30%)"
+  },
+  {
+    "key": "9015505-levelList$[0].name",
+    "original": "반격",
+    "context": "EN :\nCounter\nJP :\n反撃"
+  },
+  {
+    "key": "9015505-levelList$[0].desc",
+    "original": "[WhenUse] [BloodScissor] 1 이상이면, 기본 위력 +1\n[WhenUse] 자신의 [HardenedBlood] 3 이상이면 코인 위력 +1",
+    "context": "EN :\n[WhenUse] At 1+ [BloodScissor], Base Power +1\n[WhenUse] At 3+ [HardenedBlood], Coin Power +1\nJP :\n[WhenUse] [BloodScissor]が1以上なら、基本威力 +1\n[WhenUse] 自分の[HardenedBlood]が3以上なら、コイン威力 +1"
+  },
+  {
+    "key": "9015505-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "9015601-levelList$[0].name",
+    "original": "내려치기",
+    "context": "EN :\nSlam\nJP :\n振り下ろす"
+  },
+  {
+    "key": "9015601-levelList$[0].desc",
+    "original": "대상의 [Burst]이 5 이상이면, 피해량 +10%",
+    "context": "EN :\nIf the target has 5+ [Burst], deal +10% more damage\nJP :\n対象の[Burst]が5以上なら、ダメージ量 +10%"
+  },
+  {
+    "key": "9015601-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\nJP :\n[OnSucceedAttack] [Burst]3を付与"
+  },
+  {
+    "key": "9015601-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [DefenseDown] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [DefenseDown]\nJP :\n[OnSucceedAttack] [DefenseDown]1を付与"
+  },
+  {
+    "key": "9015602-levelList$[0].name",
+    "original": "상처 짓이기기",
+    "context": "EN :\nCrush Wounds\nJP :\n傷をえぐる"
+  },
+  {
+    "key": "9015602-levelList$[0].desc",
+    "original": "대상의 [Burst]이 5 이상이면, 기본 위력 +1",
+    "context": "EN :\nIf the target has 5+ [Burst], Base Power +1\nJP :\n対象の[Burst]が5以上なら、基本威力 +1"
+  },
+  {
+    "key": "9015602-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "9015602-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [TakeHpHealReduce] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [TakeHpHealReduce]\nJP :\n[OnSucceedAttack] [TakeHpHealReduce]1を付与"
+  },
+  {
+    "key": "9015602-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Burst]이 5 이상이면, 추가로 [TakeHpHealReduce] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has 5+ [Burst], inflict 1 [TakeHpHealReduce] as well\nJP :\n[OnSucceedAttack] 対象の[Burst]が5以上なら、追加で[TakeHpHealReduce]1を付与"
+  },
+  {
+    "key": "9015603-levelList$[0].name",
+    "original": "과격한 내려찍기",
+    "context": "EN :\nWild Swinging\nJP :\n過激に振り下ろす"
+  },
+  {
+    "key": "9015603-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst]이 10 이상이면, 이 스킬로 적중 시 [Burst] 횟수를 소모하지 않음",
+    "context": "EN :\n[WhenUse] If the target has 10+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit\nJP :\n[WhenUse] 対象の[Burst]が10以上なら、このスキルで的中時[Burst]回数を消耗しない"
+  },
+  {
+    "key": "9015603-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が1増加"
+  },
+  {
+    "key": "9015603-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vulnerable] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vulnerable]\nJP :\n[OnSucceedAttack] [Vulnerable]1を付与"
+  },
+  {
+    "key": "9015603-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Burst]\nJP :\n[OnSucceedAttack] [Burst]4を付与"
+  },
+  {
+    "key": "9015603-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Burst]이 10 이상이면, 피해량 +30%",
+    "context": "EN :\n[OnSucceedAttack] If target has 10+ [Burst], deal +30% damage\nJP :\n[OnSucceedAttack] 対象の[Burst]が10以上なら、与ダメージ量 +30%"
+  },
+  {
+    "key": "9015604-levelList$[0].name",
+    "original": "지혈",
+    "context": "EN :\nHemostasis\nJP :\n止血"
+  },
+  {
+    "key": "9015604-levelList$[0].desc",
+    "original": "[WhenUse] 자신에게 [Laceration]이 있다면, 자신의 [Laceration] 2 감소 (1 미만으로는 감소하지 않음)",
+    "context": "EN :\n[WhenUse] If this unit has [Laceration], lose 2 [Laceration] (does not drop below 1)\nJP :\n[WhenUse] 自分へ[Laceration]があるなら、自分の[Laceration]が2減少(1未満には減少しない)"
+  },
+  {
+    "key": "9015701-levelList$[0].name",
+    "original": "내려치기",
+    "context": "EN :\nSlam\nJP :\n振り下ろす"
+  },
+  {
+    "key": "9015701-levelList$[0].desc",
+    "original": "대상의 [Burst] 횟수가 3 이상이면, 피해량 +10%",
+    "context": "EN :\nIf the target has 3+ [Burst] Count, deal +10% more damage\nJP :\n対象の[Burst]回数が3以上なら、ダメージ量 +10%"
+  },
+  {
+    "key": "9015701-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "9015701-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [DefenseDown] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [DefenseDown]\nJP :\n[OnSucceedAttack] [DefenseDown]1を付与"
+  },
+  {
+    "key": "9015702-levelList$[0].name",
+    "original": "상처 짓이기기",
+    "context": "EN :\nCrush Wounds\nJP :\n傷を抉る"
+  },
+  {
+    "key": "9015702-levelList$[0].desc",
+    "original": "대상의 [Burst] 횟수가 3 이상이면, 기본 위력 +1",
+    "context": "EN :\nIf the target has 3+ [Burst] Count, Base Power +1\nJP :\n対象の[Burst]回数が3以上なら、基本威力 +1"
+  },
+  {
+    "key": "9015702-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が1増加"
+  },
+  {
+    "key": "9015702-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [TakeHpHealReduce] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [TakeHpHealReduce]\nJP :\n[OnSucceedAttack] [TakeHpHealReduce]1を付与"
+  },
+  {
+    "key": "9015702-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Burst]이 5 이상이면, 추가로 [TakeHpHealReduce] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has 5+ [Burst], inflict 1 [TakeHpHealReduce] as well\nJP :\n[OnSucceedAttack] 対象の[Burst]が5以上なら、追加で[TakeHpHealReduce]1を付与"
+  },
+  {
+    "key": "9015703-levelList$[0].name",
+    "original": "과격한 내려찍기",
+    "context": "EN :\nWild Swinging\nJP :\n過激に振り下ろす"
+  },
+  {
+    "key": "9015703-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst]이 10 이상이면, 이 스킬로 적중 시 [Burst] 횟수를 소모하지 않음",
+    "context": "EN :\n[WhenUse] If the target has 10+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit\nJP :\n[WhenUse] 対象の[Burst]が10以上なら、このスキルで的中時[Burst]回数を消耗しない"
+  },
+  {
+    "key": "9015703-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "9015703-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vulnerable] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vulnerable]\nJP :\n[OnSucceedAttack] [Vulnerable]1を付与"
+  },
+  {
+    "key": "9015703-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\nJP :\n[OnSucceedAttack] [Burst]3を付与"
+  },
+  {
+    "key": "9015703-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Burst]이 10 이상이면, 피해량 +30%",
+    "context": "EN :\n[OnSucceedAttack] If target has 10+ [Burst], deal +30% damage\nJP :\n[OnSucceedAttack] 対象の[Burst]が10以上なら、与ダメージ量 +30%"
+  },
+  {
+    "key": "9015704-levelList$[0].name",
+    "original": "지혈",
+    "context": "EN :\nHemostasis\nJP :\n止血"
+  },
+  {
+    "key": "9015704-levelList$[0].desc",
+    "original": "[WhenUse] 자신에게 [Laceration]이 있다면, 자신의 [Laceration] 2 감소(1 미만으로는 감소하지 않음)",
+    "context": "EN :\n[WhenUse] If this unit has [Laceration], lose 2 [Laceration] (does not drop below 1)\nJP :\n[WhenUse] 自分へ[Laceration]があるなら、自分の[Laceration]が2減少(1未満には減少しない)"
+  },
+  {
+    "key": "9016001-levelList$[0].name",
+    "original": "행패부리기",
+    "context": "EN :\nPlain Villainy\nJP :\n乱暴を働く"
+  },
+  {
+    "key": "9016001-levelList$[0].desc",
+    "original": "[WhenUse] [Breath] 2 얻음",
+    "context": "EN :\n[WhenUse] Gain 2 [Breath]\nJP :\n[WhenUse] [Breath]2を得る"
+  },
+  {
+    "key": "9016001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]1を付与"
+  },
+  {
+    "key": "9016001-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Paralysis] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Paralysis]\nJP :\n[OnSucceedAttack] [Paralysis]1を付与"
+  },
+  {
+    "key": "9016001-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 피해량 20% 증가",
+    "context": "EN :\n[CriticalOnSucceedAttack] Deal +20% more damage\nJP :\n[CriticalOnSucceedAttack] ダメージ量 +20%"
+  },
+  {
+    "key": "9016002-levelList$[0].name",
+    "original": "핍박하기",
+    "context": "EN :\nBullying\nJP :\n迫害する"
+  },
+  {
+    "key": "9016002-levelList$[0].desc",
+    "original": "[WhenUse] [Breath] 2 얻음",
+    "context": "EN :\n[WhenUse] Gain 2 [Breath]\nJP :\n[WhenUse] [Breath]2を得る"
+  },
+  {
+    "key": "9016002-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vulnerable] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vulnerable]\nJP :\n[OnSucceedAttack] [Vulnerable]1を付与"
+  },
+  {
+    "key": "9016002-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DefenseDown] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [DefenseDown]\nJP :\n[OnSucceedAttack] [DefenseDown]1を付与"
+  },
+  {
+    "key": "9016002-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 대상이 [TrulyWeak] 디버프를 가지고 있으면, 피해량 30% 증가",
+    "context": "EN :\n[CriticalOnSucceedAttack] If the target has [TrulyWeak], deal +30% more damage\nJP :\n[CriticalOnSucceedAttack] 対象が[TrulyWeak]を持っているなら、ダメージ量が30%増加"
+  },
+  {
+    "key": "9016101-levelList$[0].name",
+    "original": "\"으르렁..\"",
+    "context": "EN :\n\"Grrr...\"\nJP :\n「グルル…。」"
+  },
+  {
+    "key": "9016101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "9016102-levelList$[0].name",
+    "original": "\"크르렁..\"",
+    "context": "EN :\n\"Krrr...\"\nJP :\n「ガルル…。」"
+  },
+  {
+    "key": "9016102-levelList$[0].desc",
+    "original": "대상에게 [Laceration]이 5 이상 있으면, 피해량 +10%",
+    "context": "EN :\nIf the target has 5+ [Laceration], deal +10% more damage\nJP :\n対象に[Laceration]が5以上あるなら、ダメージ量 +10%"
+  },
+  {
+    "key": "9016102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "9016102-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "9016103-levelList$[0].name",
+    "original": "아니, 그러니까..\"으르렁\"",
+    "context": "EN :\nListen, you sod. It's— \"Grrrr.\"\nJP :\nいや、だから―「グルル」"
+  },
+  {
+    "key": "9016103-levelList$[0].desc",
+    "original": "대상에게 [Laceration]이 5 이상 있으면, 코인 위력 +1",
+    "context": "EN :\nIf the target has 5+ [Laceration], Coin Power +1\nJP :\n対象に[Laceration]が5以上あるなら、コイン威力 +1"
+  },
+  {
+    "key": "9016103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vulnerable] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vulnerable]\nJP :\n[OnSucceedAttack] [Vulnerable]1を付与"
+  },
+  {
+    "key": "9016103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "9016103-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "9016104-levelList$[0].name",
+    "original": "...",
+    "context": "EN :\n...\nJP :\n…"
+  },
+  {
+    "key": "9016104-levelList$[0].desc",
+    "original": "[WhenUse] [Protection] 1 얻음",
+    "context": "EN :\n[WhenUse] Gain 1 [Protection]\nJP :\n[WhenUse] [Protection]1を得る"
+  },
+  {
+    "key": "9016105-levelList$[0].name",
+    "original": "야, 나 이거 계속 해야돼?",
+    "context": "EN :\nOi, can we stop now?\nJP :\nおい、俺まだこれやんねぇとダメか？"
+  },
+  {
+    "key": "9016105-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 [Enhancement] 1 얻음",
+    "context": "EN :\n[WhenUse] Gain 1 [Enhancement] next turn\nJP :\n[WhenUse] 次のターンに[Enhancement]1を得る"
+  }
+]

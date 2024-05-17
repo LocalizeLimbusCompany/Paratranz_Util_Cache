@@ -1,0 +1,988 @@
+[
+  {
+    "key": "0-content",
+    "original": "사건은, 그 무가치 했던 문답으로부터 딱 일주일 뒤에 일어났다.",
+    "context": "EN :\nIt happened exactly a week after that fruitless exchange.\nJP :\n事件は、その無価値であった問答からちょうど一週間後に発生した。"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<수감자들의 업무 종료를 승인합니다.>",
+    "context": "EN :\n<I hereby confirm today’s close of business for the Sinners.>\nJP :\n<囚人の業務終了を承認します。>"
+  },
+  {
+    "key": "2-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "2-content",
+    "original": "감사합니다. 지금부터 변동 가능성을 가진 최대 12시간의 수면 및 휴식을 시작합니다. 좋은 밤 되시길.",
+    "context": "EN :\nThank you kindly. Starting now, you all will be given a maximum of 12 hours to partake in sleep and rest; the duration is subject to change. Have a good night.\nJP :\nありがとうございます。今から変動可能性のある最大12時間の就寝および休息を開始します。良い夜を。"
+  },
+  {
+    "key": "3-content",
+    "original": "파우스트의 언제나 같은 안내 말. 그리고 또 언제나 같은 수감자들의 앓는 기지개 소리.",
+    "context": "EN :\nFaust gives the same instructions as always. In response, Sinners groan and stretch like usual.\nJP :\nファウストによる、いつも通りの口上。そしてまたいつも通りの、囚人たちが伸びをするときの呻き声。"
+  },
+  {
+    "key": "4-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "4-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "5-content",
+    "original": "하지만, 한 명의 수감자 만이 그 평범함 사이에 튀어나온 혹처럼 불거져 나와 있었다.",
+    "context": "EN :\nExcept this time, one Sinner stuck out of that normalcy like a sore thumb.\nJP :\nしかし、たった一名の囚人が、その平凡さの合間からはみ出たような瘤のように膨れ上がっていた。"
+  },
+  {
+    "key": "6-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "6-content",
+    "original": "…또 뭐죠?",
+    "context": "EN :\n…What now?\nJP :\n…今度はなんですか？"
+  },
+  {
+    "key": "7-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "7-content",
+    "original": "됐어, 이스~ 쟤가 저렇게 심술 나 있는게 뭐 하루 이틀이야?",
+    "context": "EN :\nLeave him be, Ishy~ It’s not the first time he’s all grumpy like that, is it?\nJP :\nいいの、イシュ～あいつがあんな風にひねくれてるのって、昨日今日のことじゃないでしょ？"
+  },
+  {
+    "key": "8-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "8-content",
+    "original": "히스~ 방에 들어가기 전에 꼭 화 풀고 들어가? 매번 네 방에서 천둥치는 소리가 들려서 밤에 잠을 못 잔단 말야~",
+    "context": "EN :\nAnd Heath~ Make sure to simmer down before you get in your room, ‘kay? All that grumbling thunder in there keeps me awake, y’know~\nJP :\nヒース～絶対に腹いせしてから部屋に戻ってね？毎回あなたの部屋から雷が落ちる音が聞こえてきて寝れないんだよね～。"
+  },
+  {
+    "key": "9-content",
+    "original": "…수감자들의 방, 숙박실이자, 개인적인 공간이자, 수감실인 그곳은 수감자의 심상이 반영된다고 한다.",
+    "context": "EN :\n…The Sinners’ rooms—their lodging, personal space, and cell—reflect their state of mind, or so I’ve heard.\nJP :\n…囚人たちの部屋。宿泊室であり、個人的な空間でもあり、監房でもあるその場所は、囚人たちの心象が反映されるという。"
+  },
+  {
+    "key": "10-content",
+    "original": "방 바닥과 벽지, 그리고 전체적인 분위기는 그들의 기초가 되는 성격을 통해 결정이 되고, 한 쪽 벽에 드러나 있는 창문에는 저마다의 심상과 감정에 따라 조금씩 바뀌어 가는 듯 하다.",
+    "context": "EN :\nEach room’s floors, walls, and overall ambiance are shaped after the Sinner’s personality, and the view through the window changes depending on their emotions and mental state.\nJP :\n部屋の床と壁紙、そして全体的な雰囲気は彼らの基礎となる性格を通じて決定され、片方の壁にある窓はそれぞれの心象と感情によって少しずつ変わっていくようだ。"
+  },
+  {
+    "key": "11-content",
+    "original": "나는 멀찍이 창문을 통해 들여다본게 전부라, 아주 세밀한 것까지 알지는 못하지만.",
+    "context": "EN :\nThough, all I’ve seen were distant glimpses through the window, so I don’t have all the details.\nJP :\n私は遠目で窓から覗いただけなので、細かいことまでは分からないけど。"
+  },
+  {
+    "key": "12-content",
+    "original": "…히스클리프가 들어간 방은 이따금, 아니 꽤 자주 천둥과 폭풍우 소리가 들려오곤 했다.",
+    "context": "EN :\n…The room Heathcliff enters would sometimes­—actually, rather frequently—emit wuthering and stormy sounds.\nJP :\n…ヒースクリフが入った部屋からは時々、いやかなり頻繁に雷と嵐の音が聞こえてくる。"
+  },
+  {
+    "key": "13-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "13-content",
+    "original": "…쯧.",
+    "context": "EN :\n…Tch.\nJP :\n…チッ。"
+  },
+  {
+    "key": "14-content",
+    "original": "평소라면 ‘내가 왜 그래야 하는데?’하고 반문할 법한 히스클리프도, 그저 혀를 차는 것으로만 응수한다.",
+    "context": "EN :\nUsually, he’d snap back with a “Why should I?” or something like that, but he only clicked his tongue.\nJP :\n普段なら「どうして俺がそうしなきゃなんねぇんだ？」って言い返しそうなヒースクリフも、ただ舌打ちだけで応える。"
+  },
+  {
+    "key": "15-content",
+    "original": "대꾸할 기분도 아니라는 뜻이겠지.",
+    "context": "EN :\nI suppose he doesn’t feel like arguing.\nJP :\n言い返す気力も無いという意味だろう。"
+  },
+  {
+    "key": "16-content",
+    "original": "그 덕에, 그는 다른 수감자들이 전부 방에 들어갈 때 까지(정확히는 파우스트만을 제외하고) 밖에서 잔뜩 찡그린 얼굴로 복도를 응시하고 있었다. 나름의 기분을 푸는 과정이었을까.",
+    "context": "EN :\nThanks to that, he stood in the corridor until all the other Sinners (save for Faust) went into their rooms, staring down the passage with a frown. Maybe he was relieving stress this way.\nJP :\nそのおかげで、彼は他の囚人たちが全員部屋に戻るまで（正確にはファウストだけを除く）しかめっ面をして外から廊下を凝視していた。自分なりに気分を発散させていたのだろうか。"
+  },
+  {
+    "key": "17-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "17-content",
+    "original": "…오호?",
+    "context": "EN :\n…Oho?\nJP :\n…ほぉ？"
+  },
+  {
+    "key": "18-content",
+    "original": "그리고 그것이, 사건의 방아쇠가 되었다.",
+    "context": "EN :\nAnd that right there is where the incident began.\nJP :\nそしてそれが、事件の引き金となった。"
+  },
+  {
+    "key": "19-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "19-content",
+    "original": "…어라? 야, 지금 보니까 저 멀리에도 문이 잔뜩 있는데?",
+    "context": "EN :\n…Huh? Oi, what’s with all those doors down the aisle?\nJP :\n…ん？おい、今見たら遠くにも扉がぞろぞろ並んでねぇか？"
+  },
+  {
+    "key": "20-content",
+    "original": "히스클리프가 가리킨 곳은 일주일 전 내가 가리킨 곳과 정확히 같은 방향.",
+    "context": "EN :\nHeathcliff pointed in the same exact direction I did a week ago.\nJP :\nヒースクリフが指し示した場所は、一週間前に私が指し示した場所と全く同じ方向。"
+  },
+  {
+    "key": "21-content",
+    "original": "넘어가지 말라는 듯 걸려있는 진입금지선 너머였다.",
+    "context": "EN :\nThose doorways were beyond the “no trespassing” line blocking the way.\nJP :\n超えるなという風に掛けられている立ち入り禁止線の向こうだった。"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-content",
+    "original": "히스클리프, 필요 이상으로 복도를 걷진 않는 게 좋습니다.",
+    "context": "EN :\nHeathcliff, I recommend against walking farther into the corridor than necessary.\nJP :\nヒースクリフ、必要以上に廊下を歩かない方が良いです。"
+  },
+  {
+    "key": "23-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "23-content",
+    "original": "허. 그렇게 말하니까 굉장히 수상한데.",
+    "context": "EN :\nHuh. That sure makes it sound awful suspicious.\nJP :\nはっ。そう言われるとすっごく怪しくなってくんだけどなぁ。"
+  },
+  {
+    "key": "24-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "24-content",
+    "original": "수상할 것은 아무 것도 없습니다. 파우스트의 말을 듣는 편이 좋습니다.",
+    "context": "EN :\nThere is nothing of which to be suspicious. You are better off listening to Faust.\nJP :\n怪しいものは何もありません。ファウストの言葉を聞く方がよろしいかと。"
+  },
+  {
+    "key": "25-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "25-content",
+    "original": "뭐, 금은보화라도 숨겨놨나?",
+    "context": "EN :\nWhat, you keep treasures or somesuch in there?\nJP :\nまぁ、金銀財宝でも隠してんのか？"
+  },
+  {
+    "key": "26-content",
+    "original": "아무것도 알려주지 않는 파우스트의 태도는, 그의 호기심을 자극하기에 충분했고…",
+    "context": "EN :\nFaust’s secretive attitude was enough to rouse his curiosity…\nJP :\n何も教えてくれないファウストの態度は、彼の好奇心を刺激するのには十分で…。"
+  },
+  {
+    "key": "27-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "27-content",
+    "original": "히스클리프. 하지 마세요. 후회할 겁니다.",
+    "context": "EN :\nHeathcliff. Do not do it. You will regret your action.\nJP :\nヒースクリフ。やめなさい。後悔しますよ。"
+  },
+  {
+    "key": "28-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "28-content",
+    "original": "…모르던 사이에 많이 감정적으로 변했네, 똑똑박사 씨.",
+    "context": "EN :\n…Got well emotional and gobby, eh, Ms. Cleveress?\nJP :\n…いつの間にかすげぇ感情的になったな、天才博士さんよぉ。"
+  },
+  {
+    "key": "29-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "29-content",
+    "original": "마치… 진짜 뭘 숨겨놨다는 듯이 말이야!",
+    "context": "EN :\nIt’s like… you’re actually hiding something there!\nJP :\nまるで…ホントに何か隠してるみたいになァ！"
+  },
+  {
+    "key": "30-content",
+    "original": "그는, 만류할 새도 없이 검은 공간 안으로 뛰어 들어갔다.",
+    "context": "EN :\nHe sprinted into the dark before we could stop him.\nJP :\n引き止める暇もなく、彼は黒い空間の中へ飛び込んでいった。"
+  },
+  {
+    "key": "31-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "31-content",
+    "original": "…!",
+    "context": "EN :\n…!\nJP :\n……！"
+  },
+  {
+    "key": "32-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "32-content",
+    "original": "<저 안에…>",
+    "context": "EN :\n<What’s in there—>\nJP :\n<あの中に…。>"
+  },
+  {
+    "key": "33-content",
+    "original": "나는 당연한 의문을 담아, 파우스트에게 질문을 던지려 했지만.",
+    "context": "EN :\nJust as I was about to ask Faust an obvious thing to be concerned over…\nJP :\n私は当然の疑問を抱き、ファウストに質問を投げかけようとしたけど。"
+  },
+  {
+    "key": "34-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "34-content",
+    "original": "끄아아아아악?!!",
+    "context": "EN :\nGAAAAAAARGH?!!\nJP :\nぐぁあああぁぁぁっ！！？"
+  },
+  {
+    "key": "35-content",
+    "original": "복도 멀리, 이제는 보이지 않는 공간에서 히스클리프의 외마디 비명이 울려 퍼졌다.",
+    "context": "EN :\nHeathcliff’s sharp scream echoed from the unlit area far into the corridor.\nJP :\n廊下の彼方、ここからは見えない空間からヒースクリフの悲鳴が一声、鳴り響いた。"
+  },
+  {
+    "key": "36-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "36-content",
+    "original": "단테, 지금부터 제 왼손을 잡고 저를 따라서 달리세요.",
+    "context": "EN :\nDante, now is the time to take my left hand and run with me.\nJP :\nダンテ。今から私の左手を掴みながら、私に付いて走ってください。"
+  },
+  {
+    "key": "37-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "37-content",
+    "original": "<어, 어?>",
+    "context": "EN :\n<Wha, huh?>\nJP :\n<え、えっ？>"
+  },
+  {
+    "key": "38-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "38-content",
+    "original": "제 시간 안에 끌고 나오려면 저 혼자로는 부족해요. 저도 삼켜질 수 있으니까요.",
+    "context": "EN :\nI won’t be able to get him out in time on my own. I may be engulfed myself if I don’t act quickly.\nJP :\n時間内に引っ張って出てくるには、私一人じゃ足りません。私も飲み込まれるかもしれませんから。"
+  },
+  {
+    "key": "39-content",
+    "original": "무슨 말인지 이해할 새도 없이, 파우스트는 히스클리프가 뛰어간 방향으로 달려나갔다.",
+    "context": "EN :\nBefore I could process what she meant, Faust ran off in the direction Heathcliff disappeared.\nJP :\n何を言ってるのか理解する暇も無く、ファウストはヒースクリフが走って行った方向へ駆けていった。"
+  },
+  {
+    "key": "40-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "40-content",
+    "original": "<아… 젠장! 가, 같이 가!>",
+    "context": "EN :\n<Ah… Shuckaroonies! W—Wait for me!>\nJP :\n<あ…クソッ！お、置いてかないで！>"
+  },
+  {
+    "key": "41-content",
+    "original": "금지선을 넘어 복도를 더 나아가자, 그곳에는 세갈래 갈림길이 있었다.",
+    "context": "EN :\nAs we crossed the line and proceeded deeper into the corridor, we came across a three-way crossroads.\nJP :\n禁止線を越えて廊下を更に進むと、そこには三つの分かれ道があった。"
+  },
+  {
+    "key": "42-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "42-content",
+    "original": "<중앙 쪽에서 비명이 들리는 것 같은데…>",
+    "context": "EN :\n<I think I heard screams coming from the middle…>\nJP :\n<中央から悲鳴が聞こえてくる気がするんだけど…。>"
+  },
+  {
+    "key": "43-content",
+    "original": "하지만, 파우스트는 망설임도 없이 가장 왼쪽에 있는 복도로 내 손을 쥐고 뛰어 들어 갔다.",
+    "context": "EN :\nHowever, without a moment’s hesitation, Faust darted for the left aisle.\nJP :\nしかしファウストは私の手を掴み、迷いなく一番左の廊下へ突き進んだ。"
+  },
+  {
+    "key": "44-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "44-content",
+    "original": "<파, 파우스트! 급한건 알겠는데… 이쪽 길이 아니지 않아? 아까 가운데 길에서 히스클리프 목소리가 들렸는데….>",
+    "context": "EN :\n<F—Faust! I know you’re in a hurry, but… are you sure this is the right way? I could’ve sworn I heard his voice coming from the center path…>\nJP :\n<ふぁ、ファウスト！急いでるのは分かってるけど…こっちの道じゃないんじゃ？さっき真ん中の道からヒースクリフの声が聞こえたんだけど…。>"
+  },
+  {
+    "key": "45-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "45-content",
+    "original": "알아요.",
+    "context": "EN :\nI know.\nJP :\n分かっています。"
+  },
+  {
+    "key": "46-content",
+    "original": "무얼 알았다는 건지, 파우스트는 그저 묵묵히 달릴 뿐이었다.",
+    "context": "EN :\nWithout elaborating further, Faust continued running.\nJP :\n何が「分かった」なのか、ファウストはただ黙って走るだけだった。"
+  },
+  {
+    "key": "47-content",
+    "original": "그 후로 나온 두 갈래 갈림길에선, 파우스트는 오른쪽을 선택했다.",
+    "context": "EN :\nAt another fork we encountered, Faust chose the right path.\nJP :\nその次に出てきた分かれ道では、ファウストは右を選んだ。"
+  },
+  {
+    "key": "48-content",
+    "original": "그리고 그 직후, 그 복도 왼쪽 편의 다섯 번째 문을 열고 들어갔다.",
+    "context": "EN :\nRight afterward, she entered the fifth door on the left side of that hallway.\nJP :\nそしてその直後、その廊下の左側五つ目の扉を開いて入っていった。"
+  },
+  {
+    "key": "49-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "49-content",
+    "original": "<이게… 뭐야?>",
+    "context": "EN :\n<What… is this?>\nJP :\n<なんだ…これ？>"
+  },
+  {
+    "key": "50-content",
+    "original": "따라 들어간 방을 나서자 마자 보인 또 다른 복도.",
+    "context": "EN :\nRight as I entered, another hall came into view.\nJP :\n付いて入った部屋を出るやいなや見えた、また別の廊下。"
+  },
+  {
+    "key": "51-content",
+    "original": "그 끝은… 마치 절벽과 같았다.",
+    "context": "EN :\nIts end… was like a cliff.\nJP :\nその果ては…まるで絶壁のようだった。"
+  },
+  {
+    "key": "52-content",
+    "original": "정확히는, 그 복도의 끝으로 떨어지려는 것만 같은 중력과 같은 감각이 느껴졌다.",
+    "context": "EN :\nTo be more precise, I felt some kind of gravitational pull trying to get me to fall to the end of the hallway.\nJP :\n正確には、その廊下の果てに落ちてしまいそうな、まるで重力のような感覚がした。"
+  },
+  {
+    "key": "53-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "53-content",
+    "original": "<히스클리프!!>",
+    "context": "EN :\n<Heathcliff!!>\nJP :\n<ヒースクリフ！！>"
+  },
+  {
+    "key": "54-content",
+    "original": "그리고 그는, 복도의 중앙에서 안간힘을 다해 우리 쪽으로 기어오고 있었다.",
+    "context": "EN :\nThen I saw him; he crawled toward us with all his might from the middle of the hall.\nJP :\nそして彼は、廊下の中央でありったけの力を振り絞りながら私たちの方に這い進んでいた。"
+  },
+  {
+    "key": "55-content",
+    "original": "힘이 풀리면 금방이라도 복도의 끝으로 떨어져버릴 것만 같이…",
+    "context": "EN :\nAs if he might fall the moment he lets go…\nJP :\n力を抜いてしまえば、今すぐにでも廊下の果てに落ちてしまいそうな…。"
+  },
+  {
+    "key": "56-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "56-content",
+    "original": "뭐… 뭐야, 이것들은… 여기는…!",
+    "context": "EN :\nWhat… the hell is all this… and this place…!\nJP :\nな…なんだよ、こいつらは…ここは…！"
+  },
+  {
+    "key": "57-content",
+    "original": "보이는 것은 없지만, 분명 히스클리프 뒤에 있는 어둠 속에 무언가가 있는 것 처럼 느껴졌다.",
+    "context": "EN :\nEven though I couldn’t see much in the dark behind him, I definitely felt some presence in it.\nJP :\n何も見えないけど、ヒースクリフの後ろにある闇の中に何かがあるような感覚が、確かにした。"
+  },
+  {
+    "key": "58-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "58-content",
+    "original": "<파우스트, 저 뒤에는…>",
+    "context": "EN :\n<Faust, what’s over—>\nJP :\n<ファウスト、あの後ろには…。>"
+  },
+  {
+    "key": "59-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "59-content",
+    "original": "단테, 열린 이 문의 손잡이를 꼭 잡으세요. 제 손도 꽉 잡으시고요.",
+    "context": "EN :\nDante, I want you to hold the knob of this open door tightly. Firmly grip my hand as well.\nJP :\nダンテ、開かれたこの扉の取っ手をしっかり掴んでください。\n私の手もしっかり掴んでください。"
+  },
+  {
+    "key": "60-content",
+    "original": "파우스트가 내 손에 힘을 실어서 히스클리프 쪽으로 천천히 다가간다.",
+    "context": "EN :\nHolding my hand securely, she gradually approaches Heathcliff.\nJP :\nファウストが私の手に力を入れて、ヒースクリフの方にゆっくり近寄る。"
+  },
+  {
+    "key": "61-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "61-content",
+    "original": "< 이 복도… 기울기가 없는 복도 맞지? 대체 왜 절벽에 매달린 느낌이 나는 거야?>",
+    "context": "EN :\n<This hallway… isn’t tilted or anything, is it? Why does it feel like we’re hanging off a cliff?>\nJP :\n<この廊下…傾いてない廊下だよね？一体どうして崖にぶら下がってるような感じがするんだ？>"
+  },
+  {
+    "key": "62-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "62-content",
+    "original": "그야… 복도니까요. 단테, 손을 놓치면 안돼요.",
+    "context": "EN :\nThat… is because we’re in a ‘corridor’, obviously. Dante, do not let go.\nJP :\nそれは…廊下ですからね。ダンテ、手を離してはいけません。"
+  },
+  {
+    "key": "63-content",
+    "original": "파우스트는 그렇게 대답하며, 내 손을 쥐지 않은 반대편 손으로 츠바이헨더를 쭉 뻗었다.",
+    "context": "EN :\nReminding me to hold fast, Faust extended her other arm while holding her zweihander.\nJP :\nファウストはそう答え、私の手を握っていない反対の手でツヴァイヘンダーを精一杯差し伸べた。"
+  },
+  {
+    "key": "64-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "64-content",
+    "original": "히스클리프, 이걸 잡으세요.",
+    "context": "EN :\nHeathcliff, grab this if you would.\nJP :\nヒースクリフ、これを掴んでください。"
+  },
+  {
+    "key": "65-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "65-content",
+    "original": "미쳤냐?! 그 커다란 칼날을 쥐면 손이 잘려나가잖아!",
+    "context": "EN :\nAre you mental?! My hand’ll get gashed if I try grabbing that giant blade!\nJP :\nイカれてんのか！？そのデケェ刃を掴んだら手が切れんだろ！"
+  },
+  {
+    "key": "66-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "66-content",
+    "original": "…손이 깊게 베이는 것으로 끝나는게 나을텐데요.",
+    "context": "EN :\n…You’ll much prefer deep wounds on your palms to what you can suffer down there.\nJP :\n…手を深く切るだけで終わる方がマシだと思いますが。"
+  },
+  {
+    "key": "67-content",
+    "original": "히스클리프는 황당한 눈으로 츠바이헨더와 뒤편의 어둠을 번갈아 바라보다가…",
+    "context": "EN :\nBaffled, Heathcliff looked at the sword and then the darkness behind him…\nJP :\nヒースクリフは呆れた目つきでツヴァイヘンダーと背後の闇を交互に見ていたが…。"
+  },
+  {
+    "key": "68-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "68-content",
+    "original": "젠장… 큭, 끄아악…!",
+    "context": "EN :\nBugger… Kgh, gaaahg…!\nJP :\nクソッ…クッ、ぐぁぁああっ…！"
+  },
+  {
+    "key": "69-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "69-content",
+    "original": "단테, 당기세요. 힘껏.",
+    "context": "EN :\nDante, pull him up. Might and main.\nJP :\nダンテ、引っ張ってください。力いっぱい。"
+  },
+  {
+    "key": "70-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "70-content",
+    "original": "<…그, 그래!>",
+    "context": "EN :\n<…G—Got it!>\nJP :\n<…あ、ああ！>"
+  },
+  {
+    "key": "71-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "71-content",
+    "original": "으윽, 끄으윽…",
+    "context": "EN :\nGrrgh, knngh…\nJP :\nうぅっ、ぐぅうっ…。"
+  },
+  {
+    "key": "72-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "72-content",
+    "original": "<헉, 허억…>",
+    "context": "EN :\n<Huff, hoogh…>\nJP :\n<はっ、はぁっ…。>"
+  },
+  {
+    "key": "73-content",
+    "original": "히스클리프를 끌어올리자마자…",
+    "context": "EN :\nRight as we pulled Heathcliff up…\nJP :\nヒースクリフを引き上げるやいなや…。"
+  },
+  {
+    "key": "74-content",
+    "original": "아니, 끌어올렸다는 표현이 맞기는 한걸지도 의문이지만… 파우스트는 다시 왔던 길로 되돌아가야 한다며 무얼 물어볼 새도 없이 히스클리프의 양다리를 손에 쥔 채 반대로 달렸다.",
+    "context": "EN :\nNo, I’m not sure if it’s even right to say that we pulled him “up”, but nevertheless… Faust hoisted his unconscious body by the legs and started rushing, saying that we need to return the way we came.\nJP :\nいや、引き上げるって表現が正しいのかは疑問だが…ファウストは来た道を戻らなければならないといいながら、何か訊ねる暇もないまま、ヒースクリフの両足を持ったまま反対方向へと走った。"
+  },
+  {
+    "key": "75-content",
+    "original": "나도 거기에 맞춰 히스클리프의 머리가 땅에 질질 끌려다니지 않도록 정신을 잃은 그의 양팔을 잡고 그 뒤를 따라갔다.",
+    "context": "EN :\nFollowing her lead, I supported his arms and trailed behind, keeping his head from dragging along the floor.\nJP :\n私もそれに合わせて、ヒースクリフの頭が地面にザリザリと引きずられることが無いように、気を失った彼の両腕を掴んでその後を追いかけていった。"
+  },
+  {
+    "key": "76-content",
+    "original": "시간이 흐른 후...",
+    "context": "EN :\nAfter burning some time…\nJP :\nしばらくして…。"
+  },
+  {
+    "key": "77-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "77-content",
+    "original": "…후. 더 깊은 곳에서 방향을 잃기 전에 이렇게 되어 차라리 다행이라고 할까요.",
+    "context": "EN :\n…Phew. Let us say that it is fortunate he wasn’t lost in a deeper area.\nJP :\n…ふぅ。もっと深い場所で方向を見失う前にこうなって、むしろ幸いだったといいますか。"
+  },
+  {
+    "key": "78-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "78-content",
+    "original": "단테, 시계를 돌려주어야겠습니다.",
+    "context": "EN :\nDante, you will have to turn the clock.\nJP :\nダンテ、時計を巻き戻していたければ。"
+  },
+  {
+    "key": "79-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "79-content",
+    "original": "<히스클리프는… 괜찮은 거 맞지?>",
+    "context": "EN :\n<Heathcliff’s… gonna be okay, right?>\nJP :\n<ヒースクリフは…大丈夫なんだよね？>"
+  },
+  {
+    "key": "80-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "80-content",
+    "original": "정신적인 피해가 심할 겁니다. 이대로 미쳐버리면 업무에 지장이 크겠네요.",
+    "context": "EN :\nThe psychological damage is likely to be severe. Our work will be encumbered if he loses his mind.\nJP :\n精神的なダメージが深刻かと思われます。このまま発狂してしまえば業務への支障が大きいでしょう。"
+  },
+  {
+    "key": "81-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "81-content",
+    "original": "<하아…>",
+    "context": "EN :\n<Sigh…>\nJP :\n<はぁ…。>"
+  },
+  {
+    "key": "82-content",
+    "original": "내게 선택지는 없었다.",
+    "context": "EN :\nI didn’t have a choice.\nJP :\n私に選択肢は無かった。"
+  },
+  {
+    "key": "83-content",
+    "original": "　",
+    "context": "EN :\n　\nJP :\n　"
+  },
+  {
+    "key": "84-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "84-content",
+    "original": "수고했습니다, 단테. 얼마 없는 휴식시간이 줄어든 건 안타깝다고 생각하지만…",
+    "context": "EN :\nGood work back there, Dante. While it is unfortunate that we have lost a portion of our limited break time to this…\nJP :\nお疲れ様です、ダンテ。そう長くはない休憩時間が減ったのは残念ですが…。"
+  },
+  {
+    "key": "85-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "85-content",
+    "original": "<파우스트. 대체 저 안에는 뭐가 있는 거야? 어디로 이어지지?>",
+    "context": "EN :\n<Faust. Just what’s in there? Where does it lead?>\nJP :\n<ファウスト。一体あの中には何がいるんだ？どこに繋がっているんだ？>"
+  },
+  {
+    "key": "86-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "86-content",
+    "original": "<이제는 말해줄 수 있지 않아? 저런… 것까지 봤잖아.>",
+    "context": "EN :\n<Can’t you tell me at this point? I’ve… seen that stuff now.>\nJP :\n<今なら言えるんじゃないか？あんな…ものまで見たじゃないか。>"
+  },
+  {
+    "key": "87-content",
+    "original": "당연한 의문이었다. 대체 무엇이 저 안에 있길래, 히스클리프는 무엇에게 쫓겼던 거길래.",
+    "context": "EN :\nIt was only natural that I want to know. What resides there, and what was chasing Heathcliff?\nJP :\n当然の疑問だった。一体何があの中にあるんだ、ヒースクリフは何に追われたんだ。"
+  },
+  {
+    "key": "88-content",
+    "original": "그리고…",
+    "context": "EN :\nMoreover…\nJP :\nそして…。"
+  },
+  {
+    "key": "89-content",
+    "original": "어째서 그것은 우리에게 모습을 드러내지도, 히스클리프를 마저 쫓지도 않은 채 사라져 버렸는지.",
+    "context": "EN :\nWhy did it never show itself to us, and why did it vanish instead of chasing him any further?\nJP :\nどうしてそれは私たちに姿を現すことも、ヒースクリフを追い続けることもなく消えてしまったのか。"
+  },
+  {
+    "key": "90-content",
+    "original": "궁금해서 미칠 것 같았지만…",
+    "context": "EN :\nThese questions were driving me crazy, but alas…\nJP :\n気になって気が狂いそうだったけど…。"
+  },
+  {
+    "key": "91-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "91-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "92-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "92-content",
+    "original": "처음에 말했듯, 파우스트는 말할 수 있는 것이 한정되어 있답니다.",
+    "context": "EN :\nAs stated earlier, there are limits to what Faust can elaborate.\nJP :\n最初に申し上げました通り、ファウストに言えることは限定されています。"
+  },
+  {
+    "key": "93-content",
+    "original": "…그래, 솔직히 기대는 안 했다.",
+    "context": "EN :\n…Yep, I honestly didn’t expect much.\nJP :\n…うん、正直期待はしてなかった。"
+  },
+  {
+    "key": "94-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "94-content",
+    "original": "복도. 알. 못아.",
+    "context": "EN :\nThe corridor, you I.F.\nJP :\n廊下。そ・ん・わ・な。"
+  },
+  {
+    "key": "95-content",
+    "original": "언제부터 나와있었는지, 료슈는 담배를 물고 중얼이며 파우스트와 내 사이를 가로질러 지나갔다.",
+    "context": "EN :\nRyōshū muttered with a cigarette in her mouth, walking past us both. She must’ve left her room while we were out on our rescue mission.\nJP :\nいつの間に出て来たのか、良秀は煙草を咥えてブツブツ言いながらファウストと私の間を横切っていった。"
+  },
+  {
+    "key": "96-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "96-content",
+    "original": "하지만.",
+    "context": "EN :\nHowever…\nJP :\nしかしながら。"
+  },
+  {
+    "key": "97-content",
+    "original": "파우스트는 방금 누구도 지나가지 않았다는 듯이, 아무 일도 없었던 것처럼 말을 이어갔다.",
+    "context": "EN :\nFaust proceeded as if not a soul had just walked by, as if nothing was just said.\nJP :\nファウストは今しがた誰も通り過ぎて行かなかったかのように、何もなかったかのように話を続けた。"
+  },
+  {
+    "key": "98-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "98-content",
+    "original": "<어?>",
+    "context": "EN :\n<Huh?>\nJP :\n<えっ？>"
+  },
+  {
+    "key": "99-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "99-content",
+    "original": "버스 부서에 갑작스런 공석이 생길 뻔한 걸 막아주셨으니.",
+    "context": "EN :\nYou did prevent a sudden vacancy in the bus department.\nJP :\nバス部署に急な空席ができることを防いでくれましたし。"
+  },
+  {
+    "key": "100-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "100-content",
+    "original": "보상… 은 아니지만, 하나 정도는 알려두는 것도 후일을 위해 나쁘지 않겠다고 생각합니다.",
+    "context": "EN :\nThough I wouldn’t exactly call it a reward, I do suppose it isn’t a bad idea to inform you of one thing.\nJP :\n報酬…ではないですが、今後のことを考えて一つくらいは教えておくのも悪く無いと思います。"
+  },
+  {
+    "key": "101-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "101-content",
+    "original": "<오오… 그, 그래!>",
+    "context": "EN :\n<Ooh… L-Lemme hear it!>\nJP :\n<おぉ…は、はい！>"
+  },
+  {
+    "key": "102-content",
+    "original": "예상 밖에 상황에 손까지 비비적거리게 됐다. 자, 이제 무슨 말을 해줄까…",
+    "context": "EN :\nThe unexpected boon had me rubbing my hands together. Right, what will she tell me now…\nJP :\n予想外の状況に、知らず知らず手を擦っていた。\nさぁ、これからどんなことを話してくれるんだろうか…。"
+  },
+  {
+    "key": "103-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "103-content",
+    "original": "…단테, 처음 가는 길을 찾을 때, 당신은 어떻게 할 건가요?",
+    "context": "EN :\n…Dante, when you traverse a road you have never walked before, what do you do?\nJP :\n…ダンテ、初めて行く場所で道を探すとき、あなたはどうしますか？"
+  },
+  {
+    "key": "104-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "104-content",
+    "original": "<응? 그야… 지도를 펼쳐서 찾겠지?>",
+    "context": "EN :\n<Hmm? I mean… You use a map, obviously?>\nJP :\n<うん？そりゃぁ…地図を開いて探すよね？>"
+  },
+  {
+    "key": "105-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "105-content",
+    "original": "그렇죠. 그리고 지도가 없더라도 머릿 속에 지도와 같은 표상이 생길테고요.",
+    "context": "EN :\nThat’s right. Then, even if you don’t have a map, your brain will form images to serve as one.\nJP :\nそうですね。そして地図がなくとも地図のような表象が生じるはずです。"
+  },
+  {
+    "key": "106-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "106-content",
+    "original": "그렇다면, 지도 안에는… 확실한 시작점과 도착점이 존재하겠군요. 돌아올 때는, 그걸 더듬으며 거슬러 올라오겠죠.",
+    "context": "EN :\nFrom there, on that map… there will be a starting point and a destination clearly marked. When you return from your trip, you will trace back through that way.\nJP :\nそれなら、地図の中には…確実な開始地点と到着地点が存在するでしょうね。戻るときには、それを手繰って遡行するでしょう。"
+  },
+  {
+    "key": "107-content",
+    "original": "대답이 필요 없을 정도로 당연한 소리다. 고개만 끄덕거렸다.",
+    "context": "EN :\nIt’s so obvious, I don’t need to verbally answer. I just nodded along.\nJP :\n答えすら要らないような当然の話だ。とりあえず頷いた。"
+  },
+  {
+    "key": "108-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "108-content",
+    "original": "…대답이 되었겠죠.",
+    "context": "EN :\n…Hopefully that makes it clear enough.\nJP :\n…これで答えになったと思います。"
+  },
+  {
+    "key": "109-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "109-content",
+    "original": "<뭐?>",
+    "context": "EN :\n<Huh?>\nJP :\n<え？>"
+  },
+  {
+    "key": "110-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "110-content",
+    "original": "그러니 복도에서는, 특히 문을 열 때는 시작점을 기억하세요.",
+    "context": "EN :\nThis is why you should remember where you’ve started in the corridor, especially when you open a door.\nJP :\nしかし廊下では、特に扉を開けるときには開始地点を記憶してください。"
+  },
+  {
+    "key": "111-content",
+    "original": "갑작스레 끝나버린 대화에 어안이 벙벙해 외쳤다.",
+    "context": "EN :\nFlabbergasted by the abrupt end, I blurted.\nJP :\n突然終わってしまった対話に、鳩が豆鉄砲を食ったような顔をしながら声を張り上げてしまった。"
+  },
+  {
+    "key": "112-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "112-content",
+    "original": "자, 파우스트는 이제 피곤하답니다. 그럼…",
+    "context": "EN :\nNow then, Faust has grown tired. Do take care…\nJP :\nさぁ、ファウストはもう疲れました。それでは…。"
+  },
+  {
+    "key": "113-content",
+    "original": "알쏭달쏭한 숙제 만을 남기고, 그녀는 내가 무어라 하기도 전에 문 안으로 사라졌다.",
+    "context": "EN :\nShe walked through the door before I could say something, leaving me with a riddle.\nJP :\nあやふやな宿題だけを残し、彼女は私は何か言う前に扉の中へと消えていった。"
+  },
+  {
+    "key": "114-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "114-content",
+    "original": "<역시 이럴 줄 알았어…>",
+    "context": "EN :\n<Of course it would go like this…>\nJP :\n<やっぱりこうなると思った…。>"
+  },
+  {
+    "key": "115-content",
+    "original": "답답한 마음에 한숨을 내뱉어 보지만, 애처로운 시계 바깥으로는 자그마한 바람 하나 일지 않는다.",
+    "context": "EN :\nI sighed out of frustration, but not a breath of air is expelled from my pitiful clock.\nJP :\nもどかしさに溜め息を吐いてみるが、哀れな時計からじゃ小さな風一つ起こらない。"
+  },
+  {
+    "key": "116-content",
+    "original": "여전히, 어쩔 수 없이.",
+    "context": "EN :\nStill, left powerless…\nJP :\n相変わらず、どうしようもなく。"
+  },
+  {
+    "key": "117-content",
+    "original": "내가 할 수 있는 일은 전기로 이루어진 노트를 펼쳐, 조금이라도 알아낸 것을 짜맞춰 적어 내려가는 것 뿐이겠지.",
+    "context": "EN :\nAll I can do is boot up this electronic notebook and piece together what little information I have collected.\nJP :\n私にできることは電気で構成されたノートを開き、知り得たことを少しでも組み立てながら書き下していくことだけだろう。"
+  }
+]

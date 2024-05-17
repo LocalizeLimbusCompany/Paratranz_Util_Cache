@@ -1,0 +1,102 @@
+[
+  {
+    "key": "AaCePbBa-name",
+    "original": "창백한 소음",
+    "context": "EN :\nPallid Noise\nJP :\n不順"
+  },
+  {
+    "key": "AaCePbBa-desc",
+    "original": "정신력 감소 효율 +2.\n이 버프를 가지고 있을 때, 정신력이 -45이하라면 다음 턴에 소음 공황을 얻는다.\n턴 종료시 1 감소",
+    "context": "EN :\nSP Loss Efficiency +2\nIf at less than or equal to -45 SP and inflicted with this buff, gain Noise Panic next turn.\nTurn End: Reduce this effect by 1\nJP :\n- パニック\n- 脆弱 2を得る。マッチ敗北時、対象の精神力-5"
+  },
+  {
+    "key": "AaCePbBa-summary",
+    "original": "정신력 감소 효율 +2",
+    "context": "EN :\nSP Loss Efficiency +2\nJP :\nマッチ敗北時、対象の精神力-5"
+  },
+  {
+    "key": "AaCePbBb-name",
+    "original": "소음 공황",
+    "context": "EN :\nNoise Panic\nJP :\n소음 공황"
+  },
+  {
+    "key": "AaCePbBb-desc",
+    "original": "자신이 사용하는 모든 코인이 뒷면이 나옴.\n다음 턴에 사라짐",
+    "context": "EN :\nEvery Coin this unit flips lands on tails.\nExpires next turn\nJP :\n자신이 사용하는 모든 코인이 뒷면이 나옴.\n다음 턴에 사라짐"
+  },
+  {
+    "key": "AaCePbBb-summary",
+    "original": "모든 코인이 뒷면이 나옴",
+    "context": "EN :\nEvery Coin lands on tails\nJP :\n모든 코인이 뒷면이 나옴"
+  },
+  {
+    "key": "AaCePbBc-name",
+    "original": "불순",
+    "context": "EN :\nImpurity\nJP :\n불순"
+  },
+  {
+    "key": "AaCePbBc-desc",
+    "original": "- 사기 저하\n- 취약 1을 얻음. 합 패배시 대상의 정신력 -2",
+    "context": "EN :\n- Low Morale\n- Gain 1 Fragile. If this unit loses a clash, the target loses 2 SP\nJP :\n- 사기 저하\n- 취약 1을 얻음. 합 패배시 대상의 정신력 -2"
+  },
+  {
+    "key": "AaCePbBc-summary",
+    "original": "합 패배시 대상의 정신력 -2",
+    "context": "EN :\nTarget loses 2 SP if this unit loses the clash\nJP :\n합 패배시 대상의 정신력 -2"
+  },
+  {
+    "key": "AaCePbBd-name",
+    "original": "불순",
+    "context": "EN :\nImpurity\nJP :\n불순"
+  },
+  {
+    "key": "AaCePbBd-desc",
+    "original": "- 패닉\n- 취약 2를 얻음. 합 패배시 대상의 정신력 -5",
+    "context": "EN :\n- Panic\n- Gain 2 Fragile. If this unit loses a clash, the target loses 5 SP\nJP :\n- 패닉\n- 취약 2를 얻음. 합 패배시 대상의 정신력 -5"
+  },
+  {
+    "key": "AaCePbBd-summary",
+    "original": "합 패배시 대상의 정신력 -5",
+    "context": "EN :\nTarget loses 5 SP if this unit loses the clash\nJP :\n합 패배시 대상의 정신력 -5"
+  },
+  {
+    "key": "AaCePbBi-name",
+    "original": "형님의 시험",
+    "context": "EN :\nTest of the Big Brother\nJP :\n兄貴の試験"
+  },
+  {
+    "key": "AaCePbBi-desc",
+    "original": "턴 종료 시 1 감소\n이 효과가 있는 동안 스킬 피해, 진동 폭발로 인한 흐트러짐 손상을 2배로 받음.\n흐트러짐이 된 경우, 이 효과가 해제됨.\n이 효과가 사라질 때 흐트러짐 상태가 아닌 경우, 다음 턴 시작 시 피해량 증가 5를 얻음",
+    "context": "EN :\nTurn End: Reduce value by 1\nWhile this is active, take double the damage from Skills. Double the amount of Stagger threshold raised from Tremor Burst.\nThis effect expires when this unit is Staggered.\nIf this unit isn't Staggered when this effect expires, gain 5 Damage Up at the start of the next turn\nJP :\nターン終了時に1減少\nこの効果がある間スキルダメージ、振動爆発による混乱区間ダメージを2倍に受ける。\n混乱状態になると、この効果が解除される。\nこの効果が消えるときに混乱状態でないなら、次のターン開始時にダメージ量増加5を得る"
+  },
+  {
+    "key": "AaCePbBe-name",
+    "original": "앙갚음",
+    "context": "EN :\nVengeance\nJP :\n報復"
+  },
+  {
+    "key": "AaCePbBe-desc",
+    "original": "- 사기 저하\n- 턴 시작 시 공격 위력 증가 1, 방어 레벨 감소 3을 얻고, 이전 턴에 받은 누적 피해량에 비례하여 피해량 증가를 얻음. (최대 체력의 3%당 피해량 증가 1을 얻음)",
+    "context": "EN :\n- Low Morale\n- Turn Start: Gain 1 Attack Power Up and 3 Defense Level Down. Gain Damage Up based on the amount of damage taken last turn (1 Damage Up for every 3% of Max HP lost)\nJP :\n- 士気低下\n- ターン開始時に攻撃威力増加 1、防御レベル減少 3を獲得し、前のターンに受けた累計ダメージ量に比例してダメージ量増加を得る。(最大最大値3%につきダメージ量増加1を得る)"
+  },
+  {
+    "key": "AaCePbBe-summary",
+    "original": "이전 턴에 받은 누적 피해량에 비례하여 피해량 증가를 얻음.",
+    "context": "EN :\nGain Damage Up based on total damage taken last turn.\nJP :\n前のターンに受けた累計ダメージ量に比例して、ダメージ量増加を得る。"
+  },
+  {
+    "key": "AaCePbBf-name",
+    "original": "앙갚음",
+    "context": "EN :\nVengeance\nJP :\n報復"
+  },
+  {
+    "key": "AaCePbBf-desc",
+    "original": "- 패닉\n- 턴 시작 시 공격 위력 증가 2, 방어 레벨 감소 6을 얻고, 이전 턴에 받은 누적 피해량에 비례하여 피해량 증가를 얻음. (최대 체력의 3%당 피해량 증가 1을 얻음)",
+    "context": "EN :\n- Panic\n- Turn Start: Gain 2 Attack Power Up and 6 Defense Level Down. Gain Damage Up based on the amount of damage taken last turn\n(1 Damage Up for every 3% of Max HP lost)\nJP :\n- パニック\n- ターン開始時に攻撃威力増加 2、防御レベル減少 6を獲得し、前のターンに受けた累計ダメージ量に比例してダメージ量増加を得る。(最大最大値3%につきダメージ量増加1を得る)"
+  },
+  {
+    "key": "AaCePbBf-summary",
+    "original": "이전 턴에 받은 누적 피해량에 비례하여 피해량 증가를 얻음.",
+    "context": "EN :\nGain Damage Up based on total damage taken last turn.\nJP :\n前のターンに受けた累計ダメージ量に比例して、ダメージ量増加を得る。"
+  }
+]

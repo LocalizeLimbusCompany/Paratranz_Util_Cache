@@ -1,0 +1,32 @@
+[
+  {
+    "key": "816401_success_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color>가 남은 전투 동안 %{1} {2}/%, %{3} {4}/% 얻음\n",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> gains %{2} {1}/% and %{4} {3}/% for the rest of the Encounter\nJP :\n<color=#ebcaa2>[{0}]</color>が残りの戦闘の間、%{1}{2}/%, %{3}{4}/%を得る"
+  },
+  {
+    "key": "816401_success_2-content",
+    "original": "<color=#ebcaa2>모든 아군이 남은 전투 동안</color> %{0} {1}/% 얻음\n",
+    "context": "EN :\n<color=#ebcaa2>All allies gain %{1} {0}/% for the rest of the Encounter</color>\nJP :\n<color=#ebcaa2>全味方が残りの戦闘の間、</color> %{0}{1}/%を得る"
+  },
+  {
+    "key": "816401_success_3-content",
+    "original": "<color=#ebcaa2>[{0}]</color>가 흐트러짐 손상, 진동 폭발로 받는 흐트러짐을 2배로 받음",
+    "context": "EN :\nDouble the amount of Stagger threshold raised, including the said effect from Tremor Burst, for <color=#ebcaa2>[{0}]</color>\nJP :\n<color=#ebcaa2>[{0}]</color>が受ける混乱区間損傷、振動爆発の影響が2倍になる"
+  },
+  {
+    "key": "816401_failure_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color>가 남은 전투동안 %{1} {2}/%, %{3} {4}/% 얻음\n",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> gains %{2} {1}/% and %{4} {3}/% for the rest of the Encounter\nJP :\n<color=#ebcaa2>[{0}]</color>が残りの戦闘の間、%{1}{2}/%, %{3}{4}/%を得る"
+  },
+  {
+    "key": "816401_failure_2-content",
+    "original": "<color=#ebcaa2>모든 아군이 남은 전투동안</color> %{0} {1}/% 얻음\n",
+    "context": "EN :\n<color=#ebcaa2>All allies gain %{1} {0}/% for the rest of the Encounter</color>\nJP :\n<color=#ebcaa2>全味方が残りの戦闘の間、</color> %{0}{1}/%を得る"
+  },
+  {
+    "key": "816401_failure_3-content",
+    "original": "<color=#ebcaa2>[{0}]</color>가 흐트러짐 손상, 진동 폭발로 받는 흐트러짐을 2배로 받음",
+    "context": "EN :\nDouble the amount of Stagger threshold raised, including the said effect from Tremor Burst, for <color=#ebcaa2>[{0}]</color>\nJP :\n<color=#ebcaa2>[{0}]</color>が受ける混乱区間損傷、振動爆発の影響が2倍になる"
+  }
+]

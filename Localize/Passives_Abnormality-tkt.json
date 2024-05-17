@@ -1,0 +1,62 @@
+[
+  {
+    "key": "827701-name",
+    "original": "구제한 시간",
+    "context": "EN :\nRescued Time\nJP :\n救済した時間"
+  },
+  {
+    "key": "827701-desc",
+    "original": "전투 시작 시 [LimitedTime] 1000을 보유함",
+    "context": "EN :\nHave 1000 [LimitedTime] at the start of the Encounter\nJP :\n戦闘開始時、[LimitedTime]を1000保有"
+  },
+  {
+    "key": "827702-name",
+    "original": "가속 재생 수복",
+    "context": "EN :\nAccelerated Regeneration\nJP :\n加速再生修復"
+  },
+  {
+    "key": "827702-desc",
+    "original": "턴 종료 시 부위 파괴 상태면, 해당 부위가 보유한 시간을 100을 소모하여 다음 턴에 부위 파괴 상태를 해제함.",
+    "context": "EN :\nTurn End: If a Part is broken, spend 100 Time from that Part to recover from Part Broken state next turn.\nJP :\nターン終了時に部位破壊状態なら、該当部位が保有した時間を100消耗して次のターンに部位破壊状態を解除する。"
+  },
+  {
+    "key": "827801-name",
+    "original": "모두의 시간",
+    "context": "EN :\nEveryone's Time\nJP :\n皆の時間"
+  },
+  {
+    "key": "827801-desc",
+    "original": "체력이 75%가 되면 2페이즈로 전환함. 페이즈 전환 시 정신력을 30까지 회복하고, [LimitedTime]을 모든 부위가 [OwnTime]으로 나눠서 보유함.",
+    "context": "EN :\nAt 75% HP, enter the second phase. Upon phase change, recover SP up to 30, and divide the [LimitedTime] between all Parts as [OwnTime].\nJP :\n体力が75%になるとフェーズ2へ移行。フェーズ移行時に精神力を30まで回復し、[LimitedTime]を[OwnTime]に変換して全部位へ均等に配分。"
+  },
+  {
+    "key": "827802-name",
+    "original": "공평한 지출",
+    "context": "EN :\nEqual Expense\nJP :\n公平な支出"
+  },
+  {
+    "key": "827802-desc",
+    "original": "매 턴마다 [EquitableDistribution]를 얻음.",
+    "context": "EN :\nTurn End: gain [EquitableDistribution].\nJP :\n毎ターン[EquitableDistribution]を得る。"
+  },
+  {
+    "key": "827803-name",
+    "original": "시간 공동체를 위해",
+    "context": "EN :\nFor the Time Community\nJP :\n時間共同体のため"
+  },
+  {
+    "key": "827803-desc",
+    "original": "턴 시작 시 모든 부위가 [Protection] 5를 얻음.",
+    "context": "EN :\nTurn Start: All Parts gain 5 [Protection].\nJP :\nターン開始時、全部位が[Protection]5を得る。"
+  },
+  {
+    "key": "827804-name",
+    "original": "저 놈 시간부터 가져가!",
+    "context": "EN :\nTake Theirs First!\nJP :\nあいつの時間から持っていけ！"
+  },
+  {
+    "key": "827804-desc",
+    "original": "체력이 60% 미만이 되면, [EquitableDistribution]이 [UnfairDistribution]로 변경됨.",
+    "context": "EN :\nAt 60%- HP, convert [EquitableDistribution] into [UnfairDistribution].\nJP :\n体力が60%未満になると、[EquitableDistribution]が[UnfairDistribution]へ変更される。"
+  }
+]

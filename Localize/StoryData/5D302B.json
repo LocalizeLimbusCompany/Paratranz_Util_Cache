@@ -1,0 +1,658 @@
+[
+  {
+    "key": "0-place",
+    "original": "심장 앞 집결지",
+    "context": "EN :\nRendezvous Area Before the Heart\nJP :\n心臓前の集結地点"
+  },
+  {
+    "key": "0-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "0-content",
+    "original": "그 머리통은… 참 신기한 능력을 가지고 있군. 마치 고래들 같아.",
+    "context": "EN :\nYour head... What an odd power it has. Just like the peculiarities of each Whale.\nJP :\nあの頭は…本当に不思議な能力を持っているな。\nまるで鯨みたいだ。"
+  },
+  {
+    "key": "1-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "1-content",
+    "original": "…피쿼드호 선원들. 가라앉았어. 심장 앞에서.",
+    "context": "EN :\n... Pequod crew sank. Right before heart.\nJP :\n…ピークォドごうのせんいんたち。しずんだ。\nしんぞうのまえで。"
+  },
+  {
+    "key": "2-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "2-content",
+    "original": "당신에 의해.",
+    "context": "EN :\nBecause of you.\nJP :\nおまえによって。"
+  },
+  {
+    "key": "3-content",
+    "original": "그가 선원들을 죽음으로 몰아넣은 걸 들킨 것에 대해…",
+    "context": "EN :\nIt was a mistake to expect even a hint of surprise or shame from the Captain...\nJP :\n彼女が船員たちを死に追いやったことが\nバレたことに対し…。"
+  },
+  {
+    "key": "4-content",
+    "original": "조금이라도 당황해하거나 수치심을 느낄 줄 알았던 건 순전히 내 착각이었다.",
+    "context": "EN :\n... when it was revealed that she'd sent her crew to their deaths.\nJP :\n少しは慌てたり羞恥心を感じるかと思ったのは\n単なる私の勘違いだった。"
+  },
+  {
+    "key": "5-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "5-content",
+    "original": "하하하하!",
+    "context": "EN :\nHahahaha!\nJP :\nハハハハ！"
+  },
+  {
+    "key": "6-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "6-content",
+    "original": "그래, 나는 내 선원들을 희생시켰다고 할 수 있겠지.",
+    "context": "EN :\nYes, you can say that. You may indeed claim that I have sacrificed my crew.\nJP :\nそうだ、私は私の船員たちを犠牲にしたと言えるだろう。"
+  },
+  {
+    "key": "7-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "7-content",
+    "original": "아마 저기 어디선가 인어들이 되었거나, 운이 좋으면 산성액에 녹았을 테고.",
+    "context": "EN :\nBy now they must be wandering the Whale's guts, transformed into Mermaids. Lucky ones probably turned to sludge in acid.\nJP :\n恐らく、あそこのどこかで人魚になったか\n運が良ければ酸性液で溶けただろう。"
+  },
+  {
+    "key": "8-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "8-content",
+    "original": "왜…",
+    "context": "EN :\nBut why...\nJP :\nどうして…。"
+  },
+  {
+    "key": "9-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "9-content",
+    "original": "난 이 심장을 내 신체보다 정확히 알고 있다. 우리가 지나온 췌장의 구조는 길고 끝도 없이 복잡해! 그리고 우린 팔다리가 녹아버리면 너희처럼 되살아날 수 없어.",
+    "context": "EN :\nI know this heart better than anything else in the world. I know it better than my own body. The pancreas we have journeyed through is an endlessly winding maze! And if our limbs were to be melted off, we'd have no means of recovering them as you do.\nJP :\n私はこの心臓を自分の身体より正確に分かっている。\n我々が通ってきた膵臓の構造は長く、とてつもなく複雑だ！\nそして、我々は手足が溶ければお前さんたちのように生き返れない。"
+  },
+  {
+    "key": "10-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "10-content",
+    "original": "심장에 도달할 수 있는 최적의 수를 계산해야 했으니까! 그게 잘못되었나?",
+    "context": "EN :\nI had to calculate the ideal path to the heart, losses be damned. I see no injustice committed in my pursuit of practicality.\nJP :\n心臓に到達できる、最適なルートを計算するべきだった！\nそれが間違っていると？"
+  },
+  {
+    "key": "11-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "11-content",
+    "original": "심지어 나는 그들이 죽기 직전까지도 그들의 자긍심과 위대함을 일깨워 주었다.",
+    "context": "EN :\nI even encouraged and reminded them of their pride and greatness as they drew their last breaths.\nJP :\nその上、私は彼らが死ぬ直前になっても\n彼らの誇りと偉大さを悟らせてやったのさ。"
+  },
+  {
+    "key": "12-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "12-content",
+    "original": "그렇지 못할 때에는 그런 두려움을 느끼기 전에 죽을 수 있도록 돕기까지 했지.",
+    "context": "EN :\nWhen it could not be helped, I made sure that they perished before fear overwhelmed them.\nJP :\nそうできない場合は、\nそういった恐れを感じる前に死ねるように手伝いもしたさ。"
+  },
+  {
+    "key": "13-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "13-content",
+    "original": "저들은 나와 맹세로 묶인 몸이야. 창백한 고래를 잡기 위해서라면 모든 걸 각오하겠다는 약속!",
+    "context": "EN :\nMy crew and I are one, bound by oath! The promise that we will hunt the Pallid Whale, whatever it takes!\nJP :\n彼らは私と誓いで結ばれた身だ。\n蒼白な鯨を捕まえるためなら、全てを覚悟するという約束だ！"
+  },
+  {
+    "key": "14-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "14-content",
+    "original": "이스마엘! 그렇지 않나? 이제 우리는…",
+    "context": "EN :\nAre we not, Ishmael?! Now, we shall...\nJP :\nイシュメール！そうじゃないか？\n今から私たちは…。"
+  },
+  {
+    "key": "15-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "15-content",
+    "original": "…심장으로… 가야 한다고?",
+    "context": "EN :\n... Sail... to the heart?\nJP :\n…心臓に…行くべきだって？"
+  },
+  {
+    "key": "16-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "16-content",
+    "original": "맞아! 그러기 위해서는 마지막으로 필요한 것이 있다.",
+    "context": "EN :\nQuite! Yet we need one last piece of the puzzle before we set sail.\nJP :\nそうだ！そうするためには、最後に必要なものがある。"
+  },
+  {
+    "key": "17-content",
+    "original": "에이해브가 번뜩이는 눈으로 다시 나를 돌아본다.",
+    "context": "EN :\nAhab turns to face me again, glaring at me with her burning eyes.\nJP :\nエイハブがギラギラとした目で、再び私の方を見た。"
+  },
+  {
+    "key": "18-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "18-content",
+    "original": "그 조각.",
+    "context": "EN :\nThat shard of the Bough.\nJP :\nその欠片。"
+  },
+  {
+    "key": "19-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "19-content",
+    "original": "<지금 무슨 소리를…>",
+    "context": "EN :\n<What are you...>\nJP :\n<今何を…。>"
+  },
+  {
+    "key": "20-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "20-content",
+    "original": "이 에이해브는 누구도 못 속여! 네 머리통에 들어 있는 것, 백화 현상을 중화시키는 황금색 조각의 일부야. 내 말이 틀렸는가? 그래서 인어가 되지 않을 수 있었던 거지!",
+    "context": "EN :\nI, Captain Ahab, cannot be deceived! That thing in your clock-head... is a piece of that Golden Bough, is it not? It is that Golden thing that counteracts the Pallidification effects! Am I wrong in assuming that this is how you and your crew have remained untouched by its effects?!\nJP :\nこのエイハブを騙すことは誰にも出来ないさ！お前の頭に\n入っているもの、白化現象を中和させる黄金色の欠片の一部だ。\n私が間違ってるというのか？だから人魚にならずに済んだのさ！"
+  },
+  {
+    "key": "21-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "21-content",
+    "original": "우리는 앞으로 모든 걸 바친 최후의 싸움을 시작하러 갈 것이다.",
+    "context": "EN :\nSoon, our final battle for everything that we hold dear will commence. And for victory, I shall spare no quarter.\nJP :\n我々はこの先、全てを捧げて最後の戦いを始めるだろう。"
+  },
+  {
+    "key": "22-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "22-content",
+    "original": "세상과 도시의 모든 악의 근원 그 자체인 이 창백하고 증오 서린 고래의 심장에선, 어떤 꼴을 당하게 될지 알 수 없지.",
+    "context": "EN :\nNo one knows what will happen here, at the heart of the Whale from which all evils of the City, the world, spout.\nJP :\nこの世と都市の全ての悪の根源そのものである、この蒼白で憎悪に満ちた\n鯨の心臓の中では、どんな目に遭うか分からない。"
+  },
+  {
+    "key": "23-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "23-content",
+    "original": "그리고 명백하게 이들 중 제일 전투 경험이 떨어지는 건 너고.",
+    "context": "EN :\nAnd is it not patently clear that you are the only one inexperienced in combat?\nJP :\nそして明らかに、我々の中で一番戦闘経験が劣るのはお前だ。"
+  },
+  {
+    "key": "24-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "24-content",
+    "original": "그렇다면, 만약 도중에 네가 죽어버린다면… 네 나머지 선원들은 어떻게 되지?",
+    "context": "EN :\nWhat if you were to perish...? What fate shall befall your crew?\nJP :\nそれなら、もし途中でお前が死んでしまえば…\n残ったお前の船員たちはどうなる？"
+  },
+  {
+    "key": "25-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "25-content",
+    "original": "심장을 터뜨리지 못한 채로 네 숨이 비루하게 끊어진다면 어떻게 되냔 말이다!",
+    "context": "EN :\nWhat fate shall befall your crew, should you meet a pathetic end without having destroyed the Whale's heart!\nJP :\n心臓を潰せないま、お前の息が卑しくも絶えてしまったら\nどうなるというのだ！"
+  },
+  {
+    "key": "26-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "26-content",
+    "original": "<그건…>",
+    "context": "EN :\n<That's...>\nJP :\n<それは…。>"
+  },
+  {
+    "key": "27-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "27-content",
+    "original": "네 선원들은 물론 우리 선원들까지 수 시간 내로 인어 꼴이 되어버리겠지.",
+    "context": "EN :\nEveryone here, including your crew and mine, will turn into Mermaids within hours.\nJP :\nお前の船員たちはもちろん、我が船員たちまで\n数時間以内に人魚へと変わってしまうだろう。"
+  },
+  {
+    "key": "28-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "28-content",
+    "original": "<그래서… 뭐, 어떡하라는 거야?>",
+    "context": "EN :\n<So... what the hell do you want me to do?>\nJP :\n<それで…どうしろっていうんだ？>"
+  },
+  {
+    "key": "29-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "29-content",
+    "original": "네 머리통의 금색 조각을 내게 바쳐라.",
+    "context": "EN :\nHand it over. That golden shard in your head.\nJP :\nお前の頭の中にある金色の欠片を、私に捧げろ。"
+  },
+  {
+    "key": "30-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "30-content",
+    "original": "그렇다면 내가 모든 책임을 지고 이곳에 남아있는 모두를 밖으로 내보내 주도록 하겠다.",
+    "context": "EN :\nAnd I swear by my name that I will personally see to it that everyone trapped within this Whale safely makes it to the world outside.\nJP :\nそうすれば、私が全ての責任を負って\nここに残っている全員を外に出してやろう。"
+  },
+  {
+    "key": "31-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "31-content",
+    "original": "틀린 말은… 아니네요, 선장님.",
+    "context": "EN :\nCaptain ain't wrong, you know...\nJP :\n道理は…通っていますね、船長。"
+  },
+  {
+    "key": "32-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "32-content",
+    "original": "<허. 나도 순간 솔깃해지네.>",
+    "context": "EN :\n<Huh. I guess that makes... some sense.>\nJP :\n<はっ。私も一瞬その気になったよ、一瞬。>"
+  },
+  {
+    "key": "33-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "33-content",
+    "original": "하나의 희생만 있으면… 모두가 안전하게 밖으로 갈 수 있어. 마지막으로 남은 불쌍한 선원들까지 남김없이.",
+    "context": "EN :\nIt takes but a single sacrifice... to ensure that everyone survives. Down to every single crew.\nJP :\n一つの犠牲で…全員が安全に外へ出れる。\n最後に残った哀れな船員たちまで一人残らずな。"
+  },
+  {
+    "key": "34-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "34-content",
+    "original": "본인은 싫소, 관리자 나리의 머리를 넘기고 싶지 않소…",
+    "context": "EN :\nI... I detest that. I shall not relinquish Manager Esquire's head to thee...!\nJP :\n当人は嫌でありまする、管理人殿の頭を渡したくはありませぬ…。"
+  },
+  {
+    "key": "35-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "35-content",
+    "original": "그럼 이대로 심장을 찌르지도 못한 채 다 같이 인어가 되는 길을 선택한다는 말인가?",
+    "context": "EN :\nThen what? Fail to destroy its heart and let us all be Mermaids together? Is that how you wish your tale to end?\nJP :\nそれじゃあこのまま心臓を刺すこともできないまま、\nみんな仲良く人魚になる道を選ぶということか？"
+  },
+  {
+    "key": "36-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "36-content",
+    "original": "그건…",
+    "context": "EN :\nThat's...\nJP :\nそれは…。"
+  },
+  {
+    "key": "37-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "37-content",
+    "original": "너희 모두 여기서 살아남아야만 하는 이유가 있지 않나?",
+    "context": "EN :\nMy friends. Is there not something out there, past this Pallid Whale's flesh, that awaits your return?\nJP :\nお前ら全員、ここで生き残るべき理由があるんじゃないのか？"
+  },
+  {
+    "key": "38-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "38-content",
+    "original": "저 시계머리를 위해 목숨을 바치는게 삶의 목적인가?",
+    "context": "EN :\nLaying your lives down just to save the life of some useless clock cannot possibly be your dream.\nJP :\nあの時計ヅラのために命を捧げることが人生の目的か？"
+  },
+  {
+    "key": "39-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "39-content",
+    "original": "밖으로 어떻게든 나가서 다들 이루고 싶은 무언가가 있는 게 아니던가!!!",
+    "context": "EN :\nYou must have something that drives you! A desire, a goal, a mission that you must see to its end once you escape this Whale!!!\nJP :\n外へどうにか出て、叶えたい何かが全員あるわけじゃないのか！！！"
+  },
+  {
+    "key": "40-content",
+    "original": "에이해브 선장은 사람들의 마음을 헤집어 놓고 틈을 만들며 그 사이를 천천히 비집고 들어간다.",
+    "context": "EN :\nCaptain Ahab cuts through our hearts, cracking them little by little, and nests in there.\nJP :\nエイハブ船長は人々の心を荒らし回って隙を作り、\nその隙間をゆっくりとこじ開けながら入っていく。"
+  },
+  {
+    "key": "41-content",
+    "original": "어쩌면 수감자들 중에서도 아주 짧은 순간이나마 동했을 지도 모를 만큼.",
+    "context": "EN :\nEven the Sinners may have been moved by her speech, even for a brief moment.\nJP :\nもしやすると囚人たちも、ほんの一瞬であれど\n心が動いたかもしれない。"
+  },
+  {
+    "key": "42-content",
+    "original": "한 번 틈을 비집고 새어간 생각은 마음이 약해질 때 퍼져간다.",
+    "context": "EN :\nAnd that brief moment is all it takes for that thought to spread through the heart as water freezes between the cracks of a rock.\nJP :\n一度隙を突かれて染み渡った考えは、心が弱くなるときに広がっていく。"
+  },
+  {
+    "key": "43-content",
+    "original": "지금껏 그래왔겠지.",
+    "context": "EN :\nThat's what she's always done, I'm sure.\nJP :\n今までそうしてきたんだろう。"
+  },
+  {
+    "key": "44-content",
+    "original": "그러다가 결정적인 순간에 터지게 만들 것이다.",
+    "context": "EN :\nAnd all of a sudden, when everything reaches a crescendo... it will shatter.\nJP :\nそうして、決定的な瞬間に爆発させるんだろう。"
+  },
+  {
+    "key": "45-content",
+    "original": "이스마엘도, 다른 선원들도. 이런 식으로…",
+    "context": "EN :\nIshmael. Her crew. This is what Ahab had done to them...\nJP :\nイシュメールも、他の船員たちも。\nこんな風に…。"
+  },
+  {
+    "key": "46-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "46-content",
+    "original": "<전해줘, 파우스트.>",
+    "context": "EN :\n<Tell her what I'm about to say, Faust.>\nJP :\n<伝えてくれ、ファウスト。>"
+  },
+  {
+    "key": "47-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "47-content",
+    "original": "알겠습니다.",
+    "context": "EN :\nUnderstood.\nJP :\n分かりました。"
+  },
+  {
+    "key": "48-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "48-content",
+    "original": "<당신은 수감자들을 책임져 주지 않을 거야.>",
+    "context": "EN :\n<You're not going to be responsible for the Sinners.>\nJP :\n<あなたが囚人たちの責任を負ってくれることは、ないだろう。>"
+  },
+  {
+    "key": "49-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "49-content",
+    "original": "<그리고 내 머리가 부서지면 수감자들이 어떻게 될지는 아무도 몰라.>",
+    "context": "EN :\n<And no one knows what'll happen to the Sinners if my head is crushed.>\nJP :\n<そして私の頭が壊れたら、囚人たちがどうなるかは誰も知らない。>"
+  },
+  {
+    "key": "50-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "50-content",
+    "original": "<그런 불확실한 것에 모두와의 미래를 맡길 수 없어.>",
+    "context": "EN :\n<I'm not going to let the doubts you cast chart our futures.>\nJP :\n<そんな不確実なものに、全員との未来を任せることは出来ない。>"
+  },
+  {
+    "key": "51-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "51-content",
+    "original": "<나는 관리자니까.>",
+    "context": "EN :\n<Because I am their Manager.>\nJP :\n<私は管理人だから。>"
+  },
+  {
+    "key": "52-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "52-content",
+    "original": "오…",
+    "context": "EN :\nOoh…\nJP :\nおぉ…。"
+  },
+  {
+    "key": "53-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "53-content",
+    "original": "흥, 뻔하겠지. 목숨을 구걸하는 호소인가?",
+    "context": "EN :\nHmph, predictable. Pleading for your life now, are you?\nJP :\nふん、ありきたりだ。命乞いか？"
+  },
+  {
+    "key": "54-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "54-content",
+    "original": "<그리고… 나는 죽기 싫어.>",
+    "context": "EN :\n<Besides... I don't want to die.>\nJP :\n<そして…私は死にたくない。>"
+  },
+  {
+    "key": "55-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "55-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "56-content",
+    "original": "희생이라는 단어는 죽음을 무의미하게 만들지 않기 위해 씌우는 그럴듯한 포장일 뿐이다.",
+    "context": "EN :\nSacrifice. A gilded name given to death so that it won't feel as hollow when it claims us.\nJP :\n犠牲という単語は、死を無意味にしないために被せる\n耳障りの良い包装にすぎない。"
+  },
+  {
+    "key": "57-content",
+    "original": "수감자들의 죽음을 여러 번 보고, 또 반복해서 그들의 아픔을 공유해 보았던 나는 안다.",
+    "context": "EN :\nI've seen the Sinners die a thousand deaths. And I've shared that very same pain that killed them countless times.\nJP :\n囚人たちの死を何度も見て、そして何度も繰り返して\n彼らの痛みを共有したことがある私は知っている。"
+  },
+  {
+    "key": "58-content",
+    "original": "그 하나하나의 무게를 겪어보았다면, 도저히 그런 포장을 할 생각 따위는 들지 않는다.",
+    "context": "EN :\nI've felt the weight of their every death... so I can't bring myself to wrap them up in a pretty box labeled 'sacrifice'.\nJP :\nその一つ一つの重さを経験したのであれば\nそんな包装をする気など、到底起こらない。"
+  },
+  {
+    "key": "59-content",
+    "original": "그 대신 한 없이 견딘다.",
+    "context": "EN :\nInstead, I endure. Endlessly.\nJP :\nその代わり、際限なく耐える。"
+  },
+  {
+    "key": "60-content",
+    "original": "그들의 고된 일을 진정으로 의미 있게 만드는 건, 함께 무게를 견디며 그 모든 싸움이 의미 있게 하는 것뿐이다.",
+    "context": "EN :\nWhat gives our collective struggle significance, what gives our suffering meaning... is us. We share the weight and convey our own meanings to our battles.\nJP :\n彼らの苦行へ真に意味を持たせるには、一緒に重さに耐えながら\nあらゆる戦いに意味を持たせるしかない。"
+  },
+  {
+    "key": "61-content",
+    "original": "모두가… 목적하는 바를 얻을 수 있게.",
+    "context": "EN :\nSo that everyone can reach for their own dreams.\nJP :\nみんなが…目的するものへと至れるように。"
+  },
+  {
+    "key": "62-content",
+    "original": "그렇기 때문에 견뎌내는 것과 희생은 다르다.",
+    "context": "EN :\nThat's why this struggle is no sacrifice.\nJP :\nそれゆえ、耐え抜くことと犠牲は違う。"
+  },
+  {
+    "key": "63-content",
+    "original": "나는 죽으려 하지 않을 거다.",
+    "context": "EN :\nI won't seek death willingly.\nJP :\n私は自ら死のうとはしない。"
+  },
+  {
+    "key": "64-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "64-content",
+    "original": "에이해브, 너는… 예전과 변함이 없어, 아니… 더욱 역겨워졌지…",
+    "context": "EN :\nAhab... You really haven't changed. ... No, you've become even more revolting.\nJP :\nエイハブ、お前は…昔と変わらず、\nいや…もっとおぞましくなった…。"
+  },
+  {
+    "key": "65-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "65-content",
+    "original": "발버둥 쳤는데도, 그런데도… 이번에도 당신은 그 손아귀에 우리를 쥐고 있었어…",
+    "context": "EN :\nI struggled, I thrashed, yet... Again, you had us in the palm of your hands…\nJP :\n足掻いたのに、それなのに…今度もお前は\nその手に私たちを握っている…。"
+  },
+  {
+    "key": "66-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "66-content",
+    "original": "또다시 멋대로 배의 주인이 되어, 어느새 그 배의 선원이 되게 만들어서…",
+    "context": "EN :\nCommandeering our ship, turning me into one of your crew again…\nJP :\nまた勝手に船の主となり、いつの間にか私たちを\nその船の船員に作り替え…。"
+  },
+  {
+    "key": "67-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "67-content",
+    "original": "조용!!! 닥쳐봐. 지금… 제일 중요한 순간이니까…",
+    "context": "EN :\nSilence!!! Shut up. This... is a moment of paramount importance.\nJP :\n静まれ！！！黙れよ。\n今…一番大事なときなんだ…。"
+  },
+  {
+    "key": "68-content",
+    "original": "그 말과 함께, 심장으로 가는 문이 열렸다.",
+    "context": "EN :\nThe path to the heart opened as Ahab finished her words.\nJP :\nその言葉と共に、心臓への道が開かれた。"
+  }
+]

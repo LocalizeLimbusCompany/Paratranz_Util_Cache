@@ -1,0 +1,162 @@
+[
+  {
+    "key": "835001-name",
+    "original": "머금은 피",
+    "context": "EN :\nStored Blood\nJP :\n宿した血"
+  },
+  {
+    "key": "835001-desc",
+    "original": "턴 종료 시 [KeptBlood] 수치에 따라\n- 5 이하라면, 매 턴마다 감소한 수치만큼 다음 턴에 [Binding] 1, [Vulnerable] 1, [AttackDown] 1씩 얻음\n- 5 초과라면, 매 턴마다 초과한 수치만큼 다음 턴에 [AttackUp] 2, [DefenseUp] 2씩 얻음",
+    "context": "EN :\nAt Turn End, depending on the [KeptBlood] value on self:\n- At a value lesser than or equal to 5 [KeptBlood], gain 1 [Binding], 1 [Vulnerable], and 1 [AttackDown] next turn for every [KeptBlood] lost\n- At a value greater than 5 [KeptBlood], gain 2 [AttackUp] and 2 [DefenseUp] for every excess value\nJP :\nターン終了時に[KeptBlood]が\n- 5以下ならターンごとに、減少した数値だけ次のターンにて[Binding]1, [Vulnerable]1, [AttackDown]1を得る\n- 5より多いならターンごとに、超過した数値だけ次のターンに[AttackUp]2, [DefenseUp]2を得る"
+  },
+  {
+    "key": "835002-name",
+    "original": "피가 떨어져서는 안 돼",
+    "context": "EN :\nMust Retain Blood\nJP :\n血が無くなってはならぬ"
+  },
+  {
+    "key": "835002-desc",
+    "original": "[KeptBlood]이 처음으로 0이 되었을 때 패턴 변경\n나는... 이 행진의... 왕자이다...!를 사용할 때, 속도가 10으로 고정됨",
+    "context": "EN :\nGains a new pattern when [KeptBlood] reaches 0 for the first time\nFix this unit's speed to 10 when using the Skill 'I Am... The Prince... of the Parade...!'\nJP :\n[KeptBlood]が初めて0になったときにパターン変更\n我は…この行進の…王子なり…！を使用するとき、速度が10に固定される"
+  },
+  {
+    "key": "835003-name",
+    "original": "왕자의 발악",
+    "context": "EN :\nThe Prince's Frenzy\nJP :\n王子の悪あがき"
+  },
+  {
+    "key": "835003-desc",
+    "original": "현재 체력이 최대 체력의 30%가 되었을 때, [BloodyCrave]를 얻음",
+    "context": "EN :\nWhen this unit reaches 30% HP, gain [BloodyCrave]\nJP :\n現体力が最大値の30%になったとき、[BloodyCrave]を得る"
+  },
+  {
+    "key": "835004-name",
+    "original": "경혈식 글레이브",
+    "context": "EN :\nHardblood Glaive\nJP :\n硬血式グレイブ"
+  },
+  {
+    "key": "835004-desc",
+    "original": "[Laceration] 위력과 횟수의 합이 가장 높은 대상 우선 공격\n공격 적중시 대상에게 [Laceration]이 있으면, 최대 체력의 2%만큼 체력 회복",
+    "context": "EN :\nPrioritizes targets with the highest sum of [Laceration] Potency and Count\nOn Hit, if the target has [Laceration], heal 2% HP\nJP :\n[Laceration]威力と回数の合成が最も高い対象を優先して攻撃\n攻撃的中時、対象に[Laceration]があれば体力を最大値の2%だけ体力を回復"
+  },
+  {
+    "key": "835005-name",
+    "original": "혈식 - 경화",
+    "context": "EN :\nSanguivore - Coagulation\nJP :\n血食 - 硬化"
+  },
+  {
+    "key": "835005-desc",
+    "original": "자신에게 [Laceration]이 있을 때,\n- [Laceration] 5당 공격 레벨 증가 1, 방어 레벨 증가 1을 얻음 (최대 10)\n- [Laceration] 10당 합 위력 증가 1을 얻음 (최대 5)\n- 자신이 받는 [Laceration] 피해 50% 감소 (소수점 버림)",
+    "context": "EN :\nWhen this unit has [Laceration]:\n- Gain 1 Offense Level Up and 1 Defense Level Up for every 5 [Laceration] (max 10)\n- Gain 1 Clash Power Up for every 10 [Laceration] (max 5)\n- Take 50% less damage from [Laceration] (rounded down)\nJP :\n自分に[Laceration]があるとき、\n- [Laceration]5につき攻撃レベル増加1, 防御レベル増加1を得る(最大10)\n- [Laceration]10につきマッチ威力増加1を得る(最大5)\n- 自分が受ける[Laceration]ダメージを50%減少(小数点切り捨て)"
+  },
+  {
+    "key": "9014501-name",
+    "original": "혈액 경화",
+    "context": "EN :\nBlood Coagulation\nJP :\n血液硬化"
+  },
+  {
+    "key": "9014501-desc",
+    "original": "자신이 피격당할 때마다 [Laceration] 횟수 1 을 얻음\n턴 종료 시, 자신의 [Laceration] 횟수를 3 소모하여 [HardenedBlood] 1 얻음",
+    "context": "EN :\nGain +1 [Laceration] Count every time this unit is hit\nTurn End: consume 3 [Laceration] Count on self to gain 1 [HardenedBlood]\nJP :\n自分が攻撃でダメージを受ける度に[Laceration]回数1を得る\nターン終了時、自分の[Laceration]回数を3消耗して[HardenedBlood]1を得る"
+  },
+  {
+    "key": "9014502-name",
+    "original": "피의 갈증",
+    "context": "EN :\nThirst for Blood\nJP :\n血の渇き"
+  },
+  {
+    "key": "9014502-desc",
+    "original": "[Laceration]이 부여된 대상을 우선적으로 공격\n턴 종료 시 이번 턴에 피해를 주지 못한 경우, 다음 턴에 [Vulnerable] 2, [AttackUp] 2를 얻음",
+    "context": "EN :\nPrioritizes targets with [Laceration]\nTurn End: if this unit failed to deal any damage this turn, gain 2 [Vulnerable] and 2 [AttackUp] next turn\nJP :\n[Laceration]が付与された対象を優先して攻撃\nターン終了時、このターンにダメージを与えられなかったら次のターンに[Vulnerable]2, [AttackUp]2を得る"
+  },
+  {
+    "key": "9014503-name",
+    "original": "흡혈",
+    "context": "EN :\nBloodsucking\nJP :\n吸血"
+  },
+  {
+    "key": "9014503-desc",
+    "original": "자신이 받는 [Laceration] 피해 10% 감소 (소수점 버림)\n공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 10%만큼 체력 회복",
+    "context": "EN :\nTake 10% less damage from [Laceration] (rounded down)\nOn Hit, if the target has [Laceration], heal 10% of the damage dealt\nJP :\n自分が受ける[Laceration]ダメージを10%減少(小数点切り捨て)\n攻撃的中時に対象に[Laceration]があれば、ダメージ量の10%だけ回復"
+  },
+  {
+    "key": "9014801-name",
+    "original": "억센 흡혈",
+    "context": "EN :\nRough Bloodsucking\nJP :\nがめつい吸血"
+  },
+  {
+    "key": "9014801-desc",
+    "original": "자신이 받는 [Laceration] 피해 20% 감소 (소수점 버림)\n공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 15%만큼 체력 회복",
+    "context": "EN :\nTake 20% less damage from [Laceration] (rounded down)\nOn Hit, if the target has [Laceration], heal 15% of the damage dealt\nJP :\n自分が受ける[Laceration]ダメージを20%減少(小数点切り捨て)\n攻撃的中時に対象に[Laceration]があれば、ダメージ量の15%だけ回復"
+  },
+  {
+    "key": "9014802-name",
+    "original": "누전",
+    "context": "EN :\nPower Leakage\nJP :\n漏電"
+  },
+  {
+    "key": "9014802-desc",
+    "original": "피격시 공격자가 [Charge]을 얻는 스킬을 사용했으면, [Charge] 횟수 1을 공격자에게 옮긴다. \n(스킬 당 1회, 피격자가 [Charge]이 없으면 발동하지 않음)",
+    "context": "EN :\nWhen hit, if the attacker used a Skill that gains [Charge], the attacker steals 1 [Charge] Count from this unit.\n(Once per Skill. Does not activate if this unit does not have [Charge])\nJP :\n被ダメージ時、攻撃者が[Charge]を得るスキルを使用したなら[Charge]回数1を攻撃者に移す\n(スキルごとに1回、被ダメージ対象に[Charge]が無いなら発動しない)"
+  },
+  {
+    "key": "9015101-name",
+    "original": "피를 뇌로 보내기",
+    "context": "EN :\nBlood to Brain\nJP :\n血を脳へ送る"
+  },
+  {
+    "key": "9015101-desc",
+    "original": "자신이 받는 [Laceration] 피해 30% 감소 (소수점 버림)\n공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 15%만큼 체력 회복",
+    "context": "EN :\nTake 30% less damage from [Laceration] (rounded down)\nOn Hit, if the target has [Laceration], heal 15% of the damage dealt\nJP :\n自分が受ける[Laceration]ダメージを30%減少(小数点切り捨て)\n攻撃的中時に対象に[Laceration]があれば、ダメージ量の15%だけ回復"
+  },
+  {
+    "key": "9015102-name",
+    "original": "의체 모델 - L37",
+    "context": "EN :\nProsthesis Model - L37\nJP :\n義体モデル - L37"
+  },
+  {
+    "key": "9015102-desc",
+    "original": "턴 시작 시 [Charge] 횟수가 5 미만이면 자신에게 [Reduction] 1 부여\n턴 시작 시 [Charge] 횟수가 5 이상이면 [ParryingResultUp] 2 얻음",
+    "context": "EN :\nTurn Start: At less than 5 [Charge] Count, gain 1 [Reduction]\nTurn Start: At 5+ [Charge] Count, gain 2 [ParryingResultUp]\nJP :\nターン開始時に[Charge]回数が5未満なら自分へ[Reduction]1を付与\nターン開始時に[Charge]回数が5以上なら[ParryingResultUp]2を付与"
+  },
+  {
+    "key": "9015201-name",
+    "original": "어린 권속",
+    "context": "EN :\nA Young Kindred\nJP :\n幼い眷属"
+  },
+  {
+    "key": "9015201-desc",
+    "original": "자신이 받는 [Laceration] 피해 30% 감소 (소수점 버림)\n공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 25%만큼 체력 회복",
+    "context": "EN :\nTake 30% less damage from [Laceration] (rounded down)\nOn Hit, if the target has [Laceration], heal 25% of the damage dealt\nJP :\n自分が受ける[Laceration]ダメージを30%減少(小数点切り捨て)\n攻撃的中時に対象に[Laceration]があれば、ダメージ量の25%だけ回復"
+  },
+  {
+    "key": "9014803-name",
+    "original": "끈질김",
+    "context": "EN :\nTenacious\nJP :\nしつこさ"
+  },
+  {
+    "key": "9014803-desc",
+    "original": "자신의 스킬로 인해 받는 피해로 체력이 1 미만으로 감소하지 않음",
+    "context": "EN :\nSelf-inflicted damage due to this unit's Skills does not reduce this unit's HP under 1\nJP :\n自分のスキルによって受けるダメージで体力が1未満に減少しない"
+  },
+  {
+    "key": "834801-name",
+    "original": "터진 피주머니",
+    "context": "EN :\nBurst Bloodbag\nJP :\n爆ぜた血袋"
+  },
+  {
+    "key": "834801-desc",
+    "original": "전투 시작시 체력이 전체 체력의 절반인 상태로 전투함",
+    "context": "EN :\nCombat Start: starts the Encounter only with half of max HP\nJP :\n戦闘開始時、体力が半減した状態で戦う"
+  },
+  {
+    "key": "834802-name",
+    "original": "제 7의 권속",
+    "context": "EN :\nThe Seventh Kindred\nJP :\n第7の眷属"
+  },
+  {
+    "key": "834802-desc",
+    "original": "체력 1이 된 아군 수에 따라, 슬롯 +1 (최대 2회)",
+    "context": "EN :\nGain +1 Slot for every ally at 1 HP (2 times max)\nJP :\n体力が1になった味方の数1体につき、スロット +1(最大2回)"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "key": "event_bonus_description-content",
+    "original": "이벤트 기간 동안 해당 인격 및 E.G.O 편성 시,\n<color=#f8c200>[{0}]의 획득량이 상승</color>합니다.",
+    "context": "EN :\nDuring the event, having the listed Identities and E.G.O on your team\n<color=#f8c200>increases the amount of [{0}] earned</color>.\nJP :\nイベント期間中に該当する人格および、E.G.Oを編成時に<color=#f8c200>[{0}]の獲得量が上昇</color>します。"
+  },
+  {
+    "key": "event_bonus_preview-content",
+    "original": "이벤트 인격 및 E.G.O 편성 시,\n[{0}] 획득량 상승",
+    "context": "EN :\nEvent Identities and E.G.O on the team\nboost the amnt. of [{0}] earned.\nJP :\nイベント人格およびE.G.Oを編成時、\n[{0}]の獲得量が上昇"
+  },
+  {
+    "key": "event_bonus_preview_ego-content",
+    "original": "이벤트 E.G.O 편성 시,\n[{0}] 획득량 상승",
+    "context": "EN :\nEvent E.G.O on the team\nboost the amnt. of [{0}] earned.\nJP :\nイベントE.G.Oを編成時、\n[{0}]の獲得量が上昇"
+  },
+  {
+    "key": "event_bonus_description_ego-content",
+    "original": "이벤트 E.G.O 편성 시,\n[{0}] 획득량 상승",
+    "context": "EN :\nEvent E.G.O on the team\nboost the amnt. of [{0}] earned.\nJP :\nイベントE.G.Oを編成時、\n[{0}]の獲得量が上昇"
+  },
+  {
+    "key": "event_bonus_preview_personality-content",
+    "original": "이벤트 인격 편성 시,\n[{0}] 획득량 상승",
+    "context": "EN :\nEvent Identities on the team\nboost the amnt. of [{0}] earned.\nJP :\nイベント人格を編成時、\n[{0}]の獲得量が上昇"
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "key": "0-place",
+    "original": "워더링하이츠 지하실",
+    "context": "EN :\nWuthering Heights Basement\nJP :\nワザリング・ハイツ 地下室"
+  },
+  {
+    "key": "0-content",
+    "original": "잽싸게 검집을 휘두른 료슈가 도망가려는 자 중 하나를 손쉽게 쓰러뜨린다.",
+    "context": "EN :\nRyōshū stops one of the fleeing enemies with a swift swing of her scabbard.\nJP :\n素早く鞘を振り回した良秀が、逃げようとする者の一人を\nいとも容易く倒した。"
+  },
+  {
+    "key": "1-model",
+    "original": "외우피협회보스F",
+    "translation": "Öufi协会首领F",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "1-teller",
+    "original": "연구원",
+    "context": "EN :\nResearcher\nJP :\n研究員"
+  },
+  {
+    "key": "1-title",
+    "original": "외우피? 약지?",
+    "context": "EN :\nÖufi? The Ring?\nJP :\nウーフィ?薬指?"
+  },
+  {
+    "key": "1-content",
+    "original": "윽…",
+    "context": "EN :\nUgh...\nJP :\nうっ…。"
+  },
+  {
+    "key": "2-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "2-content",
+    "original": "네놈들이 평소 무슨 예술을 하던 알 바가 아니었지만.",
+    "context": "EN :\nI normally couldn't give any less of a crap about what kind of art the Ring makes.\nJP :\nお前らが普段どんな芸術をやっていても\n知ったことじゃなかったが。"
+  },
+  {
+    "key": "3-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "3-content",
+    "original": "이번 작품은 조금 흥미가 가서 말이야.",
+    "context": "EN :\nBut this one... I find this one quite interesting.\nJP :\n今回の作品には、少し興味が湧いてな。"
+  },
+  {
+    "key": "4-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "4-content",
+    "original": "외우피 흉내를 내는 약지 놈들이라. 팝아트가 테마인가?",
+    "context": "EN :\nThe Ring playing at being the Öufi... What is this, some kind of pop art?\nJP :\nウーフィの真似をする薬指どもか。\nポップアートがテーマか？"
+  },
+  {
+    "key": "5-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "5-content",
+    "original": "이자들이… 약지 소속이라고?",
+    "context": "EN :\nThey're... the Ring?\nJP :\nこの人たちって…薬指所属なの？"
+  },
+  {
+    "key": "6-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "6-content",
+    "original": "<약지는 어디야? 중지… 이웃?>",
+    "context": "EN :\n<What's the Ring? The Middle's neighbor, or something?>\nJP :\n<薬指ってどこ？中指の…親戚とか？>"
+  },
+  {
+    "key": "7-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "7-content",
+    "original": "이웃… 하하. 나도 잘은 모르는데, 반쯤 정신 나간 조직이야. 그냥 아름다운 거라면 사족을 못 쓰는 애들이라고…",
+    "context": "EN :\nNeighbor... ha ha. Yeah, I don't really know much about them. What I do know is that they are all at least halfway insane. Obsessed with what's beautiful and all that...\nJP :\n親戚…はは。私もあんまり知らないけど、半分くらいイカれてる組織だね。\nただ、美しいものに目がない子たちだって…。"
+  },
+  {
+    "key": "8-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "8-content",
+    "original": "자기들끼리 갤러리를 운영해서 자기만의 작품을 전시한다곤 하지만, 무엇도 내 취향은 아냐.",
+    "context": "EN :\nThey run their own gallery and display their own art, but none of their work is quite to my taste.\nJP :\n自分たちでギャラリーを運営して自分の作品を展示するというが、\nどれも俺の好みじゃぁない。"
+  },
+  {
+    "key": "9-model",
+    "original": "외우피협회보스F",
+    "translation": "Öufi协会首领F",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "연구원",
+    "context": "EN :\nResearcher\nJP :\n研究員"
+  },
+  {
+    "key": "9-title",
+    "original": "외우피? 약지?",
+    "context": "EN :\nÖufi? The Ring?\nJP :\nウーフィ?薬指?"
+  },
+  {
+    "key": "9-content",
+    "original": "불쌍…하…군… 점묘파의 미학을 이해하지 못하다니…",
+    "context": "EN :\nHow... pitiful... you... do not understand the true philosophical beauty of Pointillism...\nJP :\n可哀…想…だ。点描派の美学を理解できないとは…。"
+  },
+  {
+    "key": "10-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "10-content",
+    "original": "마에스트로가 관여되어 있나? 어디 있지?",
+    "context": "EN :\nIs a Maestro involved in this? Where are they?\nJP :\nマエストロがつるんでるのか？\nどこにいる？"
+  },
+  {
+    "key": "11-model",
+    "original": "외우피협회보스F",
+    "translation": "Öufi协会首领F",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "연구원",
+    "context": "EN :\nResearcher\nJP :\n研究員"
+  },
+  {
+    "key": "11-title",
+    "original": "외우피? 약지?",
+    "context": "EN :\nÖufi? The Ring?\nJP :\nウーフィ?薬指?"
+  },
+  {
+    "key": "11-content",
+    "original": "그분이 이런 곳에 계실 리가 있나… 그리고 이미 우리는 더 이상 약지 소속도 아니야.",
+    "context": "EN :\nA Maestro wouldn't bother to be in a place like this, would they...? Besides, we're not even a part of the Ring anymore.\nJP :\nあのお方がこんな場所にいるわけないだろ…。\nそれに俺たちはもはや薬指所属でもない。"
+  },
+  {
+    "key": "12-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "12-content",
+    "original": "그럼, 뭔데?",
+    "context": "EN :\nThen what are you?\nJP :\nじゃあ、何だ？"
+  },
+  {
+    "key": "13-model",
+    "original": "외우피협회보스F",
+    "translation": "Öufi协会首领F",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "연구원",
+    "context": "EN :\nResearcher\nJP :\n研究員"
+  },
+  {
+    "key": "13-title",
+    "original": "외우피? 약지?",
+    "context": "EN :\nÖufi? The Ring?\nJP :\nウーフィ?薬指?"
+  },
+  {
+    "key": "13-content",
+    "original": "그걸… 순순히 말해 줄리…",
+    "context": "EN :\nAhahahahaha! You think I'd tell you that so easi—\nJP :\nそんなの…簡単に吐くわけな―"
+  },
+  {
+    "key": "14-content",
+    "original": "히스클리프는 말을 잇고 있던 그자의 머리통을 가격해 저 뒤로 날렸다.",
+    "context": "EN :\nHeathcliff tore the man's head clean off with a full swing of his club.\nJP :\nヒースクリフは話し続けていた人の頭を殴り、後ろへふっ飛ばした。"
+  },
+  {
+    "key": "15-content",
+    "original": "이 모든 소동엔 그 어떤 관심을 보이지 않은 채.",
+    "context": "EN :\nNone of this chaos mattered to him.\nJP :\nこれら全ての騒ぎには何の関心も示さないまま。"
+  },
+  {
+    "key": "16-content",
+    "original": "오로지 앞에 있는 관을 향해 걸어갈 뿐이었다.",
+    "context": "EN :\nOnly the coffin he was walking toward mattered.\nJP :\nただ、前にある棺に向かって歩いていった。"
+  },
+  {
+    "key": "17-content",
+    "original": "캐서린이 누워있는 관을 향해.",
+    "context": "EN :\nCatherine's coffin.\nJP :\nキャサリンが横たわっている棺へ向かって。"
+  }
+]

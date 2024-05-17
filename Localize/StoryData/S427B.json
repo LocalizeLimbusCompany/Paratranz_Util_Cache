@@ -1,0 +1,845 @@
+[
+  {
+    "key": "0-place",
+    "original": "K사 로보토미 지부 어딘가",
+    "context": "EN :\nNest K - LC Branch Interior\nJP :\nK社 ロボトミー支部のどこか"
+  },
+  {
+    "key": "0-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "0-content",
+    "original": "<이제 거의 다 온 모양이야.>",
+    "context": "EN :\n<Looks like we're almost there.>\nJP :\n<もうすぐ着きそうだね。>"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<근처에서 황금가지가 공명하는 게 느껴져.>",
+    "context": "EN :\n<I can sense the Golden Bough resonating nearby.>\nJP :\n<この近くで黄金の枝が共鳴してるのが感じられるし。>"
+  },
+  {
+    "key": "2-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "2-content",
+    "original": "…근처까지 도달한 모양입니다.",
+    "context": "EN :\n...It appears we're nearing the target location.\nJP :\n…付近まで到達した模様です。"
+  },
+  {
+    "key": "3-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "3-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "3-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "3-content",
+    "original": "잘됐네요. 아마 거기에 제가 놓고 온 사진이나 상장들이 있을 거예요.",
+    "context": "EN :\nThat's good. The photos and awards I left should be still there.\nJP :\n良かったですね。多分そこに僕の置いていった写真とか賞状とかがあると思います。"
+  },
+  {
+    "key": "4-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "4-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "4-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "4-content",
+    "original": "연구 기밀문서도요, 동랑 님.",
+    "context": "EN :\nClassified research documents as well, Mr. Dongrang.\nJP :\n研究機密文書もです、ドンランさん。"
+  },
+  {
+    "key": "5-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "5-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "6-content",
+    "original": "이상이 슈렌느가 바닥에 떨어뜨렸던 앰플 중 하나를 주워들어 그 안을 가만히 살펴본다.",
+    "context": "EN :\nYi Sang picks up an ampule Shrenne dropped from the floor and carefully examines it.\nJP :\nイサンはシュレンヌが床に落としたアンプルのうち一つを拾い、中身を静かに調べる。"
+  },
+  {
+    "key": "7-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "7-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "7-content",
+    "original": "친절하네요. 주워 줄 필요까진 없었는데.",
+    "context": "EN :\nHow kind of you. You didn't have to pick it up.\nJP :\n親切なんですね。拾う必要は無かったのに。"
+  },
+  {
+    "key": "8-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "8-content",
+    "original": "…같구료.",
+    "context": "EN :\n...It's the same.\nJP :\n…同じなり。"
+  },
+  {
+    "key": "9-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "9-content",
+    "original": "이 재생 앰플…",
+    "context": "EN :\nThis regeneration ampule...\nJP :\nこの再生アンプル…。"
+  },
+  {
+    "key": "10-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "10-content",
+    "original": "아까 K사의 싸움꾼들과 기계들이 맞다툴 때, 이스마엘 양에게 강제로 주입되었던 ‘붕괴 앰플’ 이라 했던 것과 동일한 규칙의 넘버요.",
+    "context": "EN :\nIts number abides by the same rule as the 'decay ampules' that was forcibly administered to Miss Ishmael in the earlier scuffle between K Corp's brawlers and invading machines.\nJP :\nありつるK社の戦闘員と機械が争いしとき、イシュメール嬢へ無理矢理注射されし「崩壊アンプル」と呼ばれしものと、同じ規格のナンバアなり。"
+  },
+  {
+    "key": "11-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "11-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "11-content",
+    "original": "그건 시리얼 넘버라고 하는 겁니다. 앰플을 분류하는 고유 넘버링 방식이죠. 앞자리가 O면 오리지널… 잠깐 이걸 왜 설명해 주고 있는 거지.",
+    "context": "EN :\nThat's what's called a serial code. It's a unique string of numbers to categorize ampules. Ones that start with an \"O\" are original- Wait, why am I explaining this, again?\nJP :\nそれはシリアルナンバーというものです。アンプルを分類する固有のナンバリング方法です。前の桁がOならオリジナル···ちょっと待って、なんでこんなのを説明してるんだろう。"
+  },
+  {
+    "key": "12-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "12-content",
+    "original": "오리지널… 이스마엘 양에게 주입되었던 ‘붕괴 앰플’ 역시… 그 본질 또한 재생 앰플과 다르지 아니하였는가.",
+    "context": "EN :\nOriginal... Identical to the 'decay ampule' injected to Miss Ishmael... So it suggests that its essence was no different from that of the regeneration ampule.\nJP :\nオリジナル…イシュメール嬢に注入されし「崩壊アンプル」もまた…その本質は再生アンプルと違わざるものなり。"
+  },
+  {
+    "key": "13-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "13-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "13-content",
+    "original": "이 재생 앰플은 뭐랄까… 정제되지 않은 원액이거든요. 대중적인 재생 앰플과는 조금 달라요.",
+    "context": "EN :\nThis series of regeneration ampule is, well, how do I say it... It's an undiluted solution. It's not exactly like the commercially available ones.\nJP :\nこの再生アンプルはなんというか…生成されていない原液なんですよね。大衆的な再生アンプルとはちょっと違います。"
+  },
+  {
+    "key": "14-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "14-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "15-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "15-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "15-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "15-content",
+    "original": "지금, 무슨 생각을 하고 있어요?",
+    "context": "EN :\nWhat are you thinking right now?\nJP :\n今、何を考えてるんですか？"
+  },
+  {
+    "key": "16-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "16-content",
+    "original": "아무것도.",
+    "context": "EN :\nNothing.\nJP :\n何も。"
+  },
+  {
+    "key": "17-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "17-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "17-content",
+    "original": "나를 언제부터 알아봤어?",
+    "context": "EN :\nWhen did you first recognize me?\nJP :\nいつから僕のことが分かった？"
+  },
+  {
+    "key": "18-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "18-content",
+    "original": "닭들을 사육하는 장면을 내보였을 때부터.",
+    "context": "EN :\nSince you showed us the chickens in captivity.\nJP :\n鶏たちを飼育する場面を見せしときより。"
+  },
+  {
+    "key": "19-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "19-content",
+    "original": "연구실만 보여줘도 충분했을 일을 구태여 은밀한 실험실까지 내보여준 것은…",
+    "context": "EN :\nIt would have sufficed to give your visitors a cursory tour, yet you insisted on showing your personal laboratory...\nJP :\n研究室のみ見せらば過分ならん、あえて隠密なる実験室までを示すは…。"
+  },
+  {
+    "key": "20-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "20-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "20-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "20-content",
+    "original": "맞아. 다른 사람은 몰라도, 네게는 내 성과와 성공을 당당하게 보여주고 싶었어.",
+    "context": "EN :\nYou're right. I don't know about the others, but I wanted you to see the demonstrable proof of my success.\nJP :\nうん。他の人はさておき、君には僕の成果と成功を堂々と見せたかったんだ。"
+  },
+  {
+    "key": "21-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "21-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "21-content",
+    "original": "그래도 섭섭하네. 오랜만에 재회한 옛 벗에게, 반갑다는 인사를 건넬 시간은 많았을 텐데.",
+    "context": "EN :\nI'm still sad, though. You probably had plenty of time to express your joy of reuniting with this old friend of yours.\nJP :\nそれでも寂しいなぁ。久々に再会した昔の朋に、久し振りって挨拶をする時間は沢山あったと思うんだけど。"
+  },
+  {
+    "key": "22-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "22-content",
+    "original": "곁에 남은 벗은 더는 없다고 생각하여.",
+    "context": "EN :\nIt is my thought that I no longer have companions by my side.\nJP :\n傍らに残りし朋は、既にあらずと思う。"
+  },
+  {
+    "key": "23-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "23-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "23-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "23-content",
+    "original": "변한 게 없구나.",
+    "context": "EN :\nYou haven't changed.\nJP :\n変わってないんだね。"
+  },
+  {
+    "key": "24-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "24-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "24-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "24-content",
+    "original": "넌 예전부터 소중한 걸 병 속에만 간직한 채 구경하는 걸 즐겼지.",
+    "context": "EN :\nYou've always enjoyed keeping precious things in bottles and watching them.\nJP :\n君は昔から、大切なものを瓶の中に入れて眺めることを楽しんでたよね。"
+  },
+  {
+    "key": "25-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "25-content",
+    "original": "그대는 그걸 밖으로 내보이고 싶어 견딜 수 없어 하였고.",
+    "context": "EN :\nAnd you were intent on releasing and showing them.\nJP :\nそなたはそれを外へ出ださんと、堪えがたき心地に見ゆるありさまなりけり。"
+  },
+  {
+    "key": "26-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "26-content",
+    "original": "벗이라 하였는가? 이상, 자네는 이 여정 속에 재회하는 벗이 아주 많군!",
+    "context": "EN :\nDidst thou say \"companions\"? I must say, Yi Sang, many reunions with thy companions do await thee in this journey!\nJP :\n友と言ったか？イサン、そなたはこの旅路にて再会する友がとても多いようであるな！"
+  },
+  {
+    "key": "27-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "27-content",
+    "original": "지난번에도 그… 음흉한 색안경을 낀 자를 마주했지 않았나!",
+    "context": "EN :\nIn an expedition past, the, err...one wearing a tinted eyewear did confront thee!\nJP :\nこの前もその…陰険なサングラスを掛けた者と対面したではないか！"
+  },
+  {
+    "key": "28-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "28-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "28-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "29-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "29-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "29-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "29-content",
+    "original": "아하. 재회의 기쁨은 이미 누렸던 모양이네요. 그리하여 나와는 이렇게 서먹한 거군요.",
+    "context": "EN :\nAha. So you already had a reunion to celebrate. No wonder you're being so detached with me.\nJP :\nあはぁ。再会の喜びはもう味わってたみたいですね。それゆえ僕とはこんな気まずそうにしてるんですか。"
+  },
+  {
+    "key": "30-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "30-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "30-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "30-content",
+    "original": "그런데 이걸 어떡하지.",
+    "context": "EN :\nHow troubling for you, though.\nJP :\nでも残念。"
+  },
+  {
+    "key": "31-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "31-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "31-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "31-content",
+    "original": "아직 한 명 더 남아있는 모양인데.",
+    "context": "EN :\nLooks like there'll be another you have to face.\nJP :\nもう一人残っているみたいだけど。"
+  },
+  {
+    "key": "32-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "32-content",
+    "original": "<무슨 소리지?>",
+    "context": "EN :\n<What do you mean?>\nJP :\n<どういう意味だ？>"
+  },
+  {
+    "key": "33-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "33-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "33-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "33-content",
+    "original": "슈렌느의 밀고로, 조직원들은 이 건물을 이미 다 빠져나갔다고 생각했는데…",
+    "context": "EN :\nI thought everyone had made their escape thanks to Shrenne's snitching...\nJP :\nシュレンヌの密告で、組織員たちはこの建物から既に全員抜け出したと思ったけど…。"
+  },
+  {
+    "key": "34-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "34-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "34-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "34-content",
+    "original": "그건 아니었나 보네요.",
+    "context": "EN :\nBut I suppose that wasn't the case.\nJP :\nそうじゃなかったみたいですね。"
+  },
+  {
+    "key": "35-content",
+    "original": "질식할 것 같은 꽃향기를 풍기며 누군가 등장한다.",
+    "context": "EN :\nSomeone walks in, exuding a suffocatingly thick scent of flowers.\nJP :\n窒息してしまいそうなほどの花の香りを漂わせながら、誰かが登場した。"
+  },
+  {
+    "key": "36-content",
+    "original": "이제는 익숙해진 눈부신 황금빛 가지와 함께.",
+    "context": "EN :\nHolding a bright golden branch in her hand, an object now familiar to me.\nJP :\n今や見慣れた眩しい黄金の枝と共に。"
+  },
+  {
+    "key": "37-content",
+    "original": "낡아빠진 흑색 사진 한 장을 손에 든 채로.",
+    "context": "EN :\nShe had a worn monochrome photograph in her other hand.\nJP :\n古びた白黒写真一枚を手にしながら。"
+  },
+  {
+    "key": "38-model",
+    "original": "동백",
+    "translation": "冬柏",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "38-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "38-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "38-content",
+    "original": "잘 나온 사진이야. 이제 세상에 단 하나밖에 남지 않았지.",
+    "context": "EN :\nIt's a fine photograph. Only one of this shot remains in this world now.\nJP :\n写真写りいいね。もうこの世には一つしか残ってないけど。"
+  },
+  {
+    "key": "39-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "39-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "39-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "39-content",
+    "original": "여기나 저기나, 어느 하나 반갑다는 인사를 해주는 친구가 없네.",
+    "context": "EN :\nSo many old friends, and not one to greet me with delight.\nJP :\nあっちもこっちも誰一人、久し振りって挨拶をしてくれる友達がいないな。"
+  },
+  {
+    "key": "40-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "40-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "40-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "40-content",
+    "original": "사진, 돌려주지 않겠어? 안 그래 보여도, 소중하게 간직하고 있었던 거라.",
+    "context": "EN :\nWon't you give that picture back to me? It may not look like it, but it's a cherished treasure of mine.\nJP :\n写真、返してくれないか？あまりそう見えないかもしれないけど、大切にしてたものだから。"
+  },
+  {
+    "key": "41-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "41-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "41-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "41-content",
+    "original": "동랑 님, 함부로 다가가지 마십시오, 위험합니다!",
+    "context": "EN :\nMr. Dongrang, you shouldn't get close to her! It's dangerous!\nJP :\nドンランさん。無闇に近寄らないでください、危険です！"
+  },
+  {
+    "key": "42-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "42-content",
+    "original": "전원! 성급하게 나서지 마라! 황금가지가 파괴될 수도 있다…",
+    "context": "EN :\nAll troops, do not carelessly approach her! The Golden Bough may be destroyed...\nJP :\n全員！早まって前へ出るな！黄金の枝が破壊される可能性もある…。"
+  },
+  {
+    "key": "43-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "43-content",
+    "original": "판단에 동의한다.",
+    "context": "EN :\nI agree with it.\nJP :\n判断に同意する。"
+  },
+  {
+    "key": "44-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "44-content",
+    "original": "파우스트가 금방 회수할 방법을 떠올릴 거예요.",
+    "context": "EN :\nFaust will come up with a way to retrieve it in no time.\nJP :\nファウストがすぐに回収する方法を思いつきます。"
+  },
+  {
+    "key": "45-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "45-content",
+    "original": "쯧, 자꾸 두드려 패서 해결하지 못할 것들만 나오냐! 성질 뻗네…",
+    "context": "EN :\nTch, why do we keep running into problems that a good pummeling can't solve! This is right infuriating...\nJP :\nチッ、さっきからブチのめして解決できないことばっかじゃねぇか！クッソ腹立つな…。"
+  },
+  {
+    "key": "46-content",
+    "original": "각자가 저마다의 목표를 위해 아우성친다.",
+    "context": "EN :\nEveryone yells and shouts with their own goal in mind.\nJP :\nそれぞれが各々の目標のために喚き立てている。"
+  },
+  {
+    "key": "47-content",
+    "original": "아랑곳하지 않은 채 황금가지를 든 자는 이쪽으로 천천히 걸어온다.",
+    "context": "EN :\nRegardless of the noise, the person with the Golden Bough steadily walks this way.\nJP :\n気にも留めない様子で、黄金の枝を持った者はこちらへとゆっくり歩いてくる。"
+  },
+  {
+    "key": "48-content",
+    "original": "하지만 그가 향한 쪽은 동랑이 아닌…",
+    "context": "EN :\nHowever, instead of going for Dongrang...\nJP :\nしかしその者が向かった先はドンランではなく…。"
+  },
+  {
+    "key": "49-model",
+    "original": "동백",
+    "translation": "冬柏",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "49-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "49-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "49-content",
+    "original": "알싸한, 그리고 향긋한 그 냄새에 나는 땅이 꺼지는 듯하였지.",
+    "context": "EN :\nThat piquant and fragrant smell made me feel as though the ground was sinking.\nJP :\nぴりっとした、そして香り高いその匂いに、私は地が沈むような感覚を覚えたよ。"
+  },
+  {
+    "key": "50-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "50-content",
+    "original": "…!",
+    "context": "EN :\n…!\nJP :\n…！"
+  },
+  {
+    "key": "51-content",
+    "original": "그자는 쥐고있던 황금가지를 이상의 가슴팍에 꽂아넣었고..",
+    "context": "EN :\nShe plunged the Golden Bough in her hand into Yi Sang's chest...\nJP :\nその者は握っていた黄金の枝をイサンの胸元に突き刺し…。"
+  },
+  {
+    "key": "52-content",
+    "original": "이상의 몸이 맥없이 꺼진다.",
+    "context": "EN :\nAnd Yi Sang collapses on the ground.\nJP :\nイサンの身体が急に沈んだ。"
+  },
+  {
+    "key": "53-model",
+    "original": "동백",
+    "translation": "冬柏",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "53-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "53-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "53-content",
+    "original": "네가… 기어코 내 눈앞에서 그를 택할 줄은 몰랐어.",
+    "context": "EN :\nI...didn't think you would end up choosing him before my eyes.\nJP :\n君が…ついに私の目の前で彼を選ぶとは思わなかった。"
+  },
+  {
+    "key": "54-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "54-content",
+    "original": "<이상!>",
+    "context": "EN :\n<Yi Sang!>\nJP :\n<イサン！>"
+  },
+  {
+    "key": "55-model",
+    "original": "동백",
+    "translation": "冬柏",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "55-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "55-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "55-content",
+    "original": "이건 돌려줄게.",
+    "context": "EN :\nYou can have this back.\nJP :\nこれは返してあげる。"
+  },
+  {
+    "key": "56-model",
+    "original": "동백",
+    "translation": "冬柏",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "56-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "56-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "56-content",
+    "original": "사진 따위, 순간을 박제한 것에 지나지 않으니.",
+    "context": "EN :\nA photograph is nothing more than a taxidermied moment.\nJP :\n写真なぞ、瞬間を剥製したものに過ぎぬがゆえ。"
+  },
+  {
+    "key": "57-content",
+    "original": "피에 물들어도 황금가지는 여전히 빛나고 있다.",
+    "context": "EN :\nEven while drenched in blood, the Golden Bough still glows.\nJP :\n血に染まれど、黄金の枝は煌々と光っていた。"
+  },
+  {
+    "key": "58-content",
+    "original": "그 눈부심과 대조되듯...",
+    "context": "EN :\nContrasting the golden dazzle...\nJP :\nその眩しさとは対照的に…。"
+  },
+  {
+    "key": "59-content",
+    "original": "빛바랜 흑백의 사진은 천천히, 아주 천천히 바닥으로 떨어졌다.",
+    "context": "EN :\nThe faded monochrome photograph slowly falls to the floor.\nJP :\n色褪せた白黒写真はゆっくり、とてもゆっくりと床へ落ちた。"
+  }
+]

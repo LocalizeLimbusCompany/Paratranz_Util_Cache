@@ -1,0 +1,187 @@
+[
+  {
+    "key": "9011601-name",
+    "original": "너로...구",
+    "context": "EN :\nIt's... you...\nJP :\nおま…か"
+  },
+  {
+    "key": "9011601-desc",
+    "original": "전투 시작 시 체력이 가장 낮은 적이라면, 피해량 +10%",
+    "context": "EN :\nDeal +10% more damage to targets with the least HP\nJP :\n戦闘開始時、体力が最も低い敵ならダメージ量 +10%"
+  },
+  {
+    "key": "9011601-summary",
+    "original": "피해량 +10%",
+    "context": "EN :\nDamage +10%\nJP :\n与ダメージ量 +10%"
+  },
+  {
+    "key": "9011801-name",
+    "original": "...",
+    "context": "EN :\n...\nJP :\n…"
+  },
+  {
+    "key": "9011801-desc",
+    "original": "합 패배시, 대상의 정신력 3 피해",
+    "context": "EN :\nTarget takes 3 SP damage if this unit loses the clash\nJP :\nマッチ敗北時、対象の精神力に3ダメージ"
+  },
+  {
+    "key": "9011801-summary",
+    "original": "대상의 정신력 3 피해",
+    "context": "EN :\nTarget takes 3 SP damage\nJP :\n対象の精神力に3ダメージ"
+  },
+  {
+    "key": "9012001-name",
+    "original": "정돈",
+    "context": "EN :\nCleaning\nJP :\n整頓"
+  },
+  {
+    "key": "9012001-desc",
+    "original": "스킬 사용시 대상의 체력이 50%미만일 때, 스킬 위력 +1",
+    "context": "EN :\nWhen using a Skill, if target's HP is below 50%, Skill Power +1\nJP :\nスキル使用時、対象の体力が50%未満のならスキル威力 +1"
+  },
+  {
+    "key": "9012001-summary",
+    "original": "스킬 위력 +1",
+    "context": "EN :\nSkill Power +1\nJP :\nスキル威力 +1"
+  },
+  {
+    "key": "9012201-name",
+    "original": "정리",
+    "context": "EN :\nOrganizing\nJP :\n整理"
+  },
+  {
+    "key": "9012201-desc",
+    "original": "스킬 사용 시 대상의 체력이 50%미만일 때, 피해량 +30%",
+    "context": "EN :\nWhen using a Skill, if target's HP is below 50%, deal +30% more damage\nJP :\nスキル使用時、対象の体力が50%未満のならダメージ量 +30%"
+  },
+  {
+    "key": "9012201-summary",
+    "original": "피해량 +30%",
+    "context": "EN :\nDamage +30%\nJP :\n与ダメージ量 +30%"
+  },
+  {
+    "key": "9012301-name",
+    "original": "독 안에 든 쥐",
+    "context": "EN :\nDead End\nJP :\n袋の鼠"
+  },
+  {
+    "key": "9012301-desc",
+    "original": "스킬 사용 시 자신의 속도가 대상보다 빠르면, 합 위력 +1",
+    "context": "EN :\nWhen using a Skill, if this unit's Speed is faster than the target's, Clash Power +1\nJP :\nスキル使用時、自分の速度が対象より高いならマッチ威力+1"
+  },
+  {
+    "key": "9012301-summary",
+    "original": "합 위력 +1",
+    "context": "EN :\nClash Power +1\nJP :\nマッチ威力+1"
+  },
+  {
+    "key": "9012501-name",
+    "original": "쥐사냥",
+    "context": "EN :\nRat Hunt\nJP :\n鼠狩り"
+  },
+  {
+    "key": "9012501-desc",
+    "original": "스킬 사용 시 자신의 속도가 대상보다 빠르면, 합 위력 +1, 피해량 +20%",
+    "context": "EN :\nWhen using a Skill, if this unit's Speed is faster than the target's, gain Clash Power +1 and deal +20% more damage\nJP :\nスキル使用時、自分の速度が対象より高いならマッチ威力+1, ダメージ量 +20%"
+  },
+  {
+    "key": "9012501-summary",
+    "original": "합 위력 +1, 피해량 +20%",
+    "context": "EN :\nClash Power +1, deal +20% more damage\nJP :\nマッチ威力+1, ダメージ量 +20%"
+  },
+  {
+    "key": "9012601-name",
+    "original": "최선을... 다하겠습니다",
+    "context": "EN :\nI Will... Do My Best\nJP :\n最善を…尽くします"
+  },
+  {
+    "key": "9012601-desc",
+    "original": "턴 종료시 흐트러짐 상태가 되었을 때, 정신력 12 회복. 다음 턴에 방어 레벨 감소 2 얻음. (최대 1회)",
+    "context": "EN :\nTurn End: if Staggered, heal 12 SP. Gain 2 Defense Level Down next turn. (one time max)\nJP :\nターン終了時に混乱状態になったとき、精神力を12回復。次のターンに防御レベル減少 2を得る(最大1回)"
+  },
+  {
+    "key": "9012602-name",
+    "original": "죄송합니다...마님!",
+    "context": "EN :\nApologies... Mistress!\nJP :\n申し訳ございません…奥様！"
+  },
+  {
+    "key": "9012602-desc",
+    "original": "턴 종료 시 패닉 상태에서 벗어났다면, 다음 턴에 공격 위력 증가 1 얻음",
+    "context": "EN :\nTurn End: if this unit recovered from Panic, gain 1 Attack Power Up next turn\nJP :\nターン終了時にパニック状態から抜け出した場合、次のターンに攻撃威力増加 1を得る"
+  },
+  {
+    "key": "9012602-summary",
+    "original": "다음 턴에 공격 위력 증가 1 얻음",
+    "context": "EN :\nGain 1 Attack Power Up next turn\nJP :\n次のターンに攻撃威力増加 1を得る"
+  },
+  {
+    "key": "9101401-name",
+    "original": "제대로 치워주지...",
+    "context": "EN :\nI'll Clean You Up...\nJP :\nきちんと片付けてやろう…"
+  },
+  {
+    "key": "9101401-desc",
+    "original": "턴 종료시 흐트러짐 상태가 되었을 때, 흐트러짐 상태에서 벗어나고 정신력 20 회복. 다음 턴에 공격 레벨 증가 1 얻음. (최대 1) ",
+    "context": "EN :\nTurn End: if Staggered, recover from the Staggered state and heal 20 SP. Gain 1 Offense Level Up next turn. (1 max)\nJP :\nターン終了時に混乱状態になったとき、混乱状態から抜け出して精神力を20回復。次のターンに攻撃レベル増加 1を得る(最大1)"
+  },
+  {
+    "key": "9101402-name",
+    "original": "무례한 것!",
+    "context": "EN :\nInsolent Fool!\nJP :\n無礼者が…！"
+  },
+  {
+    "key": "9101402-desc",
+    "original": "대상이 자신보다 속도가 낮다면, 합 위력 +2",
+    "context": "EN :\nIf this unit's Speed is faster than the target's, Clash Power +2\nJP :\n対象が自分より速度が低ければ、マッチ威力 +2"
+  },
+  {
+    "key": "9101402-summary",
+    "original": "합 위력 +2",
+    "context": "EN :\nClash Power +2\nJP :\nマッチ威力 +2"
+  },
+  {
+    "key": "9101403-name",
+    "original": "마님의 소리가...!",
+    "context": "EN :\nThe Mistress's Voice...!\nJP :\n奥様の声が…！"
+  },
+  {
+    "key": "9101403-desc",
+    "original": "한 공격 스킬의 코인이 모두 앞면이라면, 정신력 10 회복",
+    "context": "EN :\nHeal 10 SP when every Coin of an Attack Skill flips heads\nJP :\n1つの攻撃スキルのコインが全て表面なら、精神力を10回復"
+  },
+  {
+    "key": "9101403-summary",
+    "original": "정신력 10 회복",
+    "context": "EN :\nHeal 10 SP\nJP :\n精神力を10回復"
+  },
+  {
+    "key": "9101404-name",
+    "original": "마님, 보고 계신가요?!",
+    "context": "EN :\nWill You Witness Me, Mistress?!\nJP :\n奥様、見てらっしゃいますか！？"
+  },
+  {
+    "key": "9101404-desc",
+    "original": "공격시 대상에게 침잠이 있고 대상의 정신력이 -15이하라면, 다음 턴에 공격 레벨 증가 3 얻음. (대상당 한 번)",
+    "context": "EN :\nIf the target has Sinking, and if the target has -15 or less SP, gain 3 Offense Level Up next turn. (once per target)\nJP :\n攻撃時、対象に沈潜があるかつ対象の精神力が-15以下なら、次のターンに攻撃レベル増加 3を得る(対象1体につき1回)"
+  },
+  {
+    "key": "9999999-name",
+    "original": "패닉 회복",
+    "context": "EN :\nPanic Recovery\nJP :\nパニック回復"
+  },
+  {
+    "key": "9999999-desc",
+    "original": "턴 종료 시 패닉 상태라면 정신력이 0이됨.",
+    "context": "EN :\nTurn End: if in Panic, reset SP to 0.\nJP :\nターン終了時にパニック状態なら、精神力が0になる。"
+  },
+  {
+    "key": "9999998-name",
+    "original": "패닉 변경 불가",
+    "context": "EN :\nFixed Panic\nJP :\nパニック変更不可"
+  },
+  {
+    "key": "9999998-desc",
+    "original": "패닉 유형을 변경하는 버프 획득 시, 패닉 유형이 변경되지 않음. 대신 정신력이 없는 대상에게 부여되는 효과가 부여됨",
+    "context": "EN :\nThis unit's Panic Type does not change when inflicted with an effect that changes Panic Types. Instead, this unit is inflicted with an effect that is inflicted against targets without SP.\nJP :\nパニックタイプを変更するバフ獲得時、パニックタイプが変更されない。その代わり、精神力の無い対象に付与される効果が付与される"
+  }
+]

@@ -1,0 +1,523 @@
+[
+  {
+    "key": "0-place",
+    "original": "자아심도 - 미로",
+    "context": "EN :\nFathoms of Ego - Maze\nJP :\n自我心道 - 迷路"
+  },
+  {
+    "key": "0-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "0-content",
+    "original": "산초야… 네가 돌아왔으니 이곳은 더욱 즐거워질 수 있을 거다.",
+    "context": "EN :\nHow glad I am to have you back, Sancho... With you by our side, this place shall be even happier.\nJP :\nサンチョよ…君が戻ってきたがゆえ、\nこの場所は更に楽しくなるだろう。"
+  },
+  {
+    "key": "1-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "1-content",
+    "original": "내 가족들은… 이제야 진정으로 행복을 찾을 수 있었단다.",
+    "context": "EN :\nMy Family... has finally found true happiness.\nJP :\n吾の家族たちは…今や本当の幸せを見つけることができたのだよ。"
+  },
+  {
+    "key": "2-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "2-content",
+    "original": "저들은 너무 오랫동안 고통만 받았기 때문에… 누구보다 행복을 누릴 자격이 있는 거야.",
+    "context": "EN :\nBecause they have suffered far too long... they deserve this happiness, more so than anyone.\nJP :\n彼らはあまりにも長い間苦しみばかり受けてきたがゆえ…\n誰よりも幸せを享受する資格があるのだ。"
+  },
+  {
+    "key": "3-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "3-content",
+    "original": "이 라만차랜드에 네가 돌아온다면… 지금보다 더욱 웃음이 가득 찰 수 있겠구나.",
+    "context": "EN :\nWith your return... to La Manchaland... we shall fill this place with even more laughter.\nJP :\nこのラ・マンチャランドに君が戻ってくれば…\n今よりもっと笑顔が満ちるだろう。"
+  },
+  {
+    "key": "4-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "4-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "5-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "5-content",
+    "original": "웃음이라, 가당치 않은 소리를.",
+    "context": "EN :\nLaughter? What a joke.\nJP :\n笑顔だと、馬鹿げたことを。"
+  },
+  {
+    "key": "6-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "6-content",
+    "original": "우린 네놈들을 남김없이 토벌하기 위해 왔다.",
+    "context": "EN :\nWe are here to exterminate your kind.\nJP :\n我々はお前たちを残らず討伐するために来た。"
+  },
+  {
+    "key": "7-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "7-content",
+    "original": "…우리는 참 많은 이야기를 함께 했지, 산초야.",
+    "context": "EN :\n... We have been through so much together, have we not? Sancho.\nJP :\n…吾々は本当に多くの話をしたものだな、サンチョよ。"
+  },
+  {
+    "key": "8-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "8-content",
+    "original": "아무것도 모르는… 저들에게도 보여주도록 하자꾸나…",
+    "context": "EN :\nLet us show them what we have lived through... to these ignorant outsiders...\nJP :\n何も知らぬ…彼らにも見せてやろうではないか…。"
+  },
+  {
+    "key": "9-place",
+    "original": "먼 옛날, 어느 전장",
+    "context": "EN :\nAn Ancient Battlefield\nJP :\n遠い昔、ある戦場"
+  },
+  {
+    "key": "9-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "9-content",
+    "original": "당신은… 무모했죠.",
+    "context": "EN :\nYou were... foolhardy.\nJP :\nあなたは…無謀でしたね。"
+  },
+  {
+    "key": "10-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10-content",
+    "original": "상대는 인간의 피를 매일 같이 마셔대서… 피가 끓어 넘치는 거인 같은 혈귀들이었지.",
+    "context": "EN :\nOur foes were... Bloodfiends who had grown to the size of giants. Those who had drunk so much human blood that it was boiling, overflowing out of their bodies.\nJP :\n相手は人間の血を毎日のように飲み干し…\n血が沸き出る巨人のような血鬼たちだったな。"
+  },
+  {
+    "key": "11-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "11-content",
+    "original": "우리는… 치열한 일전을 벌여야 했단다.",
+    "context": "EN :\nThey were formidable foes. Our battles were... challenging.\nJP :\n吾々は…激しい戦いを繰り広げねばならなかったのだ。"
+  },
+  {
+    "key": "12-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "12-content",
+    "original": "그곳에서 당신은 꿈을 꾸고 있었죠.",
+    "context": "EN :\nEven there, you dreamed.\nJP :\nその場所であなたは夢を見ていたのです。"
+  },
+  {
+    "key": "13-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "13-content",
+    "original": "허황된 꿈에… 불과했지.",
+    "context": "EN :\nA hollow dream... nothing more.\nJP :\n虚しい夢に…過ぎなかった。"
+  },
+  {
+    "key": "14-model",
+    "original": "키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "14-title",
+    "original": "어버이",
+    "context": "EN :\nFather\nJP :\n父上"
+  },
+  {
+    "key": "14-content",
+    "original": "자아, 그대들이여! 결전의 준비는 끝마쳤는가! 곧 출정할 시간이니, 문제가 있다면 지금 말하시게나!",
+    "context": "EN :\nHark, my dearest compatriots! Art thou ready for this battle?! We shall soon strike the battlefield with our full might; speak, if aught ails thee!\nJP :\nさあ、諸君！決戦の準備は整ったか！\nまもなく出陣の時間である、問題があれば今言いたまえ！"
+  },
+  {
+    "key": "15-model",
+    "original": "옛산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "15-title",
+    "original": "가족",
+    "context": "EN :\nFamily\nJP :\n家族"
+  },
+  {
+    "key": "15-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "16-model",
+    "original": "옛산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "16-title",
+    "original": "가족",
+    "context": "EN :\nFamily\nJP :\n家族"
+  },
+  {
+    "key": "16-content",
+    "original": "있습니다.",
+    "context": "EN :\n\"Aught\" ails me.\nJP :\nあります。"
+  },
+  {
+    "key": "17-model",
+    "original": "키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "17-title",
+    "original": "어버이",
+    "context": "EN :\nFather\nJP :\n父上"
+  },
+  {
+    "key": "17-content",
+    "original": "음! 산초여, 말해보아라!",
+    "context": "EN :\nAhem! O Sancho, thou art recognized! Speak thy mind!\nJP :\nうむ！サンチョよ、言ってみたまえ！"
+  },
+  {
+    "key": "18-model",
+    "original": "옛산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "18-title",
+    "original": "가족",
+    "context": "EN :\nFamily\nJP :\n家族"
+  },
+  {
+    "key": "18-content",
+    "original": "말투는 왜 그렇습니까?",
+    "context": "EN :\nWhy are you talking like that?\nJP :\n何ですかその話し方は？"
+  },
+  {
+    "key": "19-model",
+    "original": "키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "19-title",
+    "original": "어버이",
+    "context": "EN :\nFather\nJP :\n父上"
+  },
+  {
+    "key": "19-content",
+    "original": "장차 해결사가 될 몸이라면 그에 걸맞은 말투가 옳지 않겠는가.",
+    "context": "EN :\n'Tis only right that a Fixer-to-be must speak in a manner befitting of his stature.\nJP :\n将来フィクサーになる身なら、\nそれに相応しい話し方をするのが正しいではなかろうか。"
+  },
+  {
+    "key": "20-model",
+    "original": "키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "20-title",
+    "original": "어버이",
+    "context": "EN :\nFather\nJP :\n父上"
+  },
+  {
+    "key": "20-content",
+    "original": "그리고 이 말투를 쓰고 있으면 왠지 모르게 가슴이 뛴다네. 산초, 자네도 이 말투를 써보는 것이 어떠한…",
+    "context": "EN :\nAh, and mine heart beats with such volition whenever I speak in such a manner. O Sancho, prithee, why dost thou not speak as I—\nJP :\nそれにこの話し方をしていると、何故か胸が高鳴るのだよ。\nサンチョ、そなたもこの話し方をしてみてはどうだろ―"
+  },
+  {
+    "key": "21-teller",
+    "original": "반항적인 혈귀",
+    "context": "EN :\nDefiant Bloodfiend\nJP :\n反抗的な血鬼"
+  },
+  {
+    "key": "21-title",
+    "original": "친척",
+    "context": "EN :\nRelative\nJP :\n親戚"
+  },
+  {
+    "key": "21-content",
+    "original": "키아악!",
+    "context": "EN :\nKEEAAAGGHHH!\nJP :\nキァアアッ！"
+  },
+  {
+    "key": "22-model",
+    "original": "옛산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "22-title",
+    "original": "가족",
+    "context": "EN :\nFamily\nJP :\n家族"
+  },
+  {
+    "key": "22-content",
+    "original": "유치해요.",
+    "context": "EN :\nBecause it's ridiculously juvenile.\nJP :\n子供っぽいです。"
+  },
+  {
+    "key": "23-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "23-content",
+    "original": "하지만 그날 너와 초원을 마음껏 달렸던 일은 상쾌했던 것 같구나…",
+    "context": "EN :\nYet, I cannot help but cherish that day when we ran across the green fields together, tasting the freedom...\nJP :\nしかしあの日、お前と草原を思いっきり\n駆けたことは爽快だったような覚えがあるな…。"
+  },
+  {
+    "key": "24-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "24-content",
+    "original": "혈귀들의 기습으로 당신의 창은 꺾였습니다.",
+    "context": "EN :\nYou were ambushed by Bloodfiends who broke your lance.\nJP :\n血鬼たちの奇襲であなたの槍は折れました。"
+  },
+  {
+    "key": "25-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "25-content",
+    "original": "네가 만들어준… 창이었지.",
+    "context": "EN :\nYes. A lance... you had crafted me of your own blood.\nJP :\n君が作ってくれた…槍であったな。"
+  },
+  {
+    "key": "26-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "26-content",
+    "original": "상대를 너무 얕본 나머지 방심한… 탓이었어. 내 오래된 안 좋은 버릇 중 하나야.",
+    "context": "EN :\nIt was... a mistake. I underestimated my foes; a rather unfortunate yet unshakable habit of mine.\nJP :\n相手をあまりにも侮ったために油断した…せいだった。\n吾の昔からの悪い癖の一つだ。"
+  },
+  {
+    "key": "27-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "27-content",
+    "original": "누누이 조심하라고 말씀드렸을 텐데.",
+    "context": "EN :\nI remember telling you to be mindful of them.\nJP :\n何度も注意するよう申し上げたはずですが。"
+  },
+  {
+    "key": "28-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "28-content",
+    "original": "세찬 바람 때문에 내가 공중으로 붕 떠오르고 들판에 내팽겨쳐지자…",
+    "context": "EN :\nA powerful gust knocked me into the air before smiting me down into the grass...\nJP :\n強い風のせいで吾が宙に舞い、野原に放り出されるや否や…。"
+  },
+  {
+    "key": "29-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "29-content",
+    "original": "곧바로 네가 달려오지 않았니. 숨까지… 헐떡거리면서.",
+    "context": "EN :\n... And you hurried to my side, didn't you? I remember your face, your breathing hastened from worry.\nJP :\nすぐに君が駆け寄ってきたではないか。\n息まで…切らして。"
+  },
+  {
+    "key": "30-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "30-content",
+    "original": "그 정도는 아니었습니다.",
+    "context": "EN :\nI wasn't that desperate.\nJP :\nそれほどではありませんでした。"
+  },
+  {
+    "key": "31-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "31-content",
+    "original": "내가 하늘을 바라보며 누워 있는데…",
+    "context": "EN :\nAs I lay upon my back, gasping at the sky from the shock...\nJP :\n吾が空を見上げて横たわっていると…。"
+  },
+  {
+    "key": "32-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "32-content",
+    "original": "그 풍경에서 네가 나오더구나.",
+    "context": "EN :\n... you appeared into that view.\nJP :\nその風景の中に君が現れたのだ。"
+  },
+  {
+    "key": "33-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "33-content",
+    "original": "지금 생각해 보면… 나는 그 순간 덕분에 전쟁에서 이긴 게 아닌가 싶다.",
+    "context": "EN :\nPerhaps... it was that moment that led us to victory in that war.\nJP :\n今思えば…吾はあの瞬間のおかげで\n戦争に勝てたのではないかと思うのだ。"
+  },
+  {
+    "key": "34-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "34-content",
+    "original": "그 전부터 이길 거라고 확신하지 않으셨습니까.",
+    "context": "EN :\nYou were already certain of your own victory even before the war began.\nJP :\nその前から勝つと確信していたのではありませんか。"
+  },
+  {
+    "key": "35-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "35-content",
+    "original": "바뀔 수 있을 거라는 생각을 가졌던 것 같긴 했지…",
+    "context": "EN :\nI must wonder if that was the moment I had begun to think that we could really change.\nJP :\n変わるかもしれないと思っていたような覚えはあるな…。"
+  },
+  {
+    "key": "36-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "36-content",
+    "original": "평생을 뛰기 귀찮아했던 네가 숨이 찰 정도로 달려오는 것처럼…",
+    "context": "EN :\nWatching you, who hated running all your life, breathlessly sprinting to my side...\nJP :\n走ることを一生面倒臭がっていた君が\n息を切らすまでに駆けてくるように…。"
+  },
+  {
+    "key": "37-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "37-content",
+    "original": "우리 역시, 천천히 바뀌고 있었던 건 아닐까? 하고.",
+    "context": "EN :\n... I thought perhaps we were all changing, little by little.\nJP :\n吾々もまた、ゆっくりと変わっていたのではないか？と。"
+  },
+  {
+    "key": "38-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "38-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "39-place",
+    "original": "자아심도 - 미로",
+    "context": "EN :\nFathoms of Ego - Maze\nJP :\n自我心道 - 迷路"
+  },
+  {
+    "key": "39-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "39-content",
+    "original": "하지만 나는, 우리는… 실패했단다. 산초.",
+    "context": "EN :\nYet I... we... failed, Sancho.\nJP :\nしかし吾は、吾々は…失敗したのだよ、サンチョ。"
+  },
+  {
+    "key": "40-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "40-content",
+    "original": "그래, 이건 그 기록이야.",
+    "context": "EN :\nAnd everything around us... is a record, a testament to our failures.\nJP :\nああ、これはその記録だ。"
+  },
+  {
+    "key": "41-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "41-content",
+    "original": "마음껏 둘러보렴, 산초… 우리의 비참한 실패를.",
+    "context": "EN :\nLook around as you will, Sancho. At our desolation...\nJP :\n思う存分見物してくれ、サンチョ…吾々の悲惨な失敗を。"
+  }
+]

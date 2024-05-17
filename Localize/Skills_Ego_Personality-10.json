@@ -1,0 +1,737 @@
+[
+  {
+    "key": "2100411-levelList$[0].name",
+    "original": "초롱",
+    "context": "EN :\nLantern\nJP :\n提灯"
+  },
+  {
+    "key": "2100411-levelList$[0].abName",
+    "original": "요정초롱",
+    "context": "EN :\nFaelantern\nJP :\n妖精提灯"
+  },
+  {
+    "key": "2100411-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 3を付与"
+  },
+  {
+    "key": "2100411-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 현재 체력 비율이 가장 낮은 아군 2명의 체력을 최대 체력의 10%만큼 회복.",
+    "context": "EN :\n[OnSucceedAttack] Heal 2 allies with the lowest HP Percentages by 10% of Max HP.\nJP :\n[OnSucceedAttack] 現体力の比率が最も低い味方2名の体力を、体力最大値の10%分回復"
+  },
+  {
+    "key": "2100411-levelList$[1].name",
+    "original": "초롱",
+    "context": "EN :\nLantern\nJP :\n提灯"
+  },
+  {
+    "key": "2100411-levelList$[1].abName",
+    "original": "요정초롱",
+    "context": "EN :\nFaelantern\nJP :\n妖精提灯"
+  },
+  {
+    "key": "2100411-levelList$[1].desc",
+    "original": "[BeforeAttack] 자신의 체력이 50%미만이면, 공격 가중치 +1",
+    "context": "EN :\n[BeforeAttack] At 50%- HP, Atk Weight +1\nJP :\n[BeforeAttack] 自分の体力が50%未満なら、攻撃加重値 +1"
+  },
+  {
+    "key": "2100411-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 3を付与"
+  },
+  {
+    "key": "2100411-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 현재 체력 비율이 가장 낮은 아군 2명의 체력을 최대 체력의 12%만큼 회복.",
+    "context": "EN :\n[OnSucceedAttack] Heal 2 allies with the lowest HP by 12% of Max HP.\nJP :\n[OnSucceedAttack] 現体力の比率が最も低い味方2名の体力を、体力最大値の12%分回復"
+  },
+  {
+    "key": "2100411-levelList$[2].name",
+    "original": "초롱",
+    "context": "EN :\nLantern\nJP :\n提灯"
+  },
+  {
+    "key": "2100411-levelList$[2].abName",
+    "original": "요정초롱",
+    "context": "EN :\nFaelantern\nJP :\n妖精提灯"
+  },
+  {
+    "key": "2100411-levelList$[2].desc",
+    "original": "[BeforeAttack] 자신의 체력이 50%미만이면, 공격 가중치 +2",
+    "context": "EN :\n[BeforeAttack] At 50%- HP, Atk Weight +2\nJP :\n[BeforeAttack] 自分の体力が50%未満なら、攻撃加重値 +2"
+  },
+  {
+    "key": "2100411-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "2100411-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 현재 체력 비율이 가장 낮은 아군 2명의 체력을 최대 체력의 15%만큼 회복.",
+    "context": "EN :\n[OnSucceedAttack] Heal 2 allies with the lowest HP by 15% of Max HP.\nJP :\n[OnSucceedAttack] 現体力の比率が最も低い味方2名の体力を、体力最大値の15%分回復"
+  },
+  {
+    "key": "2100421-levelList$[0].name",
+    "original": "초롱",
+    "context": "EN :\nLantern\nJP :\n提灯"
+  },
+  {
+    "key": "2100421-levelList$[0].abName",
+    "original": "요정초롱",
+    "context": "EN :\nFaelantern\nJP :\n妖精提灯"
+  },
+  {
+    "key": "2100421-levelList$[0].desc",
+    "original": "[CantIdentify]\n체력이 가장 많은 대상 공격",
+    "context": "EN :\n[CantIdentify] \nTarget the unit with the most HP\nJP :\n[CantIdentify]\n体力が最も高い対象を攻撃"
+  },
+  {
+    "key": "2100421-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackTail] Inflict +2 Rupture Count\nJP :\n[OnSucceedAttackTail] 破裂 回数が2増加"
+  },
+  {
+    "key": "2100421-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 체력을 피해량의 30%만큼 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal self by 30% of damage dealt\nJP :\n[OnSucceedAttack] 自分の体力をダメージ量の30%分回復"
+  },
+  {
+    "key": "2100421-levelList$[1].name",
+    "original": "초롱",
+    "context": "EN :\nLantern\nJP :\n提灯"
+  },
+  {
+    "key": "2100421-levelList$[1].abName",
+    "original": "요정초롱",
+    "context": "EN :\nFaelantern\nJP :\n妖精提灯"
+  },
+  {
+    "key": "2100421-levelList$[1].desc",
+    "original": "[CantIdentify]\n체력이 가장 많은 대상 공격\n[BeforeAttack] 자신의 체력이 50% 미만이면, 공격 가중치 +1",
+    "context": "EN :\n[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +1\nJP :\n[CantIdentify]\n体力が最も高い対象を攻撃\n[BeforeAttack] 自分の体力が50%未満なら、攻撃加重値 +1"
+  },
+  {
+    "key": "2100421-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 파열 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttackTail] Inflict +3 Rupture Count\nJP :\n[OnSucceedAttackTail] 破裂 回数が3増加"
+  },
+  {
+    "key": "2100421-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 방어 레벨 감소 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Defense Level Down\nJP :\n[OnSucceedAttack] 防御レベル減少 3を付与"
+  },
+  {
+    "key": "2100421-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 자신의 체력을 피해량의 50%만큼 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal self by 50% of damage dealt\nJP :\n[OnSucceedAttack] 自分の体力をダメージ量の50%分回復"
+  },
+  {
+    "key": "2100421-levelList$[2].name",
+    "original": "초롱",
+    "context": "EN :\nLantern\nJP :\n提灯"
+  },
+  {
+    "key": "2100421-levelList$[2].abName",
+    "original": "요정초롱",
+    "context": "EN :\nFaelantern\nJP :\n妖精提灯"
+  },
+  {
+    "key": "2100421-levelList$[2].desc",
+    "original": "[CantIdentify]\n체력이 가장 많은 대상 공격\n[BeforeAttack] 자신의 체력이 50% 미만이면, 공격 가중치 +2",
+    "context": "EN :\n[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +2\nJP :\n[CantIdentify]\n体力が最も高い対象を攻撃\n[BeforeAttack] 自分の体力が50%未満なら、攻撃加重値 +2"
+  },
+  {
+    "key": "2100421-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が3増加"
+  },
+  {
+    "key": "2100421-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 방어 레벨 감소 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Defense Level Down\nJP :\n[OnSucceedAttack] 防御レベル減少 5を付与"
+  },
+  {
+    "key": "2100421-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 자신의 체력을 피해량의 50%만큼 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal self by 50% of damage dealt\nJP :\n[OnSucceedAttack] 自分の体力をダメージ量の50%分回復"
+  },
+  {
+    "key": "2100511-levelList$[0].name",
+    "original": "9장 2절",
+    "context": "EN :\n9:2\nJP :\n9章2節"
+  },
+  {
+    "key": "2100511-levelList$[0].abName",
+    "original": "살갗 예언자",
+    "context": "EN :\nSkin Prophet\nJP :\n皮膚の予言者"
+  },
+  {
+    "key": "2100511-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has no Burn, inflict 4 Burn\nJP :\n[OnSucceedAttack] 対象に火傷 がないなら、火傷 4を付与"
+  },
+  {
+    "key": "2100511-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Burn\nJP :\n[OnSucceedAttack] 火傷 4を付与"
+  },
+  {
+    "key": "2100511-levelList$[1].name",
+    "original": "9장 2절",
+    "context": "EN :\n9:2\nJP :\n9章2節"
+  },
+  {
+    "key": "2100511-levelList$[1].abName",
+    "original": "살갗 예언자",
+    "context": "EN :\nSkin Prophet\nJP :\n皮膚の予言者"
+  },
+  {
+    "key": "2100511-levelList$[1].desc",
+    "original": "[BeforeAttack] (색욕 공명 수)가 4 이상이면, 공격 가중치 +1",
+    "context": "EN :\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\nJP :\n[BeforeAttack] (色欲共鳴数)が4以上なら、攻撃加重値 +1"
+  },
+  {
+    "key": "2100511-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has no Burn, inflict 4 Burn\nJP :\n[OnSucceedAttack] 対象に火傷 がないなら、火傷 4を付与"
+  },
+  {
+    "key": "2100511-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Burn\nJP :\n[OnSucceedAttack] 火傷 4を付与"
+  },
+  {
+    "key": "2100511-levelList$[2].name",
+    "original": "9장 2절",
+    "context": "EN :\n9:2\nJP :\n9章2節"
+  },
+  {
+    "key": "2100511-levelList$[2].abName",
+    "original": "살갗 예언자",
+    "context": "EN :\nSkin Prophet\nJP :\n皮膚の予言者"
+  },
+  {
+    "key": "2100511-levelList$[2].desc",
+    "original": "[BeforeAttack] (색욕 공명 수)가 4 이상이면, 공격 가중치 +1\n[BeforeAttack] (최대 색욕 완전 공명 수)가 4 이상이면, 추가로 공격 가중치 +1",
+    "context": "EN :\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson.), additional Atk Weight +1\nJP :\n[BeforeAttack] (色欲共鳴数)が4以上なら、攻撃加重値 +1\n[BeforeAttack] (最大色欲完全共鳴数)が4以上なら、追加で攻撃加重値 +1"
+  },
+  {
+    "key": "2100511-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has no Burn, inflict 4 Burn\nJP :\n[OnSucceedAttack] 対象に火傷 がないなら、火傷 4を付与"
+  },
+  {
+    "key": "2100511-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Burn\nJP :\n[OnSucceedAttack] 火傷 4を付与"
+  },
+  {
+    "key": "2100511-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackTail] 대상의 화상이 10 이상이면 다음 턴에 공격 위력 감소 1, 수비 위력 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttackTail] If target has 10+ Burn, inflict 1 Attack Power Down and 1 Defense Power Down next turn\nJP :\n[OnSucceedAttackTail] 対象の火傷が10以上なら、次のターンに攻撃威力減少 1, 守備威力減少 1を付与"
+  },
+  {
+    "key": "2100521-levelList$[0].name",
+    "original": "9장 2절",
+    "context": "EN :\n9:2\nJP :\n9章2節"
+  },
+  {
+    "key": "2100521-levelList$[0].abName",
+    "original": "살갗 예언자",
+    "context": "EN :\nSkin Prophet\nJP :\n皮膚の予言者"
+  },
+  {
+    "key": "2100521-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nJP :\n[CantIdentify]\nランダムな対象を攻撃"
+  },
+  {
+    "key": "2100521-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 6 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has no Burn, inflict 6 Burn\nJP :\n[OnSucceedAttack] 対象に火傷 がないなら、火傷 6を付与"
+  },
+  {
+    "key": "2100521-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Burn\nJP :\n[OnSucceedAttack] 火傷 4を付与"
+  },
+  {
+    "key": "2100521-levelList$[1].name",
+    "original": "9장 2절",
+    "context": "EN :\n9:2\nJP :\n9章2節"
+  },
+  {
+    "key": "2100521-levelList$[1].abName",
+    "original": "살갗 예언자",
+    "context": "EN :\nSkin Prophet\nJP :\n皮膚の予言者"
+  },
+  {
+    "key": "2100521-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (색욕 공명 수)가 4 이상이면 공격 가중치 +1",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (色欲共鳴数)が4以上なら、攻撃加重値 +1"
+  },
+  {
+    "key": "2100521-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 6 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has no Burn, inflict 6 Burn\nJP :\n[OnSucceedAttack] 対象に火傷 がないなら、火傷 6を付与"
+  },
+  {
+    "key": "2100521-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Burn\nJP :\n[OnSucceedAttack] 火傷 4を付与"
+  },
+  {
+    "key": "2100521-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackTail] 대상의 화상이 10 이상이면 다음 턴에 색욕 취약 1 부여",
+    "context": "EN :\n[OnSucceedAttackTail] If target has 10+ Burn, inflict 1 Lust Fragility next turn\nJP :\n[OnSucceedAttackTail] 対象の火傷が10以上なら、次のターンに色欲脆弱 1を付与"
+  },
+  {
+    "key": "2100521-levelList$[2].name",
+    "original": "9장 2절",
+    "context": "EN :\n9:2\nJP :\n9章2節"
+  },
+  {
+    "key": "2100521-levelList$[2].abName",
+    "original": "살갗 예언자",
+    "context": "EN :\nSkin Prophet\nJP :\n皮膚の予言者"
+  },
+  {
+    "key": "2100521-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (색욕 공명 수)가 4 이상이면, 공격 가중치 +1\n[BeforeAttack] (최대 색욕 완전 공명 수)가 4 이상이면, 추가로 공격 가중치 +1",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson), additional Atk Weight +1\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (色欲共鳴数)が4以上なら、攻撃加重値 +1\n[BeforeAttack] (最大色欲完全共鳴数)が4以上なら、追加で攻撃加重値 +1"
+  },
+  {
+    "key": "2100521-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 6 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has no Burn, inflict 6 Burn\nJP :\n[OnSucceedAttack] 対象に火傷 がないなら、火傷 6を付与"
+  },
+  {
+    "key": "2100521-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Burn\nJP :\n[OnSucceedAttack] 火傷 4を付与"
+  },
+  {
+    "key": "2100521-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackTail] 대상의 화상이 10 이상이면 다음 턴에 색욕 취약 2 부여",
+    "context": "EN :\n[OnSucceedAttackTail] If target has 10+ Burn, inflict 2 Lust Fragility next turn\nJP :\n[OnSucceedAttackTail] 対象の火傷が10以上なら、次のターンに色欲脆弱 2を付与"
+  },
+  {
+    "key": "2100611-levelList$[0].name",
+    "original": "낮은울음",
+    "context": "EN :\nCavernous Wailing\nJP :\n低いなきごえ"
+  },
+  {
+    "key": "2100611-levelList$[0].abName",
+    "original": "울음 두꺼비",
+    "context": "EN :\nBlubbering Toad\nJP :\n泣きヒキガエル"
+  },
+  {
+    "key": "2100611-levelList$[0].desc",
+    "original": "[BeforeAttack] 최대 공명 수가 4 이상이면, 공격 가중치 +1",
+    "context": "EN :\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\nJP :\n[BeforeAttack] 最大共鳴数が4以上なら、攻撃加重値 +1"
+  },
+  {
+    "key": "2100611-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[EndSkill] 자신과 현재 체력이 가장 적은 아군 1명에게 자신의 최대 체력 10%만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여",
+    "context": "EN :\n[EndSkill] Apply 10% of this unit's max HP as Shield to self and 1 other ally with the least current HP, and apply 2 [ShieldManagerCryingToad] as well\nJP :\n[EndSkill] 自分と現体力が最も低い味方1名へ、自分の体力最大値の10%だけバリアを付与して[ShieldManagerCryingToad]2を付与"
+  },
+  {
+    "key": "2100611-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "- 최대 공명 수가 4 이상이면, 부여 대상 수 +1",
+    "context": "EN :\n- At 4+ highest Reson., apply it to 1 more ally\nJP :\n- 最大共鳴数が4以上なら、付与対象数 +1"
+  },
+  {
+    "key": "2100611-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "- 대상에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경",
+    "context": "EN :\n- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2\nJP :\n- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更"
+  },
+  {
+    "key": "2100611-levelList$[0].coinlist[0].coindescs[3].desc",
+    "original": "- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨",
+    "context": "EN :\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.\nJP :\n- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される"
+  },
+  {
+    "key": "2100611-levelList$[1].name",
+    "original": "낮은울음",
+    "context": "EN :\nCavernous Wailing\nJP :\n低いなきごえ"
+  },
+  {
+    "key": "2100611-levelList$[1].abName",
+    "original": "울음 두꺼비",
+    "context": "EN :\nBlubbering Toad\nJP :\n泣きヒキガエル"
+  },
+  {
+    "key": "2100611-levelList$[1].desc",
+    "original": "<style=\"highlight\">[BeforeAttack] (최대 공명 수-2)만큼 공격 가중치 증가 (최대 2)</style>",
+    "context": "EN :\n<style=\"highlight\">[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)</style>\nJP :\n<style=\"highlight\">[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加加重値が増加(最大2)</style>"
+  },
+  {
+    "key": "2100611-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[EndSkill] 자신과 현재 체력이 가장 적은 아군 <style=\"highlight\">1+(최대 공명 수-2)</style>명에게 자신의 최대 체력 <style=\"highlight\">14%</style>만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여 <style=\"highlight\">(자신 제외 최대 부여 대상 수: 3)</style>",
+    "context": "EN :\n[EndSkill] Apply <style=\"highlight\">14%</style> of this unit's max HP as Shield to self and <style=\"highlight\">(1 + (highest Reson. - 2))</style> allies with the least current HP, and apply 2 [ShieldManagerCryingToad] as well\n<style=\"highlight\">(max # of other allies that gain [ShieldManagerCryingToad]: 3)</style>\nJP :\n[EndSkill] 自分と現体力が最も低い味方<style=\"highlight\">1 + (最大共鳴数 - 2)</style>名へ、自分の体力最大値の<style=\"highlight\">14%</style>だけバリアを付与して[ShieldManagerCryingToad]2を付与 <style=\"highlight\">(自分を除いた最大付与対象数: 3)</style>"
+  },
+  {
+    "key": "2100611-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "- 대상에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경<style=\"highlight\"></style>",
+    "context": "EN :\n- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>\nJP :\n- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100611-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨<style=\"highlight\"></style>",
+    "context": "EN :\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>\nJP :\n- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100611-levelList$[2].name",
+    "original": "낮은울음",
+    "context": "EN :\nCavernous Wailing\nJP :\n低いなきごえ"
+  },
+  {
+    "key": "2100611-levelList$[2].abName",
+    "original": "울음 두꺼비",
+    "context": "EN :\nBlubbering Toad\nJP :\n泣きヒキガエル"
+  },
+  {
+    "key": "2100611-levelList$[2].desc",
+    "original": "[BeforeAttack] (최대 공명 수-2)만큼 공격 가중치 증가 (최대 2)<style=\"highlight\"></style>",
+    "context": "EN :\n[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)<style=\"highlight\"></style>\nJP :\n[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加加重値が増加(最大2)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100611-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[EndSkill] 자신과 현재 체력이 가장 적은 아군 1+(최대 공명 수-2)명에게 자신의 최대 체력 <style=\"highlight\">20%</style>만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여 (자신 제외 최대 부여 대상 수: 3)",
+    "context": "EN :\n[EndSkill] Apply <style=\"highlight\">20%</style> of this unit's max HP as Shield to self and (1 + (highest Reson. - 2)) allies with the least current HP, and apply 2 [ShieldManagerCryingToad] as well\n(max # of other allies that gain [ShieldManagerCryingToad]: 3)\nJP :\n[EndSkill] 自分と現体力が最も低い味方1 + (最大共鳴数 - 2)名へ、自分の体力最大値の<style=\"highlight\">20%</style>だけバリアを付与して[ShieldManagerCryingToad]2を付与 (自分を除いた最大付与対象数: 3)"
+  },
+  {
+    "key": "2100611-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "- 대상에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경<style=\"highlight\"></style>",
+    "context": "EN :\n- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>\nJP :\n- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100611-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨<style=\"highlight\"></style>",
+    "context": "EN :\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>\nJP :\n- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100621-levelList$[0].name",
+    "original": "낮은울음",
+    "context": "EN :\nCavernous Wailing\nJP :\n低いなきごえ"
+  },
+  {
+    "key": "2100621-levelList$[0].abName",
+    "original": "울음 두꺼비",
+    "context": "EN :\nBlubbering Toad\nJP :\n泣きヒキガエル"
+  },
+  {
+    "key": "2100621-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 최대 공명 수가 4 이상이면, 공격 가중치 +1\n[BeforeAttack] 다음 턴에 이 스킬 슬롯의 [Aggro] 5 증가",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ highest Reson., Atk Weight +1\n[BeforeAttack] Gain +5 [Aggro] to this Skill Slot next turn\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 最大共鳴数が4以上なら、攻撃加重値 +1\n[BeforeAttack] 次のターンにこのスキルスロットの[Aggro]が5増加"
+  },
+  {
+    "key": "2100621-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 [Sinking] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]\nJP :\n[OnSucceedAttack] 対象へ[Sinking]2を付与"
+  },
+  {
+    "key": "2100621-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[EndSkill] 자신에게 자신의 최대 체력 (15+최대 공명 수x2.5)% 만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여. (최대 25%)",
+    "context": "EN :\n[EndSkill] Gain (15 + 2.5(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max 25%)\nJP :\n[EndSkill] 自分へ自分の体力最大値(15 + 最大共鳴数 × 2.5)%だけバリアを付与し、[ShieldManagerCryingToad]2を付与。(最大25%)"
+  },
+  {
+    "key": "2100621-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "- 자신에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경",
+    "context": "EN :\n- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2\nJP :\n- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更"
+  },
+  {
+    "key": "2100621-levelList$[0].coinlist[0].coindescs[3].desc",
+    "original": "- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨",
+    "context": "EN :\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'gain 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.\nJP :\n- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される"
+  },
+  {
+    "key": "2100621-levelList$[1].name",
+    "original": "낮은울음",
+    "context": "EN :\nCavernous Wailing\nJP :\n低いなきごえ"
+  },
+  {
+    "key": "2100621-levelList$[1].abName",
+    "original": "울음 두꺼비",
+    "context": "EN :\nBlubbering Toad\nJP :\n泣きヒキガエル"
+  },
+  {
+    "key": "2100621-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n<style=\"highlight\">[BeforeAttack] (최대 공명 수-2)만큼 공격 가중치 증가 (최대 2)</style>\n[BeforeAttack] 다음 턴에 이 스킬 슬롯의 <style=\"highlight\">[Aggro] 10</style> 증가",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n<style=\"highlight\">[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)</style>\n[BeforeAttack] Gain <style=\"highlight\">+10 [Aggro]</style> to this Skill Slot next turn\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加(最大2)</style>\n[BeforeAttack] 次のターンにこのスキルスロットの[Aggro]が<style=\"highlight\">10</style>増加"
+  },
+  {
+    "key": "2100621-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 [Sinking] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 対象へ[Sinking]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100621-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[EndSkill] 자신에게 자신의 최대 체력 (<style=\"highlight\">18</style>+최대 공명 수x<style=\"highlight\">3</style>)% 만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여. (최대 <style=\"highlight\">30%</style>)",
+    "context": "EN :\n[EndSkill] Gain (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max <style=\"highlight\">30%</style>)\nJP :\n[EndSkill] 自分へ自分の体力最大値(<style=\"highlight\">18</style> + 最大共鳴数 × <style=\"highlight\">3</style>)%だけバリアを付与し、[ShieldManagerCryingToad]2を付与。(最大<style=\"highlight\">30%</style>)"
+  },
+  {
+    "key": "2100621-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "- 자신에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경<style=\"highlight\"></style>",
+    "context": "EN :\n- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>\nJP :\n- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100621-levelList$[1].coinlist[0].coindescs[3].desc",
+    "original": "- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨<style=\"highlight\"></style>",
+    "context": "EN :\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>\nJP :\n- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100621-levelList$[2].name",
+    "original": "낮은울음",
+    "context": "EN :\nCavernous Wailing\nJP :\n低いなきごえ"
+  },
+  {
+    "key": "2100621-levelList$[2].abName",
+    "original": "울음 두꺼비",
+    "context": "EN :\nBlubbering Toad\nJP :\n泣きヒキガエル"
+  },
+  {
+    "key": "2100621-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 공명 수-2)만큼 공격 가중치 증가 (최대 2)\n[BeforeAttack] 다음 턴에 이 스킬 슬롯의 [Aggro] 10 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)\n[BeforeAttack] Gain +10 [Aggro] to this Skill Slot next turn<style=\"highlight\"></style>\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加(最大2)\n[BeforeAttack] 次のターンにこのスキルスロットの[Aggro]が10増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100621-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 [Sinking] 2, <style=\"highlight\">[Sinking] 횟수 3</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking] and <style=\"highlight\">+3 [Sinking] Count</style>\nJP :\n[OnSucceedAttack] 対象へ[Sinking]2, <style=\"highlight\">[Sinking]回数を3</style>付与"
+  },
+  {
+    "key": "2100621-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[EndSkill] 자신에게 자신의 최대 체력 (<style=\"highlight\">20</style>+최대 공명 수x<style=\"highlight\">5</style>)% 만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여. (최대 <style=\"highlight\">40%</style>)",
+    "context": "EN :\n[EndSkill] Gain (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max <style=\"highlight\">40%</style>)\nJP :\n[EndSkill] 自分へ自分の体力最大値(<style=\"highlight\">20</style> + 最大共鳴数 × <style=\"highlight\">5</style>)%だけバリアを付与し、[ShieldManagerCryingToad]2を付与。(最大<style=\"highlight\">40%</style>)"
+  },
+  {
+    "key": "2100621-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "- 자신에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경<style=\"highlight\"></style>",
+    "context": "EN :\n- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>\nJP :\n- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100621-levelList$[2].coinlist[0].coindescs[3].desc",
+    "original": "- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨<style=\"highlight\"></style>",
+    "context": "EN :\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>\nJP :\n- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100621-levelList$[2].coinlist[0].coindescs[4].desc",
+    "original": "<style=\"highlight\">- 우울 공명이 4 이상이면, 자신에게 자신의 최대 체력 10%만큼 보호막 추가 부여</style>",
+    "context": "EN :\n<style=\"highlight\">- At 4+ Gloom Reson., gain additional Shield equal to 10% of this unit's max HP</style>\nJP :\n<style=\"highlight\">- 憂鬱共鳴が4以上なら、自分へ自分の体力最大値10%だけバリアを追加で付与</style>"
+  },
+  {
+    "key": "2100711-levelList$[0].name",
+    "original": "저주못",
+    "context": "EN :\nHex Nail\nJP :\n呪いの釘"
+  },
+  {
+    "key": "2100711-levelList$[0].abName",
+    "original": "아파하는 테디",
+    "context": "EN :\nHurting Teddy Bear\nJP :\n痛がるテディ"
+  },
+  {
+    "key": "2100711-levelList$[0].desc",
+    "original": "[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소",
+    "context": "EN :\n[EndSkill] If the target has [Curse], immediately activate it twice and reduce it by 2\nJP :\n[EndSkill] 対象に[Curse]があれば、該当効果を即2回発動して[Curse]が2減少"
+  },
+  {
+    "key": "2100711-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttackHead] [Laceration]2を付与"
+  },
+  {
+    "key": "2100711-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse] 2 부여\n- [Curse]와 [NailPersonality]을 제외한 대상의 부정적 효과 3개당 [Curse] 1 추가로 부여 (최대 2)",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every 3 negative effect on the target that aren't [Curse] or [NailPersonality] (max 2)\nJP :\n[OnSucceedAttack] [Curse]2を付与\n- [Curse]と[NailPersonality]を除く対象のマイナス効果3つにつき[Curse]1を追加で付与(最大2)"
+  },
+  {
+    "key": "2100711-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [NailPersonality] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [NailPersonality]\nJP :\n[OnSucceedAttack] [NailPersonality]2を付与"
+  },
+  {
+    "key": "2100711-levelList$[1].name",
+    "original": "저주못",
+    "context": "EN :\nHex Nail\nJP :\n呪いの釘"
+  },
+  {
+    "key": "2100711-levelList$[1].abName",
+    "original": "아파하는 테디",
+    "context": "EN :\nHurting Teddy Bear\nJP :\n痛がるテディ"
+  },
+  {
+    "key": "2100711-levelList$[1].desc",
+    "original": "<style=\"highlight\">[BeforeAttack] 이 스킬을 포함하여 질투 공명이 4 이상이면 공격 가중치 +1</style>\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소",
+    "context": "EN :\n<style=\"highlight\">[BeforeAttack] At 4+ Envy Reson. including this Skill, Atk Weight +1</style>\n[EndSkill] If the target has [Curse], immediately activate it twice and reduce it by 2\nJP :\n<style=\"highlight\">[BeforeAttack] このスキルを含めて嫉妬共鳴が4以上なら、攻撃加重値 +1</style>\n[EndSkill] 対象へ[Curse]があれば、該当効果を即2回発動して[Curse]が2減少"
+  },
+  {
+    "key": "2100711-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttackHead] [Laceration]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100711-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse] 2 부여\n- [Curse]와 [NailPersonality]을 제외한 대상의 부정적 효과 3개당 [Curse] 1 추가로 부여 (최대 2)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every 3 negative effect on the target that aren't [Curse] or [NailPersonality] (max 2)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Curse]2を付与\n- [Curse]と[NailPersonality]を除く対象のマイナス効果3つにつき[Curse]1を追加で付与(最大2)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100711-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [NailPersonality] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [NailPersonality]\nJP :\n[OnSucceedAttack] [NailPersonality]<style=\"highlight\">3</style>を付与"
+  },
+  {
+    "key": "2100711-levelList$[1].coinlist[1].coindescs[2].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttackHead] 다음 턴에 [Binding] 2 부여 (턴 당 1회)</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttackHead] Inflict 2 [Binding] next turn (once per turn)</style>\nJP :\n<style=\"highlight\">[OnSucceedAttackHead] 次のターンに[Binding]2を付与(1ターンにつき1回)</style>"
+  },
+  {
+    "key": "2100711-levelList$[2].name",
+    "original": "저주못",
+    "context": "EN :\nHex Nail\nJP :\n呪いの釘"
+  },
+  {
+    "key": "2100711-levelList$[2].abName",
+    "original": "아파하는 테디",
+    "context": "EN :\nHurting Teddy Bear\nJP :\n痛がるテディ"
+  },
+  {
+    "key": "2100711-levelList$[2].desc",
+    "original": "<style=\"highlight\">[BeforeAttack] 이 스킬을 포함하여 공명 수 3당 공격 가중치 +1 (최대 2)</style>\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소",
+    "context": "EN :\n<style=\"highlight\">[BeforeAttack] For every 3 Envy Reson. including this Skill, Atk Weight +1 (max 2)</style>\n[EndSkill] If the target has [Curse], immediately activate it twice and reduce it by 2\nJP :\n<style=\"highlight\">[BeforeAttack] このスキルを含めて共鳴3につき、攻撃加重値 +1(最大2)</style>\n[EndSkill] 対象へ[Curse]があれば、該当効果を即2回発動して[Curse]が2減少"
+  },
+  {
+    "key": "2100711-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttackHead] [Laceration]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100711-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse] 2 부여\n- [Curse]와 [NailPersonality]을 제외한 대상의 부정적 효과 <style=\"highlight\">2</style>개당 [Curse] 1 추가로 부여 (최대 2)",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every <style=\"highlight\">2</style> negative effect on the target that aren't [Curse] or [NailPersonality] (max 2)\nJP :\n[OnSucceedAttack] [Curse]2を付与\n- [Curse]と[NailPersonality]を除く対象のマイナス効果<style=\"highlight\">2</style>つにつき[Curse]1を追加で付与(最大2)"
+  },
+  {
+    "key": "2100711-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [NailPersonality] 3 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [NailPersonality]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [NailPersonality]3を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100711-levelList$[2].coinlist[1].coindescs[2].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 대상의 [Curse]가 4 이상이면, [ParryingResultDown] 1 부여 (턴 당 1회)</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] At 4+ [Curse], inflict 1 [ParryingResultDown] (once per turn)</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 対象の[Curse]が4以上なら、[ParryingResultDown]1を付与(1ターンにつき1回)</style>"
+  },
+  {
+    "key": "2100711-levelList$[2].coinlist[1].coindescs[3].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 [Binding] 2 부여 (턴 당 1회)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 [Binding] next turn (once per turn)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttackHead] 次のターンに[Binding]2を付与(1ターンにつき1回)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100721-levelList$[0].name",
+    "original": "저주못",
+    "context": "EN :\nHex Nail\nJP :\n呪いの釘"
+  },
+  {
+    "key": "2100721-levelList$[0].abName",
+    "original": "아파하는 테디",
+    "context": "EN :\nHurting Teddy Bear\nJP :\n痛がるテディ"
+  },
+  {
+    "key": "2100721-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n[EndSkill] If the target has [Curse], immediately activate it twice and reduce it by 2\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 対象に[Curse]があれば、該当効果を即2回発動して[Curse]が2減少"
+  },
+  {
+    "key": "2100721-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttackTail] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttackTail] [Laceration]を2付与"
+  },
+  {
+    "key": "2100721-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Curse]\nJP :\n[OnSucceedAttack] [Curse]4を付与"
+  },
+  {
+    "key": "2100721-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [NailPersonality] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [NailPersonality]\nJP :\n[OnSucceedAttack] [NailPersonality]2を付与"
+  },
+  {
+    "key": "2100721-levelList$[1].name",
+    "original": "저주못",
+    "context": "EN :\nHex Nail\nJP :\n呪いの釘"
+  },
+  {
+    "key": "2100721-levelList$[1].abName",
+    "original": "아파하는 테디",
+    "context": "EN :\nHurting Teddy Bear\nJP :\n痛がるテディ"
+  },
+  {
+    "key": "2100721-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n[EndSkill] If the target has [Curse], immediately activate it twice and reduce it by 2<style=\"highlight\"></style>\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 対象に[Curse]があれば、該当効果を即2回発動して[Curse]が2減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100721-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] [Laceration] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[OnSucceedAttackTail] Inflict <style=\"highlight\">3</style> [Laceration]\nJP :\n[OnSucceedAttackTail] [Laceration]<style=\"highlight\">3</style>を付与"
+  },
+  {
+    "key": "2100721-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse] 4 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Curse]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Curse]4を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100721-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [NailPersonality] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [NailPersonality]\nJP :\n[OnSucceedAttack] [NailPersonality]<style=\"highlight\">3</style>を付与"
+  },
+  {
+    "key": "2100721-levelList$[1].coinlist[1].coindescs[2].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttackTail] 다음 턴에 [Binding] 2 부여 (턴 당 1회)</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttackTail] Inflict 2 [Binding] next turn (once per turn)</style>\nJP :\n<style=\"highlight\">[OnSucceedAttackTail] 次のターンに[Binding]2を付与(1ターンにつき1回)</style>"
+  },
+  {
+    "key": "2100721-levelList$[2].name",
+    "original": "저주못",
+    "context": "EN :\nHex Nail\nJP :\n呪いの釘"
+  },
+  {
+    "key": "2100721-levelList$[2].abName",
+    "original": "아파하는 테디",
+    "context": "EN :\nHurting Teddy Bear\nJP :\n痛がるテディ"
+  },
+  {
+    "key": "2100721-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n[EndSkill] If the target has [Curse], immediately activate it twice and reduce it by 2<style=\"highlight\"></style>\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 対象に[Curse]があれば、該当効果を即2回発動して[Curse]が2減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100721-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] [Laceration] 3 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttackTail] Inflict 3 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttackTail] [Laceration]3を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100721-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse] 4 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Curse]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Curse]4を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100721-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [NailPersonality] 3 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [NailPersonality]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [NailPersonality]3を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100721-levelList$[2].coinlist[1].coindescs[2].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 이 스킬을 포함하여 질투 공명이 4 이상이면, [ParryingResultDown] 1 부여 (턴 당 1회)</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] At 4+ Envy Reson. including this Skill, inflict 1 [ParryingResultDown] (once per turn)</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] このスキルを含めて嫉妬共鳴が4以上なら、[ParryingResultDown]1を付与(1ターンにつき1回)</style>"
+  },
+  {
+    "key": "2100721-levelList$[2].coinlist[1].coindescs[3].desc",
+    "original": "[OnSucceedAttackTail] 다음 턴에 [Binding] 2 부여 (턴 당 1회)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttackTail] Inflict 2 [Binding] next turn (once per turn)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttackTail] 次のターンに[Binding]2を付与(1ターンにつき1回)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2100721-levelList$[2].coinlist[1].coindescs[4].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttackTail] 다음 턴에 [DefenseDown] 2 부여 (턴 당 1회)</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttackTail] Inflict 2 [DefenseDown] next turn (once per turn)</style>\nJP :\n<style=\"highlight\">[OnSucceedAttackTail] 次のターンに[DefenseDown]2を付与(1ターンにつき1回)</style>"
+  }
+]

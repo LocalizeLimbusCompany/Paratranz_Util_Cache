@@ -1,0 +1,857 @@
+[
+  {
+    "key": "0-place",
+    "original": "T사 골목",
+    "context": "EN :\nAn Alleyway of T Corp.\nJP :\nT社の路地"
+  },
+  {
+    "key": "0-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "0-content",
+    "original": "늦었다, 시계.",
+    "context": "EN :\nYou're late, Clock.\nJP :\n遅い、時計。"
+  },
+  {
+    "key": "1-content",
+    "original": "먼저 간 두 수감자들과 합류하니, 이미 잠복할 곳을 찾은 듯 몸을 낮추고 숨을 죽이고 있었다.",
+    "context": "EN :\nThe two Sinners had a head start, but it didn't take very long before we caught up to them and saw them quietly kneeling behind cover.\nJP :\n先に行った囚人2人と合流すると、既に潜伏場所を見つけたらしく\n身を屈めながら息を殺していた。"
+  },
+  {
+    "key": "2-model",
+    "original": "탐정홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "2-content",
+    "original": "저희가 먼저 앞으로 가서 주의를 끌게요! 이쪽으로 놈을 몰아넣을 수 있을 거예요.",
+    "context": "EN :\nWe'll go ahead and draw their attention! We should be able to corner them in this direction.\nJP :\n僕たちが先行して注意を引きます！\nこっちに奴を追い込めると思います。"
+  },
+  {
+    "key": "3-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "3-content",
+    "original": "<료슈랑 홍루가 저쪽으로 갔으니까… 우리만 잘 덮치면 일도 해결될 수 있겠어.>",
+    "context": "EN :\n<Since Ryōshū and Hong Lu are out there to draw the culprit here... we just have to do our part and capture them.>\nJP :\n<良秀とホンルがあっちに行ったから…\n私たちさえ上手いこと奇襲できれば解決しそうだね。>"
+  },
+  {
+    "key": "4-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "4-content",
+    "original": "그러게…",
+    "context": "EN :\nYeah...\nJP :\nそうだね…。"
+  },
+  {
+    "key": "5-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "5-content",
+    "original": "<로쟈, 왜 그래?>",
+    "context": "EN :\n<What's wrong, Rodya?>\nJP :\n<ロージャ、どうしたの？>"
+  },
+  {
+    "key": "6-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "6-content",
+    "original": "소냐를 생각하면…",
+    "context": "EN :\nJust... every time I think about Sonya...\nJP :\nソーニャのこと考えると…。"
+  },
+  {
+    "key": "7-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "7-content",
+    "original": "내가 해내지 못했던 것들이 떠올라. 그래서 그래.",
+    "context": "EN :\n... I remember all the things that I couldn't do. That's all.\nJP :\n私がやり遂げられなかったときのことが思い浮かぶの。\nただそれだけ。"
+  },
+  {
+    "key": "8-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "8-content",
+    "original": "<로쟈…>",
+    "context": "EN :\n<Rodya...>\nJP :\n<ロージャ…。>"
+  },
+  {
+    "key": "9-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "9-content",
+    "original": "아~ 아우, 아니야! 지금이라도 해내면 되지. 내가 여기서 범인을 딱 잡아버린다면 좋을 텐데.",
+    "context": "EN :\nArgh, nope! Not gonna let this drag me down. I just gotta do what I can, right? Wouldn't it be so nice if the culprit showed up right now so I can get my hands on 'em and get this over with?\nJP :\nあ～もう、違う違う！今からでもやり遂げればいいでしょ。\n私がここで犯人をバッチリ捕まえちゃえばいいんだから。"
+  },
+  {
+    "key": "10-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "10-content",
+    "original": "아, 기다리기만 하는 순간은 지루하네~ 폼나게 딱 체포해야 하는데.",
+    "context": "EN :\nUgh, all this waiting around is getting so tedious. Hopefully I'll look real badass when I arrest 'em.\nJP :\nあぁ、待ってばっかりいるのは退屈だなぁ～。\nでも格好よくビシッと捕まえなきゃ。"
+  },
+  {
+    "key": "11-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "11-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "11-content",
+    "original": "회복이 빠르네. 좋은 마음 가짐이야.",
+    "context": "EN :\nYou certainly recover quick. Now that’s a good attitude to have.\nJP :\n立ち直りが早いな。良い心構えだ。"
+  },
+  {
+    "key": "12-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "12-content",
+    "original": "원래 감정이란게 그렇잖아~ 시시때때로 바뀌기도 하고 그러는 거지.",
+    "context": "EN :\nWell, you know~ Ain’t that how emotions are supposed to be? Constantly changing with time, y’know?\nJP :\n元々感情ってそういうもんでしょ～。\n時々刻々と変わったりするしね。"
+  },
+  {
+    "key": "13-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "13-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "13-content",
+    "original": "그런가? 난 다르게 생각해. 시간에 따라서 감정이 변하는 게 아니야.",
+    "context": "EN :\nIs it now? I don't quite agree. Emotions don't change with time.\nJP :\nそうか？私はそう思わないな。\n時間が伴って感情が変わるわけじゃない。"
+  },
+  {
+    "key": "14-model",
+    "original": "T사대표",
+    "translation": "T公司",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "조수",
+    "context": "EN :\nAssistant\nJP :\n助手"
+  },
+  {
+    "key": "14-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "14-content",
+    "original": "감정이 변하니까 시간은 흘러가는 거라고.",
+    "context": "EN :\nI'd say that the changing emotions are what drive the flow of time.\nJP :\n感情が変わるから時間が流れていくということだ。"
+  },
+  {
+    "key": "15-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "15-content",
+    "original": "흐응~ 어려운 말을 하네.",
+    "context": "EN :\nHmm~ That's some complicated stuff.\nJP :\nふぅ～ん、難しいこと言うね。"
+  },
+  {
+    "key": "16-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "16-content",
+    "original": "지금은 단지… 유로지비에 있는 범인을 탁! 잡아내고 칭찬받고 싶을 뿐인데~",
+    "context": "EN :\nI just can't wait to hear all the praises they'll sing of me once I snag this Yurodivy rascal, that's all~\nJP :\n今はただ…ユロージヴィにいる犯人をバッ！って捕まえて\n褒められたいだけだかんね～。"
+  },
+  {
+    "key": "17-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "17-content",
+    "original": "난… 명탐정이고 싶거든.",
+    "context": "EN :\nY'know, I wanna be... an ace detective.\nJP :\n私は…名探偵でいたいの。"
+  },
+  {
+    "key": "18-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "18-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "18-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "18-content",
+    "original": "기회를 주지.",
+    "context": "EN :\nThen you shall have your chance.\nJP :\n機会をやろう。"
+  },
+  {
+    "key": "19-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "19-content",
+    "original": "…!",
+    "context": "EN :\n…!\nJP :\n…！"
+  },
+  {
+    "key": "20-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "20-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "20-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "20-content",
+    "original": "모두의 칭찬을 한 몸에 받을 수 있는 기회를.",
+    "context": "EN :\nA chance for you to be the center of attention. A subject of praise.\nJP :\n皆の賞賛を一身に受けられる機会を。"
+  },
+  {
+    "key": "21-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "21-content",
+    "original": "<…!>",
+    "context": "EN :\n<…!>\nJP :\n<…！>"
+  },
+  {
+    "key": "22-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "22-content",
+    "original": "흩날리는 코트… 모자…",
+    "context": "EN :\nThat long coat... that hat...\nJP :\nたなびくコート…帽子…。"
+  },
+  {
+    "key": "23-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "23-content",
+    "original": "당신이…",
+    "context": "EN :\nYou're...\nJP :\nあなたが…。"
+  },
+  {
+    "key": "24-model",
+    "original": "탐정홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "24-content",
+    "original": "로쟈 씨~ 단테 씨~ 그쪽으로 갔어요!",
+    "context": "EN :\nRodya~ Dante~ The culprit ran that way!\nJP :\nロージャさ～んダンテさ～ん、そっちに行きました！"
+  },
+  {
+    "key": "25-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "25-content",
+    "original": "시간 살인마구나…",
+    "context": "EN :\nYou're... The Time Ripper.\nJP :\n時間殺人鬼なんだ…。"
+  },
+  {
+    "key": "26-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "26-content",
+    "original": "맞아.",
+    "context": "EN :\nCorrect.\nJP :\nそうだ。"
+  },
+  {
+    "key": "27-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "27-content",
+    "original": "…!",
+    "context": "EN :\n…!\nJP :\n…！"
+  },
+  {
+    "key": "28-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "28-content",
+    "original": "<하필 홍루와 료슈가 멀리 있을 때 여기로 오다니…>",
+    "context": "EN :\n<This isn't good... It'll take a while for Hong Lu and Ryōshū to get here...!>\nJP :\n<よりによって、ホンルと良秀が遠くにいるときに来るとか…。>"
+  },
+  {
+    "key": "29-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "29-content",
+    "original": "다만, 수정하고 싶은 것이 두 가지… 있군.",
+    "context": "EN :\nBut before we get down to business, allow me to make a few corrections.\nJP :\nただし、修正したいことが2つ…あるな。"
+  },
+  {
+    "key": "30-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "30-content",
+    "original": "하나. 나는… 더 이상 유로지비 같은 것에 매여 있지 않다.",
+    "context": "EN :\nOne. I am no longer bound to an organization like the Yurodiviye.\nJP :\n1つ。私は…もはやユロージヴィなぞに縛られていない。"
+  },
+  {
+    "key": "31-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "31-content",
+    "original": "오히려 그들조차 시간을 공평치 않게 쓰고 있는 모습이 마음에 들지 않았지. 행동의 이유는, 그것이다.",
+    "context": "EN :\nIn fact, I found their hypocrisy detestable. Did you know that even the Yurodiviye did not use their hours equally amongst one another? That is why I have chosen action.\nJP :\nむしろ彼らすら時間を公平に使っていないことが気に食わなかった。\n行動の理由は、それだ。"
+  },
+  {
+    "key": "32-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "32-content",
+    "original": "둘. 나는 그저 시간을 살인하는, 의미 없는 행동을 하는 것이 아니다.",
+    "context": "EN :\nTwo. I am not 'killing time'. You will not compare my crusade to something so hollow.\nJP :\n2つ。私はただ時間を殺人する、\n意味の無い行動をしているわけではない。"
+  },
+  {
+    "key": "33-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "33-content",
+    "original": "죽어가는 시간들을 가져가서… 간절한 자들이 대신 쓰게 하고 있으니.",
+    "context": "EN :\nI merely reap the dying hours... to share it among those who need it most.\nJP :\n死んでいく時間を持ち出し…切に望む者たちへ使わせているのだ。"
+  },
+  {
+    "key": "34-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "34-content",
+    "original": "차라리 나를 시간 성자라 부르는 것이 올바를 테지.",
+    "context": "EN :\nYou may call me the Time Saint instead.\nJP :\nむしろ私を時間聖者と呼ぶのが正しかろう。"
+  },
+  {
+    "key": "35-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "35-content",
+    "original": "뭐… 라는 거야? 쓸데없는 말 하지 말고…",
+    "context": "EN :\nWhat... the hell are you talking about? Shut up and—\nJP :\nなに…言ってるの？変なこと言ってないで…。"
+  },
+  {
+    "key": "36-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "36-content",
+    "original": "의도를 전혀 파악하지 못하고 있군, 칭찬에 목마른 가여운 것.",
+    "context": "EN :\nAll this is flying over your head, isn't it? You poor little thing, starved for even a morsel of praise...\nJP :\n意図を全く理解できていないようだな、\n賞賛に餓えた可哀想な存在よ。"
+  },
+  {
+    "key": "37-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "37-content",
+    "original": "이건 너희의 무지에 대한 수정이자, 동시에 우리가 주는 마지막 경고다.",
+    "context": "EN :\nThis is both a correction of your ignorance, and our final warning.\nJP :\nこれはお前たちの無知に対する修正であり、\nそれと同時に我々からの最後の警告でもある。"
+  },
+  {
+    "key": "38-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "38-content",
+    "original": "나를… 아니, 우리를 잡으려면, 그에 상응하는 시간을 대가로 지불해야 한다는 경고.",
+    "context": "EN :\nIf you wish to capture me... no, us... then you must be prepared to pay the price in time.\nJP :\n私を…いや、我々を捕まえるなら、それに相応する時間を\n対価として支払わなければならないという警告。"
+  },
+  {
+    "key": "39-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "39-content",
+    "original": "협박이라도 하려는 거야? 하, 내가 그런 거에 쫄기라도 할 것 같아?",
+    "context": "EN :\nWas that an attempt at a threat? Ha, do you seriously think you can scare me like that?\nJP :\n強迫でもしようっていうの？\nはっ、私がそんなのでビビるとでも思ってる？"
+  },
+  {
+    "key": "40-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "40-content",
+    "original": "네가 아무리 미친 살인마라 한들… 지금까지의 행동에는 패턴이 있었어. 그게 네 신념이든 무기의 약점이든 간에 내 시간을 죽일 수는 없을 걸.",
+    "context": "EN :\nSure, you're the big, scary 'Time Ripper', but I've got ya all figured out. I know your patterns. There's something staying your hand, isn't there? Whether it's your creed, some kind of a design flaw in your tech... you can't touch my time.\nJP :\nあんたがいくら狂った殺人鬼だとしても…今までの行動にはパターンがあった。\nそれがあんたの信念だろうが、武器の弱点だろうが\n私の時間を殺すことはできないでしょ。"
+  },
+  {
+    "key": "41-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "41-content",
+    "original": "명탐정의 날카로운 추리지! 후후.",
+    "context": "EN :\nHow'd ya like this ace detective's deductions, huh? Fuhu.\nJP :\n名探偵の鋭い推理ってことよ！ふふ。"
+  },
+  {
+    "key": "42-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "42-content",
+    "original": "절반은 맞췄군. 하지만 수정할 것이 또 두 개 생겼다.",
+    "context": "EN :\nHalf right. But you have given me two more corrections to make.\nJP :\n半分正解だ。しかし修正すべきことがまた2つ増えた。"
+  },
+  {
+    "key": "43-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "43-content",
+    "original": "하나. 시간을 죽이는 건 내가 아니라 너희들이다.",
+    "context": "EN :\nOne. I am not the one killing time. It's you, and everyone like you who's killing time.\nJP :\n1つ。時間を殺すのは私ではなくお前たちだ。"
+  },
+  {
+    "key": "44-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "44-content",
+    "original": "그리고 둘. 우리가 아무에게서나 시간을 잘라낼 순 없지만… 네 시간은 자를 수 있지.",
+    "context": "EN :\nTwo. Indeed, we cannot rip time away from just anyone, no. But... I can take yours.\nJP :\nそして2つ。私たちは誰からでも時間を切り取ることが\nできるわけではないが…お前の時間は切ることができる。"
+  },
+  {
+    "key": "45-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "45-content",
+    "original": "왜냐하면 너는, 지금…",
+    "context": "EN :\nBecause you, at this very moment...\nJP :\nなぜならお前は、今…。"
+  },
+  {
+    "key": "46-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "46-content",
+    "original": "지루해하고 있으니까.",
+    "context": "EN :\n... are mired in tedium.\nJP :\n退屈になっているから。"
+  },
+  {
+    "key": "47-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "47-content",
+    "original": "…뭐?",
+    "context": "EN :\n… What?\nJP :\n…え？"
+  },
+  {
+    "key": "48-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "48-content",
+    "original": "때를 기다리고 있지 않나. 시간 죽이기나 하면서.",
+    "context": "EN :\nJust biding the time, aren't you? Waiting for something to happen. Killing time.\nJP :\n時を待っているじゃないか。\n時間を潰しながら、殺しながら。"
+  },
+  {
+    "key": "49-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "49-content",
+    "original": "우리는 그렇게 죽어가는 시간을 가져간다.",
+    "context": "EN :\nWe are merely taking back the time that you would have killed anyway.\nJP :\n私たちはそうして死にゆく時間を持っていく。"
+  },
+  {
+    "key": "50-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "50-content",
+    "original": "하… 하하…",
+    "context": "EN :\nHah, ha... haha...\nJP :\nは…はは…。"
+  },
+  {
+    "key": "51-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "51-content",
+    "original": "네가 그 도끼를 휘두른다면… 우리를 조금 베어갈 수도 있을 거다. 하지만…",
+    "context": "EN :\nSwing that axe and you might carve a small chunk of our flesh. But...\nJP :\nお前がその斧を振り下ろせば…私たちを少し切り取ることもできるだろう。\nしかし…。"
+  },
+  {
+    "key": "52-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "52-content",
+    "original": "우리 역시… 네 삶을 베어갈 수 있다.",
+    "context": "EN :\n... We... will rip a chunk out of your existence.\nJP :\n私たちもまた…お前の人生を切り取っていくことができる。"
+  },
+  {
+    "key": "53-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "53-content",
+    "original": "너는 반세기가 지난 후, 시계가 오후 4시를 알릴 때 아무 일도 없던 것처럼 깨어나겠지.",
+    "context": "EN :\nYou will stir awake when the clock strikes four, in fifty-years' time; having done nothing, having lived through nothing, all in the blink of an eye.\nJP :\nお前は半世紀が過ぎたあと、時計が午後4時を告げたときに\n何事もなかったかのように目覚めるだろう。"
+  },
+  {
+    "key": "54-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "54-content",
+    "original": "그리고 죽여버린 시간에 대한 몰려드는 후회와 그 괴리를 충분하게 느끼면서… 절망해가는 거야.",
+    "context": "EN :\nThat's when it shall dawn on you, that despair. It'll all come rushing in like a flood; that disparity, the unfamiliarity... of all the time you killed.\nJP :\nそして殺してしまった時間に対して押し寄せる後悔と\nその乖離を余すことなく感じながら…絶望していくのさ。"
+  },
+  {
+    "key": "55-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "55-content",
+    "original": "네가… 지루해하던 모든 순간을 떠올려가며.",
+    "context": "EN :\n... Every pain a reminder of every single second you've killed, thinking about how tedious it all is.\nJP :\nお前が…退屈だった全ての瞬間を思い浮かべながら。"
+  },
+  {
+    "key": "56-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "56-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "57-model",
+    "original": "시간살인마",
+    "translation": "时间杀人魔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Time Ripper\nJP :\n時間殺人鬼"
+  },
+  {
+    "key": "57-content",
+    "original": "겁을 먹은 얼굴이군. 내가, 그리고 우리가 좋아하는 눈빛이지.",
+    "context": "EN :\nYou look scared. I—we—like that look in your eyes.\nJP :\n怖じ気づいたようだな。\n私が、そして私たちが好きな目だ。"
+  },
+  {
+    "key": "58-content",
+    "original": "얼어버린 로쟈와 아무것도 할 수 없는 나만이 남아있는 현장에서, 빠져나가려는 시간 살인마를 막을 수 있는 사람은 아무도 없었다.",
+    "context": "EN :\nRodya stood there, completely frozen. No one could stop the Time Ripper as he walked away from us. Not me, not Rodya.\nJP :\n凍り付いたロージャと何もできない私だけが残った現場で、\n離脱しようとする時間殺人鬼を止めることができる人は誰もいなかった。"
+  },
+  {
+    "key": "59-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "59-content",
+    "original": "그 놈, 어디 있지?",
+    "context": "EN :\nThe culprit. Where are they?\nJP :\nあいつ、どこ行った？"
+  },
+  {
+    "key": "60-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "60-content",
+    "original": " 나… 직접 잡을 수 있을 거라고 생각했는데… 막상 마주치니까…",
+    "context": "EN :\nI... I thought I could take them on. But... when I came face-to-face with the Ripper, I...\nJP :\n私…この手で捕まえられると思ったのに…。\nいざ向き合うと…。"
+  },
+  {
+    "key": "61-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "61-content",
+    "original": "쯧, 그걸 놓쳐?",
+    "context": "EN :\nTsk, how could you give them the slip?\nJP :\nチッ、アレを逃がしたのか？"
+  },
+  {
+    "key": "62-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "62-content",
+    "original": "<협박을 했어. 시간을 가져갈 거라고…>",
+    "context": "EN :\n<They threatened her. That they were going to rip away her time...>\nJP :\n<強迫してきたんだ。時間を持っていくって…。>"
+  },
+  {
+    "key": "63-model",
+    "original": "탐정홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "63-content",
+    "original": "이런…",
+    "context": "EN :\nOh no...\nJP :\nそんな…。"
+  },
+  {
+    "key": "64-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "64-content",
+    "original": "그리고… 알고 있었어. 내가 가진…",
+    "context": "EN :\nAnd the Ripper knew. They knew how... how I felt so...\nJP :\nそれと…分かってたんだ。私の持ってる…。"
+  },
+  {
+    "key": "65-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "65-content",
+    "original": "…아니야.",
+    "context": "EN :\n... Nevermind.\nJP :\n…いいえ。"
+  },
+  {
+    "key": "66-content",
+    "original": "…로쟈는 ‘지루함’이란 단어에 대해선 말하는 대신에 속으로 삼키기로 결심한 듯 했다.",
+    "context": "EN :\nIt seemed to me that Rodya decided to not say it out loud, but I knew that the word she wanted to say was 'tedious'.\nJP :\n…ロージャは「退屈」という単語について話す代わり、\n呑み込むことを決心したみたいだ。"
+  },
+  {
+    "key": "67-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "67-content",
+    "original": "한심.",
+    "context": "EN :\nPathetic.\nJP :\n情けない。"
+  },
+  {
+    "key": "68-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "68-content",
+    "original": "료슈… 너랑은 다르게 내 시간은… 소중하거든.",
+    "context": "EN :\nUnlike you, Ryōshū, my time… is important.\nJP :\n良秀…あなたと違って私の時間は…大事なの。"
+  },
+  {
+    "key": "69-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "69-content",
+    "original": "이 사건을 이러쿵저러쿵 품평만 하거나 등 떠밀려서 온 게 아니라 나는 정말로 사건을 해결하려고 지원한 거였어. 너희들과는 다르다고.",
+    "context": "EN :\nI’m not here just to make those stupid, pointless observations about the case. I didn’t volunteer out of some weird obligation either, okay? I volunteered because I genuinely wanted to solve the case. I’m not like you. Either of you.\nJP :\nこの事件をあれこれ品定めしたり、背中を押されて来たわけじゃなくて\n私は本当に事件を解決するつもりで志願したの。あなたたちとは違うの。"
+  },
+  {
+    "key": "70-content",
+    "original": "그 말에 료슈가 검집을 휘두를까 걱정했지만, 로쟈의 말을 듣는건지 마는건지…",
+    "context": "EN :\nI briefly grew concerned that Ryōshū might swing her scabbard at Rodya, but... I don't think she was listening anyway.\nJP :\nその言葉に良秀が鞘を振りかざすんじゃないかと心配したけど、\nロージャの言うことを聞いてたのか聞いてすらいないのか…。"
+  },
+  {
+    "key": "71-model",
+    "original": "탐정료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "71-content",
+    "original": "…시시하군.",
+    "context": "EN :\n… How banal.\nJP :\n…つまらん。"
+  },
+  {
+    "key": "72-content",
+    "original": "담배에 불을 붙이고 그저 시계탑을 빤히 바라보고 있을 뿐이었다.",
+    "context": "EN :\nInstead, she stared up at the Clock Tower in silence as her cigarette slowly burned its way to her lips.\nJP :\n煙草に火をつけて、ただ時計塔をじっと眺めているだけだった。"
+  },
+  {
+    "key": "73-content",
+    "original": "이걸 다행이라고 해도 되는 걸까…",
+    "context": "EN :\nI guess that's a... relief...\nJP :\n良かったって言うべきなのだろうか…。"
+  },
+  {
+    "key": "74-model",
+    "original": "탐정홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "74-content",
+    "original": "로쟈 씨…",
+    "context": "EN :\nRodya, I...\nJP :\nロージャさん…。"
+  },
+  {
+    "key": "75-model",
+    "original": "탐정로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "75-content",
+    "original": "미안, 실실 웃는 척하는 것도 이제 질려가나봐…",
+    "context": "EN :\nSorry. I think I'm just getting tired of wearing a silly smile.\nJP :\nごめん、ヘラヘラ笑ってるフリするのにも飽きてきたかも…。"
+  }
+]

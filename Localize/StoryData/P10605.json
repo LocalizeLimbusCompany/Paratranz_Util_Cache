@@ -1,0 +1,515 @@
+[
+  {
+    "key": "0-content",
+    "original": "아이의 낮과 밤은 항상 저 유리관 안에서 흘러갔어.",
+    "context": "EN :\nThe child spent his days and nights in that glass tube.\nJP :\n子供の昼と夜は、いつもあのガラス管の中で流れていったんだ。"
+  },
+  {
+    "key": "1-content",
+    "original": "K사에서 정한, 아이의 ‘가장 안정된 상태’를 항상 유지하기 위해서겠지.",
+    "context": "EN :\nIt was to keep him in the \"most stable state\" as K Corp. determined.\nJP :\nK社が決めた、子供の「最も安定した状態」を常に維持するためだろうね。"
+  },
+  {
+    "key": "2-content",
+    "original": "아이의 육체는 그 관과도 같은 곳에서 그렇게 계속 잠들어만 있는 거야.",
+    "context": "EN :\nIn that coffin of glass, the child's body sleeps all the time.\nJP :\n子供の肉体はその棺のような場所で、そうやってずっと眠ってばかりいるんだ。"
+  },
+  {
+    "key": "3-content",
+    "original": "밖에서 아이를 깨워주기 전까지는 말이지.",
+    "context": "EN :\nUntil he's woken up from the outside, that is.\nJP :\n外から子供を起こすまではね。"
+  },
+  {
+    "key": "4-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "4-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "4-title",
+    "original": "K사 3등급 적출직",
+    "context": "EN :\nK Corp. Class 3 Excision Staff\nJP :\nK社 3級摘出職"
+  },
+  {
+    "key": "4-content",
+    "original": "아~ 오늘도 고생하시네요~ 아까 오셨던 분들은 점심 드시러 가셨나봐요?",
+    "context": "EN :\nAh~ Hard at work as usual, I see~ The ones that came here earlier left for lunch, I presume?\nJP :\nあ～今日もお疲れ様です～。さっき来た方たちは、お昼を食べに行ったんですか？"
+  },
+  {
+    "key": "5-teller",
+    "original": "적출직 관리 직원",
+    "context": "EN :\nExcision Management Staff\nJP :\n摘出職管理職員"
+  },
+  {
+    "key": "5-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "5-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "6-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "6-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "6-title",
+    "original": "K사 3등급 적출직",
+    "context": "EN :\nK Corp. Class 3 Excision Staff\nJP :\nK社 3級摘出職"
+  },
+  {
+    "key": "6-content",
+    "original": "식사는 하고 오셨나요? 오늘은 어떤 걸 드시고 오셨나요?",
+    "context": "EN :\nHave you had your meal? What did you eat today?\nJP :\n食事はされましたか？今日はどんなものを食べてきたんですか？"
+  },
+  {
+    "key": "7-teller",
+    "original": "적출직 관리 직원",
+    "context": "EN :\nExcision Management Staff\nJP :\n摘出職管理職員"
+  },
+  {
+    "key": "7-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "7-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "8-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "8-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "8-title",
+    "original": "K사 3등급 적출직",
+    "context": "EN :\nK Corp. Class 3 Excision Staff\nJP :\nK社 3級摘出職"
+  },
+  {
+    "key": "8-content",
+    "original": "식사 이야기가 재미 없어지셨나요? 그럼…",
+    "context": "EN :\nNot interested in food talk? Then...\nJP :\n食事の話には興味ないんですか？じゃあ…。"
+  },
+  {
+    "key": "9-teller",
+    "original": "적출직 관리 직원",
+    "context": "EN :\nExcision Management Staff\nJP :\n摘出職管理職員"
+  },
+  {
+    "key": "9-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "9-content",
+    "original": "너는 매일 그렇게 조잘조잘, 힘들지도 않니?",
+    "context": "EN :\nDon't you ever get tired of yapping like that every day?\nJP :\nお前は毎日そんな風にベラベラと、疲れないのか？"
+  },
+  {
+    "key": "10-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10-title",
+    "original": "K사 3등급 적출직",
+    "context": "EN :\nK Corp. Class 3 Excision Staff\nJP :\nK社 3級摘出職"
+  },
+  {
+    "key": "10-content",
+    "original": "아~ 이제야 제 눈을 보고 말씀을 해주시는군요~",
+    "context": "EN :\nAhh~ You're looking me in the eye at last~\nJP :\nあ～やっと僕の目を見て話してくれるんですね～。"
+  },
+  {
+    "key": "11-content",
+    "original": "연구원은, 버튼을 눌러 아이를 깨운 사실을 잠시 후회하고 있었을 지도 모르겠어.",
+    "context": "EN :\nPerhaps the researcher was taking a moment to regret pressing the button to wake the child up.\nJP :\n研究員はボタンを押して子供を起こしたことを、少しの間後悔していたのかもしれないね。"
+  },
+  {
+    "key": "12-content",
+    "original": "K사의 적출직이라고 불리는 이들 중 3등급의 직원들은 투입되지 않았을 때는 항상 저 유리관에서 생활하고 있어.",
+    "context": "EN :\nAmong the employees called the Excision staff in K Corp., those belonging to Class 3 spend all of their time outside deployment to missions in those glass tubes.\nJP :\nK社の摘出職と呼ばれる者たちのうち3級職員たちは、投入されないときはいつもあのガラス管の中で生活してるんだ。"
+  },
+  {
+    "key": "13-content",
+    "original": "다른 직원들보다 앰플을 과투입하는 일이 일상적인 3등급 직원들은, 그 적합도를 높이기 위해 유리관 생활이 강제되는 거야. 앰플은 조금만 엇나가도 그들을 붕괴하는 방향으로 작용할 수도 있는 거니까.",
+    "context": "EN :\nSince Class 3 staff inject themselves with heavy doses of the ampule more often than most other employees, they're forced to live in those tubes to raise the compatibility. The ampules could decay them if its configuration is ever so slightly off.\nJP :\n他の職員たちよりアンプルを過投与されることが常である3級職員たちは、その適合度を高めるためにガラス管での生活が強制されるんだ。アンプルに少しでも誤差が発生すれば、彼らを崩壊させる方向に作用することもあるから。"
+  },
+  {
+    "key": "14-teller",
+    "original": "적출직 관리 직원",
+    "context": "EN :\nExcision Management Staff\nJP :\n摘出職管理職員"
+  },
+  {
+    "key": "14-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "14-content",
+    "original": "너는 깨자마자 잘도 나불댄다… 그냥 자다 깬 것도 아니고, 가사상태에 있다가 깨어나는 건데.",
+    "context": "EN :\nI'm just amazed you can blather on as soon as you get up... It's not just ordinary sleep, you're put in suspended animation.\nJP :\nお前は起きてすぐなのに、よくそんなベラベラと喋れるな…。\nただ寝て起きたわけじゃなくて、仮死状態から目覚めたっていうのに。"
+  },
+  {
+    "key": "15-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "15-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "15-title",
+    "original": "K사 3등급 적출직",
+    "context": "EN :\nK Corp. Class 3 Excision Staff\nJP :\nK社 3級摘出職"
+  },
+  {
+    "key": "15-content",
+    "original": "뭐~ 익숙해지면 또 나름대로 적응이 되더라고요.",
+    "context": "EN :\nWell~ It's something I could get used to.\nJP :\nまぁ～慣れたら何だかんだで適応出来たんですよね。"
+  },
+  {
+    "key": "16-content",
+    "original": "이들이 잠들어 있는 것은 흔히 말하는 수면과는 달라. 아예 가사상태에 빠져있게 만드는 거지.",
+    "context": "EN :\nAs they mentioned, their sleep is different from what we normally think. Their consciousness is put in a state of total suspension.\nJP :\nこの者たちが寝ているのはいわゆる睡眠とは違う。端から仮死状態になるようにしてるんだ。"
+  },
+  {
+    "key": "17-content",
+    "original": "꿈을 통해 변해가는 무의식 만으로도 붕괴될 위험이 있으니까.",
+    "context": "EN :\nEven the subconscious thoughts that change in dreams have the risk of causing decay.\nJP :\n夢を通じて変わっていく無意識だけでも、崩壊する危険があるから。"
+  },
+  {
+    "key": "18-content",
+    "original": "하지만, 아이는 그런건 전혀 영향이 없다는 듯 오히려 개운해 보여.",
+    "context": "EN :\nYet, the child doesn't seem to be affected by its aftereffects; he looks refreshed, rather.\nJP :\nでも、子供はそんなのに全く影響を受けてないって感じだし、むしろすっきりとしてみえるね。"
+  },
+  {
+    "key": "19-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "19-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "19-title",
+    "original": "K사 3등급 적출직",
+    "context": "EN :\nK Corp. Class 3 Excision Staff\nJP :\nK社 3級摘出職"
+  },
+  {
+    "key": "19-content",
+    "original": "하하, 저는 원할 때 밖을 나서기 힘든 몸이니까요. 너무 심심한 걸 어떡해요?",
+    "context": "EN :\nHaha, I can't go outside when I want to, as you know. How else can I relieve this boredom?\nJP :\nはは、僕は外に出たいと思っても出るのが難しい身の上ですからね。暇だからしょうがないじゃないですか？"
+  },
+  {
+    "key": "20-teller",
+    "original": "적출직 관리 직원",
+    "context": "EN :\nExcision Management Staff\nJP :\n摘出職管理職員"
+  },
+  {
+    "key": "20-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "20-content",
+    "original": "나 참… 어떻게 적출직이 된 건지. 앰플적합도만 낮았어도 다른 직책이었을걸, 너.",
+    "context": "EN :\nSeriously... I have no idea how you ended up here. You'd have landed in any other department if it weren't for your ampule compatibility.\nJP :\nはぁ…どうやって摘出職になれたんだか。あんた、アンプル適合度が低かったら他の役職に就いてただろうに。"
+  },
+  {
+    "key": "21-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "21-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "21-title",
+    "original": "K사 3등급 적출직",
+    "context": "EN :\nK Corp. Class 3 Excision Staff\nJP :\nK社 3級摘出職"
+  },
+  {
+    "key": "21-content",
+    "original": "음~ 아마 그건 아닐거예요. 할머니께서 저를 여기로 보냈으니까요.",
+    "context": "EN :\nMm~ I wouldn't say so. It was my grandmother who sent me here.\nJP :\nう～ん、きっとそれはないと思います。お婆さんが僕をここに送ったので。"
+  },
+  {
+    "key": "22-teller",
+    "original": "적출직 관리 직원",
+    "context": "EN :\nExcision Management Staff\nJP :\n摘出職管理職員"
+  },
+  {
+    "key": "22-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "22-content",
+    "original": "할머니?",
+    "context": "EN :\nYour grandmother?\nJP :\nお婆さん？"
+  },
+  {
+    "key": "23-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "23-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "23-title",
+    "original": "K사 3등급 적출직",
+    "context": "EN :\nK Corp. Class 3 Excision Staff\nJP :\nK社 3級摘出職"
+  },
+  {
+    "key": "23-content",
+    "original": "네~ 세상 공부를 하라고 도시의 이곳 저곳을 다니라고 하셨거든요.",
+    "context": "EN :\nThat's right~ She told me to see more of the City and learn how the world goes.\nJP :\nはい～。社会勉強のために、都市のあちこちを回れっておっしゃったんですよ。"
+  },
+  {
+    "key": "24-teller",
+    "original": "적출직 관리 직원",
+    "context": "EN :\nExcision Management Staff\nJP :\n摘出職管理職員"
+  },
+  {
+    "key": "24-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "24-content",
+    "original": "그러니까… 낙하산이라는거지? 너희… 조모님은 대단하신 분인 거고. 근데, 낙하산이 보통 적출직으로 현장투입을 하나…?",
+    "context": "EN :\nSo basically... You got here by nepotism, right? And your...grandmother is someone with power. Is Excision really the kind of job to favor, though...?\nJP :\nだから…コネ入社か？お前の…お婆さんは凄い方ってわけで。でもコネ入社って普通、摘出職として現場投入されるのか…？"
+  },
+  {
+    "key": "25-content",
+    "original": "아이는 웃음 대신에 부그르르하며 기포를 흘려보냈어.",
+    "context": "EN :\nInstead of laughter, the child replied by making bubbles.\nJP :\n子供は笑いの代わりに、ボコボコと泡を垂れ流した。"
+  },
+  {
+    "key": "26-content",
+    "original": "대화하던 연구원은 무슨 일이 생겼나 싶어 황급히 고개를 들어올렸지만, 아이는 그저 눈을 감고 빙긋 입꼬리를 올리고 있었을 뿐이야.",
+    "context": "EN :\nWhen the researcher looked up in a hurry to see what was going on, they only found the child smiling with his eyes closed.\nJP :\n会話していた研究員は何事だと慌てて顔を上げたが、子供はただ目を閉じてにっこりと口元をつり上げていたんだ。"
+  },
+  {
+    "key": "27-teller",
+    "original": "적출직 관리 직원",
+    "context": "EN :\nExcision Management Staff\nJP :\n摘出職管理職員"
+  },
+  {
+    "key": "27-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "27-content",
+    "original": "놀라게 하지 말라고…",
+    "context": "EN :\nYou frightened me for a second...\nJP :\n驚かすなよ…。"
+  },
+  {
+    "key": "28-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "28-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "28-title",
+    "original": "K사 3등급 적출직",
+    "context": "EN :\nK Corp. Class 3 Excision Staff\nJP :\nK社 3級摘出職"
+  },
+  {
+    "key": "28-content",
+    "original": "후후, 재미있어서 웃었던 것 뿐인걸요.",
+    "context": "EN :\nHuhu, I just laughed because it was funny.\nJP :\nふふ、面白かったから笑っただけですよ。"
+  },
+  {
+    "key": "29-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "29-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "29-title",
+    "original": "K사 3등급 적출직",
+    "context": "EN :\nK Corp. Class 3 Excision Staff\nJP :\nK社 3級摘出職"
+  },
+  {
+    "key": "29-content",
+    "original": "뭐~ 할머니의 생각이 어떤지, 저는 잘 모르고 관심도 없지만~",
+    "context": "EN :\nWell~ I don't know what my grandmother is thinking, and I frankly don't care~\nJP :\nまぁ～お婆さんの考えがどうなのか、僕はよく分からないし興味も無いけど～。"
+  },
+  {
+    "key": "30-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "30-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "30-title",
+    "original": "K사 3등급 적출직",
+    "context": "EN :\nK Corp. Class 3 Excision Staff\nJP :\nK社 3級摘出職"
+  },
+  {
+    "key": "30-content",
+    "original": "그래도 이런 일을 해보는 거, 나쁘지 않다고는 생각해요.",
+    "context": "EN :\nBut I do think it's not bad to try this kind of work.\nJP :\nそれでもこんな仕事をやってみるのって、悪くはないとは思うんです。"
+  },
+  {
+    "key": "31-teller",
+    "original": "적출직 관리 직원",
+    "context": "EN :\nExcision Management Staff\nJP :\n摘出職管理職員"
+  },
+  {
+    "key": "31-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "31-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "32-content",
+    "original": "복잡한 표정으로 아이를 바라보던 연구원의 손목께에 뭔가 알람이 울렸어.",
+    "context": "EN :\nAn alarm buzzed around the wrist of the researcher who was looking at the child with mixed feelings.\nJP :\n複雑な顔で子供を眺めていた研究員の腕からアラームが鳴り響いた。"
+  },
+  {
+    "key": "33-teller",
+    "original": "적출직 관리 직원",
+    "context": "EN :\nExcision Management Staff\nJP :\n摘出職管理職員"
+  },
+  {
+    "key": "33-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "33-content",
+    "original": "심심해하더니 잘됐네, 투입이야.",
+    "context": "EN :\nHere's something to clear your boredom: you're up for a deployment.\nJP :\n暇だって言ってたっけ。良かったな、投入だ。"
+  },
+  {
+    "key": "34-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "34-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "34-title",
+    "original": "K사 3등급 적출직",
+    "context": "EN :\nK Corp. Class 3 Excision Staff\nJP :\nK社 3級摘出職"
+  },
+  {
+    "key": "34-content",
+    "original": "앗! 역시!",
+    "context": "EN :\nAha! I knew it!\nJP :\nあっ！やっぱり！"
+  },
+  {
+    "key": "35-content",
+    "original": "아이는…",
+    "context": "EN :\nThe child...\nJP :\n子供は…。"
+  },
+  {
+    "key": "36-content",
+    "original": "얼마 지나지 않아 순식간에 투입 명령이 있던 위치까지 도달했지.",
+    "context": "EN :\nTook little time to arrive at the location where the order was made.\nJP :\nまもなく投入命令があった位置まで到達した。"
+  },
+  {
+    "key": "37-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "37-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "37-title",
+    "original": "K사 3등급 적출직",
+    "context": "EN :\nK Corp. Class 3 Excision Staff\nJP :\nK社 3級摘出職"
+  },
+  {
+    "key": "37-content",
+    "original": "자… 그럼. 적출 하겠습니다.",
+    "context": "EN :\nAlright... I'll commence the excision now.\nJP :\nさぁ…じゃあ。摘出します。"
+  },
+  {
+    "key": "38-content",
+    "original": "아이는 빙글거리며 무기를 들고, 적을 향해 달려나갔어.",
+    "context": "EN :\nSpinning his weapon around, the child rushed at his enemy.\nJP :\n子供はニコニコしながら武器を握り、敵に向かって走っていった。"
+  },
+  {
+    "key": "39-content",
+    "original": "일을 하는 사람치고는, 한 없이 즐거워 보였지.",
+    "context": "EN :\nFor someone who was at work, he looked exceedingly delighted.\nJP :\n仕事をしてるにしては、とても楽しそうに見えるね。"
+  },
+  {
+    "key": "40-content",
+    "original": "마치, 새로운 경험을 얻게 되어 기쁘다는 듯이 말이야.",
+    "context": "EN :\nIt's like he was excited to have new experiences.\nJP :\nまるで、新しい経験を得ることが出来て嬉しいって風にね。"
+  }
+]

@@ -1,0 +1,597 @@
+[
+  {
+    "key": "815901-levelList$[0].name",
+    "original": "손아귀",
+    "context": "EN :\nGrasp\nJP :\n掌"
+  },
+  {
+    "key": "815901-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 5 부여. [Vibration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Vibration] and +2 [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]5を付与、[Vibration]回数が2増加"
+  },
+  {
+    "key": "815901-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 [Binding] 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 [Binding] next turn\nJP :\n[OnSucceedAttackHead] 次のターンに[Binding]2を付与"
+  },
+  {
+    "key": "815902-levelList$[0].name",
+    "original": "돌 쌓기",
+    "context": "EN :\nPiling Rocks\nJP :\n石を積む"
+  },
+  {
+    "key": "815902-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Vibration]이 5 이상이면, 합 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 5+ [Vibration], Clash Power +1\nJP :\n[WhenUse] 対象の[Vibration]が5以上なら、マッチ威力 +1"
+  },
+  {
+    "key": "815902-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]回数が3増加"
+  },
+  {
+    "key": "815902-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Paralysis] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Paralysis] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Paralysis]1を付与"
+  },
+  {
+    "key": "815902-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 8 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 8 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]8を付与"
+  },
+  {
+    "key": "815902-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [AttackDown] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [AttackDown] next turn\nJP :\n[OnSucceedAttack] 次のターンに[AttackDown]2を付与"
+  },
+  {
+    "key": "815903-levelList$[0].name",
+    "original": "나태한 짓누름",
+    "context": "EN :\nSlothful Press\nJP :\n怠惰な押潰し"
+  },
+  {
+    "key": "815903-levelList$[0].desc",
+    "original": "[WhenUse] 자신보다 속도가 낮다면, 차이만큼 합 위력 +1 (최대 3)",
+    "context": "EN :\n[WhenUse] If this unit's Speed is faster than the target's, Clash Power +1 for each Speed difference (max 3)\nJP :\n[WhenUse] 自分より速度が低ければ、差だけマッチ威力 +1(最大3)"
+  },
+  {
+    "key": "815903-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Binding] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Binding] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Binding]2を付与"
+  },
+  {
+    "key": "815903-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [AttackDown] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [AttackDown] next turn\nJP :\n[OnSucceedAttack] 次のターンに[AttackDown]2を付与"
+  },
+  {
+    "key": "815903-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]\nJP :\n[OnSucceedAttack] [VibrationExplosion]"
+  },
+  {
+    "key": "815904-levelList$[0].name",
+    "original": "가드",
+    "context": "EN :\nGuard\nJP :\nガード"
+  },
+  {
+    "key": "815904-levelList$[0].desc",
+    "original": "[WhenUse] [Protection] 3 얻음",
+    "context": "EN :\n[WhenUse] Gain 3 [Protection]\nJP :\n[WhenUse] [Protection]3を得る"
+  },
+  {
+    "key": "816001-levelList$[0].name",
+    "original": "깨물기",
+    "context": "EN :\nMaul\nJP :\n噛みつく"
+  },
+  {
+    "key": "816001-levelList$[0].desc",
+    "original": "이 공격 스킬 적중시 다음 턴에 [TakeHpHealIncrease]를 얻음",
+    "context": "EN :\nWhen this Attack Skill hits, gain [TakeHpHealIncrease] next turn\nJP :\nこの攻撃スキルが的中時、次のターンに[TakeHpHealIncrease]を得る"
+  },
+  {
+    "key": "816001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\nJP :\n[OnSucceedAttack] [Burst]3を付与"
+  },
+  {
+    "key": "816001-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\nJP :\n[OnSucceedAttack] [Burst]3を付与"
+  },
+  {
+    "key": "816002-levelList$[0].name",
+    "original": "식사 시간",
+    "context": "EN :\nDevouring\nJP :\n食事の時間"
+  },
+  {
+    "key": "816002-levelList$[0].desc",
+    "original": "[WhenUse] 대상에게 [Burst]이 있다면, 기본 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has [Burst], Base Power +1\nJP :\n[WhenUse] 対象に[Burst]威力があるなら、基本威力 +1"
+  },
+  {
+    "key": "816002-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "816002-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 본체 및 부위 체력 3 회복",
+    "context": "EN :\n[OnSucceedAttackHead] Core and Part both gain 3 HP\nJP :\n[OnSucceedAttackHead] 本体および部位体力を3回復"
+  },
+  {
+    "key": "816002-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "816002-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 본체 및 부위 체력 3 회복",
+    "context": "EN :\n[OnSucceedAttackHead] Core and Part both gain 3 HP\nJP :\n[OnSucceedAttackHead] 本体および部位体力を3回復"
+  },
+  {
+    "key": "816002-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "816002-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 본체 및 부위 체력 3 회복",
+    "context": "EN :\n[OnSucceedAttackHead] Core and Part both gain 3 HP\nJP :\n[OnSucceedAttackHead] 本体および部位体力を3回復"
+  },
+  {
+    "key": "816002-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "816002-levelList$[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 본체 및 부위 체력 3 회복",
+    "context": "EN :\n[OnSucceedAttackHead] Core and Part both gain 3 HP\nJP :\n[OnSucceedAttackHead] 本体および部位体力を3回復"
+  },
+  {
+    "key": "816003-levelList$[0].name",
+    "original": "탐욕스러운 식사 시간",
+    "context": "EN :\nRavenous Devouring\nJP :\n貪欲な食事時間"
+  },
+  {
+    "key": "816003-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst]이 5 이상이면, [DefenseDown] 2 부여\n자신의 [TakeHpHealIncrease] 수치만큼, 기본 위력 +1 (최대 3)",
+    "context": "EN :\n[WhenUse] If the target has 5+ [Burst], inflict 2 [DefenseDown]\nGain +1 Base Power for every [TakeHpHealIncrease] value on self (max 3)\nJP :\n[WhenUse] 対象の[Burst]が5以上なら、[DefenseDown]2を付与\n自分の[TakeHpHealIncrease]数値だけ、基本威力 +1(最大3)"
+  },
+  {
+    "key": "816003-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "816003-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 본체 및 부위 체력 5 회복",
+    "context": "EN :\n[OnSucceedAttackHead] Core and Part both gain 5 HP\nJP :\n[OnSucceedAttackHead] 本体および部位体力を5回復"
+  },
+  {
+    "key": "816003-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Burst]\nJP :\n[OnSucceedAttack] [Burst]5を付与"
+  },
+  {
+    "key": "816003-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 본체 및 부위 체력 5 회복",
+    "context": "EN :\n[OnSucceedAttackHead] Core and Part both gain 5 HP\nJP :\n[OnSucceedAttackHead] 本体および部位体力を5回復"
+  },
+  {
+    "key": "816003-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "816003-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 본체 및 부위 체력 5 회복",
+    "context": "EN :\n[OnSucceedAttackHead] Core and Part both gain 5 HP\nJP :\n[OnSucceedAttackHead] 本体および部位体力を5回復"
+  },
+  {
+    "key": "816003-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Burst]\nJP :\n[OnSucceedAttack] [Burst]5を付与"
+  },
+  {
+    "key": "816003-levelList$[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 본체 및 부위 체력 5 회복",
+    "context": "EN :\n[OnSucceedAttackHead] Core and Part both gain 5 HP\nJP :\n[OnSucceedAttackHead] 本体および部位体力を5回復"
+  },
+  {
+    "key": "816004-levelList$[0].name",
+    "original": "반격",
+    "context": "EN :\nCounter\nJP :\n反撃"
+  },
+  {
+    "key": "816004-levelList$[0].desc",
+    "original": "자신의 본체 체력이 50%이하라면, 이 스킬의 코인 적중시 본체 및 부위 체력 10 회복",
+    "context": "EN :\nAt less than 50% Core HP, Core and Part heal on Coin Hit\nJP :\n自分の本体体力が50%以下なら、このスキルのコイン的中時に本体および部位体力が10回復"
+  },
+  {
+    "key": "816004-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여, [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst] and +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]3付与、[Burst]回数が2増加"
+  },
+  {
+    "key": "816004-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여, [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst] and +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]3付与、[Burst]回数が2増加"
+  },
+  {
+    "key": "816401-levelList$[0].name",
+    "original": "배트치기",
+    "context": "EN :\nBat Bash\nJP :\nバットで殴る"
+  },
+  {
+    "key": "816401-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が3増加"
+  },
+  {
+    "key": "816401-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\nJP :\n[OnSucceedAttack] [Burst]3を付与"
+  },
+  {
+    "key": "816402-levelList$[0].name",
+    "original": "내려박기",
+    "context": "EN :\nSmackdown\nJP :\n打ち落とす"
+  },
+  {
+    "key": "816402-levelList$[0].desc",
+    "original": "[WinDuel] 다음 턴에 [Enhancement], [AttackDmgUp] 1 얻음",
+    "context": "EN :\n[WinDuel] Gain 1 [Enhancement] and 1 [AttackDmgUp] next turn\nJP :\n[WinDuel] 次のターンに[Enhancement]、[AttackDmgUp]1を得る"
+  },
+  {
+    "key": "816402-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が3増加"
+  },
+  {
+    "key": "816402-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\nJP :\n[OnSucceedAttack] [Burst]3を付与"
+  },
+  {
+    "key": "816402-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]3を付与"
+  },
+  {
+    "key": "816402-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Burst]만큼 [Laceration] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [Laceration] equal to [Burst] on target\nJP :\n[OnSucceedAttack] 対象の[Burst]だけ[Laceration]を付与"
+  },
+  {
+    "key": "816403-levelList$[0].name",
+    "original": "분풀기",
+    "context": "EN :\nUpheaval\nJP :\n腹いせ"
+  },
+  {
+    "key": "816403-levelList$[0].desc",
+    "original": "대상의 [Burst]이 5 이상이면, 합 위력 +1\n대상의 [Laceration]이 5 이상이면, 합 위력 +1\n[WinDuel] [Burst] 횟수 3 증가",
+    "context": "EN :\nIf the target has 5+ [Burst], Clash Power +1\nIf the target has 5+ [Laceration], Clash Power +1\n[WinDuel] Inflict +3 [Burst] Count\nJP :\n対象の[Burst]が5以上なら、マッチ威力 +1\n対象の[Laceration]が5以上なら、マッチ威力 +1\n[WinDuel] [Burst]回数が3増加"
+  },
+  {
+    "key": "816403-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 코인 위력 +1",
+    "context": "EN :\n[OnSucceedAttackHead] Next Coin has +1 Power\nJP :\n[OnSucceedAttackHead] 次のコイン威力 +1"
+  },
+  {
+    "key": "816403-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 코인 위력 +2",
+    "context": "EN :\n[OnSucceedAttackHead] Next Coin has +2 Power\nJP :\n[OnSucceedAttackHead] 次のコイン威力 +2"
+  },
+  {
+    "key": "816403-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Paralysis] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Paralysis] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Paralysis]3を付与"
+  },
+  {
+    "key": "816403-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 8 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 8 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]8を付与"
+  },
+  {
+    "key": "816404-levelList$[0].name",
+    "original": "속죄의 시간이다",
+    "context": "EN :\nTime to Repent\nJP :\n贖罪の時間だ"
+  },
+  {
+    "key": "816404-levelList$[0].desc",
+    "original": "[CantChangeTarget]",
+    "context": "EN :\n[CantChangeTarget]\nJP :\n[CantChangeTarget]"
+  },
+  {
+    "key": "816404-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수  3, [Burst]  횟수 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration] Count and 3 [Burst] Count\nJP :\n[OnSucceedAttack] [Laceration]回数 3, [Burst]回数3を付与"
+  },
+  {
+    "key": "816404-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3, [Burst] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Burst]\nJP :\n[OnSucceedAttack] [Laceration] 3, [Burst]3を付与"
+  },
+  {
+    "key": "816404-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3, [Burst] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Burst]\nJP :\n[OnSucceedAttack] [Laceration] 3, [Burst]3を付与"
+  },
+  {
+    "key": "816404-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Enhancement] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [Enhancement] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Enhancement]1を得る"
+  },
+  {
+    "key": "816405-levelList$[0].name",
+    "original": "더욱 고통스러워야해!",
+    "context": "EN :\nYou Must Suffer More!\nJP :\nもっと苦しむんだな！"
+  },
+  {
+    "key": "816405-levelList$[0].desc",
+    "original": "[CantChangeTarget]\n[WinDuel] [Burst] 횟수 3 증가",
+    "context": "EN :\n[CantChangeTarget]\n[WinDuel] Inflict 3 [Burst] Count\nJP :\n[CantChangeTarget]\n[WinDuel] [Burst]回数が3増加"
+  },
+  {
+    "key": "816405-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 코인 위력 +1",
+    "context": "EN :\n[OnSucceedAttackHead] Next Coin has +1 Power\nJP :\n[OnSucceedAttackHead] 次のコイン威力 +1"
+  },
+  {
+    "key": "816405-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 코인 위력 +2",
+    "context": "EN :\n[OnSucceedAttackHead] Next Coin has +2 Power\nJP :\n[OnSucceedAttackHead] 次のコイン威力 +2"
+  },
+  {
+    "key": "816405-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 8 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 8 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]8を付与"
+  },
+  {
+    "key": "816406-levelList$[0].name",
+    "original": "가드",
+    "context": "EN :\nGuard\nJP :\nガード"
+  },
+  {
+    "key": "816406-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 [Enhancement] 1 얻음",
+    "context": "EN :\n[WhenUse] Gain 1 [Enhancement] next turn\nJP :\n[WhenUse] 次のターンに[Enhancement]1を得る"
+  },
+  {
+    "key": "816407-levelList$[0].name",
+    "original": "반격",
+    "context": "EN :\nCounter\nJP :\n反撃"
+  },
+  {
+    "key": "816407-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 [Enhancement] 1 얻음",
+    "context": "EN :\n[WhenUse] Gain 1 [Enhancement] next turn\nJP :\n[WhenUse] 次のターンに[Enhancement]1を得る"
+  },
+  {
+    "key": "816407-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]3を付与"
+  },
+  {
+    "key": "816501-levelList$[0].name",
+    "original": "치워주마",
+    "context": "EN :\nI'll Remove You\nJP :\n片付けてやる"
+  },
+  {
+    "key": "816501-levelList$[0].desc",
+    "original": "이 공격 스킬이 입힌 피해량의 10%만큼 본체 및 부위 체력 회복",
+    "context": "EN :\nCore and Part heal by 10% of the damage dealt by this Attack Skill\nJP :\nこの攻撃スキルが与えたダメージ量の10％だけ、本体および部位体力を回復"
+  },
+  {
+    "key": "816501-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [AttackUp] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [AttackUp]\nJP :\n[OnSucceedAttack] [AttackUp]1を得る"
+  },
+  {
+    "key": "816501-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [AttackUp] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [AttackUp]\nJP :\n[OnSucceedAttack] [AttackUp]1を得る"
+  },
+  {
+    "key": "816501-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 [Agility] 1 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 1 [Agility] next turn\nJP :\n[OnSucceedAttackHead] 次のターンに[Agility]1を得る"
+  },
+  {
+    "key": "816502-levelList$[0].name",
+    "original": "빌어먹을 놈",
+    "context": "EN :\nBloody Bastard!\nJP :\nクソ野郎"
+  },
+  {
+    "key": "816502-levelList$[0].desc",
+    "original": "대상보다 속도가 빠르다면, 합 위력+2",
+    "context": "EN :\nIf this unit's Speed is faster than the target's Clash Power +2\nJP :\n対象より速度が高ければ、マッチ威力 +2"
+  },
+  {
+    "key": "816502-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 4 부여, [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]4を付与、[Laceration]回数が2増加"
+  },
+  {
+    "key": "816502-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 4 부여, [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]4を付与、[Laceration]回数が2増加"
+  },
+  {
+    "key": "816502-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상보다 속도가 3이상 빠르다면, 이 코인 재사용 (최대 1회)",
+    "context": "EN :\n[OnSucceedAttack] If this unit's Speed is faster than the target's by 3 or more, reuse this Coin (once)\nJP :\n[OnSucceedAttack] 対象より速度が3以上高ければ、このコインを再使用(最大1回)"
+  },
+  {
+    "key": "816503-levelList$[0].name",
+    "original": "내 집이다!",
+    "context": "EN :\nThis Is My Home!\nJP :\n俺の家だ！"
+  },
+  {
+    "key": "816503-levelList$[0].desc",
+    "original": "체력이 가장 낮은 대상 우선 공격\n[WhenUse] 대상의 현재 체력 비율이 70% 미만이면, 합 위력 +2",
+    "context": "EN :\nPrioritize targets with the least HP\n[WhenUse] If the target has less than 70% HP, Clash Power +2\nJP :\n体力が最も低い対象を優先して攻撃\n[WhenUse] 対象の現体力の比率が70%未満なら、マッチ威力 +2"
+  },
+  {
+    "key": "816503-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [Agility] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Agility]1を得る"
+  },
+  {
+    "key": "816503-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vulnerable] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vulnerable]\nJP :\n[OnSucceedAttack] [Vulnerable]1を付与"
+  },
+  {
+    "key": "816503-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 5 부여, [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Laceration] and +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]5を付与、[Laceration]回数が2増加"
+  },
+  {
+    "key": "816503-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 5 부여, [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Laceration] and +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]5を付与、[Laceration]回数が2増加"
+  },
+  {
+    "key": "816503-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 20이상이면, 피해량 +100%",
+    "context": "EN :\n[OnSucceedAttack] If the target has 20+ [Laceration], deal +100% more damage\nJP :\n[OnSucceedAttack] 対象の[Laceration]が20以上なら、与ダメージ量 +100%"
+  },
+  {
+    "key": "816503-levelList$[0].coinlist[3].coindescs[1].desc",
+    "original": "[EnemyKill] 이 스킬 재사용 (최대 1)",
+    "context": "EN :\n[EnemyKill] Reuse this Skill (1 time max)\nJP :\n[EnemyKill] このスキルを再使用(最大1)"
+  },
+  {
+    "key": "816504-levelList$[0].name",
+    "original": "네놈만은…",
+    "context": "EN :\nI'll Get You...!\nJP :\nてめぇだけは…"
+  },
+  {
+    "key": "816504-levelList$[0].desc",
+    "original": "히스클리프 우선 공격\n[WhenUse] 속도가 가장 낮은 적일 경우, 기본 위력 +3\n[WhenUse] 다음 턴에 [AaCfPbBe], [Vulnerable] 2, [Paralysis] 3, [Binding] 5 부여",
+    "context": "EN :\nPrioritizes Heathcliff\n[WhenUse] If the target is the enemy with the slowest Speed, Base Power +3\n[WhenUse] Inflict [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], and 5 [Binding] next turn\nJP :\nヒースクリフを優先して攻撃\n[WhenUse] 速度が最も低い敵の場合、基本威力 +3\n[WhenUse] 次のターンに[AaCfPbBe], [Vulnerable] 2, [Paralysis] 3, [Binding] 5を付与"
+  },
+  {
+    "key": "816504-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [AttackUp] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [AttackUp] next turn\nJP :\n[OnSucceedAttack] 次のターンに[AttackUp]1を得る"
+  },
+  {
+    "key": "816504-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [AttackUp] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [AttackUp] next turn\nJP :\n[OnSucceedAttack] 次のターンに[AttackUp]1を得る"
+  },
+  {
+    "key": "816505-levelList$[0].name",
+    "original": "돌려줘…!!",
+    "context": "EN :\nGive It Back...!!\nJP :\n返せ…！！"
+  },
+  {
+    "key": "816505-levelList$[0].desc",
+    "original": "[CantDuel]",
+    "context": "EN :\n[CantDuel]\nJP :\n[CantDuel]"
+  },
+  {
+    "key": "816505-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 [AttackUp] 2 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 2 [AttackUp] next turn\nJP :\n[OnSucceedAttackHead] 次のターンに [AttackUp]2を得る"
+  },
+  {
+    "key": "816505-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 [AttackUp] 2 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 2 [AttackUp] next turn\nJP :\n[OnSucceedAttackHead] 次のターンに [AttackUp]2を得る"
+  },
+  {
+    "key": "816505-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 [AttackUp] 2 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 2 [AttackUp] next turn\nJP :\n[OnSucceedAttackHead] 次のターンに [AttackUp]2を得る"
+  },
+  {
+    "key": "816505-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량 +30%",
+    "context": "EN :\n[OnSucceedAttack] If the target has 10+ [Laceration], deal +30% more damage\nJP :\n[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%"
+  },
+  {
+    "key": "816505-levelList$[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 5이상이면, 피해량의 50%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] If the target has 5+ [Laceration], heal by 50% of damage dealt\nJP :\n[OnSucceedAttack] 対象の[Laceration]が5以上なら、ダメージ量の50%だけ体力を回復"
+  },
+  {
+    "key": "816506-levelList$[0].name",
+    "original": "이 새끼가…",
+    "context": "EN :\nYou Little...\nJP :\nこの野郎め…"
+  },
+  {
+    "key": "816506-levelList$[0].desc",
+    "original": "[AaCfPbBe]을 가지고 있는 대상 우선 공격\n대상의 속도가 자신보다 3 이상 낮다면, 이 스킬 재사용 (최대 1)",
+    "context": "EN :\nPrioritizes targets with [AaCfPbBe]\nIf this unit's Speed is faster than the target by 3 or more, reuse this Skill (1 time max)\nJP :\n[AaCfPbBe]を持つ対象を優先して攻撃\n対象の速度が自分より3以上低ければ、このスキルを再使用(最大1)"
+  },
+  {
+    "key": "816506-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 50%만큼 본체 및 부위 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal Core and Part by 50% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の50%分、本体および部位体力を回復"
+  },
+  {
+    "key": "816506-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 50%만큼 본체 및 부위 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal Core and Part by 50% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の50%分、本体および部位体力を回復"
+  },
+  {
+    "key": "816507-levelList$[0].name",
+    "original": "가드",
+    "context": "EN :\nGuard\nJP :\nガード"
+  },
+  {
+    "key": "816507-levelList$[0].desc",
+    "original": "턴 종료시 보호막 체력이 남아있다면, 다음 턴에 [Protection] 4 얻음",
+    "context": "EN :\nIf this Unit has remaining Shield HP at Turn End, gain 4 [Protection] next turn\nJP :\nターン終了時にバリアが残っているなら、次のターンに[Protection]4を得る"
+  },
+  {
+    "key": "816508-levelList$[0].name",
+    "original": "회피",
+    "context": "EN :\nEvade\nJP :\n回避"
+  },
+  {
+    "key": "816508-levelList$[0].desc",
+    "original": "[OnSucceedEvade] 다음 턴에 [Binding] 1 부여 (최대 2)",
+    "context": "EN :\n[OnSucceedEvade] Inflict 1 [Binding] next turn (2 times max)\nJP :\n[OnSucceedEvade] 次のターンに[Binding]1を付与(最大2)"
+  },
+  {
+    "key": "816509-levelList$[0].name",
+    "original": "여긴 내자리야!",
+    "context": "EN :\nThis is My Place!\nJP :\nここは俺の居場所だ！"
+  },
+  {
+    "key": "816509-levelList$[0].desc",
+    "original": "자신의 속도가 대상보다 높으면 코인 위력 +1",
+    "context": "EN :\nIf this unit's Speed is faster than the target's, Coin Power +1\nJP :\n自分の速度が対象より高ければ、コイン威力 +1"
+  },
+  {
+    "key": "816509-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량 +30%",
+    "context": "EN :\n[OnSucceedAttack] If the target has 10+ [Laceration], deal +30% more damage\nJP :\n[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%"
+  },
+  {
+    "key": "816509-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량 +30%",
+    "context": "EN :\n[OnSucceedAttack] If the target has 10+ [Laceration], deal +30% more damage\nJP :\n[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%"
+  },
+  {
+    "key": "816509-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량 +30%",
+    "context": "EN :\n[OnSucceedAttack] If the target has 10+ [Laceration], deal +30% more damage\nJP :\n[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%"
+  },
+  {
+    "key": "816509-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량 +30%",
+    "context": "EN :\n[OnSucceedAttack] If the target has 10+ [Laceration], deal +30% more damage\nJP :\n[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%"
+  },
+  {
+    "key": "816509-levelList$[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량의 70%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] If the target has 10+ [Laceration], heal by 70% of damage dealt\nJP :\n[OnSucceedAttack] 対象の[Laceration]が10以上なら、ダメージ量の70%だけ体力を回復"
+  }
+]

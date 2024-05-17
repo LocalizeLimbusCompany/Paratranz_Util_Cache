@@ -1,0 +1,262 @@
+[
+  {
+    "key": "get_10910_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10910_1-dlg",
+    "original": "후우… 쉴 만큼 쉬었으니까, 다시 가볼까? 다들, 옷 단단히 여미고~",
+    "context": "EN :\nPhew... Now that's enough rest. Let's keep on keeping on, everyone. And stay toasty~\nJP :\nふぅ…休むだけ休んだし、そろそろ行こっか？みんな、服はしっかり締め付けてね～。"
+  },
+  {
+    "key": "lobby_morning_10910_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10910_1-dlg",
+    "original": "으으, 이 지방은 해가 떠도 너무 춥단 말이지… 야영하다가 죽는 거 아닌가 싶어.\n뭐, 진짜 죽을 것 같이 체온이 내려가면 가방이 알아서 온열기능을 켜버리겠지만…",
+    "context": "EN :\nNngh... It's so cold here, even during midday. I'm worried about freezing to death every time I try to sleep on the road.\nWell, if it does get cold enough to kill me, I guess the trunk will automatically activate its thermal protection function...\nJP :\nうぅ、この地方は日が昇っても寒すぎるんだよね…。野営中に死ぬんじゃないのって感じ。\nまぁ、ホントに死にそうなくらいに体温が下がったら鞄が勝手に温熱機能を付けちゃうだろうけど…。"
+  },
+  {
+    "key": "lobby_noon_10910_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10910_1-dlg",
+    "original": "자, 체크포인트 17까지 왔네… 으~ 오늘 점심은 여기서 먹자구. 매번 걸으면서 에너지바로 처리하는 것도 지겹잖아? 플루, 가방 열어.",
+    "context": "EN :\nRight, let's see... we're at checkpoint 17. Nngh~ Let's lunch here, how 'bout that? Aren'tcha tired of munching on energy bars for three meals straight? Open up, Polu!\nJP :\nさぁ、チェックポイント17まで来たね…。うぅ～今日のお昼はここで食べよ。毎回歩きながらエナジーバーで片付けるのも飽きるでしょ？ポルー、鞄開けて。"
+  },
+  {
+    "key": "lobby_night_10910_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10910_1-dlg",
+    "original": "해 떨어지면 빨리 잘 준비를 해야 해. 지반도 좀 다져놓고…\n저번에도 배달 시간이 살짝 촉박해서 밤까지 움직였다가, 크레바스에 빠져서 죽을 뻔했다니까?",
+    "context": "EN :\nBetter get ready to sleep ASAP when the sun goes down. Remember to flatten the terrain you're about to lie down on, too...\nWanna know what happened when we tried to move through the night because we were running low on time? I almost fell into a crevasse and died.\nJP :\n日が落ちたら早く寝る準備をしないといけないんだ。地盤もちょっと固めておいて…。\nこのまえ配達時間がちょっとギリギリ夜まで動いてたんだけど、クレバスに落ちて死ぬとこだったんだよね？"
+  },
+  {
+    "key": "smalltalk_10910_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10910_1-dlg",
+    "original": "배달일이 재밌어서 하는 건 아니지. 뭐, 처음엔 로망도 있고 그러긴 했지만…\n아, 그래도 돌아다니면서 바뀌는 풍경을 보는 건 아직도 즐겁긴 해.",
+    "context": "EN :\nWell, I don't do delivery work for fun. I guess there was some sense of purpose at first, but...\nOh! Yeah, I still love seeing all the sights as I move across the City, though.\nJP :\n配達が面白くてやってるわけじゃないんだけどね。まぁ、最初はロマンもあってそんな感じだったけど…。\nあぁ、でも回りながら変わる風景を見るのは今も楽しいかな。"
+  },
+  {
+    "key": "smalltalk_10910_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10910_2-dlg",
+    "original": "이 가방에는 뭐든지 들어간다구~ 물론 한도가 있긴 하지만… 그래도 아무리 무거운 걸 넣더라도 가방의 무게가 바뀌지 않는다는 건 장점이지! <color=#9eada4><size=60%><i>[주의. 허가된 배달품 외의 물품 보관은-]</i></size></color> 에헤이~ 플루, 쉿?",
+    "context": "EN :\nYou can fit pretty much anything into these trunks~ If they fit the maximum capacity, of course... Still, it's a pretty big plus that the weight doesn't change no matter what you stuff into 'em! <color=#9eada4><size=60%><i>[WARNING. Unauthorized storage of non-designated delivery items is—]</i></size></color> Ehehe, shush, Polu!\nJP :\nこの鞄には何でも入るんだ～。もちろん限度はあるけど…それでもいくら重いものを入れても、鞄の重さが変わらないってのは長所だね！<color=#9eada4><size=60%><i>[注意。許可された配達品以外の物品保管は―]</i></size></color>ちょっと～ポルー、シッ？"
+  },
+  {
+    "key": "smalltalk_10910_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10910_3-dlg",
+    "original": "아… 이 가방? 개인용으로 새거가 지급되고 그러는 건 아니고. 글쎄~ 이게 몇 대째 물건일까… 배달 나갔다가 죽어버린 사람의 가방을 회수해서 쓰고, 또 쓰고… 그러는 거거든. 하하.",
+    "context": "EN :\nAh... what, this trunk? Nah, we don't get personalized trunks. Hmm~ how many people's hands used this trunk, I wonder... Oh, yeah. When someone gets killed in a delivery, we send people to pick it up and it becomes theirs. And when they die, someone else goes out to pick it up, and... ya get the gist, right? Ha ha.\nJP :\nあぁ…この鞄？個人用に新しいのが支給されるわけじゃなくてね。そうだな～これって何代目のやつなんだろ…。配達に出て死んだ人の鞄を回収して使って、また使って…そういう感じなんだ。あはは。"
+  },
+  {
+    "key": "smalltalk_10910_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10910_4-dlg",
+    "original": "좋아~ 이 정도면 금방 처리하고 떠날 수 있겠다. 너희들도 밍기적거리지 말고! 괜히 배달비 삭감된다고 나중에 툴툴대지 말고~",
+    "context": "EN :\nNiiice~ This looks like a piece of cake. Quit dragging your feet, let's get a move on, people! And don'tcha dare complain to me later about getting paid a reduced delivery fee~\nJP :\nいいね～。これならすぐに片付けて出発できそう。あなたたちもぐずぐずしないで！配達費削減されてもあとで文句言わないでね～。"
+  },
+  {
+    "key": "smalltalk_10910_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10910_5-dlg",
+    "original": "아우 무거워… 남부 애들은 수트케이스 같은 걸 갖고 다닌다던데, 우리는 왜 이렇게 무거운 걸 쓰나 몰라… 한 번 휘두를 때마다 어깨가 빠질 것 같단 말이야.",
+    "context": "EN :\nNngh, so heavy... I heard the guys down south carry around a slimmer suitcase, so what's up with us in the north getting saddled with something so bulky? I feel like I'm going to dislocate my shoulder swingin' this thing around.\nJP :\nうぅ、重い…。南部の子たちはスーツケースみたいなのを持ってるって聞いたけど、私たちはなんでこんな重いのを使うんだろ…。1, 2回振るたびに肩が引っこ抜けそうだっていうのに。"
+  },
+  {
+    "key": "neglect_10910_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10910_1-dlg",
+    "original": "후우… 요 근처에 육포를 숨겨뒀던 것 같은데… <color=#9eada4><size=60%><i>[배달 좌표 이외에서의 잠금 해제를 확인]</i></size></color> 앗, 기록 삭제 버튼이 어디 있더라?! <color=#9eada4><size=60%><i>[권한 없음]</i></size></color>",
+    "context": "EN :\nHmm... I think I hid a pack of beef jerky somewhere in there... <color=#9eada4><size=60%><i>[Unauthorized lock release outside of delivery coordinates detected]</i></size></color> Crap, how do I wipe that data?! <color=#9eada4><size=60%><i>[Unauthorized behavior detected]</i></size></color>\nJP :\nふぅ…この辺りにビーフジャーキーを隠しといたはずなんだけど…。<color=#9eada4><size=60%><i>[配達座標以外のロック解除を確認]</i></size></color>あっ、記録削除ボタンってどこだっけ！？<color=#9eada4><size=60%><i>[権限なし]</i></size></color>"
+  },
+  {
+    "key": "gacksung_10910_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10910_1-dlg",
+    "original": "딜리버리 캐리어 작동 1단계… 자, 3단계까지 가기 전에 끝낸다!",
+    "context": "EN :\nCourier Trunk activation level 1... Alright, let's take care of this before it gets to 3!\nJP :\nデリバリーキャリア作動1段階…さぁ、3段階になる前に終わらせるよ！"
+  },
+  {
+    "key": "formation_10910_1-desc",
+    "original": "인격 편성 1",
+    "context": "EN :\nDeployment 1\nJP :\n人格編成1"
+  },
+  {
+    "key": "formation_10910_1-dlg",
+    "original": "일 들어왔네… 플루, 가볼까? <color=#9eada4><size=60%><i>[기동음]</i></size></color>",
+    "context": "EN :\nLooks like a job... Let's go, Polu. <color=#9eada4><size=60%><i>[Activating]</i></size></color>\nJP :\n仕事入ってきたね…ポルー、行こっか？<color=#9eada4><size=60%><i>[起動音]</i></size></color>"
+  },
+  {
+    "key": "formation_10910_2-desc",
+    "original": "인격 편성 2",
+    "context": "EN :\nDeployment 2\nJP :\n人格編成2"
+  },
+  {
+    "key": "formation_10910_2-dlg",
+    "original": "이번 플루드니차는 재미없긴 해도 착실한 것 같네~",
+    "context": "EN :\nWelp, this Poludnitsa is kinda boring, but at least she's competent~\nJP :\n今回のポルードニツァは面白みがないけど、着実に動いてくれるね～。"
+  },
+  {
+    "key": "battleentry_10910_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10910_1-dlg",
+    "original": "늦겠다, 뛰자!",
+    "context": "EN :\nGuys, we're gonna be late! Run!\nJP :\n遅れそう、走ろっ！"
+  },
+  {
+    "key": "battle_select_10910_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10910_1-dlg",
+    "original": "이따가 얘기해. 배달 시간 끌면 위험해서.",
+    "context": "EN :\nTalk later, hmm? Can't be late for delivery.\nJP :\nあとで話して。配達時間延びたら危ないから。"
+  },
+  {
+    "key": "battle_endcommand_10910_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10910_1-dlg",
+    "original": "길 좀 막지 마!",
+    "context": "EN :\nGet outta my way, c'mon!\nJP :\n道空けてよ！"
+  },
+  {
+    "key": "battle_enemy_break_10910_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10910_1-dlg",
+    "original": "시간 끌지 말고…",
+    "context": "EN :\nStop wasting my time...\nJP :\n無駄に時間を取らせないで…。"
+  },
+  {
+    "key": "battle_break_10910_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10910_1-dlg",
+    "original": "윽…",
+    "context": "EN :\nNgh...\nJP :\nうっ…。"
+  },
+  {
+    "key": "battle_kill_10910_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10910_1-dlg",
+    "original": "길에서 비켜!",
+    "context": "EN :\n... and get outta my way!\nJP :\n道譲って！"
+  },
+  {
+    "key": "battle_dead_10910_1-desc",
+    "original": "본인 사망 1",
+    "context": "EN :\nDeath #1\nJP :\n本人死亡1"
+  },
+  {
+    "key": "battle_dead_10910_1-dlg",
+    "original": "아… 이렇게 나도 가방만… 남기게 되나…",
+    "context": "EN :\nAh... I'll be... just another trunk recovery mission, huh...\nJP :\nあぁ…私も鞄だけ…残しちゃんだ…。"
+  },
+  {
+    "key": "battle_dead_10910_2-desc",
+    "original": "본인 사망 2",
+    "context": "EN :\nDeath #2\nJP :\n本人死亡2"
+  },
+  {
+    "key": "battle_dead_10910_2-dlg",
+    "original": "아, 안돼! 여기서 금방 벗어날 테니까 <color=#9eada4><size=60%><i>[가방 작동]</i></size></color>",
+    "context": "EN :\nN-no, stop! I'll get moving right now, oka— <color=#9eada4><size=60%><i>[Trunk Activated]</i></size></color>\nJP :\nだ、だめ！ここからすぐに離脱するから― <color=#9eada4><size=60%><i>[鞄作動]</i></size></color>"
+  },
+  {
+    "key": "choice_success_p_10910_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10910_2-dlg",
+    "original": "자, 됐지? 시간 없는데 이런걸 시켜…",
+    "context": "EN :\nDone. Happy now? Jeez, it's not like I'm rolling in time...\nJP :\nさっ、これでいいよね？時間無いっていうのになんでこんなのを…。"
+  },
+  {
+    "key": "choice_fail_n_10910_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10910_1-dlg",
+    "original": "아… 이런 거 잘 못하는데, 시간만 뺏고 말이야…",
+    "context": "EN :\nAh... I'm not so good at these. Ugh, what a waste of my time...\nJP :\nあっ…こういうのは得意じゃないんだ、時間ばっか奪ってくし…。"
+  },
+  {
+    "key": "battle_clear_10910_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10910_1-dlg",
+    "original": "생각보다 시간을 너무 썼는데… 뭐, 배달 가방에 먹히는 것보단 낫지. 자, 바로 뛴다!",
+    "context": "EN :\nThat took way longer than I expected, but... eh, better than getting devoured by the delivery box. Alrighty, let's get back on the road!\nJP :\n思ってたより時間使い過ぎたけど…。まぁ、配達鞄に喰われるのよりかはマシか。さぁ、すぐ行くよ！"
+  },
+  {
+    "key": "battle_clear_ex_10910_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Condition Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10910_1-dlg",
+    "original": "음~ 여유로웠어. 아예 여기서 밥 좀 먹다가 출발해도 될 것 같은데? 다들 식량 꺼내!",
+    "context": "EN :\nMm~ we've got plenty of time to spare. I think we can rest up here for a meal? Guys, time to chow down!\nJP :\nう～ん、余裕だったね。いっそここでちょっとご飯食べてから出発しても良さそうじゃない？みんな食糧出して！"
+  },
+  {
+    "key": "battle_defeat_10910_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10910_1-dlg",
+    "original": "…빨리, 빨리 다시 싸워야 해. 이러다가 진짜… 배달을… 못 마칠지도 몰라… 그렇게 되면…",
+    "context": "EN :\n... W-we gotta try this fight again now. C'mon, let's go at 'em right now. I might be late for delivery, for real... T-then...\nJP :\n…早く、早くまた戦わないと。このままじゃホントに…配達が…終わらないかも…。そしたら…。"
+  }
+]

@@ -1,0 +1,475 @@
+[
+  {
+    "key": "0-place",
+    "original": "K사 로보토미 지부 어딘가",
+    "context": "EN :\nNest K - LC Branch Interior\nJP :\nK社 ロボトミー支部のどこか"
+  },
+  {
+    "key": "0-model",
+    "original": "니코",
+    "translation": "尼柯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "0-teller",
+    "original": "니코",
+    "context": "EN :\nNiko\nJP :\nニコ"
+  },
+  {
+    "key": "0-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "0-content",
+    "original": "아… 잠깐잠깐. 타임아웃이 필요할 것 같아요.",
+    "context": "EN :\nAh... Give me a second. I think we need to call a timeout.\nJP :\nあぁ…ちょい待ちちょい待ち。タイムアウトが必要かもですね。"
+  },
+  {
+    "key": "1-model",
+    "original": "니코",
+    "translation": "尼柯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "1-teller",
+    "original": "니코",
+    "context": "EN :\nNiko\nJP :\nニコ"
+  },
+  {
+    "key": "1-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "1-content",
+    "original": "오늘 아침에 먹은 정어리가 좀 잘못되었는지… 속이 좀 안 좋아서.",
+    "context": "EN :\nMight be the sardine I ate this morning... My stomach is aching.\nJP :\n今朝食べた鰯がちょっと傷んでたのか…ちょっとお腹の調子が。"
+  },
+  {
+    "key": "2-model",
+    "original": "장미스패너2",
+    "translation": "玫瑰扳手2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "2-teller",
+    "original": "해결사 조수",
+    "context": "EN :\nAssistant Fixer\nJP :\nフィクサー助手"
+  },
+  {
+    "key": "2-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "2-content",
+    "original": "대장님!",
+    "context": "EN :\nBoss!\nJP :\n隊長！"
+  },
+  {
+    "key": "3-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "3-content",
+    "original": "그런 건 없어. 다음은 모. 분. 이다.",
+    "context": "EN :\nNo such thing. SYNC is up next.\nJP :\nそんなのは無い。次はく・へだ。"
+  },
+  {
+    "key": "4-model",
+    "original": "장미스패너2",
+    "translation": "玫瑰扳手2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "4-teller",
+    "original": "해결사 조수",
+    "context": "EN :\nAssistant Fixer\nJP :\nフィクサー助手"
+  },
+  {
+    "key": "4-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "4-content",
+    "original": "슈렌느 씨…!",
+    "context": "EN :\nShrenne...!\nJP :\nシュレンヌさん…！"
+  },
+  {
+    "key": "5-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "5-content",
+    "original": "슈, 뭐?",
+    "context": "EN :\nShe what?\nJP :\nシュ、なに？"
+  },
+  {
+    "key": "6-model",
+    "original": "장미스패너2",
+    "translation": "玫瑰扳手2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "6-teller",
+    "original": "해결사 조수",
+    "context": "EN :\nAssistant Fixer\nJP :\nフィクサー助手"
+  },
+  {
+    "key": "6-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "6-content",
+    "original": "슈렌느 씨가 말해줬어요. 이곳에 들어오면 절대로… 절대로 재생 앰플만큼은 사용하지 말라고…",
+    "context": "EN :\nShrenne told us something. While we're in here... don't ever use regeneration ampules no matter what...\nJP :\nシュレンヌさんが言いました。ここに入ったら絶対に…絶対に再生アンプルだけは使用するなって…。"
+  },
+  {
+    "key": "7-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "7-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "7-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "8-model",
+    "original": "니코",
+    "translation": "尼柯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "8-teller",
+    "original": "니코",
+    "context": "EN :\nNiko\nJP :\nニコ"
+  },
+  {
+    "key": "8-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "8-content",
+    "original": "하… 그걸 곧이곧대로 말하면… 계약 파기야, 임마…",
+    "context": "EN :\nHaah... Saying that out loud... is breaching the contract, you dolt...\nJP :\nはぁ…それをそのまま言ったら…契約破棄だろ、こんにゃろ…。"
+  },
+  {
+    "key": "9-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "9-content",
+    "original": "오… 슈렌느가 그렇게 말했다고? 왜?",
+    "context": "EN :\nThat so... Shrenne told you that? Why?\nJP :\nおぉ…シュレンヌがそう言ったって？なんで？"
+  },
+  {
+    "key": "10-model",
+    "original": "장미스패너2",
+    "translation": "玫瑰扳手2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "해결사 조수",
+    "context": "EN :\nAssistant Fixer\nJP :\nフィクサー助手"
+  },
+  {
+    "key": "10-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "10-content",
+    "original": "몰라요… 때가 되면 알게 될 거라고 했는데…",
+    "context": "EN :\nI don't know... She said we'll see in due time...\nJP :\n知りません…時が来たら分かるって言ってたんですけど…。"
+  },
+  {
+    "key": "11-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "11-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "11-content",
+    "original": "뭐, 제일 간단한 방법이 있지 않겠어요?",
+    "context": "EN :\nWell, we have the simplest way to find out, don't we?\nJP :\nまぁ、最も簡単な方法があるじゃないですか？"
+  },
+  {
+    "key": "12-content",
+    "original": "동랑이 재생 앰플을 만지작거리더니 돌연히…",
+    "context": "EN :\nAfter fiddling with a regeneration ampule in his hand, Dongrang made a sudden move...\nJP :\nドンランが再生アンプルをいじくってると、突然…。"
+  },
+  {
+    "key": "13-content",
+    "original": "비수라도 던지듯, 방심한 해결사의 몸에 꽂아 넣었다.",
+    "context": "EN :\nHe quickly jabbed the ampule into the unguarded Fixer's body like a dagger.\nJP :\n短剣でも投げるように、油断したフィクサーの身体に突き刺した。"
+  },
+  {
+    "key": "14-model",
+    "original": "장미스패너2",
+    "translation": "玫瑰扳手2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "해결사 조수",
+    "context": "EN :\nAssistant Fixer\nJP :\nフィクサー助手"
+  },
+  {
+    "key": "14-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "14-content",
+    "original": "앗…",
+    "context": "EN :\nAh...\nJP :\nあっ…。"
+  },
+  {
+    "key": "15-content",
+    "original": "그는 황급히 몸에 꽂힌 앰플을 빼려고 했지만, 이미 앰플은 전부 주입 되어버렸고…",
+    "context": "EN :\nThe Fixer tried to remove the ampule, but its content had already entered the system...\nJP :\n彼は慌てて身体に刺さったアンプルを抜こうとしたが、既にアンプルは全部注入されており…。"
+  },
+  {
+    "key": "16-model",
+    "original": "니코",
+    "translation": "尼柯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "니코",
+    "context": "EN :\nNiko\nJP :\nニコ"
+  },
+  {
+    "key": "16-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "16-content",
+    "original": "…!",
+    "context": "EN :\n…!\nJP :\n…！"
+  },
+  {
+    "key": "17-model",
+    "original": "장미스패너2",
+    "translation": "玫瑰扳手2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "해결사 조수",
+    "context": "EN :\nAssistant Fixer\nJP :\nフィクサー助手"
+  },
+  {
+    "key": "17-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "17-content",
+    "original": "…왜 그렇게 놀라요, 대장님? 재생 앰플을 꽂으면 어떻게 되는 건데요…?",
+    "context": "EN :\n...Why do you look so surprised, boss? What happens if the ampule is injected...?\nJP :\n…どうしてそんな驚いているんですか、隊長？再生アンプルを注入するとどうなるんですか…？"
+  },
+  {
+    "key": "18-model",
+    "original": "장미스패너2",
+    "translation": "玫瑰扳手2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "해결사 조수",
+    "context": "EN :\nAssistant Fixer\nJP :\nフィクサー助手"
+  },
+  {
+    "key": "18-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "18-content",
+    "original": "…어, 이거 이상한데…",
+    "context": "EN :\n...Huh, this is weird...\nJP :\n…あれ、なんだか変だ。"
+  },
+  {
+    "key": "19-content",
+    "original": "팔과 다리가 이상한 각도로 꺾여 나가더니,",
+    "context": "EN :\nThe Fixer's limbs began to twist in strange angles...\nJP :\n足と腕が変な方向に折れ曲がると、"
+  },
+  {
+    "key": "20-model",
+    "original": "장미스패너2",
+    "translation": "玫瑰扳手2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "20-teller",
+    "original": "해결사 조수",
+    "context": "EN :\nAssistant Fixer\nJP :\nフィクサー助手"
+  },
+  {
+    "key": "20-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "20-content",
+    "original": "우와아. 우아.",
+    "context": "EN :\nUwaah. Uagh.\nJP :\nうわぁ。うわ。"
+  },
+  {
+    "key": "21-content",
+    "original": "이윽고 신체를 뚫고 무언가 불쑥 튀어나오기 시작했다.",
+    "context": "EN :\nThen some things started protruding through the flesh.\nJP :\nやがて身体を突き破り、何かが飛び出し始めた。"
+  },
+  {
+    "key": "22-content",
+    "original": "그리고는 바닥에 주저앉은 채로 뭔가를 더 부르짖으려 하지만, 해내지는 못했다.",
+    "context": "EN :\nCollapsed on the floor, the Fixer tried to yell something, but failed to make any sound.\nJP :\nそして床にへたり込んだまま何かしらもっと叫ぼうとしているが、やり遂げることはできなかった。"
+  },
+  {
+    "key": "23-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "23-content",
+    "original": "…이거, 나만 익숙한 모습이냐?",
+    "context": "EN :\n...Is it just me, or is this awfully familiar?\nJP :\n…これ、見慣れてるのって俺だけか？"
+  },
+  {
+    "key": "24-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "24-content",
+    "original": "설마. 그 벌레 소굴을 기억하는 사람이 그렉, 당신뿐이겠어?",
+    "context": "EN :\nPlease. You don't really think you're the only one who remembers that bug den, do you, Greg babe?\nJP :\nまさか。あの虫の巣窟を覚えてる人がグレッグ、あなただけだとでも？"
+  },
+  {
+    "key": "25-content",
+    "original": "마치 애벌레나 달팽이와도 같은…",
+    "context": "EN :\nResembling larvas or snails...\nJP :\nまるで芋虫やカタツムリのような…。"
+  },
+  {
+    "key": "26-model",
+    "original": "니코",
+    "translation": "尼柯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "니코",
+    "context": "EN :\nNiko\nJP :\nニコ"
+  },
+  {
+    "key": "26-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "26-content",
+    "original": "…이런.",
+    "context": "EN :\n...Oh dear.\nJP :\n…ありゃぁ。"
+  },
+  {
+    "key": "27-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "27-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "27-content",
+    "original": "그만하자. 내가 너무 많은 사람을 끌어들였나 봐.",
+    "context": "EN :\nLet's stop here. I dragged too many people into this.\nJP :\nこの辺にしておこう。私が人を連れてきすぎたみたい。"
+  },
+  {
+    "key": "28-model",
+    "original": "니코",
+    "translation": "尼柯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "니코",
+    "context": "EN :\nNiko\nJP :\nニコ"
+  },
+  {
+    "key": "28-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "28-content",
+    "original": "뭐… 돈에 혹해서 온 건 저잖아요.",
+    "context": "EN :\nWell... It was my decision to take the deal for the money.\nJP :\nまぁ…カネに目が眩んで来たのは私ですから。"
+  },
+  {
+    "key": "29-model",
+    "original": "니코",
+    "translation": "尼柯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "29-teller",
+    "original": "니코",
+    "context": "EN :\nNiko\nJP :\nニコ"
+  },
+  {
+    "key": "29-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "29-content",
+    "original": "에효… 이럴 줄 알았으면 어제 한탕 좀 제대로 해보고 오는 거였는데.",
+    "context": "EN :\nDearie me... Should've gone on a bigger spree yesterday if I knew it would come to this.\nJP :\nはぁぁぁ…こうなるって分かってたら、昨日でっかく一発決めてくるんだったよ。"
+  }
+]

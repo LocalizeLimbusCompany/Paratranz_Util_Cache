@@ -1,0 +1,282 @@
+[
+  {
+    "key": "9010101-levelList$[0].name",
+    "original": "인간있움",
+    "context": "EN :\nHuman-omes!\nJP :\n人間だノム"
+  },
+  {
+    "key": "9010101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath] 4 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 4 [Breath]\nJP :\n[OnSucceedAttack] [Breath]4を得る"
+  },
+  {
+    "key": "9010101-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath] 3 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 [Breath]\nJP :\n[OnSucceedAttack] [Breath]3を得る"
+  },
+  {
+    "key": "9010101-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 자신의 [Breath] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Gain +1 [Breath] Count\nJP :\n[OnSucceedAttackHead] 自分の[Breath]回数が1増加"
+  },
+  {
+    "key": "9010101-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Paralysis] 2 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 2 [Paralysis]\nJP :\n[CriticalOnSucceedAttack] [Paralysis]2を付与"
+  },
+  {
+    "key": "9010102-levelList$[0].name",
+    "original": "포획하움",
+    "context": "EN :\nCapture them-ome\nJP :\n捕獲するノム"
+  },
+  {
+    "key": "9010102-levelList$[0].desc",
+    "original": "[WinDuel] 정신력 5 회복",
+    "context": "EN :\n[WinDuel] Heal 5 SP\nJP :\n[WinDuel] 精神力を5回復"
+  },
+  {
+    "key": "9010102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath] 4 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 4 [Breath]\nJP :\n[OnSucceedAttack] [Breath]4を得る"
+  },
+  {
+    "key": "9010102-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 자신의 [Breath] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Gain +1 [Breath] Count\nJP :\n[OnSucceedAttackHead] 自分の[Breath]回数が1増加"
+  },
+  {
+    "key": "9010102-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "크리티컬 피해량 +40%",
+    "context": "EN :\n+40% Damage on Critical Hit\nJP :\nクリティカルダメージ量 +40%"
+  },
+  {
+    "key": "9010103-levelList$[0].name",
+    "original": "움움!!",
+    "context": "EN :\nOme, Ome!!\nJP :\nノムノム！！"
+  },
+  {
+    "key": "9010103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "크리티컬 피해량 +30%",
+    "context": "EN :\n+30% Damage on Critical Hit\nJP :\nクリティカルダメージ量 +30%"
+  },
+  {
+    "key": "9010103-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Breath] 3 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 [Breath]\nJP :\n[OnSucceedAttack] [Breath]3を得る"
+  },
+  {
+    "key": "9010103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "크리티컬 피해량 +30%",
+    "context": "EN :\n+30% Damage on Critical Hit\nJP :\nクリティカルダメージ量 +30%"
+  },
+  {
+    "key": "9010103-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 [Breath] Count\nJP :\n[OnSucceedAttack] 自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "9010201-levelList$[0].name",
+    "original": "싱싱하움",
+    "context": "EN :\nFresh Meat-omes\nJP :\n新鮮だノム"
+  },
+  {
+    "key": "9010201-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath] 2 얻음, 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 [Breath] and +2 [Breath] Count\nJP :\n[OnSucceedAttack] [Breath]2を得る、自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "9010201-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath] 3 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 [Breath]\nJP :\n[OnSucceedAttack] [Breath]3を得る"
+  },
+  {
+    "key": "9010201-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 자신의 [Breath] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Gain +1 [Breath] Count\nJP :\n[OnSucceedAttackHead] 自分の[Breath]回数が1増加"
+  },
+  {
+    "key": "9010201-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] 다음 턴에 [Binding] 3 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Gain 3 [Binding] next turn\nJP :\n[CriticalOnSucceedAttack] 次のターンに[Binding]3を付与"
+  },
+  {
+    "key": "9010202-levelList$[0].name",
+    "original": "팔팔하움",
+    "context": "EN :\nLookin' Lively-ome!\nJP :\nピチピチだノム"
+  },
+  {
+    "key": "9010202-levelList$[0].desc",
+    "original": "[WinDuel] 정신력 5 회복",
+    "context": "EN :\n[WinDuel] Heal 5 SP\nJP :\n[WinDuel] 精神力を5回復"
+  },
+  {
+    "key": "9010202-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath] 2 얻음, 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 [Breath] and +2 [Breath] Count\nJP :\n[OnSucceedAttack] [Breath]2を得る、自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "9010202-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "크리티컬 피해량 +40%",
+    "context": "EN :\n+40% Damage on Critical Hit\nJP :\nクリティカルダメージ量 +40%"
+  },
+  {
+    "key": "9010203-levelList$[0].name",
+    "original": "막았움!",
+    "context": "EN :\nNo Use-ome!\nJP :\n防いだノム！"
+  },
+  {
+    "key": "9010203-levelList$[0].desc",
+    "original": "[EndBattle] 보호막 체력이 남아있다면, 다음 턴에 [Enhancement] 1 얻음.",
+    "context": "EN :\n[EndBattle] If this unit has Shield, gain 1 [Enhancement] next turn.\nJP :\n[EndBattle] バリアが残っているなら、次のターンに[Enhancement]1を得る。"
+  },
+  {
+    "key": "9010301-levelList$[0].name",
+    "original": "가구로 만들겠움",
+    "context": "EN :\nTurn Ya Into Furniture-omes!\nJP :\n家具にするノム"
+  },
+  {
+    "key": "9010301-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Breath] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +3 [Breath] Count\nJP :\n[OnSucceedAttack] 自分の[Breath]回数が3増加"
+  },
+  {
+    "key": "9010301-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath] 3 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 [Breath]\nJP :\n[OnSucceedAttack] [Breath]3を得る"
+  },
+  {
+    "key": "9010301-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 자신의 [Breath] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Gain +1 [Breath] Count\nJP :\n[OnSucceedAttackHead] 自分の[Breath]回数が1増加"
+  },
+  {
+    "key": "9010301-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Paralysis] 2 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 2 [Paralysis]\nJP :\n[CriticalOnSucceedAttack] [Paralysis]2を付与"
+  },
+  {
+    "key": "9010302-levelList$[0].name",
+    "original": "얼른 옮기겠움",
+    "context": "EN :\nLet's Get It Moving-ome\nJP :\nすぐに運ぶノム"
+  },
+  {
+    "key": "9010302-levelList$[0].desc",
+    "original": "[WinDuel] 정신력 5 회복",
+    "context": "EN :\n[WinDuel] Heal 5 SP\nJP :\n[WinDuel] 精神力を5回復"
+  },
+  {
+    "key": "9010302-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 [Breath] Count\nJP :\n[OnSucceedAttack] 自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "9010302-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [Breath] 3 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 [Breath]\nJP :\n[OnSucceedAttackHead] [Breath]3を得る"
+  },
+  {
+    "key": "9010302-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "크리티컬 피해량 +40%",
+    "context": "EN :\n+40% Damage on Critical Hit\nJP :\nクリティカルダメージ量 +40%"
+  },
+  {
+    "key": "9010303-levelList$[0].name",
+    "original": "헤움헤움~",
+    "context": "EN :\nHoom Hoom~\nJP :\nホムホム～。"
+  },
+  {
+    "key": "9010303-levelList$[0].desc",
+    "original": "[OnSucceedEvade] 다음 턴에 [Breath] 5얻음. 자신의 [Breath] 횟수 2 증가.\n[OnDefeatEvade] 10만큼 흐트러짐 손상",
+    "context": "EN :\n[OnSucceedEvade] Gain 5 [Breath] and +2 [Breath] Count.\n[OnDefeatEvade] Raise Stagger Threshold by 10\nJP :\n[OnSucceedEvade] 次のターンに[Breath]5を得る。自分の[Breath]回数が2増加。\n[OnDefeatEvade] 混乱区間を10前進"
+  },
+  {
+    "key": "9010401-levelList$[0].name",
+    "original": "놓치지 않겠움",
+    "context": "EN :\nI'll Get You-ome\nJP :\n逃さないノム"
+  },
+  {
+    "key": "9010401-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath] 3 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 [Breath]\nJP :\n[OnSucceedAttack] [Breath]3を得る"
+  },
+  {
+    "key": "9010401-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 다음 턴에 [Binding] 2 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 2 [Binding] next turn\nJP :\n[CriticalOnSucceedAttack] 次のターンに[Binding]2を付与"
+  },
+  {
+    "key": "9010402-levelList$[0].name",
+    "original": "노다지움",
+    "context": "EN :\nWe Struck Gold-ome!\nJP :\n大出世ノム"
+  },
+  {
+    "key": "9010402-levelList$[0].desc",
+    "original": "[WinDuel] 정신력 5 회복",
+    "context": "EN :\n[WinDuel] Heal 5 SP\nJP :\n[WinDuel] 精神力を5回復"
+  },
+  {
+    "key": "9010402-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath] 2 얻음. 자신의 [Breath] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 [Breath] and +3 [Breath] Count\nJP :\n[OnSucceedAttack] [Breath]2を得る、自分の[Breath]回数が3増加"
+  },
+  {
+    "key": "9010402-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "크리티컬 피해량 +50%",
+    "context": "EN :\n+50% Damage on Critical Hit\nJP :\nクリティカルダメージ量 +50%"
+  },
+  {
+    "key": "9010402-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath] 3 얻음. 자신의 [Breath] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 [Breath] and +1 [Breath] Count\nJP :\n[OnSucceedAttack] [Breath]3を得る、自分の[Breath]回数が1増加"
+  },
+  {
+    "key": "9010402-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "크리티컬 피해량 +50%",
+    "context": "EN :\n+50% Damage on Critical Hit\nJP :\nクリティカルダメージ量 +50%"
+  },
+  {
+    "key": "9010403-levelList$[0].name",
+    "original": "산지 직송이움!",
+    "context": "EN :\nLocal Raw Material-omes!\nJP :\n産地直送だノム！"
+  },
+  {
+    "key": "9010403-levelList$[0].desc",
+    "original": "[WinDuel] [Breath] 3 얻음",
+    "context": "EN :\n[WinDuel] Gain 3 [Breath]\nJP :\n[WinDuel] [Breath]3を得る"
+  },
+  {
+    "key": "9010403-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] 마지막 코인 피해량 +20%",
+    "context": "EN :\n[CriticalOnSucceedAttack] Damage +20% for the last Coin\nJP :\n[CriticalOnSucceedAttack] 最終コインのダメージ量 +20%"
+  },
+  {
+    "key": "9010403-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Breath] 3 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 [Breath]\nJP :\n[OnSucceedAttack] [Breath]3を得る"
+  },
+  {
+    "key": "9010403-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] 마지막 코인 피해량 +20%",
+    "context": "EN :\n[CriticalOnSucceedAttack] Damage +20% for the last Coin\nJP :\n[CriticalOnSucceedAttack] 最終コインのダメージ量 +20%"
+  },
+  {
+    "key": "9010403-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 [Breath] Count\nJP :\n[OnSucceedAttack] 自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "9010403-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] 자신의 [Breath] 횟수를 소모하지 않음. [Breath]만큼 추가 타격 피해 입힘",
+    "context": "EN :\n[CriticalOnSucceedAttack] Does not consume [Breath] Count. Deal bonus Blunt damage equal to [Breath]\nJP :\n[CriticalOnSucceedAttack] 自分の[Breath]回数を消耗しない。[Breath]だけ追加打撃ダメージを与える"
+  },
+  {
+    "key": "9010404-levelList$[0].name",
+    "original": "막았움!",
+    "context": "EN :\nNo Use-ome!\nJP :\n防いだノム！"
+  },
+  {
+    "key": "9010404-levelList$[0].desc",
+    "original": "[EndBattle] 보호막 체력이 남아있다면, 다음 턴에 [Enhancement] 2 얻음.",
+    "context": "EN :\n[EndBattle] If this unit has Shield, gain 2 [Enhancement] next turn.\nJP :\n[EndBattle] バリアが残っているなら、次のターンに[Enhancement]2を得る。"
+  }
+]

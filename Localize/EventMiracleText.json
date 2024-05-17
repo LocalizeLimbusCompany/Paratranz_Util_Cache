@@ -1,0 +1,52 @@
+[
+  {
+    "key": "miracle_stagebutton_not_clear_cp4-content",
+    "original": "{0}장은 클리어하고 와!",
+    "context": "EN :\nGo clear Canto {0} first!\nJP :\n{0}章くらい\nクリアして\n来いよ！"
+  },
+  {
+    "key": "miracle_stagebutton_normal-content",
+    "original": "시계 대가리! 빨리 튀어와!",
+    "context": "EN :\nOi, Clockhead! Get crackin'!\nJP :\n時計ヅラ！\n早く来いよ！"
+  },
+  {
+    "key": "miracle_stagebutton_end_event-content",
+    "original": "늦었잖아! 이벤트 끝났어!",
+    "context": "EN :\nYou're late! Event's shut!\nJP :\n遅ぇよ！\nイベント終わっちまった！"
+  },
+  {
+    "key": "miracle_storybutton_before_start-content",
+    "original": "5.5-1 클리어 시 개방",
+    "context": "EN :\nClear 5.5-1 to Unlock\nJP :\n5.5-1クリア時に解放"
+  },
+  {
+    "key": "miracle_storybutton_normal-content",
+    "original": "이것은 모험의 기록이네!",
+    "context": "EN :\nRevisit thy adventures!\nJP :\nこれは\n冒険の\n記録である！"
+  },
+  {
+    "key": "miracle_exchange_scrap-content",
+    "original": "선물 교환",
+    "context": "EN :\nGift Exchange\nJP :\nプレゼント交換"
+  },
+  {
+    "key": "miracle_scrap_guide_title-content",
+    "original": "거대한 장식 꾸러미",
+    "context": "EN :\nHuge Trinkets Sack\nJP :\n巨大な飾りのずた袋"
+  },
+  {
+    "key": "miracle_scrap_guide_desc-content",
+    "original": "이벤트 혹은 주요 이야기의 스테이지와 스토리 던전을 클리어하면\n낮은 확률로 <color=#008d0d>[거대한 장식 꾸러미]</color>를 획득할 수 있습니다.\n\n<color=#008d0d>[거대한 장식 꾸러미]</color>는 <color=#008d0d>[장식 꾸러미]</color> 20개로 전환됩니다.",
+    "context": "EN :\nRarely, you may obtain <color=#008d0d>[Huge Trinkets Sack]</color> from clearing Event Stages, Main Story Stages, or Story Dungeons.\n\n<color=#008d0d>[Huge Trinkets Sack]</color> is converted to 20 <color=#008d0d>[Trinkets Sack]</color>.\nJP :\nイベントまたはメインストーリーのステージとストーリーダンジョンをクリアすると\n低確率で<color=#008d0d>[巨大な飾りのずた袋]</color>を獲得することができます。\n\n<color=#008d0d>[巨大な飾りのずた袋]</color>は<color=#008d0d>[飾りのずた袋]</color>20個に変換されます。"
+  },
+  {
+    "key": "miracle_rewardpage_desc-content",
+    "original": "이벤트 혹은 주요 이야기의 스테이지와 스토리 던전을 클리어하여 <color=#008d0d>[장식 꾸러미]</color>를 획득할 수 있습니다.\n\n획득한 <color=#008d0d>[장식 꾸러미]</color> 수량에 비례하여 <color=#008d0d>[선물 교환]</color>에서 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nClear Event Stages, Main Story Stages, or Story Dungeons to earn <color=#008d0d>[Trinkets Sack]</color>.\n\nYou can redeem various rewards from the <color=#008d0d>[Gift Exchange]</color> based on the number of <color=#008d0d>[Trinkets Sack]</color> you have.\nJP :\nイベントまたはメインストーリーのステージとストーリーダンジョンをクリアすると<color=#008d0d>[飾りのずた袋]</color>を獲得することができます。\n\n獲得した<color=#008d0d>[飾りのずた袋]</color>の数に比例して<color=#008d0d>[プレゼント交換]</color>から様々な報酬を獲得することができます。"
+  },
+  {
+    "key": "miracle_scrap_counter_label-content",
+    "original": "수집한 장식 꾸러미",
+    "context": "EN :\nTrinkets Sacks Collected\nJP :\n集めた飾りのずた袋"
+  }
+]

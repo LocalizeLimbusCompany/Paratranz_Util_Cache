@@ -1,0 +1,572 @@
+[
+  {
+    "key": "0-place",
+    "original": "메피스토펠레스 선실",
+    "context": "EN :\nCabins of Mephistopheles\nJP :\nメフィストフェレス 船室"
+  },
+  {
+    "key": "0-content",
+    "original": "이스마엘이 말한 대로, 멀지 않은 거리에서 거대한 배 두 척이 오고 있었다.",
+    "context": "EN :\nJust like Ishmael said, two massive vessels were approaching us not far from where we were.\nJP :\nイシュメールの言う通り、\nそう遠くない距離から巨大な船が二隻近寄って来ている。"
+  },
+  {
+    "key": "1-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<저 배들이랑 부딪힐 것 같지도 않은데…? 방향도 전혀 다르잖아.>",
+    "context": "EN :\n<We're not exactly on a collision course with them, though...?>\nJP :\n<あの船とぶつかりそうには見えないんだけど…？方向も全然違うし。>"
+  },
+  {
+    "key": "2-content",
+    "original": "이스마엘은 대답 대신 키를 잡더니 망설임 없이 한쪽을 향해 집어 던지듯 키를 돌려댔다.",
+    "context": "EN :\nIshmael didn't entertain me with an answer. Instead, she took the helm and threw it wildly in one direction.\nJP :\nイシュメールは答える代わりに舵を掴むと、\n迷わず投げつけるように一方に向かって舵を回した。"
+  },
+  {
+    "key": "3-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "3-content",
+    "original": "<으아악!>",
+    "context": "EN :\n<Woaah!>\nJP :\n<うわぁあっ！>"
+  },
+  {
+    "key": "4-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "4-content",
+    "original": "이 기술은… 첨벙 드리프트…?",
+    "context": "EN :\nThis skill... Splashy drift...?\nJP :\nこの技術は…ばちゃんドリフト…？"
+  },
+  {
+    "key": "5-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "5-content",
+    "original": "허, 배에도 드리프트가 있었나…?",
+    "context": "EN :\nHuh, didn't know ships could drift like a bus...\nJP :\nはっ、船にもドリフトがあるのか…？"
+  },
+  {
+    "key": "6-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "6-content",
+    "original": "카론, 놀랐어. 주황 머리… 신선해.",
+    "context": "EN :\nCharon, impressed. Redhead... not bad.\nJP :\nカロン、おどろいた。オレンジあたま…新鮮だ。"
+  },
+  {
+    "key": "7-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "7-content",
+    "original": "경쟁자가 생겼군, 카론.",
+    "context": "EN :\nYou have competition, Charon.\nJP :\nライバルが出来たか、カロン。"
+  },
+  {
+    "key": "8-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "8-content",
+    "original": "…! 아니, 잠깐만.",
+    "context": "EN :\n...! Hold up.\nJP :\n…！いや、ちょっと待て。"
+  },
+  {
+    "key": "9-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "9-content",
+    "original": "이상하군. 분명 방향을 꺾었는데도… 왜 저 배들 사이로 우리 배가 이동하지?",
+    "context": "EN :\nThat's weird. She turned the helm all the way... Why are we still headed between those two ships?\nJP :\n変だな。確かに方向を転換したのに…\nどうしてあの船の間に俺たちの船が移動してるんだ？"
+  },
+  {
+    "key": "10-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "10-content",
+    "original": "배, 뱃머리가 미동도 하지 않아요…",
+    "context": "EN :\nI-it's like we're stuck on rails...\nJP :\nせ、船首がびくともしなかったです…。"
+  },
+  {
+    "key": "11-content",
+    "original": "이스마엘이 정반대의 방향으로 배를 돌렸음에도 불구하고.",
+    "context": "EN :\nThough Ishmael turned the Mephistopheles' helm around to the opposite direction of the two ships...\nJP :\nイシュメールが正反対の方向に船を回したにもかかわらず。"
+  },
+  {
+    "key": "12-content",
+    "original": "메피스토펠레스는 오히려 아까보다 빠른 속도를 내면서 두 척의 배들 쪽으로 끌어당겨지고 있었다.",
+    "context": "EN :\n... We were getting dragged even faster by them.\nJP :\nメフィストフェレスはむしろ先程より速いスピードで\n二隻の船の方に引っ張られていた。"
+  },
+  {
+    "key": "13-content",
+    "original": "불가항력이었다.",
+    "context": "EN :\nAnd there was nothing we could do about it.\nJP :\n不可抗力だった。"
+  },
+  {
+    "key": "14-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "14-content",
+    "original": "이스?! 설마 전진 후진 레버를 반대로 당긴 건 아니지?!",
+    "context": "EN :\nIshy?! Don't tell me you hit the reverse gear?!\nJP :\nイシュ！？まさか前進後退レバーを逆に入れたんじゃないよね！？"
+  },
+  {
+    "key": "15-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "15-content",
+    "original": "엔진은 껐어요.",
+    "context": "EN :\nI turned the engine off.\nJP :\nエンジンは切りました。"
+  },
+  {
+    "key": "16-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "16-content",
+    "original": "뭣…",
+    "context": "EN :\nWhat...\nJP :\nなっ…。"
+  },
+  {
+    "key": "17-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "17-content",
+    "original": "배들이… 합쳐지는 건가요?",
+    "context": "EN :\nWoah... are those ships melding into one another?\nJP :\n船が…合体するんですか？"
+  },
+  {
+    "key": "18-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "18-content",
+    "original": "야 이 미친 새끼야!! 지금 짜부라지게 생겼는데 그런 한가로운 감상이 나와?!",
+    "context": "EN :\nYou bloody loon!! That's what you've got to say?! We're about to get squashed like bugs!\nJP :\nおいこのイカれポンチが！！いまぶっ潰されそうになってるっつーのに\nよくそんな暢気なことが言えんな！？"
+  },
+  {
+    "key": "19-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "19-content",
+    "original": "어이, 물개! 큰소리를 그렇게 치더니, 이제 어떻게…",
+    "context": "EN :\nYou, swabbie! What happened to all of that bravado from earl—\nJP :\nおい、海女！大口叩いておいて、どうして今になって…。"
+  },
+  {
+    "key": "20-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "20-content",
+    "original": "좀 닥쳐요.",
+    "context": "EN :\nShut up.\nJP :\n少し黙ってください。"
+  },
+  {
+    "key": "21-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "21-content",
+    "original": "…!",
+    "context": "EN :\n...!\nJP :\n…！"
+  },
+  {
+    "key": "22-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "22-content",
+    "original": "잡아당겨지고 있을 때를 최대한 이용할 거예요. 그리고…",
+    "context": "EN :\nI'm going to use the momentum of the pull when it's the strongest to get us out of here. And...\nJP :\n引っ張られているときを最大限利用します。そして…。"
+  },
+  {
+    "key": "23-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "23-content",
+    "original": "부, 부딪힌다!!!",
+    "context": "EN :\nW-we're going to crash!!!\nJP :\nぶ、ぶつかる！！！"
+  },
+  {
+    "key": "24-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "24-content",
+    "original": "지금.",
+    "context": "EN :\nNow.\nJP :\n今。"
+  },
+  {
+    "key": "25-content",
+    "original": "절체절명의 순간, 이스마엘은 재빠른 손놀림으로 엔진에 시동을 넣더니, 레버 몇 개를 부서질 듯 달각거리며 최대의 속력으로 그사이를 빠져나갔다.",
+    "context": "EN :\nImmediately before the crash, Ishmael deftly revved the engine and adjusted several levers in a series of decisive motions before speeding us between and past the two vessels.\nJP :\n絶体絶命の瞬間、イシュメールは素早い手さばきでエンジンを始動させて\nいくつかのレバーを壊れそうな音を立てながら倒し、最大速度でその間を抜けた。"
+  },
+  {
+    "key": "26-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "26-content",
+    "original": "배 뒤쪽이…",
+    "context": "EN :\nThe back of our ship...\nJP :\n船の後ろが…。"
+  },
+  {
+    "key": "27-content",
+    "original": "후미 부분이 조금 짓뭉개지긴 했지만… 손을 놓고 있었더라면 그대로 납작 쥐포가 됐을 것이 뻔했다.",
+    "context": "EN :\nThe ship's stern was crushed... but it was better than getting completely sandwiched between those two ships.\nJP :\n後尾の部分が少し潰れてはいるが…手をこまねいていたら\nそのままぺっちゃんこの干物になっていたはずだ。"
+  },
+  {
+    "key": "28-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "28-content",
+    "original": "이 정도라면 며칠 내로 회복이 가능한 수준입니다. 메피스토펠레스의 엔진이 자가수복시키겠죠.",
+    "context": "EN :\nMephistopheles' engine can reconstruct damage of this severity within the next few days.\nJP :\nこの程度なら数日以内に回復が可能な水準です。\nメフィストフェレスのエンジンが自己修復するでしょう。"
+  },
+  {
+    "key": "29-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "29-content",
+    "original": "아니, 지금 보니까… 파괴된 정도가 아니라 통째로 뽑혀 나갔는데.",
+    "context": "EN :\nWait, this is more than just some damage... It's like they deleted a part of our ship.\nJP :\nいや、よく見たら··· 破壊されたとかじゃなくて、\n丸ごとぶち抜かれてるけど。"
+  },
+  {
+    "key": "30-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "30-content",
+    "original": "마치 처음부터 그곳에 있지 아니했던 것 같소.",
+    "context": "EN :\nGone, as though it had never even been a part of the ship's blueprint.\nJP :\nあたかも、始めよりそこに無かりきべく見ゆ。"
+  },
+  {
+    "key": "31-content",
+    "original": "수감자들의 말을 듣고 자세히 들여다보니, 짓뭉개진 것이 아니라 정말 후미가 없었던 것처럼 사라져 버렸다.",
+    "context": "EN :\nI took another look at where the stern used to be. It was as the Sinners said; the stern wasn't crushed. It was effectively deleted as though it had never been there.\nJP :\n囚人の話を聞いてよく見てみると、潰れたのではなく\n本当に後尾が元々無かったかのように消えてしまった。"
+  },
+  {
+    "key": "32-content",
+    "original": "절단면이 괴상한 형태로 변하기는 했지만.",
+    "context": "EN :\nIt left a bizarre looking cross-section behind.\nJP :\n切断面が奇妙な形に変わってはいたけど。"
+  },
+  {
+    "key": "33-place",
+    "original": "메피스토펠레스 갑판",
+    "context": "EN :\nAboard Mephistopheles's Deck\nJP :\nメフィストフェレス デッキ"
+  },
+  {
+    "key": "33-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "33-content",
+    "original": "U사의 특이점, 공명 굽쇠의 특징이죠.",
+    "context": "EN :\nIt's U Corp.'s Singularity, the resonance tuning fork.\nJP :\nU社の特異点、共鳴叉の特徴です。"
+  },
+  {
+    "key": "34-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "34-content",
+    "original": "이곳의 배들은 원래 하나였던 것처럼 서로 끌어당기며 합쳐지기도 하고, 목적에 따라 언제 하나였냐는 것처럼 분리되기도 하니까요.",
+    "context": "EN :\nShips operating in the Great Lake can merge and separate when needed. As though they’ve always been a single vessel or as though they’ve never been parts of the same ship.\nJP :\nここの船はもともと一つだったかようにお互いに引き寄せ合って合体したり、\n目的によって、もともと一つでなかったかのように分離したりしますから。"
+  },
+  {
+    "key": "35-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "35-content",
+    "original": "저 정도 크기의 배들이 쓰는 공명 굽쇠 정도라면… 우리처럼 공명 굽쇠가 없거나 주파수가 안 맞는 배들을 그대로 삼켜버리는 일이 빈번하죠.",
+    "context": "EN :\nResonance tuning forks used by vessels of that size are strong enough to pull in smaller boats without tuning forks like ours, or even ones with tuning forks with mismatching wavelengths.\nJP :\nあれくらいの大きさの船が使う共鳴叉くらいなら…私たちみたいに共鳴叉がなかったり、\n周波数が合わない船をそのまま飲み込んでしまうことは頻繁にあります。"
+  },
+  {
+    "key": "36-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "36-content",
+    "original": "…아, 이런. 명령이 내려지지도 않았는데 운전대를 잡게 되었네요, 관리자 님.",
+    "context": "EN :\n... Oh, right. Apologies for taking the helm without your orders, Manager.\nJP :\n…あ、おっと。\n命令を下してもいないのに舵を取ってしまいましたね、管理人様。"
+  },
+  {
+    "key": "37-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "37-content",
+    "original": "<아, 아니야. 방금 우리를 전부 살렸는데…>",
+    "context": "EN :\n<No, don't. You just saved all of our lives...>\nJP :\n<い、いや。さっきみんなを救ってくれたし…。>"
+  },
+  {
+    "key": "38-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "38-content",
+    "original": "뭐, 그러려던 건 아니긴 하지만요. 이해해 주신다니 고맙네요.",
+    "context": "EN :\nI wasn't trying to. But thank you for understanding anyway.\nJP :\nまぁ、そうしようと思ってそうしたわけじゃないんですけどね。\n理解してくれるとはありがたい話です。"
+  },
+  {
+    "key": "39-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "39-content",
+    "original": "아. 시키지 않은 설명이 나오는 것까지 이해 좀 해주세요. 워낙 떽떽거리는 소리가 시끄러워서. 배 한가운데에서 귀마개를 할 순 없잖아요?",
+    "context": "EN :\nOh, and please accept my apology for giving unsolicited advice. A certain somebody won't stop flapping her gums at me, so I had to. It's not like I can plug my ears in the middle of a voyage, right?\nJP :\nあ。命令せずとも説明したのについてもご理解ください。かなりガタガタうるさくて。\n海のど真ん中で耳栓をするわけにはいかないですしね？"
+  },
+  {
+    "key": "40-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "40-content",
+    "original": "…….",
+    "context": "EN :\n......\nJP :\n……。"
+  },
+  {
+    "key": "41-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "41-content",
+    "original": "…쯧. 전장에서 입이 걸은 사람은 굴러다니는 돌멩이만큼 많았다.",
+    "context": "EN :\nTsk. I've heard my share of blunt, foul-mouthed talk during the war. She's not the first to do so.\nJP :\n…ちっ。戦場で口の悪い人は転がる石ころのように多かった。"
+  },
+  {
+    "key": "42-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "42-content",
+    "original": "실력만 뛰어나다면… 그러는 걸 굳이 제지할 필요도… 없을 테지.",
+    "context": "EN :\nDoesn't matter. As long as she can live up to her words... No need to get in the way, I suppose.\nJP :\n実力さえ優れているのであれば…\nそれを一々静止する必要も…ないだろう。"
+  },
+  {
+    "key": "43-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "43-content",
+    "original": "죄송합니다, 관리자 님. 저는 잠시… 잠시만 휴식을 취하겠습니다.",
+    "context": "EN :\nI'm sorry, Executive Manager. I must... take a short break.\nJP :\n申し訳ございません、管理人様。\nわたくしは暫し…少しだけ休憩を取ります。"
+  },
+  {
+    "key": "44-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "44-content",
+    "original": "어찌 풀이 죽은 것이오… 대장… 아니 선장…!",
+    "context": "EN :\nBe not so crestfallen, Commander... I mean... Captain...!\nJP :\nどうしてしょげているのでありまするか…隊長…いや船長…！"
+  },
+  {
+    "key": "45-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "45-content",
+    "original": "시끄럽다. 처음부터 대장은 저기 계신 관리자 님이었어.",
+    "context": "EN :\nSilence. Executive Manager is our commanding officer. Always been.\nJP :\nうるさい。\n最初から隊長はあちらにいらっしゃる管理人様だった。"
+  },
+  {
+    "key": "46-content",
+    "original": "오티스는 마음이 꺾인 듯, 어깨를 축 늘어뜨린 채 선실(한때 버스의 내부였던) 안으로 들어가 버렸다.",
+    "context": "EN :\nDowncast and shoulders slumped, Outis made her way into the ship cabins(formerly the bus cabins).\nJP :\nウーティスは心が折れたかのように、肩を重く落としたまま\n船室(一時はバスの内部だった)の中に入ってしまった。"
+  },
+  {
+    "key": "47-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "47-content",
+    "original": "목적지에 거의 다 왔군요. U사의 5대 항구 중 하나인, 청새치 항구선입니다.",
+    "context": "EN :\nOur destination is near. Welcome to one of the Five Great Ports of U Corp., the Marlin Port.\nJP :\n目的地にほぼ到着しましたね。U社の五大港の一つ、マカジキ港船です。"
+  },
+  {
+    "key": "48-content",
+    "original": "파우스트는 아랑곳하지 않고 건조한 말투로 어딘가를 향해 손가락을 가리켰고…",
+    "context": "EN :\nFaust's voice was dry and emotionless, as though what had just happened didn't affect her one bit.\nJP :\nファウストはものともせず乾いた口調で、ある方向を指差し…。"
+  },
+  {
+    "key": "49-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "49-content",
+    "original": "와… 정말 크네요.",
+    "context": "EN :\nWow... That's so big.\nJP :\nわぁ…本当に大きいですね。"
+  },
+  {
+    "key": "50-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "50-content",
+    "original": "지금까지 제가 보았던 배 중에 손에 꼽을 정도로 커다란 걸요.",
+    "context": "EN :\nThat has to be one of the biggest ships I'd ever seen.\nJP :\n今まで僕が見たことのある船の中で、指折り数えられるほど大きいです。"
+  },
+  {
+    "key": "51-content",
+    "original": "홍루가 말한 것처럼, 거대한 배… 어쩌면 섬일지도 모르는 것에 다다르고 있다는 걸 알 수 있었다.",
+    "context": "EN :\nHong Lu was right. We were approaching a massive ship, so large that it could almost be mistaken for an island.\nJP :\nホンルが言う通り、巨大な船…あるいは島かもしれないものへ\n近付いているのが分かった。"
+  },
+  {
+    "key": "52-content",
+    "original": "그건 수없이 많은 철제 컨테이너로 이루어진 거대한 건축물이었다.",
+    "context": "EN :\nWhichever was the case, it was clear that the port was a mega-structure built from countless metal shipping containers.\nJP :\nそれは無数の鉄製コンテナで構成された、巨大な建築物だった。"
+  },
+  {
+    "key": "53-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "53-content",
+    "original": "안개가 걷히니, 비로소 보이지 않던 것이 보이는구료. 이런 커다란 것까지 가릴 줄이야.",
+    "context": "EN :\nMist fades, and what was unseen before unveils itself. I scarcely did expect the pall to shroud a structure such as this.\nJP :\n霧晴ると、ようよう見えざりしもの見ゆかし。\nかく大きなるものまで隠すとは。"
+  },
+  {
+    "key": "54-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "54-content",
+    "original": "배…? 저 정도 규모면 이미 배라는 개념을 벗어나 보이는데.",
+    "context": "EN :\nShip...? I don't know, can we really call that a ship at this point?\nJP :\n船…？\nあれくらいの規模なら、もう船という概念から外れてると思うんだが。"
+  },
+  {
+    "key": "55-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "55-content",
+    "original": "<내 눈에도 그렇게 보여… 이스마엘, 여기서는 저런 것도 배라는 거야?>",
+    "context": "EN :\n<Can't help but agree there. Ishmael, does that count as a ship in the Great Lake?>\nJP :\n<私の目にもそう見えるけど…。\nイシュメール、ここだとああいうのも船なのか？>"
+  },
+  {
+    "key": "56-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "56-content",
+    "original": "대호수에서 자꾸 육지 상식을 꺼내 봐야 소용없어요.",
+    "context": "EN :\nYour landsman common sense is useless at the Great Lake.\nJP :\n大湖で何度も陸の常識を持ち出しても意味ありません。"
+  },
+  {
+    "key": "57-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "57-content",
+    "original": "공명 굽쇠를 쓴다면, 저런 배는 밥 먹듯이 볼 테니까요. 아니 고래고기 먹듯 이라고 해야 할까요?",
+    "context": "EN :\nShips that use resonance tuning forks like those are as common as crimes are in the backstreets. Or, I guess, as common as the Whales are in the Great Lake.\nJP :\n共鳴叉を使えば、あんな船は日常茶飯事のように見ますから。\nいや、日常鯨飯事というべきですかね？"
+  }
+]

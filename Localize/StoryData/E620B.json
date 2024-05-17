@@ -1,0 +1,1600 @@
+[
+  {
+    "key": "0-place",
+    "original": "워프 열차 일반 객실 칸",
+    "context": "EN :\nWARP Train Economy Class Cabin\nJP :\nワープ列車一般席 客車"
+  },
+  {
+    "key": "0-content",
+    "original": "파우스트의 정보 수집이 한 차례 끝나고…",
+    "context": "EN :\nAfter a round of intelligence gathering from Faust...\nJP :\nファウストの情報収集が一段落し…。"
+  },
+  {
+    "key": "1-content",
+    "original": "다음 객실로 향하는 문을 열자, 시끌벅적한 소리가 터져 나왔다.",
+    "context": "EN :\nWe opened the door to the next cabin, only to be greeted by a loud commotion.\nJP :\n次の客車へと向かう扉を開くと、ガヤガヤと音が鳴り響いた。"
+  },
+  {
+    "key": "2-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "2-content",
+    "original": "저희 외에도 생존자들이 있는 모양이네요?",
+    "context": "EN :\nIt sounds like there are other survivors?\nJP :\n僕たち以外にも生存者がいるみたいですね？"
+  },
+  {
+    "key": "3-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "3-content",
+    "original": "위험에 빠진 승객들인가 보군, 이 몸이 구해주겠… 으엑!",
+    "context": "EN :\nAh, passengers in danger! Worry not, for I have arrived to— Euagh!\nJP :\n危険に陥った乗客たちのようだな、私が助けてしんぜ―うぐぇっ！"
+  },
+  {
+    "key": "4-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "4-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "4-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "4-content",
+    "original": "워, 워, 함부로 들어오지마! 너희 뭔데?",
+    "context": "EN :\nWoah, woah! Don't come any closer! Who the hell are you guys?\nJP :\nおいおい、勝手に入ってくるな！\n何だお前ら？"
+  },
+  {
+    "key": "5-content",
+    "original": "대신… 팔이 네 개나 달린 누군가가 우리 앞을 확 막아섰다.",
+    "context": "EN :\nA four-armed woman suddenly jumped in our path.\nJP :\nその代わり…腕が4つも付いた誰かが私たちの前を遮った。"
+  },
+  {
+    "key": "6-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "6-content",
+    "original": "…갑작스럽게 튀어나오는군요.",
+    "context": "EN :\n... She appeared without warning.\nJP :\n…突然飛び出してきましたね。"
+  },
+  {
+    "key": "7-content",
+    "original": "파우스트는 저자가 밀치는 팔에 맞은 듯, 조금 비틀거리며 물러섰다.",
+    "context": "EN :\nFaust stumbled a little, inadvertently slapped by the figure's swinging arms as she pushed us away.\nJP :\nファウストはあの者が押し付けてきた腕に当たったらしく、\n少しよろめきながら後ずさった。"
+  },
+  {
+    "key": "8-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "8-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "8-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "8-content",
+    "original": "내 쪽에서도 당신들이 갑자기 튀어나온 거거든?",
+    "context": "EN :\nRight, like you gave me any warning before you practically kicked that door open.\nJP :\nじゃあ言わして貰うけどな、\n俺から見りゃお前たちの方が突然飛び出して来たんだが？"
+  },
+  {
+    "key": "9-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "9-content",
+    "original": "…거, 좀 위협적이니까 그 커다란 칼은 치워주면 안되나?",
+    "context": "EN :\nUh, would you mind moving that huge sword out of our faces? It's a bit threatening.\nJP :\n…そのだな、ちょっと怖いから\nそのでっかい剣は片付けたりしてくれないか？"
+  },
+  {
+    "key": "10-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "10-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "10-content",
+    "original": "위협은 무슨 위협? 저기 저 사람들 지키려고 들고 있는 건데.",
+    "context": "EN :\nThreatening? I'm just trying to protect those civilians in this car.\nJP :\n怖いって何が怖いんだ？\nあっちにいる人を守るために持ってるだけだってのに。"
+  },
+  {
+    "key": "11-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "11-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "11-content",
+    "original": "뭐야, 요새도 그런 구식 생체형을 달고 다니나, 나 참…",
+    "context": "EN :\nAlso, is that a bio-prosthetic? Must be an old timer, huh? I thought those things went out of style forever ago.\nJP :\nなんだよ。今になってもそんな\n旧式の生体型のを付けてるとか、全く…。"
+  },
+  {
+    "key": "12-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "12-content",
+    "original": "…구식이 때론 제일 빛을 발할 수 있다는 걸 보여주랴…?",
+    "context": "EN :\n... Oh, you wanna see what this old timer's got left in him?\nJP :\n…旧式が時には一番光り輝くってことを見せてやろうか？"
+  },
+  {
+    "key": "13-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "13-content",
+    "original": "그대… 복식을 보아하니 북부의 사람인 게로군!",
+    "context": "EN :\nAha... thou art from the north, verily?! Thy garb is that of northerners, no?\nJP :\nそなた…服装を見るに北部の人のようだな！"
+  },
+  {
+    "key": "14-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "14-content",
+    "original": "이 와중에 무슨 옷 타령이야! ",
+    "context": "EN :\nThis really ain't the time, lass!\nJP :\nこの流れでなんで服の話になんだよ！"
+  },
+  {
+    "key": "15-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "15-content",
+    "original": "아무튼, 이쪽이나 그쪽이나 같이 사고에 휘말린 상태 같아 보이는데 비켜주지? ",
+    "context": "EN :\nAnyways, it looks like we're in the same mess here. Make way for us, yeah?\nJP :\nとにかく、こっちもそっちもまるっと事故に巻き込まれたみてぇだし\nどいてくれねぇか？"
+  },
+  {
+    "key": "16-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "16-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "16-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "17-content",
+    "original": "그자는 우리를 위 아래로 잠시 훑어보는 것 같았다.",
+    "context": "EN :\nShe seemed to be sizing us up for a moment.\nJP :\nその人は私たちを頭のてっぺんからつま先まで\nじっくりと見回していた。"
+  },
+  {
+    "key": "18-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "18-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "18-content",
+    "original": "너희를 뭘 믿고 이 안으로 보내줘? 안 물렸다는 증거 있어? 내가 이곳을 어떻게 지키고 있었는데…",
+    "context": "EN :\nNah. How do I trust you? Got any proof that you ain't bitten? I'm not gonna let all my effort protecting this place go to waste...\nJP :\nお前たちを信じてこの中に入れられると思うのか？\n噛まれてないって証拠あんのか？俺がここをどれだけ守ってたか…。"
+  },
+  {
+    "key": "19-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "19-content",
+    "original": "물렸다니, 뭔 소리야?",
+    "context": "EN :\nBitten? The bloody hell are you talking about?\nJP :\n噛まれたって、どういう意味だ？"
+  },
+  {
+    "key": "20-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "20-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "20-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "20-content",
+    "original": "왜 아무것도 모른다는 표정이지? 일반실에 있었으면 분명…",
+    "context": "EN :\nWeird, ya look completely lost. If you were in one of the economy cars, I'm sure you've seen—\nJP :\n何で何も知らないって顔してんだ？\n一般車両にいたなら絶対に―"
+  },
+  {
+    "key": "21-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "21-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "21-content",
+    "original": "잠깐…",
+    "context": "EN :\n... Hold on.\nJP :\n待てよ…。"
+  },
+  {
+    "key": "22-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "22-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "22-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "22-content",
+    "original": "너희… 일등석에서 왔어?",
+    "context": "EN :\nAre y'all from the first class car?\nJP :\nお前たち…1等席から来たか？"
+  },
+  {
+    "key": "23-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "23-content",
+    "original": "네, 캡슐에서 방금 깨어난 상태였어요.",
+    "context": "EN :\nYeah. We just woke up from our capsules.\nJP :\nはい、さっきカプセルから目覚めました。"
+  },
+  {
+    "key": "24-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "24-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "24-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "24-content",
+    "original": "흠… 보기에는… 흠흠… 일등석이라… 진작 말하지. ",
+    "context": "EN :\nHmm, but none of you look very... I mean, aren't first class seats supposed to be... Well, why didn't you say so from the get-go?\nJP :\nふむ…見てくれは…ふむむ…1等席か…早く言ってくれよ。"
+  },
+  {
+    "key": "25-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "25-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "25-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "25-content",
+    "original": "내 이름은 사샤. 멀티크랙 사무소 대표야.",
+    "context": "EN :\nName's Sasha. MultiCrack Office Rep.\nJP :\n俺の名前はサーシャ。マルチクラック事務所の代表だ。"
+  },
+  {
+    "key": "26-content",
+    "original": "그제서야 사샤라는 자는 무기를 내리고 막고 있던 길목을 비켜주었다.",
+    "context": "EN :\nWith that, she lowered her weapons and allowed us to pass.\nJP :\nそうしてようやくサーシャという者は武器を下ろし、塞いでいた道を開けてくれた。"
+  },
+  {
+    "key": "27-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "27-content",
+    "original": "사샤, 당신도 이 객실에 계속 계셨던 건가요? ",
+    "context": "EN :\nHave you not left this car for the duration of the ride, Sasha?\nJP :\nサーシャ、貴女もこの客車にずっといたのですか？"
+  },
+  {
+    "key": "28-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "28-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "28-content",
+    "original": "응? 뭐, 그렇지…",
+    "context": "EN :\nHm? Uh, no, I haven't...\nJP :\nうん？まぁ、そうだな…。"
+  },
+  {
+    "key": "29-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "29-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "29-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "29-content",
+    "original": "우리 해결사 사무소에 T사 쪽 의뢰가 들어와서 잠깐 넘어왔는데, 열차가 이딴 식으로 고장 난 데다… 아니, 고장 난 게 맞나?",
+    "context": "EN :\nWe warped over to T Corp. after picking up one of their contracts., but... jeez, can ya believe that this train broke down? Shit, is it even 'broken'?\nJP :\n俺のフィクサー事務所にT社から依頼が入ってちょっとこっちに来たんだけどな、\n列車がこんな風に壊れやがって…いや、本当に壊れたのか？"
+  },
+  {
+    "key": "30-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "30-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "30-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "30-content",
+    "original": "배고파지지도 않고, 졸리다는 느낌도 잘 안 드는 것 같고… 이거 좀 수상하긴 해.",
+    "context": "EN :\nI'm not feeling hungry or sleepy at all. It stinks of some shady bullshit, if ya ask me.\nJP :\n腹も空かねぇし、眠気もあんまり来ねぇし…何か怪しいんだよな。"
+  },
+  {
+    "key": "31-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "31-content",
+    "original": "의체인데도… 그런 게 느껴지셨나요…?",
+    "context": "EN :\nYou can feel all that even in a prosthetic body...?\nJP :\n義体なのに…そういうのを感じるんですか？"
+  },
+  {
+    "key": "32-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "32-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "32-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "32-content",
+    "original": "아아. 먹고 자는 게 취미라 그쪽은 특별히 신경 쓴 부품이거든. 잘 느껴지지.",
+    "context": "EN :\nMan, how could I live without my favorite hobby, drifting into a sweet nap after a pleasant meal? So, I made sure to get high-quality parts for 'em so I can still feel hungry and sleepy.\nJP :\nあぁ。食って寝るのが趣味だからそっちはかなり気ぃ使った部品なのさ。\nよく感じられるぜ。"
+  },
+  {
+    "key": "33-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "33-content",
+    "original": "그것보다, 그 밖에도 일어난 일이 있지 않나요?",
+    "context": "EN :\nHasn't something else of note also occurred?\nJP :\nそれより、それ以外にも何か起こったりしませんでしたか？"
+  },
+  {
+    "key": "34-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "34-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "34-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "34-content",
+    "original": "아, 그래! 완전히 난리도 아니였다고!",
+    "context": "EN :\nYou bet your ass did something else of note go down!\nJP :\nあっ、そうなんだよ！完全にヤベぇこと起きてんだよ！"
+  },
+  {
+    "key": "35-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "35-content",
+    "original": "정신 사납군… 촐싹대지 않고 말할 수는 없나?",
+    "context": "EN :\nHow distracting... Is it hard for you to speak without being so hyper?\nJP :\nやかましいな…落ち着いて話すことはできないのか？"
+  },
+  {
+    "key": "36-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "36-content",
+    "original": "팔이라도 덜 휘적거리면 좋겠는데…",
+    "context": "EN :\nOr at least stop swinging your arms around like that...\nJP :\n腕だけでもブンブン振り回すのをやめてくれると良いんですけど…。"
+  },
+  {
+    "key": "37-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "37-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "37-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "37-content",
+    "original": "그건 좀… 싸우다가 의완이 전부 부서졌거든. 새 의완이랑 싱크를 맞추려고 움직이고 있으니까, 이해해라.",
+    "context": "EN :\nCan't do that, friend... I broke all my prosthetic arms in a fight, so I'm calibrating a new set. Gotta keep swinging 'em if I want 'em to sync up with the other parts anytime soon.\nJP :\nそれはちょっと…戦ってて義眼が完全に壊れたんだ。\n新しい義眼とシンクを合わせるために動かしてるから、分かってくれ。"
+  },
+  {
+    "key": "38-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "38-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "38-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "38-content",
+    "original": "아무튼 뭔 일인지는 모르겠는데… 갑자기 열차에 탄 승객들이 이 사람 저 사람 가리지 않고 막 이상한 괴물로 변해버렸어.",
+    "context": "EN :\nAnyhoo, I dunno what the hell's going on, but people started turnin' into some weird monsters all of a sudden.\nJP :\nとにかく、何があったのかは分かんねえけど…突然列車に乗った乗客たちが\n誰も彼も変なバケモンに変わったんだ。"
+  },
+  {
+    "key": "39-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "39-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "39-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "39-content",
+    "original": "정체도 모르겠고… 말도 안 통한다고.",
+    "context": "EN :\nHaven't a goddamn clue as to who they are... don't seem like they can understand us, either.\nJP :\n正体も分かんねぇし…言葉も通じねぇ。"
+  },
+  {
+    "key": "40-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "40-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "40-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "40-content",
+    "original": "다행히 나랑 저 사람들이 타 있던 칸은 괴물이 적게 나타나서, 내가 몇 동강을 내버리고 여기… 빈 객실로 데리고 나온 거지.",
+    "context": "EN :\nGood thing my train car didn't have a lot of those monsters. I just chopped what monsters there were to pieces and hauled the civilians to this... vacant car.\nJP :\n幸いなことに俺とあの人たちが乗ってた車両はバケモンが少なくて、\n俺がいくつかに切り刻んでからほっぽっといて\nこの…空いた客車に連れてきたってワケだ。"
+  },
+  {
+    "key": "41-teller",
+    "original": "불안에 떠는 승객",
+    "context": "EN :\nRattled Passenger\nJP :\n不安に震える乗客"
+  },
+  {
+    "key": "41-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "41-content",
+    "original": "아흐흑…",
+    "context": "EN :\nSob...\nJP :\nヒック…。"
+  },
+  {
+    "key": "42-teller",
+    "original": "미쳐버린 승객",
+    "context": "EN :\nUnhinged Passenger\nJP :\n狂ってしまった乗客"
+  },
+  {
+    "key": "42-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "42-content",
+    "original": "빨간색이 삼천이백 하나… 빨간색이 삼천이백 둘…",
+    "context": "EN :\n3201 red colors... 3202 red colors...\nJP :\nあかいろがさんぜんにひゃくいち…あかいろがさんぜんにひゃくに…。"
+  },
+  {
+    "key": "43-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "43-content",
+    "original": "…저 승객들이 변해 버릴 수도 있는데도 불구하고, 보호할 생각을 하셨군요. ",
+    "context": "EN :\n... You have decided to protect them, despite the potential risk that they may transform as well.\nJP :\n…あの乗客たちが変わってしまうかもしれないのにもかかわらず、\n保護することにしたのですね。"
+  },
+  {
+    "key": "44-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "44-content",
+    "original": "그거야 당연한 행동이지. 해결사들이란 선두에 서서 약한 자들을 보호하는 존재들이니!",
+    "context": "EN :\nBut of course! 'Tis expected duty of any valorous Fixer to stand guard in the front lines against evil to protect the weak!\nJP :\nそれは当然の行いである。\nフィクサーとは先頭に立って弱い者たちを保護する存在であるがゆえに！"
+  },
+  {
+    "key": "45-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "45-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "45-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "45-content",
+    "original": "나는 이미 이 승객들을 사흘 동안 지켜봤어. 그리고 지금껏 한 명도 변하지 않았고.",
+    "context": "EN :\nI've been keepin' a close eye on 'em for the last three days, and so far... zero transformations.\nJP :\n俺はもうこの乗客たちを3日の間見てきた。\nそれで今までひとりも変わってねぇ。"
+  },
+  {
+    "key": "46-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "46-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "46-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "46-content",
+    "original": "지금 이 객실 칸 너머는 죄다 지옥도가 펼쳐져 있는데… 앞쪽으로 끊임없이 넘어오려고 하는 걸 보면 뒤에서부터 뭔 일이 벌어져서 앞으로 번졌다는 게 내 추측이야.",
+    "context": "EN :\nGo past this car, and you'll see what hell on earth really means. Those monsters are constantly trying to claw their way to the front of the train... so if ya ask me, I'd wager that some shit went down there at one of the train cars in the back, and it spread like wildfire 'till it reached here.\nJP :\n今この客車の向こうじゃ地獄絵図が広がってるんだが…前の方に絶えず\n押し寄せようとしてんのを見るに後ろで何かが起こって\n前に広がったってのが俺の推測だ。"
+  },
+  {
+    "key": "47-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "47-content",
+    "original": "…그렇군요.",
+    "context": "EN :\n... I see.\nJP :\n…そうですか。"
+  },
+  {
+    "key": "48-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "48-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "48-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "48-content",
+    "original": "내 이야기는 여기까지. 그래서 너희는 뭔데? 일등석 부자 분들께서 어떤 연유로 이런 서민들이 있는 곳까지 행차야?",
+    "context": "EN :\nAnd that's all I can tell ya about the situation. So... what's your story? Why'd you rich, first class folks suddenly decide to grace us peasants with your presence?\nJP :\n俺の話はここまで。それで、お前たちは何だ？\n1等席の金持ちが何の理由でこんな庶民たちのいる場所までお出ましになったんだ？"
+  },
+  {
+    "key": "49-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "49-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "49-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "49-content",
+    "original": "여기서 뭔 일이 벌어진다 한들, 당신들의 고급스런 일등석 칸에는 아무도 들어갈 수 없었을 텐데?",
+    "context": "EN :\nNothing that's happening here could've made it to your swanky first class cars, so what's your business down here?\nJP :\nここで何が起ころうと、お前たちのお高い1等席の車両には\n誰も入れねぇはずだけどな？"
+  },
+  {
+    "key": "50-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "50-content",
+    "original": "저희는 W사에서 이번 사건을 해결하기 위해 고용한…",
+    "context": "EN :\nW Corp. has hired us to solve this case. We are...\nJP :\n私たちはW社にて今回の事件を解決するために雇用された…。"
+  },
+  {
+    "key": "51-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "51-content",
+    "original": "음…",
+    "context": "EN :\nUm...\nJP :\nその…。"
+  },
+  {
+    "key": "52-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "52-content",
+    "original": "해결사!",
+    "context": "EN :\nFIXERS!\nJP :\nフィクサー！"
+  },
+  {
+    "key": "53-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "53-content",
+    "original": "네… 해결사입니다.",
+    "context": "EN :\nIndeed... Fixers.\nJP :\nはい…フィクサーです。"
+  },
+  {
+    "key": "54-content",
+    "original": "파우스트가 어쩔 수 없다는 듯이 돈키호테의 말에 동조했다. ",
+    "context": "EN :\nFaust nodded reluctantly as she affirmed Don Quixote's boisterous declaration.\nJP :\nファウストがどうしようもないという風に、\nドンキホーテの言葉に同調した。"
+  },
+  {
+    "key": "55-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "55-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "55-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "55-content",
+    "original": "허. 그 인원을 전부 일등석에… 그쪽 사무소는 돈이 썩어나나 보구만.",
+    "context": "EN :\nHuh. They got every single one of you a first class ticket? Your Office must be rollin' in the dough.\nJP :\nはっ。その数を全員1等席に…そっちの事務所はカネが腐るほどあるみてぇだな。"
+  },
+  {
+    "key": "56-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "56-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "56-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "56-content",
+    "original": "아니지 잠깐… 그럼 W사는 처음부터 이렇게 될 걸 알고 있었다는 건가?",
+    "context": "EN :\n... Wait a goddamn second. So W Corp. already knew that this would happen?\nJP :\nいや待てよ…じゃあW社は最初からこうなることを知ってたってことか？"
+  },
+  {
+    "key": "57-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "57-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "57-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "57-content",
+    "original": "흠, 근데 진짜 날개의 의뢰를 받은 거 맞아? 믿음이 안 가는데…",
+    "context": "EN :\nBut... hm. Are you really contracted to a Wing? Not sure if I trust ya...\nJP :\nふむ、ところでホントに翼の依頼を受けたのか？\n信じられねぇんだけど…。"
+  },
+  {
+    "key": "58-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "58-content",
+    "original": "이미 잘 아시겠지만, 해결사들 간에 가장 중요한 건 계약과 그 이행이죠.",
+    "context": "EN :\nAs you must be well aware yourself, contracts and contract fulfillment are of paramount importance for Fixers.\nJP :\n既によくご存じかと思われますが、フィクサーの間で最も大事なのは\n契約とその履行です。"
+  },
+  {
+    "key": "59-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "59-content",
+    "original": "그리고 W사는 다른 날개들 이상으로 보안을 중시하고 있고요.",
+    "context": "EN :\nWith that in mind, please recall that W Corp. is one of the most secretive Wings of the City.\nJP :\nそしてW社は他の翼以上に保安を重視しています。"
+  },
+  {
+    "key": "60-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "60-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "60-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "60-content",
+    "original": "…아하, 비밀 유지 서약을 했나 보군. 뭐, 외우피 협회 계열이랑 얽히면 골치 아프니까… 그래서 증거는 없다?",
+    "context": "EN :\nAh, a non-disclosure agreement, huh? Makes sense. I wouldn't wanna deal with those Öufi boys either... Anyways, I'm still gonna have to ask for proof that you're actually contracted by W Corp.\nJP :\n…あはぁ、秘密保持契約をしたみてぇだな。\nまぁ、ウーフィ協会系のヤツらとつるむことになると\n頭痛ぇから…それで、証拠はないってことで？"
+  },
+  {
+    "key": "61-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "61-content",
+    "original": "W사에서 사전에 받은 마스터 카드키입니다. 어지간한 문은 열 수 있죠.",
+    "context": "EN :\nThis is the master keycard given to us by W Corp. I believe that it can open most doors aboard this train.\nJP :\nW社から事前に受け取ったマスターカードキーです。\n大抵の扉は開けられます。"
+  },
+  {
+    "key": "62-content",
+    "original": "파우스트는 주머니에서 마스터 카드키를 꺼내 보여주었다. 하긴, 저거 말고는 우리가 W사의 의뢰를 받았다고 증명할 수단이 없구나…",
+    "context": "EN :\nFaust produced a master keycard from her pocket. I guess there isn't any other way for us to prove that we're actually contracted by W Corp....\nJP :\nファウストはポケットからマスターカードキーを取り出して見せた。\nまぁ、あれ以外には私たちがW社の依頼を受けたことを\n証明できる手段はなさそうだしね…。"
+  },
+  {
+    "key": "63-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "63-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "63-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "63-content",
+    "original": "카드키? 이걸로 잠겨있던 일등석 통로를 열고… W사 로고에, 꽤 고급 재질… 진짜 의뢰를 받았나 봐?",
+    "context": "EN :\nA keycard? So you used this to open the path between the first class and the economy class car... Let's see... W Corp. logo... Woah, nice materials. Looks like you're telling the truth.\nJP :\nカードキー？これで閉まってた1等席の通路を開けて…。\nW社のロゴに、かなり高級素材…ホントに依頼を受けたみてぇだな？"
+  },
+  {
+    "key": "64-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "64-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "64-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "64-content",
+    "original": "좋아, 따져 묻진 않을게. 돈도 안 되는 일에 연루되고 싶은 마음도 없고.",
+    "context": "EN :\nAlright, I won't pry. Not like there's any cash in it for me either.\nJP :\n分かったよ、問い詰めたりはしねぇ。\nカネにならないことに巻き込まれたくはないしな。"
+  },
+  {
+    "key": "65-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "65-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "65-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "65-content",
+    "original": "일을 해결하려면… 뒤로 가겠다는 거네?",
+    "context": "EN :\nSo... I guess you gotta go all the way down there for your job, huh?\nJP :\n事を解決するために…後ろに行くってことだな？"
+  },
+  {
+    "key": "66-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "66-content",
+    "original": "그렇죠.",
+    "context": "EN :\nYes.\nJP :\nそうですね。"
+  },
+  {
+    "key": "67-content",
+    "original": "그는 그제야 우리를 막아서던 위치에서 나와, 대검을 잡지 않은 남은 팔로 반대쪽 문을 가리켰다.",
+    "context": "EN :\nThe Fixer finally got out of our way. Then, with one of her free hands, pointed toward the opposite door.\nJP :\nその人はそのとき初めて、私たちの行く手を阻んでいた位置から動いて\n大剣を持っていない方の腕で反対側の扉を指し示した。"
+  },
+  {
+    "key": "68-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "68-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "68-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "68-content",
+    "original": "죽으러 가겠다는데 말릴 필요도 없지~ 아니면 뭐, 실력이 대단하면 다 구해서 돌아올 수도 있겠지만…",
+    "context": "EN :\nWell~ It's your funeral, ladies and gents. Or your victory lap, if you guys are really that good. Lotsa luck to y'all.\nJP :\n死にに行くってのに止める必要も無いだろ～。\nあるいはまぁ、実力がすんばらしぃなら全員救って戻ってくるかもしれねぇけど。"
+  },
+  {
+    "key": "69-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "69-content",
+    "original": "격려 고맙네, 해결사 사샤여!",
+    "context": "EN :\nI thank thee for thy words of courage, Fixer Sasha!\nJP :\n激励感謝する、フィクサーサーシャよ！"
+  },
+  {
+    "key": "70-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "70-content",
+    "original": "이곳은 자네에게 맡길 테니, 부디 본인을 대신해서 이들을 무사히 지켜내시게! ",
+    "context": "EN :\nI shall trust thee with protection of this fortress; prithee, protect the innocents in my stead!\nJP :\nここはそなたに任せるがゆえ、どうか当人の代わりに\nこの者たちを無事に守り抜くが良い！"
+  },
+  {
+    "key": "71-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "71-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "71-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "71-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "72-model",
+    "original": "열차아이",
+    "translation": "列车上的孩子",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "72-teller",
+    "original": "호기심 많은 아이",
+    "context": "EN :\nCurious Child\nJP :\n好奇心旺盛な子供"
+  },
+  {
+    "key": "72-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "72-content",
+    "original": "저기… 이 뒤에 있는 괴물들을 처리해 주러 가시는 건가요?",
+    "context": "EN :\nUm... big sis, are you a Fixer? Are you going to save us from the monsters in the cars behind us?\nJP :\nその…この後ろにいるモンスターたちを倒しに行ってくれるんですか？"
+  },
+  {
+    "key": "73-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "73-content",
+    "original": "오잉?",
+    "context": "EN :\nHoh?\nJP :\nうん？"
+  },
+  {
+    "key": "74-content",
+    "original": "끝에 다다를 때쯤, 작은 키의 승객이 돈키호테의 옷자락을 잡아당겼다.",
+    "context": "EN :\nJust as we were about to reach the other end of the car, a little passenger pulled on Don Quixote's coattails.\nJP :\nほぼ端っこにたどり着いたとき、\n背の低い乗客がドン·キホーテの裾を引っ張った。"
+  },
+  {
+    "key": "75-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "75-content",
+    "original": "음흠! 그렇단다! ",
+    "context": "EN :\nMhm! Aye, forsooth!\nJP :\nふふん！そうである！"
+  },
+  {
+    "key": "76-model",
+    "original": "열차아이",
+    "translation": "列车上的孩子",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "76-teller",
+    "original": "호기심 많은 아이",
+    "context": "EN :\nCurious Child\nJP :\n好奇心旺盛な子供"
+  },
+  {
+    "key": "76-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "76-content",
+    "original": "우와…! 그럼 언니는 유명한 해결사예요?",
+    "context": "EN :\nWoaah...! Are you a famous Fixer?\nJP :\nうわぁ…！じゃあ、おねえちゃんは有名なフィクサーなんですか？"
+  },
+  {
+    "key": "77-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "77-content",
+    "original": "그렇지! 본인은 명망 높은 해결사! 라네!",
+    "context": "EN :\nForsooth once again! Thou mayest know me as a profoundly illustrious Fixer!\nJP :\nそうである！当人は名高いフィクサー！なのだ！"
+  },
+  {
+    "key": "78-model",
+    "original": "열차아이",
+    "translation": "列车上的孩子",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "78-teller",
+    "original": "호기심 많은 아이",
+    "context": "EN :\nCurious Child\nJP :\n好奇心旺盛な子供"
+  },
+  {
+    "key": "78-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "78-content",
+    "original": "우와아~ 저! 저도 언니처럼 해결사…",
+    "context": "EN :\nWoooaaaah... I-I wanna be a Fixer, too! Just like y—\nJP :\nうわぁ～。わたし！おねえちゃんみたいにフィク―"
+  },
+  {
+    "key": "79-teller",
+    "original": "불안에 떠는 승객",
+    "context": "EN :\nRattled Passenger\nJP :\n不安に震える乗客"
+  },
+  {
+    "key": "79-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "79-content",
+    "original": "얘, 너무 치근덕대면… 아유, 죄송합니다. 저희 애가…",
+    "context": "EN :\nDon't pester the lady! I'm sorry, she's my daughter, and—\nJP :\nやめなさい、あんまりしつこくしちゃうと…。\nもう、すみません。うちの子ったら…。"
+  },
+  {
+    "key": "80-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "80-content",
+    "original": "음후후, 아닐세. 괜찮네~ 더 놔둬도 되는데~ 해결사가 꿈인가 보구나~",
+    "context": "EN :\nMuahaha, worry not thyself, 'tis no bother! No bother at all~! Thou must dream of becoming a Fixer thyself, little squire~?\nJP :\nふんふふ、いんや。問題ありませぬ～。\nもっと引っ掴んでもいいのだぞ～。\nフィクサーが夢であるようだな～。"
+  },
+  {
+    "key": "81-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "81-content",
+    "original": "당신 같은 자가 열차에 탑승하고 있어서 다행이긴 하군요. 저런 어린아이도 구할 수 있었으니.",
+    "context": "EN :\nIt is fortunate that someone like yourself is aboard the train. Your presence ensured that child's survival.\nJP :\n貴女のような人が列車に乗っていて良かったです。\nあんな幼い子供も救うことができたのですから。"
+  },
+  {
+    "key": "82-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "82-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "82-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "82-content",
+    "original": "무슨 말이야? 다들 왜 이래, 같은 바닥 처지끼리. ",
+    "context": "EN :\nWhatcha talkin' about all of a sudden? C'mon, no need to keep up appearances between people in the same line of work.\nJP :\n何言ってるんだ？\nどうしたんだよ、同じどん底の立場だってのに。"
+  },
+  {
+    "key": "83-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "83-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "83-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "83-content",
+    "original": "당연히 머릿수대로 긴급 보호비를 걷으려는 거지. 왜 자꾸 둘 다 뚱딴지 같은 소리야? ",
+    "context": "EN :\nI'm just here to collect some sweet, sweet emergency contract fees from each and every one of 'em. Are you two on something or what?\nJP :\n当然、頭数だけ緊急保護費を稼ぐつもりだ。\nなんで全員そんな突拍子もないこと言うんだ？"
+  },
+  {
+    "key": "84-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "84-content",
+    "original": "…그렇군요.",
+    "context": "EN :\n... I see.\nJP :\n…そうですか。"
+  },
+  {
+    "key": "85-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "85-content",
+    "original": "<…이 사실은 돈키호테에겐 말 안 하는 게 낫겠어.>",
+    "context": "EN :\n<... I don't think Don Quixote needs to hear what she just said.>\nJP :\n<…この事実はドンキホーテには言わない方が良さそうだね。>"
+  },
+  {
+    "key": "86-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "86-content",
+    "original": "…파우스트 씨, 다시 봤어요. ",
+    "context": "EN :\n... Didn't know you could be like that, Faust.\nJP :\n…ファウストさん、見直しました。"
+  },
+  {
+    "key": "87-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "87-content",
+    "original": "무엇을… 말씀이시죠?",
+    "context": "EN :\nBe like... what?\nJP :\n何を…ですか？"
+  },
+  {
+    "key": "88-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "88-content",
+    "original": "일부러 그런 거였죠? 저 자가 순수한 마음으로 승객들을 보호할 마음은 없었다는 거 알면서도, 돈키호테 씨에게 동조해 준 거요.",
+    "context": "EN :\nYou knew there was no way the Fixer was actually there to protect them out of pure goodwill, but you decided to go along with Don Quixote's delusions anyway. Am I right?\nJP :\nわざとですよね？あの人が純粋な気持ちで乗客を保護するつもりは\n無かったということを知りながらも、ドンキホーテさんに同調してあげたこと。"
+  },
+  {
+    "key": "89-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "89-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "90-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "90-content",
+    "original": "또다시 시끄러워지면 골치 아프겠다 싶었는데, 다행이에요. ",
+    "context": "EN :\nGood move. I was getting worried about what might happen if she started acting out again.\nJP :\nまたうるさくなったら面倒だなと思ってたんですけど、良かったです。"
+  },
+  {
+    "key": "91-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "91-content",
+    "original": "보셨어요? 눈이 얼마나 반짝거리던지… 평소에도 그랬지만 오늘따라 의욕이 완전히 넘쳐흐르고 있다니까요, 돈키호테 씨. ",
+    "context": "EN :\nYou saw the twinkle in her eyes too, right...? Don Quixote's always been energetic, but she's been especially bouncy today.\nJP :\n見ましたか？目がどれだけ輝いてたか…。普段もそうでしたけど、\n今日に限って意欲が完全に溢れかえっているんですよね、ドンキホーテさん。"
+  },
+  {
+    "key": "92-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "92-content",
+    "original": "눈…",
+    "context": "EN :\nEyes...\nJP :\n目…。"
+  },
+  {
+    "key": "93-content",
+    "original": "파우스트가 다시 성큼 성큼 걸어가 사샤에게 말을 걸었다. ",
+    "context": "EN :\nFaust strode toward Sasha with a question.\nJP :\nファウストが再び大股で歩きながら、サーシャに話し掛けた。"
+  },
+  {
+    "key": "94-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "94-content",
+    "original": "마지막으로 하나, 궁금한 것이 있습니다.",
+    "context": "EN :\nI have one last thing to inquire.\nJP :\n最後に1つ、気になることがあります。"
+  },
+  {
+    "key": "95-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "95-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "95-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "95-content",
+    "original": "질문 하나당 삼십만 안. ",
+    "context": "EN :\nIt'll be 30k Ahn per inquiry.\nJP :\n質問1つにつき30万眼(アン)。"
+  },
+  {
+    "key": "96-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "96-content",
+    "original": "…‘같은 바닥 처지끼리.’ 그런 판단은 유감이군요.  ",
+    "context": "EN :\n... That is quite an unsound decision to make for someone who claims to be 'in the same line of work' as us.\nJP :\n…「同じどん底の立場」。\nそのように判断するのは遺憾ですね。"
+  },
+  {
+    "key": "97-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "97-content",
+    "original": "저희 쪽 의뢰가 성공하고 나면 추후에 W사에 적극적인 협력 사무소가 있었다고 제보해 드릴 수도 있을 텐데요. ",
+    "context": "EN :\nHave you considered the possibility that, once our contract is successfully completed, we could include references to a particularly cooperative Associate Office in our report to W Corp?\nJP :\n私たちの方の依頼が成功したなら、追ってW社へと\n積極的な協力事務所があったと報告して差し上げることもできるのですけどね。"
+  },
+  {
+    "key": "98-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "98-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "98-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "98-content",
+    "original": "뭐, 뭐야… 진짜? ",
+    "context": "EN :\nW-woah... You serious?\nJP :\nな、なんだよ…マジで？"
+  },
+  {
+    "key": "99-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "99-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "99-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "99-content",
+    "original": "무슨 질문인데? ",
+    "context": "EN :\nWell then, let me hear it.\nJP :\n何が聞きたいんだ？"
+  },
+  {
+    "key": "100-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "100-content",
+    "original": "혹시, 상대하셨던 괴물들의 눈빛이 모두 붉지는 않던가요.",
+    "context": "EN :\nWere the eyes of the monsters you faced red, by any chance?\nJP :\nもしかして、戦った化け物の目が全員赤くはなかったですか？"
+  },
+  {
+    "key": "101-content",
+    "original": "질문을 받은 사샤는 고민하는 건지, 무언가를 떠올리려는 건지 휘적거리던 팔을 멈칫하더니… 조금 있다가 말을 이었다.",
+    "context": "EN :\nSasha paused her swinging arms for a moment upon hearing that question, appearing to either be in thought or trying to recall something... then answered.\nJP :\n質問を受けたサーシャは悩んでいるのか、それとも何かを思い出そうとしているのか\nぶらぶらと動かしていた腕の動きを一瞬止めると…少ししてから話し始めた。"
+  },
+  {
+    "key": "102-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "102-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "102-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "102-content",
+    "original": "…음, 글쎄? 온통 붉은색인 괴물이긴 했는데… 눈색이 중요한가?",
+    "context": "EN :\n... Umm, I dunno? Those monsters were red all over, but... is there something special about their eye color?\nJP :\n…うーん、どうなんだ？あっちもこっちも赤い化け物だらけだったけど…\n目の色って大事なのか？"
+  },
+  {
+    "key": "null-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "null-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "null-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "null-content",
+    "original": "일단 내 의안도 빨간색이고… 저 승객도 눈이 적색이었고… 어, 거기 너희 쪽에 칼 메고 있는 녀석도 눈이 빨갛잖아?",
+    "context": "EN :\nWell, for one, my prosthetic eye is red. That passenger over there's got red eyes, and... Oh, you there. That lady with a big sword's also got red eyes.\nJP :\nとりあえず俺の義眼も赤で…あの乗客も目が赤で…\nおっ、そこのお前のところにいる剣持ってるヤツも目が赤いだろ？"
+  },
+  {
+    "key": "103-model",
+    "original": "북부대검",
+    "translation": "北部大剑",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "103-teller",
+    "original": "사샤",
+    "context": "EN :\nSasha\nJP :\nサーシャ"
+  },
+  {
+    "key": "103-title",
+    "original": "멀티크랙 사무소",
+    "context": "EN :\nMultiCrack Office\nJP :\nマルチクラック事務所"
+  },
+  {
+    "key": "103-content",
+    "original": "뭐, 이런 게 돈 되는 중요한 정보라도 되나?",
+    "context": "EN :\nWhat, is someone out there paying cash for info on red eyes or something?\nJP :\nまぁ、こんなのがカネになる重要な情報だってのか？"
+  },
+  {
+    "key": "104-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "104-content",
+    "original": "아뇨, 뭐.",
+    "context": "EN :\nNo, well.\nJP :\nいいえ、まぁ。"
+  },
+  {
+    "key": "105-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "105-content",
+    "original": "별것 아니었습니다.",
+    "context": "EN :\nIt was a question of no significance.\nJP :\n大したことありませんでした。"
+  },
+  {
+    "key": "106-content",
+    "original": "파우스트는 간단히 사샤에게 묵례를 한 뒤, 앞장서서 다음 칸으로 향하는 문을 열었다.",
+    "context": "EN :\nFaust nodded lightly in her direction, then opened the door to the next car.\nJP :\nファウストは簡単にサーシャへ黙礼をすると、\n先陣を切って次の車両へと向かう扉を開いた。"
+  },
+  {
+    "key": "107-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "107-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "107-content",
+    "original": "그오오…",
+    "context": "EN :\nGuuuuhhhh...\nJP :\nグォオオ…。"
+  },
+  {
+    "key": "108-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "108-content",
+    "original": "휘유. ",
+    "context": "EN :\n*Whistle*\nJP :\n(口笛)"
+  },
+  {
+    "key": "109-content",
+    "original": "물론, 눈앞에 펼쳐진 것은 지옥도와 흡사한 것이었다.",
+    "context": "EN :\nIt was just as we had feared. The scene that appeared before us looked like it came straight out of a painting of hell.\nJP :\nもちろん、目の前に広がったのは\n地獄絵図のような光景だった。"
+  }
+]

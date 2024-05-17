@@ -1,0 +1,122 @@
+[
+  {
+    "key": "816601_success_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color> %[{1}] {2}/% 얻음",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> gains %{2} [{1}]/%\nJP :\n<color=#ebcaa2>[{0}]</color> %[{1}] {2}/% 獲得"
+  },
+  {
+    "key": "816601_success_2-content",
+    "original": "<color=#ebcaa2>[{0}]</color> 다음 턴에 %[{1}] {2}/% 얻음",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> gains %{2} [{1}]/% next turn\nJP :\n<color=#ebcaa2>[{0}]</color> 次のターンに%[{1}] {2}/% 獲得"
+  },
+  {
+    "key": "816601_failure_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color>에게 다음 턴에 %[{1}] {2}/% 부여",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> gains %{2} [{1}]/% next turn\nJP :\n<color=#ebcaa2>[{0}]</color>へ次のターンに%[{1}] {2}/% 付与"
+  },
+  {
+    "key": "816601_failure_2-content",
+    "original": "<color=#ebcaa2>[{0}]</color> 정신력 {1} 피해",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> takes {1} SP damage\nJP :\n<color=#ebcaa2>[{0}]</color> 精神力 {1}ダメージ"
+  },
+  {
+    "key": "816602_success_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color> %[{1}] {2}/% 얻음",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> gains %{2} [{1}]/%\nJP :\n<color=#ebcaa2>[{0}]</color> %[{1}] {2}/% 獲得"
+  },
+  {
+    "key": "816602_success_2-content",
+    "original": "<color=#ebcaa2>[{0}]</color> 체력 {1}, 정신력 {2} 회복",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> heals {1} HP and {2} SP\nJP :\n<color=#ebcaa2>[{0}]</color> 体力{1}, 精神力{2} 回復"
+  },
+  {
+    "key": "816602_failure_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color> 본체 및 부위 체력 {1} 회복",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> heals {1} HP to Core and Part\nJP :\n<color=#ebcaa2>[{0}]</color> 本体および部位体力 {1}回復"
+  },
+  {
+    "key": "816602_failure_2-content",
+    "original": "<color=#ebcaa2>[{0}]</color> 정신력 {1} 피해",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> takes {1} SP damage\nJP :\n<color=#ebcaa2>[{0}]</color> 精神力 {1}ダメージ"
+  },
+  {
+    "key": "817101_log_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color>에게 %[{1}] {2}/% 부여",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> gains %{2} [{1}]/%\nJP :\n<color=#ebcaa2>[{0}]</color>へ%[{1}] {2}/% 付与"
+  },
+  {
+    "key": "817101_log_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]</color>에게 다음 턴에 %[{1}] {2}/% 부여",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> gains %{2} [{1}]/% next turn\nJP :\n<color=#ebcaa2>[{0}]</color>へ次のターンに%[{1}] {2}/% 付与"
+  },
+  {
+    "key": "817302_success_1-content",
+    "original": "<color=#ebcaa2>모든 아군의</color> 정신력 {0} 회복",
+    "context": "EN :\n<color=#ebcaa2>All Sinners</color> heal {0} SP\nJP :\n<color=#ebcaa2>全味方の</color>精神力 {0}回復"
+  },
+  {
+    "key": "817302_success_2-content",
+    "original": "<color=#ebcaa2>[{0}]</color>가 이번 전투동안 %{1} {2}/% 얻음",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> gains %{2} {1}/% for the rest of the Encounter\nJP :\n<color=#ebcaa2>[{0}]</color>がこの戦闘の間 %{1} {2}/%獲得"
+  },
+  {
+    "key": "817302_success_3-content",
+    "original": "<color=#ebcaa2>모든 수감자가 이번 전투동안</color> %{0} {1}/% 얻음",
+    "context": "EN :\n<color=#ebcaa2>All Sinners gain</color> %{1} {0}/% for the rest of the Encounter\nJP :\n<color=#ebcaa2>全囚人がこの戦闘の間、</color> %{0}{1}/%を得る"
+  },
+  {
+    "key": "817302_failure_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color>가 이번 전투동안 %{1} {2}/% 얻음",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> gains %{2} {1}/% for the rest of the Encounter\nJP :\n<color=#ebcaa2>[{0}]</color>がこの戦闘の間 %{1} {2}/%獲得"
+  },
+  {
+    "key": "817302_failure_2-content",
+    "original": "<color=#ebcaa2>모든 수감자가 이번 전투동안</color> {0} {1} 얻음",
+    "context": "EN :\n<color=#ebcaa2>All Sinners gain</color> {1} {0} for the rest of the Encounter\nJP :\n<color=#ebcaa2>全囚人がこの戦闘の間、</color> {0} {1} 獲得"
+  },
+  {
+    "key": "817304_success_1-content",
+    "original": "<color=#ebcaa2>[{0}] 수감자의</color> 정신력 {1} 회복",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> heals {1} SP\nJP :\n<color=#ebcaa2>囚人[{0}]の</color>精神力 {1}回復"
+  },
+  {
+    "key": "817304_success_2-content",
+    "original": "[{0}]가 {1}턴 동안 %{2} {3}/%을 얻음",
+    "context": "EN :\n[{0}] gains %{3} {2}/% for {1} turn(s)\nJP :\n[{0}]が{1}ターンの間 %{2}{3}/%を得る"
+  },
+  {
+    "key": "817304_success_3-content",
+    "original": "모든 캐서린의 양손이 {0}턴동안 %{1} {2}/%를 얻음",
+    "context": "EN :\nEvery Catherine's both hands gain %{2} {1}/% for {0} turn(s)\nJP :\n全てのキャサリンの両手が{0}ターンの間、%{1}{2}/%を得る"
+  },
+  {
+    "key": "817304_success_4-content",
+    "original": "모든 캐서린의 양손이 {0}턴동안 %{1} {2}/%를 얻음",
+    "context": "EN :\nEvery Catherine's both hands gain %{2} {1}/% for {0} turn(s)\nJP :\n全てのキャサリンの両手が{0}ターンの間、%{1}{2}/%を得る"
+  },
+  {
+    "key": "817304_failure_2-content",
+    "original": "모든 캐서린의 양손이 {0}턴동안 %{1} {2}/%를 얻음",
+    "context": "EN :\nEvery Catherine's both hands gain %{2} {1}/% for {0} turn(s)\nJP :\n全てのキャサリンの両手が{0}ターンの間、%{1}{2}/%を得る"
+  },
+  {
+    "key": "817304_failure_1-content",
+    "original": "[{0}]가 {1}턴 동안 %{2} {3}/%을 얻음",
+    "context": "EN :\n[{0}] gains %{3} {2}/% for {1} turn(s)\nJP :\n[{0}]が{1}ターンの間 %{2}{3}/%を得る"
+  },
+  {
+    "key": "817305_1-content",
+    "original": "[{0}]의 <color=#80c9ff>정신력 최대로 회복</color>",
+    "context": "EN :\n[{0}] <color=#80c9ff>fully heals SP</color>\nJP :\n[{0}]の<color=#80c9ff>精神力を全快</color>"
+  },
+  {
+    "key": "817305_2-content",
+    "original": "<color=#ebcaa2>모든 수감자의</color> <color=#80c9ff>정신력 {0} 회복</color>",
+    "context": "EN :\n<color=#ebcaa2>All Sinners</color> <color=#80c9ff>heal {0} SP.</color>\nJP :\n<color=#ebcaa2>全囚人の</color><color=#80c9ff>精神力 {0}回復</color>"
+  },
+  {
+    "key": "817305_3-content",
+    "original": "[{0}]의 {1}가 {2}로 변경됨",
+    "context": "EN :\n[{0}]'s {1} changes to {2}\nJP :\n[{0}]の{1}が{2}へ変更"
+  }
+]
