@@ -1,0 +1,32 @@
+[
+  {
+    "key": "stage_recommend_level_popup_battle_participant_desc-content",
+    "original": "전투에 참가할 인격의 현재 평균 레벨이 스테이지 권장 레벨보다 <color=#990000>낮습니다.</color>\n전투를 진행하시겠습니까?",
+    "context": "EN :\nThe current average level of your deployed Identities is <color=#990000>lower</color> than the recommended level for this Stage.\nStart the Encounter anyway?\nJP :\n戦闘に参加する人格の現平均レベルが、ステージの推奨レベルより<color=#990000>低いです。</color>\n戦闘を進行しますか？"
+  },
+  {
+    "key": "stage_recommend_level_popup_formation_desc-content",
+    "original": "편성 인격의 현재 평균 레벨이 스테이지 권장 레벨보다 <color=#990000>낮습니다.</color>\n전투를 진행하시겠습니까?",
+    "context": "EN :\nThe current average level of Identities in your loadout is <color=#990000>lower</color> than the recommended level for this Stage.\nStart the Encounter anyway?\nJP :\n編成人格の現平均レベルが、ステージの推奨レベルより<color=#990000>低いです。</color>\n戦闘を進行しますか？"
+  },
+  {
+    "key": "stage_recommend_level_popup_dungeon_entrance_desc-content",
+    "original": "편성 인격의 현재 평균 레벨이 스테이지 권장 레벨보다 <color=#990000>낮습니다.</color>\n던전에 입장하시겠습니까?",
+    "context": "EN :\nThe current average level of Identities in your loadout is <color=#990000>lower</color> than the recommended level for this Stage.\nEnter the Dungeon anyway?\nJP :\n編成人格の現平均レベルが、ステージの推奨レベルより<color=#990000>低いです。</color>\nダンジョンへ入場しますか？"
+  },
+  {
+    "key": "current_average_level_and_recommend_level_format-content",
+    "original": "현재 평균 레벨: {0}\n<color=#f8c200>스테이지 권장 레벨: {1}</color>",
+    "context": "EN :\nCurrent Avg. Level: {0}\n<color=#f8c200>Recommended Level: {1}</color>\nJP :\n現在の平均レベル: {0}\n<color=#f8c200>ステージ推奨レベル: {1}</color>"
+  },
+  {
+    "key": "current_average_level_with_additional_val_and_recommend_level_format-content",
+    "original": "현재 평균 레벨: {0} ({1})\n<color=#f8c200>스테이지 권장 레벨: {2}</color>",
+    "context": "EN :\nCurrent Avg. Level: {0} ({1})\n<color=#f8c200>Recommended Level: {2}</color>\nJP :\n現在の平均レベル: {0}({1})\n<color=#f8c200>ステージ推奨レベル: {2}</color>"
+  },
+  {
+    "key": "stage_recommend_uptie_popup_dungeon_entrance_desc-content",
+    "original": "<color=#f8c200>인격, 에고 <color=#990000>{0}단계</color> 동기화, 환상해석 권장</color>",
+    "context": "EN :\n<color=#f8c200>Recommended Identity & E.G.O Uptie/Threadspin <color=#990000>Tiers: {0}</color> </color>\nJP :\n<color=#f8c200>人格・E.G.Oの<color=#990000>{0}段階</color>同期化・幻想解析を推奨</color>"
+  }
+]

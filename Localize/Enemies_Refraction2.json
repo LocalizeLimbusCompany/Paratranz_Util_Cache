@@ -1,0 +1,692 @@
+[
+  {
+    "key": "8539-name",
+    "original": "굴절된 떠돌이 여우",
+    "context": "EN :\nRefracted Drifting Fox\nJP :\n屈折されたさすらいの狐"
+  },
+  {
+    "key": "8539-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "853901-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "853901-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "853902-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "853902-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8540-name",
+    "original": "굴절된 낡은 우산",
+    "context": "EN :\nRefracted Old Umbrella\nJP :\n屈折された古傘"
+  },
+  {
+    "key": "8540-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "854001-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "854001-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8541-name",
+    "original": "굴절된 충격 지네",
+    "context": "EN :\nRefracted Shock Centipede\nJP :\n屈折された衝撃ムカデ"
+  },
+  {
+    "key": "8541-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "854101-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "854101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "854102-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "854102-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8542-name",
+    "original": "굴절된 신사 요정",
+    "context": "EN :\nRefracted Fairy Gentleman\nJP :\n屈折された紳士妖精"
+  },
+  {
+    "key": "8542-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "854201-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "854201-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "854202-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "854202-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8543-name",
+    "original": "굴절된 요정주",
+    "context": "EN :\nRefracted Fairy Wine\nJP :\n屈折された妖精酒"
+  },
+  {
+    "key": "8543-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "854301-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "854301-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8544-name",
+    "original": "굴절된 누구도 울지 않도록",
+    "context": "EN :\nRefracted So That No One Will Cry\nJP :\n屈折された誰も泣かぬように"
+  },
+  {
+    "key": "8544-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "854401-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "854401-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "854402-name",
+    "original": "오른팔",
+    "context": "EN :\nRight Arm\nJP :\n右腕"
+  },
+  {
+    "key": "854402-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8545-name",
+    "original": "굴절된 키다리 요정",
+    "context": "EN :\nRefracted Fairy-Long-Legs\nJP :\n屈折された足長妖精"
+  },
+  {
+    "key": "8545-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "854501-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "854501-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "854502-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "854502-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "854503-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "854503-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8546-name",
+    "original": "굴절된 클로버",
+    "context": "EN :\nRefracted Clover\nJP :\n屈折されたクローバー"
+  },
+  {
+    "key": "8546-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "854601-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "854601-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8547-name",
+    "original": "굴절된 신사 요정",
+    "context": "EN :\nRefracted Fairy Gentleman\nJP :\n屈折された紳士妖精"
+  },
+  {
+    "key": "8547-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "854701-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "854701-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "854702-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "854702-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8548-name",
+    "original": "굴절된 요정주",
+    "context": "EN :\nRefracted Fairy Wine\nJP :\n屈折された妖精酒"
+  },
+  {
+    "key": "8548-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "854801-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "854801-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8549-name",
+    "original": "굴절된 요정초롱",
+    "context": "EN :\nRefracted Faelantern\nJP :\n屈折された妖精提灯"
+  },
+  {
+    "key": "8549-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "854901-name",
+    "original": "요정",
+    "context": "EN :\nFairy\nJP :\n妖精"
+  },
+  {
+    "key": "854901-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "854902-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "854902-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8550-name",
+    "original": "굴절된 길 잃은 승객",
+    "context": "EN :\nRefracted Wayward Passenger\nJP :\n屈折された道を失った乗客"
+  },
+  {
+    "key": "8550-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "855001-name",
+    "original": "왼쪽 칼날",
+    "context": "EN :\nLeft Blade\nJP :\n左刃"
+  },
+  {
+    "key": "855001-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "855002-name",
+    "original": "오른쪽 칼날",
+    "context": "EN :\nRight Blade\nJP :\n右刃"
+  },
+  {
+    "key": "855002-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8551-name",
+    "original": "굴절된 T사 징수직 3등급 직원",
+    "context": "EN :\nRefracted T Corp. Class 3 Collector\nJP :\n屈折されたT社徴収職 3級職員"
+  },
+  {
+    "key": "8551-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "855101-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "855101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8555-name",
+    "original": "굴절된 증기 운반 기계",
+    "context": "EN :\nRefracted Steam Transport Machine\nJP :\n屈折された蒸気運搬機械"
+  },
+  {
+    "key": "8555-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "855501-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "855501-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "855502-name",
+    "original": "증기총",
+    "context": "EN :\nSteam Blaster\nJP :\n蒸気銃"
+  },
+  {
+    "key": "855502-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8556-name",
+    "original": "굴절된 장미 표지판",
+    "context": "EN :\nRefracted Sign of Roses\nJP :\n屈折された薔薇の表示板"
+  },
+  {
+    "key": "8556-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "855601-name",
+    "original": "표지판",
+    "context": "EN :\nSignpost\nJP :\n表示板"
+  },
+  {
+    "key": "855601-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "855602-name",
+    "original": "살",
+    "context": "EN :\nFlesh\nJP :\n肉"
+  },
+  {
+    "key": "855602-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8557-name",
+    "original": "굴절된 T사 징수직 3등급 직원",
+    "context": "EN :\nRefracted T Corp. Class 3 Collector\nJP :\n屈折されたT社徴収職 3級職員"
+  },
+  {
+    "key": "8557-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "855701-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "855701-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8558-name",
+    "original": "굴절된 T사 징수직 3등급 직원",
+    "context": "EN :\nRefracted T Corp. Class 3 Collector\nJP :\n薔薇の表示板"
+  },
+  {
+    "key": "8558-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "855801-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "855801-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8559-name",
+    "original": "굴절된 T사 징수직 3등급 직원",
+    "context": "EN :\nRefracted T Corp. Class 3 Collector\nJP :\n屈折されたT社徴収職 3級職員"
+  },
+  {
+    "key": "8559-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "855901-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "855901-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8560-name",
+    "original": "굴절된 피가 흐르는 차원",
+    "context": "EN :\nRefracted Hemorrhaging Dimension\nJP :\n屈折された血の流れる次元"
+  },
+  {
+    "key": "8560-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "856001-name",
+    "original": "차원",
+    "context": "EN :\nDimension\nJP :\n次元"
+  },
+  {
+    "key": "856001-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8561-name",
+    "original": "굴절된 독이 들끓는 차원",
+    "context": "EN :\nRefracted Poisonous Dimension\nJP :\n屈折された毒が沸き立つ次元"
+  },
+  {
+    "key": "8561-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "856101-name",
+    "original": "차원",
+    "context": "EN :\nDimension\nJP :\n次元"
+  },
+  {
+    "key": "856101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8562-name",
+    "original": "굴절된 끊임없이 진동하는 차원",
+    "context": "EN :\nRefracted Tremoring Dimension\nJP :\n屈折された絶えず振動する次元"
+  },
+  {
+    "key": "8562-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "856201-name",
+    "original": "차원",
+    "context": "EN :\nDimension\nJP :\n次元"
+  },
+  {
+    "key": "856201-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8563-name",
+    "original": "굴절된 전류를 뿜어내는 차원",
+    "context": "EN :\nRefracted Electrifying Dimension\nJP :\n屈折された電流を吐き出す次元"
+  },
+  {
+    "key": "8563-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "856301-name",
+    "original": "차원",
+    "context": "EN :\nDimension\nJP :\n次元"
+  },
+  {
+    "key": "856301-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8564-name",
+    "original": "굴절된 분노를 머금은 장미",
+    "context": "EN :\nRefracted Wrath-drenched Rose\nJP :\n屈折された憤怒を宿した薔薇"
+  },
+  {
+    "key": "8564-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "856401-name",
+    "original": "꽃",
+    "context": "EN :\nFlower\nJP :\n花"
+  },
+  {
+    "key": "856401-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8565-name",
+    "original": "굴절된 색욕을 머금은 장미",
+    "context": "EN :\nRefracted Lust-drenched Rose\nJP :\n屈折された色欲を宿した薔薇"
+  },
+  {
+    "key": "8565-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "856501-name",
+    "original": "꽃",
+    "context": "EN :\nFlower\nJP :\n花"
+  },
+  {
+    "key": "856501-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8566-name",
+    "original": "굴절된 나태를 머금은 장미",
+    "context": "EN :\nRefracted Sloth-drenched Rose\nJP :\n屈折された怠惰を宿した薔薇"
+  },
+  {
+    "key": "8566-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "856601-name",
+    "original": "꽃",
+    "context": "EN :\nFlower\nJP :\n花"
+  },
+  {
+    "key": "856601-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8567-name",
+    "original": "굴절된 탐식을 머금은 장미",
+    "context": "EN :\nRefracted Gluttony-drenched Rose\nJP :\n屈折された暴食を宿した薔薇"
+  },
+  {
+    "key": "8567-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "856701-name",
+    "original": "꽃",
+    "context": "EN :\nFlower\nJP :\n花"
+  },
+  {
+    "key": "856701-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8568-name",
+    "original": "굴절된 우울을 머금은 장미",
+    "context": "EN :\nRefracted Gloom-drenched Rose\nJP :\n屈折された憂鬱を宿した薔薇"
+  },
+  {
+    "key": "8568-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "856801-name",
+    "original": "꽃",
+    "context": "EN :\nFlower\nJP :\n花"
+  },
+  {
+    "key": "856801-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8569-name",
+    "original": "굴절된 오만을 머금은 장미",
+    "context": "EN :\nRefracted Pride-drenched Rose\nJP :\n屈折された傲慢を宿した薔薇"
+  },
+  {
+    "key": "8569-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "856901-name",
+    "original": "꽃",
+    "context": "EN :\nFlower\nJP :\n花"
+  },
+  {
+    "key": "856901-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8570-name",
+    "original": "굴절된 질투를 머금은 장미",
+    "context": "EN :\nRefracted Envy-drenched Rose\nJP :\n屈折された嫉妬を宿した薔薇"
+  },
+  {
+    "key": "8570-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "857001-name",
+    "original": "꽃",
+    "context": "EN :\nFlower\nJP :\n花"
+  },
+  {
+    "key": "857001-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  }
+]

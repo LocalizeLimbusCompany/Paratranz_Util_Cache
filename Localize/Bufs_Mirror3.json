@@ -1,0 +1,452 @@
+[
+  {
+    "key": "MDcFaBa-name",
+    "original": "화상 추가 부여",
+    "context": "EN :\nInflict additional Burn\nJP :\n火傷 を追加で付与"
+  },
+  {
+    "key": "MDcFaBa-desc",
+    "original": "스킬로 부여하는 화상 +1",
+    "context": "EN :\nInflict +1 more Burn with Skills\nJP :\nスキルで付与する火傷 +1"
+  },
+  {
+    "key": "MDcFaBb-name",
+    "original": "출혈 추가 부여",
+    "context": "EN :\nInflict additional Bleed\nJP :\n出血 を追加付与"
+  },
+  {
+    "key": "MDcFaBb-desc",
+    "original": "스킬로 부여하는 출혈 +1",
+    "context": "EN :\nInflict +1 more Bleed with Skills\nJP :\nスキルで付与する出血 +1"
+  },
+  {
+    "key": "MDcFaBc-name",
+    "original": "진동 추가 부여",
+    "context": "EN :\nInflict additional Tremor\nJP :\n振動 を追加付与"
+  },
+  {
+    "key": "MDcFaBc-desc",
+    "original": "스킬로 부여하는 진동 +1",
+    "context": "EN :\nInflict +1 more Tremor with Skills\nJP :\nスキルで付与する振動 +1"
+  },
+  {
+    "key": "MDcFaBd-name",
+    "original": "파열 추가 부여",
+    "context": "EN :\nInflict additional Rupture\nJP :\n破裂 を追加付与"
+  },
+  {
+    "key": "MDcFaBd-desc",
+    "original": "스킬로 부여하는 파열 +1",
+    "context": "EN :\nInflict +1 more Rupture with Skills\nJP :\nスキルで付与する破裂 +1"
+  },
+  {
+    "key": "MDcFaBe-name",
+    "original": "침잠 추가 부여",
+    "context": "EN :\nInflict additional Sinking\nJP :\n沈潜 を追加付与"
+  },
+  {
+    "key": "MDcFaBe-desc",
+    "original": "스킬로 부여하는 침잠 +1",
+    "context": "EN :\nInflict +1 more Sinking with Skills\nJP :\nスキルで付与する沈潜 +1"
+  },
+  {
+    "key": "MDcFaBf-name",
+    "original": "참격 강화",
+    "context": "EN :\nSlash Boost\nJP :\n斬撃強化"
+  },
+  {
+    "key": "MDcFaBf-desc",
+    "original": "참격 속성으로 가하는 피해량 +15%",
+    "context": "EN :\nSlash damage +15%\nJP :\n斬撃属性による与ダメージ量 +15%"
+  },
+  {
+    "key": "MDcFaBg-name",
+    "original": "관통 강화",
+    "context": "EN :\nPierce Boost\nJP :\n貫通強化"
+  },
+  {
+    "key": "MDcFaBg-desc",
+    "original": "관통 속성으로 가하는 피해량 +15%",
+    "context": "EN :\nPierce damage +15%\nJP :\n貫通属性による与ダメージ量 +15%"
+  },
+  {
+    "key": "MDcFaBh-name",
+    "original": "타격 강화",
+    "context": "EN :\nBlunt Boost\nJP :\n打撃強化"
+  },
+  {
+    "key": "MDcFaBh-desc",
+    "original": "타격 속성으로 가하는 피해량 +15%",
+    "context": "EN :\nBlunt damage +15%\nJP :\n打撃属性による与ダメージ量 +15%"
+  },
+  {
+    "key": "MDcFbBa-name",
+    "original": "속성 내성 강화 (분노 제외)",
+    "context": "EN :\nAffinity Res Up (Exc. Wrath)\nJP :\n属性耐性強化(憤怒以外)"
+  },
+  {
+    "key": "MDcFbBa-desc",
+    "original": "분노 속성을 제외한 속성의 내성 -0.1",
+    "context": "EN :\nResistance against all Affinities -0.1 (Except Wrath)\nJP :\n憤怒属性を除く属性耐性が -0.1"
+  },
+  {
+    "key": "MDcFbBb-name",
+    "original": "속성 내성 강화 (색욕 제외)",
+    "context": "EN :\nAffinity Res Up (Exc. Lust)\nJP :\n属性耐性強化(色欲以外)"
+  },
+  {
+    "key": "MDcFbBb-desc",
+    "original": "색욕 속성을 제외한 속성의 내성 -0.1",
+    "context": "EN :\nResistance against all Affinities -0.1 (Except Lust)\nJP :\n色欲属性を除く属性耐性が -0.1"
+  },
+  {
+    "key": "MDcFbBc-name",
+    "original": "속성 내성 강화 (나태 제외)",
+    "context": "EN :\nAffinity Res Up (Exc. Sloth)\nJP :\n属性耐性強化(怠惰以外)"
+  },
+  {
+    "key": "MDcFbBc-desc",
+    "original": "나태 속성을 제외한 속성의 내성 -0.1",
+    "context": "EN :\nResistance against all Affinities -0.1 (Except Sloth)\nJP :\n怠惰属性を除く属性耐性が -0.1"
+  },
+  {
+    "key": "MDcFbBd-name",
+    "original": "속성 내성 강화 (탐식 제외)",
+    "context": "EN :\nAffinity Res Up (Exc. Glut.)\nJP :\n属性耐性強化(暴食以外)"
+  },
+  {
+    "key": "MDcFbBd-desc",
+    "original": "탐식 속성을 제외한 속성의 내성 -0.1",
+    "context": "EN :\nResistance against all Affinities -0.1 (Except Gluttony)\nJP :\n暴食属性を除く属性耐性が -0.1"
+  },
+  {
+    "key": "MDcFbBe-name",
+    "original": "속성 내성 강화 (우울 제외)",
+    "context": "EN :\nAffinity Res Up (Exc. Gloom)\nJP :\n属性耐性強化(憂鬱以外)"
+  },
+  {
+    "key": "MDcFbBe-desc",
+    "original": "우울 속성을 제외한 속성의 내성 -0.1",
+    "context": "EN :\nResistance against all Affinities -0.1 (Except Gloom)\nJP :\n憂鬱属性を除く属性耐性が -0.1"
+  },
+  {
+    "key": "MDcFbBf-name",
+    "original": "속성 내성 강화 (오만 제외)",
+    "context": "EN :\nAffinity Res Up (Exc. Pride)\nJP :\n属性耐性強化(傲慢以外)"
+  },
+  {
+    "key": "MDcFbBf-desc",
+    "original": "오만 속성을 제외한 속성의 내성 -0.1",
+    "context": "EN :\nResistance against all Affinities -0.1 (Except Pride)\nJP :\n傲慢属性を除く属性耐性が -0.1"
+  },
+  {
+    "key": "MDcFbBg-name",
+    "original": "속성 내성 강화 (질투 제외)",
+    "context": "EN :\nAffinity Res Up (Exc. Envy)\nJP :\n属性耐性強化(嫉妬以外)"
+  },
+  {
+    "key": "MDcFbBg-desc",
+    "original": "질투 속성을 제외한 속성의 내성 -0.1",
+    "context": "EN :\nResistance against all Affinities -0.1 (Except Envy)\nJP :\n嫉妬属性を除く属性耐性が -0.1"
+  },
+  {
+    "key": "MDcFbBh-name",
+    "original": "체력 증진",
+    "context": "EN :\nMax HP +\nJP :\n体力増進"
+  },
+  {
+    "key": "MDcFbBh-desc",
+    "original": "최대 체력 15% 증가",
+    "context": "EN :\nMax HP +15%\nJP :\n体力最大値が15%増加"
+  },
+  {
+    "key": "MDcFcBa-name",
+    "original": "슬롯 가중치 증가",
+    "context": "EN :\nSlot Weight +\nJP :\nスロット加重値増加"
+  },
+  {
+    "key": "MDcFcBa-desc",
+    "original": "슬롯 가중치 1 증가",
+    "context": "EN :\nSlot Weight +1\nJP :\nスロット加重値が1増加"
+  },
+  {
+    "key": "MDcFcBb-name",
+    "original": "피해량 흡수",
+    "context": "EN :\nSiphon Damage\nJP :\nダメージ吸収"
+  },
+  {
+    "key": "MDcFcBb-desc",
+    "original": "적중 시 가한 피해량의 5%만큼 체력 회복",
+    "context": "EN :\nOn Hit, heal 5% of damage dealt as HP\nJP :\n的中時、与ダメージの5%だけ体力を回復"
+  },
+  {
+    "key": "MDcFcBc-name",
+    "original": "속도 증가",
+    "context": "EN :\nBoost Speed\nJP :\n速度増加"
+  },
+  {
+    "key": "MDcFcBc-desc",
+    "original": "속도 최댓값 1 증가",
+    "context": "EN :\nMax Speed +1\nJP :\n速度の最大値が1増加"
+  },
+  {
+    "key": "MDcFcBd-name",
+    "original": "정신 공격",
+    "context": "EN :\nSanity Attack\nJP :\n精神攻撃"
+  },
+  {
+    "key": "MDcFcBd-desc",
+    "original": "적중 시, 정신력 고정 피해 2 입힘",
+    "context": "EN :\nOn Hit, deal 2 fixed SP damage\nJP :\n的中時、精神力へ固定ダメージ2を与える"
+  },
+  {
+    "key": "MDcFcBe-name",
+    "original": "예리함",
+    "context": "EN :\nKeenness\nJP :\n切れ味"
+  },
+  {
+    "key": "MDcFcBe-desc",
+    "original": "이전 턴 동안 한 번이라도 피해를 입혔다면 턴 시작 시 피해량 증가 1 얻음",
+    "context": "EN :\nTurn Start: gain 1 Damage Up if this unit dealt damage at least once last turn\nJP :\n前のターンに一度でもダメージを与えたのなら、ターン開始時にダメージ量増加 1を得る。"
+  },
+  {
+    "key": "MDcFcBf-name",
+    "original": "재정비",
+    "context": "EN :\nRegroup\nJP :\n再整備"
+  },
+  {
+    "key": "MDcFcBf-desc",
+    "original": "이전 턴 동안 체력 피해를 받지 않았다면 턴 시작 시 공격 레벨 증가 3 얻음",
+    "context": "EN :\nTurn Start: Gain 3 Offense Level Up if this unit did not take HP damage last turn\nJP :\n前のターンにて体力に一度もダメージを受けていなければ、ターン開始時に攻撃レベル増加 3を得る。"
+  },
+  {
+    "key": "MDcFcBg-name",
+    "original": "일방 공격 강화",
+    "context": "EN :\nUnopposed Attack Boost\nJP :\n一方攻撃強化"
+  },
+  {
+    "key": "MDcFcBg-desc",
+    "original": "일방 공격 시 최종 위력 +1",
+    "context": "EN :\nFinal Power +1 to Unopposed Attacks\nJP :\n一方攻撃時、最終威力 +1"
+  },
+  {
+    "key": "MDcFcBh-name",
+    "original": "합 공격 강화",
+    "context": "EN :\nClash Attack Boost\nJP :\nマッチ攻撃強化"
+  },
+  {
+    "key": "MDcFcBh-desc",
+    "original": "합 진행 시 최종 위력 +1",
+    "context": "EN :\nFinal Power +1 in a Clash\nJP :\nマッチ実施時、最終威力 +1"
+  },
+  {
+    "key": "MDHcFaBa-name",
+    "original": "방어 레벨 강화",
+    "context": "EN :\nDefense Level Up\nJP :\n防御レベル強化"
+  },
+  {
+    "key": "MDHcFaBa-desc",
+    "original": "방어 레벨 +4",
+    "context": "EN :\nDefense Level +4\nJP :\n防御レベル +4"
+  },
+  {
+    "key": "MDHcFaBb-name",
+    "original": "수비 위력 강화",
+    "context": "EN :\nDefense Power Up\nJP :\n守備威力強化"
+  },
+  {
+    "key": "MDHcFaBb-desc",
+    "original": "수비 스킬 기본 위력 +2",
+    "context": "EN :\nDefense Skill Base Power +2\nJP :\n守備スキル基本威力 +2"
+  },
+  {
+    "key": "MDHcFaBc-name",
+    "original": "최대 체력 강화",
+    "context": "EN :\nMax HP Up\nJP :\n体力最大値強化"
+  },
+  {
+    "key": "MDHcFaBc-desc",
+    "original": "최대 체력 +10%",
+    "context": "EN :\nMax HP +10%\nJP :\n最大体力 +10%"
+  },
+  {
+    "key": "MDHcFaBd-name",
+    "original": "받는 피해량 경감",
+    "context": "EN :\nDamage Taken Down\nJP :\n被ダメージ量軽減"
+  },
+  {
+    "key": "MDHcFaBd-desc",
+    "original": "받는 피해량 -10%",
+    "context": "EN :\nDamage Taken -10%\nJP :\n被ダメージ量 -10%"
+  },
+  {
+    "key": "MDHcFbBa-name",
+    "original": "공격 레벨 강화",
+    "context": "EN :\nOffense Level Up\nJP :\n攻撃レベル強化"
+  },
+  {
+    "key": "MDHcFbBa-desc",
+    "original": "공격 레벨 +3, 최대 체력 +5%",
+    "context": "EN :\nOffense Level +3, Max HP +5%\nJP :\n攻撃レベル +3, 最大体力 +5%"
+  },
+  {
+    "key": "MDHcFbBb-name",
+    "original": "최종 위력 강화",
+    "context": "EN :\nFinal Power Up\nJP :\n最終威力強化"
+  },
+  {
+    "key": "MDHcFbBb-desc",
+    "original": "최종 위력 +1, 최대 체력 +5%",
+    "context": "EN :\nFinal Power +1, Max HP +5%\nJP :\n最終威力 +1, 最大体力 +5%"
+  },
+  {
+    "key": "MDHcFbBc-name",
+    "original": "기본 위력 강화",
+    "context": "EN :\nBase Power Up\nJP :\n基本威力強化"
+  },
+  {
+    "key": "MDHcFbBc-desc",
+    "original": "기본 위력 +1, 최대 체력 +5%",
+    "context": "EN :\nBase Power +1, Max HP +5%\nJP :\n基本威力 +1, 最大体力 +5%"
+  },
+  {
+    "key": "MDHcFbBd-name",
+    "original": "가하는 피해량 강화",
+    "context": "EN :\nDamage Dealt Up\nJP :\n与ダメージ量強化"
+  },
+  {
+    "key": "MDHcFbBd-desc",
+    "original": "가하는 피해량 +15%, 최대 체력 +5%",
+    "context": "EN :\nDeal +15% damage, Max HP +5%\nJP :\n与ダメージ量 +15%, 最大体力 +5%"
+  },
+  {
+    "key": "MDHcFcBa-name",
+    "original": "최종 위력 증폭 I",
+    "context": "EN :\nFinal Power Up I\nJP :\n最終威力増幅 I"
+  },
+  {
+    "key": "MDHcFcBa-desc",
+    "original": "최종 위력 +1, 최대 체력 +15%",
+    "context": "EN :\nFinal Power +1, Max HP +15%\nJP :\n最終威力 +1, 最大体力 +15%"
+  },
+  {
+    "key": "MDHcFcBb-name",
+    "original": "최종 위력 증폭 II",
+    "context": "EN :\nFinal Power Up II\nJP :\n最終威力増幅 II"
+  },
+  {
+    "key": "MDHcFcBb-desc",
+    "original": "최종 위력 +2, 방어 레벨 -4, 최대 체력 +15%",
+    "context": "EN :\nFinal Power +2, Defense Level -4, Max HP +15%\nJP :\n最終威力 +2, 防御レベル -4, 最大体力 +15%"
+  },
+  {
+    "key": "MDHcFcBc-name",
+    "original": "기본 위력 증폭 I",
+    "context": "EN :\nBase Power Up I\nJP :\n基本威力増幅 I"
+  },
+  {
+    "key": "MDHcFcBc-desc",
+    "original": "기본 위력 +1, 최대 체력 +10%",
+    "context": "EN :\nBase Power +1, Max HP +10%\nJP :\n基本威力 +1, 最大体力 +10%"
+  },
+  {
+    "key": "MDHcFcBd-name",
+    "original": "기본 위력 증폭 II",
+    "context": "EN :\nBase Power Up II\nJP :\n基本威力増幅 II"
+  },
+  {
+    "key": "MDHcFcBd-desc",
+    "original": "기본 위력 +2, 방어 레벨 -4, 최대 체력 +10%",
+    "context": "EN :\nBase Power +2, Defense Level -4, Max HP +10%\nJP :\n基本威力 +2, 防御レベル -4, 最大体力 +10%"
+  },
+  {
+    "key": "MDHcFcBe-name",
+    "original": "코인 위력 증폭 I",
+    "context": "EN :\nCoin Power Up I\nJP :\nコイン威力増幅 I"
+  },
+  {
+    "key": "MDHcFcBe-desc",
+    "original": "더하기 코인 위력 +1, 빼기 코인 위력 -1",
+    "context": "EN :\nPlus Coin Power +1, Minus Coin Power -1\nJP :\n加算コイン威力 +1, 減算コイン威力 -1"
+  },
+  {
+    "key": "MDHcFcBf-name",
+    "original": "과부하 I",
+    "context": "EN :\nOverload I\nJP :\n過負荷 I"
+  },
+  {
+    "key": "MDHcFcBf-desc",
+    "original": "공격 레벨 +7, 방어 레벨 -7",
+    "context": "EN :\nOffense Level +7, Defense Level -7\nJP :\n攻撃レベル +7、防御レベル -7"
+  },
+  {
+    "key": "MDHcFdBa-name",
+    "original": "최종 위력 증폭 III",
+    "context": "EN :\nFinal Power Up III\nJP :\n最終威力増幅 III"
+  },
+  {
+    "key": "MDHcFdBa-desc",
+    "original": "최종 위력 +2, 방어 레벨 +6, 최대 체력 +10%",
+    "context": "EN :\nFinal Power +2, Defense Level +6, Max HP +10%\nJP :\n最終威力 +2, 防御レベル +6, 最大体力 +10%"
+  },
+  {
+    "key": "MDHcFdBb-name",
+    "original": "최종 위력 증폭 IV",
+    "context": "EN :\nFinal Power Up IV\nJP :\n最終威力増幅 IV"
+  },
+  {
+    "key": "MDHcFdBb-desc",
+    "original": "최종 위력 +3, 최대 체력 +10%",
+    "context": "EN :\nFinal Power +3, Max HP +10%\nJP :\n最終威力 +3, 最大体力 +10%"
+  },
+  {
+    "key": "MDHcFdBc-name",
+    "original": "코인 위력 증폭 II",
+    "context": "EN :\nCoin Power Up II\nJP :\nコイン威力増幅 II"
+  },
+  {
+    "key": "MDHcFdBc-desc",
+    "original": "더하기 코인 위력 +1, 빼기 코인 위력 -1, 최대 체력 +15%",
+    "context": "EN :\nPlus Coin Power +1, Minus Coin Power -1, Max HP +15%\nJP :\n加算コイン威力 +1, 減算コイン威力 -1, 最大体力 +15%"
+  },
+  {
+    "key": "MDHcFdBd-name",
+    "original": "기본 위력 증폭 III",
+    "context": "EN :\nBase Power Up III\nJP :\n基本威力増幅 III"
+  },
+  {
+    "key": "MDHcFdBd-desc",
+    "original": "기본 위력 +2, 방어 레벨 +3, 최대 체력 +10%",
+    "context": "EN :\nBase Power +2, Defense Level +3, Max HP +10%\nJP :\n基本威力 +2, 防御レベル +3, 最大体力 +10%"
+  },
+  {
+    "key": "MDHcFdBe-name",
+    "original": "과부하 II",
+    "context": "EN :\nOverload II\nJP :\n過負荷 II"
+  },
+  {
+    "key": "MDHcFdBe-desc",
+    "original": "공격 레벨 +10, 방어 레벨 -7",
+    "context": "EN :\nOffense Level +10, Defense Level -7\nJP :\n攻撃レベル +10、防御レベル -7"
+  },
+  {
+    "key": "MDHcFdBf-name",
+    "original": "강인함",
+    "context": "EN :\nResilient\nJP :\n強靱"
+  },
+  {
+    "key": "MDHcFdBf-desc",
+    "original": "최대 체력 +25%, 방어 레벨 +5",
+    "context": "EN :\nMax HP +25%, Defense Level +5\nJP :\n最大体力 +25%, 防御レベル +5"
+  },
+  {
+    "key": "MDHcFdBg-name",
+    "original": "완강함",
+    "context": "EN :\nHeadstrong\nJP :\n頑強"
+  },
+  {
+    "key": "MDHcFdBg-desc",
+    "original": "가하는 피해량 +50%, 받는 피해량 -50%",
+    "context": "EN :\nDeal +50% damage and take -50% damage\nJP :\n与ダメージ量 +50%, 被ダメージ量-50%"
+  }
+]

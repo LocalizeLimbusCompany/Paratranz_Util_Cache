@@ -1,0 +1,337 @@
+[
+  {
+    "key": "0-content",
+    "original": "우린 말 위에서 흔들리는 중이야",
+    "context": "EN :\nWe're swaying on horseback\nJP :\n私たちは馬の上で揺られているんだ"
+  },
+  {
+    "key": "1-content",
+    "original": "언덕은 푸르고",
+    "context": "EN :\nThe hills are green\nJP :\n丘は青々として"
+  },
+  {
+    "key": "2-content",
+    "original": "새님들은 노래를 지저귀고",
+    "context": "EN :\nAnd the birdies sing\nJP :\n鳥さんたちは歌を囀り"
+  },
+  {
+    "key": "3-content",
+    "original": "장미들은 온통 분홍빛",
+    "context": "EN :\nAnd roses are pink\nJP :\n薔薇は一面の桃色"
+  },
+  {
+    "key": "4-content",
+    "original": "이런 모험은 처음이야",
+    "context": "EN :\nExperience I never had\nJP :\nこんな冒険は初めてだ"
+  },
+  {
+    "key": "5-content",
+    "original": "난 너무 행복해",
+    "context": "EN :\nI'm so happy\nJP :\n私はとても幸せなんだ"
+  },
+  {
+    "key": "6-content",
+    "original": "행복해, 당신 이야기의 일부가 될 수 있기에",
+    "context": "EN :\nHappy to just be part of your story\nJP :\nあなたの物語の一部になれるだけで、幸せなんだ"
+  },
+  {
+    "key": "7-content",
+    "original": "당신의 뒤를 따르며",
+    "context": "EN :\nAfter you I follow\nJP :\nあなたの後を追いかけ"
+  },
+  {
+    "key": "8-content",
+    "original": "당신의 뒤를 따르며",
+    "context": "EN :\nAfter you I follow\nJP :\nあなたの後を追いかけ"
+  },
+  {
+    "key": "9-content",
+    "original": "그대가 보여준 세상에 나의 시야가 트여와",
+    "context": "EN :\nThe world you show me broaden my horizon\nJP :\nそなたが見せてくれた世界は 私の視野を広げてくれる"
+  },
+  {
+    "key": "10-content",
+    "original": "나의 영원한 영웅",
+    "context": "EN :\nForever my hero\nJP :\n私の永遠の英雄"
+  },
+  {
+    "key": "11-content",
+    "original": "나의 영원한 영웅",
+    "context": "EN :\nForever my hero\nJP :\n私の永遠の英雄"
+  },
+  {
+    "key": "12-content",
+    "original": "나는 당신의 가장 열렬한 팬",
+    "context": "EN :\nI am your biggest fan\nJP :\n私はあなたの一番のファン"
+  },
+  {
+    "key": "13-content",
+    "original": "나는 당신의 가장 열렬한 팬",
+    "context": "EN :\nI am your biggest fan\nJP :\n私はあなたの一番のファン"
+  },
+  {
+    "key": "14-content",
+    "original": "회전목마를 타고",
+    "context": "EN :\nMerry-go-round\nJP :\n回転木馬に乗って"
+  },
+  {
+    "key": "15-content",
+    "original": "빙글빙글 달려나가",
+    "context": "EN :\nIn a circle I run\nJP :\nくるくると走り回る"
+  },
+  {
+    "key": "16-content",
+    "original": "즐겁잖아, 현실을 뒤로하고 달리는 건",
+    "context": "EN :\nIt's so much fun leaving reality behind\nJP :\n現実を後にして走るのは楽しいな"
+  },
+  {
+    "key": "17-content",
+    "original": "<style=\"dkr\">말 위에서 떨어진다",
+    "context": "EN :\n<style=\"den\">I fall down the horseback\nJP :\n馬の上から落ちる"
+  },
+  {
+    "key": "18-content",
+    "original": "<style=\"dkr\">다리는 벌써 부러졌고",
+    "context": "EN :\n<style=\"den\">With my crippled legs\nJP :\n足は不自由なまま"
+  },
+  {
+    "key": "19-content",
+    "original": "<style=\"dkr\">비가 쏟아지며",
+    "context": "EN :\n<style=\"den\">And then it starts to rain\nJP :\n雨が降り始めた"
+  },
+  {
+    "key": "20-content",
+    "original": "<style=\"dkr\">모두 허상이였다는게 드러나지",
+    "context": "EN :\n<style=\"den\">Showing me it's all fake\nJP :\n全てが偽物だってことが顕わになる"
+  },
+  {
+    "key": "21-content",
+    "original": "<style=\"dkr\">빗방울은 허울을 씻겨냈어",
+    "context": "EN :\n<style=\"den\">Raindrops wash down the facade\nJP :\n雨水はうわべを洗い流した"
+  },
+  {
+    "key": "22-content",
+    "original": "<style=\"dkr\">언덕의 푸르름은 페인트에 불과했고",
+    "context": "EN :\n<style=\"den\">Hills are painted\nJP :\n丘は塗られた色"
+  },
+  {
+    "key": "23-content",
+    "original": "<style=\"dkr\">새들은 기계에",
+    "context": "EN :\n<style=\"den\">Birdies are robotic\nJP :\n鳥さん達は機械"
+  },
+  {
+    "key": "24-content",
+    "original": "<style=\"dkr\">장미들은 점토로 만든 조화",
+    "context": "EN :\n<style=\"den\">Roses are made of clay\nJP :\n薔薇は粘土細工"
+  },
+  {
+    "key": "25-content",
+    "original": "<style=\"dkr\">내가 느꼈던 설렘",
+    "context": "EN :\n<style=\"den\">Excitement that I feel\nJP :\n私が感じたときめき"
+  },
+  {
+    "key": "26-content",
+    "original": "<style=\"dkr\">내가 느꼈던 설렘",
+    "context": "EN :\n<style=\"den\">Excitement that I feel\nJP :\n私が感じたときめき"
+  },
+  {
+    "key": "27-content",
+    "original": "<style=\"dkr\">전부 선반에 다시 돌려 뒀어",
+    "context": "EN :\n<style=\"den\">Return them to the shelf\nJP :\n全て棚に仕舞い込んだ"
+  },
+  {
+    "key": "28-content",
+    "original": "<style=\"dkr\">이제 깨달았으니까",
+    "context": "EN :\n<style=\"den\">Cause now I understand\nJP :\nもう気付いてしまったから"
+  },
+  {
+    "key": "29-content",
+    "original": "<style=\"dkr\">영웅이라는 건 있을 수 없다는 걸",
+    "context": "EN :\n<style=\"den\">Heroes cannot be real\nJP :\n英雄なんて存在しないってこと"
+  },
+  {
+    "key": "30-content",
+    "original": "<style=\"dkr\">영웅이라는 건 있을 수 없다는 걸",
+    "context": "EN :\n<style=\"den\">Heroes cannot be real\nJP :\n英雄なんて存在しないってこと"
+  },
+  {
+    "key": "31-content",
+    "original": "<style=\"dkr\">나는 내가 아니었고",
+    "context": "EN :\n<style=\"den\">I wasn't who I am\nJP :\n私は私じゃなかった"
+  },
+  {
+    "key": "32-content",
+    "original": "<style=\"dkr\">내가 누군지도 모르지",
+    "context": "EN :\n<style=\"den\">I don't know who I am\nJP :\n私が誰かも知らない"
+  },
+  {
+    "key": "33-content",
+    "original": "<style=\"dkr\">¿나는 누구지?",
+    "context": "EN :\n<style=\"den\">¿Who am I?\nJP :\n¿私は誰?"
+  },
+  {
+    "key": "34-content",
+    "original": "<style=\"dkr\">¿나는 누구지?",
+    "context": "EN :\n<style=\"den\">¿Who am I?\nJP :\n¿私は誰?"
+  },
+  {
+    "key": "35-content",
+    "original": "<style=\"dkr\">¿나는 누구지?",
+    "context": "EN :\n<style=\"den\">¿Who am I?\nJP :\n¿私は誰?"
+  },
+  {
+    "key": "36-content",
+    "original": "다시 한 바퀴 돌아보자, 한 번 더",
+    "context": "EN :\nHere we go, another lap\nJP :\nもうひとまわりしてみよう、もう一度"
+  },
+  {
+    "key": "37-content",
+    "original": "찾아야 할 보물이 있잖아",
+    "context": "EN :\nPrizes to claim\nJP :\n見つけるべき宝物があるだろう"
+  },
+  {
+    "key": "38-content",
+    "original": "네게 꿈 하나",
+    "context": "EN :\nHere's a dream for you\nJP :\n君に夢を"
+  },
+  {
+    "key": "39-content",
+    "original": "내게도 꿈 하나",
+    "context": "EN :\nHere's a dream for me\nJP :\n私にも夢を"
+  },
+  {
+    "key": "40-content",
+    "original": "가방 안의 황금 티켓들은 내팽겨 놓은 채로",
+    "context": "EN :\nGolden tickets in my bag stay unexchanged\nJP :\n鞄の中の黄金のチケットは交換しないまま"
+  },
+  {
+    "key": "41-content",
+    "original": "그냥 돌고 있는 채로도 좋지 않아?",
+    "context": "EN :\nDon't you love the thrill of the chase?\nJP :\n追いかけ回るスリルも悪くないと思わない？"
+  },
+  {
+    "key": "42-content",
+    "original": "내가 당신의 팬이 될 수 있게 해 줘",
+    "context": "EN :\nJust let me be your fan\nJP :\nあなたのファンでいさせて"
+  },
+  {
+    "key": "43-content",
+    "original": "당신의 팬이 되고 싶어",
+    "context": "EN :\nI wanna be your fan\nJP :\nあなたのファンになりたいんだ"
+  },
+  {
+    "key": "44-content",
+    "original": "난 여전히 당신의 가장 열렬한 팬이란 말이야",
+    "context": "EN :\nI'm still your biggest fan\nJP :\n私は今でもあなたの一番のファンです"
+  },
+  {
+    "key": "45-content",
+    "original": "<style=\"dkr\">왜 어떤 이들은 이 시스템에 태어나는 순간부터",
+    "context": "EN :\n<style=\"den\">Why is it that some were given the role of villian\nJP :\nなぜ誰かしらは悪役を任されたのだろうか？"
+  },
+  {
+    "key": "46-content",
+    "original": "<style=\"dkr\">악당의 역할을 부여 받을 수밖에 없었던 걸까?",
+    "context": "EN :\n<style=\"den\">The moment they were released into this system?\nJP :\nこのシステムに放たれたその瞬間から"
+  },
+  {
+    "key": "47-content",
+    "original": "일어서",
+    "context": "EN :\nStand up\nJP :\n立ち上がって"
+  },
+  {
+    "key": "48-content",
+    "original": "달려나가",
+    "context": "EN :\nGallop on\nJP :\n駆け抜けて"
+  },
+  {
+    "key": "49-content",
+    "original": "자기연민에 파묻혀서는 아무 일도 일어나지 않아",
+    "context": "EN :\nNothing can be done by feeling so sorry for myself\nJP :\n自分を哀れんでばかりじゃ何も始まらない"
+  },
+  {
+    "key": "50-content",
+    "original": "영웅",
+    "context": "EN :\nHero\nJP :\n英雄"
+  },
+  {
+    "key": "51-content",
+    "original": "플라스틱 말을 타고",
+    "context": "EN :\nOn a plastic horse\nJP :\n張りぼての馬に乗って"
+  },
+  {
+    "key": "52-content",
+    "original": "진짜인듯 싸워나가네",
+    "context": "EN :\nFighting like it's real\nJP :\n本物みたいに戦い抜いていくんだ"
+  },
+  {
+    "key": "53-content",
+    "original": "골판지 검을 든 채로",
+    "context": "EN :\nWith a cardboard sword\nJP :\n段ボールの剣を手に"
+  },
+  {
+    "key": "54-content",
+    "original": "나도 알아",
+    "context": "EN :\nI know\nJP :\n分かってる"
+  },
+  {
+    "key": "55-content",
+    "original": "성공하든 실패하든 나는 나일 뿐",
+    "context": "EN :\nSuccessful or not, I am who I am\nJP :\n成功しても失敗しても 私は私なんだ"
+  },
+  {
+    "key": "56-content",
+    "original": "나는 나의 가장 열렬한 팬",
+    "context": "EN :\nI am my biggest fan\nJP :\n私は私の一番のファン"
+  },
+  {
+    "key": "57-content",
+    "original": "나는 나의 가장 열렬한 팬",
+    "context": "EN :\nI am my biggest fan\nJP :\n私は私の一番のファン"
+  },
+  {
+    "key": "58-content",
+    "original": "나는 나의 적이자 친구",
+    "context": "EN :\nI am my enemy and my friend\nJP :\n私は私の敵 そして友達"
+  },
+  {
+    "key": "59-content",
+    "original": "영웅",
+    "context": "EN :\nHero\nJP :\n英雄"
+  },
+  {
+    "key": "60-content",
+    "original": "증명하겠네, 나의 정의가",
+    "context": "EN :\nGonna prove my version of justice\nJP :\n証明して見せよう、私の正義が"
+  },
+  {
+    "key": "61-content",
+    "original": "그대의 것보다 정의로웠음을",
+    "context": "EN :\nIs more just than yours\nJP :\nそなたよりも正義に溢れていたことを"
+  },
+  {
+    "key": "62-content",
+    "original": "하나",
+    "context": "EN :\nUno\nJP :\nひとつ"
+  },
+  {
+    "key": "63-content",
+    "original": "이 무대 위에 남은 건 나 하나",
+    "context": "EN :\nRemaining on this stage, I am the only one\nJP :\nこの舞台の上に残ったのは私ひとり"
+  },
+  {
+    "key": "64-content",
+    "original": "나는 나의 가장 열렬한 팬",
+    "context": "EN :\nI am my biggest fan\nJP :\n私は私の一番のファン"
+  },
+  {
+    "key": "65-content",
+    "original": "나는 나의 가장 열렬한 팬",
+    "context": "EN :\nI am my biggest fan\nJP :\n私は私の一番のファン"
+  },
+  {
+    "key": "66-content",
+    "original": "나는 나의 적이자 친구",
+    "context": "EN :\nI am my enemy and my friend\nJP :\n私は私の敵 そして友達"
+  }
+]

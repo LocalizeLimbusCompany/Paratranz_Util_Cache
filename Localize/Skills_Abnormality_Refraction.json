@@ -1,0 +1,577 @@
+[
+  {
+    "key": "851001-levelList$[0].name",
+    "original": "울음 찰싹",
+    "context": "EN :\nCrying Slap\nJP :\n泣きぺちっ"
+  },
+  {
+    "key": "851001-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 정신력 -15",
+    "context": "EN :\n[WhenUse] Target loses 15 SP\nJP :\n[WhenUse] 対象の精神力を-15"
+  },
+  {
+    "key": "851001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 침잠 5, 침잠 횟수 5 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 5 Sinking and +5 Sinking Count\nJP :\n[OnSucceedAttackHead] 沈潜 5、沈潜 回数を5付与"
+  },
+  {
+    "key": "851002-levelList$[0].name",
+    "original": "우울음 철썩",
+    "context": "EN :\nGloomy Slap\nJP :\nひた泣きぺちっ"
+  },
+  {
+    "key": "851002-levelList$[0].desc",
+    "original": "[StartDuel] 대상의 정신력 +5",
+    "context": "EN :\n[StartDuel] Target heals 5 SP\nJP :\n[StartDuel] 対象の精神力を+5"
+  },
+  {
+    "key": "851002-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[AlwaysUse] 피해의 절반만큼 정신력 피해를 입힘",
+    "context": "EN :\n[AlwaysUse] Deal SP damage by half of damage displayed\nJP :\n[AlwaysUse] ダメージの半分を精神力ダメージとして与える"
+  },
+  {
+    "key": "851002-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[AlwaysUse] 피해는 0이 됨",
+    "context": "EN :\n[AlwaysUse] No HP damage is dealt\nJP :\n[AlwaysUse] ダメージが0になる"
+  },
+  {
+    "key": "851003-levelList$[0].name",
+    "original": "녹아내릴 눈알",
+    "context": "EN :\nMelty Eyeball\nJP :\n溶け落ちる目玉"
+  },
+  {
+    "key": "851003-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 정신력 -5\n정신력이 0 미만인 대상 공격 시 피해량 +10%",
+    "context": "EN :\n[WhenUse] Target loses 5 SP\nIf target’s SP is below 0, +10% Damage\nJP :\n[WhenUse] 対象の精神力を-5\n精神力が0未満の対象を攻撃時、ダメージ量 +10%"
+  },
+  {
+    "key": "851003-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 침잠만큼 추가 체력 피해",
+    "context": "EN :\n[OnSucceedAttackHead] Deal bonus damage by target’s Sinking\nJP :\n[OnSucceedAttackHead] 沈潜分の追加ダメージ"
+  },
+  {
+    "key": "851003-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 침잠만큼 추가 정신력 피해",
+    "context": "EN :\n[OnSucceedAttackHead] Deal bonus SP damage by target’s Sinking\nJP :\n[OnSucceedAttackHead] 沈潜分の追加精神力ダメージ"
+  },
+  {
+    "key": "851004-levelList$[0].name",
+    "original": "몰아치는 우울",
+    "context": "EN :\nGushing Gloom\nJP :\n押し寄せる憂鬱"
+  },
+  {
+    "key": "851004-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 정신력 -5\n침잠이 가장 많은 대상 우선 공격",
+    "context": "EN :\n[WhenUse] Target loses 5 SP\nTargets the enemy with the most Sinking\nJP :\n[WhenUse] 対象の精神力を-5\n沈潜が多い対象を優先して攻撃"
+  },
+  {
+    "key": "851004-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数3を付与"
+  },
+  {
+    "key": "851004-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 침잠만큼 추가 체력 피해",
+    "context": "EN :\n[OnSucceedAttackHead] Deal bonus damage by target’s Sinking\nJP :\n[OnSucceedAttackHead] 沈潜分の追加ダメージ"
+  },
+  {
+    "key": "851004-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 침잠만큼 추가 정신력 피해",
+    "context": "EN :\n[OnSucceedAttackHead] Deal bonus SP damage by target’s Sinking\nJP :\n[OnSucceedAttackHead] 沈潜分の追加精神力ダメージ"
+  },
+  {
+    "key": "851005-levelList$[0].name",
+    "original": "눈알추",
+    "context": "EN :\nEyeball Weight\nJP :\n目玉の重り"
+  },
+  {
+    "key": "851005-levelList$[0].desc",
+    "original": "[DefeatDuel] 모든 스킬 취소.\n[DefeatDuel] 취약 3 얻음\n정신력이 0 미만인 대상 공격 시 피해량 +10%",
+    "context": "EN :\n[DefeatDuel] Cancel all skills\n[DefeatDuel] Gain 3 Fragile\nIf the target is below 0 SP, +10% Damage\nJP :\n[DefeatDuel] 全スキルをキャンセル\n[DefeatDuel] 脆弱 3を得る\n精神力が0未満の対象を攻撃時、ダメージ量 +10%"
+  },
+  {
+    "key": "851005-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 대상이 가지고 있는 침잠, 침잠 횟수를 2배로 만듦",
+    "context": "EN :\n[OnSucceedAttackHead] Double target’s Sinking and its Count\nJP :\n[OnSucceedAttackHead] 対象が持つ沈潜 、沈潜 回数を2倍にする"
+  },
+  {
+    "key": "851006-levelList$[0].name",
+    "original": "녹아내린 눈알",
+    "context": "EN :\nMelted Eyeball\nJP :\n溶け落ちた目玉"
+  },
+  {
+    "key": "851006-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 정신력 -5\n정신력이 0 미만인 대상 공격 시 피해량 +10%",
+    "context": "EN :\n[WhenUse] Target loses 5 SP\nIf target’s SP is below 0, +10% Damage\nJP :\n[WhenUse] 対象の精神力を-5\n精神力が0未満の対象を攻撃時、ダメージ量 +10%"
+  },
+  {
+    "key": "851006-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 침잠만큼 추가 정신력 피해",
+    "context": "EN :\n[OnSucceedAttackHead] Deal bonus SP damage by target’s Sinking\nJP :\n[OnSucceedAttackHead] 沈潜 分の追加精神力ダメージ"
+  },
+  {
+    "key": "851007-levelList$[0].name",
+    "original": "녹아내린 눈알",
+    "context": "EN :\nMelted Eyeball\nJP :\n溶け落ちた目玉"
+  },
+  {
+    "key": "851007-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 정신력 -5\n정신력이 0 미만인 대상 공격 시 피해량 +10%",
+    "context": "EN :\n[WhenUse] Target loses 5 SP\nIf target’s SP is below 0, +10% Damage\nJP :\n[WhenUse] 対象の精神力を-5\n精神力が0未満の対象を攻撃時、ダメージ量 +10%"
+  },
+  {
+    "key": "851007-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 침잠만큼 추가 체력 피해",
+    "context": "EN :\n[OnSucceedAttackHead] Deal bonus damage by target’s Sinking\nJP :\n[OnSucceedAttackHead] 沈潜 分の追加ダメージ"
+  },
+  {
+    "key": "851008-levelList$[0].name",
+    "original": "꾸엉",
+    "context": "EN :\nCroohoo\nJP :\nぐぇん"
+  },
+  {
+    "key": "851008-levelList$[0].desc",
+    "original": "[StartBattle] 보호 2 얻음",
+    "context": "EN :\n[StartBattle] Gain 2 Protection\nJP :\n[StartBattle] 保護 2を得る"
+  },
+  {
+    "key": "851901-levelList$[0].name",
+    "original": "마을 견학 캠페인 준비",
+    "context": "EN :\nBooting Town Tour\nJP :\n町見学キャンペーン準備"
+  },
+  {
+    "key": "851901-levelList$[0].desc",
+    "original": "[WhenUse] 충전 횟수 4 증가",
+    "context": "EN :\n[WhenUse] Gain +4 Charge Count\nJP :\n[WhenUse] 充電 回数が4増加"
+  },
+  {
+    "key": "851902-levelList$[0].name",
+    "original": "견학 환영 인사",
+    "context": "EN :\nWelcome to the Tour\nJP :\n見学歓迎の挨拶"
+  },
+  {
+    "key": "851902-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 더하기 코인 약화 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn\nJP :\n[OnSucceedAttackHead] 次のターンに加算コイン弱化 1を付与"
+  },
+  {
+    "key": "851903-levelList$[0].name",
+    "original": "협조하십시오!",
+    "context": "EN :\nPlease Cooperate!\nJP :\nご協力ください！"
+  },
+  {
+    "key": "851903-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 3を付与"
+  },
+  {
+    "key": "851904-levelList$[0].name",
+    "original": "전입 신고 처리",
+    "context": "EN :\nProcessing Transfer Reg\nJP :\n転入届の処理"
+  },
+  {
+    "key": "851904-levelList$[0].desc",
+    "original": "[WhenUse] 충전 횟수 전부 소모",
+    "context": "EN :\n[WhenUse] Spend all Charge Count\nJP :\n[WhenUse] 充電回数を全て消耗"
+  },
+  {
+    "key": "851904-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 구속 부여.",
+    "context": "EN :\n[OnSucceedAttack] Put target in Captivity\nJP :\n[OnSucceedAttack] 対象に拘束 を付与"
+  },
+  {
+    "key": "851905-levelList$[0].name",
+    "original": "이제부터 잘 부탁드려요. 이웃씨",
+    "context": "EN :\nPleased to Meet You, Dear Neighbor\nJP :\nこれからよろしくお願いします、お隣さん"
+  },
+  {
+    "key": "851905-levelList$[0].desc",
+    "original": "[CantDuel]\n잡고 있는 대상 공격",
+    "context": "EN :\n[CantDuel]\nAttacks target in Captivity\nJP :\n[CantDuel]\n掴んでいる対象を攻撃"
+  },
+  {
+    "key": "851905-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 화상 10 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 10 Burn\nJP :\n[OnSucceedAttack] 火傷 10を付与"
+  },
+  {
+    "key": "851906-levelList$[0].name",
+    "original": "시스템 이상 감지",
+    "context": "EN :\nSystem Error Detected\nJP :\nシステム異常感知"
+  },
+  {
+    "key": "851906-levelList$[0].desc",
+    "original": "다음 턴에 흐트러짐 상태가 됨",
+    "context": "EN :\nBecome Staggered next turn\nJP :\n次のターンに混乱状態になる"
+  },
+  {
+    "key": "851906-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 충전 횟수 2소모하여, 화상 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Spend 2 Charge to inflict 5 Burn\nJP :\n[OnSucceedAttack] 充電 回数を2消耗し、火傷 5を付与"
+  },
+  {
+    "key": "851906-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 충전 횟수 2소모하여, 화상 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Spend 2 Charge to inflict 5 Burn\nJP :\n[OnSucceedAttack] 充電 回数を2消耗し、火傷 5を付与"
+  },
+  {
+    "key": "851907-levelList$[0].name",
+    "original": "전산 처리 진행 중",
+    "context": "EN :\nProcessing Computation\nJP :\n電算処理進行中"
+  },
+  {
+    "key": "851907-levelList$[0].desc",
+    "original": "[WhenUse] 보호 5를 얻음",
+    "context": "EN :\n[WhenUse] Gain 5 Protection\nJP :\n[WhenUse] 保護 5を得る"
+  },
+  {
+    "key": "851908-levelList$[0].name",
+    "original": "재부팅 중...",
+    "context": "EN :\nRebooting…\nJP :\nリブート中…"
+  },
+  {
+    "key": "851909-levelList$[0].name",
+    "original": "신규 전입 신고 처리",
+    "context": "EN :\nProcessing Transfer Reg\nJP :\n新規転入届の処理"
+  },
+  {
+    "key": "851909-levelList$[0].desc",
+    "original": "[CantDuel]\n[CantChangeTarget]\n체력이 가장 많은 대상 공격\n[WhenUse] 충전 전부 소모",
+    "context": "EN :\n[CantDuel]\n[CantChangeTarget]\nTargets unit with most HP\n[WhenUse] Spend all Charge\nJP :\n[CantDuel]\n[CantChangeTarget]\n体力が最も多い対象を攻撃\n[WhenUse] 充電を全て消耗"
+  },
+  {
+    "key": "851909-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 구속 부여.",
+    "context": "EN :\n[OnSucceedAttack] Put target in Captivity\nJP :\n[OnSucceedAttack] 対象に拘束 を付与"
+  },
+  {
+    "key": "852101-levelList$[0].name",
+    "original": "출입 금지",
+    "context": "EN :\nDo Not Enter\nJP :\n立ち入り禁止"
+  },
+  {
+    "key": "852101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 1を付与"
+  },
+  {
+    "key": "852102-levelList$[0].name",
+    "original": "진압",
+    "context": "EN :\nSubdue\nJP :\n鎮圧"
+  },
+  {
+    "key": "852102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 3を付与"
+  },
+  {
+    "key": "852102-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が3増加"
+  },
+  {
+    "key": "852103-levelList$[0].name",
+    "original": "출입 차단",
+    "context": "EN :\nForbid Entry\nJP :\n出入り遮断"
+  },
+  {
+    "key": "852103-levelList$[0].desc",
+    "original": "[DefeatDuel] 체력 10 회복",
+    "context": "EN :\n[DefeatDuel] Heal 10 HP\nJP :\n[DefeatDuel] 体力を10回復"
+  },
+  {
+    "key": "852103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が2増加"
+  },
+  {
+    "key": "852103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 위력만큼 체력 피해\n상대 파열 전부 소모.",
+    "context": "EN :\n[OnSucceedAttackHead] Deal HP damage equal to Rupture Potency\nRemove all Rupture from target\nJP :\n[OnSucceedAttackHead] 破裂 威力だけダメージ\n対象の破裂 を全て消耗"
+  },
+  {
+    "key": "852301-levelList$[0].name",
+    "original": "거수자 발견",
+    "context": "EN :\nSuspicious Individuals\nJP :\n挙不者発見"
+  },
+  {
+    "key": "852301-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 3を付与"
+  },
+  {
+    "key": "852302-levelList$[0].name",
+    "original": "제압",
+    "context": "EN :\nRestrain\nJP :\n制圧"
+  },
+  {
+    "key": "852302-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 3を付与"
+  },
+  {
+    "key": "852303-levelList$[0].name",
+    "original": "거수자 차단",
+    "context": "EN :\nNo Trespassing\nJP :\n挙不者遮断"
+  },
+  {
+    "key": "852303-levelList$[0].desc",
+    "original": "체력이 가장 높은 대상 우선 공격",
+    "context": "EN :\nTargets the unit with the most HP\nJP :\n体力が一番多い対象を優先して攻撃"
+  },
+  {
+    "key": "852303-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "1코인이 앞면이라면 피해량 +10%",
+    "context": "EN :\nIf Coin 1 lands Heads, +10% Damage\nJP :\n1コインが表面ならダメージ量 +10%"
+  },
+  {
+    "key": "852303-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "2코인이 앞면이라면 피해량 +10%",
+    "context": "EN :\nIf Coin 2 lands Heads, +10% Damage\nJP :\n2コインが表面ならダメージ量 +10%"
+  },
+  {
+    "key": "852303-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "2, 3코인이 앞면이라면 피해량 +30%",
+    "context": "EN :\nIf Coins 2 & 3 land Heads, +30% Damage\nJP :\n2, 3コインが表面ならダメージ量 +30%"
+  },
+  {
+    "key": "852701-levelList$[0].name",
+    "original": "보시",
+    "context": "EN :\nDāna\nJP :\n布施"
+  },
+  {
+    "key": "852701-levelList$[0].desc",
+    "original": "[WhenUse] 자신을 제외한 아군 1명에게 보호 2 부여",
+    "context": "EN :\n[WhenUse] Apply 2 Protection to a random other ally\nJP :\n[WhenUse] 自分を除いた味方1名へ保護 2を付与"
+  },
+  {
+    "key": "852701-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 피해량 감소 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Damage Down next turn\nJP :\n[OnSucceedAttack] 次のターンにダメージ量減少 3を付与"
+  },
+  {
+    "key": "852702-levelList$[0].name",
+    "original": "설법",
+    "context": "EN :\nExpound Sutras\nJP :\n説法"
+  },
+  {
+    "key": "852702-levelList$[0].desc",
+    "original": "[WhenUse] 자신을 제외한 아군 1명에게 공격 위력 증가 2 부여",
+    "context": "EN :\n[WhenUse] Apply 2 Attack Power Up to a random other ally\nJP :\n[WhenUse] 自分を除いた味方1名へ攻撃威力増加 2を付与"
+  },
+  {
+    "key": "852702-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 무작위 아군 1명에게 피해량 증가 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Apply 2 Attack Power Up to a random other ally next turn\nJP :\n[OnSucceedAttack] 次のターンにて、ランダムな味方1名にダメージ量増加 2を付与"
+  },
+  {
+    "key": "852703-levelList$[0].name",
+    "original": "마하수리",
+    "context": "EN :\nMahāsrī\nJP :\n摩訶修利"
+  },
+  {
+    "key": "852703-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 보호 3 부여",
+    "context": "EN :\n[WhenUse] Give 3 Protection next turn\nJP :\n[WhenUse] 次のターンに保護 3を付与"
+  },
+  {
+    "key": "852704-levelList$[0].name",
+    "original": "사바하",
+    "context": "EN :\nSvāhā\nJP :\n娑婆訶"
+  },
+  {
+    "key": "852704-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 피해량 증가 3 부여",
+    "context": "EN :\n[WhenUse] Give 3 Damage Up next turn\nJP :\n[WhenUse] 次のターンにダメージ量増加 3を付与"
+  },
+  {
+    "key": "852705-levelList$[0].name",
+    "original": "반야바라밀",
+    "context": "EN :\nPrajñāpāramitā\nJP :\n般若波羅蜜"
+  },
+  {
+    "key": "852705-levelList$[0].desc",
+    "original": "[CantIdentify] 업보가 가장 높은 대상에게 사용\n대상의 업보에 비례하여 피해량 증가(업보당 +2%)\n업보가 없는 대상에게는 피해량 -50%",
+    "context": "EN :\n[CantIdentify] Targets the unit with the most Karma\nDeal more damage based on target’s Karma (+2% per Count)\nIf target has no Karma, -50% Damage\nJP :\n[CantIdentify] 業報 が最も高い対象に使用\n対象の業報 に比例してダメージ量が増加(業報1つにつき +2%)\n業報が無い対象にはダメージ量 -50%"
+  },
+  {
+    "key": "852705-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 업보가 있으면 업보 50 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has Karma, inflict 50 Karma\nJP :\n[OnSucceedAttack] 対象に業報がある場合、業報50を付与"
+  },
+  {
+    "key": "852706-levelList$[0].name",
+    "original": "참선",
+    "context": "EN :\nDhyāna\nJP :\n禅定"
+  },
+  {
+    "key": "852706-levelList$[0].desc",
+    "original": "[WinDuel] 자신에게 부여된 부정적 효과를 절반으로 감소시킴",
+    "context": "EN :\n[WinDuel] Halve negative status effects on this unit\nJP :\n[WinDuel] 自分に付与されたマイナス効果を半減する"
+  },
+  {
+    "key": "852706-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Attack Power Down next turn\nJP :\n[OnSucceedAttack] 次のターンに攻撃威力減少 2を付与"
+  },
+  {
+    "key": "852707-levelList$[0].name",
+    "original": "강제공양",
+    "context": "EN :\nCompulsory Offering\nJP :\n強制供養"
+  },
+  {
+    "key": "852707-levelList$[0].desc",
+    "original": "[DefeatDuel] 자신을 제외한 무작위 아군 1명에게 업보 20 부여",
+    "context": "EN :\n[DefeatDuel] Apply 20 Karma to a random other ally next turn\nJP :\n[DefeatDuel] 自分を除いたランダムな味方1名へ業報 20を付与"
+  },
+  {
+    "key": "852707-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 업보를 20 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 20 Karma\nJP :\n[OnSucceedAttack] 業報 20を付与"
+  },
+  {
+    "key": "852708-levelList$[0].name",
+    "original": "죽비타작",
+    "context": "EN :\nSluggard Waker\nJP :\n警覚策励"
+  },
+  {
+    "key": "852708-levelList$[0].desc",
+    "original": "[DefeatDuel] 자신을 제외한 무작위 아군 1명에게 업보 20 부여",
+    "context": "EN :\n[DefeatDuel] Apply 20 Karma to a random other ally next turn\nJP :\n[DefeatDuel] 自分を除いたランダムな味方1名へ業報 20を付与"
+  },
+  {
+    "key": "852708-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 업보를 10 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 10 Karma\nJP :\n[OnSucceedAttack] 業報 10を付与"
+  },
+  {
+    "key": "852708-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 업보를 10 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 10 Karma\nJP :\n[OnSucceedAttack] 業報 10を付与"
+  },
+  {
+    "key": "852709-levelList$[0].name",
+    "original": "만트라",
+    "context": "EN :\nMantra\nJP :\n曼荼羅"
+  },
+  {
+    "key": "852709-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 무작위 속성의 E.G.O 자원을 3개 제거",
+    "context": "EN :\n[OnSucceedAttack] Remove 3 E.G.O resources of a random Affinity\nJP :\n[OnSucceedAttack] ランダムな属性のE.G.O資源3つを除去"
+  },
+  {
+    "key": "852709-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 무작위 속성의 E.G.O 자원을 3개 제거",
+    "context": "EN :\n[OnSucceedAttack] Remove 3 E.G.O resources of a random Affinity\nJP :\n[OnSucceedAttack] ランダムな属性のE.G.O資源3つを除去"
+  },
+  {
+    "key": "852710-levelList$[0].name",
+    "original": "죽비타작",
+    "context": "EN :\nSluggard Waker\nJP :\n警覚策励"
+  },
+  {
+    "key": "852710-levelList$[0].desc",
+    "original": "[CantDuel]",
+    "context": "EN :\n[CantDuel]\nJP :\n[CantDuel]"
+  },
+  {
+    "key": "852710-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 순환 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Samsara\nJP :\n[OnSucceedAttack] 循環 1を付与"
+  },
+  {
+    "key": "852710-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 마비 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Paralyze next turn\nJP :\n[OnSucceedAttackHead] 次のターンに麻痺 3を付与"
+  },
+  {
+    "key": "852710-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "다음 턴에 취약 3 부여",
+    "context": "EN :\nInflict 3 Fragile next turn\nJP :\n次のターンに脆弱 3を付与"
+  },
+  {
+    "key": "852711-levelList$[0].name",
+    "original": "모제 사바하",
+    "context": "EN :\nBodhi Svāhā\nJP :\n菩提薩婆詞"
+  },
+  {
+    "key": "852711-levelList$[0].desc",
+    "original": "[WhenUse] 피해량 증가 10을 얻음\n흐트러짐 상태의 대상 우선 공격",
+    "context": "EN :\n[WhenUse] Gain 10 Damage Up\nTargets Staggered enemies first\nJP :\n[WhenUse] ダメージ量増加10を得る\n混乱状態の対象を優先攻撃"
+  },
+  {
+    "key": "852801-levelList$[0].name",
+    "original": "꿰뚫기",
+    "context": "EN :\nDrive\nJP :\n貫く"
+  },
+  {
+    "key": "852801-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 피해량 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Damage Down next turn\nJP :\n[OnSucceedAttackHead] 次のターンにダメージ量減少 1を付与"
+  },
+  {
+    "key": "852802-levelList$[0].name",
+    "original": "...씻어내노라",
+    "context": "EN :\n…Be Cleansed\nJP :\n…洗い流さん"
+  },
+  {
+    "key": "852802-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 속박 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Bind next turn\nJP :\n[OnSucceedAttackHead] 次のターンに束縛 1を付与"
+  },
+  {
+    "key": "852803-levelList$[0].name",
+    "original": "이단 단죄",
+    "context": "EN :\nInquisitional Retribution\nJP :\n異端断罪"
+  },
+  {
+    "key": "852803-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 3を付与"
+  },
+  {
+    "key": "852901-levelList$[0].name",
+    "original": "날렵하게~",
+    "context": "EN :\nRápidamente~\nJP :\n素早く～"
+  },
+  {
+    "key": "852901-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 더하기 코인 약화 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn\nJP :\n[OnSucceedAttackHead] 次のターンに加算コイン弱化 1を付与"
+  },
+  {
+    "key": "852902-levelList$[0].name",
+    "original": "파냐타 파티~!",
+    "context": "EN :\nPañata Party~!\nJP :\nパニャータパーティ～！"
+  },
+  {
+    "key": "852902-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 더하기 코인 약화 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Plus Coin Drop next turn\nJP :\n[OnSucceedAttack] 次のターンに加算コイン弱化 2を付与"
+  },
+  {
+    "key": "852902-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 취약 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Fragile next turn\nJP :\n[OnSucceedAttack] 次のターンに脆弱 1を付与"
+  },
+  {
+    "key": "853001-levelList$[0].name",
+    "original": "육체 파동",
+    "context": "EN :\nFlesh Surge\nJP :\n肉体の波動"
+  },
+  {
+    "key": "853001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 마비 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Paralyze next turn\nJP :\n[OnSucceedAttackHead] 次のターンに麻痺 2を付与"
+  },
+  {
+    "key": "853002-levelList$[0].name",
+    "original": "정신 장악",
+    "context": "EN :\nDominate Mind\nJP :\n精神掌握"
+  },
+  {
+    "key": "853002-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 피해량 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Damage Down next turn\nJP :\n[OnSucceedAttack] 次のターンにダメージ量減少 1を付与"
+  }
+]

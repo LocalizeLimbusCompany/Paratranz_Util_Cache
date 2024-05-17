@@ -1,0 +1,102 @@
+[
+  {
+    "key": "857701_abm_success_1_1-content",
+    "original": "<color=#ebcaa2>모든 수감자의</color> %{0}/% 사라짐.",
+    "context": "EN :\n<color=#ebcaa2>All Sinners</color> lose %{0}/%.\nJP :\n<color=#ebcaa2>全囚人の</color> %{0}/% 消滅。"
+  },
+  {
+    "key": "857701_abm_success_1_2-content",
+    "original": "<color=#ebcaa2>{0}</color> %{1} {2}/% 감소",
+    "context": "EN :\n<color=#ebcaa2>{0}</color> loses %{2} {1}/%\nJP :\n<color=#ebcaa2>{0}</color> %{1} {2}/% 減少"
+  },
+  {
+    "key": "857701_abm_failure_1_1-content",
+    "original": "<color=#ebcaa2>모든 수감자의</color> <color=#e30000>{0}과 {0} 횟수</color>를 각각 더해 수감자 수만큼 나눠 모든 수감자에게 <color=#e30000>{0}과 {0} 횟수</color> 횟수를 부여함. (최소 1)",
+    "context": "EN :\nAdd up <color=#ebcaa2>{0} and {0}</color> Count respectively on <color=#ebcaa2>all Sinners</color>, then divide the sum by the number of Sinners. Inflict the resulting <color=#e30000>{0} and {0} Count</color> on all Sinners. (Minimum 1)\nJP :\n<color=#ebcaa2>全囚人の</color> <color=#e30000>{0}と{0}回数</color>をそれぞれ足して囚人の数で割り、全囚人へ<color=#e30000>{0}と{0}回数</color>を付与。(最小1)"
+  },
+  {
+    "key": "857801_success_1_1-content",
+    "original": "<color=#ebcaa2>모든 수감자의</color> %{0}/% 사라짐.",
+    "context": "EN :\n<color=#ebcaa2>All Sinners</color> lose %{0}/%.\nJP :\n<color=#ebcaa2>全囚人の</color> %{0}/% 消滅。"
+  },
+  {
+    "key": "857801_success_1_2-content",
+    "original": "<color=#ebcaa2>모든 수감자의</color> <color=#80c9ff>정신력 {0} 회복</color>",
+    "context": "EN :\n<color=#ebcaa2>All Sinners</color> <color=#80c9ff>heal {0} SP.</color>\nJP :\n<color=#ebcaa2>全囚人の</color><color=#80c9ff>精神力 {0}回復</color>"
+  },
+  {
+    "key": "857801_success_1_3-content",
+    "original": "<color=#ebcaa2>{0} 수감자가 다음 턴에</color> %[{1}] {2}/% <color=#ebcaa2>얻음.</color>",
+    "context": "EN :\n<color=#ebcaa2>{0}</color> <color=#ebcaa2>gains</color> %{2} [{1}]/% next turn.\nJP :\n<color=#ebcaa2>囚人{0}が次のターンに</color> %[{1}] {2}/% <color=#ebcaa2>獲得。</color>"
+  },
+  {
+    "key": "857801_failure_1_1-content",
+    "original": "<color=#ebcaa2>{0} 수감자가</color> %[{1}] {2}/% <color=#ebcaa2>얻음.</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}]/%\nJP :\n<color=#ebcaa2>囚人{0}が</color> %[{1}] {2}/% <color=#ebcaa2>獲得。</color>"
+  },
+  {
+    "key": "857801_failure_1_2-content",
+    "original": "<color=#ebcaa2>{0} 수감자의 <color=#fe4b48>정신력 {1} 감소</color>",
+    "context": "EN :\n<color=#ebcaa2>{0}</color> <color=#fe4b48>loses {1} SP</color>\nJP :\n<color=#ebcaa2>囚人{0}の</color><color=#fe4b48>精神力 {1}減少</color>"
+  },
+  {
+    "key": "857801_failure_1_3-content",
+    "original": "<color=#ebcaa2>{0} 수감자의 <color=#e30000>체력 {1} 감소</color>",
+    "context": "EN :\n<color=#ebcaa2>{0}</color> <color=#e30000>loses {1} HP</color>\nJP :\n<color=#ebcaa2>囚人{0}の</color><color=#e30000>体力 {1}減少</color>"
+  },
+  {
+    "key": "857101_skinPredector_success_1_2-content",
+    "original": "<color=#ebcaa2>스테이지 동안 {0}</color> %{1} {2}/% <color=#ebcaa2>얻음.</color>",
+    "context": "EN :\n<color=#ebcaa2>{0}</color> <color=#ebcaa2>gains</color> %{2} {1}/% <color=#ebcaa2>for the encounter.</color>\nJP :\n<color=#ebcaa2>ステージの間、 {0}</color> %{1} {2}/% <color=#ebcaa2>獲得。</color>"
+  },
+  {
+    "key": "857101_skinPredector_success_1_3-content",
+    "original": "<color=#ebcaa2>스테이지 동안 {0}</color> %{1} {2}/%, %{3} {4}/% <color=#ebcaa2>얻음.</color>",
+    "context": "EN :\n<color=#ebcaa2>{0}</color> <color=#ebcaa2>gains</color> %{2} {1}/% and %{4} {3}/% <color=#ebcaa2>for the Encounter.</color>\nJP :\n<color=#ebcaa2>ステージの間、 {0}</color> %{1} {2}/%, %{3} {4}/% <color=#ebcaa2>獲得。</color>"
+  },
+  {
+    "key": "857101_skinPredector_failure_1_1-content",
+    "original": "<color=#ebcaa2>스테이지 동안 {0}</color> %{1} {2}/%, %{3} {4}/% <color=#ebcaa2>얻음.</color>",
+    "context": "EN :\n<color=#ebcaa2>{0}</color> <color=#ebcaa2>gains</color> %{2} {1}/% and %{4} {3}/% <color=#ebcaa2>for the Encounter.</color>\nJP :\n<color=#ebcaa2>ステージの間、 {0}</color> %{1} {2}/%, %{3} {4}/% <color=#ebcaa2>獲得。</color>"
+  },
+  {
+    "key": "857101_skinPredector_failure_1_2-content",
+    "original": "<color=#ebcaa2>모든 수감자가</color> %{0} {1}/%, %{2} {3}/% <color=#ebcaa2>얻음.</color>",
+    "context": "EN :\n<color=#ebcaa2>All Sinners</color> <color=#ebcaa2>gain</color> %{1} {0}/% and %{3} {2}/%.\nJP :\n<color=#ebcaa2>全囚人が</color> %{0} {1}/%, %{2} {3}/% <color=#ebcaa2>獲得。</color>"
+  },
+  {
+    "key": "858501_soc_success_1_1-content",
+    "original": "<color=#ebcaa2>{0} {1}</color> <color=#ebcaa2>내성 1.5로 변경</color>",
+    "context": "EN :\n<color=#ebcaa2>{0}'s {1}</color> <color=#ebcaa2>Resistance becomes 1.5</color>\nJP :\n<color=#ebcaa2>{0} {1}</color> <color=#ebcaa2>耐性1.5へ変更</color>"
+  },
+  {
+    "key": "858501_soc_failure_1_1-content",
+    "original": "<color=#ebcaa2>{0}</color> <color=#e30000>체력 {1} 피해</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000> takes {1} HP damage</color>\nJP :\n<color=#ebcaa2>{0}</color><color=#e30000> {1}ダメージ<color>"
+  },
+  {
+    "key": "858501_soc_failure_1_2-content",
+    "original": "<color=#ebcaa2>{0}</color> <color=#fe4b48>정신력 {1} 피해</color>",
+    "context": "EN :\n<color=#ebcaa2>{0}</color> <color=#fe4b48>takes {1} SP damage</color>\nJP :\n<color=#ebcaa2>{0}</color><color=#e30000>精神力 {1}ダメージ<color>"
+  },
+  {
+    "key": "858502_soc_success_1_1-content",
+    "original": "<color=#ebcaa2>{0} {1}</color> <color=#ebcaa2>내성 1.5로 변경</color>",
+    "context": "EN :\n<color=#ebcaa2>{0}'s {1}</color> <color=#ebcaa2>Resistance becomes 1.5</color>\nJP :\n<color=#ebcaa2>{0} {1}</color> <color=#ebcaa2>耐性1.5へ変更</color>"
+  },
+  {
+    "key": "858502_soc_failure_1_1-content",
+    "original": "<color=#ebcaa2>{0}</color> <color=#e30000>체력 {1} 피해</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000> takes {1} HP damage</color>\nJP :\n<color=#ebcaa2>{0}</color><color=#e30000> {1}ダメージ<color>"
+  },
+  {
+    "key": "858502_soc_failure_1_2-content",
+    "original": "<color=#ebcaa2>{0}</color> <color=#fe4b48>정신력 {1} 피해</color>",
+    "context": "EN :\n<color=#ebcaa2>{0}</color> <color=#fe4b48>takes {1} SP damage</color>\nJP :\n<color=#ebcaa2>{0}</color><color=#e30000>精神力 {1}ダメージ<color>"
+  },
+  {
+    "key": "858502_soc_failure_1_3-content",
+    "original": "<color=#ebcaa2>{0}</color> %{1} {2}/% <color=#ebcaa2>얻음.</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} {1}/%\nJP :\n<color=#ebcaa2>{0}</color> %{1} {2}/% <color=#ebcaa2>獲得。</color>"
+  }
+]

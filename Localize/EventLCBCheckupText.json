@@ -1,0 +1,82 @@
+[
+  {
+    "key": "lcb_checkup_stagebutton_not_clear-content",
+    "original": "7-36 클리어 시 개방",
+    "context": "EN :\nClear 7-36 to Unlock\nJP :\n7-36クリア時に解放"
+  },
+  {
+    "key": "lcb_checkup_stagebutton_normal-content",
+    "original": "스테이지",
+    "context": "EN :\nStages\nJP :\nステージ"
+  },
+  {
+    "key": "lcb_checkup_stagebutton_end_event-content",
+    "original": "이벤트 기간 종료",
+    "context": "EN :\nEvent Closed\nJP :\nイベント期間終了"
+  },
+  {
+    "key": "lcb_checkup_storybutton_before_start-content",
+    "original": "<size=75%>이벤트 첫 번째 이야기\n감상 시 개방</size>",
+    "context": "EN :\n<size=75%>View the 1st event Story Stage \nto Unlock</size>\nJP :\n<size=75%>イベントストーリー1話を\n閲覧時に解放</size>"
+  },
+  {
+    "key": "lcb_checkup_storybutton_normal-content",
+    "original": "상영관 이동",
+    "context": "EN :\nTo Theater\nJP :\n上映館へ移動"
+  },
+  {
+    "key": "lcb_checkup_rewardShopButton-content",
+    "original": "보상 교환",
+    "context": "EN :\nReward Exchange\nJP :\n報酬交換"
+  },
+  {
+    "key": "lcb_checkup_scrap_guide_title-content",
+    "original": "이벤트 재화 안내",
+    "context": "EN :\nEvent Currency Guide\nJP :\nイベントアイテムのご案内"
+  },
+  {
+    "key": "lcb_checkup_scrap_guide_desc-content",
+    "original": "!!! 이거 사용하는 곳 없는지 확인하고 없으면 제거 !!! 이벤트와 주요 이야기의 스테이지 또는 거울 던전을 클리어하면 낮은 확률로<color=#ff99e6>[기밀서류]</color>를 획득할 수 있습니다.\n\n<color=#ff99e6>[기밀서류]</color>는 획득 즉시, <color=#ff99e6>[정보서류]</color> 20개로 전환됩니다.",
+    "context": "EN :\n!!! 이거 사용하는 곳 없는지 확인하고 없으면 제거 !!! Rarely, you may obtain <color=#ff99e6>[Classified Data]</color> from clearing Event Stages, Main Story Stages, or Mirror Dungeons.\n\n<color=#ff99e6>[Classified Data]</color> is converted to 20 <color=#ff99e6>[Amassed Data] immediately upon acquisition</color>.\nJP :\n!!! 이거 사용하는 곳 없는지 확인하고 없으면 제거 !!!イベント、メインストーリーのステージ、または鏡ダンジョンをクリアすると低確率で<color=#ff99e6>[機密書類]</color>を獲得することができます。\n\n<color=#ff99e6>[機密書類]</color>は獲得時、<color=#ff99e6>[情報書類]</color>20個に即変換されます。"
+  },
+  {
+    "key": "lcb_checkup_rewardpage_desc-content",
+    "original": "이벤트 스테이지와 주요 이야기 최초 클리어,\n거울 던전 클리어를 통해 <color=#ac1605>[정보서류]</color>를 획득할 수 있으며,\n낮은 확률로 <color=#ac1605>[기밀서류]</color>를 추가로 획득할 수 있습니다.\n\n<color=#ac1605>[기밀서류]</color>는 획득 즉시, <color=#ac1605>[정보서류]</color> 20개로 전환됩니다.",
+    "context": "EN :\nYou can obtain <color=#ac1605>[Amassed Data]</color> from first-time Event/Main Story Stages completions, or by clearing the the Mirror Dungeon.\nYou also have a small chance to obtain <color=#ac1605>[Classified Data]</color> in the process.\n\n<color=#ac1605>[Classified Data]</color> is immediately converted to 20 <color=#ac1605>[Amassed Data]</color> upon acquisition.\nJP :\nイベントステージとメインストーリーの初回クリア、\n鏡ダンジョンクリアを通じて<color=#ac1605>[情報書類]</color>を獲得でき、\n低確率で<color=#ac1605>[機密書類]</color>を追加で獲得することができます。\n\n<color=#ac1605>[機密書類]</color>は獲得すると<color=#ac1605>[情報書類]</color>20個に即変換されます。"
+  },
+  {
+    "key": "lcb_checkup_reward_popup_desc-content",
+    "original": "이벤트 스테이지와 주요 이야기 최초 클리어, 거울 던전 클리어를 통해 <color=#ac1605>[정보서류]</color>를 획득할 수 있습니다.\n\n<color=#ac1605>[보상 교환]</color>창에서 <color=#ac1605>[정보서류]</color>를 지불하여 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nEarn <color=#ac1605>[Amassed Data]</color> via the following methods:\nFirst-time Event Stage & Dungeon clears and Mirror Dungeon clears.\n\nIn the <color=#ac1605>[Reward Exchange]</color> window, you can purchase various rewards\nby spending <color=#ac1605>[Amassed Data]</color> you have collected.\nJP :\nイベントステージとメインストーリー初回クリア、鏡ダンジョンクリアを通じて<color=#ac1605>[情報書類]</color>を獲得できます。\n\n<color=#ac1605>[報酬交換]</color>ウィンドウより<color=#ac1605>[情報書類]</color>を支払い、様々な報酬を獲得できます。"
+  },
+  {
+    "key": "lcb_checkup_reward_popup_num_of_owned_items-content",
+    "original": "보유 아이템 수",
+    "context": "EN :\nItems Owned\nJP :\n保有アイテム数"
+  },
+  {
+    "key": "lcb_checkup_bonusUI_Title-content",
+    "original": "증가",
+    "context": "EN :\nGain\nJP :\n増加"
+  },
+  {
+    "key": "lcb_checkup_bonusUI_Title_contain_false-content",
+    "original": "미보유",
+    "context": "EN :\nNot Owned\nJP :\n未保有"
+  },
+  {
+    "key": "lcb_checkup_bonusUI_Desc-content",
+    "original": "이벤트 기간 동안 해당 인격 및 E.G.O 편성 시, <color=#ac1605>[정보서류]</color>의 획득량이 상승합니다.\n획득량 상승치 합계는 최대 <color=#ac1605>120%</color>까지 적용됩니다.",
+    "context": "EN :\nDuring the event period, deploying the following Identities or E.G.O on your team will\nboost the amount of <color=#ac1605>[Amassed Data]</color> earned.\nYou can earn a maximum of <color=#ac1605>120%</color> boost to the amount of event currency earned.\nJP :\nイベント期間中、該当人格・E.G.Oを編成すると<color=#ac1605>[情報書類]</color>の獲得量が上昇します。\n獲得量上昇値の合計は、最大<color=#ac1605>120%</color>まで適用されます。"
+  },
+  {
+    "key": "lcb_checkup_bonus_popup_title-content",
+    "original": "이벤트 특화 대상",
+    "context": "EN :\nEvent Bonus Units\nJP :\nイベント特化対象"
+  },
+  {
+    "key": "lcb_checkup_bonus_preview-content",
+    "original": "이벤트 특화 대상",
+    "context": "EN :\nEvent Bonus Units\nJP :\nイベント特化対象"
+  }
+]

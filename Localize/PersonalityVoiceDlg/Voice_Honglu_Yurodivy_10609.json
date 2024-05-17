@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10609_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10609_1-dlg",
+    "original": "여기가 살인 사건 현장이군요? 음~ 이런 아마추어같은 마무리를 해두고 가다니, 어지간히 시간에 쫓겼나 봐요?",
+    "context": "EN :\nSo this is the murder scene?\nHmm... What an amateurish finish... They must've been really pressed for time.\nJP :\nここが殺人現場ですね？う～ん、こんなアマチュアみたいに仕上げて行っちゃうだなんて、かなり時間に追われてたみたいですね？"
+  },
+  {
+    "key": "lobby_morning_10609_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10609_1-dlg",
+    "original": "좋은 아침이네요~ 바깥 공기가 매캐하죠? 이 주변이 좀 그런 것 같더라고요.",
+    "context": "EN :\nGood morning~ The air's a bit smoggy today, isn't it? I guess that's just how it is around here.\nJP :\n良い朝です～。外の空気が煙たいですよね？この周辺はそんな感じらしいですね。"
+  },
+  {
+    "key": "lobby_noon_10609_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10609_1-dlg",
+    "original": "해가 가장 따스하게 내리쬐는 시간이네요. 세상 모든 게 불평등하게 조여져 있지만, 적어도 햇살만큼은 공평하게 내리쬔다는 기분이 들지 않나요?",
+    "context": "EN :\nThis is the hour when the sun is its warmest. Though the world is like one big machine bolted together by screws of inequality, at least the sunlight feels pretty fair, hmm?\nJP :\n太陽が一番暖かに降り注ぐ時間ですね。世界の全てが不平等に締め付けられてはいますが、少なくとも日差しだけは公平に照りつけてくるような気がしませんか？"
+  },
+  {
+    "key": "lobby_night_10609_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10609_1-dlg",
+    "original": "…아! 당신이셨군요? 밤에는 얼굴을 잘 보이게 하고 다니셔야 해요~ 깜빡 착각하면, 재분배의 대상인 줄 착각해 버린다니까요? 하하.",
+    "context": "EN :\n... Oh! It's you! Don't hide your face at night, okay~? I almost mistook you for someone who deserves... redistribution. Ha ha.\nJP :\n…あっ！あなただったんですね？夜は顔がよく見えるようにしてくださいよ～。もし間違えたら、再分配の対象だって勘違いするかもしれないんですよ？あはは。"
+  },
+  {
+    "key": "smalltalk_10609_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10609_1-dlg",
+    "original": "이제는 유로지비라는 단체가 워낙 넓게 퍼져버려서요. 음~ 목에 두른 이 스카프를 빼면, 사실 서로 유로지비인지 알아채기도 어려울걸요?",
+    "context": "EN :\nThe Yurodiviye's spread so far and wide now. Mm~ at this point, we pretty much have to resort to recognizing each other by this scarf around our necks!\nJP :\n今やユロージヴィって団体がかなり広まっちゃってますからね。う～ん、首に巻いたこのスカーフを取れば、実のところユロージヴィだって気付くのは難しいと思いますよ？"
+  },
+  {
+    "key": "smalltalk_10609_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10609_2-dlg",
+    "original": "음… 저희 단체를 너무 어렵게 보실 필요는 없어요. 둥지와 날개에 불만을 가진 사람은 도시 어디에나 있고, 그분들 중에서도~ 조금 행동력이 뛰어나신 분들이 유로지비를 찾는 것뿐이죠.",
+    "context": "EN :\nHm... there's nothing too complicated about our organization. The City is chock-full of people unhappy about the way things are, about the way the Wings are. We're just a collective of the same-minded, unhappy people with a bit more... initiative.\nJP :\nうーん…僕たちの団体をそこまでややこしいものだって思う必要はないですよ。巣と翼に不満を持つ人は都市のどこにでもいますし、そんな方々の中でも～少し行動力が優れた方々がユロージヴィへと訪れるだけです。"
+  },
+  {
+    "key": "smalltalk_10609_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10609_3-dlg",
+    "original": "이 단안경은 예전에 공방에서 일했던 저희 구성원 분이 고안해 낸 것이랍니다. 이렇게 레버를 돌리면… 궁금했던 현상을 더 정확하게 관찰할 수 있죠!",
+    "context": "EN :\nThis monocle was invented by one of our comrades who used to be employed at a Workshop. Look. When I rotate the dial here... I can get a better look at things that pique my curiosity!\nJP :\nこのモノクルは昔工房で働いていたうちの構成員の方が考案した物なんですよ。こうやってレバーを回すと…気になる現象をより正確に観察できるんです！"
+  },
+  {
+    "key": "smalltalk_10609_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10609_4-dlg",
+    "original": "자… 사건을 재구성해 볼까요. 이 부근에 나 있는 날붙이의 흔적과 혈흔의 각도. 굳어버린 진흙을 단안경에 담아보면~\n여기가 목숨이 끊기던 지점이겠군요.",
+    "context": "EN :\nAll right... let's connect the threads of evidence together. This area is clearly marked by a sharp object. Look at the angle of the blood splatters. And now, the dried mud here. Let's see how they appear through my monocle...\n... Ah, this is exact spot where the victim drew his final breath.\nJP :\nさぁ…事件を再構成してみましょうか。この付近に付いてる刃物の跡と血痕の角度。固まった泥をモノクルに写せば～。\nここが命が絶えた場所でしょうね。"
+  },
+  {
+    "key": "smalltalk_10609_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10609_5-dlg",
+    "original": "이런 사건을 정리하는 데에 둥지나 날개의 개입은 반드시 막아야죠. 유로지비끼리의 일은 유로지비 안에서.\n저희끼리도 가끔 의견이 맞지 않을 때가 있으니까~ 이런 사건도 왕왕 있곤 한답니다~",
+    "context": "EN :\nWe can't involve the Nests or the Wings in this case. Whatever a Yurodivy does... stays in the Yurodiviye.\nDisagreements are inevitable, you know? Things like this are bound to happen once in a while~\nJP :\nこんな事件を整理するにあたって、巣や翼の介入は必ず防がないとですね。ユロージヴィのことはユロージヴィの中で。\n僕たち同士でもたまに意見が合わないときがあるから～こんな事件も往々にしてあるんですよ～。"
+  },
+  {
+    "key": "neglect_10609_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10609_1-dlg",
+    "original": "음~ 흠~ 아, 사탕이 다 녹아 버렸네…",
+    "context": "EN :\nMm~ Hm~ Ah, my lollipop's gone.\nJP :\nう～ん、ふ～む。あっ、飴がぜんぶ溶けちゃった…。"
+  },
+  {
+    "key": "gacksung_10609_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10609_1-dlg",
+    "original": "자… 나를 범인이라고 생각하고… 여기서 있었던 일을 천천히 상상해보면…\n후훗, 결국 진상을 파악할 수 있겠죠?",
+    "context": "EN :\nOkay, let's think. How would I do this, if I was the killer? I just have to slowly think it through, and...\n... Hehe, I suppose I'll find the truth sooner or later, hm?\nJP :\nさぁ…僕を犯人だって思って…ここで起こった出来事をゆっくり想像してみれば…。\nふふっ、そのうち真相が分かるんじゃないですかね？"
+  },
+  {
+    "key": "formation_10609_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10609_1-dlg",
+    "original": "흐음, 가볼까요?",
+    "context": "EN :\nHmm, shall we get a move on?\nJP :\nふぅむ、行ってみましょうか？"
+  },
+  {
+    "key": "battleentry_10609_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10609_1-dlg",
+    "original": "사건 속으로.",
+    "context": "EN :\nInto the case.\nJP :\n時間の中へ。"
+  },
+  {
+    "key": "battle_select_10609_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10609_1-dlg",
+    "original": "이 사건에 궁금한 점이 생기셨나요?",
+    "context": "EN :\nIs there anything you'd like to know about the case?\nJP :\nこの事件に気になる点でも生じましたか？"
+  },
+  {
+    "key": "battle_endcommand_10609_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10609_1-dlg",
+    "original": "직접 타도하죠!",
+    "context": "EN :\nWe'll bring them down with our own hands!\nJP :\n手ずから打倒しましょうか！"
+  },
+  {
+    "key": "battle_enemy_break_10609_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10609_1-dlg",
+    "original": "대의에 거스르지 말고~",
+    "context": "EN :\nDon't fight the great cause~\nJP :\n大義には逆らわず～。"
+  },
+  {
+    "key": "battle_break_10609_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10609_1-dlg",
+    "original": "읏… 아이쿠.",
+    "context": "EN :\nNgh… Oh dear.\nJP :\nうっ…おっと。"
+  },
+  {
+    "key": "battle_kill_10609_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10609_1-dlg",
+    "original": "편하게, 가자구요?",
+    "context": "EN :\nAnd make this easy for all of us, okay?\nJP :\n楽に、やりましょうよ？"
+  },
+  {
+    "key": "battle_dead_10609_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10609_1-dlg",
+    "original": "아… 결국… 저는 이렇게 침묵해 버리나요…",
+    "context": "EN :\nAh... so this... is how I'm silenced...\nJP :\nあぁ…結局…僕はこうやって沈黙してしまうんですか…。"
+  },
+  {
+    "key": "choice_success_p_10609_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10609_2-dlg",
+    "original": "이 렌즈 너머로는 항상 정답이 보인다구요~",
+    "context": "EN :\nThe answer always reveals itself past this lens~\nJP :\nこのレンズ越しにはいつだって正解が見えるんですよ～。"
+  },
+  {
+    "key": "choice_fail_n_10609_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10609_1-dlg",
+    "original": "어라라… 이게 아닌가요?",
+    "context": "EN :\nWhoops... I guess this wasn't it?\nJP :\nあれれ…これじゃないんですか？"
+  },
+  {
+    "key": "battle_clear_10609_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10609_1-dlg",
+    "original": "만족스러운 활동이었어요. 음~ 여기는… 이렇게 두면 나중에 저희에게 불리한 증언이 나오겠어요. 치울까요?",
+    "context": "EN :\nAh, that was very satisfying. Mm~ You know, this mess we left behind actually looks pretty bad. It might even lead to someone testifying against us. Shall I clean it up?\nJP :\n満足できる活動でした。う～ん、ここは…。このまま放っておけば後々僕たちに不利な証言が出てきそうですね。片付けますか？"
+  },
+  {
+    "key": "battle_clear_ex_10609_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10609_1-dlg",
+    "original": "대의에 맞서는 자들을 확실하게 굴복시켰죠! 흠… 그럼 다음 타겟을 설정해 볼까요.",
+    "context": "EN :\nWe sure showed them what happens to those who resist the great cause! Hm... what should we target next?\nJP :\n大義に歯向かう者たちを確実に屈服させました！ふむ…それじゃあ次のターゲットを決めましょうか。"
+  },
+  {
+    "key": "battle_defeat_10609_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10609_1-dlg",
+    "original": "뭐… 괜찮아요. 유로지비는 승리보다 패배가 익숙한 집단이니까요. 대신 큰 승리를 위해 지독히 많은 도전을 할 뿐이랍니다!",
+    "context": "EN :\nWell... It's okay. The Yurodiviye is no stranger to failures. But we're nothing if not persistent. We'll keep trying, trying, and trying again for the great triumph!\nJP :\nまぁ…大丈夫です。ユロージヴィは勝利よりかは敗北に慣れた集団ですからね。その代わり、大きな勝利のために段違いの挑戦をするだけです！"
+  }
+]

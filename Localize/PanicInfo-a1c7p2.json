@@ -1,0 +1,32 @@
+[
+  {
+    "key": "1030-panicName",
+    "original": "허무의 굴레",
+    "context": "EN :\nBridle of Nihility\nJP :\n虚無のくびき"
+  },
+  {
+    "key": "1030-lowMoraleDescription",
+    "original": "턴 시작 시, [Enhancement] 1, [DefenseDown] 3 얻음. 턴 종료 시, 정신력 5 피해.",
+    "context": "EN :\nTurn Start: gain 1 [Enhancement] and 3 [DefenseDown]. Take 5 SP at Turn End.\nJP :\nターン開始時、[Enhancement]1, [DefenseDown]3を得る。ターン終了時に精神力に5ダメージ"
+  },
+  {
+    "key": "1030-panicDescription",
+    "original": "턴 시작 시, [Enhancement] 2, [DefenseDown] 6 얻음. 턴 종료 시, 정신력 10 회복.",
+    "context": "EN :\nTurn Start: gain 2 [Enhancement] and 6 [DefenseDown]. Heal 10 SP at Turn End.\nJP :\nターン開始時、[Enhancement]2, [DefenseDown]6を得る。ターン終了時に精神力を10回復"
+  },
+  {
+    "key": "9996-panicName",
+    "original": "가시",
+    "context": "EN :\nThorns\nJP :\n棘"
+  },
+  {
+    "key": "9996-lowMoraleDescription",
+    "original": "합 승리 시, [AttackDmgUp] 1 얻음",
+    "context": "EN :\nOn Clash Win, gain 1 [AttackDmgUp]\nJP :\nマッチ勝利時、[AttackDmgUp]1を得る"
+  },
+  {
+    "key": "9996-panicDescription",
+    "original": "합 승리 시, [AttackDmgUp] 1 얻음. 턴 종료 시, 다음 턴에 [ParryingResultUp] 2 얻음.",
+    "context": "EN :\nOn Clash Win, gain 1 [AttackDmgUp]. At Turn End, gain 2 [ParryingResultUp] next turn.\nJP :\nマッチ勝利時、[AttackDmgUp]1を得る。ターン終了時、次のターンの間[ParryingResultUp]2を得る。"
+  }
+]

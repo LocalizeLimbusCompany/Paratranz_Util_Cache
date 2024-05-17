@@ -1,0 +1,27 @@
+[
+  {
+    "key": "event_judgement_above-content",
+    "original": "<color=#f8c200>유리</color> 판정",
+    "context": "EN :\n<color=#f8c200>Advantage</color>\nJP :\n<color=#f8c200>有利</color>判定"
+  },
+  {
+    "key": "event_judgement_below-content",
+    "original": "<color=#e30000>불리</color> 판정",
+    "context": "EN :\n<color=#e30000>Disadvantage</color>\nJP :\n<color=#e30000>不利</color>判定"
+  },
+  {
+    "key": "event_select_personality_to_proceed_judgement-content",
+    "original": "판정을 진행할 인격을 선택하세요.",
+    "context": "EN :\nChoose an Identity to perform the check with:\nJP :\n判定を進行する人格を選択してください。"
+  },
+  {
+    "key": "event_expected_success_rate_format-content",
+    "original": "예상 확률 : {0}",
+    "context": "EN :\nPredicted Odds: {0}\nJP :\n予想確率 : {0}"
+  },
+  {
+    "key": "all_attribute-content",
+    "original": "모든 속성",
+    "context": "EN :\nAll Affinities\nJP :\n全属性"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "key": "danteAbility_UIPopup_Title-content",
+    "original": "빛의 묘목 능력 선택",
+    "context": "EN :\nSelect Sapling of Light Ability\nJP :\n能力:光の苗木選択"
+  },
+  {
+    "key": "danteAbility_UIPopup_Remain-content",
+    "original": "남은 횟수",
+    "context": "EN :\nRemaining Activations\nJP :\n残り回数"
+  },
+  {
+    "key": "dnateAbiltiy_Unlock_GoldenBranch_Resonance-content",
+    "original": "황금가지 공명",
+    "context": "EN :\nGolden Bough Resonance\nJP :\n黄金の枝 共鳴"
+  },
+  {
+    "key": "tutorial_battle_danteAbility_title-content",
+    "original": "빛의 묘목 능력",
+    "context": "EN :\nSapling of Light Ability\nJP :\n能力:光の苗木"
+  },
+  {
+    "key": "tutorial_battle_danteAbility_01_desc_01-content",
+    "original": "우측 상단의 빛의 묘목 능력 버튼을 클릭합니다.",
+    "context": "EN :\nSelect the Sapling of Light ability button on the top right.\nJP :\n右上段の能力:光の苗木ボタンをクリックします。"
+  },
+  {
+    "key": "tutorial_battle_danteAbility_02_desc_01-content",
+    "original": "사용할 능력을 선택합니다.",
+    "context": "EN :\nSelect the ability to use.\nJP :\n使用する能力を選択します。"
+  },
+  {
+    "key": "tutorial_battle_danteAbility_03_desc_01-content",
+    "original": "확인 버튼을 누르면 빛의 묘목 능력이 발동됩니다.\n빛의 묘목은 사용 횟수만큼 사용할 수 있습니다.\n사용 횟수는 하루마다 초기화됩니다.",
+    "context": "EN :\nPress the confirmation button to activate the Sapling of Light ability.\nSapling of Light can be used as long as there are remaining Activations.\nRemaining Activations are reset every day.\nJP :\n確認ボタンを押すと、能力:光の苗木が発動します。\n光の苗木は規定回数だけ使用できます。\n使用回数は一日ごとに初期化されます。"
+  },
+  {
+    "key": "ui_activated-content",
+    "original": "발동",
+    "context": "EN :\nActivate\nJP :\n発動"
+  }
+]

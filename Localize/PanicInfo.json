@@ -1,0 +1,262 @@
+[
+  {
+    "key": "1001-panicName",
+    "original": "자해",
+    "context": "EN :\nCompulsion\nJP :\n自傷"
+  },
+  {
+    "key": "1001-lowMoraleDescription",
+    "original": "턴 시작 시, <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">신속</color></link></u> 2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">취약</color></link></u> 2를 얻음",
+    "context": "EN :\nTurn Start: Gain 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Haste</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>\nJP :\nターン開始時、<sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">クイック</color></link></u>2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る"
+  },
+  {
+    "key": "1001-panicDescription",
+    "original": "턴 시작 시 자신의 체력 -10",
+    "context": "EN :\nTurn Start: Lose 10 HP.\nJP :\nターン開始時、自分の体力-10"
+  },
+  {
+    "key": "1002-panicName",
+    "original": "비난",
+    "context": "EN :\nOutlash\nJP :\n非難"
+  },
+  {
+    "key": "1002-lowMoraleDescription",
+    "original": "턴 시작 시, <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">공격 위력 증가</color></link></u> 2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">취약</color></link></u> 2를 얻음",
+    "context": "EN :\nTurn Start: Gain 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>\nJP :\nターン開始時、<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る"
+  },
+  {
+    "key": "1002-panicDescription",
+    "original": "자신의 턴 시작 시 무작위 아군의 정신력 - 20",
+    "context": "EN :\nTurn Start: Random ally loses 20 SP.\nJP :\nターン開始時、ランダムな味方の精神力を-20"
+  },
+  {
+    "key": "1003-panicName",
+    "original": "압도",
+    "context": "EN :\nOverwhelmed\nJP :\n圧倒"
+  },
+  {
+    "key": "1003-lowMoraleDescription",
+    "original": "턴 시작 시 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">공격 위력 감소</color></link></u> 2를 얻음",
+    "context": "EN :\nTurn Start: Gain 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Attack Power Down</color></link></u>\nJP :\nターン開始時、<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">攻撃威力減少</color></link></u>2を得る"
+  },
+  {
+    "key": "1003-panicDescription",
+    "original": "한 턴 동안 행동하지 않음",
+    "context": "EN :\nDoes not act for this turn.\nJP :\n1ターンの間行動しない"
+  },
+  {
+    "key": "1004-panicName",
+    "original": "위축",
+    "context": "EN :\nAtrophied\nJP :\n萎縮"
+  },
+  {
+    "key": "1004-lowMoraleDescription",
+    "original": "턴 시작 시 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">공격 위력 감소</color></link></u> 2를 얻음",
+    "context": "EN :\nTurn Start: Gain 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Attack Power Down</color></link></u>\nJP :\nターン開始時、<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">攻撃威力減少</color></link></u>2を得る"
+  },
+  {
+    "key": "1004-panicDescription",
+    "original": "턴 시작 시 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">공격 위력 감소</color></link></u> 4를 얻음",
+    "context": "EN :\nTurn Start: Gain 4 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Attack Power Down</color></link></u>\nJP :\nターン開始時、<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">攻撃威力減少</color></link></u>4を得る"
+  },
+  {
+    "key": "1005-panicName",
+    "original": "분함",
+    "context": "EN :\nAgitated\nJP :\n悔しさ"
+  },
+  {
+    "key": "1005-lowMoraleDescription",
+    "original": "턴 시작 시 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">피해량 증가</color></link></u> 1, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">취약</color></link></u> 2를 얻음",
+    "context": "EN :\nTurn Start: Gain 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>\nJP :\nターン開始時、<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>1, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る"
+  },
+  {
+    "key": "1005-panicDescription",
+    "original": "턴 시작 시 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">피해량 증가</color></link></u> 2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">취약</color></link></u> 5를 얻음",
+    "context": "EN :\nTurn Start: Gain 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> and 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>\nJP :\nターン開始時、<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>5を得る"
+  },
+  {
+    "key": "1006-panicName",
+    "original": "도주",
+    "context": "EN :\nRunning\nJP :\n逃走"
+  },
+  {
+    "key": "1006-lowMoraleDescription",
+    "original": "행동하지 않음. 피격 시, 해당 스킬 종료 후 사망",
+    "context": "EN :\nDoes not act. When hit, this unit is defeated after the skill ends.\nJP :\n行動しない。被ダメージ時、該当スキル終了後に死亡"
+  },
+  {
+    "key": "1007-panicName",
+    "original": "슬픔",
+    "context": "EN :\nSorrow\nJP :\n哀しみ"
+  },
+  {
+    "key": "1007-lowMoraleDescription",
+    "original": "매 턴마다 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">피해량 감소</color></link></u> 2를 얻음",
+    "context": "EN :\nGain 2 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Damage Down</color></link></u> each turn\nJP :\n毎ターン<sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">ダメージ量減少</color></link></u>2を得る"
+  },
+  {
+    "key": "1007-panicDescription",
+    "original": "매 턴마다 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">피해량 감소</color></link></u> 5, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">취약</color></link></u> 2를 얻음",
+    "context": "EN :\nGain 5 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Damage Down</color></link></u> and 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u> each turn\nJP :\n毎ターン<sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">ダメージ量減少</color></link></u>5, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る"
+  },
+  {
+    "key": "1008-panicName",
+    "original": "광인",
+    "context": "EN :\nMaddened\nJP :\n狂人"
+  },
+  {
+    "key": "1008-lowMoraleDescription",
+    "original": "첫 사기저하일 때, 피아식별 불가상태",
+    "context": "EN :\nWhen at low morale for the first time, targets units indiscriminately\nJP :\nこの士気低下を最初に獲得した場合、敵味方識別不可状態になる"
+  },
+  {
+    "key": "1008-panicDescription",
+    "original": "피아식별 불가상태, 합 위력 +1, <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">피해량 증가</color></link></u> 2 얻음",
+    "context": "EN :\nTargets indiscriminately; Clash Power +1, and gain 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u>\nJP :\n敵味方識別不可状態、マッチ威力+1, <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>2を得る"
+  },
+  {
+    "key": "1009-panicName",
+    "original": "자살",
+    "context": "EN :\nSuicidal\nJP :\n自殺"
+  },
+  {
+    "key": "1009-lowMoraleDescription",
+    "original": "첫 사기저하 상태였을 때, 행동 불가 상태",
+    "context": "EN :\nWhen at low morale for the first time, become unable to act\nJP :\nこの士気低下を最初に獲得した場合、行動不能状態になる"
+  },
+  {
+    "key": "1009-panicDescription",
+    "original": "3턴 간 행동불가 상태. 3턴 경과 후 턴 시작 시 사망. 사망 시 모든 아군 정신력 감소 조건에 10 추가 감소",
+    "context": "EN :\nCannot act for 3 turns. After 3 turns, unit dies at turn start; all its allies lose additional 10 SP with every SP loss condition\nJP :\n3ターンの間、行動不能状態。3ターン経過後、ターン開始時に死亡。死亡時、全味方の精神力減少条件を満たした際に10追加で減少"
+  },
+  {
+    "key": "1010-panicName",
+    "original": "배회",
+    "context": "EN :\nWandering\nJP :\n徘徊"
+  },
+  {
+    "key": "1010-lowMoraleDescription",
+    "original": "턴 종료 시 아군에게 정신력 2 피해",
+    "context": "EN :\nTurn End: Deal 2 SP damage to allies\nJP :\nターン終了時、味方に2精神力ダメージ"
+  },
+  {
+    "key": "1010-panicDescription",
+    "original": "3턴 간 턴 종료 시 아군에게 정신력 5 피해\n3턴 종료 시 도주함",
+    "context": "EN :\nTurn End: Deal 5 SP damage to allies. Flees from battle after 3 turns have passed\nJP :\n3ターンの間、ターン終了時に味方へ精神力5ダメージ\n3ターン終了時に逃走"
+  },
+  {
+    "key": "1011-panicName",
+    "original": "불안정",
+    "context": "EN :\nUnstable\nJP :\n不安定"
+  },
+  {
+    "key": "1011-lowMoraleDescription",
+    "original": "턴 시작 시 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">공격 위력 증가</color></link></u> 2, <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">속박</color></link></u> 3 얻음",
+    "context": "EN :\nTurn Start: Gain 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> and 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Bind</color></link></u>\nJP :\nターン開始時、<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>2, <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">束縛</color></link></u>3を得る"
+  },
+  {
+    "key": "1011-panicDescription",
+    "original": "턴 시작 시 흐트러짐",
+    "context": "EN :\nTurn Start: Become staggered\nJP :\nターン開始時に混乱"
+  },
+  {
+    "key": "1012-panicName",
+    "original": "슬픔",
+    "context": "EN :\nDejection\nJP :\n哀しみ"
+  },
+  {
+    "key": "1012-lowMoraleDescription",
+    "original": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">취약</color></link></u> 1 얻음. 합 중 코인이 한 번이라도 뒷면이라면, 해당 합 동안 합 위력 -1.",
+    "context": "EN :\nGain 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>; In a clash, if any Coin lands tails, Clash Power -1 for the clash.\nJP :\n<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>1を得る。マッチ中に1度でもコイン裏面が出ると該当マッチの間、マッチ威力が-1"
+  },
+  {
+    "key": "1012-panicDescription",
+    "original": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">취약</color></link></u> 3 얻음. 합 중 코인이 한 번이라도 뒷면이라면, 해당 합 동안 합 위력 -3.",
+    "context": "EN :\nGain 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>; In a clash, if any Coin lands tails, Clash Power -3 for the clash.\nJP :\n<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>3を得る。マッチ中に3度でもコイン裏面が出ると該当マッチの間、マッチ威力が-3"
+  },
+  {
+    "key": "9999-panicName",
+    "original": "패닉",
+    "context": "EN :\nPanic\nJP :\nパニック"
+  },
+  {
+    "key": "9999-panicDescription",
+    "original": "한 턴 동안 행동하지 않음",
+    "context": "EN :\nDoes not act for this turn.\nJP :\n1ターンの間行動しない"
+  },
+  {
+    "key": "1013-panicName",
+    "original": "불순",
+    "context": "EN :\nImpurity\nJP :\n不順"
+  },
+  {
+    "key": "1013-lowMoraleDescription",
+    "original": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">취약</color></link></u> 1을 얻음. 합 패배시 대상의 정신력 -2",
+    "context": "EN :\nGain 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>. Target loses 2 SP if this unit loses the clash\nJP :\n<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>1を得る。マッチ敗北時、対象の精神力-2"
+  },
+  {
+    "key": "1013-panicDescription",
+    "original": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">취약</color></link></u> 2를 얻음. 합 패배시 대상의 정신력 -5",
+    "context": "EN :\nGain 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>. Target loses 5 SP if this unit loses the clash\nJP :\n<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る。マッチ敗北時、対象の精神力-5"
+  },
+  {
+    "key": "1014-panicName",
+    "original": "앙갚음",
+    "context": "EN :\nVengeance\nJP :\n報復"
+  },
+  {
+    "key": "1014-lowMoraleDescription",
+    "original": "턴 시작 시 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">공격 위력 증가</color></link></u> 1, <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">방어 레벨 감소</color></link></u> 3을 얻고, 이전 턴에 받은 누적 피해량에 비례하여 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">피해량 증가</color></link></u>를 얻음\n(최대 체력의 3%당 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">피해량 증가</color></link></u> 1을 얻음)",
+    "context": "EN :\nTurn Start: Gain 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> and 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Defense Level Down</color></link></u>. Gain <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> based on the amount of damage taken last turn (1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> for every 3% of Max HP lost)\nJP :\nターン開始時<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>1, <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防御レベル減少</color></link></u>3を得て、前のターンに受けた累計ダメージ量に比例して<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>を得る\n(最大体力値の3%につき<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>1を得る)"
+  },
+  {
+    "key": "1014-panicDescription",
+    "original": "턴 시작 시 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">공격 위력 증가</color></link></u> 2, <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">방어 레벨 감소</color></link></u> 6을 얻고, 이전 턴에 받은 누적 피해량에 비례하여 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">피해량 증가</color></link></u>를 얻음\n(최대 체력의 3%당 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">피해량 증가</color></link></u> 1을 얻음)",
+    "context": "EN :\nTurn Start: Gain 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> and 6 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Defense Level Down</color></link></u>. Gain <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> based on the amount of damage taken last turn (1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> for every 3% of Max HP lost)\nJP :\nターン開始時<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>2, <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防御レベル減少</color></link></u>6を得て、前のターンに受けた累計ダメージ量に比例して<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>を得る\n(最大体力値の3%につき<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>1を得る)"
+  },
+  {
+    "key": "1015-panicName",
+    "original": "하얀 공황",
+    "context": "EN :\nPallid Panic\nJP :\n白い恐慌"
+  },
+  {
+    "key": "1015-lowMoraleDescription",
+    "original": "[MentalSystemResultDecrease_Typo] +2",
+    "context": "EN :\n[MentalSystemResultDecrease_Typo] +2\nJP :\n[MentalSystemResultDecrease_Typo] +2"
+  },
+  {
+    "key": "1015-panicDescription",
+    "original": "매 턴 종료 시 다음 턴에 <sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">속박</color></link></u> 2를 얻음.\n자신이 사용하는 모든 코인이 뒷면이 나옴.",
+    "context": "EN :\nEvery Turn End: Gain 2 <sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">Bind</color></link></u>.\nEvery Coin this unit flips lands on tails.\nJP :\n毎ターン終了時、次のターンに<sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">束縛</color></link></u> 2を得る。\n自分が使用する全てのコインが裏面になる。"
+  },
+  {
+    "key": "1016-panicName",
+    "original": "원한",
+    "context": "EN :\nResentment\nJP :\n怨恨"
+  },
+  {
+    "key": "1016-lowMoraleDescription",
+    "original": "턴 시작 시 [AttackDmgUp] 2, [DefenseDown] 3을 얻음",
+    "context": "EN :\nTurn Start: gain 2 [AttackDmgUp] and 3 [DefenseDown]\nJP :\nターン開始時に[AttackDmgUp]2, [DefenseDown]3を得る"
+  },
+  {
+    "key": "1016-panicDescription",
+    "original": "턴 시작 시 [Enhancement] 1, [DefenseDown] 5를 얻음",
+    "context": "EN :\nTurn Start: gain 1 [Enhancement] and 5 [DefenseDown]\nJP :\nターン開始時に[Enhancement]1, [DefenseDown]5を得る"
+  },
+  {
+    "key": "1026-panicName",
+    "original": "파탄",
+    "context": "EN :\nRuin\nJP :\n破綻"
+  },
+  {
+    "key": "1026-lowMoraleDescription",
+    "original": "매 턴 종료 시 [Sinking] 3 얻음, 자신의 합 위력 -1",
+    "context": "EN :\nGain 3 [Sinking] at every Turn End; Clash Power -1\nJP :\n毎ターン終了時、[Sinking]3を得る。自分のマッチ威力 -1"
+  },
+  {
+    "key": "1026-panicDescription",
+    "original": "매 턴 종료 시 [Sinking] 5 얻음, [Sinking] 횟수 3 증가, 자신의 합 위력 -2",
+    "context": "EN :\nGain 5 [Sinking] and +3 [Sinking] Count at every Turn End; Clash Power -2\nJP :\n毎ターン終了時、[Sinking]5を得る。[Sinking]回数が3増加、自分のマッチ威力 -2"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10305_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10305_1-dlg",
+    "original": "자아! 그대가 나와 결투할 자인가?",
+    "context": "EN :\nAha! Art thou my partner in duel?!\nJP :\nさぁ！そなたが私と決闘する者であるか？"
+  },
+  {
+    "key": "lobby_morning_10305_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10305_1-dlg",
+    "original": "좋은 아침일세! 흐흠, 오늘도 날씨가 화창하군. 어디, 이번엔 산책이라도 나가볼까?",
+    "context": "EN :\nGood morrow! Hmhm, another bright day indeed. Let's see, mayhaps I shall go on a merry stroll?\nJP :\n良い朝だな！ふぅむ、今日も天気が良いな。どれ、今度散歩にでも行ってみないか？"
+  },
+  {
+    "key": "lobby_noon_10305_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10305_1-dlg",
+    "original": "음… 역시, 낮이 되니 사람이 붐비는군. 앗! 저기! 다툼인가? ",
+    "context": "EN :\nHm... Midday certainly brings out the crowd. Aha! See yonder! A brawl, perhaps?!\nJP :\nむむ…やはり、昼になると人で溢れかえるな。あっ！そこ！争いであるか？"
+  },
+  {
+    "key": "lobby_night_10305_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10305_1-dlg",
+    "original": "식사는 했는가? 이 근처에 괜찮은 레스토랑이 있다네! 디너 디저트에 있는 수플레가 맛있지. 함께 가지 않겠는가?",
+    "context": "EN :\nHast thou supped yet? I have found thee a nice restaurant nearabouts! Their dinner menu features a rather delicious soufflé. Wilt thou accompany me?\nJP :\n食事は摂ったかね？この近くに良いレストランがあるのだよ！ディナーデザートに付くスフレが絶品さ。共に行くつもりは無いかね？"
+  },
+  {
+    "key": "smalltalk_10305_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10305_1-dlg",
+    "original": "부지런히 움직여야겠지! 도시에는 언제나 다툼이 있고, 그만큼 대리 결투를 의뢰하는 자가 많으니까!",
+    "context": "EN :\nI mustn't dally! The city abounds with conflict, and many seek those that would take up arms in their place!\nJP :\nせっせと動かねばならぬな！都市には常に争いがあり、その分代理決闘を依頼する者が多いゆえ！"
+  },
+  {
+    "key": "smalltalk_10305_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10305_2-dlg",
+    "original": "길거리를 산책하며 정신을 환기시키는 것도 업무적으로도 중요한 일일세! ",
+    "context": "EN :\nStrolling through the streets and taking mine own mind off things is an important part of my profession!\nJP :\n街を散策しながら精神を入れ替えることは、業務的にも重要なことである！"
+  },
+  {
+    "key": "smalltalk_10305_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10305_3-dlg",
+    "original": "장갑을 던지는 것은! 상대를 향한 고귀하고 명예로운 결투선포일세! 결투에 있어서 중요한 절차지.",
+    "context": "EN :\nTo throw down my gauntlet is a dignified and honorable declaration of mine intent to duel! 'Tis an indispensable part of a duel's etiquette.\nJP :\n手袋を投げることは！相手への高貴で栄誉的な決闘宣言であるのだ！ 決闘において重要な手順さ。"
+  },
+  {
+    "key": "smalltalk_10305_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10305_4-dlg",
+    "original": "이건 가끔 드는 의문이네만… 어째, 장갑을 맞은 자들은 하나 같이 얼굴을 붉으락푸르락 하더군.\n왜들 그렇게 화를 내는지… 명예롭게 결투를 받아들이지 못하는 심성인가?",
+    "context": "EN :\nPrithee, I cannot help but be perplexed… Wherefore do those struck by my gauntlet turn red with fury?\nWhat causeth them to fume, I wonder…? Perhaps their hearts are simply not fit for an honorable duel.\nJP :\nこれはたまに浮かぶ疑問であるが…どうしてか手袋を当てられた者は顔を真っ赤にしておった。\nなにゆえあれほど怒るのか…栄誉的に決闘を受け入れられぬ性分なのであろうか？"
+  },
+  {
+    "key": "smalltalk_10305_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10305_5-dlg",
+    "original": "부장이라고 해서 다른 협회원들과 다를 바는 없지 않겠나! 실제로! 본인은 그들을 부하라고 부르지도 않지.\n나는 그저, 그들보다 조금 더 많은 경험을 가졌을 뿐이네. 또 모르지 않는가? 새로 들어온 신입이 어떤 결투에서는 나보다 뛰어날지!",
+    "context": "EN :\nThe station of a Director is no different from that of mine associates! In truth, I do not call them my subordinates, even.\nI have but a meager merit in experience, no more. Besides, perchance we may have a newcomer who surpasses my skill in combat!\nJP :\n部長とはいえ、他の協会員たちと変わることがあろうか！実際のところ！当人は彼の者らを部下と呼ぶことはあらぬ。\n私はただ、彼の者らより少し多くの経験を得たに過ぎぬ。分からぬだろ？新しく入ってきた新人が、またある種の決闘では私より優れているやも！"
+  },
+  {
+    "key": "neglect_10305_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10305_1-dlg",
+    "original": "(콧노래)",
+    "context": "EN :\n(Hums)\nJP :\n(鼻歌)"
+  },
+  {
+    "key": "gacksung_10305_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10305_1-dlg",
+    "original": "음! 인정 받는다는 것은 언제나 명예로운 일이지! 감사를 표하겠네!",
+    "context": "EN :\nAha! To be recognized is to be bestowed with honor! I thank thee!\nJP :\nうむ！認められるということはいつであれ名誉なことである！謝意を示そう！"
+  },
+  {
+    "key": "formation_10305_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10305_1-dlg",
+    "original": "결투 의뢰로군!",
+    "context": "EN :\nAha, a dueling request!\nJP :\n決闘依頼か！"
+  },
+  {
+    "key": "battleentry_10305_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10305_1-dlg",
+    "original": "좁은 곳이 좋겠어…",
+    "context": "EN :\nPerchance a narrow alleyway shall be to my benefit...\nJP :\n狭い場所なら良いだろう…。"
+  },
+  {
+    "key": "battle_select_10305_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10305_1-dlg",
+    "original": "결투 중에는 말을 걸지 않는게 좋다만.",
+    "context": "EN :\n'Tis ill-advised to speak to me whilst I fight a duel.\nJP :\n決闘中に話し掛けない方が良いのだが。"
+  },
+  {
+    "key": "battle_endcommand_10305_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10305_1-dlg",
+    "original": "알레!(Allez!)",
+    "context": "EN :\nAllez!\nJP :\nアレ！(Allez!)"
+  },
+  {
+    "key": "battle_enemy_break_10305_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10305_1-dlg",
+    "original": "항복하겠는가?",
+    "context": "EN :\nDost thou surrender?\nJP :\n降伏するのか？"
+  },
+  {
+    "key": "battle_break_10305_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10305_1-dlg",
+    "original": "치잇…",
+    "context": "EN :\nTsk...\nJP :\nチィッ…。"
+  },
+  {
+    "key": "battle_kill_10305_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10305_1-dlg",
+    "original": "유쾌한 결투였네!",
+    "context": "EN :\n'Twas a duel most amusing!\nJP :\n愉快な決闘であったな！"
+  },
+  {
+    "key": "battle_dead_10305_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10305_1-dlg",
+    "original": "아아… 이건, 부끄럽군…",
+    "context": "EN :\nAah... 'Twas... a shameful display...\nJP :\nあぁ…これは、恥ずべきことだ…。"
+  },
+  {
+    "key": "choice_success_p_10305_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10305_2-dlg",
+    "original": "예술적인 솜씨!",
+    "context": "EN :\nPoetry in motion!\nJP :\n芸術的な腕前よ！"
+  },
+  {
+    "key": "choice_fail_n_10305_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10305_1-dlg",
+    "original": "아하, 이거… 미안하군.",
+    "context": "EN :\nAhh, this was... I beg forgiveness.\nJP :\nあはぁ、これは…申しわけないな。"
+  },
+  {
+    "key": "battle_clear_10305_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10305_1-dlg",
+    "original": "치열한 결투였소! 그대들도 뛰어났네만… 흠, 다음 결투가 더 기다려지는군.",
+    "context": "EN :\nA fervorous duel! You lot were no slouches, yet... Hm, I eagerly await your next challenge.\nJP :\n熾烈な戦いであった！そなたらも秀でていたが…。ふむ、次の決闘がより楽しみになってきたな。"
+  },
+  {
+    "key": "battle_clear_ex_10305_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10305_1-dlg",
+    "original": "보람차군! 그대들도 뛰어났네만, 내가 쪼오금 더 나았군.",
+    "context": "EN :\nWonderful! You were surpassed by my skill, though only by a little.\nJP :\n張り合いがあったな！そなたらも秀でていたが、私がすこぉしだけ上だ。"
+  },
+  {
+    "key": "battle_defeat_10305_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10305_1-dlg",
+    "original": "큭… 심히 치욕스럽군…",
+    "context": "EN :\nUgh... How disgraceful...!\nJP :\nクッ…恥辱甚だしい…。"
+  }
+]

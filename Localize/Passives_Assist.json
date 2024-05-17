@@ -1,0 +1,32 @@
+[
+  {
+    "key": "40000101-name",
+    "original": "파상흡환",
+    "context": "EN :\nBursting Strike, Breathing Siphon\nJP :\n破傷吸還"
+  },
+  {
+    "key": "40000101-desc",
+    "original": "자신의 공격 스킬로 대상 처치 시 대상이 가지고 있던, [Burst]만큼 [Breath]을 얻음 (최대 5)",
+    "context": "EN :\nOn Kill with this unit's Attack Skill, gain [Breath] equal to [Burst] on the target (max 5)\nJP :\n自分の攻撃スキルで対象討伐時、対象の保有していた[Burst]だけ[Breath]を得る(最大5)"
+  },
+  {
+    "key": "40000102-name",
+    "original": "파초환단",
+    "context": "EN :\nBa Jiao Banana Bolus\nJP :\n芭蕉丸丹"
+  },
+  {
+    "key": "40000102-desc",
+    "original": "공격 대상보다 공격 레벨이 높을 경우, 합 위력 +1, 부여하는 [Burst] 위력 혹은 [Burst] 횟수 +1 (턴 당 2 회)",
+    "context": "EN :\nIf this unit's Offense Level is higher than the target's, gain Clash Power +1, and inflict +1 more [Burst] Potency and Count (2 times per turn)\nJP :\n攻撃対象よりも攻撃レベルが高いなら、マッチ威力 +1, 付与する[Burst]威力または[Burst]回数 +1(1ターンにつき2回)"
+  },
+  {
+    "key": "40000103-name",
+    "original": "금강환단",
+    "context": "EN :\nJin Gang Bolus\nJP :\n混合丸丹"
+  },
+  {
+    "key": "40000103-desc",
+    "original": "합 패배 시, [DefenseUp] 3 얻음 (턴 당 2회)",
+    "context": "EN :\nClash Lose: gain 3 [DefenseUp] (2 times per turn)\nJP :\nマッチ敗北時、[DefenseUp]3を得る(1ターンにつき2回)"
+  }
+]

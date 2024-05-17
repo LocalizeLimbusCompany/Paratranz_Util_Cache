@@ -1,0 +1,82 @@
+[
+  {
+    "key": "select_personality_gacksung_up_ticket-content",
+    "original": "상승 도약 인격 선택",
+    "context": "EN :\nSelect Identity to Takeoff\nJP :\n上昇跳躍人格を選択"
+  },
+  {
+    "key": "tip_long_click_to_view_personality-content",
+    "original": "※ 길게 터치하면 인격의 상세 정보를 확인할 수 있습니다.",
+    "context": "EN :\n※ Long-press an Identity to view more detailed info.\nJP :\n※長押しすると人格の詳細を確認できます。"
+  },
+  {
+    "key": "leap_up_confim_main_only_gacksung-content",
+    "original": "[{0}] 인격의 동기화 단계가 다음과 같이 변경됩니다.",
+    "context": "EN :\n[{0}] Identity's Uptie Tier will be changed as follows.\nJP :\n人格[{0}]の同期化段階が次のように変更されます。"
+  },
+  {
+    "key": "select_ego_gacksung_up_ticket-content",
+    "original": "상승 도약 E.G.O 선택",
+    "context": "EN :\nSelect E.G.O to Takeoff\nJP :\n上昇跳躍E.G.Oを選択"
+  },
+  {
+    "key": "tip_long_click_to_view_ego-content",
+    "original": "※ 길게 터치하면 E.G.O의 상세 정보를 확인할 수 있습니다.",
+    "context": "EN :\n※ Long-press an E.G.O to view more detailed info.\nJP :\n※長押しするとE.G.Oの詳細を確認できます。"
+  },
+  {
+    "key": "ego_leap_up_confim_main_only_gacksung-content",
+    "original": "[{0}] E.G.O의 환상 해석 단계가 다음과 같이 변경됩니다.",
+    "context": "EN :\n[{0}] E.G.O's Threadspinning Tier will be changed as follows.\nJP :\nE.G.O[{0}]の幻想解析段階が次のように変更されます。"
+  },
+  {
+    "key": "all_egos-content",
+    "original": "전체 E.G.O",
+    "context": "EN :\nAll E.G.Os\nJP :\n全E.G.O"
+  },
+  {
+    "key": "leap_up_able_uptie_ego_tier-content",
+    "original": "환상 해석 단계 상승 가능",
+    "context": "EN :\nCan be Threadspun\nJP :\n幻想解析段階 上昇可能"
+  },
+  {
+    "key": "ego_gacksung_grade-content",
+    "original": "환상 해석 단계",
+    "context": "EN :\nThreadspin Tier\nJP :\n幻想解析段階"
+  },
+  {
+    "key": "leap_up_ego_confim_title-content",
+    "original": "E.G.O 선택",
+    "context": "EN :\nSelecting E.G.O\nJP :\nE.G.O選択"
+  },
+  {
+    "key": "check_default_personality_leap_up-content",
+    "original": "선택한 인격은 주요 이야기 진행을 통해 동기화 단계를 최대 3단계까지 재화 소모 없이 상승시킬 수 있습니다.\n\n그럼에도 동기화를 진행하시겠습니까?",
+    "context": "EN :\nThis is an Identity that can be Uptied for free to Tier 3 by progressing through the Main Story.\n\nUptie this Identity anyway?\nJP :\n選択した人格はメインストーリーを通じて、同期化段階を最大3までアイテム消耗無しで上昇させることができます。\n\nそれでも同期化を進行しますか？"
+  },
+  {
+    "key": "check_default_ego_leap_up-content",
+    "original": "선택한 E.G.O는 주요 이야기 진행을 통해 환상 해석 단계를 최대 3단계까지 재화 소모 없이 상승시킬 수 있습니다.\n\n그럼에도 환상 해석을 진행하시겠습니까?",
+    "context": "EN :\nThis is an E.G.O that can be Threadspun for free to Tier 3 by progressing through the Main Story.\n\nUptie this Identity anyway?\nJP :\n選択したE.G.Oはメインストーリーを通じて、幻想解析段階を最大3までアイテム消耗無しで上昇させることができます。\n\nそれでも幻想解析を進行しますか？"
+  },
+  {
+    "key": "select_identity_popup_title-content",
+    "original": "인격 선택",
+    "context": "EN :\nSelect Identity\nJP :\n人格選択"
+  },
+  {
+    "key": "select_identity_popup_title_season_1-content",
+    "original": "시즌 1 인격 선택",
+    "context": "EN :\nSelect Season 1 Identity\nJP :\nシーズン1人格選択"
+  },
+  {
+    "key": "select_ego_popup_title_season_1_battlepass-content",
+    "original": "시즌 1 배틀 패스 E.G.O 선택",
+    "context": "EN :\nSelect Season 1 Battle Pass E.G.O\nJP :\nシーズン1バトルパスE.G.O 選択"
+  },
+  {
+    "key": "select_ego_popup_title-content",
+    "original": "E.G.O 선택",
+    "context": "EN :\nSelect E.G.O\nJP :\nE.G.O選択"
+  }
+]

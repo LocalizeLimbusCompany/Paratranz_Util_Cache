@@ -1,0 +1,382 @@
+[
+  {
+    "key": "9007701-levelList$[0].name",
+    "original": "꾸악",
+    "context": "EN :\nGwah\nJP :\nグアッ"
+  },
+  {
+    "key": "9007701-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 3を付与"
+  },
+  {
+    "key": "9007701-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 3を付与"
+  },
+  {
+    "key": "9007702-levelList$[0].name",
+    "original": "등딱지 태클!",
+    "context": "EN :\nShell Tackle!\nJP :\n甲羅タックル！"
+  },
+  {
+    "key": "9007702-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Rupture Count next turn\nJP :\n[OnSucceedAttack] 次のターンに破裂 回数が2増加"
+  },
+  {
+    "key": "9007702-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 참격 취약 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Slash Fragility next turn\nJP :\n[OnSucceedAttack] 次のターンに斬撃脆弱 1を付与"
+  },
+  {
+    "key": "9007703-levelList$[0].name",
+    "original": "꾸아악!",
+    "context": "EN :\nGwaaah!\nJP :\nグァアッ！"
+  },
+  {
+    "key": "9007703-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "9007703-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "9007703-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "9007704-levelList$[0].name",
+    "original": "게거품",
+    "context": "EN :\nFoaming\nJP :\n蟹の泡"
+  },
+  {
+    "key": "9007704-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 5 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +5 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が5増加"
+  },
+  {
+    "key": "9007705-levelList$[0].name",
+    "original": "게 눈 감추기",
+    "context": "EN :\nHermit Crab\nJP :\n目を引っ込める"
+  },
+  {
+    "key": "9007705-levelList$[0].desc",
+    "original": "[StartBattle] 이번 턴동안 보호막 체력이 있는 상태에서 피격 시 참격 피해 4 반사",
+    "context": "EN :\n[StartBattle] When attacked while this unit has Shield HP, deal 4 Slash damage to the attacker\nJP :\n[StartBattle] 1ターンの間、体力バリアがある状態で被ダメージ時に斬撃ダメージを4反射"
+  },
+  {
+    "key": "9007801-levelList$[0].name",
+    "original": "꾸악",
+    "context": "EN :\nGwah\nJP :\nグアッ"
+  },
+  {
+    "key": "9007801-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 3を付与"
+  },
+  {
+    "key": "9007801-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 3を付与"
+  },
+  {
+    "key": "9007802-levelList$[0].name",
+    "original": "등딱지 태클!",
+    "context": "EN :\nShell Tackle!\nJP :\n甲羅タックル！"
+  },
+  {
+    "key": "9007802-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Rupture Count next turn\nJP :\n[OnSucceedAttack] 次のターンに破裂 回数が2増加"
+  },
+  {
+    "key": "9007802-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 관통 취약 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Pierce Fragility next turn\nJP :\n[OnSucceedAttack] 次のターンに貫通脆弱 1を付与"
+  },
+  {
+    "key": "9007803-levelList$[0].name",
+    "original": "꾸아악!",
+    "context": "EN :\nGwaaah!\nJP :\nグァアッ！"
+  },
+  {
+    "key": "9007803-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "9007803-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "9007803-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "9007804-levelList$[0].name",
+    "original": "게거품",
+    "context": "EN :\nFoaming\nJP :\n蟹の泡"
+  },
+  {
+    "key": "9007804-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 5 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +5 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が5増加"
+  },
+  {
+    "key": "9007805-levelList$[0].name",
+    "original": "게 눈 감추기",
+    "context": "EN :\nHermit Crab\nJP :\n目を引っ込める"
+  },
+  {
+    "key": "9007805-levelList$[0].desc",
+    "original": "[StartBattle] 이번 턴동안 보호막 체력이 있는 상태에서 피격 시 관통 피해 4 반사",
+    "context": "EN :\n[StartBattle] When attacked while this unit has Shield HP, deal 4 Pierce damage to the attacker\nJP :\n[StartBattle] 1ターンの間、体力バリアがある状態で被ダメージ時に貫通ダメージを4反射"
+  },
+  {
+    "key": "9007901-levelList$[0].name",
+    "original": "꾸악",
+    "context": "EN :\nGwah\nJP :\nグアッ"
+  },
+  {
+    "key": "9007901-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 3を付与"
+  },
+  {
+    "key": "9007901-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 3を付与"
+  },
+  {
+    "key": "9007902-levelList$[0].name",
+    "original": "등딱지 태클!",
+    "context": "EN :\nShell Tackle!\nJP :\n甲羅タックル！"
+  },
+  {
+    "key": "9007902-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Rupture Count next turn\nJP :\n[OnSucceedAttack] 次のターンに破裂 回数が2増加"
+  },
+  {
+    "key": "9007902-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 타격 취약 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Blunt Fragility next turn\nJP :\n[OnSucceedAttack] 次のターンに打撃脆弱 1を付与"
+  },
+  {
+    "key": "9007903-levelList$[0].name",
+    "original": "꾸아악!",
+    "context": "EN :\nGwaaah!\nJP :\nグァアッ！"
+  },
+  {
+    "key": "9007903-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "9007903-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "9007903-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "9007904-levelList$[0].name",
+    "original": "게거품",
+    "context": "EN :\nFoaming\nJP :\n蟹の泡"
+  },
+  {
+    "key": "9007904-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 5 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +5 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が5増加"
+  },
+  {
+    "key": "9007905-levelList$[0].name",
+    "original": "게 눈 감추기",
+    "context": "EN :\nHermit Crab\nJP :\n目を引っ込める"
+  },
+  {
+    "key": "9007905-levelList$[0].desc",
+    "original": "[StartBattle] 이번 턴동안 보호막 체력이 있는 상태에서 피격 시 타격 피해 4 반사",
+    "context": "EN :\n[StartBattle] When attacked while this unit has Shield HP, deal 4 Blunt damage to the attacker\nJP :\n[StartBattle] 1ターンの間、体力バリアがある状態で被ダメージ時に打撃ダメージを4反射"
+  },
+  {
+    "key": "9008001-levelList$[0].name",
+    "original": "찍기",
+    "context": "EN :\nThwack\nJP :\n突く"
+  },
+  {
+    "key": "9008001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Rupture\nJP :\n[OnSucceedAttack] 破裂 5を付与"
+  },
+  {
+    "key": "9008002-levelList$[0].name",
+    "original": "마구 찍기",
+    "context": "EN :\nThwack Thwack Thwack\nJP :\n乱れ突き"
+  },
+  {
+    "key": "9008002-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が2増加"
+  },
+  {
+    "key": "9008002-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が2増加"
+  },
+  {
+    "key": "9008002-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が2増加"
+  },
+  {
+    "key": "9008003-levelList$[0].name",
+    "original": "게거품",
+    "context": "EN :\nFoaming\nJP :\n蟹の泡"
+  },
+  {
+    "key": "9008003-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 5 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +5 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が5増加"
+  },
+  {
+    "key": "9008003-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 5 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +5 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が5増加"
+  },
+  {
+    "key": "9008004-levelList$[0].name",
+    "original": "게장 발사!",
+    "context": "EN :\nDelicious Crab Guts!\nJP :\n蟹ミソ発射！"
+  },
+  {
+    "key": "9008004-levelList$[0].desc",
+    "original": "[CantIdentify]\n대상의 파열 위력 5 마다 피해량 +15%\n[EndSkill] 최대 체력의 8%만큼 본체 체력 감소",
+    "context": "EN :\n[CantIdentify] \nDeal +15% damage per 5 Rupture on target\n[EndSkill] Lose HP by 8% of Max HP\nJP :\n[CantIdentify]\n対象の破裂 威力5につきダメージ量 +15%\n[EndSkill] 体力最大値の8%分、本体の体力が減少"
+  },
+  {
+    "key": "9008004-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 10 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 10 Rupture\nJP :\n[OnSucceedAttack] 破裂 10を付与"
+  },
+  {
+    "key": "9008005-levelList$[0].name",
+    "original": "꾸오!",
+    "context": "EN :\nGUOH!\nJP :\nグオ！"
+  },
+  {
+    "key": "9008005-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 2を付与"
+  },
+  {
+    "key": "9008005-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 2を付与"
+  },
+  {
+    "key": "9008005-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 2を付与"
+  },
+  {
+    "key": "9008101-levelList$[0].name",
+    "original": "찍기",
+    "context": "EN :\nThwack\nJP :\n突く"
+  },
+  {
+    "key": "9008101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Rupture\nJP :\n[OnSucceedAttack] 破裂 5を付与"
+  },
+  {
+    "key": "9008102-levelList$[0].name",
+    "original": "마구 찍기",
+    "context": "EN :\nThwack Thwack Thwack\nJP :\n乱れ突き"
+  },
+  {
+    "key": "9008102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が2増加"
+  },
+  {
+    "key": "9008102-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が2増加"
+  },
+  {
+    "key": "9008102-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が2増加"
+  },
+  {
+    "key": "9008103-levelList$[0].name",
+    "original": "게거품",
+    "context": "EN :\nFoaming\nJP :\n蟹の泡"
+  },
+  {
+    "key": "9008103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 5 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +5 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が5増加"
+  },
+  {
+    "key": "9008103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 5 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +5 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が5増加"
+  },
+  {
+    "key": "9008104-levelList$[0].name",
+    "original": "등딱지 태클!!!",
+    "context": "EN :\nShell Tackle!!!\nJP :\n甲羅タックル！！！"
+  },
+  {
+    "key": "9008104-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 관통 취약 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Pierce Fragility next turn\nJP :\n[OnSucceedAttack] 次のターンに貫通脆弱 3を付与"
+  },
+  {
+    "key": "9008105-levelList$[0].name",
+    "original": "오래된 게딱지 탄 발사",
+    "context": "EN :\nFiring Molted Shell Shot\nJP :\n古い蟹甲弾 発射"
+  },
+  {
+    "key": "9008105-levelList$[0].desc",
+    "original": "[CantIdentify]\n대상의 파열 위력 5마다 피해량 +15%",
+    "context": "EN :\n[CantIdentify]\nDeal +15% damage per 5 Rupture on target\nJP :\n[CantIdentify]\n対象の破裂 威力5につき、ダメージ量 +15%"
+  },
+  {
+    "key": "9008105-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 오래된 게딱지 탄 1 소모",
+    "context": "EN :\n[OnSucceedAttack] Spend 1 Molted Shell Shot\nJP :\n[OnSucceedAttack] 古い蟹甲弾 1を消耗"
+  },
+  {
+    "key": "9008106-levelList$[0].name",
+    "original": "꾸오!",
+    "context": "EN :\nGUOH!\nJP :\nグオ！"
+  },
+  {
+    "key": "9008106-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 2を付与"
+  },
+  {
+    "key": "9008106-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 2を付与"
+  },
+  {
+    "key": "9008106-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 2を付与"
+  }
+]

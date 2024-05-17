@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10206_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10206_1-dlg",
+    "original": "어서오세요. 주문은 이쪽에서 받겠습니다.",
+    "context": "EN :\nWelcome. I will take your orders here.\nJP :\nいらっしゃいませ。注文はこちらから承ります。"
+  },
+  {
+    "key": "lobby_morning_10206_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10206_1-dlg",
+    "original": "이 공간이 혼잡하지 않은 시간대는 없지만, 가장 빽빽한 때가 지금이랍니다.\n아침을 깨는 차를 즐기지 못하면, 하루가 뒤숭숭할테니까요.",
+    "context": "EN :\nThis cafeteria is consistently bustling, but now is its busiest hour. Quite understandable, as to go through a day without a cup of tea would be to stumble through it with a mind that is only half awake.\nJP :\nこの空間に混雑しない時間帯はありませんが、最もぎゅうぎゅう詰めなのが今です。\n朝を覚ますお茶を楽しめなければ、一日中気が休まりませんからね。"
+  },
+  {
+    "key": "lobby_noon_10206_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10206_1-dlg",
+    "original": "잠시 머리를 식히기 위한 티타임은 업무 효율을 고려했을 때 가장 현명한 판단이죠.\n이쪽에서 주문을 받아드리겠습니다.",
+    "context": "EN :\nDesignating time for quick elevenses or an afternoon tea is a wise managerial choice, considering they are known to improve work efficiency. I will take your orders here.\nJP :\n少し頭を冷やすためのティータイムは、業務効率を考慮するに最も賢明な判断ですね。\nこちらで注文を承ります。"
+  },
+  {
+    "key": "lobby_night_10206_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10206_1-dlg",
+    "original": "저희는 심야 업무를 진행하는 협회원을 위해 늦게까지 주문을 받고 있습니다. 비번이시라면, 간단하게 셰리나 브랜디를 첨가한 차는 어떠실까요?",
+    "context": "EN :\nWe take orders into the late hours for our colleagues working night shifts or overtime. If you are off duty tonight, may I brew you some nice tea with a dash of Sherry or Brandy?\nJP :\n我々は深夜業務を実施する協会員のために遅くまで注文を受け付けています。非番でしたら、簡単にシェリーやブランデーを垂らしたお茶はいかがですか？"
+  },
+  {
+    "key": "smalltalk_10206_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10206_1-dlg",
+    "original": "이 공간은 세븐 협회 안에서 누구보다 차를 사랑하는 사람들이 자체적으로 운영하는 카페테리아입니다.\n모든 분들이 자원해서 근무하고, 담당하는 날이 아니라면 평소의 협회 업무로 돌아가죠. 아, 벌어들인 수익은 당연히 더 좋은 찻잎과 티팟을 사는데 쓰입니다.",
+    "context": "EN :\nThis cafeteria is an employee—run establishment by members of the Seven Association who love tea more than anything else in the world. Shifts are all voluntary, and we return to our usual duties on our off hours. Ah, and it goes without saying that all profits go to purchasing higher—quality tea leaves and teapots.\nJP :\nこの空間はセブン協会の中で、誰よりも茶を愛する人々が自主的に運営するカフェテリアです。\n全ての方々が自主的に勤務し、担当の日でなければ普段の協会業務へ戻ります。あぁ、稼いだ収益は当然より良い茶葉とティーポットを買うのに使われます。"
+  },
+  {
+    "key": "smalltalk_10206_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10206_2-dlg",
+    "original": "우유는! …가능하면 차를 잔에 붓기 전에 먼저 넣으시는 걸 권장… 드립니다.",
+    "context": "EN :\nTHE MILK!...should already be in the cup before the tea is poured. That is our...recommended way.\nJP :\n牛乳は！…可能であれば、お茶を注ぐ前に先に入れることをお勧め…いたします。"
+  },
+  {
+    "key": "smalltalk_10206_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10206_3-dlg",
+    "original": "얼음…을? 아. 죄송하지만 아이스티는 취급하고 있지 않습니다.\n…실례가 되지 않는다면, 홍차를 뜨겁게 즐겨야 하는 이유에 대해서 설명하는 시간을 가져도 되겠습니까?",
+    "context": "EN :\nYou'd like some... ice? Apologies, but this establishment does not serve iced 'tea'.\nIf it is of no trouble to you, may I take a moment of your time to explicate why black tea must be enjoyed at higher temperatures?\nJP :\n氷…を？あぁ。申し訳ないのですがアイスティーは取り扱っておりません。\n…失礼でなければ、紅茶を熱く楽しむべき理由について説明する時間を設けてもよろしいでしょうか？"
+  },
+  {
+    "key": "smalltalk_10206_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10206_4-dlg",
+    "original": "아. 지금은 다른 임무를 진행중입니다.\n당신과 함께 하는 차에 대한 잡담은 언제나 즐겁지만, 잠시만 있다가 하도록 하죠.",
+    "context": "EN :\nAh, I am occupied at the present moment.\nWhile I always enjoy our tea discussions, it must wait for now.\nJP :\nあぁ、今は他の業務を実施中です。\nあなたと共にするお茶に対する雑談はいつであれ楽しいですが、しばらくしてからやりましょう。"
+  },
+  {
+    "key": "smalltalk_10206_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10206_5-dlg",
+    "original": "정교한 임무 수행과 잡맛 없는 차를 우리는 능력. 파우스트는 이 두 가지 일을 양립하는 것을 최우선으로 생각합니다.",
+    "context": "EN :\nPrecise work ethic and talent for brewing tea of exact, pure flavor. Faust considers these as her two primary objectives.\nJP :\n洗練された任務遂行と雑味のない茶を淹れる能力。ファウストはこの二つを両立することを最優先に考えております。"
+  },
+  {
+    "key": "neglect_10206_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10206_1-dlg",
+    "original": "찻잎을 너무 우리는 것은 잡스러운 맛이 올라오는 것을 방치하는 것과 마찬가지 입니다. 지양하는 걸 추천드립니다.",
+    "context": "EN :\nTo over—infuse your tea is to allow impure flavors to surface. Please refrain from doing so.\nJP :\n茶葉を過度に蒸らすことは、雑味がわくのを放置することと大差ありません。控えることをお勧めいたします。"
+  },
+  {
+    "key": "gacksung_10206_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10206_1-dlg",
+    "original": "네, 기꺼이요. 파우스트의 능력이 필요하다면 언제든 불러주세요. 아, 티타임은 제외하도록 하죠.",
+    "context": "EN :\nYes, of course. You may call upon me at any time should the need arise. Unless it's tea time, that is.\nJP :\nはい、喜んで。ファウストの能力が必要であればいつでもお呼びください。あぁ、ティータイムに関しては除いておきます。"
+  },
+  {
+    "key": "formation_10206_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10206_1-dlg",
+    "original": "급행 주문이군요?",
+    "context": "EN :\nAn urgent order, yes?\nJP :\n急な注文ですね？"
+  },
+  {
+    "key": "battleentry_10206_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10206_1-dlg",
+    "original": "현장에서 직접 뵙죠.",
+    "context": "EN :\nI will rendezvous with you out in the field.\nJP :\n現場でお会いしましょう。"
+  },
+  {
+    "key": "battle_select_10206_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10206_1-dlg",
+    "original": "차가 식기 전에.",
+    "context": "EN :\nBefore the tea cools.\nJP :\nお茶が冷める前に。"
+  },
+  {
+    "key": "battle_endcommand_10206_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10206_1-dlg",
+    "original": "깔끔하게.",
+    "context": "EN :\nFlawless.\nJP :\n爽やかに。"
+  },
+  {
+    "key": "battle_enemy_break_10206_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10206_1-dlg",
+    "original": "…부숴진 홍차 잎 같군요.",
+    "context": "EN :\nLike shattered tea leaves.\nJP :\n…砕けた茶葉のようですね。"
+  },
+  {
+    "key": "battle_break_10206_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10206_1-dlg",
+    "original": "아…",
+    "context": "EN :\nAh…\nJP :\nあ…。"
+  },
+  {
+    "key": "battle_kill_10206_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10206_1-dlg",
+    "original": "더 이상 얻을 정보는 없군요.",
+    "context": "EN :\nThere is no more information to be gained.\nJP :\nこれ以上得る情報はありませんね。"
+  },
+  {
+    "key": "battle_dead_10206_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10206_1-dlg",
+    "original": "하… 다음 카페 근무… 이어 받을 사람이 없… 는데.",
+    "context": "EN :\nHaah... But... I don't have anyone... to cover my next shift...\nJP :\nはぁ…次のカフェ勤務…引き継ぐ人がいないの…に。"
+  },
+  {
+    "key": "choice_success_p_10206_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10206_2-dlg",
+    "original": "빈틈 없는 관찰의 결과죠.",
+    "context": "EN :\nA result of meticulous observation.\nJP :\n隙の無い観察の結果です。"
+  },
+  {
+    "key": "choice_fail_n_10206_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10206_1-dlg",
+    "original": "…보기만 하고, 관찰하지 못했군요.",
+    "context": "EN :\n... I should have observed more carefully.\nJP :\n…見てるだけで、観察できていませんでしたね。"
+  },
+  {
+    "key": "battle_clear_10206_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10206_1-dlg",
+    "original": "임무는 성공적이었군요. 아, 다음 카페 근무가 있어서. 먼저 실례하죠.",
+    "context": "EN :\nThis mission was a success. Ah, now I must leave for my shift at the cafeteria. So, if you will excuse me...\nJP :\n任務は成功でしたね。あぁ、次のカフェ勤務がありますので。お先に失礼します、"
+  },
+  {
+    "key": "battle_clear_ex_10206_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10206_1-dlg",
+    "original": "밀크티. 젓지 말고, 가볍게 부어서 부탁드립니다. 역시, 남이 타주는 차가 가장 맛있죠.",
+    "context": "EN :\nMilk tea, please. Poured, not stirred. Indeed, tea tastes better when it is served to you rather than when you serve it yourself.\nJP :\nミルクティー。かき混ぜずに、軽く注いでお願いします。やはり、他人が淹れてくれるお茶が一番美味しいものです。"
+  },
+  {
+    "key": "battle_defeat_10206_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10206_1-dlg",
+    "original": "의도한 대로 되지 않았군요… 차가 부족했기 때문이겠죠. 티타임을 가지고 다시 시도해보죠.",
+    "context": "EN :\nThat was... unexpected. We must not have ingested enough tea. Let us take some time off for tea before our next attempt.\nJP :\n意図通りになりませんでしたね…お茶が足りなかったせいでしょう。ティータイムを経てから再始動しましょう。"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "key": "CandyForCharon-name",
+    "original": "사탕?",
+    "context": "EN :\nCandy?\nJP :\nキャンディー？"
+  },
+  {
+    "key": "CandyForCharon-desc",
+    "original": "- 최댓값: 1\n- 사탕을 가지고 있을까?",
+    "context": "EN :\n- Max Value: 1\n- Where's the candy?\nJP :\n- 最大値: 1\n- キャンディーもってる？"
+  },
+  {
+    "key": "TickTockTickTock-name",
+    "original": "째깍째깍?!",
+    "context": "EN :\nTick-Tock?!\nJP :\nチクタク！？"
+  },
+  {
+    "key": "TickTockTickTock-desc",
+    "original": "- 턴 종료 시, 정신력을 10 회복",
+    "context": "EN :\n- Heal 10 SP at Turn End\nJP :\n- ターン終了時、精神力を10回復"
+  },
+  {
+    "key": "CandyForCharon_LowMoral-name",
+    "original": "사탕",
+    "context": "EN :\nCandy\nJP :\nキャンディー"
+  },
+  {
+    "key": "CandyForCharon_LowMoral-desc",
+    "original": "- 사기 저하\n- 사탕을 가지고 있는 인격과 합 진행 시, 합 위력 +3, 그 외의 인격과 합 진행시, 합 위력 -1",
+    "context": "EN :\n- Low Morale\n- When Clashing against Identities with , Clash Power +3; when clashing against other Identities, Clash Power -1\nJP :\n- 士気低下\n- キャンディーを持つ人格とマッチ進行時、マッチ威力 +3, それ以外の人格とマッチ進行時、マッチ威力 -1"
+  },
+  {
+    "key": "CandyForCharon_LowMoral-summary",
+    "original": "조건에 따라 합위력 증감",
+    "context": "EN :\nConditional Clash Power increase\nJP :\n条件によってマッチ威力が増減"
+  },
+  {
+    "key": "CandyForCharon_Panic-name",
+    "original": "사탕",
+    "context": "EN :\nCandy\nJP :\nキャンディー"
+  },
+  {
+    "key": "CandyForCharon_Panic-desc",
+    "original": "- 패닉\n- 사탕을 가지고 있는 인격과 합 진행 시, 합 위력 +5, 그 외의 인격과 합 진행시, 합 위력 -2",
+    "context": "EN :\n- Panic\n- When Clashing against Identities with , Clash Power +5; when clashing against other Identities, Clash Power -2\nJP :\n- パニック\n- キャンディーを持つ人格とマッチ進行時、マッチ威力 +5, それ以外の人格とマッチ進行時、マッチ威力 -2"
+  },
+  {
+    "key": "CandyForCharon_Panic-summary",
+    "original": "조건에 따라 합위력 증감",
+    "context": "EN :\nConditional Clash Power increase\nJP :\n条件によってマッチ威力が増減"
+  }
+]

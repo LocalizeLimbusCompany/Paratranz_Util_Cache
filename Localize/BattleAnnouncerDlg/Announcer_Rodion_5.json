@@ -1,0 +1,147 @@
+[
+  {
+    "key": "announcer_cheer_5_1-dlg",
+    "original": "좋아~ 얼른 끝내고 밥먹으러 가자구~?",
+    "context": "EN :\nAight~ Let's get this done quickly and get some grub, 'kay~?\nJP :\nよ～し、早く終わらせてご飯食べに行こ～？"
+  },
+  {
+    "key": "announcer_cheer_5_2-dlg",
+    "original": "먼저 끝내고 돌아오는 친구는 맛있는 거 사줄게! 물론~ 회사 카드로!",
+    "context": "EN :\nFirst one to finish gets some tasty food! Of course~ the tab's on the company!\nJP :\n最初に終わらせて帰ってくる子に美味しいもの買ってあげる！もちろん～会社のカードで！"
+  },
+  {
+    "key": "announcer_specialcheer_5_1-dlg",
+    "original": "이대로면 죄다 고깃조각이 되어버리겠는걸… 더 좋은 수가 없나?",
+    "context": "EN :\nThey'll all be minced meat by the end of it... Is there a better way?\nJP :\nこのままじゃみんな肉片になっちゃいそうだけど…もっと良い方法って無いの？"
+  },
+  {
+    "key": "announcer_specialcheer_5_2-dlg",
+    "original": "어우… 너희 괜찮은 거야? 피가 줄줄 흐르는데?",
+    "context": "EN :\nYeesh... You guys alright? You're losing a lot of blood.\nJP :\nおぅぅ…あんたたち大丈夫？血がドボドボ出てるけど？"
+  },
+  {
+    "key": "announcer_enemy_break_5_1-dlg",
+    "original": "저거 봐! 쟤, 휘청거리고 있다!",
+    "context": "EN :\nOver there! That one's stumbling!\nJP :\nあれ見て！あの子、ふらふらしてる！"
+  },
+  {
+    "key": "announcer_ally_break_5_1-dlg",
+    "original": "으익… 그러니까 거기서 이렇게! 피했으면 됐잖아?",
+    "context": "EN :\nEegh... You could've tried dodging it like, this!\nJP :\nうぃっ…だからそこでこう！避ければ良かったんじゃない？"
+  },
+  {
+    "key": "announcer_killenemy_5_1-dlg",
+    "original": "나이스! 하나 재꼈다!",
+    "context": "EN :\nNice! That's one down!\nJP :\nナイス！一つ撃退！"
+  },
+  {
+    "key": "announcer_ally_dead_5_1-dlg",
+    "original": "어우… 단테… 고생해…?",
+    "context": "EN :\nOh boy... Dante... Guess you got work to do, huh...?\nJP :\nおぅ…ダンテ…お疲れさま…？"
+  },
+  {
+    "key": "announcer_enemy_adv_5_1-dlg",
+    "original": "후우, 까딱하면 지겠는걸… 단테, 좀 좋은 생각 없어?",
+    "context": "EN :\nHuuh, we might lose if we don't watch out... Dante, you got any good ideas?\nJP :\nふぅ、下手したら負けそうだね…ダンテ、なんか良い方法ない？"
+  },
+  {
+    "key": "announcer_ally_adv_5_1-dlg",
+    "original": "음~ 금방 끝내고 버스로 돌아갈 수 있겠다, 그치?",
+    "context": "EN :\nMmm~ We can deal with this and get back on the bus in no time, yeah?\nJP :\nう～ん、すぐに終わらせてバスに戻れそう。ね？"
+  },
+  {
+    "key": "announcer_danger_5_1-dlg",
+    "original": "뭔가 싸한데… 하아, 이게 이번 몸으로 들이 쉬는 마지막 숨이 될지도…",
+    "context": "EN :\nI'm getting a bad feeling... Haah, this might be my last breath for this life...\nJP :\n何だかヒヤってするんだけど…はぁ、これがこの身で吸う最後の息になるかも…。"
+  },
+  {
+    "key": "announcer_enemy_specialskill_5_1-dlg",
+    "original": "크, 큰 거 온다… 단테! 얼른 얘들한테도 알려줘!",
+    "context": "EN :\nH-Here comes a big one... Dante! You gotta tell the others!\nJP :\nで、でっかいのが来る…ダンテ！早く他の子らにも教えて！"
+  },
+  {
+    "key": "announcer_enemy_specialgimmick_5_1-dlg",
+    "original": "저거… 뭐 하려는 거지?",
+    "context": "EN :\nHey, that's... up to something, isn't it?\nJP :\nあれ…何するつもりなんだろう？"
+  },
+  {
+    "key": "announcer_advatk_physical_5_1-dlg",
+    "original": "완벽한 한 방! 시원한 걸~",
+    "context": "EN :\nA perfect hit! That felt good to watch~\nJP :\n完璧な一発！きもちぃぃね～。"
+  },
+  {
+    "key": "announcer_disadvatk_physical_5_1-dlg",
+    "original": "그거 그렇게 하는거 맞아…? 거의 솜 방망이인데?",
+    "context": "EN :\nYou sure that's how it's done...? It didn't look like it hurt at all?\nJP :\nそれってそれで合ってる…？ほぼピコピコハンマー状態じゃない？"
+  },
+  {
+    "key": "announcer_advatk_attr_5_1-dlg",
+    "original": "오~ 머리 좋다, 단테! 방금 완전 좋았어!",
+    "context": "EN :\nOh~ That was clever, Dante! It was real nice!\nJP :\nお～頭良いね、ダンテ！さっきめっちゃ良かった！"
+  },
+  {
+    "key": "announcer_disadvatk_attr_5_1-dlg",
+    "original": "음… 나도 그렇게는 안했을 거 같은데… 단테, 많이 피곤해?",
+    "context": "EN :\nMmh... I don't think even I would've done that... You tired, Dante?\nJP :\nう～ん、私ですらそうはしなかったと思うけど…。ダンテ、結構疲れてるの？"
+  },
+  {
+    "key": "announcer_enemy_specialbuff_5_1-dlg",
+    "original": "읏… 쟤네, 고기라도 먹은 것 처럼 기운이 솟잖아…?",
+    "context": "EN :\nNgh... They're getting all pumped up, did they have some meat...?\nJP :\nうっ…あの子ら、肉でも食べたみたいに力が湧いてない…？"
+  },
+  {
+    "key": "announcer_enemy_specialdebuff_5_1-dlg",
+    "original": "흐응, 쟤네 정신을 못차리는 걸? 체라도 했나?",
+    "context": "EN :\nLook at 'em, all weary and flustered. Stomach turned over?\nJP :\nふぅん、あの子ら我を失ってるみたいだね？胃もたれかな？"
+  },
+  {
+    "key": "announcer_ally_specialbuff_5_1-dlg",
+    "original": "오오… 기운이 솟는다! 단테! 가서 빨리 때려눕히자고!",
+    "context": "EN :\nOhh... I'm full of energy! Dante! Let's go and kick 'em down!\nJP :\nおぉ…力が湧いてくる！ダンテ！早く突っ込んでぶちのめそう！"
+  },
+  {
+    "key": "announcer_ally_specialdebuff_5_1-dlg",
+    "original": "음… 얘들 상태가 너무 안좋은 걸…",
+    "context": "EN :\nMm... My pals aren't doing so well...\nJP :\nうーん…うちの子らの状態が悪すぎるね…。"
+  },
+  {
+    "key": "announcer_enemy_destroy_5_1-dlg",
+    "original": "좋아! 부위 하나를 박살냈어!",
+    "context": "EN :\nYeah! Broke a part down!\nJP :\nよし！部位一つをぶっ潰したよ！"
+  },
+  {
+    "key": "announcer_enemy_destroy_5_2-dlg",
+    "original": "후훗, 저거 너덜거리는 것 좀 봐! 완전 제대로 먹혀들었다. 그치?",
+    "context": "EN :\nFuhu, look at it, all tattered! That did a good number on it, yeah?\nJP :\nふふっ。あれ見てよ、ボロボロ！まともに食らわせられたみたい。ねっ？"
+  },
+  {
+    "key": "announcer_round_takebigdmg_5_1-dlg",
+    "original": "어머! 너무 아프게 맞았는데…?",
+    "context": "EN :\nOh gosh! Didn't that hurt...?\nJP :\nあら！めちゃくちゃ痛そうね…？"
+  },
+  {
+    "key": "announcer_round_takebigdmg_5_2-dlg",
+    "original": "쟤, 금방이라도 고깃 조각이 될 거 같은데… 괜찮을까?",
+    "context": "EN :\nThat buddy over there looks like they have one foot in the grave... Will they be alright?\nJP :\nあのこ、今すぐにでも肉片になりそうな気がするけど…大丈夫かな？"
+  },
+  {
+    "key": "announcer_round_givebigdmg_5_1-dlg",
+    "original": "우와~ 엄청난 공격이었어. 기념할만 한걸~?",
+    "context": "EN :\nWow~ That was one heck of an attack. Worth celebrating, don't you think~?\nJP :\nうわぁ～凄い攻撃だった。お祝いしても良いくらいじゃな～い？"
+  },
+  {
+    "key": "announcer_round_givebigdmg_5_2-dlg",
+    "original": "방금 전에는 굉장했다고~ 베르길 그 인간도 이건 인정할 걸?",
+    "context": "EN :\nYou were awesome just now~ I bet even that grumpy guy Vergil will have to give you credit.\nJP :\nさっきのは凄かったよ～。ヴェルギリのヤツも、これは認めるだろうね？"
+  },
+  {
+    "key": "announcer_multikillenemy_5_1-dlg",
+    "original": "한 번 휘두른 걸로 이렇게나~! 완전 멋있는걸?",
+    "context": "EN :\nAll that with just one swing~! That was pretty cool, huh?\nJP :\n一回振っただけでこんなに～！すっごく格好いいね？"
+  },
+  {
+    "key": "announcer_equip_5_1-dlg",
+    "original": "아. 아, 여기다 대고 말하면 돼? 안녕~ 로쟈야~",
+    "context": "EN :\nAh, ah. Do I speak into this thing? Hi~ I'm Rodya~\nJP :\nあ、あ。ここに向かって喋ればいいの？こんちわ～ロージャだよ～。"
+  }
+]

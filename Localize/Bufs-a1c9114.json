@@ -1,0 +1,62 @@
+[
+  {
+    "key": "A1c971a-name",
+    "original": "끓어오르는 분노",
+    "context": "EN :\nBoiling Wrath\nJP :\n湧き上がる憤怒"
+  },
+  {
+    "key": "A1c971a-desc",
+    "original": "매 턴 시작 시, 턴 수만큼 화상을 얻음.",
+    "context": "EN :\nEvery Turn Start: gain Burn equal to Turn Count\nJP :\n毎ターン開始時、ターン数だけ火傷を得る。"
+  },
+  {
+    "key": "A1c971b-name",
+    "original": "퍼져나가는 우울",
+    "context": "EN :\nPropagating Gloom\nJP :\n広がる憂鬱"
+  },
+  {
+    "key": "A1c971b-desc",
+    "original": "턴 종료 시, 수치가 1이라면 체력이 가장 적은 적에게 자신의 현재 체력만큼 피해를 입히고 사망함\n턴 종료 시, 1 감소",
+    "context": "EN :\nTurn End: at 1 Stack, inflict damage equal to this unit's current HP against the enemy with the least HP, then die\nReduced by 1 at Turn End\nJP :\nターン終了時に数値が1なら、体力が最も低い敵へ自分の残体力だけダメージを与えて死亡する\nターン終了時、1減少"
+  },
+  {
+    "key": "A1c971c-name",
+    "original": "계속되는 탐식",
+    "context": "EN :\nPerpetuating Gluttony\nJP :\n続く暴食"
+  },
+  {
+    "key": "A1c971c-desc",
+    "original": "턴 시작 시, 진행된 턴 수 2당 체력 회복량 증가 1 얻음 (최대 5)\n턴 시작 시, 회복한 체력량 10당 피해량 증가 1, 합 위력 증가 1 얻음 (최대 5)\n\n회복한 체력량: {0}",
+    "context": "EN :\nTurn Start: gain 1 HP heal boost every 2 turns (max 5)\nTurn Start: gain 1 Damage Up and 1 Clash Power Up for every 10 HP healed (max 5)\n\nHP Healed: {0}\nJP :\nターン開始時、進行したターン数2につき体力回復量増加1を得る(最大5)\nターン開始時、回復した体力量10につきダメージ量増加1, マッチ威力増加1を得る(最大5)\n\n回復した体力量: {0}"
+  },
+  {
+    "key": "A1c971d-name",
+    "original": "뱉어내는 호흡",
+    "context": "EN :\nGasping Breath\nJP :\n吐き出す呼吸"
+  },
+  {
+    "key": "A1c971d-desc",
+    "original": "호흡을 얻을 때, 호흡 추가 3 얻음 혹은 호흡 횟수 추가 2 증가",
+    "context": "EN :\nWhen gaining Poise, gain 3 additional Poise or +2 additional Poise Count\nJP :\n呼吸を得るときに呼吸を追加で3得るか、呼吸回数が追加で2増加"
+  },
+  {
+    "key": "A1c971e-name",
+    "original": "상처속의 상처",
+    "context": "EN :\nWounded Wound\nJP :\n傷の中の傷"
+  },
+  {
+    "key": "A1c971e-desc",
+    "original": "적중시, 출혈 추가 2 부여 혹은 출혈 횟수 추가 1 증가",
+    "context": "EN :\nOn Hit, inflict 2 additional Bleed or +1 additional Bleed Count\nJP :\n的中時に出血を追加で2付与するか、出血回数が1追加で増加"
+  },
+  {
+    "key": "A1c971f-name",
+    "original": "게으른 나태",
+    "context": "EN :\nLazy Sloth\nJP :\nなまけた怠惰"
+  },
+  {
+    "key": "A1c971f-desc",
+    "original": "턴 종료 시 1 감소.\n0이 되면, EX클리어 실패.",
+    "context": "EN :\nReduced by 1 at Turn End.\nFails Extra Condition at 0\nJP :\nターン終了時に1減少。\n0になった場合はEXクリア失敗。"
+  }
+]

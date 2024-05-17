@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10805_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10805_1-dlg",
+    "original": "하… 비웃지 마세요. 저도 좋아서 이딴 걸 입었겠어요?",
+    "context": "EN :\nHaah... Please hold that laughter. Does it look like I wore this because I liked it?\nJP :\nはぁ…笑わないでください。私が好きでこんなのを着たと思ってます？"
+  },
+  {
+    "key": "lobby_morning_10805_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10805_1-dlg",
+    "original": "아침부터 기분 더럽네… 아, 들으셨나요? 하지만… 사실이에요.",
+    "context": "EN :\nIt's morning, and I already feel like ass... Oh, sorry, did you hear that? But... it really is true.\nJP :\n朝から気分悪っ…。あ、聞こえましたか？でも…事実ですから。"
+  },
+  {
+    "key": "lobby_noon_10805_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10805_1-dlg",
+    "original": "그거 아시나요. 이 끈덕거리는거, 더럽게 맛이 없어요.\n어떻게 알았냐고요…? 점심 시간에 벗어두기 귀찮아서… 여기까지 하죠.",
+    "context": "EN :\nYou know, this sticky thing tastes awful.\nHow do I know...? I couldn't be bothered to take it off during lunchtime, and... let's stop here.\nJP :\n知ってますか。このねちょねちょしてるやつ、クッソ不味いんです。\nなんで知ってるかって…？お昼の時間脱ぐのが面倒臭くて…ここまでにしましょう。"
+  },
+  {
+    "key": "lobby_night_10805_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10805_1-dlg",
+    "original": "장점이라… 이것 보세요. 야광 날개예요. 밤에 불을 켤 필요도 없죠. 유일한 장점이네요.",
+    "context": "EN :\nUpsides, you ask... Check this out. The wings glow. Don't have to turn on the lights at night. I guess that's the one upside it has.\nJP :\n長所ですか…これ見てください。夜光性の翅です。夜でも明かりを付ける必要が無いですね。唯一の長所です。"
+  },
+  {
+    "key": "smalltalk_10805_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10805_1-dlg",
+    "original": "이상하게… 기운은 축축 쳐지지만 생긴 거에 비해 무겁지는 않아요. ",
+    "context": "EN :\nWeirdly enough... while it drags my mood down to the bottom of the barrel, it's not actually as heavy as it looks.\nJP :\nなんだか…力は抜けるんですけど、見た目の割に重くはないです。"
+  },
+  {
+    "key": "smalltalk_10805_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10805_2-dlg",
+    "original": "아핫! …저, 저리 가세요… 하, 이걸 입고 나서부터 자꾸 주정뱅이들 처럼 웃게 되네요. 짜증나.",
+    "context": "EN :\nAhah! ...L-Leave me alone, please... Haah, I keep laughing like drunkards ever since I put this on. It sucks.\nJP :\nあはっ！あ、あっち行ってください…。はぁ、これを着てからずっと飲んだくれみたいに笑うようになったんですよね。イライラする。"
+  },
+  {
+    "key": "smalltalk_10805_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10805_3-dlg",
+    "original": "…날 수 없다니까, 몇 번을 묻는 건가요? 애초에, 이런 조그만 날개로… 하, 그만두죠.",
+    "context": "EN :\n...How many times do you have to ask? I can't fly. I mean, look how small these wings are, and... Haah, forget it.\nJP :\n…飛べませんって、これで何回目ですか？そもそも、こんな小さな翼で…はぁ、この辺にしておきましょう。"
+  },
+  {
+    "key": "smalltalk_10805_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10805_4-dlg",
+    "original": "음… 요정주 한 잔… 대체 왜 이런 말을 하게 되는 거죠? 관리자 님! 당신은 아시는 거죠?!",
+    "context": "EN :\nMmm... A glass of fairy wine... What makes me keep saying this stuff? Manager! You know the answer, right?!\nJP :\nうむ…妖精酒一杯…ああぁっ！なんでこんな言葉が口から？管理人さん！あなたは分かってるんですよね！？"
+  },
+  {
+    "key": "smalltalk_10805_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10805_5-dlg",
+    "original": "왜 제가 이런걸 써야하는 지는 아직도 모르겠지만… 그래도, 쓰면 쓸수록 몸에 익기는 하네요.\n아뇨! 이 젤리 같은걸 말하는 게 아니라, 무기로 쓰는 걸 말하는 거예요!",
+    "context": "EN :\nI still don't know why I have to use this thing... but, it does get more familiar as I keep using it.\nNo! I am NOT talking about this jelly-like thing, I specifically mean the weapon!\nJP :\nどうして私がこんなのを着なきゃならないのかはまだ分からないですけど…でも、使えば使うほど、身体に染みついてきますね。\nいいえ！このゼリーみたいなものじゃなくて、武器として使うって意味でです！"
+  },
+  {
+    "key": "gacksung_10805_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10805_1-dlg",
+    "original": "결국… 이딴 걸로 인정까지 받는 군요… 좋아해야 할지, 싫어해야 할지.",
+    "context": "EN :\nOh, joy... I get recognition for this nonsense... Not sure how I should feel about it.\nJP :\n結局…こんなものなんかで認められたりなんかもするんですね…喜ぶべきか、怒るべきか。"
+  },
+  {
+    "key": "neglect_10805_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10805_1-dlg",
+    "original": "하… 의자에 앉으면 묻어서 앉기도 싫네…",
+    "context": "EN :\nHaah... I don't even feel like sitting, this thing sticks to chairs if I try...\nJP :\nはぁ…椅子に座ろうにも、べと付くから座るのも嫌だなぁ…。"
+  },
+  {
+    "key": "formation_10805_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10805_1-dlg",
+    "original": "기술들을 해방하러 가죠. 안 익숙해서… 조금 느리지만.",
+    "context": "EN :\nLet's go free some technology. I'm not too used to this, so... I might be a bit slow.\nJP :\n技術を解放しに行きましょう。あまり慣れなくて…ちょっと遅いですけど。"
+  },
+  {
+    "key": "battleentry_10805_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10805_1-dlg",
+    "original": "으… 치덕거려.",
+    "context": "EN :\nUgh... It's gooey.\nJP :\nうぅ…ベトベトする。"
+  },
+  {
+    "key": "battle_select_10805_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10805_1-dlg",
+    "original": "꿀꿀하니까, 용건만 간단히요.",
+    "context": "EN :\nNot in the mood, please make it short.\nJP :\n乗り気じゃないので、要件だけ簡単にお願いします。"
+  },
+  {
+    "key": "battle_endcommand_10805_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10805_1-dlg",
+    "original": "갑니다!",
+    "context": "EN :\nHere I go!\nJP :\n行きます！"
+  },
+  {
+    "key": "battle_enemy_break_10805_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10805_1-dlg",
+    "original": "한 잔!…아니, 한 방 먹혔지?",
+    "context": "EN :\nA toast! ...I mean, a clean hit, right?\nJP :\n一杯！…じゃなくて、一発おみまいできたか。"
+  },
+  {
+    "key": "battle_break_10805_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10805_1-dlg",
+    "original": "우엑…",
+    "context": "EN :\nBwegh...\nJP :\nオェッ…。"
+  },
+  {
+    "key": "battle_kill_10805_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10805_1-dlg",
+    "original": "취해서 쓰러지는군.",
+    "context": "EN :\nKnocked out by the booze.\nJP :\n酔って倒れたか。"
+  },
+  {
+    "key": "battle_dead_10805_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_dead_10805_1-dlg",
+    "original": "아… 이럴 때까지 끈적거리고… 말이야…",
+    "context": "EN :\nBah... You had to keep being sticky... to the bitter end...\nJP :\nあぁ…こんなときにもベトベト…してくるんだから…。"
+  },
+  {
+    "key": "choice_success_p_10805_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10805_2-dlg",
+    "original": "끈덕지게 관찰한 결과죠.",
+    "context": "EN :\nObserving with gluey tenacity paid off.\nJP :\n粘り強く観察した結果ですよ。"
+  },
+  {
+    "key": "choice_fail_n_10805_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10805_1-dlg",
+    "original": "으, 이게 걸리적 거려서 그런거예요.",
+    "context": "EN :\nUgh, it's this thing's fault for getting in the way.\nJP :\nうぅ、これがまとわり付いてきたからそうなったんです。"
+  },
+  {
+    "key": "battle_clear_10805_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10805_1-dlg",
+    "original": "휴. 어떻게든 처리 했네요. …이걸로 기술해방에 좀 더 도움이 되었겠죠?",
+    "context": "EN :\nPhew. That's dealt with somehow. ...This will help free more technologies, right?\nJP :\nふぅ。どうにか片付きましたね。…これで少しは技術を解放する役に立ちましたよね？"
+  },
+  {
+    "key": "battle_clear_ex_10805_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10805_1-dlg",
+    "original": "아핫! 해결한 김에, 요정주… 아, 또 헛소리를… 돌아가죠.",
+    "context": "EN :\nAhah! Now that that's done, let's drink some fairy... Oh, there I go again with the twaddle... Let's get back.\nJP :\nあはっ！解決したついでに、妖精酒…。あぁ、また戯言が…帰りましょうか。"
+  },
+  {
+    "key": "battle_defeat_10805_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10805_1-dlg",
+    "original": "젠장… 우린 해방에 실패했군요. 뭐하나 되는게 없네요.",
+    "context": "EN :\nDamn it... We've failed to liberate. Nothing is working out.\nJP :\nクソッ…私たち、解放に失敗しましたね。何一つ上手くいくことがないですね。"
+  }
+]

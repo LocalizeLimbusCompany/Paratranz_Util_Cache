@@ -1,0 +1,252 @@
+[
+  {
+    "key": "get_11011_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_11011_1-dlg",
+    "original": "이건 이거랑 묶어서 같이 배송하고… 경로 확인한 다음에… 이, 이번 집화처리는 왜 이렇게 복잡한 거예요?",
+    "context": "EN :\nI think I can lump this package with that one, and... let's see where this one's gotta go... W-why is the sorting process so complicated this time?\nJP :\nこれはこれと一緒にまとめて配送して…経路を確認した後で…こ、今回の集荷処理はどうしてこんなに複雑なんですか？"
+  },
+  {
+    "key": "lobby_morning_11011_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_11011_1-dlg",
+    "original": "요즘 밤 중에도 배송 의뢰를 자주 배정 받아서… 아침까지 잠을 영 못 잤네요.\n저는… 지금부터라도 조금 자야겠어요.",
+    "context": "EN :\nI haven't been sleeping well, with the recent surge of late-night delivery contracts...\nI'll try to get some sleep in now.\nJP :\n最近は夜中にも配送依頼をよく割り当てられるせいで…朝まで全然眠れませんでしたね。\n僕は…今からでも少し寝ないとです。"
+  },
+  {
+    "key": "lobby_noon_11011_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_11011_1-dlg",
+    "original": "도시락 같은 걸 가져오시면 보통 배달하는 중에 얼어버리는 경우가 많아요.\n딜리버리 캐리어에 넣는 해결사 분들도 종종 있지만… 일단은 제뱌찌 협회 규칙에는 어긋나는 행동이라서요…",
+    "context": "EN :\nBoxed lunches usually end up freezing solid when we're making deliveries through the cold.\nThat's why some Fixers keep their lunches in the Courier Trunks they've been assigned, but... that's a violation of the Devyat' Association rules...\nJP :\nお弁当みたいなのを持ってこられると、普通は配達中に凍ってしまうことが多いです。\nデリバリーキャリアに入れるフィクサーさんも時々いますけど…一応ヂェーヴィチ協会の規則に反する行為ですから…。"
+  },
+  {
+    "key": "lobby_night_11011_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_11011_1-dlg",
+    "original": "밤길이 위험한 건 알지만… 그래도 가야 해요.\n뒷골목의 밤이 오기 전까지 배달해야 할 물품이 있거든요.",
+    "context": "EN :\nIt's dangerous to travel at night, but... I don't have a choice.\nThere's a package that needs to be delivered before the Night in the Backstreets.\nJP :\n夜道が危険なのは分かってますけど…それでも行かないといけません。\n裏路地の夜が来る前に配達しなければならない物品があるんです。"
+  },
+  {
+    "key": "smalltalk_11011_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_11011_1-dlg",
+    "original": "제뱌찌 협회의 해결사라면 각 구역의 문화는 잘 알아두는 편이 좋아요.\n배달을 빠르게 하는 것도 좋지만, 구역에 있는 날개나 조직의 금기를 어기지 않는 것도 중요하거든요.",
+    "context": "EN :\nIt's important for Fixers of the Devyat' Association to keep themselves up-to-date about cultures of each District.\nSpeed is one thing, but we also have to be careful not to accidentally break a Taboo of a Wing or a Syndicate's rule.\nJP :\nヂェーヴィチ協会のフィクサーであれば、各区域の文化はよく知っておくのがいいですよ。\n素早く配達するのも良いですけど、区域にある翼や組織の禁忌を犯さないことも重要ですからね。"
+  },
+  {
+    "key": "smalltalk_11011_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_11011_2-dlg",
+    "original": "자동차를 타고 배송하면 안 되냐구요? 음… 그런 걸 이용하는 것보다는 플루드니차가 안내해주는 지름길로 가는 게 대체로 빠를 걸요?",
+    "context": "EN :\nWhy don't I just drive there, you ask? Um... I'm pretty sure going on foot and following Poludnitsa's shortcut directions would get me there much faster than driving would.\nJP :\n自動車に乗って配送しちゃ駄目か、ですか？うーん…そんなのを使うよりかはポルードニツァが案内してくれる近道で行った方が大抵早いと思いますよ？"
+  },
+  {
+    "key": "smalltalk_11011_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_11011_3-dlg",
+    "original": "대부분의 위기 상황은 플루드니차가 출력 제한을 해제해주면 이겨낼 수 있지만…\n그러면 배달비가 한 푼도 안 남기도 하고… 무엇보다 제 수명이 남아나지 않아서요.",
+    "context": "EN :\nI can survive most risky situations by having Poludnitsa disengage the output threshold.\nBut that'll deduct way too much money from my payout... If it doesn't kill me in the process.\nJP :\nほとんどの危機状況はポルードニツァが出力制限を解除してくれれば乗り越えられますけど…。\nそうすると配達料が一銭も残りませんし…何より僕の寿命が保たないので。"
+  },
+  {
+    "key": "smalltalk_11011_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_11011_4-dlg",
+    "original": "<color=#9eada4><size=60%><i>[전방 200m 앞, 조직 간 분쟁 발생. 배송 지연 우려. 경로를 재탐색합니다.]</i></size></color> 오늘따라 길이 자주 바뀌네요… 그럼 왼쪽 길인가?\n<color=#9eada4><size=60%><i>[새로운 경로로 안내합니다]</i></size></color> 건물 위로… 뛰라구요!?",
+    "context": "EN :\n<color=#9eada4><size=60%><i>[Possible delivery delay detected: Syndicate altercation 200m ahead. Rerouting.]</i></size></color>\nLots of route adjustments today, huh... Left turn, then?\n<color=#9eada4><size=60%><i>[New route discovered; navigating courier.]</i></size></color> You want me to... <i>scale</i> the building?!\nJP :\n<color=#9eada4><size=60%><i>[前方200m先、組織間の紛争が発生。配達遅延の懸念。経路を再探索します。]</i></size></color> 今日に限って道がよく変わりますね…それじゃあ左の道かな？\n<color=#9eada4><size=60%><i>[新しい経路へ案内します]</i></size></color> 建物の上を…飛べってことですか！？"
+  },
+  {
+    "key": "smalltalk_11011_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_11011_5-dlg",
+    "original": "보통 저희를 습격하는 건 차원가방에 대해 아는 게 없는 뒷골목의 하급 조직원들이죠. 딜리버리 캐리어 안에 있는 물건은 보안 모드 때문에 못 가져가는데.\n손가락의 조직원 분들은… 고객으로 만날 때가 더 많죠.",
+    "context": "EN :\nOnly lower-rung Syndicate henchmen who don't know about these dimensional bags are dumb enough to attack us. Courier Trunks are locked by Protection Mode anyway, so...\nOh, what about members of the Fingers? They're... we usually meet them as our clients.\nJP :\n普通、僕たちを襲撃するのは次元鞄について何も知らない裏路地の下級組織員たちです。デリバリーキャリアの中にある物はセキュリティモードのせいで持っていけないのに。\n指の組織員の方々は…顧客として会うことの方が多いですね。"
+  },
+  {
+    "key": "neglect_11011_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_11011_1-dlg",
+    "original": "…플루드니차. 심심한데 노래라도 틀어주면 안돼요? <color=#9eada4><size=60%><i>[플루드니차는 해당 기능을 지원하지 않습니다.]</i></size></color> 어? 저번에 로쟈 씨가… <color=#9eada4><size=60%><i>[정정. 본 AI는 해당 기능을 지원하지 않습니다.]</i></size></color>",
+    "context": "EN :\nPoludnitsa, I'm bored. Can you play me a song?\n<color=#9eada4><size=60%><i>[Poludnitsa does not support the requested functionality.]</i></size></color>\nHuh? But Miss Rodya said—\n<color=#9eada4><size=60%><i>[Correction. This AI model does not support the requested functionality.]</i></size></color>\nJP :\n…ポルードニツァ。退屈なので何か歌でも流してくれませんか？ <color=#9eada4><size=60%><i>[ポルードニツァは該当機能をサポートしていません。]</i></size></color> え？ この前ロージャさんが…。 <color=#9eada4><size=60%><i>[訂正。本AIはその機能をサポートしていません。]</i></size></color>"
+  },
+  {
+    "key": "gacksung_11011_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_11011_1-dlg",
+    "original": "으… 쓰기 싫었는데… 시간 안에 지나가려면…! 플루드니차, 모드 전환! <color=#9eada4><size=60%><i>[해머 모드 전환. 붕괴입자의 흔들림에 맞춰 강하게 휘두르십시오.]</i></size></color>",
+    "context": "EN :\nUgh, I really hoped it wouldn't have to come to this, but I need to get there in time...! Poludnitsa, engage mode conversion!\n<color=#9eada4><size=60%><i>[Hammer mode engaged. Swing to the undulation of decay particles.]</i></size></color>\nJP :\nうぅ…使いたくなかったのに…時間内に通り抜けるためには…！ポルードニツァ、モード転換！ <color=#9eada4><size=60%><i>[ハンマーモード転換。崩壊粒子の揺れに合わせて強く振ってください。]</i></size></color>"
+  },
+  {
+    "key": "formation_11011_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_11011_1-dlg",
+    "original": "새로운 배달 의뢰인가요?",
+    "context": "EN :\nIs it a new delivery order?\nJP :\n新しい配達依頼ですか？"
+  },
+  {
+    "key": "battleentry_11011_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_11011_1-dlg",
+    "original": "다음 배송지는…",
+    "context": "EN :\nMy next destination is...\nJP :\n次の配送先は…。"
+  },
+  {
+    "key": "battle_select_11011_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_11011_1-dlg",
+    "original": "어… 부르셨어요? 혹시 제뱌찌를 통해 주문한 물품이라도…",
+    "context": "EN :\nUh... did you call me? Oh, did you order something through the Devyat'?\nJP :\nあ…呼びましたか？もしかしてヂェーヴィチを通じて注文した物品でも…。"
+  },
+  {
+    "key": "battle_endcommand_11011_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_11011_1-dlg",
+    "original": "아직 안 늦었어…",
+    "context": "EN :\nI still have time...\nJP :\nまだ遅れてない…。"
+  },
+  {
+    "key": "battle_enemy_break_11011_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_11011_1-dlg",
+    "original": "비켜주시면 안돼요…?",
+    "context": "EN :\nCan you clear the way, please...?\nJP :\nどいてもらえたりしませんか…？"
+  },
+  {
+    "key": "battle_break_11011_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_11011_1-dlg",
+    "original": "으윽…",
+    "context": "EN :\nNngh...\nJP :\nうぅっ…。"
+  },
+  {
+    "key": "battle_kill_11011_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_11011_1-dlg",
+    "original": "…비켜달라고 했잖아요!",
+    "context": "EN :\n... I said move!\nJP :\n…どいてくださいって言いましたよね！"
+  },
+  {
+    "key": "battle_dead_11011_1-desc",
+    "original": "본인 사망 1",
+    "context": "EN :\nDeath #1\nJP :\n本人死亡1"
+  },
+  {
+    "key": "battle_dead_11011_1-dlg",
+    "original": "플루드니차… 살려주세… <color=#9eada4><size=60%><i>[활로 개척 실패. 담당자가 부재중입니다. 플루드니차, 보안 모드 작동.]</i></size></color>",
+    "context": "EN :\nPoludnitsa... help... <color=#9eada4><size=60%><i>[Pathfinding failed. Courier absence detected. Poludnitsa, engaging Protection Mode.]</i></size></color>\nJP :\nポルードニツァ…助けてくだ…。 <color=#9eada4><size=60%><i>[活路開拓失敗。担当者が不在です。ポルードニツァ、保安モード作動。]</i></size></color>"
+  },
+  {
+    "key": "battle_dead_11011_2-desc",
+    "original": "본인 사망 2",
+    "context": "EN :\nDeath #2\nJP :\n本人死亡2"
+  },
+  {
+    "key": "battle_dead_11011_2-dlg",
+    "original": "시, 싫어요! 한 번만 봐주세요! 이때까지 잘… <color=#9eada4><size=60%><i>[통보. 배달 실패. 잠시 후 담당자를 수거합니다. 당신의 노고에 감사드립니다. 플루드니차, 보안 모드 작동.]</i></size></color>",
+    "context": "EN :\nN-no! Please, please give me another chance! I've never been late bef— <color=#9eada4><size=60%><i>[Update. Delivery failed. The courier will be collected shortly. Thank you for your service. Poludnitsa, engaging Protection Mode.]</i></size></color>\nJP :\nい、嫌です！一回だけでいいから見逃してください！今までちゃんと― <color=#9eada4><size=60%><i>[通告。配達失敗。しばらくして担当者を回収します。あなたのご苦労に感謝いたします。ポルードニツァ、保安モード作動。]</i></size></color>"
+  },
+  {
+    "key": "choice_success_p_11011_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_11011_2-dlg",
+    "original": "…다음엔 이런 심부름은 안 해드릴 거예요.",
+    "context": "EN :\n... I'm not running an errand like this for you again.\nJP :\n…次はこんなおつかい、やってあげませんからね。"
+  },
+  {
+    "key": "choice_fail_n_11011_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_11011_1-dlg",
+    "original": "바, 바빠서 어쩔 수 없었어요.",
+    "context": "EN :\nI-I'm busy, okay?\nJP :\nい、忙しくてどうしようもなかったんです。"
+  },
+  {
+    "key": "battle_clear_11011_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_11011_1-dlg",
+    "original": "으아아아! 주문하신 상품 배송 완료했어요! 저, 안 늦었죠? 아직 배송 예정 시간 안 지난 거죠?",
+    "context": "EN :\nAAAHHHHH! Your package has been delivered! I'm not late, am I? I'm on time for the delivery, right?\nJP :\nうわぁぁぁ！ ご注文の商品、配送完了しました！ 僕、遅れてませんよね？ まだ配送予定時間は過ぎてませんよね？"
+  },
+  {
+    "key": "battle_clear_ex_11011_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_11011_1-dlg",
+    "original": "주문하신 상품을 예정된 시간보다 일찍 배송할 수 있겠네요. 의뢰인 분이 좋아하시겠어요.",
+    "context": "EN :\nThis package will be delivered earlier than expected. The client will be happy to hear that.\nJP :\nご注文の商品を予定時間より早く配送できそうですね。依頼人さんが喜びますよ。"
+  },
+  {
+    "key": "battle_defeat_11011_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_11011_1-dlg",
+    "original": "헉… 헉… 거, 거의 다 왔어요, 플루드니차! 조금만 더 가면 된다구요! 5분만 기다려 주시면…!",
+    "context": "EN :\nPant... pant... I-I'm almost there, Poludnitsa! I just need five more minutes, please...!\nJP :\nはぁ…はぁ…も、もうすぐ着きます、ポルードニツァ！もう少し進みさえすればいいって言ってるんです！ あと5分だけ待ってくだされば…！"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10506_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10506_1-dlg",
+    "original": "준비되었습니다. 제가 앞장서도록 하죠.",
+    "context": "EN :\nI'm ready. Let me take the vanguard.\nJP :\n準備できました。私が前に立ちましょう。"
+  },
+  {
+    "key": "lobby_morning_10506_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10506_1-dlg",
+    "original": "아침에 깨어날 때마다 다시 부화한 느낌이 듭니다.",
+    "context": "EN :\nEvery morning, I feel as though I am newly hatched.\nJP :\n朝目覚めるたびに、再び孵化したような気分になります。"
+  },
+  {
+    "key": "lobby_noon_10506_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10506_1-dlg",
+    "original": "낮이군요. 기동 훈련을 수행할 시간입니다. 식사는, 간단하게 해결해 두었습니다.",
+    "context": "EN :\nIt's afternoon—time for maneuver training. As for lunch, I had something simple.\nJP :\n昼ですね。機動訓練を遂行する時間です。食事は、簡単に済ませておきました。"
+  },
+  {
+    "key": "lobby_night_10506_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10506_1-dlg",
+    "original": "밤이면 선별되었던 날들이 떠오릅니다.",
+    "context": "EN :\nNighttime brings back memories of my selection.\nJP :\n夜になると選抜されていた日々が思い浮かびます。"
+  },
+  {
+    "key": "smalltalk_10506_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10506_1-dlg",
+    "original": "이 슈트… 말씀이십니까. 죄송하지만, 이것은 저희 코뿔소 팀 외에는 사용할 수 없는 슈트입니다.\n무게도 문제지만, 생체전류와 감응해야 하기 때문에 별도의 시술 없이는 움직이지도 못하시게 될 겁니다.",
+    "context": "EN :\nThis suit...? I'm sorry, but only the Rhino Team can use this suit.\nYou won't be able to lift a finger without a special procedure allowing your bioelectricity to be detected by the suit, much less endure the suit's weight.\nJP :\nこのスーツ…のことですか。申し訳ないのですが、これは我々サイチーム以外は使用できないスーツです。\n重さも問題ですが、生体電流と感応しなければならないので別途の施術なしでは動くこともできないでしょう。"
+  },
+  {
+    "key": "smalltalk_10506_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10506_2-dlg",
+    "original": "저희는 전투의 가장 앞을 담당합니다. 협력하는 이들을 위해, 모든 것을 튕겨내고 상대의 전열을 무너뜨리죠.",
+    "context": "EN :\nWe are vanguards of the battlefield. We defend those who work with us and disrupt the enemy lines.\nJP :\n我々は戦闘の最前を担当します。協力する者たちのため、全てを弾き飛ばして相手の前列を崩すのです。"
+  },
+  {
+    "key": "smalltalk_10506_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10506_3-dlg",
+    "original": "훈련이 너무 잦아 보일 수 있겠지만… 모두 필요한 것입니다. 언제, 어디에 투입될지 모르기 때문입니다.\n…하지만 훈련에 적극 참여하는 자들이 드물긴 하군요.",
+    "context": "EN :\nThe training may appear excessively frequent... yet it is all necessary. Unforeseen deployment may happen at any time.\n...Not many of them appear enthusiastic, however.\nJP :\n訓練がとても頻繁にあるように見えますが…全て必要なものです。いつ、どこに投入されるか分からないせいです。\n…しかし、訓練に積極的に参加する者は稀ではありますね。"
+  },
+  {
+    "key": "smalltalk_10506_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10506_4-dlg",
+    "original": "전투 경험이 떨어지는 경우는 솔직히, 많이 없습니다. 일단 R사에 입사하게 되면, 그 경험은 질리도록 쌓기 때문이죠…\n다시 떠올리고 싶진 않군요.",
+    "context": "EN :\nTo be frank, not many are lacking in combat experience. Joining R Corp. means that you'll soon have plenty of it, that's why...\nI don't wish to recall them, however.\nJP :\n戦闘経験が劣る場合は正直、沢山あります。一旦R社に入社すれば、その経験は飽きるほど積むことになりますからね…。\n二度と思い出したくはありませんが。"
+  },
+  {
+    "key": "smalltalk_10506_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10506_5-dlg",
+    "original": "제가 저를 부수고 터트리는 경험은, 굉장히 불쾌한 경험입니다. 저는 그 필요성을 익히 알고 있기 때문에, 이해했지만…\n당신은 가능하면 경험하지 않았으면 좋겠군요.",
+    "context": "EN :\nBreaking and bursting myself is an awfully unpleasant experience. I do understand its necessity, however...\nI hope you won't ever experience it yourself.\nJP :\n私が私を壊し潰す経験は、とても不快な経験です。私はその必要性がよく分かっているので、理解しましたが…。\n貴方が経験することは、できればない方が嬉しいですね。"
+  },
+  {
+    "key": "neglect_10506_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10506_1-dlg",
+    "original": "간단한 근력 운동을 하고 있기 좋은 시간이군요.",
+    "context": "EN :\nThis seems like a good time to do some anaerobic exercise.\nJP :\n簡単な筋トレを行うのに適した時間ですね。"
+  },
+  {
+    "key": "gacksung_10506_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10506_1-dlg",
+    "original": "알겠습니다. 지원해주신 만큼, 확실한 전투 결과를 가져다 드리겠습니다.",
+    "context": "EN :\nUnderstood. I will bring you results that are as good as your support.\nJP :\n分かりました。ご支援なさった分、確実な戦闘結果を持って参ります。"
+  },
+  {
+    "key": "formation_10506_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10506_1-dlg",
+    "original": "투입이군요.",
+    "context": "EN :\nDeployment.\nJP :\n投入ですね。"
+  },
+  {
+    "key": "battleentry_10506_1-desc",
+    "original": "입장",
+    "context": "EN :\nEntry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10506_1-dlg",
+    "original": "슈트 가압… 실시.",
+    "context": "EN :\nCommencing... suit pressurization.\nJP :\nスーツ加圧…実施。"
+  },
+  {
+    "key": "battle_select_10506_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10506_1-dlg",
+    "original": "이곳은 위험합니다.",
+    "context": "EN :\nIt's not safe here.\nJP :\nこちらは危険です。"
+  },
+  {
+    "key": "battle_endcommand_10506_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10506_1-dlg",
+    "original": "흐읍!",
+    "context": "EN :\nHaah!\nJP :\nはぁっ！"
+  },
+  {
+    "key": "battle_enemy_break_10506_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10506_1-dlg",
+    "original": "전열이 무너졌군.",
+    "context": "EN :\nTheir lines are broken.\nJP :\n前列が崩れたか。"
+  },
+  {
+    "key": "battle_break_10506_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10506_1-dlg",
+    "original": "으음…",
+    "context": "EN :\nHnnh...\nJP :\nうぅん…。"
+  },
+  {
+    "key": "battle_kill_10506_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10506_1-dlg",
+    "original": "생명활동의 정지를 확인했다.",
+    "context": "EN :\nConfirming cessation of biological activity.\nJP :\n生命活動の停止を確認した。"
+  },
+  {
+    "key": "battle_dead_10506_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10506_1-dlg",
+    "original": "아… 다시 선별과정을 거쳐야 하는 것인가…",
+    "context": "EN :\nAh... must I repeat the selection process...?\nJP :\nあぁ…また選抜過程を経る必要があるのか…。"
+  },
+  {
+    "key": "choice_success_p_10506_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10506_2-dlg",
+    "original": "선별된 저의 성과입니다.",
+    "context": "EN :\nSelecting me brings success.\nJP :\n選抜された者の成果です。"
+  },
+  {
+    "key": "choice_fail_n_10506_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10506_1-dlg",
+    "original": "이런 상황은… 예측 못했군요.",
+    "context": "EN :\nI did not anticipate... this outcome.\nJP :\nこのような状況は…予測できませんでしたね。"
+  },
+  {
+    "key": "battle_clear_10506_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10506_1-dlg",
+    "original": "나쁘지 않은 결과 입니다. 오늘 부족했던 점은 훈련으로 충당하겠습니다.",
+    "context": "EN :\nAn adequate result. I will make up for the mistakes today with additional training.\nJP :\n悪くない結果です。本日不足した点は訓練にて充当いたします。"
+  },
+  {
+    "key": "battle_clear_ex_10506_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10506_1-dlg",
+    "original": "부족함이 없는 결과군요. 부화장의 엄격한 선별이 맺은 결실입니다.",
+    "context": "EN :\nA flawless result. An outcome made possible by the rigorous selection process of the Hatchery.\nJP :\n不足ない結果ですね。孵化場の厳格な選抜による結実です。"
+  },
+  {
+    "key": "battle_defeat_10506_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10506_1-dlg",
+    "original": "전투 경험이… 부족했군요… 다시 부화장으로 보내질테죠…",
+    "context": "EN :\nI lacked... combat experience... I will be sent back to the Hatchery, then...\nJP :\n戦闘経験が…不足していましたね…。再び孵化場へと送られるでしょう…。"
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "key": "9008801-name",
+    "original": "형용할 수 없는 형체",
+    "context": "EN :\nIneffable Shape\nJP :\n形容し難い形状"
+  },
+  {
+    "key": "9008801-desc",
+    "original": "교전 중 사망시 자신을 마지막으로 공격한 인격의 정신력 피해 10",
+    "context": "EN :\nWhen killed in combat, deal 10 SP damage to the unit that attacked it last\nJP :\n交戦中死亡時、自分を最後に攻撃した人格へ精神力ダメージ10"
+  },
+  {
+    "key": "9008901-name",
+    "original": "백화",
+    "context": "EN :\nPallidification\nJP :\n白化"
+  },
+  {
+    "key": "9008901-desc",
+    "original": "매 턴마다 자신을 제외한 살아있는 백화인 아군당 자신의 공격 레벨과 방어 레벨이 2씩 증가한다.",
+    "context": "EN :\nGain 2 Offense Level and Defense Level for every living Pallidified ally (not counting this unit)\nJP :\n毎ターン、自分を除いた生きている白化している味方1つにつき、自分の攻撃レベルと防御レベルが2ずつ増加する。"
+  },
+  {
+    "key": "9008902-name",
+    "original": "덮쳐오는 부정",
+    "context": "EN :\nCrashing Filth\nJP :\n襲いかかる否定"
+  },
+  {
+    "key": "9008902-desc",
+    "original": "전체 체력의 10%만큼 남았을 경우, 적중 시 정신력 피해 20을 입히고 다음 턴에 창백한 소음 1을 부여한 뒤, 사망함.",
+    "context": "EN :\nAt 10% of Max HP, inflict 20 SP damage On Hit, inflict 1 Pallid Noise next turn, then dies.\nJP :\n全体力の10%分が残っている場合、的中時に精神力ダメージ20を与え、次のターンにて蒼白な騒音 1を付与して死亡。"
+  },
+  {
+    "key": "9008903-name",
+    "original": "퍼져가는 불결",
+    "context": "EN :\nSpreading Flames\nJP :\n広がりゆく不潔"
+  },
+  {
+    "key": "9008903-desc",
+    "original": "턴 종료 시 백화 상태의 아군이 있을 때, 자신을 제외한 백화 상태 아군 수만큼 정신력 20이상의 모든 적 정신력 감소",
+    "context": "EN :\nIf there are surviving Pallidified allies at Turn End, all enemies with 20 or more SP lose 1 SP for every surviving Pallidified ally (not counting this unit)\nJP :\nターン終了時に白化状態の味方がいるとき、自分を除いた白化状態の味方の数だけ、精神力20以上の全ての敵の精神力を減少。"
+  },
+  {
+    "key": "9009001-name",
+    "original": "퍼져가는 불결",
+    "context": "EN :\nSpreading Flames\nJP :\n広がりゆく不潔"
+  },
+  {
+    "key": "9009001-desc",
+    "original": "턴 종료 시 백화 상태의 아군이 있을 때, 자신을 제외한 백화 상태 아군 수만큼 정신력 20이상의 모든 적 정신력 감소",
+    "context": "EN :\nIf there are surviving Pallidified allies at Turn End, all enemies with 20 or more SP lose 1 SP for every surviving Pallidified ally (not counting this unit)\nJP :\nターン終了時に白化状態の味方がいるとき、自分を除いた白化状態の味方の数だけ、精神力20以上の全ての敵の精神力を減少。"
+  },
+  {
+    "key": "9009101-name",
+    "original": "응어리 치유",
+    "context": "EN :\nHealing Resentment\nJP :\nしこりの治癒"
+  },
+  {
+    "key": "9009101-desc",
+    "original": "턴 종료 시 백화 상태의 아군이 있을 때, 자신을 제외한 모든 백화 상태 아군을 (자신을 제외한 백화 상태 아군 수 * 3)만큼 체력 회복",
+    "context": "EN :\nIf there are surviving Pallidified allies at Turn End, all other Pallidified allies heal (# of other Pallidified allies * 3) HP\nJP :\nターン終了時に白化状態の味方がいるなら、自分を除いた白化状態の全味方を(自分を除く白化状態の味方の数 × 3)だけ体力を回復。"
+  },
+  {
+    "key": "9009201-name",
+    "original": "쌓여가는 유기",
+    "context": "EN :\nCumulating Organic Material\nJP :\n積もりゆく有機"
+  },
+  {
+    "key": "9009201-desc",
+    "original": "자신을 제외한 살아있는 아군당 자신의 방어 레벨이 1 증가",
+    "context": "EN :\nDefense Level +1 for every surviving ally (not counting this unit)\nJP :\n自分を除く生存している味方1つにつき、自分の防御レベルが1増加"
+  },
+  {
+    "key": "9009202-name",
+    "original": "붕괴한 무기",
+    "context": "EN :\nDisintegrating Inorganic Material\nJP :\n崩壊した無機"
+  },
+  {
+    "key": "9009202-desc",
+    "original": "아군이 죽었다면, 다음 턴에 취약 1 얻음",
+    "context": "EN :\nGain 1 Fragile next turn if an ally dies\nJP :\n味方が死んだなら、次のターンに脆弱 1を得る"
+  },
+  {
+    "key": "9009301-name",
+    "original": "얽혀있는 유기",
+    "context": "EN :\nIntertwined Organic Material\nJP :\n絡まった有機"
+  },
+  {
+    "key": "9009301-desc",
+    "original": "자신을 제외한 살아있는 아군당 자신의 공격 레벨이 1 증가",
+    "context": "EN :\nOffense Level +1 for every surviving ally (not counting this unit)\nJP :\n自分を除く生存している味方1つにつき、自分の攻撃レベルが1増加"
+  },
+  {
+    "key": "9009302-name",
+    "original": "헤쳐진 무기",
+    "context": "EN :\nScattered Inorganic Material\nJP :\n荒らされた無機"
+  },
+  {
+    "key": "9009302-desc",
+    "original": "아군이 죽었다면, 다음 턴에 공격 위력 감소 1 얻음",
+    "context": "EN :\nGain 1 Attack Power Down next turn if an ally dies\nJP :\n味方が死んだなら、次のターンに攻撃威力減少 1を得る"
+  },
+  {
+    "key": "9009401-name",
+    "original": "유기적인 호흡",
+    "context": "EN :\nOrganic Breathing\nJP :\n有機的な呼吸"
+  },
+  {
+    "key": "9009401-desc",
+    "original": "자신의 공격으로 적을 처치했다면, 다음 턴에 모든 백화 상태의 아군에게 호흡 5 부여. 호흡 횟수 1 증가",
+    "context": "EN :\nIf this unit dealt the final blow, apply 5 Poise to all Pallidified allies. Apply 1 Poise Count\nJP :\n自分の攻撃で敵を討伐したなら、次のターンに白化状態の全味方に呼吸 5を付与。呼吸 回数が1増加"
+  },
+  {
+    "key": "9009501-name",
+    "original": "유기적인 경화",
+    "context": "EN :\nOrganic Hardening\nJP :\n有機的な硬化"
+  },
+  {
+    "key": "9009501-desc",
+    "original": "자신의 공격으로 적을 처치했다면, 다음 턴에 모든 아군에게 보호 1, 방어 레벨 증가 2 부여",
+    "context": "EN :\nIf this unit dealt the final blow, apply 1 Protection and 2 Defense Level Up to all allies.\nJP :\n自分の攻撃で敵を討伐したのなら、次のターンに全味方へ保護 1, 防御レベル 2増加を付与"
+  },
+  {
+    "key": "9009601-name",
+    "original": "원한 문신",
+    "context": "EN :\nVengeance Tattoo\nJP :\n怨恨の刺青"
+  },
+  {
+    "key": "9009601-desc",
+    "original": "이번 전투에서 중지 소속 아군이 사망할 때마다 공격 레벨 증가 1을 얻음 (최대 5)",
+    "context": "EN :\nEvery time a Middle ally is killed in this encounter, gain 1 Offense Level Up (Max 5)\nJP :\n今回の戦闘にて、中指所属の味方が死亡するたびに攻撃レベル増加 1を得る(最大5)"
+  },
+  {
+    "key": "9009602-name",
+    "original": "사소한 원한",
+    "context": "EN :\nLittle Vengeance\nJP :\n些細な怨恨"
+  },
+  {
+    "key": "9009602-desc",
+    "original": "합 패배시 다음 턴에 빼기 코인 강화 1얻음 (턴 당 최대 2번)",
+    "context": "EN :\nUpon Clash Lose, gain 1 Minus Coin Boost next turn (2 times per turn)\nJP :\nマッチ敗北時、次のターンに減算コイン強化 1を得る(1ターンにつき最大2回)"
+  },
+  {
+    "key": "9009603-name",
+    "original": "배로 갚기",
+    "context": "EN :\nMultifold Retribution\nJP :\n倍返し"
+  },
+  {
+    "key": "9009603-desc",
+    "original": "체력이 20%이하일 때, 배로 갚기를 사용한다. (웨이브당 한 번)",
+    "context": "EN :\nUse \"Multifold Retribution' at 20% or less HP. (Once per wave)\nJP :\n体力が20%以下のとき、倍返しを使用する。(ウエーブにつき1回)"
+  },
+  {
+    "key": "9009604-name",
+    "original": "의리 사슬",
+    "context": "EN :\nChains of Loyalty\nJP :\n義理の鎖"
+  },
+  {
+    "key": "9009604-desc",
+    "original": "중지 소속 아군 사망 시 다음 턴에 더하기 코인 강화 1을 얻음.",
+    "context": "EN :\nWhen a Middle ally is killed, gain 1 Plus Coin Boost next turn.\nJP :\n中指所属の味方が死亡時、次のターンに加算コイン強化 1を得る。"
+  },
+  {
+    "key": "809901-name",
+    "original": "작은 형님",
+    "context": "EN :\nThe Big Brother\nJP :\n末兄"
+  },
+  {
+    "key": "809901-desc",
+    "original": "턴 시작 시 자신을 포함한 모든 아군의 정신력 10 회복",
+    "context": "EN :\nAll allies heal 10 SP at Turn Start\nJP :\nターン開始時、自分を含めた全味方の精神力を10回復"
+  },
+  {
+    "key": "809902-name",
+    "original": "의리 사슬",
+    "context": "EN :\nChains of Loyalty\nJP :\n義理の鎖"
+  },
+  {
+    "key": "809902-desc",
+    "original": "중지 소속 아군 사망 시 다음 턴에 더하기 코인 강화 1을 얻음. (최대 2)",
+    "context": "EN :\nWhen an ally from the Middle is killed, gain 1 Plus Coin Boost next turn. (Max 2)\nJP :\n中指所属の味方が死亡時、次のターンに加算コイン強化 1を得る。(最大2)"
+  },
+  {
+    "key": "809903-name",
+    "original": "위압",
+    "context": "EN :\nDomineer\nJP :\n威圧"
+  },
+  {
+    "key": "809903-desc",
+    "original": "자신을 공격한 대상이 스킬 피해로 자신에게 체력 피해를 12 이상 입히지 못한 경우, 대상의 정신력 10 감소",
+    "context": "EN :\nIf an enemy that attacked this unit fails to deal more than 12 HP damage with their Skill, the enemy loses 10 SP\nJP :\n自分を攻撃した対象がスキルで自分にダメージを12以上与えられなかった場合、対象の精神力を10減少"
+  },
+  {
+    "key": "809904-name",
+    "original": "머리 털기",
+    "context": "EN :\nBrush it Off\nJP :\n髪を振り払う"
+  },
+  {
+    "key": "809904-desc",
+    "original": "패닉 상태가 되면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력이 0으로 초기화 됨.",
+    "context": "EN :\nWhen in panic, recover from panic at the start of the next turn and reset SP to 0.\nJP :\nパニック状態になると、次のターン開始時にパニック状態を解除して精神力が0に初期化される。"
+  },
+  {
+    "key": "809905-name",
+    "original": "퍼석해져버린 머리",
+    "context": "EN :\nIn the World of Bristly\nJP :\nボサボサになった髪"
+  },
+  {
+    "key": "809905-desc",
+    "original": "합에서 3회 패배하면, 다음 턴에 방어 레벨 감소 6를 얻음",
+    "context": "EN :\nGain 6 Defense Level Down next turn after losing a Clash 3 times\nJP :\nマッチで3回敗北すると、次のターンに防御レベル減少 6を得る"
+  },
+  {
+    "key": "9008904-desc",
+    "original": "정신력이 -20인 상태로 전투에 참전함.",
+    "context": "EN :\nBegins encounter with -20 SP.\nJP :\n精神力が-20の状態で戦闘に参戦する。"
+  }
+]

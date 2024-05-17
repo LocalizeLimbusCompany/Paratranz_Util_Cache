@@ -1,0 +1,22 @@
+[
+  {
+    "key": "9010101-name",
+    "original": "싱싱한 인간이움",
+    "context": "EN :\nFresh Human-omes!\nJP :\n新鮮な人間ノム"
+  },
+  {
+    "key": "9010101-desc",
+    "original": "살아있는 적 수당 앞면 확률 2% 증가. (최대 95%)",
+    "context": "EN :\nEvery surviving enemy gives this unit +2% chance to flip Heads. (Max 95%)\nJP :\n生きている敵の数1体につき、表面が出る確率が2%増加。(最大95%)"
+  },
+  {
+    "key": "9010102-name",
+    "original": "내 몫이움",
+    "context": "EN :\nMine-omes\nJP :\nちょうだいノム"
+  },
+  {
+    "key": "9010102-desc",
+    "original": "턴 종료 시 살아있는 적보다 살아있는 아군이 적을 때, 다음 턴에 [Agility] 1, [Enhancement] 1을 얻음.",
+    "context": "EN :\nTurn End: when there are more surviving enemies than surviving allies, gain 1 [Agility] and 1 [Enhancement] next turn.\nJP :\nターン終了時、生存している敵より生きている味方が少ない場合、次のターンに[Agility]1, [Enhancement]1を得る。"
+  }
+]
