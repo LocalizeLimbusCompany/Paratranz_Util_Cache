@@ -1,0 +1,2259 @@
+[
+  {
+    "key": "0-place",
+    "original": "쌍갈고리 해적단 아지트",
+    "context": "EN :\nTwinhook Pirates' Hideout\nJP :\n双鉤海賊団 アジト"
+  },
+  {
+    "key": "0-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "0-content",
+    "original": "고래 아이수크륌… 둘이서만 먹고 온 것이오?",
+    "context": "EN :\n'Tis injustice that thou hast left me out of thine iced-crrream jaunt...\nJP :\n鯨アイスクリィム…二人だけで食べに行ったのでありまするか？"
+  },
+  {
+    "key": "1-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "1-content",
+    "original": "여기는 영 맛이 별로야, 비려~ 인어를 갈아 넣었나?",
+    "context": "EN :\nIt tasted like fish! Not worth the walk~ Maybe they put ground Mermaid in there.\nJP :\nここのは結構微妙だった、生臭～い。\n人魚をミンチして入れたんじゃないかなぁ？"
+  },
+  {
+    "key": "2-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "2-content",
+    "original": "아이… 스크림에… 말이오…?",
+    "context": "EN :\nGround Mermaid... in ice cream...?\nJP :\nアイ…スクリームに…でありまするか？"
+  },
+  {
+    "key": "3-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "3-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "3-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "3-content",
+    "original": "윽… 이렇게 많은 사람이 보고 있으니까 긴장됨다…",
+    "context": "EN :\nBoy, I'm nervous. What an audience, huh...?\nJP :\nうっ…こんないっぱい人が見てると緊張するっす…。"
+  },
+  {
+    "key": "4-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "4-content",
+    "original": "빨. 말. 않. 대. 박.",
+    "context": "EN :\nT.O.S.T.O.O.F.\nJP :\n早・言・無・あ・われ。"
+  },
+  {
+    "key": "5-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "5-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "5-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "5-content",
+    "original": "…? 네?",
+    "context": "EN :\n...? I'm sorry?\nJP :\n…？はい？"
+  },
+  {
+    "key": "6-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "6-content",
+    "original": "…빨리 말해달래요…",
+    "context": "EN :\n... Talk...\nJP :\n…早く言ってくださいとのことです。"
+  },
+  {
+    "key": "7-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "7-content",
+    "original": "싱… 다. 말.",
+    "context": "EN :\nS... F.S.\nJP :\nシン…全・言。"
+  },
+  {
+    "key": "8-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "8-content",
+    "original": "하… 아니면… 대가리 박살 내버리신다고…",
+    "context": "EN :\nHaah... Or Suffer The Obliteration Of Forehead...\nJP :\nはぁ…じゃなきゃ…頭が割れることになるだろうって…。"
+  },
+  {
+    "key": "9-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "9-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "9-content",
+    "original": "…!",
+    "context": "EN :\n...!\nJP :\n…！"
+  },
+  {
+    "key": "10-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "10-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "10-content",
+    "original": "알려주셔서 고맙슴다… 저… 한결 나아진 기분임다…",
+    "context": "EN :\nI appreciate you translatin' it... I... I feel a bit better...\nJP :\n教えてくれてあざっす…その…少し落ち着いたっす…。"
+  },
+  {
+    "key": "11-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "11-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "11-content",
+    "original": "왜냐하면 방금, 정말 LCCB 부서장 님 같았거든요.",
+    "context": "EN :\nShe reminded me a lot of our LCC Before Team Director just now.\nJP :\nなぜかというと今の、マジでLCCB部署長さんみたいでしたっす。"
+  },
+  {
+    "key": "12-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "12-content",
+    "original": "정말 혹독하게 다뤄졌나 보네…",
+    "context": "EN :\nMust be a helluva boss, huh...\nJP :\n割と本気で厳しく扱われたみたいだな…。"
+  },
+  {
+    "key": "13-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "13-content",
+    "original": "훗…",
+    "context": "EN :\nHeh...\nJP :\nふっ…。"
+  },
+  {
+    "key": "14-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "14-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "14-content",
+    "original": "그러니까…",
+    "context": "EN :\nWhere do I begin...\nJP :\nだから…。"
+  },
+  {
+    "key": "15-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "15-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "15-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "15-content",
+    "original": "저희도 황금가지가 있는 로보토미 지부의 정확한 위치를 알기까지 꽤 긴 시간이 걸렸슴다…",
+    "context": "EN :\nIt took us a hot minute to pinpoint the location of the Lobotomy Corp. Branch housing the Golden Bough, actually...\nJP :\n俺たちも黄金の枝があるロボトミー支部の正確な位置を把握するまで\n結構時間が掛かったっす。"
+  },
+  {
+    "key": "16-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "16-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "16-content",
+    "original": "저와 대원들은 꽤 철두철미한 성격이긴 했습니다만…",
+    "context": "EN :\nMe and my teammates, we ran a pretty tight ship...\nJP :\n俺と隊員達は、結構徹頭徹尾な性格っすけど…。"
+  },
+  {
+    "key": "17-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "17-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "17-content",
+    "original": "결국 U사 뒷골목을 맡고 있던 쌍갈고리 해적단 놈들에게 덜미를 잡혀버리고 만 것이 아니겠슴까!",
+    "context": "EN :\nBut the Twinhook Pirates of U Corp. Backstreets caught wind of us sniffin' around!\nJP :\n結局U社裏路地を嗅ぎ回ってた双鉤海賊団の奴らにしょっ引かれたんすよ！"
+  },
+  {
+    "key": "18-model",
+    "original": "쌍갈고리파조직원1",
+    "translation": "双钩海盗团成员1",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "납치범",
+    "context": "EN :\nKidnapper\nJP :\n誘拐犯"
+  },
+  {
+    "key": "18-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "18-content",
+    "original": "그러니까 이 정도면 진짜 싼 거라니까 그러네!",
+    "context": "EN :\nListen 'ere lad! This be the cheapest bottle of oil in all the Great Lake, I tell ye!\nJP :\nだからこんくれぇなら本気で安いっつってんだろ！"
+  },
+  {
+    "key": "19-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "19-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "19-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "19-content",
+    "original": "예? 아무리 생각해도 말이 안 되지 않슴까?! 어떻게 어느 고래에서 나왔는지도 확실하지 않은 고래 기름이 이렇게 비쌀 수 있는 겁니까!",
+    "context": "EN :\nWhat? How? That's ridiculous! Y'all are tellin' me that this Whale oil of dubious origin is worth HOW much?!\nJP :\nはい？いくら考えてもありえなくないっすか！？\n一体どの鯨から出たかも分からない鯨油がこんなに高いんすか？"
+  },
+  {
+    "key": "20-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "20-content",
+    "original": "잠깐…! 너희가 대놓고 심기를 거슬렀는데?",
+    "context": "EN :\nWait...! Yeah, no wonder! You pretty much antagonized them to their faces!\nJP :\n待って…！あんたたち、あからさまにケンカ売ってない？"
+  },
+  {
+    "key": "21-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "21-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "21-content",
+    "original": "아니, 그놈들이 글쎄 대놓고 저희에게 사기를 치려고 하지 뭡니까!",
+    "context": "EN :\nOkay, in my defense, those fellers was about to rob us blind!\nJP :\nいや、奴らがあからさまにぼったくってきたんですよ！"
+  },
+  {
+    "key": "22-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "22-content",
+    "original": "아니… 정보를 알아내기 위한 비용치곤 사소한 거 아닌가…",
+    "context": "EN :\nI mean... Couldn't you have just paid a bit of money for some intel, though...?\nJP :\nいや…情報を得る費用と考えたら些細なことじゃないのか…。"
+  },
+  {
+    "key": "23-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "23-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "23-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "23-content",
+    "original": "아, 아무튼…",
+    "context": "EN :\nW-well, anyway...\nJP :\nと、とにかく…。"
+  },
+  {
+    "key": "24-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "24-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "24-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "24-content",
+    "original": "저희 비포팀의 철저한 수색 끝에 저희는 황금가지가 있는 대호수 위의 로보토미 지부의 위치까지 알아냈슴다.",
+    "context": "EN :\nAfter a thorough search, we identified the exact location of the Lobotomy Corp. Branch with the Golden Bough.\nJP :\n俺たちビフォーチームの徹底的な捜索の末、俺たちは黄金の枝がある\n大湖の上のロボトミー支部の位置まで割り出したっす。"
+  },
+  {
+    "key": "25-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "25-content",
+    "original": "황금가지는 무사히 존재하던가요?",
+    "context": "EN :\nDid you find the Golden Bough?\nJP :\n黄金の枝は無事に存在していましたか？"
+  },
+  {
+    "key": "26-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "26-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "26-content",
+    "original": "네, 그 유명한... 눈이 부시면서도 그렇다고 엄청 부시지 않는다는 그 빛도 봤슴다.",
+    "context": "EN :\nYup. Saw that fabled golden light, too. \"Too bright yet not too bright\", was it?\nJP :\nはい、あの有名な…眩いながらもそんなに眩しくないってあの光も見ましたっす。"
+  },
+  {
+    "key": "27-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "27-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "27-content",
+    "original": "직접 보니 그 말이 무슨 말인지 알 것 같았슴다.",
+    "context": "EN :\nI had to see it with my own two eyes to understand what that meant.\nJP :\n直接見ると、どういうことなのか分かった気がするっす。"
+  },
+  {
+    "key": "28-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "28-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "28-content",
+    "original": "로보토미 지부선의 깊숙한 곳에서 황금가지의 빛이 참 영롱하게 새어 나오고 있었슴다.",
+    "context": "EN :\nBoy, what an incredibly incandescent glow that was, even from deep within the Lobotomy Corp. Branch Ship.\nJP :\nロボトミー支部船の深い場所で\n黄金の枝の光が煌々漏れ出してましたっす。"
+  },
+  {
+    "key": "29-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "29-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "29-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "29-content",
+    "original": "관측과 통로 개척까지 마친 뒤에, 보고서를 작성하고 돌아가려고 했슴다.",
+    "context": "EN :\nObservation: check! Confirmation: check! All we had left to do on the docket was the report.\nJP :\n観測と通路開拓まで終えてから、報告書を作成して戻ろうとしたっす。"
+  },
+  {
+    "key": "30-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "30-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "30-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "30-content",
+    "original": "아! 저희 비포팀의 업무는 황금가지가 정말 그 자리에 있는가를 확인하는 사전 조사임다.",
+    "context": "EN :\nOh! Our job, by the way, was advance reconnaissance to confirm the presence of a Golden Bough.\nJP :\nあっ！俺たちビフォーチームの業務は黄金の枝が\n本当にその場にあるか確認する事前調査っす。"
+  },
+  {
+    "key": "31-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "31-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "31-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "31-content",
+    "original": "그 과정에서 지부에 남아있는 환상체랑도 싸울 수도 있고, 전멸한 팀도 꽤 있다고 함다. ",
+    "context": "EN :\nThey say that plenty of advance reconnaissance teams encounter Abnormalities or get wiped out in the process.\nJP :\nその過程で支部に残ってる幻想体とも戦うこともあったり、\n全滅したチームも結構あるって聞いたっす。"
+  },
+  {
+    "key": "32-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "32-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "32-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "32-content",
+    "original": "작전을 성공적으로 완수했다고 판단해서, 복귀하려던 찰나에…",
+    "context": "EN :\nWe were about to make our return journey, considering the mission a resounding success, when...\nJP :\n作戦を無事完遂したと判断した刹那…。"
+  },
+  {
+    "key": "33-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "33-content",
+    "original": "그 해적 놈들에게 덜미를 잡혀버렸던 거구만…",
+    "context": "EN :\nSo those pirates followed you guys there, huh...\nJP :\nあの海賊たちにしょっ引かれたってわけか…。"
+  },
+  {
+    "key": "34-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "34-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "34-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "34-content",
+    "original": "현장의 하루 팀장 님은 작전을 수행하다 보면 이런 식으로 적대 세력들이 급습해 오는 일은 빈번하다고 하셨슴다.",
+    "context": "EN :\nTeam Leader Haru assured us that nothing was out of the ordinary and that these uh, interruptions by opposin' parties happened all the time.\nJP :\n現場のハルチーフは作戦を遂行してるとこんな風に敵対勢力が\n急襲してくることは頻繁にあると言ってたっす。"
+  },
+  {
+    "key": "35-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "35-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "35-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "35-content",
+    "original": "하지만…",
+    "context": "EN :\nBut...\nJP :\nでも…。"
+  },
+  {
+    "key": "36-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "36-teller",
+    "original": "스미",
+    "context": "EN :\nSmee\nJP :\nスミー"
+  },
+  {
+    "key": "36-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "36-content",
+    "original": "나는… 너희가 이 으스스한 곳에서 뭘 하던 별 관심은 없는데 말이야…",
+    "context": "EN :\nSo... I don't really care what you're doing all the way out here on this creepy ship, but...\nJP :\nアタシは…あんたらがこの薄気味悪い場所で\n何をしようが興味はないけどね…。"
+  },
+  {
+    "key": "37-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "37-teller",
+    "original": "스미",
+    "context": "EN :\nSmee\nJP :\nスミー"
+  },
+  {
+    "key": "37-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "37-content",
+    "original": "이분께서 하도 궁금해하셔서… 같이 가게 됐어. 괜찮지?",
+    "context": "EN :\nThis gentleman here was rather curious about what business you guys were up to. So I tagged along. No objections, hmm?\nJP :\nこの方が気になって仕方がないからって…同行することになったのさ。\n構わないだろ？"
+  },
+  {
+    "key": "38-content",
+    "original": "말을 잇던 파일럿의 얼굴에서 처음으로 두려움이 느껴졌다.",
+    "context": "EN :\nPilot's face turned pale with fear for the first time since he started recounting this story.\nJP :\n言葉を続けていたパイロットの顔に\n初めて恐れが浮かび上がってきた。"
+  },
+  {
+    "key": "39-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "39-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "39-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "39-content",
+    "original": "그때, 팀장 님의 손에서 무기를 놓치는 소리가 들렸슴다…",
+    "context": "EN :\n... That's when I heard the weapon slip outta our Team Leader's hand and onto the ground.\nJP :\nそのとき、チーフの手から武器が落ちる音が聞こえたっす…。"
+  },
+  {
+    "key": "40-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "40-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "40-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "40-content",
+    "original": "저희 팀장 님… 현장에서 진짜 명망 높으신 분임다…",
+    "context": "EN :\nOur Team Leader's an experienced field agent with a decorated track record...\nJP :\nうちのチーフ…現場だとマジで人望高い人っす…。"
+  },
+  {
+    "key": "41-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "41-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "41-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "41-content",
+    "original": "포기를 모르는… 마음 굳센 분이었는데도… 말입니다…",
+    "context": "EN :\nShe... I've never seen her just give up like that. She ain't the kind to be so easily rattled...\nJP :\n諦めを知らない…心が固い方だったのに…そうなったっす…。"
+  },
+  {
+    "key": "42-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "42-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "42-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "42-content",
+    "original": "옆을 돌아봐 팀장 님 표정을 보니… 그건…",
+    "context": "EN :\nSo I turned to look at her, and the look on her face was...\nJP :\n横を向いてチーフの顔を見ると…それは…。"
+  },
+  {
+    "key": "43-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "43-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "43-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "43-content",
+    "original": "허탈함… 이었슴다.",
+    "context": "EN :\nI say, that was a look of resignation.\nJP :\n虚脱感…だったっす。"
+  },
+  {
+    "key": "44-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "44-content",
+    "original": "그러고 남긴 말이 있었겠지요?",
+    "context": "EN :\nWould I be correct in assuming that she had something to say at that moment?\nJP :\nそして残した言葉があると思いますけど？"
+  },
+  {
+    "key": "45-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "45-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "45-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "45-content",
+    "original": "…“이번 작전은 실패했다.” 그렇게 말씀하셨슴다.",
+    "context": "EN :\n... \"Mission failed\". Verbatim.\nJP :\n…「今回の作戦は失敗した。」そうおっしゃったっす。"
+  },
+  {
+    "key": "46-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "46-content",
+    "original": "…대체 누구를 봤길래 그렇게 반응한 거야?",
+    "context": "EN :\n... Who'd she see? To immediately give up like that...\nJP :\n…一体誰を見てそんな反応をしたの？"
+  },
+  {
+    "key": "47-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "47-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "47-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "47-content",
+    "original": "… “이곳에 중지 간부가 있어선 안 돼.” 라고 하셨슴다.",
+    "context": "EN :\n... \"An officer from the Middle shouldn't be here...\" Again, verbatim.\nJP :\n…「こんな場所に中指の幹部がいてはならない。」とおっしゃったっす。"
+  },
+  {
+    "key": "48-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "48-content",
+    "original": "…흠.",
+    "context": "EN :\n... Hm.\nJP :\n…ふむ。"
+  },
+  {
+    "key": "49-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "49-content",
+    "original": "…!",
+    "context": "EN :\n...!\nJP :\n…！"
+  },
+  {
+    "key": "50-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "50-content",
+    "original": "엄청나게 휘갈겨 놓은 문신이… 있었나 봐? 그리고 거기서 보라색 빛도 나고?",
+    "context": "EN :\nI'm guessing the guy had like... a huge fancy tattoo? That glowed purple?\nJP :\n彫り散らした刺青が…めちゃくちゃあったの？\nそして、それが紫色に光ってたり？"
+  },
+  {
+    "key": "51-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "51-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "51-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "51-content",
+    "original": "어, 어떻게 아셨슴까? 제일 먼저 눈에 들어온 건 그… 알 수 없는 문양의… 보라색으로 빛나는 문신이었슴다.",
+    "context": "EN :\nH-huh, how'd you know? That was the very first thing I noticed about him, actually. That... weird-lookin', purple-glowin' tattoo.\nJP :\nえっ、どうして分かったんすか？一番最初に目に入ってきたのはその…\nわけの分からない文様の…紫色に光る刺青っした。"
+  },
+  {
+    "key": "52-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "52-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "52-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "52-content",
+    "original": "그래도… 그래도 저는, 승산이 있지 않을까 라고 생각했슴다…",
+    "context": "EN :\nStill, I thought that maybe, just maybe, we had a shot...\nJP :\nそれでも…それでも俺は、勝算があるんじゃないかと思ったっす…。"
+  },
+  {
+    "key": "53-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "53-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "53-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "53-content",
+    "original": "우리 3과는 실적도 좋고, 대단한 분들이 많으니까…",
+    "context": "EN :\nWe're Unit 3, after all... We weren't no slouches, and we had some impressive names with us...\nJP :\nうちの3課は実力も良くて、凄い方がいらっしゃるので…。"
+  },
+  {
+    "key": "54-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "54-content",
+    "original": "그럴 리가 있나.",
+    "context": "EN :\nYou didn't.\nJP :\nそんなわけあるか。"
+  },
+  {
+    "key": "55-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "55-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "55-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "55-content",
+    "original": "…그 이후로는 기억이 흐릿함다…",
+    "context": "EN :\n... And I do not recall much more after that...\nJP :\n…それ以降は記憶があやふやっす。"
+  },
+  {
+    "key": "56-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "56-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "56-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "56-content",
+    "original": "정신을 차렸을 때는 제 뺨이 바닥에 붙어있었슴다…",
+    "context": "EN :\nWhen I came to, I was on the floor, face down...\nJP :\n気を取り戻したときには、俺の頬が床についてたっす…。"
+  },
+  {
+    "key": "57-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "57-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "57-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "57-content",
+    "original": "처음엔 아무 소리도 들리지 않았다고 생각했슴다… 가까운 데서 폭탄이 터지면 귀 근처가 울리지 않슴까. 고막이 터졌다고 생각했슴다.",
+    "context": "EN :\nAt first, I thought I'd gone deaf and couldn't hear a thing. Y'know, when a bomb goes off right next to you, your ear starts ringin' and all. Thought I'd burst my eardrums.\nJP :\n最初は何も聞こえないと思ってたっす…。近くで爆弾が爆発したら耳の辺りが\n響くじゃないっすか。鼓膜が破裂したと思ったっす。"
+  },
+  {
+    "key": "58-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "58-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "58-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "58-content",
+    "original": "…하지만 그게 저희 팀원들의 고함과 비명이 끊이지 않고 섞였던 소리라는걸 금방 깨달았슴다.",
+    "context": "EN :\n... But that wasn't it, no. It was my team... shoutin' and screamin', shoutin' and screamin'... And all of it combined into some kind of a incomprehensible cacophony. I just couldn't register that at first.\nJP :\n…でもそれがうちのチームメンバーの怒鳴り声と悲鳴が絶えず混ざって\n聞こえてくる音だってことをすぐに悟ったっす。"
+  },
+  {
+    "key": "59-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "59-content",
+    "original": "윽…",
+    "context": "EN :\nAh...\nJP :\nうっ…。"
+  },
+  {
+    "key": "60-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "60-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "60-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "60-content",
+    "original": "그걸 구분할 수 있게 되니까, 그 소리들의 가장 밑바닥에 무슨… 울림이 있다는 것도 깨달았슴다.",
+    "context": "EN :\nOnce I recognized that, I also noticed... a deep rumbling, echoing underneath all that.\nJP :\nそれを聞き分けられるようになると、その音の一番下になにか…\n響くものがあるってことも分かったっす。"
+  },
+  {
+    "key": "61-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "61-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "61-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "61-content",
+    "original": "마치 지부 먼발치에서부터 울려 퍼지고 있는 듯한… 기괴한 울림…",
+    "context": "EN :\nA bizarre, terrible rumbling... that sounded like it was echoing from a place far away from the Branch.\nJP :\nまるで支部の遠くから鳴り響いてるみたいな…奇妙な響き…。"
+  },
+  {
+    "key": "62-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "62-content",
+    "original": "…기괴한 울림?",
+    "context": "EN :\n... Bizarre rumbling?\nJP :\n…奇妙な響き？"
+  },
+  {
+    "key": "63-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "63-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "63-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "63-content",
+    "original": "예, 마치 폭발 소리 같았슴다. 아, 근데 그 울림을 구분할 수 있게 된게 저 만은 아니었던 것 같슴다.",
+    "context": "EN :\nYes ma'am. It was almost like a distant explosion. And it seemed like others were picking up on that odd noise too.\nJP :\nはい、まるで爆発音みたいっした。あ、でもその響きを\n聞き分けられようになったのは俺だけじゃないみたいっした。"
+  },
+  {
+    "key": "64-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "64-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "64-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "64-content",
+    "original": "그 해적들도… 갑자기 이상하다는 듯이 불안해했슴다.",
+    "context": "EN :\nThe pirates... suddenly started actin' all nervous.\nJP :\nその海賊たちも…急に変だという風に不安になってたっす。"
+  },
+  {
+    "key": "65-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "65-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "65-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "65-content",
+    "original": "심지어 그 ‘중지’의 작은 형님이라 불리는 자조차도 당황해한 것 같았슴다.",
+    "context": "EN :\nAnd even the 'Big Brother' from 'the Middle' was rattled.\nJP :\nしかもその「中指」の末兄とよばれた人すらも慌てたみたいっした。"
+  },
+  {
+    "key": "66-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "66-content",
+    "original": "…작은 형님? 너, 확실하게 들은 거야? 아까 해적 부선장 말이 허풍이 아니긴 했나 봐.",
+    "context": "EN :\n... They all called him 'the Big Brother'? Did you hear that right? I guess there really was a big fish looking out for the pirates...\nJP :\n…末兄？あんた、確かにそう言ってたの？\nさっきの海賊副船長、ほら吹きじゃなかったみたい。"
+  },
+  {
+    "key": "67-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "67-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "67-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "67-content",
+    "original": "네, 분명 그렇게 말했슴다. 작은 형님.",
+    "context": "EN :\nYes ma'am. Loud and clear. They called him 'Big Brother'.\nJP :\nはい、確かにそう言ってたっす。末兄。"
+  },
+  {
+    "key": "68-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "68-content",
+    "original": "크… 크큭… 핫! 그 낯짝들 여전한지 궁금하군.",
+    "context": "EN :\nKeh... Kehehe... Hah! I wonder how those fools are doing nowadays.\nJP :\nく…くくっ…はっ！\nあの面子らが相変わらずよろしくやってるのか気になるな。"
+  },
+  {
+    "key": "69-teller",
+    "original": "작은 형님",
+    "context": "EN :\nBig Brother\nJP :\n末兄"
+  },
+  {
+    "key": "69-title",
+    "original": "중지",
+    "context": "EN :\nThe Middle\nJP :\n中指"
+  },
+  {
+    "key": "69-content",
+    "original": "돈이 될 만한 놈들만 챙기고 돌아간다.",
+    "context": "EN :\nTake only the high-value hostages. We're leaving. Now.\nJP :\nカネになりそうなヤツらだけ持って帰る。"
+  },
+  {
+    "key": "70-teller",
+    "original": "작은 형님",
+    "context": "EN :\nBig Brother\nJP :\n末兄"
+  },
+  {
+    "key": "70-title",
+    "original": "중지",
+    "context": "EN :\nThe Middle\nJP :\n中指"
+  },
+  {
+    "key": "70-content",
+    "original": "저건 오재앙 중 하나야. 이곳에 다다르기 전에 떠나야 우리가 산다.",
+    "context": "EN :\nThat right there is one of the Five Calamities. We have to book it before that thing gets here. We're all dead meat if we don't.\nJP :\nあれは五大災害の一つさ。\nここへ来る前にずらかんなきゃオレらがくたばる。"
+  },
+  {
+    "key": "71-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "71-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "71-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "71-content",
+    "original": "하나… 더 기억나는 건… 팀장 님입니다.",
+    "context": "EN :\nOne last thing I remember... is our Team Leader.\nJP :\nもう一つ…覚えてるのが…チーフです。"
+  },
+  {
+    "key": "72-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "72-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "72-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "72-content",
+    "original": "제가 의식을 잃기 직전… 팀장 님이…",
+    "context": "EN :\nRight before I lost consciousness... The Team Leader, she...\nJP :\n俺が意識を失う直前…チーフが…。"
+  },
+  {
+    "key": "73-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "73-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "73-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "73-content",
+    "original": "제 가슴팍에 자신의 사원증을 붙여주셨슴다… 그 해적들이 안보는 틈을 타서…",
+    "context": "EN :\nStuck her employee card badge to my chest when the pirates weren't looking...\nJP :\n俺の胸に自分の社員証を付けてくれたっす…あの海賊が見てない隙に…。"
+  },
+  {
+    "key": "74-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "74-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "74-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "74-content",
+    "original": "그때는 이해가 안됐었슴다. 그런데 지금 와서 생각해보니…",
+    "context": "EN :\nBack then, I didn't understand what she was doin'. But now that I had some time to think about it...\nJP :\nそのときは理解できませんっした。\nでも今考えてみると…。"
+  },
+  {
+    "key": "75-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "75-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "75-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "75-content",
+    "original": "막내인 제 몸값을 높여서… 발견되었을 때 목숨을 건질 확률을 어떻게든 높여주려고 하셨던 것이었슴다…",
+    "context": "EN :\nShe did that so I'll look more valuable... so they'll take me hostage instead of leavin' me to die... Me, who's just a rookie...\nJP :\n末っ子の俺の身代金を上げて…発見されたときに命が助かる確率を\nどうにかして高くしようとしたってことっす…。"
+  },
+  {
+    "key": "76-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "76-content",
+    "original": "정리를 해보자면… LCCB 대원들은 전부 부상을 입거나 의식이 불명한 상태였고…",
+    "context": "EN :\nTo summarize... Every LCCB Agent was either injured or unconscious...\nJP :\n整理すると…LCCB隊員達は全員負傷したか、意識不明の状態で…。"
+  },
+  {
+    "key": "77-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "77-content",
+    "original": "계획에는 없던 중지가 끼어들고… 거기에 더해서 그 녀석들도 쫄 정도의 정체 모를 무언가까지 닥치고…",
+    "context": "EN :\nThe Middle got involved out of nowhere... And there was this 'Calamity' that even the Middle bloke was scared of...\nJP :\n計画にはない中指が割り込んで…それに加えてアイツらもビビるくれぇの\n正体不明の何かがやってきて…。"
+  },
+  {
+    "key": "78-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "78-content",
+    "original": "파일럿 씨, 지부의 좌표를 전달해 주실 수 있을까요?",
+    "context": "EN :\nCan you give us the coordinates to the Lobotomy Corp. Branch, Mr. Pilot?\nJP :\nパイロットさん、支部の座標を伝達していただけますか？"
+  },
+  {
+    "key": "79-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "79-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "79-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "79-content",
+    "original": "무, 물론임다.",
+    "context": "EN :\nO-of course.\nJP :\nも、もちろんっす。"
+  },
+  {
+    "key": "80-content",
+    "original": "파일럿은 심하게 꼬깃꼬깃하게 접힌 종이를 내밀었다.",
+    "context": "EN :\nPilot produced a piece of paper that had been folded over many times and handed it over to Faust.\nJP :\nパイロットは酷くクシャクシャになった紙を差し出した。"
+  },
+  {
+    "key": "81-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "81-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "81-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "81-content",
+    "original": "꼼꼼하게 적어 놓았슴다. 저들에게 들키지 않으려고 조금 은밀하게 숨겨놓았는데 이렇게라도 드릴 수 있어서 정말 다행임다.",
+    "context": "EN :\nIt's all right there, ma'am. Down to every last bit of detail you'll need. I hid it from them to the best of my abilities. I'm glad that I was able to complete my mission, at least.\nJP :\nしっかり書いといたっす。あいつらに気付かれないようしっかり目に\n隠しといたんすけど、こうやってなんとか渡せて良かったっす。"
+  },
+  {
+    "key": "82-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "82-content",
+    "original": "…….",
+    "context": "EN :\n......\nJP :\n……。"
+  },
+  {
+    "key": "83-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "83-content",
+    "original": "잠깐만요.",
+    "context": "EN :\nWait.\nJP :\n待ってください。"
+  },
+  {
+    "key": "84-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "84-content",
+    "original": "그 ‘재앙’ 말인데요. 다른 특징 같은 건 없었나요?",
+    "context": "EN :\nThat 'Calamity'. Was there anything else about it that stood out?\nJP :\nその「災害」ですけど。他に特徴はなかったですか？"
+  },
+  {
+    "key": "85-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "85-content",
+    "original": "있을 텐데.",
+    "context": "EN :\nThere's got to be more.\nJP :\nあるはずなんですけど。"
+  },
+  {
+    "key": "86-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "86-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "86-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "86-content",
+    "original": "…흰색…",
+    "context": "EN :\n... Pale...\nJP :\n…白い。"
+  },
+  {
+    "key": "87-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "87-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "87-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "87-content",
+    "original": "분명 흰색인데… 생전 처음 보는 하얀 듯한 아닌 듯한… 뭔가 거대하고 창백한 인상이었다는 사실만 기억에 남슴다… 그리고 그… 떨리는 소리… 분명 어디서 들어봤는데…",
+    "context": "EN :\nIt was... white. An off-white color unlike anythin' I'd ever laid my eyes on before. It was, ah... towerin' and pallid. And that... rumbling... I'm sure I've heard of it before...\nJP :\n確かに白なのに…生まれて初めて見る白いようなそうじゃないような…\n何か巨大で蒼白な印象だったという事実だけ記憶に残ってるっす…。\nそれにあの震える音…確かにどこかで聞いたはずっすけど…。"
+  },
+  {
+    "key": "88-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "88-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "88-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "88-content",
+    "original": "아! U사의 그 특이점 있지 않슴까! 굽쇠가 합쳐질 때 나는 소리와 비슷했슴다.",
+    "context": "EN :\nAh! Right, It reminded me of U Corp's Singularity! That rumbling... sounded a lot like them tuning forks when they combined stuff together.\nJP :\nあっ！U社の特異点あるじゃないっすか！\n音叉が合体するときに出る音と似てたっす！"
+  },
+  {
+    "key": "89-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "89-content",
+    "original": "…그래… 거의 다 왔어…",
+    "context": "EN :\n... Yeah... Almost there...\nJP :\n…うん…もうそろそろだ。"
+  },
+  {
+    "key": "90-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "90-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "90-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "90-content",
+    "original": "저도 같이 가겠슴다!",
+    "context": "EN :\nLet me tag along with y'all!\nJP :\n俺も一緒に行くっす！"
+  },
+  {
+    "key": "91-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "91-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "91-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "91-content",
+    "original": "어쩌면 지부 안내에도 도움이 될지도 모름다!",
+    "context": "EN :\nI could be your guide in the Lobotomy Corp. Branch!\nJP :\nもしかすると支部案内の役に立つかも知れないっす！"
+  },
+  {
+    "key": "92-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "92-content",
+    "original": "LCCB와의 작전 동행은 예정되어 있던 사항이긴 합니다.",
+    "context": "EN :\nIndeed, this was to be a joint operation with the LCCB where they were supposed to accompany us to the Lobotomy Corp. Branch.\nJP :\nLCCBとの作戦同行は、予定されていた事項ではありました。"
+  },
+  {
+    "key": "93-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "93-content",
+    "original": "단테, 어떻게 하실 건가요?",
+    "context": "EN :\nWhat is your decision, Dante?\nJP :\nダンテ、どうなさいますか？"
+  },
+  {
+    "key": "94-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "94-content",
+    "original": "<…….>",
+    "context": "EN :\n<......>\nJP :\n<……。>"
+  },
+  {
+    "key": "95-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "95-content",
+    "original": "<마음은 고맙지만 사양한다고 전해줘.>",
+    "context": "EN :\n<Tell him that while I appreciate his offer, I decline.>\nJP :\n<気持ちはありがたいけど、断わるって伝えといて。>"
+  },
+  {
+    "key": "96-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "96-content",
+    "original": "<우리랑 같이 다니는 사람들은… 꼭 끝이 좋지 않더라고.>",
+    "context": "EN :\n<People that get involved with us... often don't make it out in one piece.>\nJP :\n<私たちと一緒に動こうとする人は…決まって終わりが良くないからね。>"
+  },
+  {
+    "key": "97-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "97-content",
+    "original": "…동. 감.",
+    "context": "EN :\n... I.A.\nJP :\n…どう・かん。"
+  },
+  {
+    "key": "98-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "98-content",
+    "original": "우리가 너 살려준 거야, 짜샤! 빨리 고마워 해.",
+    "context": "EN :\nWe just saved your life! Mate, show some gratitude!\nJP :\nオレらがお前を救ってやったんだよ、こんにゃろ！\n早く感謝しろよ。"
+  },
+  {
+    "key": "99-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "99-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "99-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "99-content",
+    "original": "어… 고맙슴다…?",
+    "context": "EN :\nUh... Thank you...?\nJP :\nえっ…感謝っす…？"
+  },
+  {
+    "key": "100-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "100-content",
+    "original": "파일럿 씨는 LCCA 팀이 도착할 때까지 대기하시다가 본부로 돌아가셔서 보고를 부탁드립니다.",
+    "context": "EN :\nMr. Pilot, remain on standby until the After Team arrives. Then, return to base and report your findings.\nJP :\nパイロット氏はLCCAチームが到着するまで待機して、\n本部に帰って報告をお願いします。"
+  },
+  {
+    "key": "101-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "101-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "101-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "101-content",
+    "original": "아… 함께 하지 않는다는 결정이셨슴까…",
+    "context": "EN :\nAh... so they declined, huh?\nJP :\nあっ…一緒に行かないって決定っすか…。"
+  },
+  {
+    "key": "102-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "102-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "102-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "102-content",
+    "original": "역시, 들은 대로 시계 째깍이는 소리밖에 들리지 않으심다…",
+    "context": "EN :\nThe stories were true, I don't hear nothin' but the ticking of their clock...\nJP :\nやっぱり、聞いた通りチクタクする音しか聞こえないっす…。"
+  },
+  {
+    "key": "103-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "103-content",
+    "original": "마음 넓으신 관리자 님께서 직접 마음은 고마웠다고 말씀하셨다. 그 은혜까지 꼭 기억하고 돌아가도록.",
+    "context": "EN :\nExecutive Manager, in their endless generosity, has also deigned to thank you for your offer. Remember that as you return.\nJP :\n心の広い管理人様が直接、気持ちはありがたいとおっしゃった。\nその恩を必ず覚えて帰るように。"
+  },
+  {
+    "key": "104-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "104-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "104-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "104-content",
+    "original": "알겠슴다…",
+    "context": "EN :\nAlright...\nJP :\n分かったっす…。"
+  },
+  {
+    "key": "105-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "105-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "105-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "105-content",
+    "original": "그, 그럼… 몸조심하십쇼.",
+    "context": "EN :\nW-well then, best of luck to y'all.\nJP :\nじゃ、じゃあ…お気を付けるっす。"
+  },
+  {
+    "key": "106-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "106-content",
+    "original": "그럼, 제가 얻을 건 얻었으니까.",
+    "context": "EN :\nThat's all I needed. Bye.\nJP :\nじゃあ、私が必要なものは全部手に入れたから。"
+  },
+  {
+    "key": "107-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "107-content",
+    "original": "…에휴.",
+    "context": "EN :\n... Sigh.\nJP :\n…はぁ。"
+  },
+  {
+    "key": "108-content",
+    "original": "문밖으로 제일 먼저 나선 건 이스마엘이었다.",
+    "context": "EN :\nIshmael was the first to leave the room.\nJP :\n部屋の外へ最初に出たのはイシュメールだった。"
+  },
+  {
+    "key": "109-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "109-content",
+    "original": "어… 음… 만난 지 얼마 되지도 않았는데 바로 헤어지는구만.",
+    "context": "EN :\nUh... Umm... Well, this meeting was pretty short-lived.\nJP :\nあ…うん…出会って間もないのにすぐに別れちまうんだな。"
+  },
+  {
+    "key": "110-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "110-content",
+    "original": "소드 씨에게 안부 전해줘.",
+    "context": "EN :\nBut say hello to Saude for us, will ya?\nJP :\nソードさんによろしく伝えてくれよ。"
+  },
+  {
+    "key": "111-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "111-content",
+    "original": "…그때, 정말 고마웠다고도 말씀해 주세요…",
+    "context": "EN :\nAnd... please tell her that I'm thankful for what she did for us.\nJP :\n…あのときは、本当にありがとうございましたとも伝えてください。"
+  },
+  {
+    "key": "112-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "112-content",
+    "original": "그때의 저는… 그런 얘기도 못 드렸으니까요.",
+    "context": "EN :\nBack then... I couldn't bring myself to tell her even that.\nJP :\nあのときの僕は…そんな話もできませんでしたから。"
+  },
+  {
+    "key": "113-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "113-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "113-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "113-content",
+    "original": "꼭… 그러겠슴다.",
+    "context": "EN :\nI'll be... sure to tell her that.\nJP :\n必ず…そう伝えるっす。"
+  },
+  {
+    "key": "114-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "114-content",
+    "original": "파일럿 군. 그래도 잘 견뎌주었구려.",
+    "context": "EN :\nYou have endured well despite the tribulations, Pilot.\nJP :\nパイロット君。そなたもよくぞ耐えてくれし。"
+  },
+  {
+    "key": "115-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "115-content",
+    "original": "오… 이상~ 훈훈한 마무리네~",
+    "context": "EN :\nAww, Yi Sang! How kind of ya~\nJP :\nおぉ…イサ～ン。和やかな締めくくりだね～。"
+  },
+  {
+    "key": "116-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "116-content",
+    "original": "누군가는 이 말을 남겨줘야 할 것 같았소.",
+    "context": "EN :\nIt appeared to me that he deserved such words.\nJP :\n誰かはこの言の葉を残すべがりき。"
+  },
+  {
+    "key": "117-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "117-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "117-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "117-content",
+    "original": "…….",
+    "context": "EN :\n.......\nJP :\n……。"
+  },
+  {
+    "key": "118-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "118-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "118-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "118-content",
+    "original": "끅… 끄흐흡…",
+    "context": "EN :\nKh... Agh...\nJP :\nぐっ…うぅっ…。"
+  },
+  {
+    "key": "119-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "119-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "119-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "119-content",
+    "original": "저희 팀원들이 보고싶슴다…",
+    "context": "EN :\nI wanna see my team again...\nJP :\nうちのチームメンバーに会いたいっす…。"
+  },
+  {
+    "key": "120-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "120-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "120-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "120-content",
+    "original": "막내라고 다들 엄청 챙겨주셨는데…",
+    "context": "EN :\nThey were all so kind to me, me bein' the rookie of the team and all...\nJP :\n末っ子だからってみんなめっちゃ面倒見てくれたっすのに…。"
+  },
+  {
+    "key": "121-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "121-content",
+    "original": "…….",
+    "context": "EN :\n......\nJP :\n……。"
+  },
+  {
+    "key": "122-model",
+    "original": "파일럿",
+    "translation": "皮利托",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "122-teller",
+    "original": "파일럿",
+    "context": "EN :\nPilot\nJP :\nパイロット"
+  },
+  {
+    "key": "122-title",
+    "original": "LCCB 사전관측 3과",
+    "context": "EN :\nLCCB P-Obs. Unit 3\nJP :\nLCCB事前観測 3課"
+  },
+  {
+    "key": "122-content",
+    "original": "어쩌면… 지부에 저희 대원 중 생존자가 있을지도 모름다…",
+    "context": "EN :\nMaybe... maybe there are survivors at the Lobotomy Corp. Branch...\nJP :\nもしかすると…支部には隊員の生存者がいるかもしれないっす…。"
+  },
+  {
+    "key": "123-content",
+    "original": "아슬아슬했던 파일럿 씨의 눈물은 결국 흘러넘치더니 바닥에 뚝뚝 떨어졌다.",
+    "context": "EN :\nPilot's eyes, which had been welling up for a while, eventually broke like a dam. Tears flowed down his cheeks to the ground.\nJP :\n縁にかろうじて溜まっていたパイロット氏の涙は\n果てに溢れ出すと床へポタポタと落ちた。"
+  },
+  {
+    "key": "124-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "124-content",
+    "original": "…우리가 꼭 구해 보이겠소.",
+    "context": "EN :\n... We shall bring them home. You have my word.\nJP :\n…私たちが定めて助けん。"
+  },
+  {
+    "key": "125-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "125-content",
+    "original": "네, 반드시요.",
+    "context": "EN :\nAnd mine, too.\nJP :\nはい、必ずです。"
+  },
+  {
+    "key": "126-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "126-content",
+    "original": "…이번에야말로.",
+    "context": "EN :\n... We won't fail again.\nJP :\n…今度こそ。"
+  },
+  {
+    "key": "127-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "127-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "128-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "128-content",
+    "original": "파일럿 씨가 전달하신 로보토미 지부의 변동 좌표를 확인해 보았습니다.",
+    "context": "EN :\nI have examined the variable coordinates Mr. Pilot provided us.\nJP :\nパイロット氏が伝達したロボトミー支部の変動座標を確認してみました。"
+  },
+  {
+    "key": "129-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "129-content",
+    "original": "<변동 좌표라는 게 구체적으로 뭐야?>",
+    "context": "EN :\n<What exactly are variable coordinates?>\nJP :\n<変動座標って具体的に何？>"
+  },
+  {
+    "key": "130-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "130-content",
+    "original": "저희가 찾고 있는 로보토미 지부나 청새치 항구선 같이 규모가 큰 배들은 대호수에 대한 부분적인 규칙을 U사로부터 암호화 상태로 전달받습니다.",
+    "context": "EN :\nShips beyond a certain magnitude, like our Lobotomy Corp. Branch or the Marlin Port, receive partial laws of the Great Lake in an encrypted form from U Corp.\nJP :\n私たちの探しているロボトミー支部やマカジキ港船のように規模が大きい船は\n大湖に対する部分的な規則をU社から暗号化状態で伝達されます。"
+  },
+  {
+    "key": "131-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "131-content",
+    "original": "둥지 안의 대호수의 규칙에 대한 각 정보는 U사가 확보하여 엄격히 통제하고 있기 때문에, 정보에 상응하는 대가를 여러 형태로 치러야 하고요.",
+    "context": "EN :\nU Corp. holds a strict monopoly on the intel regarding the laws of the Great Lake within the Nest. Of course, the vessels that receive that intel pay various prices for that privilege.\nJP :\n巣の中の大湖の規則に対する各情報はU社が確保して厳格に統制していますので、\n情報に相応する対価を様々な形態で支払う必要があります。"
+  },
+  {
+    "key": "132-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "132-content",
+    "original": "그렇게 전달받은 부분적인 대호수의 정보를 토대로 자신들이 언제 어디에 위치해야 호수의 규칙에서 안전할 지를 규격화하여 변동 좌표로 만들죠.",
+    "context": "EN :\nThey use that partial information to calculate at which location their vessels must be during which specific period to ensure a safe voyage, and finalize it into a standardized form known as 'variable coordinates'.\nJP :\nそうやって伝達された部分的な大湖の情報をもとに、自分たちが\nいつどこに位置すれば湖の規則を守れるか規格化して変動座標を作ります。"
+  },
+  {
+    "key": "133-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "133-content",
+    "original": "항구선의 경우는, 많은 고객을 유치해야 하니까 그런 좌표를 수시로 선박들에게 전송하지만… 그럴 필요가 없는 폐쇄성을 띠는 배들인 구 L사 지부의 경우는 비밀에 부쳐지죠.",
+    "context": "EN :\nPortships often send out their coordinates to other vessels, as they want to host as many guests as possible. But vessels that prioritize privacy and secrecy, like the former L Corp. Branch in question, will never do so.\nJP :\n港船の場合、沢山の顧客を誘致する必要があるので\nそういった座標を随時船舶に転送しますが…そうする必要のない\n閉鎖性を持つ船である旧L社支部の場合は秘密になっています。"
+  },
+  {
+    "key": "134-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "134-content",
+    "original": "그러면… 로보토미 지부는 뭔가 보물선 같은 거니까, 분명 암암리에 좌표가 비싸게 거래되겠네?",
+    "context": "EN :\nSo... the Lobotomy Corp. Branch we're looking for... is kinda like a treasure ship, huh? Then there's gotta be a black market out there for people willing to pay big money for its coordinates...\nJP :\nってことは…ロボトミー支部は何だか宝島みたいなものだから、\nきっと暗々裏に座標が高価で取引されてそうだね？"
+  },
+  {
+    "key": "135-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "135-content",
+    "original": "훌륭한 추측이네요.",
+    "context": "EN :\nImpressive deduction.\nJP :\n素晴らしい推測ですね。"
+  },
+  {
+    "key": "136-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "136-content",
+    "original": "게다가 변동 좌표는 일반적인 좌표와 달리 굉장히 긴 암호화된 코드예요.",
+    "context": "EN :\nAlso, unlike normal coordinates, variable coordinates are composed of lengthy and encrypted codes.\nJP :\nそれに変動座標は一般的な座標とは違い、かなり長い\n暗号化されたコードです。"
+  },
+  {
+    "key": "137-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "137-content",
+    "original": "그래서 호수를 항해하는 배는, 대부분 호수 위에 위치하는 시설을 찾아가기 위해서 변동좌표를 입력하여 항해합니다. 일정 주기마다 목적지의 현재 위치를 확인하는 궤도 자동화 기능이 장착되어 있기도 하고요.",
+    "context": "EN :\nTherefore, vessels sailing across the Great Lake start by entering the variable coordinates of their destination. Based on that information, said vessels will follow a certain route charted via the automated navigation system that periodically confirms the current location of their destination.\nJP :\nだから湖を航海する船は大抵の場合、湖の上に位置する施設を訪ねるために\n変動座標を入力して航海を行います。定期的に目的地の現在地を確認する\n軌道自動化機能が装着されてもいます。"
+  },
+  {
+    "key": "138-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "138-content",
+    "original": "와~ 뭔가 어려운 말이지만, 어쨌든 파일럿 씨에게 얻은 정보를 여기에 입력하면 로보토미 지부까지 어떻게든 갈 수 있다는 말씀이네요?",
+    "context": "EN :\nWow~ That's a lot of big words! So basically, if we enter the information we got from Mr. Pilot here, we can somehow find our way to the Lobotomy Corp. Branch?\nJP :\nわぁ～何だか難しいけど、とにかくパイロット氏から得た情報を\nここに入力すると、ロボトミー支部までなんとか行けるってことですね？"
+  },
+  {
+    "key": "139-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "139-content",
+    "original": "…U사가 관리하는 대호수를 넘어 외곽으로 가면 아무 쓸모 없지만.",
+    "context": "EN :\n... It's useless in the waters of the Outskirts, beyond the borders of U Corp.\nJP :\n…U社が管理する大湖を超え、外郭に行けば全く意味がないけど。"
+  },
+  {
+    "key": "140-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "140-content",
+    "original": "그렇죠. 그렇다 해도 로보토미 지부는 U사 안에 있으니, 이 변동 좌표만 있으면 배가 항해하는 패턴을 파악하여 도착할 수 있습니다.",
+    "context": "EN :\nIndeed. But the Lobotomy Corp. Branch is within U Corp.'s borders. We will have no trouble analyzing the vessel's travel patterns as long as we have its variable coordinates.\nJP :\nそうです。とはいえロボトミー支部はU社の中にありますから、\nこの変動座標さえあれば船が航海するパターンを把握して到着できます。"
+  },
+  {
+    "key": "141-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "141-content",
+    "original": "<좋아. 그럼 빨리 움직이자.>",
+    "context": "EN :\n<Gotcha. Then let's get a move on.>\nJP :\n<よし。じゃあ早く動こう。>"
+  },
+  {
+    "key": "142-content",
+    "original": "이상과, 싱클레어가 그 목소리에 결연한 듯 고개를 끄덕였고, 나머지 수감자들도 긍정하는 말과 함께 걸음을 재촉했다.",
+    "context": "EN :\nYi Sang and Sinclair nodded with determination, while the other Sinners followed suit and hurried on.\nJP :\nイサンとシンクレアが、その声に合わせて決意したかのように頷き\n残りの囚人たちも肯定する言葉と共に足を進めた。"
+  },
+  {
+    "key": "143-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "143-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "144-content",
+    "original": "시야에 완전히 잡힌 것은 아니었지만…",
+    "context": "EN :\nThough I didn't catch a clear view...\nJP :\n全部視界に入ってたわけじゃないけど…。"
+  },
+  {
+    "key": "145-content",
+    "original": "이스마엘도 고개를 끄덕인 것만 같았다.",
+    "context": "EN :\nI think Ishmael nodded, too.\nJP :\nイシュメールも頷いたような気がした。"
+  }
+]

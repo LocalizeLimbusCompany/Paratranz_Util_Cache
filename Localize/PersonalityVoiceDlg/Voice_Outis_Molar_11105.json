@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_11105_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_11105_1-dlg",
+    "original": "아… 무슨 일이지? 머리 울리니까, 조금 천천히 말해줬으면 좋겠어.",
+    "context": "EN :\nAh... What is it? Slowly, I've got a hell of a hangover.\nJP :\nあぁ…何の用だ？頭ガンガンいってるから、少しゆっくり話してくれると嬉しい。"
+  },
+  {
+    "key": "lobby_morning_11105_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_11105_1-dlg",
+    "original": "윽… 아직도 숙취가… 아, 의뢰인가? 미안한데, 사무소 안에 다른 사람한테… 부탁, 우웁.",
+    "context": "EN :\nUgh... Damn hangovers... Ah, a contract? I'm sorry, but please go talk to the other— Hurk.\nJP :\nうっ…まだ二日酔いが…あぁ、依頼か？申しわけないんだが、事務所の他の人に…おねがい、うっぷ。"
+  },
+  {
+    "key": "lobby_noon_11105_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_11105_1-dlg",
+    "original": "후, 이제야 정신이 좀 돌아오는군. 오늘 점심식사에 반주는 걸러야겠어.",
+    "context": "EN :\nPhew, I'm finally starting to feel a bit better. I think I'll skip wine this lunch.\nJP :\nふぅ、やっと調子戻ってきたな。今日は昼飯の酒を控えておこう。"
+  },
+  {
+    "key": "lobby_night_11105_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_11105_1-dlg",
+    "original": "아, 저녁은 약속이 따로 있어서. 실례하지.\n…술을 마시는 건 아니냐고? 어쩔 수 없지 않은가! 이것도 중요한 거래처 약속이라고.",
+    "context": "EN :\nAh, I'm meeting someone for dinner tonight, so if you'll excuse me...\n... Am I going out for drinks again? Well, it's not like I have a choice in the matter! It's for a meeting with a very important client, I'll have you know.\nJP :\nあぁ、晩飯は約束があって。失礼。\n…酒飲むんじゃないかって？どうしようもないだろう！これも大事な取引先との約束だ。"
+  },
+  {
+    "key": "smalltalk_11105_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_11105_1-dlg",
+    "original": "때로는 과감한 판단이 필요할 때가 있지.",
+    "context": "EN :\nSometimes, what you need is a daring decision.\nJP :\n時には思い切った判断が必要になるときもあるさ。"
+  },
+  {
+    "key": "smalltalk_11105_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_11105_2-dlg",
+    "original": "친구는 소중히 하는게 좋지. 언제 어디서 도움이 될지 모르니까 말이야.\n…속물이 아니냐고? 모르는 소리. 꼭 그런 금전적인 것만을 말한게 아니란 말이다.",
+    "context": "EN :\nKeep your friends close. You never know when or where they'll come in handy.\n... I'm too materialistic? Don't be so obtuse. I'm not talking about money... exclusively.\nJP :\n友人は大事にするのがいい。いつどこで助けになるか分からないからな。\n…銭ゲバだって？何を言ってるんだ。そういう金銭的なことだけを言ってるわけじゃないんだ。"
+  },
+  {
+    "key": "smalltalk_11105_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_11105_3-dlg",
+    "original": "하아… 벌써부터 걱정이군. 이번 의뢰는 워프 열차를 타야하는데, 그건 타기만 하면 속이 울렁거리니…\n쯧, 술을 안마셔도 울렁거린다고!",
+    "context": "EN :\nHaah... I'm already nervous. We're going to have to take the WARP train for this contract, but every time I ride one of those things I feel like I'm about to hurl.\nUgh, it's not because I'm drunk!\nJP :\nはぁ…もう心配になってくるな。今回の依頼はワープ列車に乗らなきゃならないのに、アレに乗るたびに胃がムカムカしてくるんだ…。\nチッ、酒飲んでなくてもムカムカしてくるんだよ！"
+  },
+  {
+    "key": "smalltalk_11105_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_11105_4-dlg",
+    "original": "나도 싸울 때 정도는 신중한 구석이 있다고. 자, 봐라. 이럴땐 적을 갈라버리는 것 보다는, 침착하게 막아낸 후에!\n처리하는 거지.",
+    "context": "EN :\nI can be pretty crafty when it comes to fighting. Now, observe. Instead of going in straight for an attack, create an opening through a parry first!... Before taking them out.\nJP :\nアタシも戦うときくらいは慎重な面があるんだって。さぁ、見てろ。こういうときには敵を引き裂くよりかは、落ち着いて防いでから！\n片付けるんだ。"
+  },
+  {
+    "key": "smalltalk_11105_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_11105_5-dlg",
+    "original": "뒷골목에 있었을 때는 이런 싸움이 일상이었지. 그래서 나설만한 일이 아니면 다른 두 녀석들에게 맡기고 싶지만…\n또, 그게 마음대로 되는 건 아니니까.",
+    "context": "EN :\nThese scuffles were around every corner when I lived in the Backstreets. That's why, if it's not anything too challenging, I'd rather leave it to the other two...\nBut things don't always work out the way I want them to, do they?\nJP :\n裏路地にいた頃はこんな戦いが日常だったさ。だから駆けつけるまでもないことなら他の二人に任せたくはあるが…。\nそれも勝手にやれることじゃないからな。"
+  },
+  {
+    "key": "neglect_11105_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_11105_1-dlg",
+    "original": "물… 물을 좀 마셔둬야겠어…",
+    "context": "EN :\nWater... I need some water...\nJP :\n水…水を飲んどかないと…。"
+  },
+  {
+    "key": "gacksung_11105_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_11105_1-dlg",
+    "original": "굳이 나까지 나서야 할 정도는 아닌 듯 싶지만… 뭐, 부탁을 한다고 하니까. 알겠다.",
+    "context": "EN :\nDo I really need to get involved in this...? But since you're asking nicely, sure.\nJP :\nわざわざアタシまで出て行くほどのことじゃないと思うけど…まぁ、頼まれたんだし。分かった。"
+  },
+  {
+    "key": "formation_11105_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_11105_1-dlg",
+    "original": "아… 출발인가.",
+    "context": "EN :\nAh... Heading out?\nJP :\nあぁ…出発か。"
+  },
+  {
+    "key": "battleentry_11105_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_11105_1-dlg",
+    "original": "자, 잠깐만. 천천히…",
+    "context": "EN :\nW—wait up, slow down a sec...\nJP :\nちょ、ちょい待ち。ゆっくり…。"
+  },
+  {
+    "key": "battle_select_11105_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_11105_1-dlg",
+    "original": "뭐, 문제라도 있나.",
+    "context": "EN :\nWhat, something wrong?\nJP :\nなんだ、問題でもあるか。"
+  },
+  {
+    "key": "battle_endcommand_11105_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_11105_1-dlg",
+    "original": "한바탕 해볼까.",
+    "context": "EN :\nLet's get this party started.\nJP :\nいっちょやるか。"
+  },
+  {
+    "key": "battle_enemy_break_11105_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_11105_1-dlg",
+    "original": "아~ 힘조절이…",
+    "context": "EN :\nAh~ Did I hit ya too hard?\nJP :\nあ～手加減が…。"
+  },
+  {
+    "key": "battle_break_11105_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_11105_1-dlg",
+    "original": "칫.",
+    "context": "EN :\nTsk.\nJP :\nチッ。"
+  },
+  {
+    "key": "battle_kill_11105_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_11105_1-dlg",
+    "original": "힘들군! 후, 그러니 알아서 잘 피해야지.",
+    "context": "EN :\nPhew! Hmph, you could’ve tried dodging that.\nJP :\n疲れるなぁ！ふぅ、だから勝手に避けとけって。"
+  },
+  {
+    "key": "battle_dead_11105_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_11105_1-dlg",
+    "original": "아… 너무 몸만 나섰나… 미련… 했군.",
+    "context": "EN :\nSuppose... I went in too deep... without a good backup... That was foolish... of me.\nJP :\nあぁ…無鉄砲すぎたか…。愚か…だったな…。"
+  },
+  {
+    "key": "choice_success_p_11105_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_11105_2-dlg",
+    "original": "흠? 좀 김이 빠지는데…",
+    "context": "EN :\nHuh? That's it...?\nJP :\nん？拍子抜けするなぁ…。"
+  },
+  {
+    "key": "choice_fail_n_11105_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_11105_1-dlg",
+    "original": "젠장… 술 좀 깨고 해야했나.",
+    "context": "EN :\nDammit... Should've sobered up first.\nJP :\nクソッ…酔い覚ましてからやるべきだったか。"
+  },
+  {
+    "key": "battle_clear_11105_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_11105_1-dlg",
+    "original": "뭐, 적당히 힘 쓴 결과지. 나쁘지 않지?",
+    "context": "EN :\nI wasn't even trying that hard. Not bad though, huh?\nJP :\nまぁ、適当に頑張った結果だ。悪く無いだろ？"
+  },
+  {
+    "key": "battle_clear_ex_11105_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_11105_1-dlg",
+    "original": "다음 술자리 모험담은 이거군. 아주 완벽했어… 후후.",
+    "context": "EN :\nAnother tale to share with my drinking buddies. Huhu, excellent.\nJP :\n次の酒の場での冒険譚はコレだな。カンッペキだ…ふふっ。"
+  },
+  {
+    "key": "battle_defeat_11105_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_11105_1-dlg",
+    "original": "이럴 리가… 없는데? 하, 나 때문인가…",
+    "context": "EN :\nNo... way...! Haah, was it my fault...?\nJP :\nこんなわけ…無いはずのに。はっ、アタシのせいか…。"
+  }
+]

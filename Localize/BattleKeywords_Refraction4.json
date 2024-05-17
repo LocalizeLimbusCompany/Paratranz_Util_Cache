@@ -1,0 +1,232 @@
+[
+  {
+    "key": "UninvitedGuest-name",
+    "original": "불청객",
+    "context": "EN :\nInterloper\nJP :\n招かざる客"
+  },
+  {
+    "key": "UninvitedGuest-desc",
+    "original": "불청객을 가진 인격이 죽을 때, 없는 인격에게 옮겨감.",
+    "context": "EN :\nWhen an Identity with Interloper is defeated, move to a different Identity without Interloper.\nJP :\n招かざる客を持つ人格が死んだとき、持っていない人格に移される。"
+  },
+  {
+    "key": "ConnectedPlug-name",
+    "original": "연결된 플러그",
+    "context": "EN :\nPlugged In\nJP :\n繋がったプラグ"
+  },
+  {
+    "key": "ConnectedPlug-desc",
+    "original": "턴 종료시\n- 최대 3\n- 3이 되면, 다음 턴동안 흐트러짐 상태가 됨.\n- 3이 되면, 자신의 모든 충전을 소모함.",
+    "context": "EN :\nTurn End:\n- Max 3\n- At 3, become Staggered next turn.\n- At 3, consume all Charge on self.\nJP :\nターン終了時\n- 最大3\n- 3になると、次のターンの間混乱状態になる。\n- 3になると、自分の全ての充電を消耗。"
+  },
+  {
+    "key": "AntiSheepGround-name",
+    "original": "대양전 접지 플러그",
+    "context": "EN :\nAnti-Ovine Grounding Plug\nJP :\n対羊電接地プラグ"
+  },
+  {
+    "key": "AntiSheepGround-desc",
+    "original": "- 최대 1\n- 해당 버프를 소유한 채, 접지 거부 스킬에 합 승리시 대상에게 연결된 플러그 1 부여\n- 대상의 충전 횟수 절반 감소\n-다음 턴에 소멸됨",
+    "context": "EN :\n- Max 1\n- When a unit under this effect wins a Clash against the 'Grounding Refusal' Skill, inflict 1 Plugged In against the target\n- Halve the Charge Count on the target\n- Expires next turn\nJP :\n- 最大1\n- このバフを所有したまま接地拒否スキルにマッチ勝利時、対象に繋がったプラグ 1を付与\n- 対象の充電 回数が半減\n- 次のターンに消滅"
+  },
+  {
+    "key": "ThundercloudFormation-name",
+    "original": "전운집",
+    "context": "EN :\nGathering Lightning Cloud\nJP :\n電雲集"
+  },
+  {
+    "key": "ThundercloudFormation-desc",
+    "original": "- 최대 5\n- 수치가 1일 때, 강한 스킬을 사용함.\n- 턴 종료 시 1 감소함. 흐트러짐 상태가 되면, 1 증가",
+    "context": "EN :\n- Max 5\n- At 1 value, use a powerful Skill.\n- Reduced by 1 at Turn End. Gain 1 value when Staggered\nJP :\n- 最大5\n- 数値が1のとき、強力なスキルを使用。\n- ターン終了時に1減少する。混乱状態になると1増加"
+  },
+  {
+    "key": "BandageOfTheBoundKing-name",
+    "original": "묶인 왕의 붕대",
+    "context": "EN :\nBandages of the King in Binds\nJP :\n縛られし王の包帯"
+  },
+  {
+    "key": "BandageOfTheBoundKing-desc",
+    "original": "사망 시 모든 적에게 침잠 위력 2, 횟수 1 부여\n자신을 처치한 대상에게 묶인 왕의 붕대 부여. 대상에게 이미 해당 효과가 있거나 자신을 처치한 대상이 없으면, 해당 효과가 없는 무작위 적에게 부여",
+    "context": "EN :\nWhen defeated, inflict 2 Sinking Potency and 1 Count against all enemies.\nApply Bandages of the King in Binds against the target that defeated this unit. If the said target already has that effect, or if the said target does not exist, apply it to a random enemy without that effect\nJP :\n死亡時に全ての敵へ沈潜 威力2, 回数1を付与\n自分を倒した対象に縛られし王の包帯 を付与。対象が既にこの効果を持っているか、自分を倒した対象がいなければこの効果を持っていないランダムな敵へ付与"
+  },
+  {
+    "key": "ComeForwardToTheKing-name",
+    "original": "알현의 시간",
+    "context": "EN :\nMoment of Audience\nJP :\n謁見の時間"
+  },
+  {
+    "key": "ComeForwardToTheKing-desc",
+    "original": "자신의 모든 공격 스킬의 공격 가중치가 수치만큼 증가함.(최대 값 2)\n합 패배 시 다음 턴에 취약 1을 얻음",
+    "context": "EN :\nGain Atk Weight equal to the value to all of this unit's Attack Skills. (max 2)\nClash Lose: Gain 1 Fragile next turn\nJP :\n自分の全攻撃スキルの攻撃加重値が数値だけ増加する。(最大値2)\nマッチ敗北時、次のターンに脆弱 1を得る"
+  },
+  {
+    "key": "RefractedWill-name",
+    "original": "굴절된 의지",
+    "context": "EN :\nRefracted Determination\nJP :\n屈折された意志"
+  },
+  {
+    "key": "RefractedWill-desc",
+    "original": "아군 사망 시 기본 정신력 감소 조건으로 인한 정신력 감소가 절반으로 적용. (소수점 버림)",
+    "context": "EN :\nHalve the amount of SP lost when an ally is defeated as per the Identity's 'Base factors decreasing Sanity(SP)'. (rounded down)\nJP :\n味方死亡時、基本精神力減少条件による精神力減少が半分で適用。(小数点切り捨て)"
+  },
+  {
+    "key": "VioletPeccatulumTwo-name",
+    "original": "질투 죄종?",
+    "context": "EN :\nPeccatulum Invidiae?\nJP :\n嫉妬大罪？"
+  },
+  {
+    "key": "VioletPeccatulumTwo-desc",
+    "original": "- 가하는 피해량 +15%\n- 받는 피해량 -15%\n- 해당 버프를 보유한 캐릭터에게 질투 죄종? 오라 이펙트 출력",
+    "context": "EN :\n- Damage Dealt +15%\n- Damage Taken -15%\n- Units with this effect are marked by Peccatulum Invidiae? aura\nJP :\n- 与ダメージ量 +15%\n- 被ダメージ量 -15%\n- 該当バフを保有したキャラクターに嫉妬大罪？ オーラエフェクトを出力"
+  },
+  {
+    "key": "BigWelcome-name",
+    "original": "성대한 환대",
+    "context": "EN :\nGrand Welcome\nJP :\n盛大な歓待"
+  },
+  {
+    "key": "BigWelcome-desc",
+    "original": "공격 종료 시 대상이 흐트러짐 상태가 되었거나 사망하였으면, 오만 속성 E.G.O 자원 +1, 나머지 속성의 E.G.O 자원 중 무작위 1종 +1 (턴 당 최대 3회 발동)",
+    "context": "EN :\nAfter Attack: if the target is Staggered or defeated, gain +1 Pride E.G.O resource and +1 E.G.O resource for 1 other random Affinity (3 times per turn)\nJP :\n攻撃終了時、対象が混乱状態になるか死亡したなら傲慢属性E.G.O資源 +1, 残り属性のE.G.O資源のうちランダムに1種を +1(1ターンにつき最大3回発動)"
+  },
+  {
+    "key": "Refraction4A-name",
+    "original": "1번 편성 효과",
+    "context": "EN :\n#1 Deployment Effect\nJP :\n1番編成効果"
+  },
+  {
+    "key": "Refraction4A-desc",
+    "original": "인격 레벨 +2",
+    "context": "EN :\nIdentity Level +2\nJP :\n人格レベル +2"
+  },
+  {
+    "key": "Refraction4B-name",
+    "original": "2번 편성 효과",
+    "context": "EN :\n#2 Deployment Effect\nJP :\n2番編成効果"
+  },
+  {
+    "key": "Refraction4B-desc",
+    "original": "정신력 회복 효율 +3\n시작 정신력 +10",
+    "context": "EN :\nSP Heal Efficiency +3\nEntry SP +10\nJP :\n精神力回復効率 +3\n開始精神力 +10"
+  },
+  {
+    "key": "Refraction4C-name",
+    "original": "3번 편성 효과",
+    "context": "EN :\n#3 Deployment Effect\nJP :\n3番編成効果"
+  },
+  {
+    "key": "Refraction4C-desc",
+    "original": "공격 레벨 +2",
+    "context": "EN :\nOffense Level +2\nJP :\n攻撃レベル +2"
+  },
+  {
+    "key": "Refraction4D-name",
+    "original": "4번 편성 효과",
+    "context": "EN :\n#4 Deployment Effect\nJP :\n4番編成効果"
+  },
+  {
+    "key": "Refraction4D-desc",
+    "original": "방어 레벨 +2",
+    "context": "EN :\nDefense Level +2\nJP :\n防御レベル +2"
+  },
+  {
+    "key": "Refraction4E-name",
+    "original": "5번 편성 효과",
+    "context": "EN :\n#5 Deployment Effect\nJP :\n5番編成効果"
+  },
+  {
+    "key": "Refraction4E-desc",
+    "original": "최대 속도 +2",
+    "context": "EN :\nMax Speed +2\nJP :\n最大速度 +2"
+  },
+  {
+    "key": "Refraction4F-name",
+    "original": "6번 편성 효과",
+    "context": "EN :\n#6 Deployment Effect\nJP :\n6番編成効果"
+  },
+  {
+    "key": "Refraction4F-desc",
+    "original": "최대 체력 +5%",
+    "context": "EN :\nMax HP +5%\nJP :\n最大体力 +5%"
+  },
+  {
+    "key": "Refraction4G-name",
+    "original": "7번 편성 효과",
+    "context": "EN :\n#7 Deployment Effect\nJP :\n7番編成効果"
+  },
+  {
+    "key": "Refraction4G-desc",
+    "original": "합 위력 +1\n시작 정신력 +15",
+    "context": "EN :\nClash Power +1\nEntry SP +15\nJP :\nマッチ威力 +1\n開始精神力 +15"
+  },
+  {
+    "key": "Refraction4H-name",
+    "original": "8번 편성 효과",
+    "context": "EN :\n#8 Deployment Effect\nJP :\n8番編成効果"
+  },
+  {
+    "key": "Refraction4H-desc",
+    "original": "받는 피해량 -10%\n시작 정신력 +15",
+    "context": "EN :\nDamage Taken -10%\nEntry SP +15\nJP :\n被ダメージ量 -10%\n開始精神力 +15"
+  },
+  {
+    "key": "Refraction4I-name",
+    "original": "9번 편성 효과",
+    "context": "EN :\n#9 Deployment Effect\nJP :\n9番編成効果"
+  },
+  {
+    "key": "Refraction4I-desc",
+    "original": "도발치 +5\n시작 정신력 +20",
+    "context": "EN :\nAggro +5\nEntry SP +20\nJP :\n挑発値 +5\n開始精神力 +20"
+  },
+  {
+    "key": "Refraction4J-name",
+    "original": "10번 편성 효과",
+    "context": "EN :\n#10 Deployment Effect\nJP :\n10番編成効果"
+  },
+  {
+    "key": "Refraction4J-desc",
+    "original": "가하는 피해량 +10%\n시작 정신력 +20",
+    "context": "EN :\nDamage Dealt +10%\nEntry SP +20\nJP :\n与ダメージ量 +10%\n開始精神力 +20"
+  },
+  {
+    "key": "Refraction4K-name",
+    "original": "11번 편성 효과",
+    "context": "EN :\n#11 Deployment Effect\nJP :\n11番編成効果"
+  },
+  {
+    "key": "Refraction4K-desc",
+    "original": "최종 위력 +1\n시작 정신력 +30",
+    "context": "EN :\nFinal Power +1\nEntry SP +30\nJP :\n最終威力 +1\n開始精神力 +30"
+  },
+  {
+    "key": "Refraction4L-name",
+    "original": "12번 편성 효과",
+    "context": "EN :\n#12 Deployment Effect\nJP :\n12番編成効果"
+  },
+  {
+    "key": "Refraction4L-desc",
+    "original": "인격 레벨 +3\n시작 정신력 +30",
+    "context": "EN :\nIdentity Level +3\nEntry SP +30\nJP :\n人格レベル +1\n開始精神力 +30"
+  },
+  {
+    "key": "BreathSupport-name",
+    "original": "결전의 호흡",
+    "context": "EN :\nPoised Showdown\nJP :\n決戦の呼吸"
+  },
+  {
+    "key": "BreathSupport-desc",
+    "original": "웨이브 시작 시 호흡 위력 4, 횟수 4 얻음.",
+    "context": "EN :\nWave Start: Gain 4 Poise Potency and Count.\nJP :\nウェーブ開始時に呼吸 威力4, 回数4を得る。"
+  },
+  {
+    "key": "FirmWill-name",
+    "original": "굳은 의지",
+    "context": "EN :\nResilient Determination\nJP :\n固い意志"
+  },
+  {
+    "key": "FirmWill-desc",
+    "original": "아군 사망 시 정신력이 감소하지 않음.",
+    "context": "EN :\nDoes not lose SP upon ally defeat.\nJP :\n味方死亡時に精神力が減少しない。"
+  }
+]

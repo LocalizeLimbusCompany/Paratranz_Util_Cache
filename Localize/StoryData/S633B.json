@@ -1,0 +1,514 @@
+[
+  {
+    "key": "0-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "0-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "0-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "0-content",
+    "original": "후후…",
+    "context": "EN :\nHa ha...\nJP :\nふふ…。"
+  },
+  {
+    "key": "1-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "1-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "1-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "1-content",
+    "original": "크하하하하하…",
+    "context": "EN :\nAhahahahahahaha...\nJP :\nふふははははは…。"
+  },
+  {
+    "key": "2-content",
+    "original": "그는 자신의 의뢰인이 눈앞에서 죽어버렸음에도 개의치 않고 웃어대고 있었다.",
+    "context": "EN :\nHe did not seem to mind at all that his client had died right before him.\nJP :\n彼は自分の依頼人が目の前で死んだというのに、\n意にも介さず笑っていた。"
+  },
+  {
+    "key": "3-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "3-content",
+    "original": "형님… 왜 웃는 거야?",
+    "context": "EN :\nWhat are you laughing at, boss...?\nJP :\nアニキ…なんで笑ってんだ？"
+  },
+  {
+    "key": "4-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "4-content",
+    "original": "저 자… 왜 관 앞에 서 있는 거죠?",
+    "context": "EN :\nWhat's he doing there... right next to the coffin...?\nJP :\nあの人…何で棺の前に立ってるんですか？"
+  },
+  {
+    "key": "5-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "5-content",
+    "original": "의중은 알 수 없다. 다만, 관에 달린 레버의 개수가 하나 더 늘었다.",
+    "context": "EN :\nHis motives are unknown. But I see that an additional lever has attached itself to the coffin.\nJP :\n意中は分からない。\nただし、棺に付いているレバーの個数がもう一つ増えた。"
+  },
+  {
+    "key": "6-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "6-content",
+    "original": "언제부터…?",
+    "context": "EN :\nWhen did it...?\nJP :\nいつから…？"
+  },
+  {
+    "key": "7-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "7-content",
+    "original": "정전이 찾아왔던 직후부터.",
+    "context": "EN :\nImmediately after the power outage.\nJP :\n停電になった直後から。"
+  },
+  {
+    "key": "8-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "8-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "8-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "8-content",
+    "original": "어떻게…",
+    "context": "EN :\nWhat's...\nJP :\nどうして…。"
+  },
+  {
+    "key": "9-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "9-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "9-content",
+    "original": "어떻게 웃지 않고 견딜 수 있겠어.",
+    "context": "EN :\nWhat's there to not laugh about?\nJP :\nどうして笑わずにいられるとでも？"
+  },
+  {
+    "key": "10-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "10-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "10-content",
+    "original": "매일 바라 왔지. 아무리 오래 기다려야 한들 상관없으니, 내가 다가가기 전까진 절대 죽지 말기를.",
+    "context": "EN :\nOh, how I've spent days upon days wishin' he'd survive no matter how long I had to wait. That he'd survive until I could be there to watch him die with me own eyes.\nJP :\n毎日、望んできたさ。いくら待つことになっても構わない、\nオレがこのシーンにたどり着くまでに絶対に死なないことをな。"
+  },
+  {
+    "key": "11-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "11-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "11-content",
+    "original": "매일 생각했지. 저런 놈에겐 어떤 죽음이 제일 어울릴까.",
+    "context": "EN :\nI imagined it every single day. Wonderin' what kind of death would befit a prick like him.\nJP :\n毎日考えてたさ。あんなやつにはどんな死が最もふさわしいか。"
+  },
+  {
+    "key": "12-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "12-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "12-content",
+    "original": "매번 볼 때마다 어떤 것도 마뜩찮았고, 어떤 장면도 제대로 된 만족을 주지 못했지만…",
+    "context": "EN :\nYet every time, there was something so unsatisfying about the way he went out. There was always something... missing.\nJP :\n毎回見る度にどんなのも気に入らなかったけど、\nどんなシーンもまともに満足させてくれなかったけどな…。"
+  },
+  {
+    "key": "13-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "13-content",
+    "original": "매번?",
+    "context": "EN :\n\"Every time\"?\nJP :\n毎回？"
+  },
+  {
+    "key": "14-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "14-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "15-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "15-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "15-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "15-content",
+    "original": "그래, 이런 죽음도… 나쁘지 않군. 추악하고 패배감의 냄새로 가득 찬…",
+    "context": "EN :\nBut this one... oh yes. I quite enjoyed this one. A dog's death, stinking with that hideous stench of defeatism...\nJP :\nそうだな、こんな死も…悪くないな。\n醜悪な敗北の臭いで満たされた…。"
+  },
+  {
+    "key": "16-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "16-content",
+    "original": "그 레버를 당기면 이곳이 정전이 되고 무언가가 일어나는 거지…",
+    "context": "EN :\n... So pulling that lever kills the power. But I doubt that's the only thing it does. Am I right?\nJP :\nそのレバーを引けばここに停電が起きて、何か起こるんだろ…。"
+  },
+  {
+    "key": "17-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "17-content",
+    "original": "…당길 생각인 거야?",
+    "context": "EN :\n... Are you going to pull it?\nJP :\n…引っ張るつもりか？"
+  },
+  {
+    "key": "18-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "18-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "18-content",
+    "original": "그래.",
+    "context": "EN :\nYes, I am.\nJP :\nそうだけど。"
+  },
+  {
+    "key": "19-content",
+    "original": "누군가 말릴 새도 없이 히스클리프가 장치 위로 튀어 나가더니, 데드레빗츠 보스의 멱살을 잡아챘다.",
+    "context": "EN :\nBefore anyone had the chance to stop him, Heathcliff bolted up to the machine and grabbed the Dead Rabbits boss by his collars.\nJP :\n誰かが止める間もなくヒースクリフが装置の上に飛び出て、\nデッドラビッツのボスの胸倉を掴んだ。"
+  },
+  {
+    "key": "20-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "20-content",
+    "original": "아까부터 이상하다고 생각했는데.",
+    "context": "EN :\nI knew that something was off about you earlier.\nJP :\nさっきから変だって思ってたけどな。"
+  },
+  {
+    "key": "21-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "21-content",
+    "original": "둘 중 하나겠지.",
+    "context": "EN :\nNow, I can think of two possibilities.\nJP :\n二つのうちどっちかだろ。"
+  },
+  {
+    "key": "22-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "22-content",
+    "original": "형님이 안 본 사이에 머리가 훼까닥 돌아버려서 두들겨 패야지만 제정신이 돌아오는 상태던가…",
+    "context": "EN :\nOne. The gaffer's lost it while I was gone, and it's going to be up to me to beat the sense back into 'im.\nJP :\nアニキが見ないうちに頭がパーになっちまって\nぶちのめさねぇと正気に戻らねぇ状態になっちまったか…。"
+  },
+  {
+    "key": "23-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "23-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "23-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "23-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "24-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "24-content",
+    "original": "그게 아니라면…",
+    "context": "EN :\n... Two.\nJP :\nそうじゃなきゃ…。"
+  },
+  {
+    "key": "25-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "25-content",
+    "original": "감히 형님의 흉내를 내고… 캐서린에게 가까이 가서는 안 될 미친 개새끼던가…",
+    "context": "EN :\nHe's some deranged lunatic who's only pretending to be the boss. Some mental fuck who should never be allowed anywhere near Catherine.\nJP :\n身の程知らずにもアニキのマネをして…。\nキャサリンに近づいちゃならねぇイカれたクソ野郎か…。"
+  },
+  {
+    "key": "26-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "26-content",
+    "original": "네가 정말 형님이라면 그 이름을 똑바로 대봐.",
+    "context": "EN :\nIf you're really him, you must know at least know your own name. What is it?!\nJP :\nテメェが本当にアニキなら、ちゃんと名前を言え。"
+  },
+  {
+    "key": "27-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "27-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "27-content",
+    "original": "매트.",
+    "context": "EN :\nMatt.\nJP :\nマット。"
+  },
+  {
+    "key": "28-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "28-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "28-content",
+    "original": "…가 아니었나 보군. 여기서는?",
+    "context": "EN :\n... I suppose he didn't go by 'Matt' here, then?\nJP :\n…じゃなかったみたいだな。ここだと。"
+  },
+  {
+    "key": "29-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "29-content",
+    "original": "뭐…",
+    "context": "EN :\nWhat...?\nJP :\nなっ…。"
+  },
+  {
+    "key": "30-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "30-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "30-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "30-content",
+    "original": "…안일했군. 열심히 그놈을 따라 해대느라 꽤 적지 않은 시간을 낭비했는데.",
+    "context": "EN :\n... I've grown complacent. I wasted quite a lot of time and effort in an attempt to learn his mannerisms.\nJP :\n…安逸だったか。頑張ってアイツのマネをするために、\nかなりの時間を浪費したというのに。"
+  },
+  {
+    "key": "31-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "31-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "31-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "31-content",
+    "original": "바로 이렇게 말이야.",
+    "context": "EN :\nJust like this.\nJP :\nこういう風にな。"
+  },
+  {
+    "key": "32-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "32-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "32-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "32-content",
+    "original": "앉아서, 맥주나 따라봐라. 히스클리프. 오늘도 빌어먹게도 구린 날씨니까.",
+    "context": "EN :\nSeat your arse down and pour me a pint, Heathcliff. What a bloody gloomy day it is.\nJP :\n座って、ビールでも注げよ。ヒースクリフ。\n今日も忌々しい天気だからな。"
+  },
+  {
+    "key": "33-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "33-content",
+    "original": "너… 너!!!",
+    "context": "EN :\nYou... You!!!\nJP :\nテメェ…テメェ！！！"
+  }
+]

@@ -1,0 +1,615 @@
+[
+  {
+    "key": "0-content",
+    "original": "햇볕이 은은하게 드는 에드가 저택은 빗질하는 소리나 분주히 움직이는 버틀러의 발소리로 소란스러워.",
+    "context": "EN :\nThe Edgar Manor, wreathed in the ambient sunlight, is full of sounds of brooms and Butler boots moving about its premises.\nJP :\n薄陽がさしているエドガー邸は、箒で掃く音や\n忙しなく動くバトラーの足音で騒々しいんだ。"
+  },
+  {
+    "key": "1-content",
+    "original": "에드가 저택의 버틀러들은 곧 있을 늑대 사냥 전에 마지막으로 저택을 살피며 청소하고 있어.",
+    "context": "EN :\nButlers of the Edgar Family are busy with their last-minute deep cleaning of the manor before the wolven hunt.\nJP :\nエドガー邸のバトラーたちは間もなく起こるであろう\n狼の狩りを前にして、最後に邸宅を点検しつつ掃除をしている。"
+  },
+  {
+    "key": "2-content",
+    "original": "빗질하는 소리, 식기가 잘그락거리는 소리, 분주한 발소리.",
+    "context": "EN :\nBrooms brushing against the floor. Dishes clattering against one another. Loud, bustling footsteps.\nJP :\n箒で掃く音、食器がカチャカチャいう音、奔走する足音。"
+  },
+  {
+    "key": "3-content",
+    "original": "그런 소란스런 저택에서 아이는 무덤덤한 표정으로 조용히 창틀의 먼지를 털어내고 있어.",
+    "context": "EN :\nThe child is quietly and impassively dusting the window frames amidst that clamor.\nJP :\nそんな騒がしい邸宅の中、子供は淡々とした表情で\n静かに窓枠の埃を払い落としているんだ。"
+  },
+  {
+    "key": "4-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "4-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "4-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "4-content",
+    "original": "이런 눈에 닿지 않는 곳도 깨끗하게 청소해야죠.",
+    "context": "EN :\nCome on, let's try not to neglect these out-of-the-way corners.\nJP :\nこういう目の届かない場所も綺麗に掃除してくださいよ。"
+  },
+  {
+    "key": "5-content",
+    "original": "평소의 아이라면 누구에게도 말하지 않고, 조용히 자신이 치우고 말았을 테지만…",
+    "context": "EN :\nThe child would normally have quietly taken care of it herself without telling anyone, but...\nJP :\n普段の子供なら誰にも言わず、静かに自分で片付けただろうけど…。"
+  },
+  {
+    "key": "6-content",
+    "original": "사냥을 준비하고 있는 지금, 부쩍 예민해진 주인과 치프 버틀러의 신경을 건드리지 않도록 주의를 줬어.",
+    "context": "EN :\n... now that they're all busily preparing for the hunt, she decided to give them a warning to avoid drawing the ire of her Master or the Chief Butler.\nJP :\n狩りを準備している今、少し神経質になった主人と\nチーフバトラーの神経を逆撫ですることがないように注意した。"
+  },
+  {
+    "key": "7-content",
+    "original": "불퉁한 지적 같지만, 다른 버틀러에게 아이 나름의 배려를 한 거지.",
+    "context": "EN :\nIt may have sounded a tad nosy, but... it was her own way of caring for the other Butlers.\nJP :\nぶっきらぼうな指摘に見えるけど、\n他のバトラーに子供なりの配慮をしたんだ。"
+  },
+  {
+    "key": "8-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "8-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "8-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "8-content",
+    "original": "주인님에겐 작은 먼지도 치명적일 수 있잖아요.",
+    "context": "EN :\nEven a pinch of dust particles could be dangerous for our Master, you know.\nJP :\nご主人様にとっては、小さな埃一つですら\n致命的になり得るじゃないですか。"
+  },
+  {
+    "key": "9-teller",
+    "original": "동료 버틀러",
+    "context": "EN :\nButler Colleague\nJP :\n同僚のバトラー"
+  },
+  {
+    "key": "9-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "9-content",
+    "original": "미, 미안, 주의할게.",
+    "context": "EN :\nS-sorry. I'll be more careful from now on.\nJP :\nご、ごめん。気をつけるよ。"
+  },
+  {
+    "key": "10-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "10-content",
+    "original": "사냥이 머지 않았으니, 좀 더 조심하자고요.",
+    "context": "EN :\nC'mon. The hunt's coming up, so let's keep ourselves in tip-top shape, alright?\nJP :\n狩りまでそう遠くないですし、もっと気をつけてくださいよ。"
+  },
+  {
+    "key": "11-content",
+    "original": "물론 아이가 배려하는 건, 동료 버틀러뿐만은 아니야.",
+    "context": "EN :\nOf course, she wasn't just worried for her fellow Butlers.\nJP :\nもちろん子供が配慮しているのは、同僚のバトラーだけじゃないんだ。"
+  },
+  {
+    "key": "12-content",
+    "original": "아이의 말 한마디마다 주인을 향한 걱정이 잔뜩 묻어있어.",
+    "context": "EN :\nIt was clear from the way she spoke that she cared terribly for her Master.\nJP :\n子供の一言には、それぞれ一つずつに\n主人への心配がべっとりと付いていた。"
+  },
+  {
+    "key": "13-content",
+    "original": "당연한 걸지도 몰라.",
+    "context": "EN :\nPerhaps that was an obvious outcome.\nJP :\n当然かもね。"
+  },
+  {
+    "key": "14-content",
+    "original": "아이는 원래 뒷골목을 떠돌던 해결사였어. 삶의 목표를 찾지 못하고, 한참을 떠돌았지.",
+    "context": "EN :\nThe child used to be a Fixer drifting through the Backstreets. And she wandered for a long, long time, unable to find her purpose in life.\nJP :\n子供は元々、裏路地をさすらうフィクサーだったんだ。\n人生の目標を探せないまま、ひたすら彷徨っていたの。"
+  },
+  {
+    "key": "15-content",
+    "original": "에드가 가문은 그런 아이에게 명확한 삶의 목표와 보금자리를 제공해준 거야.",
+    "context": "EN :\nThe Edgar Family took her in, gave her a roof over her head, and gave her a definite purpose to live for.\nJP :\nエドガー家はそんな子供に、明確な人生の目標と\n居場所を提供してくれたんだ。"
+  },
+  {
+    "key": "16-content",
+    "original": "그래서일까?",
+    "context": "EN :\nPerhaps that is why...\nJP :\nだからかもね？"
+  },
+  {
+    "key": "17-content",
+    "original": "아이는 병약하고 가련한 그 아이, 아니 주인이 술을 마셔도 치프 버틀러에게 이르지 않아. ",
+    "context": "EN :\n... the child does not tell the Chief Butler whenever the other child—her Master—indulges in alcoholic drinks.\nJP :\n子供は病弱で哀れなその子供…いいえ、主人が酒を飲んでも\nチーフバトラーに伝えることはない。"
+  },
+  {
+    "key": "18-content",
+    "original": "찬바람 하나라도 저택 안으로 스며들까, 주인이 있을 때는 창문 하나 함부로 열지 않지.",
+    "context": "EN :\nThat is why the child does not even dare open the window when her Master is home—for fear of letting chill winds into the manor.\nJP :\n冷たい風が邸宅の中に染み込んでくるのを恐れて、\n主人がいるときは無闇に窓を一つでさえも開かないの。"
+  },
+  {
+    "key": "19-content",
+    "original": "아이는 맹목적일 만큼 주인을 따르려 해.",
+    "context": "EN :\nHer devotion to her Master almost appears like a blind obsession.\nJP :\n子供は盲目的なくらい、主人に従おうとしてる。"
+  },
+  {
+    "key": "20-teller",
+    "original": "동료 버틀러",
+    "context": "EN :\nButler Colleague\nJP :\n同僚のバトラー"
+  },
+  {
+    "key": "20-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "20-content",
+    "original": "주인님께서 늑대 사냥을 시작하지 않으셨다면… 지금보다 건강하셨을까?",
+    "context": "EN :\nDo you think Master would've been... less ill, had he not been hunting for the wolf?\nJP :\nご主人様が狼の狩りをお始めにならなければ…今より健康だったかな？"
+  },
+  {
+    "key": "21-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "21-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "21-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "21-content",
+    "original": "그럴 리가요. 주인님은 그 전부터 이미 팔 한쪽과 이사벨라 아가씨를 잃으셨는데.",
+    "context": "EN :\nI doubt it. Master had already lost his arm and Miss Isabella even before the hunt started.\nJP :\nそんなわけないです。ご主人様はその前から既に\n腕の片方とイザベラお嬢様を失っています。"
+  },
+  {
+    "key": "22-teller",
+    "original": "동료 버틀러",
+    "context": "EN :\nButler Colleague\nJP :\n同僚のバトラー"
+  },
+  {
+    "key": "22-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "22-content",
+    "original": "그건 그렇지만…",
+    "context": "EN :\nYeah, but...\nJP :\nそれはそうだけど…。"
+  },
+  {
+    "key": "23-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "23-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "23-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "23-content",
+    "original": "하물며… 주인님이 포기한다고 그 늑대가 멈출 족속이던가요.",
+    "context": "EN :\nBesides, it doesn't matter whether our Master gives up his hunt or not. Because that wolf won't.\nJP :\nましてや…ご主人様が諦めたところで、\nその狼が止まる輩でしたっけ？"
+  },
+  {
+    "key": "24-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "24-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "24-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "24-content",
+    "original": "…주인님의 모든 걸 빼앗기 전까지 절대 멈추지 않을 거예요. 반드시.",
+    "context": "EN :\n... He won't stop until he's taken everything that our Master has.\nJP :\n…ご主人様の全てを奪うまで絶対に止まらないです。\n絶対に。"
+  },
+  {
+    "key": "25-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "25-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "25-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "25-content",
+    "original": "…아, 생각해보니까 그 늑대, 자기가 사랑하던… 음…",
+    "context": "EN :\n... Oh, speaking of which, didn't that wolf love... uh, um...\nJP :\n…あぁ。そういえばあの狼、自分が愛してた…その…。"
+  },
+  {
+    "key": "26-teller",
+    "original": "동료 버틀러",
+    "context": "EN :\nButler Colleague\nJP :\n同僚のバトラー"
+  },
+  {
+    "key": "26-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "26-content",
+    "original": "응? 사랑? 무슨 말이야?",
+    "context": "EN :\nHuh? Love? What are you talking about?\nJP :\nえ？愛？何のこと？"
+  },
+  {
+    "key": "27-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "27-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "27-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "27-content",
+    "original": "…뭐였지… 하, 아무것도 아니에요. 저도 왜 그런 말이 튀어나왔는지 잘…",
+    "context": "EN :\n... Uh, what was it again...? Haah, it's nothing. Sorry, I have no idea where that came from.\nJP :\n…何だっけ。…はぁ、何でもないです。\n私もどうしてそんな言葉が飛び出してきたのかよく…。"
+  },
+  {
+    "key": "28-content",
+    "original": "모든 비극의 원인일 그 아이가 사라진 빈자리엔, 커다란 구멍이 남았어.",
+    "context": "EN :\nThere was a large hole where that child once stood. The child who was likely the cause of all this misery.\nJP :\n全ての悲劇の原因であるはずのその子供が消えた場所には、\n大きな穴が残った。"
+  },
+  {
+    "key": "29-content",
+    "original": "이런 사소한 대화 속에서 아이는 안개 낀 듯한 기억에 의아함을 품었지.",
+    "context": "EN :\nThis child grew puzzled as she suddenly felt the fog of memory from this casual conversation.\nJP :\nこんな些細な対話の中で、子供は\n霧が掛かったような記憶に違和感を抱いた。"
+  },
+  {
+    "key": "30-content",
+    "original": "그럼에도 아이는 기시감을 지웠어.",
+    "context": "EN :\nBut she ignored this odd sense of deja-vu.\nJP :\nそれにもかかわらず、子供は既視感を消した。"
+  },
+  {
+    "key": "31-content",
+    "original": "그런 것에 집착하는 것 보다 당장에 있을 사냥을 생각하는 것이 더 합리적일테니까.",
+    "context": "EN :\nIt would be much more reasonable for her to focus on the hunt rather than to get hung up on such details.\nJP :\nそんなものに執着するよりも、じきに当面するであろう\n狩りのことを考える方がもっと合理的だろうからね。"
+  },
+  {
+    "key": "32-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "32-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "32-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "32-content",
+    "original": "벌써 시간이 이렇게…",
+    "context": "EN :\nIs it already time...?\nJP :\nもう時間がこんな…。"
+  },
+  {
+    "key": "33-content",
+    "original": "해가 뉘엿뉘엿 모습을 감출 무렵.",
+    "context": "EN :\nThe sun hangs over the horizon.\nJP :\n日がギラギラと姿を消す頃。"
+  },
+  {
+    "key": "34-content",
+    "original": "저세상에서 끄집어내진 자들의 처절한 울음소리가 멀지 않은 곳에서 들려오기 시작했어.",
+    "context": "EN :\nThe terrible wailings of those pulled from the other side begin to echo from nearby.\nJP :\nあの世から引きずり出された者たちの凄絶な泣き声が\n遠くない場所から聞こえ始めた。"
+  },
+  {
+    "key": "35-content",
+    "original": "수많은 것들이 발을 구르는 듯, 거대한 울림이 저택을 가득 채웠지.",
+    "context": "EN :\nThe great rumbling begins to intensify within the halls of the manor.\nJP :\n数多の者が足踏みするかのように、巨大な響きが邸宅を埋め尽くした。"
+  },
+  {
+    "key": "36-content",
+    "original": "창문 너머에는 황혼의 색으로 칠해진 망자의 군세가 저택을 향해 폭풍처럼 몰려들어.",
+    "context": "EN :\nPast the window were the forces of the dead, wreathed under the orange light of the eventide, swarming up toward the manor.\nJP :\n窓越しには黄昏色に塗られた亡者の軍勢が\n邸宅へ向かって嵐のように押し寄せるのが見え。"
+  },
+  {
+    "key": "37-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "37-teller",
+    "original": "그레고르",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "37-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "37-content",
+    "original": "잠들지 않았는데도, 저 악몽은 정말 끝도 없이 내게 몰려오는군…",
+    "context": "EN :\nEven as I remain awake does that endless nightmare seek to claim me...\nJP :\n眠ってもいないのに、あの悪夢は本当に\n果てしなく押し寄せてくるんだな…。"
+  },
+  {
+    "key": "38-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "38-teller",
+    "original": "료슈",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "38-title",
+    "original": "치프 버틀러",
+    "context": "EN :\nChief Butler\nJP :\nチーフバトラー"
+  },
+  {
+    "key": "38-content",
+    "original": "아직 잡것들이다. 사냥 직전에 귀신같이 냄새를 맡았나.",
+    "context": "EN :\nThey're nothing but weaklings. An advance party... I see. The wolf caught wind of our hunt, I suppose.\nJP :\nまだ雑魚どもだ。\n狩りの直前に目敏く嗅ぎつけたか。"
+  },
+  {
+    "key": "39-content",
+    "original": "주인 되는 아이가 세이버를 치켜들고 자세를 잡자, 아이가 조심스레 고개를 저어.",
+    "context": "EN :\nThe other child—her Master—draws his sabre and readies himself. But the child shakes her head.\nJP :\n主人である子供がセイバーを構えて姿勢を整えると、\n子供が慎重そうに頷いた。"
+  },
+  {
+    "key": "40-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "40-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "40-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "40-content",
+    "original": "주인님, 료슈님, 여기는 제가 맡겠습니다.",
+    "context": "EN :\nMaster. Lady Ryōshū. Leave them to me.\nJP :\nご主人様、良秀様。\nここは私にお任せ下さい。"
+  },
+  {
+    "key": "41-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "41-teller",
+    "original": "료슈",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "41-title",
+    "original": "치프 버틀러",
+    "context": "EN :\nChief Butler\nJP :\nチーフバトラー"
+  },
+  {
+    "key": "41-content",
+    "original": "쓸. 소. 나와 주인놈이 나서면 빠르게 끝날 일이다.",
+    "context": "EN :\nD.B.S. Me and this fool of a Master can take them out in the blink of an eye.\nJP :\n駄・言。オレとご主人が前へ出ればすぐ終わることだ。"
+  },
+  {
+    "key": "42-content",
+    "original": "저택의 복도가 노을빛을 받아 아이의 머리색과 비슷하게 물들면, 아이는 두 사람의 눈을 똑바로 쳐다보며 말해.",
+    "context": "EN :\nThe child waits until the warm light of the eventide, the color of her hair, reflects off the floorboards of the manor's hallway. She looks into the eyes of the Chief Butler and her Master.\nJP :\n邸宅の廊下へ夕焼けが差し込んで\n子供の髪と似た色に染まると、子供は二人の目を直視しながら言うの。"
+  },
+  {
+    "key": "43-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "43-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "43-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "43-content",
+    "original": "두 분은 늑대를 사냥하셔야죠.",
+    "context": "EN :\nThe two of you have a wolf to hunt.\nJP :\nお二人は狼を狩らないといけません。"
+  },
+  {
+    "key": "44-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "44-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "44-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "44-content",
+    "original": "저런 망자들에게 힘을 소모하는 건 낭비예요.",
+    "context": "EN :\nDon't let the dead waste your energy.\nJP :\nあのような亡者に力を消耗するのは無駄です。"
+  },
+  {
+    "key": "45-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "45-teller",
+    "original": "그레고르",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "45-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "45-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "46-content",
+    "original": "아이의 말이 맞다고 생각한 걸까?",
+    "context": "EN :\nPerhaps the two believed that this child's words had merit.\nJP :\n子供の言うことが正しいって思ったのかな？"
+  },
+  {
+    "key": "47-content",
+    "original": "그 말에 주인 되는 아이가 세이버를 아래로 내리면, 나이프를 꺼냈던 치프 버틀러도 투덜거리며 팔짱을 끼고 지켜보고 있어.",
+    "context": "EN :\nHer Master lowers his sabre. The Chief Butler grumbles for a moment before sheathing her knives and crossing her arms.\nJP :\nその言葉に主人である子供がセイバーを下ろすと、ナイフを取り出していた\nチーフバトラーもブツブツ言いながら腕組みをして見つめてきたんだ。"
+  },
+  {
+    "key": "48-content",
+    "original": "아이는 그제서야 버틀러에게 지급된 차원 가방에서 기이한 문양이 음각된 빗자루와, 날카롭게 벼려진 나이프를 꺼내들었어.",
+    "context": "EN :\nOnly then does the child pull an oddly engraved broom and a sharp knife from the dimensional attache case issued to Butlers.\nJP :\n子供はバトラーに支給された次元鞄からようやく\n奇妙な紋様が刻まれた箒と、鋭く研がれたナイフを取り出した。"
+  },
+  {
+    "key": "49-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "49-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "49-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "49-content",
+    "original": "…헌팅 커틀러리, 준비 끝냈습니다.",
+    "context": "EN :\n... Hunting cutlery's at the ready.\nJP :\n…ハンティングカトラリー、準備完了しました。"
+  },
+  {
+    "key": "50-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "50-teller",
+    "original": "료슈",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "50-title",
+    "original": "치프 버틀러",
+    "context": "EN :\nChief Butler\nJP :\nチーフバトラー"
+  },
+  {
+    "key": "50-content",
+    "original": "…쯧. 굴러먹다가 죽지나 마라.",
+    "context": "EN :\n... Tsk. Don't get yourself killed like an idiot.\nJP :\n…チッ。しくって死ぬんじゃねぇぞ。"
+  },
+  {
+    "key": "51-content",
+    "original": "자신만만하게 나선 아이의 솜씨는 나쁘지 않아.",
+    "context": "EN :\nThe child lives up to her confidence.\nJP :\n自信満々に躍り出た子供の実力は悪くない。"
+  },
+  {
+    "key": "52-content",
+    "original": "하루도 빠짐 없이 갈았는지, 날카로운 나이프가 군세의 살갗을 꿰뚫었고.",
+    "context": "EN :\nThe well-sharpened knife cuts through the army of the dead like butter...\nJP :\n一日も欠かさずに研いだせいか、鋭いナイフが軍勢の肉を貫き。"
+  },
+  {
+    "key": "53-content",
+    "original": "대대로 이어져 온 에드가 버틀러의 빗자루는 유려하게 움직이며 다가오는 군세를 쓸어냈어.",
+    "context": "EN :\n... and the generations-old broom of the Edgar Family Butlers keeps her enemies at bay.\nJP :\n代々受け継がれてきたエドガー家の箒は\n流麗に動き、近寄る軍勢を一掃した。"
+  },
+  {
+    "key": "54-content",
+    "original": "나이프를 던지고, 빗자루를 휘두를 때마다 망자의 군세가 창틀에 있던 먼지처럼 후두둑 나가 떨어졌지.",
+    "context": "EN :\nShe routed the forces of the dead with every knife throw and broom swing, handily knocking them down like she was dusting a particularly stubborn corner.\nJP :\nナイフを投げ、箒を振るたびに\n亡者の軍勢が窓枠の埃みたいにポロポロと落ちていったの。"
+  },
+  {
+    "key": "55-content",
+    "original": "저택에 찾아온 군세가 몇 남지 않았는데도, 아직 노을의 역광이 창문 너머로 내려오고 있는 걸 보니.",
+    "context": "EN :\nThe advance force that assailed the manor is already looking rather thin; the intense light of the sunset shines through the windows still.\nJP :\n邸宅に訪れた軍政はもう残り僅かだというのに、\nまだ夕焼けの逆光が窓越しに差してくるのを見るに。"
+  },
+  {
+    "key": "56-content",
+    "original": "아이의 청소가 늦어 늑대 사냥이 지연될 일은 없을 것 같네.",
+    "context": "EN :\nDoesn't seem like housekeeping will cause them to run late to the hunt.\nJP :\n子供の掃除が遅くなって、狼の狩りが遅延することはなさそうだね。"
+  }
+]

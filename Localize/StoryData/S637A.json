@@ -1,0 +1,979 @@
+[
+  {
+    "key": "0-place",
+    "original": "워더링하이츠 실험실",
+    "context": "EN :\nWuthering Heights Laboratory\nJP :\nワザリング・ハイツ 実験室"
+  },
+  {
+    "key": "0-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "0-content",
+    "original": "아무도 남지 않았군.",
+    "context": "EN :\nSo there isn't anyone left...\nJP :\n誰も残っていないな。"
+  },
+  {
+    "key": "1-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "1-content",
+    "original": "난 아마 오래 견디지 못할 거야.",
+    "context": "EN :\nI won't last much longer.\nJP :\n私はもう長くないだろう。"
+  },
+  {
+    "key": "2-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "2-content",
+    "original": "이렇게 태어났고 그렇게 살아왔지.",
+    "context": "EN :\nThis is how I was born. How I've lived my entire life.\nJP :\nこうやって生まれ、そうやって生きてきた。"
+  },
+  {
+    "key": "3-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "3-content",
+    "original": "그래, 알고 있으면 이제 순순히…",
+    "context": "EN :\nYeah. Glad you know that. So why don't you—\nJP :\nそうか、分かってるならそろそろ大人しく…。"
+  },
+  {
+    "key": "4-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "4-content",
+    "original": "모든 죄를 인정하고… 항복… 이라도 하라는 건가?",
+    "context": "EN :\nWhat... admit my sins and... surrender...?\nJP :\n全ての罪を認めて…降伏…でもしろと？"
+  },
+  {
+    "key": "5-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "5-content",
+    "original": "하하… 그게 대체 내게 무슨 의미가 있다고 생각하나?",
+    "context": "EN :\nHa ha... why would any of that ever matter to me?\nJP :\nはは…それは一体私にとって何の意味があると思ってるんだ？"
+  },
+  {
+    "key": "6-content",
+    "original": "린튼은 한결 후련해진 표정으로 시선을 위로 올렸다.",
+    "context": "EN :\nLinton looks up with a lighter expression, as though a burden has been lifted from his shoulders.\nJP :\nリントンは一皮剥けたようなすっきりした顔で\n視線を上へ向けた。"
+  },
+  {
+    "key": "7-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "7-content",
+    "original": "나는 아마도 여기까지가 끝일 거야.",
+    "context": "EN :\nThis is as far as I will go.\nJP :\n私はきっとここで終わるだろう。"
+  },
+  {
+    "key": "8-content",
+    "original": "그러더니 누군가를 향해 다정한 목소리로 말을 이어 나간다.",
+    "context": "EN :\nThen, with the gentlest voice, he begins speaking to... someone.\nJP :\nすると誰かに向かって優しい声で言葉を紡ぎ始める。"
+  },
+  {
+    "key": "9-content",
+    "original": "가득 차다 못해 넘쳐흐를 것만 같은 애정이 묻어 나오고 있었다.",
+    "context": "EN :\nHis voice was overflowing with intense, fervent affection.\nJP :\n満ち足りるところか、溢れてしまいそうな愛情が\n滲み出ていた。"
+  },
+  {
+    "key": "10-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "10-content",
+    "original": "항상 말해왔던 것처럼, 후회는 없어.",
+    "context": "EN :\nAs I have always told you... I have no regrets.\nJP :\nいつも言っていた通り、後悔はない。"
+  },
+  {
+    "key": "11-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "11-content",
+    "original": "그저 우리가 같은 속도로 걷고 있던 것이 아니라고 생각해.",
+    "context": "EN :\nI merely think that... we were both walking in different paces.\nJP :\nただ、私たちが同じ速度で歩いていたわけではないと思っている。"
+  },
+  {
+    "key": "12-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "12-content",
+    "original": "당신이 항상 더 빨랐을 뿐이지.",
+    "context": "EN :\nAnd you always happened to walk ahead of me.\nJP :\n貴女がいつも速かっただけだ。"
+  },
+  {
+    "key": "13-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "13-content",
+    "original": "그래도 난 당신의 뒷모습을 보는 것조차 벅차오르도록 좋더군.",
+    "context": "EN :\nYet, even a sight of you from behind summoned butterflies in my stomach.\nJP :\nそれでも私は、貴女の後ろ姿を見るだけで\n胸がいっぱいになるほど満ち足りていた。"
+  },
+  {
+    "key": "14-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "14-content",
+    "original": "주치의의 마땅한 조치가 취해지지 않는다면, 저자는 곧 죽을 거다. 극도로 쇠약해져 있는 상태군.",
+    "context": "EN :\nThis man will die without immediate and appropriate medical attention from a professional doctor. He is extremely weakened.\nJP :\n主治医による適切な処置が講じられなければ、あの者はすぐに死ぬだろう。\n極度に衰弱している状態だな。"
+  },
+  {
+    "key": "15-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "15-content",
+    "original": "그럼에도…",
+    "context": "EN :\nStill...\nJP :\nそれでも…。"
+  },
+  {
+    "key": "16-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "16-content",
+    "original": "캐서린, 당신이…",
+    "context": "EN :\nCatherine, I wish you would...\nJP :\nキャサリン、君が…。"
+  },
+  {
+    "key": "17-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "17-content",
+    "original": "아주 조금이라도 좋으니… 나로 인해 슬퍼했으면 좋겠어.",
+    "context": "EN :\n... I wish my death would bring you even a trace of sorrow.\nJP :\nほんの少しでもいいから…私のせいで悲しんでくれたら嬉しい。"
+  },
+  {
+    "key": "18-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "18-content",
+    "original": "내가 린튼이라는 아이와 처음으로 눈이 마주치기 전부터…",
+    "context": "EN :\nEven before I first laid my eyes upon that child, Linton...\nJP :\n私がリントンという子と初めて目が合う前から…。"
+  },
+  {
+    "key": "19-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "19-content",
+    "original": "그 애는 나를 지켜보고 있었지.",
+    "context": "EN :\n... he was watching me.\nJP :\nその子は私のことを見つめていた。"
+  },
+  {
+    "key": "20-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "20-content",
+    "original": "한참을 내게서 눈을 떼지 못한 채로.",
+    "context": "EN :\nUnable to look away, even for a moment.\nJP :\nしばらくの間、私から目を離せないまま。"
+  },
+  {
+    "key": "21-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "21-content",
+    "original": "그 아이는 부자인데다가 동화책에 나오는 왕자님 같이 생겼어.",
+    "context": "EN :\nThat child is wealthy. He looks like the prince charming from fairy tales of my childhood.\nJP :\nその子はお金持ちな上に、絵本に出てくる王子様のような姿をしていた。"
+  },
+  {
+    "key": "22-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "22-content",
+    "original": "그리고 나를 정말 좋아해.",
+    "context": "EN :\nAnd he loves me so, so much.\nJP :\nそして私のことを本当に好いている。"
+  },
+  {
+    "key": "23-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "23-content",
+    "original": "이것 봐. 나를 볼 때마다, 항상 눈이 별빛처럼 반짝거리잖아.",
+    "context": "EN :\nSee? His eyes glimmer like the very stars of the night sky with every second he lays them upon me.\nJP :\n見てちょうだい。私を見るたびに、\nいつも目が星明かりのようにキラキラしているでしょう。"
+  },
+  {
+    "key": "24-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "24-content",
+    "original": "나는 나를 사랑하는 린튼을 사랑해.",
+    "context": "EN :\nI love Linton who loves me.\nJP :\n私は、私を愛しているリントンを愛している。"
+  },
+  {
+    "key": "25-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "25-content",
+    "original": "오직 나를 위해서만 반짝이는 그 눈빛을.",
+    "context": "EN :\nHis eyes that twinkle for no one else but me.\nJP :\nただ私のためだけに\n輝いているその瞳を。"
+  },
+  {
+    "key": "26-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "26-content",
+    "original": "오직 나를 위해서만 흩날리는 황금빛 머릿결을.",
+    "context": "EN :\nHis flaxen locks that flow for no one else but me.\nJP :\nただ私のためだけに\nなびかせている黄金色の髪を。"
+  },
+  {
+    "key": "27-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "27-content",
+    "original": "오직 나를 위해서만 웃어주는 그 빛나는 웃음을.",
+    "context": "EN :\nHis radiant smile that flashes for no one else but me.\nJP :\nただ私のためだけに笑ってくれる\nそのまぶしい笑顔を。"
+  },
+  {
+    "key": "28-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "28-content",
+    "original": "오직 나를 통해서만 행복해하는 린튼을.",
+    "context": "EN :\nLinton, who finds happiness through nothing else but me.\nJP :\n他の何者でもなく、私だけから幸せを見出すリントンを。"
+  },
+  {
+    "key": "29-content",
+    "original": "다시 저택에 빛이 돌아오고, 시야가 밝아졌을 때…",
+    "context": "EN :\nWhen light returned to the manor, when I could finally see again...\nJP :\n再び邸宅に光が戻り、視界が明るむと…。"
+  },
+  {
+    "key": "30-content",
+    "original": "린튼은 누구보다 황홀한 표정으로 웃고 있었다.",
+    "context": "EN :\nThere stood Linton, wearing the brightest, happiest smile I had ever seen.\nJP :\nリントンは誰よりも恍惚とした表情で笑っていた。"
+  },
+  {
+    "key": "31-content",
+    "original": "몸에는 실험 장치를 스스로의 몸에 연결한 채로.",
+    "context": "EN :\n... The machines of the laboratory were linked to his body.\nJP :\n実験装置に自らの身体を繋いだまま。"
+  },
+  {
+    "key": "32-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "32-content",
+    "original": "아… 들었는가? 마침내 벼락이 쳤어.",
+    "context": "EN :\nAh... did you hear... the thunder...?\nJP :\nあぁ…聞こえたか？ついに雷が落ちた。"
+  },
+  {
+    "key": "33-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "33-content",
+    "original": "…!",
+    "context": "EN :\n…!\nJP :\n…！"
+  },
+  {
+    "key": "34-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "34-content",
+    "original": "나로 인해 캐서린이 아파한 거야.",
+    "context": "EN :\nCatherine weeps for me.\nJP :\n私のせいでキャサリンが痛がっているんだ。"
+  },
+  {
+    "key": "35-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "35-content",
+    "original": "아… 캐서린!",
+    "context": "EN :\nOh... Catherine!\nJP :\nあぁ…キャサリン！"
+  },
+  {
+    "key": "36-content",
+    "original": "린튼이 있는 힘을 다해서 캐서린의 관을 향해 손을 뻗는다.",
+    "context": "EN :\nLinton musters every strength in his body and reaches out toward Catherine's coffin.\nJP :\nリントンが力の限り、キャサリンの棺に向かって手を伸ばす。"
+  },
+  {
+    "key": "37-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "37-content",
+    "original": "잠깐… 지금 너…",
+    "context": "EN :\nWait, what are you—\nJP :\n待て…今テメェ…。"
+  },
+  {
+    "key": "38-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "38-content",
+    "original": "그러니 이제… 적절한 때라는 거지…",
+    "context": "EN :\nSo now... is the right moment to...\nJP :\nだからそろそろ…潮時だということだ…。"
+  },
+  {
+    "key": "39-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "39-content",
+    "original": "…멈춰!",
+    "context": "EN :\n... STOP!\nJP :\n…止まれ！"
+  },
+  {
+    "key": "40-content",
+    "original": "기쁨의 눈물이 린튼의 볼을 타고 흘러내리는 듯했지만…",
+    "context": "EN :\nI thought I saw tears of joy rolling down his cheeks, but...\nJP :\n喜びの涙がリントンの頬を伝って流れているように見えたが…。"
+  },
+  {
+    "key": "41-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "41-content",
+    "original": "<…!>",
+    "context": "EN :\n<…!>\nJP :\n<…！>"
+  },
+  {
+    "key": "42-content",
+    "original": "자세히 보니 그건 녹아가는 얼굴이었다.",
+    "context": "EN :\n... they were his flesh beginning to melt off his face.\nJP :\nよく見ると、それは融けゆく顔だった。"
+  },
+  {
+    "key": "43-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "43-content",
+    "original": "나를 그대 방 안으로 데려가 줄 수 없어도… 괜찮아.",
+    "context": "EN :\nEven if you will not permit me into your chambers... It's all right.\nJP :\n私を貴女の部屋の中に連れて行ってくれなくても…いいんだ。"
+  },
+  {
+    "key": "44-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "44-content",
+    "original": "그대를 기다리며 그 벽 속에 갇혀 있겠어.",
+    "context": "EN :\nI will await you within its walls forevermore.\nJP :\n貴女を待ちながら、あの壁の中に閉じ込められていよう。"
+  },
+  {
+    "key": "45-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "45-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "45-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "45-content",
+    "original": "언젠가의 순수했던 인간을 만드는 방법은… 단순했네.",
+    "context": "EN :\nTo bring forth the pure form of humanity that once existed... was quite the simple task.\nJP :\nいつかの純粋なりし人間を作る方法は…単純だった。"
+  },
+  {
+    "key": "46-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "46-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "47-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "47-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "47-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "47-content",
+    "original": "요리에는 죽었다 깨어나도 소질이 없었던 자네는 모르겠지만, 이상.",
+    "context": "EN :\nYou never had any talent in the culinary arts, Yi Sang. So you wouldn't understand.\nJP :\n料理には天地がひっくり返ろうとも\n素質無きそなたは分からぬだろうが、イサン。"
+  },
+  {
+    "key": "48-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "48-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "48-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "48-content",
+    "original": "어떤 불순물도 섞이지 않은 반죽이 존재한다면… 어떤 인격이 입혀지던 간에, 안전하게 유착될 수 있지.",
+    "context": "EN :\nAny kind of Identity could safely and securely be applied to it, as long as the 'dough' is in its purest form.\nJP :\nいかなる不純物も混ざらぬ生地が存在するなら…\nあらゆる人格が被せられようとも安全に癒着できるのさ。"
+  },
+  {
+    "key": "49-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "49-content",
+    "original": "린튼 씨가… 어떻게 된 거예요?",
+    "context": "EN :\nWhat happened to... Linton?\nJP :\nリントンさん…どうなってるんですか？"
+  },
+  {
+    "key": "50-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "50-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "50-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "50-content",
+    "original": "보이지 않는가? 불순물 없는 완벽한 반죽이 된 거지.",
+    "context": "EN :\nCan't you see? He's become a dough, a batter; a pure being free of dregs.\nJP :\n見えぬのか？不純物無き完全な生地になったのさ。"
+  },
+  {
+    "key": "51-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "51-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "51-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "51-content",
+    "original": "그 무엇과 섞여 내더라도 최상의 결과물이 나올 수 있을 정도로.",
+    "context": "EN :\nSo that it would always yield the finest results, regardless of what other ingredients you mix into it.\nJP :\nいかなる物と混ぜようとも、最上の結果物が出るほどの。"
+  },
+  {
+    "key": "52-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "52-content",
+    "original": "고작 저런 살덩어리를… 인간이라고 부른다고?",
+    "context": "EN :\nYou call that mass of flesh... human?\nJP :\nあんな肉の塊ごときを…人間だって呼ぶのか？"
+  },
+  {
+    "key": "53-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "53-content",
+    "original": "…아뇨, 새로운 인간을 만드는 것은 그 과정일 뿐…",
+    "context": "EN :\n... No. Creation of a new human is but a stepping stone in that process.\nJP :\n…いいえ。新しい人間を作るのはその過程に過ぎず…。"
+  },
+  {
+    "key": "54-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "54-content",
+    "original": "최후의 목적은 당신이 말한 저 반죽을 넘어서 그 전에 있었을 최초의 인간이겠군요. 이 상황은 저들에게 단지 과정이자 실험이었을 뿐일 테죠.",
+    "context": "EN :\nTheir ultimate goal must be to go even further beyond that 'dough'; they seek to reach the very origin... the primordial human. This is but a part of that process, merely an experiment along the way.\nJP :\n最後の目的は、あなたが言ったその生地を超越した\nその前にあったはずの最初の人間でしょうね。\nこの状況は彼らにとってただの結果であり、実験に過ぎなかったでしょう。"
+  },
+  {
+    "key": "55-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "55-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "55-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "55-content",
+    "original": "오…",
+    "context": "EN :\nOh…\nJP :\nおぉ…。"
+  },
+  {
+    "key": "56-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "56-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "56-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "56-content",
+    "original": "여기 멀쩡히 살아있는 연구원이 나밖에 없는 걸 다행으로 여겨야겠어.",
+    "context": "EN :\nConsider yourself fortunate that there aren't any other surviving researchers here other than myself.\nJP :\nここでまともに生きている研究員が俺だけなのを幸いに思うが良い。"
+  },
+  {
+    "key": "57-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "57-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "57-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "57-content",
+    "original": "이 말을 헤르만 이사와 같은 윗분들이 듣기라도 했다면 어떻게든 자네를 잡아 오려고 기를 썼을 테니까.",
+    "context": "EN :\nIf Director Hermann or any of the other higher-ups heard what you said, I'm sure they would be pulling all kinds of strings to take you in.\nJP :\nこの言の葉をヘルマン理事のような上の方が聞きでもすれば\n何としてもそなたを捕まえてこいと躍起になったであろう。"
+  },
+  {
+    "key": "58-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "58-content",
+    "original": "어머니… 젠장, 역시 그 사람은…",
+    "context": "EN :\nMother... dammit, I knew that woman would be...!\nJP :\n母さん…クソッ、やっぱりあの人は…。"
+  },
+  {
+    "key": "59-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "59-content",
+    "original": "만들어진… 저 반죽이자, 자네들이 인간이라 부르는 저 존재… 그건, 접점이 없던 어떠한 세계의 가능성이라도 온전한 인격이 깃들 수 있다는 것이구료…",
+    "context": "EN :\nThe 'dough', the being you refer to as a human... I presume that one could apply any Identity from any possibility, no matter how distant and irrelevant the world, to that being...\nJP :\n作られし…かの生地であり、そなたらが人と呼びし\nかの存在…そは、接点の無かりしあらゆる世界の可能性にあれども、\n完全な人格が宿るべきものであらん…。"
+  },
+  {
+    "key": "60-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "60-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "60-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "60-content",
+    "original": "그래, 누구보다 이상 자네가 기뻐할 거라고 생각했어.",
+    "context": "EN :\nYes, Yi Sang. I knew that you would be most overjoyed to hear of this breakthrough.\nJP :\nそうだ、誰よりもイサン\nそなたが喜ぶであろうと思ったさ。"
+  },
+  {
+    "key": "61-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "61-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "61-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "61-content",
+    "original": "우리는 거울 기술의 최극단에 있는 지점에 도달했으니.",
+    "context": "EN :\nThis is the apex of what the Mirror technology is capable of.\nJP :\n俺たちは鏡技術の最極端にある地点に到達したがゆえに。"
+  },
+  {
+    "key": "62-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "62-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "62-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "62-content",
+    "original": "이제 남은 건 그 너머를 향해 갈 마지막 도약이지.",
+    "context": "EN :\nNow all we have left to do is to leap from that apex, to soar beyond its limits.\nJP :\n今や残るは、その彼方へ向かって進む\n最後の跳躍さ。"
+  },
+  {
+    "key": "63-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "63-content",
+    "original": "저택에는… 황금가지가 하나 더 존재한다고 파악하고 있습니다.",
+    "context": "EN :\nFrom what we know, there is... another Golden Bough located inside the manor.\nJP :\n邸宅には…黄金の枝がもう一つ存在することが把握されております。"
+  },
+  {
+    "key": "64-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "64-content",
+    "original": "이 ‘반죽’이라고 지칭하는 것은, 막대한 에너지를 끌어모아야만 시도될 수 있는 실험.",
+    "context": "EN :\nThis 'dough' is a part of an experiment that can be conducted only with a preposterous magnitude of energy output.\nJP :\nこの「生地」と称するものは、\n莫大なエネルギーをかき集めてこそ試みられる実験。"
+  },
+  {
+    "key": "65-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "65-content",
+    "original": "에너지를 모으기 위한… 황금가지는…",
+    "context": "EN :\nSo the Golden Bough to accumulate that much energy...\nJP :\nエネルギーを集めるための…黄金の枝は…。"
+  },
+  {
+    "key": "66-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "66-content",
+    "original": "이 저택의 꼭대기에 있는 것이군요.",
+    "context": "EN :\n... must be located on the rooftop of this manor.\nJP :\nこの邸宅の頂上にあるということですね。"
+  },
+  {
+    "key": "67-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "67-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "67-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "67-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "68-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "68-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "68-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "68-content",
+    "original": "맞아, 이 저택 주변에 무자비하게 내리치는 벼락을 모으는 것이자 황금가지의 힘을 응축하는 피뢰침의 역할이네. 이젠 조금 소름 돋을 지경이군.",
+    "context": "EN :\nCorrect. The Golden Bough acts as a lightning rod, draws the merciless strikes of lightning, then harnesses it into a form of energy for itself. Your breadth of knowledge is starting to get unsettling.\nJP :\nそうだ、この屋敷の周りへ無慈悲に打ち落とされる雷を集めるものでもあり、\n黄金の枝の力を凝縮する避雷針の役割でもある。\n少し鳥肌が立つほどの推察力であるな。"
+  },
+  {
+    "key": "69-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "69-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "69-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "69-content",
+    "original": "자, 모든 준비는 끝났으니… 이제 슬슬 퇴장을 해볼까.",
+    "context": "EN :\nWell, now that everything is in order... I must really make my exit.\nJP :\nさぁ、全ての準備は終わったが故に…\nそろそろ退場といくか。"
+  },
+  {
+    "key": "70-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "70-content",
+    "original": "어딜 가시려고, 이번에야말로 네놈을 잡아서 어머니의 계획과 관련된 정보들을…!",
+    "context": "EN :\nNot so fast! I'll get you and find out everything you know about what mother is planning—\nJP :\nどこへ行かれるつもりで？今度こそお前を捕まえて\n母さんの計画と関連した情報を…！"
+  },
+  {
+    "key": "71-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "71-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "71-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "71-content",
+    "original": "부디 나를 잡으려는 불필요한 시간 낭비는 서로 하지 않았으면 좋겠어.",
+    "context": "EN :\nPlease, let us not waste each other's time by playing this pointless game of cat and mouse.\nJP :\nどうか俺を捕まえんとする不必要な時間の浪費は\n互いにしないで欲しい。"
+  },
+  {
+    "key": "72-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "72-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "72-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "72-content",
+    "original": "완벽한 상태의 인격이 덧씌워질 때 이토록 희뿌연 연기가 온 사방을 덮곤 하지. 헤어짐을 하기에 더할 나위 없이 멋지지 않은가.",
+    "context": "EN :\nWhen the perfected Identity is applied over a dough, one such opaque, murky mist emerges. What a picturesque moment, most apt to bid you all farewell, is it not?\nJP :\n完璧な状態の人格が被せられしとき、このような白い煙が四方を覆うのさ。\n別れを告げるにはこの上なく雅であろう。"
+  },
+  {
+    "key": "73-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "73-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "73-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "73-content",
+    "original": "헤르만 이사의 아들이라고 했나. 연기전쟁에 참여했다지. 어쩌면 익숙할지도 모르겠군. 좀 다를 테지만.",
+    "context": "EN :\nDirector Hermann's son, was it? I hear that you are a veteran of the Smoke War. Then perhaps this may be a familiar sight to you, if a tad different in a few places.\nJP :\nヘルマン理事の息子と言ったか。煙戦争に参加したと聞いた。\nもしやすると知っているかも知れぬな。少し違うであろうが。"
+  },
+  {
+    "key": "74-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "74-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "74-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "74-content",
+    "original": "그리고… 이상. 내 벗이여.",
+    "context": "EN :\nAnd Yi Sang, my dear fellow.\nJP :\nそして…イサン。我が朋よ。"
+  },
+  {
+    "key": "75-model",
+    "original": "아세아",
+    "translation": "亚细亚",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "75-teller",
+    "original": "아세아",
+    "context": "EN :\nAseah\nJP :\nアセア"
+  },
+  {
+    "key": "75-title",
+    "original": "N사",
+    "context": "EN :\nN Corp.\nJP :\nN社"
+  },
+  {
+    "key": "75-content",
+    "original": "살아남으시게. 그래야 내 남은 훗날이 그나마 기대가 될 테니.",
+    "context": "EN :\nLive. So that I may have aught to look forward to in the time I have left.\nJP :\nどうか生き残れ。そうしてこそ、俺の残りし未来を\n少なからずは期待できよう。"
+  }
+]

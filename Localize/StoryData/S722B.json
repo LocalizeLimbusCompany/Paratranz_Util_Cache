@@ -1,0 +1,454 @@
+[
+  {
+    "key": "0-place",
+    "original": "헌티드 블러디 메리",
+    "context": "EN :\nHaunted: Bloody Mary\nJP :\nホーンテッド・ブラッディー・メアリー"
+  },
+  {
+    "key": "0-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "0-content",
+    "original": "그럼 여기 있는 혈귀 놈들은 다 처리된 건가?\r",
+    "context": "EN :\nRight, then. Was that the last of the Bloodfiends here?\nJP :\nで、ここにいる血鬼のヤツらは全部カタが付いたのか？"
+  },
+  {
+    "key": "1-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "1-content",
+    "original": "음! 아무래도 다 해치운 모양이라네!\r",
+    "context": "EN :\nMhm! 'Twas a victory in our favor!\nJP :\nうむ！どうやら全部倒したようである！"
+  },
+  {
+    "key": "2-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "2-content",
+    "original": "아니, 더 있다. \r",
+    "context": "EN :\nNo. There's more.\nJP :\nいや、まだいる。"
+  },
+  {
+    "key": "3-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "3-content",
+    "original": "저 관 속. 볼품없이 떨고나 있는 것들. 최소한의 지조도 없군.\r",
+    "context": "EN :\nTrembling rats inside that coffin. They lack even a morsel of shame.\nJP :\nあの棺の中。無様に震えている奴ら。最低限の誇りすらないな。"
+  },
+  {
+    "key": "4-content",
+    "original": "료슈의 말대로 관 뚜껑을 열자…\r",
+    "context": "EN :\nWe opened the coffin Ryōshū singled out...\nJP :\n良秀の言う通り、棺の蓋を開けると…。"
+  },
+  {
+    "key": "5-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "5-teller",
+    "original": "깜짝 놀란 혈귀",
+    "context": "EN :\nSurprised Bloodfiend\nJP :\n驚いた血鬼"
+  },
+  {
+    "key": "5-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "5-content",
+    "original": "으악! 깜짝 놀랐잖아!",
+    "context": "EN :\nGah! Holy shit!\nJP :\nうわっ！びっくりしたじゃないか！"
+  },
+  {
+    "key": "6-content",
+    "original": "숨어있던 혈귀들이 굴러나왔다.\r",
+    "context": "EN :\n... and several Bloodfiends came tumbling out.\nJP :\n隠れていた血鬼たちが転げ出てきた。"
+  },
+  {
+    "key": "7-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "7-content",
+    "original": "이, 이쪽이야말로…\r",
+    "context": "EN :\nL-look who's talking...\nJP :\nこ、こっちだって…。"
+  },
+  {
+    "key": "8-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "8-content",
+    "original": "<…료슈, 혹시 투시력이 있어?>\r",
+    "context": "EN :\n<... Ryōshū, can you see through walls, by any chance?>\nJP :\n<…良秀、もしかして透視能力でもあるの？>"
+  },
+  {
+    "key": "9-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "9-content",
+    "original": "목숨을 구걸하는 놈들의 비열한 냄새를 맡았을 뿐. \r",
+    "context": "EN :\nI only smelled their dirty cowardice.\nJP :\n命乞いをする奴らの卑劣な臭いを嗅ぎ取っただけ。"
+  },
+  {
+    "key": "10-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "깜짝 놀란 혈귀",
+    "context": "EN :\nSurprised Bloodfiend\nJP :\n驚いた血鬼"
+  },
+  {
+    "key": "10-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "10-content",
+    "original": "…그 놈들은, 그 놈들 다 갔어? \r",
+    "context": "EN :\n... Did... did they leave?\nJP :\n…あいつらは、あいつらは全員行ったのか？"
+  },
+  {
+    "key": "11-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "11-content",
+    "original": "누구를 말하는 건가요? \r",
+    "context": "EN :\nWho do you mean by 'they'?\nJP :\n誰のことですか？"
+  },
+  {
+    "key": "12-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "깜짝 놀란 혈귀",
+    "context": "EN :\nSurprised Bloodfiend\nJP :\n驚いた血鬼"
+  },
+  {
+    "key": "12-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "12-content",
+    "original": "우리를 사냥하러 온 놈들 말이야… 우리의 놀이기구를 다 부수고 다니던 놈들… ",
+    "context": "EN :\nThe monsters who came to hunt us... those... bastards going around smashing our rides and attractions...\nJP :\n僕らを狩りに来た奴らだ…。\n僕らのアトラクションを全部壊して回った奴ら…。"
+  },
+  {
+    "key": "13-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "13-content",
+    "original": "아~ 누구인지 알 것 같아요. 그 분들은 무사히 앞으로 가셨나요?\r",
+    "context": "EN :\nOhh~ I think I know who you're talking about. Did they make it safely past this attraction?\nJP :\nあ～誰か分かったかもです。\nその人たちは無事に前へ行きましたか？"
+  },
+  {
+    "key": "14-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "깜짝 놀란 혈귀",
+    "context": "EN :\nSurprised Bloodfiend\nJP :\n驚いた血鬼"
+  },
+  {
+    "key": "14-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "14-content",
+    "original": "앞으로 갔을 거야… \r",
+    "context": "EN :\nProbably...?\nJP :\n先に行ったはずだ…。"
+  },
+  {
+    "key": "15-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "15-content",
+    "original": "제대로 보지 못한 건가?\r",
+    "context": "EN :\nYou didn't get a good look at them?\nJP :\nちゃんと見ていなかったのか？"
+  },
+  {
+    "key": "16-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "깜짝 놀란 혈귀",
+    "context": "EN :\nSurprised Bloodfiend\nJP :\n驚いた血鬼"
+  },
+  {
+    "key": "16-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "16-content",
+    "original": "어쩔 수 없었어, 우리는 ‘혈귀와의 만찬’ 장면에서 놀래키는 역할이었는데 그 놈들이 너무 무서워서 계속 숨어있었다고… \r",
+    "context": "EN :\nWe had no choice. Our roles were to jump out and scare people during the 'The Banquet with Bloodfiends' scene, but... we stayed put in here because they were even scarier...\nJP :\n仕方なかったんだ、僕たちは『血鬼との晩餐』シーンで\n驚かせる役だったけど、あいつらが怖すぎてずっと隠れていたんだ…。"
+  },
+  {
+    "key": "17-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "깜짝 놀란 혈귀",
+    "context": "EN :\nSurprised Bloodfiend\nJP :\n驚いた血鬼"
+  },
+  {
+    "key": "17-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "17-content",
+    "original": "원래 우리가 관에서 튀어나오면 손님들은 모두 비명을 지르면서 도망갔는데… 인기가 얼마나 많았다고… 마지막엔 같이 기념 사진도 찍어줬는데… \r",
+    "context": "EN :\nTh-the visitors used to scream and run when we'd jump out of these coffins... They really, really loved it... We even took pictures with them once they were done with the attraction...\nJP :\n本来なら僕たちが棺から飛び出すとお客さんたちはみんな悲鳴を\n上げながら逃げていったんだ…。どれだけ人気があったことか…。\n最後には一緒に記念写真も撮ってあげたのに…。"
+  },
+  {
+    "key": "18-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "깜짝 놀란 혈귀",
+    "context": "EN :\nSurprised Bloodfiend\nJP :\n驚いた血鬼"
+  },
+  {
+    "key": "18-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "18-content",
+    "original": "아, 너희… 그거 알아? 피 400ml만 헌혈하면 무료로 사진을 찍어주는 이벤트를 하고 있어, 어때 어때? 오싹한 추억을 함께 나누고 싶지 않아? \r",
+    "context": "EN :\nHey, guys... wanna know something cool? We're running an event where we'll take a free commemorative picture with you for only 400ml of blood. How's that, how's that? Don't ya wanna leave a picture of this spoooooky experience?\nJP :\nあ、君たち…知ってる？血を400mlだけ献血すれば無料で写真を\n撮ってあげるイベントをやってるんだ、どう？どう？\nゾクッとする思い出を一緒に分かち合いたくはないかい？"
+  },
+  {
+    "key": "19-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "19-teller",
+    "original": "깜짝 놀란 혈귀",
+    "context": "EN :\nSurprised Bloodfiend\nJP :\n驚いた血鬼"
+  },
+  {
+    "key": "19-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "19-content",
+    "original": "400ml면 그렇게 생명에 지장도 없는 용량이잖아. 어디서 들었는데 인간들은 주기적으로 피를 빼줘야 새로운 피가 재생되면서 건강해진대. 너희 모두 오래 살고 싶잖아, 그렇지?\r",
+    "context": "EN :\n400ml is nothing, right? It's just a little trickle of blood with no danger to your health. I even heard that you humans have to draw blood once in a while anyway to renew your blood supply and keep things fresh and healthy. You all wanna live long, healthy lives, don't you? I betcha do!\nJP :\n400mlならそんな生命に支障のない量じゃないか。どこかで聞いたけど、\n人間も定期的に血を抜いてあげてこそ新しい血が再生されて健康に\nなるんだって。君たちも長生きしたいでしょ、そうだよね？"
+  },
+  {
+    "key": "20-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "20-content",
+    "original": "이것들이 무슨 소리를…\r",
+    "context": "EN :\nMate, you serious...?\nJP :\nオメェら、何言って…。"
+  },
+  {
+    "key": "21-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "깜짝 놀란 혈귀",
+    "context": "EN :\nSurprised Bloodfiend\nJP :\n驚いた血鬼"
+  },
+  {
+    "key": "21-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "21-content",
+    "original": "흐이익! 아니야, 잘못했어. 피 절대 안 마실게. 난 사실 그 계획에 별로 동참하고 싶지 않았어… 이곳에서 벗어나고 싶었다고.\r",
+    "context": "EN :\nHeeugh! No, no. I'm sorry. I won't drink your blood. Not even a drop. I... I didn't want to be a part of that plan anyway... I just wanted to get out of here.\nJP :\nひぃっ！いいや、ごめんなさい。血、絶対に飲まないよ。\n実は僕、その計画にあまり参加したくなかったんだ…。\nここから抜け出したかったんだよ。"
+  },
+  {
+    "key": "22-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "22-teller",
+    "original": "깜짝 놀란 혈귀",
+    "context": "EN :\nSurprised Bloodfiend\nJP :\n驚いた血鬼"
+  },
+  {
+    "key": "22-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "22-content",
+    "original": "그러고보니 우리 중에 이곳을 탈출한 녀석이 있었다고 들었는데, 어떻게 되었을까? 나도 같이 도망칠 걸 그랬어.\r",
+    "context": "EN :\n... That reminds me. I wonder what happened to the one who managed to escape? I should've run away too, when I had the chance...\nJP :\nそういえば、僕たちの中でここを脱出したやつがいたって聞いたけど、\nどうなったんだろう？僕も一緒に逃げればよかった…。"
+  },
+  {
+    "key": "23-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "23-content",
+    "original": "<…….>\r",
+    "context": "EN :\n<…….>\n\nJP :\n<……。>"
+  },
+  {
+    "key": "24-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "24-content",
+    "original": "카세티를 말하고 있는 것 같군요.\r",
+    "context": "EN :\nIt is likely that he is referring to Cassetti.\nJP :\nカセッティのことを言っているようですね。"
+  },
+  {
+    "key": "25-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "25-teller",
+    "original": "깜짝 놀란 혈귀",
+    "context": "EN :\nSurprised Bloodfiend\nJP :\n驚いた血鬼"
+  },
+  {
+    "key": "25-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "25-content",
+    "original": "하지만 나가면… 난 어떻게 살지? 인간들의 눈치나 보면서 빌빌거리며 지하 구석에서 살아야 하잖아.\r",
+    "context": "EN :\nBut... would outside be any better? How will I live on? Hiding in sewers like rats... hiding from humans...?\nJP :\nでも外に出たら…僕はどうやって生きていけばいいんだ？\n人間たちの顔色を伺いながら、ふらふらと地下の隅で\n生きなきゃならないじゃないか。"
+  },
+  {
+    "key": "26-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "깜짝 놀란 혈귀",
+    "context": "EN :\nSurprised Bloodfiend\nJP :\n驚いた血鬼"
+  },
+  {
+    "key": "26-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "26-content",
+    "original": "그건 싫어… 아니, 여기도… 아아…\r",
+    "context": "EN :\nI don't want that life... no, but this place is also just... so... ahh...\nJP :\nそれはいやだ…いや、ここも…あぁ…。"
+  },
+  {
+    "key": "27-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "깜짝 놀란 혈귀",
+    "context": "EN :\nSurprised Bloodfiend\nJP :\n驚いた血鬼"
+  },
+  {
+    "key": "27-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "27-content",
+    "original": "어차피 뭘 해도 죽거나 죽는 게 나은 삶 밖에 안 남았다고…!",
+    "context": "EN :\nWe're cornered... there's nothing we can do! We have no options left! It's either die or live a life worse than dying...!\nJP :\nどうせ何をしたところで、死ぬか死んだほうが\nマシな人生しか残っていないんだ…！"
+  },
+  {
+    "key": "28-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "깜짝 놀란 혈귀",
+    "context": "EN :\nSurprised Bloodfiend\nJP :\n驚いた血鬼"
+  },
+  {
+    "key": "28-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "28-content",
+    "original": "이 망할 라만차랜드!",
+    "context": "EN :\nThis accursed La Manchaland!\nJP :\nこの忌々しいラ・マンチャランドめ！"
+  }
+]

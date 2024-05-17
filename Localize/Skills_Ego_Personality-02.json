@@ -1,0 +1,607 @@
+[
+  {
+    "key": "2020511-levelList$[0].name",
+    "original": "9장 2절",
+    "context": "EN :\n9:2\nJP :\n9章2節"
+  },
+  {
+    "key": "2020511-levelList$[0].abName",
+    "original": "살갗 예언자",
+    "context": "EN :\nSkin Prophet\nJP :\n皮膚の予言者"
+  },
+  {
+    "key": "2020511-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 화상 2를 방어 레벨 감소 1로 전환 (최대 10)",
+    "context": "EN :\n[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)\nJP :\n[OnSucceedAttack] 対象の火傷 2を防御レベル減少 1に変換(最大10)"
+  },
+  {
+    "key": "2020511-levelList$[1].name",
+    "original": "9장 2절",
+    "context": "EN :\n9:2\nJP :\n9章2節"
+  },
+  {
+    "key": "2020511-levelList$[1].abName",
+    "original": "살갗 예언자",
+    "context": "EN :\nSkin Prophet\nJP :\n皮膚の予言者"
+  },
+  {
+    "key": "2020511-levelList$[1].desc",
+    "original": "[BeforeAttack] (최대 색욕 완전 공명 수)가 4 이상이면 공격 가중치 +1",
+    "context": "EN :\n[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1\nJP :\n[BeforeAttack] (最大色欲完全共鳴数)が4以上なら、攻撃加重値 +1"
+  },
+  {
+    "key": "2020511-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 화상 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Burn\nJP :\n[OnSucceedAttackHead] 火傷 3を付与"
+  },
+  {
+    "key": "2020511-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 화상 2를 방어 레벨 감소 1로 전환 (최대 10)",
+    "context": "EN :\n[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)\nJP :\n[OnSucceedAttack] 対象の火傷 2を防御レベル減少 1に変換(最大10)"
+  },
+  {
+    "key": "2020511-levelList$[2].name",
+    "original": "9장 2절",
+    "context": "EN :\n9:2\nJP :\n9章2節"
+  },
+  {
+    "key": "2020511-levelList$[2].abName",
+    "original": "살갗 예언자",
+    "context": "EN :\nSkin Prophet\nJP :\n皮膚の予言者"
+  },
+  {
+    "key": "2020511-levelList$[2].desc",
+    "original": "[BeforeAttack] (최대 색욕 완전 공명 수)가 4 이상이면 공격 가중치 +1\n(최대 색욕 완전 공명 수)가 6 이상이면, 추가로 공격 가중치 +1",
+    "context": "EN :\n[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1\nAt 6+ (Highest Lust A-Reson), additional Atk Weight +1\nJP :\n[BeforeAttack] (最大色欲完全共鳴数)が4以上なら、攻撃加重値 +1\n(最大色欲完全共鳴数)が6以上なら、追加で攻撃加重値 +1"
+  },
+  {
+    "key": "2020511-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 화상 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Burn\nJP :\n[OnSucceedAttack] 火傷 3を付与"
+  },
+  {
+    "key": "2020511-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 화상 2를 방어 레벨 감소 1로 전환 (최대 10)",
+    "context": "EN :\n[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)\nJP :\n[OnSucceedAttack] 対象の火傷 2を防御レベル1減少へ変換 (最大10)"
+  },
+  {
+    "key": "2020521-levelList$[0].name",
+    "original": "9장 2절",
+    "context": "EN :\n9:2\nJP :\n9章2節"
+  },
+  {
+    "key": "2020521-levelList$[0].abName",
+    "original": "살갗 예언자",
+    "context": "EN :\nSkin Prophet\nJP :\n皮膚の予言者"
+  },
+  {
+    "key": "2020521-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nJP :\n[CantIdentify]\nランダムな対象を攻撃"
+  },
+  {
+    "key": "2020521-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttackTail] Inflict 4 Burn\nJP :\n[OnSucceedAttackTail] 火傷 4を付与"
+  },
+  {
+    "key": "2020521-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 화상 2를 방어 레벨 감소 1로 전환 (최대 10)",
+    "context": "EN :\n[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)\nJP :\n[OnSucceedAttack] 対象の火傷 2を防御レベル減少 1に変換(最大10)"
+  },
+  {
+    "key": "2020521-levelList$[1].name",
+    "original": "9장 2절",
+    "context": "EN :\n9:2\nJP :\n9章2節"
+  },
+  {
+    "key": "2020521-levelList$[1].abName",
+    "original": "살갗 예언자",
+    "context": "EN :\nSkin Prophet\nJP :\n皮膚の予言者"
+  },
+  {
+    "key": "2020521-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 색욕 완전 공명 수)가 4 이상이면 공격 가중치 +1",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最大色欲完全共鳴数)が4以上なら、攻撃加重値 +1"
+  },
+  {
+    "key": "2020521-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttackTail] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttackTail] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "2020521-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Burn\nJP :\n[OnSucceedAttack] 火傷 4を付与"
+  },
+  {
+    "key": "2020521-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 대상의 화상 2를 방어 레벨 감소 1로 전환 (최대 10)",
+    "context": "EN :\n[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)\nJP :\n[OnSucceedAttack] 対象の火傷 2を防御レベル1減少へ変換 (最大10)"
+  },
+  {
+    "key": "2020521-levelList$[2].name",
+    "original": "9장 2절",
+    "context": "EN :\n9:2\nJP :\n9章2節"
+  },
+  {
+    "key": "2020521-levelList$[2].abName",
+    "original": "살갗 예언자",
+    "context": "EN :\nSkin Prophet\nJP :\n皮膚の予言者"
+  },
+  {
+    "key": "2020521-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 색욕 완전 공명 수)가 4 이상이면 공격 가중치 +1\n(최대 색욕 완전 공명 수)가 6 이상이면, 추가로 공격 가중치 +1",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1\nAt 6+ (Highest Lust A-Reson), additional Atk Weight +1\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最大色欲完全共鳴数)が4以上なら、攻撃加重値 +1\n(最大色欲完全共鳴数)が6以上なら、追加で攻撃加重値 +1"
+  },
+  {
+    "key": "2020521-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttackTail] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttackTail] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "2020521-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Burn\nJP :\n[OnSucceedAttack] 火傷 4を付与"
+  },
+  {
+    "key": "2020521-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 대상의 화상 2를 방어 레벨 감소 1로 전환 (최대 10)",
+    "context": "EN :\n[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)\nJP :\n[OnSucceedAttack] 対象の火傷 2を防御レベル1減少へ変換 (最大10)"
+  },
+  {
+    "key": "2020611-levelList$[0].name",
+    "original": "영속",
+    "context": "EN :\nEverlasting\nJP :\n永続"
+  },
+  {
+    "key": "2020611-levelList$[0].abName",
+    "original": "시간오리",
+    "context": "EN :\nTime Duck\nJP :\n時間アヒル"
+  },
+  {
+    "key": "2020611-levelList$[0].desc",
+    "original": "대상의 속도가 자신보다 느릴 때, 피해량 +(대상과의 속도 차이x2.5)% (최대 25%)\n[BeforeAttack] 최대 공명 수가 3 이상일 경우, 최대 공명 수만큼 [Vibration] 위력 부여 (최대 5)\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소",
+    "context": "EN :\nIf the target's Speed is slower than this unit's, deal +(2.5 x (Speed difference))% more damage (max 25%)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max 5)\n[EndSkill] For 3 turns, lose 10 SP at Turn End\nJP :\n対象の速度が自分より低いとき、ダメージ量 +(対象との速度差 × 2.5)% (最大25%)\n[BeforeAttack] 最大共鳴数が3以上の場合、最大共鳴数だけ[Vibration]威力を付与(最大5)\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少"
+  },
+  {
+    "key": "2020611-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 5, [Vibration] 횟수 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Vibration] and +5 [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]5, [Vibration]回数5を付与"
+  },
+  {
+    "key": "2020611-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationContinue]으로 [FusionVibration]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]\nJP :\n[OnSucceedAttack] [VibrationContinue]へ[FusionVibration]"
+  },
+  {
+    "key": "2020611-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
+  },
+  {
+    "key": "2020611-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
+  },
+  {
+    "key": "2020611-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
+  },
+  {
+    "key": "2020611-levelList$[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 대상의 속도 최댓값 절반으로 감소",
+    "context": "EN :\n[OnSucceedAttack] Reduce target's Max Speed by half next turn\nJP :\n[OnSucceedAttack] 次のターンに対象の速度最大値が半減"
+  },
+  {
+    "key": "2020611-levelList$[1].name",
+    "original": "영속",
+    "context": "EN :\nEverlasting\nJP :\n永続"
+  },
+  {
+    "key": "2020611-levelList$[1].abName",
+    "original": "시간오리",
+    "context": "EN :\nTime Duck\nJP :\n時間アヒル"
+  },
+  {
+    "key": "2020611-levelList$[1].desc",
+    "original": "대상의 속도가 자신보다 느릴 때, 피해량 +(대상과의 속도 차이x<style=\"highlight\">3.5</style>)% (최대 <style=\"highlight\">35%</style>)\n[BeforeAttack] 최대 공명 수가 3 이상일 경우, 최대 공명 수만큼 [Vibration] 위력 부여 (최대 5)\n<style=\"highlight\">- 최대 공명이 나태 완전 공명일 경우, 부여한 [Vibration] 위력 값만큼 [Vibration] 횟수 부여 (최대 5)</style>\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소",
+    "context": "EN :\nIf the target's Speed is slower than this unit's, deal +(<style=\"highlight\">3.5</style> x (Speed difference))% more damage (max <style=\"highlight\">35%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max 5)\n<style=\"highlight\">- If the highest Reson. was a Sloth A-Reson., inflict [Vibration] Count by [Vibration] Potency inflicted (max 5)</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End\nJP :\n対象の速度が自分より低いとき、ダメージ量 +(対象との速度差 × <style=\"highlight\">3.5</style>)% (最大<style=\"highlight\">35%</style>)\n[BeforeAttack] 最大共鳴数が3以上の場合、最大共鳴数だけ[Vibration]威力を付与(最大5)\n<style=\"highlight\">- 最大共鳴が怠惰完全共鳴の場合、付与した[Vibration]威力値だけ[Vibration]回数を付与(最大5)</style>\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少"
+  },
+  {
+    "key": "2020611-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 5, [Vibration] 횟수 5 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Vibration] and +5 [Vibration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Vibration]5, [Vibration]回数5を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020611-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationContinue]으로 [FusionVibration]<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationContinue]へ[FusionVibration]<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020611-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020611-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020611-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020611-levelList$[1].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 대상의 속도 최댓값 절반으로 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 次のターンに対象の速度最大値が半減<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020611-levelList$[2].name",
+    "original": "영속",
+    "context": "EN :\nEverlasting\nJP :\n永続"
+  },
+  {
+    "key": "2020611-levelList$[2].abName",
+    "original": "시간오리",
+    "context": "EN :\nTime Duck\nJP :\n時間アヒル"
+  },
+  {
+    "key": "2020611-levelList$[2].desc",
+    "original": "대상의 속도가 자신보다 느릴 때, 피해량 +(대상과의 속도 차이x<style=\"highlight\">5</style>)% (최대 <style=\"highlight\">50%</style>)\n[BeforeAttack] 최대 공명 수가 3 이상일 경우, (최대 공명 수<style=\"highlight\">x2</style>)만큼 [Vibration] 위력 부여 (최대 <style=\"highlight\">10</style>)\n- 최대 공명이 나태 완전 공명일 경우, 부여한 [Vibration] 위력 값만큼 [Vibration] 횟수 부여 (최대 <style=\"highlight\">10</style>)\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소",
+    "context": "EN :\nIf the target's Speed is slower than this unit's, deal +(<style=\"highlight\">3.5</style> x (Speed difference))% more damage (max <style=\"highlight\">50%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by (<style=\"highlight\">2</style> x (highest Reson.)) (max <style=\"highlight\">10</style>)\n- If the highest Reson. was a Sloth A-Reson., inflict [Vibration] Count by [Vibration] Potency inflicted (max <style=\"highlight\">10</style>)\n[EndSkill] For 3 turns, lose 10 SP at Turn End\nJP :\n対象の速度が自分より低いとき、ダメージ量 +(対象との速度差 × <style=\"highlight\">5</style>)% (最大<style=\"highlight\">50%</style>)\n[BeforeAttack] 最大共鳴数が3以上の場合、(最大共鳴数<style=\"highlight\"> × 2</style>)だけ[Vibration]威力を付与(最大<style=\"highlight\">10</style>)\n<style=\"highlight\">- 最大共鳴が怠惰完全共鳴の場合、付与した[Vibration]威力値だけ[Vibration]回数を付与(最大<style=\"highlight\">10</style>)</style>\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少"
+  },
+  {
+    "key": "2020611-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] <style=\"highlight\">10</style>, [Vibration] 횟수 <style=\"highlight\">10</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">10</style> [Vibration] and <style=\"highlight\">+10</style> [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]<style=\"highlight\">10</style>, [Vibration]回数<style=\"highlight\">10</style>を付与"
+  },
+  {
+    "key": "2020611-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationContinue]으로 [FusionVibration]<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationContinue]へ[FusionVibration]<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020611-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少</style>"
+  },
+  {
+    "key": "2020611-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020611-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020611-levelList$[2].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020611-levelList$[2].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 대상의 속도 최댓값 절반으로 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 次のターンに対象の速度最大値が半減<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020621-levelList$[0].name",
+    "original": "영속",
+    "context": "EN :\nEverlasting\nJP :\n永続"
+  },
+  {
+    "key": "2020621-levelList$[0].abName",
+    "original": "시간오리",
+    "context": "EN :\nTime Duck\nJP :\n時間アヒル"
+  },
+  {
+    "key": "2020621-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n메인 공격 대상의 속도가 자신보다 느릴 때, 피해량 +(대상과의 속도 차이x1.5)% (최대 12%)\n[BeforeAttack] 최대 공명 수가 3 이상일 경우, [Vibration] 위력 3 부여",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, deal +(1.5 x (Speed difference))% more damage (max 12%)\n[BeforeAttack] At 3+ highest Reson., inflict 3 [Vibration] Potency\nJP :\n[CantIdentify]\nランダムな対象を攻撃\nメイン攻撃対象の速度が自分より低いとき、ダメージ量 +(対象との速度差 × 1.5)% (最大12%)\n[BeforeAttack] 最大共鳴数が3以上の場合、[Vibration]威力を3付与"
+  },
+  {
+    "key": "2020621-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 3, [Vibration] 횟수 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]3, [Vibration]回数3を付与"
+  },
+  {
+    "key": "2020621-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationContinue]으로 [FusionVibration]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]\nJP :\n[OnSucceedAttack] [VibrationContinue]へ[FusionVibration]"
+  },
+  {
+    "key": "2020621-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
+  },
+  {
+    "key": "2020621-levelList$[0].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
+  },
+  {
+    "key": "2020621-levelList$[0].coinlist[0].coindescs[4].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 대상의 속도 최댓값 절반으로 감소",
+    "context": "EN :\n[OnSucceedAttack] Reduce target's Max Speed by half next turn\nJP :\n[OnSucceedAttack] 次のターンに対象の速度最大値が半減"
+  },
+  {
+    "key": "2020621-levelList$[1].name",
+    "original": "영속",
+    "context": "EN :\nEverlasting\nJP :\n永続"
+  },
+  {
+    "key": "2020621-levelList$[1].abName",
+    "original": "시간오리",
+    "context": "EN :\nTime Duck\nJP :\n時間アヒル"
+  },
+  {
+    "key": "2020621-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n메인 공격 대상의 속도가 자신보다 느릴 때, 피해량 +(대상과의 속도 차이x<style=\"highlight\">2</style>)% (최대 <style=\"highlight\">16%</style>)\n[BeforeAttack] 최대 공명 수가 3 이상일 경우, 최대 공명 수만큼 [Vibration] 위력 부여 (최대 4)\n<style=\"highlight\">- [BeforeAttack] 최대 공명이 나태 완전 공명일 경우, [Vibration] 횟수 2 부여</style>",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, deal +(<style=\"highlight\">2</style> x (Speed difference))% more damage (max <style=\"highlight\">16%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max 4)\n<style=\"highlight\">- [BeforeAttack] If the highest Reson. was a Sloth A-Reson., inflict +2 [Vibration] Count</style>\nJP :\n[CantIdentify]\nランダムな対象を攻撃\nメイン攻撃対象の速度が自分より低いとき、ダメージ量 +(対象との速度差 × <style=\"highlight\">2</style>)% (最大<style=\"highlight\">16%</style>)\n[BeforeAttack] 最大共鳴数が3以上の場合、[Vibration]威力を付与(最大4)\n<style=\"highlight\">- [BeforeAttack] 最大共鳴が怠惰完全共鳴なら、[Vibration]回数を2付与</style>"
+  },
+  {
+    "key": "2020621-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 3, [Vibration] 횟수 3 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Vibration]3, [Vibration]回数3を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020621-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationContinue]으로 [FusionVibration]<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationContinue]へ[FusionVibration]<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020621-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020621-levelList$[1].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020621-levelList$[1].coinlist[0].coindescs[4].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 대상의 속도 최댓값 절반으로 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 次のターンに対象の速度最大値が半減<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020621-levelList$[2].name",
+    "original": "영속",
+    "context": "EN :\nEverlasting\nJP :\n永続"
+  },
+  {
+    "key": "2020621-levelList$[2].abName",
+    "original": "시간오리",
+    "context": "EN :\nTime Duck\nJP :\n時間アヒル"
+  },
+  {
+    "key": "2020621-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n메인 공격 대상의 속도가 자신보다 느릴 때, 피해량 +(대상과의 속도 차이x<style=\"highlight\">2.5</style>)% (최대 <style=\"highlight\">20%</style>)\n[BeforeAttack] 최대 공명 수가 3 이상일 경우, (최대 공명 수)만큼 [Vibration] 위력 부여 (최대 <style=\"highlight\">5</style>)\n- [BeforeAttack] 최대 공명이 나태 완전 공명일 경우, <style=\"highlight\">부여한 [Vibration] 위력 값만큼 [Vibration] 횟수 부여 (최대 5)</style>",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, deal +(<style=\"highlight\">2.5</style> x (Speed difference))% more damage (max <style=\"highlight\">20%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max <style=\"highlight\">4</style>)\n- [BeforeAttack] If the highest Reson. was a Sloth A-Reson., <style=\"highlight\">inflict [Vibration] Count by [Vibration] Potency inflicted (max 5)</style>\nJP :\n[CantIdentify]\nランダムな対象を攻撃\nメイン攻撃対象の速度が自分より低いとき、ダメージ量 +(対象との速度差 × <style=\"highlight\">2.5</style>)% (最大<style=\"highlight\">20%</style>)\n[BeforeAttack] 最大共鳴数が3以上の場合、[Vibration]威力を付与(最大<style=\"highlight\">5</style>)\n- [BeforeAttack] 最大共鳴が怠惰完全共鳴なら、<style=\"highlight\">付与した[Vibration]威力値だけ[Vibration]回数を付与(最大5)</style>"
+  },
+  {
+    "key": "2020621-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] <style=\"highlight\">5</style>, [Vibration] 횟수 <style=\"highlight\">5</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">5</style> [Vibration] and <style=\"highlight\">+5</style> [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]<style=\"highlight\">5</style>, [Vibration]回数<style=\"highlight\">5</style>を付与"
+  },
+  {
+    "key": "2020621-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationContinue]으로 [FusionVibration]<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationContinue]へ[FusionVibration]<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020621-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020621-levelList$[2].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020621-levelList$[2].coinlist[0].coindescs[4].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少</style>"
+  },
+  {
+    "key": "2020621-levelList$[2].coinlist[0].coindescs[5].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 대상의 속도 최댓값 절반으로 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 次のターンに対象の速度最大値が半減<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2020711-levelList$[0].name",
+    "original": "올가미",
+    "context": "EN :\nLasso\nJP :\n投げ縄"
+  },
+  {
+    "key": "2020711-levelList$[0].abName",
+    "original": "장미 사냥꾼",
+    "context": "EN :\nRose Hunter\nJP :\n薔薇の狩人"
+  },
+  {
+    "key": "2020711-levelList$[0].desc",
+    "original": "대상의 [Burst] 7 당 코인 위력 +1 (최대 2)",
+    "context": "EN :\nCoin Power +1 for every 7 [Burst] on the target (max 2)\nJP :\n対象の[Burst]7につきコイン威力 +1(最大2)"
+  },
+  {
+    "key": "2020711-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が1増加"
+  },
+  {
+    "key": "2020711-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "2020711-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "2020711-levelList$[1].name",
+    "original": "올가미",
+    "context": "EN :\nLasso\nJP :\n投げ縄"
+  },
+  {
+    "key": "2020711-levelList$[1].abName",
+    "original": "장미 사냥꾼",
+    "context": "EN :\nRose Hunter\nJP :\n薔薇の狩人"
+  },
+  {
+    "key": "2020711-levelList$[1].desc",
+    "original": "<style=\"highlight\">자신과 대상의 속도의 합이 6 이상이면, 코인 위력 +1</style>\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n<style=\"highlight\">[BeforeAttack] 다음 턴에 [Agility] 2 얻음\n[BeforeAttack] 최대 공명이 4 이상이면, 공격 가중치 +1</style>",
+    "context": "EN :\n<style=\"highlight\">If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1</style>\nCoin Power +1 for every 7 [Burst] on the target (max 2)\n<style=\"highlight\">[BeforeAttack] Gain 2 [Agility] next turn\n[BeforeAttack] At 4+ Gluttony or Lust Reson., gain +1 Atk Weight</style>\nJP :\n<style=\"highlight\">自分と対象の速度の合計6が以上なら、コイン威力 +1</style>\n対象の[Burst]7につきコイン威力 +1(最大2)\n<style=\"highlight\">[BeforeAttack] 次のターンに[Agility]2を得る\n[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1</style>"
+  },
+  {
+    "key": "2020711-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "2020711-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "2020711-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "2020711-levelList$[2].name",
+    "original": "올가미",
+    "context": "EN :\nLasso\nJP :\n投げ縄"
+  },
+  {
+    "key": "2020711-levelList$[2].abName",
+    "original": "장미 사냥꾼",
+    "context": "EN :\nRose Hunter\nJP :\n薔薇の狩人"
+  },
+  {
+    "key": "2020711-levelList$[2].desc",
+    "original": "자신과 대상의 속도의 합이 6 이상이면, 코인 위력 +1\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n[BeforeAttack] 다음 턴에 [Agility] 2 얻음\n[BeforeAttack] 최대 공명이 4 이상이면, 공격 가중치 +1\n<style=\"highlight\">- 해당 공명이 탐식 공명이면, 공격 가중치 +1</style>",
+    "context": "EN :\nIf the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for ever 7 [Burst] on the target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n<style=\"highlight\">- If the said Reson. was a Gluttony Reson., Atk Weight +1</style>\nJP :\n自分と対象の速度の合計6が以上なら、コイン威力 +1\n対象の[Burst]7につきコイン威力 +1(最大2)\n[BeforeAttack] 次のターンに[Agility]2を得る\n[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1\n<style=\"highlight\">- 該当共鳴が暴食共鳴なら、攻撃加重値 +1</style>"
+  },
+  {
+    "key": "2020711-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "2020711-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "2020711-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "2020721-levelList$[0].name",
+    "original": "올가미",
+    "context": "EN :\nLasso\nJP :\n投げ縄"
+  },
+  {
+    "key": "2020721-levelList$[0].abName",
+    "original": "장미 사냥꾼",
+    "context": "EN :\nRose Hunter\nJP :\n薔薇の狩人"
+  },
+  {
+    "key": "2020721-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nCoin Power +1 for every 7 [Burst] on the target (max 2)\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n対象の[Burst]7につきコイン威力 +1(最大2)"
+  },
+  {
+    "key": "2020721-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が1増加"
+  },
+  {
+    "key": "2020721-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "2020721-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Snare] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Snare]\nJP :\n[OnSucceedAttack] [Snare]1を付与"
+  },
+  {
+    "key": "2020721-levelList$[1].name",
+    "original": "올가미",
+    "context": "EN :\nLasso\nJP :\n投げ縄"
+  },
+  {
+    "key": "2020721-levelList$[1].abName",
+    "original": "장미 사냥꾼",
+    "context": "EN :\nRose Hunter\nJP :\n薔薇の狩人"
+  },
+  {
+    "key": "2020721-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n<style=\"highlight\">자신과 대상의 속도의 합이 6 이상이면, 코인 위력 +1</style>\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n<style=\"highlight\">[BeforeAttack] 다음 턴에 [Agility] 2 얻음</style>",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n<style=\"highlight\">If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1</style>\nCoin Power +1 for every 7 [Burst] on the target (max 2)\n<style=\"highlight\">[BeforeAttack] Gain 2 [Agility] next turn</style>\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">自分と対象の速度の合計が6以上なら、コイン威力 +1</style>\n対象の[Burst]7につきコイン威力 +1(最大2)\n<style=\"highlight\">[BeforeAttack] 次のターンに[Agility]2を得る</style>"
+  },
+  {
+    "key": "2020721-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が1増加"
+  },
+  {
+    "key": "2020721-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "2020721-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Snare] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Snare]\nJP :\n[OnSucceedAttack] [Snare]1を付与"
+  },
+  {
+    "key": "2020721-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Burst] 1 당 피해량 +2% (최대 30%)",
+    "context": "EN :\n[OnSucceedAttack] Deal +2% more damage for every [Burst] on the target (max 30%)\nJP :\n[OnSucceedAttack] 対象の[Burst]1につきダメージ量 +2%(最大30%)"
+  },
+  {
+    "key": "2020721-levelList$[2].name",
+    "original": "올가미",
+    "context": "EN :\nLasso\nJP :\n投げ縄"
+  },
+  {
+    "key": "2020721-levelList$[2].abName",
+    "original": "장미 사냥꾼",
+    "context": "EN :\nRose Hunter\nJP :\n薔薇の狩人"
+  },
+  {
+    "key": "2020721-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n자신과 대상의 속도의 합이 6 이상이면, 코인 위력 +1\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n[BeforeAttack] 다음 턴에 [Agility] 2 얻음\n<style=\"highlight\">[EndSkill] 대상이 흐트러지거나 사망한 경우, 다음 턴에 [ShamrockResultUp] 1 얻음</style>",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nIf the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on the target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n<style=\"highlight\">[EndSkill] If the target is Staggered or defeated, gain 1 [ShamrockResultUp] next turn</style>\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n自分と対象の速度の合計6が以上なら、コイン威力 +1\n対象の[Burst]7につきコイン威力 +1(最大2)\n[BeforeAttack] 次のターンに[Agility]2を得る\n<style=\"highlight\">[EndSkill] 対象が混乱するか死亡した場合、次のターンに[ShamrockResultUp]1を得る</style>"
+  },
+  {
+    "key": "2020721-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "2020721-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Burst]\nJP :\n[OnSucceedAttack] [Burst]4を付与"
+  },
+  {
+    "key": "2020721-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Snare] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Snare]\nJP :\n[OnSucceedAttack] [Snare]2を付与"
+  },
+  {
+    "key": "2020721-levelList$[2].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Burst] 1 당 피해량 +2% (최대 60%)",
+    "context": "EN :\n[OnSucceedAttack] Deal +2% more damage for every [Burst] on the target (max 60%)\nJP :\n[OnSucceedAttack] 対象の[Burst]1につきダメージ量 +2%(最大60%)"
+  }
+]

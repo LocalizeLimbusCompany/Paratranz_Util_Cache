@@ -1,0 +1,162 @@
+[
+  {
+    "key": "1050601-title",
+    "original": "검은 장부 선택지 - 주민들을 구한다.",
+    "context": "EN :\nBlack Ledger Choice - Save the Civilians.\nJP :\n黒い帳簿選択肢 - 住民を助ける。"
+  },
+  {
+    "key": "1050601-behaveDesc",
+    "original": "어떤 수감자가 나설까?",
+    "context": "EN :\nWho will step forth?\nJP :\nどんな囚人が前へ出る？"
+  },
+  {
+    "key": "1050601-successDesc$[0]",
+    "original": "\"젠장...\"\n\n\"어떻게 된 거야? 그 놈들, 전부 내뺐다더니!\"\n\n{0} 수감자와 앵두가 분투한 끝에, 흑운회 조직원들은 쓰러지거나 도망쳐 버렸다.\n\n\"...고맙군. 민초들을 도우게 해주어.\"\n\n앵두가 꾸벅 감사 인사를 했다.",
+    "context": "EN :\n\"Damn it...\"\n\n\"What the hell happened?! I thought we'd driven them all away!\"\n\nAfter a grueling battle, {0} and Aeng-du managed to defeat or drive away the Kurokumo Clan henchmen.\n\n\"... You have my gratitude. I'm glad that we could provide them some help.\"\nJP :\n「クソッ…。」\n\n「どうなってんだ？あいつら、全員ずらかったって聞いたのに！」\n\n囚人{0}とエンドゥが奮闘した末、黒雲会の組員たちは倒れたり逃げたりした。\n\n「…ありがたい。民草を助けさせてくれて。」\n\nエンドゥがぺこりとお礼を言った。"
+  },
+  {
+    "key": "1050601-failureDesc$[0]",
+    "original": "\"젠장...\"\n\n\"어떻게 된 거야? 그 놈들, 전부 내뺐다더니!\"\n\n{0} 수감자와 앵두가 분투한 끝에, 흑운회 조직원들은 쓰러트리기는 했지만...\n\n\"...큭.\"\n\n앵두의 회복이 원활하지 못했던 탓일까, 피해를 피할 수는 없었던 것 같다.\n\n그런 앵두를 엄호하다, {0} 수감자도 약간의 피해를 감수해야만 했다.\n\n\"미안하군...\"\n\n앵두가 치욕스럽다는 듯 입술을 깨물며 말했다.",
+    "context": "EN :\n\"Damn it...\"\n\n\"What the hell happened?! I thought we'd driven them all away!\"\n\nAfter a grueling battle, {0} and Aeng-du managed to defeat or drive away the Kurokumo Clan henchmen. But...\n\n\"... Ach.\"\n\nPerhaps Aeng-du hadn't fully recovered yet. She ended up suffering some damage from the skirmish.\n\n{0} also seems to have taken some hits while protecting wounded Aeng-du.\n\n\"My apologies...\"\n\nAeng-du muttered through gritted teeth. There was a tinge of shame in her voice.\nJP :\n「クソッ…。」\n\n「どうなってんだ？あいつら、全員ずらかったって聞いたのに！」\n\n囚人{0}とエンドゥが奮闘した末、黒雲会の組員たちは倒せたが…。\n\n「…クッ。」\n\nエンドゥの回復が上手くいかなかったせいか、攻撃を避けることはできなかったようだ。\n\nそんなエンドゥを援護した囚人{0}も、若干の被害を甘受しなければならなかった。\n\n「すまない…。」\n\nエンドゥが、屈辱的な顔で唇を噛み締めつつ言った。"
+  },
+  {
+    "key": "1050603-title",
+    "original": "검은 장부 선택지 - 검계라고 말한다.",
+    "context": "EN :\nBlack Ledger Choice - Say that you're with the Blade Lineage.\nJP :\n黒い帳簿選択肢 - 剣契だと言う。"
+  },
+  {
+    "key": "1050603-behaveDesc",
+    "original": "누가 나서서 말하게 할까?",
+    "context": "EN :\nWho will step forth and speak?\nJP :\n誰を前に出して話させようか？"
+  },
+  {
+    "key": "1050603-successDesc$[0]",
+    "original": "\"거, 거거거...\"\n\n주민들은 순식간에 흙바닥에 납작 엎드리더니, 부들부들 떨면서 말한다.\n\n\"죄송합니다, 죄송합니다!\"\n\n\"제발, 제 목숨 만은...\"\n\n{0} 수감자가 당황하며 해칠 의도가 없다고 말하지만, 그들은 들은 체도 하지 않는다.\n\n\"이, 이것을...\"\n\n그들은 공손히 두 손을 모아 무언가를 우리에게 올려보였다.\n\n표지가 검은 그 책자를 받아 펼쳐보니 무언가가 길게 쓰인 장부 같아 보였다.\n\n\"죄송합니다! 저희는 그저 그런 것 밖에 드리지 못합니다...\"\n\n일으켜 세우려해도, 이미 공포에 절어 버렸는지, 절대 머리를 들려 하지 않는다.\n\n...어쩔 수 없이, 그들을 두고 지나가는 수 밖에 없었다.",
+    "context": "EN :\n\"The Bl-bl-the—\"\n\nThe civilians immediately kneeled before us and bowed profusely. Their voices tremble as they plead.\n\n\"We're sorry, We're so sorry!\"\n\n\"Please, have mercy... Don't kill us...!\"\n\nIn a flustered attempt, {0} tries to tell them that we have no cause nor intent to hurt them; but they refuse to listen.\n\n\"T-take this, at least...\"\n\nThey raised their hands with the utmost deference. In their hands was what appeared to be a book.\n\nTaking a closer look at it, we realized that what they handed us was a filled ledger with black covers.\n\n\"Please, forgive us! That's all we have with us at the moment...\"\n\nTry as we might to help them to their feet, the fear has already rooted them firmly to the ground. They don't even dare to raise their heads.\n\n... We had no choice but to leave them as they were.\nJP :\n「コ、コココム…。」\n\n住民たちはあっという間に地面へと伏せると、ぶるぶる震えながら話す。\n\n「申し訳ございません、申し訳ございません！」\n\n「どうか、お命だけは…。」\n\n囚人{0}は慌てて傷つけるつもりはないと言ったが、彼らは聞く素振りすら見せない。\n\n「こ、これを…。」\n\n彼らは丁寧に両手を合わせ、何かを私たちへと献上した。\n\n黒いその帳簿を手に取って表紙を開いてみると、何かが長ったらしく書かれた帳簿のように見えた。\n\n「申し訳ございません！私どもは、そのようなものしか差し上げることができません…。」\n\n立ち上がらせようとしたが、恐怖で怖じ気ついたせいか絶対に頭を上げようとしない。\n\n…どうしようもないので、彼らを置き去りにするしかなかった。"
+  },
+  {
+    "key": "1050603-failureDesc$[0]",
+    "original": "\"...장난이 심하시군요~\"\n\n{0} 수감자의 말투가 어설펐던 걸까, 이야기를 듣던 주민의 눈꼬리가 꿈틀거리더니 으하핫, 하고 웃어버렸다.\n\n\"그 분들이 지금, 이런 길거리에 계실리 없지 않습니까.\"\n\n\"맞아, 맞아. 그리고 그저 모른 척이나 하던 우리를 도우실 이유도...\"\n\n\"에헤, 그 입!\"\n\n\"헉!\"\n\n그들은 영문 모를 말을 하더니, 갑자기 퍼뜩 정신을 차린듯 입을 막고 우리를 쳐다본다.\n\n\"그, 그러면... 도와주셔서 감사했습니다!\"\n\n\"그런 장난은 하시면 화를 입습니다! 조심하십시오...\"\n\n그런 말을 남기고, 주민들은 황급히 떠나갔다.\n\n괜히 기분만 나빠진 것 같다...",
+    "context": "EN :\n\"... That's one nasty joke, fellas~\"\n\nMaybe {0} sounded awkward when they claimed to be from the Blade Lineage. The civilian's eyebrow twitched for a brief second before he burst into laughter.\n\n\"Why would they be out here, in these streets?\"\n\n\"Right, right. Besides, why'd they ever help us? We just turned a blind eye when they—\"\n\n\"Hey now! Shh, watch your mouth!\"\n\n\"Ah!\"\n\nAfter an exchange none of us had enough context for, they suddenly snapped as though they realized we were still standing right here.\n\n\"W-well then... Thank you for the help anyway!\"\n\n\"But don't say something like that, even as a joke! You never know what'll happen...\"\n\nWith that, the civilians hurriedly left the scene.\n\nThis did nothing but bring down our mood, did it...\nJP :\n「…冗談が過ぎますね～。」\n\n囚人{0}の口調がぎこちなかったせいか、話を聞いていた住民の目尻がせり上がると、ワハハッっと笑い出した。\n\n「あの方々が今、こんな道端にいるわけないじゃないですか。」\n\n「そう、そう。そして、知らんぷりをしていた私たちを助ける理由も…。」\n\n「これこれ、口に気をつけるんだな！」\n\n「はっ！」\n\n彼らはわけの分からないことを言うと、突然正気に戻ったかのように口を塞いで私たちのことを見つめてきた。\n\n「ほ、ほんなら…助けてくれてありがとうございました！」\n\n「そんないたずらをしちゃぁ痛い目見ますよ！気をつけてください…。」\n\nそんな言葉を残して、住民たちは慌てて立ち去った。\n\n無駄に嫌な気分を味わった気がする。"
+  },
+  {
+    "key": "1050701-title",
+    "original": "녹슨 칼자루 선택지 - 검술은 참격",
+    "context": "EN :\nRusted Hilt - To wield a blade is to Slash with it\nJP :\n錆びた柄選択肢 - 剣術は斬撃"
+  },
+  {
+    "key": "1050701-behaveDesc",
+    "original": "누가 자신의 견해를 말해볼까?",
+    "context": "EN :\nWho will share their opinion?\nJP :\n誰が自分の見解を言うんだろうか？"
+  },
+  {
+    "key": "1050701-successDesc$[0]",
+    "original": "\"현명하군!\"\n\n제일 앞에서 술잔을 들고 목청을 높이던 자가 껄껄 웃는다.\n\n\"다른 방식들을 깔보는 것이 아닐세! 다만, 예기를 다루는 이유는 무언가를 베어내기 위함인 것이니까!\"\n\n다른 두 사람도 어쩔 수 없다는 듯 고개를 끄덕거린다.\n\n\"칼날만 놓고 말하자면 뭐, 어쩔 수 없지...\"\n\n\"하긴, 목을 잘라버리면 머리를 깨는 것이랑 비슷한 효과겠지.\"\n\n\"자! 기분이 좋군. 이것을 가져가게!\"\n\n참격의 우수함을 주장했던 자가 등을 두드리며 무언가를 건넸다.",
+    "context": "EN :\n\"Hear, hear!\"\n\nThe loudest one guffaws, raising his cup full of liquor.\n\n\"I'm not claiming that other methods are inferior! I am merely claiming that a blade, a weapon with an edge, is made to cut things!\"\n\nThe other two nod in reluctant agreement.\n\n\"W-well, if you're talking about the blade and the blade part only, sure...\"\n\n\"I suppose a decapitation is not so different from breaking the skull open.\"\n\n\"Ha! You've made my day, friend. Here, take this!\"\n\nThe man who preached the superiority of Slash pats you on the back and places something in your hands.\nJP :\n「賢明だな！」\n\n一番手前で杯を持って声高に話していた者が呵々と笑った。\n\n「他のやり方を見下しているわけではないぞ！ ただ、鋭いものを扱う理由は何かを斬り裂くためなのだから！」\n\n他の二人も仕方なさそうに頷いている。\n\n「刃に限って言えばまあ、仕方ないか…。」\n\n「まあ確かに。首を切ってしまえば、頭をかち割るのとほぼ同じ効果になるだろう。」\n\n「さあ！良い気分だ、これを持って行くがよい！」\n\n斬撃の優秀さを主張した者が背中を叩きながら、何かを渡してきた。"
+  },
+  {
+    "key": "1050701-failureDesc$[0]",
+    "original": "\"현명하군!\"\n\n제일 앞에서 술잔을 들고 목청을 높이던 자가 껄껄 웃는다.\n\n\"하나...\"\n\n그러다가 뚝, 웃음을 멈추고 무서운 눈빛으로 {0} 수감자를 노려본다.\n\n\"마음에도 없는 말을 하는 건, 무인으로서 수치가 아니겠는가?\"\n\n\"에헤이, 이 사람이 또! 지나가는 사람을 데리고 왜 겁을 주나?\"\n\n옆에 있던 두 사람이 기분이 좋은 듯 {0} 수감자를 이끌고 탁자로 데려간다.\n\n\"관통의 일격이 역시 더 대단하다 생각 한 것이지? 이해하네!\"\n\n\"역시 머리를 깨는 타격감은 쉽게 포기 못하지 않겠는가?\"\n\n둘은 자신들이 마시던 술을 따라주며, {0} 수감자를 격려했다.",
+    "context": "EN :\n\"Hear, hear!\"\n\nThe loudest one guffaws, raising his cup full of liquor.\n\n\"Yet...\"\n\nAll of a sudden, he stops laughing. Then, with a terrifying look on his face, he glares at {0}.\n\n\"How can you, as a practitioner of the martial arts yourself, deceive yourself and refuse to tell me your true beliefs? Have you no shame?\"\n\n\"Give it a rest, man! Trying to scare innocent passersby again?\"\n\nThe two drinking buddies of the man drag {0} to their table with a giddy look on their faces.\n\n\"I'm sure the allure of a powerful, singular Piercing strike was too much to deny! I understand, I do!\"\n\n\"The feeling of a Blunt object striking and cracking open a skull... can't get enough of that, eh?\"\n\nThe pair cheered {0} on and filled their cup with liquor.\nJP :\n「賢明だな！」\n\n一番手前で杯を持って声高に話していた者が呵々と笑った。\n\n「じゃが…。」\n\n突然さっと真顔になり、恐ろしい目つきで囚人{0}を睨み付ける。\n\n「心にもないことを言うのは、武人として恥ではないか？」\n\n「まったく、またか！通りすがりの人を自ら連れてきた癖に怖がらせるつもりか？」\n\n隣にいた二人が機嫌良さげに囚人{0}を引っ張ってテーブルに連れて行く。\n\n「貫通の一撃がやはりもっと凄いと思ったのだろう？分かるぞ！」\n\n「やっぱり頭をかち割る打撃感は、そう簡単に諦めきれないだろう？」\n\n二人は自分たちが飲んでいた酒を注ぎ、囚人{0}を激励した。"
+  },
+  {
+    "key": "1050801-title",
+    "original": "조각난 칼날 선택지 - 발검 자세",
+    "context": "EN :\nFractured Blade Choice - Draw of the Sword\nJP :\n砕けた刃選択肢 - 抜剣姿勢"
+  },
+  {
+    "key": "1050801-behaveDesc",
+    "original": "어느 수감자에게 부탁할까?",
+    "context": "EN :\nWho should wield the sword?\nJP :\nどの囚人に頼もうか？"
+  },
+  {
+    "key": "1050801-successDesc$[0]",
+    "original": "{0} 수감자가 검을 건네 받았다.\n\n\"...!\"\n\n잠시 숨을 고른 뒤, {0} 수감자는 순식간에 검을 뽑아 눈 앞의 것을 베어냈다.\n\n그것은 뭐가 그렇게 우스운지, 깔깔깔 웃어대며 사라졌고...\n\n그 자리에는 조각난 칼날만이 남아 있었다.",
+    "context": "EN :\n{0} wielded the sword.\n\n\"...!\"\n\nAfter taking a moment to steady their breathing, {0} unsheathed the blade and sliced the thing before us in the blink of an eye.\n\nThat thing giggled as it disappeared, somehow finding this situation humorous...\n\nAnd left behind fragments of a blade.\nJP :\n囚人{0}が剣を受け取った。\n\n「…！」\n\nしばらく息を整えた後、囚人{0}は瞬時に剣を抜いて目の前のものを斬り裂いた。\n\n何がそんなにおかしいのか分からないが、それはケラケラと笑って消え…。\n\nその場には砕けた刃だけが残っていた。"
+  },
+  {
+    "key": "1050801-failureDesc$[0]",
+    "original": "{0} 수감자가 검을 건네 받았다.\n\n\"...!\"\n\n잠시 숨을 고른 뒤, {0} 수감자는 순식간에 검을 뽑아...\n\n내지 못하고 그대로 검을 바닥에 떨구어 버렸다.\n\n...검집을 반대로 잡아 칼날 쪽에 손바닥을 대고 있었던 것 같다.\n\n{0} 수감자가 지혈을 하는 동안, 그것은 어디론가 사라지고 없어져 버렸다.",
+    "context": "EN :\n{0} wielded the sword.\n\n\"...!\"\n\nAfter taking a moment to steady their breathing, {0} unshea—\n\n—Nevermind. They failed to unsheathe the blade, and instead dropped it to the floor.\n\n... I think they were holding the sword backwards, slicing their own palm open in the process.\n\nThe thing disappeared while we were busy trying to stop the bleeding from {0}'s hand.\nJP :\n囚人{0}が剣を受け取った。\n\n「…！」\n\nしばらく息を整えた後、囚人{0}は瞬時に剣を抜…。\n\n…けず、そのまま剣を床に落としてしまった。\n\n…鞘を逆向きに掴んだせいで、刃の方に手のひらを当てていたようだ。\n\n囚人{0}が止血をしている最中に、それはどこかへと消えて消えてしまった。"
+  },
+  {
+    "key": "1050802-title",
+    "original": "부서진 칼날 선택지 - 뽑아서 늘어뜨리는 자세",
+    "context": "EN :\nBroken Blade Choice - Let the sword hang to the side\nJP :\n壊れた刃 - 抜いて下ろす姿勢"
+  },
+  {
+    "key": "1050802-behaveDesc",
+    "original": "어느 수감자에게 부탁할까?",
+    "context": "EN :\nWho should wield the sword?\nJP :\nどの囚人に頼もうか？"
+  },
+  {
+    "key": "1050802-successDesc$[0]",
+    "original": "{0} 수감자가 검을 건네 받았다.\n\n\".......\"\n\n{0} 수감자는 천천히 검을 뽑아 냈고, 검집을 옆으로 던져 버린 후 그대로 검을 바닥을 향해 늘어뜨렸다.\n\n그 행동이 뭐가 그렇게 우스운지, 그것은 깔깔깔 웃어대며 사라졌고...\n\n그 자리에는 부서진 칼날만이 남아 있었다.",
+    "context": "EN :\n{0} wielded the sword.\n\n\"......\"\n\n{0} effortlessly unsheathed the sword, threw the scabbard away, and gently lowered it to their side, its tip pointing toward the ground.\n\nThat thing giggled as it disappeared, somehow finding this situation humorous...\n\nAnd left behind a broken blade.\nJP :\n囚人{0}が剣を受け取った。\n\n「……。」\n\n囚人{0}はゆっくりと剣を引き抜き、鞘を横に投げやるとそのまま剣を地面へ向けて下ろした。\n\nその行動の何がそんなにおかしいのか分からないが、それはケラケラと笑って消え…。\n\nその場には壊れた刃だけが残っていた。"
+  },
+  {
+    "key": "1050802-failureDesc$[0]",
+    "original": "{0} 수감자가 검을 건네 받았다.\n\n\".......\"\n\n{0} 수감자는 조심스레, 미끄러지듯이 검을 뽑아...\n\n내지 못하고 그대로 검을 바닥에 떨구어 버렸다.\n\n...검집을 반대로 잡아 칼날 쪽에 손바닥을 대고 있었던 것 같다.\n\n{0} 수감자가 지혈을 하는 동안, 그것은 어디론가 사라지고 없어져 버렸다.",
+    "context": "EN :\n{0} wielded the sword.\n\n\"......\"\n\n{0} carefully and effortlessly unsheathed the swor—\n\n—Nevermind. They failed to unsheathe the blade, and instead dropped it to the floor.\n\n... I think they were holding the sword backwards, slicing their own palm open in the process.\n\nThe thing disappeared while we were busy trying to stop the bleeding from {0}'s hand.\nJP :\n囚人{0}が剣を受け取った。\n\n「……。」\n\n囚人{0}は慎重に、滑るように剣を抜…。\n\n…けず、そのまま剣を床に落としてしまった。\n\n…鞘を逆向きに掴んだせいで、刃の方に手のひらを当てていたようだ。\n\n囚人{0}が止血をしている最中に、それはどこかへと消えて消えてしまった。"
+  },
+  {
+    "key": "1050901-title",
+    "original": "붉은 색술 선택지 - 고래 싸움",
+    "context": "EN :\nRed Tassel Choice - Small fries\nJP :\n赤い房飾り - 鯨の争い"
+  },
+  {
+    "key": "1050901-behaveDesc",
+    "original": "어느 수감자가 전해줄까?",
+    "context": "EN :\nWho will speak to them?\nJP :\nどの囚人が伝えてあげるんだろうか？"
+  },
+  {
+    "key": "1050901-successDesc$[0]",
+    "original": "\"허!\"\n\n검을 찬 자가 픽하고 웃는다.\n\n\"우문현답이로군. 도시에서 이런 문답에 의미가 있을리가 없지.\"\n\n그는 껄껄, 좀 더 호쾌하게 웃더니 제 검에 달린 색술을 팍하고 뜯어내 건네주었다.\n\n\"자네 답이 마음에 들었네. 이건 선물이다. 검계 쪽 사람과 부딪힐 일이 생기거든, 이걸 보여보게.\"\n\n\"어떻게 쓰이든 도움이 될테니.\"\n\n그들은 그렇게 말하고 손을 흔들며 다른 방향으로 떠나갔다.",
+    "context": "EN :\n\"Hah!\"\n\nThe sword-carrying man snickers.\n\n\"You answer with wisdom to my foolish query. Such musings hold very little significance in the City, indeed.\"\n\nHe laughs a little more, this time with gusto, then tears a tassel from his weapon before handing it over.\n\n\"I enjoyed your answer. If you evern find yourself in a conflict with the Blade Lineage, show them this tassel.\"\n\n\"It will be of some help to you, I can guarantee you that.\"\n\nWith that, they waved their hands and disappeared into the other direction.\nJP :\n「はっ！」\n\n剣を腰に携えた者が笑い出した。\n\n「愚問賢答だ。都市じゃこんな問答に意味があるわけなどないだろう。」\n\n彼はガハハとより豪快に笑い、自分の剣についた房飾りをぐっと引きちぎって渡してきた。\n\n「そなたの答えが気に入った。これは贈り物だ。剣契の人と衝突することがあれば、これを見せるんだよ。」\n\n「どんな使い方をしても役に立つだろう。」\n\n彼らはそう言い、手を振りながら別の方向へと向かっていった。"
+  },
+  {
+    "key": "1050901-failureDesc$[0]",
+    "original": "\"맞는 말이지.\"\n\n두 사람이 끄덕거린다.\n\n\"하지만 그런 달관한 말을 할 정도로 그대가 능력이 있어보이진 않는군.\"\n\n둘은 어색한 웃음을 지으며, 그저 등을 돌려 어딘가로 걸어나갔다.\n\n혼자 남은 {0} 수감자는, 상처입은 듯 고개를 슬쩍 떨어트렸다.",
+    "context": "EN :\n\"True words indeed.\"\n\nThey both nod.\n\n\"But I don't suppose you are wise or capable enough to speak such wisdom from your heart.\"\n\nThe two smile awkwardly before turning around and leaving.\n\nLeft all alone, {0} looked down to the ground with a sad look on their face.\nJP :\n「その通りだ。」\n\n二人は頷く。\n\n「しかし、そんな達観したことを言えるほど、そなたに能力があるようには見えんがね。」\n\n二人は気まずい笑みを浮かべながら、ただ背を向けてどこかへと歩いていった。\n\n一人残された囚人{0}は傷付いたらしく、少しうなだれた。"
+  },
+  {
+    "key": "1051001-title",
+    "original": "해진 삿갓 선택지 - 중요한 건 다른 것",
+    "context": "EN :\nRagged Bamboo Hat Choice - That's not what matters\nJP :\n破れた編み笠 選択肢 - 大事なのは他にある"
+  },
+  {
+    "key": "1051001-behaveDesc",
+    "original": "어느 수감자가 말할까?",
+    "context": "EN :\nWho will speak?\nJP :\nどの囚人が言うんだろうか？"
+  },
+  {
+    "key": "1051001-successDesc$[0]",
+    "original": "푸른 글자들이 스르르 사라지더니, 새로운 글자가 떠올랐다.\n\n'희'\n\n그 글자는 잠시간 떠 있더니, 무언가의 형체로 변하며 바닥으로 툭 떨어졌다.\n\n바닥에는, 오래 되어 해진 삿갓 하나가 있었다.",
+    "context": "EN :\nThe blue letters slowly fade away, and a new word appears in their place.\n\n'Joy.'\n\nThe word stays there for a moment before transforming and falling to the floor.\n\nIt transformed into an old and weathered bamboo hat.\nJP :\n青い文字が段々と消え、新しい文字が浮かんだ。\n\n「喜」\n\nその文字はしばらく浮かんでいたが、何か別の形状へと変わって地面へサッと落ちた。\n\n地面には、古びて破れた笠が一つあった。"
+  },
+  {
+    "key": "1051001-failureDesc$[0]",
+    "original": "푸른 글자들이 스르르 사라지더니, 새로운 글자가 떠올랐다.\n\n'로'\n\n그 글자는 잠시간 떠 있더니, 무언가 불타오르듯 화르륵 하고 사라졌다.\n\n...마음에 들지 않았던 걸까?",
+    "context": "EN :\nThe blue letters slowly fade away, and a new word appears in their place.\n\n'Wrath.'\n\nThe word stays there for a moment before burning up and fading away.\n\n... Maybe it didn't like our answer?\nJP :\n青い文字が段々と消え、新しい文字が浮かんだ。\n\n「怒」\n\nその文字はしばらく浮かんでいたが、何かが燃えるかのように消えてしまった。\n\n…気に入らなかったのだろうか？"
+  },
+  {
+    "key": "1051002-title",
+    "original": "낡은 도포 선택지 - 옳은 것은 옳다",
+    "context": "EN :\nOld Dopo Cloak - What's right is right\nJP :\n古びた道袍選択肢 - 正しいものは正しい"
+  },
+  {
+    "key": "1051002-behaveDesc",
+    "original": "어느 수감자가 말할까?",
+    "context": "EN :\nWho will speak?\nJP :\nどの囚人が言うんだろうか？"
+  },
+  {
+    "key": "1051002-successDesc$[0]",
+    "original": "푸른 글자들이 스르르 사라지더니, 새로운 글자가 떠올랐다.\n\n'락'\n\n그 글자는 잠시간 떠 있더니, 무언가의 형체로 변하며 바닥으로 툭 떨어졌다.\n\n바닥에는, 해를 잔뜩 묵은 듯한 도포가 하나 있었다.",
+    "context": "EN :\nThe blue letters slowly fade away, and a new word appears in their place.\n\n'Pleasure.'\n\nThe word stays there for a moment before transforming and falling to the floor.\n\nIt transformed into an old, weathered dopo robe.\nJP :\n青い文字が段々と消え、新しい文字が浮かんだ。\n\n「楽」\n\nその文字はしばらく浮かんでいたが、何か別の形状へと変わって地面へサッと落ちた。\n\n地面には、歳月を重ねたように見える古びた道袍が一つあった。"
+  },
+  {
+    "key": "1051002-failureDesc$[0]",
+    "original": "푸른 글자들이 스르르 사라지더니, 새로운 글자가 떠올랐다.\n\n'애'\n\n그 글자는 잠시간 떠 있더니, 무언가 불타오르듯 화르륵 하고 사라졌다.\n\n...마음에 들지 않았던 걸까?",
+    "context": "EN :\nThe blue letters slowly fade away, and a new word appears in their place.\n\n'Sorrow.'\n\nThe word stays there for a moment before burning up and fading away.\n\n... Maybe it didn't like our answer?\nJP :\n青い文字が段々と消え、新しい文字が浮かんだ。\n\n「哀」\n\nその文字はしばらく浮かんでいたが、何かが燃えるかのように消えてしまった。\n\n…気に入らなかったのだろうか？"
+  }
+]

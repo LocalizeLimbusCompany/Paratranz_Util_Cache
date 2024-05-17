@@ -1,0 +1,117 @@
+[
+  {
+    "key": "860801_log_1_1-content",
+    "original": "<color=#ebcaa2>{0}</color> %{1} {2}/% <color=#ebcaa2>얻음.</color>",
+    "context": "EN :\n<color=#ebcaa2>{0}</color> <color=#ebcaa2>gains</color> %{2} {1}/% \nJP :\n<color=#ebcaa2>{0}</color> %{1} {2}/% <color=#ebcaa2>獲得。</color>"
+  },
+  {
+    "key": "860801_log_1_2-content",
+    "original": "<color=#ebcaa2>{0} 수감자 {1} 피해<color=#e30000> {2} 입음</color>",
+    "context": "EN :\n<color=#ebcaa2>{0}</color> <color=#e30000>takes {2}</color> {1} damage\nJP :\n<color=#ebcaa2>囚人{0} {1}ダメージを<color=#e30000>{2}受ける</color>"
+  },
+  {
+    "key": "860501_success_1-content",
+    "original": "<color=#ebcaa2>{0}</color> %{1} {2}/% <color=#ebcaa2>얻음.</color>",
+    "context": "EN :\n<color=#ebcaa2>{0}</color> <color=#ebcaa2>gains</color> %{2} {1}/% \nJP :\n<color=#ebcaa2>{0}</color> %{1} {2}/% <color=#ebcaa2>獲得。</color>"
+  },
+  {
+    "key": "860501_success_2-content",
+    "original": "<color=#ebcaa2>{0} 수감자 <color=#fe4b48>정신력 {1} 피해</color>",
+    "context": "EN :\n<color=#ebcaa2>{0}</color> <color=#fe4b48>loses {1} SP</color>\nJP :\n<color=#ebcaa2>囚人{0}の</color><color=#fe4b48>精神力 {1}ダメージ</color>"
+  },
+  {
+    "key": "860501_failure_1-content",
+    "original": "<color=#ebcaa2>{0} 수감자 <color=#fe4b48>정신력 {1} 피해</color>",
+    "context": "EN :\n<color=#ebcaa2>{0}</color> <color=#fe4b48>loses {1} SP</color>\nJP :\n<color=#ebcaa2>囚人{0}の</color><color=#fe4b48>精神力 {1}ダメージ</color>"
+  },
+  {
+    "key": "862901_1_1-content",
+    "original": "<color=#ebcaa2>모든 아군이</color> <color=#80c9ff>정신력 {0} 회복</color>",
+    "context": "EN :\n<color=#ebcaa2>All allies</color> <color=#80c9ff>heal {0} SP.</color>\nJP :\n<color=#ebcaa2>全味方の</color><color=#80c9ff>精神力 {0}回復</color>"
+  },
+  {
+    "key": "862901_1_2-content",
+    "original": "빼기 코인 인격은 대신 <color=#fe4b48>정신력 {0} 감소</color>",
+    "context": "EN :\nMinus Coin Identities <color=#fe4b48>lose {0} SP</color> instead\nJP :\n減算コインは代わりに<color=#fe4b48>精神力 {0}減少</color>"
+  },
+  {
+    "key": "862901_1_3-content",
+    "original": "모든 아군이 다음 턴부터 이번 전투동안 속도 최대값 +{0}.",
+    "context": "EN :\nStarting next turn, all allies gain +{0} Max Speed for this Encounter\nJP :\n全味方が次のターンから、この戦闘の間速度の最大値 +{0}"
+  },
+  {
+    "key": "862901_1_4-content",
+    "original": "모든 아군이 이번 전투동안 {0}를 얻음.",
+    "context": "EN :\nAll allies gain {0} for the rest of the Encounter.\nJP :\n全味方がこの戦闘の間、{0}を得る。"
+  },
+  {
+    "key": "862901_2_1-content",
+    "original": "모든 아군의 <color=#80c9ff>정신력 {0} 회복</color>",
+    "context": "EN :\nAll allies <color=#80c9ff>heal {0} SP</color>\nJP :\n全味方の<color=#80c9ff>精神力を{0}回復</color>"
+  },
+  {
+    "key": "862901_2_2-content",
+    "original": "빼기 코인 인격은 대신 <color=#fe4b48>정신력 {0} 감소</color>",
+    "context": "EN :\nMinus Coin Identities <color=#fe4b48>lose {0} SP</color> instead\nJP :\n減算コインは代わりに<color=#fe4b48>精神力 {0}減少</color>"
+  },
+  {
+    "key": "862901_2_3-content",
+    "original": "모든 아군이 이번 전투동안 %{0} {1}/%를 얻음.",
+    "context": "EN :\nAll allies gain %{1} {0}/% for this Encounter\nJP :\n全味方がこの戦闘の間、%{0}{1}/%を得る"
+  },
+  {
+    "key": "862901_2_4-content",
+    "original": "모든 아군이 이번 전투동안 {0}를 얻음",
+    "context": "EN :\nAll allies gain {0} for the rest of the Encounter\nJP :\n全味方がこの戦闘の間、{0}を得る。"
+  },
+  {
+    "key": "862901_3_1-content",
+    "original": "모든 아군의 <color=#80c9ff>정신력 {0} 회복</color>",
+    "context": "EN :\nAll allies <color=#80c9ff>heal {0} SP</color>\nJP :\n全味方の<color=#80c9ff>精神力を{0}回復</color>"
+  },
+  {
+    "key": "862901_3_2-content",
+    "original": "빼기 코인 인격은 대신 <color=#fe4b48>정신력 {0} 감소</color>",
+    "context": "EN :\nMinus Coin Identities <color=#fe4b48>lose {0} SP</color> instead\nJP :\n減算コインは代わりに<color=#fe4b48>精神力 {0}減少</color>"
+  },
+  {
+    "key": "862901_3_3-content",
+    "original": "모든 아군이 이번 전투동안 %{0} {1}/%를 얻음.",
+    "context": "EN :\nAll allies gain %{1} {0}/% for this Encounter\nJP :\n全味方がこの戦闘の間、%{0}{1}/%を得る"
+  },
+  {
+    "key": "862901_3_4-content",
+    "original": "모든 아군이 이번 전투동안 {0}를 얻음",
+    "context": "EN :\nAll allies gain {0} for the rest of the Encounter\nJP :\n全味方がこの戦闘の間、{0}を得る。"
+  },
+  {
+    "key": "862902_1_1-content",
+    "original": "<color=#ebcaa2>모든 아군이</color> <color=#80c9ff>정신력 {0} 회복</color>",
+    "context": "EN :\n<color=#ebcaa2>All allies</color> <color=#80c9ff>heal {0} SP.</color>\nJP :\n<color=#ebcaa2>全味方の</color><color=#80c9ff>精神力 {0}回復</color>"
+  },
+  {
+    "key": "862902_1_2-content",
+    "original": "빼기 코인 인격은 대신 <color=#80c9ff>정신력 {0} 회복</color>",
+    "context": "EN :\nMinus Coin Identities <color=#80c9ff>heal {0} SP</color> instead\nJP :\n減算コインは代わりに<color=#80c9ff>精神力 {0}回復</color>"
+  },
+  {
+    "key": "862902_2_1-content",
+    "original": "모든 속성 E.G.O 자원을 {0}개씩 얻음",
+    "context": "EN :\nGain {0} E.G.O resources for all affinities\nJP :\n全属性のE.G.O資源を{0}ずつ得る"
+  },
+  {
+    "key": "862902_3_1-content",
+    "original": "모든 아군이 이번 전투동안 %{0} {1}/%를 얻음.",
+    "context": "EN :\nAll allies gain %{1} {0}/% for this Encounter\nJP :\n全味方がこの戦闘の間、%{0}{1}/%を得る"
+  },
+  {
+    "key": "862903_success_1-content",
+    "original": "모든 아군의 {0} 위력과 횟수가 절반으로 감소",
+    "context": "EN :\nHalve all allies' {0} Potency and Count\nJP :\n全味方の{0}威力と回数が半減"
+  },
+  {
+    "key": "862903_failure_1-content",
+    "original": "아무 일도 일어나지 않았다",
+    "context": "EN :\nNothing happened.\nJP :\n何も起こらなかった"
+  }
+]

@@ -1,0 +1,925 @@
+[
+  {
+    "key": "0-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "0-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "0-content",
+    "original": "…그새를 못 참고 또 채찍을 휘둘렀군.",
+    "context": "EN :\nResorting to whipping yourself again? You certainly are impatient.\nJP :\n…我慢できず、また鞭を振るったんだな。"
+  },
+  {
+    "key": "1-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "1-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "1-content",
+    "original": "허. 들어오기 전에 노크 정도는 하라고 했을 텐데.",
+    "context": "EN :\nHuh. Haven't I asked you to knock first?\nJP :\nはっ。入る前にノックくらいはしろって言ったはずだけどな。"
+  },
+  {
+    "key": "2-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "2-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "2-content",
+    "original": "흥… 계획은…",
+    "context": "EN :\nHmph, have you given a thought about the pl—\nJP :\nふむ…計画は…。"
+  },
+  {
+    "key": "3-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "3-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "3-content",
+    "original": "그 말을 할 거라면, 찾아오지 말라고도 했을 거고.",
+    "context": "EN :\nI also recall asking you to not bring up that subject before me again.\nJP :\nその話をするなら、訪ねてもくるなと言ったはずだがな。"
+  },
+  {
+    "key": "4-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "4-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "4-content",
+    "original": "…계획에 참여할 생각은 아직도 없는 건가?",
+    "context": "EN :\n... Still unwilling to participate in the plan?\nJP :\n…計画に参加するつもりはまだないのか？"
+  },
+  {
+    "key": "5-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "5-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "5-content",
+    "original": "그쪽 상담은… 내키지 않아…",
+    "context": "EN :\nI refuse... to consult... you on your 'plan'...\nJP :\nそっちの相談は…気が向かない…。"
+  },
+  {
+    "key": "6-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "6-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "6-content",
+    "original": "어버이는 이미 우리 따윈 안중에도 없다고 말했을 텐데!",
+    "context": "EN :\nIsn't it clear to you that Father no longer cares about us?!\nJP :\n父上はもう我々など眼中にないと言ったはずだ！"
+  },
+  {
+    "key": "7-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "7-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "7-content",
+    "original": "네 계획은… 패륜이야. 해서는 안 될…",
+    "context": "EN :\nYour plan... it's... it's filial impiety. You... you mustn't...\nJP :\nお前の計画は…不孝行だ。\nやってはならない…。"
+  },
+  {
+    "key": "8-content",
+    "original": "아이의 눈동자는 강렬한 거부감과 두려움이 얽혀, 초점을 잃은 채 떨리고 있어.",
+    "context": "EN :\nThe child's eyes begin to tremble uncontrollably from the instinctive revulsion and fear at the thought of it.\nJP :\n子供の瞳は、強烈な拒絶感と恐怖が絡み合い、\n焦点を失ったまま震えてるの。"
+  },
+  {
+    "key": "9-content",
+    "original": "피로 맺어진 절대적인 감정.",
+    "context": "EN :\nThe unbreakable bond formed from the blood.\nJP :\n血で結ばれた絶対的な感情。"
+  },
+  {
+    "key": "10-content",
+    "original": "대부분의 혈귀는 그 감정을 거스를 수 없을 거야.",
+    "context": "EN :\nMost Bloodfiends cannot defy, let alone break, that bond.\nJP :\nほとんどの血鬼はその感情に逆らうことはできないだろうね。"
+  },
+  {
+    "key": "11-content",
+    "original": "하지만 아이의 마음에는 어느새 그보다 더 진한 욕망이 자라나고 있었고...",
+    "context": "EN :\nBut within the child's heart was an even more severe desire growing...\nJP :\nでも子供の心には、いつの間にかそれよりも\nうんと濃い欲望が育ってて…。"
+  },
+  {
+    "key": "12-content",
+    "original": "가위를 든 아이는 이를 눈치채고 단호하게 아이의 불안에 답했지.",
+    "context": "EN :\n... and upon noticing it, the child with the scissors did not waste a moment to capitalize on it.\nJP :\n鋏を持った子供はそれに気づいて、きっぱりと彼の不安に答えたんだ。"
+  },
+  {
+    "key": "13-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "13-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "13-content",
+    "original": "아니, 해야 할 일이다.",
+    "context": "EN :\nNo. We must.\nJP :\nいや、やるべきことだ。"
+  },
+  {
+    "key": "14-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "14-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "14-content",
+    "original": "가족들이… 앞으로 몇 년을 더 버틸 수 있다고 생각하는 거냐, 대체?! 5년? 10년?",
+    "context": "EN :\nHow many more years do you think our Family has?! Five years? Ten?\nJP :\n一体家族たちが…これから何年も持ちこたえられると思っているんだ！？\n5年？10年？"
+  },
+  {
+    "key": "15-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "15-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "15-content",
+    "original": "말도 안 되는 소리! 1년도 채 버티지 못할 게 뻔하지. 가족들을 상담해 주던 네놈이라면 누구보다 잘 알고 있지 않나?",
+    "context": "EN :\nEven less! Another year like this, and we'll all go insane. You know this better than anyone! Day after day, you sit here and listen to their desperation!\nJP :\nありえない！1年も持ちこたえられないのは明らかだ。\n家族たちと相談をしていたお前なら誰よりもよく知っているはずだろう？"
+  },
+  {
+    "key": "16-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "16-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "16-content",
+    "original": "그건… 더 기발하고 재밌는 어트랙션을 개발해서 혈액팩의 수급량을 늘리면…",
+    "context": "EN :\nWe can... come up with ideas for better rides, attractions. Something to draw more people in here, something to get them to willingly pay more blood packs for...\nJP :\nそれは…もっと奇抜で面白いアトラクションを開発して、\n血液パックの供給量を増やせば…。"
+  },
+  {
+    "key": "17-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "17-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "17-content",
+    "original": "그 말이 아니잖나!",
+    "context": "EN :\nThat is irrelevant!\nJP :\nそういう話じゃないだろう！"
+  },
+  {
+    "key": "18-content",
+    "original": "아이의 답답한 태도에 분노한 목소리와 가위날이 대리석 바닥에 부딪치는 쇳소리가 고해소 안에 메아리쳤어.",
+    "context": "EN :\nShe raised her voice, frustrated at the child's obstinacy. She slammed her scissors on the marble floor and the confessional echoed with the discomforting noise of metal.\nJP :\n子供のもどかしい態度に怒った声と、鋏の刃が\n大理石の床にぶつかる金属音が告解室に響いたんだ。"
+  },
+  {
+    "key": "19-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "19-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "19-content",
+    "original": "후… 개장 이래, 라만차랜드가 한 번이라도 한산했던 적이 있나? 인간들이 수백 개의 혈액팩을 지불했음에도 모든 권속이 먹기엔 턱없이 부족해!",
+    "context": "EN :\nHaah... has La Manchaland <i>ever</i> been short of guests? It's always teeming with guests paying hundreds upon hundreds of blood packs, but it's not enough! It's just not enough for everyone in the Family!\nJP :\nふう…開園以来、ラ・マンチャランドが一度でも閑散としていたことがあるか？\n人間たちが数百もの血液パックを支払ったのにもかかわらず、\n全ての眷属が食べるには全く足りないんだ！"
+  },
+  {
+    "key": "20-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "20-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "20-content",
+    "original": "흐르지 않고 고인 그 피는… 마셔도, 마셔도, 마셔도! …부족하단 말이다!",
+    "context": "EN :\nThis stagnant, unmoving blood... will never be enough to sate us all! Never! No matter how much we drink!\nJP :\n流れずに淀んだあの血は…飲んでも、飲んでも、飲んでも！\n…足りないのだ！"
+  },
+  {
+    "key": "21-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "21-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "21-content",
+    "original": "그걸 해결하기 위해 너 또한 어버이를 도와 혈액바를 만들지 않았나.",
+    "context": "EN :\nBut it was you who helped Father create hemobars, wasn't it? To address that exact problem?\nJP :\nそれを解決するために、お前も父上様を手伝って\n血液バーを作ったじゃないか。"
+  },
+  {
+    "key": "22-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "22-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "22-content",
+    "original": "동물의 피를 섞어 양을 늘린 뒤에, 한껏 응축해 만든 그 혈액바를.",
+    "context": "EN :\nHemobars, created by combining and compressing the blood of animals with that of humans.\nJP :\n動物の血を混ぜて量を増やしてから、\nできる限り凝縮して作ったあの血液バーを。"
+  },
+  {
+    "key": "23-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "23-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "23-content",
+    "original": "필요악이었을 뿐이다… 손님들에게 받은 피를 모든 가족에게 먹이려면 혈액바로 만드는 게 유일한 수단이었지.",
+    "context": "EN :\nA necessary evil, that's all it was... To have enough to feed our Family... hemobars were our only option.\nJP :\n必要悪であったに過ぎない…客から貰った血を全ての家族に\n食べさせるには、血液バーにするのが唯一の手段だったからな。"
+  },
+  {
+    "key": "24-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "24-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "24-content",
+    "original": "맛은 없어도… 고인 채로 신선도를 잃어 가는 혈액팩과 달리… 그것은 모든 가족의 허기를 채워줄 수 있는 위대한 발명이었어.",
+    "context": "EN :\nYeah. It was... flavorless, but unlike blood packs that quickly lost their freshness, hemobars were a great invention that could feed the whole Family.\nJP :\n不味くとも…淀みながら新鮮さを失っていく血液パックとは違って…\nそれは全ての家族の飢えを満たすことができる偉大な発明だった。"
+  },
+  {
+    "key": "25-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "25-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "25-content",
+    "original": "그래, 잠깐의 허기와 갈증은 달래주었지.",
+    "context": "EN :\nSure. It alleviated the hunger and the thirst... for a moment.\nJP :\nそうだ、しばしの飢えと渇きは和らげてくれたさ。"
+  },
+  {
+    "key": "26-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "26-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "26-content",
+    "original": "하지만 그걸 먹는 동안, 단 한 사람이라도 행복을 느낀 가족이 있었냐는 말이다!",
+    "context": "EN :\nBut did any of us feel even a glimpse of happiness during the entire time we filled ourselves with it?\nJP :\nだが、それを食べている間、たったの一人でも\n幸福を感じた家族がいたかのかと聞いている！"
+  },
+  {
+    "key": "27-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "27-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "27-content",
+    "original": "결국 서서히 죽어가고 있을 뿐. 가족들은 앞으로 몇 달도 버티지 못하고 손님들의 피를 탐하게 될 거다.",
+    "context": "EN :\nThis is nothing more than a slow, slow death. I believe we have only months before the Family loses control over their craving for the blood of our guests anyway.\nJP :\n結局、徐々に死んでいくだけだ。\n家族たちはこれから数ヶ月も持たない内に、\n客の血を欲するようになるだろう。"
+  },
+  {
+    "key": "28-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "28-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "28-content",
+    "original": "…차라리, 내 피라도 나눠줄 수 있었다면 좋았을 것을…",
+    "context": "EN :\n... If I could give them my blood instead, I would have...\nJP :\n…せめて、俺の血でも分けてやれたら良かったろうに。"
+  },
+  {
+    "key": "29-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "29-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "29-content",
+    "original": "의미 없는 상상이다.",
+    "context": "EN :\nA meaningless ideation.\nJP :\n意味のない想像だ。"
+  },
+  {
+    "key": "30-content",
+    "original": "가위를 든 아이는 차가운 눈으로 아이의 등줄기를 타고 흐르는 피를 바라봤어.",
+    "context": "EN :\nThe scissors-wielding child stared uninterestedly at the stream of blood pouring from the child's back.\nJP :\n鋏を持った子供は、冷たい目で彼の背中を伝う血を見つめたの。"
+  },
+  {
+    "key": "31-content",
+    "original": "인간의 피가 눈앞에서 흘러내리고 있었다면 이성을 잃었겠지만…",
+    "context": "EN :\nShe would not have been able to hold herself back had it been human blood, but...\nJP :\nもし目の前で人間の血が流れていたら、理性を失ってただろうけど…。"
+  },
+  {
+    "key": "32-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "32-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "32-content",
+    "original": "동족의 피는 동물의 피만도 못해. 아무런 욕망도 채워줄 수 없는 병든 피일 뿐이지.",
+    "context": "EN :\n... The blood of our Kindred is lesser than the blood of animals. It's just... meaningless, diseased blood that does nothing to fill our desires.\nJP :\n同族の血は動物の血にすらも劣るんだ。\n何の欲望も満たせない病んだ血に過ぎないの。"
+  },
+  {
+    "key": "33-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "33-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "33-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "34-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "34-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "34-content",
+    "original": "정신 차려라, 신부. 처음부터… 불가능한 꿈이었다.",
+    "context": "EN :\nCome to your senses, Priest. It was always... an impossible dream.\nJP :\nしっかりしろ、神父。最初から…不可能な夢だったのだ。"
+  },
+  {
+    "key": "35-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "35-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "35-content",
+    "original": "결국 우리 혈귀는, 인간의 피를 직접 취해야만 행복해질 수 있는 족속일 뿐…",
+    "context": "EN :\nThe only way for us Bloodfiends to be happy is to drink the blood directly from human flesh.\nJP :\n結局我々血鬼は、人間の血を直々に摂ってこそ\n幸せになれる種族に過ぎない…。"
+  },
+  {
+    "key": "36-content",
+    "original": "이 아이들의 어버이 되는 이 또한 그 사실을 모르진 않을 거야.",
+    "context": "EN :\nThe Father of these children is aware of that truth.\nJP :\nこの子供たちの父上である者もまた、\nその事実を知らないわけじゃないと思うんだ。"
+  },
+  {
+    "key": "37-content",
+    "original": "그럼에도 공존을 바라는 아이들의 어버이는, 혈귀가 직접 인간의 피를 탐하는 것을 용납할 수 없었지.",
+    "context": "EN :\nBut the Father, who sought the dream of coexistence, could not permit them to directly covet human blood.\nJP :\nそれでも共存を望む子供たちの父上は、\n血鬼が人間の血を直接摂ることを許さなかったんだ。"
+  },
+  {
+    "key": "38-content",
+    "original": "가족의 행복을 금지하면서까지, 그래야 했던 이유는 간단하다면 간단한 이유였어.",
+    "context": "EN :\nThere was one incontestable reason he forbade the Family their happiness.\nJP :\n家族の幸福を禁じてまで、そうしなければならなかった理由は\n簡単といえば簡単な理由だったの。"
+  },
+  {
+    "key": "39-content",
+    "original": "혈귀에게 직접적으로 피를 빼앗긴 인간은 변하는 시간에 차이를 둘 뿐, 모두 피주머니로 전락해 버려.",
+    "context": "EN :\nAnyone who's had their blood drained directly by a Bloodfiend... is bound to eventually turn into a Bloodbag, no matter how long it takes.\nJP :\n血鬼に直接血を奪われた人間は、変わる時間に差はあるけれども\nみんな血袋に成り下がってしまうの。"
+  },
+  {
+    "key": "40-content",
+    "original": "그건 공존의 끝을 이야기하는 것이고, 아이들의 어버이가 절대 용서치 않는 일이었지.",
+    "context": "EN :\nAnd that would mean the end of coexistence; and that is why this became an unforgivable sin in the eyes of the Father.\nJP :\nそれは共存の終わりを告げるものであって、\n子供たちの父上が決して許さないことだったんだ。"
+  },
+  {
+    "key": "41-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "41-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "41-content",
+    "original": "어버이의 진노가 두렵지 않나, 오티스.",
+    "context": "EN :\nAre you not afraid of Father's fury, Outis?\nJP :\n父上様の震怒(しんど)が怖くないのか、ウーティス。"
+  },
+  {
+    "key": "42-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "42-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "42-content",
+    "original": "두렵지… 그래서 계획을 세운 거고. 하물며 우리가 어버이를 죽이자는 게 아니지 않나? 어버이가 정신을 차리실 때까지만이라도…",
+    "context": "EN :\nI am. Deathly so— which is why we are coming up with a strategy. Besides, it's not like we seek his death. Just until our Father comes to his senses...\nJP :\n怖いさ…だからこそ計画を立てたんだ。ましてや我々が父上様を\n殺そうというわけではないだろう？\nせめて父上様が正気に戻られるときまで……。"
+  },
+  {
+    "key": "43-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "43-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "43-content",
+    "original": "…애초에 투구는 어떻게 씌울 생각이지?",
+    "context": "EN :\n... How will you even get him to don the helm?\nJP :\n…そもそも兜はどうやって被せるつもりなんだ？"
+  },
+  {
+    "key": "44-content",
+    "original": "어버이를 해하고자 하는 게 아니라는 그 말이, 면죄부처럼 느껴진 걸까.",
+    "context": "EN :\nPerhaps her words, clarifying that they weren't seeking the Father's death... came to this child as an exoneration.\nJP :\n父上を害するつもりはないというその言葉が、\n免罪符のように感じられたのかな。"
+  },
+  {
+    "key": "45-content",
+    "original": "아이는 처음으로 계획이라는 것에 관심을 보였어.",
+    "context": "EN :\nAnd for the first time, the child's interest was piqued.\nJP :\n子供は初めて計画というものに関心を示したんだ。"
+  },
+  {
+    "key": "46-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "46-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "46-content",
+    "original": "이제야 이야기를 좀 나눠볼 수 있겠군.",
+    "context": "EN :\nNow, are we ready to have a conversation?\nJP :\nようやく話ができそうだな。"
+  },
+  {
+    "key": "47-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "47-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "47-content",
+    "original": "모험을 떠나시기 전, 어버이께서 만든 로시난테를 기억하겠지?",
+    "context": "EN :\nDo you recall how our Father created Rocinante prior to his departure?\nJP :\n旅に出られる前に、父上様が作られたロシナンテを覚えているだろう？"
+  },
+  {
+    "key": "48-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "48-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "48-content",
+    "original": "…그래.",
+    "context": "EN :\n... I do.\nJP :\n…ああ。"
+  },
+  {
+    "key": "49-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "49-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "49-content",
+    "original": "상당한 피를 로시난테의 창조에 사용하신 어버이라면… 여로에서 쌓인 피로가 상당히 남아있을 테지. 그 틈을 노리면… 투구를 씌우는 정도는 가능할 거다.",
+    "context": "EN :\nHe used up a significant amount of his own blood to create Rocinante... and after such a long time on the road, he must still be deeply fatigued. And that will be our opening to place the helm over his head.\nJP :\n相当な血をロシナンテの創造に使われた父上様なら…\n旅路で積もった疲労がかなり残っているはずだ。\nその隙を狙えば…兜を被せるくらいはできるだろう。"
+  },
+  {
+    "key": "50-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "50-title",
+    "original": "라만차랜드 이발사",
+    "context": "EN :\nThe Barber of La Manchaland\nJP :\nラ・マンチャランド 理髪師"
+  },
+  {
+    "key": "50-content",
+    "original": "그 뒤의 전략에 대해서는… 네놈이 마음을 돌려먹은 뒤에 말해주겠다.",
+    "context": "EN :\nAs for the second step of our plan... I'll let you in on it as soon as you agree to be a part of it.\nJP :\nその後の戦略については…お前が考えを改めた後に教えてやる。"
+  },
+  {
+    "key": "51-content",
+    "original": "화려한 복장의 아이가 떠난 뒤에도, 아이는 죄책감을 이기지 못하고 괴로움에 떠는 중이야.",
+    "context": "EN :\nEven after the gaudily dressed child left, this child cannot help but shudder from the crushing guilt.\nJP :\n華やかな衣装の子供が去った後も、\n子供は罪悪感に打ち勝てずに苦しみに震えているんだ。"
+  },
+  {
+    "key": "52-content",
+    "original": "결국, 아이는 다시 채찍을 들어 자신의 몸을 계속해서 내리쳤지만…",
+    "context": "EN :\nHe continued to whip himself, again and again...\nJP :\n結局、子供は再び鞭を手に取って自分の身体を打ち続けたけど…。"
+  },
+  {
+    "key": "53-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "53-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "53-content",
+    "original": "가족들을 위해서, 아니... 어버이를 위해서…",
+    "context": "EN :\nFor the Family... no, for our Father in blood...\nJP :\n家族のために、いや…父上様のために…。"
+  },
+  {
+    "key": "54-content",
+    "original": "한 번 고개를 든 불경스러운 생각은 끝없는 고통에도 멈추지 않았어.",
+    "context": "EN :\n... but this profane thought refused to leave his mind, no matter how much he whipped himself.\nJP :\n一度頭をもたげた不敬な思いは、\n終わりなき苦痛でも止まらなかったんだ。"
+  },
+  {
+    "key": "55-content",
+    "original": "오히려 깊게 새겨져 가는 온몸의 상처처럼 잊지 못한 채 선명해져만 갔지.",
+    "context": "EN :\nEvery strike of the whip, every scar that formed on his skin, only reminded him of the possibilities this thought granted.\nJP :\nむしろ全身に刻まれていく深い傷のみたいに、\n忘れられず鮮明になるばかりだったの。"
+  },
+  {
+    "key": "56-content",
+    "original": "결국 아이는 채찍질을 멈추고, 과거의 자신은 상상조차 할 수 없었을 말을 입에 담았어.",
+    "context": "EN :\nThe child put down the whip and utters an unthinkable sentence.\nJP :\n結局子供は鞭打ちを止めて、過去の自分じゃ\n想像すらできなかった言葉を口にしたんだ。"
+  },
+  {
+    "key": "57-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "57-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "57-content",
+    "original": "설령 벌을 받더라도, 어버이께서 우리의 고통을 알아주신다면…",
+    "context": "EN :\nEven if he would smite us down with his great vengeance... if this'll get him to see this suffering...\nJP :\nたとえ罰を受けることになったとしても、\n父上様が我々の苦しみを知ってくださるなら…。"
+  },
+  {
+    "key": "58-content",
+    "original": "가족들과의 상담으로 조금씩 흔들리던 어버이를 향한 아이의 마음은 이발사와의 만남으로 그렇게.",
+    "context": "EN :\nThe child's heart, which had slowly begun to sway after countless consultations with the Family...\nJP :\n家族たちとの相談で少しずつ揺れていた父上への子供の心は、\n理髪師との出会いで…。"
+  },
+  {
+    "key": "59-content",
+    "original": "어버이에게도 장차 좋은 일이 될 거라는 정당화를 끝낸 채로 무너져 내렸지.",
+    "context": "EN :\n... crumbled completely in the face of the justification that this was, after all, for the Father.\nJP :\n父上にも将来良いことになるって正当化を終えたまま崩れ落ちたんだ。"
+  },
+  {
+    "key": "60-content",
+    "original": "아이가 가족들의 계획에 동참하고, 기나긴 모험의 시간이 끝나 찾아온 반란의 날.",
+    "context": "EN :\nThe day of rebellion was here, the child now a part of this plan. Father was to return home after the long days of the adventure.\nJP :\n子供が家族たちの計画に加担して、\n長い冒険の時間が終わって訪れてきた反乱の日。"
+  },
+  {
+    "key": "61-content",
+    "original": "아이는 한껏 피를 머금은 채로, 수많은 사냥꾼에게 둘러싸였어.",
+    "context": "EN :\nCountless Hunters surrounded the now-bloodsoaked child.\nJP :\n子供はたっぷりと血を宿した状態で、数多の狩人に囲まれたの。"
+  },
+  {
+    "key": "62-content",
+    "original": "과거의 아이에게는 익숙한 상황이었을 테지만… 라만차랜드에서 지내온 현재의 아이에게는 낯설어진 상황이야.",
+    "context": "EN :\nHe'd been in this situation countless times in the past. But... after years spent in La Manchaland, all of this felt so new to him.\nJP :\n過去の子供にとっては慣れた状況だったと思うけど…\nラ・マンチャランドで過ごしてきた今の子供には馴染みのない状況だね。"
+  },
+  {
+    "key": "63-content",
+    "original": "오늘과 같은 날이 오지 않았다면, 정말 사냥꾼들과도 척을 지지 않고 살아갈 수 있었을지도.",
+    "context": "EN :\nMaybe they really could have coexisted even with the Hunters. If a day like today did not come to pass.\nJP :\n今日みたいな日が来なかったら、\n本当に狩人たちとも敵対せずに生きていけたかも。"
+  },
+  {
+    "key": "64-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "64-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "64-content",
+    "original": "혈귀 전쟁 이후, 너희는 증오를 억누르고 우리 라만차랜드를 찾아오지 않았지.",
+    "context": "EN :\nYou did not pay La Manchaland a visit once, ever since the Bloodfiend War was over. I see that you've managed to suppress your hatred of our kind.\nJP :\n血鬼戦争以降、お前たちは憎しみを抑え\n我々のラ・マンチャランドへと訪ねてこなかった。"
+  },
+  {
+    "key": "65-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "65-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "65-content",
+    "original": "지켜보려고 했던 건지, 뭐 다른 뜻이 있었던 건지는 몰라도…",
+    "context": "EN :\nWhy was that, I wonder. Were you merely curious? Or was there something else?\nJP :\n見守ろうとしていたのか、\nまぁそれとも他に意図があったのかは分からないが…。"
+  },
+  {
+    "key": "66-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "66-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "66-content",
+    "original": "…그것도 오늘로 마지막 이야기겠군.",
+    "context": "EN :\n... I guess the answer doesn't matter anymore.\nJP :\n…それも今日が最後になるな。\n"
+  },
+  {
+    "key": "67-teller",
+    "original": "혈귀 사냥꾼",
+    "context": "EN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "67-title",
+    "original": "송곳니 사냥 사무소",
+    "context": "EN :\nFanghunt Office\nJP :\n牙狩事務所"
+  },
+  {
+    "key": "67-content",
+    "original": "이 혈향과 비명을 쫓아오면서도 의심했다.",
+    "context": "EN :\nThere was a doubt in my heart, even as we ran toward this stench of blood, this screaming.\nJP :\nこの血香と悲鳴を追いながらも、疑っていた。"
+  },
+  {
+    "key": "68-teller",
+    "original": "혈귀 사냥꾼",
+    "context": "EN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "68-title",
+    "original": "송곳니 사냥 사무소",
+    "context": "EN :\nFanghunt Office\nJP :\n牙狩事務所"
+  },
+  {
+    "key": "68-content",
+    "original": "라만차랜드의 번영을 시기한, 다른 가문의 혈귀가 습격해 온 게 아닐까 하고.",
+    "context": "EN :\nI wondered if La Manchaland had become under siege by a different Family that were envious of your success.\nJP :\nラ・マンチャランドの繁栄を妬んだ\n他の一族の血鬼が襲撃してきたのではないかと。"
+  },
+  {
+    "key": "69-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "69-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "69-content",
+    "original": "어리석은 생각이군. 하지만… 어버이께서 들으셨다면, 기뻐하셨겠어.",
+    "context": "EN :\nA foolish thought. ... A thought that Father would have been overjoyed to hear.\nJP :\n愚かな考えだな。\nしかし…父上様が聞かれたら、さぞ喜ばれただろう。"
+  },
+  {
+    "key": "70-teller",
+    "original": "혈귀 사냥꾼",
+    "context": "EN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "70-title",
+    "original": "송곳니 사냥 사무소",
+    "context": "EN :\nFanghunt Office\nJP :\n牙狩事務所"
+  },
+  {
+    "key": "70-content",
+    "original": "…어리석은 생각이었음을 인정하지.",
+    "context": "EN :\nI admit. We were foolish to hope.\nJP :\n…確かに愚かな考えだったな。"
+  },
+  {
+    "key": "71-teller",
+    "original": "혈귀 사냥꾼",
+    "context": "EN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "71-title",
+    "original": "송곳니 사냥 사무소",
+    "context": "EN :\nFanghunt Office\nJP :\n牙狩事務所"
+  },
+  {
+    "key": "71-content",
+    "original": "우리는 앞으로 들판의 풀처럼 자라날 모든 사냥꾼에게 전할 거다.",
+    "context": "EN :\nThe ranks of Bloodfiend Hunters will only grow like wild grass on the fields. And when this day becomes history, they'll all learn a lesson from our folly.\nJP :\n我々はこの先、野草のように育つ全ての狩人に伝達する。"
+  },
+  {
+    "key": "72-teller",
+    "original": "혈귀 사냥꾼",
+    "context": "EN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "72-title",
+    "original": "송곳니 사냥 사무소",
+    "context": "EN :\nFanghunt Office\nJP :\n牙狩事務所"
+  },
+  {
+    "key": "72-content",
+    "original": "너희 혈귀는… 변할 수 없는 악한 족속이라는 것을.",
+    "context": "EN :\nThat you Bloodfiends... are evil by nature. That you can never change what you are.\nJP :\nお前たち血鬼は…変われない悪しき種族であるということを。"
+  },
+  {
+    "key": "73-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "73-title",
+    "original": "라만차랜드 신부",
+    "context": "EN :\nThe Priest of La Manchaland\nJP :\nラ・マンチャランド 神父"
+  },
+  {
+    "key": "73-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "74-content",
+    "original": "그 말을 마지막으로 아이와 사냥꾼들 사이에는 침묵만이 맴돌았어.",
+    "context": "EN :\nWith that, neither the child nor the Hunters said a word.\nJP :\nその言葉を最後に、子供と狩人たちの間には沈黙だけが漂ったんだ。"
+  },
+  {
+    "key": "75-content",
+    "original": "더 이상의 소통이 그 무엇도 가져다주지 못함을 서로 깨달았기 때문일 테지.",
+    "context": "EN :\nThey both knew that further communication was meaningless.\nJP :\nこれ以上の対話が何ももたらさないことを\n互いに悟ったからだろうね。"
+  },
+  {
+    "key": "76-content",
+    "original": "아이는 사냥꾼들의 죽음을 바라보며, 단 하나의 생각만을 떠올리고 있어.",
+    "context": "EN :\nThere is only a singular thought in the child's head as he watches the Hunters expire.\nJP :\n子供は狩人たちの死を見つめながら、\nただ一つのことだけを思い浮かべているの。"
+  },
+  {
+    "key": "77-content",
+    "original": "그건 자신이 짓게 된 죄에 대해서도, 아니면 앞으로 자신이 받아야 할 벌에 대해서도 아니야.",
+    "context": "EN :\nIt's not about his sin. It's not about the upcoming punishment.\nJP :\nそれは自分が犯した罪についてでも、\nこれから受けるべき罰についてでもなくて。"
+  },
+  {
+    "key": "78-content",
+    "original": "기쁨.",
+    "context": "EN :\nIt's joy.\nJP :\n歓び。"
+  },
+  {
+    "key": "79-content",
+    "original": "사냥꾼의 피에 한껏 취한 채, 아이가 떠올리고 있는 하나의 생각이자 감정이었지.",
+    "context": "EN :\nIt was the child's only thought, his only emotion as he took in the Hunters' blood drenching his body.\nJP :\n狩人の血にたっぷりと酔いしれたまま、\n子供が思い浮かべている唯一の考えであり感情だったんだ。"
+  }
+]

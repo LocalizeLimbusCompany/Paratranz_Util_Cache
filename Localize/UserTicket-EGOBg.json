@@ -1,0 +1,382 @@
+[
+  {
+    "key": "-1-name",
+    "original": "림버스 컴퍼니",
+    "context": "EN :\nLimbus Company\nJP :\nリンバス・カンパニー"
+  },
+  {
+    "key": "-1-desc",
+    "original": "기본",
+    "context": "EN :\nBase\nJP :\n基本"
+  },
+  {
+    "key": "1-name",
+    "original": "죄악 : 분노",
+    "context": "EN :\nSin: Wrath\nJP :\n罪悪：憤怒"
+  },
+  {
+    "key": "1-desc",
+    "original": "기본",
+    "context": "EN :\nBase\nJP :\n基本"
+  },
+  {
+    "key": "2-name",
+    "original": "죄악 : 색욕",
+    "context": "EN :\nSin: Lust\nJP :\n罪悪：色欲"
+  },
+  {
+    "key": "2-desc",
+    "original": "기본",
+    "context": "EN :\nBase\nJP :\n基本"
+  },
+  {
+    "key": "3-name",
+    "original": "죄악 : 나태",
+    "context": "EN :\nSin: Sloth\nJP :\n罪悪：怠惰"
+  },
+  {
+    "key": "3-desc",
+    "original": "기본",
+    "context": "EN :\nBase\nJP :\n基本"
+  },
+  {
+    "key": "4-name",
+    "original": "죄악 : 탐식",
+    "context": "EN :\nSin: Gluttony\nJP :\n罪悪：暴食"
+  },
+  {
+    "key": "4-desc",
+    "original": "기본",
+    "context": "EN :\nBase\nJP :\n基本"
+  },
+  {
+    "key": "5-name",
+    "original": "죄악 : 우울",
+    "context": "EN :\nSin: Gloom\nJP :\n罪悪：憂鬱"
+  },
+  {
+    "key": "5-desc",
+    "original": "기본",
+    "context": "EN :\nBase\nJP :\n基本"
+  },
+  {
+    "key": "6-name",
+    "original": "죄악 : 오만",
+    "context": "EN :\nSin: Pride\nJP :\n罪悪：傲慢"
+  },
+  {
+    "key": "6-desc",
+    "original": "기본",
+    "context": "EN :\nBase\nJP :\n基本"
+  },
+  {
+    "key": "7-name",
+    "original": "죄악 : 질투",
+    "context": "EN :\nSin: Envy\nJP :\n罪悪：嫉妬"
+  },
+  {
+    "key": "7-desc",
+    "original": "기본",
+    "context": "EN :\nBase\nJP :\n基本"
+  },
+  {
+    "key": "8-name",
+    "original": "K사의 눈물",
+    "context": "EN :\nTears of K Corp.\nJP :\nK社の涙"
+  },
+  {
+    "key": "8-desc",
+    "original": "시즌 2 레미니센스 무료 보상 40레벨에 획득",
+    "context": "EN :\nObtained at Season 2 Free Pass Level 40\nJP :\nシーズン2 レミニセンス 無料報酬レベル40で獲得"
+  },
+  {
+    "key": "9-name",
+    "original": "비 오는 날",
+    "context": "EN :\nRainy Day\nJP :\n雨降る日"
+  },
+  {
+    "key": "9-desc",
+    "original": "시즌 2 레미니센스 림버스 패스 보상 45레벨에 획득",
+    "context": "EN :\nObtained at Season 2 Limbus Pass Level 45\nJP :\nシーズン2 レミニセンス リンバスパス報酬レベル45で獲得"
+  },
+  {
+    "key": "10-name",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク[檀香梅]"
+  },
+  {
+    "key": "10-desc",
+    "original": "시즌 2 레미니센스 무료 보상 55레벨에 획득",
+    "context": "EN :\nObtained at Season 2 Free Pass Level 55\nJP :\nシーズン2 レミニセンス 無料報酬レベル55で獲得"
+  },
+  {
+    "key": "11-name",
+    "original": "우.미.다",
+    "context": "EN :\nS.E.A\nJP :\nう・み・ダ"
+  },
+  {
+    "key": "11-desc",
+    "original": "우.미.다 이벤트에서 획득",
+    "context": "EN :\nObtained from the S.E.A event\nJP :\nう・み・ダイベントにて獲得"
+  },
+  {
+    "key": "12-name",
+    "original": "2호선",
+    "context": "EN :\nLine 2\nJP :\n2号線"
+  },
+  {
+    "key": "12-desc",
+    "original": "순환 횟수 5 이상으로 2호선 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Line 2 with 5 or more Cycle Counts\nJP :\n循環回数5以上で、2号線クリア時に獲得"
+  },
+  {
+    "key": "13-name",
+    "original": "2호선 : 뫼비우스",
+    "context": "EN :\nLine 2 : Möbius\nJP :\n2号線 : Möbius"
+  },
+  {
+    "key": "13-desc",
+    "original": "시즌 2 레미니센스 기간 내에 순환 횟수 5 이상, 누적 턴 수 200턴 이하로 2호선 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Line 2 with 5 or more Cycle Counts and 200 or less Total Turns before Season 2: Reminiscence ends\nJP :\nシーズン2 レミニセンス期間中に循環回数5以上、累計ターン数200以下で2号線クリア時に獲得"
+  },
+  {
+    "key": "14-name",
+    "original": "2호선 : 뫼비우스 II",
+    "context": "EN :\nLine 2 : Möbius II\nJP :\n2号線 : Möbius II"
+  },
+  {
+    "key": "14-desc",
+    "original": "시즌 2 레미니센스 기간 내에 순환 횟수 5 이상, 누적 턴 수 150턴 이하로 거울굴절철도 2호선 클리어 시 획득 (단, 23/09/15 20:15 (KST) 이후에 새롭게 시작한 기록을 기준으로 함)",
+    "context": "EN :\nObtained by clearing Refraction Railway Line 2 with 5 or more Cycle Counts and under 150 Total Turns before Season 2: Reminiscence ends (Must be a record made after 2023.09.15 20:15(KST))\nJP :\nシーズン2 レミニセンス期間中に循環回数5以上、累計ターン数150以下で2号線クリア時に獲得(※23/09/15 20:15 (KST) 以降新たに開始した記録を基準とする)"
+  },
+  {
+    "key": "15-name",
+    "original": "항구 컨테이너",
+    "context": "EN :\nShipping Container\nJP :\n港のコンテナ"
+  },
+  {
+    "key": "15-desc",
+    "original": "시즌 3 본 보야지 무료 보상 70레벨에 획득",
+    "context": "EN :\nObtained at Season 3 Free Pass Level 70\nJP :\nシーズン3 ボン・ヴォヤージ 無料報酬レベル70で獲得"
+  },
+  {
+    "key": "16-name",
+    "original": "폭풍우 속 선상",
+    "context": "EN :\nAmidst the Storm\nJP :\n嵐の中の船上"
+  },
+  {
+    "key": "16-desc",
+    "original": "시즌 3 본 보야지 림버스 패스 보상 90레벨에 획득",
+    "context": "EN :\nObtained at Season 3 Limbus Pass Level 90\nJP :\nシーズン3 ボン・ヴォヤージ リンバスパス報酬レベル90で獲得"
+  },
+  {
+    "key": "17-name",
+    "original": "피쿼드타운",
+    "context": "EN :\nPequod Town\nJP :\nピークォドタウン"
+  },
+  {
+    "key": "17-desc",
+    "original": "시즌 3 본 보야지 무료 보상 110레벨에 획득",
+    "context": "EN :\nObtained at Season 3 Free Pass Level 110\nJP :\nシーズン3 ボン・ヴォヤージ 無料報酬レベル110で獲得"
+  },
+  {
+    "key": "18-name",
+    "original": "메리 크리스마스",
+    "context": "EN :\nMerry Christmas\nJP :\nメリークリスマス"
+  },
+  {
+    "key": "18-desc",
+    "original": "20번구의 기적 이벤트에서 획득",
+    "context": "EN :\nObtained from the Miracle in District 20 event\nJP :\n20番区の奇跡 イベントで獲得"
+  },
+  {
+    "key": "19-name",
+    "original": "메리 크리스마스 - 특별 티켓",
+    "context": "EN :\nMerry Christmas - Special Ticket\nJP :\nメリークリスマス - スペシャルチケット"
+  },
+  {
+    "key": "19-desc",
+    "original": "20번구의 기적 이벤트에서 획득",
+    "context": "EN :\nObtained from the Miracle in District 20 event\nJP :\n20番区の奇跡 イベントで獲得"
+  },
+  {
+    "key": "20-name",
+    "original": "로보토미 지휘팀",
+    "context": "EN :\nL Corp. Control Team\nJP :\nロボトミー指揮チーム"
+  },
+  {
+    "key": "20-desc",
+    "original": "제2회 발푸르기스의 밤 이벤트에서 획득",
+    "context": "EN :\nObtained from the 2nd Walpurgis Night event\nJP :\n第2回ヴァルプルギスの夜 イベントにて獲得"
+  },
+  {
+    "key": "21-name",
+    "original": "3호선",
+    "context": "EN :\nLine 3\nJP :\n3号線"
+  },
+  {
+    "key": "21-desc",
+    "original": "거울굴절철도 3호선 종착역 클리어 시 획득",
+    "context": "EN :\nObtained by clearing the Terminus of Refraction Railway Line 3\nJP :\n鏡屈折鉄道3号線 終着駅クリア時に獲得"
+  },
+  {
+    "key": "22-name",
+    "original": "3호선 : MirrorClock OrangeRoad",
+    "context": "EN :\nLine 3 : MirrorClock OrangeRoad\nJP :\n3号線 : MirrorClock OrangeRoad"
+  },
+  {
+    "key": "22-desc",
+    "original": "시즌 3 본 보야지 기간 내에 누적 턴 수 100턴 이하로 거울굴절철도 3호선 종착역 클리어 시 획득",
+    "context": "EN :\nObtained by clearing the Terminus of Line 3 with 100 Turns or less Total Turns before Season 3: Bon Voyage ends\nJP :\nシーズン3 ボンヴォヤージ期間内に累計ターン数100以下で鏡屈折鉄道3号線の終着駅クリア時に獲得"
+  },
+  {
+    "key": "23-name",
+    "original": "육참골단",
+    "context": "EN :\nYield My Flesh to Claim Their Bones\nJP :\n肉斬骨断"
+  },
+  {
+    "key": "23-desc",
+    "original": "육참골단 이벤트에서 획득",
+    "context": "EN :\nObtained from the 'Yield My Flesh to Claim Their Bones' event\nJP :\n肉斬骨断イベントにて獲得"
+  },
+  {
+    "key": "24-name",
+    "original": "육참골단 - 특별 티켓",
+    "context": "EN :\nYield My Flesh to Claim Their Bones - Special Ticket\nJP :\n肉斬骨断 - 特別チケット"
+  },
+  {
+    "key": "24-desc",
+    "original": "육참골단 이벤트에서 획득",
+    "context": "EN :\nObtained from the 'Yield My Flesh to Claim Their Bones' event\nJP :\n肉斬骨断イベントにて獲得"
+  },
+  {
+    "key": "25-name",
+    "original": "1st Birthday",
+    "context": "EN :\n1st Birthday\nJP :\n1st Birthday"
+  },
+  {
+    "key": "25-desc",
+    "original": "1주년 기념 이벤트에서 획득",
+    "context": "EN :\nObtained from the 1st Anniversary event\nJP :\n1周年記念イベントにて獲得"
+  },
+  {
+    "key": "26-name",
+    "original": "폭풍의 언덕",
+    "context": "EN :\nWuthering Heights\nJP :\n嵐が丘"
+  },
+  {
+    "key": "26-desc",
+    "original": "시즌 4 클리어 올 캐시 무료 보상 70레벨에 획득",
+    "context": "EN :\nObtained at Season 4 Free Pass Level 70\nJP :\nシーズン4 クリア・オール・キャシー 無料報酬レベル70で獲得"
+  },
+  {
+    "key": "27-name",
+    "original": "지하 실험실",
+    "context": "EN :\nSubterranean Laboratory\nJP :\n地下の実験室"
+  },
+  {
+    "key": "27-desc",
+    "original": "시즌 4 클리어 올 캐시 림버스 패스 보상 90레벨에 획득",
+    "context": "EN :\nObtained at Season 4 Limbus Pass Level 90\nJP :\nシーズン4 クリア・オール・キャシー リンバスパス報酬レベル90で獲得"
+  },
+  {
+    "key": "28-name",
+    "original": "누군가 두드리는 유리창",
+    "context": "EN :\nKnocking on the Window\nJP :\n誰かが叩くガラス窓"
+  },
+  {
+    "key": "28-desc",
+    "original": "시즌 4 클리어 올 캐시 무료 보상 110레벨에 획득",
+    "context": "EN :\nObtained at Season 4 Free Pass Level 110\nJP :\nシーズン4 クリア・オール・キャシー 無料報酬レベル110で獲得"
+  },
+  {
+    "key": "29-name",
+    "original": "라이브러리 오브 루이나",
+    "context": "EN :\nLibrary of Ruina\nJP :\nライブラリー・オブ・ルイナ"
+  },
+  {
+    "key": "29-desc",
+    "original": "라이브러리 오브 루이나 구매 특전 쿠폰 등록 시 획득",
+    "context": "EN :\nObtained from entering Library of Ruina special bonus coupon code\nJP :\nライブラリー・オブ・ルイナ購入特典のクーポン登録時に獲得"
+  },
+  {
+    "key": "30-name",
+    "original": "새벽 사무소",
+    "context": "EN :\nDawn Office\nJP :\n夜明事務所"
+  },
+  {
+    "key": "30-desc",
+    "original": "제3회 발푸르기스의 밤 이벤트에서 획득",
+    "context": "EN :\nObtained from the 3rd Walpurgis Night event\nJP :\n第3回ヴァルプルギスの夜 イベントにて獲得"
+  },
+  {
+    "key": "31-name",
+    "original": "시간살인시간",
+    "context": "EN :\nTimekilling Time\nJP :\n時間殺人時間"
+  },
+  {
+    "key": "31-desc",
+    "original": "시간살인시간 이벤트에서 획득",
+    "context": "EN :\nObtained from the Timekilling Time event\nJP :\n時間殺人時間イベントにて獲得"
+  },
+  {
+    "key": "32-name",
+    "original": "시간살인시간 - 특별 티켓",
+    "context": "EN :\nTimekilling Time - Special Ticket\nJP :\n時間殺人時間 - 特別チケット"
+  },
+  {
+    "key": "32-desc",
+    "original": "시간살인시간 이벤트에서 획득",
+    "context": "EN :\nObtained from the Timekilling Time event\nJP :\n時間殺人時間イベントにて獲得"
+  },
+  {
+    "key": "33-name",
+    "original": "4호선",
+    "context": "EN :\nLine 4\nJP :\n4号線"
+  },
+  {
+    "key": "33-desc",
+    "original": "거울굴절철도 4호선 제 4 구간 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Section #4 of Refraction Railway Line 4\nJP :\n鏡屈折鉄道4号線 第4区間クリア時に獲得"
+  },
+  {
+    "key": "34-name",
+    "original": "4호선 : Masquerade",
+    "context": "EN :\nLine 4 : Masquerade\nJP :\n4号線 : Masquerade"
+  },
+  {
+    "key": "34-desc",
+    "original": "시즌 4 클리어 올 캐시 기간 내에 누적 턴 수 100턴 이하로 거울굴절철도 4호선 제 4 구간 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Section #4 of Line 4 with 100 Turns or fewer Total Turns before Season 4: Clear All Cathy ends\nJP :\nシーズン4 クリア・オール・キャシー期間内に累計ターン数100以下で鏡屈折鉄道4号線の第4区間クリア時に獲得"
+  },
+  {
+    "key": "35-name",
+    "original": "워프특급 살인사건",
+    "context": "EN :\nMurder on the WARP Express\nJP :\nワープ特急殺人事件"
+  },
+  {
+    "key": "35-desc",
+    "original": "워프특급 살인사건 이벤트에서 획득",
+    "context": "EN :\nObtained from the Murder on the WARP Express event\nJP :\nワープ特急殺人事件イベントにて獲得"
+  },
+  {
+    "key": "36-name",
+    "original": "워프특급 살인사건 - 특별 티켓",
+    "context": "EN :\nMurder on the WARP Express - Special Ticket\nJP :\nワープ特急殺人事件 - 特別チケット"
+  },
+  {
+    "key": "36-desc",
+    "original": "워프특급 살인사건 이벤트에서 획득",
+    "context": "EN :\nObtained from the Murder on the WARP Express event\nJP :\nワープ特急殺人事件イベントにて獲得"
+  },
+  {
+    "key": "37-name",
+    "original": "로보토미 교육팀",
+    "context": "EN :\nL Corp. Training Team\nJP :\nロボトミー教育チーム"
+  },
+  {
+    "key": "37-desc",
+    "original": "제4회 발푸르기스의 밤 이벤트에서 획득",
+    "context": "EN :\nObtained from the 4th Walpurgis Night event\nJP :\n第4回ヴァルプルギスの夜 イベントにて獲得"
+  }
+]

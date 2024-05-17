@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10808_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10808_1-dlg",
+    "original": "승선을 환영한다, 신참. 튼튼한 몸뚱아리는 챙겨왔겠지!",
+    "context": "EN :\nWelcome aboard, greenhorn! You are able-bodied and ready for the voyage, I trust?\nJP :\n乗船を歓迎する、新入り。もちろん頑丈な身一つは持ってきただろうな！"
+  },
+  {
+    "key": "lobby_morning_10808_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10808_1-dlg",
+    "original": "굼뜨게 움직이는 놈은 제일 먼저 돛대에 걸어둘 거다! 아침이라고 늑장부리지 마!",
+    "context": "EN :\nDo not dilly-dally! If I see one slacker among you, I'll tie them to the mast myself! It's a morning, not a mourning; look alive, men!\nJP :\nのろのろ動くやつは最初にマストへ括り付けるぞ！朝だからってぐずぐずするな！"
+  },
+  {
+    "key": "lobby_noon_10808_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10808_1-dlg",
+    "original": "인어 지느러미 육포는 입에 맞나? 맞아야 할걸. 당분간은 그것만 먹어야 할테니. 훗.",
+    "context": "EN :\nHow do you like the taste of that Mermaid fin jerky? You better enjoy it. It'll be our main source of sustenance for a good while. Heh.\nJP :\n人魚ヒレ肉ジャーキーは口に合うか？もちろん合わないとな。当面はそれだけ食べなきゃならないんだ。ふっ。"
+  },
+  {
+    "key": "lobby_night_10808_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10808_1-dlg",
+    "original": "전부 자러 들어갔다고 방심하지 마라. 파도는 낮과 밤을 가리지 않으니… 눈 크게 뜨고 잘 지켜보라고.",
+    "context": "EN :\nThe hour may be late, but do not let your guard down. The Waves can come crashing in at any moment—day or night. Keep your eyes wide open, am I clear?\nJP :\n皆が寝に行ったからといって油断するな。波は昼夜を問わない…目を大きくかっ開いてよく見るんだな。"
+  },
+  {
+    "key": "smalltalk_10808_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10808_1-dlg",
+    "original": "영문도 모를 것들이 우리를 덮친다고 한들, 두려워할 것 같은가? 마주하고 이빨을 드러내며 웃어라. 그것이 피쿼드호의 선원이다!",
+    "context": "EN :\nWe do not fear the unfathomable horrors of the sea! Stand tall! Give them a toothy grin and a wild guffaw! That is what it means to be a crew of the Pequod!\nJP :\nわけも分からないものが我々へと襲いかかったとして、恐れるとでも思うのか？向き合い、歯を剥き出しにして笑え。それでこそピークォド号の船員だ！"
+  },
+  {
+    "key": "smalltalk_10808_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10808_2-dlg",
+    "original": "선장실은! 누구도 침범할 수 없다. 할 말이 있다면 항해사에게 해라. 호수의 파도가 무섭다고 징징대는 꼴을 보는 건 질색이니.",
+    "context": "EN :\nNone shall enter the Captain's quarters! If you have something to share—share it with the navigator. I grow tired of listening to fools whining, cowering at the Waves of the Great Lake.\nJP :\n船長室は！誰も侵犯することはできない。言うことがあるなら航海士にしろ。湖の波が怖いとキャンキャン言うザマを見るのはご免だ。"
+  },
+  {
+    "key": "smalltalk_10808_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10808_3-dlg",
+    "original": "고래는… 경이롭고도 신비한 괴물이다. 나와 함께 그것들을 잡아죽인다는 건, 인생의 큰 영광이지…\n하, 이 호수 위에서 나만큼 그것에 집착하는 자는 없을테니까!",
+    "context": "EN :\nWhales are... magnificent yet mysterious monsters. Consider it a great honor that you are allowed to hunt them beside me...\nHah, I daresay that my fervor for Whaling is unmatched!\nJP :\n鯨は…驚異的でもあり、神秘的でもある怪物だ。私と共にそいつらを捕まえて殺すということは、人生における大きな栄光なのさ…。\nはっ、この湖の上で私ほどそれに執着するものはいないだろうからな！"
+  },
+  {
+    "key": "smalltalk_10808_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10808_4-dlg",
+    "original": "작살잡이! 작살을 단단히 묶어라! 조타수는 우현으로 타각 최대! 노잡이!! 정신 차리고 저어라!!",
+    "context": "EN :\nHarpooneers! Fasten your harpoons! Helmsmen, right hard rudder! OARSMEN!! Pull yourselves together and ROW!!!\nJP :\n銛使い！銛をびっちり結べ！操舵手は右舷へ舵角最大！漕ぎ手！！しっかり漕ぐんだな！！"
+  },
+  {
+    "key": "smalltalk_10808_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10808_5-dlg",
+    "original": "총원, 그대로 들어! …때가 도래했다! 오늘 밤, 우리는 고대하던 그 고래를!\n…모든 것을 마르게 하는 새빨간 고래를… 잡는다!",
+    "context": "EN :\nAll hands, heed my command! ... Our finest hour is upon us! Tonight, we hunt the Whale!\nTonight, we hunt the All-Withering Crimson Whale!\nJP :\n総員、良く聞け！…潮は満ちた！今夜、我々は待ち焦がれていたあの鯨を！\n…全てを渇かせる真っ赤な鯨を…捕まえる！"
+  },
+  {
+    "key": "gacksung_10808_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10808_1-dlg",
+    "original": "천둥이 몰아치기 시작하는군… 곧 우리가 손꼽아 기다리던 그 악의 고래의 사냥 시간이 찾아온다! 핫하!",
+    "context": "EN :\nThunder and lightning... Yes, the battle of our lifetimes will soon be upon us! We will hunt the Whale of all evils! Hahahahahaha!\nJP :\n雷が鳴り始めたな…。間もなく、我々が指折り数えて待っていたあの悪の鯨を狩る時間がやってくるぞ！ハッハ！"
+  },
+  {
+    "key": "neglect_10808_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10808_1-dlg",
+    "original": "후… 바람이 좋군. 가끔씩은 이런 폭풍 전 고요를 즐겨보는 것도 나쁘지 않지.",
+    "context": "EN :\nHaah... These are good winds. I enjoy this particular calm before the storm.\nJP :\nふぅ…良い風だな。たまには、こんな嵐の前の静けさを楽しむのも悪くないか。"
+  },
+  {
+    "key": "formation_10808_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10808_1-dlg",
+    "original": "고래를 향해.",
+    "context": "EN :\nSet course toward the Whale.\nJP :\n鯨へ向かって。"
+  },
+  {
+    "key": "battleentry_10808_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10808_1-dlg",
+    "original": "가스 점화! 엔진 시동!",
+    "context": "EN :\nLight the gases and fire up the engines!\nJP :\nガス点火！エンジン始動！"
+  },
+  {
+    "key": "battle_select_10808_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10808_1-dlg",
+    "original": "입을 열 시간이 있나? 고래에 집중해!",
+    "context": "EN :\nFocus on the Whale if you have the time to flap your gums!\nJP :\n口を開く時間があるとでも？鯨に集中しろ！"
+  },
+  {
+    "key": "battle_endcommand_10808_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10808_1-dlg",
+    "original": "총원, 돌격!",
+    "context": "EN :\nAll hands! CHARGE!\nJP :\n総員、突撃！"
+  },
+  {
+    "key": "battle_enemy_break_10808_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10808_1-dlg",
+    "original": "기세가 수그러지는군! 반격의 기회다!",
+    "context": "EN :\nOur foes cower! This is our opportunity to turn the tide!\nJP :\n勢いが衰えたか！反撃のチャンスだ！"
+  },
+  {
+    "key": "battle_break_10808_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10808_1-dlg",
+    "original": "흣…! 전열을 지켜라! 내게 관심이 쏠렸으니, 너희가 공격할 기회는 더욱 많아진다!",
+    "context": "EN :\nHngh...! Hold your stations! The foe has its eyes on me—use this opportunity to strike them!\nJP :\nふっ…！前列を守れ！私に関心が移ったから、お前たちが攻撃できるチャンスは更に増えるぞ！"
+  },
+  {
+    "key": "battle_kill_10808_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10808_1-dlg",
+    "original": "잘했군! 한 놈도 남지 않을 때 까지 지금을 반복한다! 쉴 새는 없다!",
+    "context": "EN :\nGood! Do not stop until we have slaughtered every last one of them! We shall seek no respite until it is done!\nJP :\nよくやったな！一人残さず斃すまで今のを繰り返す！休む暇などない！"
+  },
+  {
+    "key": "battle_dead_10808_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10808_1-dlg",
+    "original": "나, 나는… 이스마엘이다! 나는… 여기서…!",
+    "context": "EN :\nI-I am Captain Ishmael! I will not fall... here...!\nJP :\n私、私は…イシュメールだ！私は…ここで…！"
+  },
+  {
+    "key": "choice_success_p_10808_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10808_2-dlg",
+    "original": "당연하지. 내 나침반이 틀린 적이 있었나?",
+    "context": "EN :\nOf course. Has my compass ever led you astray?\nJP :\n当然だ。私の羅針盤が、間違ったことはあったか？"
+  },
+  {
+    "key": "choice_fail_n_10808_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10808_1-dlg",
+    "original": "젠장… 네 탓이군, 관리자!",
+    "context": "EN :\nDammit... The fault lies with you, Manager!\nJP :\nクソッ…お前のせいだな、管理人！"
+  },
+  {
+    "key": "battle_clear_10808_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10808_1-dlg",
+    "original": "어줍잖은 결과에 들뜨지 말도록! 우리가 사냥할 고래는 더욱 크고 사악하다!",
+    "context": "EN :\nHail not at this mediocre outcome! Set your sights beyond this puerile victory; our Whale is greater, more evil than this!\nJP :\n下らない結果に浮かれるな！我々の狩る鯨は、より大きくて邪悪なのだから！"
+  },
+  {
+    "key": "battle_clear_ex_10808_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10808_1-dlg",
+    "original": "이번엔 성적이 좋았군… 하지만, 머나먼 고래에 닿기 위해서는 아직도 부족하다! 다시 가스 터빈을 점화한다! 그리고…",
+    "context": "EN :\nNot bad, not bad at all... But we are still yet to reach the Whale! Fire the gas turbines again, men! And—\nJP :\n今回の成績は良かったな…。しかし、遠い鯨へ至るにはまだ足りないぞ！再びガスタービンを点火する！そして…。"
+  },
+  {
+    "key": "battle_defeat_10808_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10808_1-dlg",
+    "original": "이 무능한 놈들! 고작 이런 곳에서 쓰러지다니, 내가 네놈들에게 패배를 명령했더냐!",
+    "context": "EN :\nYou useless wretches! You dare fall to your knees here? I do not recall ordering any of you to be defeated!\nJP :\nこの無能たちめ！たかがこんな場所で斃れるなど、私がお前たちに敗北を命じたか！"
+  }
+]

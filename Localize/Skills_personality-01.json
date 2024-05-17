@@ -1,0 +1,1262 @@
+[
+  {
+    "key": "1010501-levelList$[0].name",
+    "original": "침착하게",
+    "context": "EN :\nStay Calm\nJP :\n落ち着いて"
+  },
+  {
+    "key": "1010501-levelList$[0].desc",
+    "original": "이 스킬이 버려지면 자신의 진동 횟수 3 증가",
+    "context": "EN :\nGain +3 Tremor Count if this Skill is Discarded\nJP :\nこのスキルが捨てられると、自分の振動 回数が3増加"
+  },
+  {
+    "key": "1010501-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 진동 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +2 Tremor Count\nJP :\n[OnSucceedAttackHead] 振動 回数が2増加"
+  },
+  {
+    "key": "1010501-levelList$[1].name",
+    "original": "침착하게",
+    "context": "EN :\nStay Calm\nJP :\n落ち着いて"
+  },
+  {
+    "key": "1010501-levelList$[1].desc",
+    "original": "이 스킬이 버려지면 자신의 진동 횟수 4 증가\n[WhenUse] 자신의 진동 횟수 2 증가",
+    "context": "EN :\nIf this Skill is Discarded, gain +4 Tremor Count\n[WhenUse] Gain +2 Tremor Count\nJP :\nこのスキルが捨てられると、自分の振動 回数が3増加\n[WhenUse] 自分の振動 回数が2増加"
+  },
+  {
+    "key": "1010501-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Tremor Count\nJP :\n[OnSucceedAttack] 振動 回数が2増加"
+  },
+  {
+    "key": "1010501-levelList$[2].name",
+    "original": "침착하게",
+    "context": "EN :\nStay Calm\nJP :\n落ち着いて"
+  },
+  {
+    "key": "1010501-levelList$[2].desc",
+    "original": "이 스킬이 버려지면 자신의 진동 횟수 4 증가\n[WhenUse] 자신의 진동 횟수 2 증가\n자신의 진동 횟수가 5 이상일 때 코인 위력 +1",
+    "context": "EN :\nIf this Skill is Discarded, gain +4 Tremor Count\n[WhenUse] Gain +2 Tremor Count\nAt 5+ Tremor Count, gain Coin Power +1\nJP :\nこのスキルが捨てられると、自分の振動 回数が4増加\n[WhenUse] 自分の振動 回数が2増加\n自分の振動 回数が5以上なら、コイン威力 +1"
+  },
+  {
+    "key": "1010501-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Tremor Count\nJP :\n[OnSucceedAttack] 振動 回数が2増加"
+  },
+  {
+    "key": "1010502-levelList$[0].name",
+    "original": "도박수",
+    "context": "EN :\nGamble\nJP :\nギャンブラー"
+  },
+  {
+    "key": "1010502-levelList$[0].desc",
+    "original": "이 스킬이 버려지면 자신의 진동 횟수 3 증가\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 버림",
+    "context": "EN :\nIf this Skill is Discarded, gain +3 Tremor Count\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\nJP :\nこのスキルが捨てられると、自分の振動 回数が3増加\n[WhenUse] 自分の全スキルスロットから、ランクの最も低いスキル1つを捨てる"
+  },
+  {
+    "key": "1010502-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 진동 횟수가 5 이상일 때, 진동 폭발. 대상의 진동 횟수 2 감소",
+    "context": "EN :\n[OnSucceedAttack] At 5+ Tremor Count, trigger Tremor Burst. Reduce target's Tremor Count by 2\nJP :\n[OnSucceedAttack] 自分の振動 回数が5以上のとき、振動爆発。対象の振動 回数が2減少"
+  },
+  {
+    "key": "1010502-levelList$[1].name",
+    "original": "도박수",
+    "context": "EN :\nGamble\nJP :\nギャンブラー"
+  },
+  {
+    "key": "1010502-levelList$[1].desc",
+    "original": "이 스킬이 버려지면 자신의 진동 횟수 4 증가\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 버림",
+    "context": "EN :\nIf this Skill is Discarded, gain +4 Tremor Count\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\nJP :\nこのスキルが捨てられると、自分の振動 回数が4増加\n[WhenUse] 自分の全スキルスロットから、ランクの最も低いスキル1つを捨てる"
+  },
+  {
+    "key": "1010502-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Tremor Count\nJP :\n[OnSucceedAttack] 振動 回数が2増加"
+  },
+  {
+    "key": "1010502-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 진동 횟수가 5 이상일 때, 진동 폭발. 대상의 진동 횟수 2 감소",
+    "context": "EN :\n[OnSucceedAttack] At 5+ Tremor Count, trigger Tremor Burst. Reduce target's Tremor Count by 2\nJP :\n[OnSucceedAttack] 自分の振動 回数が5以上のとき、振動爆発。対象の振動 回数が2減少"
+  },
+  {
+    "key": "1010502-levelList$[2].name",
+    "original": "도박수",
+    "context": "EN :\nGamble\nJP :\nギャンブラー"
+  },
+  {
+    "key": "1010502-levelList$[2].desc",
+    "original": "이 스킬이 버려지면 자신의 진동 횟수 4 증가\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 버림",
+    "context": "EN :\nIf this Skill is Discarded, gain +4 Tremor Count\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\nJP :\nこのスキルが捨てられると、自分の振動 回数が4増加\n[WhenUse] 自分の全スキルスロットから、ランクの最も低いスキル1つを捨てる"
+  },
+  {
+    "key": "1010502-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Tremor Count\nJP :\n[OnSucceedAttack] 振動 回数が3増加"
+  },
+  {
+    "key": "1010502-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 진동 횟수가 5 이상일 때, 진동 폭발. 대상의 진동 횟수 2 감소",
+    "context": "EN :\n[OnSucceedAttack] At 5+ Tremor Count, trigger Tremor Burst. Reduce target's Tremor Count by 2\nJP :\n[OnSucceedAttack] 自分の振動 回数が5以上のとき、振動爆発。対象の振動 回数が2減少"
+  },
+  {
+    "key": "1010503-levelList$[0].name",
+    "original": "어금니 갈기",
+    "context": "EN :\nGrinding the Molars\nJP :\n奥歯軋り"
+  },
+  {
+    "key": "1010503-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 버림.\n[WhenUse] 자신의 진동 횟수 10을 소모하여 코인 위력 +1",
+    "context": "EN :\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] Spend 10 Tremor Count to gain Coin Power +1\nJP :\n[WhenUse] 自分の全スキルスロットから、ランクの最も低いスキル1つを捨てる\n[WhenUse] 自分の振動 回数を10消耗してコイン威力 +1"
+  },
+  {
+    "key": "1010503-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Tremor\nJP :\n[OnSucceedAttack] 振動 4を付与"
+  },
+  {
+    "key": "1010503-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 스킬 사용 시 진동 횟수를 소모했으면, 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] If the Skill spent Tremor Count, trigger Tremor Burst\nJP :\n[OnSucceedAttack] スキル使用時、振動 回数を消耗したなら振動爆発"
+  },
+  {
+    "key": "1010503-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 방어 레벨 감소 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Defense Level Down\nJP :\n[OnSucceedAttackHead] 防御レベル減少 2を付与"
+  },
+  {
+    "key": "1010503-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 스킬 사용 시 진동 횟수를 소모했으면, 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] If the Skill spent Tremor Count, trigger Tremor Burst\nJP :\n[OnSucceedAttack] スキル使用時、振動 回数を消耗したなら振動爆発"
+  },
+  {
+    "key": "1010503-levelList$[1].name",
+    "original": "어금니 갈기",
+    "context": "EN :\nGrinding the Molars\nJP :\n奥歯軋り"
+  },
+  {
+    "key": "1010503-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 버림.\n[WhenUse] 자신의 진동 횟수 10을 소모하여 코인 위력 +2",
+    "context": "EN :\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] Spend 10 Tremor Count to gain Coin Power +2\nJP :\n[WhenUse] 自分の全スキルスロットから、ランクの最も低いスキル1つを捨てる\n[WhenUse] 自分の振動 回数を10消耗してコイン威力 +2"
+  },
+  {
+    "key": "1010503-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Tremor\nJP :\n[OnSucceedAttack] 振動 4を付与"
+  },
+  {
+    "key": "1010503-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 스킬 사용 시 진동 횟수를 소모했으면, 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] If the Skill spent Tremor Count, trigger Tremor Burst\nJP :\n[OnSucceedAttack] スキル使用時、振動 回数を消耗したなら振動爆発"
+  },
+  {
+    "key": "1010503-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 방어 레벨 감소 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Defense Level Down\nJP :\n[OnSucceedAttack] 防御レベル減少 2を付与"
+  },
+  {
+    "key": "1010503-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 스킬 사용 시 진동 횟수를 소모했으면, 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] If the Skill spent Tremor Count, trigger Tremor Burst\nJP :\n[OnSucceedAttack] スキル使用時、振動 回数を消耗したなら振動爆発"
+  },
+  {
+    "key": "1010504-levelList$[0].name",
+    "original": "가드",
+    "context": "EN :\nGuard\nJP :\nガード"
+  },
+  {
+    "key": "1010504-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 버림",
+    "context": "EN :\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\nJP :\n[WhenUse] 自分の全スキルスロットから、ランクの最も低いスキル1つを捨てる"
+  },
+  {
+    "key": "1010504-levelList$[1].name",
+    "original": "가드",
+    "context": "EN :\nGuard\nJP :\nガード"
+  },
+  {
+    "key": "1010504-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 버림",
+    "context": "EN :\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\nJP :\n[WhenUse] 自分の全スキルスロットから、ランクの最も低いスキル1つを捨てる"
+  },
+  {
+    "key": "1010601-levelList$[0].name",
+    "original": "차원 긋기",
+    "context": "EN :\nDimensional Slit\nJP :\n次元を裂く"
+  },
+  {
+    "key": "1010601-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 충전 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +2 Charge Count\nJP :\n[WhenUse] 自分の充電 回数が2増加"
+  },
+  {
+    "key": "1010601-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 충전 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 Charge Count\nJP :\n[OnSucceedAttack] 自分の充電 回数が2増加"
+  },
+  {
+    "key": "1010601-levelList$[1].name",
+    "original": "차원 긋기",
+    "context": "EN :\nDimensional Slit\nJP :\n次元を裂く"
+  },
+  {
+    "key": "1010601-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 충전 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +2 Charge Count\nJP :\n[WhenUse] 自分の充電 回数が2増加"
+  },
+  {
+    "key": "1010601-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 충전 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 Charge Count\nJP :\n[OnSucceedAttack] 自分の充電 回数が2増加"
+  },
+  {
+    "key": "1010601-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 2を付与"
+  },
+  {
+    "key": "1010601-levelList$[2].name",
+    "original": "차원 긋기",
+    "context": "EN :\nDimensional Slit\nJP :\n次元を裂く"
+  },
+  {
+    "key": "1010601-levelList$[2].desc",
+    "original": "[WhenUse] 자신의 충전 횟수 2 증가\n충전 횟수가 10 이상이면, 코인 위력 +2",
+    "context": "EN :\n[WhenUse] Gain +2 Charge Count\nAt 10+ Charge Count, Coin Power +2\nJP :\n[WhenUse] 自分の充電 回数が2増加\n充電 回数が10以上なら、コイン威力 +2"
+  },
+  {
+    "key": "1010601-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 충전 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 Charge Count\nJP :\n[OnSucceedAttack] 自分の充電 回数が2増加"
+  },
+  {
+    "key": "1010601-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nJP :\n[OnSucceedAttack] 破裂 2を付与"
+  },
+  {
+    "key": "1010602-levelList$[0].name",
+    "original": "에너지 순환",
+    "context": "EN :\nEnergy Cycle\nJP :\nエネルギー循環"
+  },
+  {
+    "key": "1010602-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 충전 횟수 5 증가",
+    "context": "EN :\n[WhenUse] Gain +5 Charge Count\nJP :\n[WhenUse] 自分の充電 回数が5増加"
+  },
+  {
+    "key": "1010602-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 속박 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Bind next turn\nJP :\n[OnSucceedAttackHead] 次のターンに束縛 1を付与"
+  },
+  {
+    "key": "1010602-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "1010602-levelList$[1].name",
+    "original": "에너지 순환",
+    "context": "EN :\nEnergy Cycle\nJP :\nエネルギー循環"
+  },
+  {
+    "key": "1010602-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 충전 횟수 6 증가\n충전 횟수가 10 이상이면, 코인 위력 +1",
+    "context": "EN :\n[WhenUse] Gain +6 Charge Count\nAt 10+ Charge Count, Coin Power +1\nJP :\n[WhenUse] 自分の充電 回数が6増加\n充電 回数が10以上なら、コイン威力 +1"
+  },
+  {
+    "key": "1010602-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 1を付与"
+  },
+  {
+    "key": "1010602-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "1010602-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 충전 횟수가 10 이상이면, 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] At 10+ Charge Count, inflict 3 Rupture\nJP :\n[OnSucceedAttack] 自分の充電 回数が10以上なら、破裂 3を付与"
+  },
+  {
+    "key": "1010602-levelList$[2].name",
+    "original": "에너지 순환",
+    "context": "EN :\nEnergy Cycle\nJP :\nエネルギー循環"
+  },
+  {
+    "key": "1010602-levelList$[2].desc",
+    "original": "[WhenUse] 자신의 충전 횟수 7 증가\n충전 횟수가 10 이상이면, 코인 위력 +1",
+    "context": "EN :\n[WhenUse] Gain +7 Charge Count\nAt 10+ Charge Count, Coin Power +1\nJP :\n[WhenUse] 自分の充電 回数が7増加\n充電 回数が10以上なら、コイン威力 +1"
+  },
+  {
+    "key": "1010602-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 1を付与"
+  },
+  {
+    "key": "1010602-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "1010602-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 충전 횟수가 10 이상이면,  파열 3 부여, 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] At 10+ Charge Count, inflict 3 Rupture and +2 Rupture Count\nJP :\n[OnSucceedAttack] 自分の充電 回数が10以上なら破裂 3を付与、破裂 回数が2増加。"
+  },
+  {
+    "key": "1010603-levelList$[0].name",
+    "original": "차원의 틈",
+    "context": "EN :\nDimensional Rift\nJP :\n次元の狭間"
+  },
+  {
+    "key": "1010603-levelList$[0].desc",
+    "original": "[WhenUse] 충전 횟수가 15 미만이면, 충전 횟수를 10 소모하여 코인 위력 +1\n[WhenUse] 충전 횟수를 15 소모하여 코인 위력 +2",
+    "context": "EN :\n[WhenUse] At less than 15 Charge Count, consume 10 Charge Count to gain +1 Coin Power\n[WhenUse] Consume 15 Charge Count to gain +2 Coin Power\nJP :\n[WhenUse] 充電 回数が15未満なら、充電 回数を10消耗してコイン威力 +1\n[WhenUse] 充電 回数を15消耗し、コイン威力 +2"
+  },
+  {
+    "key": "1010603-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 1を付与"
+  },
+  {
+    "key": "1010603-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 1を付与"
+  },
+  {
+    "key": "1010603-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 스킬 사용시 소모한 충전 횟수 5 당 파열 2 부여 (최대 6)",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture for every 5 Charge Count consumed by the Skill (Max 6)\nJP :\n[OnSucceedAttack] スキル使用時に消耗した充電 回数5につき破裂 2を付与(最大6)"
+  },
+  {
+    "key": "1010603-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 스킬 사용시 충전 횟수를 15 소모하였으면, 차원 균열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] If the Skill consumed 15 Charge Count upon use, inflict 2 Dimensional Rift\nJP :\n[OnSucceedAttack] スキル使用時、充電 回数を15消耗したなら次元の亀裂 2を付与"
+  },
+  {
+    "key": "1010603-levelList$[0].coinlist[2].coindescs[2].desc",
+    "original": "[EnemyKill] 충전 역장 3 얻음",
+    "context": "EN :\n[EnemyKill] Gain 3 Charge Barrier\nJP :\n[EnemyKill] 充電力場 3を得る"
+  },
+  {
+    "key": "1010603-levelList$[1].name",
+    "original": "차원의 틈",
+    "context": "EN :\nDimensional Rift\nJP :\n次元の狭間"
+  },
+  {
+    "key": "1010603-levelList$[1].desc",
+    "original": "[WhenUse] 충전 횟수가 15 미만이면, 충전 횟수를 10 소모하여 코인 위력 +1\n[WhenUse] 충전 횟수를 15 소모하여 코인 위력 +2\n[BeforeAttack] 충전 횟수를 15 소모했다면, 파열 횟수 3 증가",
+    "context": "EN :\n[WhenUse] At less than 15 Charge Count, consume 10 Charge Count to gain +1 Coin Power\n[WhenUse] Consume 15 Charge Count to gain +2 Coin Power\n[BeforeAttack] If 15 Charge Count has been consumed, inflict +3 Rupture Count\nJP :\n[WhenUse] 充電 回数が15未満なら、充電 回数を10消耗してコイン威力 +1\n[WhenUse] 充電 回数を15消耗し、コイン威力 +2\n[BeforeAttack] 充電回数を15消耗したなら、破裂 回数が3増加"
+  },
+  {
+    "key": "1010603-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 1を付与"
+  },
+  {
+    "key": "1010603-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 파열 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 1を付与"
+  },
+  {
+    "key": "1010603-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 스킬 사용시 소모한 충전 횟수 5 당 파열 3 부여 (최대 9)",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture for every 5 Charge Count consumed by the Skill (Max 9)\nJP :\n[OnSucceedAttack] スキル使用時に消耗した充電 回数5につき破裂 3を付与(最大9)"
+  },
+  {
+    "key": "1010603-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 스킬 사용시 충전 횟수를 15 소모하였으면, 차원 균열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] If the Skill consumed 15 Charge Count upon use, inflict 2 Dimensional Rift\nJP :\n[OnSucceedAttack] スキル使用時、充電 回数を15消耗したなら次元の亀裂 2を付与"
+  },
+  {
+    "key": "1010603-levelList$[1].coinlist[2].coindescs[2].desc",
+    "original": "[EnemyKill] 충전 역장 5 얻음",
+    "context": "EN :\n[EnemyKill] Gain 5 Charge Barrier\nJP :\n[EnemyKill] 充電力場 5を得る"
+  },
+  {
+    "key": "1010604-levelList$[0].name",
+    "original": "텅 빈 차원",
+    "context": "EN :\nHollow Dimension\nJP :\nがらんどうの次元"
+  },
+  {
+    "key": "1010604-levelList$[0].desc",
+    "original": "충전 횟수 5당 기본 위력 +1 (최대 2)",
+    "context": "EN :\nBase Power +1 per 5 Charge Count (Max 2)\nJP :\n充電 回数5につき、基本威力 +1(最大2)"
+  },
+  {
+    "key": "1010604-levelList$[1].name",
+    "original": "텅 빈 차원",
+    "context": "EN :\nHollow Dimension\nJP :\nがらんどうの次元"
+  },
+  {
+    "key": "1010604-levelList$[1].desc",
+    "original": "충전 횟수 5당 기본 위력 +1 (최대 2)\n[OnSucceedEvade] 다음 턴에 처음으로 스킬로 부여하는 파열 +1 (턴 당 최대 증가량 : 3)",
+    "context": "EN :\nBase Power +1 per 5 Charge Count (Max 2)\n[OnSucceedEvade] +1 Potency when applying Rupture for the first time with a Skill effect next turn (Max +3 per turn)\nJP :\n充電 回数5につき、基本威力 +1(最大2)\n[OnSucceedEvade] 次のターンにて、最初にスキルで付与する破裂 +1(1ターンあたりの増加量上限 : 3)"
+  },
+  {
+    "key": "1010701-levelList$[0].name",
+    "original": "후벼파기",
+    "context": "EN :\nImpale\nJP :\n掘り穿つ"
+  },
+  {
+    "key": "1010701-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 호흡 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +2 Poise Count\nJP :\n[WhenUse] 自分の呼吸 回数が2増加"
+  },
+  {
+    "key": "1010701-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Bleed\nJP :\n[OnSucceedAttackHead] 出血 2を付与"
+  },
+  {
+    "key": "1010701-levelList$[1].name",
+    "original": "후벼파기",
+    "context": "EN :\nImpale\nJP :\n掘り穿つ"
+  },
+  {
+    "key": "1010701-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 호흡 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +2 Poise Count\nJP :\n[WhenUse] 自分の呼吸 回数が2増加"
+  },
+  {
+    "key": "1010701-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 속박 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Bind next turn\nJP :\n[OnSucceedAttackHead] 次のターンに束縛 1を付与"
+  },
+  {
+    "key": "1010701-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "1010701-levelList$[2].name",
+    "original": "후벼파기",
+    "context": "EN :\nImpale\nJP :\n掘り穿つ"
+  },
+  {
+    "key": "1010701-levelList$[2].desc",
+    "original": "[WhenUse] 자신의 호흡 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +2 Poise Count\nJP :\n[WhenUse] 自分の呼吸 回数が2増加"
+  },
+  {
+    "key": "1010701-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 1を付与"
+  },
+  {
+    "key": "1010701-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "1010702-levelList$[0].name",
+    "original": "쑤시고 쑤시기",
+    "context": "EN :\nRelentless Stabbing\nJP :\n刺して刺して刺す"
+  },
+  {
+    "key": "1010702-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 호흡 횟수 2 증가\n자신의 호흡 이 5 이상이면, 합 위력 +2",
+    "context": "EN :\n[WhenUse] Gain +2 Poise Count\nAt 5+ Poise, Clash Power +2\nJP :\n[WhenUse] 自分の呼吸 回数が2増加\n自分の呼吸 が5以上なら、マッチ威力 +2"
+  },
+  {
+    "key": "1010702-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 호흡 2 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 2 Poise\nJP :\n[OnSucceedAttackHead] 呼吸 2を得る"
+  },
+  {
+    "key": "1010702-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "1010702-levelList$[1].name",
+    "original": "쑤시고 쑤시기",
+    "context": "EN :\nRelentless Stabbing\nJP :\n刺して刺して刺す"
+  },
+  {
+    "key": "1010702-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 호흡 횟수 2 증가\n자신의 호흡 이 5 이상이면, 합 위력 +2",
+    "context": "EN :\n[WhenUse] Gain +2 Poise Count\nAt 5+ Poise, Clash Power +2\nJP :\n[WhenUse] 自分の呼吸 回数が2増加\n自分の呼吸 が5以上なら、マッチ威力 +2"
+  },
+  {
+    "key": "1010702-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 호흡 2 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 2 Poise\nJP :\n[OnSucceedAttackHead] 呼吸 2を得る"
+  },
+  {
+    "key": "1010702-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "1010702-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 이 코인 재사용 (최대 1회)",
+    "context": "EN :\n[CriticalOnSucceedAttack] Reuse this Coin (1 time max)\nJP :\n[CriticalOnSucceedAttack] このコインを再使用(最大1回)"
+  },
+  {
+    "key": "1010702-levelList$[2].name",
+    "original": "쑤시고 쑤시기",
+    "context": "EN :\nRelentless Stabbing\nJP :\n刺して刺して刺す"
+  },
+  {
+    "key": "1010702-levelList$[2].desc",
+    "original": "[WhenUse] 자신의 호흡 횟수 2 증가\n자신의 호흡 이 5 이상이면, 합 위력 +3",
+    "context": "EN :\n[WhenUse] Gain +2 Poise Count\nAt 5+ Poise, Clash Power +3\nJP :\n[WhenUse] 自分の呼吸 回数が2増加\n自分の呼吸 が5以上なら、マッチ威力 +3"
+  },
+  {
+    "key": "1010702-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 호흡 2 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 Poise\nJP :\n[OnSucceedAttack] 呼吸 2を得る"
+  },
+  {
+    "key": "1010702-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "1010702-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 이 코인 재사용 (최대 3회)",
+    "context": "EN :\n[CriticalOnSucceedAttack] Reuse this Coin (3 times max)\nJP :\n[CriticalOnSucceedAttack] このコインを再使用(最大3回)"
+  },
+  {
+    "key": "1010703-levelList$[0].name",
+    "original": "급습",
+    "context": "EN :\nAmbush\nJP :\n急襲"
+  },
+  {
+    "key": "1010703-levelList$[0].desc",
+    "original": "[WhenUse] 호흡 5 얻음",
+    "context": "EN :\n[WhenUse] Gain 5 Poise\nJP :\n[WhenUse] 呼吸 5を得る"
+  },
+  {
+    "key": "1010703-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 자신의 호흡 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Gain +2 Poise Count\nJP :\n[OnSucceedAttackHead] 自分の呼吸 回数が2増加"
+  },
+  {
+    "key": "1010703-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Bleed\nJP :\n[OnSucceedAttack] 出血 4を付与"
+  },
+  {
+    "key": "1010703-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 출혈 횟수 4 증가",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict +4 Bleed Count\nJP :\n[CriticalOnSucceedAttack] 出血 回数が4増加"
+  },
+  {
+    "key": "1010703-levelList$[1].name",
+    "original": "급습",
+    "context": "EN :\nAmbush\nJP :\n急襲"
+  },
+  {
+    "key": "1010703-levelList$[1].desc",
+    "original": "[WhenUse] 호흡 5 얻음\n자신의 호흡 이 7 이상이면, 코인 위력 +1",
+    "context": "EN :\n[WhenUse] Gain 5 Poise\nAt 7+ Poise, Coin Power +1\nJP :\n[WhenUse] 呼吸5を得る\n自分の呼吸が7以上なら、コイン威力 +1"
+  },
+  {
+    "key": "1010703-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 호흡 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 Poise Count\nJP :\n[OnSucceedAttack] 自分の呼吸 回数が2増加"
+  },
+  {
+    "key": "1010703-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Bleed\nJP :\n[OnSucceedAttack] 出血 4を付与"
+  },
+  {
+    "key": "1010703-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 출혈 횟수 6 증가",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict +6 Bleed Count\nJP :\n[CriticalOnSucceedAttack] 出血 回数が6増加"
+  },
+  {
+    "key": "1010704-levelList$[0].name",
+    "original": "회피",
+    "context": "EN :\nEvade\nJP :\n回避"
+  },
+  {
+    "key": "1010704-levelList$[1].name",
+    "original": "회피",
+    "context": "EN :\nEvade\nJP :\n回避"
+  },
+  {
+    "key": "1010801-levelList$[0].name",
+    "original": "지식 소모",
+    "context": "EN :\nExpend Knowledge\nJP :\n知識消耗"
+  },
+  {
+    "key": "1010801-levelList$[0].desc",
+    "original": "이 스킬이 버려지면 ([KnowledgeExplored] × 최대 체력의 2%)만큼 보호막을 얻음\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 높은 스킬 1개를 버림",
+    "context": "EN :\nGain ([KnowledgeExplored] x 2% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\nJP :\nこのスキルが捨てられると、([KnowledgeExplored] × 体力最大値の2%)バリアを得る。\n[WhenUse] 自分の全スキルスロットから、ランクの最も高いスキル1つを捨てる"
+  },
+  {
+    "key": "1010801-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [KnowledgeExplored]만큼 흐트러짐 회복",
+    "context": "EN :\n[OnSucceedAttackHead] Lower user’s Stagger Threshold by [KnowledgeExplored]\nJP :\n[OnSucceedAttackHead] [KnowledgeExplored]だけ混乱区間が後退"
+  },
+  {
+    "key": "1010801-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [KnowledgeExplored]만큼 흐트러짐 회복",
+    "context": "EN :\n[OnSucceedAttackHead] Lower user’s Stagger Threshold by [KnowledgeExplored]\nJP :\n[OnSucceedAttackHead] [KnowledgeExplored]だけ混乱区間が後退"
+  },
+  {
+    "key": "1010801-levelList$[1].name",
+    "original": "지식 소모",
+    "context": "EN :\nExpend Knowledge\nJP :\n知識消耗"
+  },
+  {
+    "key": "1010801-levelList$[1].desc",
+    "original": "이 스킬이 버려지면 ([KnowledgeExplored] × 최대 체력의 3%)만큼 보호막을 얻음\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 높은 스킬 1개를 버림",
+    "context": "EN :\nGain ([KnowledgeExplored] x 3% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\nJP :\nこのスキルが捨てられると、([KnowledgeExplored] × 体力最大値の3%)バリアを得る。\n[WhenUse] 自分の全スキルスロットから、ランクの最も高いスキル1つを捨てる"
+  },
+  {
+    "key": "1010801-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [KnowledgeExplored]만큼 흐트러짐 회복",
+    "context": "EN :\n[OnSucceedAttack] Lower user's Stagger Threshold by [KnowledgeExplored]\nJP :\n[OnSucceedAttack] [KnowledgeExplored]だけ混乱区間が後退"
+  },
+  {
+    "key": "1010801-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [KnowledgeExplored]만큼 흐트러짐 회복",
+    "context": "EN :\n[OnSucceedAttack] Lower user's Stagger Threshold by [KnowledgeExplored]\nJP :\n[OnSucceedAttack] [KnowledgeExplored]だけ混乱区間が後退"
+  },
+  {
+    "key": "1010801-levelList$[2].name",
+    "original": "지식 소모",
+    "context": "EN :\nExpend Knowledge\nJP :\n知識消耗"
+  },
+  {
+    "key": "1010801-levelList$[2].desc",
+    "original": "이 스킬이 버려지면 ([KnowledgeExplored] × 최대 체력의 3%)만큼 보호막을 얻음\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 높은 스킬 1개를 버림\n[WhenUse] 대상의 [Sinking]이 5 이상이면 코인 위력 +1",
+    "context": "EN :\nGain ([KnowledgeExplored] x 3% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] If target has 5+ [Sinking], Coin Power +1\nJP :\nこのスキルが捨てられると、([KnowledgeExplored] × 体力最大値の3%)バリアを得る\n[WhenUse] 自分の全スキルスロットから、ランクが最も高いスキル1つを捨てる\n[WhenUse] 対象の[Sinking]が5以上なら、コイン威力 +1"
+  },
+  {
+    "key": "1010801-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [KnowledgeExplored]만큼 흐트러짐 회복",
+    "context": "EN :\n[OnSucceedAttack] Lower user's Stagger Threshold by [KnowledgeExplored]\nJP :\n[OnSucceedAttack] [KnowledgeExplored]だけ混乱区間が後退"
+  },
+  {
+    "key": "1010801-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [KnowledgeExplored]만큼 흐트러짐 회복",
+    "context": "EN :\n[OnSucceedAttack] Lower user's Stagger Threshold by [KnowledgeExplored]\nJP :\n[OnSucceedAttack] [KnowledgeExplored]だけ混乱区間が後退"
+  },
+  {
+    "key": "1010802-levelList$[0].name",
+    "original": "잠궈닫기",
+    "context": "EN :\nSeal Shut\nJP :\n締め閉じる"
+  },
+  {
+    "key": "1010802-levelList$[0].desc",
+    "original": "이 스킬이 버려지면 ([KnowledgeExplored] × 최대 체력의 4%)만큼 보호막을 얻음\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 높은 스킬 1개를 버림",
+    "context": "EN :\nGain ([KnowledgeExplored] x 4% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\nJP :\nこのスキルが捨てられると、([KnowledgeExplored] × 体力最大値の4%)バリアを得る。\n[WhenUse] 自分の全スキルスロットから、ランクの最も高いスキル1つを捨てる"
+  },
+  {
+    "key": "1010802-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [KnowledgeExplored]만큼 [Sinking] 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict [Sinking] equal to [KnowledgeExplored]\nJP :\n[OnSucceedAttackHead] [KnowledgeExplored]だけ[Sinking]を付与"
+  },
+  {
+    "key": "1010802-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [KnowledgeExplored]만큼 [Sinking] 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict [Sinking] equal to [KnowledgeExplored]\nJP :\n[OnSucceedAttackHead] [KnowledgeExplored]だけ[Sinking]を付与"
+  },
+  {
+    "key": "1010802-levelList$[1].name",
+    "original": "잠궈닫기",
+    "context": "EN :\nSeal Shut\nJP :\n締め閉じる"
+  },
+  {
+    "key": "1010802-levelList$[1].desc",
+    "original": "이 스킬이 버려지면 ([KnowledgeExplored] × 최대 체력의 5%)만큼 보호막을 얻음\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 높은 스킬 1개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 3 얻음",
+    "context": "EN :\nGain ([KnowledgeExplored] x 5% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] Gain +3 Aggro to this Skill Slot next turn\nJP :\nこのスキルが捨てられると、([KnowledgeExplored] × 体力最大値の5%バリアを得る。\n[WhenUse] 自分の全スキルスロットからランクが最も高いスキル1つを捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値3を得る"
+  },
+  {
+    "key": "1010802-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [KnowledgeExplored]만큼 [Sinking] 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict [Sinking] equal to [KnowledgeExplored]\nJP :\n[OnSucceedAttackHead] [KnowledgeExplored]だけ[Sinking]を付与"
+  },
+  {
+    "key": "1010802-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [KnowledgeExplored]만큼 [Sinking] 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict [Sinking] equal to [KnowledgeExplored]\nJP :\n[OnSucceedAttackHead] [KnowledgeExplored]だけ[Sinking]を付与"
+  },
+  {
+    "key": "1010802-levelList$[2].name",
+    "original": "잠궈닫기",
+    "context": "EN :\nSeal Shut\nJP :\n締め閉じる"
+  },
+  {
+    "key": "1010802-levelList$[2].desc",
+    "original": "이 스킬이 버려지면 ([KnowledgeExplored] × 최대 체력의 6%)만큼 보호막을 얻음\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 높은 스킬 1개를 버림\n[WhenUse] 대상의 [Sinking]이 5 이상이면 코인 위력 +1\n[WhenUse] 다음 턴에 이 슬롯이 도발치 3 얻음",
+    "context": "EN :\nGain ([KnowledgeExplored] x 6% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] If target has 5+ [Sinking], Coin Power +1\n[WhenUse] Gain +3 Aggro to this Skill Slot next turn\nJP :\nこのスキルが捨てられると、([KnowledgeExplored] × 体力最大値の6%)バリアを得る\n[WhenUse] 自分の全スキルスロットから、ランクが最も高いスキル1つを捨てる\n[WhenUse] 対象の[Sinking]が5以上なら、コイン威力 +1\n[WhenUse] 次のターンにこのスロットが挑発値3を得る"
+  },
+  {
+    "key": "1010802-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [KnowledgeExplored]만큼 [Sinking] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [Sinking] equal to [KnowledgeExplored]\nJP :\n[OnSucceedAttack] [KnowledgeExplored]だけ[Sinking]を付与"
+  },
+  {
+    "key": "1010802-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [KnowledgeExplored]만큼 [Sinking] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [Sinking] equal to [KnowledgeExplored]\nJP :\n[OnSucceedAttack] [KnowledgeExplored]だけ[Sinking]を付与"
+  },
+  {
+    "key": "1010803-levelList$[0].name",
+    "original": "지식의 가호",
+    "context": "EN :\nGrace of Knowledge\nJP :\n知識の加護"
+  },
+  {
+    "key": "1010803-levelList$[0].desc",
+    "original": "이 스킬이 버려지면 ([KnowledgeExplored] × 최대 체력의 9%)만큼 보호막을 얻음\n[WhenUse] 다음 턴에 이 슬롯이 도발치 8 얻음",
+    "context": "EN :\nGain ([KnowledgeExplored] x 9% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Gain +8 Aggro to this Skill Slot next turn\nJP :\nこのスキルが捨てられると、([KnowledgeExplored] × 体力最大値の9%)バリアを得る。\n[WhenUse] 次のターンにこのスロットが挑発値8を得る"
+  },
+  {
+    "key": "1010803-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]回数が2増加"
+  },
+  {
+    "key": "1010803-levelList$[1].name",
+    "original": "지식의 가호",
+    "context": "EN :\nGrace of Knowledge\nJP :\n知識の加護"
+  },
+  {
+    "key": "1010803-levelList$[1].desc",
+    "original": "이 스킬이 버려지면 ([KnowledgeExplored] × 최대 체력의 12%)만큼 보호막을 얻음\n[WhenUse] 다음 턴에 이 슬롯이 도발치 10 얻음\n[WhenUse] 자신의 체력이 50% 미만이면 코인 위력 +1",
+    "context": "EN :\nGain ([KnowledgeExplored] x 12% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Gain +10 Aggro to this Skill Slot next turn\n[WhenUse] At 50%- HP, Coin Power +1\nJP :\nこのスキルが捨てられると、([KnowledgeExplored] × 体力最大値の12%)バリアを得る。\n[WhenUse] 次のターンにて、このスロットが挑発値10を得る\n[WhenUse] 自分の体力が50%未満なら、コイン威力 +1"
+  },
+  {
+    "key": "1010803-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]回数が3増加"
+  },
+  {
+    "key": "1010804-levelList$[0].name",
+    "original": "탐구 몰입",
+    "context": "EN :\nFixated Study\nJP :\n探求没入"
+  },
+  {
+    "key": "1010804-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 모든 스킬 슬롯에서 무작위 스킬 2개를 등급이 낮은 순으로 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 3 얻음",
+    "context": "EN :\n[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n[WhenUse] Gain +3 Aggro to this Skill Slot next turn\nJP :\n[WhenUse] 自分の全スキルスロットから、ランダムなスキル2つをランクが低い順に捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値3を得る"
+  },
+  {
+    "key": "1010804-levelList$[1].name",
+    "original": "탐구 몰입",
+    "context": "EN :\nFixated Study\nJP :\n探求没入"
+  },
+  {
+    "key": "1010804-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 모든 스킬 슬롯에서 무작위 스킬 2개를 등급이 낮은 순으로 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 5 얻음",
+    "context": "EN :\n[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn\nJP :\n[WhenUse] 自分の全スキルスロットから、ランダムなスキル2つをランクが低い順に捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値5を得る"
+  },
+  {
+    "key": "1010901-levelList$[0].name",
+    "original": "덧칠",
+    "context": "EN :\nPaint Over\nJP :\n上塗り"
+  },
+  {
+    "key": "1010901-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과의 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +2 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\nJP :\n[OnSucceedAttackHead] [Combustion], [Laceration], [Vibration], [Burst], [Sinking]のうちランダムに1つの回数を2付与"
+  },
+  {
+    "key": "1010901-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttackHead] [Laceration]2を付与"
+  },
+  {
+    "key": "1010901-levelList$[1].name",
+    "original": "덧칠",
+    "context": "EN :\nPaint Over\nJP :\n上塗り"
+  },
+  {
+    "key": "1010901-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과의 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +2 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\nJP :\n[OnSucceedAttackHead] [Combustion], [Laceration], [Vibration], [Burst], [Sinking]のうちランダムに1つの回数を2付与"
+  },
+  {
+    "key": "1010901-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "1010901-levelList$[2].name",
+    "original": "덧칠",
+    "context": "EN :\nPaint Over\nJP :\n上塗り"
+  },
+  {
+    "key": "1010901-levelList$[2].desc",
+    "original": "대상의 [Laceration]이 6 이상이면, 합 위력 +1",
+    "context": "EN :\nIf the target has 6+ [Laceration], Clash Power +1\nJP :\n対象の[Laceration]が6以上なら、マッチ威力 +1"
+  },
+  {
+    "key": "1010901-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과의 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +2 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\nJP :\n[OnSucceedAttackHead] [Combustion], [Laceration], [Vibration], [Burst], [Sinking]のうちランダムに1つの回数を2付与"
+  },
+  {
+    "key": "1010901-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "1010902-levelList$[0].name",
+    "original": "혈점묘화",
+    "context": "EN :\nSanguine Pointillism\nJP :\n血点描画"
+  },
+  {
+    "key": "1010902-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 20% 확률로 코인 1회 재사용. 대상이 보유한 부정적인 효과 1개당 재사용 확률 +20%",
+    "context": "EN :\n[OnSucceedAttack] 20% chance to Reuse Coin once. +20% more chance to Reuse Coin for every type of negative effect on the target\nJP :\n[OnSucceedAttack] 20%の確率でコインを1回再使用。対象の保有するマイナス効果1つにつき再使用確率 +20%"
+  },
+  {
+    "key": "1010902-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "1010902-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과의 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\nJP :\n[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking]のうちランダムに1つの回数を2付与"
+  },
+  {
+    "key": "1010902-levelList$[1].name",
+    "original": "혈점묘화",
+    "context": "EN :\nSanguine Pointillism\nJP :\n血点描画"
+  },
+  {
+    "key": "1010902-levelList$[1].desc",
+    "original": "대상의 [Laceration]이 6 이상이면, 합 위력 +1",
+    "context": "EN :\nIf target has 6+ [Laceration], Clash Power +1\nJP :\n対象の[Laceration]が6以上なら、マッチ威力 +1"
+  },
+  {
+    "key": "1010902-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 20% 확률로 코인 1회 재사용. 대상이 보유한 부정적인 효과 1개당 재사용 확률 +20%",
+    "context": "EN :\n[OnSucceedAttack] 20% chance to Reuse Coin once. +20% more chance to Reuse Coin for every type of negative effect on the target\nJP :\n[OnSucceedAttack] 20%の確率でコインを1回再使用。対象の保有するマイナス効果1つにつき再使用確率 +20%"
+  },
+  {
+    "key": "1010902-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "1010902-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과의 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\nJP :\n[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking]のうちランダムに1つの回数を3付与"
+  },
+  {
+    "key": "1010902-levelList$[2].name",
+    "original": "혈점묘화",
+    "context": "EN :\nSanguine Pointillism\nJP :\n血点描画"
+  },
+  {
+    "key": "1010902-levelList$[2].desc",
+    "original": "대상의 [Laceration] 3 당 합 위력 +1 (최대 2)\n대상의 [Laceration] 횟수 3 당 코인 위력 +1 (최대 2)",
+    "context": "EN :\nClash Power +1 for every 3 [Laceration] on the target (max 2)\nCoin Power +1 for every 3 [Laceration] Count on the target (max 2)\nJP :\n対象の[Laceration]3につきマッチ威力 +1(最大2)\n対象の[Laceration]回数3につきコイン威力 +1(最大2)"
+  },
+  {
+    "key": "1010902-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 40% 확률로 코인 재사용. 대상이 보유한 부정적인 효과 1개당 재사용 확률 +20%. (스킬당 최대 2회 재사용 가능)",
+    "context": "EN :\n[OnSucceedAttack] 40% chance to Reuse Coin. +20% more chance to Reuse Coin for every type of negative effect on the target (2 times max per Skill)\nJP :\n[OnSucceedAttack] 40%の確率でコインを再使用。対象の保有するマイナス効果1つにつき再使用確率 +20%(スキルごとに最大2回再使用可能)"
+  },
+  {
+    "key": "1010902-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "1010902-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과의 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\nJP :\n[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking]のうちランダムに1つの回数を3付与"
+  },
+  {
+    "key": "1010903-levelList$[0].name",
+    "original": "핏방울 채색",
+    "context": "EN :\nHematic Coloring\nJP :\n滴血の彩色"
+  },
+  {
+    "key": "1010903-levelList$[0].desc",
+    "original": "대상의 [Laceration]이 6 이상이면, 합 위력 +1",
+    "context": "EN :\nIf the target has 6+ [Laceration], Clash Power +1\nJP :\n対象の[Laceration]が6以上なら、マッチ威力 +1"
+  },
+  {
+    "key": "1010903-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가. 대상이 보유한 부정적인 효과가 4개 이상이면, 추가 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count. If the target has 4+ types of negative effects, inflict +2 additional [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加。対象の保有するマイナス効果が4つ以上なら追加で2増加"
+  },
+  {
+    "key": "1010903-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과의 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\nJP :\n[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking]のうちランダムに1つの回数を3付与"
+  },
+  {
+    "key": "1010903-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여. 대상이 보유한 부정적인 효과가 4개 이상이면, 추가 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]. If the target has 4+ types of negative effects, inflict 2 additional [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]を1付与。対象の保有するマイナス効果が4つ以上なら追加で2付与"
+  },
+  {
+    "key": "1010903-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과의 위력 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Potency for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\nJP :\n[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking]のうちランダムに1つの威力を2付与"
+  },
+  {
+    "key": "1010903-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "대상이 보유한 부정적인 효과 1개당 피해량 +15% (최대 75%)",
+    "context": "EN :\nDeal +15% more damage for every type of negative effect on target (max 75%)\nJP :\n対象の保有するマイナス効果1つにつき与ダメージ量 +15%(最大75%)"
+  },
+  {
+    "key": "1010903-levelList$[0].coinlist[3].coindescs[1].desc",
+    "original": "[EndSkill] 대상이 흐트러졌거나 사망했으면, 부정적인 효과를 가장 적게 보유한 적 1명에게 [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과 2 부여",
+    "context": "EN :\n[EndSkill] If the target is Staggered or Defeated, inflict 2 Potency for 1 of the following effects on 1 enemy with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random.\nJP :\n[EndSkill] 対象が混乱するか死亡したなら、マイナス効果の保有数が最も少ない敵1名へ[Combustion], [Laceration], [Vibration], [Burst], [Sinking]のうちランダムに1つの回数を2付与"
+  },
+  {
+    "key": "1010903-levelList$[1].name",
+    "original": "핏방울 채색",
+    "context": "EN :\nHematic Coloring\nJP :\n滴血の彩色"
+  },
+  {
+    "key": "1010903-levelList$[1].desc",
+    "original": "대상의 [Laceration] 3 당 합 위력 +1 (최대 2)\n대상의 [Laceration] 횟수 3 당 코인 위력 +1 (최대 2)",
+    "context": "EN :\nClash Power +1 for every 3 [Laceration] on the target (max 2)\nCoin Power +1 for every 3 [Laceration] Count on the target (max 2)\nJP :\n対象の[Laceration]3につきマッチ威力 +1(最大2)\n対象の[Laceration]回数3につきコイン威力 +1(最大2)"
+  },
+  {
+    "key": "1010903-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가. 대상이 보유한 부정적인 효과가 3개 이상이면, 추가 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count. If the target has 3+ types of negative effects, inflict +2 additional [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加。対象の保有するマイナス効果が3つ以上なら追加で2増加"
+  },
+  {
+    "key": "1010903-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과의 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Count for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\nJP :\n[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking]のうちランダムに1つの回数を3付与"
+  },
+  {
+    "key": "1010903-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여. 대상이 보유한 부정적인 효과가 3개 이상이면, 추가 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]. If the target has 3+ types of negative effects, inflict 2 additional [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]を1付与。対象の保有するマイナス効果が3つ以上なら追加で2付与"
+  },
+  {
+    "key": "1010903-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과의 위력 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Potency for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\nJP :\n[OnSucceedAttack] [Combustion], [Laceration], [Vibration], [Burst], [Sinking]のうちランダムに1つの威力を2付与"
+  },
+  {
+    "key": "1010903-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "대상이 보유한 부정적인 효과 1개당 피해량 +25% (최대 125%)",
+    "context": "EN :\nDeal +25% more damage for every type of negative effect on target (max 125%)\nJP :\n対象の保有するマイナス効果1つにつき与ダメージ量 +25%(最大125%)"
+  },
+  {
+    "key": "1010903-levelList$[1].coinlist[3].coindescs[1].desc",
+    "original": "[EndSkill] 대상이 흐트러졌거나 사망했으면, 부정적인 효과를 가장 적게 보유한 적 2명에게 [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과 2 부여",
+    "context": "EN :\n[EndSkill] If the target is Staggered or Defeated, inflict 2 Potency for 1 of the following effects on 2 enemies with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random.\nJP :\n[EndSkill] 対象が混乱するか死亡したなら、マイナス効果の保有数が最も少ない敵2名へ[Combustion], [Laceration], [Vibration], [Burst], [Sinking]のうちランダムに1つの回数を2付与"
+  },
+  {
+    "key": "1010904-levelList$[0].name",
+    "original": "붓 털기",
+    "context": "EN :\nBeat the Brush\nJP :\n筆を払う"
+  },
+  {
+    "key": "1010904-levelList$[0].desc",
+    "original": "대상의 [Laceration]이 6 이상이면, 기본 위력 +5",
+    "context": "EN :\nIf target has 6+ [Laceration], Base Power +5\nJP :\n対象の[Laceration]が6以上なら、基本威力 +5"
+  },
+  {
+    "key": "1010904-levelList$[1].name",
+    "original": "붓 털기",
+    "context": "EN :\nBeat the Brush\nJP :\n筆を払う"
+  },
+  {
+    "key": "1010904-levelList$[1].desc",
+    "original": "대상의 [Laceration] 1당 기본 위력 +1 (최대 10)",
+    "context": "EN :\nBase Power +1 for every 1 [Laceration] on target (Max 10)\nJP :\n対象の[Laceration]1につき基本威力 +1(最大10)"
+  },
+  {
+    "key": "1011001-levelList$[0].name",
+    "original": "떠난이에게 축하를",
+    "context": "EN :\nCelebration for the Departed\nJP :\n往にし者へ祝辞を"
+  },
+  {
+    "key": "1011001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[BulletLament] 1 소모",
+    "context": "EN :\nConsume 1 of [BulletLament]\nJP :\n[BulletLament]を1消耗"
+  },
+  {
+    "key": "1011001-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011001-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[BulletLament] 1 소모",
+    "context": "EN :\nConsume 1 of [BulletLament]\nJP :\n[BulletLament]を1消耗"
+  },
+  {
+    "key": "1011001-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011001-levelList$[1].name",
+    "original": "떠난이에게 축하를",
+    "context": "EN :\nCelebration for the Departed\nJP :\n往にし者へ祝辞を"
+  },
+  {
+    "key": "1011001-levelList$[1].desc",
+    "original": "대상의 [Sinking]과 모든 [SinkingWhite]의 합이 6 이상이면, 코인 위력 +1\n[WinDuel] [Sinking] 횟수 2 증가",
+    "context": "EN :\nIf the sum of the target's [Sinking] and both [SinkingWhite] is 6 or higher, Coin Power +1\n[WinDuel] Inflict +2 [Sinking] Count\nJP :\n対象の[Sinking]と全ての [SinkingWhite]の合計が6以上なら、コイン威力 +1\n[WinDuel] [Sinking]回数が2増加"
+  },
+  {
+    "key": "1011001-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[BulletLament] 1 소모",
+    "context": "EN :\nConsume 1 of [BulletLament]\nJP :\n[BulletLament]を1消耗"
+  },
+  {
+    "key": "1011001-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011001-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[BulletLament] 1 소모",
+    "context": "EN :\nConsume 1 of [BulletLament]\nJP :\n[BulletLament]を1消耗"
+  },
+  {
+    "key": "1011001-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011001-levelList$[2].name",
+    "original": "떠난이에게 축하를",
+    "context": "EN :\nCelebration for the Departed\nJP :\n往にし者へ祝辞を"
+  },
+  {
+    "key": "1011001-levelList$[2].desc",
+    "original": "<style=\"highlight\">보유한 [BulletLament]가 10 이상이면, 합 위력 +1</style>\n대상의 [Sinking]과 모든 [SinkingWhite]의 합이 6 이상이면, 코인 위력 +1\n[WinDuel] [Sinking] 횟수 2 증가",
+    "context": "EN :\n<style=\"highlight\">At 10+ [BulletLament], Clash Power +1</style>\nIf the sum of the target's [Sinking] and both [SinkingWhite] is 6 or higher, Coin Power +1\n[WinDuel] Inflict +2 [Sinking] Count\nJP :\n<style=\"highlight\">保有した[BulletLament]が10以上なら、マッチ威力 +1</style>\n対象の[Sinking]と全ての[SinkingWhite]の合計が6以上なら、コイン威力 +1\n[WinDuel] [Sinking]回数が2増加"
+  },
+  {
+    "key": "1011001-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[BulletLament] 1 소모",
+    "context": "EN :\nConsume 1 of [BulletLament]\nJP :\n[BulletLament]を1消耗"
+  },
+  {
+    "key": "1011001-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011001-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[BulletLament] 1 소모",
+    "context": "EN :\nConsume 1 of [BulletLament]\nJP :\n[BulletLament]を1消耗"
+  },
+  {
+    "key": "1011001-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011002-levelList$[0].name",
+    "original": "남은자에게 엄숙한 애도를",
+    "context": "EN :\nSolemn Lament for the Living\nJP :\n残りし者へ厳粛な哀悼を"
+  },
+  {
+    "key": "1011002-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[BulletLament] 5 소모",
+    "context": "EN :\nConsume 5 of [BulletLament]\nJP :\n[BulletLament]を5消耗"
+  },
+  {
+    "key": "1011002-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011002-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[BulletLament] 1 소모",
+    "context": "EN :\nConsume 1 of [BulletLament]\nJP :\n[BulletLament]を1消耗"
+  },
+  {
+    "key": "1011002-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011002-levelList$[1].name",
+    "original": "남은자에게 엄숙한 애도를",
+    "context": "EN :\nSolemn Lament for the Living\nJP :\n残りし者へ厳粛な哀悼を"
+  },
+  {
+    "key": "1011002-levelList$[1].desc",
+    "original": "대상의 [Sinking]과 모든 [SinkingWhite]의 합이 6 이상이면, 코인 위력 +1\n[WinDuel] [Sinking] 횟수 1 증가\n[EndSkill] 최대 공명 수만큼 [BulletLament]를 얻음 (최대 6)\n- 해당 공명이 완전 공명이면, (최대 공명 수 x 2)만큼 얻음 (최대 12)",
+    "context": "EN :\nIf the sum of the target's [Sinking] and both [SinkingWhite] is 6 or higher, Coin Power +1\n[WinDuel] Inflict +1 [Sinking] Count\n[EndSkill] Gain (highest Reson.) of [BulletLament] (max 6)\n- If the said Reson. was an A-Reson., gain (highest Reson. x 2) of [BulletLament] (max 12)\nJP :\n対象の[Sinking]と全ての[SinkingWhite]の合計が6以上なら、コイン威力 +1\n[WinDuel] [Sinking]回数が1増加\n[EndSkill] 最大共鳴数だけ[BulletLament]を得る(最大6)\n- 該当共鳴が完全共鳴なら、(最大共鳴数 × 2)だけ得る(最大12)"
+  },
+  {
+    "key": "1011002-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[BulletLament] 5 소모",
+    "context": "EN :\nConsume 5 of [BulletLament]\nJP :\n[BulletLament]を5消耗"
+  },
+  {
+    "key": "1011002-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011002-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[BulletLament] 1 소모",
+    "context": "EN :\nConsume 1 of [BulletLament]\nJP :\n[BulletLament]を1消耗"
+  },
+  {
+    "key": "1011002-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011002-levelList$[2].name",
+    "original": "남은자에게 엄숙한 애도를",
+    "context": "EN :\nSolemn Lament for the Living\nJP :\n残りし者へ厳粛な哀悼を"
+  },
+  {
+    "key": "1011002-levelList$[2].desc",
+    "original": "보유한 [BulletLament]가 10 이상이면, 합 위력 +1\n대상의 [Sinking]과 모든 [SinkingWhite]의 <style=\"highlight\">합 6 당, 코인 위력 +1(최대 2)</style>\n[WinDuel] [Sinking] 횟수 1 증가\n[EndSkill] 최대 공명 수만큼 [BulletLament]를 얻음 (최대 6)\n- 해당 공명이 완전 공명이면, (최대 공명 수 x 2)만큼 얻음 (최대 12)\n- 해당 공명이 완전 공명 4 이상이면, 대신 [ReloadLament]",
+    "context": "EN :\nAt 10+ [BulletLament], Clash Power +1\n<style=\"highlight\">Coin Power +1 for every 6 value</style> of the sum of the target's [Sinking] and both [SinkingWhite] <style=\"highlight\">(max 2)</style>\n[WinDuel] Inflict +1 [Sinking] Count\n[EndSkill] Gain (highest Reson.) of [BulletLament] (max 6)\n- If the said Reson. was an A-Reson., gain (highest Reson. x 2) of [BulletLament] (max 12)\n- If the said Reson. was at 4+ A-Reson., [ReloadLament] instead\nJP :\n保有した[BulletLament]が10以上なら、マッチ威力 +1\n対象の[Sinking]と全ての[SinkingWhite]の<style=\"highlight\">合計6につき、コイン威力 +1(最大2)</style>\n[WinDuel] [Sinking]回数が1増加\n[EndSkill] 最大共鳴数だけ[BulletLament]を得る(最大6)\n- 該当共鳴が完全共鳴なら、(最大共鳴数 × 2)だけ得る(最大12)\n- 該当共鳴が完全共鳴4以上なら、代わりに[ReloadLament]"
+  },
+  {
+    "key": "1011002-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[BulletLament] 5 소모",
+    "context": "EN :\nConsume 5 of [BulletLament]\nJP :\n[BulletLament]を5消耗"
+  },
+  {
+    "key": "1011002-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011002-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[BulletLament] 1 소모",
+    "context": "EN :\nConsume 1 of [BulletLament]\nJP :\n[BulletLament]を1消耗"
+  },
+  {
+    "key": "1011002-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011003-levelList$[0].name",
+    "original": "이상으로 장례는 이상이오",
+    "context": "EN :\nGoodbye Now, A Sorrow In You\nJP :\n葬儀はイサンより、以上。"
+  },
+  {
+    "key": "1011003-levelList$[0].desc",
+    "original": "보유한 [BulletLament] 10마다, 기본 위력 +1 (최대 2)\n[WinDuel] [Sinking] 횟수 3 증가\n[EndSkill] [ReloadLament]",
+    "context": "EN :\nBase Power +1 for every 10 value of [BulletLament] (max 2)\n[WinDuel] Inflict +3 [Sinking] Count\n[EndSkill] [ReloadLament]\nJP :\n保有した[BulletLament]10につき、基本威力 +1(最大2)\n[WinDuel] [Sinking]回数が3増加\n[EndSkill] [ReloadLament]"
+  },
+  {
+    "key": "1011003-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[BulletLament] 1 소모",
+    "context": "EN :\nConsume 1 of [BulletLament]\nJP :\n[BulletLament]を1消耗"
+  },
+  {
+    "key": "1011003-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011003-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[BulletLament] 6 소모",
+    "context": "EN :\nConsume 6 of [BulletLament]\nJP :\n[BulletLament]を6消耗"
+  },
+  {
+    "key": "1011003-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011003-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "보유한 [BulletLament] 전부 소모",
+    "context": "EN :\nConsume all of [BulletLament] on self\nJP :\n保有した[BulletLament]を全て消耗"
+  },
+  {
+    "key": "1011003-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011003-levelList$[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 이 스킬에서 소모한 [BulletLament] 1당 피해량 +2%",
+    "context": "EN :\n[OnSucceedAttack] Deal +2% more damage for every value of [BulletLament] consumed by this Skill\nJP :\n[OnSucceedAttack] このスキルで消耗した[BulletLament]1につきダメージ量 +2%"
+  },
+  {
+    "key": "1011003-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 모든 [SinkingWhite]만큼 우울 피해\n- 산나비와 죽은나비의 합으로 계산",
+    "context": "EN :\n[OnSucceedAttack] Inflict Gloom damage equal to \"All\" [SinkingWhite] on the target\n- \"All\" = the sum of both The Living and The Departed on the target\nJP :\n[OnSucceedAttack] 対象の全ての[SinkingWhite]だけ憂鬱ダメージ\n- 生きた蝶と死んだ蝶の合計で計算"
+  },
+  {
+    "key": "1011003-levelList$[1].name",
+    "original": "이상으로 장례는 이상이오",
+    "context": "EN :\nGoodbye Now, A Sorrow In You\nJP :\n葬儀はイサンより、以上。"
+  },
+  {
+    "key": "1011003-levelList$[1].desc",
+    "original": "보유한 [BulletLament] <style=\"highlight\">5</style> 마다 기본 위력 +1 <style=\"highlight\">(최대 4)</style>\n대상의 [Sinking]과 모든 [SinkingWhite]의 합 6당, 코인 위력 +1 (최대 2)\n[WinDuel] [Sinking] 횟수 3 증가\n[EndSkill] [ReloadLament]",
+    "context": "EN :\nBase Power +1 for every <style=\"highlight\">5</style> value of [BulletLament] <style=\"highlight\">(max 4)</style>\nCoin Power +1 for every 6 value of the sum of the target's [Sinking] and both [SinkingWhite] (max 2)\n[WinDuel] Inflict +3 [Sinking] Count\n[EndSkill] [ReloadLament]\nJP :\n保有した[BulletLament]<style=\"highlight\">5</style>につき、基本威力 +1<style=\"highlight\">(最大4)</style>\n対象の[Sinking]と全ての[SinkingWhite]の合計6につき、コイン威力 +1(最大2)\n[WinDuel] [Sinking]回数が3増加\n[EndSkill] [ReloadLament]"
+  },
+  {
+    "key": "1011003-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[BulletLament] 1 소모",
+    "context": "EN :\nConsume 1 of [BulletLament]\nJP :\n[BulletLament]を1消耗"
+  },
+  {
+    "key": "1011003-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011003-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[BulletLament] 6 소모",
+    "context": "EN :\nConsume 6 of [BulletLament]\nJP :\n[BulletLament]を6消耗"
+  },
+  {
+    "key": "1011003-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011003-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "보유한 [BulletLament] 전부 소모",
+    "context": "EN :\nConsume all of [BulletLament] on self\nJP :\n保有した[BulletLament]を全て消耗"
+  },
+  {
+    "key": "1011003-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 소모한 [BulletLament]만큼 [SinkingWhite] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [SinkingWhite] equal to [BulletLament] consumed\nJP :\n[OnSucceedAttack] 消耗した[BulletLament]だけ[SinkingWhite]を付与"
+  },
+  {
+    "key": "1011003-levelList$[1].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 이 스킬에서 소모한 [BulletLament] 1당 피해량 +4%",
+    "context": "EN :\n[OnSucceedAttack] Deal +4% more damage for every value of [BulletLament] consumed by this Skill\nJP :\n[OnSucceedAttack] このスキルで消耗した[BulletLament]1につきダメージ量 +4%"
+  },
+  {
+    "key": "1011003-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 모든 [SinkingWhite]만큼 우울 피해\n- 산나비와 죽은나비의 합으로 계산",
+    "context": "EN :\n[OnSucceedAttack] Inflict Gloom damage equal to \"All\" [SinkingWhite] on the target\n- \"All\" = the sum of both The Living and The Departed on the target\nJP :\n[OnSucceedAttack] 対象の全ての[SinkingWhite]だけ憂鬱ダメージ\n- 生きた蝶と死んだ蝶の合計で計算"
+  },
+  {
+    "key": "1011004-levelList$[0].name",
+    "original": "관에서나비가날아오리라",
+    "context": "EN :\nFromTheCoffinAButterflyTakesFlight\nJP :\n棺より蝶が翔び来む"
+  },
+  {
+    "key": "1011004-levelList$[0].desc",
+    "original": "[StartBattle] [ReloadLament] (턴 당 1회)",
+    "context": "EN :\n[StartBattle] [ReloadLament] (once per turn)\nJP :\n[StartBattle] [ReloadLament] (1ターンにつき1回)"
+  },
+  {
+    "key": "1011004-levelList$[1].name",
+    "original": "관에서나비가날아오리라",
+    "context": "EN :\nFromTheCoffinAButterflyTakesFlight\nJP :\n棺より蝶が翔び来む"
+  },
+  {
+    "key": "1011004-levelList$[1].desc",
+    "original": "[StartBattle] [ReloadLament] (턴 당 1회)\n[StartBattle] 최대 체력의 (지정한 대상의 모든 [SinkingWhite])% 만큼 보호막을 얻음. (턴 당 최대 20%)",
+    "context": "EN :\n[StartBattle] [ReloadLament] (once per turn)\n[StartBattle] Gain Shield equal to (the sum of both [SinkingWhite] on the selected target)% HP. (max 20% per turn)\nJP :\n[StartBattle] [ReloadLament] (1ターンにつき1回)\n[StartBattle] 体力最大値の(指定対象の全ての[SinkingWhite])%だけバリアを得る。(1ターンにつき最大20%)"
+  }
+]

@@ -1,0 +1,575 @@
+[
+  {
+    "key": "0-place",
+    "original": "워더링하이츠 지하실",
+    "context": "EN :\nWuthering Heights Basement\nJP :\nワザリング・ハイツ 地下室"
+  },
+  {
+    "key": "0-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "0-content",
+    "original": "히스클리프!",
+    "context": "EN :\nHeathcliff!\nJP :\nヒースクリフ！"
+  },
+  {
+    "key": "1-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "1-content",
+    "original": "쯧… 재미있어질 참에.",
+    "context": "EN :\nTsk... and it was just starting to get interesting.\nJP :\nチッ…面白くなってったのに。"
+  },
+  {
+    "key": "2-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "2-content",
+    "original": "<…어떻게 할 셈이야, 히스클리프?>",
+    "context": "EN :\n<... What are you going to do, Heathcliff?!>\nJP :\n<…どうするつもり、ヒースクリフ？>"
+  },
+  {
+    "key": "3-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "3-content",
+    "original": "당연하잖아. 캐시를 꺼낼 거야. 저 관인지 실험 장치인지 모를 기계 속에서…",
+    "context": "EN :\nObvious, innit? I'm going to get Cathy out of there. Out of that experiment pod, a machine, a coffin... whatever it is.\nJP :\n分かるだろ。キャシーを出してやるんだ。\nあの棺か試験装置か分からねぇ機械の中から…。"
+  },
+  {
+    "key": "4-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "4-content",
+    "original": "<하지만…>",
+    "context": "EN :\n<But what about...>\nJP :\n<でも…。>"
+  },
+  {
+    "key": "5-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "5-content",
+    "original": "여기 실험관에 있는 사람들은 어떡할 거냐는 헛소리가…",
+    "context": "EN :\nBut what about all those people in the glass pods...?\nJP :\nここの試験管にいる人たちがどうなるかって戯言が…。"
+  },
+  {
+    "key": "6-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "6-content",
+    "original": "나한테 들어 먹힐 거라고 생각하진 마라.",
+    "context": "EN :\n... Don't think you can stop me with your meaningless pleas.\nJP :\nオレに通じるって思うなよ。"
+  },
+  {
+    "key": "7-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "7-content",
+    "original": "내가 어떻게 되어 먹은 놈인진, 그리고 얼마나 참아왔을지 이쯤 되면 알만 하잖아.",
+    "context": "EN :\nYou already know what a heartless bastard I am. You know how much I've been waiting for this moment.\nJP :\nオレがどういう野郎か、そしてどれだけ耐えてきたか\nそろそろ分かってきても良い頃だろ。"
+  },
+  {
+    "key": "8-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "8-content",
+    "original": "히스클리프…",
+    "context": "EN :\nHeathcliff...\nJP :\nヒースクリフ…。"
+  },
+  {
+    "key": "9-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "9-content",
+    "original": "자, 잠시만요. 잘 찾아보면 동력을 멈출 수 있는 방법이 있을 거예요.",
+    "context": "EN :\nW-wait. Give us some time. There has to be a way to shut down the power supply.\nJP :\nま、待ってください。\nよく探せば動力を止められる方法があるはずです。"
+  },
+  {
+    "key": "10-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10-content",
+    "original": "그런 다음에 이 관에 달린 황금가지를 습득한 후에…",
+    "context": "EN :\nThen we'll pick up the Golden Bough from this coffin, then—\nJP :\nそうしてからこの棺についてる黄金の枝を取得して…。"
+  },
+  {
+    "key": "11-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "11-content",
+    "original": "…설명하려 들지 마. 그걸로 날 설득할 수 있을 거라고 생각하냐?",
+    "context": "EN :\nDON'T! Don't lecture me! Don't you even try. Do you really think you can change my mind?\nJP :\n…講釈垂れんな！\nそれでオレが説得できるとでも思ってんのか？"
+  },
+  {
+    "key": "12-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "12-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "13-content",
+    "original": "…어쩌면 버스에서 말한, 머리를 깨서라도 막아야 할 때가 지금은 아닐까.",
+    "context": "EN :\n... Maybe this is the time to beat the sense back into him, like we discussed earlier on the bus.\nJP :\n…もしかするとバスで言ってた、頭をかち割ってでも\n止めるべきときというのは今じゃないだろうか。"
+  },
+  {
+    "key": "14-content",
+    "original": "그런 생각을 하고 있을 때…",
+    "context": "EN :\nAnd that's when...\nJP :\nそう思い始めたとき…。"
+  },
+  {
+    "key": "15-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "15-content",
+    "original": "그래… 너희도 결국 이 집안을 털어먹으러 온 강도들이라는 거지…",
+    "context": "EN :\nI knew it... You were all nothing but a band of thieves, eh...? Coming to pilfer my home...\nJP :\nそうか…おめぇらも結局\nこの家をぶんどりに来た強盗だってことか…。"
+  },
+  {
+    "key": "16-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "16-content",
+    "original": "힌들리 씨…!",
+    "context": "EN :\nMister Hindley...!\nJP :\nヒンドリーさん…！"
+  },
+  {
+    "key": "17-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "17-content",
+    "original": "당신, 데드레빗츠들한테 무슨 짓을 시키고 다니는 거예요?",
+    "context": "EN :\nYou. What order did you give to the Dead Rabbits?\nJP :\nあなた、デッドラビッツたちに何をさせてるんですか？"
+  },
+  {
+    "key": "18-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "18-content",
+    "original": "…형님.",
+    "context": "EN :\n... Boss.\nJP :\n…アニキ。"
+  },
+  {
+    "key": "19-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "19-content",
+    "original": "지금까지 어디 있었어? 데드레빗츠들이 어떤 꼬라지로 돌아다니는 줄 알아?",
+    "context": "EN :\nWhere have you been this whole time? Do you even have any idea the state the Dead Rabbits are in?\nJP :\n今までどこにいたんだ？デッドラビッツがどういうツラして\nほっつき回ってっか知ってんのか？"
+  },
+  {
+    "key": "20-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "20-content",
+    "original": "심지어 이상한 말도 들었어. 데드레빗츠들이 오래전에…",
+    "context": "EN :\nNot to mention the rumor I heard. They said that the Dead Rabbits were long—\nJP :\nそれに変なことも聞いたんだ。\nデッドラビッツたちはとうの昔に…。"
+  },
+  {
+    "key": "21-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "21-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "21-content",
+    "original": "워. 진정해, 히스클리프.",
+    "context": "EN :\nWoah, Heathcliff. Take it easy, lad.\nJP :\nまぁまぁ～。落ち着けって、ヒースクリフ。"
+  },
+  {
+    "key": "22-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "22-content",
+    "original": "이건 내 집이었어. 빌어먹을…",
+    "context": "EN :\nThis was my home, dammit...\nJP :\nこれは俺の家だった！\nちくしょうが…。"
+  },
+  {
+    "key": "23-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "23-content",
+    "original": "거의 다 이긴 게임이었는데 그 망할 새끼가 갑자기 그 패를 내지만 않았어도…",
+    "context": "EN :\nI nearly had that game. It was mine! If only that bloody bastard hadn't gotten that card...\nJP :\nほぼ勝ちのゲームだったのに、\nあのクソ野郎があの札さえ出さなきゃ…。"
+  },
+  {
+    "key": "24-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "24-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "24-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "24-content",
+    "original": "하지만 힌들리 씨…",
+    "context": "EN :\nBut... Mister Hindley.\nJP :\nでもヒンドリーさんよぉ…。"
+  },
+  {
+    "key": "25-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "25-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "25-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "25-content",
+    "original": "이런 문제는 좀 더 깊이 생각해 봐야 한다고 제가 말씀드렸지 않습니까.",
+    "context": "EN :\nI did advise you that such problems require a deeper consideration.\nJP :\nこういう問題はもっと深く考えてみるべきだと\nオレが申し上げたじゃないですかぁ。"
+  },
+  {
+    "key": "26-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "26-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "26-content",
+    "original": "인생이 갑자기 유별나게 틀어지고 있다 싶으면…",
+    "context": "EN :\nWhen everything suddenly starts going wrong in your life...\nJP :\n人生が急にえらくねじ曲がってるなと思ったら…。"
+  },
+  {
+    "key": "27-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "27-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "27-content",
+    "original": "분명 그 원인이 어딘가에 몰래 숨죽인 채로 처박혀 있을 거라고.",
+    "context": "EN :\n... the cause has got to be lurkin' somewhere, hidin' out of your sight.\nJP :\nきっとその原因がひっそり息を殺しながら潜んでるって。"
+  },
+  {
+    "key": "28-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "28-content",
+    "original": "…맞아. 곰곰이 생각해 봤지.",
+    "context": "EN :\n... Right. I've given it some thought.\nJP :\n…そうだ。何度も考えてみたさ。"
+  },
+  {
+    "key": "29-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "29-content",
+    "original": "언제, 어디서부터 잘못되었는지.",
+    "context": "EN :\nI've given some thought to when or where everything went wrong.\nJP :\nいつ、どこから間違っていたか。"
+  },
+  {
+    "key": "30-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "30-content",
+    "original": "처음부터 잘못 끼워진 단추… 그 하나 때문에…",
+    "context": "EN :\nAnd I see it now. The cause of all this misery...\nJP :\n最初から掛け違えたボタン…一つのせいで…。"
+  },
+  {
+    "key": "31-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "31-content",
+    "original": "모든 게 틀어진 거였어.",
+    "context": "EN :\nIt's because of that thing that everything went wrong.\nJP :\n全てがねじ曲がったんだ。"
+  },
+  {
+    "key": "32-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "32-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "33-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "33-content",
+    "original": "그날… 바람이 뒤지도록 많이 불던 겨울.",
+    "context": "EN :\nThat day... that one bloody windy winter night.\nJP :\nあの日…風が死ぬほど吹いてた冬。"
+  },
+  {
+    "key": "34-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "34-content",
+    "original": "웬 거렁뱅이 자식이, 부서진 바이올린 조각들과 함께 내 앞에 나타났을 때부터.",
+    "context": "EN :\nWhen some lowlife, vagrant child arrived at my home, before my eyes, with the broken pieces of my violin.\nJP :\n乞食なんかが、壊れたヴァイオリンの欠片と共に\n俺の前に現れたときから。"
+  },
+  {
+    "key": "35-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "35-content",
+    "original": "그게 내 잘못 꿰어진 단추였어.",
+    "context": "EN :\nThat's when everything went wrong.\nJP :\nそれが俺の閉め間違えたボタンだった。"
+  },
+  {
+    "key": "36-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "36-content",
+    "original": "그때 그 놈은 길바닥에서 그냥 얼어 죽어버렸어야 했지.",
+    "context": "EN :\nHe should've died that day. Succumbed to frostbite, all alone...\nJP :\nあのとき、あいつは道端で凍死すべきだったんだ。"
+  },
+  {
+    "key": "37-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "37-content",
+    "original": "어떤 색깔도 없는 그 뒷골목에서…",
+    "context": "EN :\n... in some colourless Backstreets shithole.\nJP :\n何の色も無い、あの裏路地で…。"
+  },
+  {
+    "key": "38-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "38-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "38-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "38-content",
+    "original": "…진정하세요, 힌들리 씨.",
+    "context": "EN :\n... Calm yourself, Mister Hindley.\nJP :\n…落ち着いて下さいって、ヒンドリーさん。"
+  },
+  {
+    "key": "39-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "39-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "39-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "39-content",
+    "original": "제 부하들도 별로 없는 이 상황에서 저들이랑 괜스레 싸움만 부딪히면 좋을 게 없단 말입니다.",
+    "context": "EN :\nI've got to tell ya that I am runnin' rather low on manpower. There is no need to waste our strength against 'em.\nJP :\nオレの部下たちもあんま残ってない状況でアイツらと\n無闇にぶつかっても良いことないですよ。"
+  },
+  {
+    "key": "40-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "40-content",
+    "original": "아니! 나 정도면…!",
+    "context": "EN :\nNo! I can handle them! I'll have you know that I—\nJP :\nいや！俺なら…！"
+  },
+  {
+    "key": "41-model",
+    "original": "데드레빗츠보스",
+    "translation": "死兔帮老大",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "41-teller",
+    "original": "데드레빗츠 보스",
+    "context": "EN :\nDead Rabbits Boss\nJP :\nデッドラビッツ ボス"
+  },
+  {
+    "key": "41-title",
+    "original": "T사 갱단",
+    "context": "EN :\nT Corp. Gang\nJP :\nT社ギャング"
+  },
+  {
+    "key": "41-content",
+    "original": "설사, 당신이 과거에 육체 시술을 받았고, 아버지에 의해 기숙학교로 보내진 뒤 전투에 대한 훈련을 받았다고 해도요.",
+    "context": "EN :\n—have gone through several augmentation procedures and was sent to a boarding school by your father where you learned how to fight?\nJP :\nたとえ、あんたが過去に肉体施術を受けて、父親のせいで寄宿学校に\n送られて戦闘に関する訓練を受けたとしてもですよ。"
+  },
+  {
+    "key": "42-content",
+    "original": "힌들리는 말하려던 것을 빼앗겼다는 듯 힐난의 표정으로 매튜를 바라보다가, 피식하고 웃어 보였다.",
+    "context": "EN :\nHindley glared at Matthew with a look of reproach for a moment, as though he was about to lash out at him for cutting his sentence short... then scoffed.\nJP :\nヒンドリーは台詞を奪われたかのように\n苦情を言いたげな顔でマシューをしばらく見つめると、ニヤリと笑った。"
+  },
+  {
+    "key": "43-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "43-content",
+    "original": "하아… 난… 이 저택의 주인이었던 몸이야. 네놈들 같이 저택을 노리고 기어들어 온 잡배들이랑은 다르지.",
+    "context": "EN :\nHaah... I was once... the master of this manor. Not like you lowlife hooligans who crawled in here, looking to reave what does not belong to you.\nJP :\nはぁ…俺は…この邸宅のご主人様だった。てめぇら邸宅を狙って\n忍び込んでくる雑輩(ざっぱい)どもとは違うさ。"
+  },
+  {
+    "key": "44-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "44-content",
+    "original": "너희들은 내 뒤에나 붙어있던가.",
+    "context": "EN :\nStay out of my way, then.\nJP :\nお前らは俺の後ろについてれば良いだろ。"
+  },
+  {
+    "key": "45-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "45-content",
+    "original": "저 새끼는 내가 죽여버려야 하니까 말이야… 진작에 그랬어야 했는데.",
+    "context": "EN :\nI'm going to kill that mangy dog... I should've killed him when I had the chance.\nJP :\nあの野郎は俺が殺すべきだからな…。\nとっくのとうに、そうすべきだったってのに。"
+  }
+]

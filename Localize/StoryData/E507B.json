@@ -1,0 +1,506 @@
+[
+  {
+    "key": "1-place",
+    "original": "선물 공장 집하 라인",
+    "context": "EN :\nGift Factory Collection Line\nJP :\nプレゼント工場 集荷ライン"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<안에서 무슨 소리가 들리는 것 같은데?>",
+    "context": "EN :\n<I think I'm hearing some odd noise from in there.>\nJP :\n<なんか、中から音が聞こえて来ない？>"
+  },
+  {
+    "key": "2-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "2-content",
+    "original": "후훗, 비. 소. 인가. 꽤 고역의 음이군. 즐거운 일이 벌어지고 있다는 뜻이다. ",
+    "context": "EN :\nHeh. A rather high-pitched S.O.S. It's always a good indicator of wonderful happenings.\nJP :\nふっ、サ・ビか。かなり高音域だな。\n楽しいことが繰り広げられているという意味だ。"
+  },
+  {
+    "key": "3-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "3-content",
+    "original": "비명소리가 들리는 데 웃을 일이냐고요…!",
+    "context": "EN :\nCan you not giggle about sounds of screaming, please...?!\nJP :\n悲鳴の声が聞こえているっていうのに笑ってる場合ですか…！"
+  },
+  {
+    "key": "4-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "4-content",
+    "original": "익숙한 높낮이다. 이 정도의 데시벨은 돈키호테의 고함소리와 일치한다.",
+    "context": "EN :\nI am familiar with this tone. The decibel range of this screaming is an exact match with Don Quixote's.\nJP :\n聞き慣れたイントネーションだ。\nこの程度のデシベルはドンキホーテの大声と一致する。"
+  },
+  {
+    "key": "6-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "6-content",
+    "original": "잠깐. 아직 전투 구역의 위험 정도가 파악되지 않았다. 저 안은 폐쇄적인 공간인 것 같으니…",
+    "context": "EN :\nWait. We have yet to conduct a threat assessment of the combat area. That area appears to be a closed-off space, which means—\nJP :\n待て。戦闘区域の危険度はまだ把握できていない。\nあの中は閉鎖的な空間のようであるから…。"
+  },
+  {
+    "key": "7-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "7-content",
+    "original": "그대, 히스클리프 군이 있었다면 이런 소리를 할 것 같소.",
+    "context": "EN :\nOutis. Were Heathcliff with us, he would have said as such.\nJP :\nそなた、ヒースクリフ君がここにあらば\nかかることを言うと思う。"
+  },
+  {
+    "key": "8-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "8-content",
+    "original": "뭐지?",
+    "context": "EN :\nSaid what?\nJP :\n何だ？"
+  },
+  {
+    "key": "9-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "9-content",
+    "original": "<나, 알 것 같은데.>",
+    "context": "EN :\n<I think I know.>\nJP :\n<オレ、分かったかも。>"
+  },
+  {
+    "key": "10-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "10-content",
+    "original": "<답답해 죽겠네, 일단 눈에 보이는 연장들 챙겨서 튀어 들어가!>",
+    "context": "EN :\n<How bloody frustrating. Quit whinging, pick up your tools, and get crackin'!>\nJP :\n<焦れったくてたまんねぇな、とりあえず武器持って突っ込んでけ！>"
+  },
+  {
+    "key": "11-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "11-content",
+    "original": "훗, 제법 웃기네요.",
+    "context": "EN :\nHeh, that was pretty close.\nJP :\nふふっ、中々面白いですね。"
+  },
+  {
+    "key": "12-content",
+    "original": "이스마엘이 이내 문을 힘차게 발로 차서 열어젖혔다.",
+    "context": "EN :\nIshmael soon blasted the door open with a powerful kick.\nJP :\nイシュメールがすぐにドアを力強く蹴り開けた。"
+  },
+  {
+    "key": "13-content",
+    "original": "한편…",
+    "context": "EN :\nMeanwhile...\nJP :\n一方で…。"
+  },
+  {
+    "key": "14-place",
+    "original": "선물 제작소",
+    "context": "EN :\nGift Assembly\nJP :\nプレゼント製作所"
+  },
+  {
+    "key": "14-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "14-content",
+    "original": "으아아악! 여긴 대체 뭐야?! 나는 왜 묶여 있는 건데?!",
+    "context": "EN :\nAAAHHH! Where the bloody hell are we?! Why am I tied up?!\nJP :\nうわぁあああっ！一体ここは何だよ！？\nどうしてオレは縛られてんだ！？"
+  },
+  {
+    "key": "15-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "15-content",
+    "original": "미안하네… 우린 아무래도 망한 것 같네…",
+    "context": "EN :\nI regretfully say unto thee, that we are... quite screwed...\nJP :\n申しわけない…私たち、どうやら一巻の終わりのようだ…。"
+  },
+  {
+    "key": "16-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "16-content",
+    "original": "필시 우리는 저기 저 프레스 기계 속에서 장난감이 되어버릴 운명인 것이오…",
+    "context": "EN :\nForsooth, we are fated to become toys in that hydraulic press...\nJP :\nきっと私たちは、あそこのプレス機の中で\nおもちゃになってしまう運命なのである…。"
+  },
+  {
+    "key": "17-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "17-content",
+    "original": "본인은 저 오뚝이 인형이 되어버리는 것 같네… 넘어져도 다시 일어나는… 크흡… ",
+    "context": "EN :\nIt appears that, when the time cometh, I shall be turned into a roly-poly toy myself... That riseth with every fall... Agh...\nJP :\n当人はあの起き上がりこぼしになってしまうようである…。\n倒れても再び起き上がる…ウッ…。"
+  },
+  {
+    "key": "18-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "18-content",
+    "original": "야! 이상한 소리 그만하고 이것 좀 어떻게 풀어봐!",
+    "context": "EN :\nOi! Shut your trap and do something! We've got to get out of these binds!\nJP :\nおい！変なこと言うのはやめて\n何とかしてコレ解けよ！"
+  },
+  {
+    "key": "19-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "19-content",
+    "original": "히스클리프 군, 정말 미안하네…! 본인이 비록 붉은주머니 코스프레 복장을 얻고 싶었던 마음이 아주 조금은 있었소… 허나…",
+    "context": "EN :\nSir Heathcliff, I apologize profusely...! 'Tis true that there was the tiniest bit of selfishness within me that I wished to procure the Red Sack cosplay set for myself... However...\nJP :\nヒースクリフ君、本当に申し訳ないのである…！当人は赤い袋のコスプレ衣装を\n手に入れたい気持ちがほーーんの少しはあったのだ…しかし…。"
+  },
+  {
+    "key": "20-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "20-content",
+    "original": "자네의 멋진 옷을 구해주려고 했던 것 또한 내 진심이었네!",
+    "context": "EN :\n... 'twas no lie that I wished to find thee an impeccable outfit!\nJP :\nそなたの格好いい服を準備したいというのもまた\n私の本心であったのだ！"
+  },
+  {
+    "key": "21-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "21-content",
+    "original": "이 새끼, 내가 그럴 줄 알았어. 너 이따가…",
+    "context": "EN :\nYou little shite, I knew that this was going to happen. Once I'm out these binds, I'll...\nJP :\nテメェなぁ、そうだと思ったよ。\n後で覚えて―"
+  },
+  {
+    "key": "22-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "22-content",
+    "original": "흑흑… 그래도 자네는 멋진 회중시계라는 것이 되려는 모양이네…",
+    "context": "EN :\nSob... at least thou shall become an elaborate pocket watch...\nJP :\nしくしく…それでもそなたは格好いい懐中時計というものに\nなるようであるな…。"
+  },
+  {
+    "key": "23-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "23-content",
+    "original": "으…! 여기까지 와서 또 시계야…!",
+    "context": "EN :\nAugh...! Damn clocks, again...?!\nJP :\nうっ…！ここまで来て何でまた時計なんだよ！"
+  },
+  {
+    "key": "24-model",
+    "original": "크레용",
+    "translation": "柯蕾昂",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCrayon\nJP :\nクレヨン"
+  },
+  {
+    "key": "24-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "24-content",
+    "original": "저는… 색연필이 되나 봐요… 흑흑… 색도 24가지나 있대요…",
+    "context": "EN :\nI-I think they're going to turn me into a box of color pencils... Sob... twenty-four vibrant natural colors, or so it says...\nJP :\nわ、私は色鉛筆になるみたいです…しくしく…。\n色は24色もあるみたいです…。"
+  },
+  {
+    "key": "25-model",
+    "original": "빨간노움",
+    "translation": "红色小矮人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "25-teller",
+    "original": "빨간노움",
+    "context": "EN :\nCherry Gnome\nJP :\n赤ノーム"
+  },
+  {
+    "key": "25-title",
+    "original": "선물 공장",
+    "context": "EN :\nGift Factory\nJP :\nプレゼント工場"
+  },
+  {
+    "key": "25-content",
+    "original": "살아 있는 재료는 오랜만에 보는 것 같움!",
+    "context": "EN :\nWe've not seen living raw materials in a while-ome!\nJP :\n生きている材料は久々に見る気がするノム！"
+  },
+  {
+    "key": "26-model",
+    "original": "검은노움",
+    "translation": "黑色小矮人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "검은노움",
+    "context": "EN :\nShadowy Gnome\nJP :\n黒ノーム"
+  },
+  {
+    "key": "26-title",
+    "original": "선물 공장",
+    "context": "EN :\nGift Factory\nJP :\nプレゼント工場"
+  },
+  {
+    "key": "26-content",
+    "original": "근데 조금 귀가 아픈 것 같움. 귀에서 피나는지 봐줄 수 있움?",
+    "context": "EN :\nBut they're a bit loud-ome. Can you see if my ears are bleeding-ome?\nJP :\nでも少し耳が痛い気がするノム。\n耳から血が出てるか見てくれるノムか？"
+  },
+  {
+    "key": "27-model",
+    "original": "초록노움",
+    "translation": "绿色小矮人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "초록노움",
+    "context": "EN :\nLeafy Gnome\nJP :\n緑ノーム"
+  },
+  {
+    "key": "27-title",
+    "original": "선물 공장",
+    "context": "EN :\nGift Factory\nJP :\nプレゼント工場"
+  },
+  {
+    "key": "27-content",
+    "original": "움! 저렇게 악을 쓰는 인간들로 만들어진 선물이어야 받는 놈들이 좋아 죽지 않겠움?",
+    "context": "EN :\nOme! The more they scream, the happier our recipients will be-ome!\nJP :\nウム！あんな風に声を張り上げる人間で作られたプレゼントなら、\nもらうヤツらが死ぬほど嬉しくなるんじゃないかノム？"
+  },
+  {
+    "key": "28-model",
+    "original": "빨간노움",
+    "translation": "红色小矮人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "빨간노움",
+    "context": "EN :\nCherry Gnome\nJP :\n赤ノーム"
+  },
+  {
+    "key": "28-title",
+    "original": "선물 공장",
+    "context": "EN :\nGift Factory\nJP :\nプレゼント工場"
+  },
+  {
+    "key": "28-content",
+    "original": "움움! 자, 그럼 손질을 시작해 볼까움?",
+    "context": "EN :\nOme, ome! Then let's get cutting-ome!\nJP :\nウムウム！じゃあ、今から下ごしらえをするノムか？"
+  },
+  {
+    "key": "29-content",
+    "original": "쾅!",
+    "context": "EN :\nBoom!\nJP :\nドン！"
+  },
+  {
+    "key": "30-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "30-content",
+    "original": "히스클리프 씨, 돈키호테 씨! 다행이다, 아직 선물이 되지 않으셨네요!",
+    "context": "EN :\nHeathcliff! Don Quixote! Ah, what a relief...! They've not been turned into gifts yet!\nJP :\nヒースクリフさん、ドンキホーテさん！\nよかった、まだプレゼントになってないんですね！"
+  },
+  {
+    "key": "31-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "31-content",
+    "original": "휘유. 꽤 코지한 분위기군.",
+    "context": "EN :\n*Whistle* Quite cozy in here.\nJP :\nふぅ。かなりコーズィーな雰囲気だな。"
+  },
+  {
+    "key": "32-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "32-content",
+    "original": "모두들…!",
+    "context": "EN :\nEveryone...!\nJP :\n皆の者…！"
+  },
+  {
+    "key": "33-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "33-content",
+    "original": "어, 어떻게…",
+    "context": "EN :\nH-how...\nJP :\nど、どうやって…。"
+  },
+  {
+    "key": "34-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "34-content",
+    "original": "<구하러 왔어, 히스클리프.>",
+    "context": "EN :\n<We're here for you, Heathcliff.>\nJP :\n<助けに来たよ、ヒースクリフ。>"
+  },
+  {
+    "key": "35-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "35-content",
+    "original": "시계 대가리…!",
+    "context": "EN :\nClockhead...!\nJP :\n時計ヅラ…！"
+  },
+  {
+    "key": "36-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "36-content",
+    "original": "젠장, 이렇게 반가울 줄이야…",
+    "context": "EN :\nDamnit, didn't think I'd ever be this glad to see your mug...\nJP :\nクソッ、こんなに嬉しいだなんてな…。"
+  },
+  {
+    "key": "37-content",
+    "original": "히스클리프는 쾅쾅거리며 선물을 찍어내고 있던 프레스 기계에 들어가기 직전이었던 것 같다.",
+    "context": "EN :\nLooks like we got here in the nick of time. Heathcliff was about to be shoved into the gift-making hydraulic machine press.\nJP :\nヒースクリフはガンガンと音を立てながらプレゼントを作っていた\nプレス機に入る直前だった模様だ。"
+  },
+  {
+    "key": "38-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "38-content",
+    "original": "자아, 내 밧줄을 끊었소. 이리 내려오시게!",
+    "context": "EN :\nI have hewn your straps. Descend!\nJP :\nさぁ、縄を切りき。こなたへ降りきたまえ！"
+  },
+  {
+    "key": "39-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "39-content",
+    "original": "음… 내가 말이지, 이런 말은 잘 안하는 성격인데… 시계가 되지 않게 해줘서 고…",
+    "context": "EN :\nLook. I'm not the type to wear my heart on my sleeve. But after you lot saved me from getting turned into a pocket watch, I have to say it. Tha—\nJP :\nうーん…オレってな、こんな言葉はあんま言わないタチだけどよ…\n時計にならないようにしてくれてあ―"
+  },
+  {
+    "key": "40-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "40-content",
+    "original": "이 머저리들! 관리자님 하나 지키지 못하고 포로나 된 꼴이라니!",
+    "context": "EN :\nYou absolute idiots! You two had ONE job, to remain by the Executive Manager's side! Yet you let yourselves be captured like this?!\nJP :\nこの阿呆ども！管理人様一人すら守れずに捕虜になったとは！"
+  },
+  {
+    "key": "41-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "41-content",
+    "original": "…됐다, 취소할란다.",
+    "context": "EN :\n... You know what? Forget it.\nJP :\n…やっぱいい、キャンセルで。"
+  },
+  {
+    "key": "42-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "42-content",
+    "original": "자, 빨리 정신 차려요. ",
+    "context": "EN :\nRight. Get a hold of yourself, you two.\nJP :\nさあ。早く、しっかりしてください。"
+  },
+  {
+    "key": "43-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "43-content",
+    "original": "관리자님… 이제 어떻게 하실 거죠?",
+    "context": "EN :\nManager... what now?\nJP :\n管理人さん…今からどうするんですか？"
+  },
+  {
+    "key": "44-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "44-content",
+    "original": "<다… 때려 부숴야지. 인격 쓸 준비해.>",
+    "context": "EN :\n<Well... we've got to trash this place. Come on. Get ready to wear your Identities.>\nJP :\n<全部…ぶっ潰さないとね。人格被る準備しといて。>"
+  }
+]

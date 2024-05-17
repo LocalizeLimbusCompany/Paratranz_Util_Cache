@@ -1,0 +1,1577 @@
+[
+  {
+    "key": "810001-levelList$[0].name",
+    "original": "분열하리라",
+    "context": "EN :\nAll Shall Scatter\nJP :\n分裂せよ"
+  },
+  {
+    "key": "810001-levelList$[0].desc",
+    "original": "표식 대상 우선 공격",
+    "context": "EN :\nPrioritizes enemies with Marked\nJP :\n表号 対象を優先して攻撃"
+  },
+  {
+    "key": "810001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 켜진 촛불의 수만큼 정신력 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal SP damage by the number of lit Candles\nJP :\n[OnSucceedAttack] 灯った蝋燭の数だけ精神力ダメージ"
+  },
+  {
+    "key": "810001-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 켜진 촛불의 수만큼 정신력 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal SP damage by the number of lit Candles\nJP :\n[OnSucceedAttack] 灯った蝋燭の数だけ精神力ダメージ"
+  },
+  {
+    "key": "810002-levelList$[0].name",
+    "original": "열망하며...",
+    "context": "EN :\nLonging...\nJP :\n熱望し…"
+  },
+  {
+    "key": "810002-levelList$[0].desc",
+    "original": "표식 대상 우선 공격",
+    "context": "EN :\nPrioritizes enemies with Marked\nJP :\n表号 対象を優先して攻撃"
+  },
+  {
+    "key": "810002-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 분노 취약 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Wrath Fragility next turn\nJP :\n[OnSucceedAttack] 次のターンに憤怒脆弱 1を付与"
+  },
+  {
+    "key": "810002-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 [Combustion]이 있다면, 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has [Combustion], inflict 4 Burn\nJP :\n[OnSucceedAttack] 対象に[Combustion]があれば、火傷 4を付与"
+  },
+  {
+    "key": "810002-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 분노 취약 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Wrath Fragility next turn\nJP :\n[OnSucceedAttack] 次のターンに憤怒脆弱 1を付与"
+  },
+  {
+    "key": "810002-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 [Combustion]이 있다면, 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has [Combustion], inflict 4 Burn\nJP :\n[OnSucceedAttack] 対象に[Combustion]があれば、火傷 4を付与"
+  },
+  {
+    "key": "810003-levelList$[0].name",
+    "original": "9장 2절",
+    "context": "EN :\n9:2\nJP :\n9章2節"
+  },
+  {
+    "key": "810003-levelList$[0].desc",
+    "original": "다음 턴에 모든 촛불을 끔.\n[AaCePcBa]이 있는 대상에게 적중 시 최대 체력의 5%만큼 추가 감소.\n[DefeatDuel] 화상 10 부여. 대상에게 다음 턴에 표식 부여.\n[EndBattle] 모든 촛불 체력 최대치까지 회복",
+    "context": "EN :\nSnuffs out all Candles next turn.\nUpon hitting targets with [AaCePcBa], target loses additional 5% of its max HP.\n[DefeatDuel] Inflict 10 Burn. Inflict target with Marked next turn.\n[EndBattle] All Candles heal to max HP.\nJP :\n次のターンに全ての蝋燭を消す。\n[AaCePcBa]のある対象へ的中時、体力最大値の5%分追加で減少。\n[DefeatDuel] 火傷 10を付与。対象へ次のターンに表号 を付与。\n[EndBattle] 全ての蝋燭 を体力最大値まで回復"
+  },
+  {
+    "key": "810003-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 최대 체력을 10%만큼 감소.",
+    "context": "EN :\n[OnSucceedAttack] Target's max HP decreases by 10%.\nJP :\n[OnSucceedAttack] 対象の体力最大値を10%減少"
+  },
+  {
+    "key": "810003-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 화상 5 부여, 화상 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Burn and +2 Burn Count\nJP :\n[OnSucceedAttack] 火傷 5付与、火傷 回数が2増加"
+  },
+  {
+    "key": "810003-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 최대 체력을 10%만큼 감소.",
+    "context": "EN :\n[OnSucceedAttack] Target's max HP decreases by 10%.\nJP :\n[OnSucceedAttack] 対象の体力最大値を10%減少"
+  },
+  {
+    "key": "810003-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 화상 5 부여, 화상 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Burn and +2 Burn Count\nJP :\n[OnSucceedAttack] 火傷 5付与、火傷 回数が2増加"
+  },
+  {
+    "key": "810004-levelList$[0].name",
+    "original": "6장 5절",
+    "context": "EN :\n6:5\nJP :\n6章5節"
+  },
+  {
+    "key": "810004-levelList$[0].desc",
+    "original": "[CantDuel][CantChangeTarget]\n대상의 피해를 자신이 받음. 다음 턴에 흐트러짐.\n[AaCePcBa]이 없는 무작위 적에게 다음 턴에 표식 부여.\n[EndBattle] 모든 촛불 체력 최대치까지 회복",
+    "context": "EN :\n[CantDuel][CantChangeTarget]\nTake damage in the target's place. Get staggered next turn.\nInflict Marked on a random enemy without [AaCePcBa].\n[EndBattle] All Candles heal to max HP\nJP :\n[CantDuel][CantChangeTarget]\n対象のダメージを自分が受ける。次のターンに混乱する。\n[AaCePcBa]のないランダムな敵へ次のターンに表号 を付与。\n[EndBattle] 全ての蝋燭 を体力最大値まで回復"
+  },
+  {
+    "key": "810004-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 최대 체력을 10%만큼 감소.",
+    "context": "EN :\n[OnSucceedAttack] This unit's max HP decreases by 10%.\nJP :\n[OnSucceedAttack] 自分の体力最大値を10%減少"
+  },
+  {
+    "key": "810004-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신에게 화상 10 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 10 Burn on self\nJP :\n[OnSucceedAttack] 自分に火傷 10を付与"
+  },
+  {
+    "key": "810004-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 최대 체력을 10%만큼 감소.",
+    "context": "EN :\n[OnSucceedAttack] This unit's max HP decreases by 10%.\nJP :\n[OnSucceedAttack] 自分の体力最大値を10%減少"
+  },
+  {
+    "key": "810004-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신에게 화상 10 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 10 Burn on self\nJP :\n[OnSucceedAttack] 自分に火傷 10を付与"
+  },
+  {
+    "key": "810005-levelList$[0].name",
+    "original": "드러낼지어다",
+    "context": "EN :\nAll Shall be Revealed\nJP :\n露わにならん"
+  },
+  {
+    "key": "810005-levelList$[0].desc",
+    "original": "[CantDuel]",
+    "context": "EN :\n[CantDuel]\nJP :\n[CantDuel]"
+  },
+  {
+    "key": "810005-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 분노 취약 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Wrath Fragility\nJP :\n[OnSucceedAttack] 憤怒脆弱 1を付与"
+  },
+  {
+    "key": "810006-levelList$[0].name",
+    "original": "타오를지니",
+    "context": "EN :\nAll Shall Burn\nJP :\n燃え上がらん"
+  },
+  {
+    "key": "810006-levelList$[0].desc",
+    "original": "[CantDuel]",
+    "context": "EN :\n[CantDuel]\nJP :\n[CantDuel]"
+  },
+  {
+    "key": "810006-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 [Combustion]이 있다면, 화상 3 부여.",
+    "context": "EN :\n[OnSucceedAttack] If target has [Combustion], inflict 3 Burn.\nJP :\n[OnSucceedAttack] 対象に[Combustion]があれば、火傷 3を付与."
+  },
+  {
+    "key": "810701-levelList$[0].name",
+    "original": "피워진 불씨",
+    "context": "EN :\nSparked Flame\nJP :\n立ちのぼった火種"
+  },
+  {
+    "key": "810701-levelList$[0].desc",
+    "original": "[AaCePcBa]이 있는 대상 우선 공격",
+    "context": "EN :\nPrioritizes targets with [AaCePcBa]\nJP :\n[AaCePcBa]のある対象を優先して攻撃"
+  },
+  {
+    "key": "810701-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 화상 6 부여, 화상 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 6 Burn and +2 Burn Count\nJP :\n[OnSucceedAttack] 火傷 6付与、火傷 回数が2増加"
+  },
+  {
+    "key": "810702-levelList$[0].name",
+    "original": "꺼지지 않도록",
+    "context": "EN :\nSo That It Will Burn\nJP :\n消えぬように"
+  },
+  {
+    "key": "810702-levelList$[0].desc",
+    "original": "[StartBattle] 보호막 20을 얻음\n보호막이 모두 소진되면, 다음 턴에 불이 꺼진다.",
+    "context": "EN :\n[StartBattle] Gain 20 Shield\nSnuff out the lights next turn when out of Shield\nJP :\n[StartBattle] バリア20を得る\nバリアが全て消耗されると、次のターンに火が消える。"
+  },
+  {
+    "key": "810702-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 화상 1, 화상 횟수 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Burn and +1 Burn Count\nJP :\n[OnSucceedAttack] 火傷 1、火傷 回数1を付与"
+  },
+  {
+    "key": "810101-levelList$[0].name",
+    "original": "독성 점액",
+    "context": "EN :\nToxic Fluid\nJP :\n毒性粘液"
+  },
+  {
+    "key": "810101-levelList$[0].desc",
+    "original": "[StartBattle] 녹색 점액 1 감소",
+    "context": "EN :\n[StartBattle] Consume 1 Green Slime\nJP :\n[StartBattle] 緑色の粘液 が1減少"
+  },
+  {
+    "key": "810101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 독 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Poison\nJP :\n[OnSucceedAttack] 毒 3を付与"
+  },
+  {
+    "key": "810101-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 독 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Poison\nJP :\n[OnSucceedAttack] 毒 3を付与"
+  },
+  {
+    "key": "810102-levelList$[0].name",
+    "original": "부식 점액",
+    "context": "EN :\nCorrosive Fluid\nJP :\n腐食粘液"
+  },
+  {
+    "key": "810102-levelList$[0].desc",
+    "original": "[StartBattle] 녹색 점액 1 감소",
+    "context": "EN :\n[StartBattle] Consume 1 Green Slime\nJP :\n[StartBattle] 緑色の粘液 が1減少"
+  },
+  {
+    "key": "810102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Poison]만큼 방어 레벨 감소 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict Defense Level Down by [Poison] on target\nJP :\n[OnSucceedAttack] 対象の[Poison]だけ防御レベル減少を付与"
+  },
+  {
+    "key": "810102-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 유충 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Larva\nJP :\n[OnSucceedAttack] 幼虫 1を付与"
+  },
+  {
+    "key": "810102-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Poison]만큼 방어 레벨 감소 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict Defense Level Down by [Poison] on target\nJP :\n[OnSucceedAttack] 対象の[Poison]だけ防御レベル減少を付与"
+  },
+  {
+    "key": "810102-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 유충 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Larva\nJP :\n[OnSucceedAttack] 幼虫 1を付与"
+  },
+  {
+    "key": "810103-levelList$[0].name",
+    "original": "마비 액체",
+    "context": "EN :\nParalytic Fluid\nJP :\n麻痺液体"
+  },
+  {
+    "key": "810103-levelList$[0].desc",
+    "original": "[StartBattle] 녹색 점액 1 감소",
+    "context": "EN :\n[StartBattle] Consume 1 Green Slime\nJP :\n[StartBattle] 緑色の粘液 が1減少"
+  },
+  {
+    "key": "810103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 [Poison]이 있다면, 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has [Poison], inflict 1 Paralyze\nJP :\n[OnSucceedAttack] 対象に[Poison]があれば、麻痺 1を付与"
+  },
+  {
+    "key": "810103-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 유충 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Larva\nJP :\n[OnSucceedAttack] 幼虫 2を付与"
+  },
+  {
+    "key": "810103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 [Poison]이 있다면, 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has [Poison], inflict 1 Paralyze\nJP :\n[OnSucceedAttack] 対象に[Poison]があれば、麻痺 1を付与"
+  },
+  {
+    "key": "810103-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 유충 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Larva\nJP :\n[OnSucceedAttack] 幼虫 2を付与"
+  },
+  {
+    "key": "810104-levelList$[0].name",
+    "original": "잠식 액체",
+    "context": "EN :\nDevouring Fluid\nJP :\n蚕食液体"
+  },
+  {
+    "key": "810104-levelList$[0].desc",
+    "original": "[StartBattle] 녹색 점액 2 감소\n[WhenUse] 유충 3 부여",
+    "context": "EN :\n[StartBattle] Consume 2 Green Slime\n[WhenUse] Inflict 3 Larva\nJP :\n[StartBattle] 緑色の粘液 が2減少\n[WhenUse] 幼虫 3を付与"
+  },
+  {
+    "key": "810104-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 독 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Poison\nJP :\n[OnSucceedAttack] 毒 4を付与"
+  },
+  {
+    "key": "810104-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Paralyze next turn\nJP :\n[OnSucceedAttackHead] 次のターンに麻痺 1を付与"
+  },
+  {
+    "key": "810104-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 독 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Poison\nJP :\n[OnSucceedAttack] 毒 4を付与"
+  },
+  {
+    "key": "810104-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Paralyze next turn\nJP :\n[OnSucceedAttackHead] 次のターンに麻痺 1を付与"
+  },
+  {
+    "key": "810105-levelList$[0].name",
+    "original": "들끓는 녹색 점액",
+    "context": "EN :\nEffervescent Green Slime\nJP :\n沸き立つ緑色の粘液"
+  },
+  {
+    "key": "810105-levelList$[0].desc",
+    "original": "[StartBattle] [AaCePcBh]만큼 공격 가중치가 증가\n[StartBattle] [AaCePcBh]을 10 얻음.",
+    "context": "EN :\n[StartBattle] Gain Atk Weight by [AaCePcBh]\n[StartBattle] Gain 10 [AaCePcBh]\nJP :\n[StartBattle] [AaCePcBh]だけ攻撃加重値が増加\n[StartBattle] [AaCePcBh]を10得る"
+  },
+  {
+    "key": "810105-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 독 10 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 10 Poison\nJP :\n[OnSucceedAttack] 毒 10を付与"
+  },
+  {
+    "key": "810105-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 정신력 7 감소",
+    "context": "EN :\n[OnSucceedAttack] Lose 7 SP\nJP :\n[OnSucceedAttack] 精神力が7減少"
+  },
+  {
+    "key": "810105-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 유충 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Larva\nJP :\n[OnSucceedAttack] 幼虫 3を付与"
+  },
+  {
+    "key": "810105-levelList$[0].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 마비 1, 방어 레벨 감소 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Paralyze and 3 Defense Level Down next turn\nJP :\n[OnSucceedAttackHead] 次のターンに麻痺 1, 防御レベル減少 3を付与"
+  },
+  {
+    "key": "810106-levelList$[0].name",
+    "original": "포식",
+    "context": "EN :\nPredation\nJP :\n捕食"
+  },
+  {
+    "key": "810106-levelList$[0].desc",
+    "original": "[CantDuel][CantChangeTarget]\n녹색 점액을 우선 공격\n녹색 점액을 공격 시 처치한다.",
+    "context": "EN :\n[CantDuel][CantChangeTarget]\nTargets Green Slime primarily\nDefeats Green Slime upon attacking\nJP :\n[CantDuel][CantChangeTarget]\n緑色の粘液 を優先して攻撃\n緑色の粘液 を攻撃時に倒す"
+  },
+  {
+    "key": "810106-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[TargetKill] [AaCePcBh]을 3 얻음.",
+    "context": "EN :\n[TargetKill] Gain 3 [AaCePcBh].\nJP :\n[TargetKill] [AaCePcBh]を3得る"
+  },
+  {
+    "key": "810107-levelList$[0].name",
+    "original": "흘러넘친 독",
+    "context": "EN :\nOverflowing Poison\nJP :\n溢れ出した毒"
+  },
+  {
+    "key": "810107-levelList$[0].desc",
+    "original": "[OnSucceedEvade] 대상에게 독 5 부여",
+    "context": "EN :\n[OnSucceedEvade] Inflict 5 Poison\nJP :\n[OnSucceedEvade] 対象に毒 5を付与"
+  },
+  {
+    "key": "810201-levelList$[0].name",
+    "original": "박치기",
+    "context": "EN :\nHeadbutt\nJP :\n頭突き"
+  },
+  {
+    "key": "810201-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Sinking\nJP :\n[OnSucceedAttack] 沈潜 4を付与"
+  },
+  {
+    "key": "810202-levelList$[0].name",
+    "original": "들이박기",
+    "context": "EN :\nPound\nJP :\n突っ込む"
+  },
+  {
+    "key": "810202-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が3増加"
+  },
+  {
+    "key": "810202-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が3増加"
+  },
+  {
+    "key": "810203-levelList$[0].name",
+    "original": "짓누르기",
+    "context": "EN :\nPress\nJP :\n推し潰す"
+  },
+  {
+    "key": "810203-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]4を付与"
+  },
+  {
+    "key": "810203-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 [AaCePcBb]이 있다면, 침잠 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]\nJP :\n[OnSucceedAttack] 対象に[AaCePcBb]があれば、沈潜 回数が2増加"
+  },
+  {
+    "key": "810203-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]4を付与"
+  },
+  {
+    "key": "810203-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 [AaCePcBb]이 있다면, 침잠 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]\nJP :\n[OnSucceedAttack] 対象に[AaCePcBb]があれば、沈潜 回数が2増加"
+  },
+  {
+    "key": "810204-levelList$[0].name",
+    "original": "맹목",
+    "context": "EN :\nBlind Obsession\nJP :\n盲目"
+  },
+  {
+    "key": "810204-levelList$[0].desc",
+    "original": "[DefeatDuel] 자신의 형광등 부위가 부위 전체 체력의 34%만큼 감소.\n[DefeatDuel] 맹목 1을 얻음",
+    "context": "EN :\n[DefeatDuel] This unit's Fluorescence Part loses 34% of Max HP.\n[DefeatDuel] Gain 1 Blind Obsession\nJP :\n[DefeatDuel] 自分の蛍光灯部位が、部位全体体力の34%分減少\n[DefeatDuel] 盲目 1を得る"
+  },
+  {
+    "key": "810204-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が3増加"
+  },
+  {
+    "key": "810204-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 침잠 4 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 4 Sinking\nJP :\n[OnSucceedAttackHead] 沈潜 4を付与"
+  },
+  {
+    "key": "810204-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が3増加"
+  },
+  {
+    "key": "810204-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 침잠 4 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 4 Sinking\nJP :\n[OnSucceedAttackHead] 沈潜 4を付与"
+  },
+  {
+    "key": "810204-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Sinking\nJP :\n[OnSucceedAttack] 沈潜 4を付与"
+  },
+  {
+    "key": "810204-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 침잠 4 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 4 Sinking\nJP :\n[OnSucceedAttackHead] 沈潜 4を付与"
+  },
+  {
+    "key": "810204-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠쇄도",
+    "context": "EN :\n[OnSucceedAttack] Sinking Deluge\nJP :\n[OnSucceedAttack] 沈潜殺到"
+  },
+  {
+    "key": "810205-levelList$[0].name",
+    "original": "덮쳐오는 탁류",
+    "context": "EN :\nCrashing Siltcurrent\nJP :\n襲いかかる濁流"
+  },
+  {
+    "key": "810205-levelList$[0].desc",
+    "original": "[CantDuel][StartBattle] 지형을 변화시킴",
+    "context": "EN :\n[CantDuel][StartBattle] Alters the environment\nJP :\n[CantDuel][StartBattle] 地形を変化させる"
+  },
+  {
+    "key": "810205-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 3 부여, 침잠 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Sinking and +2 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 3を付与、沈潜 回数が2増加"
+  },
+  {
+    "key": "810205-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 정신력 감소 효율 -2",
+    "context": "EN :\n[OnSucceedAttackHead] Gain -2 SP Loss Efficiency next turn\nJP :\n[OnSucceedAttackHead] 次のターンに精神力減少効率 -2"
+  },
+  {
+    "key": "810205-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 3 부여, 침잠 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Sinking and +2 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 3を付与、沈潜 回数が2増加"
+  },
+  {
+    "key": "810206-levelList$[0].name",
+    "original": "길잃은 맹목",
+    "context": "EN :\nWayward Blind Obsession\nJP :\n彷徨う盲目"
+  },
+  {
+    "key": "810206-levelList$[0].desc",
+    "original": "[CantDuel][CantChangeTarget] 파괴된 표류물을 공격\n[EndSkill] 자신의 형광등 부위가 부위 전체 체력의 34%만큼 감소.\n[EndBattle] 맹목 1을 얻음.",
+    "context": "EN :\n[CantDuel][CantChangeTarget] Targets destroyed Flotsam\n[EndSkill] Fluorescence Part loses 34% of Max HP.\n[EndBattle] Gain 1 Blind Obsession.\nJP :\n[CantDuel][CantChangeTarget] 破壊された漂流物を攻撃\n[EndSkill] 自分の蛍光灯部位が、部位全体体力の34%分減少\n[EndBattle] 盲目 1を得る"
+  },
+  {
+    "key": "810206-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상을 파괴함.",
+    "context": "EN :\n[OnSucceedAttack] Destroys target.\nJP :\n[OnSucceedAttack] 対象を破壊"
+  },
+  {
+    "key": "810207-levelList$[0].name",
+    "original": "휩쓸기",
+    "context": "EN :\nSweep\nJP :\n逆巻く"
+  },
+  {
+    "key": "810207-levelList$[0].desc",
+    "original": "[EndBattle] 표류물을 생성함",
+    "context": "EN :\n[EndBattle] Create Flotsam\nJP :\n[EndBattle] 漂流物を生成する"
+  },
+  {
+    "key": "810207-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Sinking\nJP :\n[OnSucceedAttack] 沈潜 4を付与"
+  },
+  {
+    "key": "810207-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 [AaCePcBb]이 있다면, 침잠 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]\nJP :\n[OnSucceedAttack] 対象に[AaCePcBb]があれば、沈潜 回数が2増加"
+  },
+  {
+    "key": "810207-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Sinking\nJP :\n[OnSucceedAttack] 沈潜 4を付与"
+  },
+  {
+    "key": "810207-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 [AaCePcBb]이 있다면, 침잠 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]\nJP :\n[OnSucceedAttack] 対象に[AaCePcBb]があれば、沈潜 回数が2増加"
+  },
+  {
+    "key": "810208-levelList$[0].name",
+    "original": "몸부림",
+    "context": "EN :\nWriggle\nJP :\nもがく"
+  },
+  {
+    "key": "810208-levelList$[0].desc",
+    "original": "[StartBattle] 맹목 전부 소모\n[StartBattle] 모든 표류물과 파괴된 표류물 파괴",
+    "context": "EN :\n[StartBattle] Spend all Blind Obsession\n[StartBattle] Destroy all Flotsam and destroyed Flotsam\nJP :\n[StartBattle] 盲目 を全て消耗\n[StartBattle] 全ての漂流物と破壊された漂流物を破壊"
+  },
+  {
+    "key": "810208-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Sinking\nJP :\n[OnSucceedAttack] 沈潜 4を付与"
+  },
+  {
+    "key": "811001-levelList$[0].name",
+    "original": "찌르기",
+    "context": "EN :\nStab\nJP :\n刺す"
+  },
+  {
+    "key": "811001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 출혈 4 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 4 Bleed\nJP :\n[OnSucceedAttackHead] 出血 4を付与"
+  },
+  {
+    "key": "811002-levelList$[0].name",
+    "original": "상처 헤집기",
+    "context": "EN :\nTear Up Wound\nJP :\n傷口穿ち"
+  },
+  {
+    "key": "811002-levelList$[0].desc",
+    "original": "[WinDuel] 정신력 5 회복.\n대상의 [Laceration]당 피해량 +5%",
+    "context": "EN :\n[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration] on target\nJP :\n[WinDuel] 精神力5を回復。\n対象の[Laceration]1につきダメージ量+5%"
+  },
+  {
+    "key": "811002-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "811002-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "811002-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "811003-levelList$[0].name",
+    "original": "마을을 지켜!",
+    "context": "EN :\nProtect the Town!\nJP :\n町を守れ！"
+  },
+  {
+    "key": "811003-levelList$[0].desc",
+    "original": "[WhenUse] 호흡 5를 얻음",
+    "context": "EN :\n[WhenUse] Gain 5 Poise\nJP :\n[WhenUse] 呼吸 5を得る"
+  },
+  {
+    "key": "811003-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 호흡 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Poise Count\nJP :\n[OnSucceedAttack] 呼吸 回数が1増加"
+  },
+  {
+    "key": "811003-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 정신력 4 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 4 SP\nJP :\n[OnSucceedAttack] 精神力を4回復"
+  },
+  {
+    "key": "811003-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 호흡 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Poise Count\nJP :\n[OnSucceedAttack] 呼吸 回数が1増加"
+  },
+  {
+    "key": "811003-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 정신력 4 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 4 SP\nJP :\n[OnSucceedAttack] 精神力を4回復"
+  },
+  {
+    "key": "811003-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 호흡 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Poise Count\nJP :\n[OnSucceedAttack] 呼吸 回数が1増加"
+  },
+  {
+    "key": "811003-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 정신력 4 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 4 SP\nJP :\n[OnSucceedAttack] 精神力を4回復"
+  },
+  {
+    "key": "811003-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 호흡 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Poise Count\nJP :\n[OnSucceedAttack] 呼吸 回数が1増加"
+  },
+  {
+    "key": "811003-levelList$[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 정신력 4 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 4 SP\nJP :\n[OnSucceedAttack] 精神力を4回復"
+  },
+  {
+    "key": "811004-levelList$[0].name",
+    "original": "결박용 투창",
+    "context": "EN :\nTangling Javelin\nJP :\n結縛用投槍"
+  },
+  {
+    "key": "811004-levelList$[0].desc",
+    "original": "[WhenUse] 호흡 5, 호흡 횟수 2를 얻음",
+    "context": "EN :\n[WhenUse] Gain 5 Poise and +2 Poise Count\nJP :\n[WhenUse] 呼吸 5, 呼吸 回数2を得る"
+  },
+  {
+    "key": "811004-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 결박 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict Tangle\nJP :\n[OnSucceedAttack] 結縛 を付与"
+  },
+  {
+    "key": "811004-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛2を付与"
+  },
+  {
+    "key": "811005-levelList$[0].name",
+    "original": "가드",
+    "context": "EN :\nGuard\nJP :\nガード"
+  },
+  {
+    "key": "811005-levelList$[0].desc",
+    "original": "보호막이 있는 동안 피격 시, 다음 턴 공격 레벨 증가 1을 얻음.",
+    "context": "EN :\nWhen attacked while this unit has Shield, gain 1 Offense Level Up next turn\nJP :\nバリアがある間、被ダメージ時に次のターンにて攻撃レベル増加 1を得る。"
+  },
+  {
+    "key": "811101-levelList$[0].name",
+    "original": "연속 찌르기",
+    "context": "EN :\nQuick Jabs\nJP :\n連続突き"
+  },
+  {
+    "key": "811101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 출혈 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +2 Bleed Count\nJP :\n[OnSucceedAttackHead] 出血 回数が2増加"
+  },
+  {
+    "key": "811101-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 출혈 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +1 Bleed Count\nJP :\n[OnSucceedAttackHead] 出血 回数が1増加"
+  },
+  {
+    "key": "811102-levelList$[0].name",
+    "original": "상처 파고들기",
+    "context": "EN :\nCarve Wound\nJP :\n傷口抉り"
+  },
+  {
+    "key": "811102-levelList$[0].desc",
+    "original": "[WinDuel] 정신력 5 회복.\n대상의 [Laceration]당 피해량 +5%",
+    "context": "EN :\n[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration] on target\nJP :\n[WinDuel] 精神力5を回復。\n対象の[Laceration]1につきダメージ量+5%"
+  },
+  {
+    "key": "811102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が1増加"
+  },
+  {
+    "key": "811102-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が1増加"
+  },
+  {
+    "key": "811102-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が1増加"
+  },
+  {
+    "key": "811102-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が1増加"
+  },
+  {
+    "key": "811103-levelList$[0].name",
+    "original": "마을을 지켜!",
+    "context": "EN :\nProtect the Town!\nJP :\n町を守れ！"
+  },
+  {
+    "key": "811103-levelList$[0].desc",
+    "original": "[WhenUse] 호흡 5를 얻음",
+    "context": "EN :\n[WhenUse] Gain 5 Poise\nJP :\n[WhenUse] 呼吸 5を得る"
+  },
+  {
+    "key": "811103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 호흡 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Poise Count\nJP :\n[OnSucceedAttack] 呼吸 回数が1増加"
+  },
+  {
+    "key": "811103-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 정신력 4 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 4 SP\nJP :\n[OnSucceedAttack] 精神力を4回復"
+  },
+  {
+    "key": "811103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 호흡 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Poise Count\nJP :\n[OnSucceedAttack] 呼吸 回数が1増加"
+  },
+  {
+    "key": "811103-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 정신력 4 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 4 SP\nJP :\n[OnSucceedAttack] 精神力を4回復"
+  },
+  {
+    "key": "811103-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 호흡 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Poise Count\nJP :\n[OnSucceedAttack] 呼吸 回数が1増加"
+  },
+  {
+    "key": "811103-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 정신력 4 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 4 SP\nJP :\n[OnSucceedAttack] 精神力を4回復"
+  },
+  {
+    "key": "811103-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 호흡 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Poise Count\nJP :\n[OnSucceedAttack] 呼吸 回数が1増加"
+  },
+  {
+    "key": "811103-levelList$[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 정신력 4 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 4 SP\nJP :\n[OnSucceedAttack] 精神力を4回復"
+  },
+  {
+    "key": "811104-levelList$[0].name",
+    "original": "포획용 투창",
+    "context": "EN :\nCapturing Javelin\nJP :\n捕獲用投槍"
+  },
+  {
+    "key": "811104-levelList$[0].desc",
+    "original": "[WhenUse] 호흡 5, 호흡 횟수 2를 얻음",
+    "context": "EN :\n[WhenUse] Gain 5 Poise and +2 Poise Count\nJP :\n[WhenUse] 呼吸 5, 呼吸 回数2を得る"
+  },
+  {
+    "key": "811104-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 포획 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict Capture\nJP :\n[OnSucceedAttack] 捕獲 を付与"
+  },
+  {
+    "key": "811104-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛2を付与"
+  },
+  {
+    "key": "811105-levelList$[0].name",
+    "original": "회피",
+    "context": "EN :\nEvade\nJP :\n回避"
+  },
+  {
+    "key": "811105-levelList$[0].desc",
+    "original": "[OnSucceedEvade] 다음 턴에 공격 레벨 증가 1을 얻음 (최대 3)",
+    "context": "EN :\n[OnSucceedEvade] Gain 1 Offense Level Up next turn (Max 3)\nJP :\n[OnSucceedEvade] 次のターンに攻撃レベル増加 1を得る(最大3)"
+  },
+  {
+    "key": "810301-levelList$[0].name",
+    "original": "사냥 시작",
+    "context": "EN :\nStarting Hunt\nJP :\n狩りの始まり"
+  },
+  {
+    "key": "810301-levelList$[0].desc",
+    "original": "[StartBattle] 다음 턴에 아군 4명 소환\n[WhenUse] 다음 턴에 대상에게 사냥감의 징표 부여",
+    "context": "EN :\n[StartBattle] Summon 4 allies next turn\n[WhenUse] Apply Prey Mark next turn\nJP :\n[StartBattle] 次のターンに味方4名を召喚\n[WhenUse] 次のターンに獲物の印 を付与"
+  },
+  {
+    "key": "810301-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "810302-levelList$[0].name",
+    "original": "작살질",
+    "context": "EN :\nHarpooning\nJP :\n銛捌き"
+  },
+  {
+    "key": "810302-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "810303-levelList$[0].name",
+    "original": "꿰뚫는 작살",
+    "context": "EN :\nPiercing Harpoon\nJP :\n貫く銛"
+  },
+  {
+    "key": "810303-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 공격 레벨 감소 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Offense Level Down\nJP :\n[OnSucceedAttack] 攻撃レベル減少 3を付与"
+  },
+  {
+    "key": "810303-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "810303-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Bleed\nJP :\n[OnSucceedAttack] 出血 4を付与"
+  },
+  {
+    "key": "810304-levelList$[0].name",
+    "original": "심호흡",
+    "context": "EN :\nDeep Breath\nJP :\n深呼吸"
+  },
+  {
+    "key": "810304-levelList$[0].desc",
+    "original": "[StartBattle] 호흡 10, 호흡 횟수 5을 얻음.\n이 스킬에서 크리티컬이 발생하면 호흡 횟수가 감소하지 않음.\n턴 종료 시 자신을 제외하고 생존한 아군 수만큼 다음 턴에 [PlusCoinValueUp]를 얻음.",
+    "context": "EN :\n[StartBattle] Gain 10 Poise and +10 Poise Count.\nCritical Hits do not consume Poise Count with this Skill.\nTurn End: Gain [PlusCoinValueUp] next turn by the number of surviving other allies.\nJP :\n[StartBattle] 呼吸 10, 呼吸 回数5を得る。\nこのスキルでクリティカルが発生すると呼吸 回数が減少しない。\nターン終了時、自分を除く味方の生存数だけ次のターンにて[PlusCoinValueUp]を得る。"
+  },
+  {
+    "key": "810305-levelList$[0].name",
+    "original": "반격",
+    "context": "EN :\nCounter\nJP :\n反撃"
+  },
+  {
+    "key": "810305-levelList$[0].desc",
+    "original": "이 스킬에서 크리티컬이 발생하면 호흡 횟수가 감소하지 않음",
+    "context": "EN :\nCritical Hits do not consume Poise Count with this Skill.\nJP :\nこのスキルでクリティカルが発生すると呼吸 回数が減少しない"
+  },
+  {
+    "key": "810305-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が2増加"
+  },
+  {
+    "key": "810306-levelList$[0].name",
+    "original": "사냥감 추적",
+    "context": "EN :\nStalk Prey\nJP :\n獲物追跡"
+  },
+  {
+    "key": "810306-levelList$[0].desc",
+    "original": "크리티컬 시 피해량 +30%",
+    "context": "EN :\n+30% Damage on Critical Hit\nJP :\nクリティカル発動時、ダメージ量+30%"
+  },
+  {
+    "key": "810306-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "810306-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "810306-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 피해량의 50%만큼 대상의 첫번째 흐트러짐 구간을 손상",
+    "context": "EN :\n[CriticalOnSucceedAttack] Raise target's first Stagger Threshold by 50% of damage dealt\nJP :\n[CriticalOnSucceedAttack] ダメージ量の50%分、対象の最初の混乱区間を前進"
+  },
+  {
+    "key": "810306-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Bleed\nJP :\n[OnSucceedAttack] 出血 5を付与"
+  },
+  {
+    "key": "810307-levelList$[0].name",
+    "original": "숨통 끊기",
+    "context": "EN :\nCut Throat\nJP :\n息の根を止める"
+  },
+  {
+    "key": "810307-levelList$[0].desc",
+    "original": "이 스킬에서 크리티컬이 발생하면 호흡 횟수가 감소하지 않음.\n대상의 [Laceration]당 피해량 +5%\n[WhenUse] 자신에게 호흡이 없는 경우, 턴 종료 시 흐트러짐 상태가 됨.",
+    "context": "EN :\nThis Skill does not consume Poise Count upon Critical Hit.\nDeal +5% more damage for every [Laceration] on target\n[WhenUse] Staggered at Turn End if this unit does not have Poise on self.\nJP :\nこのスキルでクリティカルが発生すると呼吸 回数が減少しない。\n対象の[Laceration]1につき、ダメージ量+5%\n[WhenUse] 自分に呼吸がない場合、ターン終了時に混乱する"
+  },
+  {
+    "key": "810307-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "크리티컬 시 피해량 50%",
+    "context": "EN :\n+50% Damage on Critical Hit\nJP :\nクリティカル発動時、ダメージ量 +50%"
+  },
+  {
+    "key": "810307-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 흐트러짐 상태로 만듦",
+    "context": "EN :\n[OnSucceedAttack] Stagger target next turn\nJP :\n[OnSucceedAttack] 次のターンに混乱させる"
+  },
+  {
+    "key": "810308-levelList$[0].name",
+    "original": "깊은 호흡",
+    "context": "EN :\nDeep Breathing\nJP :\n深い呼吸"
+  },
+  {
+    "key": "810308-levelList$[0].desc",
+    "original": "[StartBattle] 호흡 3, 호흡 횟수 5를 얻음.\n이번 턴동안 자신의 호흡 위력만큼 최종 위력이 증가함.\n이번 턴동안 피격 시 호흡 횟수 1 잃음.",
+    "context": "EN :\n[StartBattle] Gain 3 Poise and +5 Poise Count.\nFor this turn, gain Final Power equal to Poise Potency on self.\nFor this turn, lose 1 Poise Count when attacked.\nJP :\n[StartBattle] 呼吸 3, 呼吸 回数 5を得る。\nこのターンの間、自分の呼吸 威力分最終威力が増加。\nこのターンの間、被ダメージ時に呼吸 回数を1失う。"
+  },
+  {
+    "key": "810309-levelList$[0].name",
+    "original": "생존의 오기",
+    "context": "EN :\nTo Survive\nJP :\n生存への意地"
+  },
+  {
+    "key": "810309-levelList$[0].desc",
+    "original": "크리티컬 시 피해량 +30%",
+    "context": "EN :\n+30% Damage on Critical Hit\nJP :\nクリティカル発動時、ダメージ量+30%"
+  },
+  {
+    "key": "810309-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 본체와 부위의 체력을 피해량의 50%만큼 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt\nJP :\n[OnSucceedAttack] 本体と部位の体力をダメージ量の50%分回復"
+  },
+  {
+    "key": "810309-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 본체와 부위의 체력을 피해량의 50%만큼 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt\nJP :\n[OnSucceedAttack] 本体と部位の体力をダメージ量の50%分回復"
+  },
+  {
+    "key": "810309-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 본체와 부위의 체력을 피해량의 50%만큼 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt\nJP :\n[OnSucceedAttack] 本体と部位の体力をダメージ量の50%分回復"
+  },
+  {
+    "key": "810310-levelList$[0].name",
+    "original": "지켜...야해",
+    "context": "EN :\nMust... Protect\nJP :\n守ら…ないと"
+  },
+  {
+    "key": "810310-levelList$[0].desc",
+    "original": "[TurnStartBattle] 이 스킬을 사용할 때 자신의 원호 방어 보호막 수치가 0보다 크면 원호 방어가 발동함.\n[StartBattle] 최대 체력의 10%만큼 원호 방어 보호막 을 얻음.",
+    "context": "EN :\n[TurnStartBattle] Upon using this Skill, if this unit has more than 0 Assist Barrier, activate Assist Defense.\n[StartBattle] Gain 10% of max HP as Assist Barrier.\nJP :\n[TurnStartBattle] このスキルを使用するとき、自分の援護バリア 数値が0より大きければ援護防御が発動\n[StartBattle] 体力最大値の10%だけ援護防御バリア を得る"
+  },
+  {
+    "key": "810311-levelList$[0].name",
+    "original": "근성의 작살",
+    "context": "EN :\nPersistent Harpoon\nJP :\n根性の銛"
+  },
+  {
+    "key": "810311-levelList$[0].desc",
+    "original": "스타벅과 동일한 대상 공격 시 최종 위력 +2",
+    "context": "EN :\nFinal Power +1 when attacking the same target as Starbuck\nJP :\nスターバックと同じ対象を攻撃時、最終威力+2"
+  },
+  {
+    "key": "810311-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 본체와 부위의 체력을 피해량의 50%만큼 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt\nJP :\n[OnSucceedAttack] 本体と部位の体力をダメージ量の50%分回復"
+  },
+  {
+    "key": "810311-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 결박 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict Tangle\nJP :\n[OnSucceedAttack] 結縛 を付与"
+  },
+  {
+    "key": "810311-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 본체와 부위의 체력을 피해량의 50%만큼 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt\nJP :\n[OnSucceedAttack] 本体と部位の体力をダメージ量の50%分回復"
+  },
+  {
+    "key": "810312-levelList$[0].name",
+    "original": "사냥... 끝내야해",
+    "context": "EN :\nMust Finish Hunt...\nJP :\nかり…おわらせないと"
+  },
+  {
+    "key": "810312-levelList$[0].desc",
+    "original": "이 스킬에서 크리티컬이 발생하면 호흡 횟수가 감소하지 않음.\n대상의 [Laceration]당 피해량 +5%",
+    "context": "EN :\nCritical Hits do not consume Poise Count with this Skill.\nDeal +5% damage per [Laceration] on target\nJP :\nこのスキルでクリティカルが発生すると呼吸 回数が減少しない。\n対象の[Laceration]1つにつきダメージ量+5%"
+  },
+  {
+    "key": "810312-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "크리티컬 시 피해량 50%",
+    "context": "EN :\n+50% Damage on Critical Hit\nJP :\nクリティカル発動時、ダメージ量 +50%"
+  },
+  {
+    "key": "810312-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 대상을 흐트러짐 상태로 만듦",
+    "context": "EN :\n[OnSucceedAttack] Stagger target next turn\nJP :\n[OnSucceedAttack] 次のターンに対象を混乱させる"
+  },
+  {
+    "key": "810401-levelList$[0].name",
+    "original": "후벼파기",
+    "context": "EN :\nImpale\nJP :\n掘り穿つ"
+  },
+  {
+    "key": "810401-levelList$[0].desc",
+    "original": "[WhenUse] 호흡 횟수 3 증가",
+    "context": "EN :\n[WhenUse] Gain +3 Poise Count\nJP :\n[WhenUse] 呼吸 回数が3増加"
+  },
+  {
+    "key": "810401-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が1増加"
+  },
+  {
+    "key": "810401-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が1増加"
+  },
+  {
+    "key": "810401-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が1増加"
+  },
+  {
+    "key": "810402-levelList$[0].name",
+    "original": "뚫어내기",
+    "context": "EN :\nPiercing Thrust\nJP :\n突き抜く"
+  },
+  {
+    "key": "810402-levelList$[0].desc",
+    "original": "[WhenUse] 호흡 5를 얻음",
+    "context": "EN :\n[WhenUse] Gain 5 Poise\nJP :\n[WhenUse] 呼吸 5を得る"
+  },
+  {
+    "key": "810402-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 취약 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Fragile next turn\nJP :\n[OnSucceedAttack] 次のターンに脆弱 1を付与"
+  },
+  {
+    "key": "810402-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 방어 레벨 감소 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Defense Level Down next turn\nJP :\n[OnSucceedAttack] 次のターンに防御レベル減少 2を付与"
+  },
+  {
+    "key": "810402-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 이 코인 재사용 1회 (최대 3회)",
+    "context": "EN :\n[OnSucceedAttackHead] Reuse this Coin once (Max 3)\nJP :\n[OnSucceedAttackHead] このコインを1回再使用(最大3回)"
+  },
+  {
+    "key": "810403-levelList$[0].name",
+    "original": "명령을 받들어...",
+    "context": "EN :\nI Follow Orders...\nJP :\n命令に従い…"
+  },
+  {
+    "key": "810403-levelList$[0].desc",
+    "original": "[TurnStartBattle] 퀴케그의 원호 방어 보호막 수치가 0보다 크면 원호 공격 효과가 발동함",
+    "context": "EN :\n[TurnStartBattle] If Queequeg has more than 0 Assist Barrier, activate Assist Attack\nJP :\n[TurnStartBattle] クィークェグの援護防御バリア 数値が0寄り大木れば援護攻撃効果が発動する"
+  },
+  {
+    "key": "810403-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が1増加"
+  },
+  {
+    "key": "810404-levelList$[0].name",
+    "original": "급습",
+    "context": "EN :\nAmbush\nJP :\n急襲"
+  },
+  {
+    "key": "810404-levelList$[0].desc",
+    "original": "크리티컬 시 피해량 50%\n대상의 [Laceration]당 피해량 +5%",
+    "context": "EN :\nDeal 50% more damage with Critical Hit\nDeal +5% more damage per [Laceration] on target\nJP :\nクリティカル時、ダメージ量 +50%\n対象の[Laceration]1つにつきダメージ量+5%"
+  },
+  {
+    "key": "810404-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が3増加"
+  },
+  {
+    "key": "810404-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 피해량의 50%만큼 대상의 첫번째 흐트러짐 구간을 손상",
+    "context": "EN :\n[CriticalOnSucceedAttack] Raise target's first Stagger Threshold by 50% of damage dealt\nJP :\n[CriticalOnSucceedAttack] ダメージ量の50%分、対象の最初の混乱区間を前進"
+  },
+  {
+    "key": "810405-levelList$[0].name",
+    "original": "두려움의 탄식",
+    "context": "EN :\nFearful Sigh\nJP :\n恐れの嘆息"
+  },
+  {
+    "key": "810405-levelList$[0].desc",
+    "original": "[WhenUse] 호흡 횟수 6 증가",
+    "context": "EN :\n[WhenUse] Gain +6 Poise Count\nJP :\n[WhenUse] 呼吸 回数が6増加"
+  },
+  {
+    "key": "810405-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が1増加"
+  },
+  {
+    "key": "810405-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が1増加"
+  },
+  {
+    "key": "810405-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が1増加"
+  },
+  {
+    "key": "810406-levelList$[0].name",
+    "original": "투지의 작살",
+    "context": "EN :\nDetermined Harpoon\nJP :\n闘志の銛"
+  },
+  {
+    "key": "810406-levelList$[0].desc",
+    "original": "퀴케그와 동일한 대상 공격 시 최종 위력 +2",
+    "context": "EN :\nFinal Power +2 when attacking the same target as Queequeg\nJP :\nクィークェグと同じ対象を攻撃時、最終威力+2"
+  },
+  {
+    "key": "810406-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 포획 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict Capture\nJP :\n[OnSucceedAttack] 捕獲 を付与"
+  },
+  {
+    "key": "810406-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 방어 레벨 감소 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Defense Level Down next turn\nJP :\n[OnSucceedAttack] 次のターンに防御レベル減少 5を付与"
+  },
+  {
+    "key": "810406-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 취약 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Fragile next turn\nJP :\n[OnSucceedAttack] 次のターンに脆弱 1を付与"
+  },
+  {
+    "key": "810406-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackTail] 이 코인 재사용 1회 (최대 3회)",
+    "context": "EN :\n[OnSucceedAttackTail] Reuse this Coin once (Max 3)\nJP :\n[OnSucceedAttackTail] このコインを1回再使用(最大3回)"
+  },
+  {
+    "key": "810407-levelList$[0].name",
+    "original": "나가기 위해서라면...",
+    "context": "EN :\nTo Escape...\nJP :\n出るためなら…"
+  },
+  {
+    "key": "810407-levelList$[0].desc",
+    "original": "크리티컬 시 피해량 100%\n대상의 [Laceration]당 피해량 +5%",
+    "context": "EN :\nDeal 100% more damage with Critical Hit\nDeal +5% more damage per [Laceration] on target\nJP :\nクリティカル時、ダメージ量+100%\n対象の[Laceration]1つにつきダメージ量+5%"
+  },
+  {
+    "key": "810407-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が3増加"
+  },
+  {
+    "key": "810407-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 피해량의 50%만큼 대상의 첫번째 흐트러짐 구간을 손상",
+    "context": "EN :\n[CriticalOnSucceedAttack] Raise target's first Stagger Threshold by 50% of damage dealt\nJP :\n[CriticalOnSucceedAttack] ダメージ量の50%分、対象の最初の混乱区間を前進"
+  },
+  {
+    "key": "810501-levelList$[0].name",
+    "original": "내 지시에 복종해",
+    "context": "EN :\nObey My Orders\nJP :\n私の指示に服従しろ"
+  },
+  {
+    "key": "810501-levelList$[0].desc",
+    "original": "[WhenUse] 자신과 자신을 제외하고 정신력이 가장 낮은 아군 1명의 정신력 10 회복 ",
+    "context": "EN :\n[WhenUse] Heal 10 SP for self and 1 other ally with the least SP \nJP :\n[WhenUse] 自分と自分を除く精神力の最も低い味方1名の精神力が10回復 "
+  },
+  {
+    "key": "810502-levelList$[0].name",
+    "original": "내 주위에 서라!",
+    "context": "EN :\nTo Me!\nJP :\n私の周りに立て！"
+  },
+  {
+    "key": "810502-levelList$[0].desc",
+    "original": "[StartBattle] 퀴케그에게 다음 턴에 원호 방어 명령을 내림. 자신이 흐트러짐 상태가 되면 명령이 취소됨.",
+    "context": "EN :\n[StartBattle] Order Queequeg to activate Assist Defense next turn. Order is canceled when this unit is Staggered.\nJP :\n[StartBattle] クィークェグに次のターンにて援護防御命令を下す。自分が混乱状態になると命令が取り消される。"
+  },
+  {
+    "key": "810503-levelList$[0].name",
+    "original": "끝까지 추적해!",
+    "context": "EN :\nTrack Them to the End!\nJP :\n最後まで追跡しろ！"
+  },
+  {
+    "key": "810503-levelList$[0].desc",
+    "original": "[StartBattle] 스타벅에게 다음 턴에 원호 공격 명령을 내림. 자신이 흐트러짐 상태가 되면 명령이 취소됨.\n[WhenUse] 다음 턴에 사냥감의 징표 1 부여",
+    "context": "EN :\n[StartBattle] Order Starbuck to activate Assist Attack next turn. Order is canceled when this unit is Staggered.\n[WhenUse] Apply 1 Prey Mark next turn\nJP :\n[StartBattle] スターバックに次のターンにて援護攻撃命令を下す。自分が混乱状態になると命令が取り消される。\n[WhenUse] 次のターンに獲物の印 1を付与"
+  },
+  {
+    "key": "810504-levelList$[0].name",
+    "original": "노련한 작살질",
+    "context": "EN :\nVeteran's Harpoon\nJP :\n老練の銛捌き"
+  },
+  {
+    "key": "810504-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "810504-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "810505-levelList$[0].name",
+    "original": "불 같은 작살",
+    "context": "EN :\nBurning Harpoon\nJP :\n火が如き銛"
+  },
+  {
+    "key": "810505-levelList$[0].desc",
+    "original": "메인 공격 대상이 보유한 부정적인 효과 1개당 최종 위력 +1 (최대 5)\n대상의 [Laceration]당 피해량 +5%",
+    "context": "EN :\nFinal Power +1 for every negative effect on main target (Max 5)\nDeal +5% damage per [Laceration] on target\nJP :\nメインターゲットの保有するマイナス効果1つにつき、最終威力+1(最大5)\n対象の[Laceration]1つにつきダメージ量+5%"
+  },
+  {
+    "key": "810505-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bleed\nJP :\n[OnSucceedAttack] 出血 3を付与"
+  },
+  {
+    "key": "810505-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bleed\nJP :\n[OnSucceedAttack] 出血 3を付与"
+  },
+  {
+    "key": "810505-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 출혈만큼 화상 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict Burn by Bleed on target\nJP :\n[OnSucceedAttack] 対象の出血分、火傷 を付与"
+  },
+  {
+    "key": "810506-levelList$[0].name",
+    "original": "바보 같으니!",
+    "context": "EN :\nFoolishness!\nJP :\n馬鹿め！"
+  },
+  {
+    "key": "810506-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 정신력 5 회복\n[OnSucceedEvade] 대상의 정신력 5 감소",
+    "context": "EN :\n[WhenUse] Heal 5 SP\n[OnSucceedEvade] Target loses 5 SP\nJP :\n[WhenUse] 自分の精神力を5回復\n[OnSucceedEvade] 対象の精神力を5減少"
+  },
+  {
+    "key": "810507-levelList$[0].name",
+    "original": "숨결을 토해내라!",
+    "context": "EN :\nExhale!\nJP :\n息を吐き出せ！"
+  },
+  {
+    "key": "810507-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 사냥감의 징표 1 부여\n[WinDuel] 호흡 4 얻음",
+    "context": "EN :\n[WhenUse] Inflict 1 Prey Mark next turn\n[WinDuel] Gain 4 Poise\nJP :\n[WhenUse] 次のターンに獲物の印 1を付与\n[WinDuel] 呼吸 4を得る"
+  },
+  {
+    "key": "810507-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신을 제외한 아군 2명에게 호흡 4 부여.\n아군이 없는 경우, 대신 호흡 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Apply 4 Poise to 2 other allies.\nIf there are no other allies, gain 2 Poise Count instead.\nJP :\n[OnSucceedAttack] 自分を除く味方2名へ呼吸 4を付与。\n味方がいない場合は呼吸 回数が 2増加"
+  },
+  {
+    "key": "810508-levelList$[0].name",
+    "original": "마지막 공포를 날려주마!",
+    "context": "EN :\nBe Fearless!\nJP :\n最後の恐怖を飛ばしてやろう！"
+  },
+  {
+    "key": "810508-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 정신력 10 회복. 자신을 제외하고 정신력이 가장 높은 아군 1명의 정신력 10 감소",
+    "context": "EN :\n[WhenUse] Heal 10 SP on self. 1 other ally with the highest SP loses 10 SP\nJP :\n[WhenUse] 自分の精神力が10回復。自分を除く精神力が最も高い味方1名の精神力が10減少"
+  },
+  {
+    "key": "810508-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 화상 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Burn Count\nJP :\n[OnSucceedAttack] 火傷 回数が1増加"
+  },
+  {
+    "key": "810508-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 자신을 제외한 무작위 아군 1명에게 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn\nJP :\n[OnSucceedAttack] 次のターンにて、自分を除くランダムな味方1名へ麻痺 1を付与"
+  },
+  {
+    "key": "810508-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 화상 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Burn Count\nJP :\n[OnSucceedAttack] 火傷 回数が1増加"
+  },
+  {
+    "key": "810508-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 자신을 제외한 무작위 아군 1명에게 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn\nJP :\n[OnSucceedAttack] 次のターンにて、自分を除くランダムな味方1名へ麻痺 1を付与"
+  },
+  {
+    "key": "810508-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 화상 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Burn Count\nJP :\n[OnSucceedAttack] 火傷 回数が1増加"
+  },
+  {
+    "key": "810508-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 자신을 제외한 무작위 아군 1명에게 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn\nJP :\n[OnSucceedAttack] 次のターンにて、自分を除くランダムな味方1名へ麻痺 1を付与"
+  },
+  {
+    "key": "810509-levelList$[0].name",
+    "original": "죽음의 담금질",
+    "context": "EN :\nTempering of Death\nJP :\n死の焼き入れ"
+  },
+  {
+    "key": "810509-levelList$[0].desc",
+    "original": "[WhenUse] 정신력이 가장 낮은 아군 1명에게 거역할 수 없는 명령 을 내림\n[DefeatDuel] 정신력이 가장 낮은 아군 1명 흐트러짐 손상 20",
+    "context": "EN :\n[WhenUse] Apply Undefiable Command to 1 ally with the lowest SP\n[DefeatDuel] Raise Stagger Threshold by 20 for 1 ally with the lowest SP\nJP :\n[WhenUse] 精神力が最も低い味方1名へ逆らえぬ命令 を下す\n[DefeatDuel] 精神力が最も低い味方1名の混乱区間を20前進"
+  },
+  {
+    "key": "810509-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 취약 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Fragile\nJP :\n[OnSucceedAttack] 脆弱 2を付与"
+  },
+  {
+    "key": "810601-levelList$[0].name",
+    "original": "덤벼봐라!",
+    "context": "EN :\nStrike Me Down!\nJP :\n掛かって来い！"
+  },
+  {
+    "key": "810601-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bleed\nJP :\n[OnSucceedAttack] 出血 3を付与"
+  },
+  {
+    "key": "810601-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が3増加"
+  },
+  {
+    "key": "810601-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bleed\nJP :\n[OnSucceedAttack] 出血 3を付与"
+  },
+  {
+    "key": "810601-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が3増加"
+  },
+  {
+    "key": "810602-levelList$[0].name",
+    "original": "찔러 죽이기",
+    "context": "EN :\nStab to Kill\nJP :\n刺し殺す"
+  },
+  {
+    "key": "810602-levelList$[0].desc",
+    "original": "최대 체력이 가장 낮은 대상 공격",
+    "context": "EN :\nTargets the unit with the least Max HP\nJP :\n最大体力が最も低い対象を攻撃"
+  },
+  {
+    "key": "810602-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 공격 레벨 감소 6 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 6 Offense Level Down\nJP :\n[OnSucceedAttack] 攻撃レベル減少 6を付与"
+  },
+  {
+    "key": "810602-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が3増加"
+  },
+  {
+    "key": "810603-levelList$[0].name",
+    "original": "불멸의 영혼",
+    "context": "EN :\nUndying Soul\nJP :\n不滅の魂"
+  },
+  {
+    "key": "810603-levelList$[0].desc",
+    "original": "회피 실패 시에도 재사용 (최대 2회)\n[OnDefeatEvade] 핍의 자아 2 감소",
+    "context": "EN :\nRe-use Evade upon Evade failure (Up to 2 times)\n[OnDefeatEvade] Lose 2 Pip's Ego\nJP :\n回避失敗時にも再使用(最大2回)\n[OnDefeatEvade] ピップの自我 が2減少"
+  },
+  {
+    "key": "810604-levelList$[0].name",
+    "original": "흐릿한 결백",
+    "context": "EN :\nMurky Innocence\nJP :\n濁った潔白"
+  },
+  {
+    "key": "810604-levelList$[0].desc",
+    "original": "[DefeatDuel] 수비 위력 감소 2 얻음. 자신의 정신력 10 감소",
+    "context": "EN :\n[DefeatDuel] Gain 2 Defense Power Down. Lose 10 SP on self\nJP :\n[DefeatDuel] 守備威力減少 2を得る。自分の精神力が10減少"
+  },
+  {
+    "key": "810604-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 창백한 소음 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Pallid Noise\nJP :\n[OnSucceedAttackHead] 蒼白な騒音 1を付与"
+  },
+  {
+    "key": "810604-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Paralyze\nJP :\n[OnSucceedAttack] 麻痺 1を付与"
+  },
+  {
+    "key": "810604-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 창백한 소음 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Pallid Noise\nJP :\n[OnSucceedAttackHead] 蒼白な騒音 1を付与"
+  },
+  {
+    "key": "810604-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 1を付与"
+  },
+  {
+    "key": "810605-levelList$[0].name",
+    "original": "죄책감의 무게",
+    "context": "EN :\nWeight of Guilt\nJP :\n罪悪感の重さ"
+  },
+  {
+    "key": "810605-levelList$[0].desc",
+    "original": "최대 체력이 가장 낮은 대상 3명 공격\n[StartBattle] 핍의 자아 5당 기본 위력 +2, 공격 가중치 +1\n[WhenUse] 핍의 자아 3 감소",
+    "context": "EN :\nTargets 3 units with the least Max HP\n[StartBattle] Gain Base Power +2 and Atk Weight +1 for every 5 Pip's Ego\n[WhenUse] Lose 3 Pip's Ego\nJP :\n体力最大値が最も低い対象3名を攻撃\n[StartBattle] ピップの自我 5につき基本威力+2, 攻撃加重値+1\n[WhenUse] ピップの自我 が3減少"
+  },
+  {
+    "key": "810605-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 창백한 소음 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Pallid Noise\nJP :\n[OnSucceedAttack] 蒼白な騒音 1を付与"
+  },
+  {
+    "key": "810605-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 흐트러짐 손상 30 ",
+    "context": "EN :\n[OnSucceedAttack] Raise Stagger Threshold by 30 \nJP :\n[OnSucceedAttack] 混乱区間を30前進 "
+  },
+  {
+    "key": "810605-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackHead] 대상의 정신력 10 감소",
+    "context": "EN :\n[OnSucceedAttackHead] Target loses 10 SP\nJP :\n[OnSucceedAttackHead] 対象の精神力を10減少"
+  },
+  {
+    "key": "810606-levelList$[0].name",
+    "original": "사용하지않는스킬(번역x)",
+    "context": "EN :\n사용하지않는스킬(번역x)\nJP :\n사용하지않는스킬(번역x)"
+  },
+  {
+    "key": "810607-levelList$[0].name",
+    "original": "뒤덮힌 두려움",
+    "context": "EN :\nSwathed Fear\nJP :\n覆い隠された恐れ"
+  },
+  {
+    "key": "810607-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 사냥감의 징표 1 부여",
+    "context": "EN :\n[WhenUse] Inflict 1 Prey Mark next turn\nJP :\n[WhenUse] 次のターンに獲物の印 1を付与"
+  },
+  {
+    "key": "810607-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 창백한 소음 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Pallid Noise\nJP :\n[OnSucceedAttackHead] 蒼白な騒音 1を付与"
+  },
+  {
+    "key": "810607-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 3 부여, 출혈 횟수 4 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bleed and +4 Bleed Count\nJP :\n[OnSucceedAttack] 出血 3を付与、出血 回数が4増加"
+  },
+  {
+    "key": "810608-levelList$[0].name",
+    "original": "꿰뚫린 나약함",
+    "context": "EN :\nPunctured Weakness\nJP :\n貫かれた惰弱さ"
+  },
+  {
+    "key": "810608-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 사냥감의 징표 1 부여",
+    "context": "EN :\n[WhenUse] Inflict 1 Prey Mark next turn\nJP :\n[WhenUse] 次のターンに獲物の印 1を付与"
+  },
+  {
+    "key": "810608-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 창백한 소음 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Pallid Noise\nJP :\n[OnSucceedAttackHead] 蒼白な騒音 1を付与"
+  },
+  {
+    "key": "810608-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 공격 레벨 감소 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Offense Level Down next turn\nJP :\n[OnSucceedAttack] 次のターンに攻撃レベル減少 3を付与"
+  },
+  {
+    "key": "810609-levelList$[0].name",
+    "original": "탄식의 메아리",
+    "context": "EN :\nEchoing Cry\nJP :\n木霊する嘆息"
+  },
+  {
+    "key": "810609-levelList$[0].desc",
+    "original": "대상의 출혈 1 당 피해량 +5%\n대상에게 사냥감의 징표 가 없으면 코인 위력 +1\n[DefeatDuel] 정신력 5 감소",
+    "context": "EN :\nDeal +5% damage for every 1 Bleed on target\nIf target does not have Prey Mark, Coin Power +1\n[DefeatDuel] Lose 5 SP\nJP :\n対象の出血 1につきダメージ量+5%\n対象に獲物の印 が無いならコイン威力+1\n[DefeatDuel] 精神力が5減少"
+  },
+  {
+    "key": "810609-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "810609-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 무작위 적 3명에게 정신 피해 3",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies\nJP :\n[OnSucceedAttack] ランダムな敵3名に精神力ダメージ3を付与"
+  },
+  {
+    "key": "810609-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "810609-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 무작위 적 3명에게 정신 피해 3",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies\nJP :\n[OnSucceedAttack] ランダムな敵3名に精神力ダメージ3を付与"
+  },
+  {
+    "key": "810609-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "810609-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 무작위 적 3명에게 정신 피해 3",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies\nJP :\n[OnSucceedAttack] ランダムな敵3名に精神力ダメージ3を付与"
+  },
+  {
+    "key": "810609-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "810609-levelList$[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 무작위 적 3명에게 정신 피해 3",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies\nJP :\n[OnSucceedAttack] ランダムな敵3名に精神力ダメージ3を付与"
+  },
+  {
+    "key": "810609-levelList$[0].coinlist[4].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "810609-levelList$[0].coinlist[4].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 무작위 적 3명에게 정신 피해 3",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies\nJP :\n[OnSucceedAttack] ランダムな敵3名に精神力ダメージ3を付与"
+  },
+  {
+    "key": "810609-levelList$[0].coinlist[4].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 스타벅의 자아 10당 마지막 코인 1회 재사용",
+    "context": "EN :\n[OnSucceedAttack] Reuse the final Coin once for every 10 Starbuck's Ego\nJP :\n[OnSucceedAttack] スターバックの自我10につき、最後のコインを1回再使用"
+  },
+  {
+    "key": "810610-levelList$[0].name",
+    "original": "혼탁한 궤적",
+    "context": "EN :\nClouded Path\nJP :\n混濁した軌跡"
+  },
+  {
+    "key": "810610-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 사냥감의 징표 1 부여",
+    "context": "EN :\n[WhenUse] Inflict 1 Prey Mark next turn\nJP :\n[WhenUse] 次のターンに獲物の印 1を付与"
+  },
+  {
+    "key": "810610-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량 감소 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Damage Down\nJP :\n[OnSucceedAttack] ダメージ量減少 2を付与"
+  },
+  {
+    "key": "810610-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が3増加"
+  },
+  {
+    "key": "810610-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 창백한 소음 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Pallid Noise\nJP :\n[OnSucceedAttackHead] 蒼白な騒音 1を付与"
+  },
+  {
+    "key": "810610-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Bleed\nJP :\n[OnSucceedAttack] 出血 5を付与"
+  },
+  {
+    "key": "810611-levelList$[0].name",
+    "original": "탈색된 참회",
+    "context": "EN :\nBleached Atonement\nJP :\n脱色された懺悔"
+  },
+  {
+    "key": "810611-levelList$[0].desc",
+    "original": "[WhenUse] 퀴케그의 자아 5 감소\n[WinDuel] 방어 레벨 증가 6 얻음\n[DefeatDuel] 정신력 5 감소",
+    "context": "EN :\n[WhenUse] Lose 5 Queequeg's Ego\n[WinDuel] Gain 6 Defense Level Up\n[DefeatDuel] Lose 5 SP\nJP :\n[WhenUse] クィークェグの自我 が5減少\n[WinDuel] 防御レベル増加 6を得る\n[DefeatDuel] 精神力が5減少"
+  },
+  {
+    "key": "810611-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 창백한 소음 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Pallid Noise\nJP :\n[OnSucceedAttack] 蒼白な騒音 2を付与"
+  },
+  {
+    "key": "810611-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상을 흐트러짐 상태로 만듦",
+    "context": "EN :\n[OnSucceedAttack] Stagger target\nJP :\n[OnSucceedAttack] 対象を混乱させる"
+  },
+  {
+    "key": "810612-levelList$[0].name",
+    "original": "퍼져나오는 백화",
+    "context": "EN :\nInsidious Pallidification\nJP :\n広がりゆく白化"
+  },
+  {
+    "key": "810612-levelList$[0].desc",
+    "original": "[StartBattle] 최대 체력의 10%만큼 보호막을 얻음. 퀴케그의 자아 1 당 최대 체력의 0.5%만큼 보호막을 추가로 얻음.\n 보호막이 있는동안 피격 시 대상의 정신력 5 감소.\n피격 시 퀴케그의 자아 10당 스킬 1회 재사용",
+    "context": "EN :\n[StartBattle] Gain 10% of Max HP as Shield. For every Queequeg's Ego, gain additional 0.5% of Max HP as additional Shield.\nWhen attacked while Shielded, attacker loses 5 SP\nWhen attacked, use this Skill once for every 10 Queequeg's Ego\nJP :\n[StartBattle] 体力最大値の10%分バリアを得る。クィークェグの自我 1につき、体力最大値の0.5%分バリアを追加で得る。\nバリアがある間、被ダメージ時に対象の精神力を5減少。\n被ダメージ時、クィークェグの自我の破片10につき1回、スキルを再使用"
+  },
+  {
+    "key": "810612-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "810612-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bleed\nJP :\n[OnSucceedAttack] 出血 1を付与"
+  },
+  {
+    "key": "810007-levelList$[0].name",
+    "original": "예언을 멸시치 말라",
+    "context": "EN :\nScorn Not the Prophecy\nJP :\n予言を蔑視するでない"
+  },
+  {
+    "key": "810007-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 [Combustion] 5 부여, [Combustion] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Combustion] and 2 [Combustion] Count on target\nJP :\n[OnSucceedAttack] 対象に[Combustion]を5付与、[Combustion]回数が2増加"
+  }
+]

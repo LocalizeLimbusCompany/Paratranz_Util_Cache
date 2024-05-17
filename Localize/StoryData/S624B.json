@@ -1,0 +1,455 @@
+[
+  {
+    "key": "0-place",
+    "original": "워더링하이츠 지하실",
+    "context": "EN :\nWuthering Heights Basement\nJP :\nワザリング・ハイツ 地下室"
+  },
+  {
+    "key": "0-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "0-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "1-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "1-content",
+    "original": "거창한 짓거리를 해놓았군.",
+    "context": "EN :\nWhat an ostentatious production.\nJP :\n大層なことをやらかしやがって。"
+  },
+  {
+    "key": "2-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "2-content",
+    "original": "…다들, 보이세요?",
+    "context": "EN :\n... Is everyone seeing this?\nJP :\n…皆さん、見えますか？"
+  },
+  {
+    "key": "3-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "3-content",
+    "original": "유리관 속에… 사람들이 들어있어요… 눈을… 감거나… 뜬 채로…",
+    "context": "EN :\nThere are people... in those glass tubes. Their eyes are closed... no, some of them are open...\nJP :\nガラスの管のなかに…人が入ってます…。\n目を…閉じてたり…開いたままで…。"
+  },
+  {
+    "key": "4-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "4-content",
+    "original": "죽은… 걸까요?",
+    "context": "EN :\nAre they... dead?\nJP :\n死んだ…んでしょうか？"
+  },
+  {
+    "key": "5-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "5-content",
+    "original": "살았거나 죽었거나, 둘 다 말이 안 돼. 왜 저택에 이런…",
+    "context": "EN :\nDead or alive, it doesn't make sense either way. I just don't understand why there's something like this under this manor...?\nJP :\n生きてようが死んでようが、どっちもありえないでしょ。\nどうして邸宅にこんな…。"
+  },
+  {
+    "key": "6-content",
+    "original": "빼곡히 놓여있는 정체불명의 실험관들. 그 안에는 처음 보는 사람들이 미동도 없이 누워있었다.",
+    "context": "EN :\nThe room was filled with rows upon rows of mysterious glass pods, each housing a completely still person inside.\nJP :\n所狭しと置かれている正体不明の試験管。\nその中には見たことのない人たちが微動だにせず横たわっていた。"
+  },
+  {
+    "key": "7-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "7-content",
+    "original": "…각자 다른 복장을 하고 있으며 나이, 성별 또한 제각각.",
+    "context": "EN :\n... They are all dressed in different garbs. I don't see any recognizable age or gender patterns among them.\nJP :\n…それぞれ違う服装をしており、年齢や性別もまちまち。"
+  },
+  {
+    "key": "8-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "8-content",
+    "original": "그리고 T사에서는 대대적인 실종 사건이 벌어지고 있다 들었다.",
+    "context": "EN :\nRecall that large-scale cases of missing persons have been sweeping T Corp. lately.\nJP :\nそしてT社では大々的な失踪事件が起きていると聞いた。"
+  },
+  {
+    "key": "9-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "9-content",
+    "original": "그렇다면…",
+    "context": "EN :\nThen...\nJP :\nということは…。"
+  },
+  {
+    "key": "10-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "10-content",
+    "original": "저… 저기! 당신들이 찾던 황금가지가… 저건가요?",
+    "context": "EN :\nT-there! Is that the Golden Bough you were searching for...?\nJP :\nあ…あれ！あなたたちが探してた黄金の枝って…あれですか？"
+  },
+  {
+    "key": "11-content",
+    "original": "그 끝자락에는 관 속에 누워있는 한 여인이 보였고…",
+    "context": "EN :\nAt the end of the basement was a woman lying inside a coffin...\nJP :\nその先には棺の中で横たわっている一人の女性がいた…。"
+  },
+  {
+    "key": "12-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "12-content",
+    "original": "캐시!!!",
+    "context": "EN :\nCATHY!!!\nJP :\nキャシー！！！"
+  },
+  {
+    "key": "13-content",
+    "original": "멀리서부터 그 꿈꾸는 듯 평온한 얼굴을 한 사람을 알아본 자는 히스클리프뿐이었다.",
+    "context": "EN :\n... and Heathcliff was the only one who immediately recognized her face. She appeared to be at peace, as though in a pleasant dream.\nJP :\n遠くから、その夢を見ているかのような平穏な顔をした人が\n誰なのか気づけたのはヒースクリフだけだった。"
+  },
+  {
+    "key": "14-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "14-content",
+    "original": "…보이나? 저 관에 달린 기계장치들이.",
+    "context": "EN :\n... Look. There are machines attached to her coffin.\nJP :\n…見えるか？あの棺に付けられた装置が。"
+  },
+  {
+    "key": "15-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "15-content",
+    "original": "음. 아래를 향한 레버, 두 개가 보인다.",
+    "context": "EN :\nMm. I see two levers, both pointed downward.\nJP :\nふむ。下を向いたレバー、二つが見える。"
+  },
+  {
+    "key": "16-content",
+    "original": "그 관에 장착되어 있는 황금가지가 익숙한 빛을 내고 있었다.",
+    "context": "EN :\nAttached to the coffin was a Golden Bough, shimmering with the golden light we'd grown familiar with.\nJP :\nその棺に装着されている黄金の枝が、見慣れた光を放っていた。"
+  },
+  {
+    "key": "17-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "17-content",
+    "original": "캐시… 캐시, 기다려!",
+    "context": "EN :\nCathy... Cathy, wait for me!\nJP :\nキャシー…キャシー、待ってろよ！"
+  },
+  {
+    "key": "18-content",
+    "original": "히스클리프는 그 모든 광경과 말들이 시야에 들어오지 않듯… 마치 미친 사람처럼 관을 향해 달려 나갔다.",
+    "context": "EN :\nThe room, the glass pods, the chaos... none of it seemed to register for Heathcliff. He began sprinting toward the coffin like a madman.\nJP :\nヒースクリフはその全ての光景と言葉が視界と耳に入らないかのように…\nまるで狂ったように…棺に向かって掛けだしていた。"
+  },
+  {
+    "key": "19-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "19-content",
+    "original": "<…돈키호테?>",
+    "context": "EN :\n<... Don Quixote?>\nJP :\n<…ドンキホーテ？>"
+  },
+  {
+    "key": "20-content",
+    "original": "그런데, 분명 따라서 튀어 나갈 법한 돈키호테가 아연실색한 표정으로 무언가를 중얼거리고 있다.",
+    "context": "EN :\nDon Quixote, who I was ready to see sprinting alongside Heathcliff, was standing still, aghast.\nJP :\nそれなのに、絶対に追いかけて掛けだしていきそうなドンキホーテが\n唖然とした表情で何かをブツブツと呟いている。"
+  },
+  {
+    "key": "21-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "21-content",
+    "original": "뭔가… 뭔가 큰 오해가 있는 것이 틀림없네…",
+    "context": "EN :\nThere... there ought to have been a misunderstanding...\nJP :\n何か…何か大きな誤解があるに違いありませぬ…。"
+  },
+  {
+    "key": "22-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "22-content",
+    "original": "<오해?>",
+    "context": "EN :\n<A misunderstanding?>\nJP :\n<誤解？>"
+  },
+  {
+    "key": "23-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "23-content",
+    "original": "T사에서 실종되었다던 사람들이 명백하게 이곳 지하실에 갇혀 있는데, 무슨 오해가 있다는 거예요?",
+    "context": "EN :\nWhat misunderstanding? Those people in the pods are clearly the same people who were kidnapped at T Corp.\nJP :\nT社で行方不明になった人たちがこの地下室に閉じ込められているのは\n明らかだっていうのに、何の誤解があるというんですか？"
+  },
+  {
+    "key": "24-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "24-content",
+    "original": "보시오, 기계 근처에 서 있는 자들 말이네만…",
+    "context": "EN :\nLo, at those who stand flanking the machines...\nJP :\nご覧ぜよ、機械の近くに立っている者たちだが…。"
+  },
+  {
+    "key": "25-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "25-content",
+    "original": "저택에서 보았던 자들이지 않은가.",
+    "context": "EN :\nWe have seen them afore at the manor, have we not?\nJP :\n邸宅で見た者たちではあるまいか。"
+  },
+  {
+    "key": "26-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "26-content",
+    "original": "외우피 협회 나리들… 말일세.",
+    "context": "EN :\n... Fixers of the Öufi Association.\nJP :\nウーフィ協会のフィクサー殿…である。"
+  },
+  {
+    "key": "27-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "27-content",
+    "original": "나… 나리들.",
+    "context": "EN :\nH-honorable sirs and ladies.\nJP :\nフィ…フィクサー殿。"
+  },
+  {
+    "key": "28-model",
+    "original": "외우피협회보스F",
+    "translation": "Öufi协会首领F",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "외우피 해결사 부장",
+    "context": "EN :\nÖufi Assoc. Director\nJP :\nウーフィフィクサー 部長"
+  },
+  {
+    "key": "28-title",
+    "original": "외우피",
+    "context": "EN :\nÖufi\nJP :\nウーフィ"
+  },
+  {
+    "key": "28-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "29-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "29-content",
+    "original": "보… 본인은 세상 물정이 어둡고 눈치 없다는 소리를 자주 들었네. 하여, 섣부른 오해를 하고 싶지 않네…",
+    "context": "EN :\nOft was I told that I am rather ignorant with the goings of the world and my surroundings, so I wish not to so carelessly assume...\nJP :\nと…当人は世間知らずで空気が読めないとよく言われたのである。\n然れば、生半可な誤解はしたくありませぬ…。"
+  },
+  {
+    "key": "30-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "30-content",
+    "original": "그러니 부디 답을 내주시게.",
+    "context": "EN :\nThus I must implore thee to answer us.\nJP :\nそれゆえ、どうか答えを出してくだされ。"
+  },
+  {
+    "key": "31-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "31-content",
+    "original": "앞에 막고 있는 놈들… 당장 비켜.",
+    "context": "EN :\nAll of you... out of my way. Now.\nJP :\nオレの前を遮ってるヤツら…今すぐどけ。"
+  },
+  {
+    "key": "32-model",
+    "original": "외우피협회보스F",
+    "translation": "Öufi协会首领F",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "32-teller",
+    "original": "외우피 해결사 부장",
+    "context": "EN :\nÖufi Assoc. Director\nJP :\nウーフィフィクサー 部長"
+  },
+  {
+    "key": "32-title",
+    "original": "외우피",
+    "context": "EN :\nÖufi\nJP :\nウーフィ"
+  },
+  {
+    "key": "32-content",
+    "original": "이쪽으로는 접근 금지입니다.",
+    "context": "EN :\nThis area is off limits.\nJP :\nこちらへの接近は禁止となっております。"
+  },
+  {
+    "key": "33-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "33-content",
+    "original": "금지…?",
+    "context": "EN :\nOff limits...?\nJP :\n禁止…？"
+  },
+  {
+    "key": "34-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "34-content",
+    "original": "지금 내 바로 앞에… 캐서린이 보이는데.",
+    "context": "EN :\nShe's there. I can see Catherine right there, before my eyes.\nJP :\n今オレの目の前に…キャサリンが見えるってのに。"
+  },
+  {
+    "key": "35-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "35-content",
+    "original": "캐시에게 향하는 걸… 니 새끼들이 금지시킬 수 있을 것 같냐.",
+    "context": "EN :\nI won't let you fucks stand between us.\nJP :\nキャサリンへと向かうことを…\nテメェらどもなんかが禁止できると思ってんのか。"
+  },
+  {
+    "key": "36-model",
+    "original": "외우피협회보스F",
+    "translation": "Öufi协会首领F",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "36-teller",
+    "original": "외우피 해결사 부장",
+    "context": "EN :\nÖufi Assoc. Director\nJP :\nウーフィフィクサー 部長"
+  },
+  {
+    "key": "36-title",
+    "original": "외우피",
+    "context": "EN :\nÖufi\nJP :\nウーフィ"
+  },
+  {
+    "key": "36-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "37-model",
+    "original": "외우피협회보스F",
+    "translation": "Öufi协会首领F",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "37-teller",
+    "original": "외우피 해결사 부장",
+    "context": "EN :\nÖufi Assoc. Director\nJP :\nウーフィフィクサー 部長"
+  },
+  {
+    "key": "37-title",
+    "original": "외우피",
+    "context": "EN :\nÖufi\nJP :\nウーフィ"
+  },
+  {
+    "key": "37-content",
+    "original": "벌써 여기까지 올 거라고는 예상 못 했는데… 뭐, 아직 때가 되지 않았으니.",
+    "context": "EN :\nDidn't expect them to get here so soon... well, we need to buy some more time.\nJP :\nもうここまで来るとは予想できていませんでしたが…。\nまぁ、まだ時は来ていないので。"
+  },
+  {
+    "key": "38-model",
+    "original": "외우피협회보스F",
+    "translation": "Öufi协会首领F",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "38-teller",
+    "original": "외우피 해결사 부장",
+    "context": "EN :\nÖufi Assoc. Director\nJP :\nウーフィフィクサー 部長"
+  },
+  {
+    "key": "38-title",
+    "original": "외우피",
+    "context": "EN :\nÖufi\nJP :\nウーフィ"
+  },
+  {
+    "key": "38-content",
+    "original": "부산물을 풀어라.",
+    "context": "EN :\nUnlease the dregs.\nJP :\n副産物を解け。"
+  },
+  {
+    "key": "39-content",
+    "original": "그들이 실험실 장치를 몇 가지 건드리자…",
+    "context": "EN :\nThe Fixers began fiddling with the lab machines...\nJP :\n彼らが実験室の装置をいくつか触ると…。"
+  }
+]

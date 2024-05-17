@@ -1,0 +1,1472 @@
+[
+  {
+    "key": "dungeon_selectable-content",
+    "original": "선택 가능",
+    "context": "EN :\nSelectable\nJP :\n選択可能"
+  },
+  {
+    "key": "dungeon_battle_reawrd_card_selection-content",
+    "original": "전투 보상 카드 선택",
+    "context": "EN :\nSelect Encounter Reward Card\nJP :\n戦闘報酬カード選択"
+  },
+  {
+    "key": "dungeon_opportunity_to_select_rewards_remaining-content",
+    "original": "보상 선택 기회가 남아있습니다.\n보상을 선택하지 않고 진행하시겠습니까?",
+    "context": "EN :\nYou have not selected a reward yet.\nContinue without choosing a reward?\nJP :\n報酬選択チャンスが残っています。\n報酬を選択せずに進行しますか？"
+  },
+  {
+    "key": "mirrordungeon_appear_able_theme_pack_title-content",
+    "original": "{0} - 등장 테마팩",
+    "context": "EN :\n{0} - Featured Theme Packs\nJP :\n{0} - テーマパック"
+  },
+  {
+    "key": "mirrordungeon_theme_pack_boss-content",
+    "original": "등장 보스",
+    "context": "EN :\nFeatured Boss\nJP :\n出現ボス"
+  },
+  {
+    "key": "mirrordungeon_theme_pack_ego_gift-content",
+    "original": "등장 E.G.O 기프트",
+    "context": "EN :\nFeatured E.G.O Gifts\nJP :\n出現E.G.Oギフト"
+  },
+  {
+    "key": "mirrordunge_theme_pack_history_button_label-content",
+    "original": "테마팩 기록집",
+    "context": "EN :\nTheme Pack Compendium\nJP :\nテーマパック記録"
+  },
+  {
+    "key": "simulation_difficulty-content",
+    "original": "시뮬레이션 난이도",
+    "context": "EN :\nSimulation\nJP :\n難易度:シミュレーション"
+  },
+  {
+    "key": "ritournelle_difficulty-content",
+    "original": "리토르넬로 난이도",
+    "context": "EN :\nRitornello\nJP :\n難易度:リトルネッロ"
+  },
+  {
+    "key": "enter_simulation_difficulty-content",
+    "original": "시뮬레이션 난이도 입장",
+    "context": "EN :\nEnter Simulation\nJP :\n難易度:シミュレーション 入場"
+  },
+  {
+    "key": "enter_ritournelle_difficulty-content",
+    "original": "리토르넬로 난이도 입장",
+    "context": "EN :\nEnter Ritornello\nJP :\n難易度:リトルネッロ 入場"
+  },
+  {
+    "key": "mirror_dungeon_progress_text_4_normal-content",
+    "original": "시뮬레이션 {0}층",
+    "context": "EN :\nSimulation Floor {0}\nJP :\nシミュレーション {0}階層"
+  },
+  {
+    "key": "mirror_dungeon_progress_text_4_hard-content",
+    "original": "리토르넬로 {0}층",
+    "context": "EN :\nRitornello Floor {0}\nJP :\nリトルネッロ {0}階層"
+  },
+  {
+    "key": "mirror_dungeon_progress_text_before_exploration-content",
+    "original": "탐사 전",
+    "context": "EN :\nBefore Entry\nJP :\n探査前"
+  },
+  {
+    "key": "mirror_dungeon4_entrance_hard_hint_after_release-content",
+    "original": "<개방 조건>\n주요 이야기 5-36 클리어\n폭풍의 거울 시뮬레이션 난이도 클리어",
+    "context": "EN :\n<Unlock Conditions>\nClear 5-36\nClear Mirror of the Wuthering\nSimulation Difficulty\nJP :\n<解放条件>\nメインストーリー5-36クリア\n嵐の鏡 難易度:シミュレーションをクリア"
+  },
+  {
+    "key": "dungeon_encounter_guide_elite_battle-content",
+    "original": "정예 전투",
+    "context": "EN :\nElite Encounter\nJP :\n精鋭戦闘"
+  },
+  {
+    "key": "purchase_ego_gift-content",
+    "original": "E.G.O 기프트 구매",
+    "context": "EN :\nPurchase E.G.O Gifts\nJP :\nE.G.Oギフト購入"
+  },
+  {
+    "key": "purchase_personality_skill_desc-content",
+    "original": "코스트 <color=#f8c200>{0}</color>을 소모하여 교체하시겠습니까?",
+    "context": "EN :\nSpend <color=#f8c200>{0}</color> Cost to replace this Skill?\nJP :\nコスト<color=#f8c200>{0}</color>を消耗して、交換しますか？"
+  },
+  {
+    "key": "mirror_dungeon_4_start_buff_name-content",
+    "original": "별의 귀로",
+    "context": "EN :\nPath of Stars\nJP :\n星の帰路"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_1-content",
+    "original": "폭풍의 눈",
+    "context": "EN :\nEye of the Storm\nJP :\n嵐の目"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_2-content",
+    "original": "벽력성",
+    "context": "EN :\nThunder\nJP :\n雷の音"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_3-content",
+    "original": "칼바람",
+    "context": "EN :\nBiting Wind\nJP :\n身を切る風"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_4-content",
+    "original": "순풍",
+    "context": "EN :\nFair Winds\nJP :\n追い風"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_5-content",
+    "original": "무리 지은 번개",
+    "context": "EN :\nCascade of Levin\nJP :\n群れなす稲妻"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_6-content",
+    "original": "모여드는 폭풍",
+    "context": "EN :\nGathering Storm\nJP :\n集まる嵐"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_7-content",
+    "original": "용오름",
+    "context": "EN :\nTornado\nJP :\n竜巻"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_8-content",
+    "original": "제야의 울림",
+    "context": "EN :\nRinging of the New Year's Eve\nJP :\n除夜の響き"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_9-content",
+    "original": "희미한 땅거미",
+    "context": "EN :\nFaint Evenfall\nJP :\n微かな夕闇"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_10-content",
+    "original": "검은 극야",
+    "context": "EN :\nBlack Polar Night\nJP :\n黒い極夜"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_11-content",
+    "original": "고요한 새벽",
+    "context": "EN :\nStill Dawn\nJP :\n静かな夜明け"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_12-content",
+    "original": "차가운 여명",
+    "context": "EN :\nWintry Daybreak\nJP :\n冷たい黎明"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_13-content",
+    "original": "불야성",
+    "context": "EN :\nNightless City\nJP :\n不夜城"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_14-content",
+    "original": "양떼구름",
+    "context": "EN :\nSheepback Clouds\nJP :\n羊雲"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_15-content",
+    "original": "드높은 운해",
+    "context": "EN :\nGrand Sea of Clouds\nJP :\n高らかな雲海"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_16-content",
+    "original": "재넘이",
+    "context": "EN :\nKatabatic Wind\nJP :\n山おろし"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_17-content",
+    "original": "거센 돌풍",
+    "context": "EN :\nFierce Gust\nJP :\n激しい突風"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_18-content",
+    "original": "서풍의 귀로",
+    "context": "EN :\nPath of the West Wind\nJP :\n西風の帰路"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_19-content",
+    "original": "상승기류",
+    "context": "EN :\nUpdraft\nJP :\n上昇気流"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_19_1-content",
+    "original": "밤 소나기",
+    "context": "EN :\nNight Rain\nJP :\n夜のにわか雨"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_20-content",
+    "original": "낙뢰향연",
+    "context": "EN :\nFeast of Lightning\nJP :\n落雷饗宴"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_21-content",
+    "original": "뒤따르는 뇌명",
+    "context": "EN :\nImpending Thunder\nJP :\n後を追う雷鳴"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_22-content",
+    "original": "두터운 안개",
+    "context": "EN :\nHazy Mist\nJP :\n厚い霧"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_23-content",
+    "original": "산돌림",
+    "context": "EN :\nItinerant Rain\nJP :\nあまねく夕立"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_24-content",
+    "original": "끝없는 대류",
+    "context": "EN :\nEndless Current\nJP :\n絶えぬ対流"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_25-content",
+    "original": "사건의 지평선",
+    "context": "EN :\nEvent Horizon\nJP :\n事件の地平線"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_26-content",
+    "original": "은하수",
+    "context": "EN :\nMilky Way\nJP :\n銀河"
+  },
+  {
+    "key": "mirror_dungeon_4_buffs_title_27-content",
+    "original": "다가오는 혜성",
+    "context": "EN :\nImpending Comet\nJP :\n迫り来る彗星"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_100-content",
+    "original": "[한정]\n별새김 진행 시, 별빛 200 획득 (최초 1회 한정, 활성화 영향을 받지 않음)",
+    "context": "EN :\n[Limited]\nGain 200 Starlight upon engraving this Star (1-time only, unaffected by activation status)\nJP :\n[限定]\n刻星時、星明かりを200獲得(初回1回限定、活性化の影響を受けない)"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_101-content",
+    "original": "[시작 E.G.O 기프트]\n신규 E.G.O 기프트 7종 시작 E.G.O 기프트 목록에 추가",
+    "context": "EN :\n[Starting E.G.O Gift]\nIntroduce 7 new E.G.O Gifts to the Starting E.G.O Gift pool\nJP :\n[開始E.G.Oギフト]\n新規E.G.Oギフト7種を、開始E.G.Oギフトリストへ追加"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1011-content",
+    "original": "[시작 E.G.O 기프트]\n화상 E.G.O 기프트 항목 개방",
+    "context": "EN :\n[Starting E.G.O Gift]\nUnlocks Burn E.G.O Gifts Category\nJP :\n[開始E.G.Oギフト]\n火傷E.G.Oギフトの項目を解放"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1012-content",
+    "original": "[시작 E.G.O 기프트]\n출혈 E.G.O 기프트 항목 개방",
+    "context": "EN :\n[Starting E.G.O Gift]\nUnlocks Bleed E.G.O Gifts category\nJP :\n[開始E.G.Oギフト]\n出血E.G.Oギフトの項目を解放"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1013-content",
+    "original": "[시작 E.G.O 기프트]\n진동 E.G.O 기프트 항목 개방",
+    "context": "EN :\n[Starting E.G.O Gift]\nUnlocks Tremor E.G.O Gifts category\nJP :\n[開始E.G.Oギフト]\n振動E.G.Oギフトの項目を解放"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1014-content",
+    "original": "[시작 E.G.O 기프트]\n파열 E.G.O 기프트 항목 개방",
+    "context": "EN :\n[Starting E.G.O Gift]\nUnlocks Rupture E.G.O Gifts category\nJP :\n[開始E.G.Oギフト]\n破裂E.G.Oギフトの項目を解放"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1015-content",
+    "original": "[시작 E.G.O 기프트]\n침잠 E.G.O 기프트 항목 개방",
+    "context": "EN :\n[Starting E.G.O Gift]\nUnlocks Sinking E.G.O Gifts category\nJP :\n[開始E.G.Oギフト]\n沈潜E.G.Oギフトの項目を解放"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1016-content",
+    "original": "[시작 E.G.O 기프트]\n호흡 E.G.O 기프트 항목 개방",
+    "context": "EN :\n[Starting E.G.O Gift]\nUnlocks Poise E.G.O Gifts category\nJP :\n[開始E.G.Oギフト]\n呼吸E.G.Oギフトの項目を解放"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1017-content",
+    "original": "[시작 E.G.O 기프트]\n충전 E.G.O 기프트 항목 개방",
+    "context": "EN :\n[Starting E.G.O Gift]\nUnlocks Charge E.G.O Gifts category\nJP :\n[開始E.G.Oギフト]\n充電E.G.Oギフトの項目を解放"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_102-content",
+    "original": "[시작 E.G.O 기프트]\n신규 E.G.O 기프트 6종 시작 E.G.O 기프트 목록에 추가",
+    "context": "EN :\n[Starting E.G.O Gift]\nIntroduce 6 new E.G.O Gifts to the Starting E.G.O Gift pool\nJP :\n[開始E.G.Oギフト]\n新規E.G.Oギフト6種を、開始E.G.Oギフトリストへ追加"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1021-content",
+    "original": "[시작 E.G.O 기프트]\n참격 E.G.O 기프트 항목 개방",
+    "context": "EN :\n[Starting E.G.O Gift]\nUnlocks Slash E.G.O Gifts category\nJP :\n[開始E.G.Oギフト]\n斬撃E.G.Oギフトの項目を解放"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1022-content",
+    "original": "[시작 E.G.O 기프트]\n관통 E.G.O 기프트 항목 개방",
+    "context": "EN :\n[Starting E.G.O Gift]\nUnlocks Pierce E.G.O Gifts category\nJP :\n[開始E.G.Oギフト]\n貫通E.G.Oギフトの項目を解放"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1023-content",
+    "original": "[시작 E.G.O 기프트]\n타격 E.G.O 기프트 항목 개방",
+    "context": "EN :\n[Starting E.G.O Gift]\nUnlocks Blunt E.G.O Gifts category\nJP :\n[開始E.G.Oギフト]\n打撃E.G.Oギフトの項目を解放"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1024-content",
+    "original": "(사용 안 함)",
+    "context": "EN :\n(NOT USED)\nJP :\n(사용 안 함)"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_103-content",
+    "original": "[공용]\n시작 코스트 50 획득",
+    "context": "EN :\n[Universal]\nGain +50 Starting Cost\nJP :\n[共用]\n開始コストを50獲得"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1031-content",
+    "original": "[공용]\n시작 코스트 +50",
+    "context": "EN :\n[Universal]\nGain +50 Starting Cost\nJP :\n[共用]\n開始コスト +50"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1032-content",
+    "original": "[공용]\n시작 코스트 +50",
+    "context": "EN :\n[Universal]\nGain +50 Starting Cost\nJP :\n[共用]\n開始コスト +50"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1033-content",
+    "original": "[공용]\n시작 코스트 +50",
+    "context": "EN :\n[Universal]\nGain +50 Starting Cost\nJP :\n[共用]\n開始コスト +50"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_104-content",
+    "original": "[공용]\n2등급 신규 E.G.O 기프트 16종 상점, 합성 결과, 전투 보상에 추가",
+    "context": "EN :\n[Universal]\nIntroduce 16 new Tier 2 E.G.O Gifts to the Shops, Gift Fusion results, and Encounter Rewards pool\nJP :\n[共用]\nランク2の新規E.G.Oギフト16種をショップ、合成結果、戦闘報酬へ追加"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1041-content",
+    "original": "[시작 E.G.O 기프트]\n화상 E.G.O 기프트 등장 수 +1",
+    "context": "EN :\n[Starting E.G.O Gift]\nNumber of E.G.O Gifts appearing in the Burn Category +1\nJP :\n[開始E.G.Oギフト]\n火傷E.G.Oギフトの出現数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1042-content",
+    "original": "[시작 E.G.O 기프트]\n출혈 E.G.O 기프트 등장 수 +1",
+    "context": "EN :\n[Starting E.G.O Gift]\nNumber of E.G.O Gifts appearing in the Bleed Category +1\nJP :\n[開始E.G.Oギフト]\n出血E.G.Oギフトの出現数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1043-content",
+    "original": "[시작 E.G.O 기프트]\n진동 E.G.O 기프트 등장 수 +1",
+    "context": "EN :\n[Starting E.G.O Gift]\nNumber of E.G.O Gifts appearing in the Tremor Category +1\nJP :\n[開始E.G.Oギフト]\n振動E.G.Oギフトの出現数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1044-content",
+    "original": "[시작 E.G.O 기프트]\n파열 E.G.O 기프트 등장 수 +1",
+    "context": "EN :\n[Starting E.G.O Gift]\nNumber of E.G.O Gifts appearing in the Rupture Category +1\nJP :\n[開始E.G.Oギフト]\n破裂E.G.Oギフトの出現数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1045-content",
+    "original": "[시작 E.G.O 기프트]\n침잠 E.G.O 기프트 등장 수 +1",
+    "context": "EN :\n[Starting E.G.O Gift]\nNumber of E.G.O Gifts appearing in the Sinking Category +1\nJP :\n[開始E.G.Oギフト]\n沈潜E.G.Oギフトの出現数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1046-content",
+    "original": "[시작 E.G.O 기프트]\n호흡 E.G.O 기프트 등장 수 +1",
+    "context": "EN :\n[Starting E.G.O Gift]\nNumber of E.G.O Gifts appearing in the Poise Category +1\nJP :\n[開始E.G.Oギフト]\n呼吸E.G.Oギフトの出現数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1047-content",
+    "original": "[시작 E.G.O 기프트]\n충전 E.G.O 기프트 등장 수 +1",
+    "context": "EN :\n[Starting E.G.O Gift]\nNumber of E.G.O Gifts appearing in the Charge Category +1\nJP :\n[開始E.G.Oギフト]\n充電E.G.Oギフトの出現数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_105-content",
+    "original": "[공용]\n3~4등급 신규 E.G.O 기프트 28종 상점, 합성 결과, 전투 보상에 추가",
+    "context": "EN :\n[Universal]\nIntroduce 28 new Tier 3~4 E.G.O Gifts to the Shops, Gift Fusion results, and Encounter Rewards pool\nJP :\n[共用]\nランク3～4の新規E.G.Oギフト28種をショップ、合成結果、戦闘報酬へ追加"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1051-content",
+    "original": "[시작 E.G.O 기프트]\n참격 E.G.O 기프트 등장 수 +1",
+    "context": "EN :\n[Starting E.G.O Gift]\nNumber of E.G.O Gifts appearing in the Slash Category +1\nJP :\n[開始E.G.Oギフト]\n斬撃E.G.Oギフトの出現数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1052-content",
+    "original": "[시작 E.G.O 기프트]\n관통 E.G.O 기프트 등장 수 +1",
+    "context": "EN :\n[Starting E.G.O Gift]\nNumber of E.G.O Gifts appearing in the Pierce Category +1\nJP :\n[開始E.G.Oギフト]\n貫通E.G.Oギフトの出現数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1053-content",
+    "original": "[시작 E.G.O 기프트]\n타격 E.G.O 기프트 등장 수 +1",
+    "context": "EN :\n[Starting E.G.O Gift]\nNumber of E.G.O Gifts appearing in the Blunt Category +1\nJP :\n[開始E.G.Oギフト]\n打撃E.G.Oギフトの出現数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1054-content",
+    "original": "[시작 E.G.O 기프트]\n무작위 E.G.O 기프트 등장 수 +1",
+    "context": "EN :\n[Starting E.G.O Gift]\nNumber of E.G.O Gifts appearing in the Random Category +1\nJP :\n[開始E.G.Oギフト]\nランダムなE.G.Oギフトの出現数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_106-content",
+    "original": "[상점]\n선택 가능한 E.G.O 기프트 수 +1",
+    "context": "EN :\n[Shops]\nNumber of E.G.O Gifts sold at Shops +1\nJP :\n[ショップ]\n選択可能なE.G.Oギフト数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_111-content",
+    "original": "[상점]\nE.G.O 기프트 출현 등급 상승",
+    "context": "EN :\n[Shops]\nSells higher Tier E.G.O Gifts\nJP :\n[ショップ]\nE.G.Oギフト出現ランクが上昇"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1111-content",
+    "original": "[상점]\nE.G.O 기프트 출현 등급 상승",
+    "context": "EN :\n[Shops]\nSells higher Tier E.G.O Gifts\nJP :\n[ショップ]\nE.G.Oギフト出現ランクが上昇"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1112-content",
+    "original": "[상점]\nE.G.O 기프트 출현 등급 상승",
+    "context": "EN :\n[Shops]\nSells higher Tier E.G.O Gifts\nJP :\n[ショップ]\nE.G.Oギフト出現ランクが上昇"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1113-content",
+    "original": "[상점]\nE.G.O 기프트 출현 등급 상승",
+    "context": "EN :\n[Shops]\nSells higher Tier E.G.O Gifts\nJP :\n[ショップ]\nE.G.Oギフト出現ランクが上昇"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_112-content",
+    "original": "[상점]\n등장 E.G.O 기프트 수 +1",
+    "context": "EN :\n[Shops]\nNumber of E.G.O Gifts sold at Shops +1\nJP :\n[ショップ]\n出現E.G.Oギフト数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1121-content",
+    "original": "[상점]\n새로고침 비용 -20%",
+    "context": "EN :\n[Shops]\nRefresh Cost -20%\nJP :\n[ショップ]\n更新コスト -20%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1122-content",
+    "original": "[상점]\n새로고침 비용 -20%",
+    "context": "EN :\n[Shops]\nRefresh Cost -20%\nJP :\n[ショップ]\n更新コスト -20%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_113-content",
+    "original": "[상점]\nE.G.O 기프트 구매 비용 -5%",
+    "context": "EN :\n[Shops]\nE.G.O Gift purchase Cost -5%\nJP :\n[ショップ]\nE.G.Oギフト購入費用 -5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1131-content",
+    "original": "[상점]\n1등급 E.G.O 기프트 구매 비용 -7.5%",
+    "context": "EN :\n[Shops]\nTier 1 E.G.O Gift purchase Cost -7.5%\nJP :\n[ショップ]\nランク1E.G.Oギフト購入費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1132-content",
+    "original": "[상점]\n2등급 E.G.O 기프트 구매 비용 -7.5%",
+    "context": "EN :\n[Shops]\nTier 2E.G.O Gift purchase Cost -7.5%\nJP :\n[ショップ]\nランク2E.G.Oギフト購入費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1133-content",
+    "original": "[상점]\n3등급 E.G.O 기프트 구매 비용 -7.5%",
+    "context": "EN :\n[Shops]\nTier 3 E.G.O Gift purchase Cost -7.5%\nJP :\n[ショップ]\nランク3E.G.Oギフト購入費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1134-content",
+    "original": "[상점]\n4등급 이상 E.G.O 기프트 구매 비용 -7.5%",
+    "context": "EN :\n[Shops]\nTier 4+ E.G.O Gift purchase Cost -7.5%\nJP :\n[ショップ]\nランク4以上のE.G.Oギフト購入費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_114-content",
+    "original": "[상점]\nE.G.O 기프트 구매 비용 -5%",
+    "context": "EN :\n[Shops]\nE.G.O Gift purchase Cost -5%\nJP :\n[ショップ]\nE.G.Oギフト購入費用 -5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1141-content",
+    "original": "[상점]\n화상 E.G.O 기프트 구매 비용 -7.5%",
+    "context": "EN :\n[Shops]\nBurn E.G.O Gift purchase Cost -7.5%\nJP :\n[ショップ]\n火傷E.G.Oギフト購入費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1142-content",
+    "original": "[상점]\n출혈 E.G.O 기프트 구매 비용 -7.5%",
+    "context": "EN :\n[Shops]\nBleed E.G.O Gift purchase Cost -7.5%\nJP :\n[ショップ]\n出血E.G.Oギフト購入費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1143-content",
+    "original": "[상점]\n진동 E.G.O 기프트 구매 비용 -7.5%",
+    "context": "EN :\n[Shops]\nTremor E.G.O Gift purchase Cost -7.5%\nJP :\n[ショップ]\n振動E.G.Oギフト購入費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1144-content",
+    "original": "[상점]\n파열 E.G.O 기프트 구매 비용 -7.5%",
+    "context": "EN :\n[Shops]\nRupture E.G.O Gift purchase Cost -7.5%\nJP :\n[ショップ]\n破裂E.G.Oギフト購入費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1145-content",
+    "original": "[상점]\n침잠 E.G.O 기프트 구매 비용 -7.5%",
+    "context": "EN :\n[Shops]\nSinking E.G.O Gift purchase Cost -7.5%\nJP :\n[ショップ]\n沈潜E.G.Oギフト購入費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1146-content",
+    "original": "[상점]\n호흡 E.G.O 기프트 구매 비용 -7.5%",
+    "context": "EN :\n[Shops]\nPoise E.G.O Gift purchase Cost -7.5%\nJP :\n[ショップ]\n呼吸E.G.Oギフト購入費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1147-content",
+    "original": "[상점]\n충전 E.G.O 기프트 구매 비용 -7.5%",
+    "context": "EN :\n[Shops]\nCharge E.G.O Gift purchase Cost -7.5%\nJP :\n[ショップ]\n充電E.G.Oギフト購入費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_115-content",
+    "original": "[상점]\nE.G.O 기프트 구매 비용 -5%",
+    "context": "EN :\n[Shops]\nE.G.O Gift purchase Cost -5%\nJP :\n[ショップ]\nE.G.Oギフト購入費用 -5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1151-content",
+    "original": "[상점]\n참격 E.G.O 기프트 구매 비용 -7.5%",
+    "context": "EN :\n[Shops]\nSlash E.G.O Gift purchase Cost -7.5%\nJP :\n[ショップ]\n斬撃E.G.Oギフト購入費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1152-content",
+    "original": "[상점]\n관통 E.G.O 기프트 구매 비용 -7.5%",
+    "context": "EN :\n[Shops]\nPierce E.G.O Gift purchase Cost -7.5%\nJP :\n[ショップ]\n貫通E.G.Oギフト購入費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1153-content",
+    "original": "[상점]\n타격 E.G.O 기프트 구매 비용 -7.5%",
+    "context": "EN :\n[Shops]\nBlunt E.G.O Gift purchase Cost -7.5%\nJP :\n[ショップ]\n打撃E.G.Oギフト購入費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1154-content",
+    "original": "[상점]\n키워드가 없는 E.G.O 기프트 구매 비용 -7.5%",
+    "context": "EN :\n[Shops]\nKeywordless E.G.O Gift Purchase Cost -7.5%\nJP :\n[ショップ]\nキーワードがないE.G.Oギフトの購入費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_116-content",
+    "original": "[상점]\nE.G.O 기프트 등장 수 +1",
+    "context": "EN :\n[Shops]\nNumber of E.G.O Gifts sold at Shops +1\nJP :\n[ショップ]\nE.G.Oギフト出現数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1161-content",
+    "original": "[상점]\n1등급 E.G.O 기프트 판매 비용 +20%",
+    "context": "EN :\n[Shops]\nTier 1 E.G.O Gift sale Cost +20%\nJP :\n[ショップ]\nランク1E.G.Oギフト販売費用 +20%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1162-content",
+    "original": "[상점]\n2등급 E.G.O 기프트 판매 비용 +20%",
+    "context": "EN :\n[Shops]\nTier 2 E.G.O Gift sale Cost +20%\nJP :\n[ショップ]\nランク2E.G.Oギフト販売費用 +20%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1163-content",
+    "original": "[상점]\n3등급 E.G.O 기프트 판매 비용 +20%",
+    "context": "EN :\n[Shops]\nTier 3 E.G.O Gift sale Cost +20%\nJP :\n[ショップ]\nランク3E.G.Oギフト販売費用 +20%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1164-content",
+    "original": "[상점]\n4등급 이상 E.G.O 기프트 판매 비용 +20%",
+    "context": "EN :\n[Shops]\nTier 4+ E.G.O Gift sale Cost +20%\nJP :\n[ショップ]\nランク4以上のE.G.Oギフト販売費用 +20%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1165-content",
+    "original": "[상점]\n스킬 교체 비용 -20%",
+    "context": "EN :\n[Shops]\nSkill Replacement Cost -20%\nJP :\n[ショップ]\nスキル交換コスト -20%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1166-content",
+    "original": "[상점]\n스킬 교체 비용 -20%",
+    "context": "EN :\n[Shops]\nSkill Replacement Cost -20%\nJP :\n[ショップ]\nスキル交換コスト -20%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_121-content",
+    "original": "[쉼터]\nE.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nE.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\nE.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1211-content",
+    "original": "[쉼터]\n1등급 E.G.O 기프트의 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nTier 1 E.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\nランク1E.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1212-content",
+    "original": "[쉼터]\n2등급 E.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nTier 2 E.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\nランク2E.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1213-content",
+    "original": "[쉼터]\n3등급 E.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nTier 3 E.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\nランク3E.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1214-content",
+    "original": "[쉼터]\n4등급 이상 E.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nTier 4+ E.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\nランク4以上のE.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_122-content",
+    "original": "[상점]\n20% 확률로 새로고침 시 무료",
+    "context": "EN :\n[Shops]\n20% chance for a Cost-free Refresh\nJP :\n[ショップ]\n20%の確率で更新コストが0になる"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_123-content",
+    "original": "[쉼터]\nE.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nE.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\nE.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1231-content",
+    "original": "[쉼터]\n화상 E.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nBurn E.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\n火傷E.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1232-content",
+    "original": "[쉼터]\n출혈 E.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nBleed E.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\n出血E.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1233-content",
+    "original": "[쉼터]\n진동 E.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nTremor E.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\n振動E.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1234-content",
+    "original": "[쉼터]\n파열 E.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nRupture E.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\n破裂E.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1235-content",
+    "original": "[쉼터]\n침잠 E.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nSinking E.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\n沈潜E.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1236-content",
+    "original": "[쉼터]\n호흡 E.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nPoise E.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\n呼吸E.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1237-content",
+    "original": "[쉼터]\n충전 E.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nCharge E.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\n充電E.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_124-content",
+    "original": "[쉼터]\n20% 확률로 강화 시 비용 반환",
+    "context": "EN :\n[Rest Stops]\n20% chance to refund Enhancement Cost\nJP :\n[憩いの場]\n20%の確率で強化時に費用が返還"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_125-content",
+    "original": "[쉼터]\nE.G.O 기프트 강화 비용 -10%",
+    "context": "EN :\n[Rest Stops]\nE.G.O Gift Enhance Cost -10%\nJP :\n[憩いの場]\nE.G.Oギフト強化費用 -10%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1251-content",
+    "original": "[쉼터]\n참격 E.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nSlash E.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\n斬撃E.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1252-content",
+    "original": "[쉼터]\n관통 E.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nPierce E.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\n貫通E.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1253-content",
+    "original": "[쉼터]\n타격 E.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nBlunt E.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\n打撃E.G.Oギフト強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1254-content",
+    "original": "[쉼터]\n키워드가 없는 E.G.O 기프트 강화 비용 -7.5%",
+    "context": "EN :\n[Rest Stops]\nKeywordless E.G.O Gift Enhance Cost -7.5%\nJP :\n[憩いの場]\nキーワードがないE.G.Oギフトの強化費用 -7.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_126-content",
+    "original": "[공용]\n전투 승리 시 획득 코스트 +10%",
+    "context": "EN :\n[Universal]\nGain +10% more Cost after winning a Combat Encounter\nJP :\n[共用]\n戦闘勝利時の獲得コスト +10%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1261-content",
+    "original": "[공용]\n일반 전투 승리 시 획득 코스트 +10%",
+    "context": "EN :\n[Universal]\nGain +10% more Cost after winning a Regular Encounter\nJP :\n[共用]\n一般戦闘勝利時の獲得コスト +10%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1262-content",
+    "original": "[공용]\n집중 전투 승리 시, 획득하는 코스트 +10%",
+    "context": "EN :\n[Universal]\nGain +10% more Cost after winning a Focused Encounter\nJP :\n[共用]\n集中戦闘勝利時の獲得コスト +10%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1263-content",
+    "original": "[공용]\n정예 전투 승리 시, 획득 코스트 +10%",
+    "context": "EN :\n[Universal]\nGain +10% more Cost after winning an Elite Encounter\nJP :\n[共用]\n精鋭戦闘勝利時の獲得コスト +10%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1264-content",
+    "original": "[공용]\n보스 전투 승리 시, 획득 코스트 +10%",
+    "context": "EN :\n[Universal]\nGain +10% more Cost after winning a Boss Encounter\nJP :\n[共用]\nボス戦闘勝利時の獲得コスト +10%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_131-content",
+    "original": "[층 테마]\n층 테마 등장 수 +1",
+    "context": "EN :\n[Floor Theme]\nNumber of Floor Theme Choices +1\nJP :\n[階層テーマ]\n階層テーマ出現数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_132-content",
+    "original": "[전투]\n가하는 피해량 +2.5%",
+    "context": "EN :\n[Encounters]\nDeal +2.5% damage\nJP :\n[戦闘]\n与ダメージ量 +2.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1321-content",
+    "original": "[전투]\n가하는 피해량 +2.5%",
+    "context": "EN :\n[Encounters]\nDeal +2.5% damage\nJP :\n[戦闘]\n与ダメージ量 +2.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1322-content",
+    "original": "[전투]\n가하는 피해량 +2.5%",
+    "context": "EN :\n[Encounters]\nDeal +2.5% damage\nJP :\n[戦闘]\n与ダメージ量 +2.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1323-content",
+    "original": "[전투]\n가하는 피해량 +2.5%",
+    "context": "EN :\n[Encounters]\nDeal +2.5% damage\nJP :\n[戦闘]\n与ダメージ量 +2.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1324-content",
+    "original": "[전투]\n공격 레벨 +1",
+    "context": "EN :\n[Encounters]\nOffense Level +1\nJP :\n[戦闘]\n攻撃レベル +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1325-content",
+    "original": "[전투]\n공격 레벨 +1",
+    "context": "EN :\n[Encounters]\nOffense Level +1\nJP :\n[戦闘]\n攻撃レベル +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_133-content",
+    "original": "[전투 보상 카드]\n전투 보상 카드 등장 수 +1",
+    "context": "EN :\n[Encounter Reward Cards]\nNumber of Encounter Reward Card Choices +1\nJP :\n[戦闘報酬カード]\n戦闘報酬カードの出現数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_134-content",
+    "original": "[전투]\n받는 피해량 -2.5%",
+    "context": "EN :\n[Encounters]\nTake -2.5% damage\nJP :\n[戦闘]\n被ダメージ量 -2.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1341-content",
+    "original": "[전투]\n받는 피해량 -2.5%",
+    "context": "EN :\n[Encounters]\nTake -2.5% damage\nJP :\n[戦闘]\n被ダメージ量 -2.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1342-content",
+    "original": "[전투]\n받는 피해량 -2.5%",
+    "context": "EN :\n[Encounters]\nTake -2.5% damage\nJP :\n[戦闘]\n被ダメージ量 -2.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1343-content",
+    "original": "[전투]\n받는 피해량 -2.5%",
+    "context": "EN :\n[Encounters]\nTake -2.5% damage\nJP :\n[戦闘]\n被ダメージ量 -2.5%"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1344-content",
+    "original": "[전투]\n방어 레벨 +1",
+    "context": "EN :\n[Encounters]\nDefense Level +1\nJP :\n[戦闘]\n防御レベル +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1345-content",
+    "original": "[전투]\n방어 레벨 +1",
+    "context": "EN :\n[Encounters]\nDefense Level +1\nJP :\n[戦闘]\n防御レベル +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1346-content",
+    "original": "[전투]\n방어 레벨 +1",
+    "context": "EN :\n[Encounters]\nDefense Level +1\nJP :\n[戦闘]\n防御レベル +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_135-content",
+    "original": "[층 테마]\n층 테마 등장 수 +1",
+    "context": "EN :\n[Floor Theme]\nNumber of Floor Theme Choices +1\nJP :\n[階層テーマ]\n階層テーマ出現数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_136-content",
+    "original": "[전투]\n모든 속성 E.G.O 자원 +1",
+    "context": "EN :\n[Encounters]\n+1 to all E.G.O resources at the start of the Mirror Dungeon run\nJP :\n[戦闘]\n全属性のE.G.O資源 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1361-content",
+    "original": "[전투]\n모든 속성 E.G.O 자원 +1",
+    "context": "EN :\n[Encounters]\n+1 to all E.G.O resources at the start of the Mirror Dungeon run\nJP :\n[戦闘]\n全属性のE.G.O資源 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1362-content",
+    "original": "[전투]\n속도 최댓값 +1",
+    "context": "EN :\n[Encounters]\nMax Speed +1\nJP :\n[戦闘]\n速度最大値 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_1363-content",
+    "original": "[전투]\n속도 최댓값 +1",
+    "context": "EN :\n[Encounters]\nMax Speed +1\nJP :\n[戦闘]\n速度最大値 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_141-content",
+    "original": "E.G.O 기프트 선택 수 +1",
+    "context": "EN :\nE.G.O Gift Selection +1\nJP :\nE.G.Oギフト選択数 +1"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_142-content",
+    "original": "시작 코스트 + 250",
+    "context": "EN :\nStarting Cost +250\nJP :\n開始コスト +250"
+  },
+  {
+    "key": "md4_buffs_summaryDesc_14-content",
+    "original": "시작 단계에서 선택한 항목의 4등급 무작위 E.G.O 기프트를 추가로 획득",
+    "context": "EN :\nAfter selecting a Starting E.G.O Gift, receive a random Tier 4 E.G.O Gift\nJP :\n開始時点で選択したカテゴリの、ランク4のE.G.Oギフトをランダムで追加獲得"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_desc_1-content",
+    "original": "합성에서는 <color=#f8c200>E.G.O 기프트의 키워드를 동일하게 맞추어 조합</color>하였을 때, 해당 키워드의 E.G.O 기프트를 획득할 확률이 증가합니다.",
+    "context": "EN :\nIn E.G.O Gift Fusion, <color=#f8c200>fusing E.G.O Gifts with the same Keyword</color> raises the chance of obtaining an E.G.O Gift of the corresponding Keyword.\nJP :\n合成では、 <color=#f8c200>E.G.O ギフトのキーワードを同じもので組み合わせた</color>場合、該当キーワードのE.G.Oギフトを獲得できる確率が増加します。"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_desc_2-content",
+    "original": "두 개의 E.G.O 기프트를 조합하는 경우, 예상되는 E.G.O 기프트 단계는 다음과 같습니다.",
+    "context": "EN :\nThe following are the E.G.O Gift Tier forecasts when fusing 2 E.G.O Gifts together.\nJP :\n2つのE.G.Oギフトを組み合わせる場合、予想されるE.G.Oギフトのランクは以下の通りです。"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_diffrent_keyword-content",
+    "original": "서로 키워드가 다른 경우",
+    "context": "EN :\nCombining Gifts with different Keywords\nJP :\nキーワードが違う場合"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_identical_keyword-content",
+    "original": "키워드가 전부 동일한 경우",
+    "context": "EN :\nCombining Gifts with the same Keyword\nJP :\nキーワードが全て同じ場合"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_two_same_keywords-content",
+    "original": "두 개의 키워드가 같고 하나가 다른 경우",
+    "context": "EN :\nCombining Gifts when only 2/3 Gifts share the Keyword\nJP :\n2つのキーワードが同じで1つが違う場合"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_1_desc_1_0-content",
+    "original": "1등급 + 1등급 => 1등급",
+    "context": "EN :\nTier 1 + Tier 1 => Tier 1\nJP :\nランク1 + ランク1 => ランク1"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_1_desc_1_1-content",
+    "original": "1등급 + 1등급 => <color=#f8c200>2등급</color>",
+    "context": "EN :\nTier 1 + Tier 1 => <color=#f8c200>Tier 2</color>\nJP :\nランク1 + ランク1 => <color=#f8c200>ランク2</color>"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_1_desc_2_0-content",
+    "original": "1등급 + 2등급 => 1등급",
+    "context": "EN :\nTier 1 + Tier 2 => Tier 1\nJP :\nランク1 + ランク2 => ランク1"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_1_desc_2_1-content",
+    "original": "1등급 + 2등급 => <color=#f8c200>2등급</color>",
+    "context": "EN :\nTier 1 + Tier 2 => <color=#f8c200>Tier 2</color>\nJP :\nランク1 + ランク2 => <color=#f8c200>ランク2</color>"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_1_desc_3_0-content",
+    "original": "1등급 + 3등급 => 2등급",
+    "context": "EN :\nTier 1 + Tier 3 => Tier 2\nJP :\nランク1 + ランク3 => ランク2"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_1_desc_3_1-content",
+    "original": "1등급 + 3등급 => 2등급",
+    "context": "EN :\nTier 1 + Tier 3 => Tier 2\nJP :\nランク1 + ランク3 => ランク2"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_1_desc_4_0-content",
+    "original": "2등급 + 2등급 => 2등급",
+    "context": "EN :\nTier 2 + Tier 2 => Tier 2\nJP :\nランク2 + ランク2 => ランク2"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_1_desc_4_1-content",
+    "original": "2등급 + 2등급 => 2등급",
+    "context": "EN :\nTier 2 + Tier 2 => Tier 2\nJP :\nランク2 + ランク2 => ランク2"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_1_desc_5_0-content",
+    "original": "2등급 + 3등급 => 2등급",
+    "context": "EN :\nTier 2 + Tier 3 => Tier 2\nJP :\nランク2 + ランク3 => ランク2"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_1_desc_5_1-content",
+    "original": "2등급 + 3등급 => 2등급",
+    "context": "EN :\nTier 2 + Tier 3 => Tier 2\nJP :\nランク2 + ランク3 => ランク2"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_1_desc_6_0-content",
+    "original": "3등급 + 3등급 => 3등급",
+    "context": "EN :\nTier 3 + Tier 3 => Tier 3\nJP :\nランク3 + ランク3 => ランク3"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_1_desc_6_1-content",
+    "original": "3등급 + 3등급 => 3등급",
+    "context": "EN :\nTier 3 + Tier 3 => Tier 3\nJP :\nランク3 + ランク3 => ランク3"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_desc_3-content",
+    "original": "두 개의 E.G.O 기프트를 조합하는 경우, 예상되는 E.G.O 기프트의 키워드는 다음과 같습니다.",
+    "context": "EN :\nThe following are the E.G.O Gift Keyword forecasts when fusing 2 E.G.O Gifts together.\nJP :\n2つのE.G.Oギフトを組み合わせる場合、予想されるE.G.Oギフトのキーワードは以下の通りです。"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_2_desc_1_0-content",
+    "original": "재료로 사용되는 E.G.O 기프트 키워드 등장 확률이 각각 37.5%\n나머지 키워드 등장 확률 합계가 25%",
+    "context": "EN :\nRates for Keywords on the Ingredient E.G.O Gifts: 37.5% each\nCombined Rate for every other Keyword: 25%\nJP :\n材料に使用されるE.G.Oギフトのキーワード出現確率がそれぞれ37.5%\n残りのキーワード出現確率の合計が25%"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_2_desc_1_1-content",
+    "original": "재료로 사용되는 E.G.O 기프트 키워드 등장 확률이 75%\n나머지 키워드 등장 확률 합계가 25%",
+    "context": "EN :\nRate for Keyword on the Ingredient E.G.O Gifts: 75%\nCombined Rate for every other Keyword: 25%\nJP :\n材料に使用されるE.G.Oギフトのキーワード出現確率が75%\n残りのキーワード出現確率の合計が25%"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_desc_4-content",
+    "original": "세 개의 E.G.O 기프트를 조합하는 경우, 예상되는 E.G.O 기프트 단계는 다음과 같습니다.",
+    "context": "EN :\nThe following are the E.G.O Gift Tier forecasts when fusing 3 E.G.O Gifts together.\nJP :\n3つのE.G.Oギフトを組み合わせる場合、予想されるE.G.Oギフトのランクは以下の通りです。"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_1_0-content",
+    "original": "1등급 + 1등급 + 1등급 => 1등급",
+    "context": "EN :\nTier 1 + Tier 1 + Tier 1 => Tier 1\nJP :\nランク1 + ランク1 + ランク1 => ランク1"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_1_1-content",
+    "original": "1등급 + 1등급 + 1등급 => <color=#f8c200>2등급</color>",
+    "context": "EN :\nTier 1 + Tier 1 + Tier 1 => <color=#f8c200>Tier 2</color>\nJP :\nランク1 + ランク1 + ランク1 => <color=#f8c200>ランク2</color>"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_2_0-content",
+    "original": "1등급 + 1등급 + 2등급 => 1등급",
+    "context": "EN :\nTier 1 + Tier 1 + Tier 2 => Tier 1\nJP :\nランク1 + ランク1 + ランク2 => ランク1"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_2_1-content",
+    "original": "1등급 + 1등급 + 2등급 => <color=#f8c200>2등급</color>",
+    "context": "EN :\nTier 1 + Tier 1 + Tier 2 => <color=#f8c200>Tier 2</color>\nJP :\nランク1 + ランク1 + ランク2 => <color=#f8c200>ランク2</color>"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_3_0-content",
+    "original": "1등급 + 1등급 + 3등급 => 2등급",
+    "context": "EN :\nTier 1 + Tier 1 + Tier 3 => Tier 2\nJP :\nランク1 + ランク1 + ランク3 => ランク2"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_3_1-content",
+    "original": "1등급 + 1등급 + 3등급 => 2등급",
+    "context": "EN :\nTier 1 + Tier 1 + Tier 3 => Tier 2\nJP :\nランク1 + ランク1 + ランク3 => ランク2"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_4_0-content",
+    "original": "1등급 + 2등급 + 2등급 => 2등급",
+    "context": "EN :\nTier 1 + Tier 2 + Tier 2 => Tier 2\nJP :\nランク1 + ランク2 + ランク2 => ランク2"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_4_1-content",
+    "original": "1등급 + 2등급 + 2등급 => 2등급",
+    "context": "EN :\nTier 1 + Tier 2 + Tier 2 => Tier 2\nJP :\nランク1 + ランク2 + ランク2 => ランク2"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_5_0-content",
+    "original": "1등급 + 2등급 + 3등급 => 2등급",
+    "context": "EN :\nTier 1 + Tier 2 + Tier 3 => Tier 2\nJP :\nランク1 + ランク2 + ランク3 => ランク2"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_5_1-content",
+    "original": "1등급 + 2등급 + 3등급 => <color=#f8c200>3등급</color>",
+    "context": "EN :\nTier 1 + Tier 2 + Tier 3 => <color=#f8c200>Tier 3</color>\nJP :\nランク1 + ランク2 + ランク3 => <color=#f8c200>ランク3</color>"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_6_0-content",
+    "original": "1등급 + 3등급 + 3등급 => 3등급",
+    "context": "EN :\nTier 1 + Tier 3 + Tier 3 => Tier 3\nJP :\nランク1 + ランク3 + ランク3 => ランク3"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_6_1-content",
+    "original": "1등급 + 3등급 + 3등급 => 3등급",
+    "context": "EN :\nTier 1 + Tier 3 + Tier 3 => Tier 3\nJP :\nランク1 + ランク3 + ランク3 => ランク3"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_7_0-content",
+    "original": "2등급 + 2등급 + 2등급 => 3등급",
+    "context": "EN :\nTier 2 + Tier 2 + Tier 2 => Tier 3\nJP :\nランク2 + ランク2 + ランク2 => ランク3"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_7_1-content",
+    "original": "2등급 + 2등급 + 2등급 => 3등급",
+    "context": "EN :\nTier 2 + Tier 2 + Tier 2 => Tier 3\nJP :\nランク2 + ランク2 + ランク2 => ランク3"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_8_0-content",
+    "original": "2등급 + 2등급 + 3등급 => 3등급",
+    "context": "EN :\nTier 2 + Tier 2 + Tier 3 => Tier 3\nJP :\nランク2 + ランク2 + ランク3 => ランク3"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_8_1-content",
+    "original": "2등급 + 2등급 + 3등급 => 3등급",
+    "context": "EN :\nTier 2 + Tier 2 + Tier 2 => Tier 3\nJP :\nランク2 + ランク2 + ランク3 => ランク3"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_9_0-content",
+    "original": "2등급 + 3등급 + 3등급 => 3등급",
+    "context": "EN :\nTier 2 + Tier 3 + Tier 3 => Tier 3\nJP :\nランク2 + ランク3 + ランク3 => ランク3"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_9_1-content",
+    "original": "2등급 + 3등급 + 3등급 => <color=#f8c200>4등급</color>",
+    "context": "EN :\nTier 2 + Tier 3 + Tier 3 => <color=#f8c200>Tier 4</color>\nJP :\nランク2 + ランク3 + ランク3 => <color=#f8c200>ランク4</color>"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_10_0-content",
+    "original": "3등급 + 3등급 + 3등급 => 4등급",
+    "context": "EN :\nTier 3 + Tier 3 + Tier 3 => Tier 4\nJP :\nランク3 + ランク3 + ランク3 => ランク4"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_3_desc_10_1-content",
+    "original": "3등급 + 3등급 + 3등급 => 4등급",
+    "context": "EN :\nTier 3 + Tier 3 + Tier 3 => Tier 4\nJP :\nランク3 + ランク3 + ランク3 => ランク4"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_desc_5-content",
+    "original": "세 개의 E.G.O 기프트를 조합하는 경우, 예상되는 E.G.O 기프트의 키워드는 다음과 같습니다.",
+    "context": "EN :\nThe following are the E.G.O Gift Keyword forecasts when fusing 3 E.G.O Gifts together.\nJP :\n3つのE.G.Oギフトを組み合わせる場合、予想されるE.G.Oギフトのキーワードは以下の通りです。"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_4_desc_1_0-content",
+    "original": "재료로 사용되는 E.G.O 기프트 키워드 등장 확률이 각각 25%\n\n나머지 키워드 등장 확률 합계가 25%",
+    "context": "EN :\nRates for Keywords on the Ingredient E.G.O Gifts: 25% each\nCombined Rate for every other Keyword: 25%\nJP :\n材料に使用されるE.G.Oギフトのキーワード出現確率がそれぞれ25%\n\n残りのキーワード出現確率の合計が25%"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_4_desc_1_1-content",
+    "original": "재료로 사용되는 E.G.O 기프트(셋 중 키워드가 겹치는 두 개의 기프트) 키워드 등장 확률이 50%\n\n재료로 사용되는 E.G.O 기프트(셋 중 키워드가 겹치지 않는 기프트) 키워드 등장 확률이 25%\n\n나머지 키워드 등장 확률 합계가 25%",
+    "context": "EN :\nRate for the Keyword on the Ingredient E.G.O Gifts that share the Keyword: 50%\n\nRate for the Keyword on the Ingredient E.G.O Gift that doesn't share the Keyword: 25%\n\nCombined Rate for every other Keyword: 25%\nJP :\n材料として使用されるE.G.Oギフト(3つのうちキーワードが重複する2つのギフト)キーワードの出現確率が50%\n\n材料として使用されるE.G.Oギフト(3つのうちキーワードが重複しないギフト)キーワードの出現確率が25%\n\n残りのキーワードの出現確率合計が25%"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_table_4_desc_1_2-content",
+    "original": "재료로 사용되는 E.G.O 기프트 키워드 등장 확률이 75%\n\n나머지 키워드 등장 확률 합계가 25%",
+    "context": "EN :\nRate for Keyword on the Ingredient E.G.O Gifts: 75%\n\nCombined Rate for every other Keyword: 25%\nJP :\n材料に使用されるE.G.Oギフトのキーワード出現確率が75%\n\n残りのキーワード出現確率の合計が25%"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_desc_6-content",
+    "original": "※ 단, 위 조건에 해당하는 E.G.O 기프트를 해당 합성 시점에서 더 이상 획득할 수 없는 경우에는 다른 등급 또는 키워드의 E.G.O 기프트를 획득할 수 있습니다.",
+    "context": "EN :\n※ However, if there are no more obtainable E.G.O Gifts fitting the above conditions, Gift Fusion may result in E.G.O Gifts of different Tiers or Keywords.\nJP :\n※ただし、上記の条件に該当するE.G.Oギフトをその合成を行う時点でこれ以上獲得できない場合、他のランクまたはキーワードのE.G.Oギフトが獲得できます。"
+  },
+  {
+    "key": "mirror_ego_gift_combine_guide_popup_title-content",
+    "original": "합성 안내",
+    "context": "EN :\nFusion Guide\nJP :\n合成ガイド"
+  },
+  {
+    "key": "mirrordungeon_select_theme_pack_at_floor-content",
+    "original": "{0}층 테마팩 선택",
+    "context": "EN :\nSelect Floor {0} Theme Pack\nJP :\n{0}階層テーマパック選択"
+  },
+  {
+    "key": "mirrordungeon_ego_gift_appear_rate_up-content",
+    "original": "등장 확률 업",
+    "context": "EN :\nRate Up\nJP :\n出現率アップ"
+  },
+  {
+    "key": "mirrordungeon_ego_gift_appearable-content",
+    "original": "등장 가능",
+    "context": "EN :\nFeatured\nJP :\n出現可能"
+  },
+  {
+    "key": "mirrordungeon_selected_floor_theme_label-content",
+    "original": "선택 층 테마",
+    "context": "EN :\nSelected Floor Theme\nJP :\n選択階層テーマ"
+  },
+  {
+    "key": "mirrordungeon_ego_gift_sort_by_tier-content",
+    "original": "등급 순",
+    "context": "EN :\nBy Tier\nJP :\nランク順"
+  },
+  {
+    "key": "mirrordungeon_ego_gift_sort_by_keyword-content",
+    "original": "키워드 순",
+    "context": "EN :\nBy Keyword\nJP :\nキーワード順"
+  },
+  {
+    "key": "side_content_cannot_acquire_specific_ego_gift-content",
+    "original": "현재 층 테마에서 획득할 수 있는 {0}등급 에고기프트가 없습니다.",
+    "context": "EN :\nThere are no Tier {0} E.G.O Gifts obtainable from your current Floor Theme.\nJP :\n現在の階層テーマで獲得できるランク{0}のE.G.Oギフトがありません。"
+  },
+  {
+    "key": "side_content_free_refresh-content",
+    "original": "[신상품 팜플렛] 효과 발동\n새로 고침 비용 반환",
+    "context": "EN :\n[New Release Pamphlet] Buff Activated\nRefresh Cost Refunded\nJP :\n[新商品のパンフレット]効果発動\n更新コストが返還"
+  },
+  {
+    "key": "side_content_egogift_free_upgrade-content",
+    "original": "[리베이트 토큰] 효과 발동\n강화 비용 반환",
+    "context": "EN :\n[Rebate Token] Buff Activated\nEnhancement Cost Refunded\nJP :\n[リベートトークン]効果発動\n強化費用が返還"
+  },
+  {
+    "key": "mirror_dungeon_finished_panel_floor_theme-content",
+    "original": "층 테마",
+    "context": "EN :\nFloor Theme\nJP :\n階層テーマ"
+  },
+  {
+    "key": "mirror_dungeon_finished_panel_battle_reward-content",
+    "original": "전투 보상카드",
+    "context": "EN :\nEncounter Reward Cards\nJP :\n戦闘報酬カード"
+  },
+  {
+    "key": "mirror_dungeon_finished_panel_used-content",
+    "original": "소모 별빛",
+    "context": "EN :\nStarlight Cost\nJP :\n消耗する星明かり"
+  },
+  {
+    "key": "mirror_dungeon_appeared_ego_gift-content",
+    "original": "등장 E.G.O 기프트 목록",
+    "context": "EN :\nFeatured E.G.O Gifts\nJP :\n出現E.G.Oギフトリスト"
+  },
+  {
+    "key": "mirror_dungeon_select_theme_drag-content",
+    "original": "드래그",
+    "context": "EN :\nSelect a Pack\nAnd Pull\nJP :\nドラッグ"
+  },
+  {
+    "key": "mirror_dungeon_cannot_acquired_ego_gift-content",
+    "original": "E.G.O 기프트 획득 실패",
+    "context": "EN :\nDid Not Gain an E.G.O Gift\nJP :\nE.G.Oギフト獲得失敗"
+  },
+  {
+    "key": "simulation_difficulty_short-content",
+    "original": "시뮬레이션",
+    "context": "EN :\nSimulation\nJP :\nシミュレーション"
+  },
+  {
+    "key": "ritournelle_difficulty_short-content",
+    "original": "리토르넬로",
+    "context": "EN :\nRitornello\nJP :\nリトルネッロ"
+  },
+  {
+    "key": "easy_difficulty_simple-content",
+    "original": "쉬움",
+    "context": "EN :\nEasy\nJP :\nイージー"
+  },
+  {
+    "key": "refresh_shop_item_by_chip_warning-content",
+    "original": "별빛을 소모하여 새로 고침을 진행하시겠습니까?\n\n<size=70%>※「별빛 새로 고침」은 <color=#990000>입장 시 보유한 별빛</color>과 <color=#990000>\n던전 진행 중에 획득한 별빛</color>을 소모하여 진행할 수\n있습니다. 단, 이를 초과하여 별빛을 소모할 수 없습니다.</size>\n\n<size=85%>입장 시 보유한 별빛 : {0}</size>",
+    "context": "EN :\nConsume Starlight to Refresh?\n\n<size=70%>※「Starlight Refresh」 uses <color=#990000>Starlight owned at the start of the Dungeon</color> and <color=#990000>any Starlight obtained during the Dungeon run</color>.\nHowever, you cannot spend more Starlight than what you have.</size>\n\n<size=85%>Starlight owned at the start of the Dungeon: {0}</size>\nJP :\n星明かりを消耗し、更新しますか？\n\n<size=70%>※「星明かりで更新」は<color=#990000>入場時に保有している星明かり</color>と<color=#990000>\nダンジョン進行中に獲得した星明かり</color>を消耗して実施できます。\nただし、これを超えて星明かりを消耗することはできません。</size>\n\n<size=85%>入場時に保有している星明かり : {0}</size>"
+  },
+  {
+    "key": "mirror_dungeon_theme_ego_gift_popup_valid_atk-content",
+    "original": "유효 속성",
+    "context": "EN :\nEffective Affinities\nJP :\n有効属性"
+  },
+  {
+    "key": "mirror_dungeon_shop_keyword_refresh-content",
+    "original": "키워드 새로고침",
+    "context": "EN :\nKeyword Refresh\nJP :\nキーワード更新"
+  },
+  {
+    "key": "mirror_dungeon_shop_refresh_by_chip-content",
+    "original": "별빛 새로고침",
+    "context": "EN :\nStarlight Refresh\nJP :\n星明かり更新"
+  },
+  {
+    "key": "mirror_dungeon_shop_keyword_refresh_popup_title-content",
+    "original": "상점-키워드 새로고침",
+    "context": "EN :\nShop - Keyword Refresh\nJP :\nショップ-キーワード更新"
+  },
+  {
+    "key": "mirror_dungeon_shop_keyword_refresh_popup_desc-content",
+    "original": "선택한 키워드의 E.G.O 기프트가 등장할 확률이 크게 증가합니다.\n{0} 코스트를 사용하여 키워드 새로고침을 진행하시겠습니까?",
+    "context": "EN :\n'Keyword Refresh' to raise the chances of getting E.G.O Gifts of the selected Keyword category in the Shop.\nSpend {0} Cost to Keyword Refresh?\nJP :\n選択したキーワードのE.G.Oギフトが出現する確率が大幅に増加します。\nコストを{0}使用して、キーワード更新を行いますか？"
+  },
+  {
+    "key": "ego_gift_combine_ui_plz_select_keyword-content",
+    "original": "키워드를 선택해주세요.",
+    "context": "EN :\nSelect a Keyword.\nJP :\nキーワードを選択してください。"
+  },
+  {
+    "key": "ego_gift_select_keyword_ui_title-content",
+    "original": "합성 - 키워드 선택",
+    "context": "EN :\nFusion - Keyword Selection\nJP :\n合成 - キーワード選択"
+  },
+  {
+    "key": "ego_gift_select_keyword_ui_desc-content",
+    "original": "원하는 키워드를 선택해주세요.",
+    "context": "EN :\nPlease choose a Keyword you want to Fuse into.\nJP :\n任意のキーワードを選択してください。"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_desc_1-content",
+    "original": "<합성 - 키워드 선택> 창에서 키워드를 설정하였다면, 예상되는 E.G.O 기프트의 키워드는 다음과 같습니다.",
+    "context": "EN :\nThe following is the E.G.O Gift Keyword forecast once you've selected the Keyword you want to Fuse into in the <Fusion - Keyword Selection> screen.\nJP :\n<合成 - キーワード選択>ウィンドウからキーワードを選択した場合の、予想されるE.G.Oギフトのキーワードは以下の通りです。"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_1_col_1_title-content",
+    "original": "합성 재료로 사용하는 E.G.O 기프트의 수량",
+    "context": "EN :\nNumber of ingredient E.G.O Gifts used for Fusion\nJP :\n合成材料に使われるE.G.Oギフトの数量"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_1_col_2_title-content",
+    "original": "설정한 키워드 등장 확률",
+    "context": "EN :\nRates for an E.G.O Gift with your selected Keyword\nJP :\n設定したキーワード出現率"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_1_desc_1_0-content",
+    "original": "2개",
+    "context": "EN :\n2 Gifts\nJP :\n2つ"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_1_desc_1_1-content",
+    "original": "60%",
+    "context": "EN :\n60%\nJP :\n60%"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_1_desc_2_0-content",
+    "original": "3개",
+    "context": "EN :\n3 Gifts\nJP :\n3つ"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_1_desc_2_1-content",
+    "original": "90%",
+    "context": "EN :\n90%\nJP :\n90%"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_diffrent_keyword_notice-content",
+    "original": "※ 재료로 사용되는 E.G.O 기프트의 키워드는 결과물의 키워드에 별도의 영향을 주지 않습니다.",
+    "context": "EN :\n※ Keywords on the ingredient E.G.O Gifts do not affect the outcome of the Fusion.\nJP :\n※材料に使用されるE.G.Oギフトのキーワードは結果物のキーワードに別途影響を与えません。"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_desc_2-content",
+    "original": "두 개의 E.G.O 기프트를 조합하는 경우, E.G.O 기프트의 단계는 최대 3등급까지 획득할 수 있으며, 예상되는 E.G.O 기프트 단계는 다음과 같습니다.",
+    "context": "EN :\nThe following are the E.G.O Gift Tier forecasts when fusing 2 E.G.O Gifts. Please note that you can receive up to Tier 3 E.G.O Gifts when fusing 2 E.G.O Gifts together.\nJP :\n2つのE.G.Oギフトを組み合わせる場合、E.G.Oギフトは最大3ランクまで獲得でき、予想されるE.G.Oギフトランクは次の通りです。"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_2_col_1_title-content",
+    "original": "재료로 사용한 E.G.O 기프트의 등급",
+    "context": "EN :\nIngredient E.G.O Gift Tiers\nJP :\n材料に使ったE.G.Oギフトのランク"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_2_col_2_title-content",
+    "original": "예상되는 E.G.O 기프트 단계",
+    "context": "EN :\nE.G.O Gift Tier Forecast\nJP :\n予想されるE.G.Oギフトランク"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_2_desc_1_0-content",
+    "original": "1등급 + 1등급",
+    "context": "EN :\nTier 1 + Tier 1\nJP :\nランク1 + ランク1"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_2_desc_2_0-content",
+    "original": "1등급 + 2등급",
+    "context": "EN :\nTier 1 + Tier 2\nJP :\nランク1 + ランク2"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_2_desc_3_0-content",
+    "original": "1등급 + 3등급",
+    "context": "EN :\nTier 1 + Tier 3\nJP :\nランク1 + ランク3"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_2_desc_4_0-content",
+    "original": "2등급 + 2등급",
+    "context": "EN :\nTier 2 + Tier 2\nJP :\nランク2 + ランク2"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_2_desc_5_0-content",
+    "original": "2등급 + 3등급",
+    "context": "EN :\nTier 2 + Tier 3\nJP :\nランク2 + ランク3"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_2_desc_6_0-content",
+    "original": "3등급 + 3등급",
+    "context": "EN :\nTier 3 + Tier 3\nJP :\nランク3 + ランク3"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_desc_3-content",
+    "original": "세 개의 E.G.O 기프트를 조합하는 경우, E.G.O 기프트의 단계는 최대 4등급까지 획득할 수 있으며, 예상되는 E.G.O 기프트 단계는 다음과 같습니다.",
+    "context": "EN :\nThe following are the E.G.O Gift Tier forecasts when fusing 3 E.G.O Gifts. Please note that you can receive up to Tier 4 E.G.O Gifts when fusing 3 E.G.O Gifts together.\nJP :\n3つのE.G.Oギフトを組み合わせる場合、E.G.Oギフトは最大4ランクまで獲得でき、予想されるE.G.Oギフトランクは次の通りです。"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_3_col_1_title-content",
+    "original": "서로 키워드가 다른 경우",
+    "context": "EN :\nCombining Gifts with different Keywords\nJP :\nキーワードが違う場合"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_3_col_2_title-content",
+    "original": "예상되는 E.G.O 기프트 단계",
+    "context": "EN :\nE.G.O Gift Tier Forecast\nJP :\n予想されるE.G.Oギフトランク"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_3_desc_1_0-content",
+    "original": "1등급 + 1등급 + 1등급",
+    "context": "EN :\nTier 1 + Tier 1 + Tier 1\nJP :\nランク1 + ランク1 + ランク1"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_3_desc_2_0-content",
+    "original": "1등급 + 1등급 + 2등급",
+    "context": "EN :\nTier 1 + Tier 1 + Tier 2\nJP :\nランク1 + ランク1 + ランク2"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_3_desc_3_0-content",
+    "original": "1등급 + 1등급 + 3등급",
+    "context": "EN :\nTier 1 + Tier 1 + Tier 3\nJP :\nランク1 + ランク1 + ランク3"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_3_desc_4_0-content",
+    "original": "1등급 + 2등급 + 2등급",
+    "context": "EN :\nTier 1 + Tier 2 + Tier 2\nJP :\nランク1 + ランク2 + ランク2"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_3_desc_5_0-content",
+    "original": "1등급 + 2등급 + 3등급",
+    "context": "EN :\nTier 1 + Tier 2 + Tier 3\nJP :\nランク1 + ランク2 + ランク3"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_3_desc_6_0-content",
+    "original": "1등급 + 3등급 + 3등급",
+    "context": "EN :\nTier 1 + Tier 3 + Tier 3\nJP :\nランク1 + ランク3 + ランク3"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_3_desc_7_0-content",
+    "original": "2등급 + 2등급 + 2등급",
+    "context": "EN :\nTier 2 + Tier 2 + Tier 2\nJP :\nランク2 + ランク2 + ランク2"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_3_desc_8_0-content",
+    "original": "2등급 + 2등급 + 3등급 ",
+    "context": "EN :\nTier 2 + Tier 2 + Tier 3\nJP :\nランク2 + ランク2 + ランク3"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_3_desc_9_0-content",
+    "original": "2등급 + 3등급 + 3등급",
+    "context": "EN :\nTier 2 + Tier 3 + Tier 3\nJP :\nランク2 + ランク3 + ランク3"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_3_desc_10_0-content",
+    "original": "3등급 + 3등급 + 3등급",
+    "context": "EN :\nTier 3 + Tier 3 + Tier 3\nJP :\nランク3 + ランク3 + ランク3"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_tier_1-content",
+    "original": "1등급",
+    "context": "EN :\nTier 1\nJP :\nランク1"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_tier_2-content",
+    "original": "2등급",
+    "context": "EN :\nTier 2\nJP :\nランク2"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_tier_3-content",
+    "original": "3등급",
+    "context": "EN :\nTier 3\nJP :\nランク3"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_tier_4-content",
+    "original": "4등급",
+    "context": "EN :\nTier 4\nJP :\nランク4"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_desc_4-content",
+    "original": "단, 해당 등급의 선택한 키워드 E.G.O 기프트를 전부 획득하였거나 현재 층의 선택지, 보스 클리어 시 등장하는 E.G.O 기프트에 이미 배정되어 획득할 수 없는 경우에는 <u><b>해당 등급 기프트 중 선택하지 않은 키워드의 E.G.O 기프트를 획득</u></b>할 수 있습니다.",
+    "context": "EN :\nHowever, if you have already acquired every single E.G.O Gift in the above Keyword & Tier combination, or if those E.G.O Gifts have already been assigned to Mirror Dungeon Events or the Boss Rewards of this Floor, then <u><b>you might acquire an E.G.O Gift of a different Tier or a Keyword category</u></b> from the chart listed above.\nJP :\nただし、該当ランクの選択キーワードE.G.Oギフトを全て獲得したか現在の階層の選択肢、ボスクリア時に出現するE.G.Oギフトに既に配分されていて獲得できない場合は<u><b>該当ランクギフトの内選択していないキーワードのE.G.Oを獲得</u></b>することがあります。"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_desc_5-content",
+    "original": "만약 키워드 관계 없이 해당 등급의 E.G.O 기프트를 전부 획득하였거나 앞서 설명한 내용으로 인해 추가로 획득할 수 없는 경우에는 <u><b>합성을 진행할 수 없습니다.</u></b>",
+    "context": "EN :\nIf you have already acquired all E.G.O Gifts in the corresponding Tier or are unable to obtain them due to the aforementioned reasons, then <u><b>you cannot proceed with the Fusion</u></b>.\nJP :\nもしキーワードと関係なく該当ランクのE.G.Oギフトを全て獲得したか、前述の内容によって追加で獲得できない場合は<u><b>合成を実施することはできません。</u></b>"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_popup_title-content",
+    "original": "전투 보상 카드 안내",
+    "context": "EN :\nEncounter Reward Cards Guide\nJP :\n戦闘報酬カード案内"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_text_1-content",
+    "original": "전투 클리어 시, 거울 던전 난이도와 진행 중인 층에 따라 전투 보상 카드를 획득할 수 있습니다.",
+    "context": "EN :\nYou may have a chance to obtain an Encounter Reward Card upon clearing an Encounter. Variables such as Mirror Dungeon Difficulty and your Current floor affect which Encounter Reward Cards you can get.\nJP :\n戦闘栗味、鏡ダンジョン難易度と進行中の階層によって報酬カードが獲得できます。"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_text_2-content",
+    "original": "전투 보상 카드의 등장 확률은 다음과 같습니다.",
+    "context": "EN :\nThe following are the appearance rates for the Encounter Reward Cards.\nJP :\n戦闘報酬カードの出現確率は以下の通りです。"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_0_1-content",
+    "original": "거울 던전 시뮬레이션",
+    "context": "EN :\nMirror Dungeon Simulation\nJP :\n鏡ダンジョン シミュレーション"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_0_2-content",
+    "original": "거울 던전 리토르넬로",
+    "context": "EN :\nMirror Dungeon Ritornello\nJP :\n鏡ダンジョン リトルネッロ"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_1_0-content",
+    "original": "1층",
+    "context": "EN :\nFloor 1\nJP :\n1階層"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_1_1-content",
+    "original": "일반 전투 : 7.5%\n집중 전투 : -\n정예 전투 : -\n보스 전투 : 100%",
+    "context": "EN :\nRegular Encounter : 7.5%\nFocused Encounter : -\nElite Encounter : -\nBoss Encounter : 100%\nJP :\n一般戦闘 : 7.5%\n集中戦闘 : -\n精鋭戦闘 : -\nボス戦闘 : 100%"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_1_2-content",
+    "original": "일반 전투 : 7.5%\n집중 전투 : -\n정예 전투 : -\n보스 전투 : 100%",
+    "context": "EN :\nRegular Encounter : 7.5%\nFocused Encounter : -\nElite Encounter : -\nBoss Encounter : 100%\nJP :\n一般戦闘 : 7.5%\n集中戦闘 : -\n精鋭戦闘 : -\nボス戦闘 : 100%"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_2_0-content",
+    "original": "2층",
+    "context": "EN :\nFloor 2\nJP :\n2階層"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_2_1-content",
+    "original": "일반 전투 : 10%\n집중 전투 : 20%\n정예 전투 : 33%\n보스 전투 : 100%",
+    "context": "EN :\nRegular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nBoss Encounter : 100%\nJP :\n一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\nボス戦闘 : 100%"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_2_2-content",
+    "original": "일반 전투 : 10%\n집중 전투 : 20%\n정예 전투 : 33%\n보스 전투 : 100%",
+    "context": "EN :\nRegular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nBoss Encounter : 100%\nJP :\n一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\nボス戦闘 : 100%"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_3_0-content",
+    "original": "3층",
+    "context": "EN :\nFloor 3\nJP :\n4階層"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_3_1-content",
+    "original": "일반 전투 : 10%\n집중 전투 : 20%\n정예 전투 : 33%\n보스 전투 : 100%",
+    "context": "EN :\nRegular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nBoss Encounter : 100%\nJP :\n一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\nボス戦闘 : 100%"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_3_2-content",
+    "original": "일반 전투 : 10%\n집중 전투 : 20%\n정예 전투 : 33%\n보스 전투 : 100%",
+    "context": "EN :\nRegular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nBoss Encounter : 100%\nJP :\n一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\nボス戦闘 : 100%"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_4_0-content",
+    "original": "4층",
+    "context": "EN :\nFloor 4\nJP :\n4階層"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_4_1-content",
+    "original": "일반 전투 : 12.5%\n집중 전투 : 25%\n정예 전투 : 50%\n보스 전투 : -",
+    "context": "EN :\nRegular Encounter : 12.5%\nFocused Encounter : 25%\nElite Encounter : 50%\nBoss Encounter : -\nJP :\n一般戦闘 : 12.5%\n集中戦闘 : 25%\n精鋭戦闘 : 50%\nボス戦闘 : -"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_4_2-content",
+    "original": "일반 전투 : 12.5%\n집중 전투 : 25%\n정예 전투 : 50%\n보스 전투 : 100%",
+    "context": "EN :\nRegular Encounter : 12.5%\nFocused Encounter : 25%\nElite Encounter : 50%\nBoss Encounter : 100%\nJP :\n一般戦闘 : 12.5%\n集中戦闘 : 25%\n精鋭戦闘 : 50%\nボス戦闘 : 100%"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_5_0-content",
+    "original": "5층",
+    "context": "EN :\nFloor 5\nJP :\n5階層"
+  },
+  {
+    "key": "mirror_battle_reward_card_guide_table_1_desc_5_2-content",
+    "original": "일반 전투 : 12.5%\n집중 전투 : 25%\n정예 전투 : 50%\n보스 전투 : -",
+    "context": "EN :\nRegular Encounter : 12.5%\nFocused Encounter : 25%\nElite Encounter : 50%\nBoss Encounter : -\nJP :\n一般戦闘 : 12.5%\n集中戦闘 : 25%\n精鋭戦闘 : 50%\nボス戦闘 : -"
+  },
+  {
+    "key": "expected_result-content",
+    "original": "예상 결과",
+    "context": "EN :\nForecasts\nJP :\n予想結果"
+  },
+  {
+    "key": "confirmed-content",
+    "original": "확정",
+    "context": "EN :\nGuaranteed\nJP :\n確定"
+  },
+  {
+    "key": "combine_tooltip_title-content",
+    "original": "다음 상황일 때, 합성 결과로 나오는 E.G.O 기프트가 기존 합성 공식을 따르지 않을 수 있습니다. 이러한 경우에는 예상 키워드가 ?(무작위)로 표시됩니다.",
+    "context": "EN :\nThe following are the circumstances in which the resulting E.G.O Gift from the Fusion won't match the Fusion Forecasts. In such cases, Keyword Forecast will be marked as \"?(Random)\".\nJP :\n以下の状況の場合、合成結果で出るE.G.Oギフトが既存の合成公式から外れることがあります。この場合は予想キーワードが?(ランダム)で表示されます。"
+  },
+  {
+    "key": "combine_tooltip_desc1-content",
+    "original": "선택한 키워드의 해당 등급 E.G.O 기프트를 전부 획득하였을 경우",
+    "context": "EN :\nWhen every available E.G.O Gift in the selected Keyword category & forecasted Tier has already been obtained\nJP :\n選択したキーワードの該当ランクのE.G.Oギフトを全て獲得済みの場合"
+  },
+  {
+    "key": "combine_tooltip_desc2-content",
+    "original": "선택한 키워드의 해당 등급 E.G.O 기프트가 현재 층의 선택지, 보스 클리어 시 등장하는 E.G.O 기프트에 이미 배정된 경우 (다음 층에서 획득 가능)",
+    "context": "EN :\nWhen E.G.O Gifts of the selected Keyword category & the forecasted Tier have all been assigned to that Floor's Mirror Dungeon Events or Boss Encounter Reward pool (Can be obtained in the next Floor)\nJP :\n選択したキーワードの該当ランクのE.G.Oギフトが現階層の選択肢、ボスクリア時に出現するE.G.Oギフトへ既に配分されている場合(次の階層にて獲得可能)"
+  },
+  {
+    "key": "combine_tooltip_notice-content",
+    "original": "예상 결과로 나올 수 있는 등급의 E.G.O 기프트를 전부 획득한 경우에는 합성을 진행할 수 없습니다.",
+    "context": "EN :\nYou cannot continue with the Fusion if you have collected every E.G.O Gift in the forecasted Tier.\nJP :\n予想結果に出現しうるランクのE.G.Oギフトを全て獲得した場合は、合成を実施できません。"
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "key": "0-content",
+    "original": "훈련장 안은 어수선했어.",
+    "context": "EN :\nThe training hall was bustling with noise.\nJP :\n訓練場の中は慌ただしかった。"
+  },
+  {
+    "key": "1-content",
+    "original": "여기저기서 연습용 검이 부딪히는 소리, 소란스럽게 발자국이 여기저기 마룻바닥을 스치고 밟는 소리가 사납게 날뛰고 있었지.",
+    "context": "EN :\nSounds of training swords clashing against one another, loud noises from Association members' busy footwork scraping against the wooden floor.\nJP :\nあちこちで練習用の剣がぶつかる音、あちこちから床を足で摺る音や\n足踏みするうるさい音が鳴り渡っていた。"
+  },
+  {
+    "key": "2-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "2-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "2-title",
+    "original": "섕크 협회 4과 부장",
+    "context": "EN :\nCinq Section 4 Director\nJP :\nセンク協会 4課 部長"
+  },
+  {
+    "key": "2-content",
+    "original": "자아… 3번 합이요…",
+    "context": "EN :\nRight, this is going to be our third engagement...\nJP :\nさぁ…3セットいきます…。"
+  },
+  {
+    "key": "3-teller",
+    "original": "용감한 협회 직원",
+    "context": "EN :\nBrave Association Member\nJP :\n勇敢な協会職員"
+  },
+  {
+    "key": "3-title",
+    "original": "섕크 협회 4과",
+    "context": "EN :\nCinq Section 4\nJP :\nセンク協会 4課"
+  },
+  {
+    "key": "3-content",
+    "original": "넵!",
+    "context": "EN :\nYessir!\nJP :\nはい！"
+  },
+  {
+    "key": "4-content",
+    "original": "아이는 그 소음들 사이에 자연스럽게 섞여 있었어.",
+    "context": "EN :\nThe child was a part of that noise.\nJP :\n子供はその騒音の間に、自然と混ざっていた。"
+  },
+  {
+    "key": "5-content",
+    "original": "더 정확하게 말하자면, 기어들어 가는 목소리가 그 소음 밑에 묻혀 있다고 해야 맞을지도 모르지.",
+    "context": "EN :\n... Well, to be more precise, the child's timid voice was presently getting buried in the noise.\nJP :\nより正確に言うなら、消え入りそうな声がその騒音の下に\n埋もれてるって感じなのかもしれないね。"
+  },
+  {
+    "key": "6-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "6-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "6-title",
+    "original": "섕크 협회 4과 부장",
+    "context": "EN :\nCinq Section 4 Director\nJP :\nセンク協会 4課 部長"
+  },
+  {
+    "key": "6-content",
+    "original": "제가 방어 먼저 하는 걸로 시작하죠…",
+    "context": "EN :\nYou should try going on the offensive first...\nJP :\n僕が防御側を先にやりますね…。"
+  },
+  {
+    "key": "7-content",
+    "original": "아이는 어딘가 자신이 없는 듯한 표정으로 검을 뻗었어.",
+    "context": "EN :\nThe child drew his sword, looking somewhat hesitant.\nJP :\n子供はどこか自信がなさそうな顔で剣を構えた。"
+  },
+  {
+    "key": "8-content",
+    "original": "어떻게 보면 대결에 소질이 없는, 소심한 아이의 모습으로 보일 수도 있겠지만…",
+    "context": "EN :\nOne may see a meek and nervous child with not a speck of talent in the art of dueling, going by the way he carried himself...\nJP :\n一見すると対決の素質がない、\n気の弱い子供に見えるかもしれないけど…。"
+  },
+  {
+    "key": "9-teller",
+    "original": "용감한 협회 직원",
+    "context": "EN :\nBrave Association Member\nJP :\n勇敢な協会職員"
+  },
+  {
+    "key": "9-title",
+    "original": "섕크 협회 4과",
+    "context": "EN :\nCinq Section 4\nJP :\nセンク協会 4課"
+  },
+  {
+    "key": "9-content",
+    "original": "꿀꺽…",
+    "context": "EN :\nGulp...\nJP :\nゴクッ…。"
+  },
+  {
+    "key": "10-content",
+    "original": "어떻게 된 일일까, 마주하고 있는 협회의 직원은 엄청난 강적을 눈앞에 둔 듯이 긴장한 기색이 역력했어.",
+    "context": "EN :\n... but for whatever reason, the opposing Association member appeared extremely tense, as though he was facing off against an overwhelming foe.\nJP :\nどうしてだろう、向き合ってる協会の職員はとてつもない強敵を\n目の当たりしたかのように緊張しているのがありありと見て取れた。"
+  },
+  {
+    "key": "11-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11-title",
+    "original": "섕크 협회 4과 부장",
+    "context": "EN :\nCinq Section 4 Director\nJP :\nセンク協会 4課 部長"
+  },
+  {
+    "key": "11-content",
+    "original": "3번 합에서 중요한 건… 읏, 직선으로 공격해 오는 적의 기세를 바깥으로 흘려보내는 것이에요…",
+    "context": "EN :\nOn the third engagement, it's important to... ah, parry and redirect your opponent's straightforward momentum to the side...\nJP :\n3セットで大事なのは…うっ、直線で攻撃してくる\n敵の勢いを外側に受け流すことです…。"
+  },
+  {
+    "key": "12-teller",
+    "original": "용감한 협회 직원",
+    "context": "EN :\nBrave Association Member\nJP :\n勇敢な協会職員"
+  },
+  {
+    "key": "12-title",
+    "original": "섕크 협회 4과",
+    "context": "EN :\nCinq Section 4\nJP :\nセンク協会 4課"
+  },
+  {
+    "key": "12-content",
+    "original": "네, 부장님…!",
+    "context": "EN :\nYes, Director...!\nJP :\nはい、部長…！"
+  },
+  {
+    "key": "13-content",
+    "original": "게다가 아이가 불안불안한 목소리로 하고 있는 것은, 직원의 검술을 가르치는 일을 하고 있다는 점이었다는 건 정말 놀라운 일이었지.",
+    "context": "EN :\nThe child, with his trembling and nervous voice, was teaching swordplay to the Association member. A confusing sight, indeed.\nJP :\nそれに子供が不安そうな声で喋っている内容は、\n職員の剣術指南なんだからびっくりしちゃうね。"
+  },
+  {
+    "key": "14-content",
+    "original": "거기에 더해 섕크 협회 4과의 부장이라는, 어울리지 않을 것 같은 직함을 달고 있다는 것도 말이야.",
+    "context": "EN :\nEven more confusing was that, somehow, the child was the Director of Cinq Association Section 4.\nJP :\nそれに加えてセンク協会4課の部長という、\n似合ってるようには思えない肩書きを持ってるってこともね。"
+  },
+  {
+    "key": "15-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "15-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "15-title",
+    "original": "섕크 협회 4과 부장",
+    "context": "EN :\nCinq Section 4 Director\nJP :\nセンク協会 4課 部長"
+  },
+  {
+    "key": "15-content",
+    "original": "그럼, 다음은 제 공격으로…",
+    "context": "EN :\nNext, with this attack...\nJP :\nじゃあ、次は僕の攻撃で…。"
+  },
+  {
+    "key": "16-teller",
+    "original": "용감한 협회 직원",
+    "context": "EN :\nBrave Association Member\nJP :\n勇敢な協会職員"
+  },
+  {
+    "key": "16-title",
+    "original": "섕크 협회 4과",
+    "context": "EN :\nCinq Section 4\nJP :\nセンク協会 4課"
+  },
+  {
+    "key": "16-content",
+    "original": "어.",
+    "context": "EN :\nOh.\nJP :\nあ。"
+  },
+  {
+    "key": "17-content",
+    "original": "불쑥.",
+    "context": "EN :\nWoosh.\nJP :\nシュッ。"
+  },
+  {
+    "key": "18-content",
+    "original": "생각도 못 한 틈에, 아이의 검이 상대의 턱 끝 옆을 아슬아슬하게 스치고 지나갔어.",
+    "context": "EN :\nThe child's blade moved faster than the speed of thought, pierced through the defenses, and narrowly missed the opponent's jaw.\nJP :\n判断する隙もなく、子供の剣が相手の顎先のすぐ横を\nギリギリのところで掠めていった。"
+  },
+  {
+    "key": "19-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "19-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "19-title",
+    "original": "섕크 협회 4과 부장",
+    "context": "EN :\nCinq Section 4 Director\nJP :\nセンク協会 4課 部長"
+  },
+  {
+    "key": "19-content",
+    "original": "어, 엇?! 미안해요. 이, 이렇게 공격을 흘린 다음에 자연스럽게 공격을 이어간다는 걸… 보여드리려는 거였는데…",
+    "context": "EN :\nO-oh?! I'm so sorry. I-I was trying to show you how to smoothly connect that parry into an attack...\nJP :\nえ、あっ！？ごめんなさい。こ、こうやって攻撃を受け流してから\n自然に攻撃へと繋げるってことを…見せようとしたんですけど…。"
+  },
+  {
+    "key": "20-teller",
+    "original": "용감한 협회 직원",
+    "context": "EN :\nBrave Association Member\nJP :\n勇敢な協会職員"
+  },
+  {
+    "key": "20-title",
+    "original": "섕크 협회 4과",
+    "context": "EN :\nCinq Section 4\nJP :\nセンク協会 4課"
+  },
+  {
+    "key": "20-content",
+    "original": "헉… 헉… 괘, 괜찮습니다.",
+    "context": "EN :\nHaah... Haah... I-I'm okay.\nJP :\nはぁ…はぁ…だ、大丈夫です。"
+  },
+  {
+    "key": "21-teller",
+    "original": "용감한 협회 직원",
+    "context": "EN :\nBrave Association Member\nJP :\n勇敢な協会職員"
+  },
+  {
+    "key": "21-title",
+    "original": "섕크 협회 4과",
+    "context": "EN :\nCinq Section 4\nJP :\nセンク協会 4課"
+  },
+  {
+    "key": "21-content",
+    "original": "이게 소문으로만 듣던… 부장님의…",
+    "context": "EN :\nSo this is... the Director's famed...\nJP :\nこれが噂に聞く…部長の…。"
+  },
+  {
+    "key": "22-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "22-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "22-title",
+    "original": "섕크 협회 4과 부장",
+    "context": "EN :\nCinq Section 4 Director\nJP :\nセンク協会 4課 部長"
+  },
+  {
+    "key": "22-content",
+    "original": "아뇨… 이건 그렇게 대단한 게 아니에요… 검에 홀리기라도 한 듯이 움직인다는 건, 결국 저 스스로가 끌려다니는 것밖엔 안 된다는 거니까요.",
+    "context": "EN :\nNo, this... this isn't anything impressive. 'Moving like the blade guides me'... just means that I don't have control over my own blade.\nJP :\nいえ…これはそんな凄いことじゃないですよ…。剣が流れるように動くってことは\n結局、僕自身が引っ張られてるってことでしかないですからね。"
+  },
+  {
+    "key": "23-content",
+    "original": "주변에서 탄성을 터트리는 것과는 비교되게, 아이는 여전히 시무룩한 표정이야.",
+    "context": "EN :\nUnlike the spectators' impressed hollers, the child appears rather dejected.\nJP :\n周辺で嘆声を漏らすのとは裏腹に、\n子供は依然として不機嫌そうな顔だね。"
+  },
+  {
+    "key": "24-content",
+    "original": "마치 자신과 검, 그 두 개만 세상에 존재하는 듯이 고도의 집중을 끌어올려서 벌이는 그 공격으로, 아이는 4과의 부장이라는 자리에 오를 수 있었던 것이지만…",
+    "context": "EN :\nIt was as though the child descends into a world of his own where there is naught else but himself and the blade—a manifestation of an extremely intense level of focus. With his particular techniques, perfected in that focused state, the child rose through the ranks to become the Director of the Cinq Association Section 4. But...\nJP :\nまるで自分と剣、その二つだけが世界に存在するかのように高度な集中力を引き出して\n繰り広げるその攻撃で、子供は4課の部長という座に就けたのかもしれないけど…。"
+  },
+  {
+    "key": "25-content",
+    "original": "그 모든 일이 자신의 노력으로 만들어진 것이 아니라는 생각이, 아이가 이 자리를 부담스럽고 어울리지 않는 자리라고 여기게 만들고 있었던 거야.",
+    "context": "EN :\n... the child felt as though his achievements weren't his own. That he didn't get this far purely with his skills with the blade. This position was a burden to him, and the child thought himself undeserving of such a responsibility.\nJP :\nその全てが自分の努力によってなされたものではないという思いに、\n子供がこの座を負担に、そして相応しくないという気分になっていたんだ。"
+  },
+  {
+    "key": "26-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "26-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "26-title",
+    "original": "섕크 협회 4과 부장",
+    "context": "EN :\nCinq Section 4 Director\nJP :\nセンク協会 4課 部長"
+  },
+  {
+    "key": "26-content",
+    "original": "…앗!",
+    "context": "EN :\n... Agh!\nJP :\n…あっ！"
+  },
+  {
+    "key": "27-content",
+    "original": "연습 상대를 해주던 직원과 거리를 벌리고 생각을 정리하던 와중, 아이에게 별안간 장갑이 날아와 부딪혔어.",
+    "context": "EN :\nAs the child mused quietly to himself after regaining a bit of distance from his sparring opponent, a gauntlet flew out of nowhere and struck the child.\nJP :\n練習相手の職員と距離を離そうとしていると、\n子供の方へ突然手袋が投げつけられてぶつかった。"
+  },
+  {
+    "key": "28-content",
+    "original": "…섕크에서 장갑을 던진다는 것은, 결투를 신청한다는 정식 선포.",
+    "context": "EN :\n... To throw the gauntlet as a member of the Cinq Association... is to challenge someone to a duel.\nJP :\n…センクにて手袋を投げるということは、決闘を申し込むという正式な宣布。"
+  },
+  {
+    "key": "29-content",
+    "original": "그리고 그 선언은 당연히, 섕크의 내부에서도 일어나기 마련이지.",
+    "context": "EN :\nOf course, these challenges happened among the members of the Cinq Association as well.\nJP :\nそしてその宣言は当然、センク内部でも起こるみたいだね。"
+  },
+  {
+    "key": "30-teller",
+    "original": "싸늘한 협회 직원",
+    "context": "EN :\nCold Association Member\nJP :\n冷たい協会職員"
+  },
+  {
+    "key": "30-title",
+    "original": "섕크 협회 4과",
+    "context": "EN :\nCinq Section 4\nJP :\nセンク協会 4課"
+  },
+  {
+    "key": "30-content",
+    "original": "부장, 미안하게 되었습니다.",
+    "context": "EN :\nSorry 'bout that, Director.\nJP :\n部長、申しわけないことになりました。"
+  },
+  {
+    "key": "31-teller",
+    "original": "싸늘한 협회 직원",
+    "context": "EN :\nCold Association Member\nJP :\n冷たい協会職員"
+  },
+  {
+    "key": "31-title",
+    "original": "섕크 협회 4과",
+    "context": "EN :\nCinq Section 4\nJP :\nセンク協会 4課"
+  },
+  {
+    "key": "31-content",
+    "original": "부장을 향한 결투 의뢰가 들어와 버려서…",
+    "context": "EN :\nSomebody put out a Duel contract against you, so...\nJP :\n部長への決闘依頼が舞い込んでしまって…。"
+  },
+  {
+    "key": "32-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "32-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "32-title",
+    "original": "섕크 협회 4과 부장",
+    "context": "EN :\nCinq Section 4 Director\nJP :\nセンク協会 4課 部長"
+  },
+  {
+    "key": "32-content",
+    "original": "…그렇군요.",
+    "context": "EN :\n... I see.\nJP :\n…そうですか。"
+  },
+  {
+    "key": "33-content",
+    "original": "섕크 협회의 주 업무는 대리 결투. 의뢰자가 지정한 인물에게 결투를 신청하고, 의뢰 내용에 맞는 결과를 도출하는 게 그들의 일이야.",
+    "context": "EN :\nOne of the main functions of the Cinq Association is to duel in the client's stead. To be hired as a champion in a duel against an individual of the client's choosing. Of course, their goal is to carry out the terms of the contract as stipulated.\nJP :\nセンク協会の主要業務は代理決闘。依頼者が指定した人物へ決闘を申し込み、\n依頼内容に見合った結果を導出することが彼らの仕事だ。"
+  },
+  {
+    "key": "34-content",
+    "original": "지정한 인물이 섕크 내부에 있는 건 생각보다 흔한 일이기도 하고.",
+    "context": "EN :\nContracts against other members of the Cinq Association happened more often than one might think.\nJP :\n指定した人物がセンク内部にいるのは、\n思ったよりもよくあることだ。"
+  },
+  {
+    "key": "35-content",
+    "original": "그들에게 당한 사람들이 도시에 얼마나 많겠어?",
+    "context": "EN :\nIt was common for members of the Cinq Association to make enemies in the City, after all.\nJP :\n彼らにやられた人たちって、この都市にどれだけいるんだろうね？"
+  },
+  {
+    "key": "36-content",
+    "original": "더욱이, 남부 4과의 부장은 유약한 성정이라는 소문도 돌고 있으니 이런 일이 벌어지는 것이 한두 번도 아니지.",
+    "context": "EN :\nAnd these contracts happened quite often against the Director of Section 4, considering that he was known for his rather timid disposition.\nJP :\nそれに加えて、南部4課の部長は柔弱な気質だって噂も出回っているから\nこんなことが起こるのも一度や二度じゃないんだ。"
+  },
+  {
+    "key": "37-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "37-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "37-title",
+    "original": "섕크 협회 4과 부장",
+    "context": "EN :\nCinq Section 4 Director\nJP :\nセンク協会 4課 部長"
+  },
+  {
+    "key": "37-content",
+    "original": "…룰은?",
+    "context": "EN :\n... And the rules are?\nJP :\n…ルールは？"
+  },
+  {
+    "key": "38-teller",
+    "original": "싸늘한 협회 직원",
+    "context": "EN :\nCold Association Member\nJP :\n冷たい協会職員"
+  },
+  {
+    "key": "38-title",
+    "original": "섕크 협회 4과",
+    "context": "EN :\nCinq Section 4\nJP :\nセンク協会 4課"
+  },
+  {
+    "key": "38-content",
+    "original": "제가 설득 해보려고 많이 대화를 했지만… 하, 아무래도 화가 많으신 분인지라.",
+    "context": "EN :\nI tried my best to talk 'em out of it, but... haah, my client really has it out for you, Director.\nJP :\n私が説得しようと何度も対話を重ねたのですが…。\nはぁ、どうやら相当恨みがある方でして。"
+  },
+  {
+    "key": "39-teller",
+    "original": "싸늘한 협회 직원",
+    "context": "EN :\nCold Association Member\nJP :\n冷たい協会職員"
+  },
+  {
+    "key": "39-title",
+    "original": "섕크 협회 4과",
+    "context": "EN :\nCinq Section 4\nJP :\nセンク協会 4課"
+  },
+  {
+    "key": "39-content",
+    "original": "3단계 듀엘인 결투 재판… 그러니까, 누군가가 죽을 때까지라고.",
+    "context": "EN :\nMy client requested a Level 3 Duel, trial by combat. ... A duel to the death.\nJP :\n3段階デュエルの決闘裁判…だから、誰かが死ぬときまでと。"
+  },
+  {
+    "key": "40-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "40-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "40-title",
+    "original": "섕크 협회 4과 부장",
+    "context": "EN :\nCinq Section 4 Director\nJP :\nセンク協会 4課 部長"
+  },
+  {
+    "key": "40-content",
+    "original": "받아들이죠…",
+    "context": "EN :\nFine, I accept...\nJP :\n受け入れましょう…。"
+  },
+  {
+    "key": "41-content",
+    "original": "아이는 한숨을 푹 쉬었어.",
+    "context": "EN :\nThe child sighed.\nJP :\n子供は溜め息をはぁと吐いた。"
+  },
+  {
+    "key": "42-content",
+    "original": "그 숨에 조그마한 떨림이 섞여 있었고, 장갑을 던진 직원도 그 낌새를 느끼고서 조용하게 웃어.",
+    "context": "EN :\nIt was almost a shuddering sigh. The Association member who threw the gauntlet noticed it too—he grinned.\nJP :\nその息には小さな震えが混じっており、\n手袋を投げた職員もその気配を感じて静かに笑う。"
+  },
+  {
+    "key": "43-content",
+    "original": "하지만… 아이의 한숨은 결코 이 결투가 두렵기 때문은 아니야.",
+    "context": "EN :\nBut... the child's sigh did not indicate fear.\nJP :\nでも…子供の一息は、決してこの決闘が怖かったから出たわけじゃないんだ。"
+  },
+  {
+    "key": "44-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "44-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "44-title",
+    "original": "섕크 협회 4과 부장",
+    "context": "EN :\nCinq Section 4 Director\nJP :\nセンク協会 4課 部長"
+  },
+  {
+    "key": "44-content",
+    "original": "당신은… 이번에 4과로 새로 전입된 분이시죠?",
+    "context": "EN :\nYou're... a new transfer to Section 4, aren't you?\nJP :\nあなたは…今回4課へ新たに転入してきた方ですよね？"
+  },
+  {
+    "key": "45-teller",
+    "original": "싸늘한 협회 직원",
+    "context": "EN :\nCold Association Member\nJP :\n冷たい協会職員"
+  },
+  {
+    "key": "45-title",
+    "original": "섕크 협회 4과",
+    "context": "EN :\nCinq Section 4\nJP :\nセンク協会 4課"
+  },
+  {
+    "key": "45-content",
+    "original": "…그렇습니다만.",
+    "context": "EN :\n... Yes, I am.\nJP :\n…そうですが。"
+  },
+  {
+    "key": "46-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "46-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "46-title",
+    "original": "섕크 협회 4과 부장",
+    "context": "EN :\nCinq Section 4 Director\nJP :\nセンク協会 4課 部長"
+  },
+  {
+    "key": "46-content",
+    "original": "예전에 일어났던 일은 따로 듣지 못하신 것 같네요…",
+    "context": "EN :\nI guess you didn't hear what happened last time...\nJP :\n昔起こったことを、どこかで聞いたりはできなかったようですね…。"
+  },
+  {
+    "key": "47-content",
+    "original": "저런, 아쉽게 되었어… 안타깝네. 그런 말들이 웅성웅성 퍼져나가고.",
+    "context": "EN :\nSeveral voices echo through the training hall. 'Oh, that poor man.' 'That's a shame.'\nJP :\nあらら。残念だ…。惜しいことになった。\nそんな言葉がざわざわと飛び交い。"
+  },
+  {
+    "key": "48-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "48-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "48-title",
+    "original": "섕크 협회 4과 부장",
+    "context": "EN :\nCinq Section 4 Director\nJP :\nセンク協会 4課 部長"
+  },
+  {
+    "key": "48-content",
+    "original": "하지만, 던져진 장갑을 거두는 건 수치니까요.",
+    "context": "EN :\nBut... it would be a shame to withdraw a thrown gauntlet.\nJP :\nでも、投げられた手袋を拾わないのは恥ですからね。"
+  },
+  {
+    "key": "49-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "49-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "49-title",
+    "original": "섕크 협회 4과 부장",
+    "context": "EN :\nCinq Section 4 Director\nJP :\nセンク協会 4課 部長"
+  },
+  {
+    "key": "49-content",
+    "original": "에쥬, 프레? (준비되었나요?)",
+    "context": "EN :\nEs-tu prêt? (Ready?)\nJP :\nエトュ、プレ？(準備は良いですか？)"
+  },
+  {
+    "key": "50-teller",
+    "original": "싸늘한 협회 직원",
+    "context": "EN :\nCold Association Member\nJP :\n冷たい協会職員"
+  },
+  {
+    "key": "50-title",
+    "original": "섕크 협회 4과",
+    "context": "EN :\nCinq Section 4\nJP :\nセンク協会 4課"
+  },
+  {
+    "key": "50-content",
+    "original": "아, 알레!",
+    "context": "EN :\nA-Allez!\nJP :\nア、アレ！"
+  },
+  {
+    "key": "51-content",
+    "original": "분위기를 보고, 뭔가 잘못된 걸 눈치챘지만. 이미 늦었던 거야.",
+    "context": "EN :\nThe room's atmosphere, everyone's attitude... everything was telling him that something was seriously wrong. But it was too late.\nJP :\n雰囲気を感じ取って、何かおかしいことに気が付いたけど。\nもう遅かったんだ。"
+  },
+  {
+    "key": "52-content",
+    "original": "어마어마한 의뢰비를 챙기고, 공석이 된 부장의 자리까지 노리려던 신입의 원대한 계획은.",
+    "context": "EN :\nHis grand plan of taking the massive sum of the contract fee, his plan of taking over the tragically vacated office of the Director...\nJP :\n莫大な依頼費用をもらって、おまけに空席になった部長の席を\n狙おうとした新入りの大きな計画は。"
+  },
+  {
+    "key": "53-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "53-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "53-title",
+    "original": "섕크 협회 4과 부장",
+    "context": "EN :\nCinq Section 4 Director\nJP :\nセンク協会 4課 部長"
+  },
+  {
+    "key": "53-content",
+    "original": "검 끝을… 바라본다…",
+    "context": "EN :\nFocus... on the tip of my blade...\nJP :\n剣先を…見つめる…。"
+  },
+  {
+    "key": "54-teller",
+    "original": "싸늘한 협회 직원",
+    "context": "EN :\nCold Association Member\nJP :\n冷たい協会職員"
+  },
+  {
+    "key": "54-title",
+    "original": "섕크 협회 4과",
+    "context": "EN :\nCinq Section 4\nJP :\nセンク協会 4課"
+  },
+  {
+    "key": "54-content",
+    "original": "…!",
+    "context": "EN :\n...!\nJP :\n…！"
+  },
+  {
+    "key": "55-content",
+    "original": "단 한 순간 만에, 꿰뚫린 머리와 함께 사라져 버렸어.",
+    "context": "EN :\n... scattered to nothingness as the child's blade swiftly yet brutally penetrated his skull.\nJP :\nたった一瞬のうちに、貫かれた頭と共に消えてしまったんだ。"
+  }
+]

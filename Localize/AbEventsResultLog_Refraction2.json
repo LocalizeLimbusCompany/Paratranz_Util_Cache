@@ -1,0 +1,157 @@
+[
+  {
+    "key": "853901_success_1_1-content",
+    "original": "<color=#ebcaa2>다음에 소환되는 모든 낡은 우산</color> <color=#00ff9c>최대 체력의 30%</color>만큼 감소된 상태로 등장",
+    "context": "EN :\n<color=#ebcaa2>All Old Umbrella to be summoned next</color> are summoned with <color=#00ff9c>30% of their Max HP reduced</color>\nJP :\n<color=#ebcaa2>次に召喚される全ての古傘</color> <color=#00ff9c>体力最大値の30%</color>が減少した状態で出現"
+  },
+  {
+    "key": "853901_success_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#fe4b48>정신력 {1} 소모</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#fe4b48>loses {1} SP</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#fe4b48>精神力 {1} 消耗</color>"
+  },
+  {
+    "key": "853901_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#fe4b48>정신력 {1} 소모</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#fe4b48>loses {1} SP</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#fe4b48>精神力 {1} 消耗</color>"
+  },
+  {
+    "key": "854101_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}] %[{1}] {2}/%<color=#ebcaa2> 감소</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] loses %{2} [{1}]/%</color>\nJP :\n<color=#ebcaa2>[{0}] %[{1}] {2}/%<color=#ebcaa2> 減少</color>"
+  },
+  {
+    "key": "854101_success_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]의 모든 부위가</color> %[{1}] {2}/%<color=#ebcaa2>를 얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>All of [{0}]’s parts</color> <color=#ebcaa2>gain</color> % {2} [{1}]/%\nJP :\n<color=#ebcaa2>[{0}]の全部位が</color>%[{1}]{2}/%<color=#ebcaa2>を得る</color>"
+  },
+  {
+    "key": "854101_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}] %[{1}] {2}/%<color=#ebcaa2> 증가</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] gains %{2} [{1}]/%</color>\nJP :\n<color=#ebcaa2>[{0}] %[{1}] {2}/%<color=#ebcaa2> 増加</color>"
+  },
+  {
+    "key": "854101_failure_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]</color> %[{1}] {2}/%<color=#ebcaa2> 얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}]/%\nJP :\n<color=#ebcaa2>[{0}]</color> %[{1}] {2}/%<color=#ebcaa2> 獲得</color>"
+  },
+  {
+    "key": "854201_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#00ff9c>체력 +{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#00ff9c>heals {1} HP</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#00ff9c>体力 +{1}</color>"
+  },
+  {
+    "key": "854201_success_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]</color> %[{1}] {2}, [{3}] {4}, [{5}], {6}/%<color=#ebcaa2> 얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}], {4} [{3}], and {6} [{5}]/%\nJP :\n<color=#ebcaa2>[{0}]</color> %[{1}] {2}, [{3}] {4}, [{5}], {6}/%<color=#ebcaa2> 獲得</color>"
+  },
+  {
+    "key": "854201_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#00ff9c>체력 +{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#00ff9c>heals {1} HP</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#00ff9c>体力 +{1}</color>"
+  },
+  {
+    "key": "854201_failure_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]</color> %[{1}] {2}, [{3}] {4}, [{5}], {6}/%<color=#ebcaa2> 얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}], {4} [{3}], and {6} [{5}]/%\nJP :\n<color=#ebcaa2>[{0}]</color> %[{1}] {2}, [{3}] {4}, [{5}], {6}/%<color=#ebcaa2> 獲得</color>"
+  },
+  {
+    "key": "854401_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color>에게 {1} {2} <color=#ebcaa2>부여</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>applied with</color> {2} {1}\nJP :\n<color=#ebcaa2>[{0}]</color>へ{1} {2}<color=#ebcaa2>付与</color>"
+  },
+  {
+    "key": "854401_success_1_2-content",
+    "original": "[{0}] 수감자에게 다음 턴에 <color=#00ff9c>{1} {2}</color> 부여",
+    "context": "EN :\n[{0}] gains <color=#00ff9c>{2} {1}</color> next turn\nJP :\n囚人[{0}]へ次のターンに<color=#00ff9c>{1} {2}</color>付与"
+  },
+  {
+    "key": "854401_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color> 수감자가 가지고 있는 <color=#ebcaa2>{1} 전부 소멸</color>",
+    "context": "EN :\n<color=#ebcaa2>All {1} removed</color> from <color=#ebcaa2>[{0}]</color>\nJP :\n<color=#ebcaa2>[{0}]</color>囚人の持つ<color=#ebcaa2>{1} 全て消滅</color>"
+  },
+  {
+    "key": "854501_success_1_1-content",
+    "original": "<color=#ebcaa2>{0}가 흐트러짐 상태가 됨</color>",
+    "context": "EN :\n<color=#ebcaa2>{0} is Staggered</color>\nJP :\n<color=#ebcaa2>{0}が混乱状態になる</color>"
+  },
+  {
+    "key": "854501_success_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]에게</color> <color=#e30000>[{1}]</color> {2}<color=#ebcaa2> 부여</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] gains</color> {2} <color=#e30000>[{1}]</color>.\nJP :\n<color=#ebcaa2>[{0}]に</color><color=#e30000>[{1}]</color> {2}<color=#ebcaa2>付与</color>"
+  },
+  {
+    "key": "854501_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#e30000>体力 -{1}</color>"
+  },
+  {
+    "key": "854901_success_1_1-content",
+    "original": "<color=#ebcaa2>요정 흐트러짐 상태가 됨</color>",
+    "context": "EN :\n<color=#ebcaa2>Fairy is Staggered!</color>\nJP :\n<color=#ebcaa2>妖精が混乱状態になる</color>"
+  },
+  {
+    "key": "854901_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}] 수감자</color> <color=#e30000>[{1}] {2}</color><color=#ebcaa2> 얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] gains</color> <color=#e30000>{2} [{1}]</color>\nJP :\n<color=#ebcaa2>囚人[{0}]</color> <color=#e30000>[{1}] {2}</color><color=#ebcaa2>を得る</color>"
+  },
+  {
+    "key": "854901_failure_1_2-content",
+    "original": "<color=#ebcaa2>[{0}] 수감자</color> <color=#e30000>[{1}] {2}</color><color=#ebcaa2> 얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] gains</color> <color=#e30000>{2} [{1}]</color>\nJP :\n<color=#ebcaa2>囚人[{0}]</color> <color=#e30000>[{1}] {2}</color><color=#ebcaa2>を得る</color>"
+  },
+  {
+    "key": "855001_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color> <color=#e30000>[{1}] {2}</color><color=#ebcaa2> 얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] gains</color> <color=#e30000>{2} [{1}]</color>\nJP :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>[{1}] {2}</color><color=#ebcaa2>を得る</color>"
+  },
+  {
+    "key": "855001_success_1_2-content",
+    "original": "<color=#ebcaa2>[{0}] 수감자</color> <color=#e30000>[{1}] {2}</color><color=#ebcaa2> 얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] gains</color> <color=#e30000>{2} [{1}]</color>\nJP :\n<color=#ebcaa2>囚人[{0}]</color> <color=#e30000>[{1}] {2}</color><color=#ebcaa2>を得る</color>"
+  },
+  {
+    "key": "855001_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}] 수감자</color> <color=#e30000>전체 체력의 20%</color><color=#ebcaa2>만큼 소모</color> <color=#e30000>(체력 {1} 감소)</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] loses</color> <color=#e30000>20% of Max HP (Loses {1} HP)</color>\nJP :\n<color=#ebcaa2>囚人[{0}]</color> <color=#e30000>体力最大値の20%</color><color=#ebcaa2>を消耗</color> <color=#e30000>(体力 {1}減少)</color>"
+  },
+  {
+    "key": "855501_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color> <color=#e30000>{1} {2}</color><color=#ebcaa2>소모</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>loses</color> <color=#e30000>{2} {1}</color>\nJP :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>{1} {2}</color><color=#ebcaa2>消耗</color>"
+  },
+  {
+    "key": "855501_success_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]</color> <color=#e30000>{1} {2}</color><color=#ebcaa2>얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> <color=#e30000>{2} {1}</color>\nJP :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>{1} {2}</color><color=#ebcaa2>を得る</color>"
+  },
+  {
+    "key": "855501_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color> <color=#e30000>{1} {2}</color><color=#ebcaa2>얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> <color=#e30000>{2} {1}</color>\nJP :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>{1} {2}</color><color=#ebcaa2>を得る</color>"
+  },
+  {
+    "key": "855501_failure_1_2-content",
+    "original": "<color=#ebcaa2>[{0}] 수감자</color> <color=#e30000>{1} {2}</color><color=#ebcaa2>얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] Sinner</color> <color=#ebcaa2>gains</color> <color=#e30000>{2} {1}</color>\nJP :\n<color=#ebcaa2>囚人[{0}]</color> <color=#e30000>{1} {2}</color><color=#ebcaa2>を得る</color>"
+  },
+  {
+    "key": "855601_1_1-content",
+    "original": "모든 캐릭터 가하는 피해량 {0}%",
+    "context": "EN :\nAll characters deal {0}% damage\nJP :\n全キャラクターの与ダメージ量 {0}%"
+  },
+  {
+    "key": "855601_1_2-content",
+    "original": "모든 캐릭터 받는 피해량 {0}%",
+    "context": "EN :\nAll characters take {0}% damage\nJP :\n全キャラクターの被ダメージ量 {0}%"
+  },
+  {
+    "key": "85560101_success_1_1-content",
+    "original": "모든 캐릭터 [{0}] 속성 스킬로 <color=#00ff9c>가하는 피해량 {1}%</color>",
+    "context": "EN :\nAll characters <color=#00ff9c>deal {1}% damage</color> with [{0}] Affinity Skill\nJP :\n全キャラクター [{0}]属性スキルの<color=#00ff9c>与ダメージ量 {1}%</color>"
+  },
+  {
+    "key": "85560101_success_1_2-content",
+    "original": "모든 캐릭터 [{0}] 속성 스킬로 <color=#e30000>받는 피해량 {1}%</color>",
+    "context": "EN :\nAll characters <color=#e30000>take {1}% damage</color> with [{0}] Affinity Skill\nJP :\n全キャラクター [{0}]属性スキルの<color=#e30000>被ダメージ量 {1}%</color>"
+  }
+]

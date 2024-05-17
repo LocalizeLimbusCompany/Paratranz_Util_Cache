@@ -1,0 +1,47 @@
+[
+  {
+    "key": "acquire_personality_title-content",
+    "original": "인격 선택",
+    "context": "EN :\nSelect Identity\nJP :\n人格選択"
+  },
+  {
+    "key": "ask_acquire_personality-content",
+    "original": "{1}의 [{0}] 인격을 선택하시겠습니까?",
+    "context": "EN :\nSelect {1}'s [{0}] Identity?\nJP :\n{1}の人格[{0}]を選択しますか？"
+  },
+  {
+    "key": "ask_use_item_for_acquire_personality-content",
+    "original": "{0}을 사용하시겠습니까",
+    "context": "EN :\nUse {0}?\nJP :\n{0}を使用しますか？"
+  },
+  {
+    "key": "tip_able_to_check_personality_by_longclick-content",
+    "original": "※ 롱클릭 시 인격 상세 정보 확인이 가능합니다.",
+    "context": "EN :\n※ Press and hold to view detailed information of the Identity.\nJP :\n※長押しすると人格詳細情報が確認できます。"
+  },
+  {
+    "key": "luxcavation_bonus_on-content",
+    "original": "채광 보너스 적용중",
+    "context": "EN :\nLux. Bonus Activated\nJP :\n採光ボーナス適用中"
+  },
+  {
+    "key": "ask_acquire_personality_already_owned-content",
+    "original": "{1}의 [{0}] 인격을 선택하시겠습니까?\n보유 중인 인격 선택 시 파편으로 교환됩니다.",
+    "context": "EN :\nSelect {1}'s [{0}] Identity?\nSelecting an already-owned Identity will automatically convert your selection to Shards.\nJP :\n{1}の人格[{0}]を選択しますか？\n保有中の人格を選択すると、破片として交換されます。"
+  },
+  {
+    "key": "acquire_ego_title-content",
+    "original": "E.G.O 선택",
+    "context": "EN :\nSelecting E.G.O\nJP :\nE.G.O選択"
+  },
+  {
+    "key": "ask_acquire_ego-content",
+    "original": "{1}의 [{0}] E.G.O를 선택하시겠습니까?",
+    "context": "EN :\nSelect {1}'s [{0}] E.G.O?\nJP :\n{1}のE.G.O[{0}]を選択しますか？"
+  },
+  {
+    "key": "ask_acquire_ego_already_owned-content",
+    "original": "{1}의 [{0}] E.G.O를 선택하시겠습니까?\n보유 중인 E.G.O 선택 시 파편으로 교환됩니다.",
+    "context": "EN :\nSelect {1}'s [{0}] E.G.O?\nSelecting an already-owned E.G.O will automatically convert your selection to Shards.\nJP :\n{1}のE.G.O[{0}]を選択しますか？\n保有中のE.G.Oを選択すると、破片として交換されます。"
+  }
+]

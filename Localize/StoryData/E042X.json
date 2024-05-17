@@ -1,0 +1,1134 @@
+[
+  {
+    "key": "0-content",
+    "original": "여전히 연안 위에서 둥둥 떠다니기만을 반복하며 지루하고 한가로운 버스배.",
+    "context": "EN :\nAnother day, another prolonged and dreary period of waiting, waiting, and some more waiting for something to happen. Of course, our busboat was still floating on the coastal Great Lake.\nJP :\n未だ沿岸の上でぷかぷかと浮かぶことだけを反復している、\nのどかで退屈なバスボート。"
+  },
+  {
+    "key": "1-content",
+    "original": "수감자 몇몇이 지루함을 토해내는 정도였던 시기도 있었지만, 그 볼멘소리가 점차 늘어가고만 있을 때 쯤의 일이었다.",
+    "context": "EN :\nVoices of discontent among the Sinners started small, but they have been growing increasingly incessant as of late.\nJP :\n囚人数名が退屈を吐き出すくらいで済んでたときもあったが、\nその不満が次第に増えていく頃のことだった。"
+  },
+  {
+    "key": "2-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "2-content",
+    "original": "우왓! 깜짝아!",
+    "context": "EN :\nGAH! Holy CRAP!\nJP :\nうわっ！びっくりした！"
+  },
+  {
+    "key": "3-place",
+    "original": "메피스토펠레스 선실",
+    "context": "EN :\nCabins of Mephistopheles\nJP :\nメフィストフェレス 船室"
+  },
+  {
+    "key": "3-content",
+    "original": "별안간 선실 안에서 요란한 경보가 울려 퍼졌다.",
+    "context": "EN :\nAll of a sudden, an ear-splitting siren echoes throughout the cabins.\nJP :\n突然、船室の中から騒々しい警報が鳴り響いた。"
+  },
+  {
+    "key": "4-content",
+    "original": "요전에도 몇 번이나 겪었던… 새로운 변동성이 생길 때 울리는 알람과 같은 소리였지만, 훨씬 크고 자극적인 음색으로 들리는 것만 같았다.",
+    "context": "EN :\nIt's that alarm again— Warning us of a volatility in Mephistopheles. But it was much louder, much more painful than the ones we've heard before.\nJP :\n先日も何度も経験した··· 新しい変動性が生じたときに鳴るアラームみたいな\n音だったけど、より大きくて刺激的な音色であるような気がした。"
+  },
+  {
+    "key": "5-content",
+    "original": "거기에 더해…",
+    "context": "EN :\nAnd this time, it wasn't the only thing that assaulted our senses.\nJP :\nそれに加えて…。"
+  },
+  {
+    "key": "6-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "6-content",
+    "original": "뭐야… 지금껏 이런 색으로 번쩍거린 일은 없었잖아?",
+    "context": "EN :\nHuhh...? We've never had flashing lights like this before, right?\nJP :\nなにこれ…今までこんな色でピカピカしたこと無くなかった？"
+  },
+  {
+    "key": "7-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "7-content",
+    "original": "또 뭐야…? 이 망할 고물 버스, 뭐 잘못 집어 먹은 거 아냐?",
+    "context": "EN :\nWhat is it this time? The hell did you feed this bloody rickety bus?\nJP :\nなんだよまた…？\nこのポンコツおんぼろバス、何か変なモンでも食ったんじゃねぇか？"
+  },
+  {
+    "key": "8-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "8-content",
+    "original": "오오!! 드디어 길고 긴 기다림이 끝나고 모험의 시작으로 들어서는가!!!",
+    "context": "EN :\nOoo!! This must be a signal that the long-awaited adventure is finally nigh!!!\nJP :\nおぉ！遂に長くも長い待望が終わり、\n冒険の始まりへと立ち返るというのであるか！！！"
+  },
+  {
+    "key": "9-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "9-content",
+    "original": "이, 이게… 저희가 기다리던 건가요?",
+    "context": "EN :\nI-is this... what we've been waiting for this whole time?\nJP :\nこ、これ…僕たちが待ってたものなんですか？"
+  },
+  {
+    "key": "10-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "10-content",
+    "original": "…아니.",
+    "context": "EN :\n... No.\nJP :\n…いや。"
+  },
+  {
+    "key": "11-content",
+    "original": "베르길리우스는 무언가 묘하다는 듯 미간을 잔뜩 찌푸리며 파우스트를 돌아보았다.",
+    "context": "EN :\nVergilius frowned as though he sensed that something was off. He turned to Faust.\nJP :\nヴェルギリウス何だか妙だという風に眉間を思いっ切りしかめ、\nファウストの方へ振り向いた。"
+  },
+  {
+    "key": "12-content",
+    "original": "그답지 않게, 조금 당황한 기색도 느껴졌다.",
+    "context": "EN :\nIt was one of those rare occasions when I could sense the slightest hint of confusion from him.\nJP :\n彼らしくないけど、少し慌てている様子が窺えた。"
+  },
+  {
+    "key": "13-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "13-content",
+    "original": "비상. 비상. 메피가 터질 것처럼 울고 있어. 메피 아파?",
+    "context": "EN :\nWeewoo weewoo. Mephi's blaring and crying. Mephi sick?\nJP :\nえまーじぇんしー。えまーじぇんしー。メフィが爆発しそうなくらい泣いてる。\nメフィ、いたいの？"
+  },
+  {
+    "key": "14-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "14-content",
+    "original": "파우스트 씨. 이런 알림 형식은 사전에 전달받지 못했는데.",
+    "context": "EN :\nWhat is this, Ms. Faust? I wasn't informed about a siren like this before.\nJP :\nファウストさん。\nこういった形式のアラームについては事前に伝達されていなかったのですが。"
+  },
+  {
+    "key": "15-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "15-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "16-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "16-content",
+    "original": "우선 잘못된 사실부터 정정하겠습니다. 메피스토펠레스는 고물 버스가 아닙니다. 그리고, 무언가를 먹는 행위도 하지 않습니다.",
+    "context": "EN :\nFirst, A correction of falsehoods is in order. Mephistopheles is not 'bloody rickety'. And 'eating' is not a part of its behaviors.\nJP :\nまず誤認事実より訂正します。メフィストフェレスはおんぼろバスではありません。\nそして、何かを食べる行為も行いません。"
+  },
+  {
+    "key": "17-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "17-content",
+    "original": "연료 보급을 위해 엔진에 있는 엔케팔린 보급 장치를 간혹 사용하긴 하지만, 문제되지 않을 뿐더러, 잘못되어도 전부 분해 후에 수리가 가능한…",
+    "context": "EN :\nIt does make infrequent use of the Enkephalin supply gear installed in the engine for fuel, but that is of no negative consequence. Even if it was, whatever issues that may arise can handily be repaired after a proper total disassembly—\nJP :\n燃料補給のためにエンジンにあるエンケファリン補給装置を\n時たまに使用することもありますが、問題が起こらないだけでなく、\n問題があっても全部分解して修理が可能な…。"
+  },
+  {
+    "key": "18-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "18-content",
+    "original": "말이 그렇다는 거지! 쯧, 그래서 대체 무슨 일인데 이게? 터지기 직전 같잖아!",
+    "context": "EN :\nThat was just a figure of speech! Tsk. So what's this now? Sounds like the bus is about to explode!\nJP :\nだからそれがそうだっつってんだろ！\nチッ、それで一体なんなんだよこれ？爆発する直前みてぇじゃねぇか！"
+  },
+  {
+    "key": "19-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "19-content",
+    "original": "메피스토펠레스를 고물 버스라 칭하는 것은, 파우스트의 심혈을 기울인 설계와…",
+    "context": "EN :\nTo label Mephistopheles as some 'bloody rickety bus' completely disregards the amount of pain and effort Faust dedicated to designing and—\nJP :\nメフィストフェレスをおんぼろバスと称するのは、\nファウストの心血を注いだ設計と…。"
+  },
+  {
+    "key": "20-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "20-content",
+    "original": "히스클리프 씨, 아까 하신 말씀 취소 안 하면 계속 저러실 것 같은데요…",
+    "context": "EN :\nHeathcliff, if you don't take it back... I don't think she's ever going to stop...\nJP :\nヒースクリフさん、さっきおっしゃったことを取り消さないと\nずっとああ言い続けそうなんですけど…。"
+  },
+  {
+    "key": "21-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "21-content",
+    "original": "하, 씨…",
+    "context": "EN :\nHaah, seriously...?\nJP :\nはぁ…クソッ…。"
+  },
+  {
+    "key": "22-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "22-content",
+    "original": "히스, 빨리 취소해… 이렇게 설명도 못 듣고 있다가 진짜 이거 터져버리면 어떡하라고!",
+    "context": "EN :\nYeah, Heath. Take it back... The bus might actually blow up before she explains anything!\nJP :\nヒース、早く取り消して…。\nこんな風に説明も聞けないままホントに爆発したらどーするの！"
+  },
+  {
+    "key": "23-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "23-content",
+    "original": "크윽…",
+    "context": "EN :\nUgh...\nJP :\nぐっ…。"
+  },
+  {
+    "key": "24-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "24-content",
+    "original": "아까 말한 거, 취소다…",
+    "context": "EN :\n... I take back what I said earlier.\nJP :\nさっき言ったの、取り消す…。"
+  },
+  {
+    "key": "25-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "25-content",
+    "original": "아까라는 표현은 매우 범위가 넓군요. 파우스트는 그것이 구체적으로 어떤 발언을 취소하려는 뜻인지 알 수 없습니다. 대신 파우스트는 구체적으로 메피스토펠레스의 대단함을 설명할 수 있습니다, 가령 이 나사는.",
+    "context": "EN :\nI cannot comprehend what you are attempting to take back. Your rather abstract reference to this unknown concept that you supposedly mentioned 'earlier' is hardly clarifying. Anyway, allow me to list the specifications of screws used in Mephistopheles' construction that make this creation so impressive. First—\nJP :\nさっきという表現はとても範囲が広いですね。ファウストはそれが具体的にどのような発言を取り消すという意味なのか分かりません。代わりにファウストは具体的にメフィストフェレスの素晴らしさについて説明することができます、例えばこのネジは。"
+  },
+  {
+    "key": "26-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "26-content",
+    "original": "이! 버스! 고물이라고 말한 거! 뭐 잘못 먹었냐는 거! 취소한다고! 미안하다고!!!",
+    "context": "EN :\nFine! I take back what I said about the Bus! It's not bloody rickety, and it doesn't eat! I'm sorry, alright?!!!\nJP :\nこの！バス！おんぼろっつっったの！\n何か変なモンでも食ったっつったの！取り消すって！すまねぇよ！！！"
+  },
+  {
+    "key": "27-content",
+    "original": "선실에 외침이 울리고… 잠깐의 정적이 찾아왔다.",
+    "context": "EN :\nThe cabin briefly echoes with his cries, then... a brief silence.\nJP :\n船室に怒鳴り声が響き…しばらくの静寂が訪れた。"
+  },
+  {
+    "key": "28-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "28-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "29-content",
+    "original": "파우스트의 얼굴에, 만족스러운 듯한 미소가 지나간 듯 보였다…",
+    "context": "EN :\nI think... I saw Faust flash the briefest grin of satisfaction...\nJP :\nファウストの顔に、一瞬満足げな微笑が浮かんだように見えた…。"
+  },
+  {
+    "key": "30-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "30-content",
+    "original": "좋습니다.",
+    "context": "EN :\nGood.\nJP :\n良いでしょう。"
+  },
+  {
+    "key": "31-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "31-content",
+    "original": "촌극은 끝났나. 별로 우습지도 않으니, 인내심을 그만 시험해줬으면 좋겠어.",
+    "context": "EN :\nIs the clown show over? This juvenile, tedious exchange is testing my patience.\nJP :\n寸劇は終わったか。そんな面白くもなかったから、忍耐を試すのはやめてほしいな。"
+  },
+  {
+    "key": "32-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "32-content",
+    "original": "<맞아, 이전에 울렸던 알람하고 느낌이 다른게… 새로운 문이 생긴 느낌은 아닌 것 같은데.>",
+    "context": "EN :\n<Yeah, it's a bit different from the usual alarms... Don't think this one's for a new door.>\nJP :\n<そうだね、この前鳴ったアラームと雰囲気が違うし…\n新しいドアができたような感じはしないけど。>"
+  },
+  {
+    "key": "33-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "33-content",
+    "original": "간단합니다. 그 밤이, 찾아온 거죠.",
+    "context": "EN :\nIt is quite simple. The Night is here.\nJP :\n簡単です。あの夜が、訪れてきたのですよ。"
+  },
+  {
+    "key": "34-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "34-content",
+    "original": "알. 듣. 말.",
+    "context": "EN :\nW.D.Y.M.\nJP :\n分・よ・言。"
+  },
+  {
+    "key": "35-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "35-content",
+    "original": "답. 하. 모. 분.",
+    "context": "EN :\nT.O.I.S.Y.N.C.\nJP :\nま・す・く・へ。"
+  },
+  {
+    "key": "36-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "36-content",
+    "original": "답답하게 하면… 모가지를…",
+    "context": "EN :\nTalk, Or I Snap Your—\nJP :\nまだるっこしくするなら…首を…。"
+  },
+  {
+    "key": "37-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "37-content",
+    "original": "발푸르기스의 밤이 찾아온 것 같습니다.",
+    "context": "EN :\nWalpurgis Night is here, it seems.\nJP :\nヴァルプルギスの夜が訪れてきたようです。"
+  },
+  {
+    "key": "38-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "38-content",
+    "original": "지금은 밤이 아니다만. 적어도 이 연안에서는.",
+    "context": "EN :\nThe night is not here. That is very apparent, at least in this coastal area.\nJP :\n今は夜ではないが。少なくともこの沿岸では。"
+  },
+  {
+    "key": "39-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "39-content",
+    "original": "당장 눈에 보이는… 태양을 확인 할 수 없는 현상인 밤에 대한 이야기가 아닙니다.",
+    "context": "EN :\nThe... name does not refer to the time of day in which the sun moves beyond our line of sight.\nJP :\n今すぐに視認できる…太陽を確認できない現象である夜に関する話ではありません。"
+  },
+  {
+    "key": "40-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "40-content",
+    "original": "음.",
+    "context": "EN :\nHm.\nJP :\nうむ。"
+  },
+  {
+    "key": "41-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "41-content",
+    "original": "그렇다면 이것은 현상에 지어진 이름이라는 말로 들리는구료.",
+    "context": "EN :\nThen it appears to me that, by that designation, you are referring to a certain phenomenon?\nJP :\nすと、こは現象に付けられし名にきこゆ。"
+  },
+  {
+    "key": "42-content",
+    "original": "파도가 잠잠한 덕일까, 이상의 표정에 활기가 돌아온 듯한 느낌이었다.",
+    "context": "EN :\nYi Sang seemed to be doing a little better, now that the waves had died down somewhat.\nJP :\n波が穏やかなおかげだろうか、イサンの表情に活気が戻ってきたような気がする。"
+  },
+  {
+    "key": "43-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "43-content",
+    "original": "네. 메피스토펠레스의 엔진은 여러 기능을 탑재하고 있지만, 그중에서도 여러분에게 와닿는 것은 아마, 인격과 E.G.O의 추출일 것입니다.",
+    "context": "EN :\nI am, indeed. I am certain that all of you are most familiar with the fact that extracting Identities and E.G.O from mirror worlds is one of the many functions of Mephistopheles' Engine.\nJP :\nはい。メフィストフェレスのエンジンは様々な機能を搭載していますが、\nその中でも皆さんにもピンとくるものはきっと、人格とE.G.Oの抽出でしょう。"
+  },
+  {
+    "key": "44-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "44-content",
+    "original": "하지만 추출이 가능한 범위는 다소 한정되어 있는 편입니다. 점차 늘어가고는 있지만…",
+    "context": "EN :\nBut its reach is rather limited. Even as it has expanded over our journey, we have yet to reach mirror worlds that are too far from our own.\nJP :\nしかし抽出が可能な範囲は多少限定されている傾向があります。\n漸次増やしてはいますが…。"
+  },
+  {
+    "key": "45-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "45-content",
+    "original": "그것도 황금가지와 관련이 있나? 우리의 여정이 진행되는 것에 맞추어, 새로운 것이 끄집어 올려지는 것으로 보였는데.",
+    "context": "EN :\nIs this the Golden Boughs' doing? I noticed that it was fishing up more and more new things the longer our journey went on.\nJP :\nそれも黄金の枝と関連があるのか？我々の旅路が進行するのに合わせ、\n新たなものが引き出されているように見えるが。"
+  },
+  {
+    "key": "46-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "46-content",
+    "original": "아주 틀린 답은 아니겠군요. 관리자 님과 우리 수감자들이 경험하는 것에 따라서 추출 범위가 점차 넓어져 가니까요.",
+    "context": "EN :\nBroadly speaking, yes. You could say that. Dante and our collective experiences gradually expand our range of Extractions.\nJP :\n全くの見当違いではありませんね。管理人様と我々囚人達が\n経験するものによって、抽出範囲が漸次広がっていきますからね。"
+  },
+  {
+    "key": "47-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "47-content",
+    "original": "보통 그런 추출은 대가를 치르고 추출해야만 하지만… 경험하셨던 것처럼 갑자기 튀어나오는 인격패들이 존재합니다. 기억하시겠죠, 단테?",
+    "context": "EN :\nNormally, Extractions require a certain resource... but there were times when the Identity Cards appeared out of nowhere. Do you recall them, Dante?\nJP :\n普通そういった抽出は対価を支払って行われるべきですが…経験したことが\nあるかのように突然飛び出してくる人格牌が存在します。覚えてますよね、ダンテ？"
+  },
+  {
+    "key": "48-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "48-content",
+    "original": "<…아. 그냥 엔진이 뱉어내듯이 내놓은 인격패가 있었지.>",
+    "context": "EN :\n<Uh, yeah. Some of them just randomly popped out of the engine.>\nJP :\n<…あっ。エンジンが吐き出すように差し出してきた人格牌もあったよね。>"
+  },
+  {
+    "key": "49-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "49-content",
+    "original": "잠깐, 잠깐. 못 따라가겠어서…",
+    "context": "EN :\nWait. Wait. Slow down.\nJP :\nまてまて。話に付いてけねぇから…。"
+  },
+  {
+    "key": "50-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "50-content",
+    "original": "인격패는 또 뭐냐?",
+    "context": "EN :\nThe hell's an Identity Card?\nJP :\n人格牌ってなんだよ？"
+  },
+  {
+    "key": "51-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "51-content",
+    "original": "모르셨나요? 흐음… 히스클리프 씨는 항상 관심있는 것에만 관심을 가지신단 말이죠. 조금 부럽기도 하네요.",
+    "context": "EN :\nOh, you still didn't know? Hm... I'm jealous of you, Heathcliff. You have a talent for ignoring anything you don't care about~\nJP :\nご存じなかったんですか？ふぅむ…ヒースクリフさんはいつも興味があるものにだけ\n興味を持たれますからね。少し羨ましくもありますね。"
+  },
+  {
+    "key": "52-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "52-content",
+    "original": "대가리 깨지고 싶냐?",
+    "context": "EN :\nYou lookin' to get your head smashed in or what?\nJP :\nドタマ割られてぇのか？"
+  },
+  {
+    "key": "53-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "53-content",
+    "original": "자… 그만 싸우자고. 저 길잡이 양반도 시퍼렇게 쳐다보고 있는데.",
+    "context": "EN :\nRight, right. Knock it off, you guys. Guide Bud's giving us the evil eye.\nJP :\nささ…ケンカはやめろよ。あの案内人の旦那も\n目をかっぴらいて見つめてきてるぞ。"
+  },
+  {
+    "key": "54-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "54-content",
+    "original": "아무튼, 그 뭐냐… 그거야. 그거. 관리자 양반이 엔진에서 종종 뭘 끄집어내서 들고 오잖아.",
+    "context": "EN :\nThey're, you know, the... uh, the things Manager Bud pulls out of the engine from time to time.\nJP :\nとにかく、なんだその…アレだよアレ。\n管理人の旦那がエンジンから毎度何かしら取り出してくるだろ。"
+  },
+  {
+    "key": "55-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "55-content",
+    "original": "다른 세계…라고 했던가. 거울 세계? 아, 그건가. 아무튼 그쪽 세계의 우리가 어떤 모습인지 그려져 있는 물건 말하는 거야. 작고 길쭉한… 네모난 그거.",
+    "context": "EN :\nThose little rectangular objects with our alternate world... Wait, was it mirror worlds? Anyways, it's those things with depictions of our 'other' selves on them.\nJP :\n他の世界…って言ってたっけ。鏡の世界？あ、それか。\nとにかくあっち側の世界の俺たちがどんな風に描かれてる物の話だよ。\n小さくて長くて…四角いアレ。"
+  },
+  {
+    "key": "56-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "56-content",
+    "original": "맞아요, 마치 마작패 같죠?",
+    "context": "EN :\nYes! The things that look like mahjong tiles.\nJP :\nそうです、まるで麻雀牌みたいですよね？"
+  },
+  {
+    "key": "57-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "57-content",
+    "original": "나는 웨이퍼 과자 같다고 생각했는데.",
+    "context": "EN :\nI thought they looked a bit like wafers.\nJP :\n私はウェハースみたいだなって思ってたけど。"
+  },
+  {
+    "key": "58-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "58-content",
+    "original": "인격이 담겨있는 물건이, 마치 패와 같으니… 어느샌가 그걸 인격패라고 부르게 되었던 것 같소.",
+    "context": "EN :\nI believe their denomination comes from their appearance as cards that contain Identities. Thus, it naturally follows that they are named... Identity Cards.\nJP :\n人格の込められし物品が、ひとえに牌のごとければ…いつしかそれを人格牌と呼ばゆらし。"
+  },
+  {
+    "key": "59-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "59-content",
+    "original": "그러니까… 우리가 그 네모난 장난감 같은 걸로 변신한다고?",
+    "context": "EN :\nSo we're using those rectangular toys to transform into our alternate selves?\nJP :\nだから…オレたちがあの四角いオモチャみてぇのに変身するのか？"
+  },
+  {
+    "key": "60-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "60-content",
+    "original": "난 그런거 쓴 적 없는데.",
+    "context": "EN :\nI never used 'em before.\nJP :\nオレそんなモン使ったことねぇけど。"
+  },
+  {
+    "key": "61-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "61-content",
+    "original": "<그건 내가 사용하는 거라 그럴 거야.>",
+    "context": "EN :\n<That's because I'm the one using them.>\nJP :\n<それは私が使ってるからだと思う。>"
+  },
+  {
+    "key": "62-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "62-content",
+    "original": "관리자 님의 단말기에는 가지고 있는 인격패와 E.G.O를 직접 장착할 수 있는 홈들이 마련되어 있습니다. 저희가 각각 전투에 임할 때 해당 내용이 반영되죠.",
+    "context": "EN :\nOn the device issued to Dante are indentations through which Identity Cards and E.G.O can be inserted. They are reflected when we participate in a battle.\nJP :\n管理人様の持つ端末には、保有している人格牌とE.G.Oを直接装着できる溝が\n備わっています。我々がそれぞれの戦闘に臨む際、当該内容が反映されるのです。"
+  },
+  {
+    "key": "63-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "63-content",
+    "original": "자꾸 싸우기 전에 뭘 만지작거리고 있나 했더니, 그걸 건드리고 있었군…",
+    "context": "EN :\nOh, so that's what they were fidgeting with before every fight...\nJP :\n毎回戦う前に何触ってるんだって思ってたけど、それを触ってたのか…。"
+  },
+  {
+    "key": "64-content",
+    "original": "히스클리프는 한 번도 그런 것들에 대해 생각해본 적이 없었던 건지, 완전히 새로운 걸 알았다는 듯 놀라운 표정을 지었다.",
+    "context": "EN :\nI could tell from his flabbergasted expression that none of it had ever even occurred to Heathcliff.\nJP :\nヒースクリフは一度もそんなことについて考えたことが無かったのだろうか、\n全く新しいものを知ったという風に驚いた顔をしていた。"
+  },
+  {
+    "key": "65-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "65-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "66-content",
+    "original": "반면에 돈키호테는… 무언가 쓸쓸한 표정이었다.",
+    "context": "EN :\nOn the other hand, Don Quixote wore... a somewhat forlorn expression.\nJP :\nその反面ドンキホーテは…何だか寂しい表情をしていた。"
+  },
+  {
+    "key": "67-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "67-content",
+    "original": "<돈키호테, 무슨 일이라도 있어?>",
+    "context": "EN :\n<What's wrong, Don Quixote?>\nJP :\n<ドンキホーテ、どうかした？>"
+  },
+  {
+    "key": "68-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "68-content",
+    "original": "아, 본인은 그저…",
+    "context": "EN :\nWell, I...\nJP :\nあぁ、当人はただ…。"
+  },
+  {
+    "key": "69-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "69-content",
+    "original": "이런 상황에서 이스마엘 군이였다면 ‘아직도 그걸 몰랐냐’라느니, ‘한심하다’라느니 하고 있을 텐데, 막상 보이지도 들리지도 않으니 마음이 섭섭하네…",
+    "context": "EN :\nIs this not about time when Ishmael would intrude upon this conversation and denounce Heathcliff with biting words such as 'You still didn't know? That's just like you'? This emptiness weighs heavily upon mine heart...\nJP :\nこんな状況でイシュメール君なら「まだそんなこと知らなかったの」や「呆れた」などと\n言ってただろうに、いざ見えも聞こえもしないとうら寂しいものがありまする…。"
+  },
+  {
+    "key": "70-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "70-content",
+    "original": "아~ 그렇네. 그게 부족했네.",
+    "context": "EN :\nOhh~ You're right. Something was missing from this whole convo. I knew it.\nJP :\nあ～そうだね。それが足りなかったね。"
+  },
+  {
+    "key": "71-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "71-content",
+    "original": "이 새끼들이…",
+    "context": "EN :\nYou right daft bastards...\nJP :\nオメェら覚悟は…。"
+  },
+  {
+    "key": "72-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "72-content",
+    "original": "그만.",
+    "context": "EN :\nEnough.\nJP :\n止めろ。"
+  },
+  {
+    "key": "73-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "73-content",
+    "original": "설명이 밀려있습니다, 파우스트 씨. 그쯤하고 이 초록색 불빛에 대해 마저 설명하는 게.",
+    "context": "EN :\nWe're not getting the information we need. Ms. Faust, Please explain the present situation. What are these green lights?\nJP :\n説明が支えております、ファウストさん。\nその程度にしておいてこの緑色のライトについての説明を終えた方がよろしいかと。"
+  },
+  {
+    "key": "74-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "74-content",
+    "original": "음. 관리자 님이 광기라는 대가를 치루지 않고도 얻었던 그 인격패들로 미루어보아, 메피스토펠레스의 추출 기능은 불확실성에 따른 예측불가적 특징을 지닌다고 설명할 수 있을 것입니다.",
+    "context": "EN :\nUnderstood. If we take into account the case of Identity Cards Dante received without spending any Lunacy, we can draw a conclusion that the Mephistopheles' Extraction has an element of unpredictability tied to its uncertainty.\nJP :\nふむ。管理人様が狂気という対価を払わずとも得たその人格牌から推し量るに、\nメフィストフェレスの抽出機能は不確実性による予測不可的特徴を持つと\n説明できるでしょう。"
+  },
+  {
+    "key": "75-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "75-content",
+    "original": "뭐라는 거야…",
+    "context": "EN :\nThe hell is she blathering about now...?\nJP :\nなんつってんだ…。"
+  },
+  {
+    "key": "76-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "76-content",
+    "original": "그대가 설계한 것에 불확실성이 개입한다는 것은…",
+    "context": "EN :\nYet this item is of your design. To say that it has an element of unpredictability would indicate that...\nJP :\nそなたの設計せしものに不確実性が介入すということは…。"
+  },
+  {
+    "key": "77-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "77-content",
+    "original": "맞습니다. 이 엔진은 엔케팔린을 연료로 나아가지만, 추출과 재구축 기능에 있어서는 혼돈… 쉽게 말해, 일종의 가능성을 연료로 하고 있죠.",
+    "context": "EN :\nCorrect. Enkephalin fuels the Engine, yes. However, Extractions and reconstructions utilize chaos... Well, in easier terms, you could say that it uses the concept of possibilities itself as fuel.\nJP :\nその通りです。このエンジンはエンケファリンを燃料に進みますが、抽出と\n再構築機能については混沌…簡単に言うと一種の可能性を燃料にしています。"
+  },
+  {
+    "key": "78-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "78-content",
+    "original": "어딘가에 있을 여러 거울세계의 줄기들 중에서 관측이 확실해진 것을 찾을 때마다 추출의 범위가 늘어나는데… 지금은 그 가능성들의 경계가 완전히 허물어진 것이죠.",
+    "context": "EN :\nOur Extraction range grows when we are able to clearly observe specific possibilities in the infinitely branching mirror worlds. During this period, however... the borders between the mirror realities are entirely shattered.\nJP :\nどこかにあるであろう様々な鏡の世界の枝の中から観測が確実になったものを探すたびに\n抽出の範囲が広がりますが…今はその可能性の境界が完全に崩れたのです。"
+  },
+  {
+    "key": "79-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "79-content",
+    "original": "현재를 기점으로 과거, 미래 3년의 오차 안에 있던 추출의 범위가, 발푸르기스의 밤이 찾아올 때는… 10년. 어쩌면 그 이상의 범위로 늘어나게 되는 겁니다.",
+    "context": "EN :\nUsing the present as our anchoring point, it could be said that our current Extraction range is approximately three years to the past or the future. During Walpurgis Night, however, that range grows to about 10 years or even more.\nJP :\n現在を起点に過去、未来3年の誤差内にあった抽出の範囲が、\nヴァルプルギスの夜が訪れた際は…10年。\nあるいはそれ以上の範囲に増えるということです。"
+  },
+  {
+    "key": "80-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "80-content",
+    "original": "그, 그렇다면! 과거 엄청난 이름을 날렸던 해결사의 인격도…!",
+    "context": "EN :\nI-in that case! Thou meanest to say that Identities of prominent Fixers from times past may grace us with...?!\nJP :\nそ、それなら！過去に名を轟かせたフィクサーの人格も…！"
+  },
+  {
+    "key": "81-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "81-content",
+    "original": "이론상으로는요. 하지만 발푸르기스의 밤은 그 때만의 독립성을 가지기 때문에, 모든 가능성을 무수하게 추출할 수는 없을 겁니다.",
+    "context": "EN :\nTheoretically speaking, yes. But each Walpurgis Night has its own peculiarities. It will not let us reach into all potential possibilities.\nJP :\n理論上ではですね。しかしヴァルプルギスの夜はそのときだけの\n独立性を持つため、全ての可能性を無数に抽出することはできないでしょう。"
+  },
+  {
+    "key": "82-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "82-content",
+    "original": "그그그그그! 그, 그렇다면. 과거. 최강전설의 해결사…",
+    "context": "EN :\nTh-th-th-th-th-then does that mean that we may also be availed our alternate selves as the legendary Fixer, the archmagnificence, the one and only...\nJP :\nそそそそそ！そ、それなら。過去。最強伝説のフィクサー…。"
+  },
+  {
+    "key": "83-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "83-content",
+    "original": "부, 붉은안개도…",
+    "context": "EN :\nR-RED MIST...?!\nJP :\nあ、赤い霧も…。"
+  },
+  {
+    "key": "84-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "84-content",
+    "original": "…가능성은 매우 낮지만, 부정까지 하지는 않겠습니다.",
+    "context": "EN :\n... That is extremely unlikely. But I will not completely dismiss the possibility.\nJP :\n…可能性はかなり低いですが、否定まではしません。"
+  },
+  {
+    "key": "85-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "85-content",
+    "original": "범위는 이 세계가 있기 위해 필연적으로 얽혀있던 세계… 예를 들면, '백야, 흑주'가 있기 전의 로보토미 코퍼레이션 본사 때의 시점이 대표적이겠군요.",
+    "context": "EN :\nThe extended range, I suppose, could be defined by worlds affected by entities that were indispensable to the formation of this current state of the world. An example of that would be the Lobotomy Corporation Headquarters prior to 'White Nights and Dark Days' incident.\nJP :\n範囲はこの世界が存在するために必然的に絡まっていた世界…例えば白夜黒昼がある前の\nロボトミーコーポレーション本社時代の時点が代表例になりそうですね。"
+  },
+  {
+    "key": "86-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "86-content",
+    "original": "어떤 의미에서는, 정곡을 찌르는 질문이었네요. 돈키호테.",
+    "context": "EN :\nIn some ways... your words sometimes find a roundabout way to the truth, Don Quixote.\nJP :\nある意味では、的を射た質問でしたね。ドンキホーテ。"
+  },
+  {
+    "key": "87-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "87-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "88-content",
+    "original": "붉은안개가 누구인지, 백야흑주가 무슨 일인지는 잘 모르겠지만…",
+    "context": "EN :\nI didn't know who this Red Mist was, nor did I know what White Nights and Dark Days was...\nJP :\n赤い霧が誰なのか、白夜黒昼がどういう出来事かはよく分からないけど…。"
+  },
+  {
+    "key": "89-content",
+    "original": "베르길리우스의 험악한 표정과 수감자들의 분위기를 봐선, 무언가 특별한 일이었다는 건 눈치껏 알 수 있었다.",
+    "context": "EN :\nBut I could hazard a guess that they both must've been pretty significant, considering that Vergilius' face grew visibly tense as soon as they were mentioned. The Sinners were unsettled, too.\nJP :\nヴェルギリウスの険悪な表情と囚人たちの雰囲気を見るに、\n何か特別なことだったということは察することができた。"
+  },
+  {
+    "key": "90-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "90-content",
+    "original": "정리하자면, 이번 알림은 어떠한 긴급적인 상황은 아니라는 것이 결론이겠군.",
+    "context": "EN :\nWe can conclude that this siren is no cause for any immediate concern, then.\nJP :\n整理すると、今回のアラームは\nある種の緊急性がある状況ではないというのが結論だろう。"
+  },
+  {
+    "key": "91-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "91-content",
+    "original": "그렇습니다. 가끔 찾아오는 축제… 정도로 말할 수 있겠네요. 아직까지는요.",
+    "context": "EN :\nNo, it isn't. Consider it... a festival that arrives once in a while. For now.\nJP :\nその通りです。たまに訪れる祝祭…程度であると言えそうですね。\n今のところは。"
+  },
+  {
+    "key": "92-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "92-content",
+    "original": "축제. 신나는 일. 카론도 신나.",
+    "context": "EN :\nFestival. Festive times. Charon is festive too.\nJP :\n祝祭。たのしいこと。カロンもたのしい。"
+  },
+  {
+    "key": "93-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "93-content",
+    "original": "전부 이해가 된 건 아니지만… 우리가 기다리던 신호는 아니군요?",
+    "context": "EN :\nI don't know if I got all that, but... this isn't what we've been waiting for, is it?\nJP :\n全部理解できたわけじゃないですけど…\n僕たちが待っていてた信号では無いんですね？"
+  },
+  {
+    "key": "94-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "94-content",
+    "original": "맞아. 대기는 그대로다.",
+    "context": "EN :\nNo. We will continue to wait.\nJP :\nそうだ。待機はそのままだ。"
+  },
+  {
+    "key": "95-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "95-content",
+    "original": "쯧.",
+    "context": "EN :\nTsk.\nJP :\nチッ。"
+  },
+  {
+    "key": "96-content",
+    "original": "수감자들에게 다시 탈력감과 탄식 소리가 돌아온다.",
+    "context": "EN :\nThe Sinners sighed and groaned with disappointment as the newfound anticipation fizzled.\nJP :\n囚人たちに再び、脱力感と嘆息の音が舞い戻ってくる。"
+  },
+  {
+    "key": "97-content",
+    "original": "뭔가 새로운 일이 벌어진 건 맞지만… 이 망망대해에서 움직이지는 않는다는 것이니, 좋다 말았다는 생각도 있겠지.",
+    "context": "EN :\nWell, something did happen... but it wasn't something that would get us moving. I can see what a disappointment this might be to them.\nJP :\n何か新しいことが起こりはしたけど…この大海原から動くことはなかったから、\n元の木阿弥だとも思っただろうね。"
+  },
+  {
+    "key": "98-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "98-content",
+    "original": "그럼… 저 시끄러운 녹색 불은 언제 꺼지는 거지?",
+    "context": "EN :\nSo... how do we stop that green light from flashing?\nJP :\nじゃぁ…あの目障りな緑の明かりはいつ消えるんだ？"
+  },
+  {
+    "key": "99-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "99-content",
+    "original": "엔진에서 추출을 진행하기만 하면 자동으로 꺼질 겁니다. 안심하세요.",
+    "context": "EN :\nIt will turn itself off when Dante extracts something from the engine. Do not worry.\nJP :\nエンジンで抽出を実施さえすれば自動で消えるでしょう。ご安心を。"
+  },
+  {
+    "key": "100-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "100-content",
+    "original": "자, 이제 다들 적당히 해산해. 관리자, 당신은 빨리 추출을 진행해서 저 알람 좀 끄도록.",
+    "context": "EN :\nRight, back to business, all. Dante, extract something and turn that alarm off.\nJP :\nさぁ、今から皆これくらいにして解散しろ。\nあなたは早く抽出を実施してあのアラームを早く消すように。"
+  },
+  {
+    "key": "101-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "101-content",
+    "original": "좋. 말. 새것이 나와도 기껏 뒷문 탐방이나 하고 다니겠지.",
+    "context": "EN :\nW.A.D. We'll just be running more Dungeons through the Backdoor with whatever new thing they pull anyway.\nJP :\n糠・喜。新しいもんが出てもどうせ裏口探索する羽目になるんだろ。"
+  },
+  {
+    "key": "102-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "102-content",
+    "original": "그래도~ 언제 이렇게 유유자적 있어보겠나요?",
+    "context": "EN :\nStill, this leisureliness is a very rare opportunity, isn't it~?\nJP :\nそれでも～またいつこんな風に悠々自適としてられるでしょうか？"
+  },
+  {
+    "key": "103-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "103-content",
+    "original": "기다리는 자에게 복이 있다 하였소.",
+    "context": "EN :\nBlessed be the patient ones, or so it is said.\nJP :\n曰く、待たば海路の日和ありと云う。"
+  },
+  {
+    "key": "104-content",
+    "original": "다들 저마다의 감상을 쏟아내며 자신의 자리로 돌아간다.",
+    "context": "EN :\nEvery Sinner says their piece before returning to their seats.\nJP :\n皆それぞれの感想を吐き出しながら、自分の持ち場へ戻っていく。"
+  },
+  {
+    "key": "105-content",
+    "original": "몇몇은, 질릴 법도 한 호수를 쳐다보러 나가기도 한다. 어쩌면, 한숨을 내쉬러 가는 것 같기도 하고.",
+    "context": "EN :\nSome of them walk out of the cabin to gaze at the Lake. It's something they must be growing a tad tired of doing at this point. ... Maybe they're just going out for a long sigh.\nJP :\n何人かは、飽きるほど見たであろう湖を眺めに出て行った。\nもしかすると、溜め息を吐きに行くのかもしれない。"
+  },
+  {
+    "key": "106-content",
+    "original": "…그리고 오티스가 다가왔다.",
+    "context": "EN :\n... And Outis walked up to me.\nJP :\n…そしてウーティスが近寄ってきた。"
+  },
+  {
+    "key": "107-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "107-content",
+    "original": "관리자 님, 신경쓰이지 않으십니까?",
+    "context": "EN :\nAre you not worried, Executive Manager?\nJP :\n管理人様、気になりはしないのですか？"
+  },
+  {
+    "key": "108-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "108-content",
+    "original": "<응?>",
+    "context": "EN :\n<Huh?>\nJP :\n<うん？>"
+  },
+  {
+    "key": "109-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "109-content",
+    "original": "저 괴짜 과학자가 ‘아직까지는’이라고 말했습니다… 뭔가 뒤가 더 있는 거죠. 제가 더 파볼 수도 있습니다.",
+    "context": "EN :\nAbout what that mad scientist said. \"For now\"... There has to be more to that statement. Should I investigate this matter further?\nJP :\nあの変人科学者が「今のところは。」と言いました…何か裏があるということでしょう。\nわたくしがより深掘りすることもできます。"
+  },
+  {
+    "key": "110-content",
+    "original": "확실히… 파우스트는 아마 이 현상에 대해 뭔가를 더 알고 있을 거라고 생각한다.",
+    "context": "EN :\nOutis was right... While Faust did tell us to consider this nothing more than a festival that arrives once in a while... she definitely knew more than she was letting on.\nJP :\n確かに…ファウストはきっとこの現象について\n何かしらもっと知っているだろうとは思う。"
+  },
+  {
+    "key": "111-content",
+    "original": "하지만, 저런 형태로 말한다는 건… 물어봐도 대답을 해주지 않을게 뻔하지.",
+    "context": "EN :\nBut if Faust speaks of something in her characteristically cryptic manner... it means that she'll never tell us until she wants to.\nJP :\nでも、あんな風に言ったってことは…訊いても答えてくれないというのは\n火を見るより明らかだ。"
+  },
+  {
+    "key": "112-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "112-content",
+    "original": "<아냐, 신경쓰이기는 하지만… 지금은 뭘 할 수도 없으니까. 기억만 잘 해두자.>",
+    "context": "EN :\n<Well, it does bother me a little... But right now, we don't have a lot of options. Let's just put a pin in it for now.>\nJP :\n<いや、気にはなるけど…今は何もできないし。\nしっかり覚えてはおこうか。>"
+  },
+  {
+    "key": "113-content",
+    "original": "오티스는 잘 알겠다며, 꾸벅 인사하고는 자신의 자리로 돌아갔다.",
+    "context": "EN :\nOutis nodded affirmatively, bowed, and returned to her seat.\nJP :\nウーティスは承知しましたと、ぺこり挨拶をして自分の持ち場へと戻った。"
+  },
+  {
+    "key": "114-content",
+    "original": "자… 그러면, 파우스트가 말한 대로 추출을 해볼까.",
+    "context": "EN :\nWell... let's get extracting like Faust said.\nJP :\nさぁ…それじゃあ、ファウストが言った通り抽出してみるとするか。"
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "key": "0-place",
+    "original": "어느 성",
+    "context": "EN :\nA Certain Castle\nJP :\nとある城"
+  },
+  {
+    "key": "0-model",
+    "original": "산손",
+    "translation": "参孙",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSansón\nJP :\nサンソン"
+  },
+  {
+    "key": "0-content",
+    "original": "과연, 승자는? \r",
+    "context": "EN :\nAnd the victor...\nJP :\n果たして、勝者は？"
+  },
+  {
+    "key": "1-model",
+    "original": "기사싱클2",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "1-content",
+    "original": "…….\r",
+    "context": "EN :\n…….\n\nJP :\n……。"
+  },
+  {
+    "key": "2-model",
+    "original": "기사싱클2",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "2-content",
+    "original": "누구였나요?",
+    "context": "EN :\n... Who won?\nJP :\n誰だったんですか？"
+  },
+  {
+    "key": "3-model",
+    "original": "기사돈키",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "3-content",
+    "original": "결과는…\r",
+    "context": "EN :\n'Twas...\nJP :\n結果は…。"
+  },
+  {
+    "key": "4-model",
+    "original": "기사돈키",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "4-content",
+    "original": "승자도 패자도 없었네. \r",
+    "context": "EN :\n... neither.\nJP :\n勝者も敗者もいなかったのだ。"
+  },
+  {
+    "key": "5-model",
+    "original": "기사돈키",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "5-content",
+    "original": "왜냐하면… 무승부였기 때문이지. 이례적으로. \r",
+    "context": "EN :\nThe duel ended in a draw, a highly irregular occurrence.\nJP :\nなぜなら…引き分けだったからだ。異例にも。"
+  },
+  {
+    "key": "6-model",
+    "original": "산손",
+    "translation": "参孙",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSansón\nJP :\nサンソン"
+  },
+  {
+    "key": "6-content",
+    "original": "그럼 다시 한 번 결투를 시작했나요?\r",
+    "context": "EN :\nThen, did you resume your duel then and there?\nJP :\nではもう一度決闘を始めたのですか？"
+  },
+  {
+    "key": "7-model",
+    "original": "기사돈키",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "7-content",
+    "original": "아니, 본인은 자비를 베풀 줄 아는 관대한 모험가였다네.\r",
+    "context": "EN :\nNay. As great as I may have been as an adventurer, in my heart was no such vicious ruthlessness, for I knew the significance of clemency.\nJP :\nいや、当人は慈悲をかけることのできる寛大な冒険家であった。"
+  },
+  {
+    "key": "8-model",
+    "original": "기사돈키",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "8-content",
+    "original": "그래서 기사에게 이렇게 말했지.\r",
+    "context": "EN :\nI asked thusly to the Knight.\nJP :\nそれゆえ騎士にこう言ったのだ。"
+  },
+  {
+    "key": "9-model",
+    "original": "기사돈키",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "9-content",
+    "original": "“쉬지 않고 사흘 밤낮 동안 결투를 치르느라 우리 모두 지쳐 있는 상태인데, 이쯤에서 잠시 휴식을 하는 것이 어떻겠는가?”",
+    "context": "EN :\n\"For three suns and three moons have we dueled, and fatigue hath set in for many. Why not lay rest to thy blade for a moment and recover?\"\nJP :\n『休まずに三日三晩決闘を続けてきて、我々は皆疲れているであろうが、\nこの辺りでしばし休憩するのはどうであろう？』"
+  },
+  {
+    "key": "10-model",
+    "original": "기사돈키",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10-content",
+    "original": "“이 이상으로 계속해서 결투를 치르다가는… 결과를 궁금해하는 수많은 구경꾼이 도통 잠에 들 수 없지 않겠는가? 그래서야 이들이 너무 불쌍하지.”",
+    "context": "EN :\n\"Should we continue to duel in this state, the countless spectators shan't get their much-needed rests, no? 'Tis too cruel to force them to forgo sleep only to see the outcome of this duel.\"\nJP :\n『これ以上決闘を続けていれば…結果が気になる多くの見物人たちが\n全く眠れないのではないか？それでは彼らがあまりにも気の毒である。』"
+  },
+  {
+    "key": "11-model",
+    "original": "기사돈키",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "11-content",
+    "original": "“그렇지 않은가, 로시난테?”\r",
+    "context": "EN :\n\"Wouldst thou not agree, Rocinante?\"\nJP :\n「そうではないか、ロシナンテ？」"
+  },
+  {
+    "key": "12-model",
+    "original": "말레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "12-content",
+    "original": "…음…\r",
+    "context": "EN :\n... Um...\nJP :\n…うーん。"
+  },
+  {
+    "key": "13-model",
+    "original": "산손",
+    "translation": "参孙",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSansón\nJP :\nサンソン"
+  },
+  {
+    "key": "13-content",
+    "original": "로시난테는 대답했습니다. \r",
+    "context": "EN :\nRocinante replied.\nJP :\nロシナンテは答えました。"
+  },
+  {
+    "key": "14-model",
+    "original": "말레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "14-content",
+    "original": "“마… 맞는 말씀입니다?” ",
+    "context": "EN :\n\"Y... yes, your worship?\"\nJP :\n『そ…その通りですね？』"
+  },
+  {
+    "key": "15-model",
+    "original": "산손",
+    "translation": "参孙",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSansón\nJP :\nサンソン"
+  },
+  {
+    "key": "15-content",
+    "original": "혹은…\r",
+    "context": "EN :\nOr...\nJP :\nあるいは…。"
+  },
+  {
+    "key": "16-model",
+    "original": "말레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "16-content",
+    "original": "“신발은 말이 없다, 그저 신발인 것 같다…” ",
+    "context": "EN :\n\"No response. It's just a pair of shoes...\"\nJP :\n『靴は話さない、ただの靴のようだ…。』"
+  },
+  {
+    "key": "17-model",
+    "original": "산손",
+    "translation": "参孙",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSansón\nJP :\nサンソン"
+  },
+  {
+    "key": "17-content",
+    "original": "아니면 혹은… 이렇게 말했을 수도요.\r",
+    "context": "EN :\nOr maybe... this is what Rocinante said.\nJP :\nもしくは…こう言ったかもですね。"
+  },
+  {
+    "key": "18-model",
+    "original": "말레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "18-content",
+    "original": "“대체…” ",
+    "context": "EN :\n\"I...\"\nJP :\n『一体…。』"
+  },
+  {
+    "key": "19-model",
+    "original": "말레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "19-content",
+    "original": "“그 바보 같은 전투는 언제 끝나나 했습니다.”",
+    "context": "EN :\n\"... was wondering when this dumb, pointless battle would come to an end.\"\nJP :\n『その馬鹿みたいな戦いはいつ終わるのかと思っていました。』"
+  },
+  {
+    "key": "20-model",
+    "original": "말레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "20-content",
+    "original": "“일찌감치 간식을 준비해 놓았으니까 그거나 같이 드시던가요.” ",
+    "context": "EN :\n\"I have prepared some refreshments, so why don't the two of you enjoy them together or something?\"\nJP :\n『とっくにおやつを用意しておいたので、\nそれでも一緒に召し上がったらどうですか。』"
+  },
+  {
+    "key": "21-model",
+    "original": "산손",
+    "translation": "参孙",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSansón\nJP :\nサンソン"
+  },
+  {
+    "key": "21-content",
+    "original": "그렇게 해서 기나긴 전투가 종지부를 찍게 되었군요.\r",
+    "context": "EN :\nThus the long duel came to an end.\nJP :\nこうして長い戦いに終止符が打たれることになったのですね。"
+  },
+  {
+    "key": "22-model",
+    "original": "산손",
+    "translation": "参孙",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSansón\nJP :\nサンソン"
+  },
+  {
+    "key": "22-content",
+    "original": "그럼 그 전투의 승리자는 없었을까요? 정말 무승부로 남았을까요?\r",
+    "context": "EN :\nSo, is it really true that no one claimed victory in this battle? Did it truly end in a draw?\nJP :\nではその戦いの勝者はいなかったのでしょうか？\n本当に引き分けで終わったのでしょうか？"
+  },
+  {
+    "key": "23-model",
+    "original": "기사돈키",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "23-content",
+    "original": "그 전투는…\r",
+    "context": "EN :\nThe duel...\nJP :\nその戦いは…。"
+  },
+  {
+    "key": "24-model",
+    "original": "기사돈키",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "24-content",
+    "original": "본인의 모험 속에선 이례적인 무승부였소. 일시적인 휴전이었지. \r",
+    "context": "EN :\n... was indeed a draw. Highly irregular in tales of mine adventures. A brief truce, if thou wilt.\nJP :\n当人の冒険の中では異例の引き分けであった。\n一時的な休戦であったのだよ。"
+  },
+  {
+    "key": "25-model",
+    "original": "기사돈키",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "25-content",
+    "original": "하지만 엄밀히 말하자면 승자는 본인이네! 왜냐하면 마지막에 겨눌 때 칼이, 아니 내 랜스가 더 기울어져 있었거든.",
+    "context": "EN :\nYet! I must claim that, when it comes to technicalities, the true victor was myself! Upon our final clash, my bla— my lance was pressing forcefully upon the Knight's blade.\nJP :\nしかし厳密に言えば勝者は当人である！なぜなら最後に狙いを定めたとき、\n剣が、いや私のランスがより相手に傾いていたからだ。"
+  },
+  {
+    "key": "26-model",
+    "original": "기사돈키",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "26-content",
+    "original": "후... 본인은 그럼에도 불구하고 대인배 같은 마음으로 기꺼이 휴전을 제의하였지.",
+    "context": "EN :\nStill, with a heart of boundless generosity, I offered the Knight a chance to parlay with me a truce.\nJP :\nふう…それにもかかわらず、当人は寛大な心で喜んで休戦を提案したのだ。"
+  },
+  {
+    "key": "27-model",
+    "original": "산손",
+    "translation": "参孙",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSansón\nJP :\nサンソン"
+  },
+  {
+    "key": "27-content",
+    "original": "그러시군요.\r",
+    "context": "EN :\nSo you did.\nJP :\nそうですか。"
+  },
+  {
+    "key": "28-model",
+    "original": "산손",
+    "translation": "参孙",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSansón\nJP :\nサンソン"
+  },
+  {
+    "key": "28-content",
+    "original": "그렇게 해서 기약 없는 휴전을 하게 된 둘은… 어떻게 되었나요?\r",
+    "context": "EN :\nNow that you've compromised on this truce with no promised end date... what happened thereafter?\nJP :\nそうして無期限の休戦をすることになった二人は…どうなったのですか？"
+  },
+  {
+    "key": "29-model",
+    "original": "기사돈키",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "29-content",
+    "original": "우리는… 친구가 되었네.\r",
+    "context": "EN :\nWe... became friends.\nJP :\n我々は…友達になったのだ。"
+  },
+  {
+    "key": "30-model",
+    "original": "산손",
+    "translation": "参孙",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSansón\nJP :\nサンソン"
+  },
+  {
+    "key": "30-content",
+    "original": "으흠, 결투를 통해 다져진 우정이라니. 이것 참 뻔하면서도 드문 이야기군요. \r",
+    "context": "EN :\nHm. A friendship forged in a clash of blades. It is a clichéd trope, for how rare it is in reality.\nJP :\nふむ、決闘を通じて築かれた友情とは。\nこれまたありきたりながらも珍しい話ですね。"
+  },
+  {
+    "key": "31-model",
+    "original": "산손",
+    "translation": "参孙",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSansón\nJP :\nサンソン"
+  },
+  {
+    "key": "31-content",
+    "original": "그렇다면 기사의 호언대로, 당신의 바람은 이루어졌나요? \r",
+    "context": "EN :\nThen did your wish come true, just as the Knight had so boldly proclaimed?\nJP :\nそれでは騎士の豪語通り、貴女の望みは叶いましたか？"
+  },
+  {
+    "key": "32-model",
+    "original": "기사돈키",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "32-content",
+    "original": "그… 그런 것 같기도 하다만…\r",
+    "context": "EN :\nP... perchance...?\nJP :\nそ…そうかもしれぬが…。"
+  }
+]

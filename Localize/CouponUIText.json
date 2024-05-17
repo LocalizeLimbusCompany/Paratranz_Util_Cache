@@ -1,0 +1,62 @@
+[
+  {
+    "key": "coupon_InputField_block-content",
+    "original": "쿠폰 코드 입력 불가",
+    "context": "EN :\nCannot Input Coupon Codes\nJP :\nクーポンコード入力不可"
+  },
+  {
+    "key": "coupon_InputField-content",
+    "original": "쿠폰 코드 입력",
+    "context": "EN :\nInput coupon codes here\nJP :\nクーポンコード入力"
+  },
+  {
+    "key": "coupon_popup_title-content",
+    "original": "쿠폰 입력",
+    "context": "EN :\nInput Coupon Code\nJP :\nクーポン入力"
+  },
+  {
+    "key": "coupon_popup_desc-content",
+    "original": "-쿠폰은 대문자 + 숫자로만 조합됩니다.\n- 같은 쿠폰은 계정마다 한 번만 등록할 수 있습니다.\n- 유효기간이 만료된 쿠폰은 등록할 수 없습니다.\n- 단기간에 다수의 등록 실패 시, 일정 기간 쿠폰 등록이 제한될 수 있습니다.",
+    "context": "EN :\n- Coupons are always combinations of upper-case English alphabets and numbers.\n- No same coupon can be registered more than once for the same account.\n- Coupons past their expiry date cannot be registered.\n- Repeated coupon code input failure within a short timeframe may restrict coupon code for a set amount of time.\nJP :\n- クーポンは大文字と数字の組み合わせです。\n- 同一クーポンは、1アカウントにつき1回のみ登録できます。\n- 有効期限が切れたクーポンは登録できません。\n- 短時間で登録に多数失敗した場合、一定期間クーポン登録が制限されることがあります。"
+  },
+  {
+    "key": "coupon_use_failed_2-content",
+    "original": "유효하지 않은 쿠폰입니다.",
+    "context": "EN :\nThis coupon is invalid.\nJP :\n無効なクーポンです。"
+  },
+  {
+    "key": "coupon_use_failed_3-content",
+    "original": "유효하지 않은 쿠폰입니다.",
+    "context": "EN :\nThis coupon is invalid.\nJP :\n無効なクーポンです。"
+  },
+  {
+    "key": "coupon_use_failed_4-content",
+    "original": "유효기간이 만료된 쿠폰입니다.",
+    "context": "EN :\nThis coupon is expired.\nJP :\n有効期間が過ぎたクーポンです。"
+  },
+  {
+    "key": "coupon_use_failed_5-content",
+    "original": "이미 사용된 쿠폰입니다.",
+    "context": "EN :\nThis coupon has already been claimed.\nJP :\n使用済みのクーポンです。"
+  },
+  {
+    "key": "coupon_use_failed_6-content",
+    "original": "이미 사용된 쿠폰입니다.",
+    "context": "EN :\nThis coupon has already been claimed.\nJP :\n使用済みのクーポンです。"
+  },
+  {
+    "key": "coupon_use_failed_7-content",
+    "original": "연속 등록 실패로 인해 {0}까지 쿠폰 등록이 중단 중단되었습니다.",
+    "context": "EN :\nRepeated coupon code input failure. Coupon code input restricted until {0}.\nJP :\n連続登録失敗により、{0}までクーポン登録が停止されます。"
+  },
+  {
+    "key": "coupon_InputField_block_desc-content",
+    "original": "{0}까지 등록 중단",
+    "context": "EN :\nCoupon code input restricted until {0}\nJP :\n{0}まで登録停止"
+  },
+  {
+    "key": "coupon_use_failed_unknown-content",
+    "original": "알 수 없는 오류가 발생했습니다.",
+    "context": "EN :\nAn unknown error has occurred.\nJP :\n不明なエラーが発生しました。"
+  }
+]

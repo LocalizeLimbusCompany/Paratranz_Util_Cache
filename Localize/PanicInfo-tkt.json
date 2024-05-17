@@ -1,0 +1,17 @@
+[
+  {
+    "key": "1024-panicName",
+    "original": "어긋난 단결",
+    "context": "EN :\nBroken Unity\nJP :\n崩れた団結"
+  },
+  {
+    "key": "1024-lowMoraleDescription",
+    "original": "[Vulnerable] 1 얻음. 피격시, 자신의 [Vibration] 횟수 1 증가. (최대 3회)",
+    "context": "EN :\nGain 1 [Vulnerable]. Gain +1 [Vibration] Count when hit. (3 times max)\nJP :\n[Vulnerable]1を得る。被ダメージ時、自分の[Vibration]回数が1増加。(最大3回)"
+  },
+  {
+    "key": "1024-panicDescription",
+    "original": "[Vulnerable] 2 얻음. 피격 시, 자신의 [Vibration] 횟수 2 증가. (최대 3회)",
+    "context": "EN :\nGain 2 [Vulnerable]. Gain +2 [Vibration] Count when hit. (3 times max)\nJP :\n[Vulnerable]2を得る。被ダメージ時、自分の[Vibration]回数が2増加。(最大3回)"
+  }
+]

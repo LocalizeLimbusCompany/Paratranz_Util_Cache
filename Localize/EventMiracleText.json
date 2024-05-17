@@ -1,0 +1,82 @@
+[
+  {
+    "key": "miracle_stagebutton_not_clear_cp4-content",
+    "original": "{0}장은 클리어하고 와!",
+    "context": "EN :\nGo clear Canto {0} first!\nJP :\n{0}章くらい\nクリアして\n来いよ！"
+  },
+  {
+    "key": "miracle_stagebutton_normal-content",
+    "original": "시계 대가리! 빨리 튀어와!",
+    "context": "EN :\nOi, Clockhead! Get crackin'!\nJP :\n時計ヅラ！\n早く来いよ！"
+  },
+  {
+    "key": "miracle_stagebutton_end_event-content",
+    "original": "늦었잖아! 이벤트 끝났어!",
+    "context": "EN :\nYou're late! Event's shut!\nJP :\n遅ぇよ！\nイベント終わっちまった！"
+  },
+  {
+    "key": "miracle_storybutton_before_start-content",
+    "original": "5.5-1 클리어 시 개방",
+    "context": "EN :\nClear 5.5-1 to Unlock\nJP :\n5.5-1クリア時に解放"
+  },
+  {
+    "key": "miracle_storybutton_normal-content",
+    "original": "이것은 모험의 기록이네!",
+    "context": "EN :\nRevisit thine adventures!\nJP :\nこれは\n冒険の\n記録である！"
+  },
+  {
+    "key": "miracle_exchange_scrap-content",
+    "original": "보상 교환",
+    "context": "EN :\nReward Exchange\nJP :\n報酬交換"
+  },
+  {
+    "key": "miracle_scrap_guide_title-content",
+    "original": "이벤트 재화 안내",
+    "context": "EN :\nEvent Currency Guide\nJP :\nイベントアイテムのご案内"
+  },
+  {
+    "key": "miracle_scrap_guide_desc-content",
+    "original": "이벤트와 주요 이야기의 스테이지 또는 거울 던전을 클리어하면 <color=#008d0d>[장식 꾸러미]</color>를\n획득할 수 있으며, 낮은 확률로 <color=#008d0d>[거대한 장식 꾸러미]</color>를 추가로 획득할 수 있습니다.\n\n<color=#008d0d>[거대한 장식 꾸러미]</color>는 획득 즉시, <color=#008d0d>[장식 꾸러미]</color> 20개로 전환됩니다.",
+    "context": "EN :\nYou can obtain <color=#008d0d>[Trinkets Sack]</color> by completing Event/Main Story Stages or the Mirror Dungeon.\nYou also have a small chance to obtain <color=#008d0d>[Huge Trinkets Sack]</color> in the process.\n\n<color=#008d0d>[Huge Trinkets Sack]</color> is immediately converted to 20 <color=#008d0d>[Trinkets Sack]</color> upon acquisition.\nJP :\nイベントとメインストーリーのステージｍまたはストーリーダンジョンをクリアすると<color=#008d0d>[飾りのずた袋]</color>を\n獲得でき、低確率で<color=#008d0d>[巨大な飾りのずた袋]</color>を追加で獲得することができます。\n\n<color=#008d0d>[巨大な飾りのずた袋]</color>は獲得すると即<color=#008d0d>[飾りのずた袋]</color>20個に変換されます。"
+  },
+  {
+    "key": "miracle_rewardpage_desc-content",
+    "original": "이벤트 스테이지와 주요 이야기 최초 클리어, 거울 던전 클리어를 통해 <color=#008d0d>[장식 꾸러미]</color>를 획득할 수 있습니다.\n\n<color=#008d0d>[보상 교환]</color>창에서 <color=#008d0d>[장식 꾸러미]</color>를 지불하여 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nEarn <color=#008d0d>[Trinkets Sack]</color> via the following methods:\nFirst-time Event Stage & Dungeon clears and Mirror Dungeon clears.\n\nIn the <color=#008d0d>[Reward Exchange]</color> window, you can purchase various rewards\nby spending <color=#008d0d>[Trinkets Sack]</color> you have collected.\nJP :\nイベントステージと、メインストーリー初回クリア、鏡ダンジョンをクリアすることで<color=#008d0d>[飾りのずた袋]</color>を獲得できます。\n\n<color=#008d0d>[報酬交換]</color>ウィンドウより<color=#008d0d>[飾りのずた袋]</color>を支払い、様々な報酬を獲得できます。"
+  },
+  {
+    "key": "miracle_scrap_counter_label-content",
+    "original": "수집한 장식 꾸러미",
+    "context": "EN :\nTrinkets Sacks Collected\nJP :\n集めた飾りのずた袋"
+  },
+  {
+    "key": "miracle_chapter_map_difficulty_ui_9105-content",
+    "original": "NORMAL",
+    "context": "EN :\nNORMAL\nJP :\nNORMAL"
+  },
+  {
+    "key": "miracle_chapter_map_difficulty_ui_9112-content",
+    "original": "HARD",
+    "context": "EN :\nHARD\nJP :\nHARD"
+  },
+  {
+    "key": "miracle_chapter_map_difficulty_ui_hard_chapter_unlock_condition-content",
+    "original": "{0}-{1} 이후 하드 모드 개방",
+    "context": "EN :\nClear {0}-{1} to Unlock the Hard Mode\nJP :\n{0}-{1}以降 ハードモード解放"
+  },
+  {
+    "key": "miracle_chapter_map_difficulty_ui_event_date_format-content",
+    "original": "{0}월 {1}일까지",
+    "context": "EN :\nUntil {0}/{1}\nJP :\n{0}月{1}日まで"
+  },
+  {
+    "key": "miracle_bonusUI_Desc-content",
+    "original": "이벤트 기간 동안 해당 E.G.O 편성 시, <color=#008d0d>[장식 꾸러미]</color>의 획득량이 상승합니다.\n획득량 상승치 합계는 최대 <color=#008d0d>120%</color>까지 적용됩니다.",
+    "context": "EN :\nDuring the event period, deploying the following E.G.O on your team will\nboost the amount of <color=#008d0d>[Trinkets Sack]</color> earned.\nYou can earn a maximum of <color=#008d0d>120%</color> boost to the amount of event currency earned.\nJP :\nイベント期間中、該当E.G.Oを編成すると<color=#008d0d>[飾りのずた袋]</color>の獲得量が上昇します。\n獲得量上昇値の合計は、最大<color=#008d0d>120%</color>まで適用されます。"
+  },
+  {
+    "key": "miracle_bonus_popup_title-content",
+    "original": "이벤트 특화 대상",
+    "context": "EN :\nEvent Bonus Units\nJP :\nイベント特化対象"
+  }
+]

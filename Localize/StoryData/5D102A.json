@@ -1,0 +1,324 @@
+[
+  {
+    "key": "0-place",
+    "original": "창백한 고래의 몸 속",
+    "context": "EN :\nInside the Pallid Whale\nJP :\n蒼白な鯨の体内"
+  },
+  {
+    "key": "0-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "0-content",
+    "original": "하아… 인어들이 더 몰려들기 전에 자리를 벗어나긴 해야 하겠어.",
+    "context": "EN :\nHaah... Yeah, let's bounce before more of those Mermaids show up.\nJP :\nはぁ…人魚たちがもっと押し寄せてくる前に\nこの場から抜け出さないとだな。"
+  },
+  {
+    "key": "1-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "1-content",
+    "original": "이미 고래 뱃속에 갇혀 있는데, 벗어날 곳이 있기는 할까요…",
+    "context": "EN :\nBounce where...? We're trapped inside a Whale.\nJP :\nそもそも鯨の腹の中に閉じ込められてるのに、\n逃れられる場所ってあるんですかね…。"
+  },
+  {
+    "key": "2-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "2-content",
+    "original": "우리도… 곧 저런 꼴이 되는 건 아니야? 먹힌… 거잖아, 우리.",
+    "context": "EN :\nAre we... are we gonna end up looking like them, too? You know, we've been... 'devoured'.\nJP :\n私たちも…じきにあのザマになるんじゃない？\n食べられ…たんでしょ、私たちって。"
+  },
+  {
+    "key": "3-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "3-content",
+    "original": "지금 당장은 단테 씨의 머리에 있는 황금가지의 덕으로 수감자 분들의 백화 현상은 막을 수 있을 겁니다.",
+    "context": "EN :\nThe Golden Bough inside Dante's head is likely counteracting the Pallidification effects on the Sinners' bodies.\nJP :\nダンテさんの頭にある黄金の枝のおかげで\n囚人方の白化現象は当面防げるでしょう。"
+  },
+  {
+    "key": "4-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "4-content",
+    "original": "하지만 언제까지 지속될 수 있을지는 알 수 없겠죠.",
+    "context": "EN :\nBut there is no guarantee that this defensive effect would last forever.\nJP :\nしかし、いつまで持続するかは不明です。"
+  },
+  {
+    "key": "5-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "5-content",
+    "original": "환경이 변해버렸으니까요.",
+    "context": "EN :\nWe must take into account that we are in an unknown environment.\nJP :\n環境が変わってしまいましたので。"
+  },
+  {
+    "key": "6-content",
+    "original": "이대로 시간을 지체한다면 이 인어들과 같은 모습이 될 수도 있다는 말이겠지.",
+    "context": "EN :\nIn other words, spending too long here could turn us into Mermaids, just like them...\nJP :\nこのままグズグズしてると、この人魚たちのような姿に\nなるかもしれないという意味だろう。"
+  },
+  {
+    "key": "7-content",
+    "original": "인어가 되어버린 수감자까지 나의 시계로 돌려놓을 수 있을지 또한 미지수.",
+    "context": "EN :\nI wasn't sure if I could bring back a Sinner that's turned into a Mermaid.\nJP :\n人魚になってしまった囚人たちを私の時計で戻せるのかも、また未知数。"
+  },
+  {
+    "key": "8-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "8-content",
+    "original": "<하지만… 어느 쪽으로 가야 하지?>",
+    "context": "EN :\n<But... Where do we even go?>\nJP :\n<でも…どっちに行くべきなんだろう？>"
+  },
+  {
+    "key": "9-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "9-content",
+    "original": "<이곳이 어디인지조차도 모르겠어…>",
+    "context": "EN :\n<I don't have even the slightest idea as to where we might be...>\nJP :\n<ここがどこかも分からないのに…。>"
+  },
+  {
+    "key": "10-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10-content",
+    "original": "이상하네요… 고래라는 건 뱃속에서도 비가 내리는 걸까요?",
+    "context": "EN :\nWeird... I didn't know it could rain inside a Whale's belly.\nJP :\n変ですね…鯨って、お腹の中でも雨が降るんですか？"
+  },
+  {
+    "key": "11-content",
+    "original": "갈피를 못 잡고 고민하고 있을 때, 갑자기 홍루가 뜬금없는 말을 꺼냈다.",
+    "context": "EN :\nI was still unsure where to go, so much so that I was starting to feel completely lost... when Hong Lu suddenly blurted something about rain.\nJP :\n途方に暮れて悩んでいると、突然ホンルが突拍子もないことを言い出した。"
+  },
+  {
+    "key": "12-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "12-content",
+    "original": "<…무슨 소리야?>",
+    "context": "EN :\n<... What are you talking about?>\nJP :\n<…どういう意味？>"
+  },
+  {
+    "key": "13-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "13-content",
+    "original": "아, 방금 제 어깨로 물이 몇 방울 떨어졌거든요.",
+    "context": "EN :\nOh, it's just that I felt a few droplets of water on my shoulder.\nJP :\nあぁ、さっき僕の肩に水が数滴落ちたんですよね。"
+  },
+  {
+    "key": "14-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "14-content",
+    "original": "…야, 잠깐만.",
+    "context": "EN :\n... Wait.\nJP :\n…おい、ちょっと待てよ。"
+  },
+  {
+    "key": "15-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "15-content",
+    "original": "우리는 이거한테 먹혔고, 곧바로 떨어져서 꼬라박은 곳이 여기였지.",
+    "context": "EN :\nSo this is the first place we landed on after the Whale swallowed us whole, innit?\nJP :\nオレらはコレに食われて、真っ逆さまに落ちた場所がここだ。"
+  },
+  {
+    "key": "16-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "16-content",
+    "original": "<그렇지…>",
+    "context": "EN :\n<Right...>\nJP :\n<だよね…。>"
+  },
+  {
+    "key": "17-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "17-content",
+    "original": "내가 가끔 당연한 게 헷갈려서 그러는데.",
+    "context": "EN :\nSorry, I just sometimes need someone to confirm my common senses.\nJP :\nオレがたまに当たり前ぇのことすら\n勘違いするから聞くんだけどよ。"
+  },
+  {
+    "key": "18-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "18-content",
+    "original": "보통 음식을 먹으면… 제일 먼저 어디에 도착하냐.",
+    "context": "EN :\nWhen you eat something... where does it usually land first?\nJP :\nフツー食いもん食ったら…\n一番最初はどこへ着くんだっけか。"
+  },
+  {
+    "key": "19-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "19-content",
+    "original": "그거야 당연히 위장이지. 아까부터 배고프다고 울고 있는 불쌍한 내 위장…",
+    "context": "EN :\nMy stomach, of course. My poor, starving stomach...\nJP :\nそりゃ当然胃でしょ。\nさっきからお腹すいたって鳴いてる可哀想な私の胃が…。"
+  },
+  {
+    "key": "20-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "20-content",
+    "original": "…히스클리프 씨의 질문에 대한 의도가 파악 되었습니다.",
+    "context": "EN :\n... I see your point, Heathcliff.\nJP :\n…ヒースクリフさんの質問に対する意図を把握しました。"
+  },
+  {
+    "key": "21-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "21-content",
+    "original": "위장에선 효율적으로 음식물을 소화하기 위하여 끊임없이 위산이 분비되죠.",
+    "context": "EN :\nThe stomach constantly secretes acid in order to digest the food effectively.\nJP :\n胃では効率的に飲食物を消化するため、絶えず胃酸が分泌されます。"
+  },
+  {
+    "key": "22-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "22-content",
+    "original": "학교에서 배웠던 것 같아요. 무슨 강한 산이라고…",
+    "context": "EN :\nYeah, I think I learned about it in school. It's usually some kind of powerful acid...\nJP :\n学校で習った気がします。\n確か、強い酸だって…。"
+  },
+  {
+    "key": "23-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "23-content",
+    "original": "닿는 것들을… 분해하는…",
+    "context": "EN :\nThat... dissolves everything it touches...\nJP :\n付着したものを…分解する…。"
+  },
+  {
+    "key": "24-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "24-content",
+    "original": "아하~",
+    "context": "EN :\nOhh~\nJP :\nあはぁ～。"
+  },
+  {
+    "key": "25-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "25-content",
+    "original": "그래서… 물이 떨어진 위치에 옷이 녹아 내렸던 거군요. 따끔하기도 하고요.",
+    "context": "EN :\nSo that's why my clothes melted where the water touched. Feels a bit prickly, too.\nJP :\nそれで…水が落ちた場所の服が融けたんですね。\nチクチク痛くもありますね。"
+  },
+  {
+    "key": "26-content",
+    "original": "홍루의 어깨를 바라보자 지글거리며 피부와 함께 녹아 내리고 있는 듯한 구멍이 보였다.",
+    "context": "EN :\nI stared at Hong Lu's shoulder. Something had burrowed a hole there, and the surrounding skin was sizzling and melting away.\nJP :\nホンルの方を見ると、ぶしゅぶしゅ言いながら皮膚と共に\n融けてるらしき穴が見えた。"
+  },
+  {
+    "key": "27-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "27-content",
+    "original": "우리… 도착하자마자 흐물흐물… 해지는 것이오?",
+    "context": "EN :\nAre we fated to become porridge... so soon after our arrival...?\nJP :\n私たち…到着して間もないのに…べちょべちょになるのでありますか？"
+  },
+  {
+    "key": "28-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "28-content",
+    "original": "하나 긍정적인 발견을 보고 드리자면, 일반적인 생물체의 생체 기관과 어느 정도 비슷한 메커니즘을 띄고 있는 것 같군요.",
+    "context": "EN :\nThere is one positive discovery, however. This creature appears to share similar biological mechanisms and shapes as an ordinary organic lifeform.\nJP :\n一つ肯定的な発見を報告しますが、一般的な生物の生体器官と\nある程度類似したメカニズムを有しているようですね。"
+  },
+  {
+    "key": "29-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "29-content",
+    "original": "<다들… 최선을 다해서 뛰어…>",
+    "context": "EN :\n<Everyone... We gotta run...!>\nJP :\n<みんな…全力で走れ…。>"
+  },
+  {
+    "key": "30-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "30-content",
+    "original": "<어떤 형태로라든 좋으니까 남아있기만 해줘…>",
+    "context": "EN :\n<I don't care how many pieces of you there are left, just make sure that there's something left for me to bring back...>\nJP :\n<どんな形でも良いから、どうか残っていてくれ…。>"
+  }
+]

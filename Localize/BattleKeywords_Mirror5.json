@@ -1,0 +1,307 @@
+[
+  {
+    "key": "MD511-name",
+    "original": "공격 레벨 강화 I",
+    "context": "EN :\nOffense Level Up I\nJP :\n攻撃レベル強化I"
+  },
+  {
+    "key": "MD511-desc",
+    "original": "공격 레벨+ 1",
+    "context": "EN :\nOffense Level +1\nJP :\n攻撃レベル +1"
+  },
+  {
+    "key": "MD512-name",
+    "original": "방어 레벨 강화",
+    "context": "EN :\nDefense Level Up\nJP :\n防御レベル強化"
+  },
+  {
+    "key": "MD512-desc",
+    "original": "방어 레벨 +2",
+    "context": "EN :\nDefense Level +2\nJP :\n防御レベル +2"
+  },
+  {
+    "key": "MD513-name",
+    "original": "강인함 I",
+    "context": "EN :\nResilient I\nJP :\n強靱I"
+  },
+  {
+    "key": "MD513-desc",
+    "original": "방어 레벨 +1, 최대 체력 +2.5%",
+    "context": "EN :\nDefense Level +1, Max HP +2.5%\nJP :\n防御レベル +1, 最大体力 +2.5%"
+  },
+  {
+    "key": "MD514-name",
+    "original": "성장 I",
+    "context": "EN :\nGrowth I\nJP :\n成長I"
+  },
+  {
+    "key": "MD514-desc",
+    "original": "최대 체력 +5%",
+    "context": "EN :\nMax HP +5%\nJP :\n最大体力 +5%"
+  },
+  {
+    "key": "MD515-name",
+    "original": "수비 스킬 강화",
+    "context": "EN :\nDefense Skill Up\nJP :\n守備スキル強化"
+  },
+  {
+    "key": "MD515-desc",
+    "original": "수비 스킬 최종 위력 +1",
+    "context": "EN :\nDefense Skill Final Power +1\nJP :\n守備スキル最終威力 +1"
+  },
+  {
+    "key": "MD516-name",
+    "original": "받는 피해량 감소 강화",
+    "context": "EN :\nTake Less Damage\nJP :\n被ダメージ量減少強化"
+  },
+  {
+    "key": "MD516-desc",
+    "original": "받는 피해량 -5%",
+    "context": "EN :\nDamage Taken -5%\nJP :\n被ダメージ量 -5%"
+  },
+  {
+    "key": "MD521-name",
+    "original": "공격 레벨 강화 II",
+    "context": "EN :\nOffense Level Up II\nJP :\n攻撃レベル強化II"
+  },
+  {
+    "key": "MD521-desc",
+    "original": "공격 레벨 +2",
+    "context": "EN :\nOffense Level +2\nJP :\n攻撃レベル +2"
+  },
+  {
+    "key": "MD522-name",
+    "original": "육체 강화 I",
+    "context": "EN :\nBody Up I\nJP :\n肉体強化I"
+  },
+  {
+    "key": "MD522-desc",
+    "original": "공격 레벨 +1, 방어 레벨 +1, 최대 체력 +2.5%",
+    "context": "EN :\nOffense Level +1, Defense Level +1, Max HP +2.5%\nJP :\n攻撃レベル +1, 防御レベル +1, 最大体力 +2.5%"
+  },
+  {
+    "key": "MD523-name",
+    "original": "예리 I",
+    "context": "EN :\nKeen I\nJP :\n鋭利I"
+  },
+  {
+    "key": "MD523-desc",
+    "original": "공격 레벨 +1, 최대 체력 +5%",
+    "context": "EN :\nOffense Level +1, Max HP +5%\nJP :\n攻撃レベル +1, 最大体力 +5%"
+  },
+  {
+    "key": "MD524-name",
+    "original": "강인함 II",
+    "context": "EN :\nResilient II\nJP :\n強靱II"
+  },
+  {
+    "key": "MD524-desc",
+    "original": "방어 레벨 +1, 최대 체력 +7.5%",
+    "context": "EN :\nDefense Level +1, Max HP +7.5%\nJP :\n防御レベル +1, 最大体力 +7.5%"
+  },
+  {
+    "key": "MD525-name",
+    "original": "강인함 III",
+    "context": "EN :\nResilient III\nJP :\n強靱III"
+  },
+  {
+    "key": "MD525-desc",
+    "original": "방어 레벨 +2, 최대 체력 +5%",
+    "context": "EN :\nDefense Level +2, Max HP +5%\nJP :\n防御レベル +2, 最大体力 +5%"
+  },
+  {
+    "key": "MD526-name",
+    "original": "성장 II",
+    "context": "EN :\nGrowth II\nJP :\n成長II"
+  },
+  {
+    "key": "MD526-desc",
+    "original": "최대 체력 +10%",
+    "context": "EN :\nMax HP +10%\nJP :\n最大体力 +10%"
+  },
+  {
+    "key": "MD527-name",
+    "original": "완강함 I",
+    "context": "EN :\nHeadstrong I\nJP :\n頑強I"
+  },
+  {
+    "key": "MD527-desc",
+    "original": "받는 피해량 -7.5%, 가하는 피해량 +7.5%",
+    "context": "EN :\nDamage Taken -7.5%, Damage Dealt +7.5%\nJP :\n被ダメージ量 -7.5%, 与ダメージ量 +7.5%"
+  },
+  {
+    "key": "MD531-name",
+    "original": "예리 II",
+    "context": "EN :\nKeen II\nJP :\n鋭利II"
+  },
+  {
+    "key": "MD531-desc",
+    "original": "공격 레벨 +2, 최대 체력 +7.5%",
+    "context": "EN :\nOffense Level +2, Max HP +7.5%\nJP :\n攻撃レベル +2, 最大体力 +7.5%"
+  },
+  {
+    "key": "MD532-name",
+    "original": "예리 III",
+    "context": "EN :\nKeen III\nJP :\n鋭利III"
+  },
+  {
+    "key": "MD532-desc",
+    "original": "공격 레벨 +3, 최대 체력 +5%",
+    "context": "EN :\nOffense Level +3, Max HP +5%\nJP :\n攻撃レベル +3, 最大体力 +5%"
+  },
+  {
+    "key": "MD533-name",
+    "original": "강인함 IV",
+    "context": "EN :\nResilient IV\nJP :\n強靱IV"
+  },
+  {
+    "key": "MD533-desc",
+    "original": "방어 레벨 +3, 최대 체력 +7.5%",
+    "context": "EN :\nDefense Level +3, Max HP +7.5%\nJP :\n防御レベル +3, 最大体力 +7.5%"
+  },
+  {
+    "key": "MD534-name",
+    "original": "강인함 V",
+    "context": "EN :\nResilient V\nJP :\n強靱V"
+  },
+  {
+    "key": "MD534-desc",
+    "original": "방어 레벨 +4, 최대 체력 +5%",
+    "context": "EN :\nDefense Level +4, Max HP +5%\nJP :\n防御レベル +4, 最大体力 +5%"
+  },
+  {
+    "key": "MD535-name",
+    "original": "성장 III",
+    "context": "EN :\nGrowth III\nJP :\n成長III"
+  },
+  {
+    "key": "MD535-desc",
+    "original": "최대 체력 +15%",
+    "context": "EN :\nMax HP +15%\nJP :\n最大体力 +15%"
+  },
+  {
+    "key": "MD536-name",
+    "original": "합 위력 증폭",
+    "context": "EN :\nClash Power Boost\nJP :\nマッチ威力増幅"
+  },
+  {
+    "key": "MD536-desc",
+    "original": "합 위력 +1, 최대 체력 +7.5%",
+    "context": "EN :\nClash Power +1, Max HP +7.5%\nJP :\nマッチ威力 +1, 最大体力 +7.5%"
+  },
+  {
+    "key": "MD537-name",
+    "original": "최종 위력 증폭",
+    "context": "EN :\nFinal Power Boost\nJP :\n最終威力増幅"
+  },
+  {
+    "key": "MD537-desc",
+    "original": "최종 위력 +1, 최대 체력 +5%",
+    "context": "EN :\nFinal Power +1, Max HP +5%\nJP :\n最終威力 +1, 最大体力 +5%"
+  },
+  {
+    "key": "MD538-name",
+    "original": "기본 위력 증폭",
+    "context": "EN :\nBase Power Boost\nJP :\n基本威力増幅"
+  },
+  {
+    "key": "MD538-desc",
+    "original": "기본 위력 +1, 최대 체력 +2.5%",
+    "context": "EN :\nBase Power +1, Max HP +2.5\nJP :\n基本威力 +1, 最大体力 +2.5%"
+  },
+  {
+    "key": "MD541-name",
+    "original": "예리 IV",
+    "context": "EN :\nKeen IV\nJP :\n鋭利IV"
+  },
+  {
+    "key": "MD541-desc",
+    "original": "공격 레벨 +3, 최대 체력 +15%",
+    "context": "EN :\nOffense Level +3, Max HP +15%\nJP :\n攻撃レベル +3, 最大体力 +15%"
+  },
+  {
+    "key": "MD542-name",
+    "original": "육체 강화 II",
+    "context": "EN :\nBody Up II\nJP :\n肉体強化II"
+  },
+  {
+    "key": "MD542-desc",
+    "original": "공격 레벨 +2, 방어 레벨 +3, 최대 체력 +10%",
+    "context": "EN :\nOffense Level +2, Defense Level +3, Max HP +10%\nJP :\n攻撃レベル +2, 防御レベル +3, 最大体力 +10%"
+  },
+  {
+    "key": "MD543-name",
+    "original": "육체 강화 III",
+    "context": "EN :\nBody Up III\nJP :\n肉体強化III"
+  },
+  {
+    "key": "MD543-desc",
+    "original": "공격 레벨 +3, 방어 레벨 +2, 최대 체력 +10%",
+    "context": "EN :\nOffense Level +3, Defense Level +2, Max HP +10%\nJP :\n攻撃レベル +3, 防御レベル +2, 最大体力 +10%"
+  },
+  {
+    "key": "MD544-name",
+    "original": "성장 IV",
+    "context": "EN :\nGrowth IV\nJP :\n成長IV"
+  },
+  {
+    "key": "MD544-desc",
+    "original": "최대 체력 +30%",
+    "context": "EN :\nMax HP +30%\nJP :\n最大体力 +30%"
+  },
+  {
+    "key": "MD545-name",
+    "original": "합 위력 증강",
+    "context": "EN :\nClash Power Spurt\nJP :\nマッチ威力増強"
+  },
+  {
+    "key": "MD545-desc",
+    "original": "합 위력 +1, 최대 체력 +15%",
+    "context": "EN :\nClash Power +1, Max HP +15%\nJP :\nマッチ威力 +1, 最大体力 +15%"
+  },
+  {
+    "key": "MD546-name",
+    "original": "최종 위력 증강",
+    "context": "EN :\nFinal Power Spurt\nJP :\n最終威力増強"
+  },
+  {
+    "key": "MD546-desc",
+    "original": "최종 위력 +1, 최대 체력 +12.5%",
+    "context": "EN :\nFinal Power +1, Max HP +12.5%\nJP :\n最終威力 +1, 最大体力 +12.5%"
+  },
+  {
+    "key": "MD547-name",
+    "original": "기본 위력 증강",
+    "context": "EN :\nBase Power Spurt\nJP :\n基本威力増強"
+  },
+  {
+    "key": "MD547-desc",
+    "original": "기본 위력 +1, 최대 체력 +10%",
+    "context": "EN :\nBase Power +1, Max HP +10%\nJP :\n基本威力 +1, 最大体力 +10%"
+  },
+  {
+    "key": "MD548-name",
+    "original": "파괴력",
+    "context": "EN :\nBrutality\nJP :\n破壊力"
+  },
+  {
+    "key": "MD548-desc",
+    "original": "더하기 코인 위력 +1, 빼기 코인 위력 -1",
+    "context": "EN :\nPlus Coin Power +1, Minus Coin Power -1\nJP :\n加算コイン威力 +1, 減算コイン威力 -1"
+  },
+  {
+    "key": "MD549-name",
+    "original": "완강함 II",
+    "context": "EN :\nHeadstrong II\nJP :\n頑強II"
+  },
+  {
+    "key": "MD549-desc",
+    "original": "받는 피해량 -25%, 가하는 피해량 +25%",
+    "context": "EN :\nDamage Taken -25%, Damage Dealt +25%\nJP :\n被ダメージ量 -25%, 与ダメージ量 +25%"
+  },
+  {
+    "key": "MD5Base-name",
+    "original": "추가되는 고난",
+    "context": "EN :\nMounting Trials\nJP :\n追加される苦難"
+  }
+]

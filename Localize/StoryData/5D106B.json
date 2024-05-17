@@ -1,0 +1,1404 @@
+[
+  {
+    "key": "0-place",
+    "original": "에이해브의 사무실",
+    "context": "EN :\nAhab's Office\nJP :\nエイハブの事務室"
+  },
+  {
+    "key": "0-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "0-content",
+    "original": "음… 그런데 저 게시판에 적혀 있는 건 뭐야?",
+    "context": "EN :\nUm... So what's that on the board over there?\nJP :\nうーん…ところであの掲示板に書かれてるのはなんなの？"
+  },
+  {
+    "key": "1-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "1-content",
+    "original": "선원마다 배당되는 금화야.",
+    "context": "EN :\nThe number of gold coins assigned to... each crewman and woman.\nJP :\nせんいんごとに、配当される金貨だ。"
+  },
+  {
+    "key": "2-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "2-content",
+    "original": "쓸만한 재료들을 건져 올리거나 인어들을 사냥하는 데에 성공하면 받을 수 있지.",
+    "context": "EN :\nWe can collect 'em by fish...ing up useful stuff or by hunting Mermaids.\nJP :\n使えそうな材料をすくい、上げたり\nにんぎょたちを狩るのに成功すると受け取れる。"
+  },
+  {
+    "key": "3-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "3-content",
+    "original": "으음… 금화는 누가 주는 거지?",
+    "context": "EN :\nHm... And who's the one paying you?\nJP :\nうーん…金貨は誰がくれるんだ？"
+  },
+  {
+    "key": "4-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "4-content",
+    "original": "그거야, 당연히 선장님이지?",
+    "context": "EN :\nThe Captain, ob...viously?\nJP :\nそりゃぁ、どうぜん船長だろう？"
+  },
+  {
+    "key": "5-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "5-content",
+    "original": "고래 배 속에서 경제활동이라도 있다는 것인가?",
+    "context": "EN :\nAre you saying that there is economic activity within the Whale's stomach?\nJP :\n鯨の腹の中であっても、\n経済活動というものが生じてるということか？"
+  },
+  {
+    "key": "6-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "6-content",
+    "original": "이곳에서는 금화를 얻을 수도, 가질 필요도 없을 텐데.",
+    "context": "EN :\nWhat need of gold coins could you have in here? Let alone the means of procuring them?\nJP :\nここでは金貨を得る手段も、持つ必要も無いはずだろうに。"
+  },
+  {
+    "key": "7-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "7-content",
+    "original": "말했잖아. 우리는 곧 밖에 나간다니까.",
+    "context": "EN :\nTold ya. We'll be outta here in just... a little bit.\nJP :\n言っただろう。おれたちは、じきに外へでると。"
+  },
+  {
+    "key": "8-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "8-content",
+    "original": "그리고 나는 벌써 63개의 금화를 받을 수 있어.",
+    "context": "EN :\nAnd once we're off this Whale, I'll get pa...id 63 gold coins.\nJP :\nそして、おれは今や63つの金貨をうけとれる。"
+  },
+  {
+    "key": "9-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "9-content",
+    "original": "이 정도라면 도시로 나가서 쓸만한 배를 살 수 있을지도 모르지, 그 사이에 물가가 변한 게 아니라면.",
+    "context": "EN :\nWith that much dough... I just might be able to snag myself a half...way decent ship. Unless the inflation's gone... nuts, that is.\nJP :\nこれくらいなら都市へ出て、つかえそうな船をかえるかもしれないな。\nここにいる間、物価が変わったわけじゃないなら。"
+  },
+  {
+    "key": "10-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "10-content",
+    "original": "아 이봐, 혹시 청새치 항구선을 들린 거라면 말해줘. 가오리 철판 해물 집은 아직 건재한가?",
+    "context": "EN :\nOh, by the way, ever be...en to the Marlin portship lately? Any chance you saw the sting...ray flattop grill place? I wonder if it's still... open.\nJP :\nあぁ、おい。もしやマカジキ港船をおとずれたなら教えてくれ。\nエイ鉄板海鮮屋はまだあるか？"
+  },
+  {
+    "key": "11-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "11-content",
+    "original": "오… 맛있어 보이는 이름인걸? 위치가 어딘데?",
+    "context": "EN :\nOhh... That sounds delish! Where is it?\nJP :\nおぉ…美味しそうな名前だね？どこにあるの？"
+  },
+  {
+    "key": "12-content",
+    "original": "에이해브는 아마 선원들에게 여러 노동에 따라 금화를 주는 것을 원칙으로 삼았던 것 같다.",
+    "context": "EN :\nLooks like Ahab's giving out gold coins to her crew for their labor.\nJP :\nエイハブは恐らく船員への様々な労働に対して\n金貨を与えることを原則としているようだ。"
+  },
+  {
+    "key": "13-content",
+    "original": "명령에 대가가 있다면, 확실히 의욕과 사기에 도움이 되었겠지.",
+    "context": "EN :\nThe promise of a reward for services rendered... I'm sure that's a strong motivator.\nJP :\n命令に対価があるのであれば、\n確かに意欲と士気増大の助けになるだろう。"
+  },
+  {
+    "key": "14-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "14-content",
+    "original": "아, 이스마엘. 아까는 정말 놀랐어.",
+    "context": "EN :\nHey, Ishmael. You really caught me off... guard earlier.\nJP :\nあぁ、イシュメール。さっきはすごくおどろいた。"
+  },
+  {
+    "key": "15-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "15-content",
+    "original": "너를 이곳에서 만날 거라고는 생각도 못 해서 말이야.",
+    "context": "EN :\nSeriously, I didn't... think I'd find... you here, of all places.\nJP :\nお前とここで会えるとは、おもいも、しなくてな。"
+  },
+  {
+    "key": "16-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "16-content",
+    "original": "밖에 나가면 술통 내기라도 하는 건 어때? 예전처럼 말이야!",
+    "context": "EN :\nWhen we're outta here, we should go cr...ash at a bar and drink rum straight from a bar...rel! We'll make it a competition, just like the good ol...d days!\nJP :\n外に出たら酒樽きょうそうでもするのはどうだ？昔みたいにな！"
+  },
+  {
+    "key": "17-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "17-content",
+    "original": "그래, 다른 선원들이랑 인사는 나눴어?",
+    "context": "EN :\nRight, so did you get a chance to say hello to every...one? A little chat?\nJP :\nそうだ、他の船員たちとはあいさつ、したか？"
+  },
+  {
+    "key": "18-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "18-content",
+    "original": "그리고 또, 머리는 왜 또 그렇게 길게 기른 거야? 거치적거린다더니!",
+    "context": "EN :\nAnd oh m...an, you sure did grow your ha...ir out! Whatever happened to 'long hair is annoying'?\nJP :\nそれに、かみはどうしてそんな長くのばしたんだ？\n邪魔だって言ってたろ！"
+  },
+  {
+    "key": "19-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "19-content",
+    "original": "…질문이 많네요.",
+    "context": "EN :\n... That's a lot of questions at once.\nJP :\n…質問が多いですね。"
+  },
+  {
+    "key": "20-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "20-content",
+    "original": "다들 저랑 이야기도 나누고 싶어 하지 않던데요. 적개심이 가득한 표정이던데.",
+    "context": "EN :\nI don't think any of them want to chat with me. I can tell from the looks they're giving me...\nJP :\n全員私と話なんてしたくなさそうでしたけど。\n敵意に満ちた表情でしたね。"
+  },
+  {
+    "key": "21-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "21-content",
+    "original": "이곳에선… 다른 배에서 온 주민들도 간간히 있었지만…",
+    "context": "EN :\nSometimes, peo...ple from other... ships would join us in the village...\nJP :\nここには…ほかのふねから来た住民たちもぽつぽついたが…。\n"
+  },
+  {
+    "key": "22-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "22-content",
+    "original": "모두 하루를 채 못 넘겼어. 여태까지 버틴 건 우리 말곤 없지.",
+    "context": "EN :\n... But none of 'em lasted more than a d...ay. We're the only ones who's made it this long.\nJP :\nみな、一日すら耐えられなかった。\nここまで耐えてきたのは、おれたち以外にはいない。"
+  },
+  {
+    "key": "23-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "23-content",
+    "original": "선장님이 해결책을 알려주셨거든.",
+    "context": "EN :\nAnd it's all thanks to a solu...tion our Captain ca...me up with.\nJP :\n船長がかいけつさくを、教えてくださったんだ。"
+  },
+  {
+    "key": "24-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "24-content",
+    "original": "…해결책?",
+    "context": "EN :\n... A solution?\nJP :\n…解決策？"
+  },
+  {
+    "key": "25-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "25-content",
+    "original": "몸과 머릿 속이 하얗게 되지 않을 수 있는 유일한 방법.",
+    "context": "EN :\nA way to stop our bodies and minds from turning pal...lid.\nJP :\n身体と頭の中がしろくならないための、唯一の方法。"
+  },
+  {
+    "key": "26-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "26-content",
+    "original": "<그런 게 있다고?>",
+    "context": "EN :\n<What is it?>\nJP :\n<あるんだ？>"
+  },
+  {
+    "key": "27-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "27-content",
+    "original": "보다시피. 선장님만 아니었다면 우리는 이곳에서 인어로 변했을 거야. 마을에는 아무도 안 남아있었겠지.",
+    "context": "EN :\nAs you can see... with...out our Captain, we would've long been turn...ed into Mermaids. Without the Captain, this village wouldn't exist.\nJP :\n見ての通り。船長がいなければここで人魚にかわっただろう、\n町では誰も生き残っていなかったろう。"
+  },
+  {
+    "key": "28-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "28-content",
+    "original": "그러니까 선장님을 적대하는 자는… 공동의 적이 되는 거야.",
+    "context": "EN :\nSo anyone that dares to anta...gonize the Captain... is our... enemy.\nJP :\nだから船長と敵対する者は…共通の敵になるんだ。"
+  },
+  {
+    "key": "29-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "29-content",
+    "original": "선장님과 뜻을 같이하지 않는 것은 우리 모두를 죽이는 거랑 다를 바 없으니까.",
+    "context": "EN :\nBecause to stand against the Cap...tain is to stand against our very survival.\nJP :\n船長と意見を異にする者は、おれたち全員を殺すのと\nちがいないから。"
+  },
+  {
+    "key": "30-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "30-content",
+    "original": "이런 사람이었나요, 스타벅.",
+    "context": "EN :\nYou've changed, Starbuck.\nJP :\nそんなこと言う人でしたっけ、スターバック。"
+  },
+  {
+    "key": "31-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "31-content",
+    "original": "꽤 선장에게 반목하던 모습으로 기억하고 있었는데.",
+    "context": "EN :\nI remember you butting heads with the Captain all the time.\nJP :\nかなり船長に反目してたのを覚えてるんですけど。"
+  },
+  {
+    "key": "32-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "32-content",
+    "original": "…그래?",
+    "context": "EN :\n... Did I?\nJP :\n…そうか？"
+  },
+  {
+    "key": "33-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "33-content",
+    "original": "…애초부터 선원들을 죽을 운명으로 이끌고 간 게 누군데.",
+    "context": "EN :\n... Don't forget who trapped all of you here in the first place. Led us to our deaths.\nJP :\n…そもそも船員たちを死ぬ運命に導いたのが誰だと。"
+  },
+  {
+    "key": "34-content",
+    "original": "이스마엘이 스타벅을 냉랭하게 지나쳐 사무실로 들어간다.",
+    "context": "EN :\nIshmael coldly walks past Starbuck before entering the office.\nJP :\nイシュメールがスターバックを冷たく素通りし、事務室へ入った。"
+  },
+  {
+    "key": "35-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "35-content",
+    "original": "<오랜만에 만난 동료 아니었어?>",
+    "context": "EN :\n<I thought he was an old mate of yours?>\nJP :\n<久々に会った仲間じゃないのか？>"
+  },
+  {
+    "key": "36-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "36-content",
+    "original": "스타벅… 피쿼드호의 일등 항해사.",
+    "context": "EN :\nStarbuck... first mate of the Pequod.\nJP :\nスターバック…ピークォド号の1等航海士。"
+  },
+  {
+    "key": "37-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "37-content",
+    "original": "모두에게 좋은 사람이 되고 싶어 했죠. 동시에 선장과 가장 가까운 선원이었고요.",
+    "context": "EN :\nHe wanted to be a good person to everyone. And he was the closest of the crew to the Captain's ear.\nJP :\n八方美人になりたがってましたね。\n同時に船長と一番近しい船員でした。"
+  },
+  {
+    "key": "38-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "38-content",
+    "original": "가까운 만큼 의견 다툼도 많았지만… 뭐, 상관없었죠.",
+    "context": "EN :\nWhich meant that they also squabbled pretty often, but... it didn't matter in the end.\nJP :\n近い分、意見の衝突も多かったけど…まぁ、どうでも良かったんでしょうね。"
+  },
+  {
+    "key": "39-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "39-content",
+    "original": "에이해브는 평등하다고 말할 정도로 모두에게 관심이 없었으니.",
+    "context": "EN :\nAhab was equally indifferent to everyone anyway.\nJP :\nエイハブは平等と言えるくらい、全員に興味が無かったから。"
+  },
+  {
+    "key": "40-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "40-content",
+    "original": "누추한 자리를 내주는 건 이해를 해주도록.",
+    "context": "EN :\nPlease, excuse the state of my office.\nJP :\n話し合いの場が薄汚いのに関しては、理解してくれると嬉しい。"
+  },
+  {
+    "key": "41-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "41-content",
+    "original": "럼주라도 있으면 금상첨화였을테지. 하지만 아무리 기다려도 술병만큼은 흘러 들어오지 않더군.",
+    "context": "EN :\nA bottle of rum and this would have gone down much smoother. Yet, after all the time we've spent stuck in here... I've not seen a single bottle of it float its way in.\nJP :\nラム酒でもあれば申し分なかったろう。\nでもいくら待っても酒瓶だけは入ってこないんだな。"
+  },
+  {
+    "key": "42-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "42-content",
+    "original": "협상은 제가 주도해 보도록 하겠습니다. 관리자님.",
+    "context": "EN :\nExecutive Manager, allow me to take charge of this negotiation.\nJP :\n交渉は私が主導いたします。管理人様。"
+  },
+  {
+    "key": "43-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "43-content",
+    "original": "이스마엘… 저 자는 이성적인 판단이 힘들 것 같고, 관리자님은 째깍거리는 소리만 들리니.",
+    "context": "EN :\nIshmael... cannot be trusted to make a rational decision. And you, Executive Manager, cannot properly communicate with this woman. She will only hear your ticking sounds.\nJP :\nイシュメール…あの者は理性的な判断が難しいのと、\n管理人様からはチクタクという音のみが聞こえるから。"
+  },
+  {
+    "key": "44-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "44-content",
+    "original": "<그래…>",
+    "context": "EN :\n<Sure...>\nJP :\n<そうだね…。>"
+  },
+  {
+    "key": "45-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "45-content",
+    "original": "에이해브 선장이라 했나? 우리는…",
+    "context": "EN :\nCaptain Ahab, is it? We...\nJP :\nエイハブ船長と言ったか？我々は―"
+  },
+  {
+    "key": "46-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "46-content",
+    "original": "감히 맞춰볼까? 너희는 이 창백한 고래로부터 삼켜진 무언가를 찾으러 자진해서 들어왔군.",
+    "context": "EN :\nAllow me to hazard a guess. You rowed in here, voluntarily, in search of something that the Pallid Whale devoured.\nJP :\n当ててみようか？お前さんたちはこの蒼白な鯨に\n呑み込まれた何かを探しに自ら入ってきた。"
+  },
+  {
+    "key": "47-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "47-content",
+    "original": "그렇다는 건 너희 역시도 인어가 될 수 있지 않는 다른 방법을 찾은 거고.",
+    "context": "EN :\nThis means that you and your present company have also found a way to keep yourselves from turning into Mermaids.\nJP :\nということは、お前さんたちもまた人魚にならずに済む\n別の方法を見つけたってことだ。"
+  },
+  {
+    "key": "48-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "48-content",
+    "original": "…뭐, 여기까지 온 이상 굳이 숨길 필요는 없겠지.",
+    "context": "EN :\n... Well, I don't suppose there's any point hiding it when we've already come this far.\nJP :\n…まぁ、ここまで来た以上あえて隠す理由はないだろう。"
+  },
+  {
+    "key": "49-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "49-content",
+    "original": "우리는 어떤… 물건을 찾고 있소. 어떻게 생겼냐면 말이오…",
+    "context": "EN :\nWe are in search... of a certain object. Its appearance is as thus...\nJP :\n私たちはとある…ものをさがしているのでありまする。\nどういう形をしているかといいますると…。"
+  },
+  {
+    "key": "50-content",
+    "original": "돈키호테는 금방이라도 선장이 주머니에서 황금가지를 꺼내 건네줄 것처럼 주위를 두리번거리며 설명을 시작하려 했다.",
+    "context": "EN :\nDon Quixote started explaining, looking around excitedly as though she expected the Captain to suddenly produce the Golden Bough from her pockets.\nJP :\nドンキホーテは今すぐにでも船長がポケットから黄金の枝を取り出して\n渡してくれるかのように、周囲を見回しながら説明しようとした。"
+  },
+  {
+    "key": "51-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "51-content",
+    "original": "잠깐, 그렇게 함부로 알려줘도 되는 거야? 좀 더 상의한 후에…",
+    "context": "EN :\nWait, are we really going to just tell her everything? Why don't we talk about this between us first, and—\nJP :\n待てよ、そんな風に無闇に教えていいのか？\nもう少し相談してから…。"
+  },
+  {
+    "key": "52-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "52-content",
+    "original": "알고 있다. 황금색으로 빛나는 막대기 같은 것을 찾고 있겠지.",
+    "context": "EN :\nI know what you seek. A golden stick of sorts, I presume.\nJP :\n知っている。黄金色に光る棒のようなものを探してるんだろう。"
+  },
+  {
+    "key": "53-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "53-content",
+    "original": "내가 틀렸나?",
+    "context": "EN :\nAm I wrong?\nJP :\n違うか？"
+  },
+  {
+    "key": "54-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "54-content",
+    "original": "뭐… 뭐?",
+    "context": "EN :\nWh-what?\nJP :\nな…えっ？"
+  },
+  {
+    "key": "55-content",
+    "original": "어떻게 알았냐는 듯 그대로 떡 벌어진 그레고르의 표정 덕택에 발뺌할 수조차 없었다.",
+    "context": "EN :\nWe couldn't even deny her accusations thanks to Gregor's extremely telling reaction.\nJP :\nどうして分かったんだという、口が大きく開かれた\nグレゴールの表情のおかげで言い逃れすらできなくなった。"
+  },
+  {
+    "key": "56-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "56-content",
+    "original": "난 그게 어디에 있는지 알고 있다.",
+    "context": "EN :\nI know where to find it.\nJP :\n私はそれがどこにあるか知っている。"
+  },
+  {
+    "key": "57-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "57-content",
+    "original": "심지어 너희를 그곳으로 데려다 줄 수도 있지.",
+    "context": "EN :\nI can even bring you to it.\nJP :\nしかもお前さんたちをそこへ連れて行くことも出来る。"
+  },
+  {
+    "key": "58-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "58-content",
+    "original": "흥, 허풍뿐인 말일 수도 있겠지.",
+    "context": "EN :\nHmph, how do we know that you aren't bluffing?\nJP :\nふん、ホラを吹いているだけかもしれないだろ。"
+  },
+  {
+    "key": "59-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "59-content",
+    "original": "맞아요. 어… 어쩌면 저희끼리 이야기한 걸 엿들었을 수도 있고요…",
+    "context": "EN :\nYeah. W-what if you just overheard while we were talking...?\nJP :\nそうです。\nも…もしかすると僕たちの会話を盗み聞きしたのかもしれませんし…。"
+  },
+  {
+    "key": "60-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "60-content",
+    "original": "내가 보았다는 증거를 말해주지. 그 가지에서는 멀리서부터 황금빛을 발산한다. 눈부시면서도 눈을 멀지 않게 할 정도로 따듯한 느낌이지.",
+    "context": "EN :\nI shall prove it to you, then. From that branch emanates a very far-reaching golden light. Its glow is warm and bright, yet not bright enough to be blinding.\nJP :\n私が見たという証拠を言おう。その枝からは遠くから黄金色の光を発散させる。\n眩しいながらも、目が眩まないくらいの暖かな感じだ。"
+  },
+  {
+    "key": "61-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "61-content",
+    "original": "…황금가지를 알고 있다는 것은 사실인 듯하군요.",
+    "context": "EN :\n... It appears that she at least knows of a Golden Bough.\nJP :\n…黄金の枝を知っているというのは事実のようですね。"
+  },
+  {
+    "key": "62-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "62-content",
+    "original": "관련되지 않은 사람이 알 수 있는 정보의 한계를 넘었습니다.",
+    "context": "EN :\nWhat she has just told us is more than what an unrelated individual should be able to know.\nJP :\n関連していない人が知れる情報の限界を超えました。"
+  },
+  {
+    "key": "63-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "63-content",
+    "original": "흠… 그래보아야 위치는 가르쳐 주지 않을 심산이겠지만…",
+    "context": "EN :\nHm... Still, I don't believe she's really about to tell us where the Bough is.\nJP :\nふむ…とはいえ位置は教えてくれない算段だろう…。"
+  },
+  {
+    "key": "64-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "64-content",
+    "original": "내가 왜 숨길 거로 생각하지? 난 감출 게 아무것도 없어!",
+    "context": "EN :\nYou presume that I would not part with this information? I have nothing to hide!\nJP :\n私がどうして隠すと思うんだ？\n私は何も隠す必要がないというのに！"
+  },
+  {
+    "key": "65-content",
+    "original": "에이해브라는 자는 탁자를 쾅 하고 내리치며 고개를 앞으로 쭉 뺐다.",
+    "context": "EN :\nAhab slammed the desk and leaned aggressively toward us.\nJP :\nエイハブという者は机をドンと叩き、顎を前へ突き出した。"
+  },
+  {
+    "key": "66-content",
+    "original": "씩하고 웃는 모습은, 마치 우리가 무슨 이야기를 할 것이고 무슨 의도를 가졌는지 전부 꿰뚫고 있다는 듯한 모습이었다.",
+    "context": "EN :\nShe wore a knowing grin, as though she knew exactly what we wanted and what we were about to say to get it.\nJP :\nニヤリと笑っている姿は、まるで私たちが何と言うつもりか\nそしてどういう意図なのかは全部お見通しだという風に見えた。"
+  },
+  {
+    "key": "67-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "67-content",
+    "original": "우리 확실하게 하지. 오히려 감추려고 하는 건 자네들이잖나.",
+    "context": "EN :\nLet us speak plainly here. I have naught to hide from you. In fact, I daresay that it is you who are withholding things from me.\nJP :\nここで、はっきりさせておこう。\nむしろ隠そうとしてるのはお前さんたちだろうに。"
+  },
+  {
+    "key": "68-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "68-content",
+    "original": "그 막대의 이름이 황금가지라고 했던가. 그렇다면 ‘황금가지’라는 건 이 빌어먹을 고래의 가장 중심에 있다.",
+    "context": "EN :\nYou called that stick the 'Golden Bough' did you? Well, then. That 'Golden Bough' is at the dead center of this accursed whale.\nJP :\nその棒の名前が黄金の枝って言ったか。\nそれなら「黄金の枝」ってのはこのクソッタレな鯨の中心部にある。"
+  },
+  {
+    "key": "69-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "69-content",
+    "original": "중심이라…",
+    "context": "EN :\nAt the dead center...\nJP :\n中心かぁ…。"
+  },
+  {
+    "key": "70-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "70-content",
+    "original": "고동 소리가 들리는 곳. 이것이 살아 움직이게 만드는 근원.",
+    "context": "EN :\nThe epicenter of this deep, resonant thumping. The spring of life that fuels this beast.\nJP :\n鼓動が聞こえる場所。\nこいつを生かし、動かせる根源。"
+  },
+  {
+    "key": "71-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "71-content",
+    "original": "심장. 악을 뿜어내는 지독한 심장.",
+    "context": "EN :\nThe heart. The heart that seeps with all that is evil in the world.\nJP :\n心臓。\n悪を噴き出す、おぞましい心臓。"
+  },
+  {
+    "key": "72-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "72-content",
+    "original": "<…!>",
+    "context": "EN :\n<…!>\nJP :\n<…！>"
+  },
+  {
+    "key": "73-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "73-content",
+    "original": "하지만… 다행으로 여기시게.",
+    "context": "EN :\nBut... You are in luck.\nJP :\nでも…幸運に思うんだな。"
+  },
+  {
+    "key": "74-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "74-content",
+    "original": "마침 우리 피쿼드호의 목적지 또한 같으며… 고래를 잡으러 떠나는 출항까지 얼마 남지 않은 상태였으니.",
+    "context": "EN :\nIt just so happens to be that the Pequod has set course for that very same destination. And we plan to set sail in the very near future.\nJP :\nちょうど我がピークォド号の目的地も同じで…\n鯨を捕りに出る出航の時間まで残り少ないって段階だったからな。"
+  },
+  {
+    "key": "75-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "75-content",
+    "original": "심장을 터뜨리는 것만이 이곳을 나갈 수 있는 유일한 방법이기 때문이거든.",
+    "context": "EN :\nBecause the only way out of the Whale is by destroying its heart.\nJP :\n心臓をぶっ潰すことだけが、ここを出れる唯一の方法だからだ。"
+  },
+  {
+    "key": "76-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "76-content",
+    "original": "신기하네요. 우연의 일치일까요?",
+    "context": "EN :\nThat's interesting. I wonder if this is just a coincidence?\nJP :\n不思議ですね。偶然の一致ですかね？"
+  },
+  {
+    "key": "77-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "77-content",
+    "original": "어떤 점이 신기한 거죠?",
+    "context": "EN :\nWhat's so interesting about it?\nJP :\nどういう点が不思議なんですか？"
+  },
+  {
+    "key": "78-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "78-content",
+    "original": "심장까지 가려고 많은 시간 준비하셨을 텐데 저희가 마침 딱 왔다는게요.",
+    "context": "EN :\nIsn't it interesting that, after all those years they spent preparing for their journey to the heart, we just happened to arrive as they were about to set sail~?\nJP :\n心臓まで行こうとして、長い間準備されてたのに\nちょうどいいとき僕たちが到着したということがですね。"
+  },
+  {
+    "key": "79-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "79-content",
+    "original": "운명이란 때로 그런 것 아니겠나. 나의 운명은 내가 이 창백한 고래의 심장을 꿰뚫게 하기 위해 움직이고 있다고 할 수 있지.",
+    "context": "EN :\nI have naught else to say but merely refer to the nature of fate. The threads of fate itself is weaved so that I, Ahab, shall be the one to pierce the heart of the Pallid Whale.\nJP :\n運命というのは時にそういうものであろう。私の運命は\n私がこの蒼白な鯨の心臓を貫くために動いていると言えるさ。"
+  },
+  {
+    "key": "80-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "80-content",
+    "original": "나는 이곳에서 너희들의 이빨을 다 합쳐도 모자랄 만큼 수많은 항해를 시도했으며, 곳곳을 돌아다녔고, 남김없이 기억하고 있다.",
+    "context": "EN :\nI have set more sails in the belly of this beast than the number of your gritted teeth combined. I have been to every nook and cranny of this place, all of which I clearly recall.\nJP :\n私はここで、お前さんたちの歯を全部合わせても足りないくらい\n沢山の航海を行ってきた。あちこち回って、残らず覚えている。"
+  },
+  {
+    "key": "81-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "81-content",
+    "original": "또한 나는 호수에서 이것의 가죽을 뚫어내기 위해 해보지 않은 시도가 없었지.",
+    "context": "EN :\nThere is no method upon this earth that I have not attempted to pierce this beast's hide.\nJP :\nそれに、私は湖でこれの皮をブチ抜くために\n試さなかったことはないといってもいい。"
+  },
+  {
+    "key": "82-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "82-content",
+    "original": "미리 수고를 덜어주자면, 세상의 모든 무기들을 쑤셔 박아도 이것의 가죽은 R사의 요새와 같아서 세상 그 어떤 것보다 단단하고 질길 거다.",
+    "context": "EN :\nSo allow me to preclude a few options for you. This beast's hide is as thick and impenetrable as R Corp.'s fortress. All the weapons in the world will not be able to pierce it.\nJP :\n前もって苦労を取り除いてやろう、この世の全ての武器を突き刺しても無駄さ。\nこれの皮はR社の要塞のように、この世のいかなるものより固くて丈夫だ。"
+  },
+  {
+    "key": "83-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "83-content",
+    "original": "언제나 박아 넣었어. 내 작살.",
+    "context": "EN :\nTried to stab it. With my Harpoon.\nJP :\nいつでも、つきさした。あたいのもり。"
+  },
+  {
+    "key": "84-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "84-content",
+    "original": "상처는 냈지만 뚫을 수 없어.",
+    "context": "EN :\nWound it, yes. Puncture a hole, no.\nJP :\nきずは、ついたけど。つらぬけない。"
+  },
+  {
+    "key": "85-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "85-content",
+    "original": "뭐, 믿지 못하겠다면 너희들이 들고 있는 그 무기들로 시도를 해봐도 좋겠지.",
+    "context": "EN :\nWell, If you find my words so difficult to believe, then feel free to give it a try with your own weapons.\nJP :\nまぁ、信じられないならお前さんたちが持ってる\nその武器で試してもいいだろう。"
+  },
+  {
+    "key": "86-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "86-content",
+    "original": "흠집조차도 나지 않았긴 했소만…",
+    "context": "EN :\nMine attempts hardly left a mark...\nJP :\n傷すら少しも付かなかったのは事実でありまするが…。"
+  },
+  {
+    "key": "87-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "87-content",
+    "original": "저자의 말이 정말이라면 쪽빛노인이나 LCA 팀의 시도가 다 소용이 없어진다는 거잖아…",
+    "context": "EN :\nIf she's right, then... It won't matter what the Indigo Elder does, and it won't matter what LCA does...\nJP :\nあの人の言うことが本当なら、藍色の老人や\nLCAチームの試みが全部無意味になるってことでしょ…。"
+  },
+  {
+    "key": "88-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "88-content",
+    "original": "시간이 지나도 구하러 올 수 없다는 거고…",
+    "context": "EN :\nIt won't matter how hard they'll try, they can't get us out of here...\nJP :\n時間が経っても誰も助けに来れないってことでもあるし…。"
+  },
+  {
+    "key": "89-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "89-content",
+    "original": "나는, 우리는 누구보다 알고 있다.",
+    "context": "EN :\nI... we know better than anyone.\nJP :\n私は、私たちは誰よりもよく分かっている。"
+  },
+  {
+    "key": "90-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "90-content",
+    "original": "아무도 구하러 오지 않는 이곳을 제정신으로 버티기란 힘들어.",
+    "context": "EN :\nThe crushing pain of surviving at a place such as this with no hope of rescue. No sane mind survives such torment for long.\nJP :\n誰も救いに来ないここで、\nマトモなまま耐えることは難しい。"
+  },
+  {
+    "key": "91-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "91-content",
+    "original": "불쌍한 우리 선원들을 보아라! 흰색의 점막이 금방이라도 온 몸을 덮을 것 같지만 필사적으로 버티고 있는 저들의 모습을!",
+    "context": "EN :\nBehold my pitiful crew! They hold on, tooth and nail, to their sense of self as the pallid membrane tries to devour them whole!\nJP :\n可哀想な我が船員たちを見ろ！白い粘膜がすぐにでも全身を\n覆いそうに見えるが、必死で耐えている彼らの姿を！"
+  },
+  {
+    "key": "92-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "92-content",
+    "original": "없어 여기. 아무것도. 어떤 것도.",
+    "context": "EN :\nNothing here. Nothing. None.\nJP :\nない、ここ。なにも。どんなものも。"
+  },
+  {
+    "key": "93-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "93-content",
+    "original": "위장에서 흘러 들어오는 배의 파편들을 건져 내며 퀴케그가 사냥해 온 인어들의 시체를 질겅이며 견디는 게 전부지.",
+    "context": "EN :\nWe can do naught here but scavenge the flotsam that washes up to its stomach. Mermaid corpses Queequeg brings back from her hunts are our only source of subsistence.\nJP :\n胃から流れてくる船の破片を掬い上げなから、クィークェグが\n狩ってきた人魚たちの死体を咀嚼しながら耐えるだけだ。"
+  },
+  {
+    "key": "94-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "94-content",
+    "original": "부드러워. 지느러미.",
+    "context": "EN :\nFins. Soft.\nJP :\nやわらかい。うろこ。"
+  },
+  {
+    "key": "95-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "95-content",
+    "original": "…대체 어떻게 견디는 거야…",
+    "context": "EN :\n... How the heck did you guys even survive here...?\nJP :\n…なんで耐えられたの。"
+  },
+  {
+    "key": "96-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "96-content",
+    "original": "단 하나. 선장님의 말만 따르면 언젠가 이곳을 나갈 거라는 믿음.",
+    "context": "EN :\nFaith. The faith that, as long as we foll...ow our Captain, she'll eventually lead us... out of here.\nJP :\nたった一つ。船長の命令にさえ、従えばいつか\nここをでれると、信じているから。"
+  },
+  {
+    "key": "97-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "97-content",
+    "original": "우린 그걸로 버티는 거야.",
+    "context": "EN :\nThat's the hope we hold onto.\nJP :\n俺たちは、それで、耐えてるんだ。"
+  },
+  {
+    "key": "98-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "98-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "99-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "99-content",
+    "original": "그러니 이것은 제안이다.",
+    "context": "EN :\nNow, give my offer a listen.\nJP :\nだからこれは提案だ。"
+  },
+  {
+    "key": "100-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "100-content",
+    "original": "이 선원들을 모두 구출할 의무가 있는… 나, 피쿼드호의 선장이자 피쿼드타운의 대장 에이해브가 너희에게 하는 제안.",
+    "context": "EN :\nI, Captain Ahab of the Pequod, the leader of the Pequod Town, have a responsibility to bring every single one of my crew home. Thus I make this offer to you.\nJP :\nここの船員たちを全員救出する義務がある…私、ピークォド号の船長兼\nピークォドタウンの長であるエイハブがお前さんたちに提示する提案。"
+  },
+  {
+    "key": "101-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "101-content",
+    "original": "나는 이놈의 심장을 터뜨릴 거다. 아주 오랫동안 준비를 해왔고, 이제는 실행만 남은 상태지.",
+    "context": "EN :\nI will destroy this bastard's heart. For long have I prepared; now, all that remains to be done is to set the plan in motion.\nJP :\n私はこの野郎の心臓をぶっ潰す。\nとても長い間準備をしてきて、今や実行するのみだ。"
+  },
+  {
+    "key": "102-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "102-content",
+    "original": "우리의 목적은 같지만, 전리품은 다르다.",
+    "context": "EN :\nOur goals are the same, yet we each seek different treasures.\nJP :\n私たちの目的は同じだが、戦利品は違う。"
+  },
+  {
+    "key": "103-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "103-content",
+    "original": "내 계획을 도와준다면 너희는 황금가지를 챙길 것이고, 우리는 이 고래를 잡고 바깥으로 나가게 되겠지.",
+    "context": "EN :\nAssist me in my plan. We will hunt this Whale and escape, and the Golden Bough shall be yours.\nJP :\n私の計画を手伝ってくれるならお前さんたちは黄金の枝を手に入れ、\n私たちはこの鯨を捕まえて外へ出ることになるだろう。"
+  },
+  {
+    "key": "104-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "104-content",
+    "original": "…잠시 이야기를 나누겠다.",
+    "context": "EN :\n... We must discuss this amongst ourselves first.\nJP :\n…少し相談をしよう。"
+  },
+  {
+    "key": "105-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "105-content",
+    "original": "얼마든지.",
+    "context": "EN :\nTake as much time as you want.\nJP :\nいくらでも。"
+  },
+  {
+    "key": "106-content",
+    "original": "에이해브는 관대한 미소를 지으며 고개를 끄덕였고, 우리는 사무실 끄트머리에 모여 머리를 맞댔다.",
+    "context": "EN :\nAhab nodded with a generous smile. We huddled in one corner of her office to discuss this.\nJP :\nエイハブは寛大そうな笑顔を作って頷き、\n私たちは事務室の端っこに集まって額を集めた。"
+  },
+  {
+    "key": "107-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "107-content",
+    "original": "이곳까지 타고 왔던 배는 복구가 불가능하다.",
+    "context": "EN :\nThe boat that carried us here is beyond salvaging.\nJP :\nここまで乗ってきた舟は復旧が不可能だ。"
+  },
+  {
+    "key": "108-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "108-content",
+    "original": "그리고, 이곳을 나가기 위해서는 다시 배가 필요하다.",
+    "context": "EN :\nThus, it follows that we require a new boat for us to escape the Whale.\nJP :\nそして、ここを抜け出すためには再び船を手に入れる必要がある。"
+  },
+  {
+    "key": "109-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "109-content",
+    "original": "더불어, 내부를 조사하기 위해서는 저 체액 위를 돌아다녀야 한다. 배는 그때도 필요할 것이다.",
+    "context": "EN :\nMoreover, moving across the bodily fluids of this Whale is necessary if we are to conduct an investigation of its interiors. For that, we require a new boat.\nJP :\n加えて、内部を調査するためにはあの体液の上を\n動き回る必要がある。船はそのときにも必要になるだろう。"
+  },
+  {
+    "key": "110-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "110-content",
+    "original": "흥, 여차하면 저 자들의 배를 강탈하는 것도…",
+    "context": "EN :\nHmph, then commandeering their vessel is also one of our options—\nJP :\nふん、いざとなればあいつらの船を強奪するのも…。"
+  },
+  {
+    "key": "111-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "111-content",
+    "original": "그렇게 다 들리게 말하시면 어떡해요…!",
+    "context": "EN :\nGuys, they can hear us! Pipe down!\nJP :\nそれをあっちにも聞こえる声で言ってどうするんですか…！"
+  },
+  {
+    "key": "112-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "112-content",
+    "original": "우리 배. 복잡해 조작법.",
+    "context": "EN :\nOur ship. Hard to sail. Complex.\nJP :\nあたいらのふね。ふくざつだ、そうだほうほう。"
+  },
+  {
+    "key": "113-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "113-content",
+    "original": "운전은 오로지 할 수 있어. 이곳 선원들만이.",
+    "context": "EN :\nOnly Pequod crew can handle Pequod boats.\nJP :\nうんてんは、できる。ここの、せんいんだけが。"
+  },
+  {
+    "key": "114-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "114-content",
+    "original": "결국 들렸잖아요…",
+    "context": "EN :\nWhat'd I say...?\nJP :\n聞こえたじゃないですか…。"
+  },
+  {
+    "key": "115-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "115-content",
+    "original": "…뗏목부터 시작하려면 시간은 어느 정도 걸리지?",
+    "context": "EN :\n... How much time would it take if we were to build a boat from scratch?\nJP :\n…いかだから作るなら、どれくらい掛かる？"
+  },
+  {
+    "key": "116-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "116-content",
+    "original": "아무 재료도 없는 상태에서 산성액에도 견딜 수 있을 재질로 제작하려면 예상 시간은 아마…",
+    "context": "EN :\nConsidering that we possess no necessary materials, considering that we must reinforce it to be resistant to the Whale's acid... The estimated time of completion is...\nJP :\n何の材料も無い状態で、酸性液にも耐えうる材質で\n制作するには予想時間は恐らく…。"
+  },
+  {
+    "key": "117-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "117-content",
+    "original": "<아냐, 그냥 계산하지 마…>",
+    "context": "EN :\n<No, no. Let's... not even think about that.>\nJP :\n<いや、計算しないで…。>"
+  },
+  {
+    "key": "118-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "118-content",
+    "original": "그러죠.",
+    "context": "EN :\nLet's not.\nJP :\nそうしましょう。"
+  },
+  {
+    "key": "119-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "119-content",
+    "original": "하, 제안이라… 예상한 만큼 개소리네요.",
+    "context": "EN :\nHa, so that's your offer? I could smell your bullshit coming from a mile away.\nJP :\nはぁ、提案か…予想通りふざけてますね。"
+  },
+  {
+    "key": "120-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "120-content",
+    "original": "저자는 언제나 같아요. 그럴듯한 개소리로 사람을 죽음까지 몰고 가죠.",
+    "context": "EN :\nShe's not changed one bit. Driving people to their deaths with bullshit that, at a glance, seems plausible.\nJP :\nあいつはいつも同じです。それっぽいふざけたことを言って、\n人を死にまで追いやっていくんですよ。"
+  },
+  {
+    "key": "121-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "121-content",
+    "original": "이번에도 다를 바 없어요.",
+    "context": "EN :\n... Nothing's changed.\nJP :\n今回も同じです。"
+  },
+  {
+    "key": "122-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "122-content",
+    "original": "저도… 뭔가 꺼림칙한 사람이라는 생각이 들어요. 우리끼리 할 방법은…",
+    "context": "EN :\nYeah... there's something off about her. Maybe we should just do this ourselves...\nJP :\n僕も…何だか胡散臭い気がしました。\n僕たちだけでやれる方法は…。"
+  },
+  {
+    "key": "123-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "123-content",
+    "original": "혓바닥이 길수록 조심해야 해.",
+    "context": "EN :\nRight. Never trust something that requires too much explainin'.\nJP :\n舌が長いほど気を付けにゃならねぇからな。"
+  },
+  {
+    "key": "124-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "124-content",
+    "original": "저 사람들은 심장을 터트리고 나가기 위해서 많은 시간을 쏟아부은 것 같은데… 우리가 당장 해결할 수 있는 걸까요?",
+    "context": "EN :\nI think they've spent a long time building a plan to destroy the heart and escape this place... Can we really do it on our own, from scratch?\nJP :\nあの人は心臓を潰して出るため、沢山の時間を\n注ぎ込んだと思うんですけど…僕たちだけですぐ解決出来るんですかね？"
+  },
+  {
+    "key": "125-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "125-content",
+    "original": "저희가… 언제까지 버틸 수 있을지도 잘 모르겠어요.",
+    "context": "EN :\nI... also don't know how long we could hold out in here.\nJP :\n僕たちが…いつまで耐えられるかもよく分からないじゃないですか。"
+  },
+  {
+    "key": "126-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "126-content",
+    "original": "그래… 저 선장만큼이나 이곳을 곳곳이 잘 알고 있는 자는 없어 보였지…",
+    "context": "EN :\nYeah... That Captain probably knows this place better than anyone...\nJP :\nうん…あの船長ほど、\nここを隅々まで知ってる人はいなさそうだったよね…。"
+  },
+  {
+    "key": "127-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "127-content",
+    "original": "그럼… 우리가 인어가 되어서 서로를 죽이려 하거나, 이곳에 영원히 갇히거나… 둘 중의 하나가 되는 거야?",
+    "context": "EN :\nSo our other options are... either turn into Mermaids and kill each other, or remain trapped in here forever. Are they really the only alternatives we've got?\nJP :\nじゃあ…俺たちが人魚になってお互いを殺そうとしたり、\nここに永遠に閉じ込められるかの…どっちかになるってことか？"
+  },
+  {
+    "key": "128-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "128-content",
+    "original": "붉은시선께서 우리를 버릴 리가 없소…! 흐어엉…",
+    "context": "EN :\nThe Red Gaze shall not abandon us...! Bwaah hah haaah...\nJP :\n赤い視線とあろうお方が我々を見捨てるわけありませぬ…！\nうわぁあん…。"
+  },
+  {
+    "key": "129-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "129-content",
+    "original": "이럴 때 의견 정하는 방법은 간단해. 배틀로얄이다.",
+    "context": "EN :\nWe're having trouble coming to an agreement. I will mediate. Let's battle to the last person standing, and have them decide.\nJP :\nこういうときに意見を決める方法は簡単さ。\nバトルロワイヤルだ。"
+  },
+  {
+    "key": "130-content",
+    "original": "당연하겠지만 수감자들 사이에서 의견이 조금씩 나뉘고 있었다. 좁혀질 것 같지 않은 형태로.",
+    "context": "EN :\nThe Sinners were all expressing their opinions... which were all very diametrically opposed to one another with little hope of meeting somewhere in the middle.\nJP :\n当然だけど、囚人たちの間で意見が少しずつ割れている。\n集束しなさそうな形で。"
+  },
+  {
+    "key": "131-content",
+    "original": "그리고 나는…",
+    "context": "EN :\nAnd I...\nJP :\nそして私は…。"
+  },
+  {
+    "key": "132-content",
+    "original": "에이해브가 지나칠 정도로 우리를 꿰뚫고 있다는 점이 마음에 걸렸다.",
+    "context": "EN :\n... was unnerved by how easily Ahab managed to see right through us.\nJP :\nエイハブが私たちのことを見通しすぎているという点が引っかかった。"
+  }
+]

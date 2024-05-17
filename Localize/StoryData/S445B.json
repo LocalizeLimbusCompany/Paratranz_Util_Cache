@@ -1,0 +1,569 @@
+[
+  {
+    "key": "0-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "0-content",
+    "original": "어.이.",
+    "context": "EN :\nE. Y.\nJP :\nお、イ。"
+  },
+  {
+    "key": "1-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "1-content",
+    "original": "…부른 거요?",
+    "context": "EN :\n...Did you call?\nJP :\n…お呼びか？"
+  },
+  {
+    "key": "2-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "2-content",
+    "original": "네 친구라고 들러붙어 대는 저 자. 무슨 관계지.",
+    "context": "EN :\nThat man who keeps clinging to us claiming to be your friend. What's the relationship?\nJP :\nお前の友達って引っ付くあいつ。どういう関係だ。"
+  },
+  {
+    "key": "3-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "3-content",
+    "original": "보이는 그대로, 끊어진 지 오래된 연이요.",
+    "context": "EN :\nAs can be seen, the tie has long been severed.\nJP :\n見しままに、切れて久しき縁なり。"
+  },
+  {
+    "key": "4-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "4-content",
+    "original": "난 원래 간섭하는 것도 싫고, 긴말은 더 싫어하지만…",
+    "context": "EN :\nI don't like butting in, and I hate speaking for long even more...\nJP :\n俺は元々干渉するのも嫌いで、長い話はもっと嫌いなタチだが…。"
+  },
+  {
+    "key": "5-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "5-content",
+    "original": "아무것도 모르는 척하는, 저 동랑이라는 새끼 웃음이 가증스러워서 말해주는 거다.",
+    "context": "EN :\nBut I'm telling you this since the smile of that ignorance-feigning scoundrel Dongrang is detestable.\nJP :\n何も知らないフリをする、あのドンランって野郎の笑いが憎らしくて言ったからな。"
+  },
+  {
+    "key": "6-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "6-content",
+    "original": "깔끔하게 비어있어서 더 추했던, 눈에 띄는 그 책상.",
+    "context": "EN :\nThat one desk, one that was even more disgusting than the others because it was clean and empty.\nJP :\n綺麗に空いてたせいでより醜くく見えた、目立つあの机。"
+  },
+  {
+    "key": "7-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "7-content",
+    "original": "그 밑에 네 놈 이름표가 붙어 있었어.",
+    "context": "EN :\nThe nametag below it had your name.\nJP :\nあの下にお前の名札が付いていた。"
+  },
+  {
+    "key": "8-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "8-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "9-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "9-content",
+    "original": "<처음부터 이상을 그 자리에 앉힐 마음으로 준비했다는 거야?>",
+    "context": "EN :\n<He was planning to give Yi Sang that position all along?>\nJP :\n<最初からイサンをその席に座らせるつもりで準備したってこと？>"
+  },
+  {
+    "key": "10-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10-content",
+    "original": "말로만 듣던 헤드헌팅이라도 꾸미고 있는 걸까요? 기업 간의 도의에 어긋나는 행위거나 그런 거 아닌가요?",
+    "context": "EN :\nDo you think he's trying to headhunt him? That's supposedly a violation of moral principles between firms or something like that, isn't it?\nJP :\n話に聞くヘッドハンティングでも計画してるんですかね？企業間の道義に反する行為だったりするんじゃないですか？"
+  },
+  {
+    "key": "11-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "11-content",
+    "original": "환. 장.",
+    "context": "EN :\nBAFFLED.\nJP :\nあ・ほ。"
+  },
+  {
+    "key": "12-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "12-content",
+    "original": "…또 뭘 줄여 말하는 건데요?",
+    "context": "EN :\n...What's that supposed to be an acronym for?\nJP :\n…今度は何を省略したんですか？"
+  },
+  {
+    "key": "13-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "13-content",
+    "original": "안 줄였다. 환장하겠으니 한 말이다.",
+    "context": "EN :\nIt's not. I'm just baffled.\nJP :\n縮めてない。アホだと思ったから言った。"
+  },
+  {
+    "key": "14-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "14-content",
+    "original": "주황 머리, 뱃일을 오래 했다고 했나? 해결사로?",
+    "context": "EN :\nOrange hair, you say you used to work on a ship for a long while? As a Fixer?\nJP :\nオレンジ髪、船仕事を長年やってきたと言ったか？フィクサーとして？"
+  },
+  {
+    "key": "15-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "15-content",
+    "original": "날개나 회사들에 대한 환상이 지나치다. 대호수에 오래 떠 있더니 상식이라는 것도 물고기 떡밥으로 던져버렸나?",
+    "context": "EN :\nYou have serious delusions about Wings and firms. Did you dump your common sense into the great lake as chum?\nJP :\n翼や会社に対する幻想が行き過ぎている。大湖に長く浮かんでいたせいで、常識というものを魚の練り餌にして投げ捨てたのか？"
+  },
+  {
+    "key": "16-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "16-content",
+    "original": "이 세계에서 도의, 도리 따위를 따지다니…유머로서는 제법 우습군.",
+    "context": "EN :\nBringing up morality in the world we live in... Pretty amusing for a joke.\nJP :\nこの世界で道義、道理なぞを叫ぶだなんて…ユーモアとしては中々笑えるな。"
+  },
+  {
+    "key": "17-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "17-content",
+    "original": "기업 간의 인재 스카우팅이나 이직은 이익과 효율에 따라 이루어진다.",
+    "context": "EN :\nHeadhunting and changing jobs between firms are done based on interests and efficiency.\nJP :\n企業間の人材スカウトや移籍は、利益と効率によって行われる。"
+  },
+  {
+    "key": "18-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "18-content",
+    "original": "헷, 너도 촌뜨기나 다름없구만. 아니지, 배뜨기냐?",
+    "context": "EN :\nHeh, so you're a hillbilly in your own language, eh. Or should I say boatbilly?\nJP :\nへっ、オメェも土臭ぇのは同じだな。いや、磯臭ぇか。"
+  },
+  {
+    "key": "19-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "19-content",
+    "original": "이익…",
+    "context": "EN :\nErggh...\nJP :\nうぅっ…。"
+  },
+  {
+    "key": "20-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "20-content",
+    "original": "<설사 그럴 마음이었다 해도… 말 그대로 이상하잖아.>",
+    "context": "EN :\n<Even if that was the case... This really is strange.>\nJP :\n<もしそうするつもりだったとしても…おかしいじゃないか。>"
+  },
+  {
+    "key": "21-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "21-content",
+    "original": "<이상의 마음은 알 바가 아니라는 것처럼…>",
+    "context": "EN :\n<He's not taking Yi Sang's thoughts into account at all...>\nJP :\n<イサンの気持ちは知ったこっちゃないみたいに…。>"
+  },
+  {
+    "key": "22-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "22-content",
+    "original": "괘념치 마시오. 마음이라는 것은 썩 변변찮은 것이니.",
+    "context": "EN :\nPay it no heed. Thoughts are rather meager things.\nJP :\n懸念することなかれ。心というものは、碌でもなきものなり。"
+  },
+  {
+    "key": "23-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "23-content",
+    "original": "박제당하는 삶이 퍽 익숙하오.",
+    "context": "EN :\nI am quite used to the life of being taxidermied.\nJP :\n剥製せらるる生に、いと慣れたり。"
+  },
+  {
+    "key": "24-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "24-content",
+    "original": "괘념치 않는다니요? 이상 씨, 이곳에 입사한 이유가…",
+    "context": "EN :\nAre you sure you don't mind? Yi Sang, when you joined the company...\nJP :\n懸念しないでってどういうことですか？イサンさん、ここに入社した理由が…。"
+  },
+  {
+    "key": "25-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "25-content",
+    "original": "애초에 저희… 모두 같은 제안을 들었던 게 아닌가요?",
+    "context": "EN :\nNo, actually... Didn't all of us receive the same offer?\nJP :\nそもそも僕たち…みんな同じ提案を受けたわけじゃないんですか？"
+  },
+  {
+    "key": "26-content",
+    "original": "입사 제안.",
+    "context": "EN :\nThe job offer.\nJP :\n入社提案。"
+  },
+  {
+    "key": "27-content",
+    "original": "내게는 성위를 새겨주겠다는 조건이, 제안이었다.",
+    "context": "EN :\nIn my case, I was promised I'd get my aspect carved.\nJP :\n私は星位を刻ませるという条件が、提案だった。"
+  },
+  {
+    "key": "28-content",
+    "original": "기억도 온전치 못한 주제에 그 단어를 듣자마자 나는 홀린 듯이 고개를 끄덕였지.",
+    "context": "EN :\nI could barely remember a thing, but as soon as I heard that word, I nodded as if I was possessed.\nJP :\n記憶も完全じゃない癖してその単語を聞くや否や、私は取り憑かれたように首を縦に振った。"
+  },
+  {
+    "key": "29-content",
+    "original": "마치 내가 승낙을 할 수밖에 없다는 걸 아는 듯한 그 태도는…",
+    "context": "EN :\nThey acted like they knew my only choice would be to accept it...\nJP :\nまるで私が承諾するしかないことを知っているかのようなあの態度は…。"
+  },
+  {
+    "key": "30-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "30-content",
+    "original": "만약 이 곳에 입사를 한다면…",
+    "context": "EN :\nIf I joined this company...\nJP :\nもしここに入社するなら…。"
+  },
+  {
+    "key": "31-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "31-content",
+    "original": "그리한다면…",
+    "context": "EN :\nWhen I do...\nJP :\nさすれば…。"
+  },
+  {
+    "key": "32-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "32-content",
+    "original": "간절히 원하는 것을…",
+    "context": "EN :\nThe thing I wished for dearly...\nJP :\n切に望みしものを…。"
+  },
+  {
+    "key": "33-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "33-content",
+    "original": "매일 밤 자기 전마다 되뇌어 오던것을…",
+    "context": "EN :\nThe thing I recited to myself every night...\nJP :\n毎晩寝る前に繰り返し呟いてきたことを···。"
+  },
+  {
+    "key": "34-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "34-content",
+    "original": "그래, 불가능하다고 생각했던 것을…",
+    "context": "EN :\nYes, the thing I thought would be impossible...\nJP :\nあぁ、不可能だと思っていたことを…。"
+  },
+  {
+    "key": "35-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "35-content",
+    "original": "이뤄줄 수 있다고, 말했었죠. 분명히.",
+    "context": "EN :\nThey promised to make it a possibility. Most certainly.\nJP :\n叶えてあげられると、言いました。確かに。"
+  },
+  {
+    "key": "36-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "36-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "37-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "37-content",
+    "original": "우리에 대해 대체 얼마나 치밀하게 조사를 해 온 거야?",
+    "context": "EN :\nHow thoroughly did they look into our backgrounds?\nJP :\n俺たちについて、一体どれだけ緻密に調査してきたんだよ？"
+  },
+  {
+    "key": "38-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "38-content",
+    "original": "하… 아까 읽었던 그 소망을 이뤄주는 동화? 딴 데가 아니라 여기 있었네.",
+    "context": "EN :\nHah... Guess we had our version of wish-granting tales just like that storybook we read earlier.\nJP :\nはぁ…さっき読んでたあの願いを叶えてくれる童話？そんなんがどこにあんだよって思ったらここにあったよ。"
+  },
+  {
+    "key": "39-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "39-content",
+    "original": "사실 그 소망조차도 허무에 지나지 않은 바람이었소.",
+    "context": "EN :\nIn truth, even that wish was no more than a futile dream.\nJP :\nはや、その望みすら虚無に過ぎぬ願いなりけり。"
+  },
+  {
+    "key": "40-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "40-content",
+    "original": "사실은 그렇게 간절하지 않았다… 이거야? 그러면 너는 여기에 왜 입사했냐?",
+    "context": "EN :\nWhat, you weren't that desperate for it? Why did you join, then?\nJP :\n実はそこまで切実じゃなかった…ってことか？じゃあなんでお前はここに入社したんだよ？"
+  },
+  {
+    "key": "41-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "41-content",
+    "original": "그저…",
+    "context": "EN :\nSimply...\nJP :\nただ…。"
+  },
+  {
+    "key": "42-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "42-content",
+    "original": "하도 걷다 보니 발이 너무 아팠소. 마침 소낙도 찾아왔고.",
+    "context": "EN :\nI walked for so long that my feet hurt. A shower of rain was pouring down as well.\nJP :\n真日長く歩み続けたりて、足がいと痛かりけり。ちょうど夕立も訪れきたり。"
+  },
+  {
+    "key": "43-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "43-content",
+    "original": "그리고 눈앞의 버스는 퍽 편안해 보였다오.",
+    "context": "EN :\nThe bus I saw then appeared rather inviting.\nJP :\nかくて目の前のバスは、いと快適に見えき。"
+  },
+  {
+    "key": "44-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "44-content",
+    "original": "하. 그게 끝이 아니었을 텐데?",
+    "context": "EN :\nHah. That can't be it, can it?\nJP :\nはっ。それで終わりじゃなかっただろ？"
+  },
+  {
+    "key": "45-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "45-content",
+    "original": "우리는 모두…",
+    "context": "EN :\nWe all...\nJP :\n俺たちは皆…。"
+  },
+  {
+    "key": "46-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "46-content",
+    "original": "거기까지.",
+    "context": "EN :\nThat's enough of it.\nJP :\nそこまで。"
+  },
+  {
+    "key": "47-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "47-content",
+    "original": "취업 규칙 중엔 입사 계약서의 구체적인 내용에 대한 누설 금지도 포함되어 있습니다.",
+    "context": "EN :\nOur company rules forbid disclosing the contents of the job contract in detail.\nJP :\n就業規則の中には、入社契約書の具体的な内容に関する漏洩禁止も含まれております。"
+  },
+  {
+    "key": "48-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "48-content",
+    "original": "같은 처지인 주제에 혼자 으스대는 척. 역겹군.",
+    "context": "EN :\nActing all high and mighty when you're in the same boat with the rest. Foul.\nJP :\n同じ立場の癖して吹かしてるそのザマ、腹立つな。"
+  },
+  {
+    "key": "49-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "49-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "50-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "50-content",
+    "original": "계속 나아가죠.",
+    "context": "EN :\nLet's proceed.\nJP :\n進み続けましょう。"
+  },
+  {
+    "key": "51-content",
+    "original": "그제야 떠올랐다.",
+    "context": "EN :\nThat's when a thought struck me.\nJP :\n今になって思い出した。"
+  },
+  {
+    "key": "52-content",
+    "original": "대다수 수감자와는 달리, 이상은 고통스럽더라도 그 소리를 입 밖으로 꺼내지 않는다.",
+    "context": "EN :\nUnlike most other Sinners, Yi Sang wouldn't vocalize his pain.\nJP :\n大多数の囚人とは異なり、イサンは苦しくてもその声を口の外へは出さない。"
+  },
+  {
+    "key": "53-content",
+    "original": "그래서, 꼭 뒤늦게 발견하는 일이 잦았다.",
+    "context": "EN :\nBecause of that, I would often discover his injuries late.\nJP :\nそのため、遅れて発見することが多かった。"
+  },
+  {
+    "key": "54-content",
+    "original": "그 수많은 고통은, 어디로 삼키고 있었던 걸까.",
+    "context": "EN :\nWhere has he been holding all that pain?\nJP :\nその数多の苦痛を、どこへと呑み込んでいたのだろうか。"
+  },
+  {
+    "key": "55-content",
+    "original": "스쳐 가듯 보았던, 그의 메워지지 않는 구멍이 떠올랐다.",
+    "context": "EN :\nI was reminded of the void in his chest I caught a glimpse of.\nJP :\n掠めるように見えた、彼の埋まらない穴が思い浮かんだ。"
+  },
+  {
+    "key": "56-content",
+    "original": "삼키기는 커녕… 흘러 나가고 있던 것은 아니었을까.",
+    "context": "EN :\nWas he keeping it in... or was it spilling out?\nJP :\n呑み込むどころか…零れ出ていたんじゃないだろうか。"
+  }
+]

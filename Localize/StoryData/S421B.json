@@ -1,0 +1,577 @@
+[
+  {
+    "key": "0-place",
+    "original": "K사 로보토미 지부 어딘가",
+    "context": "EN :\nNest K - LC Branch Interior\nJP :\nK社 ロボトミー支部のどこか"
+  },
+  {
+    "key": "0-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "0-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "0-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "0-content",
+    "original": "슈렌느, 파편이 몸에 튀었는데 얼른 주입하는 게 낫지 않겠어?",
+    "context": "EN :\nShrenne, you've got shrapnel wounds, are you sure you don't want to use an ampule?\nJP :\nシュレンヌ。破片が身体に飛んできたんだし、注入した方が良くない？"
+  },
+  {
+    "key": "1-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "1-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "1-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "1-content",
+    "original": "괜찮아…",
+    "context": "EN :\nI'm fine...\nJP :\n大丈夫…。"
+  },
+  {
+    "key": "2-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "2-content",
+    "original": "슈렌느 라는 자… 아까부터 멍해 보이는데 괜찮은 건가?",
+    "context": "EN :\nThat Shrenne fella... She's looking kinda blank-faced, is she okay?\nJP :\nシュレンヌという人…さっきからぼーっとしてるけど大丈夫か？"
+  },
+  {
+    "key": "3-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "3-content",
+    "original": "멍하다… 하, 아니지. 멍이나 때릴 리가 없지.",
+    "context": "EN :\nBlank-faced... Hah, of course not. She couldn't be so carefree.\nJP :\nぼーっと…。はっ、いや。ぼーっとしてるわけないよな。"
+  },
+  {
+    "key": "4-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "4-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "5-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "5-content",
+    "original": "이로써 분명해졌군.",
+    "context": "EN :\nThis makes it evident.\nJP :\nこれではっきりした。"
+  },
+  {
+    "key": "6-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "6-content",
+    "original": "테러범들은 진작에 대피를 했다. 이곳엔 우리를 즉사시키려고 혈안이 된 살인마들만 있었을 뿐.",
+    "context": "EN :\nThe terrorists long since made their leave. All that's left were bloodthirsty murderers hellbent on killing us.\nJP :\nテロリストたちはとっくに退避していた。ここには私たちを即刻殺そうと血眼になっている殺人鬼しかいない。"
+  },
+  {
+    "key": "7-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "7-content",
+    "original": "내 쪽에선 판단을 끝냈다. 어이, 그쪽은 어떻게 생각하지?",
+    "context": "EN :\nI've made my judgement. Hey, what do you think?\nJP :\n私からの判断は以上だ。おい、そっちはどう思う？"
+  },
+  {
+    "key": "8-content",
+    "original": "오티스가 뫼르소를 고갯짓으로 가리켰다.",
+    "context": "EN :\nOutis nudged her head at Meursault.\nJP :\nウーティスがムルソーを顎で示した。"
+  },
+  {
+    "key": "9-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "9-content",
+    "original": "그 판단에 동의한다.",
+    "context": "EN :\nI agree with it.\nJP :\nその判断に同意する。"
+  },
+  {
+    "key": "10-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "10-content",
+    "original": "무, 무슨 말을 하시는 거예요, 두 분?",
+    "context": "EN :\nWha, what are you two talking about?\nJP :\nな、何を言ってるんですか、二人とも？"
+  },
+  {
+    "key": "11-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "11-content",
+    "original": "이곳에 배신자가 있다는 것. 의심할 여지가 없는 상황이다.",
+    "context": "EN :\nThere's a traitor in our ranks. No doubt remains in the matter.\nJP :\nここに裏切り者がいるということ。疑いの余地がない状況だ。"
+  },
+  {
+    "key": "12-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "12-content",
+    "original": "우리가 출발했을 때부터, 이미 정보가 새어 나갔다는 것이지.",
+    "context": "EN :\nIt's thanks to this spy that our course and plans were leaked from the moment we departed.\nJP :\n私たちが出発したときから、既に情報が漏れていたということだ。"
+  },
+  {
+    "key": "13-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "13-content",
+    "original": "추후, 더 많은 피해를 막기 위해서라도 지금 이 자리에서 즉시 처분하는 것이 옳다.",
+    "context": "EN :\nTo prevent further damage, it is right to dispose of them here and now.\nJP :\n後々起こり得るより大きな被害を防ぐためにも、今この場で即時処分するのが正しい。"
+  },
+  {
+    "key": "14-content",
+    "original": "배신자.",
+    "context": "EN :\nTraitor.\nJP :\n裏切り者。"
+  },
+  {
+    "key": "15-content",
+    "original": "낯선 단어가 그의 입에 언급되는 걸 멍하니 지켜보았다.",
+    "context": "EN :\nI blankly watched as he brought up a concept foreign to me.\nJP :\n聞き慣れない単語が彼の口から出る光景をぼんやりと見守った。"
+  },
+  {
+    "key": "16-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "16-content",
+    "original": "우리 중에는 가능성이 드물 테니 연구소, 네 놈들의 수하들을 의심해야 합리적이다.",
+    "context": "EN :\nAs it's unlikely to be one of us, the rational course of action is to suspect your institute's lackeys.\nJP :\n私たちである可能性はまずないから研究所、お前たちの手下を疑うことが合理的だ。"
+  },
+  {
+    "key": "17-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "17-content",
+    "original": "작전은 취소해야 합니다, 관리자님. 이딴 말도 안 되는 놀음에 휘말리는 건…",
+    "context": "EN :\nThis mission must be abandoned, Executive Manager. To allow ourselves to be involved in this nonsense is...\nJP :\n作戦は破棄されねばなりません、管理人様。こんな馬鹿げた遊びに巻き込まれるのは…。"
+  },
+  {
+    "key": "18-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "18-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "18-content",
+    "original": "불쾌합니다. 서얼마 저희를 의심하는 겁니까? 적어도 입사한 지 만 1년조차도 안 지난 여러분들보다는 신뢰 있는 관계라고 단언할 수 있습니다만…",
+    "context": "EN :\nI am repulsed by your accusation. Are you seriously suspecting us? I can assure you that we trust each other better than you people who haven't even been in the same firm for a year...\nJP :\n不快です。まっさか僕たちを疑うんですか？少なくとも入社してから一年しか経っていない皆さんよりかは、信頼の置ける関係だと断言できますが…。"
+  },
+  {
+    "key": "19-content",
+    "original": "삼조가 안경을 미친 듯이 번뜩이면서 반론했다.",
+    "context": "EN :\nSamjo argued, flashes of light furiously bouncing off his glasses.\nJP :\nサムジョが眼鏡を狂ったようにギラギラさせながら反論した。"
+  },
+  {
+    "key": "20-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "20-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "20-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "20-content",
+    "original": "아니에요, 삼조. 충분히 그럴 듯한 가설이네요. 나 같아도 그렇게 말했을 거예요.",
+    "context": "EN :\nNo, Samjo. Their hypothesis sounds plausible. I would've said the same.\nJP :\nいいえ、サムジョ。十分あり得る仮説ですね。僕でもそう言ったと思います。"
+  },
+  {
+    "key": "21-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "21-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "21-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "22-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "22-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "22-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "22-content",
+    "original": "당신들, 뭔가 할 말이 있는 것이죠?",
+    "context": "EN :\nYou have something to say, don't you?\nJP :\nあなたたち、何か言うことがありますよね？"
+  },
+  {
+    "key": "23-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "23-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "23-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "23-content",
+    "original": "동랑 님…",
+    "context": "EN :\nMr. Dongrang...\nJP :\nドンランさん…。"
+  },
+  {
+    "key": "24-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "24-content",
+    "original": "저 해결사 집단들, 이곳에 들어올 때부터 재생 앰플을 단 한 번도 사용하지 않더군.",
+    "context": "EN :\nThat group of Fixers haven't used regeneration ampules a single time since they came in here.\nJP :\nあのフィクサー集団、ここに入ってきてから再生アンプルをたったの一度も使用しなかったな。"
+  },
+  {
+    "key": "25-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "25-content",
+    "original": "제정신이 박힌 전투원이라면, 억지로 뺏어서라도 쓰려 들 텐데 말이지.",
+    "context": "EN :\nAny sane combatant would kill to have those.\nJP :\n正気ってものがまともに備わってる戦闘員なら、無理矢理奪ってでも使おうとするはずなのに。"
+  },
+  {
+    "key": "26-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "26-content",
+    "original": "한 가지 더 있다.",
+    "context": "EN :\nThere is one more thing.\nJP :\nもう一つある。"
+  },
+  {
+    "key": "27-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "27-content",
+    "original": "란이라는 자와 마주쳤을 때…",
+    "context": "EN :\nWhen we encountered Ran...\nJP :\nランという者と対面したとき…。"
+  },
+  {
+    "key": "28-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "28-content",
+    "original": "저들만이 일정 거리를 두려는 행동을 보였다. 폭발할 걸 사전에 알고 있다고 볼 수밖에.",
+    "context": "EN :\nThey were distancing themselves from her in advance. The only explanation is that they knew there would be an explosion.\nJP :\nあの者達のみが一定の距離を置く行動を見せた。爆発することを事前に知っていたと判断するしか。"
+  },
+  {
+    "key": "29-model",
+    "original": "니코",
+    "translation": "尼柯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "29-teller",
+    "original": "니코",
+    "context": "EN :\nNiko\nJP :\nニコ"
+  },
+  {
+    "key": "29-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "29-content",
+    "original": "어이쿠… 제가 유독 직감이 뛰어난 편이라고는 왜 아무도 생각을 안 하시나요?",
+    "context": "EN :\nOh, bother... Why not consider the possibility that my intuition is just that keen?\nJP :\nありゃぁ…私がかなり直感の優れてるタイプだってどうして誰も思わないんですかね？"
+  },
+  {
+    "key": "30-model",
+    "original": "니코",
+    "translation": "尼柯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "30-teller",
+    "original": "니코",
+    "context": "EN :\nNiko\nJP :\nニコ"
+  },
+  {
+    "key": "30-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "30-content",
+    "original": "애들이랑 저랑은 유독 뛰어나게 건강한 체질이라 재생 앰플을 투여 안 한 것뿐이라면?",
+    "context": "EN :\nWhat if we weren't using the ampules because these buddies and I are built healthy?\nJP :\nうちの子らと私はひときわ優れた健康体質だから、再生アンプルを投与してないだけなら？"
+  },
+  {
+    "key": "31-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "31-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "31-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "31-content",
+    "original": "흠… 혹시 몰라 가져온 진실의 약 하나가 있는데, 이걸 먹고 대답하면 믿어드리죠.",
+    "context": "EN :\nHm... I've brought a truth tablet just in case. I'll believe you if you testify the same after taking it.\nJP :\nふむ…万が一のために持ってきた真実の薬が一つあるんですが、これを飲んでお答えするなら信じて差し上げますよ。"
+  },
+  {
+    "key": "32-model",
+    "original": "니코",
+    "translation": "尼柯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "32-teller",
+    "original": "니코",
+    "context": "EN :\nNiko\nJP :\nニコ"
+  },
+  {
+    "key": "32-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "32-content",
+    "original": "진실의 약? 그 빨간 거? 그런 수상한 걸 어떻게 믿고 먹나…?",
+    "context": "EN :\nTruth tablet? That red thing? How can I take that suspicious-looking drug...?\nJP :\n真実の薬？その赤いの？そんな怪しいのを飲めって…？"
+  },
+  {
+    "key": "33-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "33-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "33-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "33-content",
+    "original": "너희는 선택의 여지가 없는 거 아닌가요? 이상하다, 나라면 먹던가… 아님 쩔쩔 매면서 변명이라도 하려고 할 텐데.",
+    "context": "EN :\nSorry, did you have a choice here? How strange, if I were you, I would take the tablet... or make more desperate excuses.\nJP :\n君たちには選択の余地がないんじゃないですか？変だなぁ、僕なら飲むか…あるいは慌てふためきながら言い訳でもすると思うんですけど。"
+  },
+  {
+    "key": "34-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "34-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "34-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "34-content",
+    "original": "죄다 수틀린 것 마냥 의심을 지울 기회를 걷어차는 게, 나 죽여주세요~ 하는 것 같네요.",
+    "context": "EN :\nYou're so gladly squandering your chances to clear yourselves of suspicion, it's almost like you're asking to be killed.\nJP :\nみんな不満そうに疑惑を消すチャンスを蹴ってるの、まるで「殺してくださ～い」って言ってるみたいですね。"
+  },
+  {
+    "key": "35-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "35-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "35-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "35-content",
+    "original": "…아니면 다 죽여야겠다고 마음먹었다던가?",
+    "context": "EN :\n...Or did you decide to kill us all and get away with it?\nJP :\n…あるいは全員殺さないと、って決心したとか？"
+  },
+  {
+    "key": "36-model",
+    "original": "니코",
+    "translation": "尼柯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "36-teller",
+    "original": "니코",
+    "context": "EN :\nNiko\nJP :\nニコ"
+  },
+  {
+    "key": "36-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "36-content",
+    "original": "연구원이래서 논문이나 쓰는 줄 알았는데… 소설을 쓰고 있네, 미친 새끼가.",
+    "context": "EN :\nI thought a researcher's job was writing papers... and you're out here writing fiction, you deranged maniac.\nJP :\n研究員だから論文ばっか書いてると思ったら…小説を書くのもお上手なんだな、クソ野郎が。"
+  },
+  {
+    "key": "37-content",
+    "original": "니코라는 자는 무기를 꺼내 들어 우리를 향해 겨눴다.",
+    "context": "EN :\nNiko raised his weapon and pointed it at us.\nJP :\nニコという者が武器を取り出し、私たちに向かって突き付けてきた。"
+  },
+  {
+    "key": "38-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "38-content",
+    "original": "궁지에 몰리면 쫄린 쪽이 먼저 이빨을 드러내기 마련이지?",
+    "context": "EN :\nShowing your true selves now that you're cornered, eh?\nJP :\n窮地に追いやられたら、ビビった方が先に牙を向けるもんだよなァ？"
+  },
+  {
+    "key": "39-model",
+    "original": "니코",
+    "translation": "尼柯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "39-teller",
+    "original": "니코",
+    "context": "EN :\nNiko\nJP :\nニコ"
+  },
+  {
+    "key": "39-title",
+    "original": "장미스패너 공방",
+    "context": "EN :\nRosespanner Workshop\nJP :\nバラのスパナ工房"
+  },
+  {
+    "key": "39-content",
+    "original": "슬롯머신 한탕 하기 특별 비법까지 알려줬는데. 이렇게 보답하는 거에요?",
+    "context": "EN :\nI even taught you my secret to winning at the slot machines, and this is how you return the favor?\nJP :\nスロットマシンで一発儲ける奥の手まで教えてあげたってのに。お返しがこれでございますか？"
+  }
+]

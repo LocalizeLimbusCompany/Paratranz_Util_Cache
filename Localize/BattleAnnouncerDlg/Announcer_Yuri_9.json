@@ -1,0 +1,147 @@
+[
+  {
+    "key": "announcer_cheer_9_1-dlg",
+    "original": "여기다가 말하면 녹음되는 건가요…? 아, 힘내세요!",
+    "context": "EN :\nIs the recorder on? Do I speak through here...? Oh, good luck!\nJP :\nここに喋れば録音されるんですか…？あっ、頑張ってください！"
+  },
+  {
+    "key": "announcer_cheer_9_2-dlg",
+    "original": "제가 도움이 될지는 모르겠지만… 노력해보겠습니다.",
+    "context": "EN :\nI don't know how much help I will be... but I'll try my best.\nJP :\n私がお役に立てるか分からないですけど…頑張ってみます。"
+  },
+  {
+    "key": "announcer_specialcheer_9_1-dlg",
+    "original": "괜찮으세요…? 그 공격에 많이들 다치신 것 같은데요…",
+    "context": "EN :\nAre you guys okay...? That attack seemed painful...\nJP :\n大丈夫ですか…？あの攻撃でみんな怪我したみたいですけど…。"
+  },
+  {
+    "key": "announcer_specialcheer_9_2-dlg",
+    "original": "으… 여러분들, 많이 다치신 것 같아요…",
+    "context": "EN :\nOh no... You guys look pretty hurt...\nJP :\nうぅ…皆さん、酷く怪我されてるみたいです…。"
+  },
+  {
+    "key": "announcer_enemy_break_9_1-dlg",
+    "original": "저기, 저 개체부터 처리하면 편할 것 같아요.",
+    "context": "EN :\nThat entity over there, let's take that one out first.\nJP :\nその、あの個体から片付けたら楽だと思います。"
+  },
+  {
+    "key": "announcer_ally_break_9_1-dlg",
+    "original": "조심하셔야 해요… 정신이나 몸이 다친 동료들은 어떻게 바뀔지 모르니까요…",
+    "context": "EN :\nBe careful... People with damaged minds or bodies, even if they're your friends, are unpredictable...\nJP :\n気を付けてください…精神や身体が傷付いた仲間が、どう変わるか分かりませんからね…。"
+  },
+  {
+    "key": "announcer_killenemy_9_1-dlg",
+    "original": "조금씩 나아가고 있네요. 계속 힘내주세요…!",
+    "context": "EN :\nYou're doing it. Don't give up...!\nJP :\n少しずつ良くなってますね。このまま頑張ってください…！"
+  },
+  {
+    "key": "announcer_ally_dead_9_1-dlg",
+    "original": "다, 단테 님… 정말 살려내실 수 있는 거죠…?",
+    "context": "EN :\nD-Dante, you can bring them back... right?\nJP :\nだ、ダンテさん…本当に生き返らせられるんですよね…？"
+  },
+  {
+    "key": "announcer_enemy_adv_9_1-dlg",
+    "original": "총체적 난국이예요… 머릿 속에서… 또 경보가 울리는 것 같아…",
+    "context": "EN :\nThis is a mess... It's like I can... almost hear the sirens again...\nJP :\n総体的難局です…頭の中で…また警報が鳴ってるみたい…。"
+  },
+  {
+    "key": "announcer_ally_adv_9_1-dlg",
+    "original": "상황이 좋다고 할 수는 없지만… 여러분은 하실 수 있을 거예요.",
+    "context": "EN :\nThe situation isn't ideal... But I know you guys can do it!\nJP :\n状況が良いとは言えませんけど…皆さんならやれますよ。"
+  },
+  {
+    "key": "announcer_danger_9_1-dlg",
+    "original": "지금이 집중할 때예요. 마지막까지, 직면해주세요.",
+    "context": "EN :\nYou have to focus now. Face it, to the end.\nJP :\n今が集中しどきです。最後まで、直面してください。"
+  },
+  {
+    "key": "announcer_enemy_specialskill_9_1-dlg",
+    "original": "곧 위험한 공격이 찾아올 거예요…! 대처하실 수 있죠?",
+    "context": "EN :\nA powerful attack incoming...! You guys got this, right?\nJP :\n直に危険な攻撃が来ます…！対処できますよね？"
+  },
+  {
+    "key": "announcer_enemy_specialgimmick_9_1-dlg",
+    "original": "입에서 갑자기 쓴 맛이… 위험한 일이 있을 때마다 이랬는데…?",
+    "context": "EN :\nA bitter taste in my mouth... It always happens right before imminent danger...?!\nJP :\n急に口に酸っぱいのが…危ないことがあるたびにこうだったけど…？"
+  },
+  {
+    "key": "announcer_advatk_physical_9_1-dlg",
+    "original": "칼날이 잘 드네요… 아마 그 공격이 약점이었겠죠?",
+    "context": "EN :\nThat's a sharp blade. I'm guessing that's their weakness, huh?\nJP :\n切れ味が良いですね…きっとあの攻撃が弱点だったんですよね？"
+  },
+  {
+    "key": "announcer_disadvatk_physical_9_1-dlg",
+    "original": "아… 그 공격은 적합하진 않아보이네요. 관리법에 적어둬야…",
+    "context": "EN :\nOh... That didn't work so well. I'll have to write it down in the management logs...\nJP :\nあ…その攻撃は合わなさそうですね。管理方法に書いておかなきゃ…。"
+  },
+  {
+    "key": "announcer_advatk_attr_9_1-dlg",
+    "original": "적합한 관리법이었어요. 다행이예요.",
+    "context": "EN :\nGood management work. What a relief.\nJP :\n適切な管理方法でした。よかったです。"
+  },
+  {
+    "key": "announcer_disadvatk_attr_9_1-dlg",
+    "original": "그 개체는 다른 방법이 적절하지 않았을까요…",
+    "context": "EN :\nMaybe a different method would've worked better against that entity...\nJP :\nその個体は他の方法が適切だったと思うんですけど…。"
+  },
+  {
+    "key": "announcer_enemy_specialbuff_9_1-dlg",
+    "original": "적 개체가 기세등등해보여요. 조금 주의하면서 해보는게 좋을 것 같아요.",
+    "context": "EN :\nThe hostile entity is getting revved up. Let's try to approach this carefully.\nJP :\n敵個体が勢い付いてます。少し気を付けながらやった方が良いと思います。"
+  },
+  {
+    "key": "announcer_enemy_specialdebuff_9_1-dlg",
+    "original": "앗, 저것들이 뭔가 기운이 없어요! 기회가 온 걸까요?",
+    "context": "EN :\nHuh?! Looks like they're weakened...! Is this our chance?\nJP :\nあ、何だか気が抜けてるようです！チャンスが来たんですかね？"
+  },
+  {
+    "key": "announcer_ally_specialbuff_9_1-dlg",
+    "original": "여러분들, 기분이 좋아보이시네요.",
+    "context": "EN :\nHey, you guys are in high spirits.\nJP :\n皆さん、気分が優れないようですね。"
+  },
+  {
+    "key": "announcer_ally_specialdebuff_9_1-dlg",
+    "original": "단테 님… 수감자 분들에게 잠시 휴식을 권유해 보는 건 어떨까요…",
+    "context": "EN :\nDante... How about a quick break for the Sinners...?\nJP :\nダンテさん…囚人の皆さんにしばらく休憩を勧めるのはどうでしょうか…。"
+  },
+  {
+    "key": "announcer_enemy_destroy_9_1-dlg",
+    "original": "부위 하나가 끊어졌네요! 이제 좀 수월해지겠어요.",
+    "context": "EN :\nYou guys broke off a part! Hopefully things will ease up a little now.\nJP :\n部位一つを断ち切れましたね！これで少しは楽になりそうです。"
+  },
+  {
+    "key": "announcer_enemy_destroy_9_2-dlg",
+    "original": "결손 부위에 따른 관리법도 적어둬야 할텐데…",
+    "context": "EN :\nI should record how to manage entities with missing parts...\nJP :\n欠損部位の別の管理方法も書いておくべきなんですけど…。"
+  },
+  {
+    "key": "announcer_round_takebigdmg_9_1-dlg",
+    "original": "세상에…! 여러분들, 괜찮으세요?",
+    "context": "EN :\nOh no...! Are you okay, everyone?\nJP :\nそんな…！皆さん、大丈夫ですか？"
+  },
+  {
+    "key": "announcer_round_takebigdmg_9_2-dlg",
+    "original": "너무 강한 공격이었어요… 문제 없었으면 좋겠는데요…",
+    "context": "EN :\nThat was a really powerful attack... I hope everyone's okay...\nJP :\n強すぎる攻撃でした…。問題がないと良いんですけど…。"
+  },
+  {
+    "key": "announcer_round_givebigdmg_9_1-dlg",
+    "original": "와! 방금 어떻게 하신 거죠? 깜짝 놀랐어요…!",
+    "context": "EN :\nWoah! How did you do that? That totally caught me off guard...!\nJP :\nわぁ！さっきのどうやったんですか？びっくりしました…！"
+  },
+  {
+    "key": "announcer_round_givebigdmg_9_2-dlg",
+    "original": "아까 했던 공격 덕에 한결 수월해진 것 같아요… 좋네요!",
+    "context": "EN :\nI think your earlier attack made things a bit easier... Nice!\nJP :\nさっきの攻撃のおかげで一層楽になったみたいです…いいですね！"
+  },
+  {
+    "key": "announcer_multikillenemy_9_1-dlg",
+    "original": "한 번에 이렇게나… 마치 마탄같네요…",
+    "context": "EN :\nSo many at once... Just like Der Freischütz...\nJP :\n一度でこんなに…まるで魔弾みたいですね…。"
+  },
+  {
+    "key": "announcer_equip_9_1-dlg",
+    "original": "유리… 예요. 갑자기 이런걸 시키시니 당황스럽네요…",
+    "context": "EN :\nYuri... here. I didn't think they'd be asking me to do something like this...\nJP :\nユーリ…です。急にこんなことを任せられて戸惑ってます…。"
+  }
+]

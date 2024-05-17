@@ -1,0 +1,794 @@
+[
+  {
+    "key": "0-content",
+    "original": "피 묻은 지도 위의 장소를 찾아가다 보니…",
+    "context": "EN :\nThe location, as marked by the pirate's blood, led us to...\nJP :\n血の付いた地図の場所を辿ると…。"
+  },
+  {
+    "key": "1-place",
+    "original": "청새치 항구선 클럽 앞",
+    "context": "EN :\nMarlin Port Club Entrance\nJP :\nマカジキ港船 クラブ前"
+  },
+  {
+    "key": "1-content",
+    "original": "우리는 어느새 요란한 음악 소리가 새어 나오고 있는 클럽 앞에 다다라 있었다.",
+    "context": "EN :\n... The entrance of a club. Faint music could be heard echoing out from behind the doors.\nJP :\n私たちはいつの間にか騒々しい音楽が漏れ出しているクラブの前に到着していた。"
+  },
+  {
+    "key": "2-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "2-content",
+    "original": "<여기… 라는 거야?>",
+    "context": "EN :\n<So... this is the place?>\nJP :\n<ここ…ってこと？>"
+  },
+  {
+    "key": "3-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "3-content",
+    "original": "…우리 중에 이런 요란한 클럽. 가본 사람?",
+    "context": "EN :\n... Any of us been to a loud, flamboyant, deluxe dance club like this before?\nJP :\n…私たちの中にこういう騒がしいクラブ。行ったことある人？"
+  },
+  {
+    "key": "4-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "4-content",
+    "original": "굳이 우리 중에 고르자면… 당신 말고는 어울릴 만한 사람이 없어 보이는데.",
+    "context": "EN :\nWell, if I had to guess... My bet would be on you.\nJP :\nあえて俺らの中で選ぶとしたら…あんた以外に\n似合いそうな人はいなさそうなんだけどな。"
+  },
+  {
+    "key": "5-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "5-content",
+    "original": "그거 편견이야~ 우리 뒷골목에는 이렇게 화려한 술집은 거의 없었어.",
+    "context": "EN :\nOh, come on~ A flashy bar like this? At my Backstreets?\nJP :\nそれって偏見だよ～。\nうちの裏路地にはこんな華やかな酒屋はなかったからね。"
+  },
+  {
+    "key": "6-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "6-content",
+    "original": "장사가 잘될 리가 없었잖아. 그치?",
+    "context": "EN :\nI doubt it would've had much business back there, hmm?\nJP :\n商売上手くいくわけないでしょ。ねっ？"
+  },
+  {
+    "key": "7-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "7-content",
+    "original": "뭐… 뒷골목에서 몰래 벌이는 파티 같은 건 있었지만, 그럴 때마다 소냐가 매번 귀신같이 알아채서 잡아 왔었지~",
+    "context": "EN :\nPeople would sometimes host secret Backstreets parties, but Sonya somehow always caught on~\nJP :\nまぁ…裏路地でこっそり開くパーティーとかはあったけど、そのたびに\nソーニャがエスパーみたいに察知して捕まえてったんだよね～。"
+  },
+  {
+    "key": "8-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "8-content",
+    "original": "<그래서, 이런 건 왜 묻는 거야?>",
+    "context": "EN :\n<So, why are we talking about this?>\nJP :\n<それで、どうしてそんなこと聞くんだ？>"
+  },
+  {
+    "key": "9-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "9-content",
+    "original": "모르겠어, 단테? 입구에 경호원들이 있잖아.",
+    "context": "EN :\nDon't you see, Dante? Bouncers, at the gate.\nJP :\n分かんないの、ダンテ？入口に警備員がいるでしょ。"
+  },
+  {
+    "key": "10-model",
+    "original": "쌍갈고리파조직원3",
+    "translation": "双钩海盗团成员3",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "문지기",
+    "context": "EN :\nBouncer\nJP :\nドアマン"
+  },
+  {
+    "key": "10-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "10-content",
+    "original": "몇 명이서 오셨죠?",
+    "context": "EN :\nWelcome; how many do you have with you today?\nJP :\n何人ですか？"
+  },
+  {
+    "key": "11-model",
+    "original": "클럽손님",
+    "translation": "会所客人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "손님",
+    "context": "EN :\nGuest\nJP :\nゲスト"
+  },
+  {
+    "key": "11-title",
+    "original": "U사",
+    "context": "EN :\nU Corp.\nJP :\nU社"
+  },
+  {
+    "key": "11-content",
+    "original": "두 명. 섭섭하네, 나, 기억 안 나? 명단에도 올려져 있는데.",
+    "context": "EN :\nTwo. Come on, man. Don'tcha remember me? I'm on the list.\nJP :\n二名。寂しいなぁ、覚えてない？\nリストにも書いてあるのに。"
+  },
+  {
+    "key": "12-model",
+    "original": "쌍갈고리파조직원3",
+    "translation": "双钩海盗团成员3",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "문지기",
+    "context": "EN :\nBouncer\nJP :\nドアマン"
+  },
+  {
+    "key": "12-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "12-content",
+    "original": "아… 죄송합니다. 확인했습니다. 들어오시죠. ",
+    "context": "EN :\nAh... my apologies. Please, enter. \nJP :\nあ…申し訳ございません。確認しました。\nお入りください。"
+  },
+  {
+    "key": "13-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "13-content",
+    "original": "저것 봐, 저것 봐. 뭔가 쑥덕거리면서 물어보잖아. 자연스럽게 저걸 뚫어야 한다는 건데…",
+    "context": "EN :\nLook, look! They're checking something with the guests before letting them in. We gotta squeeze in there all smooth somehow...\nJP :\n見て見て！何か喋りながら聞いてくるでしょ。\n自然にアレを突破しなきゃならないってことだけど…。"
+  },
+  {
+    "key": "14-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "14-content",
+    "original": "흐으음… 그럼… 그 다음으로 많이 갈 만한 사람은…",
+    "context": "EN :\nWelp, since Rodya's out... Next in the line is...\nJP :\nうぅ～ん…じゃあ…じゃあその次に行きそうな人は…。"
+  },
+  {
+    "key": "15-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "15-content",
+    "original": "아? 뭐야, 나?",
+    "context": "EN :\nHuh? What, me?\nJP :\nあ？なんだ、オレ？"
+  },
+  {
+    "key": "16-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "16-content",
+    "original": "무슨 말 같지도 않은 소리야! 죽을래?",
+    "context": "EN :\nThe hell are you blathering about? I'll smash your skull in!\nJP :\nなに馬鹿なこと言ってんだ！死にてぇか？"
+  },
+  {
+    "key": "17-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "17-content",
+    "original": "음~ 나라면 어느 정도는 칭찬으로 받아들일 것 같은데. 히스?",
+    "context": "EN :\nMm~ I'd take that as a compliment if I were you, Heath~\nJP :\nう～ん、私ならそれなりの褒め言葉として受けるんだけど。\nヒース？"
+  },
+  {
+    "key": "18-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "18-content",
+    "original": "으흠… 그, 그런가?",
+    "context": "EN :\nAhem... S-should I?\nJP :\nおほん…そ、そうなのか？"
+  },
+  {
+    "key": "19-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "19-content",
+    "original": "크흠. 뭐, 기대를 깨 버리게 되어서 아쉽지만… 난 좀 더 피와 땀과 의리로 섞여 있는 그런 조직 출신이라서 말이야.",
+    "context": "EN :\nKhm. Sorry to disappoint, but my Syndicate was less about music and dance and more about... blood, loyalty, things like that.\nJP :\nうぇっほん。まぁ、期待を裏切ってすまねぇけどよ…オレは\nどっちかというと血と汗と義理に生きてるみてぇな組織出身だかんな。"
+  },
+  {
+    "key": "20-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "20-content",
+    "original": "아쉽지만, 저런 삐까뻔적한 곳보다는 허름한 탁자에서 마시던 낡은 술집이 내겐 더 가까워.",
+    "context": "EN :\nI'm more of a small watering hole or an old pub bloke than a fancy clubber. Gettin' sloshed, drinkin' from old rickety tables... Yeah, that's more like it.\nJP :\n残念だが、あんなキラキラしたところよりかは\n粗末なテーブルに座って飲んでたボロい酒屋のが近いかな。"
+  },
+  {
+    "key": "21-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "21-content",
+    "original": "나.",
+    "context": "EN :\nMe.\nJP :\n俺。"
+  },
+  {
+    "key": "22-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "22-content",
+    "original": "음악과 함께 울려 퍼지는 비명들. 피범벅 벽지. 꺾여 있는 관절로 춤을 추는…",
+    "context": "EN :\nMusic: Screams of fear and pain. Deluxe: Walls painted red with blood. Dance: People with crushed joints, forced to dance...\nJP :\n音楽と共に鳴り響く数々の悲鳴。\n血塗れの壁紙。折れた関節で踊る…。"
+  },
+  {
+    "key": "23-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "23-content",
+    "original": "그런 건… 클럽이 아냐.",
+    "context": "EN :\nYeah, that's... not a club.\nJP :\nそういうのは…クラブって言わないんだ。"
+  },
+  {
+    "key": "24-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "24-content",
+    "original": "역시… 아무도 없는 건가?",
+    "context": "EN :\nWell, I can't think of anyone else, then...\nJP :\nやっぱり…誰もいないのか？"
+  },
+  {
+    "key": "25-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "25-content",
+    "original": "가보았다.",
+    "context": "EN :\nI have been to such a club.\nJP :\n行ったことがある。"
+  },
+  {
+    "key": "26-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "26-content",
+    "original": "다소, 자주.",
+    "context": "EN :\nQuite often.\nJP :\n多少、よく。"
+  },
+  {
+    "key": "27-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "27-content",
+    "original": "<…….>",
+    "context": "EN :\n<......>\nJP :\n<……。>"
+  },
+  {
+    "key": "28-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "28-content",
+    "original": "…농, 농담이지?",
+    "context": "EN :\n... Y-you're joking.\nJP :\n…じょ、冗談だろ？"
+  },
+  {
+    "key": "29-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "29-content",
+    "original": "농담이 아니다. 왜 그렇게 생각하는지 모르겠군.",
+    "context": "EN :\nI am not. I fail to see why that is difficult for you to accept.\nJP :\n冗談ではない。どうしてそう思うのか分からないな。"
+  },
+  {
+    "key": "30-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "30-content",
+    "original": "인생에서 즐길 거리를 찾으러 돌아다닐 무렵에 방문한 곳 중 하나일 뿐이다.",
+    "context": "EN :\nIt was merely one of the places I visited when I used to wander in search of life's joys.\nJP :\n人生で楽しむべきものを探し回していた頃に訪問した場所のうちの一つでしかない。"
+  },
+  {
+    "key": "31-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "31-content",
+    "original": "저 클럽의 절차를 관찰해 보니 프라이빗 클럽으로 보인다. 프라이빗 클럽은 방문하기 전, 입구에 서 있는 문지기들의 허가를 받아야 입장이 가능하다.",
+    "context": "EN :\nA cursory observation of their procedures reveals that it is, in fact, a private club. As a general rule, visitors must receive the bouncers' permission prior to entry.\nJP :\nあのクラブの流れを観察してみるに、プライベートクラブに見える。\nプライベートクラブには訪問する前、入口で立っているドアマンの\n許可を得なければ入場できない。"
+  },
+  {
+    "key": "32-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "32-content",
+    "original": "문지기들은 대체로 평균 이상의 덩치를 소유하고 있었으며, 무기 또한 소유하고 있다.",
+    "context": "EN :\nMost bouncers are of above-average mass and are likely to be armed.\nJP :\nドアマンは大抵平均以上の体格を有しており、武器も所有している。"
+  },
+  {
+    "key": "33-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "33-content",
+    "original": "이들 사이를 무사히 지나가려면…",
+    "context": "EN :\nKey elements to getting past the bouncers are...\nJP :\nこれらの者の間を無事に通過するには…。"
+  },
+  {
+    "key": "34-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "34-content",
+    "original": "일반적인 클럽이라면… 그게 맞는 말이겠지만.",
+    "context": "EN :\nYou'd be right... if this was just any other club.\nJP :\n一般的なクラブなら…それは正しいだろうけど。"
+  },
+  {
+    "key": "35-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "35-content",
+    "original": "이스…?",
+    "context": "EN :\nIshy...?\nJP :\nイシュ…？"
+  },
+  {
+    "key": "36-content",
+    "original": "이스마엘은 우리를 지나치며 클럽 입구 쪽으로 곧장 걸어갔다.",
+    "context": "EN :\nIshmael walked past us and up to the club entrance.\nJP :\nイシュメールは私たちの間を通り過ぎながら、クラブの入口まで歩いて行った。"
+  },
+  {
+    "key": "37-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "37-content",
+    "original": "이곳은 조직의 보스가 있는 공간. 당연히 일반적이지 않은 방식으로 입장하지 않는 방식도 있을 테고.",
+    "context": "EN :\nThis is a home to a leader of a Syndicate. The question you should be asking is... what are the *other* ways of entering this establishment?\nJP :\nここは組織のボスがいる空間。\n当然、一般的じゃない方法で入場する方法もあるはず。"
+  },
+  {
+    "key": "38-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "38-content",
+    "original": "그 답도, 조직원에게 있겠죠.",
+    "context": "EN :\nAnd I'm sure the answer lies with a Syndicate member.\nJP :\nその答えも、組員にあるでしょう。"
+  },
+  {
+    "key": "39-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "39-content",
+    "original": "단순하지 않나요?",
+    "context": "EN :\nEasy enough, right?\nJP :\n単純じゃないですか？"
+  },
+  {
+    "key": "40-model",
+    "original": "쌍갈고리파조직원3",
+    "translation": "双钩海盗团成员3",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "40-teller",
+    "original": "문지기",
+    "context": "EN :\nBouncer\nJP :\nドアマン"
+  },
+  {
+    "key": "40-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "40-content",
+    "original": "어떻게 오셨죠?",
+    "context": "EN :\nWhat brings you here, if I may ask?\nJP :\nなにでいらっしゃいましたか？"
+  },
+  {
+    "key": "41-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "41-content",
+    "original": "저는…",
+    "context": "EN :\nI...\nJP :\n私は…。"
+  },
+  {
+    "key": "42-model",
+    "original": "쌍갈고리파조직원3",
+    "translation": "双钩海盗团成员3",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "42-teller",
+    "original": "문지기",
+    "context": "EN :\nBouncer\nJP :\nドアマン"
+  },
+  {
+    "key": "42-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "42-content",
+    "original": "…?",
+    "context": "EN :\n...?\nJP :\n…？"
+  },
+  {
+    "key": "43-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "43-content",
+    "original": "저는… 퀴케그의… 친구예요.",
+    "context": "EN :\nI'm... Queequeg's... friend.\nJP :\n私は…クィークェグの…友人です。"
+  },
+  {
+    "key": "44-model",
+    "original": "쌍갈고리파조직원3",
+    "translation": "双钩海盗团成员3",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "44-teller",
+    "original": "문지기",
+    "context": "EN :\nBouncer\nJP :\nドアマン"
+  },
+  {
+    "key": "44-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "44-content",
+    "original": "네가… 뭐라고?",
+    "context": "EN :\nYou're... whose friend?\nJP :\nお前…何だって？"
+  },
+  {
+    "key": "45-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "45-content",
+    "original": "퀴케그.",
+    "context": "EN :\nQueequeg.\nJP :\nクィークェグ。"
+  },
+  {
+    "key": "46-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "46-content",
+    "original": "그 이름을 알고 있겠죠?",
+    "context": "EN :\nYou recognized that name, didn't you?\nJP :\nその名前は知っていますよね？"
+  },
+  {
+    "key": "47-content",
+    "original": "이스마엘이 내뱉은 이름을 듣자마자 문지기는 그럴 리 없다는 표정으로 그녀를 쳐다보았다.",
+    "context": "EN :\nAt the mere mention of that name, the bouncer's expression changed from that of indifference to disbelief.\nJP :\nイシュメールの吐いた言葉を聞くとドアマンは\nそんなわけは無いという表情で彼女を見つめた。"
+  },
+  {
+    "key": "48-model",
+    "original": "쌍갈고리파조직원3",
+    "translation": "双钩海盗团成员3",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "48-teller",
+    "original": "문지기",
+    "context": "EN :\nBouncer\nJP :\nドアマン"
+  },
+  {
+    "key": "48-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "48-content",
+    "original": "잠깐…",
+    "context": "EN :\nWait...\nJP :\n待て…。"
+  },
+  {
+    "key": "49-model",
+    "original": "쌍갈고리파조직원3",
+    "translation": "双钩海盗团成员3",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "49-teller",
+    "original": "문지기",
+    "context": "EN :\nBouncer\nJP :\nドアマン"
+  },
+  {
+    "key": "49-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "49-content",
+    "original": "$@$#@$@#….",
+    "context": "EN :\n$@$#@$@#….\nJP :\n$@$#@$@#…。"
+  },
+  {
+    "key": "50-content",
+    "original": "문지기가 목소리를 낮추더니 은밀하게 무전기로 무언가를 전달한다.",
+    "context": "EN :\nThe bouncer whispers something into the radio.\nJP :\nドアマンが声を潜めると、そっと無線機に何かを吹き込んだ。"
+  },
+  {
+    "key": "51-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "51-content",
+    "original": "<정말 들여보내 주려는 모양인가?>",
+    "context": "EN :\n<Is he really going to let us in?>\nJP :\n<本当に入れてくれるのかな？>"
+  },
+  {
+    "key": "52-model",
+    "original": "쌍갈고리파조직원3",
+    "translation": "双钩海盗团成员3",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "52-teller",
+    "original": "문지기",
+    "context": "EN :\nBouncer\nJP :\nドアマン"
+  },
+  {
+    "key": "52-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "52-content",
+    "original": "당신이 정말 퀴케그의 친구라는 건가?",
+    "context": "EN :\nAre you truly a friend of this Queequeg?\nJP :\nお前は本当にクィークェグの友人か？"
+  },
+  {
+    "key": "53-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "53-content",
+    "original": "…그렇다면요?",
+    "context": "EN :\n... What if I am?\nJP :\n…そうなら？"
+  },
+  {
+    "key": "54-model",
+    "original": "쌍갈고리파조직원3",
+    "translation": "双钩海盗团成员3",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "54-teller",
+    "original": "문지기",
+    "context": "EN :\nBouncer\nJP :\nドアマン"
+  },
+  {
+    "key": "54-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "54-content",
+    "original": "지금 어디 있지?",
+    "context": "EN :\nWhere is Queequeg?\nJP :\n今どこにいる？"
+  },
+  {
+    "key": "55-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "55-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "56-model",
+    "original": "쌍갈고리파조직원3",
+    "translation": "双钩海盗团成员3",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "56-teller",
+    "original": "문지기",
+    "context": "EN :\nBouncer\nJP :\nドアマン"
+  },
+  {
+    "key": "56-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "56-content",
+    "original": "보스께서 물어보신다.",
+    "context": "EN :\nIt's the Boss askin'.\nJP :\nボスがお訊ねしている。"
+  },
+  {
+    "key": "57-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "57-content",
+    "original": "그러니까… 당신들 보스가 지금 이 안에 있다는 거네요.",
+    "context": "EN :\nRight... so your Boss is in the club, huh.\nJP :\nつまり…あなたのボスが今この中にいるってことですね。"
+  },
+  {
+    "key": "58-model",
+    "original": "쌍갈고리파조직원3",
+    "translation": "双钩海盗团成员3",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "58-teller",
+    "original": "문지기",
+    "context": "EN :\nBouncer\nJP :\nドアマン"
+  },
+  {
+    "key": "58-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "58-content",
+    "original": "다시 한번 묻는다. 퀴케그는…",
+    "context": "EN :\nI ask again. Where is Queeq...\nJP :\nもう一度訊く。クィークェグは…。"
+  },
+  {
+    "key": "59-teller",
+    "original": "쌍갈고리?",
+    "context": "EN :\nThe Twinhooks?\nJP :\n双鉤?"
+  },
+  {
+    "key": "59-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "59-content",
+    "original": "우리 쌍갈고리가 향하는 중… 다시 말한다. 우리 쌍갈고리가…",
+    "context": "EN :\nThe Twinhooks are on our way. I repeat. We are...\nJP :\n我々双鉤(そうこう)が向かう…もう一度訊く。我々双鉤が…。"
+  },
+  {
+    "key": "60-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "60-content",
+    "original": "<안에 조용히 들어가려는 계획 아니었어?!>",
+    "context": "EN :\n<I thought we were trying to sneak in?!>\nJP :\n<中へ静かに入る計画じゃなかったの！？>"
+  },
+  {
+    "key": "61-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "61-content",
+    "original": "아뇨.",
+    "context": "EN :\nNo.\nJP :\nいいえ。"
+  },
+  {
+    "key": "62-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "62-content",
+    "original": "이 안에 조직의 보스가 있는지 확인할 방법일 뿐이었죠. 대가리가 가장 많은 정보를 알고 있을 테니 가장 빠르고 확실하죠.",
+    "context": "EN :\nI just wanted to know if their Boss was home. We should be able to get all the intel we want from them.\nJP :\nこの中に組織のボスがいるか確認する方法というだけです。\n頭領が一番多くの情報を知っているだろうから、一番早くて確実です。"
+  }
+]

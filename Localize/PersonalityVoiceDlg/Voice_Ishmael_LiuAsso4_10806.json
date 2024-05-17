@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10806_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10806_1-dlg",
+    "original": "저를 부르셨나요? 앗 뜨… 네, 무슨 일이죠?",
+    "context": "EN :\nYou called me? Ow, my tongue's burning... Right, how can I help?\nJP :\n私を呼びましたか？あちっ…はい、何事でしょうか？"
+  },
+  {
+    "key": "lobby_morning_10806_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10806_1-dlg",
+    "original": "아무리 몸쓰는 일이 많다곤 해도… 오전에는 저희도 서류작업이 꽤 있는 편이죠. 회의도 하고요.",
+    "context": "EN :\nAs often as we get physical... we still have paperwork to take care of in the morning. There are meetings, too.\nJP :\nいくら力仕事が多いとはいえ…午前は私たちも書類仕事が結構あるんですよね。会議もやりますし。"
+  },
+  {
+    "key": "lobby_noon_10806_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10806_1-dlg",
+    "original": "자~ 밥 먹고 하죠, 이번에도 우육면 먹으러 갈 거면 안 따라 갈 거라고요? 아니, 그럼 주변에 거기 만한 데가 또 있나요?",
+    "context": "EN :\nAlright~ Let's go eat something first. You aren't gonna follow along if it's beef noodles again? I mean, what other place around here serves meals that good?\nJP :\nさぁ～ご飯食べてからにしましょう、今度も牛肉麺食べに行かないなら付いて行きませんからね？いや、じゃあこのあたりにあの店くらいのところがあるんですか？"
+  },
+  {
+    "key": "lobby_night_10806_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10806_1-dlg",
+    "original": "하… 밤 훈련 때는 선글라스라도 써야 할까봐요. 자꾸 불꽃이 올라오는 탓에 눈이 너무 아파요.",
+    "context": "EN :\nHaah... Maybe I should wear sunglasses for night training. All the flickering flames are hard on my eyes.\nJP :\nはぁ…夜の訓練のときはサングラスでもかけた方が良いですかね。何度も炎が立ち上るせいで目が痛すぎます。"
+  },
+  {
+    "key": "smalltalk_10806_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10806_1-dlg",
+    "original": "여기요? 네, 자주 오죠. 단골인걸요.",
+    "context": "EN :\nThis venue? Sure, I go often. I'm a regular.\nJP :\nここですか？はい、結構来ます。常連ですね。"
+  },
+  {
+    "key": "smalltalk_10806_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10806_2-dlg",
+    "original": "이 옷에 새겨진 자수는 월광석으로 만들어진 것이에요. 높은 과에 배정받을 때 마다 무늬가 늘어난다고 하더라고요.",
+    "context": "EN :\nThis clothing's embroidery was made with moonlight stones. I heard higher sections get more of these fancyworks.\nJP :\nこの服に縫われた刺繍は月光石で作られたものです。高い課に配置されるたびに模様が増えると言われましたね。"
+  },
+  {
+    "key": "smalltalk_10806_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10806_3-dlg",
+    "original": "분위기가 좋은 것 같다고요? 뭐… 그렇게 보일 수도 있겠네요. 저희야 워낙, 모여서 부대끼는 일이 잦으니까요.\n흥, 하지만 식사자리에는 잘 안 따라와 주는 걸요.",
+    "context": "EN :\nWe look like we get along fine? Well... I see how you get that impression. We gather up and rub shoulders with each other pretty much all the time, after all.\nHmph, and yet they won't join me to dine nearly as often.\nJP :\n雰囲気良さそう…ですか？まぁ…そう見えるかも知れませんね。私たちは結構、集団で苦労に揉まれることが多いですからね。\nふん、でも食事にはあんまり付き合ってくれないんですけど。"
+  },
+  {
+    "key": "smalltalk_10806_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10806_4-dlg",
+    "original": "리우 협회에서는 워낙 다양한 권법이나 무술을 배울 수 있는 기회가 있는데 저는 팔극권이 취향에 맞더라고요.",
+    "context": "EN :\nLiu Association offers opportunities to learn all kinds of martial arts and techniques, Bajiquan was my personal favorite.\nJP :\nリウ協会ではかなり多彩な拳法や武術を学べる機会がありますけど、私の場合は八極拳が好みにぴったりだったんですよね。"
+  },
+  {
+    "key": "smalltalk_10806_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10806_5-dlg",
+    "original": "아… 날붙이에 어떻게 대응하냐고요? 훗, 이 자켓은 그런 것에 쉽게 뚫리지 않는답니다. 저보다 더 윗 과에 계신 분들의 원단은 더 한 것도 막을 걸요?",
+    "context": "EN :\nAh... You wanna know how we deal with sharp weapons? Heh, this jacket isn't easily penetrated by the likes of them. The fabric used by my coworkers in higher sections can stop even more, I think?\nJP :\nあぁ…刃物にどう対応するか、ですか？フッ、このジャケットはそんなものじゃ簡単に破れないんですよ。私よりもっと上の課にいらっしゃる方々の生地は、もっとやばいものも防げると思いますよ？"
+  },
+  {
+    "key": "gacksung_10806_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10806_1-dlg",
+    "original": "…그렇군요. 더 호출이 잦아지겠네요. 뭐, 권법을 더 단련 해두죠.",
+    "context": "EN :\n...I see. I'll get busier, won't I. Well, I'll be training myself to prepare for it.\nJP :\n…なるほど。呼び出しがより頻繁になりそうですね。まぁ、もっと拳法の鍛錬に励んでおきますか。"
+  },
+  {
+    "key": "neglect_10806_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10806_1-dlg",
+    "original": "음… 다음에 먹을 메뉴나… 찾아볼까?",
+    "context": "EN :\nHmm... Should I look up... what to eat next?\nJP :\nうーん…次に食べるメニューでも…探しておこっかな？"
+  },
+  {
+    "key": "formation_10806_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10806_1-dlg",
+    "original": "함께하죠.",
+    "context": "EN :\nI'm with you.\nJP :\n共に行きます。"
+  },
+  {
+    "key": "battleentry_10806_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10806_1-dlg",
+    "original": "제가 앞에 서죠.",
+    "context": "EN :\nI'll take the front.\nJP :\n私が前に立ちましょう。"
+  },
+  {
+    "key": "battle_select_10806_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10806_1-dlg",
+    "original": "가까이 오지 마세요. 다치십니다.",
+    "context": "EN :\nKeep your distance. You'll get yourself hurt.\nJP :\n近寄らないでください。怪我されますよ。"
+  },
+  {
+    "key": "battle_endcommand_10806_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10806_1-dlg",
+    "original": "순식간에 끝내죠.",
+    "context": "EN :\nI'll end this in a moment.\nJP :\n一瞬で終わらせます。"
+  },
+  {
+    "key": "battle_enemy_break_10806_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10806_1-dlg",
+    "original": "한 놈…",
+    "context": "EN :\nThat's one...\nJP :\n一丁…。"
+  },
+  {
+    "key": "battle_break_10806_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10806_1-dlg",
+    "original": "크윽…",
+    "context": "EN :\nKgh...\nJP :\nくぅっ…。"
+  },
+  {
+    "key": "battle_kill_10806_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10806_1-dlg",
+    "original": "보냈고!",
+    "context": "EN :\nDown the gutter!\nJP :\nあがり！"
+  },
+  {
+    "key": "battle_dead_10806_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10806_1-dlg",
+    "original": "아… 우육… 면… 먹고 싶… 네.",
+    "context": "EN :\nAgh... I could... really use... a bowl of beef... noodles.\nJP :\nあぁ…牛肉…麺…食べたい…な。"
+  },
+  {
+    "key": "choice_success_p_10806_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10806_2-dlg",
+    "original": "이 정도는 쉽죠.",
+    "context": "EN :\nThis is no trouble at all.\nJP :\nこの程度、簡単です。"
+  },
+  {
+    "key": "choice_fail_n_10806_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10806_1-dlg",
+    "original": "쳇… 실패했습니다.",
+    "context": "EN :\nTch... I've failed.\nJP :\nちぇっ…失敗しました。"
+  },
+  {
+    "key": "battle_clear_10806_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10806_1-dlg",
+    "original": "이 정도면… 그럭저럭 나쁘지 않죠?",
+    "context": "EN :\nThis... wasn't too bad, don't you think?\nJP :\nこの程度なら…まあまあ悪くは無いですよね？"
+  },
+  {
+    "key": "battle_clear_ex_10806_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10806_1-dlg",
+    "original": "후~ 깔끔하게 해결했네요. 가는 길에 우육면 드실래요?",
+    "context": "EN :\nWhew~ That was a job well done. Wanna have some beef noodles on the way back?\nJP :\nふ～綺麗に片付きましたね。帰りに牛肉麺でも食べていきませんか？"
+  },
+  {
+    "key": "battle_defeat_10806_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10806_1-dlg",
+    "original": "좀 더… 단련과 경험의 시간이 필요한 것 같군요…",
+    "context": "EN :\nI'll need... more experience and training, it seems...\nJP :\nもう少し…鍛錬と経験の時間が必要そうですね…。"
+  }
+]

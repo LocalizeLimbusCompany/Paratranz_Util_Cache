@@ -1,0 +1,431 @@
+[
+  {
+    "key": "0-place",
+    "original": "T사 도로 어딘가",
+    "context": "EN :\nNest T’s Roads\nJP :\nT社の道路 どこか"
+  },
+  {
+    "key": "0-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "0-content",
+    "original": "공간이 바뀌었네요. 여긴… 어디였어요?",
+    "context": "EN :\nThe space has changed. Where... was this place?\nJP :\n空間が変わりましたね。ここは…どこだったんですか？"
+  },
+  {
+    "key": "1-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "1-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "1-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "1-content",
+    "original": "무슨 소리야 아능. 우리가 맨날 지나다니던 도로잖아.",
+    "context": "EN :\nWhat are you talking about, Aneung. This is the road we would traverse all the time.\nJP :\nなに言ってるんだいアヌン。僕たちが毎日通ってた道路でしょ。"
+  },
+  {
+    "key": "2-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "2-content",
+    "original": "아… 그… 네.",
+    "context": "EN :\nOh... Um... Right.\nJP :\nあ…その…はい。"
+  },
+  {
+    "key": "3-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "3-content",
+    "original": "이곳은… 내 생업의 터전… 그곳의 근교요.",
+    "context": "EN :\nThis... was the place of my day's profession... or the avenue nearby.\nJP :\nここは…私の生業の拠り所…その場所の近郊なり。"
+  },
+  {
+    "key": "4-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "4-content",
+    "original": "흠, 밤에는 연구를 하고… 낮에는 뭘 했는데?",
+    "context": "EN :\nHm, you researched by night... and during the day?\nJP :\nふむ、夜には研究をして…昼には何してたの？"
+  },
+  {
+    "key": "5-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "5-content",
+    "original": "나는 건축가였소.",
+    "context": "EN :\nI was an architect.\nJP :\n私は建築家なりけり。"
+  },
+  {
+    "key": "6-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "6-content",
+    "original": "오~ 건축가라… 근사한 일을 했네, 이상 씨.",
+    "context": "EN :\nOoh~ An architect, huh... That's a neat occupation you had, Yi Sang.\nJP :\nお～建築家ねぇ…。凄いことしたんだね、イサンさん。"
+  },
+  {
+    "key": "7-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "7-content",
+    "original": "근사하다라…",
+    "context": "EN :\nNeat, you say...\nJP :\n凄いとは…。"
+  },
+  {
+    "key": "8-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "8-content",
+    "original": "본래 이 거리에는 뛰어다니는 아이들이 있었소.",
+    "context": "EN :\nOriginally, children used to run in these streets.\nJP :\n本来、この街には走り回る童たちありけり。"
+  },
+  {
+    "key": "9-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "9-content",
+    "original": "많지는 않지만… 드문드문 눈에 밟히는 아이들이.",
+    "context": "EN :\nAlthough there weren't many... they came into my view on occasion.\nJP :\n多くはあらねど…ちらほら目に入りくる童たちが。"
+  },
+  {
+    "key": "10-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "10-content",
+    "original": "고작 버려진 공 하나로도, 그들은 웃음을 잃지 않았소.",
+    "context": "EN :\nEven a single abandoned ball could keep a smile on their faces.\nJP :\nたかだか捨てられしボオル一つにも、彼らは笑いを失わざりき。"
+  },
+  {
+    "key": "11-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "11-content",
+    "original": "나도 어린이들을 참 좋아하오! 참으로 순수한 생명이 아니오?",
+    "context": "EN :\nI am vastly fond of youths as well! Are they not the most innocent beings?\nJP :\n私も子供たちがとても好きでありまする！実に純粋な生命ではあらぬか？"
+  },
+  {
+    "key": "12-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "12-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "12-content",
+    "original": "하지만 지금은 안 보이네. 어디로 간 걸까?",
+    "context": "EN :\nBut they're nowhere to be seen now. Where could they have gone?\nJP :\nでも今は見当たらないね。どこに行ったんだろう？"
+  },
+  {
+    "key": "13-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "13-content",
+    "original": "글을 배울 나이가 된 아이들은 여러 공장으로 끌려가오.",
+    "context": "EN :\nOnce children are old enough to learn language, they are taken to factories.\nJP :\n字をまねぶ歳になりし童たちは、いくつかの工場に行き連れる。"
+  },
+  {
+    "key": "14-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "14-content",
+    "original": "그중에 내가 만든… 내가 직접 설계한 공장도 있소.",
+    "context": "EN :\nAmong them are those I made... those factories whose architecture I designed with my hands.\nJP :\nその中に私が作りし、我が直々に設計せし工場もあり。"
+  },
+  {
+    "key": "15-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "15-content",
+    "original": "이상…",
+    "context": "EN :\nYi Sang...\nJP :\nイサン…。"
+  },
+  {
+    "key": "16-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "16-content",
+    "original": "효율적으로 사람들을 감시하는 일에 최적화가 된 구조였소. 노동자에게 박차를 가하기 더할 나위 없이 편리했고.",
+    "context": "EN :\nThey were optimized for efficiently monitoring people. It made pressing laborers more convenient than ever.\nJP :\n効率的に人々を監視するに最適化されし構造なりき。労働者に拍車をかけるに、この上なく便が良かりけり。"
+  },
+  {
+    "key": "17-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "17-content",
+    "original": "그들의 벌이가 썩 좋았으니, 나의 벌이가 퍽 좋았던 것은 무릇, 그때문일 테요.",
+    "context": "EN :\nPerhaps the reason my income has been rather high is that the owners of those buildings run a profitable business.\nJP :\n建築主の稼ぎがいと良ければ、私の稼ぎがいと良かりしはもとより、そのためならん。"
+  },
+  {
+    "key": "18-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "18-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "19-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "19-content",
+    "original": "뭐, 그렇다고… 네가 그 돈을 보란 듯이 펑펑 쓰고 다니진 않았잖아.",
+    "context": "EN :\nWell, even so... It's not like you spent that money to show off.\nJP :\nまぁ、だからって…お前がそのカネをこれ見よがしにバンバン使ったわけじゃねぇだろ。"
+  },
+  {
+    "key": "20-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "20-content",
+    "original": "구인회를 위해 전부 바쳤지.",
+    "context": "EN :\nYou gave it all for the League.\nJP :\n九人会のために全部捧げて。"
+  },
+  {
+    "key": "21-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "21-content",
+    "original": "…기억나세요? 제가 T사에서 직장을 구하고… 제일 처음 만든 기술이요.",
+    "context": "EN :\n...Do you remember? The first thing I invented... after getting a job at T Corp.\nJP :\n…覚えてますか？私がT社で仕事を得て…最初に作った技術です。"
+  },
+  {
+    "key": "22-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "22-content",
+    "original": "인식표 말이지?",
+    "context": "EN :\nThe identification tags, right?\nJP :\n認識票のことだよね？"
+  },
+  {
+    "key": "23-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "23-content",
+    "original": "네, 미아가 된 아이들을 위해 만들었어요.",
+    "context": "EN :\nYeah, I made them to help lost kids.\nJP :\nはい、迷子になった子供たちのために作りました。"
+  },
+  {
+    "key": "24-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "24-content",
+    "original": "우습죠. 그걸 쓰면 부모와 감동의 재회를 할 아이들이 늘어날 줄 알았나 봐요.",
+    "context": "EN :\nIt's absurd, I know. Maybe I expected it to help more children reunite with their parents.\nJP :\n笑えますよね。それを使えば親と感動の再会をする子供たちが増えると思ってたみたいです。"
+  },
+  {
+    "key": "25-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "25-content",
+    "original": "그런데… 지금은 모든 공장에서 근로 시간을 관리하는 데 쓰더라고요.",
+    "context": "EN :\nBut now... they're being used to monitor the workers' time spent on the job in every factory.\nJP :\nでも…今じゃ全ての工場で勤労時間を管理するのに使ってるんですよね。"
+  },
+  {
+    "key": "26-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "26-content",
+    "original": "심지어 그걸 만든 저도 그 인식표를 차고 일을 해야 한다니까요.",
+    "context": "EN :\nHeck, I made those things, and even I'm not free from the obligation to wear one while working.\nJP :\nしかもそれを作った私も、その認識票をつけて仕事をしなきゃならないんですよ。"
+  },
+  {
+    "key": "27-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "27-content",
+    "original": "우리가 T사에서 이뤄낸 업적은 그런 것이었지.",
+    "context": "EN :\nThose were the kinds of achievements we accomplished in T Corp's district.\nJP :\n私たちがT社にて成し遂げし業績は、さるものなりけり。"
+  },
+  {
+    "key": "28-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "28-content",
+    "original": "그래서 나는… 거울 기술에 더 매달리게 된 것이오.",
+    "context": "EN :\nWhich is why... I became more engrossed in the mirror.\nJP :\nそれで私は…鏡技術へ、より取りつくようになりけり。"
+  },
+  {
+    "key": "29-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "29-content",
+    "original": "순수하게, 순수하게… 탐구에만 몰두하고 싶었으므로.",
+    "context": "EN :\nUntainted, unadulterated... I wished to immerse myself in the pure exploration of knowledge.\nJP :\n純粋に、純粋に··· 探求ばかりに没頭したければ。"
+  },
+  {
+    "key": "30-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "30-content",
+    "original": "아무것도… 앗지 않을 수 있도록.",
+    "context": "EN :\nSo that... I wouldn't have to take anything from anyone.\nJP :\n何も…奪うまいと。"
+  },
+  {
+    "key": "31-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "31-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "31-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "31-content",
+    "original": "그런 것쯤이야, 수탈과 착취를 피하려고 T사에 건너갈 때부터… 짐작하고 있지 않았어, 이상?",
+    "context": "EN :\nYou knew you'd face those predicaments since the moment you made your way to T Corp's territory avoiding exploitation and abuse, haven't you, Yi Sang?\nJP :\nそんなことなんて、収奪と搾取を避けようとT社に渡る時から…見当はついていたんだろ、イサン？"
+  },
+  {
+    "key": "32-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "32-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "32-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "32-content",
+    "original": "당하지 않으려면 누군가를 대신 시켜야 한다는 것쯤은.",
+    "context": "EN :\nThat you'd have to exploit others if you don't want to be.\nJP :\nやられないためには、誰かを代わりにやらなきゃいけないってことくらいは。"
+  },
+  {
+    "key": "33-model",
+    "original": "상이",
+    "translation": "箱李",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "33-teller",
+    "original": "상이",
+    "context": "EN :\nSang Yi\nJP :\nサンイ"
+  },
+  {
+    "key": "33-title",
+    "original": "연심",
+    "context": "EN :\nYeonsim\nJP :\nヨンシム"
+  },
+  {
+    "key": "33-content",
+    "original": "그러니 죄책감 가지지 마.",
+    "context": "EN :\nSo don't feel guilty about it.\nJP :\nだから罪悪感なんて持つな。"
+  }
+]

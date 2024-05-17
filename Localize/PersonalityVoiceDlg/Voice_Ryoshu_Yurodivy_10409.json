@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10409_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10409_1-dlg",
+    "original": "담배 한 갑에 굴착 나사 다섯? 그딴 소리를 하는 걸 보니, 네놈 머리에 나사가 빠졌나보군.",
+    "context": "EN :\n5 excavating screws for a pack of cigs? Sounds like you've got a screw loose yourself.\nJP :\n煙草1箱で掘削ねじ5本？そんなこと言ってるってことは、お前の頭のねじが外れたみたいだな。"
+  },
+  {
+    "key": "lobby_morning_10409_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10409_1-dlg",
+    "original": "…아침부터 수고롭게 움직이는군. 뭐, 근면함은 나쁘지 않지.",
+    "context": "EN :\n... So busy, so early in the morning? Well, I do approve of your diligence.\nJP :\n…朝からご苦労なことだ。まぁ、勤勉なのは悪いことじゃないさ。"
+  },
+  {
+    "key": "lobby_noon_10409_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10409_1-dlg",
+    "original": "이 시간만 되면 시간도 없는 놈들이 뒷골목에 어슬렁대더군.\n푸흣, 그러다가 결국 시간이 모자라 느려지는 모습이 제법 웃겨.",
+    "context": "EN :\nFools running low on time start stalking the Backstreets around this hour. I enjoy watching them eventually slow to a crawl when they inevitably run out of time; it's quite the amusing sight.\nJP :\nこの時間になると時間もない奴らが裏路地で彷徨いてるんだ。\nぷふっ、そうして結局は時間が足りなくなって遅くなる姿は結構笑える。"
+  },
+  {
+    "key": "lobby_night_10409_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10409_1-dlg",
+    "original": "슬슬 밤이군. 탐정 놈이 예술의 소재를 주는 시간이야… 하, 나는 이때가 아주 설레지.",
+    "context": "EN :\nIt's getting late... The detective will soon deliver me the ingredients for my art. Ah, I must admit that the thought excites me.\nJP :\nそろそろ夜か。探偵の野郎が芸術の素材を渡してくれる時間だ…。はぁ、俺はこのときが一番わくわくするのさ。"
+  },
+  {
+    "key": "smalltalk_10409_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10409_1-dlg",
+    "original": "다음은 단.테.인가?\n하, 시계… 너를 부른 게 아니다.",
+    "context": "EN :\nIs it D.O.N. and T.E. next?\nHah, I wasn't talking to you... Clock.\nJP :\n次は団・テか？\nはぁ、時計…お前を呼んだわけじゃない。"
+  },
+  {
+    "key": "smalltalk_10409_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10409_2-dlg",
+    "original": "화폐는 결국 눈속임에 불과하지… 당장 쓸 수 있는 물건끼리 맞바꾸는 것이 훨씬 이치에 맞지 않다고 보지 않나.\n그것보다 좋은 건, 직접 공구를 들고 필요한 물품을 스스로 만들어 내는 것에 있지.",
+    "context": "EN :\nCurrency is just smoke and mirrors. It's much fairer to trade items of immediate worth instead, isn't it?\nOr even better, use that elbow grease and make your own.\nJP :\n貨幣は詰まるところまやかしにすぎない…今すぐ使える物同士交換する方が、より理にかなっていると見るべきじゃないか。\nそれより良いのは、手ずから工具を持って必要な物品を自ら作り出すことだ。"
+  },
+  {
+    "key": "smalltalk_10409_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10409_3-dlg",
+    "original": "고장난 기계는… 때려야 말을 듣지.",
+    "context": "EN :\nI prefer to apply a certain... percussive method when it comes to fixing broken machines.\nJP :\n壊れた機械は…叩けば言うことを聞く。"
+  },
+  {
+    "key": "smalltalk_10409_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10409_4-dlg",
+    "original": "담배가 타들어가는 건 시간이 흐른다는 것이고, 그 모습은 시간을 타고 죽음이 다가오는 것과 같지.\n여기 쓰러진 부자 놈처럼 말이야… 훗, 제법 전위적인 예술이지.",
+    "context": "EN :\nThe tip of a lit cig, slowly burning itself away... A metaphor for the impending rider of death, atop the steed of time.\nIt's just like this rich pig whose time we burned away. Heh, quite avant-garde, isn't it?\nJP :\n煙草が燃えていくのは時間が流れるってことで、その姿は時間に沿って死が近づくのと同じだ。\nここに倒れた成金みたいにな…ふっ、かなり前衛的な芸術さ。"
+  },
+  {
+    "key": "smalltalk_10409_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10409_5-dlg",
+    "original": "유로지비의 이념…? 관심 없다. 그저 그놈들의 활동에 담긴 미학이 마음에 들었을 뿐.\n돈 대신 물건으로 담배를 바꿔주는 것도 나쁘지 않았지.",
+    "context": "EN :\nThe Yurodiviye Ideology...? Who cares. I just found the aesthetics of their movement alluring.\nI don't mind paying for my cigs with items instead of cash, either.\nJP :\nユロージヴィの理念…？興味ない。ただあいつらの活動に宿った美学が気に入っただけ。\nカネの代わりにモノで煙草を交換するってのも悪くなかった。"
+  },
+  {
+    "key": "neglect_10409_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10409_1-dlg",
+    "original": "유로… 무료지비. 푸훗.",
+    "context": "EN :\nYurodiviye... More like you're-all-divvied-up. Pfft.\nJP :\nユロー…ムリョウジヴィ。ぷふっ。"
+  },
+  {
+    "key": "gacksung_10409_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10409_1-dlg",
+    "original": "흥, 실컷 찍어라. 이왕이면 흩뿌린 피가 잘 담길 수 있게 찍어.",
+    "context": "EN :\nHmph, fine—record all you want. Just make sure to get all the blood splatters.\nJP :\nふん、存分に撮ってけ。どうせなら散らした血がよく写るように撮るんだな。"
+  },
+  {
+    "key": "formation_10409_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10409_1-dlg",
+    "original": "재밌군. 이건 내가 맡지.",
+    "context": "EN :\nThis looks fun. I'll take this.\nJP :\n面白い。これは俺に任せろ。"
+  },
+  {
+    "key": "battleentry_10409_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10409_1-dlg",
+    "original": "명단에 있는 놈들 모두 명.단.이다.",
+    "context": "EN :\nThis is a H.I.T. List. List of fools to be Hacked In Two, that is.\nJP :\n名簿にある奴ら全員命・墓だ。"
+  },
+  {
+    "key": "battle_select_10409_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10409_1-dlg",
+    "original": "상대할 맛이 나는 놈들이면 좋겠군.",
+    "context": "EN :\nThey better give us a good fight.\nJP :\n相手してて味が出るやつらだと良いんだがな。"
+  },
+  {
+    "key": "battle_endcommand_10409_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10409_1-dlg",
+    "original": "타도한다.",
+    "context": "EN :\nLet's bring them down.\nJP :\n打倒する。"
+  },
+  {
+    "key": "battle_enemy_break_10409_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10409_1-dlg",
+    "original": "가진 놈들을 털고…",
+    "context": "EN :\nShake down the loaded pigs...\nJP :\n持ってる奴らからかっぱらって…。"
+  },
+  {
+    "key": "battle_break_10409_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10409_1-dlg",
+    "original": "쯧.",
+    "context": "EN :\nTsk.\nJP :\nチッ。"
+  },
+  {
+    "key": "battle_kill_10409_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10409_1-dlg",
+    "original": "그 시간을 뿌리도록 하지.",
+    "context": "EN :\n... and share the pilfered time with everyone.\nJP :\nその時間をばら撒こう。"
+  },
+  {
+    "key": "battle_dead_10409_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10409_1-dlg",
+    "original": "나쁘지 않아… 후. 결국 나도 재분배된다는… 점은.",
+    "context": "EN :\nEven I end up 'redistributed'... Haah. Not bad, not bad...\nJP :\n悪くない…ふぅ。結局俺も再分配されるって…点は。"
+  },
+  {
+    "key": "choice_success_p_10409_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10409_2-dlg",
+    "original": "봤나? 관람료는 원숭이 담배 한 갑.",
+    "context": "EN :\nWere you watching? Then pay up. Pack of Monkey Cigs per view.\nJP :\n見たか？観覧料は猿煙草1箱。"
+  },
+  {
+    "key": "choice_fail_n_10409_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10409_1-dlg",
+    "original": "…이런 밋밋한 활동은 취향이 아냐.",
+    "context": "EN :\n... This bland act isn't my scene.\nJP :\n…こんな味気ない活動は好かない。"
+  },
+  {
+    "key": "battle_clear_10409_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10409_1-dlg",
+    "original": "흠, 발명품이 잘 작동하는군… 기름만 좀 더 칠해줬어도 좋았겠어.",
+    "context": "EN :\nHmm, not a bad invention... A bit more grease could've helped, however.\nJP :\nふむ、発明品が上手く作動してるな…油をもう少し塗ってやっても良かったか。"
+  },
+  {
+    "key": "battle_clear_ex_10409_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10409_1-dlg",
+    "original": "완벽. 생각해 보니, 고철덩이 발명품으로 고장난 윗대가리를 부수는 것까지도 꽤 미학적이군…",
+    "context": "EN :\nPerfection. Now that I've given it some thought, I see the aesthetics in using such a janky invention to crush the janky brains of those who reign over us.\nJP :\n完璧。よく考えてみると鉄の塊で作った発明品で、ぶっ壊れた高い頭(ず)を壊すのもかなり美学的だな…。"
+  },
+  {
+    "key": "battle_defeat_10409_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10409_1-dlg",
+    "original": "이번 단.테.는 실패인가? 뭐, 상관없다. 숨이 붙어 있는 한 시간은 벌 수 있으니.",
+    "context": "EN :\nSo this D.O.N.T.E. didn't go as planned, did it? No deconstruction of normalcy, no one's terrified...\nWell, no matter. I can always make more time as long as I'm breathing.\nJP :\n今回の団・テは失敗か？まぁ、関係ない。息ができている限り時間は稼げるからな。"
+  }
+]

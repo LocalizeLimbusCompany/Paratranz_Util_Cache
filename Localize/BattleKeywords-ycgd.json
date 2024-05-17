@@ -1,0 +1,32 @@
+[
+  {
+    "key": "Grudge-name",
+    "original": "맺혀가는 응어리",
+    "context": "EN :\nGrowing Resentment\nJP :\n結ばれゆくしこり"
+  },
+  {
+    "key": "Grudge-desc",
+    "original": "버프가 있을 때, 받은 피해량만큼 수치를 얻음. 턴 종료 시 소멸됨",
+    "context": "EN :\nWhen this unit has a relevant buff: gain Growing Resentment equal to damage taken. Expires at Turn End\nJP :\nバフがあるとき、被ダメージ量だけ数値が増える。ターン終了時に消滅。"
+  },
+  {
+    "key": "AaCePbBg-name",
+    "original": "원한",
+    "context": "EN :\nResentment\nJP :\n怨恨"
+  },
+  {
+    "key": "AaCePbBg-desc",
+    "original": "턴 시작 시 피해량 증가 2, 방어 레벨 감소 3을 얻음",
+    "context": "EN :\nTurn Start: Gain 2 Damage Up and 3 Defense Level Down\nJP :\nターン開始時にダメージ量増加 2, 防御レベル減少 3を得る"
+  },
+  {
+    "key": "AaCePbBh-name",
+    "original": "원한",
+    "context": "EN :\nResentment\nJP :\n怨恨"
+  },
+  {
+    "key": "AaCePbBh-desc",
+    "original": "턴 시작 시 공격 위력 증가 1, 방어 레벨 감소 5를 얻음",
+    "context": "EN :\nTurn Start: Gain 1 Attack Power Up and 5 Defense Level Down\nJP :\nターン開始時に攻撃威力増加 1, 防御レベル減少 5を得る"
+  }
+]

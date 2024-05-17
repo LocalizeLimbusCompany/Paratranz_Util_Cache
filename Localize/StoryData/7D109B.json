@@ -1,0 +1,668 @@
+[
+  {
+    "key": "0-place",
+    "original": "과거, 외곽 어딘가",
+    "context": "EN :\nOutskirts, Past\nJP :\n過去、外郭のどこか"
+  },
+  {
+    "key": "0-model",
+    "original": "바리",
+    "translation": "巴里",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBari\nJP :\nバリ"
+  },
+  {
+    "key": "0-content",
+    "original": "조용하지?",
+    "context": "EN :\nQuiet, huh?\nJP :\n静かでしょう？"
+  },
+  {
+    "key": "1-model",
+    "original": "바리",
+    "translation": "巴里",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBari\nJP :\nバリ"
+  },
+  {
+    "key": "1-content",
+    "original": "하지만 마냥 평화로운 곳은 아니야. 이 순간에도 저들은 우리를 지켜보고 있거든.",
+    "context": "EN :\nBut it's not such a peaceful place. Even now, they are observing us.\nJP :\nでもただ平和な場所じゃないんだ。\nこの瞬間もあいつらは我々を見ているんだ。"
+  },
+  {
+    "key": "2-model",
+    "original": "바리",
+    "translation": "巴里",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBari\nJP :\nバリ"
+  },
+  {
+    "key": "2-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "3-model",
+    "original": "바리",
+    "translation": "巴里",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBari\nJP :\nバリ"
+  },
+  {
+    "key": "3-content",
+    "original": "아마도 인간과 혈귀의 전쟁만이 끝은 아닐 거야.",
+    "context": "EN :\nThere will be more wars. After the war of humans and Bloodfiends, I mean.\nJP :\nきっと、人間と血鬼の戦争だけで終わらないと思う。"
+  },
+  {
+    "key": "4-model",
+    "original": "바리",
+    "translation": "巴里",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBari\nJP :\nバリ"
+  },
+  {
+    "key": "4-content",
+    "original": "내게는 보여. 머지않아 외곽 너머에 있는 저 별구름들과의 전쟁도 예견되어 있다는 걸.",
+    "context": "EN :\nI can see it. The war against the nebulae beyond the Outskirts is all but written.\nJP :\n私には見える。近いうちに外郭の彼方にある\nあの星雲たちとの戦争も予見されているってことを。"
+  },
+  {
+    "key": "5-model",
+    "original": "바리",
+    "translation": "巴里",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBari\nJP :\nバリ"
+  },
+  {
+    "key": "5-content",
+    "original": "인간은 언제나 만족을 모르니까. 당연한 순리처럼 찾아오지.",
+    "context": "EN :\nHumanity's inability to find satisfaction is the very hunger that leads to war. It is an inevitability.\nJP :\n人間はいつであれ満足というものを知ることはないから。\n当然の道理のように訪れるの。"
+  },
+  {
+    "key": "6-model",
+    "original": "바리",
+    "translation": "巴里",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBari\nJP :\nバリ"
+  },
+  {
+    "key": "6-content",
+    "original": "…곧 기억을 잃을 녀석에게 별 소리를 떠들어대네.",
+    "context": "EN :\n... Look at me. Talking the ear off of someone who's about to forget everything.\nJP :\n…まもなく記憶を失う奴に無駄話をしちゃったか。"
+  },
+  {
+    "key": "7-model",
+    "original": "옛산초2",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "7-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "7-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "8-model",
+    "original": "바리",
+    "translation": "巴里",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBari\nJP :\nバリ"
+  },
+  {
+    "key": "8-content",
+    "original": "다시 한 번 말할게.",
+    "context": "EN :\nI know I said this already, but let me say it again.\nJP :\nもう一度言うよ。"
+  },
+  {
+    "key": "9-model",
+    "original": "바리",
+    "translation": "巴里",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBari\nJP :\nバリ"
+  },
+  {
+    "key": "9-content",
+    "original": "네가 강물을 마시고 나면 아무것도 기억 못 할 거야.",
+    "context": "EN :\nYou won't remember anything once you drink from this river.\nJP :\n君が川の水を飲めば何も思い出せなくなる。"
+  },
+  {
+    "key": "10-model",
+    "original": "바리",
+    "translation": "巴里",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBari\nJP :\nバリ"
+  },
+  {
+    "key": "10-content",
+    "original": "나도, 너의 어버이도, 너의 가족들도. 우리의 이 이야기도…",
+    "context": "EN :\nMe, your Father, your Family. All the stories we've shared, including this very conversation.\nJP :\n私も、君の父上も、君の家族たちも。私たちのこの話も…。"
+  },
+  {
+    "key": "11-model",
+    "original": "옛산초2",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "11-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "11-content",
+    "original": "알아.",
+    "context": "EN :\nI know.\nJP :\n分かってる。"
+  },
+  {
+    "key": "12-model",
+    "original": "바리",
+    "translation": "巴里",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBari\nJP :\nバリ"
+  },
+  {
+    "key": "12-content",
+    "original": "그 이후엔… 네가 지낼 거처까지 내가 이끌어줄 거야.",
+    "context": "EN :\nOnce you drink the water... I will lead you to the place where you will reside.\nJP :\nその後は…君が過ごす住処まで私が導いてあげる。"
+  },
+  {
+    "key": "13-model",
+    "original": "바리",
+    "translation": "巴里",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBari\nJP :\nバリ"
+  },
+  {
+    "key": "13-content",
+    "original": "멀지 않은 곳에 버려진 등대를 봐 놓았어. 사람이 찾아올 일은 없을 거야.",
+    "context": "EN :\nI saw an abandoned lighthouse not far from here. It's unlikely anyone would find you there.\nJP :\n遠くない場所に捨てられた灯台を見つけておいたんだ。\n人が訪れることはないだろう。"
+  },
+  {
+    "key": "14-model",
+    "original": "옛산초2",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "14-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "14-content",
+    "original": "…그래.",
+    "context": "EN :\n... Okay.\nJP :\n…そうか。"
+  },
+  {
+    "key": "15-model",
+    "original": "바리",
+    "translation": "巴里",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBari\nJP :\nバリ"
+  },
+  {
+    "key": "15-content",
+    "original": "그게 다야?",
+    "context": "EN :\nSo that's it, then?\nJP :\nそれだけ？"
+  },
+  {
+    "key": "16-model",
+    "original": "바리",
+    "translation": "巴里",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBari\nJP :\nバリ"
+  },
+  {
+    "key": "16-content",
+    "original": "앞으로 어떻게… 살아갈 건데?",
+    "context": "EN :\nBut how will you... live on?\nJP :\nこの先どうやって…生きていくつもり？"
+  },
+  {
+    "key": "17-model",
+    "original": "옛산초2",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "17-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "17-content",
+    "original": "글쎄.",
+    "context": "EN :\nI don't know.\nJP :\nさぁな。"
+  },
+  {
+    "key": "18-model",
+    "original": "옛산초2",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "18-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "18-content",
+    "original": "모든 걸 잃어버렸고, 모든 걸 잊어버릴 내게 그렇게 의미가 있을까.",
+    "context": "EN :\nI've lost everything. And now I prepare myself to lose even the remnants of what once was. Do you think that question means anything to me?\nJP :\nそれは全てを失い、全てを忘れる私に\nそれほど意味があるものなのだろうか。"
+  },
+  {
+    "key": "19-model",
+    "original": "옛산초2",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "19-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "19-content",
+    "original": "그 질문은 잠든 뒤의 나에게 말하는 게 나을 거야.",
+    "context": "EN :\nYou ask a question better asked once I slumber.\nJP :\nその質問は眠った後の私に言うほうがいいだろう。"
+  },
+  {
+    "key": "20-model",
+    "original": "바리",
+    "translation": "巴里",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBari\nJP :\nバリ"
+  },
+  {
+    "key": "20-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "21-model",
+    "original": "옛산초2",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "21-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "21-content",
+    "original": "내가 강물을 마시고 나면…",
+    "context": "EN :\nOnce I drink the river's water...\nJP :\n私が川の水を飲んだら…。"
+  },
+  {
+    "key": "22-model",
+    "original": "옛산초2",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "22-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "22-content",
+    "original": "너는 떠나라.",
+    "context": "EN :\nLeave me.\nJP :\n君は去るがいい。"
+  },
+  {
+    "key": "23-model",
+    "original": "옛산초2",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "23-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "23-content",
+    "original": "고마웠어, 바리.",
+    "context": "EN :\nThank you, Bari. For everything.\nJP :\nありがとう、バリ。"
+  },
+  {
+    "key": "24-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "24-content",
+    "original": "하지만 강물은 혈귀의 본능을 잠시 망각시키는 것이었을 뿐, 영원히 없애는 것은 아니었지.",
+    "context": "EN :\nBut the river merely made me forget my instincts as a Bloodfiend. It did not free me from them forevermore.\nJP :\nしかし川の水は血鬼の本能を一時的に忘れさせるだけで、\n永遠に消すものではなかった。"
+  },
+  {
+    "key": "25-place",
+    "original": "자아심도 - 미로",
+    "context": "EN :\nFathoms of Ego - Maze\nJP :\n自我心道 - 迷路"
+  },
+  {
+    "key": "25-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "25-content",
+    "original": "애초에… 천성을 영원히 없앨 방법은 존재하지 않았으니.",
+    "context": "EN :\nBecause we... are forever bound to our base natures.\nJP :\nそもそも…天性を永遠に消す方法は存在しなかったから。"
+  },
+  {
+    "key": "26-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "26-content",
+    "original": "어버이의 로시난테를 통해… 혈귀로서 가지는 모든 특징을 가릴 수 있었지만…",
+    "context": "EN :\nThrough my Father's Rocinante, I could hide every aspect of Bloodfiendhood from the rest of the world...\nJP :\n父上のロシナンテを通じて…\n血鬼の持つすべての特徴を隠すことはできたが…。"
+  },
+  {
+    "key": "27-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "27-content",
+    "original": "터무니없는 꿈을 꾸고 있었던 것뿐.",
+    "context": "EN :\n... but it only left me drifting in a ridiculous dream.\nJP :\n途方もない夢を見ていただけだった。"
+  },
+  {
+    "key": "28-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "28-content",
+    "original": "나는 이제 깨어났어. 맨발로.",
+    "context": "EN :\nNow I am awake. Bare of feet.\nJP :\n私は今、目覚めた。裸足で。"
+  },
+  {
+    "key": "29-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "29-content",
+    "original": "그래, 이렇게 해서… 라만차랜드는…",
+    "context": "EN :\nYes. Thus... it reopens...\nJP :\nそうだ、こうして…ラ・マンチャランドは…。"
+  },
+  {
+    "key": "30-place",
+    "original": "자아심도 - 라만차의 눈",
+    "context": "EN :\nFathoms of Ego - La Mancha Eye\nJP :\n自我心道 - ラ・マンチャの目"
+  },
+  {
+    "key": "30-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "30-content",
+    "original": "다시… 문을 열었단다…",
+    "context": "EN :\nThis ... La Manchaland.\nJP :\n再び…扉を開けたのだよ…。"
+  },
+  {
+    "key": "33-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "33-content",
+    "original": "이곳에서 무슨 일이 있었던 겁니까.",
+    "context": "EN :\nWhat happened here?\nJP :\nここで何があったのですか。"
+  },
+  {
+    "key": "34-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "34-content",
+    "original": "뻔한 이야기지 않겠니.",
+    "context": "EN :\nA tale as old as time.\nJP :\n分かりきった話ではないか。"
+  },
+  {
+    "key": "35-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "35-content",
+    "original": "저들은 나를 용서하지 않았고… 나 또한 저들을 용서하지 못했지.",
+    "context": "EN :\nThey could not forgive me... and I could not forgive them in turn.\nJP :\nあの者らは吾を赦さず…吾もまたあの者らを赦せなかった。"
+  },
+  {
+    "key": "36-model",
+    "original": "이발사하편",
+    "translation": "理发师",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Barber\nJP :\n理髪師"
+  },
+  {
+    "key": "36-content",
+    "original": "문을 열어 주세요…",
+    "context": "EN :\nOpen the gates...\nJP :\n扉を開けてください…。"
+  },
+  {
+    "key": "37-model",
+    "original": "이발사하편",
+    "translation": "理发师",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Barber\nJP :\n理髪師"
+  },
+  {
+    "key": "37-content",
+    "original": "돈키호테 님… 부탁이에요! 저희를 굽어살펴 주세요! 용서해 줘!",
+    "context": "EN :\nFather, Don Quixote... please! Don't leave us here in the dark! Forgive us!\nJP :\nドンキホーテ様…お願いしますぅ！\n私たちをお救いください！赦してぇ！"
+  },
+  {
+    "key": "38-model",
+    "original": "키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "38-content",
+    "original": "너희는 아직도… 나와 뜻을… 함께하지 못했구나…",
+    "context": "EN :\nStill... you refuse to share my will...\nJP :\nお前たちはまだ…吾と意を…共にできぬのか…。"
+  },
+  {
+    "key": "39-model",
+    "original": "키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "39-content",
+    "original": "라만차랜드를… 다시 열어서는… 안된다는 걸… 아직도… 모르는 거니…",
+    "context": "EN :\nDo you still... fail to understand...? La Manchaland... must remain sealed forever...\nJP :\nラ・マンチャランドを…再び開いては…\nならないということが…まだ…分からないのか…。"
+  },
+  {
+    "key": "40-model",
+    "original": "이발사하편",
+    "translation": "理发师",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Barber\nJP :\n理髪師"
+  },
+  {
+    "key": "40-content",
+    "original": "그… 그렇다면…. 어… 어쩔 수 없어요…",
+    "context": "EN :\nTh-then... we... have n-no choice...\nJP :\nそ…それなら…。し…仕方ありませんわ…。"
+  },
+  {
+    "key": "41-model",
+    "original": "이발사하편",
+    "translation": "理发师",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Barber\nJP :\n理髪師"
+  },
+  {
+    "key": "41-content",
+    "original": "나… 나는… 행복해지고 싶어…",
+    "context": "EN :\nI... I want to feel... I want to feel happiness again...\nJP :\nわ…私は…幸せになりたい…。"
+  },
+  {
+    "key": "42-model",
+    "original": "이발사하편",
+    "translation": "理发师",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Barber\nJP :\n理髪師"
+  },
+  {
+    "key": "42-content",
+    "original": "이제… 네 차례야, 신부.",
+    "context": "EN :\nIt's... your turn, Priest.\nJP :\nさあ…あんたの番よ、神父。"
+  },
+  {
+    "key": "43-model",
+    "original": "신부하편",
+    "translation": "神父",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Priest\nJP :\n神父"
+  },
+  {
+    "key": "43-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "44-model",
+    "original": "신부하편",
+    "translation": "神父",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Priest\nJP :\n神父"
+  },
+  {
+    "key": "44-content",
+    "original": "어버이시여… 저희를 결코 용서치 마시고…",
+    "context": "EN :\nForgive not our sins, O venerated ancestor, our Father in blood.\nJP :\n父上様…我々を決してお赦しにならず…。"
+  },
+  {
+    "key": "45-model",
+    "original": "신부하편",
+    "translation": "神父",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Priest\nJP :\n神父"
+  },
+  {
+    "key": "45-content",
+    "original": "부디… 부디…",
+    "context": "EN :\nAnd please... please...\nJP :\nどうか…どうか…。"
+  },
+  {
+    "key": "46-model",
+    "original": "이발사하편",
+    "translation": "理发师",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nThe Barber\nJP :\n理髪師"
+  },
+  {
+    "key": "46-content",
+    "original": "어서… 찔러!!!!",
+    "context": "EN :\nDo it now... <i>STAB HIM!!!!</i>\nJP :\n早く…刺して！！！！"
+  },
+  {
+    "key": "47-model",
+    "original": "돌시네아하편",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "47-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "48-model",
+    "original": "혈귀 3",
+    "context": "这是当前说话人物的默认名称,仅供参考\n但是,令人震惊的是,此版本并没有相关翻译,请前往NickName条目查看相关内容"
+  },
+  {
+    "key": "48-teller",
+    "original": "두려움에 떠는 혈귀",
+    "context": "EN :\nHorrified Bloodfiend\nJP :\n怯えて震える血鬼"
+  },
+  {
+    "key": "48-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "48-content",
+    "original": "아… 아…",
+    "context": "EN :\nAh... ahhh...\nJP :\nあ…あ…。"
+  },
+  {
+    "key": "49-model",
+    "original": "혈귀 3",
+    "context": "这是当前说话人物的默认名称,仅供参考\n但是,令人震惊的是,此版本并没有相关翻译,请前往NickName条目查看相关内容"
+  },
+  {
+    "key": "49-teller",
+    "original": "두려움에 떠는 혈귀",
+    "context": "EN :\nHorrified Bloodfiend\nJP :\n怯えて震える血鬼"
+  },
+  {
+    "key": "49-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "49-content",
+    "original": "용서… 용서해 주세요…",
+    "context": "EN :\nFor... forgive us...\nJP :\n赦し…赦してください…。"
+  },
+  {
+    "key": "50-model",
+    "original": "혈귀 3",
+    "context": "这是当前说话人物的默认名称,仅供参考\n但是,令人震惊的是,此版本并没有相关翻译,请前往NickName条目查看相关内容"
+  },
+  {
+    "key": "50-teller",
+    "original": "두려움에 떠는 혈귀",
+    "context": "EN :\nHorrified Bloodfiend\nJP :\n怯えて震える血鬼"
+  },
+  {
+    "key": "50-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "50-content",
+    "original": "아니야, 살려주세요…",
+    "context": "EN :\nNo, please save us...\nJP :\nいや、お救いください…。"
+  },
+  {
+    "key": "51-model",
+    "original": "혈귀 3",
+    "context": "这是当前说话人物的默认名称,仅供参考\n但是,令人震惊的是,此版本并没有相关翻译,请前往NickName条目查看相关内容"
+  },
+  {
+    "key": "51-teller",
+    "original": "두려움에 떠는 혈귀",
+    "context": "EN :\nHorrified Bloodfiend\nJP :\n怯えて震える血鬼"
+  },
+  {
+    "key": "51-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "51-content",
+    "original": "그게 아니라면…",
+    "context": "EN :\nIf you won't...\nJP :\nそうじゃなきゃ…。"
+  },
+  {
+    "key": "52-model",
+    "original": "혈귀 3",
+    "context": "这是当前说话人物的默认名称,仅供参考\n但是,令人震惊的是,此版本并没有相关翻译,请前往NickName条目查看相关内容"
+  },
+  {
+    "key": "52-teller",
+    "original": "두려움에 떠는 혈귀",
+    "context": "EN :\nHorrified Bloodfiend\nJP :\n怯えて震える血鬼"
+  },
+  {
+    "key": "52-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "52-content",
+    "original": "우리가 고통스러운 만큼… 당신 또한…!",
+    "context": "EN :\nWe'll make you suffer... with the rest of us...!\nJP :\n私たちが苦しんだ分…あなたも…！"
+  }
+]

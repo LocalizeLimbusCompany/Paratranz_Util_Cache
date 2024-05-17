@@ -1,0 +1,732 @@
+[
+  {
+    "key": "0-place",
+    "original": "P사 뒷골목, 천막 앞",
+    "context": "EN :\nBackstreets of P Corp., Outside the Tent\nJP :\nP社裏路地、テント前"
+  },
+  {
+    "key": "0-content",
+    "original": "체사라가 내어 준 종이에 적힌 장소는, 뒷골목의 어느 공터 같은 곳이었다.",
+    "context": "EN :\nCesara's directions led us to an empty lot in the Backstreets.\nJP :\nチェーザラが差し出してくれた紙に書かれた場所は、\n裏路地のとある空き地のようなところだった。"
+  },
+  {
+    "key": "1-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "1-content",
+    "original": "…뭐야, 여긴?",
+    "context": "EN :\n... The hell is this now?\nJP :\n…なんだよ、ここ？"
+  },
+  {
+    "key": "2-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "2-content",
+    "original": "뒷골목은 보통 건물들이 뒤지게 빽빽하기 마련인데, 왜 여기만 텅 비어 있어?",
+    "context": "EN :\nThis ain't like the tight alleyways of the Backstreets I know. What's this huge empty lot doin' here?\nJP :\n裏路地はフツーたてもんでクッソ埋まってるもんだってのに、\nなんでここまでぽっかり空いてんだ？"
+  },
+  {
+    "key": "3-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "3-content",
+    "original": "그러게, 뒷골목에서 이 정도의 땅을 놀리는 건 흔치 않을 텐데…",
+    "context": "EN :\nRight? Weird, it's rare to see this much real estate go unused in the Backstreets.\nJP :\nそうだねぇ、裏路地でこれくらいの土地が放置されることは\nあんまりないはずなんだけど…。"
+  },
+  {
+    "key": "4-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "4-content",
+    "original": "이유는 모르겠지만 건물에 현수막도 여기저기 붙어 있네요.",
+    "context": "EN :\nThere are a bunch of banners hanging by the buildings for some reason, too.\nJP :\n理由は分かりませんけど、\n建物にはあちこちに横断幕も掛かってるみたいですね。"
+  },
+  {
+    "key": "5-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "5-content",
+    "original": "너희는 현장을 보고 있도록. 나는 잠시 파우스트 씨와 함께 담당자를 만나고 오지.",
+    "context": "EN :\nMiss Faust and I will converse with the person in charge. The rest of you, assess the situation in the meantime.\nJP :\nお前たちは現場を見ているように。\n私はしばらくファウストさんと一緒に担当者に会って来よう。"
+  },
+  {
+    "key": "6-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "6-content",
+    "original": "그때까지 얌전히…",
+    "context": "EN :\nDon't start any troub...\nJP :\nそのときまで大人しく…。"
+  },
+  {
+    "key": "7-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "7-content",
+    "original": "…아니, 큰 사고까진 가지 말도록.",
+    "context": "EN :\n... Don't start too much trouble until we return.\nJP :\n…いや、おおごとレベルにはしないように。"
+  },
+  {
+    "key": "8-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "8-content",
+    "original": "여부가 있겠는가!",
+    "context": "EN :\nThou mayest place thy faith in us!\nJP :\n当然であろう！"
+  },
+  {
+    "key": "9-content",
+    "original": "…이제는 사고를 아예 치지 않을 거란 기대는 안 하는구나.",
+    "context": "EN :\n... He's given up on the slim hope that we won't be getting into any trouble without him.\nJP :\n…もはや事故が無いって期待はしないんだなぁ。"
+  },
+  {
+    "key": "10-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "10-content",
+    "original": "자, 그럼… 안으로 들어가 볼까…",
+    "context": "EN :\nWell, let's see what we're working with here...\nJP :\nそ、それじゃぁ…中に入ってみるか…。"
+  },
+  {
+    "key": "11-content",
+    "original": "공터에는 가까이 오지 말라는 경고 문구와 테이프들이 덕지덕지 붙어 있었고…",
+    "context": "EN :\nThe empty lot was surrounded by all kinds of warning signs and perimeter tapes, deterring anyone from haphazardly wandering inside...\nJP :\n空き地には近づくなという警告文と\nテープがべたべたと貼られていて…。"
+  },
+  {
+    "key": "12-content",
+    "original": "우리가 그 테이프를 건너가기 위해 손을 뻗자…",
+    "context": "EN :\n... And when we reached out to grab the tapes to duck under them...\nJP :\n私たちがそのテープを越えていくために手を伸ばそうとすると…。"
+  },
+  {
+    "key": "13-model",
+    "original": "휴고",
+    "translation": "雨果",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHugo\nJP :\nヒューゴ"
+  },
+  {
+    "key": "13-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "13-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "13-content",
+    "original": "에헤이, 에헤이!!!",
+    "context": "EN :\nDude, hey! Dude!!!\nJP :\nおい、おいおい！！！"
+  },
+  {
+    "key": "14-content",
+    "original": "곧바로 만류하는 목소리가 들려왔다.",
+    "context": "EN :\n... a voice rang out, stopping us in our tracks.\nJP :\nすぐに引き留める声が聞こえてきた。"
+  },
+  {
+    "key": "15-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "15-content",
+    "original": "네… 네?",
+    "context": "EN :\nYeah? ... I mean, what?\nJP :\nは…はい？"
+  },
+  {
+    "key": "16-model",
+    "original": "휴고",
+    "translation": "雨果",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHugo\nJP :\nヒューゴ"
+  },
+  {
+    "key": "16-teller",
+    "original": "호들갑 떠는 해결사",
+    "context": "EN :\nOverdramatic Fixer\nJP :\n大袈裟なフィクサー"
+  },
+  {
+    "key": "16-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "16-content",
+    "original": "거, 잘 모르는 거 같아서 하는 말인데. 여기 함부로 들어오면 안 돼요, 안돼!",
+    "context": "EN :\nAlright, I'll be nice since it doesn't seem like you guys know what you just walked into. This place is off-limits, okay? Off-limits!\nJP :\nあのさ、よく分かってないみたいだから言うけど、\nここにむやみに入っちゃ駄目ですよ、駄目！"
+  },
+  {
+    "key": "17-model",
+    "original": "휴고",
+    "translation": "雨果",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHugo\nJP :\nヒューゴ"
+  },
+  {
+    "key": "17-teller",
+    "original": "호들갑 떠는 해결사",
+    "context": "EN :\nOverdramatic Fixer\nJP :\n大袈裟なフィクサー"
+  },
+  {
+    "key": "17-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "17-content",
+    "original": "저도 그렇고 여기 모여 있는 사람들은 해결사거든요, 해 결 사. 여기는 일반인들이 함부로 있으면 안 되는 작전 구역이에요! 나 참, P사는 관리를 어떻게 하는 거람.",
+    "context": "EN :\nFixers only, like me and the rest of the people gathered here, yeah? F-I-X-E-R-S. Civvies aren't allowed on the operation grounds! Jeez, these P Corp. folks sure are sloppy with their perimeter job.\nJP :\n俺もそうだけど、ここに集まっている人たちはみんなフィクサーなんですよ、\nフィ・ク・サ・ア。ここは一般人が無闇に立ち入っちゃいけない作戦区域です！\nまったく、P社の管理はどうなってるんだか。"
+  },
+  {
+    "key": "18-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "18-content",
+    "original": "잠깐만, 뭐죠? 왜 저만 쳐다보면서…",
+    "context": "EN :\nWait, why did you look at me when you said that? Why—\nJP :\nまって、何ですか？\nなんで僕ばっかり見つめて…。"
+  },
+  {
+    "key": "19-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "19-content",
+    "original": "오, 우리를 걱정해 주는 것인가? 괜찮네, 괜찮아!",
+    "context": "EN :\nOoh, thou art concerned for our safety? No worries, good man! No worries!\nJP :\nおぉ、我々を心配してくれているということであるか？\n心配ないのである、心配ない！"
+  },
+  {
+    "key": "20-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "20-content",
+    "original": "비록 아직 해결사는 아니지만, 정의를 위해 목숨을 불사하고 싸운다는 그 마음만큼은 모두가 매한가지지!",
+    "context": "EN :\nFixers we may not be, but the daring heart of justice that burns within thee is just as bright in our own! Forsooth, we are prepared to brave death to see it!\nJP :\nたとえまだフィクサーではないが、正義のために\n命を懸けて戦うその心意気は、誰もが同じであろう！"
+  },
+  {
+    "key": "21-content",
+    "original": "돈키호테가 성큼성큼 줄을 넘어 공터 안으로 들어간다.",
+    "context": "EN :\nDon Quixote confidently leaps over the warning tape and scampers into the empty lot.\nJP :\nドンキホーテが大股で線を越え、空き地の中へと踏み込んでいく。"
+  },
+  {
+    "key": "22-model",
+    "original": "휴고",
+    "translation": "雨果",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHugo\nJP :\nヒューゴ"
+  },
+  {
+    "key": "22-teller",
+    "original": "호들갑 떠는 해결사",
+    "context": "EN :\nOverdramatic Fixer\nJP :\n大袈裟なフィクサー"
+  },
+  {
+    "key": "22-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "22-content",
+    "original": "어어…? 여기가 뭐 하는 데인지는 알고 들어오는…",
+    "context": "EN :\nH-hey...! Do you have any idea what you're walking into—\nJP :\nえぇ…？ここが何やる場所か知って入って―"
+  },
+  {
+    "key": "23-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "23-content",
+    "original": "자네들처럼 우리 또한 의뢰를 받았다네! 라만차랜드의 토벌 의뢰 말일세!",
+    "context": "EN :\nHark! We arrive here on a contract, just as you! The contract for the eradication of La Manchaland!\nJP :\nそなたたちのように、我々もまた依頼を受けたのである！\nラ・マンチャランドの討伐依頼である！"
+  },
+  {
+    "key": "24-model",
+    "original": "해결사들",
+    "context": "这是当前说话人物的默认名称,仅供参考\n但是,令人震惊的是,此版本并没有相关翻译,请前往NickName条目查看相关内容"
+  },
+  {
+    "key": "24-teller",
+    "original": "모여있는 해결사들",
+    "context": "EN :\nCrowd of Fixers\nJP :\n集まっているフィクサーたち"
+  },
+  {
+    "key": "24-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "24-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "25-content",
+    "original": "돈키호테의 쩌렁쩌렁한 외침에 먼 곳에 있던 해결사들까지 일제히 공터 입구를 쳐다보았다.",
+    "context": "EN :\nI could practically hear everyone in the empty lot turning around to look at us.\nJP :\nドンキホーテの響き渡る声に、遠くにいたフィクサーたちまでが\n一斉に空き地の入口を見つめた。"
+  },
+  {
+    "key": "26-content",
+    "original": "그 시선은 본격적이면서도 굉장히 노골적이었기에, 수감자들은 경계의 눈빛과 함께 공터 안으로 한 명씩 발을 들였다.",
+    "context": "EN :\nThe looks on their eyes could hardly be described as friendly; in fact, their alarm at our arrival was palpable.\nJP :\nその視線は本格的でありながらも非常に露骨だったため、\n囚人たちは警戒の目を光らせながら、一人ずつ空き地の中へと足を踏み入れた。"
+  },
+  {
+    "key": "27-content",
+    "original": "그때, 커다란 무기를 든 해결사 한 명이 성큼성큼 이쪽으로 다가왔다.",
+    "context": "EN :\nThat's when one of the Fixers, wielding a massive weapon, strode in our direction.\nJP :\nそのとき、巨大な武器を持ったフィクサー1名がのそのそと\nこちらへと近寄ってきた。"
+  },
+  {
+    "key": "28-model",
+    "original": "혈귀사냥꾼",
+    "translation": "血魔猎人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "28-teller",
+    "original": "범상치 않은 해결사",
+    "context": "EN :\nIntimidating Fixer\nJP :\n只者ではないフィクサー"
+  },
+  {
+    "key": "28-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "28-content",
+    "original": "너희도… 사냥하러 온 놈들이라고?",
+    "context": "EN :\nYou're here for the hunt? You twerps?\nJP :\nてめぇらも…狩りしに来たやつらってか？"
+  },
+  {
+    "key": "29-model",
+    "original": "휴고",
+    "translation": "雨果",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHugo\nJP :\nヒューゴ"
+  },
+  {
+    "key": "29-teller",
+    "original": "호들갑 떠는 해결사",
+    "context": "EN :\nOverdramatic Fixer\nJP :\n大袈裟なフィクサー"
+  },
+  {
+    "key": "29-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "29-content",
+    "original": "어… 어… 아이고! 그러고 보니 무기 점검하는 걸 잊어버렸네, 이럴 때가 아니지, 얼른 가서 마저 손질해야겠다!",
+    "context": "EN :\nUh... uhm... Oh, oh man! Silly me, I forgot to do maintenance for my weapons. I don't have time for this! I guess I'll, uh, go take care of that now! Bye!\nJP :\nえ…あ…おっと！そういえば武器の点検を忘れてた！\nこんなことしてる場合じゃない、急いで行って手入れを済ませなきゃ！"
+  },
+  {
+    "key": "30-content",
+    "original": "당차게 소리를 지르며 젠체하던 자는, 다른 해결사가 끼어들자 재빠르게 도망쳤고…",
+    "context": "EN :\nThe obnoxious guy, who was clearly way in over his head, hurried away when the giant of a Fixer stomped his way into the conversation...\nJP :\n威勢よく声を張り上げながらもったいぶってたその男は、\n他のフィクサーが割り込むや否や、素早く逃げ出してしまい…。"
+  },
+  {
+    "key": "31-content",
+    "original": "다른 해결사들은 앞으로 벌어질 일을 안다는 듯, 고개를 저으며 이쪽에서 고개를 돌렸다.",
+    "context": "EN :\n... and the other Fixers shook their heads as though they knew what was about to happen.\nJP :\n他のフィクサーたち、これから何が起こるか分かってるかのように、\n首を振りながらこちらから視線を逸らした。"
+  },
+  {
+    "key": "32-model",
+    "original": "혈귀사냥꾼",
+    "translation": "血魔猎人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "32-teller",
+    "original": "범상치 않은 해결사",
+    "context": "EN :\nIntimidating Fixer\nJP :\n只者ではないフィクサー"
+  },
+  {
+    "key": "32-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "32-content",
+    "original": "딱 봐도 협회 출신은 아니고, 이름도 안 알려진 어중간한 사무소에서 온 모양인데…",
+    "context": "EN :\nYou're clearly not Fixers from an Association, obviously not anyone from an Office of even passing renown...\nJP :\nぱっと見でも協会出身ではなく、\n名前も知られていない中途半端な事務所から来た模様だが…。"
+  },
+  {
+    "key": "33-model",
+    "original": "혈귀사냥꾼",
+    "translation": "血魔猎人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "33-teller",
+    "original": "범상치 않은 해결사",
+    "context": "EN :\nIntimidating Fixer\nJP :\n只者ではないフィクサー"
+  },
+  {
+    "key": "33-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "33-content",
+    "original": "대체 몇 명이 더 기어들어 오는 거지? 어중이떠중이가 늘어나는 걸 보니 네놈들이 기대하는 토벌 금액도 계속 줄어들어서 나중에 거스름돈이나 손에 쥘 수 있을지 걱정이군.",
+    "context": "EN :\nHow many more of these small-time freeloaders are we going to take on? Accept any more of them, and we'd end up having to split an Ahn of that reward money between us.\nJP :\n一体何人がこれ以上転がり込んでくんだ？ろくでもねぇやつが\n増えるのを見るに、討伐報酬もどんどん減って\n最終的にはお釣りしか手にできねぇんじゃないかって心配だ。"
+  },
+  {
+    "key": "34-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "34-content",
+    "original": "…온 지 얼마나 됐다고, 시비 거는 놈이 벌써 두 명이냐?",
+    "context": "EN :\n... We're already gettin' these bloody tossers rearin' for a fight, eh?\nJP :\n…来てあんま経ってねぇのに、\nケンカ売るヤツがもう2人か？"
+  },
+  {
+    "key": "35-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "35-content",
+    "original": "옷에는 송곳니 사냥 사무소 라고 써 있긴 하다만, 송곳니 사냥이라 하면…",
+    "context": "EN :\nEmblems on their garbs patently say \"Fanghunt Office\", yet... to hunt fangs has to mean...\nJP :\n服には牙狩(きばがり)事務所と書かれてはいるが、牙狩というと…。"
+  },
+  {
+    "key": "36-model",
+    "original": "혈귀사냥꾼",
+    "translation": "血魔猎人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "36-teller",
+    "original": "범상치 않은 해결사",
+    "context": "EN :\nIntimidating Fixer\nJP :\n只者ではないフィクサー"
+  },
+  {
+    "key": "36-content",
+    "original": "너희, 실제로 본적은 있나?",
+    "context": "EN :\nYou even seen one of 'em in person before?\nJP :\nお前たち、実際に見たことはあるか？"
+  },
+  {
+    "key": "37-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "37-content",
+    "original": "무엇을 말인가?",
+    "context": "EN :\nPrithee, seen what?\nJP :\nなにをであるか？"
+  },
+  {
+    "key": "38-model",
+    "original": "혈귀사냥꾼",
+    "translation": "血魔猎人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "38-teller",
+    "original": "범상치 않은 해결사",
+    "context": "EN :\nIntimidating Fixer\nJP :\n只者ではないフィクサー"
+  },
+  {
+    "key": "38-content",
+    "original": "혈귀.",
+    "context": "EN :\nBloodfiends.\nJP :\n血鬼。"
+  },
+  {
+    "key": "39-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "39-content",
+    "original": "혈귀? 이곳과 혈귀가 관련이 있다는 건가요?",
+    "context": "EN :\nBloodfiends? Wait, we're dealing with Bloodfiends in this contract?\nJP :\n血鬼？ここが血鬼と関係しているってことですか？"
+  },
+  {
+    "key": "40-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "40-content",
+    "original": "이 임무에 혈귀가 연관되어 있다는 것은 전달받지 못한 사실이었다.",
+    "context": "EN :\nWe were not informed of any Bloodfiend involvement in this contract.\nJP :\nこの任務に血鬼が関連しているということは\n伝達されなかった事実であった。"
+  },
+  {
+    "key": "41-model",
+    "original": "혈귀사냥꾼",
+    "translation": "血魔猎人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "41-teller",
+    "original": "범상치 않은 해결사",
+    "context": "EN :\nIntimidating Fixer\nJP :\n只者ではないフィクサー"
+  },
+  {
+    "key": "41-content",
+    "original": "이것 봐. 이놈들도 제대로 아는 것도 없이 들어왔잖아.",
+    "context": "EN :\nWould you look at that. Know-nothing amateurs, all of 'em.\nJP :\nこれ見ろ。こいつらも何もわからないまま\nここに飛び込んできたじゃねぇか。"
+  },
+  {
+    "key": "42-model",
+    "original": "혈귀사냥꾼",
+    "translation": "血魔猎人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "42-teller",
+    "original": "범상치 않은 해결사",
+    "context": "EN :\nIntimidating Fixer\nJP :\n只者ではないフィクサー"
+  },
+  {
+    "key": "42-content",
+    "original": "난 너희같이 돈만 보고 아무것도 모른 채 득달같이 달려드는 놈들을 보면 부아가 치밀어. 혈귀 사냥을 방해하는 것도 모자라서 잔뜩 돋워진 내 흥까지 식게 만들거든.",
+    "context": "EN :\nIt makes my blood boil to watch idiots like you rushing to nab a contract just for the promise of some cash and fame. Not only do you get in the way of the hunt, but you also really spoil the fun out of this activity.\nJP :\n俺はだな、お前らみたいに金だけ見て何も知らずに飛び込んでくるやつらを見ると\n腹が立つんだよ。血鬼狩りの邪魔をするだけじゃなくて、せっかく盛り上がった\n俺の熱意まで冷ましちまうからな。"
+  },
+  {
+    "key": "43-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "43-content",
+    "original": "아니, 왜? 돈만 보고 오는 게 잘못인가?",
+    "context": "EN :\nSay, what? What's so wrong with keeping your eye on the money?\nJP :\nいや、なんで？お金だけ見てくることが間違いなの？"
+  },
+  {
+    "key": "44-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "44-content",
+    "original": "로쟈 씨, 아마도 이 자들은 토벌 현상금이 목표가 아니라…",
+    "context": "EN :\nRodya, I don't think they're here just for the contract reward...\nJP :\nロージャさん、きっとあの人たちは\n討伐懸賞金が目的じゃなくて…。"
+  },
+  {
+    "key": "45-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "45-content",
+    "original": "그래, 이 사건 자체에 특별한 의미를 부여하는 자들이군. 단순히 돈으로 움직이는 자들보다 골치 아픈 유형이지.",
+    "context": "EN :\nHm, yes. This case seems to hold a special meaning to them. Fools driven by their creed are much more troublesome to deal with than simpletons motivated by money.\nJP :\nそうだ、この事件そのものに特別な意味を見出している者たちか。\n単に金で動く奴らよりも厄介なタイプだ。"
+  },
+  {
+    "key": "46-model",
+    "original": "혈귀사냥꾼",
+    "translation": "血魔猎人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "46-content",
+    "original": "혈귀를 상대하는 게 뭔지 알지도 못하는 놈들과 같이 임무를 수행할 마음은 없다.",
+    "context": "EN :\nI refuse to take part in an operation alongside these idiots who don't even know what it's like to deal with Bloodfiends.\nJP :\n血鬼を相手にすることがどういうことかも知らないやつらと、\n一緒に任務を遂行する気は無い。"
+  },
+  {
+    "key": "47-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "47-content",
+    "original": "닥. 허.",
+    "context": "EN :\nS.T.F.U.\nJP :\nだ・ざ。"
+  },
+  {
+    "key": "48-model",
+    "original": "혈귀사냥꾼",
+    "translation": "血魔猎人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "48-content",
+    "original": "…무시하려고 해도 궁금해서 되물어 보게 되는군. 뭐라고 했지?",
+    "context": "EN :\nAs much as I would like to avoid entertaining you amateurs, I'll admit that curiosity has gotten the better of me. What did she just say to me?\nJP :\n…無視しようと思ったけど、気になったから聞き返す。\n何つった？"
+  },
+  {
+    "key": "49-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "49-content",
+    "original": "닥쳐라, 이 허세만 가득한 새끼…!",
+    "context": "EN :\nShut the fuck up, you arrogant son of—!\nJP :\n黙れ、このザマァねぇ虚勢ばかりの野郎が…！"
+  },
+  {
+    "key": "50-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "50-content",
+    "original": "…닥쳐라 허접. 이었다.",
+    "context": "EN :\n... It was \"Shut that flaphole, ugly\".\nJP :\n…黙れザコ。だった。"
+  },
+  {
+    "key": "51-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "51-content",
+    "original": "앗…",
+    "context": "EN :\nOh...!\nJP :\nあっ…。"
+  },
+  {
+    "key": "52-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "52-content",
+    "original": "이번엔 속마음이 좀 더 들어가신 모양이네요~",
+    "context": "EN :\nLooks like you let a bit of your personal feelings bleed into that interpretation~\nJP :\n今回は内心がちょっと入ったみたいですね～。"
+  },
+  {
+    "key": "53-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "53-content",
+    "original": "하지만 그런 단축도 마음에 드는군. 훗.",
+    "context": "EN :\nBut yours wasn't half bad. Heh.\nJP :\nでもそういう短縮も気に入った。ふっ。"
+  },
+  {
+    "key": "54-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "54-content",
+    "original": "아, 아무튼 저희도 혈귀라면 많이는 아니지만 나름 상대해 봤고… 당신들한테 무시 받을 사람은 한 명도 없어요!",
+    "context": "EN :\nA-anyways! This isn't our first Bloodfiend contract, you know? It may not be much, but we've dealt with them before! W-we don't deserve to get talked down to by you like that! Not one of us!\nJP :\nと、とにかく、僕たちも血鬼なら沢山じゃないけど相手してきたことが\nあるし…あなたたちに無視されていいような人は1人もいません！"
+  },
+  {
+    "key": "55-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "55-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "56-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "56-content",
+    "original": "적어도 전투에서만큼은…",
+    "context": "EN :\n... At least when it comes to fighting...\nJP :\n少なくとも戦闘だけなら…。"
+  },
+  {
+    "key": "57-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "57-content",
+    "original": "다 좋았는데 굳이 한 번 뜸 들였어야 해…?",
+    "context": "EN :\nGreat comeback, but I'm docking a few points for that hesitation there...\nJP :\n大体良かったけど、そこでわざわざ\nもったいぶる必要ってあった…？"
+  },
+  {
+    "key": "58-model",
+    "original": "혈귀사냥꾼",
+    "translation": "血魔猎人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "58-content",
+    "original": "혈귀와 싸워 본 경험은 있다는 건가. 그럼 솜씨 한 번 볼까. 어쭙잖은 놈들인지, ‘진짜 사냥꾼’들인지.",
+    "context": "EN :\nSo this ain't your first rodeo, eh? Then show me what you've got. Let's see if you're all talk or if you're 'real hunters' ready for the real deal.\nJP :\n血鬼と戦った経験があるってことか。じゃあ、腕前を見せてもらおうか。\n半端者か、それとも「本物の狩人」かをな。"
+  },
+  {
+    "key": "59-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "59-content",
+    "original": "뭔, 하… 토벌하러 들어가기도 전에 여기서 힘 빼야 돼? 다 허락받고 왔다니까!",
+    "context": "EN :\nWha— Haah... Mate, are we really doin' this? Here? Before we even set foot in there? I'm tellin' you, we've got permits and everything!\nJP :\nなっ、はあ…討伐しに入る前にここでスタミナ使わなきゃなんねぇのか？\nちゃんと許可もらって来たんだっつーの！"
+  },
+  {
+    "key": "60-model",
+    "original": "혈귀사냥꾼",
+    "translation": "血魔猎人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "60-content",
+    "original": "너무 걱정은 마라. 팔다리 정도만 적당히 부러지게 만들어주지. 딱 집으로 돌아가고 싶어질 만큼.",
+    "context": "EN :\nDon't be a baby. I'll hurt you just enough to send you home crying. Will a broken arm and a leg convince you?\nJP :\nそんなに心配するな。手足あたりを丁度良いくらいに折ってやるさ。\n家に帰りたくなるレベルでな。"
+  },
+  {
+    "key": "61-model",
+    "original": "혈귀사냥꾼",
+    "translation": "血魔猎人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "61-content",
+    "original": "집으로 돌아가는 열차를 타면서 우리에게 고마워해라. 혈귀에게 비참하게 피를 빨아 먹히는 것보다는 이편이 더 나을 테니…",
+    "context": "EN :\nYou'll thank us on your train home. I'd say an arm and a leg are much more acceptable losses than getting your blood brutally drained by a Bloodfiend.\nJP :\n家に帰る列車に乗るときには、俺たちに感謝するんだ。\n血鬼に惨めに血を吸われるよりは、この方がマシだろうから…。"
+  }
+]

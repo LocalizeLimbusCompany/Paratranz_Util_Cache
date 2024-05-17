@@ -1,0 +1,732 @@
+[
+  {
+    "key": "2060411-levelList$[0].name",
+    "original": "소다",
+    "context": "EN :\nSoda\nJP :\nソーダ"
+  },
+  {
+    "key": "2060411-levelList$[0].abName",
+    "original": "웰치어스",
+    "context": "EN :\nWellcheers\nJP :\nウェルチアース"
+  },
+  {
+    "key": "2060411-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[EndSkillHead] 현재 체력 비율이 가장 낮은 아군 2명의 체력 10 회복",
+    "context": "EN :\n[EndSkillHead] Heal 2 allies with the lowest HP percentages for 10 HP\nJP :\n[EndSkillHead] 現体力の比率が最も低い味方2名の体力を10回復"
+  },
+  {
+    "key": "2060411-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[EndSkillTail] 정신력이 가장 낮은 아군 2명의 정신력 10 회복",
+    "context": "EN :\n[EndSkillTail] Heal 10 SP for 2 allies with the least SP\nJP :\n[EndSkillTail] 精神力の最も低い味方2名の精神力が10回復"
+  },
+  {
+    "key": "2060411-levelList$[1].name",
+    "original": "소다",
+    "context": "EN :\nSoda\nJP :\nソーダ"
+  },
+  {
+    "key": "2060411-levelList$[1].abName",
+    "original": "웰치어스",
+    "context": "EN :\nWellcheers\nJP :\nウェルチアース"
+  },
+  {
+    "key": "2060411-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[EndSkillHead] 현재 체력 비율이 가장 낮은 아군 2명의 체력 12 회복",
+    "context": "EN :\n[EndSkillHead] Heal 2 allies with the lowest HP percentages for 12 HP\nJP :\n[EndSkillHead] 体力の比率が最も低い味方2名の体力を12回復"
+  },
+  {
+    "key": "2060411-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[EndSkillTail] 정신력이 가장 낮은 아군 2명의 정신력 12 회복",
+    "context": "EN :\n[EndSkillTail] Heal 12 SP for 2 allies with the least SP\nJP :\n[EndSkillTail] 精神力の最も低い味方2名の精神力が12回復"
+  },
+  {
+    "key": "2060411-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[CriticalEndSkill] 현재 체력 비율이 가장 낮은 아군 1명의 체력 6 회복, 정신력이 가장 낮은 아군 1명의 정신력 6 회복",
+    "context": "EN :\n[CriticalEndSkill] Heal the ally with the lowest HP percentage for 6 HP; Heal the ally with the least SP for 6 SP\nJP :\n[CriticalEndSkill] 現体力の比率が最も低い味方1名の体力を6回復、精神力が最も低い味方1名の精神力を6回復"
+  },
+  {
+    "key": "2060411-levelList$[2].name",
+    "original": "소다",
+    "context": "EN :\nSoda\nJP :\nソーダ"
+  },
+  {
+    "key": "2060411-levelList$[2].abName",
+    "original": "웰치어스",
+    "context": "EN :\nWellcheers\nJP :\nウェルチアース"
+  },
+  {
+    "key": "2060411-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[EndSkillHead] 현재 체력 비율이 가장 낮은 아군 2명의 체력 15 회복",
+    "context": "EN :\n[EndSkillHead] Heal 2 allies with the lowest HP percentages for 15 HP\nJP :\n[EndSkillHead] 現体力の比率が最も低い味方2名の体力を15回復"
+  },
+  {
+    "key": "2060411-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[EndSkillTail] 정신력이 가장 낮은 아군 2명의 정신력 15 회복",
+    "context": "EN :\n[EndSkillTail] Heal 15 SP for 2 allies with the least SP\nJP :\n[EndSkillTail] 精神力の最も低い味方2名の精神力が15回復"
+  },
+  {
+    "key": "2060411-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[CriticalEndSkill] 현재 체력 비율이 가장 낮은 아군 1명의 체력 8 회복, 정신력이 가장 낮은 아군 1명의 정신력 8 회복",
+    "context": "EN :\n[CriticalEndSkill] Heal the ally with the lowest HP percentage for 8 HP; Heal the ally with the least SP for 8 SP\nJP :\n[CriticalEndSkill] 現体力の比率が最も低い味方1名の体力を8回復、精神力が最も低い味方1名の精神力を8回復"
+  },
+  {
+    "key": "2060421-levelList$[0].name",
+    "original": "소다",
+    "context": "EN :\nSoda\nJP :\nソーダ"
+  },
+  {
+    "key": "2060421-levelList$[0].abName",
+    "original": "웰치어스",
+    "context": "EN :\nWellcheers\nJP :\nウェルチアース"
+  },
+  {
+    "key": "2060421-levelList$[0].desc",
+    "original": "[CantIdentify]\n체력이 가장 낮은 대상 공격",
+    "context": "EN :\n[CantIdentify] Targets the unit with the least HP\nJP :\n[CantIdentify]\n体力が最も低い対象を攻撃"
+  },
+  {
+    "key": "2060421-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 속박 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Bind next turn\nJP :\n[OnSucceedAttackHead] 次のターンに束縛 1を付与"
+  },
+  {
+    "key": "2060421-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 진동 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Tremor\nJP :\n[OnSucceedAttack] 振動 3を付与"
+  },
+  {
+    "key": "2060421-levelList$[1].name",
+    "original": "소다",
+    "context": "EN :\nSoda\nJP :\nソーダ"
+  },
+  {
+    "key": "2060421-levelList$[1].abName",
+    "original": "웰치어스",
+    "context": "EN :\nWellcheers\nJP :\nウェルチアース"
+  },
+  {
+    "key": "2060421-levelList$[1].desc",
+    "original": "[CantIdentify]\n체력이 가장 낮은 대상 공격",
+    "context": "EN :\n[CantIdentify] Targets the unit with the least HP\nJP :\n[CantIdentify]\n体力が最も低い対象を攻撃"
+  },
+  {
+    "key": "2060421-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 속박 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Bind next turn\nJP :\n[OnSucceedAttackHead] 次のターンに束縛 1を付与"
+  },
+  {
+    "key": "2060421-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 진동 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Tremor\nJP :\n[OnSucceedAttack] 振動 4を付与"
+  },
+  {
+    "key": "2060421-levelList$[2].name",
+    "original": "소다",
+    "context": "EN :\nSoda\nJP :\nソーダ"
+  },
+  {
+    "key": "2060421-levelList$[2].abName",
+    "original": "웰치어스",
+    "context": "EN :\nWellcheers\nJP :\nウェルチアース"
+  },
+  {
+    "key": "2060421-levelList$[2].desc",
+    "original": "[CantIdentify]\n체력이 가장 낮은 대상 공격",
+    "context": "EN :\n[CantIdentify] Targets the unit with the least HP\nJP :\n[CantIdentify]\n体力が最も低い対象を攻撃"
+  },
+  {
+    "key": "2060421-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 1を付与"
+  },
+  {
+    "key": "2060421-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 진동 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Tremor\nJP :\n[OnSucceedAttack] 振動 5を付与"
+  },
+  {
+    "key": "2060511-levelList$[0].name",
+    "original": "들끓는 부식",
+    "context": "EN :\nEffervescent Corrosion\nJP :\n沸き立つ腐食"
+  },
+  {
+    "key": "2060511-levelList$[0].abName",
+    "original": "걷는 진주",
+    "context": "EN :\nAmbling Pearl\nJP :\n歩く真珠"
+  },
+  {
+    "key": "2060511-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] (탐식 공명 수/2)만큼 파열 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict Rupture by (Gluttony Reson. /2)\nJP :\n[OnSucceedAttack] (暴食共鳴数 ÷ 2)だけ破裂 を付与"
+  },
+  {
+    "key": "2060511-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "2060511-levelList$[1].name",
+    "original": "들끓는 부식",
+    "context": "EN :\nEffervescent Corrosion\nJP :\n沸き立つ腐食"
+  },
+  {
+    "key": "2060511-levelList$[1].abName",
+    "original": "걷는 진주",
+    "context": "EN :\nAmbling Pearl\nJP :\n歩く真珠"
+  },
+  {
+    "key": "2060511-levelList$[1].desc",
+    "original": "[BeforeAttack] 자신의 체력이 최대 체력의 50% 미만이면, 공격 가중치 +1",
+    "context": "EN :\n[BeforeAttack] At 50%- HP, Atk Weight +1\nJP :\n[BeforeAttack] 自分の体力が最大値の50%未満なら、攻撃加重値 +1"
+  },
+  {
+    "key": "2060511-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] (탐식 공명 수/2)만큼 파열 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict Rupture by (Gluttony Reson. /2)\nJP :\n[OnSucceedAttack] (暴食共鳴数 ÷ 2)だけ破裂 を付与"
+  },
+  {
+    "key": "2060511-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 탐식 취약 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Gluttony Fragility next turn\nJP :\n[OnSucceedAttackHead] 次のターンに暴食脆弱 2を付与"
+  },
+  {
+    "key": "2060511-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "2060511-levelList$[2].name",
+    "original": "들끓는 부식",
+    "context": "EN :\nEffervescent Corrosion\nJP :\n沸き立つ腐食"
+  },
+  {
+    "key": "2060511-levelList$[2].abName",
+    "original": "걷는 진주",
+    "context": "EN :\nAmbling Pearl\nJP :\n歩く真珠"
+  },
+  {
+    "key": "2060511-levelList$[2].desc",
+    "original": "[BeforeAttack] 자신의 체력이 최대 체력의 50% 미만이면, 공격 가중치 +1\n최대 체력의 25% 미만이면, 추가로 공격 가중치 +1",
+    "context": "EN :\n[BeforeAttack] At 50%- HP, Atk Weight +1;\nAt 25%- HP, gain an additional Atk Weight +1\nJP :\n[BeforeAttack] 自分の体力が最大値の50%未満なら、攻撃加重値 +1\n体力最大値の25%未満なら、追加で攻撃加重値 +1"
+  },
+  {
+    "key": "2060511-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] (탐식 공명 수/2)만큼 파열 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict Rupture by (Gluttony Reson. /2)\nJP :\n[OnSucceedAttack] (暴食共鳴数 ÷ 2)だけ破裂 を付与"
+  },
+  {
+    "key": "2060511-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 탐식 취약 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Gluttony Fragility next turn\nJP :\n[OnSucceedAttack] 次のターンに暴食脆弱 2を付与"
+  },
+  {
+    "key": "2060511-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "2060521-levelList$[0].name",
+    "original": "들끓는 부식",
+    "context": "EN :\nEffervescent Corrosion\nJP :\n沸き立つ腐食"
+  },
+  {
+    "key": "2060521-levelList$[0].abName",
+    "original": "걷는 진주",
+    "context": "EN :\nAmbling Pearl\nJP :\n歩く真珠"
+  },
+  {
+    "key": "2060521-levelList$[0].desc",
+    "original": "[CantIdentify]\n본체 체력이 가장 낮은 대상 공격",
+    "context": "EN :\n[CantIdentify]\nTargets the unit with the least HP\nJP :\n[CantIdentify]\n本体の体力が最も低い対象を攻撃"
+  },
+  {
+    "key": "2060521-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] (탐식 공명 수/3)만큼 파열 횟수 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict Rupture Count by (Gluttony Reson. /3)\nJP :\n[OnSucceedAttack] (暴食共鳴数 ÷ 3)だけ破裂 回数が増加"
+  },
+  {
+    "key": "2060521-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 피해량의 20%만큼 자신의 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 20% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の20%分、自分の体力を回復"
+  },
+  {
+    "key": "2060521-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "2060521-levelList$[1].name",
+    "original": "들끓는 부식",
+    "context": "EN :\nEffervescent Corrosion\nJP :\n沸き立つ腐食"
+  },
+  {
+    "key": "2060521-levelList$[1].abName",
+    "original": "걷는 진주",
+    "context": "EN :\nAmbling Pearl\nJP :\n歩く真珠"
+  },
+  {
+    "key": "2060521-levelList$[1].desc",
+    "original": "[CantIdentify]\n본체 체력이 가장 낮은 대상 공격\n[BeforeAttack] 자신의 체력이 최대 체력의 50% 미만이면, 공격 가중치 +1",
+    "context": "EN :\n[CantIdentify]\nTarget the unit with the least HP\n[BeforeAttack] At 50%- HP, Atk Weight +1\nJP :\n[CantIdentify]\n本体の体力が最も低い対象を攻撃\n[BeforeAttack] 自分の体力が最大値の50%未満なら、攻撃加重値 +1"
+  },
+  {
+    "key": "2060521-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] (탐식 공명 수/3)만큼 파열 횟수 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict Rupture Count by (Gluttony Reson. /3)\nJP :\n[OnSucceedAttack] (暴食共鳴数 ÷ 3)だけ破裂 回数が増加"
+  },
+  {
+    "key": "2060521-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 피해량의 30%만큼 자신의 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 30% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の30%分、自分の体力を回復"
+  },
+  {
+    "key": "2060521-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "2060521-levelList$[2].name",
+    "original": "들끓는 부식",
+    "context": "EN :\nEffervescent Corrosion\nJP :\n沸き立つ腐食"
+  },
+  {
+    "key": "2060521-levelList$[2].abName",
+    "original": "걷는 진주",
+    "context": "EN :\nAmbling Pearl\nJP :\n歩く真珠"
+  },
+  {
+    "key": "2060521-levelList$[2].desc",
+    "original": "[CantIdentify]\n본체 체력이 가장 낮은 대상 공격\n[BeforeAttack] 자신의 체력이 최대 체력의 50% 미만이면, 공격 가중치 +1\n최대 체력의 25% 미만이면, 추가로 공격 가중치 +1",
+    "context": "EN :\n[CantIdentify]\nTarget the unit with the least HP\n[BeforeAttack] At 50%- HP, Atk Weight +1\nAt 25%- HP, additional Atk Weight +1\nJP :\n[CantIdentify]\n本体の体力が最も低い対象を攻撃\n[BeforeAttack] 自分の体力が最大値の50%未満なら、攻撃加重値 +1\n体力最大値の25%未満なら、追加で攻撃加重値 +1"
+  },
+  {
+    "key": "2060521-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] (탐식 공명 수/3)만큼 파열 횟수 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict Rupture Count by (Gluttony Reson. /3)\nJP :\n[OnSucceedAttack] (暴食共鳴数 ÷ 3)だけ破裂 回数が増加"
+  },
+  {
+    "key": "2060521-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 피해량의 50%만큼 자신의 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 50% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の50%分、自分の体力を回復"
+  },
+  {
+    "key": "2060521-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "2060611-levelList$[0].name",
+    "original": "낮은울음",
+    "context": "EN :\nCavernous Wailing\nJP :\n低いなきごえ"
+  },
+  {
+    "key": "2060611-levelList$[0].abName",
+    "original": "울음 두꺼비",
+    "context": "EN :\nBlubbering Toad\nJP :\n泣きヒキガエル"
+  },
+  {
+    "key": "2060611-levelList$[0].desc",
+    "original": "대상에게 [Vibration]이 있으면, 피해량 +(대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 20%)",
+    "context": "EN :\nIf the target has [Vibration], deal +((the sum of [Vibration] Potency and Count on target)/2)% more damage (max 20%)\nJP :\n対象に[Vibration]があれば、ダメージ量 + (対象の[Vibration]威力と[Vibration]回数の合計 ÷ 2)% (最大20%)"
+  },
+  {
+    "key": "2060611-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]3を付与"
+  },
+  {
+    "key": "2060611-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
+  },
+  {
+    "key": "2060611-levelList$[1].name",
+    "original": "낮은울음",
+    "context": "EN :\nCavernous Wailing\nJP :\n低いなきごえ"
+  },
+  {
+    "key": "2060611-levelList$[1].abName",
+    "original": "울음 두꺼비",
+    "context": "EN :\nBlubbering Toad\nJP :\n泣きヒキガエル"
+  },
+  {
+    "key": "2060611-levelList$[1].desc",
+    "original": "대상에게 [Vibration]이 있으면, 피해량 +(대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 <style=\"highlight\">25%</style>)\n<style=\"highlight\">- 최대 공명 수가 4 이상이면, 대신 피해량 +(5 + 대상이 보유한 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 35%)</style>",
+    "context": "EN :\nIf the target has [Vibration], deal +((the sum of [Vibration] Potency and Count on target)/2)% more damage (max <style=\"highlight\">25%</style>)\n<style=\"highlight\">- At 4+ highest Reson., deal +(5 + (the sum of [Vibration] Potency and Count on target)/2)% more damage instead (max 35%)</style>\nJP :\n対象に[Vibration]があれば、ダメージ量 + (対象の[Vibration]威力と[Vibration]回数の合計 ÷ 2)% (最大<style=\"highlight\">25%</style>)\n<style=\"highlight\">- 最大共鳴数が4以上なら、代わりにダメージ量 + (5 + 対象の保有する[Vibration]威力と[Vibration]回数の合計 ÷ 2)% (最大35%)</style>"
+  },
+  {
+    "key": "2060611-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 3, <style=\"highlight\">[Vibration] 횟수 2</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Vibration] and <style=\"highlight\">+2 [Vibration] Count</style>\nJP :\n[OnSucceedAttack] [Vibration]3, <style=\"highlight\">[Vibration]回数2</style>を付与"
+  },
+  {
+    "key": "2060611-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [VibrationEcho] 으로 [Switch_Vibration]</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] [VibrationEcho]で[Switch_Vibration]</style>"
+  },
+  {
+    "key": "2060611-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060611-levelList$[2].name",
+    "original": "낮은울음",
+    "context": "EN :\nCavernous Wailing\nJP :\n低いなきごえ"
+  },
+  {
+    "key": "2060611-levelList$[2].abName",
+    "original": "울음 두꺼비",
+    "context": "EN :\nBlubbering Toad\nJP :\n泣きヒキガエル"
+  },
+  {
+    "key": "2060611-levelList$[2].desc",
+    "original": "대상에게 [Vibration]이 있으면, 피해량 +(<style=\"highlight\">5</style> + 대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 <style=\"highlight\">30%</style>)\n- 최대 공명 수가 4 이상이면, 대신 피해량 +(<style=\"highlight\">7.5</style> + 대상이 보유한 [Vibration] 위력과 [Vibration] 횟수의 합/<style=\"highlight\">1.5</style>)% (최대 <style=\"highlight\">40%</style>)",
+    "context": "EN :\nIf the target has [Vibration], deal +(<style=\"highlight\">5 +</style> (the sum of [Vibration] Potency and Count on target)/2)% more damage (max <style=\"highlight\">30%</style>)\n- At 4+ highest Reson., deal +(<style=\"highlight\">7.5 +</style> (the sum of [Vibration] Potency and Count on target)/<style=\"highlight\">1.5</style>)% more damage instead (max <style=\"highlight\">40%</style>)\nJP :\n対象に[Vibration]があれば、ダメージ量 + (<style=\"highlight\">5</style> + 対象の[Vibration]威力と[Vibration]回数の合計 ÷ 2)% (最大<style=\"highlight\">30%</style>)\n- 最大共鳴数が4以上なら、代わりにダメージ量 + (<style=\"highlight\">7.5</style> + 対象の保有する[Vibration]威力と[Vibration]回数の合計 ÷ <style=\"highlight\">1.5</style>)% (最大<style=\"highlight\">40%</style>)"
+  },
+  {
+    "key": "2060611-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 3, [Vibration] 횟수 <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Vibration] and <style=\"highlight\">+3</style> [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]3, [Vibration]回数<style=\"highlight\">3</style>を付与"
+  },
+  {
+    "key": "2060611-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationEcho] 으로 [Switch_Vibration]<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationEcho]で[Switch_Vibration]<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060611-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060621-levelList$[0].name",
+    "original": "낮은울음",
+    "context": "EN :\nCavernous Wailing\nJP :\n低いなきごえ"
+  },
+  {
+    "key": "2060621-levelList$[0].abName",
+    "original": "울음 두꺼비",
+    "context": "EN :\nBlubbering Toad\nJP :\n泣きヒキガエル"
+  },
+  {
+    "key": "2060621-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n대상에게 [Vibration]이 있으면, 피해량 +(대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 25%)\n- 최대 공명 수가 4 이상이면, 피해량 최대 수치가 35%로 증가",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nIf the target has [Vibration], deal +((the sum of [Vibration] Potency and Count on target)/2)% more damage (max 25%)\n- At 4+ highest Reson., raise the above cap to (max 35%)\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n対象に[Vibration]があれば、ダメージ量 + (対象の[Vibration]威力と[Vibration]回数の合計 ÷ 2)% (最大25%)\n- 最大共鳴数が4以上なら、代わりにダメージ量最大数値が35%に増加"
+  },
+  {
+    "key": "2060621-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 3, [Vibration] 횟수 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]3, [Vibration]回数3を付与"
+  },
+  {
+    "key": "2060621-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
+  },
+  {
+    "key": "2060621-levelList$[1].name",
+    "original": "낮은울음",
+    "context": "EN :\nCavernous Wailing\nJP :\n低いなきごえ"
+  },
+  {
+    "key": "2060621-levelList$[1].abName",
+    "original": "울음 두꺼비",
+    "context": "EN :\nBlubbering Toad\nJP :\n泣きヒキガエル"
+  },
+  {
+    "key": "2060621-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n대상에게 [Vibration]이 있으면, 피해량 +(대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 <style=\"highlight\">30%</style>)\n- 최대 공명 수가 4 이상이면, <style=\"highlight\">대신 피해량 +(5 + 대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 40%)</style>",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nIf the target has [Vibration], deal +((the sum of [Vibration] Potency and Count on target)/2)% more damage (max <style=\"highlight\">30%</style>)\n- At 4+ highest Reson., <style=\"highlight\">deal +(5 + (the sum of [Vibration] Potency and Count on target)/2)% more damage instead (max 40%)</style>\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n対象に[Vibration]があれば、ダメージ量 + (対象の[Vibration]威力と[Vibration]回数の合計 ÷ 2)% (最大<style=\"highlight\">30%</style>)\n- 最大共鳴数が4以上なら、<style=\"highlight\">代わりにダメージ量 + (5 + 対象の[Vibration]威力と[Vibration]回数の合計 ÷ 2)% (最大40%)</style>"
+  },
+  {
+    "key": "2060621-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 3, [Vibration] 횟수 3 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Vibration]3, [Vibration]回数3を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060621-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [VibrationEcho] 으로 [Switch_Vibration]</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] [VibrationEcho]で[Switch_Vibration]</style>"
+  },
+  {
+    "key": "2060621-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소.<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060621-levelList$[1].coinlist[0].coindescs[3].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少</style>"
+  },
+  {
+    "key": "2060621-levelList$[2].name",
+    "original": "낮은울음",
+    "context": "EN :\nCavernous Wailing\nJP :\n低いなきごえ"
+  },
+  {
+    "key": "2060621-levelList$[2].abName",
+    "original": "울음 두꺼비",
+    "context": "EN :\nBlubbering Toad\nJP :\n泣きヒキガエル"
+  },
+  {
+    "key": "2060621-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n대상에게 [Vibration]이 있으면, 피해량 +(<style=\"highlight\">5</style> + 대상의 [Vibration] 위력과 [Vibration] 횟수의 합/2)% (최대 <style=\"highlight\">40%</style>)\n- 최대 공명 수가 4 이상이면, 대신 피해량 +(<style=\"highlight\">7.5</style> + 대상의 [Vibration] 위력과 [Vibration] 횟수의 합/<style=\"highlight\">1.5</style>)% (최대 <style=\"highlight\">50%</style>)",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nIf the target has [Vibration], deal +(<style=\"highlight\">5</style> + (the sum of [Vibration] Potency and Count on target)/2)% more damage (max <style=\"highlight\">40%</style>)\n- At 4+ highest Reson., deal +(<style=\"highlight\">7.5</style> + (the sum of [Vibration] Potency and Count on target)/<style=\"highlight\">1.5</style>)% more damage instead (max <style=\"highlight\">50%</style>)\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n対象に[Vibration]があれば、ダメージ量 + (<style=\"highlight\">5</style> + 対象の[Vibration]威力と[Vibration]回数の合計 ÷ 2)% (最大<style=\"highlight\">40%</style>)\n- 最大共鳴数が4以上なら、代わりにダメージ量 + (<style=\"highlight\">7.5</style> + 対象の[Vibration]威力と[Vibration]回数の合計 ÷ <style=\"highlight\">1.5</style>)% (最大<style=\"highlight\">50%</style>)"
+  },
+  {
+    "key": "2060621-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] <style=\"highlight\">6</style>, [Vibration] 횟수 <style=\"highlight\">6</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">6</style> [Vibration] and <style=\"highlight\">+6</style> [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]<style=\"highlight\">6</style>, [Vibration]回数<style=\"highlight\">6</style>を付与"
+  },
+  {
+    "key": "2060621-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationEcho] 으로 [Switch_Vibration]<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationEcho]で[Switch_Vibration]<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060621-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060621-levelList$[2].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060711-levelList$[0].name",
+    "original": "올가미",
+    "context": "EN :\nLasso\nJP :\n投げ縄"
+  },
+  {
+    "key": "2060711-levelList$[0].abName",
+    "original": "장미 사냥꾼",
+    "context": "EN :\nRose Hunter\nJP :\n薔薇の狩人"
+  },
+  {
+    "key": "2060711-levelList$[0].desc",
+    "original": "대상의 [Burst] 7 당 코인 위력 +1 (최대 2)",
+    "context": "EN :\nCoin Power +1 for every 7 [Burst] on the target (max 2)\nJP :\n対象の[Burst]7につきコイン威力 +1(最大2)"
+  },
+  {
+    "key": "2060711-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Snare] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Snare]\nJP :\n[OnSucceedAttack] [Snare]2を付与"
+  },
+  {
+    "key": "2060711-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 탐식 공명 수 2 당, [Burst] 횟수 1 증가 (최대 3)",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count for every 2 Gluttony Reson. (max 3)\nJP :\n[OnSucceedAttack] 暴食共鳴数2につき、[Burst]回数が1増加(最大3)"
+  },
+  {
+    "key": "2060711-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]1を付与"
+  },
+  {
+    "key": "2060711-levelList$[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "2060711-levelList$[1].name",
+    "original": "올가미",
+    "context": "EN :\nLasso\nJP :\n投げ縄"
+  },
+  {
+    "key": "2060711-levelList$[1].abName",
+    "original": "장미 사냥꾼",
+    "context": "EN :\nRose Hunter\nJP :\n薔薇の狩人"
+  },
+  {
+    "key": "2060711-levelList$[1].desc",
+    "original": "<style=\"highlight\">대상과 자신의 속도의 합이 6 이상이면, 코인 위력 +1</style>\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n<style=\"highlight\">[BeforeAttack] 다음 턴에 [Agility] 2 얻음</style>",
+    "context": "EN :\n<style=\"highlight\">If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1</style>\nCoin Power +1 for every 7 [Burst] on the target (max 2)\n<style=\"highlight\">[BeforeAttack] Gain 2 [Agility] next turn\nJP :\n<style=\"highlight\">対象と自分の速度の合計が6以上なら、コイン威力 +1</style>\n対象の[Burst]7につきコイン威力 +1(最大2)\n<style=\"highlight\">[BeforeAttack] 次のターンに[Agility]2を得る</style>"
+  },
+  {
+    "key": "2060711-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Snare] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Snare]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Snare]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060711-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 탐식 공명 수 2 당, [Burst] 횟수 1 증가 (최대 3)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count for every 2 Gluttony Reson. (max 3)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 暴食共鳴数2につき、[Burst]回数が1増加(最大3)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060711-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 자신의 속도/2만큼 [Laceration]을 무작위로 공격 대상에게 나누어 부여 (최대 3)</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Randomly inflict [Laceration] equal to (this unit's Speed/2) between the targets (max 3)</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 自分の速度÷2だけ[Laceration]をランダムに攻撃対象へ分けて付与(最大3)</style>"
+  },
+  {
+    "key": "2060711-levelList$[1].coinlist[3].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 자신의 속도/2만큼 [Burst]을 무작위로 공격 대상에게 나누어 부여 (최대 3)</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Randomly inflict [Burst] equal to (this unit's Speed/2) between the targets (max 3)</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 自分の速度÷2だけ[Burst]をランダムに攻撃対象へ分けて付与(最大3)</style>"
+  },
+  {
+    "key": "2060711-levelList$[2].name",
+    "original": "올가미",
+    "context": "EN :\nLasso\nJP :\n投げ縄"
+  },
+  {
+    "key": "2060711-levelList$[2].abName",
+    "original": "장미 사냥꾼",
+    "context": "EN :\nRose Hunter\nJP :\n薔薇の狩人"
+  },
+  {
+    "key": "2060711-levelList$[2].desc",
+    "original": "대상과 자신의 속도의 합이 6 이상이면, 코인 위력 +1\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n[BeforeAttack] 다음 턴에 [Agility] 2 얻음<style=\"highlight\"></style>",
+    "context": "EN :\nIf the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on the target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn<style=\"highlight\"></style>\nJP :\n対象と自分の速度の合計が6以上なら、コイン威力 +1\n対象の[Burst]7につきコイン威力 +1(最大2)\n[BeforeAttack] 次のターンに[Agility]2を得る<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060711-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Snare] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Snare]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Snare]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060711-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 다음 턴에 [TakeHpHealReduce] 2 부여</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Inflict 2 [TakeHpHealReduce] next turn</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 次のターンに[TakeHpHealReduce]2を付与</style>"
+  },
+  {
+    "key": "2060711-levelList$[2].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 탐식 공명 수 2 당, [Burst] 횟수 1 증가 (최대 3)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count for every 2 Gluttony Reson. (max 3)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 暴食共鳴数2につき、[Burst]回数が1増加(最大3)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060711-levelList$[2].coinlist[3].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 자신의 속도만큼 [Laceration]을 무작위로 공격 대상에게 나누어 부여 (최대 7)</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Randomly inflict [Laceration] equal to this unit's Speed between the targets (max 7)</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 自分の速度だけ[Laceration]をランダムに攻撃対象へ分けて付与(最大7)</style>"
+  },
+  {
+    "key": "2060711-levelList$[2].coinlist[3].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 자신의 속도만큼 [Burst]을 무작위로 공격 대상에게 나누어 부여 (최대 7)</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Randomly inflict [Burst] equal to this unit's Speed between the targets (max 7)</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 自分の速度だけ[Burst]をランダムに攻撃対象へ分けて付与(最大7)</style>"
+  },
+  {
+    "key": "2060721-levelList$[0].name",
+    "original": "올가미",
+    "context": "EN :\nLasso\nJP :\n投げ縄"
+  },
+  {
+    "key": "2060721-levelList$[0].abName",
+    "original": "장미 사냥꾼",
+    "context": "EN :\nRose Hunter\nJP :\n薔薇の狩人"
+  },
+  {
+    "key": "2060721-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nCoin Power +1 for every 7 [Burst] on the target (max 2)\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n対象の[Burst]7につきコイン威力 +1(最大2)"
+  },
+  {
+    "key": "2060721-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Snare] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Snare]\nJP :\n[OnSucceedAttack] [Snare]3を付与"
+  },
+  {
+    "key": "2060721-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "2060721-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "2060721-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration] 1 당 피해량 +1% (최대 20%)",
+    "context": "EN :\n[OnSucceedAttack] Deal +1% more damage for every [Laceration] on the target (Max 20%)\nJP :\n[OnSucceedAttack] 対象の[Laceration]1につきダメージ量 +1%(最大20%)"
+  },
+  {
+    "key": "2060721-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Burst] 1 당 피해량 +1% (최대 20%)",
+    "context": "EN :\n[OnSucceedAttack] Deal +1% more damage for every [Burst] on the target (Max 20%)\nJP :\n[OnSucceedAttack] 対象の[Burst]1につきダメージ量 +1%(最大20%)"
+  },
+  {
+    "key": "2060721-levelList$[1].name",
+    "original": "올가미",
+    "context": "EN :\nLasso\nJP :\n投げ縄"
+  },
+  {
+    "key": "2060721-levelList$[1].abName",
+    "original": "장미 사냥꾼",
+    "context": "EN :\nRose Hunter\nJP :\n薔薇の狩人"
+  },
+  {
+    "key": "2060721-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n<style=\"highlight\">대상과 자신의 속도의 합이 6 이상이면, 코인 위력 +1</style>\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n<style=\"highlight\">[BeforeAttack] 다음 턴에 [Agility] 2 얻음</style>",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n<style=\"highlight\">If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1</style>\nCoin Power +1 for every 7 [Burst] on the target (max 2)\n<style=\"highlight\">[BeforeAttack] Gain 2 [Agility] next turn</style>\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">対象と自分の速度の合計が6以上なら、コイン威力 +1</style>\n対象の[Burst]7につきコイン威力 +1(最大2)\n<style=\"highlight\">[BeforeAttack] 次のターンに[Agility]2を得る</style>"
+  },
+  {
+    "key": "2060721-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Snare] 3 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Snare]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Snare]3を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060721-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060721-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060721-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration] 1 당 피해량 +1% <style=\"highlight\">(최대 30%)</style>",
+    "context": "EN :\n[OnSucceedAttack] Deal +1% more damage for every [Laceration] on the target <style=\"highlight\">(max 30%)</style>\nJP :\n[OnSucceedAttack] 対象の[Laceration]1につきダメージ量 +1%<style=\"highlight\">(最大30%)</style>"
+  },
+  {
+    "key": "2060721-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Burst] 1 당 피해량 +1% <style=\"highlight\">(최대 30%)</style>",
+    "context": "EN :\n[OnSucceedAttack] Deal +1% more damage for every [Burst] on the target <style=\"highlight\">(max 30%)</style>\nJP :\n[OnSucceedAttack] 対象の[Burst]1につきダメージ量 +1%<style=\"highlight\">(最大30%)</style>"
+  },
+  {
+    "key": "2060721-levelList$[2].name",
+    "original": "올가미",
+    "context": "EN :\nLasso\nJP :\n投げ縄"
+  },
+  {
+    "key": "2060721-levelList$[2].abName",
+    "original": "장미 사냥꾼",
+    "context": "EN :\nRose Hunter\nJP :\n薔薇の狩人"
+  },
+  {
+    "key": "2060721-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n대상과 자신의 속도의 합이 6 이상이면, 코인 위력 +1\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n[BeforeAttack] 다음 턴에 [Agility] 2 얻음\n<style=\"highlight\">[BeforeAttack] 탐식 또는 색욕 공명이 4 이상이면 공격 가중치 +1</style>",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nIf the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on the target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n<style=\"highlight\">[BeforeAttack] At 4+ Gluttony or Lust Reson., gain +1 Atk Weight</style>\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n対象と自分の速度の合計が6以上なら、コイン威力 +1\n対象の[Burst]7につきコイン威力 +1(最大2)\n[BeforeAttack] 次のターンに[Agility]2を得る\n<style=\"highlight\">[BeforeAttack] 暴食または色欲共鳴が4以上なら、攻撃加重値 +1</style>"
+  },
+  {
+    "key": "2060721-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Snare] 3 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Snare]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Snare]3を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060721-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 다음 턴에 [TakeHpHealReduce] 3 부여</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Inflict 3 [TakeHpHealReduce] next turn</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 次のターンに[TakeHpHealReduce]3を付与</style>"
+  },
+  {
+    "key": "2060721-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060721-levelList$[2].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060721-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration] 1 당 피해량 +1% (최대 30%)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Deal +1% more damage for every [Laceration] on the target (max 30%)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 対象の[Laceration]1につきダメージ量 +1%(最大30%)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2060721-levelList$[2].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Burst] 1 당 피해량 +1% (최대 30%)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Deal +1% more damage for every [Burst] on the target (max 30%)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 対象の[Burst]1につきダメージ量 +1%(最大30%)<style=\"highlight\"></style>"
+  }
+]

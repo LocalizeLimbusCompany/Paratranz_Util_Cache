@@ -1,0 +1,90 @@
+[
+  {
+    "key": "0-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "0-content",
+    "original": "산초야… 이 관람차를 보면 옛 전쟁이 떠오르지 않니?",
+    "context": "EN :\nDoes this wheel not remind you of the old war, Sancho?\nJP :\nサンチョよ…この観覧車を見ると、\n昔の戦争を思い出さないか？"
+  },
+  {
+    "key": "1-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "1-content",
+    "original": "풍차처럼… 수많은 팔을 가지고 있던 그 가문의 혈귀들을 말씀하시는 겁니까.",
+    "context": "EN :\n... The Bloodfiends of the Family with many arms, like windmills?\nJP :\n風車のように…数多の腕を持っていたあの家門の\n血鬼たちのことをおっしゃるのですか。"
+  },
+  {
+    "key": "2-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "2-content",
+    "original": "그래, 그 거대한 자들과 일전을 치르는 게 얼마나 가슴이 뛰었던지.",
+    "context": "EN :\nYes, indeed. I remember how hotly my heart beat as I stood against the giantfolk in the field of battle.\nJP :\nそうだ、あの巨大な者たちと一戦を交えることが\nどれほど胸躍ることであったか。"
+  },
+  {
+    "key": "3-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "3-content",
+    "original": "방심하시다 멀리 날아간 걸 구하느라 제가 얼마나 힘들었는지…",
+    "context": "EN :\n... I remember running after you after one of them flung your body far away as a result of you underestimating their might.\nJP :\n油断して遠くに吹き飛ばされたのを助けることに、\n私がどれほど苦労したか…。"
+  },
+  {
+    "key": "4-model",
+    "original": "가면키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "4-content",
+    "original": "그런 네가 이제는 내 뒤가 아니라, 앞에 서 있구나.",
+    "context": "EN :\nYet you no longer run after me. Now you stand against me.\nJP :\nそんな君が今では吾の後ろではなく、\n前に立っているのだな。"
+  },
+  {
+    "key": "5-model",
+    "original": "산초",
+    "translation": "桑丘",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSancho\nJP :\nサンチョ"
+  },
+  {
+    "key": "5-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "7-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "7-content",
+    "original": "<…!>",
+    "context": "EN :\n<…!>\nJP :\n<……！>"
+  },
+  {
+    "key": "8-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "8-content",
+    "original": "<다, 다들 피해! 아, 아니 막아!>",
+    "context": "EN :\n<D-dodge! O-or raise your guards!>\nJP :\n<み、みんな避けて！そ、それか防いで！>"
+  }
+]

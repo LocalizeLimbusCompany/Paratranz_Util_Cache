@@ -1,0 +1,759 @@
+[
+  {
+    "key": "0-place",
+    "original": "단테의 개인실",
+    "context": "EN :\nDante's Room\nJP :\nダンテの個室"
+  },
+  {
+    "key": "0-content",
+    "original": "마음속에 무언가가 얹혔던 것처럼 무거웠던 것이 해결되어서였을까.",
+    "context": "EN :\nIt's been a long while since I was able to relax like this, all alone in my room with not a concern in my mind.\nJP :\n心の中にあった、何か重いものが\nのしかかっていたかのような事象が解決したからだろうか。"
+  },
+  {
+    "key": "1-content",
+    "original": "나는 오래간만에 느긋한 여유로움을 느끼면서 개인 공간에서의 휴식을 즐기고 있었다.",
+    "context": "EN :\nMaybe it's because a heavy burden had been lifted from my heart.\nJP :\n私は久々に長閑(のどか)なゆとりを感じながら、個室での休憩を楽しんでいた。"
+  },
+  {
+    "key": "2-content",
+    "original": "수감자들에게는 큰일이 마무리된 기념이라는 구실을 삼아, 하루 정도 개인 공간에서 휴식을 취해보자고 이야기하기도 했고.",
+    "context": "EN :\nI told the Sinners that we should take a day off or so in our respective rooms. After what happened... we deserved a good rest.\nJP :\n囚人たちには、一仕事片付いたという口実で\n一日くらいは個室で休憩を取ろうとも話したし。"
+  },
+  {
+    "key": "3-content",
+    "original": "…물론 몇몇 이유 중 제법 큰 지분을 차지하는 것이 뱃멀미에서 빠져나오지 못하고 있는 이상을 위한 것도 있었지만. (아무래도 개인 공간까지는 배의 흔들림이 전달되진 않는 것 같다.)",
+    "context": "EN :\n... A big part of that decision was also to relieve Yi Sang of his seasickness at least for a day. (I don't think the Sinners' rooms sway with the waves.)\nJP :\n…もちろん、いくつかの理由の中で一番大きいのは船酔いから立ち直れていない\nイサンのためではあったけど。(どうやら個室には船の振動が伝わらないようだ。)"
+  },
+  {
+    "key": "4-content",
+    "original": "대호수를 벗어나려면 아직도 시간이 꽤 필요하니까, 하루 정도는 이렇게 여유로운 한때를 보내는 게 좋을 것 같았다.",
+    "context": "EN :\nWe're still a ways away from getting out of the Great Lake. I thought it would be a good idea to have a day like this where we could just sit and relax.\nJP :\n大湖から離れるにはまだ結構時間が掛かるから、一日くらいはこうやって\nゆとりある時間を過ごすのが良いだろうと思った。"
+  },
+  {
+    "key": "5-content",
+    "original": "물론, 우리가 완전한 휴가를 받은 건 아닌 만큼 무슨 일이 일어나면 이 휴식은 없었던 일이 되겠지만…",
+    "context": "EN :\nOf course, this wasn't like a real vacation or anything. If anything were to happen, this little time off would be over just like that.\nJP :\nもちろん、私たちは完全に休暇をもらったわけじゃないので\n何かが起こればこの休憩は無かったことになるだろうけど…。"
+  },
+  {
+    "key": "6-content",
+    "original": "가령, 뜬금없는 타이밍에 울려 퍼지는 메피스토펠레스의 알람이라던가.",
+    "context": "EN :\n... Like that eardrum-tearing siren of Mephistopheles that always finds the worst times to go off, for example.\nJP :\nたとえば、唐突なタイミングで鳴り響くメフィストフェレスのアラームだとか。"
+  },
+  {
+    "key": "7-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "7-content",
+    "original": "<…아.>",
+    "context": "EN :\n<... Oh.>\nJP :\n<…あっ。>"
+  },
+  {
+    "key": "8-content",
+    "original": "…그래.",
+    "context": "EN :\n... Yeah.\nJP :\n…うん。"
+  },
+  {
+    "key": "9-content",
+    "original": "결국 이렇게 될 줄 알았지.",
+    "context": "EN :\nI had a feeling that something like this was going to happen.\nJP :\n結局はこうなるって思ってた。"
+  },
+  {
+    "key": "10-content",
+    "original": "이젠 새삼스럽지도 않다.",
+    "context": "EN :\nI'm not even upset at this point.\nJP :\nもはや、何とも思わなくなってきた。"
+  },
+  {
+    "key": "11-place",
+    "original": "메피스토펠레스 선실",
+    "context": "EN :\nCabins of Mephistopheles\nJP :\nメフィストフェレス 船室"
+  },
+  {
+    "key": "11-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "11-content",
+    "original": "이번에는… 진짜 쓸모 있는 알람이어야 할 거다…",
+    "context": "EN :\nThis siren better be worth getting off our bums for...\nJP :\n今度こそ…マジで意味あるアラームじゃねぇとタダじゃおかねぇかんな…。"
+  },
+  {
+    "key": "12-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "12-content",
+    "original": "어차피 방 안에서 할 것도 없지 않았는가! 히스클리프 군도 틀어박혀 있기만 해선 재미없을 터!",
+    "context": "EN :\nThere was naught to do in our respective chambers anyway, Heathcliff! I imagine that the time spent alone in thy room must have been quite dreary, indeed!\nJP :\nどうせ部屋の中でやることも無かったではあるまいか！\nヒースクリフ君も閉じこもってばかりでは楽しくないはずである！"
+  },
+  {
+    "key": "13-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "13-content",
+    "original": "쯧, 나도 사색이라는 걸 즐기는 사람이라고…",
+    "context": "EN :\nTsk, I can be a contemplative man from time to time, alright?\nJP :\nちっ、オレも思索ってモンを楽しむ人間なんだよ…。"
+  },
+  {
+    "key": "14-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "14-content",
+    "original": "헉! 그랬는가?",
+    "context": "EN :\nGASP! For truth?!\nJP :\nはっ！そうであったか？"
+  },
+  {
+    "key": "15-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "15-content",
+    "original": "…시계 대가리. 당분간 누구 살릴 일도 없는데, 오늘 하루만 1인분 돌려라. 괜찮지?",
+    "context": "EN :\n... Oi, Clockhead. One clock-turnin' coming right up. This'll be the last one in a while, so just take one for the team, alright?\nJP :\n…時計ヅラ。当分誰も生き返らせることもねぇんだし\n今日だけ1人前、回してくれ。いいよな？"
+  },
+  {
+    "key": "16-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "16-content",
+    "original": "<…베르길리우스한테는 안 물어봐도 되는 거야?>",
+    "context": "EN :\n<... Aren't you going to ask Vergilius for permission, too?>\nJP :\n<…ヴェルギリウスに訊かなくて大丈夫？>"
+  },
+  {
+    "key": "17-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "17-content",
+    "original": "…크윽! 열 받네!",
+    "context": "EN :\n... Agh, bollocks.\nJP :\n…ぐっ！腹立つな！"
+  },
+  {
+    "key": "18-content",
+    "original": "…히스클리프를 대하는 방법도 이젠 제법 노하우가 생긴 것만 같다.",
+    "context": "EN :\n... I think I'm starting to get a handle on how to manage Heathcliff.\nJP :\n…ヒースクリフと接する方法に関しても、\nかなりノウハウが蓄積したような気がする。"
+  },
+  {
+    "key": "19-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "19-content",
+    "original": "잘 되었군요, 히스클리프.",
+    "context": "EN :\nGood news, Heathcliff.\nJP :\n良かったですね、ヒースクリフ。"
+  },
+  {
+    "key": "20-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "20-content",
+    "original": "이번에는 쓸모가 있는 알람이었던 것 같습니다.",
+    "context": "EN :\nThis volatility alarm seems to be something we can make use of.\nJP :\n今回は意味のあるアラームだったようです。"
+  },
+  {
+    "key": "21-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "21-content",
+    "original": "<그럼…>",
+    "context": "EN :\n<Then...>\nJP :\n<じゃあ…。>"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-content",
+    "original": "네, 거울 던전 쪽에서 문의 변화가 유의미하게 일어난 것 같습니다.",
+    "context": "EN :\nIndeed. A notable change has occurred in one of the Mirror Dungeon doors.\nJP :\nはい、鏡ダンジョンの方で\n扉の変化が有意に発生したようです。"
+  },
+  {
+    "key": "23-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "23-content",
+    "original": "단테, 제안해 주신 휴식은…",
+    "context": "EN :\nDante, the short downtime you suggested...\nJP :\nダンテ、ご提案いただいた休息は…。"
+  },
+  {
+    "key": "24-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "24-content",
+    "original": "<알아… 어쩐지 이럴 것 같았어.>",
+    "context": "EN :\n<Yeah, I know... I knew something like this was going to happen anyway.>\nJP :\n<分かってる…何だかこうなるって思ってたよ。>"
+  },
+  {
+    "key": "25-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "25-content",
+    "original": "…….",
+    "context": "EN :\n......\nJP :\n……。"
+  },
+  {
+    "key": "26-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "26-content",
+    "original": "…그렇군요. 그럼, 변화가 감지된 곳으로 이동하도록 하겠습니다.",
+    "context": "EN :\n... I see. Then, let us investigate the area where the volatility was detected.\nJP :\n…そうですか。では、変化が感知された場所へ移動いたします。"
+  },
+  {
+    "key": "27-content",
+    "original": "묘한 기류를 내뿜는 파우스트와 베르길리우스의 시선이 아리송하긴 했지만…",
+    "context": "EN :\nThere was something odd about the way Faust and Vergilius were looking at me, but...\nJP :\n妙なオーラを漂わせるファウストと\nヴェルギリウスの視線が何だか気になりはしたが…。"
+  },
+  {
+    "key": "28-content",
+    "original": "간만의 긴 휴식을 빼앗긴 수감자들의 아우성을 다독여가며 거울 던전까지 이동하는 일이, 지금은 더 신경이 쓰이는 상황이었다.",
+    "context": "EN :\n... I was too busy to worry about the two of them. I had to somehow convince the Sinners, who had their long-awaited proper break taken away from them as soon as it started, to get to work.\nJP :\nそれよりかは、久々の長い休息を奪われた囚人の阿鼻叫喚をなだめながら\n鏡ダンジョンまで移動する方が今のところ大事であった。"
+  },
+  {
+    "key": "29-place",
+    "original": "버스의 뒷문",
+    "context": "EN :\nBus’s Backdoor\nJP :\nバスの裏口"
+  },
+  {
+    "key": "29-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "29-content",
+    "original": "또 막혀있던 곳에 새로운 문이 생겼군…",
+    "context": "EN :\nHm. Another locked door has opened... The 'Keep Out' tapes have also disappeared.\nJP :\n塞がっていた場所に、また新たな扉ができたか…。"
+  },
+  {
+    "key": "30-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "30-content",
+    "original": "이번엔 문이 좀 푸르스름하네요…?",
+    "context": "EN :\nThe door looks a bit... blueish this time, doesn't it?\nJP :\n今回は扉が少し青っぽいですね…？"
+  },
+  {
+    "key": "31-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "31-content",
+    "original": "원래 있던 문들은 어디갔죠…? 이런 색은 아니었던 것 같은데.",
+    "context": "EN :\nWhere did the other doors go...? I don't think they were blue like this.\nJP :\n元々あった扉はどこに行ったんですか…？\nこんな色じゃなかった気がするんですけど。"
+  },
+  {
+    "key": "32-content",
+    "original": "이스마엘이 말한 대로, 거울 던전에 문이 새롭게 생길 때마다 새로운 모습으로 나타나는 것 같았다.",
+    "context": "EN :\nThe door did look a bit blue this time. Looks like every new Mirror Dungeon door will have a different design.\nJP :\nイシュメールの言う通り鏡ダンジョンの扉は、新たに発生するたびに\nまた新しい姿で現れるようであった。"
+  },
+  {
+    "key": "33-content",
+    "original": "사라지기도 하는 것 같고…",
+    "context": "EN :\n... And disappear from time to time, I guess...\nJP :\n消えることもあるみたいだ…。"
+  },
+  {
+    "key": "34-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "34-content",
+    "original": "<문 너머에서 철썩거리는 소리가 들리는 것 같은데.>",
+    "context": "EN :\n<I can hear... rolling waves from the other side, I think.>\nJP :\n<扉の向こうからぴちゃぴちゃって音が聞こえてくる気がするんだけど。>"
+  },
+  {
+    "key": "35-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "35-content",
+    "original": "단말에서 넘어온 정보에 따르면, 이번 뒷문의 변화로 발생한 신규 공간을 ‘호수의 거울’로 호칭하기로 정한 것 같군요.",
+    "context": "EN :\nAccording to the information relayed to us via the device, it appears that the official designation for this new area summoned by the Backdoor volatility will be 'Mirror of the Lake'.\nJP :\n端末に出力された情報によると、今回の裏口の変化で発生した\n新規の空間を「湖の鏡」と呼称することにしたようですね。"
+  },
+  {
+    "key": "36-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "36-content",
+    "original": "…흐음.",
+    "context": "EN :\n... Hm.\nJP :\n…ふむ。"
+  },
+  {
+    "key": "37-content",
+    "original": "이스마엘의 눈썹이 미묘하게 꿈틀거렸다.",
+    "context": "EN :\nIshmael's eyebrows twitched.\nJP :\nイシュメールの眉が微かに歪んだ。"
+  },
+  {
+    "key": "38-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "38-content",
+    "original": "저번에 이상 씨 때도 그렇고…",
+    "context": "EN :\nThis is exactly what happened after we wrapped up Yi Sang's business...\nJP :\n前回のイサンさんのときもそうですけど…。"
+  },
+  {
+    "key": "39-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "39-content",
+    "original": "무작위로 이런 새로운 공간이 만들어진다고 하기에는 굉장히 수감자 친화적인 변화네요, 파우스트 씨?",
+    "context": "EN :\n... It seems too convenient to call it a coincidence, doesn't it? It's like these areas are tailor-made for each Sinners. Faust?\nJP :\nランダムにこんな新たな空間が作られるというには\nとても囚人フレンドリー過ぎる変化ですね、ファウストさん？"
+  },
+  {
+    "key": "40-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "40-content",
+    "original": "…메피스토펠레스의 엔진은 황금가지가 수복될 때 마다 감응하도록 설계되어 있습니다.",
+    "context": "EN :\n... Mephistopheles' engine is designed to change and adapt every time a Golden Bough is retrieved.\nJP :\n…メフィストフェレスのエンジンは、黄金の枝が\n奪回されるたびに感応するよう設計されています。"
+  },
+  {
+    "key": "41-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "41-content",
+    "original": "버스의 뒷문 역시 엔진의 힘을 통해 만들어진 것.",
+    "context": "EN :\nAnd the Backdoor is also a product of the engine.\nJP :\nバスの裏口もまた、エンジンの力を通じて作られたもの。"
+  },
+  {
+    "key": "42-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "42-content",
+    "original": "황금가지와 직접적인 연관이 있었던 수감자들의 ‘사건’에 영향을 받는 것도 무리는 아니겠지요.",
+    "context": "EN :\nIt would not be a reach to theorize that the 'incidents' with each Sinner would affect the engine, which in turn influences the contents of the Backdoor.\nJP :\n黄金の枝と直接的関連のあった囚人の「事件」に\n影響を受けるのも無理はありません。"
+  },
+  {
+    "key": "43-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "43-content",
+    "original": "그 말은, 앞으로 다른 황금가지를 회수할 때마다 새로운 공간이 만들어지는 건 확정적이라는 뜻이겠네요.",
+    "context": "EN :\nIn other words, it's pretty much a guarantee that with each Golden Bough retrieval, we'll be getting a new 'zone', from now on.\nJP :\nということは、これから他の黄金の枝を奪回してくるたびに\n新たな空間が形成されるというのは確定しているという意味ですね。"
+  },
+  {
+    "key": "44-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "44-content",
+    "original": "확률은 높습니다.",
+    "context": "EN :\nQuite likely, yes.\nJP :\n確率は高いです。"
+  },
+  {
+    "key": "45-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "45-content",
+    "original": "그렇군요… 네, 설명해 줘서 고맙네요.",
+    "context": "EN :\nOkay... Yeah, thanks for the explanation.\nJP :\nそうですか…はい、説明してくれてありがとうございます。"
+  },
+  {
+    "key": "46-content",
+    "original": "이스마엘 특유의 의문스러운 부분을 날카롭게 찌르는 말투가 바뀐 것은 아니었지만… (호수라는 단어에 조금 민감해진 것일지도 모르겠다.)",
+    "context": "EN :\nIshmael's willingness to sharply and boldly question all things suspicious did not change at all, but... (Or maybe she just didn't like the fact that the word 'lake' was even brought up.)\nJP :\nイシュメール特有の「疑わしい部分は鋭く刺す」口調が変わったわけじゃないけど…。\n(湖という単語のせいで少し過敏になったのかもしれない。)"
+  },
+  {
+    "key": "47-content",
+    "original": "대호수에서의 사건이 계기였는지, 수감자들에게 필요 이상으로 이스마엘 나름대로 날카롭게 말하지 않도록 주의하고 있다는 느낌을 받았다.",
+    "context": "EN :\n... after the events at the Great Lake, maybe she was starting to take care not to be as blunt and scathing toward her fellow Sinners. Not more than necessary, anyway.\nJP :\nやはり大湖での事件がきっかけだろうか、イシュメールなりに\n囚人に対して必要以上に刺々しく言わないように注意しているような印象を受けた。"
+  },
+  {
+    "key": "48-content",
+    "original": "…좋은 변화인 것 같아 다행이다.",
+    "context": "EN :\n... That's good. I'm relieved.\nJP :\n…良い変化みたいだ、よかった。"
+  },
+  {
+    "key": "49-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "49-content",
+    "original": "잠시. 문제가 하나 더 있다.",
+    "context": "EN :\nWait. That raises another question.\nJP :\n待て。問題がもう一つある。"
+  },
+  {
+    "key": "50-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "50-content",
+    "original": "말씀하시죠.",
+    "context": "EN :\nDo ask.\nJP :\nどうぞおっしゃってください。"
+  },
+  {
+    "key": "51-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "51-content",
+    "original": "황금가지는 분명, 회수 후 LCCA를 통해 본사로 이송 된다고 들었다. 이 자리에 존재하지도 않는 것이 그런 영향을 끼칠 수 있는 건가?",
+    "context": "EN :\nAre the Golden Boughs not immediately shipped to the headquarters by the After Team as soon as we retrieve them? How can they affect the engines if they're not here?\nJP :\n黄金の枝は確かに、回収後LCCAを通じて本社へ移送されたと聞いた。\nこの場に存在すらしないものが、そういった影響を与えることはできるのか？"
+  },
+  {
+    "key": "52-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "52-content",
+    "original": "…그 질문에 대답하기 위해서는 조금 긴 시간을 필요로 할 것 같네요.",
+    "context": "EN :\n... The answer to that question requires a rather lengthy explanation.\nJP :\n…その質問に答えるためには、少々長い時間が必要になると思います。"
+  },
+  {
+    "key": "53-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "53-content",
+    "original": "상관 없다.",
+    "context": "EN :\nI care not.\nJP :\n関係ない。"
+  },
+  {
+    "key": "54-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "54-content",
+    "original": "<아, 아니… 오티스. 가능하면 지금은 이야기를 줄이자.>",
+    "context": "EN :\n<W-wait. Outis. How about we try to wrap this up as quickly as we can?>\nJP :\n<あっ、いや…ウーティス。できれば今は手短に済ませようよ。>"
+  },
+  {
+    "key": "55-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "55-content",
+    "original": "…우웁.",
+    "context": "EN :\n... Hurk.\nJP :\n…うぇっぷ。"
+  },
+  {
+    "key": "56-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "56-content",
+    "original": "<빨리 다른 공간으로 넘어가는 편이 이상을 좀 더 편하게 해줄 수 있을 것 같거든…>",
+    "context": "EN :\n<We better get to someplace that's not constantly swaying. Yi Sang's really not having a good time out here...>\nJP :\n<早く別の空間へ移動する方が、イサンのためになると思うんだ…。>"
+  },
+  {
+    "key": "57-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "57-content",
+    "original": "짧지 않은 휴식을 갖는다 하여 약을 먹지 않았소… 미안하오…",
+    "context": "EN :\nI did not take my medicine... for I assumed that we would be having a brief respite... I beg your forgiveness...\nJP :\n短からぬ休憩を取ると聞きて薬を飲みたらず…面目なし…。"
+  },
+  {
+    "key": "58-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "58-content",
+    "original": "…결론만 듣지.",
+    "context": "EN :\n... I'll hear just the summary, then.\nJP :\n…結論だけ聞こう。"
+  },
+  {
+    "key": "59-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "59-content",
+    "original": " 요약하자면, 황금가지는 수복 후 본사에 이송되어 특정 절차를 거쳐 조율을 하게 됩니다.",
+    "context": "EN :\nIn summary... once the Golden Bough is retrieved, and when Limbus Company headquarters goes through a certain tuning process...\nJP :\n要約すると、黄金の枝は奪回後に本社へ移送され\n特定の手順を経て調律されます。"
+  },
+  {
+    "key": "60-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "60-content",
+    "original": "조율 과정이 마무리 되면, 메피스토펠레스의 엔진과 황금가지가 내보내는 파장이 맞물려 공명을 일으키게 되죠.",
+    "context": "EN :\n... Mephistopheles' Engine and the Golden Bough's wavelengths will overlap, causing a resonance effect.\nJP :\n調律手続きが終われば、メフィストフェレスのエンジンと\n黄金の枝が放出する波長が噛み合って共鳴を起こします。"
+  },
+  {
+    "key": "61-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "61-content",
+    "original": "…관리자의 머리에 있는 황금가지와도 함께.",
+    "context": "EN :\n... Which is a process that involves resonating with the Golden Bough in your head as well, Manager.\nJP :\n…管理人の頭にある黄金の枝と共に。"
+  },
+  {
+    "key": "62-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "62-content",
+    "original": "<그, 그런 거였어?>",
+    "context": "EN :\n<T-that's how it works?>\nJP :\n<そ、そういうことだったの？>"
+  },
+  {
+    "key": "63-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "63-content",
+    "original": "그 과정이 관리자 님께 해를 끼치지는 않는 건가?",
+    "context": "EN :\nDoes that process not harm the Executive Manager?\nJP :\nその過程で、管理人様に害が及ぶことは無いのか？"
+  },
+  {
+    "key": "64-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "64-content",
+    "original": "네, 뭐. 보셔 오셨다시피.",
+    "context": "EN :\nNo. As you have witnessed it yourself.\nJP :\nはい、まぁ。ご覧の通り。"
+  },
+  {
+    "key": "65-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "65-content",
+    "original": "흠. 일단 회수하면 반응하는 건가. 알았다.",
+    "context": "EN :\nHm. So once it is retrieved... the Golden Bough continues to affect those it resonated with. I see.\nJP :\nふむ、一旦回収すれば反応するということか。\n分かった。"
+  },
+  {
+    "key": "66-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "66-content",
+    "original": "저기~ 이제 지루하게 설명 듣는 시간은 끝난 거야?",
+    "context": "EN :\nGuys~ Are we done with the boring lectures?\nJP :\nねぇ～これでつまんない説明の時間は終わりってことでいい？"
+  },
+  {
+    "key": "67-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "67-content",
+    "original": "빨. 강.",
+    "context": "EN :\nE.W.T.L.\nJP :\nは・こ。"
+  },
+  {
+    "key": "68-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "68-content",
+    "original": "빨리 강의는 끝내라고…",
+    "context": "EN :\n'Enough with the lecture'...\nJP :\n早く講義は終わらせろって…。"
+  },
+  {
+    "key": "69-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "69-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "70-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "70-content",
+    "original": "<파우스트, 이 던전은 지금 확인해야 하는 거지?>",
+    "context": "EN :\nFaust, this Dungeon... we have to enter it now, don't we?\nJP :\nファウスト、このダンジョンは今確認すべきなんだよね？"
+  },
+  {
+    "key": "71-content",
+    "original": "수감자들에게 휴식을 권해 놓고서 번복하는 것 같아서 썩 내키지는 않지만…",
+    "context": "EN :\nIt felt like I was going back on my promise, after telling everyone that we could relax. I didn't like this one bit.\nJP :\n囚人たちに休息を奨めといた癖に\n撤回するような気がして、なんだか気乗りはしないけど…。"
+  },
+  {
+    "key": "72-content",
+    "original": "어째선지, 파우스트의 대답을 예상할 수 있을 것만 같았다.",
+    "context": "EN :\nBut... I think I already knew what Faust was going to say.\nJP :\nなんでだろう、聞く前からファウストが何て答えてくるのか分かる気がする。"
+  },
+  {
+    "key": "73-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "73-content",
+    "original": "파우스트는 가능한 빠르게 새로운 공간을 탐색할 것을 권장해 드리고 싶습니다.",
+    "context": "EN :\nFaust suggests that we explore the new zone as soon as we are able.\nJP :\nファウストとしては、可及的速やかに\n新たな空間を探索することをお薦めしたいですね。"
+  },
+  {
+    "key": "74-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "74-content",
+    "original": "대호수에서 육지로 돌아갈 때까지의 시간이 남았고, 특별히 해야 할 일도 없는 상황에선 거울 던전에서의 자원 확보와 성장이 적절한 활동이 될 테니.",
+    "context": "EN :\nMephistopheles is still at a significant distance from the shores, and there are not many activities to do before reaching our next destination. This will be an appropriate exercise for us during this empty period.\nJP :\n大湖から陸地へと戻るまでの時間が残っており、特にやるべきことも無い状況では\n鏡ダンジョンでの資源確保と成長が適切な活動になりますので。"
+  },
+  {
+    "key": "75-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "75-content",
+    "original": "<끄응…>",
+    "context": "EN :\n<Ugh...>\nJP :\n<うっ…。>"
+  },
+  {
+    "key": "76-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "76-content",
+    "original": "관리자님, 말씀하신 것을 번복하는 일이 마음에 들지는 않으실 수 있겠지만.",
+    "context": "EN :\nExecutive Manager. I understand that you may feel uncomfortable going against your earlier orders.\nJP :\n管理人様、おっしゃったことを撤回なさることは\n気に食わないことかもしれませんが。"
+  },
+  {
+    "key": "77-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "77-content",
+    "original": "저희의 남은 여정을 고려해 보았을 때, 이 새로운 공간에서 얻을 수 있는 자원과 전투 경험은 게을리하기 어려운 것들이라고 사료됩니다.",
+    "context": "EN :\nBut consider the fact that this journey will continue on for quite some time. I believe that the resources and the combat experience that can be gained from this new area would be quite considerable.\nJP :\nわたくしたちの残った旅程を考慮すると、この新たな空間で得られる\n資源と戦闘経験は捨てがたいものだと考えられます。"
+  },
+  {
+    "key": "78-content",
+    "original": "내가 그 말에 고개를 끄덕이자, 수감자들은 저마다의 불만을 내비치면서도 던전으로 향할 채비를 하기 시작했고…",
+    "context": "EN :\nI nodded affirmatively. The Sinners each began grumbling and aired their woes... but they still prepared to head into the Dungeons once again.\nJP :\n私がその言葉に頷くと、囚人たちはそれぞれ不満を吐き出しながらも\nダンジョンへと向かう準備を始め…。"
+  },
+  {
+    "key": "79-content",
+    "original": "그렇게 우리는 새로 생긴 문 안으로 향했다.",
+    "context": "EN :\nThus we entered the newly formed door.\nJP :\nそうして私たちは、新たに生じた扉の中へと入っていった。"
+  }
+]

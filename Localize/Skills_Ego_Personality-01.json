@@ -1,0 +1,497 @@
+[
+  {
+    "key": "2010611-levelList$[0].name",
+    "original": "지난 날",
+    "context": "EN :\nBygone Days\nJP :\n過ぎし日"
+  },
+  {
+    "key": "2010611-levelList$[0].abName",
+    "original": "어느 날의 초상",
+    "context": "EN :\nPortrait of a Certain Day\nJP :\n在りし日の肖像"
+  },
+  {
+    "key": "2010611-levelList$[0].desc",
+    "original": "[EndSkill] [Sinking] 6 + (우울 공명 수)을 무작위로 공격 대상에게 나눠서 부여",
+    "context": "EN :\n[EndSkill] Randomly inflict (6 + Gloom Reson.) [Sinking] between targets\nJP :\n[EndSkill] [Sinking]6 + (憂鬱共鳴数)を、ランダムに攻撃対象へ分けて付与"
+  },
+  {
+    "key": "2010611-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 다음 턴에 [Binding] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has 6+ [Sinking], inflict 1 [Binding] next turn\nJP :\n[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]1を付与"
+  },
+  {
+    "key": "2010611-levelList$[1].name",
+    "original": "지난 날",
+    "context": "EN :\nBygone Days\nJP :\n過ぎし日"
+  },
+  {
+    "key": "2010611-levelList$[1].abName",
+    "original": "어느 날의 초상",
+    "context": "EN :\nPortrait of a Certain Day\nJP :\n在りし日の肖像"
+  },
+  {
+    "key": "2010611-levelList$[1].desc",
+    "original": "[EndSkill] [Sinking] 6 + (우울 공명 수)을 무작위로 공격 대상에게 나눠서 부여",
+    "context": "EN :\n[EndSkill] Randomly inflict (6 + Gloom Reson.) [Sinking] between targets\nJP :\n[EndSkill] [Sinking]6 + (憂鬱共鳴数)を、ランダムに攻撃対象へ分けて付与"
+  },
+  {
+    "key": "2010611-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 다음 턴에 [Binding] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has 6+ [Sinking], inflict 2 [Binding] next turn\nJP :\n[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]2を付与"
+  },
+  {
+    "key": "2010611-levelList$[2].name",
+    "original": "지난 날",
+    "context": "EN :\nBygone Days\nJP :\n過ぎし日"
+  },
+  {
+    "key": "2010611-levelList$[2].abName",
+    "original": "어느 날의 초상",
+    "context": "EN :\nPortrait of a Certain Day\nJP :\n在りし日の肖像"
+  },
+  {
+    "key": "2010611-levelList$[2].desc",
+    "original": "[EndSkill] [Sinking] 6 + (우울 공명 수 <style=\"highlight\">x 1.5</style>)을 무작위로 공격 대상에게 나눠서 부여",
+    "context": "EN :\n[EndSkill] Randomly inflict (6 + (<style=\"highlight\">Gloom Reson. x1.5</style>)) [Sinking] between targets\nJP :\n[EndSkill] [Sinking]6 + (憂鬱共鳴数 × <style=\"highlight\">1.5</style>)を、ランダムに攻撃対象へ分けて付与"
+  },
+  {
+    "key": "2010611-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 다음 턴에 [Binding] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has 6+ [Sinking], inflict 2 [Binding] next turn\nJP :\n[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]2を付与"
+  },
+  {
+    "key": "2010621-levelList$[0].name",
+    "original": "지난 날",
+    "context": "EN :\nBygone Days\nJP :\n過ぎし日"
+  },
+  {
+    "key": "2010621-levelList$[0].abName",
+    "original": "어느 날의 초상",
+    "context": "EN :\nPortrait of a Certain Day\nJP :\n在りし日の肖像"
+  },
+  {
+    "key": "2010621-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nJP :\n[CantIdentify]\nランダムな対象を攻撃"
+  },
+  {
+    "key": "2010621-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여. 다음 턴에 [Binding] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn\nJP :\n[OnSucceedAttack] [Sinking]2を付与。次のターンに[Binding]2を付与"
+  },
+  {
+    "key": "2010621-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 다음 턴에 [Binding] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has 6+ [Sinking], inflict 1 [Binding] next turn\nJP :\n[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]1を付与"
+  },
+  {
+    "key": "2010621-levelList$[1].name",
+    "original": "지난 날",
+    "context": "EN :\nBygone Days\nJP :\n過ぎし日"
+  },
+  {
+    "key": "2010621-levelList$[1].abName",
+    "original": "어느 날의 초상",
+    "context": "EN :\nPortrait of a Certain Day\nJP :\n在りし日の肖像"
+  },
+  {
+    "key": "2010621-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 우울 공명 수가 3 이상이면 공격 가중치 +1",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ (Gloom Reson.), Atk Weight +1\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 憂鬱共鳴数が3以上なら、攻撃加重値 +1"
+  },
+  {
+    "key": "2010621-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여. 다음 턴에 [Binding] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn\nJP :\n[OnSucceedAttack] [Sinking]2を付与。次のターンに[Binding]2を付与"
+  },
+  {
+    "key": "2010621-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 다음 턴에 [Binding] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has 6+ [Sinking], inflict 1 [Binding] next turn\nJP :\n[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]1を付与"
+  },
+  {
+    "key": "2010621-levelList$[2].name",
+    "original": "지난 날",
+    "context": "EN :\nBygone Days\nJP :\n過ぎし日"
+  },
+  {
+    "key": "2010621-levelList$[2].abName",
+    "original": "어느 날의 초상",
+    "context": "EN :\nPortrait of a Certain Day\nJP :\n在りし日の肖像"
+  },
+  {
+    "key": "2010621-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 우울 공명 수가 3 이상이면 공격 가중치 +1\n[BeforeAttack] 우울 공명 수가 5 이상이면 공격 가중치 +1",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ (Gloom Reson.), Atk Weight +1\n[BeforeAttack] At 5+ (Gloom Reson.), additional Atk Weight +1\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 憂鬱共鳴数が3以上なら、攻撃加重値 +1\n[BeforeAttack] 憂鬱共鳴数が5以上なら、攻撃加重値 +1"
+  },
+  {
+    "key": "2010621-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 2 부여. 다음 턴에 [Binding] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn\nJP :\n[OnSucceedAttack] [Sinking]2を付与。次のターンに[Binding]2を付与"
+  },
+  {
+    "key": "2010621-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 다음 턴에 [Binding] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has 6+ [Sinking], inflict 2 [Binding] next turn\nJP :\n[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]2を付与"
+  },
+  {
+    "key": "2010711-levelList$[0].name",
+    "original": "흉탄",
+    "context": "EN :\nFell Bullet\nJP :\n凶弾"
+  },
+  {
+    "key": "2010711-levelList$[0].abName",
+    "original": "흉탄의 사수",
+    "context": "EN :\nDer Fluchschütze\nJP :\n凶弾の射手"
+  },
+  {
+    "key": "2010711-levelList$[0].desc",
+    "original": "체력이 가장 적은 아군 공격\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모",
+    "context": "EN :\nTargets the ally with the least HP\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]\nJP :\n体力が最も少ない味方を攻撃\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗"
+  },
+  {
+    "key": "2010711-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "이 코인에는 메인 타겟만 피해를 입음.",
+    "context": "EN :\nThis Coin deals damage only against the main target.\nJP :\nこのコインはメインターゲットにのみダメージを与える。"
+  },
+  {
+    "key": "2010711-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "메인 타겟이 아군이면, [BoseProjektil]당 피해량 +8% (최대 56%)",
+    "context": "EN :\nIf the main target is an ally, deal +8% more damage for every [BoseProjektil] (max 56%)\nJP :\nメインターゲットが味方なら、[BoseProjektil]1につきダメージ量 +8%(最大56%)"
+  },
+  {
+    "key": "2010711-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[AllyKill] 자신과 아군 2명에게 [Breath] 2 부여",
+    "context": "EN :\n[AllyKill] Apply 2 [Breath] to self and 2 allies\nJP :\n[AllyKill] 自分と味方2名へ[Breath]2を付与"
+  },
+  {
+    "key": "2010711-levelList$[0].coinlist[0].coindescs[3].desc",
+    "original": "[AllyKillFail] [Breath] 1 얻음",
+    "context": "EN :\n[AllyKillFail] Gain 1 [Breath]\nJP :\n[AllyKillFail] [Breath]1を得る"
+  },
+  {
+    "key": "2010711-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 아군을 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음",
+    "context": "EN :\nThis Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage\nJP :\nこのコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける"
+  },
+  {
+    "key": "2010711-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[BoseProjektil]당 크리티컬 피해량 +2% (최대 14%)",
+    "context": "EN :\n+2% Damage on Critical Hit for every [BoseProjektil] (max 14%)\nJP :\n[BoseProjektil]1につき、クリティカルダメージ量 +2%(最大14%)"
+  },
+  {
+    "key": "2010711-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[CriticalOnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "2010711-levelList$[1].name",
+    "original": "흉탄",
+    "context": "EN :\nFell Bullet\nJP :\n凶弾"
+  },
+  {
+    "key": "2010711-levelList$[1].abName",
+    "original": "흉탄의 사수",
+    "context": "EN :\nDer Fluchschütze\nJP :\n凶弾の射手"
+  },
+  {
+    "key": "2010711-levelList$[1].desc",
+    "original": "체력이 가장 적은 아군 공격\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모<style=\"highlight\"></style>",
+    "context": "EN :\nTargets the ally with the least HP\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]<style=\"highlight\"></style>\nJP :\n体力が最も少ない味方を攻撃\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010711-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "이 코인에는 메인 타겟만 피해를 입음.<style=\"highlight\"></style>",
+    "context": "EN :\nThis Coin deals damage only against the main target.<style=\"highlight\"></style>\nJP :\nこのコインはメインターゲットにのみダメージを与える。<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010711-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "메인 타겟이 아군이면, [BoseProjektil]당 피해량 <style=\"highlight\">+10% (최대 70%)</style>",
+    "context": "EN :\nIf the main target is an ally, deal <style=\"highlight\">+10%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">70%</style>)\nJP :\nメインターゲットが味方なら、[BoseProjektil]1につきダメージ量 <style=\"highlight\">+10%(最大70%)</style>"
+  },
+  {
+    "key": "2010711-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[AllyKill] 자신과 아군 2명에게 [Breath] 3 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[AllyKill] Apply 3 [Breath] to self and 2 allies<style=\"highlight\"></style>\nJP :\n[AllyKill] 自分と味方2名へ[Breath]3を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010711-levelList$[1].coinlist[0].coindescs[3].desc",
+    "original": "<style=\"highlight\">[AllyKill] 처치한 아군의 스킬 1 속성의 E.G.O 자원 +1</style>",
+    "context": "EN :\n<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 Affinity</style>\nJP :\n<style=\"highlight\">[AllyKill] 倒した味方のスキル1属性のE.G.O資源 +1</style>"
+  },
+  {
+    "key": "2010711-levelList$[1].coinlist[0].coindescs[4].desc",
+    "original": "[AllyKillFail] [Breath] <style=\"highlight\">3</style> 얻음",
+    "context": "EN :\n[AllyKillFail] Gain <style=\"highlight\">3</style> [Breath]\nJP :\n[AllyKillFail] [Breath]<style=\"highlight\">3</style>を得る"
+  },
+  {
+    "key": "2010711-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 아군을 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음<style=\"highlight\"></style>",
+    "context": "EN :\nThis Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>\nJP :\nこのコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010711-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[BoseProjektil]당 크리티컬 피해량 <style=\"highlight\">+5% (최대 35%)</style>",
+    "context": "EN :\n<style=\"highlight\">+5%</style> Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">35%</style>)\nJP :\n[BoseProjektil]1につき、クリティカルダメージ量 <style=\"highlight\">+5%(最大35%)</style>"
+  },
+  {
+    "key": "2010711-levelList$[1].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>\nJP :\n[CriticalOnSucceedAttack] [Laceration]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010711-levelList$[2].name",
+    "original": "흉탄",
+    "context": "EN :\nFell Bullet\nJP :\n凶弾"
+  },
+  {
+    "key": "2010711-levelList$[2].abName",
+    "original": "흉탄의 사수",
+    "context": "EN :\nDer Fluchschütze\nJP :\n凶弾の射手"
+  },
+  {
+    "key": "2010711-levelList$[2].desc",
+    "original": "체력이 가장 적은 아군 공격\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n<style=\"highlight\">- 해당 공명이 오만 공명이면, 효과를 대신하여 (최대 공명 수 x 2)만큼 [BoseProjektil]을 얻음 (최대 7)</style>\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모",
+    "context": "EN :\nTargets the ally with the least HP\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n<style=\"highlight\">- If the said Reson. was a Pride Reson., gain (highest Reson. x 2) [BoseProjektil] instead (max 7)</style>\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]\nJP :\n体力が最も少ない味方を攻撃\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]得る(最大7)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗"
+  },
+  {
+    "key": "2010711-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "이 코인에는 메인 타겟만 피해를 입음.<style=\"highlight\"></style>",
+    "context": "EN :\nThis Coin deals damage only against the main target.<style=\"highlight\"></style>\nJP :\nこのコインはメインターゲットにのみダメージを与える。<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010711-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "메인 타겟이 아군이면, [BoseProjektil]당 피해량 <style=\"highlight\">+15% (최대 105%)</style>",
+    "context": "EN :\nIf the main target is an ally, deal <style=\"highlight\">+15%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">105%</style>)\nJP :\nメインターゲットが味方なら、[BoseProjektil]1につきダメージ量 <style=\"highlight\">+15%(最大105%)</style>"
+  },
+  {
+    "key": "2010711-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[AllyKill] 자신과 아군 2명에게 [Breath] 3 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[AllyKill] Apply 3 [Breath] to self and 2 allies<style=\"highlight\"></style>\nJP :\n[AllyKill] 自分と味方2名へ[Breath]3を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010711-levelList$[2].coinlist[0].coindescs[3].desc",
+    "original": "<style=\"highlight\">[AllyKill] 처치한 아군의 스킬 1, 2 속성의 E.G.O 자원 +1</style>",
+    "context": "EN :\n<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 and 2 Affinities</style>\nJP :\n<style=\"highlight\">[AllyKill] 倒した味方のスキル1,2属性のE.G.O資源 +1</style>"
+  },
+  {
+    "key": "2010711-levelList$[2].coinlist[0].coindescs[4].desc",
+    "original": "[AllyKillFail] [Breath] <style=\"highlight\">3</style> 얻음",
+    "context": "EN :\n[AllyKillFail] Gain <style=\"highlight\">3</style> [Breath]\nJP :\n[AllyKillFail] [Breath]<style=\"highlight\">3</style>を得る"
+  },
+  {
+    "key": "2010711-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 아군을 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음<style=\"highlight\"></style>",
+    "context": "EN :\nThis Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>\nJP :\nこのコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010711-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[BoseProjektil]당 크리티컬 피해량 <style=\"highlight\">+9% (최대 63%)</style>",
+    "context": "EN :\n<style=\"highlight\">+9%</style> Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">63%</style>)\nJP :\n[BoseProjektil]1につき、クリティカルダメージ量 <style=\"highlight\">+9%(最大63%)</style>"
+  },
+  {
+    "key": "2010711-levelList$[2].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Laceration] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict <style=\"highlight\">3</style> [Laceration]\nJP :\n[CriticalOnSucceedAttack] [Laceration]<style=\"highlight\">3</style>を付与"
+  },
+  {
+    "key": "2010721-levelList$[0].name",
+    "original": "흉탄",
+    "context": "EN :\nFell Bullet\nJP :\n凶弾"
+  },
+  {
+    "key": "2010721-levelList$[0].abName",
+    "original": "흉탄의 사수",
+    "context": "EN :\nDer Fluchschütze\nJP :\n凶弾の射手"
+  },
+  {
+    "key": "2010721-levelList$[0].desc",
+    "original": "[CantIdentify]\n체력이 가장 적은 아군 공격\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 피해량 +2% (최대 14%)\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모",
+    "context": "EN :\n[CantIdentify]\nTargets the ally with the least HP\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Deal +2% more damage for every [BoseProjektil] (max 14%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]\nJP :\n[CantIdentify]\n体力が最も少ない味方を攻撃\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1ダメージ量 +2%(最大14%)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗"
+  },
+  {
+    "key": "2010721-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "이 코인에는 메인 타겟만 피해를 입음.",
+    "context": "EN :\nThis Coin deals damage only against the main target.\nJP :\nこのコインはメインターゲットにのみダメージを与える。"
+  },
+  {
+    "key": "2010721-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "메인 타겟이 아군이면, [BoseProjektil]당 피해량 +10% (최대 70%)",
+    "context": "EN :\nIf the main target is an ally, deal +10% more damage for every [BoseProjektil] (max 70%)\nJP :\nメインターゲットが味方なら、[BoseProjektil]1につきダメージ量 +10%(最大70%)"
+  },
+  {
+    "key": "2010721-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "메인 타겟이 아군이면, 자신의 [Breath]당 피해량 +2% (최대 50%)",
+    "context": "EN :\nIf the main target is an ally, deal +2% more damage for every [Breath] on self (max 50%)\nJP :\nメインターゲットが味方なら、自分の[Breath]1につきダメージ量 +2%(最大50%)"
+  },
+  {
+    "key": "2010721-levelList$[0].coinlist[0].coindescs[3].desc",
+    "original": "[AllyKill] 자신과 아군 3명에게 [Breath] 2 부여",
+    "context": "EN :\n[AllyKill] Apply 2 [Breath] to self and 3 allies\nJP :\n[AllyKill] 自分と味方3名へ[Breath]2を付与"
+  },
+  {
+    "key": "2010721-levelList$[0].coinlist[0].coindescs[4].desc",
+    "original": "[AllyKill] [BoseProjektil]당 다음 코인의 피해량 +2% (최대 14%)",
+    "context": "EN :\n[AllyKill] The next Coin deals +2% more damage for every [BoseProjektil] (max 14%)\nJP :\n[AllyKill] [BoseProjektil]1につき次のコインのダメージ量 +2%(最大14%)"
+  },
+  {
+    "key": "2010721-levelList$[0].coinlist[0].coindescs[5].desc",
+    "original": "[AllyKill] 처치한 아군의 스킬 1, 2 속성의 E.G.O 자원 +1",
+    "context": "EN :\n[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 and 2 Affinities\nJP :\n[AllyKill] 倒した味方のスキル1, 2属性のE.G.O資源 +1"
+  },
+  {
+    "key": "2010721-levelList$[0].coinlist[0].coindescs[6].desc",
+    "original": "[AllyKillFail] [Breath] 1 얻음",
+    "context": "EN :\n[AllyKillFail] Gain 1 [Breath]\nJP :\n[AllyKillFail] [Breath]1を得る"
+  },
+  {
+    "key": "2010721-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 아군을 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음",
+    "context": "EN :\nThis Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage\nJP :\nこのコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける"
+  },
+  {
+    "key": "2010721-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[BoseProjektil]당 크리티컬 피해량 +2% (최대 14%)",
+    "context": "EN :\n+2% Damage on Critical Hit for every [BoseProjektil] (max 14%)\nJP :\n[BoseProjektil]1につき、クリティカルダメージ量 +2%(最大14%)"
+  },
+  {
+    "key": "2010721-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Laceration] 3 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 3 [Laceration]\nJP :\n[CriticalOnSucceedAttack] [Laceration]3を付与"
+  },
+  {
+    "key": "2010721-levelList$[1].name",
+    "original": "흉탄",
+    "context": "EN :\nFell Bullet\nJP :\n凶弾"
+  },
+  {
+    "key": "2010721-levelList$[1].abName",
+    "original": "흉탄의 사수",
+    "context": "EN :\nDer Fluchschütze\nJP :\n凶弾の射手"
+  },
+  {
+    "key": "2010721-levelList$[1].desc",
+    "original": "[CantIdentify]\n체력이 가장 적은 아군 공격\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 피해량 <style=\"highlight\">+3% (최대 21%)</style>\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모",
+    "context": "EN :\n[CantIdentify]\nTargets the ally with the least HP\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Deal <style=\"highlight\">+3%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">21%</style>)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]\nJP :\n[CantIdentify]\n体力が最も少ない味方を攻撃\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1ダメージ量 <style=\"highlight\">+3%(最大21%)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗"
+  },
+  {
+    "key": "2010721-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "이 코인에는 메인 타겟만 피해를 입음.<style=\"highlight\"></style>",
+    "context": "EN :\nThis Coin deals damage only against the main target.<style=\"highlight\"></style>\nJP :\nこのコインはメインターゲットにのみダメージを与える。<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010721-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "메인 타겟이 아군이면, [BoseProjektil]당 피해량 <style=\"highlight\">+12% (최대 84%)</style>",
+    "context": "EN :\nIf the main target is an ally, deal <style=\"highlight\">+12%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">84%</style>)\nJP :\nメインターゲットが味方なら、[BoseProjektil]1につきダメージ量 <style=\"highlight\">+12%(最大84%)</style>"
+  },
+  {
+    "key": "2010721-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "메인 타겟이 아군이면, 자신의 [Breath]당 피해량 +2% (최대 50%)<style=\"highlight\"></style>",
+    "context": "EN :\nIf the main target is an ally, deal +2% more damage for every [Breath] on self (max 50%)<style=\"highlight\"></style>\nJP :\nメインターゲットが味方なら、自分の[Breath]1につきダメージ量 +2%(最大50%)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010721-levelList$[1].coinlist[0].coindescs[3].desc",
+    "original": "[AllyKill] 자신과 아군 3명에게 [Breath] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[AllyKill] Apply 3 [Breath] to self and <style=\"highlight\">3</style> allies\nJP :\n[AllyKill] 自分と味方3名へ[Breath]<style=\"highlight\">3</style>を付与"
+  },
+  {
+    "key": "2010721-levelList$[1].coinlist[0].coindescs[4].desc",
+    "original": "[AllyKill] [BoseProjektil]당 다음 코인의 피해량 <style=\"highlight\">+5% (최대 35%)</style>",
+    "context": "EN :\n[AllyKill] The next Coin deals <style=\"highlight\">+5%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">35%</style>)\nJP :\n[AllyKill] [BoseProjektil]1につき次のコインのダメージ量 <style=\"highlight\">+5%(最大35%)</style>"
+  },
+  {
+    "key": "2010721-levelList$[1].coinlist[0].coindescs[5].desc",
+    "original": "<style=\"highlight\">[AllyKill] 처치한 아군의 스킬 1, 2, 3 속성의 E.G.O 자원 +1</style>",
+    "context": "EN :\n<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1, 2, and 3 Affinities</style>\nJP :\n<style=\"highlight\">[AllyKill] 倒した味方のスキル1,2,3属性のE.G.O資源 +1</style>"
+  },
+  {
+    "key": "2010721-levelList$[1].coinlist[0].coindescs[6].desc",
+    "original": "[AllyKillFail] [Breath] <style=\"highlight\">2</style> 얻음",
+    "context": "EN :\n[AllyKillFail] Gain <style=\"highlight\">2</style> [Breath]\nJP :\n[AllyKillFail] [Breath]<style=\"highlight\">2</style>を得る"
+  },
+  {
+    "key": "2010721-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 아군을 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음<style=\"highlight\"></style>",
+    "context": "EN :\nThis Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>\nJP :\nこのコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010721-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[BoseProjektil]당 크리티컬 피해량 <style=\"highlight\">+3% (최대 21%)</style>",
+    "context": "EN :\n<style=\"highlight\">+3%</style> Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">21%</style>)\nJP :\n[BoseProjektil]1につき、クリティカルダメージ量 <style=\"highlight\">+3%(最大21%)</style>"
+  },
+  {
+    "key": "2010721-levelList$[1].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Laceration] <style=\"highlight\">4</style> 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict <style=\"highlight\">4</style> [Laceration]\nJP :\n[CriticalOnSucceedAttack] [Laceration]<style=\"highlight\">4</style>を付与"
+  },
+  {
+    "key": "2010721-levelList$[2].name",
+    "original": "흉탄",
+    "context": "EN :\nFell Bullet\nJP :\n凶弾"
+  },
+  {
+    "key": "2010721-levelList$[2].abName",
+    "original": "흉탄의 사수",
+    "context": "EN :\nDer Fluchschütze\nJP :\n凶弾の射手"
+  },
+  {
+    "key": "2010721-levelList$[2].desc",
+    "original": "[CantIdentify]\n체력이 가장 적은 아군 공격\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n<style=\"highlight\">- 해당 공명이 오만 공명이면, 효과를 대신하여 (최대 공명 수 x 2)만큼 [BoseProjektil]을 얻음 (최대 7)</style>\n[BeforeAttack] [BoseProjektil]당 피해량 <style=\"highlight\">+4% (최대 28%)</style>\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모",
+    "context": "EN :\n[CantIdentify]\nTargets the ally with the least HP\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n<style=\"highlight\">- If the said Reson. was a Pride Reson., gain (highest Reson. x 2) [BoseProjektil] instead (max 7)</style>\n[BeforeAttack] Deal <style=\"highlight\">+4%</style> more damage for every [BoseProjektil] (max 28%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]\nJP :\n[CantIdentify]\n体力が最も少ない味方を攻撃\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]得る(最大7)</style>\n[BeforeAttack] [BoseProjektil]1につきダメージ量 <style=\"highlight\">+4%(最大28%)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗"
+  },
+  {
+    "key": "2010721-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "이 코인에는 메인 타겟만 피해를 입음.<style=\"highlight\"></style>",
+    "context": "EN :\nThis Coin deals damage only against the main target.<style=\"highlight\"></style>\nJP :\nこのコインはメインターゲットにのみダメージを与える。<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010721-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "메인 타겟이 아군이면, [BoseProjektil]당 피해량 +15% (최대 105%)<style=\"highlight\"></style>",
+    "context": "EN :\nIf the main target is an ally, deal +15% more damage for every [BoseProjektil] (max 105%)<style=\"highlight\"></style>\nJP :\nメインターゲットが味方なら、[BoseProjektil]1につきダメージ量 +15%(最大105%)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010721-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "메인 타겟이 아군이면, 자신의 [Breath]당 피해량 +2% (최대 50%)<style=\"highlight\"></style>",
+    "context": "EN :\nIf the main target is an ally, deal +2% more damage for every [Breath] on self (max 50%)<style=\"highlight\"></style>\nJP :\nメインターゲットが味方なら、自分の[Breath]1につきダメージ量 +2%(最大50%)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010721-levelList$[2].coinlist[0].coindescs[3].desc",
+    "original": "<style=\"highlight\">크리티컬 피해량 +30%</style>",
+    "context": "EN :\n<style=\"highlight\">+30% Damage on Critical Hit</style>\nJP :\n<style=\"highlight\">クリティカルダメージ量 +30%</style>"
+  },
+  {
+    "key": "2010721-levelList$[2].coinlist[0].coindescs[4].desc",
+    "original": "[AllyKill] 자신과 아군 3명에게 [Breath] <style=\"highlight\">4</style> 부여",
+    "context": "EN :\n[AllyKill] Apply 3 [Breath] to self and <style=\"highlight\">4</style> allies\nJP :\n[AllyKill] 自分と味方3名へ[Breath]<style=\"highlight\">4</style>を付与"
+  },
+  {
+    "key": "2010721-levelList$[2].coinlist[0].coindescs[5].desc",
+    "original": "[AllyKill] [BoseProjektil]당 다음 코인의 피해량 <style=\"highlight\">+7% (최대 49%)</style>",
+    "context": "EN :\n[AllyKill] The next Coin deals <style=\"highlight\">+7%</style> more damage for every [BoseProjektil] (max <style=\"highlight\">49%</style>)\nJP :\n[AllyKill] [BoseProjektil]1につき次のコインのダメージ量 <style=\"highlight\">+7%(最大49%)</style>"
+  },
+  {
+    "key": "2010721-levelList$[2].coinlist[0].coindescs[6].desc",
+    "original": "[AllyKill] 처치한 아군의 스킬 1, 2, 3 속성의 E.G.O 자원 +1<style=\"highlight\"></style>",
+    "context": "EN :\n[AllyKill] +1 E.G.O resource for the killed ally's Skill 1, 2, and 3 Affinities<style=\"highlight\"></style>\nJP :\n[AllyKill] 倒した味方のスキル1,2,3属性のE.G.O資源 +1<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010721-levelList$[2].coinlist[0].coindescs[7].desc",
+    "original": "[AllyKillFail] [Breath] <style=\"highlight\">3</style> 얻음",
+    "context": "EN :\n[AllyKillFail] Gain <style=\"highlight\">3</style> [Breath]\nJP :\n[AllyKillFail] [Breath]<style=\"highlight\">3</style>を得る"
+  },
+  {
+    "key": "2010721-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 아군을 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음<style=\"highlight\"></style>",
+    "context": "EN :\nThis Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>\nJP :\nこのコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2010721-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "<style=\"highlight\">[BoseProjektil]당 크리티컬 피해량 +4% (최대 28%)</style>",
+    "context": "EN :\n<style=\"highlight\">+4% Damage on Critical Hit for every [BoseProjektil] (max 28%)</style>\nJP :\n<style=\"highlight\">[BoseProjektil]1につき、クリティカルダメージ量 +4%(最大28%)</style>"
+  },
+  {
+    "key": "2010721-levelList$[2].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Laceration] <style=\"highlight\">5</style> 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict <style=\"highlight\">5</style> [Laceration]\nJP :\n[CriticalOnSucceedAttack] [Laceration]<style=\"highlight\">5</style>を付与"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "key": "mowe_stagebutton_not_clear-content",
+    "original": "6.5-15 클리어 시 개방",
+    "context": "EN :\nClear 6.5-15 to Unlock\nJP :\n6.5-15クリア時に解放"
+  },
+  {
+    "key": "mowe_stagebutton_normal-content",
+    "original": "스테이지",
+    "context": "EN :\nStages\nJP :\nステージ"
+  },
+  {
+    "key": "mowe_stagebutton_end_event-content",
+    "original": "이벤트 기간 종료",
+    "context": "EN :\nEvent Closed\nJP :\nイベント期間終了"
+  },
+  {
+    "key": "mowe_storybutton_before_start-content",
+    "original": "<size=75%>이벤트 첫 번째 이야기\n감상 시 개방</size>",
+    "context": "EN :\n<size=75%>View the 1st event Story Stage \nto Unlock</size>\nJP :\n<size=75%>イベントストーリー1話を閲覧時に開放</size>"
+  },
+  {
+    "key": "mowe_storybutton_normal-content",
+    "original": "상영관 이동",
+    "context": "EN :\nTo Theater\nJP :\n上映館へ移動"
+  },
+  {
+    "key": "mowe_rewardShopButton-content",
+    "original": "보상 교환",
+    "context": "EN :\nReward Exchange\nJP :\n報酬交換"
+  },
+  {
+    "key": "mowe_scrap_guide_title-content",
+    "original": "이벤트 재화 안내",
+    "context": "EN :\nEvent Currency Guide\nJP :\nイベントアイテム案内"
+  },
+  {
+    "key": "mowe_scrap_guide_desc-content",
+    "original": "이벤트와 주요 이야기의 스테이지 또는 거울 던전을 클리어하면 낮은 확률로<color=#ff99e6>[해결사 승객 복구팩]</color>을 획득할 수 있습니다.\n\n<color=#ff99e6>[해결사 승객 복구팩]</color>은 획득 즉시, <color=#ff99e6>[일반 승객 복구팩]</color> 20개로 전환됩니다.",
+    "context": "EN :\nRarely, you may obtain <color=#ff99e6>[Fixer Recov. Pack]</color> from clearing Event Stages, Main Story Stages, or Mirror Dungeons.\n\n<color=#ff99e6>[Fixer Recov. Pack]</color> is immediately converted to 20 <color=#ff99e6>[Civilian Recov. Pack]</color> upon acquisition.\nJP :\nイベント・メインストーリーのステージとダンジョン、または鏡ダンジョンをクリアすると低確率で<color=#ff99e6>[フィクサー乗客復旧パック]</color>を獲得することができます。\n\n<color=#ff99e6>[フィクサー乗客復旧パック]</color>は <color=#ff99e6>[一般乗客復旧パック]</color>20個に変換されます。"
+  },
+  {
+    "key": "mowe_rewardpage_desc-content",
+    "original": "이벤트 스테이지를 클리어할 때마다 <color=#ff99e6>[일반 승객 복구팩]</color>을 획득할 수 있습니다. 이외에도 주요 이야기\n스테이지를 최초로 클리어하거나 거울 던전 클리어 시, <color=#ff99e6>[일반 승객 복구팩]</color>을 획득할 수 있습니다.\n\n이벤트와 주요 이야기의 스테이지 또는 거울 던전을 클리어하면 낮은 확률로 <color=#ff99e6>[해결사 승객 복구팩]</color>을 획득할 수 있으며, <color=#ff99e6>[해결사 승객 복구팩]</color>은 획득 즉시 <color=#ff99e6>[일반 승객 복구팩]</color> 20개로 전환됩니다.\n\n<color=#ff99e6>[보상 교환]</color> 창에서 <color=#ff99e6>[일반 승객 복구팩]</color>을 지불하여 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nDuring the event, you can earn <color=#ff99e6>[Civilian Recov. Pack]</color> by clearing event Stages. You can also obtain <color=#ff99e6>[Civilian Recov. Pack]</color> by clearing Main Story Stages for the first time, or by clearing the Mirror Dungeon.\n\nRarely, you may obtain <color=#ff99e6>[Fixer Recov. Pack]</color> from clearing Event Stages, Main Story Stages, or Mirror Dungeons,\nand <color=#ff99e6>[Fixer Recov. Pack]</color> is automatically converted to 20 <color=#ff99e6>[Civilian Recov. Pack]</color> upon acquisition.\n\nIn the <color=#ff99e6>[Reward Exchange]</color> window, you can purchase various rewards by spending <color=#ff99e6>[Civilian Recov. Pack]</color> you have collected.\nJP :\nイベントステージとダンジョンをクリアする度に<color=#ff99e6>[一般乗客復旧パック]</color>を獲得できます。これ以外にもメインストーリー\nステージとダンジョンを初回クリアするか、鏡ダンジョンクリア時に<color=#ff99e6>[一般乗客復旧パック]</color>を獲得できます。\n\nイベント・メインストーリーのステージ、または鏡ダンジョンをクリアすれば低確率で<color=#ff99e6>[フィクサー乗客復旧パック]</color>獲得することができ、<color=#ff99e6>[フィクサー乗客復旧パック]</color>は獲得すると即時<color=#ff99e6>[一般乗客復旧パック]</color>20個に変換されます。\n\n<color=#ff99e6>[報酬交換]</color>ウィンドウより<color=#ff99e6>[一般乗客復旧パック]</color>を支払い、様々な報酬を獲得できます。"
+  },
+  {
+    "key": "mowe_reward_popup_desc-content",
+    "original": "이벤트 스테이지와 주요 이야기\n최초 클리어, 거울 던전 클리어를 통해\n<color=#ff99e6>[일반 승객 복구팩]</color>을 획득할 수 있습니다.\n\n<color=#ff99e6>[보상 교환]</color> 창에서 <color=#ff99e6>[일반 승객 복구팩]</color>을\n지불하여 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nEarn <color=#ff99e6>[Civilian Recov. Pack]</color> via the following methods:\nEvent Stage & Dungeon clears, Mirror Dungeon clears,\nand Main Story Stage & Dungeon first-time clears.\n\nIn the <color=#ff99e6>[Reward Exchange]</color> window, you can purchase various rewards\nby spending <color=#ff99e6>[Civilian Recov. Pack]</color> you have collected.\nJP :\nイベントステージ、メインストーリー\n初回クリア、鏡ダンジョンをクリアすることで\n<color=#ff99e6>[一般乗客復旧パック]</color>を獲得できます。\n\n<color=#ff99e6>[報酬交換]</color>ウィンドウより<color=#ff99e6>[一般乗客復旧パック]</color>を\n支払い、様々な報酬を獲得できます。"
+  },
+  {
+    "key": "mowe_reward_popup_num_of_owned_items-content",
+    "original": "보유 아이템 수",
+    "context": "EN :\nItems Owned\nJP :\n保有アイテム数"
+  },
+  {
+    "key": "mowe_bonusUI_Title-content",
+    "original": "증가",
+    "context": "EN :\nGain\nJP :\n増加"
+  },
+  {
+    "key": "mowe_bonusUI_Title_contain_false-content",
+    "original": "미보유",
+    "context": "EN :\nNot Owned\nJP :\n未保有"
+  },
+  {
+    "key": "mowe_bonusUI_Desc-content",
+    "original": "이벤트 기간 동안 해당 인격, E.G.O 편성 시, <color=#ff99e6>[일반 승객 복구팩]</color>의 획득량이 상승합니다.\n획득량 상승치 합계는 최대 <color=#ff99e6>120%</color>까지 적용됩니다.",
+    "context": "EN :\nDuring the event period, deploying the following Identities or E.G.O on your team will\nboost the amount of <color=#ff99e6>[Civilian Recov. Pack]</color> earned.\nYou can earn a maximum of <color=#ff99e6>120%</color> boost to the amount of event currency earned.\nJP :\nイベント期間中、該当人格・E.G.Oを編成すると<color=#ff99e6>[一般乗客復旧パック]</color>の獲得量が上昇します。\n獲得量上昇値の合計は、最大<color=#ff99e6>120%</color>まで適用されます。"
+  },
+  {
+    "key": "mowe_bonus_popup_title-content",
+    "original": "이벤트 특화 대상",
+    "context": "EN :\nEvent Bonus Units\nJP :\nイベント特化対象"
+  },
+  {
+    "key": "mowe_bonus_preview-content",
+    "original": "이벤트 특화 대상",
+    "context": "EN :\nEvent Bonus Units\nJP :\nイベント特化対象"
+  }
+]

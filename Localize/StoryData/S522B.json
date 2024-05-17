@@ -1,0 +1,313 @@
+[
+  {
+    "key": "0-place",
+    "original": "크루즈 선박",
+    "context": "EN :\nCruise Ship\nJP :\nクルーズ船舶"
+  },
+  {
+    "key": "0-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "0-content",
+    "original": "<어둡네…>",
+    "context": "EN :\n<It's pretty dark in here...>\nJP :\n<暗いなぁ…。>"
+  },
+  {
+    "key": "1-content",
+    "original": "창고로 향하는 길은 파티가 열리던 공간보다 훨씬 좁은 복도를 따라가야만 하는 곳이었다.",
+    "context": "EN :\nThe hallway to the storage was significantly narrower than the party deck.\nJP :\n倉庫へ向かう道は、パーティーが開かれていた場所よりも\nもっと狭い廊下を通る必要がある場所だった。"
+  },
+  {
+    "key": "2-content",
+    "original": "어둑어둑한 길에 드문하게 비추어지는 희미한 빛을 길잡이 삼아, 나는 조심스레 걸어 나갔다.",
+    "context": "EN :\nI had nothing but faint, occasionally flashing lights to guide me through this dark hallway. I decided to proceed carefully.\nJP :\n薄暗い道にちらりと映るかすかな光を道しるべに、\n私は注意深く歩いていった。"
+  },
+  {
+    "key": "3-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "3-content",
+    "original": "<무서운 거라면 아까 이야기보다 지금 여기가 훨씬 무서울 것 같은데…>",
+    "context": "EN :\n<Seriously, this place is way creepier than wherever Hong Lu was going with his story...>\nJP :\n<怖さでいうとさっきの話より、\nここの方がもっと怖いと思うんだけど…。>"
+  },
+  {
+    "key": "4-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "4-content",
+    "original": "<싱클레어…>",
+    "context": "EN :\n<Sinclair...?>\nJP :\n<シンクレア…。>"
+  },
+  {
+    "key": "5-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "5-content",
+    "original": "<거기 있어?>",
+    "context": "EN :\n<You there?>\nJP :\n<そこにいる？>"
+  },
+  {
+    "key": "6-content",
+    "original": "대체 어디서부터 떨어지는지 알 수가 없는 물방울이 자꾸만 기분을 거스르게 했다.",
+    "context": "EN :\nI wasn't sure where these water droplets were falling from, but they were really getting on my nerves.\nJP :\n一体どこから落ちてくるのか分からない水滴が\n何度も神経を逆撫でしてきた。"
+  },
+  {
+    "key": "7-content",
+    "original": "주위에 보이는 건 아무것도 없다. 애초에 뭐가 있다고 해서 보일리도 없지만…",
+    "context": "EN :\nI don't see anything here. Not that I could in this dark, even if there were...\nJP :\n周囲には何もない。\nそもそも何かがあったとしても見えるわけないけど…。"
+  },
+  {
+    "key": "8-content",
+    "original": "보이는 것은 그저 희미하게 새어 나오는 빛과…",
+    "context": "EN :\nAll I see is a very faint ray of light, and...\nJP :\n見えるのはただ微かに漏れ出る光と…。"
+  },
+  {
+    "key": "9-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "9-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "10-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "10-content",
+    "original": "<싱클레어?>",
+    "context": "EN :\n<Sinclair?>\nJP :\n<シンクレア…？>"
+  },
+  {
+    "key": "11-content",
+    "original": "언제부터인가 거기에 서 있는 싱클레어.",
+    "context": "EN :\n... and Sinclair. It seemed to me that he'd been standing here for a good while. Exactly how long... I wasn't sure.\nJP :\nいつからか、そこに立っているシンクレア。"
+  },
+  {
+    "key": "12-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "12-content",
+    "original": "…어.",
+    "context": "EN :\n... Uh.\nJP :\n…あっ。"
+  },
+  {
+    "key": "13-content",
+    "original": "싱클레어는 한자리에서 우두커니 서 있었다. 고개를 위로 향한 채.",
+    "context": "EN :\nSinclair stood there, still like death. He looked up.\nJP :\nシンクレアはその場で突っ立っていた。\n上を向いたまま。"
+  },
+  {
+    "key": "14-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "14-content",
+    "original": "<…뭘 보고 있는 거야?>",
+    "context": "EN :\n<... What are you looking at?>\nJP :\n<…何を見てるの？>"
+  },
+  {
+    "key": "15-content",
+    "original": "그러고 보면, 이곳은 기묘하게 빛이 내비쳐 온다.",
+    "context": "EN :\nNow that I'm in here... I noticed that there was something funny about the ray of light.\nJP :\n考えてみると、ここへは妙に光が差してくる。"
+  },
+  {
+    "key": "16-content",
+    "original": "분명히 인공의 빛이라고 생각했던 그것은, 싱클레어가 서 있는 공간에서 그저 비추어지고 있을 뿐이었다.",
+    "context": "EN :\nI assumed that the light I saw was from a lamp or something, but... no. It was just there, surrounding the general area where Sinclair stood.\nJP :\n確かに人工の光だろうと思っていたそれは、\nシンクレアが立っている空間からただ照りつけてくる。"
+  },
+  {
+    "key": "17-content",
+    "original": "어떠한 조명도 없이.",
+    "context": "EN :\nThere was no light source.\nJP :\nいかなる照明も無しに。"
+  },
+  {
+    "key": "18-content",
+    "original": "그렇다면 그건 바깥에서부터 들이쳐 오는 빛일까.",
+    "context": "EN :\nSo the light's shining in from the outside, maybe...?\nJP :\nそれならこれは外から差し込んでくる光だろうか。"
+  },
+  {
+    "key": "19-content",
+    "original": "그럴 리 없다. 이곳은 선실이다. 선실에는 천장이라는 것이 있다. 빛 하나 들일 수 없는 철판으로 막힌 실내다.",
+    "context": "EN :\nNo, that doesn't make sense either. We're deep in the ship's storage, a big metal box with no opening for even a single strand of natural light.\nJP :\nそんなわけはない。ここは船室だ。船室には天井というものがある。\n光が一筋すら通過できない鉄板で塞がった室内だ。"
+  },
+  {
+    "key": "20-content",
+    "original": "설상가상, 밖은 어두운 밤이다. 더욱 기이하다. 대체 무엇이 이 빛을 들여오는 걸까.",
+    "context": "EN :\nBesides, it's nighttime. This is getting more and more bizarre by the second. Where is this light coming from...?\nJP :\nそれに加えて、外は暗い夜だ。\nより奇異に思えた。一体何がこの光をもたらしているのだろうか。"
+  },
+  {
+    "key": "21-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "21-content",
+    "original": "<…!>",
+    "context": "EN :\n<…!>\nJP :\n<…！>"
+  },
+  {
+    "key": "22-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "22-content",
+    "original": "<당장 벗어나야 해, 싱클레어!>",
+    "context": "EN :\n<Sinclair, we gotta get out of here!>\nJP :\n<今すぐここから出よう、シンクレア！>"
+  },
+  {
+    "key": "23-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "23-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "24-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "24-content",
+    "original": "<뛰어, 어서!>",
+    "context": "EN :\n<Run, NOW!>\nJP :\n<走って、急いで！>"
+  },
+  {
+    "key": "25-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "25-content",
+    "original": "<빨리!>",
+    "context": "EN :\n<Come on!>\nJP :\n<早く！>"
+  },
+  {
+    "key": "26-content",
+    "original": "일반적인 상식에서 한참 벗어나 버린 그 장면에서 싱클레어를 최대한 빨리 빼내야 한다는 공포감이 그의 축 처진 팔뚝을 콱 잡아챘다.",
+    "context": "EN :\nFear of the unknown intensifies. What I saw defied every bit of common sense I had accumulated over the journey, and I had to get Sinclair out of there—I snatched and tugged his limp wrist.\nJP :\n一般的な常識からかなり外れてしまったその場面から、シンクレアを\nできるだけ早く引きずり出さなきゃならないという恐怖感が\n彼の垂れ下がった腕をぐいと掴ませてきた。"
+  },
+  {
+    "key": "27-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "27-content",
+    "original": "<정신 차려!!!>",
+    "context": "EN :\n<Come on, wake up!!!>\nJP :\n<しっかりしろ！！！>"
+  },
+  {
+    "key": "28-content",
+    "original": "그제야 싱클레어는 정신이 되돌아온 듯 있는 힘껏 소리를 지르며 내달렸다.",
+    "context": "EN :\nThat seemed to have done the trick. Sinclair suddenly snapped back to reality and began screaming. He bolted out of the room.\nJP :\nすると、シンクレアはようやく気を取り戻したかのように\nあらん限りの大声を出して走り出した。"
+  },
+  {
+    "key": "29-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "29-content",
+    "original": "으아아아아아아아아아아!!!",
+    "context": "EN :\nAAAAAAAAAAAAAAAAAAA!!!\nJP :\nうわあああああああああ！！！"
+  },
+  {
+    "key": "30-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "30-content",
+    "original": "뭐야! 넌 또 왜 그렇게 소리를….",
+    "context": "EN :\nHuh?! The lad's lost the plot! What in the bloody—\nJP :\nなんだよ！オメェまたそんな声を…。"
+  },
+  {
+    "key": "31-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "31-content",
+    "original": "공중에사람이공중에사람이공중에사람이공중에사람이!!!",
+    "context": "EN :\nTHEREWASAPERSONFLOATINGINTHEAIRAPERSONINTHEAIRFLOATINGSOMEONEWASUPTHEREJUSTSUSPENDEDINTHEAIR!!!\nJP :\nくうちゅうにひとがくうちゅうにひとがくうちゅうにひとがくうちゅうにひとが！！！"
+  },
+  {
+    "key": "32-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "32-content",
+    "original": "…이거 진짜 무서워졌는데…",
+    "context": "EN :\n... Okay, now I'm actually creeped out.\nJP :\n…なんか今度こそホントに怖くなってきたんだけど。"
+  },
+  {
+    "key": "33-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "33-content",
+    "original": "사람… 일리가 없죠.",
+    "context": "EN :\nThat can't be... a person.\nJP :\n人間…なわけありませんね。"
+  },
+  {
+    "key": "34-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "34-content",
+    "original": "그럼…",
+    "context": "EN :\nThen that was...\nJP :\nじゃあ…。"
+  },
+  {
+    "key": "35-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "35-content",
+    "original": "네, 설명할 시간이 있나요? 당장 무기 들어요.",
+    "context": "EN :\nWhat, you think we have enough time for a lecture? Prepare for battle.\nJP :\nはい、説明する時間があると思いますか？\n今すぐ武器を構えてください。"
+  }
+]

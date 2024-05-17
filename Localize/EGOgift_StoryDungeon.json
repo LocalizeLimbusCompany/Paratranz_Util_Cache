@@ -1,0 +1,827 @@
+[
+  {
+    "key": "1001-name",
+    "original": "신도의 가면",
+    "context": "EN :\nMask of a Devotee\nJP :\n信徒の仮面"
+  },
+  {
+    "key": "1001-desc",
+    "original": "모든 아군의 방어 레벨 +5",
+    "context": "EN :\nAll allies gain +5 Defense Level.\nJP :\n全味方の防御レベル +5"
+  },
+  {
+    "key": "1001-simpleDesc$[0].simpleDesc",
+    "original": "방어 레벨 +5",
+    "context": "EN :\nDefense Level +5\nJP :\n防御レベル +5"
+  },
+  {
+    "key": "1002-name",
+    "original": "허름한 붕대",
+    "context": "EN :\nShoddy Dressing\nJP :\nくたびれた包帯"
+  },
+  {
+    "key": "1002-desc",
+    "original": "모든 아군 최대 체력 +10%",
+    "context": "EN :\nAll allies gain +10% Max HP.\nJP :\n全味方の最大体力 +10%"
+  },
+  {
+    "key": "1002-simpleDesc$[0].simpleDesc",
+    "original": "최대 체력 +10%",
+    "context": "EN :\nMax HP +10%\nJP :\n最大体力 +10%"
+  },
+  {
+    "key": "1003-name",
+    "original": "짓물린 파편",
+    "context": "EN :\nFestered Fragment\nJP :\n爛れた破片"
+  },
+  {
+    "key": "1003-desc",
+    "original": "턴 시작 시 체력이 50% 미만인 아군의 체력 5 회복",
+    "context": "EN :\nAt the start of the turn, allies with 50% or less health heal 5 HP.\nJP :\nターン開始時、体力が50%未満の味方の体力を5回復"
+  },
+  {
+    "key": "1003-simpleDesc$[0].simpleDesc",
+    "original": "체력 50%미만 아군 체력 5 회복",
+    "context": "EN :\nAllies at <50% health heal 5 HP\nJP :\n体力が50%未満の味方の体力を5回復"
+  },
+  {
+    "key": "1004-name",
+    "original": "피 묻은 신도의 가면",
+    "context": "EN :\nBloodied Mask of a Devotee\nJP :\n血の付いた信徒の仮面"
+  },
+  {
+    "key": "1004-desc",
+    "original": "모든 아군의 공격 레벨+5, 방어 레벨+5",
+    "context": "EN :\nAll allies gain +5 Offense Level and +5 Defense Level.\nJP :\n全味方の攻撃レベル +5、防御レベル +5"
+  },
+  {
+    "key": "1004-simpleDesc$[0].simpleDesc",
+    "original": "공격 레벨 +5, 방어 레벨 +5",
+    "context": "EN :\nOffense & Defense Levels +5\nJP :\n攻撃レベル +5、防御レベル +5"
+  },
+  {
+    "key": "1005-name",
+    "original": "흑단 브로치",
+    "context": "EN :\nEbony Brooch\nJP :\n黒檀のブローチ"
+  },
+  {
+    "key": "1005-desc",
+    "original": "매 전투에서 3턴동안 모든 적에게 속박 2 부여",
+    "context": "EN :\nFor the first 3 turns of battle, inflict 2 Bind on all enemies.\nJP :\n戦闘に突入する度、3ターンの間全ての敵に束縛 2を与える"
+  },
+  {
+    "key": "1005-simpleDesc$[0].simpleDesc",
+    "original": "속박 2 부여",
+    "context": "EN :\nInflict 2 Bind\nJP :\n束縛 2を付与"
+  },
+  {
+    "key": "1006-name",
+    "original": "종말의 부조",
+    "context": "EN :\nEtched Doomsday\nJP :\n終末のレリーフ"
+  },
+  {
+    "key": "1006-desc",
+    "original": "매 전투의 첫 턴마다 모든 적에게 화상 1(5회 발동) 부여",
+    "context": "EN :\nOn the first turn of battle, inflict 1 Burn on all enemies 5 times.\nJP :\n戦闘に突入する度、全ての敵に火傷 1を付与(5回発動)"
+  },
+  {
+    "key": "1006-simpleDesc$[0].simpleDesc",
+    "original": "화상 1 부여",
+    "context": "EN :\nInflict 1 Burn\nJP :\n火傷 1を付与"
+  },
+  {
+    "key": "1011-name",
+    "original": "장난감 주먹",
+    "context": "EN :\nToy Fist\nJP :\nおもちゃの拳"
+  },
+  {
+    "key": "1011-desc",
+    "original": "모든 아군의 가하는 피해량 +10%",
+    "context": "EN :\nAll allies deal +10% damage.\nJP :\n全味方の与ダメージ量 +10%"
+  },
+  {
+    "key": "1011-simpleDesc$[0].simpleDesc",
+    "original": "가하는 피해량 +10%",
+    "context": "EN :\nDamage +10%\nJP :\n与ダメージ量 +10%"
+  },
+  {
+    "key": "1012-name",
+    "original": "장난감 발",
+    "context": "EN :\nToy Foot\nJP :\nおもちゃの足"
+  },
+  {
+    "key": "1012-desc",
+    "original": "모든 아군의 속도 +1",
+    "context": "EN :\nAll allies gain +1 Speed.\nJP :\n全味方の速度 +1"
+  },
+  {
+    "key": "1012-simpleDesc$[0].simpleDesc",
+    "original": "속도 +1",
+    "context": "EN :\nSPD +1\nJP :\n速度 +1"
+  },
+  {
+    "key": "1013-name",
+    "original": "장난감 나사",
+    "context": "EN :\nToy Screw\nJP :\nおもちゃのネジ"
+  },
+  {
+    "key": "1013-desc",
+    "original": "모든 아군의 최대 체력 +10%",
+    "context": "EN :\nAll allies gain +10% Max HP.\nJP :\n全味方の最大体力 +10%"
+  },
+  {
+    "key": "1013-abnormalityName",
+    "original": "강화 인간",
+    "context": "EN :\nCyborg\nJP :\n強化人間"
+  },
+  {
+    "key": "1013-simpleDesc$[0].simpleDesc",
+    "original": "최대 체력 +10%",
+    "context": "EN :\nMax HP +10%\nJP :\n最大体力 +10%"
+  },
+  {
+    "key": "1014-name",
+    "original": "무지개 태엽",
+    "context": "EN :\nRainbow Mainspring\nJP :\n虹色のゼンマイ"
+  },
+  {
+    "key": "1014-desc",
+    "original": "매 턴 시작 시 현재 체력이 가장 낮은 아군 1명이 보호 2를 얻음",
+    "context": "EN :\nAt the start of the turn, apply 2 Protection to the ally with the least HP.\nJP :\nターンが開始する度、現体力が最も低い味方1名が保護 2を得る"
+  },
+  {
+    "key": "1014-simpleDesc$[0].simpleDesc",
+    "original": "보호 2 얻음",
+    "context": "EN :\nGain 2 Protection\nJP :\n保護 2を得る"
+  },
+  {
+    "key": "1015-name",
+    "original": "녹슨 태엽",
+    "context": "EN :\nRusty Mainspring\nJP :\n錆び付いたゼンマイ"
+  },
+  {
+    "key": "1015-desc",
+    "original": "매 턴 시작 시 현재 체력이 가장 낮은 아군 1명이 보호 1을 얻음",
+    "context": "EN :\nAt the start of the turn, apply 1 Protection to the ally with the least HP.\nJP :\nターンが開始する度、現体力が最も低い味方1名が保護 1を得る"
+  },
+  {
+    "key": "1015-simpleDesc$[0].simpleDesc",
+    "original": "보호 1 얻음",
+    "context": "EN :\nGain 1 Protection\nJP :\n保護 1を得る"
+  },
+  {
+    "key": "1016-name",
+    "original": "긴급 시술 장치",
+    "context": "EN :\nEmergency Surgical Kit\nJP :\n緊急施術装置"
+  },
+  {
+    "key": "1016-desc",
+    "original": "전투에서 체력이 0이 되는 피해를 입을 때, 체력이 1 미만으로 감소하지 않음\n다음 턴에 체력을 최대로 회복하고, 시술 3을 얻음\n전투 종료 시 체력이 남아있어도 사망함.(던전 내 1회 발동 후 소멸)",
+    "context": "EN :\nDuring battle, if an ally takes lethal damage, their HP won’t go below 1.\nOn the next turn, fully heal their HP and gain 3 Surgery.\nThey will die at the end of the battle.\n(Activates once per dungeon, then the Gift expires.)\nJP :\n戦闘にて体力が0になるダメージを受けた場合、体力が1未満に減少しない。\n次のターンで体力を最大に回復し、施術 3を得る。\n戦闘終了後、体力が残っていても死亡する。(ダンジョン内で1回のみ発動)"
+  },
+  {
+    "key": "1016-simpleDesc$[0].simpleDesc",
+    "original": "체력 전부 회복",
+    "context": "EN :\nFully heal HP\nJP :\n体力を全快"
+  },
+  {
+    "key": "1016-simpleDesc$[1].simpleDesc",
+    "original": "시술 3 얻음",
+    "context": "EN :\nGain 3 Surgery\nJP :\n施術 3を得る"
+  },
+  {
+    "key": "1018-name",
+    "original": "꿈틀거리는 리본",
+    "context": "EN :\nWrithing Ribbon\nJP :\n蠢くリボン"
+  },
+  {
+    "key": "1018-desc",
+    "original": "색욕 속성 스킬로 합 승리 시 다음 턴에 속박, 취약 1 부여",
+    "context": "EN :\nAfter winning a Clash using a Lust skill, inflict 1 Bind and 1 Fragile next turn.\nJP :\n色欲属性スキルでマッチ勝利時、次のターンに束縛 、脆弱 1を付与"
+  },
+  {
+    "key": "1018-simpleDesc$[0].simpleDesc",
+    "original": "속박 1 부여",
+    "context": "EN :\nInflict 1 Bind\nJP :\n束縛 1を付与"
+  },
+  {
+    "key": "1018-simpleDesc$[1].simpleDesc",
+    "original": "취약 1 부여",
+    "context": "EN :\nInflict 1 Fragile\nJP :\n脆弱 1を付与"
+  },
+  {
+    "key": "1021-name",
+    "original": "어느 표지",
+    "context": "EN :\nA Sign\nJP :\nとある印"
+  },
+  {
+    "key": "1021-desc",
+    "original": "크로머에 맞서고자 하는 싱클레어의 마음. 획이 3번 그어지면...",
+    "context": "EN :\nSinclair’s determination to stand up to Kromer. After three strokes have been drawn…\nJP :\nクローマーに立ち向かおうとするシンクレアの心。線が3画引かれると…。"
+  },
+  {
+    "key": "1021-simpleDesc$[0].simpleDesc",
+    "original": "싱클레어의 마음",
+    "context": "EN :\nSinclair’s Will\nJP :\nシンクレアの心"
+  },
+  {
+    "key": "1022-name",
+    "original": "어느 표지",
+    "context": "EN :\nA Sign\nJP :\nとある印"
+  },
+  {
+    "key": "1022-desc",
+    "original": "크로머에 맞서고자 하는 싱클레어의 마음. 획이 3번 그어지면...",
+    "context": "EN :\nSinclair’s determination to stand up to Kromer. After three strokes have been drawn…\nJP :\nクローマーに立ち向かおうとするシンクレアの心。線が3画引かれると…。"
+  },
+  {
+    "key": "1022-simpleDesc$[0].simpleDesc",
+    "original": "싱클레어의 마음",
+    "context": "EN :\nSinclair’s Will\nJP :\nシンクレアの心"
+  },
+  {
+    "key": "1023-name",
+    "original": "어느 표지",
+    "context": "EN :\nA Sign\nJP :\nとある印"
+  },
+  {
+    "key": "1023-desc",
+    "original": "크로머에 맞서고자 하는 싱클레어의 마음. 획이 3번 그어지면...",
+    "context": "EN :\nSinclair’s determination to stand up to Kromer. After three strokes have been drawn…\nJP :\nクローマーに立ち向かおうとするシンクレアの心。線が3画引かれると…。"
+  },
+  {
+    "key": "1023-simpleDesc$[0].simpleDesc",
+    "original": "싱클레어의 마음",
+    "context": "EN :\nSinclair’s Will\nJP :\nシンクレアの心"
+  },
+  {
+    "key": "1024-name",
+    "original": "어느 표지",
+    "context": "EN :\nA Sign\nJP :\nとある印"
+  },
+  {
+    "key": "1024-desc",
+    "original": "크로머에 맞서고자 하는 싱클레어의 마음. 획이 3번 그어지면...",
+    "context": "EN :\nSinclair’s determination to stand up to Kromer. After three strokes have been drawn…\nJP :\nクローマーに立ち向かおうとするシンクレアの心。線が3画引かれると…。"
+  },
+  {
+    "key": "1024-simpleDesc$[0].simpleDesc",
+    "original": "싱클레어의 마음",
+    "context": "EN :\nSinclair’s Will\nJP :\nシンクレアの心"
+  },
+  {
+    "key": "1032-name",
+    "original": "횃불 더미",
+    "context": "EN :\nTorch Stack\nJP :\n松明の山"
+  },
+  {
+    "key": "1032-desc",
+    "original": "다음 3번의 전투 동안 신속 3을 얻은 상태로 전투 시작.\n전투 3회 종료 후 소멸",
+    "context": "EN :\nStart the next 3 battles with 3 Haste.\nExpires afterward.\nJP :\n戦闘に入る度、クイック 3を得る。\n計3回戦闘を行うと消滅"
+  },
+  {
+    "key": "1032-simpleDesc$[0].simpleDesc",
+    "original": "신속 3 얻음",
+    "context": "EN :\nGain 3 Haste\nJP :\nクイック 3を得る"
+  },
+  {
+    "key": "1033-name",
+    "original": "옛 창고의 열쇠",
+    "context": "EN :\nOld Warehouse’s Key\nJP :\n古い倉庫の鍵"
+  },
+  {
+    "key": "1033-desc",
+    "original": "특정 선택지에서 사용 가능. 사용 시 소멸.",
+    "context": "EN :\nUsed in certain events. Expires on use.\nJP :\n特定の選択肢にて使用可能。使用時消滅。"
+  },
+  {
+    "key": "1033-simpleDesc$[0].simpleDesc",
+    "original": "선택지에 사용",
+    "context": "EN :\nUsed in events\nJP :\n選択肢にて使用"
+  },
+  {
+    "key": "1034-name",
+    "original": "핏빛 갈기",
+    "context": "EN :\nBlood-red Mane\nJP :\n血紅色のたてがみ"
+  },
+  {
+    "key": "1034-desc",
+    "original": "색욕 속성 스킬을 가진 수감자에게만 적용\n이번 턴에 공격으로 피해를 받지 않았으면, 다음 턴에 신속 2, 수비 위력 증가 2를 얻음\n이번 턴에 공격으로 피해를 받았으면, 다음 턴에 속박 2, 공격 위력 증가 2를 얻음",
+    "context": "EN :\nAllies with Lust skills gain the following effects:\nIf the unit took no damage from attacks this turn, gain 2 Haste and 2 Defense Power Up next turn.\nIf the unit took damage from attacks this turn, gain 2 Bind and 2 Attack Power Up next turn.\nJP :\n色欲属性スキルを持つ囚人にのみ適用\nこのターンに被弾しなかった場合、次のターンにクイック 2、守備威力増加 2を得る\n被弾した場合は次のターンに束縛 2、攻撃威力増加 2を得る"
+  },
+  {
+    "key": "1034-simpleDesc$[0].simpleDesc",
+    "original": "신속 2, 수비 위력 증가 2 얻음",
+    "context": "EN :\nGain 2 Haste and Defense Power Up\nJP :\nクイック 2、守備威力増加 2を得る"
+  },
+  {
+    "key": "1034-simpleDesc$[1].simpleDesc",
+    "original": "속박 2, 공격 위력 증가 2 얻음",
+    "context": "EN :\nGain 2 Bind and Attack Power Up\nJP :\n束縛 2、攻撃威力増加 2を得る"
+  },
+  {
+    "key": "1037-name",
+    "original": "N사의 인장",
+    "context": "EN :\nN Corp. Seal\nJP :\nN社の印章"
+  },
+  {
+    "key": "1037-desc",
+    "original": "특정 선택지에서 사용 가능. 사용 시 소멸",
+    "context": "EN :\nUsed in certain events. Expires on use\nJP :\n特定の選択肢にて使用可能。使用時消滅。"
+  },
+  {
+    "key": "1037-simpleDesc$[0].simpleDesc",
+    "original": "선택지에 사용",
+    "context": "EN :\nUsed in events\nJP :\n選択肢にて使用"
+  },
+  {
+    "key": "1038-name",
+    "original": "순수함의 증표",
+    "context": "EN :\nToken of Innocence\nJP :\n純粋さの証"
+  },
+  {
+    "key": "1038-desc",
+    "original": "해당 의식을 진행한 인격의 분노 속성 스킬 위력 +2",
+    "context": "EN :\nFor the Identity that undertook the rite: Boost the Power of Wrath skills by 2.\nJP :\n該当する儀式を行った人格の憤怒属性スキルの威力 +2"
+  },
+  {
+    "key": "1038-simpleDesc$[0].simpleDesc",
+    "original": "분노 속성 스킬 위력 +2",
+    "context": "EN :\nWrath Skill Power +2\nJP :\n憤怒属性スキル威力 +2"
+  },
+  {
+    "key": "1039-name",
+    "original": "눈물의 증표",
+    "context": "EN :\nToken of Tears\nJP :\n涙の証"
+  },
+  {
+    "key": "1039-desc",
+    "original": "해당 의식을 진행한 인격의 우울 속성 스킬 위력 +2",
+    "context": "EN :\nFor the Identity that undertook the rite: Boost the Power of Gloom skills by 2.\nJP :\n該当する儀式を行った人格の憂鬱属性スキルの威力 +2"
+  },
+  {
+    "key": "1039-simpleDesc$[0].simpleDesc",
+    "original": "우울 속성 스킬 위력 +2",
+    "context": "EN :\nGloom Skill Power +2\nJP :\n憂鬱属性スキル威力 +2"
+  },
+  {
+    "key": "1040-name",
+    "original": "빛나는 두개골",
+    "context": "EN :\nSparkling Skull\nJP :\n光る頭蓋骨"
+  },
+  {
+    "key": "1040-desc",
+    "original": "이전 턴에 피해를 10 이상 받았으면, 턴 시작 시 체력 5-15 회복",
+    "context": "EN :\nAt the start of the turn, if the character took 10+ damage last turn, heal 5-15 HP.\nJP :\n前回のターンにてダメージを10以上受けた場合、ターン開始時に体力を5-15回復"
+  },
+  {
+    "key": "1040-simpleDesc$[0].simpleDesc",
+    "original": "체력 5 - 15 회복",
+    "context": "EN :\nHeal 5-15 HP\nJP :\n体力を5-15回復"
+  },
+  {
+    "key": "1041-name",
+    "original": "피 흘리는 손",
+    "context": "EN :\nHemorrhagic Hand\nJP :\n血を流す手"
+  },
+  {
+    "key": "1041-desc",
+    "original": "턴 시작 시 체력이 25% 미만이 공격 위력 증가 2 얻음",
+    "context": "EN :\nAt the start of the turn, apply 2 Attack Power Up to allies at 25% or lower health.\nJP :\nターン開始時、体力が25%未満なら攻撃威力増加 2を得る"
+  },
+  {
+    "key": "1041-simpleDesc$[0].simpleDesc",
+    "original": "공격 위력 증가 2 얻음",
+    "context": "EN :\nGain 2 Attack Power Up\nJP :\n攻撃威力増加 2を得る"
+  },
+  {
+    "key": "1042-name",
+    "original": "조롱하는 혓바닥",
+    "context": "EN :\nSniggering Tongue\nJP :\n嘲弄する舌"
+  },
+  {
+    "key": "1042-desc",
+    "original": "합 승리 시 가하는 피해량 +10%",
+    "context": "EN :\nDeal +10% damage in a won clash.\nJP :\nマッチ終了時の与ダメージ量 +10%"
+  },
+  {
+    "key": "1042-simpleDesc$[0].simpleDesc",
+    "original": "가하는 피해량 +10%",
+    "context": "EN :\nDamage +10%\nJP :\n与ダメージ量 +10%"
+  },
+  {
+    "key": "1043-name",
+    "original": "속죄의 증표",
+    "context": "EN :\nToken of Atonement\nJP :\n贖罪の証"
+  },
+  {
+    "key": "1043-desc",
+    "original": "해당 의식을 진행한 인격의 색욕 속성 스킬 위력 +2",
+    "context": "EN :\nFor the Identity that undertook the rite: Boost the Power of Lust skills by 2.\nJP :\n該当する儀式を行った人格の色欲属性スキルの威力 +2"
+  },
+  {
+    "key": "1043-simpleDesc$[0].simpleDesc",
+    "original": "색욕 속성 스킬 위력 +2",
+    "context": "EN :\nLust Skill Power +2\nJP :\n色欲属性スキル威力 +2"
+  },
+  {
+    "key": "1044-name",
+    "original": "의식의 자격",
+    "context": "EN :\nRitualist’s Right\nJP :\n儀式の資格"
+  },
+  {
+    "key": "1044-desc",
+    "original": "모든 아군이 색욕 속성으로 받는 피해량 20% 감소",
+    "context": "EN :\nAll allies take -20% damage from Lust attacks.\nJP :\n全味方の色欲属性被ダメージ量が20%減少"
+  },
+  {
+    "key": "1044-simpleDesc$[0].simpleDesc",
+    "original": "받는 피해량 -20%",
+    "context": "EN :\nDamage Taken -20%\nJP :\n被ダメージ量-20%"
+  },
+  {
+    "key": "1046-name",
+    "original": "초록빛 허물",
+    "context": "EN :\nGreen Skin\nJP :\n緑の抜け殻"
+  },
+  {
+    "key": "1046-desc",
+    "original": "피격 시 아군 1명의 체력이 1 미만이 될 때, 해당 캐릭터가 체력을 최대 체력의 50%만큼 회복함\n(던전 내 1회 발동 후 소멸)",
+    "context": "EN :\nIf an ally takes a lethal attack, they heal 50% of their Max HP.\n(Once per dungeon and expires after activation.)\nJP :\n味方が被弾して体力が1未満になった場合、該当するキャラクターが体力を最大値の50%回復\n(ダンジョン内で1回のみ発動/発動後に消滅)"
+  },
+  {
+    "key": "1046-simpleDesc$[0].simpleDesc",
+    "original": "최대 체력의 50%만큼 회복",
+    "context": "EN :\nHeal 50% of Max HP\nJP :\n体力を最大値の50%回復"
+  },
+  {
+    "key": "1048-name",
+    "original": "투구",
+    "context": "EN :\nTopfhelm\nJP :\n兜"
+  },
+  {
+    "key": "1048-desc",
+    "original": "수비 스킬의 위력 +1",
+    "context": "EN :\nDefense Skill Power +1\nJP :\n守備スキル威力 +1"
+  },
+  {
+    "key": "1048-simpleDesc$[0].simpleDesc",
+    "original": "수비 스킬 위력 +1",
+    "context": "EN :\nDefense Skill Power +1\nJP :\n守備スキル威力 +1"
+  },
+  {
+    "key": "1049-name",
+    "original": "망치",
+    "context": "EN :\nHammer\nJP :\n金鎚"
+  },
+  {
+    "key": "1049-desc",
+    "original": "스킬로 진동 부여 시 50% 확률로 1 추가 부여",
+    "context": "EN :\nWhen inflicting Tremor with skill effects, inflict 1 more at a 50% chance.\nJP :\nスキルで振動 付与時、50%の確率で +1を追加付与"
+  },
+  {
+    "key": "1049-simpleDesc$[0].simpleDesc",
+    "original": "진동 1 추가 부여",
+    "context": "EN :\nInflict 1 additional Tremor\nJP :\n振動 1を追加付与"
+  },
+  {
+    "key": "1050-name",
+    "original": "못",
+    "context": "EN :\nNagel\nJP :\n釘"
+  },
+  {
+    "key": "1050-desc",
+    "original": "스킬로 출혈 부여 시 50% 확률로 1 추가 부여",
+    "context": "EN :\nWhen inflicting Bleed with skill effects, inflict 1 more at a 50% chance.\nJP :\nスキルで出血 付与時、50%の確率で +1を追加付与"
+  },
+  {
+    "key": "1050-simpleDesc$[0].simpleDesc",
+    "original": "출혈 1 추가 부여",
+    "context": "EN :\nInflict 1 additional Bleed\nJP :\n出血 1を追加付与"
+  },
+  {
+    "key": "1051-name",
+    "original": "못과 망치의 책",
+    "context": "EN :\nNagel und Hammer Scriptures\nJP :\n釘と金鎚の本"
+  },
+  {
+    "key": "1051-desc",
+    "original": "오만 속성 스킬 사용 시 정신력 -5, 오만 속성 스킬의 가하는 피해량 +5%",
+    "context": "EN :\nWhen using a Pride skill, lose 5 SP, but boost its damage by 5%\nJP :\n傲慢属性スキルを使用時、精神力-5。傲慢属性スキルによる与ダメージ量 +5%"
+  },
+  {
+    "key": "1051-simpleDesc$[0].simpleDesc",
+    "original": "조건 충족한 정신력 -5",
+    "context": "EN :\nPride skills cost 5 SP\nJP :\n条件を満たすと精神力-5"
+  },
+  {
+    "key": "1051-simpleDesc$[1].simpleDesc",
+    "original": "조건 충족한 가하는 피해량 +5%",
+    "context": "EN :\nPride skill damage +5%\nJP :\n条件を満たすと与ダメージ量 +5%"
+  },
+  {
+    "key": "1052-name",
+    "original": "뜨거운 육즙 다리살",
+    "context": "EN :\nHot ‘n Juicy Drumstick\nJP :\n熱い肉汁ドラムスティック"
+  },
+  {
+    "key": "1052-desc",
+    "original": "스킬로 화상 부여 시 화상 횟수 5 증가",
+    "context": "EN :\nWhen inflicting Burn with skill effects, inflict +5 Burn Count.\nJP :\nスキルで火傷 付与時、火傷 回数が5増加"
+  },
+  {
+    "key": "1053-name",
+    "original": "목이 뻑뻑 가슴살",
+    "context": "EN :\nDry-to-the-Bone Breast\nJP :\n喉がパサパサ胸肉"
+  },
+  {
+    "key": "1053-desc",
+    "original": "스킬로 파열 부여 시 파열 횟수 5 증가",
+    "context": "EN :\nWhen inflicting Rupture with skill effects, inflict +5 Rupture Count.\nJP :\nスキルで破裂 付与時、破裂 回数が5増加"
+  },
+  {
+    "key": "1054-name",
+    "original": "탱고 닭양념장",
+    "context": "EN :\nTango Marinade\nJP :\nタンゴチキンのタレ"
+  },
+  {
+    "key": "1054-desc",
+    "original": "대상보다 속도가 높다면, 합 위력 (속도 / 2)만큼 추가",
+    "context": "EN :\nAllies gain Clash Power by half their Speed against opponents with lower Speed.\nJP :\n対象より速度が高ければ、マッチ威力が(速度÷2)だけ増加"
+  },
+  {
+    "key": "1055-name",
+    "original": "오염된 실과 바늘",
+    "context": "EN :\nContaminated Needle & Thread\nJP :\n汚染された糸と針"
+  },
+  {
+    "key": "1055-desc",
+    "original": "매 턴마다 처음으로 적에게 피해를 입힌 스킬의 (피해량 / 3)만큼 출혈을 부여.",
+    "context": "EN :\nEach turn, the first skill to deal damage to an enemy inflicts Bleed by 1/3 of the damage dealt.\nJP :\n毎ターン、最初に敵へダメージを与えたスキルの(ダメージ量÷3)だけ出血 を付与"
+  },
+  {
+    "key": "1056-name",
+    "original": "날카로운 실과 바늘",
+    "context": "EN :\nSharp Needle & Thread\nJP :\n鋭い糸と針"
+  },
+  {
+    "key": "1056-desc",
+    "original": "매 턴마다 처음으로 적에게 피해를 입힌 스킬의 (피해량 / 2)만큼 추가 고정 피해를 입힘.",
+    "context": "EN :\nEach turn, the first skill to deal damage to an enemy deals bonus fixed damage by half of the damage dealt.\nJP :\n毎ターン、最初に敵へダメージを与えたスキルの(ダメージ量÷2)だけ追加で固定ダメージを付与"
+  },
+  {
+    "key": "2001-name",
+    "original": "작은 앰플",
+    "context": "EN :\nSmall Ampule\nJP :\n小さなアンプル"
+  },
+  {
+    "key": "2001-desc",
+    "original": "턴 시작 시 체력이 40% 미만인 아군이 있으면 체력을 최대 체력의 100%만큼 회복 (한 층 당 1회 발동)",
+    "context": "EN :\nAt the start of the turn, allies under 40% HP heal 100% of Max HP. (Once per floor)\nJP :\nターン開始時に体力が40%未満の味方がいるなら、体力を最大値の100%分回復(1階層につき1回発動)"
+  },
+  {
+    "key": "2001-simpleDesc$[0].simpleDesc",
+    "original": "조건 충족 체력 100% 회복",
+    "context": "EN :\nConditional full heal\nJP :\n条件を満たした場合、体力を100%回復"
+  },
+  {
+    "key": "2002-name",
+    "original": "허물어진 알 조각",
+    "context": "EN :\nPiece of Crumbled Egg\nJP :\n壊れた卵の欠片"
+  },
+  {
+    "key": "2002-desc",
+    "original": "매 전투의 1턴 시작 시 현재 보유한 E.G.O 자원 중 무작위 속성 1개의 개수 + 2",
+    "context": "EN :\nOn the first turn of each encounter, gain 2 E.G.O resources of a random affinity in possession\nJP :\n戦闘の1ターン目開始時、現在保有しているE.G.O資源のうちランダムに1つを +2"
+  },
+  {
+    "key": "2002-simpleDesc$[0].simpleDesc",
+    "original": "보유한 속성 중 무작위 E.G.O 자원 + 2",
+    "context": "EN :\nGain 2 E.G.O resources for a random affinity owned\nJP :\n保有しているE.G.O資源のうち1つをランダムに +2"
+  },
+  {
+    "key": "2003-name",
+    "original": "싸늘한 환상 ",
+    "context": "EN :\nCold Illusion\nJP :\n冷ややかな幻想"
+  },
+  {
+    "key": "2003-desc",
+    "original": "탐식 속성 스킬의 피해량 + 10%",
+    "context": "EN :\nGluttony skills deal +10% damage\nJP :\n暴食属性スキルのダメージ量 +10%"
+  },
+  {
+    "key": "2003-simpleDesc$[0].simpleDesc",
+    "original": "탐식 속성 스킬의 피해량 + 10%",
+    "context": "EN :\nGluttony skill damage +10%\nJP :\n暴食属性スキルのダメージ量 +10%"
+  },
+  {
+    "key": "2004-name",
+    "original": "날카로운 환상",
+    "context": "EN :\nSharp Illusion\nJP :\n鋭い幻想"
+  },
+  {
+    "key": "2004-desc",
+    "original": "오만 속성 스킬의 피해량 + 10%",
+    "context": "EN :\nPride skills deal +10% damage\nJP :\n傲慢属性スキルのダメージ量 +10%"
+  },
+  {
+    "key": "2004-simpleDesc$[0].simpleDesc",
+    "original": "오만 속성 스킬의 피해량 + 10%",
+    "context": "EN :\nPride skill damage +10%\nJP :\n傲慢属性スキルのダメージ量 +10%"
+  },
+  {
+    "key": "2005-name",
+    "original": "향긋한 환상",
+    "context": "EN :\nFragrant Illusion\nJP :\n芳しい幻想"
+  },
+  {
+    "key": "2005-desc",
+    "original": "나태 속성 스킬의 피해량 + 10%",
+    "context": "EN :\nSloth skills deal +10% damage\nJP :\n怠惰属性スキルのダメージ量 +10%"
+  },
+  {
+    "key": "2005-simpleDesc$[0].simpleDesc",
+    "original": "나태 속성 스킬의 피해량 + 10%",
+    "context": "EN :\nSloth skill damage +10%\nJP :\n怠惰属性スキルのダメージ量 +10%"
+  },
+  {
+    "key": "2006-name",
+    "original": "별의 흔적",
+    "context": "EN :\nTrace of Stars\nJP :\n星の痕跡"
+  },
+  {
+    "key": "2006-desc",
+    "original": "정신력이 0 미만일 때 우울, 나태 속성 스킬의 최종 위력 +1",
+    "context": "EN :\nWhen below 0 SP, Gloom and Sloth skills have +1 Final Power\nJP :\n精神力が0未満のとき、憂鬱 、怠惰属性のスキルの最終威力 +1"
+  },
+  {
+    "key": "2006-simpleDesc$[0].simpleDesc",
+    "original": "정신력이 0 미만일 때 우울, 나태 속성 스킬의 최종 위력 +1",
+    "context": "EN :\nGloom and Sloth skill Final Power +1 when SP is below 0\nJP :\n精神力が0未満のとき、憂鬱 、怠惰属性のスキルの最終威力 +1"
+  },
+  {
+    "key": "2007-name",
+    "original": "알싸한 꽃봉오리",
+    "context": "EN :\nPungent Bud\nJP :\nえ辛い蕾"
+  },
+  {
+    "key": "2007-desc",
+    "original": "스킬로 침잠 부여 시 50% 확률로 침잠 위력 1 추가 부여",
+    "context": "EN :\nWhen inflicting Sinking with skill effects, apply 1 more Sinking with a 50% chance\nJP :\nスキルで沈潜 付与時、50%の確率で沈潜 威力1を追加で付与"
+  },
+  {
+    "key": "2007-simpleDesc$[0].simpleDesc",
+    "original": "스킬로 침잠 부여 시 50% 확률로 침잠 위력 1 추가 부여",
+    "context": "EN :\nWhen inflicting Sinking with skill effects, apply 1 more Sinking with a 50% chance\nJP :\nスキルで沈潜 付与時、50%の確率で沈潜 威力1を追加で付与"
+  },
+  {
+    "key": "2008-name",
+    "original": "뜨거운 눈물",
+    "context": "EN :\nHot Tears\nJP :\n熱い涙"
+  },
+  {
+    "key": "2008-desc",
+    "original": "분노 속성으로 받는 피해 -10%\n피격 시 다음 턴에 공격 위력 증가 1을 얻음 (수감자 당 턴 당 1회 발동)",
+    "context": "EN :\nTake -10% Wrath-affinity damage\nWhen hit, gain 1 Attack Power Up next turn (Once per turn per Sinner)\nJP :\n憤怒属性の被ダメージ -10%\n被ダメージ時、次のターンに攻撃威力増加1を得る(囚人1人につき、1ターンに1回発動)"
+  },
+  {
+    "key": "2008-simpleDesc$[0].simpleDesc",
+    "original": "분노 속성으로 받는 피해 -20%.",
+    "context": "EN :\nWrath damage taken -20%\nJP :\n憤怒属性による被ダメージ量 -20%"
+  },
+  {
+    "key": "2008-simpleDesc$[1].simpleDesc",
+    "original": "피격 시 다음 턴에 공격 위력 증가 1을 얻음",
+    "context": "EN :\nWhen hit, gain 1 Attack Power Up next turn\nJP :\n被ダメージ時、次のターンに攻撃威力増加 1を得る"
+  },
+  {
+    "key": "2009-name",
+    "original": "식은 눈물",
+    "context": "EN :\nCooled Tear\nJP :\n冷めた涙"
+  },
+  {
+    "key": "2009-desc",
+    "original": "피격 시 다음 턴에 보호 1을 얻음 (수감자 당 턴 당 1회 발동)",
+    "context": "EN :\nWhen attacked, gain 1 Protection next turn (Once per turn per Sinner)\nJP :\n被ダメージ時、次のターンに保護 1を得る(囚人1人につき、1ターンに1回発動)"
+  },
+  {
+    "key": "2009-simpleDesc$[0].simpleDesc",
+    "original": "피격 시 다음 턴에 보호 1을 얻음",
+    "context": "EN :\nWhen hit, gain 1 Protection next turn\nJP :\n被ダメージ時、次のターンに保護 1を得る"
+  },
+  {
+    "key": "2010-name",
+    "original": "파편의 기억",
+    "context": "EN :\nMemories of Fragments\nJP :\n破片の記憶"
+  },
+  {
+    "key": "2010-desc",
+    "original": "오만, 질투 속성 스킬로 합 진행 시 합 위력 +1",
+    "context": "EN :\nIn a clash, Pride and Envy skills have +1 Clash Power\nJP :\n傲慢、嫉妬属性スキルでマッチ進行時にマッチ威力 +1"
+  },
+  {
+    "key": "2010-simpleDesc$[0].simpleDesc",
+    "original": "오만, 질투 속성 스킬로 합 진행 시 합 위력 +1",
+    "context": "EN :\nPride and Envy skill Clash Power +1 in a clash\nJP :\n傲慢、嫉妬属性スキルでマッチ進行時にマッチ威力 +1"
+  },
+  {
+    "key": "2011-name",
+    "original": "찢겨진 봄의 조각",
+    "context": "EN :\nPiece of a Torn Spring\nJP :\n引き裂かれた春の欠片"
+  },
+  {
+    "key": "2011-desc",
+    "original": "오만 속성으로 받는 피해 -10% \n\n<i>\"나는 파릇하게 흩날리고 싶었으며, 서걱거리는 마음에 씨앗이 박히는 듯한 일렁임을 느끼곤 했지.\"</i>",
+    "context": "EN :\nTake -10% Pride-affinity damage\n\n<i>\"I would feel a desire to scatter into the winds in lush blue, sensing the sway of seeds plunging into my scrawling mind.\"</i>\nJP :\n傲慢属性の被ダメージ -10%\n\n<i>「私は青々と舞い散らまほしかりき、さらさらと鳴る心に種の刺さらん揺らめきを感ずることもあり。」</i>"
+  },
+  {
+    "key": "2011-simpleDesc$[0].simpleDesc",
+    "original": "오만 속성으로 받는 피해 -10%",
+    "context": "EN :\nPride damage taken -10%\nJP :\n傲慢属性による被ダメージ量 -10%"
+  },
+  {
+    "key": "2012-name",
+    "original": "찢겨진 여름의 조각",
+    "context": "EN :\nPiece of a Torn Summer\nJP :\n引き裂かれた夏の欠片"
+  },
+  {
+    "key": "2012-desc",
+    "original": "탐식 속성으로 받는 피해 -10%\n\n<i>\"날씨의 변덕스러움을 헤아리려 하는 것은 의미가 없다고 생각하였기에. 잔잔해질 날을 기다리며, 고개를 내어다 볼 뿐이었지.\"</i>",
+    "context": "EN :\nTake -10% Gluttony-affinity damage\n\n<i>\"I saw no meaning in attempting to fathom the caprices of the weather. I would simply wait for things to calm, looking out for the day's arrival.\"</i>\nJP :\n暴食属性の被ダメージ -10%\n\n<i>「天気の気まぐれを推し量らんとするは、益無しことと思えば。落ち着く日を待ちつつ、顔を出すばかりなりき。」</i>"
+  },
+  {
+    "key": "2012-simpleDesc$[0].simpleDesc",
+    "original": "탐식 속성으로 받는 피해 -10% \n\n<i>\"비스듬히 바라보다 스며들면 그만일 것이라는게, 안일함이었다는 생각을… 이제야 하게 되오.\"</i>",
+    "context": "EN :\nTake -10% Gluttony-affinity damage\n\n<i>\"Alas, I was careless in my assumption that I could simply observe slantwise as it comes to pass until it has seeped... Realization comes too late.\"</i>\nJP :\n暴食属性の被ダメージ -10%\n\n<i>「斜めに眺めて染み入らばよろしというのが、安逸なりきという考えを…ようやくし初めき。」</i>"
+  },
+  {
+    "key": "2013-name",
+    "original": "찢겨진 가을의 조각",
+    "context": "EN :\nPiece of a Torn Autumn\nJP :\n引き裂かれた秋の欠片"
+  },
+  {
+    "key": "2013-desc",
+    "original": "우울 속성으로 받는 피해 -10%\n\n<i>\"비스듬히 바라보다 스며들면 그만일 것이라는게, 안일함이었다는 생각을… 이제야 하게 되오.\"</i>",
+    "context": "EN :\nTake -10% Gloom-affinity damage\n\n<i>\"Alas, I was careless in my assumption that I could simply observe slantwise as it comes to pass until it has seeped... Realization comes too late.\"</i>\nJP :\n憂鬱属性の被ダメージ -10%\n\n<i>「斜めに眺めて染み入らばよろしというのが、安逸なりきという考えを…ようやくし初めき。」</i>"
+  },
+  {
+    "key": "2013-simpleDesc$[0].simpleDesc",
+    "original": "우울 속성으로 받는 피해 -10%",
+    "context": "EN :\nGloom damage taken -10%\nJP :\n憂鬱属性による被ダメージ量 -10%"
+  },
+  {
+    "key": "2014-name",
+    "original": "찢겨진 겨울의 조각",
+    "context": "EN :\nPiece of a Torn Winter\nJP :\n引き裂かれた冬の欠片"
+  },
+  {
+    "key": "2014-desc",
+    "original": "나태 속성으로 받는 피해 -10% \n\n<i>\"구인회의 폭발은 모든 것을 산산이 조각내었고, 나의 모든 것 역시 멈추게 만들었소.\"</i>",
+    "context": "EN :\nTake -10% Sloth-affinity damage\n\n<i>\"The explosion of the League of Nine shattered everything there was, and everything came to a halt for me as well.\"</i>\nJP :\n怠惰属性の被ダメージ -10%\n\n<i>「九人会の爆発は全てを粉々に砕き、私のすべてをもまた止めけり。」</i>"
+  },
+  {
+    "key": "2014-simpleDesc$[0].simpleDesc",
+    "original": "나태 속성으로 받는 피해 -10%",
+    "context": "EN :\nSloth damage taken -10%\nJP :\n怠惰属性による被ダメージ量 -10%"
+  },
+  {
+    "key": "2015-name",
+    "original": "부서진 인연의 조각",
+    "context": "EN :\nPiece of a Broken Bond\nJP :\n砕かれた縁の欠片"
+  },
+  {
+    "key": "2015-desc",
+    "original": "이상의 모든 스킬의 최종 위력 +2.\n아군 사망한 경우, 턴 종료 시 남은 아군이 다음 턴에 신속, 공격 위력 증가 1을 얻음(턴 당 1회)\n\n<i>\"행적을 돌이켜 보니… 우리 모두가 많은 걸 잃고 있었소.\"</i>",
+    "context": "EN :\nYi Sang's skills gain +2 Final Power\nWhen an ally dies, remaining allies gain 1 Haste and 1 Attack Power Up next turn (Once per turn)\n\n<i>\"Taking a backward glance at our trails... all of us have been suffering great losses.\"</i>\nJP :\nイサンの全スキル最終威力 +2\n味方が死亡した場合、ターン終了時に残った味方が次のターンにクイック 、攻撃威力増加 1を得る(1ターンに1回)\n\n<i>「行跡を振り返ると…私たち皆多くのものを失えり。」</i>"
+  },
+  {
+    "key": "2015-simpleDesc$[0].simpleDesc",
+    "original": "이상의 모든 스킬의 최종 위력 +2",
+    "context": "EN :\nYi Sang's Skill Final Power +2\nJP :\nイサンの全スキル最終威力 +2"
+  },
+  {
+    "key": "2015-simpleDesc$[1].simpleDesc",
+    "original": "아군 사망한 경우, 턴 종료 시 남은 아군이 다음 턴에 신속, 공격 위력 증가 1을 얻음 (턴 당 1회)",
+    "context": "EN :\nWhen an ally dies, remaining allies gain 1 Haste and 1 Attack Power Up next turn (Once per turn)\nJP :\n味方が死亡した場合、ターン終了時に残った味方が次のターンにクイック 、攻撃威力増加 1を得る(1ターンに1回)"
+  },
+  {
+    "key": "2016-name",
+    "original": "돌이키는 기억의 조각",
+    "context": "EN :\nPiece of Reversing Memories\nJP :\n振り返る記憶の欠片"
+  },
+  {
+    "key": "2016-desc",
+    "original": "이상의 레벨이 35레벨로 상승.\n이상의 인격 동기화 단계, E.G.O 환상해석 단계가 3단계로 상승\n\n<i>\"우리는 야심가도, 탐욕가도 아니며 그저 기술을 사랑했던 아해에 불과했지.\"</i>",
+    "context": "EN :\nYi Sang's level rises to 35.\nYi Sang's Uptie and Threadspin Tiers rise to Tier 3.\n\n<i>\"We were neither highfliers nor greedy vultures; we were merely children who loved technology.\"</i>\nJP :\nイサンのレベルが35に上昇。\nイサンの人格同期化段階、E.G.O幻想解析段階が3に上昇\n\n<i>「我々は野心家にも、貪欲家にもあらず、ただ技術を愛せし嬰児に過ぎざりけり。」</i>"
+  },
+  {
+    "key": "2016-simpleDesc$[0].simpleDesc",
+    "original": "이상의 레벨이 35레벨로 상승.",
+    "context": "EN :\nYi Sang's level rises to 35.\nJP :\nイサンのレベルが35に上昇。"
+  },
+  {
+    "key": "2016-simpleDesc$[1].simpleDesc",
+    "original": "이상의 인격 동기화 단계, E.G.O 환상해석 단계가 3단계로 상승",
+    "context": "EN :\nYi Sang's Uptie and Threadspin Tiers rise to Tier 3\nJP :\nイサンの人格同期化段階、E.G.O幻想解析段階が3に上昇"
+  }
+]

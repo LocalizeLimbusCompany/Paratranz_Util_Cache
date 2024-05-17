@@ -1,0 +1,432 @@
+[
+  {
+    "key": "1-name",
+    "original": "시즌 1 시작 기념 배너",
+    "context": "EN :\nSeason 1 Celebratory Banner\nJP :\nシーズン1 開始記念バナー"
+  },
+  {
+    "key": "1-desc",
+    "original": "시즌 1 오리엔테이션 무료 보상 1레벨에 획득",
+    "context": "EN :\nObtained at Season 1 Free Pass Level 1\nJP :\nシーズン1 オリエンテーション 無料報酬レベル1で獲得"
+  },
+  {
+    "key": "2-name",
+    "original": "시즌 1 완료 기념 배너",
+    "context": "EN :\nSeason 1 Completion Banner\nJP :\nシーズン1 完了記念バナー"
+  },
+  {
+    "key": "2-desc",
+    "original": "시즌 1 오리엔테이션 림버스 패스 보상 60레벨에 획득",
+    "context": "EN :\nObtained at Season 1 Limbus Pass Level 60\nJP :\nシーズン1 オリエンテーション リンバスパス報酬レベル60で獲得"
+  },
+  {
+    "key": "3-name",
+    "original": "근무 실적 우수 사원",
+    "context": "EN :\nProof of Diligent Attendance\nJP :\n勤務実績優秀社員"
+  },
+  {
+    "key": "3-desc",
+    "original": "신입 관리자 근태 보상 이벤트에서 획득",
+    "context": "EN :\nObtained from the New-hire’s Attendance Rewards event.\nJP :\n新入管理人 勤怠報酬イベントにて獲得"
+  },
+  {
+    "key": "4-name",
+    "original": "상냥한 관리자",
+    "context": "EN :\nKind Manager\nJP :\n優しい管理人"
+  },
+  {
+    "key": "4-desc",
+    "original": "신입 관리자 근태 보상 이벤트에서 획득",
+    "context": "EN :\nObtained from the New-hire’s Attendance Rewards event.\nJP :\n新入管理人 勤怠報酬イベントにて獲得"
+  },
+  {
+    "key": "5-name",
+    "original": "거울굴절철도 1호선 기념 배너 I",
+    "context": "EN :\nRefraction Railway Line 1 Basic Banner\nJP :\n鏡屈折鉄道1号線 記念バナーI"
+  },
+  {
+    "key": "5-desc",
+    "original": "거울굴절철도 1호선 13단계 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Station 13 of Refraction Railway Line 1.\nJP :\n鏡屈折鉄道1号線 レベル13クリア時に獲得"
+  },
+  {
+    "key": "6-name",
+    "original": "거울굴절철도 1호선 기념 배너 II",
+    "context": "EN :\nRefraction Railway Line 1 Decorated Banner\nJP :\n鏡屈折鉄道1号線 記念バナーII"
+  },
+  {
+    "key": "6-desc",
+    "original": "거울굴절철도 1호선 13단계 클리어, 누적 턴 120 이하 시 획득",
+    "context": "EN :\nObtained by clearing Station 13 of Refraction Railway Line 1 under 120 Total Turns.\nJP :\n鏡屈折鉄道1号線 レベル13クリア、累計ターンが120以下のときに獲得"
+  },
+  {
+    "key": "7-name",
+    "original": "거울굴절철도 1호선 기념 배너 III",
+    "context": "EN :\nRefraction Railway Line 1 Embellished Banner\nJP :\n鏡屈折鉄道1号線 記念バナーIII"
+  },
+  {
+    "key": "7-desc",
+    "original": "거울굴절철도 1호선 13단계 클리어, 누적 턴 120 이하 조건을 이벤트 2주차에 완료 시 획득",
+    "context": "EN :\nObtained by clearing Station 13 of Refraction Railway Line 1 under 120 Total Turns during the first two weeks of the event.\nJP :\n鏡屈折鉄道1号線 レベル13クリア、累計ターンが120以下の条件をイベントの2週目以内達成時に獲得"
+  },
+  {
+    "key": "8-name",
+    "original": "헬스 치킨",
+    "context": "EN :\nHell’s Chicken\nJP :\nヘルズチキン"
+  },
+  {
+    "key": "8-desc",
+    "original": "헬스 치킨 이벤트에서 획득",
+    "context": "EN :\nObtained from the Hell’s Chicken event.\nJP :\nヘルズチキンイベントにて獲得"
+  },
+  {
+    "key": "9-name",
+    "original": "어머니께...",
+    "context": "EN :\nTo My Mother…\nJP :\n母さんへ…。"
+  },
+  {
+    "key": "9-desc",
+    "original": "헬스 치킨 이벤트에서 획득",
+    "context": "EN :\nObtained from the Hell’s Chicken event.\nJP :\nヘルズチキンイベントにて獲得"
+  },
+  {
+    "key": "10-name",
+    "original": "시즌 2 시작 기념 배너",
+    "context": "EN :\nSeason 2 Celebratory Banner\nJP :\nシーズン2 開始記念バナー"
+  },
+  {
+    "key": "10-desc",
+    "original": "시즌 2 레미니센스 무료 보상 1레벨에 획득",
+    "context": "EN :\nObtained at Season 2 Free Pass Level 1\nJP :\nシーズン2 レミニセンス 無料報酬レベル1で獲得"
+  },
+  {
+    "key": "11-name",
+    "original": "시즌 2 완료 기념 배너",
+    "context": "EN :\nSeason 2 Completion Banner\nJP :\nシーズン2 完了記念バナー"
+  },
+  {
+    "key": "11-desc",
+    "original": "시즌 2 레미니센스 림버스 패스 보상 60레벨에 획득",
+    "context": "EN :\nObtained at Season 2 Limbus Pass Level 60\nJP :\nシーズン2 レミニセンス リンバスパス報酬レベル60で獲得"
+  },
+  {
+    "key": "12-name",
+    "original": "우.미.다 장식 배너",
+    "context": "EN :\nS.E.A Event Ornamental Banner\nJP :\nう・み・ダ装飾バナー"
+  },
+  {
+    "key": "12-desc",
+    "original": "우.미.다 이벤트에서 획득",
+    "context": "EN :\nObtained from the S.E.A event.\nJP :\nう・み・ダイベントにて獲得"
+  },
+  {
+    "key": "13-name",
+    "original": "거울굴절철도 2호선 기념 배너 I",
+    "context": "EN :\nRefraction Railway Line 2 Basic Banner\nJP :\n鏡屈折鉄道2号線 記念バナーI"
+  },
+  {
+    "key": "13-desc",
+    "original": "순환 횟수 3 이상으로 2호선 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Line 2 with 3 or more Cycle Counts\nJP :\n循環回数3以上で、2号線クリア時に獲得"
+  },
+  {
+    "key": "14-name",
+    "original": "거울굴절철도 2호선 기념 배너 II",
+    "context": "EN :\nRefraction Railway Line 2 Decorated Banner\nJP :\n鏡屈折鉄道2号線 記念バナーII"
+  },
+  {
+    "key": "14-desc",
+    "original": "순환 횟수 5 이상으로 2호선 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Line 2 with 5 or more Cycle Counts\nJP :\n循環回数5以上で、2号線クリア時に獲得"
+  },
+  {
+    "key": "15-name",
+    "original": "거울굴절철도 2호선 기념 배너 III",
+    "context": "EN :\nRefraction Railway Line 2 Embellished Banner\nJP :\n鏡屈折鉄道2号線 記念バナーIII"
+  },
+  {
+    "key": "15-desc",
+    "original": "순환 횟수 5 이상, 누적 턴 수 200턴 이하로 2호선 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Line 2 with 5 or more Cycle Counts and under 200 Total Turns\nJP :\n循環回数5以上、累計ターン数200以下で2号線クリア時に獲得"
+  },
+  {
+    "key": "16-name",
+    "original": "거울굴절철도 2호선 특별 기념 배너 I",
+    "context": "EN :\nSpecial Refraction Railway Line 2 Basic Banner\nJP :\n鏡屈折鉄道2号線 特別記念バナーI"
+  },
+  {
+    "key": "16-desc",
+    "original": "시즌 2 레미니센스 기간 내에 순환 횟수 3 이상으로 2호선 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Line 2 with 3 or more Cycle Counts before Season 2: Reminiscence ends\nJP :\nシーズン2 レミニセンス期間中に循環回数3以上で2号線クリア時に獲得"
+  },
+  {
+    "key": "17-name",
+    "original": "거울굴절철도 2호선 특별 기념 배너 II",
+    "context": "EN :\nSpecial Refraction Railway Line 2 Decorated Banner\nJP :\n鏡屈折鉄道2号線 特別記念バナーII"
+  },
+  {
+    "key": "17-desc",
+    "original": "시즌 2 레미니센스 기간 내에 순환 횟수 5 이상으로 2호선 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Line 2 with 5 or more Cycle Counts before Season 2: Reminiscence ends\nJP :\nシーズン2 レミニセンス期間中に循環回数5以上で2号線クリア時に獲得"
+  },
+  {
+    "key": "18-name",
+    "original": "거울굴절철도 2호선 특별 기념 배너 III",
+    "context": "EN :\nSpecial Refraction Railway Line 2 Embellished Banner\nJP :\n鏡屈折鉄道2号線 特別記念バナーIII"
+  },
+  {
+    "key": "18-desc",
+    "original": "시즌 2 레미니센스 기간 내에 순환 횟수 5 이상, 누적 턴 수 200턴 이하로 2호선 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Line 2 with 5 or more Cycle Counts and 200 or less Total Turns before Season 2: Reminiscence ends\nJP :\nシーズン2 レミニセンス期間中に循環回数5以上、累計ターン数200以下で2号線クリア時に獲得"
+  },
+  {
+    "key": "19-name",
+    "original": "거울굴절철도 2호선 특별 기념 배너 IV",
+    "context": "EN :\nSpecial Refraction Railway Line 2 Distinguished Banner\nJP :\n鏡屈折鉄道2号線 特別記念バナー IV"
+  },
+  {
+    "key": "19-desc",
+    "original": "시즌 2 레미니센스 기간 내에 순환 횟수 5 이상, 누적 턴 수 150턴 이하로 2호선 클리어 시 획득 (단, 23/09/15 20:15 (KST) 이후에 새롭게 시작한 기록을 기준으로 함)",
+    "context": "EN :\nObtained by clearing Line 2 with 5 or more Cycles and under 150 Total Turns before the end of Season 2: Reminiscence (Must be a record made after 2023.09.15 20:15(KST))\nJP :\nシーズン2 レミニセンス期間中に循環回数5以上、累計ターン数150以下で2号線クリア時に獲得(※23/09/15 20:15 (KST) 以降新たに開始した記録を基準とする)"
+  },
+  {
+    "key": "20-name",
+    "original": "시즌 3 시작 기념 배너",
+    "context": "EN :\nSeason 3 Celebratory Banner\nJP :\nシーズン3 開始記念バナー"
+  },
+  {
+    "key": "20-desc",
+    "original": "시즌 3 본 보야지 무료 보상 1레벨에 획득",
+    "context": "EN :\nObtained at Season 3 Free Pass Level 1\nJP :\nシーズン3 ボン・ヴォヤージ 無料報酬レベル1で獲得"
+  },
+  {
+    "key": "21-name",
+    "original": "시즌 3 완료 기념 배너",
+    "context": "EN :\nSeason 3 Completion Banner\nJP :\nシーズン3 完了記念バナー"
+  },
+  {
+    "key": "21-desc",
+    "original": "시즌 3 본 보야지 림버스 패스 보상 120레벨에 획득",
+    "context": "EN :\nObtained at Season 3 Limbus Pass Level 120\nJP :\nシーズン3 ボン・ヴォヤージ リンバスパス報酬レベル120で獲得"
+  },
+  {
+    "key": "22-name",
+    "original": "시즌 3 림버스 패키지 특별 배너",
+    "context": "EN :\nSeason 3 Limbus Pass Package Special Banner\nJP :\nシーズン3 リンバスパッケージ特別バナー"
+  },
+  {
+    "key": "22-desc",
+    "original": "시즌 3 본 보야지 림버스 패스 패키지 구매 시 획득",
+    "context": "EN :\nObtained from Season 3 Limbus Pass Package\nJP :\nシーズン3 ボン・ヴォヤージ リンバスパスパッケージ購入時に獲得"
+  },
+  {
+    "key": "23-name",
+    "original": "20번구의 기적",
+    "context": "EN :\nMiracle in District 20\nJP :\n20番区の奇跡"
+  },
+  {
+    "key": "23-desc",
+    "original": "20번구의 기적 이벤트에서 획득",
+    "context": "EN :\nObtained from the Miracle in District 20 Event\nJP :\n20番区の奇跡 イベントで獲得"
+  },
+  {
+    "key": "24-name",
+    "original": "20번구의 기적 - 특별 배너",
+    "context": "EN :\nMiracle in District 20 - Special Banner\nJP :\n20番区の奇跡 - スペシャルバナー"
+  },
+  {
+    "key": "24-desc",
+    "original": "20번구의 기적 이벤트에서 획득",
+    "context": "EN :\nObtained from the Miracle in District 20 Event\nJP :\n20番区の奇跡 イベントで獲得"
+  },
+  {
+    "key": "25-name",
+    "original": "2024 - 녹빛 여명",
+    "context": "EN :\n2024 - Dawn of Green\nJP :\n2024 - 緑の黎明"
+  },
+  {
+    "key": "25-desc",
+    "original": "제2회 발푸르기스의 밤 이벤트에서 획득",
+    "context": "EN :\nObtained from the 2nd Walpurgis Night Event\nJP :\n第2回ヴァルプルギスの夜 イベントにて獲得"
+  },
+  {
+    "key": "26-name",
+    "original": "거울굴절철도 3호선 기념 배너 I",
+    "context": "EN :\nRefraction Railway Line 3 Basic Banner\nJP :\n鏡屈折鉄道3号線 記念バナーI"
+  },
+  {
+    "key": "26-desc",
+    "original": "거울굴절철도 3호선 종착역 클리어 시 획득",
+    "context": "EN :\nObtained by clearing the Terminus of Refraction Railway Line 3\nJP :\n鏡屈折鉄道3号線 終着駅クリア時に獲得"
+  },
+  {
+    "key": "27-name",
+    "original": "거울굴절철도 3호선 특별 기념 배너 I",
+    "context": "EN :\nSpecial Refraction Railway Line 3 Basic Banner\nJP :\n鏡屈折鉄道3号線 特別記念バナーI"
+  },
+  {
+    "key": "27-desc",
+    "original": "시즌 3 본 보야지 기간 내에 누적 턴 수 100턴 이하로 거울굴절철도 3호선 종착역 클리어 시 획득",
+    "context": "EN :\nObtained by clearing the Terminus of Line 3 with 100 Turns or less Total Turns before Season 3: Bon Voyage ends\nJP :\nシーズン3 ボンヴォヤージ期間内に累計ターン数100以下で鏡屈折鉄道3号線の終着駅クリア時に獲得"
+  },
+  {
+    "key": "28-name",
+    "original": "육참골단",
+    "context": "EN :\nYield My Flesh to Claim Their Bones\nJP :\n肉斬骨断"
+  },
+  {
+    "key": "28-desc",
+    "original": "육참골단 이벤트에서 획득",
+    "context": "EN :\nObtained from the 'Yield My Flesh to Claim Their Bones' event\nJP :\n肉斬骨断イベントにて獲得"
+  },
+  {
+    "key": "29-name",
+    "original": "육참골단 - 특별 배너",
+    "context": "EN :\nYield My Flesh to Claim Their Bones - Special Banner\nJP :\n肉斬骨断 - 特別バナー"
+  },
+  {
+    "key": "29-desc",
+    "original": "육참골단 이벤트에서 획득",
+    "context": "EN :\nObtained from the 'Yield My Flesh to Claim Their Bones' event\nJP :\n肉斬骨断イベントにて獲得"
+  },
+  {
+    "key": "30-name",
+    "original": "림버스 컴퍼니 1주년 기념 배너",
+    "context": "EN :\nLimbus Company\n1st Anniversary Banner\nJP :\nリンバス・カンパニー1周年記念バナー"
+  },
+  {
+    "key": "30-desc",
+    "original": "1주년 기념 이벤트에서 획득",
+    "context": "EN :\nObtained from the 1st Anniversary event\nJP :\n1周年記念イベントにて獲得"
+  },
+  {
+    "key": "31-name",
+    "original": "시즌 4 시작 기념 배너",
+    "context": "EN :\nSeason 4 Celebratory Banner\nJP :\nシーズン4 開始記念バナー"
+  },
+  {
+    "key": "31-desc",
+    "original": "시즌 4 클리어 올 캐시 무료 보상 1레벨에 획득",
+    "context": "EN :\nObtained at Season 4 Free Pass Level 1\nJP :\nシーズン4 クリア・オール・キャシー 無料報酬レベル1で獲得"
+  },
+  {
+    "key": "32-name",
+    "original": "시즌 4 완료 기념 배너",
+    "context": "EN :\nSeason 4 Completion Banner\nJP :\nシーズン4 完了記念バナー"
+  },
+  {
+    "key": "32-desc",
+    "original": "시즌 4 클리어 올 캐시 림버스 패스 보상 120레벨에 획득",
+    "context": "EN :\nObtained at Season 4 Limbus Pass Level 120\nJP :\nシーズン4 クリア・オール・キャシー リンバスパス報酬レベル120で獲得"
+  },
+  {
+    "key": "33-name",
+    "original": "시즌 4 림버스 패키지 특별 배너",
+    "context": "EN :\nSeason 4 Limbus Package Special Banner\nJP :\nシーズン4 リンバスパッケージ特別バナー"
+  },
+  {
+    "key": "33-desc",
+    "original": "시즌 4 클리어 올 캐시 림버스 패스 패키지 구매 시 획득",
+    "context": "EN :\nObtained from Season 4 Limbus Pass Package\nJP :\nシーズン4 クリア・オール・キャシー リンバスパスパッケージ購入時に獲得"
+  },
+  {
+    "key": "34-name",
+    "original": "시즌 4 림버스 패키지 특별 배너 II",
+    "context": "EN :\nSeason 4 Limbus Package Special Banner II\nJP :\nシーズン4 リンバスパッケージ特別バナー II"
+  },
+  {
+    "key": "34-desc",
+    "original": "시즌 4 클리어 올 캐시 림버스 패스 패키지 구매 시 획득",
+    "context": "EN :\nObtained from Season 4 Limbus Pass Package\nJP :\nシーズン4 クリア・オール・キャシー リンバスパスパッケージ購入時に獲得"
+  },
+  {
+    "key": "35-name",
+    "original": "라이브러리 오브 루이나",
+    "context": "EN :\nLibrary of Ruina\nJP :\nライブラリー・オブ・ルイナ"
+  },
+  {
+    "key": "35-desc",
+    "original": "라이브러리 오브 루이나 구매 특전 쿠폰 등록 시 획득",
+    "context": "EN :\nObtained from entering Library of Ruina special bonus coupon code\nJP :\nライブラリー・オブ・ルイナ購入特典のクーポン登録時に獲得"
+  },
+  {
+    "key": "36-name",
+    "original": "새벽 사무소",
+    "context": "EN :\nDawn Office\nJP :\n夜明事務所"
+  },
+  {
+    "key": "36-desc",
+    "original": "제3회 발푸르기스의 밤 이벤트에서 획득",
+    "context": "EN :\nObtained from the 3rd Walpurgis Night Event\nJP :\n第3回ヴァルプルギスの夜 イベントにて獲得"
+  },
+  {
+    "key": "37-name",
+    "original": "시간살인시간",
+    "context": "EN :\nTimekilling Time\nJP :\n時間殺人時間"
+  },
+  {
+    "key": "37-desc",
+    "original": "시간살인시간 이벤트에서 획득",
+    "context": "EN :\nObtained from the Timekilling Time event\nJP :\n時間殺人時間イベントにて獲得"
+  },
+  {
+    "key": "38-name",
+    "original": "시간살인시간 - 특별 배너",
+    "context": "EN :\nTimekilling Time - Special Banner\nJP :\n時間殺人時間 - 特別バナー"
+  },
+  {
+    "key": "38-desc",
+    "original": "시간살인시간 이벤트에서 획득",
+    "context": "EN :\nObtained from the Timekilling Time event\nJP :\n時間殺人時間イベントにて獲得"
+  },
+  {
+    "key": "39-name",
+    "original": "거울굴절철도 4호선 기념 배너",
+    "context": "EN :\nRefraction Railway Line 4 Banner\nJP :\n鏡屈折鉄道4号線 記念バナー"
+  },
+  {
+    "key": "39-desc",
+    "original": "거울굴절철도 4호선 제 4 구간 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Section #4 of Refraction Railway Line 4\nJP :\n鏡屈折鉄道4号線 第4区間クリア時に獲得"
+  },
+  {
+    "key": "40-name",
+    "original": "거울굴절철도 4호선 특별 기념 배너",
+    "context": "EN :\nSpecial Refraction Railway Line 4 Banner\nJP :\n鏡屈折鉄道4号線 特別記念バナー"
+  },
+  {
+    "key": "40-desc",
+    "original": "시즌 4 클리어 올 캐시 기간 내에 누적 턴 수 100턴 이하로 거울굴절철도 4호선 제 4 구간 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Section #4 of Line 4 with 100 Turns or fewer Total Turns before Season 4: Clear All Cathy ends\nJP :\nシーズン4 クリア・オール・キャシー期間内に累計ターン数100以下で鏡屈折鉄道4号線の第4区間クリア時に獲得"
+  },
+  {
+    "key": "41-name",
+    "original": "워프특급 살인사건",
+    "context": "EN :\nMurder on the WARP Express\nJP :\nワープ特急殺人事件"
+  },
+  {
+    "key": "41-desc",
+    "original": "워프특급 살인사건 이벤트에서 획득",
+    "context": "EN :\nObtained from the Murder on the WARP Express event\nJP :\nワープ特急殺人事件イベントにて獲得"
+  },
+  {
+    "key": "42-name",
+    "original": "워프특급 살인사건 - 특별 배너",
+    "context": "EN :\nMurder on the WARP Express - Special Banner\nJP :\nワープ特急殺人事件 - 特別バナー"
+  },
+  {
+    "key": "42-desc",
+    "original": "워프특급 살인사건 이벤트에서 획득",
+    "context": "EN :\nObtained from the Murder on the WARP Express event\nJP :\nワープ特急殺人事件イベントにて獲得"
+  },
+  {
+    "key": "43-name",
+    "original": "자색 정오",
+    "context": "EN :\nNoon of Violet\nJP :\n紫の白昼"
+  },
+  {
+    "key": "43-desc",
+    "original": "제4회 발푸르기스의 밤 이벤트에서 획득",
+    "context": "EN :\nObtained from the 4th Walpurgis Night event\nJP :\n第4回ヴァルプルギスの夜 イベントにて獲得"
+  }
+]

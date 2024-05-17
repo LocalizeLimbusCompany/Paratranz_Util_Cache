@@ -1,0 +1,305 @@
+[
+  {
+    "key": "0-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "0-content",
+    "original": "버스가 가는 길을 가로막는 전투를 치르며 정차와 출발을 반복하다 보니, 아무리 생각해도 이해가 안 되는 부분에서 답답한 마음을 숨길 수가 없다.",
+    "context": "EN :\nSomething continued to nag at the back of my mind during the frequent stops and combat encounters. There was this one thing I just could not understand.\nJP :\nバスの行く道を遮るものと戦うために停車と出発を繰り返している間\nいくら考えても理解できないことがあって、もどかしさが抑えられない。"
+  },
+  {
+    "key": "1-content",
+    "original": "베르길리우스가 이랬던 적이 한두 번이 아니긴 하지만…",
+    "context": "EN :\nThis is pretty much expected from Vergilius at this point, but...\nJP :\nヴェルギリウスがこんなことをしたのは\n一度や二度じゃなかったけど…。"
+  },
+  {
+    "key": "2-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "2-content",
+    "original": "<이미 알고 있었으면 좀 이야기 해줘도 좋지 않았나…>",
+    "context": "EN :\n<... If he already knew where we were going, and why... would it hurt to tell us for once?>\nJP :\n<もう知ってたなら話してくれても良かったんじゃないかな…。>"
+  },
+  {
+    "key": "3-content",
+    "original": "아직도 뒷자리에서 조용히 숨을 쉬고 있는 앵두를 바라보며 나는 그렇게 중얼거렸다.",
+    "context": "EN :\nI muttered to myself while looking toward the back of the bus where Aeng-du slept. She was still out cold.\nJP :\nまだ後方座席で静かに息をしているエンドゥを見つめながら、私はそう呟いた。"
+  },
+  {
+    "key": "4-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "4-content",
+    "original": "<파우스트, 이런 건 정당한 건의잖아. 슬슬 말을 전해줘도…>",
+    "context": "EN :\n<Come on, Faust. I legitimately think that this is something we have to talk about. Can you please relay my question to Vergilius...?>\nJP :\n<ファウスト、こういうのは正当な建議じゃないかな。\nそろそろ伝えてもらっても…。>"
+  },
+  {
+    "key": "5-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "5-content",
+    "original": "…음.",
+    "context": "EN :\n... Mm.\nJP :\n…ふむ。"
+  },
+  {
+    "key": "6-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "6-content",
+    "original": "하, 그럼 내가 말하지. 갈등은 때때로 필요한 법이다. 어이, 길잡이!",
+    "context": "EN :\nHah, if you won't do it, then I will. A journey can't always be sunshine and rainbows—some friction is necessary. You there, guide!\nJP :\nはぁ、では私が言おう。\n衝突は時に必要なものだ。 おい、案内人！"
+  },
+  {
+    "key": "7-content",
+    "original": "…오티스는 나의 질문과 함께 자신이 마음에 안 드는 일들을 줄줄 읊어댔다.",
+    "context": "EN :\nOutis relayed my question, then began to share some of her own grievances with Vergilius.\nJP :\n…ウーティスは私の質問と共に\n自分が気に食わないことをべらべらと述べた。"
+  },
+  {
+    "key": "8-content",
+    "original": "그 비중이 좀 치우친 것 같긴 했지만…",
+    "context": "EN :\n... A LOT of her own grievances.\nJP :\n比率は少し偏ってる気はしたけど…。"
+  },
+  {
+    "key": "9-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "9-content",
+    "original": "…하아, 끝났나.",
+    "context": "EN :\n... Haah, are you finished?\nJP :\n…はぁ、終わったか。"
+  },
+  {
+    "key": "10-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "10-content",
+    "original": "뭐, 사실이다. 이미 무전으로 세부적인 내용은 전달받았지.",
+    "context": "EN :\nWell, you're not wrong. I did hear most of the details through the radio.\nJP :\nまぁ、事実だ。既に無線で細かい内容は伝達された。"
+  },
+  {
+    "key": "11-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "11-content",
+    "original": "미리 말하지 않은 이유.",
+    "context": "EN :\nAnd here's why I didn't tell you in advance.\nJP :\n予め言わない理由。"
+  },
+  {
+    "key": "12-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "12-content",
+    "original": "상황에 몰아넣고 학습해야 깨닫는 인재들이라 굳이 먼저 말하진 않았을 뿐이다. 어차피 먼저 말해봐야 반발심밖에 더 생길까.",
+    "context": "EN :\nIt's because you're the kind of people who never learn until the 'problem' crashes through your front door. Would you have done anything differently if you knew in advance? It'll only serve to give you an excuse to whine about it.\nJP :\n状況に追い込んで学習してこそ悟るような人材なので、あえて予め\n言わなかっただけだ。どうせ先に言っても反発心しか生じないだろうしな。"
+  },
+  {
+    "key": "13-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "13-content",
+    "original": "그래서, 관리자. 이번 일을 거부할 생각인 겁니까?",
+    "context": "EN :\nSo there it is. What now, manager? Will you refuse this mission?\nJP :\nそれで、管理人。\n今回の仕事を拒否するつもりですか？"
+  },
+  {
+    "key": "14-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "14-content",
+    "original": "<…그럴 순 없겠지. 그런 선택을 하면 지금도 땅바닥인 우리의 취급이 지하실을 열고 들어갈 것 같은걸.>",
+    "context": "EN :\n<... How could I? They're already treating us like dirt. If I refuse this, I can't imagine how much worse it'll get.>\nJP :\n<…それは無理かな。そんな選択をしちゃえば、現時点で底辺の\n私たちに対する扱いが底辺超えて地下室に突入しそうだし。>"
+  },
+  {
+    "key": "15-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "15-content",
+    "original": "그럴 순 없겠다고 생각하겠지.",
+    "context": "EN :\nI'm sure you're thinking 'How could I?'. And you'd be right.\nJP :\nそうすることはできない、と思ったんだろうな。"
+  },
+  {
+    "key": "16-content",
+    "original": "이미 확정을 해놓은 듯 당연히 그럴 거라고 여기는 눈과 말.",
+    "context": "EN :\nI can tell from the way he's looking at me that he already knew what I was going to say.\nJP :\nもう決まっていたかのように、当然そうだと思う目つきと言葉。"
+  },
+  {
+    "key": "17-content",
+    "original": "정말 내 말이 들리지 않는 건지 헷갈릴 정도다.",
+    "context": "EN :\nI'm starting to wonder if he really can't hear me.\nJP :\n本当に私の言葉が聞こえないのか、たまに分からなくなってしまう。"
+  },
+  {
+    "key": "18-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "18-content",
+    "original": "마침 손님께서 깨신 모양이군.",
+    "context": "EN :\nAh, our guest is awake.\nJP :\nちょうどゲストがお目覚めのようだな。"
+  },
+  {
+    "key": "19-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "19-content",
+    "original": "카론의 감으로는 정확한 위치를 잡을 수 없으니, 가서 알아 오는 게 좋겠군요, 관리자.",
+    "context": "EN :\nYou should go and ask her for directions, manager. Charon's intuition can only take us so far.\nJP :\nカロンの勘では正確な位置を掴めないと思いますので、\n行って聞いてくるのが良いでしょうね、管理人。"
+  },
+  {
+    "key": "20-content",
+    "original": "바깥에서 아예 정보를 들고 왔으면 더 깔끔했겠지만. 베르길리우스는 그런 중얼거림을 굳이 또 붙여가며 다시 눈을 감고 고개를 돌렸다.",
+    "context": "EN :\nAgain, this would have gone much smoother if we had been told where we were going from the start. But like always, Vergilius felt the need to add comments like that before shutting me down and turning away. He'd already closed his eyes.\nJP :\n外で予め情報を伝えてたなら、スマートに済んだろうけどな。\nヴェルギリウスはあえてそう呟きながら、再び目を閉じて顔を背けた。"
+  },
+  {
+    "key": "21-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "21-content",
+    "original": "…흠흠. 내가 가서 상황을 설명하겠소.",
+    "context": "EN :\nHm, ahm. Allow me to explicate our present circumstances to her.\nJP :\n…ふむふむ。私が行きて状況を説明せん。"
+  },
+  {
+    "key": "22-content",
+    "original": "어색한 분위기를 풀려는 듯, 이상이 어색한 웃음을 지으며 몸을 일으켰다.",
+    "context": "EN :\nYi Sang got up with an awkward smile in an attempt to clear the air.\nJP :\n気まずい雰囲気を和らげるように、\nイサンがぎこちない笑みを浮かべながら立ち上がった。"
+  },
+  {
+    "key": "23-content",
+    "original": "시간이 흐른 후…",
+    "context": "EN :\nAfter some time...\nJP :\nしばらくして…。"
+  },
+  {
+    "key": "24-content",
+    "original": "앵두는 이상의 설명을 듣고 납득했는지, 운전대로 나아가 카론에게 상세한 위치를 전달해 주고 있었다.",
+    "context": "EN :\nYi Sang seemed to have successfully explained our circumstance to Aeng-du; she was standing next to Charon, trying to give her proper directions.\nJP :\nエンドゥはイサンの説明を聞いて納得したのか、\n運転席へと進んでカロンに詳細な位置を伝えていた。"
+  },
+  {
+    "key": "25-content",
+    "original": "자신을 도와준다면, 그런 검은 비석은 자신들에게 필요 없으니 당연히 줄 것이라는 이야기와 함께.",
+    "context": "EN :\nShe had also told us that, as long as we assisted her with her mission, she wouldn't mind us taking the black stele for ourselves.\nJP :\n自分を助けてくれるなら、そんな黒い碑石とやらは必要ないので\n当然くれるだろうという話と共に。"
+  },
+  {
+    "key": "26-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "26-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "26-content",
+    "original": "아, 여기서 오른쪽… 앗!",
+    "context": "EN :\nAh, turn to the right there— Ah...!\nJP :\nあ、ここで右…あっ！"
+  },
+  {
+    "key": "27-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "27-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "27-content",
+    "original": "저것들이… 벌써 진을 저렇게 치고서…!",
+    "context": "EN :\nThey've already set up camp there...!\nJP :\nアイツら…もうあんな風に陣取って…！"
+  },
+  {
+    "key": "28-content",
+    "original": "그 말대로, 건물에는 흑운회의 인물로 보이는 사람들이 입구 주변을 서성이며 주변을 경계하고 있었다.",
+    "context": "EN :\nPeople dressed in Kurokumo Clan's garbs were wandering around the building, standing guard before its entrance.\nJP :\nその言葉の通り、建物には黒雲会の人物と見られる人々が\n入口周辺をうろうろしながら周囲を警戒していた。"
+  },
+  {
+    "key": "29-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "29-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "29-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "29-content",
+    "original": "내려야...! 큭, 김삿갓 님…!",
+    "context": "EN :\nI have to...! Agh, mentor Bamboo-hatted Kim...!\nJP :\n降りなきゃ…！くっ、キムサッガッ様…！"
+  },
+  {
+    "key": "30-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "30-content",
+    "original": "뒤틀림은 시간을 오래 끌수록 제압하기 어려울 것입니다. 저희도 빠르게 빌딩으로 진입하죠.",
+    "context": "EN :\nDelaying further will only allow the Distortion to grow more powerful. We must enter the building as soon as possible.\nJP :\nねじれは、時間が長引くほど制圧が困難になるでしょう。\n私たちも早くビルへ入りましょう。"
+  },
+  {
+    "key": "31-content",
+    "original": "이미 버스 밖으로 후다닥 달려 나간 앵두를 따라, 우리 모두 빌딩을 향해 달려갔다.",
+    "context": "EN :\nAeng-du had already leaped out of the bus and was rushing in with her weapon drawn. We quickly followed suit.\nJP :\n既にバスの外へとバタバタと駆けだしたエンドゥを追って、\n私たちは皆ビルに向かって走った。"
+  }
+]

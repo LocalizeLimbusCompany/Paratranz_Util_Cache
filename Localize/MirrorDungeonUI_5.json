@@ -1,0 +1,617 @@
+[
+  {
+    "key": "mirror_dungeon_get_ego_gift_with_enemy_buff_less_count-content",
+    "original": "E.G.O 기프트 선택 가능 횟수가 남았습니다.\n\nE.G.O 기프트를 선택하지 않고 이대로 진행하시겠습니까?\n\n(※ E.G.O 기프트를 선택하지 않을 경우, 남은 횟수만큼 무작위 고난을 획득합니다)",
+    "context": "EN :\nYou have remaining E.G.O Gift choices.\n\nWill you proceed without selecting an E.G.O Gift?\n\n(※ You will gain random Trials equal to the number of your remaining choices)\nJP :\nE.G.Oギフト選択可能回数が残っています。\n\nE.G.Oギフトを選択せずにこのまま進行しますか？\n\n(※E.G.Oギフトを選択しない場合、残り回数だけランダムな苦難を獲得します)"
+  },
+  {
+    "key": "mirror_dungeon_easy_difficulty-content",
+    "original": "Normal",
+    "context": "EN :\nNormal\nJP :\nNormal"
+  },
+  {
+    "key": "mirror_dungeon_hard_difficulty-content",
+    "original": "Hard",
+    "context": "EN :\nHard\nJP :\nHard"
+  },
+  {
+    "key": "mirror_dungeon_start_bonus_formation_rest_point-content",
+    "original": "휴식 보너스",
+    "context": "EN :\nRest Bonus\nJP :\n休息ボーナス"
+  },
+  {
+    "key": "mirror_dungeon_start_bonus_formation_total-content",
+    "original": "휴식\n보너스",
+    "context": "EN :\nRest\nBonus\nJP :\n休息\nボーナス"
+  },
+  {
+    "key": "mirror_dungeon_start_buff_Panel_reset_selection-content",
+    "original": "선택 효과 초기화",
+    "context": "EN :\nClear Effect Selection\nJP :\n選択効果を初期化"
+  },
+  {
+    "key": "mirror_dungeon_start_buff_Panel_applied_effect-content",
+    "original": "적용한 효과",
+    "context": "EN :\nActivated Effects\nJP :\n適用中の効果"
+  },
+  {
+    "key": "mirror_dungeon_reward_popup_rest_bonus_guide-content",
+    "original": "편성하지 않은 인격의 휴식 보너스 1 증가",
+    "context": "EN :\nAll Identities outside the current Team gain 1 Rest Bonus\nJP :\n編成しない人格の休息ボーナスが1増加"
+  },
+  {
+    "key": "mirror_user_start_buff-content",
+    "original": "휴식 보너스",
+    "context": "EN :\nRest Bonus\nJP :\n休息ボーナス"
+  },
+  {
+    "key": "mirror_enemy_buff-content",
+    "original": "고난",
+    "context": "EN :\nTrials\nJP :\n苦難"
+  },
+  {
+    "key": "mirror_enemy_addenemylevel_desc-content",
+    "original": "적 레벨 증가 +{0}",
+    "context": "EN :\nEnemy Level Up +{0}\nJP :\n敵レベル増加 +{0}"
+  },
+  {
+    "key": "mirror_card_pack-content",
+    "original": "테마팩",
+    "context": "EN :\nTheme Pack\nJP :\nテーマパック"
+  },
+  {
+    "key": "mirror_acquired_random_enemy_buff_popup_title-content",
+    "original": "고난 추가",
+    "context": "EN :\nTrial Gained\nJP :\n苦難の追加"
+  },
+  {
+    "key": "mirror_acquired_enemy_buff_popup_desc-content",
+    "original": "고난이 추가되었습니다.",
+    "context": "EN :\nA Trial has been added.\nJP :\n苦難が追加されました。"
+  },
+  {
+    "key": "mirror_start_buff_purchase_complete_modal_title-content",
+    "original": "별의 가호 선택 완료",
+    "context": "EN :\nGrace of Stars Selected\nJP :\n星の加護 選択完了"
+  },
+  {
+    "key": "mirror_start_buff_purchase_complete_modal_desc-content",
+    "original": "별의 가호 선택을 완료하였습니다.",
+    "context": "EN :\nGrace of Stars has been selected.\nJP :\n星の加護の選択が完了しました。"
+  },
+  {
+    "key": "mirror_recovered_unit_status-content",
+    "original": "사망한 아군이 부활하고 모든 아군이 회복되었습니다",
+    "context": "EN :\nAll allies have been fully healed, and defeated allies have been revived\nJP :\n死亡した味方が復活し、全味方が回復しました。"
+  },
+  {
+    "key": "mirror_start_buff_cannot_purchase_side_popup_title-content",
+    "original": "진행 불가",
+    "context": "EN :\nCannot Progress\nJP :\n進行不能"
+  },
+  {
+    "key": "mirror_start_buff_cannot_purchase_side_popup_desc-content",
+    "original": "휴식 보너스 부족",
+    "context": "EN :\nNot Enough Rest Bonus\nJP :\n休息ボーナス不足"
+  },
+  {
+    "key": "user_enemy_buff_empty_list-content",
+    "original": "보유 중인 효과 없음",
+    "context": "EN :\nNo Active Effects\nJP :\n保有中の効果 なし"
+  },
+  {
+    "key": "mirror_start_set_buff_type-content",
+    "original": "별의 가호",
+    "context": "EN :\nGrace of Stars\nJP :\n星の加護"
+  },
+  {
+    "key": "mirror_start_buff_type-content",
+    "original": "별무리의 은총",
+    "context": "EN :\nGrace of Star Clusters\nJP :\n星群の恩寵"
+  },
+  {
+    "key": "mirror_start_buff_purchase_button-content",
+    "original": "입장",
+    "context": "EN :\nEnter\nJP :\n入場"
+  },
+  {
+    "key": "user_enemy_buff_select_event_buff-content",
+    "original": "선택지 효과",
+    "context": "EN :\nChoice Effects\nJP :\n選択肢効果"
+  },
+  {
+    "key": "dungeon_shop_heal_desc_one_revive-content",
+    "original": "선택한 수감자 부활",
+    "context": "EN :\nRevive Selected Sinner\nJP :\n選択した囚人を復活"
+  },
+  {
+    "key": "dungeon_shop_heal_desc_all_revive-content",
+    "original": "모든 수감자 부활",
+    "context": "EN :\nRevive All Sinners\nJP :\n全囚人を復活"
+  },
+  {
+    "key": "dungeon_encounter_guide_mirror_hard_ab_battle-content",
+    "original": "환상체 전투",
+    "context": "EN :\nAbnormality Encounter\nJP :\n幻想体戦闘"
+  },
+  {
+    "key": "dungeon_shop_heal_enter-content",
+    "original": "수감자를 회복시키거나 부활시킬 수 있다.\n어떻게 할까?",
+    "context": "EN :\nWe can heal or revive a Sinner here.\nWhat should we do?\nJP :\n囚人を回復させたり復活させたりできる。\nどうしよう？"
+  },
+  {
+    "key": "dungeon_shop_heal_select_one-content",
+    "original": "{0} 수감자의 체력과 정신력이 회복되었다.",
+    "context": "EN :\nHP and SP healed for {0}.\nJP :\n囚人{0}の体力と精神力が回復した。"
+  },
+  {
+    "key": "dungeon_shop_heal_all-content",
+    "original": "모든 수감자의 체력과 정신력이 회복되었다.",
+    "context": "EN :\nAll Sinners' HP and SP have been healed.\nJP :\n全囚人の体力と精神力が回復した。"
+  },
+  {
+    "key": "dungeon_shop_heal_revive_select_one-content",
+    "original": "{0} 수감자가 부활하여 전투에 복귀하였다.",
+    "context": "EN :\n{0}, revived, returns to battle.\nJP :\n囚人{0}が復活して戦闘に復帰した。"
+  },
+  {
+    "key": "mirrordungeon_revive_log-content",
+    "original": "별의 가호 효과 발동\n[{0}] 수감자 부활",
+    "context": "EN :\nGrace of Stars Activated\n[{0}] Revived\nJP :\n星の加護効果発動\n囚人[{0}]が復活"
+  },
+  {
+    "key": "mirror_start_buff_unlock_condition_needs_held_buff_points-content",
+    "original": "휴식 보너스 {0}이상",
+    "context": "EN :\nAt {0}+ Rest Bonus\nJP :\n休息ボーナス {0}以上"
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_after_selected_bonus-content",
+    "original": "잔여 휴식 보너스",
+    "context": "EN :\nRemaining Rest Bonus\nJP :\n残り休息ボーナス"
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_exchanged_cost-content",
+    "original": "코스트",
+    "context": "EN :\nCost\nJP :\nコスト"
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_title-content",
+    "original": "별의 가호 선택",
+    "context": "EN :\nSelect Grace of Stars\nJP :\n星の加護の選択"
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_description-content",
+    "original": "이 효과를 선택하시겠습니까?",
+    "context": "EN :\nWill you select these effects?\nJP :\nこの効果を選択しますか？"
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_purchase_description-content",
+    "original": "남은 휴식 보너스는 코스트로 전환됩니다",
+    "context": "EN :\nRemaining Rest Bonus will be converted to Cost\nJP :\n残った休息ボーナスはコストに変換されます。"
+  },
+  {
+    "key": "mirror_start_buff_applied_passive-content",
+    "original": "별의 가호 패시브",
+    "context": "EN :\nGrace of Stars Passive\nJP :\n星の加護パッシブ"
+  },
+  {
+    "key": "mirror_dungeon_start_buff_Panel_title-content",
+    "original": "꿈결 별의 가호",
+    "context": "EN :\nGrace of the Dreaming Star\nJP :\n夢心地の星の加護"
+  },
+  {
+    "key": "mirror_shop_purchase_complete-content",
+    "original": "구매 완료",
+    "context": "EN :\nPurchased\nJP :\n購入完了"
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_not_selected_any_buff-content",
+    "original": "선택하지 않음",
+    "context": "EN :\nDon't Select Any\nJP :\n選択しない"
+  },
+  {
+    "key": "dungeon_shop_heal_title_all_season5-content",
+    "original": "모든 수감자를 조금씩 회복시킨다.",
+    "context": "EN :\nModerately heal every Sinner.\nJP :\n全囚人を少しずつ回復させる。"
+  },
+  {
+    "key": "dungeon_shop_heal_title_one_season5-content",
+    "original": "수감자 한 명을 크게 회복시킨다.",
+    "context": "EN :\nGreatly heal a single Sinner.\nJP :\n囚人1名を大幅に回復させる。"
+  },
+  {
+    "key": "dungeon_shop_revive_title_one_season5-content",
+    "original": "수감자 한 명을 부활시킨다.",
+    "context": "EN :\nRevive a single Sinner.\nJP :\n囚人1名を復活させる。"
+  },
+  {
+    "key": "dungeon_shop_revive_one_select_ask-content",
+    "original": "부활시킬 수감자를 선택하세요",
+    "context": "EN :\nSelect the Sinner to revive.\nJP :\n復活させる囚人を選んでください"
+  },
+  {
+    "key": "mirror_dungeon_block_to_click_hard_theme_list-content",
+    "original": "주요 이야기 6장\n클리어 시 개방됩니다",
+    "context": "EN :\nClear Canto 6\nto Unlock\nJP :\nメインストーリー6章\nクリア時に解放されます"
+  },
+  {
+    "key": "mirrordungeon_theme_hard_blocked-content",
+    "original": "주요 이야기 6장\n클리어 시 개방됩니다",
+    "context": "EN :\nClear Canto 6\nto Unlock\nJP :\nメインストーリー6章\nクリア時に解放されます"
+  },
+  {
+    "key": "mirrordungeon_shop_heal_title-content",
+    "original": "수감자 회복",
+    "context": "EN :\nHeal Sinners\nJP :\n囚人を回復"
+  },
+  {
+    "key": "mirrordungeon_shop_title-content",
+    "original": "상점",
+    "context": "EN :\nShop\nJP :\nショップ"
+  },
+  {
+    "key": "mirror_dungeon_progress_text_5-content",
+    "original": "꿈결의 거울 {0}층",
+    "context": "EN :\nMirror of the Dreaming - F{0}\nJP :\n夢心地の鏡 {0}階層"
+  },
+  {
+    "key": "mirror_dungeon_progress_awaiting_reward_claim-content",
+    "original": "보상 수령 대기 중",
+    "context": "EN :\nUnclaimed Rewards\nJP :\n報酬受取待機中"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_bonus_gift-content",
+    "original": "별의 가호 효과 발동\n합성·판매용 기프트 획득",
+    "context": "EN :\nGrace of Stars Activated\nFor Fusion & Sale Gifts obtained\nJP :\n星の加護効果発動\n合成・売却用ギフトを獲得"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_0_1-content",
+    "original": "NORMAL 난이도",
+    "context": "EN :\nNORMAL\nJP :\n難易度NORMAL"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_0_2-content",
+    "original": "HARD 난이도",
+    "context": "EN :\nHARD\nJP :\n難易度HARD"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_1_1-content",
+    "original": "일반 전투 : 7.5%\n집중 전투 : -\n정예 전투 : -\n환상체 전투 : -\n보스 전투 : 100%",
+    "context": "EN :\nRegular Encounter : 7.5%\nFocused Encounter : -\nElite Encounter : -\nAbno. Encounter: -\nBoss Encounter : 100%\nJP :\n一般戦闘 : 7.5%\n集中戦闘 : -\n精鋭戦闘 : -\n幻想体戦闘 : -\nボス戦闘 : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_1_2-content",
+    "original": "일반 전투 : 7.5%\n집중 전투 : -\n정예 전투 : -\n환상체 전투 : -\n보스 전투 : 100%",
+    "context": "EN :\nRegular Encounter : 7.5%\nFocused Encounter : -\nElite Encounter : -\nAbno. Encounter: -\nBoss Encounter : 100%\nJP :\n一般戦闘 : 7.5%\n集中戦闘 : -\n精鋭戦闘 : -\n幻想体戦闘 : -\nボス戦闘 : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_2_1-content",
+    "original": "일반 전투 : 10%\n집중 전투 : 20%\n정예 전투 : 33%\n환상체 전투 : -\n보스 전투 : 100%",
+    "context": "EN :\nRegular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nAbno. Encounter: -\nBoss Encounter : 100%\nJP :\n一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\n幻想体戦闘 : -\nボス戦闘 : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_2_2-content",
+    "original": "일반 전투 : 10%\n집중 전투 : 20%\n정예 전투 : 33%\n환상체 전투 : -\n보스 전투 : 100%",
+    "context": "EN :\nRegular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nAbno. Encounter: -\nBoss Encounter : 100%\nJP :\n一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\n幻想体戦闘 : -\nボス戦闘 : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_3_1-content",
+    "original": "일반 전투 : 10%\n집중 전투 : 20%\n정예 전투 : 33%\n환상체 전투 : 100%\n보스 전투 : 100%",
+    "context": "EN :\nRegular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nAbno. Encounter: 100%\nBoss Encounter : 100%\nJP :\n一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\n幻想体戦闘 : 100%\nボス戦闘 : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_3_2-content",
+    "original": "일반 전투 : 10%\n집중 전투 : 20%\n정예 전투 : 33%\n환상체 전투 : 100%\n보스 전투 : 100%",
+    "context": "EN :\nRegular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nAbno. Encounter: 100%\nBoss Encounter : 100%\nJP :\n一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\n幻想体戦闘 : 100%\nボス戦闘 : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_4_1-content",
+    "original": "일반 전투 : 12.5%\n집중 전투 : 25%\n정예 전투 : 50%\n환상체 전투 : 100%\n보스 전투 : 100%",
+    "context": "EN :\nRegular Encounter : 12.5%\nFocused Encounter : 25%\nElite Encounter : 50%\nAbno. Encounter: 100%\nBoss Encounter : 100%\nJP :\n一般戦闘 : 12.5%\n集中戦闘 : 25%\n精鋭戦闘 : 50%\n幻想体戦闘 : 100%\nボス戦闘 : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_4_2-content",
+    "original": "일반 전투 : 12.5%\n집중 전투 : 25%\n정예 전투 : 50%\n환상체 전투 : 100%\n보스 전투 : 100%",
+    "context": "EN :\nRegular Encounter : 12.5%\nFocused Encounter : 25%\nElite Encounter : 50%\nAbno. Encounter: 100%\nBoss Encounter : 100%\nJP :\n一般戦闘 : 12.5%\n集中戦闘 : 25%\n精鋭戦闘 : 50%\n幻想体戦闘 : 100%\nボス戦闘 : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_5_1-content",
+    "original": "일반 전투 : 12.5%\n집중 전투 : 25%\n정예 전투 : 50%\n환상체 전투 : 100%\n보스 전투 : -",
+    "context": "EN :\nRegular Encounter : 12.5%\nFocused Encounter : 25%\nElite Encounter : 50%\nAbno. Encounter: 100%\nBoss Encounter : -\nJP :\n一般戦闘 : 12.5%\n集中戦闘 : 25%\n精鋭戦闘 : 50%\n幻想体戦闘 : 100%\nボス戦闘 : -"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_5_2-content",
+    "original": "일반 전투 : 12.5%\n집중 전투 : 25%\n정예 전투 : 50%\n환상체 전투 : 100%\n보스 전투 : -",
+    "context": "EN :\nRegular Encounter : 12.5%\nFocused Encounter : 25%\nElite Encounter : 50%\nAbno. Encounter: 100%\nBoss Encounter : -\nJP :\n一般戦闘 : 12.5%\n集中戦闘 : 25%\n精鋭戦闘 : 50%\n幻想体戦闘 : 100%\nボス戦闘 : -"
+  },
+  {
+    "key": "mirrordungeon_additional_cost_by_start_bonus-content",
+    "original": "별의 가호 효과 발동\n코스트 획득",
+    "context": "EN :\nGrace of Stars Activated\nCost gained\nJP :\n星の加護効果発動\nコスト獲得"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_desc-content",
+    "original": "E.G.O 기프트의 등급에 따라, 합성 재료로 사용될 때의 점수는 다음과 같습니다.",
+    "context": "EN :\nEach E.G.O Gift has varying 'Points' for Fusion depending on their Tier.\nJP :\nE.G.Oギフト合成材料として使われるときの、ランク別の点数は以下の通りです。"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_header-content",
+    "original": "E.G.O 기프트 등급",
+    "context": "EN :\nE.G.O Gift Tiers\nJP :\nE.G.Oギフトランク"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_score_header-content",
+    "original": "점수",
+    "context": "EN :\nPoints\nJP :\n点数"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_1-content",
+    "original": "1등급",
+    "context": "EN :\nTier 1\nJP :\nランク1"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_1_score-content",
+    "original": "3",
+    "context": "EN :\n3\nJP :\n3"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_2-content",
+    "original": "2등급",
+    "context": "EN :\nTier 2\nJP :\nランク2"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_2_score-content",
+    "original": "6",
+    "context": "EN :\n6\nJP :\n6"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_3-content",
+    "original": "3등급",
+    "context": "EN :\nTier 3\nJP :\nランク3"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_3_score-content",
+    "original": "10",
+    "context": "EN :\n10\nJP :\n10"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_4-content",
+    "original": "4등급",
+    "context": "EN :\nTier 4\nJP :\nランク4"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_4_score-content",
+    "original": "15",
+    "context": "EN :\n15\nJP :\n15"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_5-content",
+    "original": "5등급",
+    "context": "EN :\nTier 5\nJP :\nランク5"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_5_score-content",
+    "original": "30",
+    "context": "EN :\n30\nJP :\n30"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_label-content",
+    "original": "합성 시, 합성 재료 점수의 총합에 따라 만들어지는 E.G.O 기프트의 등급이 다음과 같이 결정됩니다.",
+    "context": "EN :\nThe Fusion E.G.O Gift Tier is determined by the tally of Points from each ingredient.\nJP :\n合成時、合成材料点数の合計によって作られるE.G.Oギフトのランクが以下の通り決定されます。"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_header-content",
+    "original": "점수 총합",
+    "context": "EN :\nPoint Tally\nJP :\n点数の総計"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_tier_header-content",
+    "original": "합성 E.G.O 기프트 등급",
+    "context": "EN :\nFusion E.G.O Gift Tier\nJP :\n合成E.G.Oギフトランク"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_1-content",
+    "original": "10점 이하",
+    "context": "EN :\n10- Points\nJP :\n10点以下"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_tier_1-content",
+    "original": "1등급",
+    "context": "EN :\nTier 1\nJP :\nランク1"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_2-content",
+    "original": "11 ~ 16점",
+    "context": "EN :\n11~16 Points\nJP :\n11～16点"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_tier_2-content",
+    "original": "2등급",
+    "context": "EN :\nTier 2\nJP :\nランク2"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_3-content",
+    "original": "17 ~ 24점",
+    "context": "EN :\n17 ~ 24 Points\nJP :\n17～24点"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_tier_3-content",
+    "original": "3등급",
+    "context": "EN :\nTier 3\nJP :\nランク3"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_4-content",
+    "original": "25점 이상",
+    "context": "EN :\n25+ Points\nJP :\n25点以上"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_tier_4-content",
+    "original": "4등급",
+    "context": "EN :\nTier 4\nJP :\nランク4"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_season_5_etc_1-content",
+    "original": "※ 현재 보유 중인 E.G.O 기프트는 합성을 통해 얻을 수 있는 E.G.O 기프트에서 제외됩니다.",
+    "context": "EN :\n※ Any E.G.O Gifts currently in your possession cannot be obtained as a Fusion result.\nJP :\n※現在保有しているE.G.Oギフトは合成を通じて獲得できるE.G.Oギフトから除外されます。"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_season_5_etc_2-content",
+    "original": "※ 합성의 재료로 사용된 E.G.O 기프트는 해당 합성의 결과물로 등장하지 않습니다. 단, 이전에 재료로 사용한 E.G.O 기프트는 합성의 결과물로 등장할 수 있습니다.",
+    "context": "EN :\n※ E.G.O Gifts consumed as ingredients for a Fusion cannot be obtained from that Fusion. However, E.G.O Gifts that have already been consumed as ingredients in previous Fusions can be obtained as a Fusion result.\nJP :\n※合成の材料として使用されたE.G.Oギフトは、その合成結果物に出てきません。ただし、以前の合成材料に使ったE.G.Oギフトは合成の結果物として出てくることがあります。"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_season_5_etc_3-content",
+    "original": "※ 특정 등급의 특정 키워드에 해당하는 E.G.O 기프트를 추가로 얻을 수 없는 경우에는 동일한 등급의 다른 키워드 E.G.O 기프트를 획득합니다.",
+    "context": "EN :\n※ If you have obtained every possible E.G.O Gift obtainable in that specific Tier + Keyword combination, you will receive an E.G.O Gift of a different Keyword in the same Tier.\nJP :\n※特定ランクの特定キーワードに該当するE.G.Oギフトを追加で獲得できない場合は、同じランクの別キーワードE.G.Oギフトを獲得します。"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_season_5_etc_4-content",
+    "original": "※ 특정 등급에 해당하는 E.G.O 기프트를 추가로 얻을 수 없는 경우에는 동일한 등급의 합성 · 판매용 E.G.O 기프트를 획득합니다.",
+    "context": "EN :\n※ If you have obtained every possible E.G.O Gift obtainable from the resultant Tier, you will receive a Fusion & Sale Only E.G.O Gift.\nJP :\n※特定ランクに該当するE.G.Oギフトを追加で獲得できない場合は、同じランク合成・売却用E.G.Oギフトを獲得します。"
+  },
+  {
+    "key": "mirrordungeon_upgrade_shop_title-content",
+    "original": "<color=#990000>특별한 상점</color>",
+    "context": "EN :\n<color=#990000>Super Shop</color>\nJP :\n<color=#990000>特別なショップ</color>"
+  },
+  {
+    "key": "mirrordungeon_upgrade_shop_rate_in_next_floor-content",
+    "original": "다음 층에서\n특별한 상점 등장 확률",
+    "context": "EN :\nSuper Shop\nOn Next Floor?\nJP :\n次の階層での\n特別なショップ出現率"
+  },
+  {
+    "key": "mirror_start_buff_unlock_condition_lack_of_current_point-content",
+    "original": "휴식 보너스 부족",
+    "context": "EN :\nNot Enough Rest Bonus\nJP :\n休息ボーナス不足"
+  },
+  {
+    "key": "mirror_theme_pack_baton-content",
+    "original": "장기 전투",
+    "context": "EN :\nLong Battle\nJP :\n長期戦闘"
+  },
+  {
+    "key": "mirrordungeon_theme_hard_no_pool-content",
+    "original": "Hard 난이도 개방 조건을 달성하였습니다. 다음 층 테마팩 선택 창부터 난이도를 전환할 수 있습니다.",
+    "context": "EN :\nYou now meet the conditions to unlock the Hard difficulty. You can switch difficulties starting from next Floor Theme Pack menu.\nJP :\n難易度Hardの解放条件を達成しました。次の階層テーマパック選択ウィンドウから難易度を変更できます。"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_1_desc_3_0-content",
+    "original": "4개 이상",
+    "context": "EN :\n4+ Gifts\nJP :\n4つ以上"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_1_desc_3_1-content",
+    "original": "99%",
+    "context": "EN :\n99%\nJP :\n99%"
+  },
+  {
+    "key": "mirrordungeon_level_up_by_long_battle_theme-content",
+    "original": "장기 전투 보상 획득\n인격 레벨 +3",
+    "context": "EN :\nLong Battle Reward Gained\nIdentity Levels +3\nJP :\n長期戦闘報酬獲得\n人格レベル +3"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_100-content",
+    "original": "시작의 별",
+    "context": "EN :\nStar of the Beginning\nJP :\n始まりの星"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_101-content",
+    "original": "쌓여가는 별무리",
+    "context": "EN :\nCumulating Starcloud\nJP :\n積もりゆく星群"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_102-content",
+    "original": "성간여행",
+    "context": "EN :\nInterstellar Travel\nJP :\n星間旅行"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_103-content",
+    "original": "쏟아지는 유성우",
+    "context": "EN :\nStar-shower\nJP :\n降り注ぐ流星雨"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_104-content",
+    "original": "쌍성계 상점",
+    "context": "EN :\nBinary Star-shop\nJP :\n連星系ショップ"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_105-content",
+    "original": "위성계 상점",
+    "context": "EN :\nMoon Star-shop\nJP :\n衛星系ショップ"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_106-content",
+    "original": "성운의 총애",
+    "context": "EN :\nFavor of the Nebulae\nJP :\n星雲の寵愛"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_107-content",
+    "original": "별빛의 인도",
+    "context": "EN :\nStarlight Guidance\nJP :\n星明かりの導き"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_108-content",
+    "original": "우연한 혜성",
+    "context": "EN :\nChance Comet\nJP :\n偶然の彗星"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_109-content",
+    "original": "완전한 가능성",
+    "context": "EN :\nPerfected Possibility\nJP :\n完全なる可能性"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_over10-content",
+    "original": "휴식 보너스 [10] 이상 보유",
+    "context": "EN :\nAt [10]+ Rest Bonus\nJP :\n休息ボーナスを[10]以上保有"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_over20-content",
+    "original": "휴식 보너스 [20] 이상 보유",
+    "context": "EN :\nAt [20]+ Rest Bonus\nJP :\n休息ボーナスを[20]以上保有"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_over30-content",
+    "original": "휴식 보너스 [30] 이상 보유",
+    "context": "EN :\nAt [30]+ Rest Bonus\nJP :\n休息ボーナスを[30]以上保有"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_over40-content",
+    "original": "휴식 보너스 [40] 이상 보유",
+    "context": "EN :\nAt [40]+ Rest Bonus\nJP :\n休息ボーナスを[40]以上保有"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs__over50-content",
+    "original": "휴식 보너스 [50] 이상 보유",
+    "context": "EN :\nAt [50]+ Rest Bonus\nJP :\n休息ボーナスを[50]以上保有"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs__over60-content",
+    "original": "휴식 보너스 [60] 이상 보유",
+    "context": "EN :\nAt [60]+ Rest Bonus\nJP :\n休息ボーナスを[60]以上保有"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_label_upgrade-content",
+    "original": "특별한 상점에서 합성을 진행하는 경우에는 점수 총합에 보정치가 적용됩니다.",
+    "context": "EN :\nFusing in a Super Shop adds a special modifier to the required tally of the Points from each ingredient.\nJP :\n特別なショップで合成を実施する場合は点数の合計に補正値が適用されます。"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_1_upgrade-content",
+    "original": "9점 이하",
+    "context": "EN :\n9- Points\nJP :\n9点以下"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_2_upgrade-content",
+    "original": "10 ~ 14점",
+    "context": "EN :\n10 ~ 14 Points\nJP :\n10～14点"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_3_upgrade-content",
+    "original": "15 ~ 21점",
+    "context": "EN :\n15 ~ 21 Points\nJP :\n15～21点"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade-content",
+    "original": "22점 이상",
+    "context": "EN :\n22+ Points\nJP :\n22点以上"
+  }
+]

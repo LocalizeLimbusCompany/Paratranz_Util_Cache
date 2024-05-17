@@ -1,0 +1,272 @@
+[
+  {
+    "key": "0-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "0-content",
+    "original": "…단테?",
+    "context": "EN :\n…Dante?\nJP :\n…ダンテ？"
+  },
+  {
+    "key": "1-content",
+    "original": "메피스토펠레스가 하루 종일 달리고만 있는 것은 아니다. 카론도 사람이고, 메피스토도 결국 엔진이다. 모두가 그때 그때의 쉬어 주어야 할 시간이 있는 것이다.",
+    "context": "EN :\nMephistopheles doesn’t roar and grumble ahead all day long. Mephisto is an engine that needs rest from time to time, much like how Charon is still a human who needs regular breaks.\nJP :\nメフィストフェレスは一日中走ってばかりいるというわけではない。カロンも人間だし、メフィストも結局はエンジンだ。皆、時々休むべき時間があるということだ。"
+  },
+  {
+    "key": "2-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "2-content",
+    "original": "<안 자는 거야, 파우스트 씨?>",
+    "context": "EN :\n<Are you still awake, Ms. Faust?>\nJP :\n<寝ないのか、ファウストさん？>"
+  },
+  {
+    "key": "3-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "3-content",
+    "original": "점검할게 조금 남아서요. 거칠게 써온 만큼 엔진을 쉬게 해주고 있을 때 정비가 필요하답니다.",
+    "context": "EN :\nThere are a few things left to check. As the engine is treated harshly during operation, it needs to be well-maintained while at rest.\nJP :\n点検するべきものが少し残ってるので。荒々しく使ってきた分、エンジンを休ませてあげているときには整備が必要なのですよ。"
+  },
+  {
+    "key": "4-content",
+    "original": "그 말대로, 파우스트는 평소 들고 다니던 커다란 츠바이핸더 대신 가벼운 공구 몇 개와 조그마한 기계 장치를 들고 있었다.",
+    "context": "EN :\nTo substantiate her words, Faust carried light tools and a small mechanical device in place of her usual zweihander.\nJP :\nその言葉通り、ファウストは普段持ち歩いている巨大なツヴァイヘンダーの代わりに軽い工具や小さな装置を持っていた。"
+  },
+  {
+    "key": "5-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "5-content",
+    "original": "<고생하네.>",
+    "context": "EN :\n<You’re working hard.>\nJP :\n<お疲れさま。>"
+  },
+  {
+    "key": "6-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "6-content",
+    "original": "이 정도는 고생의 축에도 들지 않는답니다. 오히려, 파우스트의 역작이 돌봐질 시간도 없이 혹사 당하는 걸 바라만 보는 편이 더 고생이죠.",
+    "context": "EN :\nThis barely counts as work. To witness Faust’s magnum opus cordis being overworked with no time for care takes a greater toll, rather.\nJP :\nこの程度で疲れたりはしません。むしろ、ファウストの力作が面倒を見る時間も無しに、酷使されるのを見つめてばかりいる方がより疲れますね。"
+  },
+  {
+    "key": "7-content",
+    "original": "파우스트는 엷게 미소를 띄우다가…",
+    "context": "EN :\nShe said this after making a light smile…\nJP :\nファウストは薄く笑みを浮かべ…。"
+  },
+  {
+    "key": "8-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "8-content",
+    "original": "이번 업데이트는 마음에 드시나요?",
+    "context": "EN :\nDo you like this update in particular?\nJP :\n今回のアップデートはお気に召しましたか？"
+  },
+  {
+    "key": "9-content",
+    "original": "앉아서 기계를 만지작 거리고 있는 나를 내려다 보았다.",
+    "context": "EN :\nFaust looked down at me using a handheld device.\nJP :\n座りながら機械をいじくっている私を見下ろした。"
+  },
+  {
+    "key": "10-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "10-content",
+    "original": "<아… 이거?>",
+    "context": "EN :\n<Oh… This thing?>\nJP :\n<あぁ…これ？>"
+  },
+  {
+    "key": "11-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-content",
+    "original": "네, 평소에는 그렇게 만지작 거리시지는 않았던 것 같아서요.",
+    "context": "EN :\nYes, I believe previously you weren’t fiddling with it as often.\nJP :\nはい、普段はそこまで弄られてはなかったような気がしたので。"
+  },
+  {
+    "key": "12-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "12-content",
+    "original": "<별거는 아니고… 필요했던 기능이 들어온 것 같아서.>",
+    "context": "EN :\n<It’s nothing much, I was just… making the most of this new feature I’ve needed.>\nJP :\n<別にそんなんじゃないけど…必要だった機能が実装されたみたいだから。>"
+  },
+  {
+    "key": "13-content",
+    "original": "파우스트가 정비를 위해 휴식을 요청할 때 마다, 내가 갖고 있는 ‘LCB-PDA’라는 기기도 주기적으로 업데이트를 한다.",
+    "context": "EN :\nWhenever Faust requests a break for routine maintenance, my ‘LCB-PDA’ also receives updates.\nJP :\nファウストが整備のために休憩を要請するたびに、私が持っている「LCB-PDA」という機器も周期的にアップデートされる。"
+  },
+  {
+    "key": "14-content",
+    "original": "그 때마다 가끔 기능이 보충 되기도 하는데, 이번에 업데이트 된 것이.",
+    "context": "EN :\nThe updates occasionally come with additional functions, and this time…\nJP :\nそのたび、たまに機能が追加されることもあるんだけど、今回アップデートされたのは。"
+  },
+  {
+    "key": "15-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "15-content",
+    "original": "…노트? 이 기능이 아직도 없었던 건가요?",
+    "context": "EN :\n…A note? The device didn’t have this functionality until now?\nJP :\n…ノート？この機能が今の今までなかったんですか？"
+  },
+  {
+    "key": "16-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "16-content",
+    "original": "<없었어. 놀랍지만.>",
+    "context": "EN :\n<It didn’t, surprisingly enough.>\nJP :\n<なかったね、驚きだよ。>"
+  },
+  {
+    "key": "17-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "17-content",
+    "original": "<…몰랐어? 파우스트, 너는 모든걸 아는 줄 알았는데.>",
+    "context": "EN :\n<…You didn’t know that? I thought you were omniscient, Faust.>\nJP :\n<…知らなかったのか？ファウスト、君は全てを知ってると思ってたんだけど。>"
+  },
+  {
+    "key": "18-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "18-content",
+    "original": "파우스트는 파우스트가 아는 모든 것을 알 뿐이죠.",
+    "context": "EN :\nFaust only knows everything that Faust knows.\nJP :\nファウストはファウストが知っている全ての事を知っているだけです。"
+  },
+  {
+    "key": "19-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "19-content",
+    "original": "어디, 실례 좀 할게요.",
+    "context": "EN :\nPardon me for a moment.\nJP :\nどれ、ちょっと失礼します。"
+  },
+  {
+    "key": "20-content",
+    "original": "파우스트는 슬쩍, 나의 화면을 들여다 보았다.",
+    "context": "EN :\nShe took a peek at the screen of my tablet.\nJP :\nファウストはひょっこり、私の画面を覗き込んだ。"
+  },
+  {
+    "key": "21-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "21-content",
+    "original": " 단테, 백과사전이라도 만드려는 건가요?",
+    "context": "EN :\nAre you attempting to write an encyclopaedia, Dante?\nJP :\nダンテ、百科事典でも作るつもりですか？"
+  },
+  {
+    "key": "22-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "22-content",
+    "original": "<아니… 너희들 매번 내가 모르는 단어로 떠들고 있잖아. 해결사 라던가, 날개 라던가…>",
+    "context": "EN :\n<I mean… You keep using words I don’t know—stuff like “Fixers” or whatever “Wings” are…>\nJP :\n<いや…君たちが毎回私の知らない言葉を並べ立ててるじゃないか。フィクサーだとか、翼だとか…。>"
+  },
+  {
+    "key": "23-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "23-content",
+    "original": "<너희들 기준에서는 일상적인 단어일지 몰라도…>",
+    "context": "EN :\n<It might be common vocabulary for you all, but not me…>\nJP :\n<君たちの物差しだと日常的な単語かもしれないけど…。>"
+  },
+  {
+    "key": "24-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "24-content",
+    "original": "그렇군요. 도시에 관한 기억을 전부 잃었을테니.",
+    "context": "EN :\nI understand. I do suppose you’ve lost all memory of the City.\nJP :\nそうでしょうね。都市に関する記憶を全部失ったでしょうし。"
+  },
+  {
+    "key": "25-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "25-content",
+    "original": "<맞아. 그래서 웬만한 건 전부 적어 놓고 싶어.>",
+    "context": "EN :\n<Yep. So I wanna write down most stuff here.>\nJP :\n<ああ。だから大体のことは全部書き留めておきたくて。>"
+  },
+  {
+    "key": "26-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "26-content",
+    "original": "<그리고 예전부터 종이에 끄적이던 것도 틈틈이 옮겨둬보려고…>",
+    "context": "EN :\n<And copy down the things I’ve been scribbling on paper while I’m at it…>\nJP :\n<あと前々から紙に書き殴ってたのも、片手間に写しておこうかなって…。>"
+  },
+  {
+    "key": "27-content",
+    "original": "언제 또 시계 대가리에서 다른 머리로 바뀔지 모르는 세상이다. 내 기억도 언제 까지고 안전할 수는 없을 것이다.",
+    "context": "EN :\nThis clock on my shoulders could be replaced with yet another head at any moment. There’s no guarantee the memories I have right now will stay with me.\nJP :\nいつまた時計ヅラから他の頭に変わるか分からない世界だ。私の記憶も、ずっと安全である保証はないだろう。"
+  },
+  {
+    "key": "28-content",
+    "original": "그러니 제대로 보험을 들어놓지 않으면 안된다.",
+    "context": "EN :\nThat’s why I must prepare a backup plan like this.\nJP :\nだからちゃんと保険に入っておかなきゃダメだ。"
+  },
+  {
+    "key": "29-content",
+    "original": "두 번은 잊지 않도록 말이지.",
+    "context": "EN :\nSo I don’t forget twice.\nJP :\n二度と忘れないようにね。"
+  }
+]

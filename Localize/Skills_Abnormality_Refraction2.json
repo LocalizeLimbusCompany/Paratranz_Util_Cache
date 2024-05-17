@@ -1,0 +1,1572 @@
+[
+  {
+    "key": "853901-levelList$[0].name",
+    "original": "침울한 신음",
+    "context": "EN :\nGloomy Moan\nJP :\n沈鬱な呻き声"
+  },
+  {
+    "key": "853901-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Sinking\nJP :\n[OnSucceedAttack] 沈潜 3を付与"
+  },
+  {
+    "key": "853902-levelList$[0].name",
+    "original": "몰아치는 침잠",
+    "context": "EN :\nUnrelenting Sinking\nJP :\n押し寄せる沈潜"
+  },
+  {
+    "key": "853902-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が2増加"
+  },
+  {
+    "key": "853902-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Sinking\nJP :\n[OnSucceedAttack] 沈潜 3を付与"
+  },
+  {
+    "key": "853903-levelList$[0].name",
+    "original": "슬픔의 반동",
+    "context": "EN :\nSorrowful Recoil\nJP :\n哀しみの反動"
+  },
+  {
+    "key": "853903-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が3増加"
+  },
+  {
+    "key": "853903-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nJP :\n[OnSucceedAttack] 破裂 2を付与"
+  },
+  {
+    "key": "853904-levelList$[0].name",
+    "original": "슬픔의 격류",
+    "context": "EN :\nSorrowful Torrent\nJP :\n哀しみの激流"
+  },
+  {
+    "key": "853904-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が2増加"
+  },
+  {
+    "key": "853904-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "853904-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Rupture\nJP :\n[OnSucceedAttackHead] 破裂 2を付与"
+  },
+  {
+    "key": "853905-levelList$[0].name",
+    "original": "무언가를 찾는 울음소리",
+    "context": "EN :\nCries Seeking Something\nJP :\n何かを探す鳴き声"
+  },
+  {
+    "key": "853905-levelList$[0].desc",
+    "original": "합 진행 시 살아있는 낡은 우산당 합 위력 +2\n낡은 우산당 피해량 +25%\n턴 종료 시 낡은 우산 모두 소멸\n턴 종료 시 1턴에 얻은 <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">보호 우산</color></link></u>만큼 <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">보호 우산</color></link></u>을 얻음",
+    "context": "EN :\nClash Power +2 for every surviving Old Umbrella\nDeal +25% damage for every Old Umbrella\nAt the end of the turn, all Old Umbrella expire\nAt the end of the turn, gain <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> equal to the number of <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> gained in the first turn\nJP :\nマッチ進行時に生存している古傘1つにつきマッチ威力 +2\n古傘1つにつきダメージ量 +25%\nターン終了時に古傘が全て消滅\nターン終了時、1ターンで得た<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">保護傘</color></link></u>だけ<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">保護傘</color></link></u>を得る"
+  },
+  {
+    "key": "853905-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Sinking\nJP :\n[OnSucceedAttack] 沈潜 5を付与"
+  },
+  {
+    "key": "853906-levelList$[0].name",
+    "original": "기다림",
+    "context": "EN :\nWaiting\nJP :\n待ちわびる"
+  },
+  {
+    "key": "853906-levelList$[0].desc",
+    "original": "[StartBattle] 모든 적 정신력 -20",
+    "context": "EN :\n[StartBattle] All enemies lose 20 SP\nJP :\n[StartBattle] 全ての敵の精神力を-20"
+  },
+  {
+    "key": "853907-levelList$[0].name",
+    "original": "날카로운 반응",
+    "context": "EN :\nVolatile Response\nJP :\n鋭い反応"
+  },
+  {
+    "key": "853907-levelList$[0].desc",
+    "original": "[StartBattle] <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">가시</color></link></u>를 얻음",
+    "context": "EN :\n[StartBattle] Gain <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Thorns</color></link></u>\nJP :\n[StartBattle] <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">棘</color></link></u>を得る"
+  },
+  {
+    "key": "853908-levelList$[0].name",
+    "original": "날카로운 반응",
+    "context": "EN :\nVolatile Reaction\nJP :\n鋭い反応"
+  },
+  {
+    "key": "853908-levelList$[0].desc",
+    "original": "[StartBattle] <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">가시</color></link></u>를 얻음",
+    "context": "EN :\n[StartBattle] Gain <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Thorns</color></link></u>\nJP :\n[StartBattle] <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">棘</color></link></u>を得る"
+  },
+  {
+    "key": "853909-levelList$[0].name",
+    "original": "애원하는 울음소리",
+    "context": "EN :\nPleading Cries\nJP :\n哀願する鳴き声"
+  },
+  {
+    "key": "853909-levelList$[0].desc",
+    "original": "합 진행 시 살아있는 낡은 우산당 합 위력 +2\n낡은 우산당 피해량 +25%",
+    "context": "EN :\nClash Power +2 for every surviving Old Umbrella\nDeal +25% for every Old Umbrella\nJP :\nマッチ実施時に生存している古傘1つにつきマッチ威力 +2\n古傘1つにつきダメージ量 +25%"
+  },
+  {
+    "key": "853909-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Sinking\nJP :\n[OnSucceedAttack] 沈潜 3を付与"
+  },
+  {
+    "key": "854001-levelList$[0].name",
+    "original": "흩뿌려지는 슬픔",
+    "context": "EN :\nScattering Sorrow\nJP :\n撒き散らされる哀しみ"
+  },
+  {
+    "key": "854001-levelList$[0].desc",
+    "original": "[EndSkill] 모든 적의 파열 횟수 3, 침잠 횟수 3 증가",
+    "context": "EN :\n[EndSkill] Inflict +3 Rupture Count and +3 Sinking Count to all enemies\nJP :\n[EndSkill] 全ての敵の破裂 回数 3, 沈潜 回数 3増加"
+  },
+  {
+    "key": "854101-levelList$[0].name",
+    "original": "전류 주입",
+    "context": "EN :\nElectric Load\nJP :\n電流注入"
+  },
+  {
+    "key": "854101-levelList$[0].desc",
+    "original": "[StartBattle] 자가 충전 2 얻음\n[DefeatDuel] 자가 충전 2 소모\n대상에게 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">마비</color></link></u>가 있다면 피해량 +10%",
+    "context": "EN :\n[StartBattle] Gain 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nDeal +10% damage to targets with <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>\nJP :\n[StartBattle] 自家発電 2を得る\n[DefeatDuel] 自家発電 2を消耗\n対象に<sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">麻痺</color></link></u>があればダメージ量 +10%"
+  },
+  {
+    "key": "854101-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 3を付与"
+  },
+  {
+    "key": "854102-levelList$[0].name",
+    "original": "전기 방류",
+    "context": "EN :\nElectric Release\nJP :\n電気放流"
+  },
+  {
+    "key": "854102-levelList$[0].desc",
+    "original": "[StartBattle] 자가 충전 2 얻음\n[DefeatDuel] 자가 충전 2 소모\n대상에게 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">마비</color></link></u>가 있다면 피해량 +10%",
+    "context": "EN :\n[StartBattle] Gain 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nDeal +10% damage to targets with <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>\nJP :\n[StartBattle] 自家発電 2を得る\n[DefeatDuel] 自家発電 2を消耗\n対象に<sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">麻痺</color></link></u>があればダメージ量 +10%"
+  },
+  {
+    "key": "854102-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 3を付与"
+  },
+  {
+    "key": "854103-levelList$[0].name",
+    "original": "전기 방출",
+    "context": "EN :\nElectric Discharge\nJP :\n電気放出"
+  },
+  {
+    "key": "854103-levelList$[0].desc",
+    "original": "[StartBattle] 자가 충전 2 얻음\n[DefeatDuel] 자가 충전 2 소모\n대상에게 <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">마비</color></link></u>가 있다면 피해량 +10%",
+    "context": "EN :\n[StartBattle] Gain 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nDeal +10% damage to targets with <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>\nJP :\n[StartBattle] 自家発電 2を得る\n[DefeatDuel] 自家発電 2を消耗\n対象に<sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">麻痺</color></link></u>があればダメージ量 +10%"
+  },
+  {
+    "key": "854103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 취약 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Fragile next turn\nJP :\n[OnSucceedAttack] 次のターンに脆弱 2を付与"
+  },
+  {
+    "key": "854103-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttackHead] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "854103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 3を付与"
+  },
+  {
+    "key": "854104-levelList$[0].name",
+    "original": "초고압 전기 방출",
+    "context": "EN :\nHigh-voltage Electric Discharge\nJP :\n超高圧電気放出"
+  },
+  {
+    "key": "854104-levelList$[0].desc",
+    "original": "[WhenUse] <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">자가 충전</color></link></u>이 5 이상이면, 초과된 <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">자가 충전</color></link></u>마다 피해량 +20%\n[WhenUse] <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">자가 충전</color></link></u>당 합 위력 +1\n[WhenUse] 자가 충전 전부 소모",
+    "context": "EN :\n[WhenUse] At 5+ <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>, deal +20% damage for each Count of <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u> over 5\n[WhenUse] Clash Power +1 for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>\n[WhenUse] Spend all Self-charge\nJP :\n[WhenUse] <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">自家発電</color></link></u>が5以上なら、超過した<sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">自家発電</color></link></u>1につきダメージ量 +20%\n[WhenUse] <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">自家発電</color></link></u>1つにつきマッチ威力 +1\n[WhenUse] 自家発電 を全て消耗"
+  },
+  {
+    "key": "854104-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 취약 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Fragile next turn\nJP :\n[OnSucceedAttack] 次のターンに脆弱 3を付与"
+  },
+  {
+    "key": "854104-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 5を付与"
+  },
+  {
+    "key": "854105-levelList$[0].name",
+    "original": "똬리틀기",
+    "context": "EN :\nCoil Up\nJP :\nとぐろを巻く"
+  },
+  {
+    "key": "854105-levelList$[0].desc",
+    "original": "이 스킬이 슬롯에 있을 때 머리 부위가 <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">자가 충전</color></link></u>당 50의 보호막 체력을 얻음.\n머리 부위가 파괴된 상태라면, <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">자가 충전</color></link></u>당 25의 보호막 체력을 얻음.\n자가 충전 1당 얻은 보호막 체력만큼 잃으면, 자가 충전 1씩 소모.",
+    "context": "EN :\nIf this Skill is on a slot, head gains 50 Shield HP for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>.\nIf the head is broken, gain 25 Shield HP for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge instead.</color></link></u>\nSpend 1 Self-charge for every amount of Shield HP lost equal to the Shield HP gained for every Self-charge\nJP :\nこのスキルにスロットがあるとき、頭部位が<sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">自家発電</color></link></u>1つにつき50のバリアを得る。\n頭部位が破壊された状態なら、<sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">自家発電</color></link></u>1つにつき25のバリアを得る。\n自家発電1つ分のバリアを失うと、自家発電を1つずつ消耗。"
+  },
+  {
+    "key": "854106-levelList$[0].name",
+    "original": "꿈틀거리는 머리",
+    "context": "EN :\nWriggling Head\nJP :\n蠢く頭"
+  },
+  {
+    "key": "854106-levelList$[0].desc",
+    "original": "체력이 가장 낮은 적 우선 공격\n[WhenUse] 자가 충전 1 소모\n[DefeatDuel] 자가 충전 1 소모",
+    "context": "EN :\nTargets the enemy with the least HP\n[WhenUse] Spend 1 Self-charge\n[DefeatDuel] Lose 1 Self-charge\nJP :\n体力が最も低い敵を優先的に攻撃\n[WhenUse] 自家発電 を1消耗\n[DefeatDuel] 自家発電 を1消耗"
+  },
+  {
+    "key": "854106-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 3を付与"
+  },
+  {
+    "key": "854107-levelList$[0].name",
+    "original": "꿈틀거리는 꼬리",
+    "context": "EN :\nWriggling Tail\nJP :\n蠢く尾"
+  },
+  {
+    "key": "854107-levelList$[0].desc",
+    "original": "체력이 가장 낮은 적 우선 공격\n[WhenUse] 자가 충전 1 소모\n[DefeatDuel] 자가 충전 2 소모",
+    "context": "EN :\nTargets the enemy with the least HP\n[WhenUse] Spend 1 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nJP :\n体力が最も低い敵を優先的に攻撃\n[WhenUse] 自家発電 を1消耗\n[DefeatDuel] 自家発電 を2消耗"
+  },
+  {
+    "key": "854107-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 3を付与"
+  },
+  {
+    "key": "854201-levelList$[0].name",
+    "original": "취하고 싶나?",
+    "context": "EN :\nWanna Get Drunk?\nJP :\n酔いたいか？"
+  },
+  {
+    "key": "854201-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 5 부여, 진동 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Tremor and +2 Tremor Count\nJP :\n[OnSucceedAttack] 振動 5を付与、振動 回数が2増加"
+  },
+  {
+    "key": "854202-levelList$[0].name",
+    "original": "나눠 마시자!",
+    "context": "EN :\nLet's Share the Drink!\nJP :\n分けて飲もうよ！"
+  },
+  {
+    "key": "854202-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "854202-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 체력 5% 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 5% of Max HP\nJP :\n[OnSucceedAttack] 体力を5%回復"
+  },
+  {
+    "key": "854203-levelList$[0].name",
+    "original": "남은건 이것 뿐이네!",
+    "context": "EN :\nThis is All I Got!\nJP :\n残ったのはこれだけだよ！"
+  },
+  {
+    "key": "854203-levelList$[0].desc",
+    "original": "<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">진동</color></link></u>을 가진 대상 우선 공격",
+    "context": "EN :\nPrioritizes enemies with <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>\nJP :\n<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>を持つ対象を優先して攻撃"
+  },
+  {
+    "key": "854203-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Tremor\nJP :\n[OnSucceedAttack] 振動 5を付与"
+  },
+  {
+    "key": "854203-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 진동 횟수만큼 [VibrationExplosion]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion] by target's Tremor Count\nJP :\n[OnSucceedAttack] 対象の振動回数だけ[VibrationExplosion]"
+  },
+  {
+    "key": "854203-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 진동 횟수 전부 소모",
+    "context": "EN :\n[OnSucceedAttack] Spend all of target's Tremor\nJP :\n[OnSucceedAttack] 対象の振動 回数を全て消耗"
+  },
+  {
+    "key": "854204-levelList$[0].name",
+    "original": "이건 내가 먹어야지!",
+    "context": "EN :\nI'll Have This!\nJP :\nこれ食べちゃうもんね！"
+  },
+  {
+    "key": "854204-levelList$[0].desc",
+    "original": "대상에게 <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">취기</color></link></u>가 없다면, 합 위력 +8\n[WhenUse] 대상이 <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">취기</color></link></u>가 없다면, 피해량 +150%",
+    "context": "EN :\nIf target has no <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, Clash Power +8 \n[WhenUse] If target has no <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, deal +150% damage\nJP :\n対象に<sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">酔い</color></link></u>が無ければ、マッチ威力 +8\n[WhenUse] 対象に<sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">酔い</color></link></u>が無ければ、ダメージ量 +150%"
+  },
+  {
+    "key": "854204-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">취기</color></link></u>가 5 이상이라면, 가하는 피해가 0이 됨.\n신사 요정이 다음 턴에 흐트러짐 상태가 됨.",
+    "context": "EN :\n[OnSucceedAttack] If target has 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, deal 0 damage.\nFairy Gentleman will be Staggered next turn.\nJP :\n[OnSucceedAttack] 対象の<sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">酔い</color></link></u>が5以上なら、与ダメージが0になる。\n紳士妖精が次のターンに混乱状態になる。"
+  },
+  {
+    "key": "854204-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">취기</color></link></u>를 전부 소모 시킴.",
+    "context": "EN :\n[OnSucceedAttack] Remove all <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>.\nJP :\n[OnSucceedAttack] <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">酔い</color></link></u>を全て消耗させる。"
+  },
+  {
+    "key": "854205-levelList$[0].name",
+    "original": "이 요정주가 좋나?",
+    "context": "EN :\nYou Like This Brew?\nJP :\nこの妖精酒が良いのか？"
+  },
+  {
+    "key": "854205-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 속박 3 얻음",
+    "context": "EN :\n[WhenUse] Gain 3 Bind next turn\nJP :\n[WhenUse] 次のターンに束縛 3を得る"
+  },
+  {
+    "key": "854206-levelList$[0].name",
+    "original": "한 잔 할텐가?",
+    "context": "EN :\nHave a Swig!\nJP :\n一杯やるのか？"
+  },
+  {
+    "key": "854206-levelList$[0].desc",
+    "original": "[StartBattle] 다음 턴에 요정주 소환\n[DefeatDuel] 요정주 체력 70%로 소환됨",
+    "context": "EN :\n[StartBattle] Summon Fairy Wine next turn\n[DefeatDuel] Fairy Wine summoned at 70% HP\nJP :\n[StartBattle] 次のターンに妖精酒を召喚\n[DefeatDuel] 妖精酒が体力70%で召喚される"
+  },
+  {
+    "key": "854206-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Tremor\nJP :\n[OnSucceedAttack] 振動 5を付与"
+  },
+  {
+    "key": "854206-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "854301-levelList$[0].name",
+    "original": "달콤한 요정주",
+    "context": "EN :\nSweet Fairy Wine\nJP :\n甘い妖精酒"
+  },
+  {
+    "key": "854301-levelList$[0].desc",
+    "original": "인격에게 죽었을 때, 모든 인격에게 다음 턴에 취기 5 부여",
+    "context": "EN :\nWhen killed by an Identity, apply 5 Tipsy to all Identities next turn\nJP :\n人格に倒されたとき、全人格へ次のターンにて酔い5を付与"
+  },
+  {
+    "key": "854401-levelList$[0].name",
+    "original": "얽혀가는 부적",
+    "context": "EN :\nEntangling Talisman\nJP :\n絡みゆくお札"
+  },
+  {
+    "key": "854401-levelList$[0].desc",
+    "original": "[WhenUse] 대상에게 얽혀온 저주 부적 3 부여",
+    "context": "EN :\n[WhenUse] Inflict 3 Entangled Curse Talisman\nJP :\n[WhenUse] 対象に絡み付いた呪いの札 3を付与"
+  },
+  {
+    "key": "854401-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 파열 2 부여. 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture and +2 Rupture Count next turn\nJP :\n[OnSucceedAttack] 次のターンに破裂 2を付与。破裂 回数2増加"
+  },
+  {
+    "key": "854402-levelList$[0].name",
+    "original": "쌓여가는 저주",
+    "context": "EN :\nCumulating Curse\nJP :\n積もりゆく呪い"
+  },
+  {
+    "key": "854402-levelList$[0].desc",
+    "original": "[WhenUse] 대상이 가지고 있는 <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">얽혀온 저주 부적</color></link></u>만큼 얽혀온 저주 부적 부여",
+    "context": "EN :\n[WhenUse] Inflict Entangling Talisman equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangling Talisman</color></link></u> on target\nJP :\n[WhenUse] 対象の持つ<sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">絡み付いた呪いの札</color></link></u>だけ、絡み付いた呪いの札を付与"
+  },
+  {
+    "key": "854402-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 파열 5 부여. 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Rupture and +2 Rupture Count next turn\nJP :\n[OnSucceedAttack] 次のターンに破裂 5を付与。破裂 回数2増加"
+  },
+  {
+    "key": "854402-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 파열 2 부여. 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture and +2 Rupture Count next turn\nJP :\n[OnSucceedAttack] 次のターンに破裂 2を付与。破裂 回数2増加"
+  },
+  {
+    "key": "854403-levelList$[0].name",
+    "original": "누구도 울지 않도록",
+    "context": "EN :\nSo That No One Will Cry\nJP :\n誰も泣かぬように"
+  },
+  {
+    "key": "854403-levelList$[0].desc",
+    "original": "[EndBattle] 다시 붙여진 저주 부적 전부 소멸\n[WhenUse] 가지고 있는 <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">다시 붙여진 저주 부적</color></link></u>이 10개 이상이면, 코인 위력 -1",
+    "context": "EN :\n[EndBattle] Remove all Reattached Curse Talisman\n[WhenUse] If at 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">Reattached Curse Talisman</color></link></u>, -1 Coin Power\nJP :\n[EndBattle] 貼り直された呪いの札を全て消滅\n[WhenUse] 保有している<sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">貼り直された呪いの札</color></link></u>が10以上なら、コイン威力 -1"
+  },
+  {
+    "key": "854403-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture next turn\nJP :\n[OnSucceedAttack] 次のターンに破裂 2を付与"
+  },
+  {
+    "key": "854403-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture next turn\nJP :\n[OnSucceedAttack] 次のターンに破裂 2を付与"
+  },
+  {
+    "key": "854403-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture next turn\nJP :\n[OnSucceedAttack] 次のターンに破裂 2を付与"
+  },
+  {
+    "key": "854403-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture next turn\nJP :\n[OnSucceedAttack] 次のターンに破裂 2を付与"
+  },
+  {
+    "key": "854403-levelList$[0].coinlist[4].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 5を付与"
+  },
+  {
+    "key": "854403-levelList$[0].coinlist[4].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 5を付与"
+  },
+  {
+    "key": "854404-levelList$[0].name",
+    "original": "이전하는 부적",
+    "context": "EN :\nTransferring Talisman\nJP :\n移転するお札"
+  },
+  {
+    "key": "854404-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">얽혀온 저주 부적</color></link></u>을 전부 소멸.\n소멸시킨만큼 다시 붙여진 저주 부적 얻음\n[StartBattle] 모든 부위에 보호 3 얻음",
+    "context": "EN :\n[WhenUse] Remove all <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangled Curse Talisman</color></link></u> from target.\nGain Reattached Curse Talisman equal to number of Entangled Curse removed\n[StartBattle] All parts gain 3 Protection\nJP :\n[WhenUse] 対象の<sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">絡み付いた呪いの札</color></link></u>を全て消滅。消滅させた分、貼り直された呪いの札を得る\n[StartBattle] 全部位が保護 3を得る"
+  },
+  {
+    "key": "854405-levelList$[0].name",
+    "original": "복제되는 저주",
+    "context": "EN :\nProliferating Curse\nJP :\n複製される呪い"
+  },
+  {
+    "key": "854405-levelList$[0].desc",
+    "original": "[WhenUse] 대상이 가지고 있는 <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">얽혀온 저주 부적</color></link></u>만큼 얽혀온 저주 부적 부여",
+    "context": "EN :\n[WhenUse] Inflict Entangling Talisman equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangling Talisman</color></link></u> on target\nJP :\n[WhenUse] 対象の持つ<sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">絡み付いた呪いの札</color></link></u>だけ、絡み付いた呪いの札を付与"
+  },
+  {
+    "key": "854501-levelList$[0].name",
+    "original": "상처 훑기",
+    "context": "EN :\nSkim Wounds\nJP :\n傷を舐る"
+  },
+  {
+    "key": "854501-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 출혈 횟수가 2이상일 때, 출혈 5 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has 2+ Bleed Count, inflict 5 Bleed\nJP :\n[OnSucceedAttack] 対象の出血 回数が2以上の時、出血 を5付与"
+  },
+  {
+    "key": "854501-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상이 출혈 횟수가 2이상일 때, 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has 2+ Bleed Count, inflict 1 Bleed\nJP :\n[OnSucceedAttack] 対象の出血 回数が2以上の時、麻痺 を1付与"
+  },
+  {
+    "key": "854501-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 4 증가",
+    "context": "EN :\n[OnSucceedAttack] Apply +4 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が4増加"
+  },
+  {
+    "key": "854502-levelList$[0].name",
+    "original": "옭아매인 상처",
+    "context": "EN :\nEntangled Injury\nJP :\n縛られた傷"
+  },
+  {
+    "key": "854502-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bleed\nJP :\n[OnSucceedAttack] 出血 3を付与"
+  },
+  {
+    "key": "854503-levelList$[0].name",
+    "original": "묻어오는 살점",
+    "context": "EN :\nSmeared Flesh\nJP :\n引っ付く肉"
+  },
+  {
+    "key": "854503-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bleed\nJP :\n[OnSucceedAttack] 出血 3を付与"
+  },
+  {
+    "key": "854503-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상이 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>을 가지고 있다면, 체력 25 회복",
+    "context": "EN :\n[OnSucceedAttack] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, heal 25 HP\nJP :\n[OnSucceedAttack] 対象に<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>があれば、体力を25回復"
+  },
+  {
+    "key": "854503-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 출혈 횟수가 2이상일 때 출혈 5 부여.",
+    "context": "EN :\n[OnSucceedAttack] If target has 2+ Bleed Count, inflict 5 Bleed\nJP :\n[OnSucceedAttack] 対象の出血 回数が2以上の時、出血 を5付与"
+  },
+  {
+    "key": "854503-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상이 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>을 가지고 있다면, 체력 25 회복",
+    "context": "EN :\n[OnSucceedAttack] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, heal 25 HP\nJP :\n[OnSucceedAttack] 対象に<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>があれば、体力を25回復"
+  },
+  {
+    "key": "854504-levelList$[0].name",
+    "original": "드리우는 그늘",
+    "context": "EN :\nCasting Shade\nJP :\n差し込める陰"
+  },
+  {
+    "key": "854504-levelList$[0].desc",
+    "original": "[StartBattle] 다음 턴에 굴절된 클로버 생성.\n[DefeatDuel] 굴절된 클로버의 체력이 50%인 상태로 생성됨.",
+    "context": "EN :\n[StartBattle] Spawn a Refracted Clover next turn.\n[DefeatDuel] The Refracted Clover spawns with 50% HP.\nJP :\n[StartBattle] 次のターンに屈折されたクローバーを生成。\n[DefeatDuel] 屈折されたクローバーが体力50%で生成される。"
+  },
+  {
+    "key": "854504-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>당 피해량 +5%",
+    "context": "EN :\n[OnSucceedAttack] Deal +5% damage for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> on target\nJP :\n[OnSucceedAttack] 対象の<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>1つにつき、ダメージ量 +5%"
+  },
+  {
+    "key": "854504-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 출혈 전부 소모",
+    "context": "EN :\n[OnSucceedAttack] Spend all of target's Bleed\nJP :\n[OnSucceedAttack] 対象の出血 を全て消耗"
+  },
+  {
+    "key": "854505-levelList$[0].name",
+    "original": "소화",
+    "context": "EN :\nChurning\nJP :\n消化"
+  },
+  {
+    "key": "854505-levelList$[0].desc",
+    "original": "[StartBattle] 모든 부위 보호 3 얻음.",
+    "context": "EN :\n[StartBattle] All parts gain 3 Protection.\nJP :\n[StartBattle] 全部位が保護 3を得る。"
+  },
+  {
+    "key": "854505-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>당 자신의 전체 체력의 1%만큼 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 1% of Max HP for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> on target\nJP :\n[OnSucceedAttack] 対象の<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>1つにつき、体力を最大値の1%回復"
+  },
+  {
+    "key": "854505-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 출혈 횟수 1 소모",
+    "context": "EN :\n[OnSucceedAttack] Spend 1 Bleed Count from target\nJP :\n[OnSucceedAttack] 対象の出血 回数を1消耗"
+  },
+  {
+    "key": "854701-levelList$[0].name",
+    "original": "취하고 싶나?",
+    "context": "EN :\nWanna Get Drunk?\nJP :\n酔いたいか？"
+  },
+  {
+    "key": "854701-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 5 부여, 진동 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Tremor and +2 Tremor Count\nJP :\n[OnSucceedAttack] 振動 5を付与、振動 回数を2増加"
+  },
+  {
+    "key": "854702-levelList$[0].name",
+    "original": "나눠 마시자!",
+    "context": "EN :\nLet's Share the Drink!\nJP :\n分けて飲もうよ！"
+  },
+  {
+    "key": "854702-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "854702-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 체력 5% 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 5% of Max HP\nJP :\n[OnSucceedAttack] 体力を5%回復"
+  },
+  {
+    "key": "854703-levelList$[0].name",
+    "original": "남은건 이것 뿐이네!",
+    "context": "EN :\nThis is All I Got!\nJP :\n残ったのはこれだけだよ！"
+  },
+  {
+    "key": "854703-levelList$[0].desc",
+    "original": "<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">진동</color></link></u>을 가진 대상 우선 공격",
+    "context": "EN :\nPrioritizes enemies with <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>\nJP :\n<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>を持つ対象を優先して攻撃"
+  },
+  {
+    "key": "854703-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Tremor\nJP :\n[OnSucceedAttack] 振動 5を付与"
+  },
+  {
+    "key": "854703-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 진동 횟수만큼 [VibrationExplosion]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion] by target's Tremor Count\nJP :\n[OnSucceedAttack] 対象の振動回数だけ[VibrationExplosion]"
+  },
+  {
+    "key": "854703-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 진동 횟수 전부 소모",
+    "context": "EN :\n[OnSucceedAttack] Spend all of target's Tremor\nJP :\n[OnSucceedAttack] 対象の振動 回数を全て消耗"
+  },
+  {
+    "key": "854704-levelList$[0].name",
+    "original": "이건 내가 먹어야지!",
+    "context": "EN :\nI'll Have This!\nJP :\nこれ食べちゃうもんね！"
+  },
+  {
+    "key": "854704-levelList$[0].desc",
+    "original": "대상에게 <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">취기</color></link></u>가 없다면, 합 위력 +8\n[WhenUse] 대상이 <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">취기</color></link></u>가 없다면, 피해량 +150%",
+    "context": "EN :\nIf target has no <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, Clash Power +8 \n[WhenUse] If target has no <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, deal +150% damage\nJP :\n対象に<sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">酔い</color></link></u>が無ければ、マッチ威力 +8\n[WhenUse] 対象に<sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">酔い</color></link></u>が無ければ、ダメージ量 +150%"
+  },
+  {
+    "key": "854704-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">취기</color></link></u>가 5 이상이라면, 가하는 피해가 0이 됨.\n신사 요정이 다음 턴에 흐트러짐 상태가 됨.",
+    "context": "EN :\n[OnSucceedAttack] If target has 5+ <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>, deal 0 damage.\nFairy Gentleman will be Staggered next turn.\nJP :\n[OnSucceedAttack] 対象の<sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">酔い</color></link></u>が5以上なら、与ダメージが0になる。\n紳士妖精が次のターンに混乱状態になる。"
+  },
+  {
+    "key": "854704-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">취기</color></link></u>를 전부 소모 시킴.",
+    "context": "EN :\n[OnSucceedAttack] Remove all <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">Tipsy</color></link></u>.\nJP :\n[OnSucceedAttack] <sprite name=\"Tipsiness\"><color=#a16a3b><u><link=\"TipsinessRail\">酔い</color></link></u>を全て消耗させる。"
+  },
+  {
+    "key": "854705-levelList$[0].name",
+    "original": "이 요정주가 좋나?",
+    "context": "EN :\nYou Like This Brew?\nJP :\nこの妖精酒が良いのか？"
+  },
+  {
+    "key": "854705-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 속박 3 얻음",
+    "context": "EN :\n[WhenUse] Gain 3 Bind next turn\nJP :\n[WhenUse] 次のターンに束縛 3を得る"
+  },
+  {
+    "key": "854706-levelList$[0].name",
+    "original": "한 잔 할텐가?",
+    "context": "EN :\nHave a Swig!\nJP :\n一杯やるのか？"
+  },
+  {
+    "key": "854706-levelList$[0].desc",
+    "original": "[StartBattle] 다음 턴에 요정주 소환\n[DefeatDuel] 요정주 체력 50%로 소환됨",
+    "context": "EN :\n[StartBattle] Summon Fairy Wine next turn\n[DefeatDuel] Fairy Wine summoned at 50% HP\nJP :\n[StartBattle] 次のターンに妖精酒を召喚\n[DefeatDuel] 妖精酒が体力50%で召喚される"
+  },
+  {
+    "key": "854706-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Tremor\nJP :\n[OnSucceedAttack] 振動 5を付与"
+  },
+  {
+    "key": "854706-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "854801-levelList$[0].name",
+    "original": "달콤한 요정주",
+    "context": "EN :\nSweet Fairy Wine\nJP :\n甘い妖精酒"
+  },
+  {
+    "key": "854801-levelList$[0].desc",
+    "original": "인격에게 죽었을 때, 모든 인격에게 다음 턴에 취기 5 부여",
+    "context": "EN :\nWhen killed by an Identity, apply 5 Tipsy to all Identities next turn\nJP :\n人格に倒されたとき、全人格へ次のターンにて酔い5を付与"
+  },
+  {
+    "key": "854901-levelList$[0].name",
+    "original": "걸려든 미끼",
+    "context": "EN :\nSnagged Lure\nJP :\n引っかかった好餌"
+  },
+  {
+    "key": "854901-levelList$[0].desc",
+    "original": "[CantDuel] 요정이 살아있는 턴만큼 공격 가중치가 증가함.\n<sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">매혹</color></link></u>에 걸린 인격 우선 공격.",
+    "context": "EN :\n[CantDuel] +1 Atk Weight for every turn Fairy is alive.\nPrioritizes Identities with <sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">Charmed</color></link></u>.\nJP :\n[CantDuel] 妖精が生きているターンの間、攻撃加重値が増加。\n<sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">魅了</color></link></u>された人格を優先して攻撃。"
+  },
+  {
+    "key": "854901-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が2増加"
+  },
+  {
+    "key": "854901-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bleed\nJP :\n[OnSucceedAttack] 出血 3を付与"
+  },
+  {
+    "key": "854901-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 본체, 몸통 체력 15 회복",
+    "context": "EN :\n[OnSucceedAttack] Core, Body heals 15 HP\nJP :\n[OnSucceedAttack] 本体、胴体の体力を15回復"
+  },
+  {
+    "key": "854902-levelList$[0].name",
+    "original": "파고드는 뿌리",
+    "context": "EN :\nBurrowing Roots\nJP :\n食い込む色欲"
+  },
+  {
+    "key": "854902-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が3増加"
+  },
+  {
+    "key": "854902-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が3増加"
+  },
+  {
+    "key": "854903-levelList$[0].name",
+    "original": "확산하는 뿌리",
+    "context": "EN :\nExpanding Roots\nJP :\n拡散する根"
+  },
+  {
+    "key": "854903-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Rupture\nJP :\n[OnSucceedAttack] 破裂 5を付与"
+  },
+  {
+    "key": "854903-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Bleed\nJP :\n[OnSucceedAttack] 出血 5を付与"
+  },
+  {
+    "key": "854904-levelList$[0].name",
+    "original": "잠식하는 줄기",
+    "context": "EN :\nEncroaching Stems\nJP :\n蚕食する幹"
+  },
+  {
+    "key": "854904-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 파열 수치당 피해량 +5%",
+    "context": "EN :\n[OnSucceedAttack] Deal +5% damage per 5 Rupture Count on target\nJP :\n[OnSucceedAttack] 対象の破裂 数値1につき、ダメージ量 +5%"
+  },
+  {
+    "key": "854905-levelList$[0].name",
+    "original": "드러난 심연",
+    "context": "EN :\nUncovered Abyss\nJP :\n露わになった深淵"
+  },
+  {
+    "key": "854905-levelList$[0].desc",
+    "original": "대상에게 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">파열</color></link></u>이 5이상 있다면 피해량 +100%",
+    "context": "EN :\nDeal +100% damage to targets with 5+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>\nJP :\n対象に<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>が5以上あるとき、ダメージ量 +100%"
+  },
+  {
+    "key": "854906-levelList$[0].name",
+    "original": "매혹된 자아",
+    "context": "EN :\nCharmed Consciousness\nJP :\n魅了された自我"
+  },
+  {
+    "key": "854906-levelList$[0].desc",
+    "original": "요정초롱을 공격할 때 피해가 0이 된다.",
+    "context": "EN :\nAttacking Faelantern deals 0 damage.\nJP :\n妖精提灯を攻撃するとダメージが0になる。"
+  },
+  {
+    "key": "855001-levelList$[0].name",
+    "original": "차원 베기",
+    "context": "EN :\nDimensional Slice\nJP :\n次元斬り"
+  },
+  {
+    "key": "855001-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 충전 횟수 3 증가\n[DefeatDuel] 자신의 충전 횟수 2 소모",
+    "context": "EN :\n[WhenUse] Gain +3 Charge Count\n[DefeatDuel] Spend 2 Charge Count\nJP :\n[WhenUse] 自分の充電 回数3が増加\n[DefeatDuel] 自分の充電 回数2を消耗"
+  },
+  {
+    "key": "855001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "855002-levelList$[0].name",
+    "original": "연속 차원 베기",
+    "context": "EN :\nConsecutive Dimensional Slice\nJP :\n連続次元斬り"
+  },
+  {
+    "key": "855002-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 충전 횟수 3 증가\n[DefeatDuel] 자신의 충전 횟수 2 소모",
+    "context": "EN :\n[WhenUse] Gain +3 Charge Count\n[DefeatDuel] Spend 2 Charge Count\nJP :\n[WhenUse] 自分の充電 回数3が増加\n[DefeatDuel] 自分の充電 回数2を消耗"
+  },
+  {
+    "key": "855002-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 차원 균열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Dimensional Rift\nJP :\n[OnSucceedAttack] 次元の亀裂 3を付与"
+  },
+  {
+    "key": "855002-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 차원 균열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Dimensional Rift\nJP :\n[OnSucceedAttack] 次元の亀裂 3を付与"
+  },
+  {
+    "key": "855003-levelList$[0].name",
+    "original": "부산물 뱉기",
+    "context": "EN :\nDischarge Byproducts\nJP :\n副産物を吐く"
+  },
+  {
+    "key": "855003-levelList$[0].desc",
+    "original": "[DefeatDuel] 자신의 충전 횟수 2 소모",
+    "context": "EN :\n[DefeatDuel] Spend 2 Charge Count\nJP :\n[DefeatDuel] 自分の充電 回数を2消耗"
+  },
+  {
+    "key": "855003-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Rupture\nJP :\n[OnSucceedAttack] 破裂 5を付与"
+  },
+  {
+    "key": "855004-levelList$[0].name",
+    "original": "공간 절단",
+    "context": "EN :\nRip Space\nJP :\n空間切断"
+  },
+  {
+    "key": "855004-levelList$[0].desc",
+    "original": "충전 횟수가 10 이상이면, 충전 횟수 10을 소모하고 합 위력 +5, 피해량 +100%\n충전 횟수가 10 미만이면, 본체 체력 100을 소모함. 피해량 +80%\n이 스킬로는 체력이 0이 되지 않음.",
+    "context": "EN :\nAt 10+ Charge Count, spend 10 Charge Count and gain Clash Power +5 and deal +100% damage\nAt 10- Charge Count, spend 100 Core HP and deal +80% damage\nThis skill does not reduce the unit's HP to 0.\nJP :\n充電 回数が10以上なら、充電 回数10を消耗してマッチ威力 +5, ダメージ量 +100%\n充電 回数が10未満なら、本体体力を100消耗する。ダメージ量 +80%\nこのスキルでは体力が0にならない。"
+  },
+  {
+    "key": "855004-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 자신의 충전 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Gain +2 Charge Count\nJP :\n[OnSucceedAttackHead] 自分の充電 回数が2増加"
+  },
+  {
+    "key": "855004-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 차원 균열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Dimensional Rift\nJP :\n[OnSucceedAttack] 次元の亀裂 3を付与"
+  },
+  {
+    "key": "855004-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 자신의 충전 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Gain +2 Charge Count\nJP :\n[OnSucceedAttackHead] 自分の充電 回数が2増加"
+  },
+  {
+    "key": "855004-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 차원 균열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Dimensional Rift\nJP :\n[OnSucceedAttack] 次元の亀裂 3を付与"
+  },
+  {
+    "key": "855005-levelList$[0].name",
+    "original": "준비된 반격",
+    "context": "EN :\nPrepared Retribution\nJP :\n準備された反撃"
+  },
+  {
+    "key": "855005-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 충전 횟수 1 증가",
+    "context": "EN :\n[WhenUse] Gain +1 Charge Count\nJP :\n[WhenUse] 自分の充電 回数が1増加"
+  },
+  {
+    "key": "855005-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が2増加"
+  },
+  {
+    "key": "855005-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nJP :\n[OnSucceedAttack] 破裂 2を付与"
+  },
+  {
+    "key": "855006-levelList$[0].name",
+    "original": "부산물 토하기",
+    "context": "EN :\nVomit Byproducts\nJP :\n副産物嘔吐"
+  },
+  {
+    "key": "855006-levelList$[0].desc",
+    "original": "[WhenUse] 대상에게 차원 균열이 있다면, 피해량 +10%\n[DefeatDuel] 자신의 충전 횟수 2 소모",
+    "context": "EN :\n[WhenUse] If target has Dimensional Rift, deal +10% damage\n[DefeatDuel] Spend 2 Charge Count\nJP :\n[WhenUse] 対象に次元の亀裂 があれば、ダメージ量 +10%\n[DefeatDuel] 自分の充電 回数を2消耗"
+  },
+  {
+    "key": "855006-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 차원 균열 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Dimensional Rift\nJP :\n[OnSucceedAttack] 次元の亀裂 5を付与"
+  },
+  {
+    "key": "855007-levelList$[0].name",
+    "original": "고속 공간 절단",
+    "context": "EN :\nHigh-speed Rip Space\nJP :\n高速空間切断"
+  },
+  {
+    "key": "855007-levelList$[0].desc",
+    "original": "가장 많이 가지고 있는 차원 효과만큼 합 위력이 증가\n자신이 가지고 있는 차원 효과만큼 피해량 +10%",
+    "context": "EN :\nGain Clash Power equal to the number of Dimensional Rift effect with the highest stack\nDeal +10% damage for every Dimensional Rift effect on self\nJP :\n一番多く所持している次元の効果だけマッチ威力が増加\n自分が所持している次元の効果だけダメージ量 +10%"
+  },
+  {
+    "key": "855007-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Rupture\nJP :\n[OnSucceedAttack] 破裂 3を付与"
+  },
+  {
+    "key": "855008-levelList$[0].name",
+    "original": "기회 포착",
+    "context": "EN :\nOpportunity Spotted\nJP :\n機会捕捉"
+  },
+  {
+    "key": "855008-levelList$[0].desc",
+    "original": "[WhenUse] 대상에게 차원 균열이 있다면, 피해량 +20%",
+    "context": "EN :\n[WhenUse] If target has Dimensional Rift, +20% Damage\nJP :\n[WhenUse] 対象に次元の亀裂がある場合、ダメージ量+20%"
+  },
+  {
+    "key": "855008-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 차원 균열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Dimensional Rift\nJP :\n[OnSucceedAttack] 次元の亀裂 3を付与"
+  },
+  {
+    "key": "855009-levelList$[0].name",
+    "original": "틈새 공격",
+    "context": "EN :\nRift Attack\nJP :\n隙間攻撃"
+  },
+  {
+    "key": "855009-levelList$[0].desc",
+    "original": "[WhenUse] 대상에게 차원 균열이 있다면, 피해량 +10%",
+    "context": "EN :\n[WhenUse] If target has Dimensional Rift, +10% Damage\nJP :\n[WhenUse] 対象に次元の亀裂がある場合、ダメージ量+10%"
+  },
+  {
+    "key": "855009-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 차원 균열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Dimensional Rift\nJP :\n[OnSucceedAttack] 次元の亀裂 3を付与"
+  },
+  {
+    "key": "855101-levelList$[0].name",
+    "original": "맞물리는 순간",
+    "context": "EN :\nInterlocking Moment\nJP :\n噛み合う瞬間"
+  },
+  {
+    "key": "855101-levelList$[0].desc",
+    "original": "[DefeatDuel] 자신의 충전 횟수 2 소모",
+    "context": "EN :\n[DefeatDuel] Spend 2 Charge Count\nJP :\n[DefeatDuel] 自分の充電 回数を2消耗"
+  },
+  {
+    "key": "855101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 맞물리는 시간 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Interlocking Time\nJP :\n[OnSucceedAttack] 噛み合う時間 1を付与"
+  },
+  {
+    "key": "855101-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 마비 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Paralyze\nJP :\n[OnSucceedAttackHead] 麻痺 3を付与"
+  },
+  {
+    "key": "855102-levelList$[0].name",
+    "original": "시간 흡수",
+    "context": "EN :\nSiphon Time\nJP :\n時間吸収"
+  },
+  {
+    "key": "855102-levelList$[0].desc",
+    "original": "충전 횟수가 3당 스킬 위력 +1\n[WhenUse] 자신의 충전 횟수 4 증가",
+    "context": "EN :\nSkill Power +1 for every 3 Charge Count\n[WhenUse] Gain +4 Charge Count\nJP :\n充電 回数3につき、スキル威力 +1\n[WhenUse] 自分の充電 回数が4増加"
+  },
+  {
+    "key": "855102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 시간 대여 3 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 Borrowed Time next turn\nJP :\n[OnSucceedAttack] 次のターンに時間貸与 3を得る"
+  },
+  {
+    "key": "855102-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 3を付与"
+  },
+  {
+    "key": "855103-levelList$[0].name",
+    "original": "가속되는 순간",
+    "context": "EN :\nAccelerating Moment\nJP :\n加速する瞬間"
+  },
+  {
+    "key": "855103-levelList$[0].desc",
+    "original": "<sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">시간 대여</color></link></u>당 스킬 위력 +1\n[DefeatDuel] 자신의 충전 횟수 3 소모",
+    "context": "EN :\nSkill Power +1 for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>\n[DefeatDuel] Spend 3 Charge Count\nJP :\n<sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">時間貸与</color></link></u>1につきスキル威力 +1\n[DefeatDuel] 自分の充電 回数を3消耗"
+  },
+  {
+    "key": "855103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 맞물리는 시간 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Interlocking Time\nJP :\n[OnSucceedAttack] 噛み合う時間 2を付与"
+  },
+  {
+    "key": "855103-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "855103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">시간 대여</color></link></u>당 피해량 +20%",
+    "context": "EN :\n[OnSucceedAttack] Deal +20% damage for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>\nJP :\n[OnSucceedAttack] <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">時間貸与</color></link></u>1つにつき、ダメージ量 +20%"
+  },
+  {
+    "key": "855103-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 충전 횟수 4 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +4 Charge Count\nJP :\n[OnSucceedAttack] 自分の充電 回数が4増加"
+  },
+  {
+    "key": "855104-levelList$[0].name",
+    "original": "충전 방어",
+    "context": "EN :\nCharged Defense\nJP :\n充電防御"
+  },
+  {
+    "key": "855104-levelList$[0].desc",
+    "original": "[StartBattle] 자신의 충전 횟수 1 얻음",
+    "context": "EN :\n[StartBattle] Gain +1 Charge Count\nJP :\n[StartBattle] 充電 回数が1増加"
+  },
+  {
+    "key": "855501-levelList$[0].name",
+    "original": "6463",
+    "context": "EN :\n6463\nJP :\n6463"
+  },
+  {
+    "key": "855501-levelList$[0].desc",
+    "original": "<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">축적된 과거</color></link></u> 50당 피해량 +10%",
+    "context": "EN :\nDeal +10% more damage for every 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u>\nJP :\n<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">蓄積された過去</color></link></u>50につきダメージ量 +10%"
+  },
+  {
+    "key": "855501-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 3を付与"
+  },
+  {
+    "key": "855502-levelList$[0].name",
+    "original": "6753",
+    "context": "EN :\n6753\nJP :\n6753"
+  },
+  {
+    "key": "855502-levelList$[0].desc",
+    "original": "<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">축적된 과거</color></link></u> 50당 피해량 +10%",
+    "context": "EN :\nDeal +10% more damage for every 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u>\nJP :\n<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">蓄積された過去</color></link></u>50につきダメージ量 +10%"
+  },
+  {
+    "key": "855502-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Paralysis] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Paralysis] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Paralysis]3を付与"
+  },
+  {
+    "key": "855503-levelList$[0].name",
+    "original": "853",
+    "context": "EN :\n853\nJP :\n853"
+  },
+  {
+    "key": "855503-levelList$[0].desc",
+    "original": "[Breath]이 5이상이면, 합 위력 +1",
+    "context": "EN :\nAt 5+ [Breath], Clash Power +1\nJP :\n[Breath]が5以上なら、マッチ威力 +1"
+  },
+  {
+    "key": "855503-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Paralysis] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Paralysis] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Paralysis]3を付与"
+  },
+  {
+    "key": "855503-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 50%만큼 흐트러짐 손상",
+    "context": "EN :\n[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の50%混乱区間を前進"
+  },
+  {
+    "key": "855503-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">축적된 과거</color></link></u>당 피해량 +1% (최대 50%)",
+    "context": "EN :\n[OnSucceedAttack] Deal +1% damage for every <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (Max 50%)\nJP :\n[OnSucceedAttack] <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">蓄積された過去</color></link></u>1につきダメージ量 +1%(最大50%)"
+  },
+  {
+    "key": "855504-levelList$[0].name",
+    "original": "5384",
+    "context": "EN :\n5384\nJP :\n5384"
+  },
+  {
+    "key": "855504-levelList$[0].desc",
+    "original": "[WhenUse] 모든 부위에 [Breath] 3, [Breath] 횟수 3을 얻음",
+    "context": "EN :\n[WhenUse] All parts gain 3 [Breath] and +3 [Breath] Count\nJP :\n[WhenUse] 全部位が[Breath]3, [Breath]回数3を得る"
+  },
+  {
+    "key": "855504-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath]만큼 흐트러짐 손상",
+    "context": "EN :\n[OnSucceedAttack] Raise Stagger Threshold equal to [Breath]\nJP :\n[OnSucceedAttack] [Breath]だけ混乱区間を前進"
+  },
+  {
+    "key": "855504-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath] 3당 피해량 +20% (최대 100%)",
+    "context": "EN :\n[OnSucceedAttack] Deal +20% more damage per 3 [Breath] (Max 100%)\nJP :\n[OnSucceedAttack] [Breath]3につきダメージ量 +20% (最大100%)"
+  },
+  {
+    "key": "855504-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 모든 부위에 [Breath] 4를 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 4 [Breath] to all Parts\nJP :\n[OnSucceedAttack] 全部位が[Breath]4を得る"
+  },
+  {
+    "key": "855505-levelList$[0].name",
+    "original": "6475384",
+    "context": "EN :\n6475384\nJP :\n6475384"
+  },
+  {
+    "key": "855505-levelList$[0].desc",
+    "original": "[Breath]이 7이상이면, 코인 위력 +1",
+    "context": "EN :\nAt 7+ [Breath], Coin Power +1\nJP :\n[Breath]が7以上なら、コイン威力 +1"
+  },
+  {
+    "key": "855505-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath]이 5이상이면, 피해량의 50%만큼 흐트러짐 손상",
+    "context": "EN :\n[OnSucceedAttack] At 5+ [Breath], raise Stagger Threshold by 50% of damage dealt\nJP :\n[OnSucceedAttack] [Breath]が5以上なら、ダメージ量の50%分混乱区間を前進"
+  },
+  {
+    "key": "855505-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 모든 부위에 [Breath] 8, [Breath] 횟수 4를 얻음",
+    "context": "EN :\n[OnSucceedAttack] All Parts gain 8 [Breath] and +4 [Breath] Count\nJP :\n[OnSucceedAttack] 全部位が[Breath]8, [Breath]回数4を得る"
+  },
+  {
+    "key": "855506-levelList$[0].name",
+    "original": "974569A",
+    "context": "EN :\n974569A\nJP :\n974569A"
+  },
+  {
+    "key": "855506-levelList$[0].desc",
+    "original": "[Breath]이 10이상이면, 스킬 위력 +2",
+    "context": "EN :\nAt 10+ [Breath], Skill Power +2\nJP :\n[Breath]が10以上なら、スキル威力 +2"
+  },
+  {
+    "key": "855506-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">축적된 과거</color></link></u>당 피해량 +1% (최대 200%)",
+    "context": "EN :\n[OnSucceedAttack] Deal +1% damage for every <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u> (Max 200%)\nJP :\n[OnSucceedAttack] <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">蓄積された過去</color></link></u>1につきダメージ量 +1%(最大200%)"
+  },
+  {
+    "key": "855601-levelList$[0].name",
+    "original": "영겁의 정원으로",
+    "context": "EN :\nTo the Garden of Infinity\nJP :\n永劫の庭園へ"
+  },
+  {
+    "key": "855601-levelList$[0].desc",
+    "original": "[CantDuel]\n[WhenUse] 면류관 부여. 자신에게 부여된 모든 효과 제거\n자신의 본체 체력이 40% 미만이면 다음 턴에 장미 유닛이 강화 상태 로 생성됨",
+    "context": "EN :\n[CantDuel]\n[WhenUse] Apply Crown of Thorns and eliminate all effects on self\nIf Core has less than 40% HP, Roses will spawn in Power-up States\nJP :\n[CantDuel]\n[WhenUse] 冠を付与。自分に付与された全ての効果を除去\n自分の本体体力が40%未満なら、次のターンに薔薇ユニットが強化状態で生成される"
+  },
+  {
+    "key": "855602-levelList$[0].name",
+    "original": "정지",
+    "context": "EN :\nStop\nJP :\n静止"
+  },
+  {
+    "key": "855602-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 화상 2, 진동 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Burn and 2 Tremor\nJP :\n[OnSucceedAttack] 火傷 2, 振動 2を付与"
+  },
+  {
+    "key": "855602-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 1を付与"
+  },
+  {
+    "key": "855602-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 화상 2, 진동 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Burn and 2 Tremor\nJP :\n[OnSucceedAttack] 火傷 2, 振動 2を付与"
+  },
+  {
+    "key": "855602-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 1を付与"
+  },
+  {
+    "key": "855603-levelList$[0].name",
+    "original": "구속",
+    "context": "EN :\nCaptivity\nJP :\n拘束"
+  },
+  {
+    "key": "855603-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "855603-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 3, 파열 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bleed and 3 Rupture\nJP :\n[OnSucceedAttack] 出血 3, 破裂 3を付与"
+  },
+  {
+    "key": "855603-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 체력이 가장 낮은 장미 유닛의 체력 10 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal the Rose with the lowest HP percentages for 10 HP\nJP :\n[OnSucceedAttack] 体力が最も低い薔薇ユニットの体力を10回復"
+  },
+  {
+    "key": "855604-levelList$[0].name",
+    "original": "끝없는 피어남",
+    "context": "EN :\nEndless Blooming\nJP :\n果てしない開花"
+  },
+  {
+    "key": "855604-levelList$[0].desc",
+    "original": "면류관이 없는 대상 우선 공격",
+    "context": "EN :\nPrioritizes enemies without Crown of Thorns\nJP :\n冠がない対象を優先して攻撃"
+  },
+  {
+    "key": "855604-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 1, 속박 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Paralyze and 1 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 1, 束縛 1を付与"
+  },
+  {
+    "key": "855604-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 면류관 부여",
+    "context": "EN :\n[OnSucceedAttack] Apply Crown of Thorns\nJP :\n[OnSucceedAttack] 冠 を付与"
+  },
+  {
+    "key": "855604-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 본체의 체력 30 회복",
+    "context": "EN :\n[OnSucceedAttack] Core heals 30 HP\nJP :\n[OnSucceedAttack] 本体の体力を30回復"
+  },
+  {
+    "key": "855605-levelList$[0].name",
+    "original": "단절의 벽",
+    "context": "EN :\nWall Of Separation\nJP :\n断絶の壁"
+  },
+  {
+    "key": "855605-levelList$[0].desc",
+    "original": "생존한 장미 유닛 당 위력 +2\n생존한 장미가 없으면 다음 턴에 취약 2를 얻음",
+    "context": "EN :\nPower +2 for each surviving Rose\nIf there are no surviving Roses, Self-apply 2 Fragile\nJP :\n生存している薔薇ユニット1つにつき威力 +2\n生存している薔薇がなければ次のターンに脆弱 2を得る"
+  },
+  {
+    "key": "855605-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 본체의 체력 30 회복",
+    "context": "EN :\n[OnSucceedAttack] Core heals 30 HP\nJP :\n[OnSucceedAttack] 本体の体力を30回復"
+  },
+  {
+    "key": "855606-levelList$[0].name",
+    "original": "영원을 바라며",
+    "context": "EN :\nWishing for Eternity\nJP :\n永遠を望みつ"
+  },
+  {
+    "key": "855606-levelList$[0].desc",
+    "original": "[StartBattle] 다음 턴에 무작위 장미 1개에게 공격 위력 증가 1 부여\n보호막이 있는동안 피격 시 공격자에게 침잠 1 부여",
+    "context": "EN :\n[StartBattle] Apply 1 Attack Power Up to 1 random Rose next turn\nIf attacked while Shielded, inflict 1 Sinking on the attacker\nJP :\n[StartBattle] 次のターンにランダムな薔薇1つに攻撃威力増加1を付与\nバリアがある間、被ダメージ時に攻撃者へ沈潜 1を付与"
+  },
+  {
+    "key": "855607-levelList$[0].name",
+    "original": "함께 이 곳에서",
+    "context": "EN :\nHere, With You\nJP :\n共に此処で"
+  },
+  {
+    "key": "855607-levelList$[0].desc",
+    "original": "[StartBattle] 다음 턴에 무작위 장미 1개에게 수비 위력 증가 1 부여\n보호막이 있는동안 피격 시 공격자에게 침잠 1 부여",
+    "context": "EN :\n[StartBattle] Apply 1 Defense Power Up to 1 random Rose next turn\nIf attacked while Shielded, inflict 1 Sinking on the attacker\nJP :\n[StartBattle] 次のターンにランダムな薔薇1つに守備威力増加1を付与\nバリアがある間、被ダメージ時に攻撃者へ沈潜 1を付与"
+  },
+  {
+    "key": "856401-levelList$[0].name",
+    "original": "타오르는 분노",
+    "context": "EN :\nBurning Wrath\nJP :\n燃え上がる憤怒"
+  },
+  {
+    "key": "856401-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 화상 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Burn\nJP :\n[OnSucceedAttack] 火傷 2を付与"
+  },
+  {
+    "key": "856401-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 화상 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Burn\nJP :\n[OnSucceedAttack] 火傷 2を付与"
+  },
+  {
+    "key": "856401-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 화상 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Burn\nJP :\n[OnSucceedAttack] 火傷 2を付与"
+  },
+  {
+    "key": "856402-levelList$[0].name",
+    "original": "흩날리는 분노",
+    "context": "EN :\nScattering Wrath\nJP :\n舞い散る憤怒"
+  },
+  {
+    "key": "856402-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 화상 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Burn Count\nJP :\n[OnSucceedAttack] 火傷 回数が2増加"
+  },
+  {
+    "key": "856402-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 화상 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Burn Count\nJP :\n[OnSucceedAttack] 火傷 回数が2増加"
+  },
+  {
+    "key": "856501-levelList$[0].name",
+    "original": "다가오는 색욕",
+    "context": "EN :\nApproaching Lust\nJP :\n近寄る色欲"
+  },
+  {
+    "key": "856501-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "856501-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 피해량의 50%만큼 흐트러짐 회복",
+    "context": "EN :\n[OnSucceedAttack] Lower user’s Stagger Threshold by 50% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の50%精神力を回復"
+  },
+  {
+    "key": "856501-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "856501-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 피해량의 50%만큼 흐트러짐 회복",
+    "context": "EN :\n[OnSucceedAttack] Lower user’s Stagger Threshold by 50% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の50%精神力を回復"
+  },
+  {
+    "key": "856501-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "856501-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 피해량의 50%만큼 흐트러짐 회복",
+    "context": "EN :\n[OnSucceedAttack] Lower user’s Stagger Threshold by 50% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の50%精神力を回復"
+  },
+  {
+    "key": "856502-levelList$[0].name",
+    "original": "파고드는 색욕",
+    "context": "EN :\nBurrowing Lust\nJP :\n食い込む色欲"
+  },
+  {
+    "key": "856502-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が2増加"
+  },
+  {
+    "key": "856502-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が2増加"
+  },
+  {
+    "key": "856502-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が2増加"
+  },
+  {
+    "key": "856601-levelList$[0].name",
+    "original": "굳어진 나태",
+    "context": "EN :\nPetrified Sloth\nJP :\n固まった怠惰"
+  },
+  {
+    "key": "856601-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 8 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 8 Tremor\nJP :\n[OnSucceedAttack] 振動 8を付与"
+  },
+  {
+    "key": "856602-levelList$[0].name",
+    "original": "완고한 나태",
+    "context": "EN :\nStubborn Sloth\nJP :\n頑固な怠惰"
+  },
+  {
+    "key": "856602-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Tremor Count\nJP :\n[OnSucceedAttack] 振動 回数が2増加"
+  },
+  {
+    "key": "856602-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttackHead] Trigger Tremor Burst\nJP :\n[OnSucceedAttackHead] 振動爆発"
+  },
+  {
+    "key": "856603-levelList$[0].name",
+    "original": "잠든 나태",
+    "context": "EN :\nSlumbering Sloth\nJP :\n眠った怠惰"
+  },
+  {
+    "key": "856603-levelList$[0].desc",
+    "original": "보호막이 있는동안 피격 시 자신과 대상에게 진동 폭발",
+    "context": "EN :\nIf attacked while Shielded, trigger Tremor Burst on self and the attacker\nJP :\nバリアがある間、被ダメージ時に自分と対象に振動爆発"
+  },
+  {
+    "key": "856701-levelList$[0].name",
+    "original": "게걸스런 탐식",
+    "context": "EN :\nVoracious Gluttony\nJP :\n意地汚い暴食"
+  },
+  {
+    "key": "856701-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Rupture\nJP :\n[OnSucceedAttack] 破裂 5を付与"
+  },
+  {
+    "key": "856702-levelList$[0].name",
+    "original": "무성한 탐식",
+    "context": "EN :\nPrevalent Gluttony\nJP :\n旺盛な暴食"
+  },
+  {
+    "key": "856702-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 파열 횟수 4 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +4 Rupture Count\nJP :\n[OnSucceedAttack] 破裂 回数が4増加"
+  },
+  {
+    "key": "856703-levelList$[0].name",
+    "original": "쉼 없는 탐식",
+    "context": "EN :\nRestless Gluttony\nJP :\n休みない暴食"
+  },
+  {
+    "key": "856703-levelList$[0].desc",
+    "original": "[WhenUse] 대상에게 파열 이 있으면 회복량 +50%",
+    "context": "EN :\n[WhenUse] If target has Rupture, boost HP healing by +50%\nJP :\n[WhenUse] 対象に破裂 がある場合、回復量 +50%"
+  },
+  {
+    "key": "856703-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 25%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 25% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の25%分体力を回復"
+  },
+  {
+    "key": "856703-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 25%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 25% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の25%分体力を回復"
+  },
+  {
+    "key": "856703-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 25%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 25% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の25%分体力を回復"
+  },
+  {
+    "key": "856703-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 25%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 25% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の25%分体力を回復"
+  },
+  {
+    "key": "856801-levelList$[0].name",
+    "original": "넘치는 우울",
+    "context": "EN :\nOverflowing Gloom\nJP :\n溢れる憂鬱"
+  },
+  {
+    "key": "856801-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 6 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 6 Sinking\nJP :\n[OnSucceedAttack] 沈潜 6を付与"
+  },
+  {
+    "key": "856802-levelList$[0].name",
+    "original": "차오르는 우울",
+    "context": "EN :\nRising Gloom\nJP :\n満ちゆく憂鬱"
+  },
+  {
+    "key": "856802-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が3増加"
+  },
+  {
+    "key": "856802-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が3増加"
+  },
+  {
+    "key": "856803-levelList$[0].name",
+    "original": "감싼 우울",
+    "context": "EN :\nEmbracing Gloom\nJP :\n包み込む憂鬱"
+  },
+  {
+    "key": "856803-levelList$[0].desc",
+    "original": "보호막이 있는동안 피격 시 자신과 대상에게 침잠 횟수 1 증가",
+    "context": "EN :\nIf attacked while Shielded, inflict +1 Sinking Count on self and the attacker\nJP :\nバリアがある間、被ダメージ時に自分と対象の沈潜 回数を1増加"
+  },
+  {
+    "key": "856901-levelList$[0].name",
+    "original": "내뱉은 오만",
+    "context": "EN :\nSpouting Pride\nJP :\n吐き捨てる傲慢"
+  },
+  {
+    "key": "856901-levelList$[0].desc",
+    "original": "[WhenUse] 모든 아군에게 호흡 3 부여",
+    "context": "EN :\n[WhenUse] Apply 3 Poise to all allies\nJP :\n[WhenUse] 全味方へ呼吸 3を付与"
+  },
+  {
+    "key": "856902-levelList$[0].name",
+    "original": "치켜든 오만",
+    "context": "EN :\nErect Pride\nJP :\nもたげた傲慢"
+  },
+  {
+    "key": "856902-levelList$[0].desc",
+    "original": "[WhenUse] 모든 아군의 호흡 횟수 2 증가",
+    "context": "EN :\n[WhenUse] All allies gain +2 Poise Count\nJP :\n[WhenUse] 全味方の呼吸 回数が2増加"
+  },
+  {
+    "key": "856902-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 호흡 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Poise Count\nJP :\n[OnSucceedAttack] 自分の呼吸 回数が1増加"
+  },
+  {
+    "key": "856902-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 호흡 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Poise Count\nJP :\n[OnSucceedAttack] 自分の呼吸 回数が1増加"
+  },
+  {
+    "key": "856903-levelList$[0].name",
+    "original": "날 선 오만",
+    "context": "EN :\nTouchy Pride\nJP :\n尖った傲慢"
+  },
+  {
+    "key": "856903-levelList$[0].desc",
+    "original": "자신의 호흡 이 5 이상일 때 코인 위력 +3",
+    "context": "EN :\nAt 5+ Poise, Coin Power +3\nJP :\n自分の呼吸 が5以上のとき、コイン威力 +3"
+  },
+  {
+    "key": "857001-levelList$[0].name",
+    "original": "쌓이는 질투",
+    "context": "EN :\nHeaping Envy\nJP :\n積もる嫉妬"
+  },
+  {
+    "key": "857001-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 충전 횟수 3 증가\n[DefeatDuel] 자신의 충전 횟수 3 소모",
+    "context": "EN :\n[WhenUse] Gain +3 Charge Count\n[DefeatDuel] Spend 3 Charge Count\nJP :\n[WhenUse] 自分の充電 回数3が増加\n[DefeatDuel] 自分の充電 回数3を消耗"
+  },
+  {
+    "key": "857001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 충전 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Charge Count\nJP :\n[OnSucceedAttack] 自分の充電 回数が1増加"
+  },
+  {
+    "key": "857001-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 충전 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Charge Count\nJP :\n[OnSucceedAttack] 自分の充電 回数が1増加"
+  },
+  {
+    "key": "857002-levelList$[0].name",
+    "original": "뻗어가는 질투",
+    "context": "EN :\nSpreading Envy\nJP :\n伸びゆく嫉妬"
+  },
+  {
+    "key": "857002-levelList$[0].desc",
+    "original": "[WhenUse] 충전 횟수를 10 소모하여 코인 위력 +4",
+    "context": "EN :\n[WhenUse] Spend 10 Charge to gain +4 Coin Power\nJP :\n[WhenUse] 充電 回数を10消耗し、コイン威力 +4"
+  },
+  {
+    "key": "856001-levelList$[0].name",
+    "original": "차원 이동",
+    "context": "EN :\nDimensional Leap\nJP :\n次元移動"
+  },
+  {
+    "key": "856001-levelList$[0].desc",
+    "original": "이 차원이 남아있다면, 피해량이 10% 증가",
+    "context": "EN :\nIf this Dimensional Rift remains, deal +10% damage\nJP :\nこの次元が残っているなら、ダメージ量が10%増加"
+  },
+  {
+    "key": "856101-levelList$[0].name",
+    "original": "차원 이동",
+    "context": "EN :\nDimensional Leap\nJP :\n次元移動"
+  },
+  {
+    "key": "856101-levelList$[0].desc",
+    "original": "이 차원이 남아있다면, 최대 체력이 20% 증가",
+    "context": "EN :\nIf this Dimensional Rift remains, Max HP +20%\nJP :\nこの次元が残っているなら、体力最大値が20%増加"
+  },
+  {
+    "key": "856201-levelList$[0].name",
+    "original": "차원 이동",
+    "context": "EN :\nDimensional Leap\nJP :\n次元移動"
+  },
+  {
+    "key": "856201-levelList$[0].desc",
+    "original": "이 차원이 남아있다면, 속도 1 증가",
+    "context": "EN :\nIf this Dimensional Rift remains, gain 1 Speed\nJP :\nこの次元が残っているなら、速度が1増加"
+  },
+  {
+    "key": "856301-levelList$[0].name",
+    "original": "차원 이동",
+    "context": "EN :\nDimensional Leap\nJP :\n次元移動"
+  },
+  {
+    "key": "856301-levelList$[0].desc",
+    "original": "이 차원이 남아있다면, 코인 위력 +1",
+    "context": "EN :\nIf this Dimensional Rift remains, Coin Power +1\nJP :\nこの次元が残っているなら、コイン威力 +1"
+  },
+  {
+    "key": "854406-levelList$[0].name",
+    "original": "누구도 울지 않도록",
+    "context": "EN :\nSo That No One Will Cry\nJP :\n誰も泣かぬように"
+  },
+  {
+    "key": "854406-levelList$[0].desc",
+    "original": "[EndBattle] 다시 붙여진 저주 부적 전부 소멸\n[WhenUse] 가지고 있는 <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">다시 붙여진 저주 부적</color></link></u>이 10개 이상이면, 코인 위력 -1",
+    "context": "EN :\n[EndBattle] Remove all Reattached Curse Talisman\n[WhenUse] If at 10+ <sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">Reattached Curse Talisman</color></link></u>, -1 Coin Power\nJP :\n[EndBattle] 貼り直された呪いの札を全て消滅\n[WhenUse] 保有している<sprite name=\"ReattachedCurseTag\"><color=#a16a3b><u><link=\"ReattachedCurseTag\">貼り直された呪いの札</color></link></u>が10以上なら、コイン威力 -1"
+  },
+  {
+    "key": "854406-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture next turn\nJP :\n[OnSucceedAttack] 次のターンに破裂 2を付与"
+  },
+  {
+    "key": "854406-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture next turn\nJP :\n[OnSucceedAttack] 次のターンに破裂 2を付与"
+  },
+  {
+    "key": "854406-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture next turn\nJP :\n[OnSucceedAttack] 次のターンに破裂 2を付与"
+  },
+  {
+    "key": "854406-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 파열 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture next turn\nJP :\n[OnSucceedAttack] 次のターンに破裂 2を付与"
+  },
+  {
+    "key": "854406-levelList$[0].coinlist[4].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 5を付与"
+  },
+  {
+    "key": "854406-levelList$[0].coinlist[4].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 5を付与"
+  }
+]

@@ -1,0 +1,822 @@
+[
+  {
+    "key": "0-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "0-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "0-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "0-content",
+    "original": "…네, 확인했습니다.",
+    "context": "EN :\n...Yes, I have visual confirmation.\nJP :\n…はい、確認しました。"
+  },
+  {
+    "key": "1-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "1-content",
+    "original": "밀착 경호를 담당 중인 그레고르 씨가 성공적으로 적대 세력을 격파했음을 보고드립니다.",
+    "context": "EN :\nReporting: Gregor on proximity protection has successfully neutralized the hostiles.\nJP :\n密着警護を担当中のグレゴール氏が、成功裏に敵対勢力を撃破したことを報告します。"
+  },
+  {
+    "key": "2-content",
+    "original": "아이는 바쁘게 누군가와 통화를 하고 있는 모양이야.",
+    "context": "EN :\nThe child was busy communicating with someone else on the line.\nJP :\n子供は忙しなく誰かと通話をしてるみたい。"
+  },
+  {
+    "key": "3-content",
+    "original": "그러면서도 주변을 수시로 관찰하는 걸 잊지 않고 있지.",
+    "context": "EN :\nShe did not forget to diligently observe her surroundings while doing so, of course.\nJP :\nそうしながらも周辺を随時観察することは忘れてないみたいだね。"
+  },
+  {
+    "key": "4-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "4-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "4-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "4-content",
+    "original": "로쟈, 히스클리프 씨에게 전달해 드립니다. 밀착 경호 쪽에서 상황 발생. 추가적인 적대 세력의 증원이 없는지 계속 추적 부탁드려요.",
+    "context": "EN :\nRelaying to Rodion and Heathcliff. Reporting in a situation from proximity protection. Please continue to be on guard for hostile reinforcements.\nJP :\nロージャ、ヒースクリフ氏に伝達いたします。密着警護側で事態発生。追加の敵対勢力の増援がないのか、引き続き追跡願います。"
+  },
+  {
+    "key": "5-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "5-teller",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "5-title",
+    "original": "츠바이 협회 5과",
+    "context": "EN :\nZwei Section 5\nJP :\nツヴァイ協会 5課"
+  },
+  {
+    "key": "5-content",
+    "original": "지정 보호, 확인~",
+    "context": "EN :\nThis is appointed-persons protection. Acknowledged~\nJP :\n指定保護、かくに～ん。"
+  },
+  {
+    "key": "6-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "6-teller",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "6-title",
+    "original": "츠바이 협회 5과",
+    "context": "EN :\nZwei Section 5\nJP :\nツヴァイ協会 5課"
+  },
+  {
+    "key": "6-content",
+    "original": "아우, 잠깐만! 내가 먹을 도넛은 남겨 둬야지!",
+    "context": "EN :\nUgh, hey! Don't eat all the donuts, leave some for me!\nJP :\nおっと、ちょっと待って！私が食べるドーナツは残しといてよね！"
+  },
+  {
+    "key": "7-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "7-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "7-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "7-content",
+    "original": "…식사가 더 필요하시다면 경비 청구를 해도 좋습니다.",
+    "context": "EN :\n...If you need extra provisions, you may report the costs as additional expenses.\nJP :\n…食事がより必要であれば、経費請求をしても問題ありません。"
+  },
+  {
+    "key": "8-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "8-teller",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "8-title",
+    "original": "츠바이 협회 5과",
+    "context": "EN :\nZwei Section 5\nJP :\nツヴァイ協会 5課"
+  },
+  {
+    "key": "8-content",
+    "original": "오! 진짜지? 알았어~ 끊을게!",
+    "context": "EN :\nOoh! You serious? Gotcha~ Signing off!\nJP :\nおっ！ホントに？分かった～切るね！"
+  },
+  {
+    "key": "9-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "9-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "9-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "9-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "10-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "10-content",
+    "original": "지금 한숨 쉰 건가요? 파우스트 씨?",
+    "context": "EN :\nDid you just sigh, Faust?\nJP :\n今溜め息吐きました？ファウストさん？"
+  },
+  {
+    "key": "11-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "11-content",
+    "original": "아뇨. 파우스트의 호흡이 잠시 강해졌을 뿐이랍니다.",
+    "context": "EN :\nNo. Faust merely exhaled more forcefully for a moment.\nJP :\nいいえ。ファウストの呼吸が一時的に強くなっただけです。"
+  },
+  {
+    "key": "12-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "12-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "12-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "12-content",
+    "original": "뭐라 하려는 건 아니고… 그냥, 뭔가 반응을 보이는 모습이 오랜만이라 말씀드린 거예요.",
+    "context": "EN :\nI'm not saying that there's anything wrong with that, it's just... it's been a while since you've shown a genuine reaction to anything.\nJP :\n何か文句を言おうとしたわけじゃなくて…ただ、何かしら反応を見せるのは久し振りなので申し上げたまでです。"
+  },
+  {
+    "key": "13-content",
+    "original": "아이의 곁에 있는 또 다른 아이는 살짝 키득거리면서 수첩을 꺼내 들었어.",
+    "context": "EN :\nThe other child snickered before producing a notepad.\nJP :\n子供の隣にいる別の子供は、軽くクスクス笑いながら手帳を取り出した。"
+  },
+  {
+    "key": "14-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "14-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "14-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "14-content",
+    "original": "…이런 것까지 기록할 필요는 없지 않나요, 이스마엘 씨.",
+    "context": "EN :\n...There is no need to record something like this, Ishmael.\nJP :\n…このようなことまで記録する必要はないのではありませんか、イシュメールさん。"
+  },
+  {
+    "key": "15-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "15-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "15-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "15-content",
+    "original": "지역 보호 중에 일어나는 일을 전부 관찰하고 기록하는 게 저희 일 아닌가요?",
+    "context": "EN :\nIt's our job to observe and record every event during a territory protection contract, isn't it?\nJP :\n地域保護中に起こる出来事を全て観察して記録することが、私たちの仕事じゃないんですか？"
+  },
+  {
+    "key": "16-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "16-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "16-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "16-content",
+    "original": "저는 관찰 대상이 아닙니다만…",
+    "context": "EN :\nI am not some observation target.\nJP :\n私は観察対象ではありませんが…。"
+  },
+  {
+    "key": "17-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "17-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "17-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "17-content",
+    "original": "아, 돈키호테 씨가 움직이네요.",
+    "context": "EN :\nHey, Don Quixote is on the move.\nJP :\nあ、ドンキホーテさんが動きましたね。"
+  },
+  {
+    "key": "18-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "18-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "18-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "18-content",
+    "original": "…흠.",
+    "context": "EN :\n...Hm.\nJP :\n…ふむ。"
+  },
+  {
+    "key": "19-content",
+    "original": "다른 아이가 수첩을 끄적이는 동안, 아이는 미심쩍은 듯한 숨소리를 내고선 곧바로 손에 든 단말을 이리저리 조작했어.",
+    "context": "EN :\nWhile the other child scribbled in her notepad, this child breathed warily and began to fiddle with the panel in her hands.\nJP :\n他の子供が手帳にさらさらと書き付けている間、子供は不審がりながら溜め息を吐いては\nすぐ手持ちの端末を色々と操作した。"
+  },
+  {
+    "key": "20-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "20-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "20-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "20-content",
+    "original": "싱클레어 씨, 외부에서 지역 내로 들어오는 인물 중에 수상한 자는 없었나요?",
+    "context": "EN :\nTo Sinclair. Have you noticed any suspicious individuals entering the territory?\nJP :\nシンクレア氏、外部から地域内に入ってくる人物に怪しい者はいませんでしたか？"
+  },
+  {
+    "key": "21-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "21-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "21-title",
+    "original": "츠바이 협회 6과",
+    "context": "EN :\nZwei Section 6\nJP :\nツヴァイ協会 6課"
+  },
+  {
+    "key": "21-content",
+    "original": "어… 그게.",
+    "context": "EN :\nUh... That's uh...\nJP :\nあ…それが。"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "22-content",
+    "original": "돈키호테 씨가 어딘가로 움직이고 계시는군요.",
+    "context": "EN :\nDon Quixote is advancing... somewhere.\nJP :\nドンキホーテ氏がどこかへ動いていらっしゃいますね。"
+  },
+  {
+    "key": "23-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "23-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "23-title",
+    "original": "츠바이 협회 6과",
+    "context": "EN :\nZwei Section 6\nJP :\nツヴァイ協会 6課"
+  },
+  {
+    "key": "23-content",
+    "original": "그, 그게… 의뢰인 분을 미행하는 사람들이 보인 것 같아서 쫓아가야 한다고 말씀하셨거든요.",
+    "context": "EN :\nT–that's, uh, she thought some people were tailing our client, so she said we should follow them.\nJP :\nそ、それが…依頼人の方を尾行する人々がいた気がするから、追いかけるべきだとおっしゃったんですよね。"
+  },
+  {
+    "key": "24-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "24-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "24-title",
+    "original": "츠바이 협회 6과",
+    "context": "EN :\nZwei Section 6\nJP :\nツヴァイ協会 6課"
+  },
+  {
+    "key": "24-content",
+    "original": "저도… 그러는 편이 좋다고 생각하고요. 츠바이는… 의뢰인의 방패니까요.",
+    "context": "EN :\nAnd I... agree with her. We're the Zwei, our client's shield.\nJP :\n僕も…そうした方が良いと思ってます。ツヴァイは…依頼人の盾ですから。"
+  },
+  {
+    "key": "25-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "25-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "25-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "25-content",
+    "original": "이미 고객님 쪽에서 적대 세력을 마주쳤습니다. 말씀하신 쪽은 외부 적대 세력으로 평가되는데…",
+    "context": "EN :\nThe client has already made contact with the hostiles. They appear to be forces from outside the territory...\nJP :\n既にお客様が敵対勢力と出くわしました。おっしゃった方は外部勢力と判断されますが…。"
+  },
+  {
+    "key": "26-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "26-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "26-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "26-content",
+    "original": "아, 돈키호테 씨 쪽에 누가 붙네요.",
+    "context": "EN :\nOh, someone's moving in on Don Quixote's position.\nJP :\nあ、ドンキホーテさんの方に誰かが接近していますね。"
+  },
+  {
+    "key": "27-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "27-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "27-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "27-content",
+    "original": "…싱클레어 씨는 돈키호테 씨와 빠르게 합류해서 전투를 도와주세요. 말씀드린 대로, 6과는 외부 인물을 제압하는 쪽으로 부탁드립니다.",
+    "context": "EN :\n...Sinclair, immediately move to Don Quixote's position and provide support. Section 6, follow the plan and focus on neutralizing any and all external forces.\nJP :\n…シンクレア氏はドンキホーテ氏と素早く合流して戦闘を手伝ってください。申し上げました通り、6課は外部人物を制圧する方向性でお願いします。"
+  },
+  {
+    "key": "28-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "28-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "28-title",
+    "original": "츠바이 협회 6과",
+    "context": "EN :\nZwei Section 6\nJP :\nツヴァイ協会 6課"
+  },
+  {
+    "key": "28-content",
+    "original": "헉, 벌써… 넵! 알겠습니다!",
+    "context": "EN :\nAh! That fast... Roger that!\nJP :\nはっ、もうですか…はい！分かりました！"
+  },
+  {
+    "key": "29-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "29-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "29-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "29-content",
+    "original": "…생각보다 규모가 크네요. 이번 일은.",
+    "context": "EN :\n...This turned out to be a pretty big operation, huh?\nJP :\n…思ってた以上に規模が大きいですね。今回の件は。"
+  },
+  {
+    "key": "30-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "30-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "30-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "30-content",
+    "original": "합동 작전이 그렇게 드문 일은 아니지만, 흔한 일도 아니죠.",
+    "context": "EN :\nWhile a joint operation isn't strictly uncommon, it's not quotidian, either.\nJP :\n合同作戦はそこまで稀な出来事ではありませんが、よくある出来事でもありませんしね。"
+  },
+  {
+    "key": "31-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "31-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "31-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "31-content",
+    "original": "4, 5, 6과를 전부 쓰게 된 건 그만한 일이 벌어질 만하니까. 일 겁니다.",
+    "context": "EN :\nIf sections 4, 5, and 6 are all being deployed at once, it is most likely because there will be a conflict of an equivalent scale.\nJP :\n4, 5, 6課を全て使うことになったということは、\nそれほどの出来事が起こりうるから。でしょう。"
+  },
+  {
+    "key": "32-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "32-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "32-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "32-content",
+    "original": "이를테면…",
+    "context": "EN :\nFor example...\nJP :\n例えば…。"
+  },
+  {
+    "key": "33-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "33-teller",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "33-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "33-content",
+    "original": "허, 말하자마자.",
+    "context": "EN :\nHuh, speak of the devil.\nJP :\nはぁ、噂をすれば。"
+  },
+  {
+    "key": "34-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "34-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "34-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "34-content",
+    "original": "네. 저런 일이 벌어지는 경우겠죠.",
+    "context": "EN :\nIndeed. Such occurrences would warrant it.\nJP :\nはい。あのような事件が起こる場合でしょうね。"
+  },
+  {
+    "key": "35-content",
+    "original": "두 아이는 무얼 본 걸까.",
+    "context": "EN :\nWhat could the two children have seen?\nJP :\n二人の子供は何を見たのだろうか。"
+  },
+  {
+    "key": "36-content",
+    "original": "아마도… 고객님, 혹은 의뢰인이라고 불리는 그자에게 달라붙는 수많은 적대 세력을 본 거겠지.",
+    "context": "EN :\nIt must be the horde of hostile forces ganging up on the customer, or \"client\" as they call them.\nJP :\nきっと…お客様、あるいは依頼人と呼ばれるその者に引っ付いている\n沢山の敵対勢力を見たんだろうね。"
+  },
+  {
+    "key": "37-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "37-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "37-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "37-content",
+    "original": "적대 세력의 과잉 증대를 확인했습니다. 파우스트는 지금부터 근접 보호를 수행합니다.",
+    "context": "EN :\nI have visual confirmation of overwhelming hostile forces converging in the area. Faust, commencing on-the-ground protection.\nJP :\n敵対勢力の過剰増大を確認しました。ファウストは今より近接保護を遂行します。"
+  },
+  {
+    "key": "38-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "38-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "38-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "38-content",
+    "original": "네, 이후의 보고는 이스마엘 씨 쪽으로 부탁드립니다.",
+    "context": "EN :\nUnderstood. Please direct further reports to Ishmael's side.\nJP :\nはい、以降の報告はイシュメールさんの方からお願いします。"
+  },
+  {
+    "key": "39-content",
+    "original": "전화를 끊고, 아이는 츠바이의 코트를 몸에 둘렀어.",
+    "context": "EN :\nDisconnecting from the comms, the child threw on the Zwei's coat.\nJP :\n電話を切って、子供はツヴァイのコートを身にまとった。"
+  },
+  {
+    "key": "40-content",
+    "original": "도착한 곳은 이미 수많은 적이 깔려있는 골목이었지.",
+    "context": "EN :\nWhen she arrived, every corner of the alleway was already filled with enemies.\nJP :\n到着した場所は、既に沢山の敵陣が敷かれた路地だった。"
+  },
+  {
+    "key": "41-content",
+    "original": "삑.",
+    "context": "EN :\n*Beep*\nJP :\nピッ。"
+  },
+  {
+    "key": "42-teller",
+    "original": "수상한 거래자",
+    "context": "EN :\nShady Dealer\nJP :\n怪しい取引人"
+  },
+  {
+    "key": "42-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "42-content",
+    "original": "너는… 츠바이 인가?",
+    "context": "EN :\nAre you... from the Zwei?\nJP :\nお前は…ツヴァイか？"
+  },
+  {
+    "key": "43-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "43-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "43-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "43-content",
+    "original": "네, 고객의 방패죠.",
+    "context": "EN :\nCorrect. We are the shield of our client.\nJP :\nはい、顧客の盾です。"
+  },
+  {
+    "key": "44-teller",
+    "original": "수상한 거래자",
+    "context": "EN :\nShady Dealer\nJP :\n怪しい取引人"
+  },
+  {
+    "key": "44-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "44-content",
+    "original": "여기저기서 많이도 튀어나오는군… 조져!",
+    "context": "EN :\nWhere the hell are you Zwei bastards even coming from... Mess 'er up!\nJP :\nあっちこっちからたんまり飛び出てくるなぁ…殺っちまえ！"
+  },
+  {
+    "key": "45-content",
+    "original": "아이는 익숙한 듯 츠바이핸더를 쥐고서…",
+    "context": "EN :\nThe child took up her Zweihänder handily, as though it was an extension of her arm...\nJP :\n子供は慣れた風にツヴァイヘンダーを握り…。"
+  },
+  {
+    "key": "46-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "46-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "46-title",
+    "original": "츠바이 협회 4과",
+    "context": "EN :\nZwei Section 4\nJP :\nツヴァイ協会 4課"
+  },
+  {
+    "key": "46-content",
+    "original": "파우스트, 보호 임무를 시작합니다.",
+    "context": "EN :\nFaust, moving to protect.\nJP :\nファウスト、保護任務を開始します。"
+  },
+  {
+    "key": "47-content",
+    "original": "대수롭지 않은 듯, 건조하게 말을 내뱉으며 달려 나갔어.",
+    "context": "EN :\n...and muttered impassively before charging forward.\nJP :\n大したことないように、乾いた一言を吐き出して駆けだした。"
+  }
+]

@@ -1,0 +1,767 @@
+[
+  {
+    "key": "0-content",
+    "original": "<color=#cc2424>아니, 그렇게 우습다는 듯이 놀리지 말아라.</color>",
+    "context": "EN :\n<color=#cc2424>Nay, tease me not, jest me not as though my venture is one for fools.</color>\nJP :\n<color=#cc2424>いや、そんなに馬鹿にしたようにからかうでない。</color>"
+  },
+  {
+    "key": "1-content",
+    "original": "<color=#cc2424>그건 네가 모험이라는 것을 잘 몰라서 하는 소리라고 하지 않았느냐.</color>",
+    "context": "EN :\n<color=#cc2424>I have already explained that you do not know of true adventure.</color>\nJP :\n<color=#cc2424> それはお前が冒険というものを\nよく知らないから言ったのではなかったか。</color>"
+  },
+  {
+    "key": "2-content",
+    "original": "<color=#cc2424>우리는 지금부터 유례가 없는 치열한 고행을 치르러 갈 것이다.</color>",
+    "context": "EN :\n<color=#cc2424>We shall soon walk a path of suffering, its intensity unprecedented and monumental.</color>\nJP :\n<color=#cc2424>我々はこれから未曽有の\n熾烈な苦行を行いに征くのだ。</color>"
+  },
+  {
+    "key": "3-content",
+    "original": "<color=#cc2424>네 눈에는 보이지 않느냐, 위대한 모험의 문이 우리에게 활짝 열려 있다.</color>",
+    "context": "EN :\n<color=#cc2424>Do you not see the grand gate of adventure risen, unlatched before us?</color>\nJP :\n<color=#cc2424>お前の目には見えぬのか、\n偉大なる冒険の門が我々に向かって大きく開かれている。</color>"
+  },
+  {
+    "key": "4-content",
+    "original": "<color=#cc2424>그러니 잔말 말고 어서 채비를 갖추고 출발하자.</color>",
+    "context": "EN :\n<color=#cc2424>Thus, silence your prattling and resume the preparations; let us leave posthaste.</color>\nJP :\n<color=#cc2424>だからつべこべ言わずに、\nすぐに支度を整えて出発しようではないか。</color>"
+  },
+  {
+    "key": "5-content",
+    "original": "<color=#ffef23>…….</color>",
+    "context": "EN :\n<color=#ffef23>…….</color>\nJP :\n<color=#ffef23>……。</color>"
+  },
+  {
+    "key": "6-content",
+    "original": "<color=#ffef23>하지만 조금 이상하다는 생각은 드는군.</color>",
+    "context": "EN :\n<color=#ffef23>... This is quite odd, however.</color>\nJP :\n<color=#ffef23>しかし、少しおかしい気がするな。</color>"
+  },
+  {
+    "key": "7-content",
+    "original": "<color=#ffef23>……. </color>",
+    "context": "EN :\n<color=#ffef23>……. </color>\nJP :\n<color=#ffef23>……。</color>"
+  },
+  {
+    "key": "8-content",
+    "original": "<color=#ffef23>로시난테가 언제부터 말을 할 수 있었단 말인가.</color>",
+    "context": "EN :\n<color=#ffef23>Since when was Rocinante given the gift of speech?</color>\nJP :\n<color=#ffef23>ロシナンテはいつから\n話せるようになったのであろうか。</color>"
+  },
+  {
+    "key": "9-place",
+    "original": "라만차랜드 2구역",
+    "context": "EN :\nLa Manchaland, Area 2\nJP :\nラ・マンチャランド 第2区域"
+  },
+  {
+    "key": "9-content",
+    "original": "다소 찝찝하긴 했지만, 산손이 열어준 길을 통해 우리는 다음 구역으로 향할 수 있었다. ",
+    "context": "EN :\nWhile we had our reservations, we took the path Sansón opened for us and made it to the next Area.\nJP :\n多少スッキリしなかったが、サンソンが開けてくれた道を通って\n我々は次の区域へ向かうことができた。"
+  },
+  {
+    "key": "10-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "10-content",
+    "original": "걱정이네요. 2구역은 시춘 씨를 포함해서 다른 해결사 분들이 갔다고 들었는데 모두 무사할지…",
+    "context": "EN :\nI'm worried about Xichun and the other Fixers. They were assigned Area 2, right? I hope they're alright...\nJP :\n心配ですね。区域2にはシ－チュンさんを含めた他の\nフィクサーたちが行ったと聞いたんですけど、皆無事でしょうか…。"
+  },
+  {
+    "key": "11-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "11-content",
+    "original": "시춘은 괜찮을 거예요. 아, 이거랑 관련해서 재미있는 농담이 하나 있는데…\r",
+    "context": "EN :\nXichun will be okay, I'm sure. Oh, that reminds me... I have a funny family in-joke to share...\nJP :\nシーチュンは大丈夫でしょう。\nあっ、これに関する面白い冗談が一つあるんですけど…。"
+  },
+  {
+    "key": "12-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "12-content",
+    "original": "오호, 뭔데?\r",
+    "context": "EN :\nOho, let's hear it.\nJP :\nほぉ、何だ？"
+  },
+  {
+    "key": "13-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "13-content",
+    "original": "저희 집에선 13살까지 혼자 살아남은 형제들은 외곽 한복판에 던져놓아도 살 수 있을 거라는 말이 있거든요. 후후… ",
+    "context": "EN :\nIt goes like this. Any of our siblings who managed to survive on their own up to the age of thirteen in our household will probably be a-okay even if they were to be tossed out to the middle of the Outskirts! Hehe...\nJP :\nうちの家では、13歳まで1人で生き残った兄弟たちは、\n外郭の真ん中に投げ込まれても生きていけるっていう話があるんですよ。\nふふ……。"
+  },
+  {
+    "key": "14-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "14-content",
+    "original": "…으흠, 조금 서둘러야 하지 않겠어? 여기도 1구역보다 더하면 더 했지 덜하진 않을 거라고. 혹시라도 눈 앞에서 동생이 잘못되기라도 하면…",
+    "context": "EN :\n... Ahm. Okay, we should hurry. I bet Area 2's just as bad... if not worse, than Area 1. If something bad were to happen to your sister in front your eyes—\nJP :\n…えーと、少し急いだ方がいいんじゃないか？\nここも区域1より酷いっちゃ酷そうだし、むしろマシにはならないだろ。\nもし万が一、目の前で妹に何かあったら…。"
+  },
+  {
+    "key": "15-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "15-content",
+    "original": "그럴 땐, 유해라도 수습해서 언젠가 집에 돌아가면 잘 안치해 줘야 겠지요.",
+    "context": "EN :\nThen I will gather her remains and lay them in her final resting place when I return home, whenever that may be.\nJP :\nそのときは、遺体だけでも収集して\nいつか家に帰ったらきちんと安置してあげなきゃですね。"
+  },
+  {
+    "key": "16-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "16-content",
+    "original": "시춘도 제게 똑같이 해줬을 거예요. \r",
+    "context": "EN :\nXichun would have done the same for me.\nJP :\nシーチュンも僕に同じことをしてくれたでしょうね。"
+  },
+  {
+    "key": "17-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "17-content",
+    "original": "…그러냐.\r",
+    "context": "EN :\n... Yeah?\nJP :\n…そっか。"
+  },
+  {
+    "key": "18-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "18-content",
+    "original": "어~ 그러고보니 좀… 춥지 않아? 다들?\r",
+    "context": "EN :\n... Anyways~ Whew! Ain't this place a bit drafty, fellas?\nJP :\nあ～そういえばな、少し…寒くないか？みんなは？"
+  },
+  {
+    "key": "19-content",
+    "original": "…이곳은 1구역과는 풍겨져 오는 느낌이 다르다.",
+    "context": "EN :\nThis place feels very different from Area 1.\nJP :\n…ここは区域1とは漂ってくる雰囲気が違う。"
+  },
+  {
+    "key": "20-content",
+    "original": "한껏 화려함으로 치장하고자 노력했던 직전의 장소와는 다르게…\r",
+    "context": "EN :\nUnlike Area 1, which was extremely gaudy and overtly decorated...\nJP :\n精一杯華やかに飾ろうと努力していた直前の場所とは違い…。"
+  },
+  {
+    "key": "21-content",
+    "original": "음울한 침묵이 잔뜩 깔린, 스산한 땅인 것 같다.\r",
+    "context": "EN :\n... this place is teeming with ominous, depressing silence.\nJP :\n陰鬱な沈黙がたっぷりと漂う、荒涼とした地のように感じる。"
+  },
+  {
+    "key": "22-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "22-content",
+    "original": "여긴… 조금 으스스하달까… 적막이 감도네요. 불길하게… \r",
+    "context": "EN :\nYeah. This place is... how should I put it... It's eerily quiet. Almost spooky, even...\nJP :\nここ…少し不気味というか…。\n静寂が漂ってますね。不吉にも…。"
+  },
+  {
+    "key": "23-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "23-content",
+    "original": "좋은 의미의 적막이면 좋겠는데~\r",
+    "context": "EN :\nWelp, I hope this is the good kind of quiet~\nJP :\n良い意味での静寂ならいいんだけど～。"
+  },
+  {
+    "key": "24-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "24-content",
+    "original": "이곳에 먼저 온 해결사들이 미리 다 쓱싹해줘서 마주칠 혈귀들이 아무도 없다거나…\r",
+    "context": "EN :\nY'know, what if it's just quiet down here because the Fixers who made it here first already took out all the Bloodfiends?\nJP :\nここに先に来たフィクサーたちが、あらかた全部\n片付けてくれて血鬼に遭遇しないとか…。"
+  },
+  {
+    "key": "25-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "25-content",
+    "original": "<누가 살아남은 건지도 모르니까 답답하긴 하네.>\r",
+    "context": "EN :\n<It is pretty suffocating to just sit here, not knowing who won the fight... or if there even was a fight.>\nJP :\n<誰が生き残ったのかも分からないから、もどかしくはあるね。>"
+  },
+  {
+    "key": "26-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "26-content",
+    "original": "우리는 그 전단지 속 사람 중 하나가 되지 않길 빌자고…\r",
+    "context": "EN :\nLet's try not to get added to that wall of missing persons posters...\nJP :\n俺たちもあの張り紙に載ってた人の\n仲間入りしないように祈っとこうな…。"
+  },
+  {
+    "key": "27-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "27-content",
+    "original": "라만차랜드가 닫히기까지는 몇 시간 정도 남았죠?\r",
+    "context": "EN :\nHow much time do we have until La Manchaland closes?\n\nJP :\nラ・マンチャランドが閉まるまで、何時間くらい残っていますか？"
+  },
+  {
+    "key": "28-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "28-content",
+    "original": "다섯 시간 가량 남았소. \r",
+    "context": "EN :\nFive hours, by my estimation.\nJP :\n五時間ほど残れり。"
+  },
+  {
+    "key": "29-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "29-content",
+    "original": "좋아, 좋아. 이 정도면 순탄하네. 이거 설마 우리가 제일 빠르게 장치를 누른 팀인 거 아니야?\r",
+    "context": "EN :\nNice, nice. I'd say we're moving at a decent pace. Hey, what if we're the first group that managed to activate their Area's device?\nJP :\nいーねいーね。この調子なら順調だね。\nもしかして私たちが1番早く装置を押したチームなんじゃない？"
+  },
+  {
+    "key": "30-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "30-content",
+    "original": "비록 이탈자는 발생했지만요…\r",
+    "context": "EN :\nWell, we did suffer some losses...\nJP :\n脱落者は出ましたけどね…。"
+  },
+  {
+    "key": "31-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "31-content",
+    "original": "이탈자라니. 배신자에겐 과분한 호칭이다.\r",
+    "context": "EN :\nLosses? I believe we've only pruned a traitor in our midst.\nJP :\n脱落者だって？裏切り者には過ぎた称号だ。"
+  },
+  {
+    "key": "32-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "32-content",
+    "original": "허나 신경 쓰이지 않을 수가 없군. \r",
+    "context": "EN :\nYet... aught sits ill at the back of my mind still.\nJP :\nされど案ぜでいられず。"
+  },
+  {
+    "key": "33-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "33-content",
+    "original": "우리가 1구역을 통과한 것이 아니라… 그 요술장이 복장을 한 자로부터 통과를 당한 것만 같다는 생각에…",
+    "context": "EN :\nIt was not as though we passed the first Area by our own will and effort; it was the command of the man in his magician's outfit by which we were 'made' to pass through.\nJP :\n我々が区域1を通過せず…。かの奇術師の\n仮装せる者より通過せられん気がして…。"
+  },
+  {
+    "key": "34-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "34-content",
+    "original": "뭐… 좀 특이한 혈귀 같긴 했어.\r",
+    "context": "EN :\nWell... he was a pretty weird Bloodfiend.\nJP :\nまあ…ちょっと変わった血鬼だったね。"
+  },
+  {
+    "key": "35-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "35-content",
+    "original": "마, 맞아요. 그리고 어딘가 익숙한 느낌이…\r",
+    "context": "EN :\nR-right? And... I couldn't quite tell what it was, but there was something familiar about him...\nJP :\nそ、そうですね。それにどこか見覚えのある感じが…。"
+  },
+  {
+    "key": "36-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "36-content",
+    "original": "그랬나? 약간 예술파 같다는 점이 료슈랑 비슷하지 않나 생각하긴 했는데. \r",
+    "context": "EN :\nSomething familiar? Hm, I guess he did seem kinda similar to Ryōshū, in that artsy-fartsy way.\nJP :\nそうだった？ちょっと芸術派っぽいところが良秀と\n似てるんじゃないかとは思ったけど。"
+  },
+  {
+    "key": "37-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "37-content",
+    "original": "…….\r",
+    "context": "EN :\n…….\n\nJP :\n……。"
+  },
+  {
+    "key": "38-content",
+    "original": "료슈는 대답없이 담배 연기를 길게 뱉어내며 괴상한 모양을 만들어 냈다.\r",
+    "context": "EN :\nRyōshū quietly let out a cloud of smoke. It briefly lingered midair before turning into a bizarre shape.\nJP :\n良秀は無言で煙草の煙を長く吐き出し、奇妙な形状を作り出した。"
+  },
+  {
+    "key": "39-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "39-content",
+    "original": "귀, 귀엽네요… 고양이인가요?\r",
+    "context": "EN :\nT-that's cute... is that a cat-shaped plume?\nJP :\nか、可愛いですね…猫ですか？"
+  },
+  {
+    "key": "40-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "40-content",
+    "original": "후… 질질 짜고 있는 네놈의 모습이다.\r",
+    "context": "EN :\nHoo... It's you. Weeping and sniveling.\nJP :\nふぅ…しくしく泣いているお前の姿だ。"
+  },
+  {
+    "key": "41-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "41-content",
+    "original": "통역을 잘못할 경우 벌어질 모습을 표현했지.  ",
+    "context": "EN :\nAn expression of the consequences, should you mistranslate me in the future.\nJP :\n通訳を誤った場合に起こる様子を表現したのさ。"
+  },
+  {
+    "key": "42-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "42-content",
+    "original": "<…….>\r",
+    "context": "EN :\n<…….>\n\nJP :\n<……。>"
+  },
+  {
+    "key": "43-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "43-content",
+    "original": "오…? 여기 좀 특이한데.\r",
+    "context": "EN :\nOoh...? Huh, this place is pretty neat.\nJP :\nおっ…？ここちょっと変だな。"
+  },
+  {
+    "key": "44-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "44-content",
+    "original": "<오오, 뭔데?>",
+    "context": "EN :\n<Ooh, what is it?>\nJP :\n<おぉ、何かあった？>"
+  },
+  {
+    "key": "45-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "45-content",
+    "original": "이것 좀 봐. 지도를 보니까 의무실 이라는 곳도 있는 모양이야. \r",
+    "context": "EN :\nLook here, on the map. They have an infirmary.\nJP :\n見てくれよ。地図を見るに、医務室って場所もあるみたいだ。"
+  },
+  {
+    "key": "46-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "46-content",
+    "original": "어트랙션을 타다가 다친 분들, 너무 놀란 분들, 혹은 피가 긴급하게 필요한 혈귀 분들은 이곳에서 도움을 받으세…",
+    "context": "EN :\n'Guests injured on a ride, guests who need a moment to calm down, or any Bloodfiends who are in urgent need of blood, you can find help here!'...\nJP :\nアトラクションに乗って怪我をした方、驚き過ぎた方、または\n緊急で血液が必要な血鬼の方々は、ここで助けを受けてくださ…。"
+  },
+  {
+    "key": "47-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "47-content",
+    "original": "허, 친절한 문구구만…\r",
+    "context": "EN :\nHuh, ain't that awfully nice of them.\nJP :\nはっ、親切な文句なこった…。"
+  },
+  {
+    "key": "48-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "48-content",
+    "original": "라만차랜드는… 혈귀와 인간들이 행복하게 살 수 있는 공간을 위해 만들어졌다고 했었죠. ",
+    "context": "EN :\nThey said that La Manchaland was intended to be where Bloodfiends and humans can peacefully, happily coexist.\nJP :\nラ・マンチャランドは…血鬼と人間が幸せに\n暮らせる空間のために作られたと言っていましたよね。"
+  },
+  {
+    "key": "49-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "49-content",
+    "original": "이 지도 설명만 보면… 그래도 옛날에는 어쩌면… 그 뜻대로 되었을지도 모르겠다는 생각이 드네요. \r",
+    "context": "EN :\nMaybe... a long, long time ago... it really did work for a while. At least according to the descriptions on this map.\nJP :\nこの地図の説明だけ見ると…それでも昔はもしかしたら…\nその意図通りになっていたかもしれない気がしますね。"
+  },
+  {
+    "key": "50-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "50-content",
+    "original": "그게 무슨 소리요, 제대로 되었을리가 없지 않은가! ",
+    "context": "EN :\nNonsense! 'Twould be an impossible task, most evidently!\nJP :\n何を言っているのだ、上手く行くわけ無いではないか！"
+  },
+  {
+    "key": "51-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "51-content",
+    "original": "이런 건 돈키호테의 사전엔 있을 수 없는 모험이요. 악인들과 공생하여 행복하게 살아가는 장소라니…",
+    "context": "EN :\nAn adventure such as this cannot possibly exist in any tale of Don Quixote. A place to coexist with villains...? Pah, absurd...\nJP :\nこれしきドンキホーテの辞書にはあり得ない冒険である。\n悪人たちと共生して幸せに暮らす場所だなぞ…。"
+  },
+  {
+    "key": "52-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "52-content",
+    "original": "흐음, 그러고보니 지크프리트 님이 해결했던 사건 하나가 생각나는군.",
+    "context": "EN :\nHmm, this subject doth remind me of a case Lord Siegfried had once resolved.\nJP :\nふむ、そういえばジークフリート様が\n解決したとある事件を思い出したのである。"
+  },
+  {
+    "key": "53-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "53-content",
+    "original": "그것은 다리 위에서 벌였던 전투였지… 그때도 악인들이 아주 간악한 제안을 했다고 하네.",
+    "context": "EN :\nA battle atop a bridge, it was! Back then, the villains suggested a compromise most devious, not unlike the one suggested by the wicked ones who inhabit this place.\nJP :\nそれは橋の上で繰り広げられた戦闘だったのだ…\nそのときも悪人たちが非常に狡猾な提案をしたとのことである。"
+  },
+  {
+    "key": "54-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "54-content",
+    "original": "지크프리트 님을 돈과 권력으로 압박하며, 자신들과 한 편에 서라고 꼬드겼다지!",
+    "context": "EN :\nThey sought to seduce him with promises of riches and power, to have him stand with them!\nJP :\nジークフリート様をお金と権力で圧迫し、\n自分たちの仲間になるように誘惑したのだ！"
+  },
+  {
+    "key": "55-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "55-content",
+    "original": "하지만 우리 지크프리트 님은 결코 이에 현혹되시지 않았네! ",
+    "context": "EN :\nYet Lord Siegfried refused to bend his knee!\nJP :\nしかし我らがジークフリート様は決して\nこれに惑わされなかったのである！"
+  },
+  {
+    "key": "56-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "56-content",
+    "original": "가증스러운 제안을 내뱉는 악인의 얼굴에 슈퍼 펀치를 날려주면서…! ",
+    "context": "EN :\nHe answered their suggestion with but a mighty socking against the villain's jaw...!\nJP :\n憎たらしい提案を吐き出す悪人の顔に\nスゥーパァーパンチをお見舞いしながら…！"
+  },
+  {
+    "key": "57-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "57-content",
+    "original": "어, 그 1시간짜리로 편집된 영상이요? 그거 딱 봐도 짜인 대본…",
+    "context": "EN :\nOh, that one-hour edit of the 'battle'? Wasn't it pretty obvious that it was staged—\nJP :\nえっ、あの1時間分に編集された映像ですか？\nあれ、どう見ても仕込みありの台本―"
+  },
+  {
+    "key": "58-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "58-content",
+    "original": "이렇게 말씀하셨지!",
+    "context": "EN :\n... and declared thusly!\nJP :\nこうおっしゃったのである！"
+  },
+  {
+    "key": "59-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "59-content",
+    "original": "‘감히 이 지크프리트를 고작 이 더러운 돈으로 끌어들일 수 있다고 생각했는가!’",
+    "context": "EN :\n'Thou shan't make a purchasable product of I, Siegfried, with thy contemptible money!'\nJP :\n『よくもこのジークフリートを、\nたかがこれしきの汚い金で引き込めると思ったな！』"
+  },
+  {
+    "key": "60-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "60-content",
+    "original": "그러면서 슈퍼 레이저를 그자에게 좌아아아앙… ",
+    "context": "EN :\nAND! Fired off his super special laser beam cannon at the villain! ZWAAAAAHHHH—\nJP :\nそう言いながらスゥーパァーレィザーを\nその者へに！ジジジジジジジジジ…。"
+  },
+  {
+    "key": "61-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "61-content",
+    "original": "자, 모두 여기에 집중하도록.\r",
+    "context": "EN :\nAttention, men.\nJP :\nさあ、皆ここへ集中するように。"
+  },
+  {
+    "key": "62-content",
+    "original": "…적절한 타이밍에 오티스가 돈키호테의 이야기를 끊어주었다. \r",
+    "context": "EN :\n... A timely intervention from Outis put a stop to Don Quixote's story.\nJP :\n…適切なタイミングでウーティスが\nドンキホーテの話を遮ってくれた。"
+  },
+  {
+    "key": "63-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "63-content",
+    "original": "피주머니들의 흔적들이 이 어트랙션에 집중되어 있다. \r",
+    "context": "EN :\nThere are remains of Bloodbags strewn about in close proximity to this attraction.\nJP :\n血袋たちの痕跡がこのアトラクションに集中している。"
+  },
+  {
+    "key": "64-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "64-content",
+    "original": "이름은… 헌티드 블러디 메리…라고 되어 있군. \r",
+    "context": "EN :\nIt's called... let's see. 'Haunted: Bloody Mary'...\nJP :\n名前は…ホーンテッド・ブラッディー・メアリー…とあるな。"
+  },
+  {
+    "key": "65-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "65-content",
+    "original": "뭐, 유령의 집 같은 건가 보네. \r",
+    "context": "EN :\nHm. Is this one of those, uh, 'haunted mansion' attractions?\nJP :\nまあ、お化け屋敷みたいなもんかな。"
+  },
+  {
+    "key": "66-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "66-content",
+    "original": "아, 싱클레어. 유령의 집이라는 거엔 진짜 유령이…\r",
+    "context": "EN :\nHey, Sinclair. Do ya think these haunted mansions have actual—\nJP :\nあぁ、シンクレア。お化け屋敷にはね、本物のお化けが―"
+  },
+  {
+    "key": "67-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "67-content",
+    "original": "자, 잠깐! 저도 어렸을 때 가족들과 놀이공원에 가봤다고요! 그… 그러니까 그런 식으로 놀린다고 제가 놀란다거나 그럴 일은…",
+    "context": "EN :\nS-stop right there! Hey, my parents took me to an amusement park too, okay? S-so don't think you can use this to tease me or scare me like—\nJP :\nま、待った！僕も子供の頃、家族と遊園地に行ったことは\nあるんですよ！だ…だからってそんな風にからかっても、\n僕が驚くとか、そんなことは―"
+  },
+  {
+    "key": "68-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "68-content",
+    "original": "…있냐고 물어보려고 했는데. 나 놀이공원은 처음 와보거든…",
+    "context": "EN :\n... It was a genuine question. I've never been to an amusement park, you know.\nJP :\n…いるのかって聞こうとしたんだけど。\n私、遊園地は初めてだから…。"
+  },
+  {
+    "key": "69-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "69-content",
+    "original": "허어…\r",
+    "context": "EN :\nAhh...\nJP :\nはぁ…。"
+  },
+  {
+    "key": "70-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "70-content",
+    "original": "죄, 죄송해요.\r",
+    "context": "EN :\nI-I'm sorry.\nJP :\nご、ごめんなさい。"
+  },
+  {
+    "key": "71-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "71-content",
+    "original": "에이~ 아냐. 그래서 진짜 유령이 나오는 거야?\r",
+    "context": "EN :\nEh, don'tcha worry about it! So, do these places actually have ghosts or nah?\nJP :\nええ〜いいよ。それで、本物のお化けって出るの？"
+  },
+  {
+    "key": "72-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "72-content",
+    "original": "보… 보통 엉성한 인형들이 나오는 게 전부일 거예요. \r",
+    "context": "EN :\nI-I'm fairly sure they have some pretty cheap-looking animatronics or mannequins at worst.\nJP :\nふ…普通は雑に作られた人形が\n出てくるだけだと思います。"
+  },
+  {
+    "key": "73-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "73-content",
+    "original": "어린아이들 또한 이용이 가능한 어트랙션이기에 실제 유령을 배치하진 않는다. 공포를 조성할 만한 장치가 있을 뿐.",
+    "context": "EN :\nAs attractions of that category often admit guests of all ages, including children, they do not place real paranatural entities such as ghosts inside them. However, they often install various tools and visual effects to stimulate fear responses in their guests.\nJP :\n幼い子供たちも利用可能なアトラクションなので、\n実際に幽霊を配置することはない。\n恐怖を醸成するような装置があるだけだ。"
+  },
+  {
+    "key": "74-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "74-content",
+    "original": "네, 주로 가족과 함께 방문하는 곳이니까요.",
+    "context": "EN :\nYeah, these are usually family attractions.\nJP :\nはい、主に家族と一緒に訪れる場所ですからね。"
+  },
+  {
+    "key": "75-content",
+    "original": "<color=#cc2424>가족이나 형제는 없었던 거니?</color>",
+    "context": "EN :\n<color=#cc2424>Where's your family? Your siblings?</color>\nJP :\n<color=#cc2424>家族や兄弟はいなかったのか？</color>"
+  },
+  {
+    "key": "76-content",
+    "original": "<color=#ffef23>나는 날때부터 혼자였어. 언제나 추웠고 외로워서…</color>",
+    "context": "EN :\n<color=#ffef23>I never had anyone, not even on the day I was born. I've only known... the cold... the loneliness...</color>\nJP :\n<color=#ffef23>私は生まれた時から一人だった。\nいつも寒くて寂しくて…。</color>"
+  },
+  {
+    "key": "77-content",
+    "original": "<color=#cc2424>그렇다면 내가…</color>",
+    "context": "EN :\n<color=#cc2424>Then let me…</color>\nJP :\n<color=#cc2424>それなら俺が…。</color>"
+  },
+  {
+    "key": "78-content",
+    "original": "<color=#cc2424>더 이상 죽고 싶지 않게 만들어주마. </color>",
+    "context": "EN :\n<color=#cc2424>... grant you the will to live.</color>\nJP :\n<color=#cc2424>もうこれ以上、死にたくないようにしてやろう。</color>"
+  },
+  {
+    "key": "79-content",
+    "original": "<color=#cc2424>너에게 영원히 함께 할 가족을 줄 테니, 나를 따라오렴.</color>",
+    "context": "EN :\n<color=#cc2424>The family I shall grant you will forever be by your side. Come with me.</color>\nJP :\n<color=#cc2424>お前へ永遠を共にする家族をやるから、俺についておいで。</color>"
+  }
+]

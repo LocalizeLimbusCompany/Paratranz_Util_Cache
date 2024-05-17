@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10911_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10911_1-dlg",
+    "original": "라만차랜드의 카니발에 오신 걸 환영합니다. …끝없는 퍼레이드를, 함께 해주시겠나요?",
+    "context": "EN :\nWelcome to the grand Carnival of La Manchaland. ... Will you join us in this... eternal Parade?\nJP :\nラ・マンチャランドのカーニバルへようこそ。…果てなきパレードを、共にしてくださいますか？"
+  },
+  {
+    "key": "lobby_morning_10911_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10911_1-dlg",
+    "original": "음… 너무 이른 시간에 찾아오는 건 점잖지 못하네. 태양빛은 피부에 좋지 않아. 알잖아?\n…그 계획에 대한 건 조금 나중에 의논하도록 하자. 아침부터 어버이를 떠올리는 것도 힘에 부쳐.",
+    "context": "EN :\nMm... it's a bit rude of you to visit me so early in the morning, isn't it? You know how bad sunlight is for the skin.\n... Let's talk about that plan a bit later. Thinking of Father this early in the morning is... stressful.\nJP :\nうーん…早すぎる時間に尋ねてくるのは品がないね。太陽光は皮膚に悪いの。分かってるでしょ？\n…その計画についてはもう少し後で話し合おう。朝から父上様のことを考えるのもキツいの。"
+  },
+  {
+    "key": "lobby_noon_10911_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10911_1-dlg",
+    "original": "그래. 슬슬 퍼레이드 준비를 해야겠네. …아니, 나는 굶을게. 점심부터 혈액바를 집어먹으면… 아니, 혈액바로 연명을 해야 한다는게… 이젠 견딜 수 없어졌거든.",
+    "context": "EN :\nYeah, it's about time we got started on the Parade prep. ... No, I'll skip lunch. Another hemobar for lunch and I'll... ... I just can't handle it anymore. That we have to subsist on hemobars just to survive. It's... intolerably bad.\nJP :\nそうね。そろそろパレードの準備をしなきゃ。…いいえ、私はパスで。お昼から血液バーをつまみ食いすると…。ううん、血液バーで延命をするってことに…もう耐えられなくなったんだ。"
+  },
+  {
+    "key": "lobby_night_10911_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10911_1-dlg",
+    "original": "이 밤의 열기 속에서 가장 빛나는 위치에 놓인다는 건… 당연하면서도 공허한 일이야. 실상은 나도 대열에 갇혀있을 뿐이니까.\n…하지만 그 커다란 죄를 짓고 나면, 이 끝없는 순환도 끝이 나겠지.",
+    "context": "EN :\nThe glory of taking center stage, of getting the limelight in the heat of this night is deservedly mine... for how hollow it is. Because I'm just another doll in the Parade.\nBut... once I commit that capital sin... this endless cycle will come to an end.\nJP :\nこの夜の熱気の中で最も輝く位置にいるっていうのは…当然のことでありながら空虚なことだね。実のところ、私も隊列に囚われてるだけだから。\n…でも、あの大きな罪を犯せば、この終わりなき循環も終わるでしょう。"
+  },
+  {
+    "key": "smalltalk_10911_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10911_1-dlg",
+    "original": "…아, 미안. 너무 당연한 일이라 생각해본 적이 없네. 퍼레이드에 내가 포함되지 않는다는 상상이라니.\n…그분께서 무탈하게 투구만 찾아와주신다면, 끝날 수 있으려나.",
+    "context": "EN :\n... Oh, sorry. Just the thought of not being a part of the Parade anymore... that alone is too preposterous to even imagine. \nPerhaps it will all end should Father return safely with the helm.\nJP :\n…あ、ごめん。当然のことすぎて考えたことなかった。パレードに私がいないだなんて。\n…あの方が無事に兜さえお探しになれば、終わるのかな。"
+  },
+  {
+    "key": "smalltalk_10911_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10911_2-dlg",
+    "original": "혈귀가 되기 전… 글쎄, 기억이 잘 나진 않아. …이 아름다움을 영원히 가질 수 있다는 사실에 조금 기뻤을지도 모르겠네.\n그때는 아마 몰랐을 거야. 영원이라는 단어가 달콤함 외의 맛을 가질 줄은.",
+    "context": "EN :\nBefore I became a Bloodfiend...? Well, I don't quite recall what my life was like then. Maybe I was glad to know that my beauty was to be everlasting.\nI must not have known then, that eternity could be anything other than sweet.\nJP :\n血鬼になるまで…そうねぇ、あんまり思い出せないね。…この美しさを永遠に保てるって事実に少し嬉しく思ったかも。\nそのときはきっと知らなかったでしょうね。永遠という言葉が甘さ以外の味を持ってるだなんて。"
+  },
+  {
+    "key": "smalltalk_10911_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10911_3-dlg",
+    "original": "두려운 건, 내가 가장 두려운 건… 피에 대한 욕망을 주체하지 못하고 추잡하게 전락하는 일이야.\n권속들이 모두 먹고 지내려면 혈액바가 있어야만 한다는 건 동의하지만, 애초에 어버이께서… 하아, 이 이야기는 그만하자.",
+    "context": "EN :\nMy fear, my worst fear... is losing my elegance to that ghastly ugliness of bloodlust.\nI agree that hemobars were necessary to feed every Kindred, sure. But the core of this problem is, if only Father didn't— ... Haah, can we talk about something else?\nJP :\n怖いのは、私が一番恐れてるのは…血に対する欲望を抑えられずに汚らわしく転落すること。\n眷属達がみんな食べていくには血液バーがあるべきだというのは同意するけど、そもそも父上様が…はぁ、この話はやめとこ。"
+  },
+  {
+    "key": "smalltalk_10911_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10911_4-dlg",
+    "original": "이 피보라를 봐, 아름답지 않니. 흩날리는 꽃종이도, 밤 하늘을 수놓는 폭죽도 이보다 황홀하진 못할 거야.\n…어버이를 슬프게 하긴 했지만, 결국 이걸로 우리 모두가 행복해졌어. 그렇지?",
+    "context": "EN :\nTake in the raining blood. It's more ecstatically beautiful than colorful explosions of confetti or bright fireworks illuminating the clouds in the night sky.\n... We've saddened our Father, but... we're all happy now, aren't we?\nJP :\nこの血繁吹を見て、美しいでしょ。舞い散る花びらも、夜空を埋め尽くす爆竹も、これよりも恍惚としたものはないはず。\n…父上様を哀しませたけども。結局の所これで私たち全員が幸せになった。そうでしょ？"
+  },
+  {
+    "key": "smalltalk_10911_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10911_5-dlg",
+    "original": "신부는 고통을 인내하는 것이 미덕이라고 말하지만… 나의 미덕은 아름다움에 있으니까. 그리고 내 권속들도… 그들의 아이들도 항상 아름다웠으면 좋겠거든.\n그러니까… 이제 그만 하려고 해.",
+    "context": "EN :\nThe Priest always lectures me that enduring the pain is a virtue, but... my virtue lies in beauty. Thus, I always wish nothing but beauty for my Kindreds... and their Children.\nSo... I'm going to stop, now.\nJP :\n神父は苦痛に耐えることを苦痛っていうけど…私の美徳は美しさだから。それに私の眷属達も…彼らの子どもたちも、いつも美しいと嬉しいんだ。\nだから…もうやめようと思うの。"
+  },
+  {
+    "key": "neglect_10911_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10911_1-dlg",
+    "original": "영원토록 이어지는…♬ 축복의 카니발…♬",
+    "context": "EN :\nIn this endlessly, this eternally...♬ ♬Blessed Carnival...♬\nJP :\n永久に続く…♬ 祝福のカーニバル…♬"
+  },
+  {
+    "key": "gacksung_10911_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10911_1-dlg",
+    "original": "오늘 밤의 퍼레이드는 조금 다를 거야… 진짜 카니발의 시작이니까.",
+    "context": "EN :\nThe Parade will be... different tonight. The real Carnival begins now.\nJP :\n今日の夜のパレードはちょっと違うと思う…。本物のカーニバルの始まりだから。"
+  },
+  {
+    "key": "formation_10911_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10911_1-dlg",
+    "original": "…그러던가.",
+    "context": "EN :\n... Do as you will.\nJP :\n…どうぞ勝手に。"
+  },
+  {
+    "key": "battleentry_10911_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10911_1-dlg",
+    "original": "피를 머금을 시간이네.",
+    "context": "EN :\nTime to draw blood.\nJP :\n血を吸い上げる時間ね。"
+  },
+  {
+    "key": "battle_select_10911_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10911_1-dlg",
+    "original": "퍼레이드 중에는 말 걸지 않는게 좋겠지?",
+    "context": "EN :\nTalking to me in the middle of a Parade isn't so polite, hm?\nJP :\nパレード中には話し掛けない方が良いよね？"
+  },
+  {
+    "key": "battle_endcommand_10911_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10911_1-dlg",
+    "original": "고귀하게.",
+    "context": "EN :\nWith grace.\nJP :\n高貴に。"
+  },
+  {
+    "key": "battle_enemy_break_10911_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10911_1-dlg",
+    "original": "…추잡하네.",
+    "context": "EN :\n... Hideous.\nJP :\n…汚らわしい。"
+  },
+  {
+    "key": "battle_break_10911_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10911_1-dlg",
+    "original": "아… 하하.",
+    "context": "EN :\nAh... ha ha.\nJP :\nあ…はは。"
+  },
+  {
+    "key": "battle_kill_10911_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10911_1-dlg",
+    "original": "이쁘네, 네 피분수.",
+    "context": "EN :\nYour fountain of blood... How pretty.\nJP :\n綺麗ね、あなたの血飛沫。"
+  },
+  {
+    "key": "battle_dead_10911_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10911_1-dlg",
+    "original": "마침내… 끝나는 걸까…",
+    "context": "EN :\nCan we... finally come to a stop...?\nJP :\nやっと…終わるのかな…。"
+  },
+  {
+    "key": "choice_success_p_10911_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10911_2-dlg",
+    "original": "이런 건 이발사나 신부에게 시켜.",
+    "context": "EN :\nGo ask the Barber or the Priest for these menial chores.\nJP :\nこんなのは理髪師とか神父にやらせてよ。"
+  },
+  {
+    "key": "choice_fail_n_10911_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10911_1-dlg",
+    "original": "…잠깐만. 한 번 더 해볼게.",
+    "context": "EN :\n... Wait. Let me try that again.\nJP :\n…待って。もう一度やってみる。"
+  },
+  {
+    "key": "battle_clear_10911_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10911_1-dlg",
+    "original": "오늘도 끝났네. 내일도… 똑같겠지. 아무런 고조도, 하강도 없이 그저 끝없이 맴도는… 나날이겠지.",
+    "context": "EN :\nAnother day floats by. And tomorrow will, too. No ups or downs at all, just a flat circle, going round and round.\nJP :\n今日も終わったね。明日も…同じでしょ。どんな高潮も、下降もなくただ果てしなく回り回る…日々だろうね。"
+  },
+  {
+    "key": "battle_clear_ex_10911_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10911_1-dlg",
+    "original": "피분수가 폭죽보다도 높이 솟아올랐어. 아아, 아냐. 이렇게 크게 웃으면 안돼. 아름다움을 잃지 않게, 그리고… 제2권속으로서의 품위도 잃지 않게 하자.",
+    "context": "EN :\nThe fountain of blood burst high into the air, higher than the soaring fireworks. Ahh, no. I shouldn't guffaw so ungracefully. I must remain beautiful... and maintain my dignity as a Second Kindred.\nJP :\n血飛沫が爆竹よりも高く噴き上がった。ああ、だめ。こんな風に大笑いしちゃ駄目。美しさを失わないように、そして…第2眷属としての品位も忘れないようにしなきゃ。"
+  },
+  {
+    "key": "battle_defeat_10911_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10911_1-dlg",
+    "original": "…어쩌면 잘 된 일일지도 모르겠어. 가끔은 누군가 퍼레이드를 끝내줬으면 했으니까. 잠시… 쉬어볼까.",
+    "context": "EN :\n... Maybe this is a blessing in disguise. I often wondered if anyone would come along to put an end to the Parade. I suppose... I'll rest a little.\nJP :\n…もしかすれば上手くいったかもしれない。たまには誰かがパレードを終わらせてくれればと思ってたから。ちょっと…休もうかな。"
+  }
+]

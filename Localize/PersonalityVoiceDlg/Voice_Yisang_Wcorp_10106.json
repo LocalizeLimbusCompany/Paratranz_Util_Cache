@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10106_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10106_1-dlg",
+    "original": "출근 중에는 되도록 건드리지 않았으면 하오만… 무엇이오?",
+    "context": "EN :\nI prefer to not be disturbed during my morning commute... What is it?\nJP :\n出勤中は成る程触らでほしけれど…なんなりや？"
+  },
+  {
+    "key": "lobby_morning_10106_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10106_1-dlg",
+    "original": "이 시간에 앉아서 갈 수 있다는 것만으로 작지 않은 행운이오. 조금… 잘 수… 있겠군…",
+    "context": "EN :\nIt is no small fortune that I was able to procure myself a seat on the way to work at this time of day. Perhaps... today... I may be permitted a small... nap...\nJP :\nこの時に座りゆかるということばかりに、小さからぬ幸運なり。少し…眠れ…ん。"
+  },
+  {
+    "key": "lobby_noon_10106_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10106_1-dlg",
+    "original": "이제 반절 지나갔는가… 하지만, 또 반절이 두 번 지나면 이 곳에서 다시 일하고 있겠지.\n끊어낼 방법조차 보이지 않는 굴레구료.",
+    "context": "EN :\nThis day is now half spent... Yet, after two more halfs of a day I shall return to this exact spot to do selfsame, unchanging work. I see no way of freeing myself from this cyclical yoke.\nJP :\nこれにて半日や過ぎし…。しかし、また半日が二たび過ぎばここにまた働くらん。\n断ち切る術すら見えぬくびきなり。"
+  },
+  {
+    "key": "lobby_night_10106_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10106_1-dlg",
+    "original": "밤이 되면 달도 없는 그믐 칠야에… 새까맣게, 아무런 것들이 보이지가 않소. 나는 이런 시간이 퍽 좋소.\n사람이 침소로 들어가듯… 생각도 어둠 속으로 아주 없어져 버리니.",
+    "context": "EN :\nWhen a moonless, tenebrous night of the month-end descends, all is obscured with naught manifest before me. I regard such hours with fondness.\nThoughts fade into oblivion... as consciousness is claimed by slumber.\nJP :\n夜にならば月も無き晦日の漆夜に…真黒く、いかなるものも見えやせず。我はかかる時間がいと恋し。\n人が寝所へ入るべく…考えも暗闇にいと消えぬれば。"
+  },
+  {
+    "key": "smalltalk_10106_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10106_1-dlg",
+    "original": "특별히 무얼 생각하지 않소. 무언가를 생각지 않게 노력한다고 하는 것이 바를 지도 모르겠군.\n이대로 잠에 들면… 조금은 편해질 지도 모르겠소.",
+    "context": "EN :\nI do not think of anything in particular. Perhaps it would be more accurate to say that I try to not think of anything.\nPerchance I may claim myself a marginally restful night... were I to drift off in this state.\nJP :\n特別何かを考えたらず。何か考うまじく努めるたると言いしこそ正しきやもしれず。\nかくて眠りに就かば…少しは楽にならん。"
+  },
+  {
+    "key": "smalltalk_10106_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10106_2-dlg",
+    "original": "그런 열차에서 일하면서 또 다른 열차에 몸을 싣고 어디론가로 간다는 것은 퍽 우스꽝스럽지.\n그대도 그렇게 생각하지 않는가?",
+    "context": "EN :\nThere is ironic humor in taking a train to go clean a different train of such... peculiar nature, wouldn't you agree?\nJP :\nかかる列車に働きつつ、また別の列車に身載せ何処かへ行くということはいと腹痛し。\nそなたもさ思わずや？"
+  },
+  {
+    "key": "smalltalk_10106_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10106_3-dlg",
+    "original": "근래에는 새로 입사한 사우들에게 우리 회사를 가르치는 일을 부탁받았소. 제법 즐거웠지, 열차를 정리하는 것보다 더욱.\n어쩌면 나는 누군가를 가르치는데에 재능이 있었을지도 모르오. 혹은 흥미라던가.",
+    "context": "EN :\nI have been assigned the task of training our new fellow employees as of late. It is quite enjoyable. Much more so than cleaning up the trains.\nPerhaps I've a talent for education. Or an interest, at least.\nJP :\n日ごろは新しく入社せる社員にこの会社を教うる仕事を頼まれき。なかなか楽しかりしぞ、列車を整理するよりもなお。\nもしやすると、私は誰かを教ふる才能がありもこそ。あるいは興味など。"
+  },
+  {
+    "key": "smalltalk_10106_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10106_4-dlg",
+    "original": "이러한 일을 할 때 특별히 무얼 생각하지 않소. 아니, 무언가를 생각지 않게…\n아, 언젠가 말했던 적이 있던가. 이해해주게. 무너지기 전에 다잡는 중이니.",
+    "context": "EN :\nWhen doing work of this nature, I do not think of anything in particular. Perhaps it would be more accurate to say that—\nAh, so these words have been uttered before. Please do understand. I simply seek to collect myself afore I am broken.\nJP :\nかかることするとき、特別に何も考えず。いや、何か考うまじくす。\nあ、いつか言いし試しやありし。心得なむ。崩るる前に引き締めたるところなれば。"
+  },
+  {
+    "key": "smalltalk_10106_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10106_5-dlg",
+    "original": "함께 사우를 가르치는 일에 발령받은 사우께선 그 일이 마음에 들지 않은가 보오.\n차라리 나의 일만큼 그 자가 가져가 주면 좋으련만. 물론, 회사가 그리 두지는 않겠지.",
+    "context": "EN :\nMy fellow employee, who was assigned the same task of educating our new recruits, appear averse to doing such work.\nI would rather have her take over my portion of the... other work. Yet, I have scant faith that the company would allow such reassignment.\nJP :\n共に社友を教うる仕事を発令せられし社友におかれば、そのいとなみあいなしめり。\nいっそ私の仕事をその者持ちゆくべからむ。無論、会社がさは置かじ。"
+  },
+  {
+    "key": "neglect_10106_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10106_1-dlg",
+    "original": "하… 언제쯤 끝이 날지…",
+    "context": "EN :\nHaah... When will this cycle be broken?\nJP :\nはぁ…いつほど終わらむ…。"
+  },
+  {
+    "key": "gacksung_10106_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10106_1-dlg",
+    "original": "내가 능력이 있다는거요? …그렇구료. 가르치는 쪽의 능력도 봐주었으면 하네만.",
+    "context": "EN :\nYou insinuate that I am rather capable? ... Very well. ...I would appreciate it if you would take note of my teaching abilities also.\nJP :\n私に才能ありというや？…さりや。教うる方の才能も買われまほしけれど。"
+  },
+  {
+    "key": "formation_10106_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10106_1-dlg",
+    "original": "출근하겠소.",
+    "context": "EN :\nCommuting to work.\nJP :\n出勤す。"
+  },
+  {
+    "key": "battleentry_10106_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10106_1-dlg",
+    "original": "정리를 시작하겠소.",
+    "context": "EN :\nCommencing cleanup.\nJP :\n整理を始む。"
+  },
+  {
+    "key": "battle_select_10106_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10106_1-dlg",
+    "original": "다른 일이 있는가?",
+    "context": "EN :\nIs there aught else?\nJP :\n他に仕事か？"
+  },
+  {
+    "key": "battle_endcommand_10106_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10106_1-dlg",
+    "original": "…….",
+    "context": "EN :\n.......\nJP :\n……。"
+  },
+  {
+    "key": "battle_enemy_break_10106_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10106_1-dlg",
+    "original": "이제…",
+    "context": "EN :\nNow...\nJP :\n漸く…。"
+  },
+  {
+    "key": "battle_break_10106_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10106_1-dlg",
+    "original": "아…",
+    "context": "EN :\nAh...\nJP :\nあ…。"
+  },
+  {
+    "key": "battle_kill_10106_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10106_1-dlg",
+    "original": "쉬시게.",
+    "context": "EN :\nYou may rest.\nJP :\n休みたまえ。"
+  },
+  {
+    "key": "battle_dead_10106_1-desc",
+    "original": "본인 사망 시",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10106_1-dlg",
+    "original": "마침내… 굴레를 벗는… 가?",
+    "context": "EN :\nAm I freed at last... from the yoke?\nJP :\n遂に…くびきを外され…き？"
+  },
+  {
+    "key": "choice_success_p_10106_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10106_2-dlg",
+    "original": "해결했군.",
+    "context": "EN :\nIt has been addressed.\nJP :\n解決せりな。"
+  },
+  {
+    "key": "choice_fail_n_10106_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10106_1-dlg",
+    "original": "…이번엔 해결하지 못했소.",
+    "context": "EN :\n... It could not be addressed.\nJP :\n…此度は解決せられざりき。"
+  },
+  {
+    "key": "battle_clear_10106_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10106_1-dlg",
+    "original": "정리는 끝났소. 다음 정리까지는 좀 잠들고 싶군.",
+    "context": "EN :\nThis cleanup is complete. Allow me to nap until our next assignment.\nJP :\n整理は終わりき。次の整理まで僅かに寝ばや。"
+  },
+  {
+    "key": "battle_clear_ex_10106_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10106_1-dlg",
+    "original": "아무래도 다른 사우들의 몫까지 해결해 버린 모양이구료. 보상은 없는가, 잠시 다른 일을 하는 것이어도 좋으니.",
+    "context": "EN :\nIt appears that I have resolved my fellow employees' share of responsibilities as well. Will there be a reward for this performance? I would appreciate even a reassignment to a different line of work.\nJP :\n何とやら他の社友たちの分まで解決せめり。報酬なきや、しばし他の仕事するにてもよろし。"
+  },
+  {
+    "key": "battle_defeat_10106_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10106_1-dlg",
+    "original": "…이 보시오. 나는 이 일이 맞지 않는 것 같소. 나에 대한 평가가 잘못되지는 않았는지, 재고를…",
+    "context": "EN :\n... Please, take heed. I no longer believe that I am appropriate for this line of work. Revisit your assessment of my aptitude, if you will...\nJP :\n…これをみたまえ。私はこの仕事合うまじ。私に対する評価のあやまちたらずや、再考をば…。"
+  }
+]

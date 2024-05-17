@@ -1,0 +1,503 @@
+[
+  {
+    "key": "0-place",
+    "original": "심장 소리가 들려오는 곳",
+    "context": "EN :\nThumping of the Heart\nJP :\n心音が聞こえてくる場所"
+  },
+  {
+    "key": "0-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "0-content",
+    "original": "기대 이상으로 싸워주는군.",
+    "context": "EN :\nOh, you are doing much better than I expected.\nJP :\n期待以上の戦いを見せてくれるな。"
+  },
+  {
+    "key": "1-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "1-content",
+    "original": "이봐… 설마, 우리가 싸우는 걸 뒤에서 지켜보고만 있었나?",
+    "context": "EN :\nHey, you... Don't tell me you've just been twiddling your thumbs, watching us fight?\nJP :\nおい…まさか、俺たちが戦うのを後ろで見てばかりいたのか？"
+  },
+  {
+    "key": "2-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "2-content",
+    "original": "내가 끼어들어봤자 거슬리기만 했겠지.",
+    "context": "EN :\nI would have just gotten in your way.\nJP :\n私が割り込んだところで邪魔だろ。"
+  },
+  {
+    "key": "3-content",
+    "original": "에이해브의 뒤에 남은 선원들은 현저하게 적어 보였다.",
+    "context": "EN :\nIt appeared that Ahab lost most of her crew on her way here.\nJP :\nエイハブの後ろに残った船員たちはとても少なかった。"
+  },
+  {
+    "key": "4-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "4-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "5-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "5-content",
+    "original": "보이지 않아. 나머지 선원. 다섯 뿐이야. 왜지?",
+    "context": "EN :\nRest of crew not here. Only five now. Why?\nJP :\nみえない。のこりのせんいん。ごにんだけだ。どうして？"
+  },
+  {
+    "key": "6-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "6-content",
+    "original": "그새 나에게 질문을 하게 되었군. 저자들의 영향일 테지.",
+    "context": "EN :\nYou dare question me now, eh? Your present company must've rubbed off on you.\nJP :\nいつの間にか私に質問が出来るようになったか。\nあの者たちの影響だろうな。"
+  },
+  {
+    "key": "7-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "7-content",
+    "original": "필요했던 머릿수는 맞추었다. 여기까지 오기 전에 줄여도 될 것들이었어. 이것도 저들의 입김이 닿아서 생긴 일인가 보군.",
+    "context": "EN :\nI have enough men left. The rest were... disposable. They must have left you quite the impression, Queequeg.\nJP :\n必要な頭数は揃ってる。ここへ来るまで減らしてもいいやつらだった。\nこれも、あの者たちの風の吹き回しだろうな。"
+  },
+  {
+    "key": "8-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "8-content",
+    "original": "말해. 이유.",
+    "context": "EN :\nSay it. Why.\nJP :\nいえ。りゆう。"
+  },
+  {
+    "key": "9-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "9-content",
+    "original": "그보다… 오히려 살아… 남은 이 선장과 선원들을 환대해 줄 생각은 하지 않는 건가, 퀴케그?",
+    "context": "EN :\nBefore I do... Queequeg, where's your greeting for your Captain? For your surviving compatriots?\nJP :\nそれより…むしろ生き…残ったこの船長と船員たちを\n歓迎するという考えは浮かばないのか、クィークェグ？"
+  },
+  {
+    "key": "10-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "10-content",
+    "original": "이… 이 고래를 죽일 수 있는 심장! 그것이 바로 눈앞에 있는데!",
+    "context": "EN :\nEspecially when... the heart presents itself before us! We are THIS close to killing the Whale!\nJP :\nこの…鯨を殺せる心臓！それがまさに目の前にあるのに！"
+  },
+  {
+    "key": "11-model",
+    "original": "핍",
+    "translation": "比普",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nPip\nJP :\nピップ"
+  },
+  {
+    "key": "11-content",
+    "original": "핍은 인어 싫어!!! 엇, 어서, 어서!! 밖으로 나가고 싶어요오!!!",
+    "context": "EN :\nPip hates Mermaids!!! W-want to! Now! Want to get out of here!!!\nJP :\nぴっぷはにんぎょいやだ！！はっ、はやく、はやく！！\nそとにでたいですうう！！！"
+  },
+  {
+    "key": "12-model",
+    "original": "핍",
+    "translation": "比普",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nPip\nJP :\nピップ"
+  },
+  {
+    "key": "12-content",
+    "original": "그런데 핍이 자꾸 하얘져요. 이거, 에잇, 에잇. 안 떨어져.",
+    "context": "EN :\nBut the pale keeps trying to eat Pip. This. Ugh, ughh. It won't come off.\nJP :\nでもぴっぷが、だんだんしろくなります。\nこれ、えいっ、えいっ。おちない。"
+  },
+  {
+    "key": "13-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "13-content",
+    "original": "백화 현상… 점점 더… 진행되어 버려서 이제는 정말로 거치적 거리는군. 심장에… 가까워질수록.",
+    "context": "EN :\nThe Pallidification is progressing, the closer we get to the heart. It is starting to get rather... bothersome.\nJP :\n白化現象…段々…進行してしまって、いまや足手まといだな。\n心臓へ…近付くほどに。"
+  },
+  {
+    "key": "14-content",
+    "original": "그들은 백화 현상이 더 심해지는 듯했다.",
+    "context": "EN :\nThe Pallidification effect was intensifying, indeed.\nJP :\n彼らの白化現象が一層酷くなっているようだ。"
+  },
+  {
+    "key": "15-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "15-content",
+    "original": "하지만 너희는 아까부터 전혀 변함이 없어.",
+    "context": "EN :\nBut you. All of you are somehow completely unaffected.\nJP :\nしかしお前さんたちには、さっきから全く変化が無い。"
+  },
+  {
+    "key": "16-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "16-content",
+    "original": "그리고… 계속 거슬렸던 이 소리!",
+    "context": "EN :\nAnd... this ticking sound! It has been getting on my nerves!\nJP :\nそして…ずっと気に触ってたこの音！"
+  },
+  {
+    "key": "17-content",
+    "original": "에이해브가 내 앞으로 성큼성큼 다가왔다.",
+    "context": "EN :\nAhab strode toward me.\nJP :\nエイハブがのそのそと私の前へ近寄ってきた。"
+  },
+  {
+    "key": "18-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "18-content",
+    "original": "이 머리통 안에 들어있는 걸 말해. 그게 뭐지?",
+    "context": "EN :\nTell me. What will I find in your clock-head?\nJP :\nこの頭の中に入ってるものが何か言え。\nそれは何だ？"
+  },
+  {
+    "key": "19-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "19-content",
+    "original": "<…!>",
+    "context": "EN :\n<…!>\nJP :\n<…！>"
+  },
+  {
+    "key": "20-content",
+    "original": "에이해브가 내 머릿 속 안을 바라본다.",
+    "context": "EN :\nAhab looks into my head.\nJP :\nエイハブが、私の頭を覗き込んでくる。"
+  },
+  {
+    "key": "21-content",
+    "original": "나도 고개를 들어 에이해브를 마주 본다.",
+    "context": "EN :\nAnd I, in turn, raise my head to return the gaze.\nJP :\n私も顔を上げ、エイハブに向き合った。"
+  },
+  {
+    "key": "22-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "22-content",
+    "original": "<이건…>",
+    "context": "EN :\n<This is...!>\nJP :\n<これは…。>"
+  },
+  {
+    "key": "23-content",
+    "original": "그 순간, 에이해브가 지나왔던 췌장의 길들이 모두의 눈 앞에 펼쳐진다.",
+    "context": "EN :\nAhab's journey through the pancreas plays right before my eyes.\nJP :\nその瞬間、エイハブが通ってきた膵臓の道が\n皆の目の前へ広がった。"
+  },
+  {
+    "key": "24-model",
+    "original": "피쿼드호주민2",
+    "translation": "裴廓德号居民2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "24-teller",
+    "original": "매달리는 주민",
+    "context": "EN :\nHanging Villager\nJP :\nぶら下がる住民"
+  },
+  {
+    "key": "24-title",
+    "original": "피쿼드타운",
+    "context": "EN :\nPequod Town\nJP :\nピークォドタウン"
+  },
+  {
+    "key": "24-content",
+    "original": "선장님… 인어가 되지 않을 거라고 하셨잖아요…",
+    "context": "EN :\nCap'n... You said... you won't let me be... a Mermaid...\nJP :\nせんちょう…にんぎょには\nならないだろうっていったじゃないですか…。"
+  },
+  {
+    "key": "25-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "25-content",
+    "original": "역시… 이 방법도 실패군.",
+    "context": "EN :\nWell, then... this was not the right method indeed.\nJP :\nやはり…この方法も失敗か。"
+  },
+  {
+    "key": "26-model",
+    "original": "피쿼드호주민2",
+    "translation": "裴廓德号居民2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "절망하는 주민",
+    "context": "EN :\nDespairing Villager\nJP :\n絶望する住民"
+  },
+  {
+    "key": "26-title",
+    "original": "피쿼드타운",
+    "context": "EN :\nPequod Town\nJP :\nピークォドタウン"
+  },
+  {
+    "key": "26-content",
+    "original": "어…? 안돼…! 그걸 끊어버리면 뒤에 있는 선원이 전부…!",
+    "context": "EN :\nHuh...? No...! Don't cut that! Everyone behind you will...!\nJP :\nえ…？駄目だ…！それを切れば、後ろにいる船員が全員…！"
+  },
+  {
+    "key": "27-model",
+    "original": "핍",
+    "translation": "比普",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nPip\nJP :\nピップ"
+  },
+  {
+    "key": "27-content",
+    "original": "선장님! 핍이에요! 핍이 이 핏줄을 끊었어요!",
+    "context": "EN :\nCaptain! That was Pip! Pip cut the vein!\nJP :\nせんちょう！ぴっぷです！\nぴっぷが、このけっかんをきりました！"
+  },
+  {
+    "key": "28-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "28-content",
+    "original": "훌륭해! 스텁이 이 사실을 알면 얼마나 기뻐할까!",
+    "context": "EN :\nWonderful! Imagine how overjoyed Stubb would be, were he to witness your exploits!\nJP :\n素晴らしい！スタッブがこれを知ればどれだけ喜ぶだろう！"
+  },
+  {
+    "key": "29-model",
+    "original": "핍",
+    "translation": "比普",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nPip\nJP :\nピップ"
+  },
+  {
+    "key": "29-content",
+    "original": "핍을 보고 있을까요? 미움의 고래, 죽일 수 있을까요오?! 헤헷, 하하핫!",
+    "context": "EN :\nThink he's watching over Pip? Can we kill the hateful Whale?! Heheh! Ahahahaha!\nJP :\nぴっぷをみていますか？\nぞうおのくじら、ころせますかあぁ！？\nへへっ、はははっ！"
+  },
+  {
+    "key": "30-model",
+    "original": "피쿼드호주민2",
+    "translation": "裴廓德号居民2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "30-teller",
+    "original": "추락하는 주민",
+    "context": "EN :\nFalling Villager\nJP :\n墜落する住民"
+  },
+  {
+    "key": "30-title",
+    "original": "피쿼드타운",
+    "context": "EN :\nPequod Town\nJP :\nピークォドタウン"
+  },
+  {
+    "key": "30-content",
+    "original": "어… 어? 으아아아악!",
+    "context": "EN :\nHuh... Huuh? Aaaaaahhhh!\nJP :\nえ…えっ？うわぁあああっ！"
+  },
+  {
+    "key": "31-model",
+    "original": "피쿼드호주민2",
+    "translation": "裴廓德号居民2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "31-teller",
+    "original": "충격받은 주민",
+    "context": "EN :\nShocked Villager\nJP :\nショックを受けた住民"
+  },
+  {
+    "key": "31-title",
+    "original": "피쿼드타운",
+    "context": "EN :\nPequod Town\nJP :\nピークォドタウン"
+  },
+  {
+    "key": "31-content",
+    "original": "서, 선장님… 지금 뭐 하신 겁니까…",
+    "context": "EN :\nC-Captain... What did you just...?\nJP :\nせ、船長…今何を…。"
+  },
+  {
+    "key": "32-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "32-content",
+    "original": "저 선원을 발로 차서 밀어 넣었지. 오른쪽 길은 아니었군.",
+    "context": "EN :\nI kicked the lad in there. Looks like that wasn't the right path.\nJP :\nあの船員を足で蹴って押しやった。右の道じゃなかったな。"
+  },
+  {
+    "key": "33-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "33-content",
+    "original": "이대로 목숨을 구걸할 셈이냐?",
+    "context": "EN :\nYou dare beg for your life?\nJP :\nこのまま命乞いするつもりか？"
+  },
+  {
+    "key": "34-model",
+    "original": "피쿼드호주민2",
+    "translation": "裴廓德号居民2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "34-teller",
+    "original": "망설이는 주민",
+    "context": "EN :\nHesitating Villager\nJP :\n戸惑う住民"
+  },
+  {
+    "key": "34-title",
+    "original": "피쿼드타운",
+    "context": "EN :\nPequod Town\nJP :\nピークォドタウン"
+  },
+  {
+    "key": "34-content",
+    "original": "선…선장님… 그게 아니라…",
+    "context": "EN :\nC-Captain. That's not it. It's...\nJP :\nせ…船長…そうじゃなくて…。"
+  },
+  {
+    "key": "35-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "35-content",
+    "original": "그 창백한 악의 고래가 살아있다면 지금 이 시간에도 이 세상은 점점 더 종말에 가까워질텐데!",
+    "context": "EN :\nWith every moment, every second we waste, the end of days grows near! Every beating of that Pallid Whale's heart is a bell tolling for the end of the world!\nJP :\nあの蒼白な悪の鯨が生きていたら、今この瞬間にも\n世界はさらに終末へと近付いていくだろうに！"
+  },
+  {
+    "key": "36-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "36-content",
+    "original": "그걸 우리 손으로 부술 수 있는데, 그걸 내버려 두고 목숨을 구걸하는 것이냔 말이다!",
+    "context": "EN :\nWe can stop the apocalypse with our own two hands! Yet you kneel here and dare to grovel for your life?!\nJP :\nそれを我々の手で潰せるというのに、\nそれを放っておいて命乞いするというのか！"
+  },
+  {
+    "key": "37-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "37-content",
+    "original": "지금까지 희생한 선원들은 개죽음이 되어버리겠군, 맙소사!",
+    "context": "EN :\nYou mean to make your crew's sacrifices to have been for naught?! Unbelievable!\nJP :\n今まで犠牲になった船員たちは犬死にということか、なんたることだ！"
+  },
+  {
+    "key": "38-model",
+    "original": "피쿼드호주민2",
+    "translation": "裴廓德号居民2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "38-teller",
+    "original": "망설이는 주민",
+    "context": "EN :\nHesitating Villager\nJP :\n戸惑う住民"
+  },
+  {
+    "key": "38-title",
+    "original": "피쿼드타운",
+    "context": "EN :\nPequod Town\nJP :\nピークォドタウン"
+  },
+  {
+    "key": "38-content",
+    "original": "아, 아닙니다…",
+    "context": "EN :\nN-no, Captain...\nJP :\nい、いいえ…。"
+  },
+  {
+    "key": "39-model",
+    "original": "피쿼드호주민2",
+    "translation": "裴廓德号居民2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "39-teller",
+    "original": "망설이는 주민",
+    "context": "EN :\nHesitating Villager\nJP :\n戸惑う住民"
+  },
+  {
+    "key": "39-title",
+    "original": "피쿼드타운",
+    "context": "EN :\nPequod Town\nJP :\nピークォドタウン"
+  },
+  {
+    "key": "39-content",
+    "original": "죽을 수 있습니다…!",
+    "context": "EN :\nI can die, for this cause I will...!\nJP :\n死ねます…！"
+  },
+  {
+    "key": "40-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "40-content",
+    "original": "죽는 게 아니다! 나는 선원들에게 죽음을 명령하지 않았다.",
+    "context": "EN :\nNay, not death! I have never, and will never order my men to their deaths.\nJP :\n死ぬわけではない！\n私は船員たちへ死を命令してはいない。"
+  },
+  {
+    "key": "41-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "41-content",
+    "original": "죽지 말고, 위대해져야지.",
+    "context": "EN :\nI send them to greatness, not death.\nJP :\n死なずに、偉大になるべきだろ。"
+  }
+]

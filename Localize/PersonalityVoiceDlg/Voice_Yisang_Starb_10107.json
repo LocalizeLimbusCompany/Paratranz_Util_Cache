@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10107_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10107_1-dlg",
+    "original": "이상이라 부르게. 피쿼드호의 일등 항해사를 맡고 있지.",
+    "context": "EN :\nYou may call me Yi Sang. I am the first mate of the Pequod.\nJP :\nイサンと呼ぶが良い。ピークォド号の1等航海士を預かれり。"
+  },
+  {
+    "key": "lobby_morning_10107_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10107_1-dlg",
+    "original": "밤새 안녕하셨는가. 오늘 호수는 제법 잔잔한 편일세. 바깥의 경치를 좀 즐기는 것은 어떤가 하네만.",
+    "context": "EN :\nI pray that the waves did not keep you up at night. The Lake remains tranquil today... Perhaps we may be availed a brief moment to savor its sights for once.\nJP :\n夜通し安寧なりや。今日の湖は中々穏しき方かな。外の景色を一寸楽しむはいかがと思えど。"
+  },
+  {
+    "key": "lobby_noon_10107_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10107_1-dlg",
+    "original": "흐음… 이 말라 비틀어진 지느러미살을 먹는 것도 좀 지치는구료. 그대는 좀 먹을 만한가?",
+    "context": "EN :\nHm... I grow weary of this diet of desiccated fins. How do you fare?\nJP :\nふむ…この干からびし鰭肉を食も、一寸あからさまに疲る。そなたの口に合うや？"
+  },
+  {
+    "key": "lobby_night_10107_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10107_1-dlg",
+    "original": "야간 항해를 너무 길게 하는 건 좋지 않소. 안전을 따진다면 그건 상식일테요. 그대는 좀 들어가 쉬시게.",
+    "context": "EN :\nDo not sail overlong under the night sky. It is common wisdom that such practice invites peril to a journey. Please, do get yourself some rest.\nJP :\n夜間航海を長すぐるはわろし。安全を考えば、そは常識ならん。そなたは入りて休みたまえ。"
+  },
+  {
+    "key": "smalltalk_10107_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10107_1-dlg",
+    "original": "자, 고래의 이 부분을 공격하는 것이오. 묵직한 한 방을 내기 어렵다면… 한 곳을 빠르게 여러번 쑤셔서 이런 효과를 갖는게지.",
+    "context": "EN :\nSee, this is the part of a Whale that you must assail. If a singular, powerful strike is difficult to execute, apply multiple strikes to a single point. Then you should be able to perform effectively.\nJP :\nさぁ、鯨のここを攻むるなり。重き一発を出すが難くば…一ヶ所疾く何度も刺し、かかる効果を得らるるなり。"
+  },
+  {
+    "key": "smalltalk_10107_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10107_2-dlg",
+    "original": "갑판! 노닥거리지 말고 위치로 가서 일하게! …아, 그대 듣기는 조금 시끄러웠겠구료. 내 사과하지.",
+    "context": "EN :\nDeckhands! Cease your loitering and return to your stations! ... Ah, apologies. That may have been quite loud for you. I apologize.\nJP :\n甲板！油を売らで、位置へ戻りて働け！…あっ、そなたが聞くには少し五月蠅かりけん。謝らん。"
+  },
+  {
+    "key": "smalltalk_10107_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10107_3-dlg",
+    "original": "항해사 일은… 뭐, 나쁘지는 않네만. 그래도 나는, 이 항해를 끝내면 카페를 하나 내고 싶소. 급박한 일보다는 이제는 느긋한 일을 꿈꾸게 되어가는군.",
+    "context": "EN :\nThe life of a sailor is... Quite all right. Once this endeavor is complete, however, I wish to start a café of my own.\nI have begun dreaming of a leisurely life, free from urgency.\nJP :\n航海士の仕事は…まあ、悪しくはあらねど。さりとて私は、この航海を終えばキャフェを一つ開きたし。急迫せることより、今はのびらかなる夢見るべくなりゆくかし。"
+  },
+  {
+    "key": "smalltalk_10107_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10107_4-dlg",
+    "original": "밧줄을 놓치지 마시오! 작살을 든 손을 미끄러트리면 죽소! 현명하게… 대담하게 임하시오!",
+    "context": "EN :\nDo not let go of the rope! To release the rope is to release your hold on life! Be wise... yet bold!\nJP :\n綱を手放すでない！銛を持ちし手を滑らせば死ぬるぞ！賢明に…大胆に臨め！"
+  },
+  {
+    "key": "smalltalk_10107_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10107_5-dlg",
+    "original": "이스마엘 선장께서는 그대들의 죽음을 명하지 않았소! 우리 모두… 저것을 잡아내고 각자가 있을 곳으로 돌아가야 하오.",
+    "context": "EN :\nCaptain Ishmael has not ordered you to your deaths! We must... All of us must kill it and return to where we belong!\nJP :\nイシュメール船長はそなたらの死を命ぜず！我らみな…あれ捕まえ、各自の居場所へ戻るべし。"
+  },
+  {
+    "key": "neglect_10107_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10107_1-dlg",
+    "original": "흠… 물을 가르는 소리만 남은 것도 제법 운치가 있구료.",
+    "context": "EN :\nHm... All is silent, save for the sound of the vessel hewing across the waters. This is also quite pleasant.\nJP :\nふむ…水を切る音ばかり残りしも、なかなかおかし。"
+  },
+  {
+    "key": "gacksung_10107_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10107_1-dlg",
+    "original": "기어이 나까지 나서야 하는 것인가…! 좋소, 내 작살을 들도록 하지!",
+    "context": "EN :\nThus I must step up to the occasion, then...! Very well. Wield the harpoon I shall!\nJP :\n遂に私までいづべしや…！よろしい、我が銛を持たん！"
+  },
+  {
+    "key": "formation_10107_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10107_1-dlg",
+    "original": "키만 잡고 있을 때가 아니구료.",
+    "context": "EN :\nIt appears that I must let go of the helm and join the fray.\nJP :\n舵ばかり取れる場合ならずかし。"
+  },
+  {
+    "key": "battleentry_10107_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10107_1-dlg",
+    "original": "작살, 놓치지 말게.",
+    "context": "EN :\nDo not let go of the harpoon.\nJP :\n銛、手放すでない。"
+  },
+  {
+    "key": "battle_select_10107_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10107_1-dlg",
+    "original": "선장이 위험한가?",
+    "context": "EN :\nIs the Captain in danger?\nJP :\n船長が危うしや？"
+  },
+  {
+    "key": "battle_endcommand_10107_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10107_1-dlg",
+    "original": "내가 시범을 보이지.",
+    "context": "EN :\nPlease, allow me to demonstrate.\nJP :\n私が手本を見せん。"
+  },
+  {
+    "key": "battle_enemy_break_10107_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10107_1-dlg",
+    "original": "흠! 제법 지쳤나보오.",
+    "context": "EN :\nHm! They appear to be quite spent.\nJP :\nふむ！中々困じきめり。"
+  },
+  {
+    "key": "battle_break_10107_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10107_1-dlg",
+    "original": "하앗…",
+    "context": "EN :\nHaah...\nJP :\nはぁっ…。"
+  },
+  {
+    "key": "battle_kill_10107_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10107_1-dlg",
+    "original": "쳇, 기름도 나오지 않는 놈이구료.",
+    "context": "EN :\nTsk. There is no oil to be gleaned from this fellow.\nJP :\nちっ、油もいでぬ奴かな。"
+  },
+  {
+    "key": "battle_dead_10107_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10107_1-dlg",
+    "original": "하하… 내 항해가… 여기서… 끝나는 건가…",
+    "context": "EN :\nHa ha ha... Thus does my... voyage... end...\nJP :\nはは…我が航海が…ここで…終わるや。"
+  },
+  {
+    "key": "choice_success_p_10107_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10107_2-dlg",
+    "original": "이 정도 일은 우습소. 삼등 항해사도 능히 해내겠군.",
+    "context": "EN :\nThis was a trivial endeavor. Even a third mate should have little trouble accomplishing this task.\nJP :\nこの程度のことは笑うべし。三等航海士もうまくやり遂ぐべし。"
+  },
+  {
+    "key": "choice_fail_n_10107_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10107_1-dlg",
+    "original": "으흠… 내 평생 배에만 있어서. 크흠.",
+    "context": "EN :\nAhem... I have very seldom set my foot outside the ship... Do understand.\nJP :\nうーむ…私は一生、船のみで暮らししために。"
+  },
+  {
+    "key": "battle_clear_10107_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10107_1-dlg",
+    "original": "자, 이제 항해의 끝이 얼마 남지 않았네. 좀 더 나아가보세!",
+    "context": "EN :\nThe end of this voyage rises upon the horizon. Let us persevere but for a little longer!\nJP :\nさぁ、いまや航海の終わりまで残り僅かかな。いま少し進まん！"
+  },
+  {
+    "key": "battle_clear_ex_10107_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10107_1-dlg",
+    "original": "해냈소! 이제 이 배를 쉽게 넘볼 해적도 고래도 몇 없을테지. 흐흠, 흡족하군.",
+    "context": "EN :\nWe have done it! Not many pirates or Whales shall dare attack this vessel again. Hm hm, this was quite the satisfactory outcome.\nJP :\nやり遂げき！いまやこの船舐めかかる海賊も、鯨も少なからん。ふうむ、満足かな。"
+  },
+  {
+    "key": "battle_defeat_10107_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10107_1-dlg",
+    "original": "…선체에 파손된 부위가 너무 많소… 정박하고, 수리하세. …그리고 다시 호수로 떠나면 될 것이오.",
+    "context": "EN :\n... Our vessel is far too damaged to continue... Let us anchor and repair. ... Then we shall set sail to the Lake once again.\nJP :\n…船体に破損せる部位が多すぐ。…停泊し、修理せん。…かくて、また湖へ向えばよからん。"
+  }
+]

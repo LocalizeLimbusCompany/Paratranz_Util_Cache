@@ -1,0 +1,737 @@
+[
+  {
+    "key": "0-place",
+    "original": "카니발 퍼레이드",
+    "context": "EN :\nCarnival Parade\nJP :\nカーニバルパレード"
+  },
+  {
+    "key": "0-content",
+    "original": "…저건, 퍼레이드의 하이라이트일까. 또 다시 노래가 바뀐다.",
+    "context": "EN :\n... The highlight of the Parade must be near. The song changes once again.\nJP :\n…あれは、パレードのハイライトなんだろうか。\nまた歌が変わった。"
+  },
+  {
+    "key": "1-model",
+    "original": "돌시부하2",
+    "translation": "杜尔西内娅手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "1-teller",
+    "original": "양산을 든 혈귀",
+    "context": "EN :\nBloodfiend holding a Parasol\nJP :\n日傘を持った血鬼"
+  },
+  {
+    "key": "1-content",
+    "original": "♬이루었지♬ ♬우리의♬ (행복한 왕국을!)",
+    "context": "EN :\n♬And we built it♬ ♬Our very own♬ (Happy kingdom!)\nJP :\n♬叶えたんだ♬ ♬私たちの♬(幸せな王国を！)"
+  },
+  {
+    "key": "2-model",
+    "original": "돌시부하2",
+    "translation": "杜尔西内娅手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "2-teller",
+    "original": "양산을 든 혈귀",
+    "context": "EN :\nBloodfiend holding a Parasol\nJP :\n日傘を持った血鬼"
+  },
+  {
+    "key": "2-content",
+    "original": "♬작별하자♬ ♬아픔♬(어버이시여, 쉬소서!)",
+    "context": "EN :\n♬Say goodbye♬ ♬to pain♬(Rest well, O Father!)\nJP :\n♬サヨナラしよう♬ ♬痛みと♬(父上様よ、お休みください！)"
+  },
+  {
+    "key": "3-model",
+    "original": "돌시부하2",
+    "translation": "杜尔西内娅手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "3-teller",
+    "original": "양산을 든 혈귀",
+    "context": "EN :\nBloodfiend holding a Parasol\nJP :\n日傘を持った血鬼"
+  },
+  {
+    "key": "3-content",
+    "original": "♬즐거울 거야♬ ♬행복의 왕국♬",
+    "context": "EN :\n♬All be jolly now♬ ♬At this kingdom of joy♬\nJP :\n♬きっと楽しいよ♬ ♬幸せの王国♬"
+  },
+  {
+    "key": "4-model",
+    "original": "돌시부하2",
+    "translation": "杜尔西内娅手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "4-teller",
+    "original": "양산을 든 혈귀",
+    "context": "EN :\nBloodfiend holding a Parasol\nJP :\n日傘を持った血鬼"
+  },
+  {
+    "key": "4-content",
+    "original": "♬라만차랜드에♬ (어서와요, 여러분들!)",
+    "context": "EN :\n♬At La Manchaland♬ (Come one, come all!)\nJP :\n♬ラ・マンチャランドへ♬(ようこそ、皆さん！)"
+  },
+  {
+    "key": "5-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "5-content",
+    "original": "<저자가… 돌시네아…?>",
+    "context": "EN :\n<Is she... Dulcinea...?>\nJP :\n<あの人が…ドゥルシネーア…？>"
+  },
+  {
+    "key": "6-content",
+    "original": "보랏빛 색이 감도는 화려한 양산 아래에는 그것이 있었다.",
+    "context": "EN :\nUnderneath the garish, violet parasol she stood.\nJP :\n紫色の布が張り巡らされた華やかな日傘の下には、それがあった。"
+  },
+  {
+    "key": "7-content",
+    "original": "기묘한 분위기를 두른 그것의 아래에는, 누군가가 죽어가고 있었다.",
+    "context": "EN :\nAnd under her feet squirmed someone, slowly dying, ensnared in this bizarre spectacle.\nJP :\n奇妙な雰囲気をまとったその下では、誰かが死にかけていた。"
+  },
+  {
+    "key": "8-content",
+    "original": "…공터에서 처음으로 마주했던 혈귀 사냥꾼이다.",
+    "context": "EN :\n... It's that Bloodfiend Hunter we met back at the empty lot.\nJP :\n…広場で初めて対峙した血鬼の狩人だ。"
+  },
+  {
+    "key": "9-model",
+    "original": "가시춘",
+    "translation": "贾惜春",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nJia Xichun\nJP :\nジア・シーチュン"
+  },
+  {
+    "key": "9-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "9-content",
+    "original": "…그 사냥꾼들도 당한 건가?",
+    "context": "EN :\n... Even the Hunters...?\nJP :\n…あの狩人たちもやられたの？"
+  },
+  {
+    "key": "10-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10-content",
+    "original": "거기!!! 당장 그만두게나!!!",
+    "context": "EN :\nHARK!!! Cease thy villainy this instant!!!\nJP :\nそこの！！！今すぐやめるがよい！！！"
+  },
+  {
+    "key": "11-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "11-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "12-content",
+    "original": "퍼레이드의 가장 앞에서, 가장 화려한 옷을 입은 혈귀.",
+    "context": "EN :\nThe Bloodfiend leading the Parade in a beautiful, extravagant dress...\nJP :\nパレードの最前列に立ち、最も華やかな服を着た血鬼。"
+  },
+  {
+    "key": "13-content",
+    "original": "양산 아래에서 가면을 쓰고 있는 그 혈귀는 우리들을 말없이 가만히 쳐다보고 있었다.",
+    "context": "EN :\n... she quietly regarded us from behind her mask, from under her parasol.\nJP :\n日傘の下で仮面をつけているその血鬼は、\n私たちを無言でじっと見つめていた。"
+  },
+  {
+    "key": "14-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "14-content",
+    "original": "말해.",
+    "context": "EN :\nThen speak.\nJP :\n言って。"
+  },
+  {
+    "key": "15-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "15-content",
+    "original": "그만둬야 할 이유에 대해서.",
+    "context": "EN :\nWhy must we stop?\nJP :\nやめるべき、理由について。"
+  },
+  {
+    "key": "16-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "16-content",
+    "original": "그 답은 단순하다네, 그리고 명확하지.",
+    "context": "EN :\n'Tis a question with an answer most simple. And obvious.\nJP :\nその答えは単純であり、そして明確だ。"
+  },
+  {
+    "key": "17-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "17-content",
+    "original": "정의롭지 않은 행동이지 않은가!",
+    "context": "EN :\nBecause thy villainy is unjust!\nJP :\n正義とは真逆の行いではないか！"
+  },
+  {
+    "key": "18-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "18-content",
+    "original": "이 악독한 라만차랜드를 토벌하기 위해 우리가 왔으니.",
+    "context": "EN :\nWe are come to rain destruction upon this den of villainy, La Manchaland.\nJP :\nこの悪辣なラ・マンチャランドを討伐するために我々は来たのだ。"
+  },
+  {
+    "key": "19-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "19-content",
+    "original": "창조자가 있는 곳을 순순히 털어놓고 마땅한 벌을 받으시게나!",
+    "context": "EN :\nThus speak plainly of thy founder's whereabouts and accept thy rightful punishment!\nJP :\n創造者がいる場所を素直に明かし、然るべき罰を受けるがよい！"
+  },
+  {
+    "key": "20-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "20-content",
+    "original": "그렇구나.",
+    "context": "EN :\nI see.\nJP :\nそうなの。"
+  },
+  {
+    "key": "21-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "21-content",
+    "original": "너. 그 유치한 놀이는 아직까지도 안 끝난 거니?",
+    "context": "EN :\nSo you're still playing that childish make-believe.\nJP :\nあなた。その幼稚な遊びは、まだ終わっていないの？"
+  },
+  {
+    "key": "22-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "22-content",
+    "original": "이건 놀이가 아닐세. 숭고한 모험의 일부지.",
+    "context": "EN :\n'Tis no make-believe! 'Tis a part of mine hallowed adventure.\nJP :\nこれは遊びではない。崇高な冒険の一部である。"
+  },
+  {
+    "key": "23-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "23-content",
+    "original": "그 눈…",
+    "context": "EN :\nOh, your eyes...\nJP :\nその目…。"
+  },
+  {
+    "key": "24-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "24-content",
+    "original": "나는 언제나 너의 그 눈을 미워했지.",
+    "context": "EN :\nI have always hated them.\nJP :\n私はいつも、あなたのその目を憎んでた。"
+  },
+  {
+    "key": "25-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "25-content",
+    "original": "눈앞에 벌어지는 모든 것엔 관심 없다는 듯이, 한 발짝 뒤에서 구경만 하려는 듯한 그 눈.",
+    "context": "EN :\nThat look of arrogant disinterest as though nothing before you was worth your concern. As though you were not a part of the world, but only a detached observer.\nJP :\n目の前で起こることに、関心がないかのように\n一歩下がって、見物だけしようとするかのような、その目。"
+  },
+  {
+    "key": "26-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "26-content",
+    "original": "그 눈이 다시 생기 있게 반짝거릴 날이 대체 언제일까 싶었는데.",
+    "context": "EN :\nLong did I wonder to see when your eyes would twinkle so vividly again...\nJP :\nその目が、再び生き生きと輝く日は、\n一体いつだろうと思っていたけれど。"
+  },
+  {
+    "key": "27-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "27-content",
+    "original": "바로 지금이구나. 그런데 여전히 증오스러워.",
+    "context": "EN :\n... and now that I finally see them... I find myself hating them still.\nJP :\nまさに今なんだね。\nでも、相変わらず\n憎らしい。"
+  },
+  {
+    "key": "28-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "28-content",
+    "original": "반짝거려도 여전히 역겹고… 미워할 수밖에 없는 눈이네.",
+    "context": "EN :\nStill as foul, revolting... and hateful, for all that glimmer.\nJP :\n輝いても、依然として、不快で…。\n憎むしかない目ね。"
+  },
+  {
+    "key": "29-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "29-content",
+    "original": "…우리는 매일 이곳을 돌았지. 똑같은 한 바퀴를. 똑같은 마음으로.",
+    "context": "EN :\n... Every day we paraded in a circle, in the very same route, with the very same heart.\nJP :\n…私たちは、毎日ここを回ったの。\n同じ一周を。\n同じ、気持ちで。"
+  },
+  {
+    "key": "30-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "30-content",
+    "original": "새로운 날이 시작되길 기대하면서…",
+    "context": "EN :\nWishing for a new day to begin...\nJP :\n新しい日が始まることを期待しながら…。"
+  },
+  {
+    "key": "31-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "31-content",
+    "original": "비록 왕자 역할을 맡은 카세티는 자신만의 왕국을 만들기 위해 이곳을 벗어났지만…",
+    "context": "EN :\nThough Cassetti, who played the Prince of the Parade, has left us to build his own kingdom...\nJP :\nたとえ、王子役を務めたカセッティは、\n自分だけの王国を作るために、ここを抜け出したけれど…。"
+  },
+  {
+    "key": "32-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "32-content",
+    "original": "혼자 남은 공주로도 사람들은 열광할 거야.",
+    "context": "EN :\n... a lone Princess should be enough to rouse our guests.\nJP :\n一人残った姫でも、人々は熱狂するでしょう。"
+  },
+  {
+    "key": "33-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "33-content",
+    "original": "…음악으로 사람들을 홀린 건 당신의 소행이었나요?",
+    "context": "EN :\n... Was it you who hypnotized people with this music?\nJP :\n…音楽で人々を惑わしたのはあなたの仕業だったんですか？"
+  },
+  {
+    "key": "34-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "34-content",
+    "original": "틀렸어, 나도 홀린 거야.",
+    "context": "EN :\nWrong question. Because I was also charmed by an illusion.\nJP :\n違うわ、私も惑わされたの。"
+  },
+  {
+    "key": "35-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "35-content",
+    "original": "다들 내가 이 행렬의 선두에 있다고 행렬의 주인이라 착각해.",
+    "context": "EN :\nAll seem to mistake that I am the mistress of this parade, that I lead the path, only because I stand at the forefront of it.\nJP :\nみんな、私がこの行列の先頭にいるから、\n行列の主人だと勘違いする。"
+  },
+  {
+    "key": "36-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "36-content",
+    "original": "제일 아름답고 고귀한 나, 돌시네아이기에… 카니발의 주인공이 되었을 뿐.",
+    "context": "EN :\nBecause I am Dulcinea, the most beautiful... the most noble... I was given the role of the Carnival's Lady.\nJP :\n最も美しく、高貴な私。ドゥルシネーアだから…。\nカーニバルの主役になっただけ。"
+  },
+  {
+    "key": "37-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "37-content",
+    "original": "나 역시 이 행렬의 일부지.",
+    "context": "EN :\nI do not lead it; I am but another attraction of the Parade.\nJP :\n私もまた、この行列の一部なの。"
+  },
+  {
+    "key": "38-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "38-content",
+    "original": "하, 그런 거였나.",
+    "context": "EN :\nHah, I see now.\nJP :\nはっ、そういうことか。"
+  },
+  {
+    "key": "39-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "39-content",
+    "original": "망가진 것들이 서로 물고 물어 영원을 이뤘군.",
+    "context": "EN :\nThis is a parade of broken things, biting one after another in a cycle of infinity.\nJP :\n壊れた者たちが互いを咬み合って、永遠を成したんだな。"
+  },
+  {
+    "key": "40-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "40-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "41-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "41-content",
+    "original": "이제 알겠어?",
+    "context": "EN :\nDo you see now?\nJP :\nこれで分かった？"
+  },
+  {
+    "key": "42-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "42-content",
+    "original": "라만차랜드는 우리의 처음과 끝을 재현하는 장소야.",
+    "context": "EN :\nThat La Manchaland is where we relive our beginnings and ends.\nJP :\nラ・マンチャランドは、私たちの始まりと終わりを再現する場所よ。"
+  },
+  {
+    "key": "43-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "43-content",
+    "original": "놀이공원은 항상 즐거운 곳이 되어야 한다고 했었으니까…",
+    "context": "EN :\nBecause it was said that amusement parks have no place for what isn't happy...\nJP :\n遊園地は、いつも楽しい場所でなければならないと言っていたから…。"
+  },
+  {
+    "key": "44-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "44-content",
+    "original": "우리가 우리였던… 행복했던 처음과 끝을 끊임없이 반복하는 거야.",
+    "context": "EN :\nFated to repeat our beginnings and ends ad infinitum, the times when we were still happy... When we were still... us.\nJP :\n私たちが、私たちであった…。\n幸せだった、始まりと終わりを\n絶えず、繰り返すんだ。"
+  },
+  {
+    "key": "45-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "45-content",
+    "original": "그렇다면 이 모든 기억이 즐거워지게 될 테니까.",
+    "context": "EN :\nBecause only then shall our memories become tainted by happiness.\nJP :\nそうすれば、この全ての記憶が\n楽しくなるはずだから。"
+  },
+  {
+    "key": "46-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "46-content",
+    "original": "…전멸한 건가? 이 구역을 찾아온 해결사들은…",
+    "context": "EN :\n... The Fixers who were assigned to this Area... They're all dead, then?\nJP :\n…全滅したのか？\nこの区域を訪れたフィクサーたちは…。"
+  },
+  {
+    "key": "47-model",
+    "original": "혈귀사냥꾼",
+    "translation": "血魔猎人",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "47-content",
+    "original": "끄어어…",
+    "context": "EN :\nGnnnnhhhh...\nJP :\nぐあぁぁ…。"
+  },
+  {
+    "key": "48-model",
+    "original": "로메로다침",
+    "translation": "罗梅罗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRomero\nJP :\nロメロ"
+  },
+  {
+    "key": "48-content",
+    "original": "…하… 하… 웃기지? 우리랑… 합류했던 다른 해결사가 배신하는 바람에…",
+    "context": "EN :\n... Hah... ha... funny, isn't it? The other Fixer who was assigned to the same Area as us... stabbed us in the back...\nJP :\n…は…は…笑えるだろう？\n僕たちと…合流した他のフィクサーが裏切ったせいで…。"
+  },
+  {
+    "key": "49-model",
+    "original": "로메로다침",
+    "translation": "罗梅罗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRomero\nJP :\nロメロ"
+  },
+  {
+    "key": "49-content",
+    "original": "전부… 죽었어.",
+    "context": "EN :\n... and doomed... us all.\nJP :\nみんな…死んだ。"
+  },
+  {
+    "key": "50-model",
+    "original": "로메로다침",
+    "translation": "罗梅罗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRomero\nJP :\nロメロ"
+  },
+  {
+    "key": "50-content",
+    "original": "처음에 잔뜩… 폼만 잡아놓고… 결국 뒤통수 맞아서 죽는 꼴이라니…",
+    "context": "EN :\nHow... pathetic... All that posturing... just to die here... from some knife in my back...\nJP :\n最初に散々…格好つけておいて…結局裏切られて死ぬなんてさ…。"
+  },
+  {
+    "key": "51-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "51-content",
+    "original": "전멸이 아니라 행렬에 동참한 거지. 우리의 끝을 논하기엔 이자들은 자격을 갖추지 못했거든.",
+    "context": "EN :\nDead? No, they have but joined the Parade. For they were not worthy to have a part in our ending.\nJP :\n全滅ではなく、行列に参加したんだ。\n私たちの終わりを論じるにも、\nこの者たちは、資格を備えてないから。"
+  },
+  {
+    "key": "52-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "52-content",
+    "original": "증오에 잡아먹혀서 더 이상 더 나은 행복을 목표하지 않아.",
+    "context": "EN :\nHumans, devoured and driven by hatred, seeking no betterment nor happiness.\nJP :\n憎悪に食われて、これ以上\nもっと良い幸福を目指さない。"
+  },
+  {
+    "key": "53-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "53-content",
+    "original": "그저 우리를 최대한 많이 죽이는 것만이 삶의 지표가 된 것들.",
+    "context": "EN :\nWith no other purpose or direction in life other than to slaughter as many of us as possible.\nJP :\nただ、私たちをなるべく多く殺すことだけが、\n人生の指標になった者たち。"
+  },
+  {
+    "key": "54-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "54-content",
+    "original": "추악하고 불쌍하지.",
+    "context": "EN :\nSo hideous, yet so pitiful.\nJP :\n醜くて、哀れね。"
+  },
+  {
+    "key": "55-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "55-content",
+    "original": "우리가 하고자 했던 건 고작 재현에 불과한데.",
+    "context": "EN :\nWe had only wished to relive our memories.\nJP :\n私たちがしようとしたのは、せいぜい、\n再現に過ぎないのに。"
+  },
+  {
+    "key": "56-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "56-content",
+    "original": "듣자 하니 불쾌감을 참을 수 없군.",
+    "context": "EN :\nI can hardly contain my disgust at thine excuses.\nJP :\n聞いていて不快感を抑えられぬな。"
+  },
+  {
+    "key": "57-content",
+    "original": "돌시네아의 처연한 목소리의 꼬리에, 갑작스럽게 돈키호테의 우렁찬 목소리가 끼어들었다.",
+    "context": "EN :\nDon Quixote boisterously cut through Dulcinea's despondent musings.\nJP :\nドゥルシネーアの悲しげな声の終わりに、\n突然ドンキホーテの朗々たる声が割り込んだ。"
+  },
+  {
+    "key": "58-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "58-content",
+    "original": "네놈들을 심판하는 것에 무슨 자격이 필요한 겐가?",
+    "context": "EN :\nWe need not mire ourselves in discussions of worthiness to bring thy deserved judgment!\nJP :\nお前たちを裁くのに何の資格が必要だというのか？"
+  },
+  {
+    "key": "59-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "59-content",
+    "original": "너희 혈귀들은 피를 마시기 위해서 사람을 죽이고 악행을 일삼는다지.",
+    "context": "EN :\nBloodfiends! From what I have heard, it is said that thy kind slay humans and commit all kinds of depraved, heinous immoralities just for a drop of blood.\nJP :\nお前たち血鬼は血を飲むために人を殺し、悪行を重ねるという。"
+  },
+  {
+    "key": "60-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "60-content",
+    "original": "고작 그런 이유로 사람들을 죽인단 말인가?",
+    "context": "EN :\nIs that all there is to it? For so paltry a reason?\nJP :\nたかがそんな理由で人々を殺すというのか？"
+  },
+  {
+    "key": "61-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "61-content",
+    "original": "피를 먹고 싶다는 그 이유 하나만으로?",
+    "context": "EN :\nFor something so puerile, so insignificant and trivial?\nJP :\n血が飲みたいというその理由一つだけで？"
+  },
+  {
+    "key": "62-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "62-content",
+    "original": "어찌 그런 사소한 욕망으로 사람의 목숨을 빼앗는단 말인가!",
+    "context": "EN :\nHow darest thou seek to deprive humans of their right to live, for such trifling gluttony!\nJP :\nなにゆえそのような些細な欲望で人の命を奪うというのだ！"
+  },
+  {
+    "key": "63-content",
+    "original": "돌시네아는 말이 없었다.",
+    "context": "EN :\nDulcinea remained silent.\nJP :\nドゥルシネーアは何も言わなかった。"
+  },
+  {
+    "key": "64-content",
+    "original": "그저 잠시 동안 과거를 돌아보는 듯 먼 곳으로 시선을 돌렸다가, 눈을 감는다.",
+    "context": "EN :\nShe looks away into the distance, staring into the times of the far past, then closes her eyes.\nJP :\nただしばらく過去を振り返るように\n遠くを見つめてから、目を閉じた。"
+  },
+  {
+    "key": "65-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "65-content",
+    "original": "지금 생각해 보니, 나는 네가 부러운 걸지도 모르겠어.",
+    "context": "EN :\nNow that I muse upon it, perhaps this feeling of mine toward you is envy.\nJP :\n今思うと、私は、\nあなたが羨ましかったのかもしれない。"
+  },
+  {
+    "key": "66-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "66-content",
+    "original": "그 이름을 지닌 대가로 저들이 원하는 모든 걸 네가 가지다니.",
+    "context": "EN :\nYou have everything we've ever wanted... just for claiming that name as your own.\nJP :\nその名前を持つ代償として、彼らが望むすべてを、\nあなたが持っているなんて。"
+  },
+  {
+    "key": "67-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "67-content",
+    "original": "아무것도 모른다는 듯이 빛나는 그 눈.",
+    "context": "EN :\nThose twinkling, innocent eyes.\nJP :\n何も知らないかのように輝く、その目。"
+  },
+  {
+    "key": "68-model",
+    "original": "돌시네아",
+    "translation": "杜尔西内娅",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDulcinea\nJP :\nドゥルシネーア"
+  },
+  {
+    "key": "68-content",
+    "original": "역시. 마음에 들지 않아.",
+    "context": "EN :\nI hate them still.\nJP :\nやっぱり。気に入らない。"
+  }
+]

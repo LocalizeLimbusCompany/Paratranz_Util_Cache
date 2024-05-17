@@ -1,0 +1,567 @@
+[
+  {
+    "key": "1-content",
+    "original": "일반 추출",
+    "context": "EN :\nStandard Extraction\nJP :\n一般抽出"
+  },
+  {
+    "key": "2-content",
+    "original": "3성 인격 확정 추출",
+    "context": "EN :\nAssured Extraction: 3★ Identity\nJP :\n星3人格 確定抽出"
+  },
+  {
+    "key": "3-content",
+    "original": "신입 관리자 기념 추출",
+    "context": "EN :\nNew Manager’s Welcome Extraction\nJP :\n新任管理人 記念抽出"
+  },
+  {
+    "key": "4-content",
+    "original": "시즌 1 - 3성 인격 확정 추출",
+    "context": "EN :\n[Season 1] Assured Extraction: 3★ Identity\nJP :\nシーズン1 - 星3人格確定抽出"
+  },
+  {
+    "key": "101-content",
+    "original": "특정 추출 그레고르",
+    "context": "EN :\nTarget Extraction: Gregor\nJP :\n特定抽出 グレゴール"
+  },
+  {
+    "key": "102-content",
+    "original": "신규 특정 추출 N사-#1",
+    "context": "EN :\nNew Target Extraction: N Corp. #1\nJP :\n新規特定抽出 N社-#1"
+  },
+  {
+    "key": "103-content",
+    "original": "특정 추출 로쟈",
+    "context": "EN :\nTarget Extraction: Rodion\nJP :\n特定抽出ロージャ"
+  },
+  {
+    "key": "104-content",
+    "original": "신규 특정 추출 N사-#2",
+    "context": "EN :\nNew Target Extraction: N Corp. #2\nJP :\n新規特定抽出 N社-#2"
+  },
+  {
+    "key": "105-content",
+    "original": "특정 추출 히스클리프",
+    "context": "EN :\nTarget Extraction: Heathcliff\nJP :\n特定抽出 ヒースクリフ"
+  },
+  {
+    "key": "106-content",
+    "original": "신규 특정 추출 세븐 협회 6과 부장 오티스, 리우 협회 5과 홍루",
+    "context": "EN :\nNew Target Extraction: Seven S6 Director Outis & Liu S5 Hong Lu\nJP :\n新規特定抽出 セブン協会7課部長 ウーティス, リウ協会5課 ホンル"
+  },
+  {
+    "key": "107-content",
+    "original": "특정 추출 돈키호테",
+    "context": "EN :\nTarget Extraction: Don Quixote\nJP :\n特定抽出 ドンキホーテ"
+  },
+  {
+    "key": "108-content",
+    "original": "신규 특정 추출 헬스 치킨",
+    "context": "EN :\nNew Target Extraction: Hell’s Chicken\nJP :\n新規特定抽出 ヘルズチキン"
+  },
+  {
+    "key": "109-content",
+    "original": "특정 추출 홍루",
+    "context": "EN :\nTarget Extraction: Hong Lu\nJP :\n特定抽出ホンル"
+  },
+  {
+    "key": "110-content",
+    "original": "신규 특정 추출 N사-#3",
+    "context": "EN :\nNew Target Extraction: N Corp. #3\nJP :\n新規特定抽出 N社-#3"
+  },
+  {
+    "key": "111-content",
+    "original": "특정 추출 파우스트",
+    "context": "EN :\nTarget Extraction: Faust\nJP :\n特定抽出ファウスト"
+  },
+  {
+    "key": "112-content",
+    "original": "특정 추출 E.G.O 차원찢개 이상 · 홍루",
+    "context": "EN :\nTarget Extraction: Dimension Shredder for Yi Sang & Hong Lu\nJP :\n特定抽出E.G.O 次元裂き イサン・ホンル"
+  },
+  {
+    "key": "113-content",
+    "original": "특정 추출 뫼르소",
+    "context": "EN :\nTarget Extraction: Meursault\nJP :\n特定抽出 ムルソー"
+  },
+  {
+    "key": "114-content",
+    "original": "신규 특정 추출 장미스패너 공방 사무소",
+    "context": "EN :\nNew Target Extraction: Rosespanner Workshop\nJP :\n新規特定抽出 バラのスパナ工房事務所"
+  },
+  {
+    "key": "5-content",
+    "original": "시즌 2 - 3성 인격 확정 추출",
+    "context": "EN :\n[Season 2] Assured Extraction: 3★ Identity\nJP :\nシーズン2 - 星3人格確定抽出"
+  },
+  {
+    "key": "115-content",
+    "original": "신규 특정 추출 기술해방연합 · 장미스패너 공방",
+    "context": "EN :\nNew Target Extraction: Technology Liberation Alliance & Rosespanner Workshop\nJP :\n新規特定抽出 技術解放連合・バラのスパナ工房"
+  },
+  {
+    "key": "116-content",
+    "original": "특정 추출 오티스",
+    "context": "EN :\nTarget Extraction: Outis\nJP :\n特定抽出ウーティス"
+  },
+  {
+    "key": "117-content",
+    "original": "신규 특정 추출 기술해방연합#2",
+    "context": "EN :\nNew Target Extraction: Technology Liberation Alliance #2\nJP :\n新規特定抽出 技術解放連合#2"
+  },
+  {
+    "key": "118-content",
+    "original": "특정 추출 싱클레어",
+    "context": "EN :\nTarget Extraction: Sinclair\nJP :\n特定抽出 シンクレア"
+  },
+  {
+    "key": "119-content",
+    "original": "신규 특정 추출 K사 · 기술해방연합#3",
+    "context": "EN :\nNew Target Extraction: K Corp & Technology Liberation Alliance #3\nJP :\n新規特定抽出 K社・技術解放連合#3"
+  },
+  {
+    "key": "120-content",
+    "original": "신규 E.G.O 특정 추출 적안 · 적안(開)",
+    "context": "EN :\nTarget Extraction: Red Eyes & Red Eyes (Open)\nJP :\n新規E.G.O特定抽出 赤眼・赤眼(開)"
+  },
+  {
+    "key": "121-content",
+    "original": "신규 특정 추출 남부 리우 협회 4과 이스마엘",
+    "context": "EN :\nNew Target Extraction: Liu South Section 4 Ishmael\nJP :\n新規特定抽出 南部リウ協会4課 イシュメール"
+  },
+  {
+    "key": "122-content",
+    "original": "특정 추출 이상",
+    "context": "EN :\nTarget Extraction: Yi Sang\nJP :\n特定抽出イサン"
+  },
+  {
+    "key": "123-content",
+    "original": "신규 특정 추출 R사 제 4무리 코뿔소 팀 뫼르소 · 남부 츠바이 협회 5과 로쟈",
+    "context": "EN :\nNew Target Extraction: R Corp. 4th Pack Rhino Meursault & Zwei South Section 5 Rodion\nJP :\n新規特定抽出 R社第4群 サイチーム ムルソー・南部ツヴァイ協会5課 ロージャ"
+  },
+  {
+    "key": "124-content",
+    "original": "신규 특정 추출 남부 섕크 협회 5과 부장 돈키호테",
+    "context": "EN :\nNew Target Extraction: Cinq South Section 5 Director Don Quixote\nJP :\n新規特定抽出 南部センク協会5課部長 ドンキホーテ"
+  },
+  {
+    "key": "125-content",
+    "original": "특정 추출 료슈",
+    "context": "EN :\nTarget Extraction: Ryōshū\nJP :\n特定抽出良秀"
+  },
+  {
+    "key": "126-content",
+    "original": "신규 인격 · E.G.O 특정 추출 우.미.다",
+    "context": "EN :\nNew Target Extraction: Identity & E.G.O - S.E.A\nJP :\n新規人格・E.G.O特定抽出 う・み・ダ"
+  },
+  {
+    "key": "127-content",
+    "original": "신규 특정 추출 남부 츠바이 협회 4과 그레고르 · 파우스트",
+    "context": "EN :\nNew Target Extraction: Zwei South Section 4 Gregor & Faust\nJP :\n新規特定抽出 南部ツヴァイ協会4課 グレゴール・ファウスト"
+  },
+  {
+    "key": "128-content",
+    "original": "특정 추출 이스마엘",
+    "context": "EN :\nTarget Extraction: Ishmael\nJP :\n特定抽出イシュメール"
+  },
+  {
+    "key": "129-content",
+    "original": "신규 특정 추출 W사 3등급 정리요원 료슈 · 2등급 정리요원 홍루",
+    "context": "EN :\nNew Target Extraction: W Corp. L3 Cleanup Agent Ryōshū & L2 Cleanup Agent Hong Lu\nJP :\n新規特定抽出 W社3級整理要員 良秀・2級整理要員 ホンル"
+  },
+  {
+    "key": "130-content",
+    "original": "특정 추출 돈키호테",
+    "context": "EN :\nTarget Extraction: Don Quixote\nJP :\n特定抽出 ドンキホーテ"
+  },
+  {
+    "key": "131-content",
+    "original": "신규 특정 추출 남부 세븐 협회 4과 파우스트 · 히스클리프",
+    "context": "EN :\nNew Target Extraction: Seven South Section 4 Faust & Heathcliff\nJP :\n新規特定抽出 南部セブン協会4課 ファウスト・ヒースクリフ"
+  },
+  {
+    "key": "132-content",
+    "original": "특정 추출 그레고르",
+    "context": "EN :\nTarget Extraction: Gregor\nJP :\n特定抽出 グレゴール"
+  },
+  {
+    "key": "133-content",
+    "original": "신규 특정 추출 남부 디에치 협회 4과 로쟈",
+    "context": "EN :\nNew Target Extraction: Dieci South Section 4 Rodion\nJP :\n新規特定抽出 南部ディエーチ協会4課 ロージャ"
+  },
+  {
+    "key": "134-content",
+    "original": "특정 추출 홍루",
+    "context": "EN :\nTarget Extraction: Hong Lu\nJP :\n特定抽出ホンル"
+  },
+  {
+    "key": "135-content",
+    "original": "신규 E.G.O 특정 추출 초롱 싱클레어",
+    "context": "EN :\nNew E.G.O Target Extraction: Lantern for Sinclair\nJP :\n新規E.G.O特定抽出 提灯シンクレア"
+  },
+  {
+    "key": "136-content",
+    "original": "신규 E.G.O 특정 추출 공즉시색 히스클리프",
+    "context": "EN :\nNew E.G.O Target Extraction: Ya Śūnyatā Tad Rūpam for Heathcliff\nJP :\n新規E.G.O特定抽出 空即是色ヒースクリフ"
+  },
+  {
+    "key": "137-content",
+    "original": "특정 추출 로쟈",
+    "context": "EN :\nTarget Extraction: Rodion\nJP :\n特定抽出ロージャ"
+  },
+  {
+    "key": "138-content",
+    "original": "제1회 발푸르기스의 밤 특정 추출",
+    "context": "EN :\nThe 1st Walpurgis Night Target Extraction\nJP :\n第1回 ヴァルプルギスの夜 特定抽出"
+  },
+  {
+    "key": "139-content",
+    "original": "특정 추출 히스클리프",
+    "context": "EN :\nTarget Extraction: Heathcliff\nJP :\n特定抽出 ヒースクリフ"
+  },
+  {
+    "key": "140-content",
+    "original": "신규 특정 추출 W사 3등급 정리 요원 이상",
+    "context": "EN :\nNew Target Extraction: W Corp. L3 Cleanup Agent Yi Sang\nJP :\n新規特定抽出 W社3級整理要員 イサン"
+  },
+  {
+    "key": "141-content",
+    "original": "특정 추출 파우스트",
+    "context": "EN :\nTarget Extraction: Faust\nJP :\n特定抽出ファウスト"
+  },
+  {
+    "key": "142-content",
+    "original": "신규 특정 추출 쌍갈고리 해적단 부선장 그레고르 · LCCB 대리 료슈",
+    "context": "EN :\nNew Target Extraction: Twinhook Pirates First mate Gregor & LCCB Assistant Manager Ryōshū\nJP :\n新規特定抽出 双鉤海賊団副船長 グレゴール・LCCB係長 良秀"
+  },
+  {
+    "key": "143-content",
+    "original": "신규 특정 추출 중지 작은 아우 돈키호테 · 뫼르소",
+    "context": "EN :\nNew Target Extraction: The Middle Little Sister Don Quixote & Little Brother Meursault\nJP :\n新規特定抽出 中指末妹・弟 ドンキホーテ・ムルソー"
+  },
+  {
+    "key": "6-content",
+    "original": "시즌 3 - 3성 인격 확정 추출",
+    "context": "EN :\n[Season 3] Assured Extraction: 3★ Identity\nJP :\nシーズン3 - 星3人格確定抽出"
+  },
+  {
+    "key": "144-content",
+    "original": "특정 추출 오티스",
+    "context": "EN :\nTarget Extraction: Outis\nJP :\n特定抽出ウーティス"
+  },
+  {
+    "key": "145-content",
+    "original": "신규 특정 추출 피쿼드호 작살잡이 히스클리프 · 일등 항해사 이상",
+    "context": "EN :\nNew Target Extraction: The Pequod Harpooneer Heathcliff & First Mate Yi Sang\nJP :\n新規特定抽出 ピークォド号銛使い ヒースクリフ・1等航海士 イサン"
+  },
+  {
+    "key": "146-content",
+    "original": "특정 추출 뫼르소",
+    "context": "EN :\nTarget Extraction: Meursault\nJP :\n特定抽出 ムルソー"
+  },
+  {
+    "key": "147-content",
+    "original": "신규 E.G.O 특정 추출 집행 로쟈",
+    "context": "EN :\nNew E.G.O Target Extraction: Pursuance for Rodion\nJP :\n新規E.G.O特定抽出 執行ロージャ"
+  },
+  {
+    "key": "148-content",
+    "original": "신규 특정 추출 남부 섕크 협회 4과 부장 싱클레어 · 4과 오티스",
+    "context": "EN :\nNew Target Extraction: Cinq South S4 Director Sinclair & S4 Outis\nJP :\n新規特定抽出 南部センク協会4課部長シンクレア・4課ウーティス"
+  },
+  {
+    "key": "149-content",
+    "original": "특정 추출 료슈",
+    "context": "EN :\nTarget Extraction: Ryōshū\nJP :\n特定抽出良秀"
+  },
+  {
+    "key": "150-content",
+    "original": "신규 E.G.O 특정 추출 20번구의 기적",
+    "context": "EN :\nNew E.G.O Target Extraction: Miracle in District 20\nJP :\n新規E.G.O特定抽出 20番区の奇跡"
+  },
+  {
+    "key": "151-content",
+    "original": "특정 추출 이상",
+    "context": "EN :\nTarget Extraction: Yi Sang\nJP :\n特定抽出イサン"
+  },
+  {
+    "key": "152-content",
+    "original": "제2회 발푸르기스의 밤 특정 추출",
+    "context": "EN :\nThe 2nd Walpurgis Night Target Extraction\nJP :\n第2回 ヴァルプルギスの夜 特定抽出"
+  },
+  {
+    "key": "153-content",
+    "original": "특정 추출 싱클레어",
+    "context": "EN :\nTarget Extraction: Sinclair\nJP :\n特定抽出 シンクレア"
+  },
+  {
+    "key": "154-content",
+    "original": "신규 특정 추출 남부 디에치 협회 4과 홍루 · 이상",
+    "context": "EN :\nNew Target Extraction: Dieci South Section 4 Hong Lu & Yi Sang\nJP :\n新規特定抽出 南部ディエーチ協会4課 ホンル・イサン"
+  },
+  {
+    "key": "155-content",
+    "original": "특정 추출 그레고르",
+    "context": "EN :\nTarget Extraction: Gregor\nJP :\n特定抽出 グレゴール"
+  },
+  {
+    "key": "156-content",
+    "original": "신규 특정 추출 피쿼드호 선장 이스마엘",
+    "context": "EN :\nNew Target Extraction: The Pequod Captain Ishmael\nJP :\n新規特定抽出 ピークォド号船長イシュメール"
+  },
+  {
+    "key": "157-content",
+    "original": "신규 E.G.O 특정 추출 소망석 돈키호테",
+    "context": "EN :\nNew E.G.O Target Extraction: Wishing Cairn for Don Quixote\nJP :\n新規E.G.O特定抽出 願いの石ドンキホーテ"
+  },
+  {
+    "key": "158-content",
+    "original": "특정 추출 홍루",
+    "context": "EN :\nTarget Extraction: Hong Lu\nJP :\n特定抽出ホンル"
+  },
+  {
+    "key": "159-content",
+    "original": "신규 특정 추출 육참골단",
+    "context": "EN :\nNew Target Extraction: Yield My Flesh to Claim Their Bones\nJP :\n新規特定抽出 肉斬骨断"
+  },
+  {
+    "key": "160-content",
+    "original": "특정 추출 이스마엘",
+    "context": "EN :\nTarget Extraction: Ishmael\nJP :\n特定抽出イシュメール"
+  },
+  {
+    "key": "161-content",
+    "original": "신규 특정 추출 남부 리우 협회 4과 부장 로쟈 · 4과 료슈",
+    "context": "EN :\nNew Target Extraction: Liu South S4 Director Rodion & S4 Ryōshū\nJP :\n新規特定抽出 南部リウ協会4課部長ロージャ・4課良秀"
+  },
+  {
+    "key": "162-content",
+    "original": "신규 E.G.O 특정 추출 가시 화원 그레고르",
+    "context": "EN :\nNew E.G.O Target Extraction: Garden of Thorns for Gregor\nJP :\n新規E.G.O特定抽出 茨の花園 グレゴール"
+  },
+  {
+    "key": "163-content",
+    "original": "특정 추출 돈키호테",
+    "context": "EN :\nTarget Extraction: Don Quixote\nJP :\n特定抽出 ドンキホーテ"
+  },
+  {
+    "key": "164-content",
+    "original": "신규 특정 추출 남부 외우피 협회 3과 히스클리프",
+    "context": "EN :\nNew Target Extraction: Öufi South Section 3 Heathcliff\nJP :\n新規特定抽出 南部ウーフィ協会3課 ヒースクリフ"
+  },
+  {
+    "key": "7-content",
+    "original": "시즌 4 - 3성 인격 확정 추출",
+    "context": "EN :\n[Season 4] Assured Extraction: 3★ Identity\nJP :\nシーズン4 - 星3人格確定抽出"
+  },
+  {
+    "key": "165-content",
+    "original": "신규 특정 추출 워더링하이츠 치프 버틀러 오티스 · 데드레빗츠 보스 뫼르소",
+    "context": "EN :\nNew Target Extraction: Wuthering Heights Chief Butler Outis & Dead Rabbits Boss Meursault\nJP :\n新規特定抽出 ワザリング・ハイツ チーフバトラー ウーティス・デッドラビッツ ボス ムルソー"
+  },
+  {
+    "key": "166-content",
+    "original": "특정 추출 로쟈",
+    "context": "EN :\nTarget Extraction: Rodion\nJP :\n特定抽出ロージャ"
+  },
+  {
+    "key": "167-content",
+    "original": "신규 특정 추출 에드가 가문 승계자 그레고르 · 워더링하이츠 버틀러 파우스트",
+    "context": "EN :\nNew Target Extraction: Edgar Family Heir Gregor & Wuthering Heights Butler Faust\nJP :\n新規特定抽出 エドガー家継承者 グレゴール・ワザリング・ハイツバトラー ファウスト"
+  },
+  {
+    "key": "168-content",
+    "original": "특정 추출 히스클리프",
+    "context": "EN :\nTarget Extraction: Heathcliff\nJP :\n特定抽出 ヒースクリフ"
+  },
+  {
+    "key": "169-content",
+    "original": "신규 특정 추출 에드가 가문 치프 버틀러 료슈 · 버틀러 이스마엘",
+    "context": "EN :\nNew Target Extraction: Edgar Family Chief Butler Ryōshū & Butler Ishmael\nJP :\n新規特定抽出 エドガー家チーフバトラー 良秀・バトラー イシュメール"
+  },
+  {
+    "key": "170-content",
+    "original": "특정 추출 료슈",
+    "context": "EN :\nTarget Extraction: Ryōshū\nJP :\n特定抽出良秀"
+  },
+  {
+    "key": "171-content",
+    "original": "제3회 발푸르기스의 밤 특정 추출",
+    "context": "EN :\nThe 3rd Walpurgis Night Target Extraction\nJP :\n第3回 ヴァルプルギスの夜 特定抽出"
+  },
+  {
+    "key": "172-content",
+    "original": "특정 추출 파우스트",
+    "context": "EN :\nTarget Extraction: Faust\nJP :\n特定抽出ファウスト"
+  },
+  {
+    "key": "173-content",
+    "original": "신규 특정 추출 약지 점묘파 스튜던트 이상 · 오티스",
+    "context": "EN :\nNew Target Extraction: The Ring Pointillist Student Yi Sang & Outis\nJP :\n新規特定抽出 薬指 点描派スチューデント イサン・ウーティス"
+  },
+  {
+    "key": "174-content",
+    "original": "특정 추출 오티스",
+    "context": "EN :\nTarget Extraction: Outis\nJP :\n特定抽出ウーティス"
+  },
+  {
+    "key": "175-content",
+    "original": "신규 E.G.O 특정 추출 낮은울음 홍루 · 싱클레어",
+    "context": "EN :\nNew E.G.O Target Extraction: Cavernous Wailing for Hong Lu & Sinclair\nJP :\n新規E.G.O特定抽出 低いなきごえ ホンル・シンクレア"
+  },
+  {
+    "key": "176-content",
+    "original": "특정 추출 뫼르소",
+    "context": "EN :\nTarget Extraction: Meursault\nJP :\n特定抽出 ムルソー"
+  },
+  {
+    "key": "177-content",
+    "original": "신규 특정 추출 시간살인시간",
+    "context": "EN :\nNew Target Extraction: Timekilling Time\nJP :\n新規特定抽出 時間殺人時間"
+  },
+  {
+    "key": "178-content",
+    "original": "특정 추출 이상",
+    "context": "EN :\nTarget Extraction: Yi Sang\nJP :\n特定抽出イサン"
+  },
+  {
+    "key": "179-content",
+    "original": "신규 특정 추출 T사 3등급 징수직 직원 돈키호테 · 2등급 징수직 직원 로쟈",
+    "context": "EN :\nNew Target Extraction: T Corp. Class 3 Collection Staff Don Quixote & Class 2 Collection Staff Rodion\nJP :\n新規特定抽出T社3級徴収職職員ドンキホーテ・2級徴収職職員ロージャ"
+  },
+  {
+    "key": "180-content",
+    "original": "특정 추출 싱클레어",
+    "context": "EN :\nTarget Extraction: Sinclair\nJP :\n特定抽出 シンクレア"
+  },
+  {
+    "key": "181-content",
+    "original": "신규 인격 · E.G.O 특정 추출 남부 디에치 협회 4과 부장 뫼르소 · 경멸, 경외 료슈",
+    "context": "EN :\nNew Target Extraction: Dieci South S4 Director Meursault & Contempt, Awe Ryōshū\nJP :\n新規人格・E.G.O特定抽出 南部ディエーチ協会4課部長 ムルソー・軽蔑、畏敬 良秀"
+  },
+  {
+    "key": "182-content",
+    "original": "특정 추출 그레고르",
+    "context": "EN :\nTarget Extraction: Gregor\nJP :\n特定抽出 グレゴール"
+  },
+  {
+    "key": "183-content",
+    "original": "신규 인격 · E.G.O 특정 추출 W사 3등급 정리 요원 팀장 오티스 · 흉탄 히스클리프",
+    "context": "EN :\nNew Target Extraction: W Corp. L3 Cleanup Captain Outis & Fell Bullet Heathcliff\nJP :\n新規人格・E.G.O特定抽出 W社3級整理要員チーフ ウーティス・凶弾 ヒースクリフ"
+  },
+  {
+    "key": "184-content",
+    "original": "특정 추출 홍루",
+    "context": "EN :\nTarget Extraction: Hong Lu\nJP :\n特定抽出ホンル"
+  },
+  {
+    "key": "185-content",
+    "original": "신규 인격 · E.G.O 특정 추출 멀티크랙 사무소 대표 파우스트 · 차원찢개 오티스",
+    "context": "EN :\nNew Target Extraction: MultiCrack Office Rep Faust & Dimension Shredder Outis\nJP :\n新規人格・E.G.O特定抽出 マルチクラック事務所代表ファウスト・次元裂きウーティス"
+  },
+  {
+    "key": "186-content",
+    "original": "특정 추출 이스마엘",
+    "context": "EN :\nTarget Extraction: Ishmael\nJP :\n特定抽出イシュメール"
+  },
+  {
+    "key": "187-content",
+    "original": "신규 인격 특정 추출 와일드헌트 히스클리프",
+    "context": "EN :\nNew Target Extraction: Wild Hunt Heathcliff\nJP :\n新規人格特定抽出 ワイルドハントヒースクリフ"
+  },
+  {
+    "key": "188-content",
+    "original": "특정 추출 돈키호테",
+    "context": "EN :\nTarget Extraction: Don Quixote\nJP :\n特定抽出 ドンキホーテ"
+  },
+  {
+    "key": "189-content",
+    "original": "제4회 발푸르기스의 밤 특정 추출",
+    "context": "EN :\nThe 4th Walpurgis Night Target Extraction\nJP :\n第4回 ヴァルプルギスの夜 特定抽出"
+  },
+  {
+    "key": "190-content",
+    "original": "특정 추출 료슈",
+    "context": "EN :\nTarget Extraction: Ryōshū\nJP :\n特定抽出良秀"
+  },
+  {
+    "key": "191-content",
+    "original": "신규 인격 · E.G.O 특정 추출 북부 제바찌 협회 3과 로쟈 · 지난 날 이스마엘",
+    "context": "EN :\nNew Identity & E.G.O Target Extraction: Devyat' North Section 3 Rodion & Bygone Days Ishmael\nJP :\n新規人格・E.G.O特定抽出 北部ヂェーヴィチ協会3課 ロージャ・過ぎし日 イシュメール"
+  },
+  {
+    "key": "192-content",
+    "original": "신규 인격 특정 추출 서부 츠바이 협회 3과 이스마엘",
+    "context": "EN :\nNew Target Extraction: Zwei West Section 3 Ishmael\nJP :\n新規人格特定抽出 西部ツヴァイ協会3課 イシュメール"
+  },
+  {
+    "key": "193-content",
+    "original": "특정 추출 파우스트",
+    "context": "EN :\nTarget Extraction: Faust\nJP :\n特定抽出ファウスト"
+  },
+  {
+    "key": "194-content",
+    "original": "신규 인격 특정 추출 서부 섕크 협회 3과 뫼르소 · 서부 츠바이 협회 3과 싱클레어",
+    "context": "EN :\nNew Target Extraction: Cinq West Section 3 Meursault & Zwei West Section 3 Sinclair\nJP :\n新規人格特定抽出西部センク協会3課 ムルソー・西部ツヴァイ協会3課 シンクレア"
+  },
+  {
+    "key": "195-content",
+    "original": "신규 인격 특정 추출 라만차랜드 이발사 오티스 · 송곳니 사냥 사무소 해결사 홍루",
+    "context": "EN :\nNew Target Extraction: The Barber of La Manchaland Outis & Fanghunt Office Fixer Hong Lu\nJP :\nラ・マンチャランド理髪師 ウーティス・牙狩事務所フィクサー ホンル"
+  },
+  {
+    "key": "8-content",
+    "original": "시즌 5 - 3성 인격 확정 추출",
+    "context": "EN :\n[Season 5] Assured Extraction: 3★ Identity\nJP :\nシーズン5 - 星3人格確定抽出"
+  },
+  {
+    "key": "196-content",
+    "original": "특정 추출 로쟈",
+    "context": "EN :\nTarget Extraction: Rodion\nJP :\n特定抽出ロージャ"
+  },
+  {
+    "key": "197-content",
+    "original": "신규 인격 특정 추출 라만차랜드 신부 그레고르",
+    "context": "EN :\nNew Target Extraction: The Priest of La Manchaland Gregor\nJP :\n新規人格特定抽出 ラマンチャランド神父グレゴール"
+  },
+  {
+    "key": "198-content",
+    "original": "특정 추출 뫼르소",
+    "context": "EN :\nTarget Extraction: Meursault\nJP :\n特定抽出 ムルソー"
+  },
+  {
+    "key": "199-content",
+    "original": "신규 인격 · E.G.O 특정 추출 라만차랜드 공주 로쟈 · 흉탄 이상",
+    "context": "EN :\nNew Identity & E.G.O Target Extraction: The Princess of La Manchaland Rodion & Fell Bullet Yi Sang\nJP :\n新規人格・E.G.O特定抽出 ラマンチャランドの姫ロージャ・凶弾イサン"
+  },
+  {
+    "key": "200-content",
+    "original": "특정 추출 오티스",
+    "context": "EN :\nTarget Extraction: Outis\nJP :\n特定抽出ウーティス"
+  },
+  {
+    "key": "201-content",
+    "original": "신규 인격 · E.G.O  특정 추출 북부 제뱌찌 협회 3과 싱클레어 · 쏠린 관성 히스클리프",
+    "context": "EN :\nNew Identity & E.G.O Target Extraction: Devyat' North Section 3 Sinclair & Asymmetrical Inertia Heathcliff\nJP :\n新規人格・E.G.O特定抽出 北部ヂェーヴィチ協会3課 シンクレア・偏った慣性 ヒースクリフ"
+  },
+  {
+    "key": "202-content",
+    "original": "특정 추출 이상",
+    "context": "EN :\nTarget Extraction: Yi Sang\nJP :\n特定抽出イサン"
+  },
+  {
+    "key": "203-content",
+    "original": "신규 인격 특정 추출 라만차랜드 실장 돈키호테",
+    "context": "EN :\nNew Target Extraction: The Manager of La Manchaland Don Quixote\nJP :\n新規人格特定抽出 ラマンチャランド室長ドンキホーテ"
+  },
+  {
+    "key": "204-content",
+    "original": "특정 추출 히스클리프",
+    "context": "EN :\nTarget Extraction: Heathcliff\nJP :\n特定抽出 ヒースクリフ"
+  },
+  {
+    "key": "205-content",
+    "original": "신규 E.G.O 특정 추출 20번구의 기적 BokGak",
+    "context": "EN :\nNew E.G.O Target Extraction: Miracle in District 20 BokGak\nJP :\n新規E.G.O特定抽出 20番区の奇跡 BokGak"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "key": "1017-panicName",
+    "original": "정리 강박",
+    "context": "EN :\nOrganization Compulsion\nJP :\n整理強迫"
+  },
+  {
+    "key": "1017-lowMoraleDescription",
+    "original": "합 패배 시 정신력 5 감소. 피격 시 다음 턴에 [Agility] 1 얻음 (최대 2)",
+    "context": "EN :\nLose 5 SP on Clash Lose. Gain 1 [Agility] next turn when hit (max 2)\nJP :\nマッチ敗北時に精神力が5減少。被ダメージ時、次のターンに[Agility]1を得る(最大2)"
+  },
+  {
+    "key": "1017-panicDescription",
+    "original": "[Vulnerable] 2 얻음. 피격 시 다음 턴에 [Agility] 1 얻음 (최대 3)",
+    "context": "EN :\nGain 2 [Vulnerable]. Gain 1 [Agility] next turn when hit (max 3)\nJP :\n[Vulnerable]2を得る。被ダメージ時、次のターンに[Agility]1を得る(最大3)"
+  },
+  {
+    "key": "1018-panicName",
+    "original": "저택의 메아리",
+    "context": "EN :\nEchoes of the Manor\nJP :\n邸宅の木霊"
+  },
+  {
+    "key": "1018-lowMoraleDescription",
+    "original": "자신의 합 위력 -1. 앞면 적중 시 피해량 +10%",
+    "context": "EN :\nClash Power -1 on self. Deal +10% more damage on Heads Hit\nJP :\n自分のマッチ威力 -1, 表面的中時のダメージ量 +10%"
+  },
+  {
+    "key": "1018-panicDescription",
+    "original": "자신의 합 위력 -2. [AttackDmgUp] 1 얻음",
+    "context": "EN :\nClash Power -2 on self. Gain 1 [AttackDmgUp]\nJP :\n自分のマッチ威力 -2, [AttackDmgUp]1を得る"
+  },
+  {
+    "key": "1020-panicName",
+    "original": "분열",
+    "context": "EN :\nSplitting\nJP :\n分裂"
+  },
+  {
+    "key": "1020-lowMoraleDescription",
+    "original": "합 진행 시 매 합마다 자신의 체력 2 피해, 턴 시작 시 [AttackUp] 1 얻음. ",
+    "context": "EN :\nLose 2 HP on self with every Clash. Gain 1 [AttackUp] at Turn Start. \nJP :\nマッチ進行時、各マッチごとに自分へ2ダメージ。ターン開始時に[AttackUp]1を得る。"
+  },
+  {
+    "key": "1020-panicDescription",
+    "original": "합 진행 시 매 합마다 자신의 체력 3 피해, 턴 시작 시 [AttackUp] 2 얻음. ",
+    "context": "EN :\nLose 3 HP on self with every Clash. Gain 2 [AttackUp] at Turn Start. \nJP :\nマッチ進行時、各マッチごとに自分へ3ダメージ。ターン開始時に[AttackUp]2を得る。"
+  }
+]

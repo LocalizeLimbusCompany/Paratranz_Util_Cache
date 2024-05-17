@@ -1,0 +1,389 @@
+[
+  {
+    "key": "0-place",
+    "original": "청새치 항구선 클럽 VIP룸",
+    "context": "EN :\nMarlin Port Club VIP Room\nJP :\nマカジキ港船 クラブ VIPルーム"
+  },
+  {
+    "key": "0-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "0-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "0-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "0-content",
+    "original": "요란스럽기도 해라. 어느 선장이 보낸 거야? 아니면 내 목에 또 그새 현상금이라도 붙었나?",
+    "context": "EN :\nWhew~ You’ve certainly made a mess out there. Tell me. Who sent ya? A rival Captain? Or are you looking to collect my head for the bounty?\nJP :\n騒がしいなぁ。どの船長が送ったんだ？\nあるいはアタシの首にまーた懸賞金が引っ付いたのか？"
+  },
+  {
+    "key": "1-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "1-content",
+    "original": "후, 당신이 여기 보스야?",
+    "context": "EN :\nHaah… So you’re the boss here?\nJP :\nはぁ、あんたがボスか？"
+  },
+  {
+    "key": "2-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "2-teller",
+    "original": "스미",
+    "context": "EN :\nSmee\nJP :\nスミー"
+  },
+  {
+    "key": "2-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "2-content",
+    "original": "그래, 내가 쌍갈고리 해적단의… 부선장. 스미야.",
+    "context": "EN :\nYeah. I’m Smee, first mate of the Twinhook Pirates.\nJP :\nそうだ、アタシが双鉤海賊団の…副船長。スミーさ。"
+  },
+  {
+    "key": "3-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "3-teller",
+    "original": "스미",
+    "context": "EN :\nSmee\nJP :\nスミー"
+  },
+  {
+    "key": "3-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "3-content",
+    "original": "날 보고 싶어 했다며. 뭐, 사인이라도 해줄까?",
+    "context": "EN :\nHeard ya wanted to see me. What, want an autograph?\nJP :\nアタシに会いたいって聞いたよ。\nなんだ、サインでもしてやろうかい？"
+  },
+  {
+    "key": "4-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "4-content",
+    "original": "당신은 2인자라고 들었다.",
+    "context": "EN :\nWe were last informed that you were the second-in-command.\nJP :\nあなたは二番目と聞いた。"
+  },
+  {
+    "key": "5-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "5-content",
+    "original": "우리는 보스를 원한다. 그는 어디 있지.",
+    "context": "EN :\nWe seek your superior. Tell us of their whereabouts.\nJP :\n私たちはボスを望む。彼はどこだ。"
+  },
+  {
+    "key": "6-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "6-teller",
+    "original": "스미",
+    "context": "EN :\nSmee\nJP :\nスミー"
+  },
+  {
+    "key": "6-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "6-content",
+    "original": "…후크 그놈은 어디서 또 요정주나 마시고 있겠지.",
+    "context": "EN :\nHook? ... That asshat has to be drowning in bottles of Fairy Wine somewhere, three sheets to the wind.\nJP :\n…フックの奴はまたどこかで妖精酒でも飲んでるだろうよ。"
+  },
+  {
+    "key": "7-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "스미",
+    "context": "EN :\nSmee\nJP :\nスミー"
+  },
+  {
+    "key": "7-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "7-content",
+    "original": "그러니까 실질적으로 내가 이곳을 지배하고 있는 거라 봐도 무방해.",
+    "context": "EN :\nSo I pretty much run this joint. De facto and all, you know?\nJP :\nだから実質的にアタシがここを支配してるっていっても過言じゃないさ。"
+  },
+  {
+    "key": "8-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "8-teller",
+    "original": "스미",
+    "context": "EN :\nSmee\nJP :\nスミー"
+  },
+  {
+    "key": "8-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "8-content",
+    "original": "그리고 이 항구에선 고작 향수 사업만 하기엔 돈이 좀 모자라잖아. 그래서 이것저것 부업들 좀 해보고 있었지. 그걸 시킨 것도 나고.",
+    "context": "EN :\nAnd ya gotta understand our predicament. The perfume business has never been the most lucrative venture at this port, so we're just looking to branch out... A purely business decision, devised by none other than yours truly.\nJP :\nそれにこの港で、たかが香水産業だけでやってくにはカネが足りないだろ。\nだから色々副業をちょっとやってみたのさ。それを頼んだのもアタシだ。"
+  },
+  {
+    "key": "9-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "9-content",
+    "original": "이해했다. 너는 우리가 원했던 정보를 갖고 있겠군.",
+    "context": "EN :\nUnderstood. So you must have the information we seek.\nJP :\n理解した。お前は私たちの望む情報を持っているだろう。"
+  },
+  {
+    "key": "10-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "10-content",
+    "original": "우리는 너희 조직이 확보한 것으로 보이는 인질의 행방을 찾고 있다. 그 정보를 내놓아라.",
+    "context": "EN :\nWe are in search of a certain individual held hostage by this establishment. Hand over the information regarding his whereabouts.\nJP :\n私たちはお前の組織が確保したと思わしき人質の行方を捜している。\nその情報を差し出せ。"
+  },
+  {
+    "key": "11-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "스미",
+    "context": "EN :\nSmee\nJP :\nスミー"
+  },
+  {
+    "key": "11-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "11-content",
+    "original": "인질이라니, 말 너무 험악하게 한다. 우리는 그거를 손님이라고 부르는데.",
+    "context": "EN :\nHostage? Oh, what a crude choice of words. We prefer to call him our guest.\nJP :\n人質だなんて、言葉遣いが険しいねぇ。\nアタシはそれをゲストって呼んでるんだけど。"
+  },
+  {
+    "key": "12-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "12-content",
+    "original": "손님, 이요…?",
+    "context": "EN :\n... Guest?\nJP :\nゲスト、ですか…？"
+  },
+  {
+    "key": "13-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "스미",
+    "context": "EN :\nSmee\nJP :\nスミー"
+  },
+  {
+    "key": "13-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "13-content",
+    "original": "응. 자… 그럼, 우리 교환하자.",
+    "context": "EN :\nYep. Well, then... how about a deal?\nJP :\nうん。さぁ…交換と行こうじゃないか。"
+  },
+  {
+    "key": "14-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "스미",
+    "context": "EN :\nSmee\nJP :\nスミー"
+  },
+  {
+    "key": "14-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "14-content",
+    "original": "퀴케그에 대한 정보를 나한테 넘겨. 그럼 내가 너희 쪽 손님을 안전하게 내보내 줄게.",
+    "context": "EN :\nTell me everything you know about Queequeg. And I'll see to it that the guest you're looking for is safely returned.\nJP :\nクィークェグに関する情報をアタシに差し出せ。\nそうしたらアタシがあんたらのゲストを安全に送り出してやるよ。"
+  },
+  {
+    "key": "15-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "15-teller",
+    "original": "스미",
+    "context": "EN :\nSmee\nJP :\nスミー"
+  },
+  {
+    "key": "15-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "15-content",
+    "original": "심지어… 꽤 거물이신 손님이던데. LC… 뭐, 팀장이라고 했으니까.",
+    "context": "EN :\nBesides, that guest of ours... He's a big shot, ain't he? LC... something's Team Leader?\nJP :\nそれに…結構大物のゲストだったっけ。\nLC…なんとかのチーフって言ってたし。"
+  },
+  {
+    "key": "16-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "스미",
+    "context": "EN :\nSmee\nJP :\nスミー"
+  },
+  {
+    "key": "16-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "16-content",
+    "original": "그쪽에 퀴케그의… 친구가 있었댔지?",
+    "context": "EN :\nOh, and one of you's a... friend of Queequeg, right?\nJP :\nそっちにクィークェグの…友達がいたっけ？"
+  },
+  {
+    "key": "17-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "17-content",
+    "original": "…….",
+    "context": "EN :\n......\nJP :\n……。"
+  },
+  {
+    "key": "18-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "스미",
+    "context": "EN :\nSmee\nJP :\nスミー"
+  },
+  {
+    "key": "18-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "18-content",
+    "original": "퀴케그에 대해 알고 있는 걸 전부 말해.",
+    "context": "EN :\nTell me everything you know about Queequeg.\nJP :\nクィークェグについて知ってることを全部吐け。"
+  },
+  {
+    "key": "19-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "19-teller",
+    "original": "스미",
+    "context": "EN :\nSmee\nJP :\nスミー"
+  },
+  {
+    "key": "19-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "19-content",
+    "original": "지금 어디서 뭘 하고 있는지, 주위에 만나는 사람은 누구인지, 제일 최근에 남겼던 말이 무엇인지 전부.",
+    "context": "EN :\nWhat she's up to, who she's with, the last thing she said to you... I want to hear all of it.\nJP :\n今どこで何をしてるか、出会ってる人は誰か、直近に残した言葉は何か全部。"
+  },
+  {
+    "key": "20-model",
+    "original": "스미",
+    "translation": "斯米",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "20-teller",
+    "original": "스미",
+    "context": "EN :\nSmee\nJP :\nスミー"
+  },
+  {
+    "key": "20-title",
+    "original": "쌍갈고리 해적단",
+    "context": "EN :\nTwinhook Pirates\nJP :\n双鉤海賊団"
+  },
+  {
+    "key": "20-content",
+    "original": "누가 이 거래에서 유리한지는, 말 안 해도 알지?",
+    "context": "EN :\nI'm sure there's no need to remind you who's got the upper hand here.\nJP :\n誰がこの取引で有利かは、言わずとも分かるよな？"
+  },
+  {
+    "key": "21-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "21-content",
+    "original": "하… 정말, 말할 수 있었다면, 저도 진심으로 좋았을 텐데요.",
+    "context": "EN :\nHa... I wish I could tell you. I really do.\nJP :\nはぁ…本当に言えたら、私も嬉しかったんですけどね、本気で。"
+  }
+]

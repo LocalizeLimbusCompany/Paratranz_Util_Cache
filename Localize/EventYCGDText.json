@@ -1,0 +1,82 @@
+[
+  {
+    "key": "ycgd_stagebutton_not_clear-content",
+    "original": "5.5-12 클리어 시 개방",
+    "context": "EN :\nClear 5.5-12 to Unlock\nJP :\n5.5-12クリア時に解放"
+  },
+  {
+    "key": "ycgd_stagebutton_normal-content",
+    "original": "스테이지",
+    "context": "EN :\nStages\nJP :\nステージ"
+  },
+  {
+    "key": "ycgd_stagebutton_end_event-content",
+    "original": "이벤트 기간 종료",
+    "context": "EN :\nEvent Closed\nJP :\nイベント期間終了"
+  },
+  {
+    "key": "ycgd_storybutton_before_start-content",
+    "original": "<size=75%>이벤트 첫 번째 이야기 감상 시 개방</size>",
+    "context": "EN :\n<size=75%>View the 1st event Story Stage to Unlock</size>\nJP :\n<size=75%>イベントストーリー1話を閲覧時に開放</size>"
+  },
+  {
+    "key": "ycgd_storybutton_normal-content",
+    "original": "상영관 이동",
+    "context": "EN :\nTo Theater\nJP :\n上映館へ移動"
+  },
+  {
+    "key": "ycgd_rewardShopButton-content",
+    "original": "보상 교환",
+    "context": "EN :\nReward Exchange\nJP :\n報酬交換"
+  },
+  {
+    "key": "ycgd_scrap_guide_title-content",
+    "original": "이벤트 재화 안내",
+    "context": "EN :\nEvent Currency Guide\nJP :\nイベントアイテム案内"
+  },
+  {
+    "key": "ycgd_scrap_guide_desc-content",
+    "original": "이벤트와 주요 이야기의 스테이지와 던전 또는 거울 던전을 클리어하면 낮은 확률로 <color=#1998fe>[한 서린 검집]</color>를 획득할 수 있습니다.\n\n<color=#1998fe>[한 서린 검집]</color>은 획득 즉시, <color=#008d0d>[피에 절은 검집]</color> 20개로 전환됩니다.",
+    "context": "EN :\nRarely, you may obtain <color=#1998fe>[Resentful Scabbard]</color> from clearing Event Stages, Main Story Stages, or Mirror Dungeons.\n\n<color=#1998fe>[Resentful Scabbard]</color> is converted to 20 <color=#008d0d>[Bloodied Scabbard]</color>.\nJP :\nイベント、メインストーリーのステージとダンジョン、または鏡ダンジョンをクリアすると\n低確率で<color=#1998fe>[恨の宿った鞘]</color>を獲得することができます。\n\n<color=#1998fe>[恨の宿った鞘]</color>は<color=#008d0d>[血に濡れた鞘]</color>20個に変換されます。"
+  },
+  {
+    "key": "ycgd_rewardpage_desc-content",
+    "original": "이벤트 스테이지와 던전을 클리어할 때마다 <color=#1998fe>[피에 절은 검집]</color>을 획득할 수 있습니다. 이외에도 주요 이야기\n스테이지와 던전을 최초로 클리어하거나 거울 던전 클리어 시, <color=#1998fe>[피에 절은 검집]</color>을 획득할 수 있습니다.\n\n이벤트와 주요 이야기의 스테이지와 던전 또는 거울 던전을 클리어하면 낮은 확률로 <color=#7fc6ff>[한 서린 검집]</color>을 획득할 수 있으며, <color=#7fc6ff>[한 서린 검집]</color>은 획득 즉시 <color=#1998fe>[피에 절은 검집]</color> 20개로 전환됩니다.\n\n<color=#1998fe>[보상 교환]</color> 창에서 <color=#1998fe>[피에 절은 검집]</color>을 지불하여 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nDuring the event, you can earn <color=#1998fe>[Bloodied Scabbard]</color> by clearing event Stages and Dungeons. You can also obtain <color=#1998fe>[Bloodied Scabbard]</color> by clearing Main Story Stages or Dungeons for the first time, or clearing the Mirror Dungeon.\n\nRarely, you may obtain <color=#7fc6ff>[Resentful Scabbard]</color> from clearing Event Stages, Main Story Stages, or Mirror Dungeons,\nand <color=#7fc6ff>[Resentful Scabbard]</color> is automatically converted to 20 <color=#1998fe>[Bloodied Scabbard]</color> upon acquisition.\n\nIn the <color=#1998fe>[Reward Exchange]</color> window, you can purchase various rewards by spending <color=#1998fe>[Bloodied Scabbard]</color> you have collected.\nJP :\nイベントステージとダンジョンをクリアする度に<color=#1998fe>[血に濡れた鞘]</color>を獲得できます。これ以外にもメインストーリー\nステージとダンジョンを初めてクリアするか、鏡ダンジョンクリア時に<color=#1998fe>[血に濡れた鞘]</color>を獲得できます。\n\nイベント、メインストーリーのステージ、または鏡ダンジョンをクリアすれば低確率で<color=#7fc6ff>[恨の宿った鞘]</color>獲得することができ、<color=#7fc6ff>[恨の宿った鞘]</color>は獲得すると即時<color=#1998fe>[血に濡れた鞘]</color> 20個に変換されます。\n\n<color=#1998fe>[報酬交換]</color>ウィンドウより<color=#1998fe>[血に濡れた鞘]</color>を支払い、様々な報酬を獲得できます。"
+  },
+  {
+    "key": "ycgd_reward_popup_desc-content",
+    "original": "이벤트 스테이지와 던전, 주요 이야기\n최초 클리어, 거울 던전 클리어를 통해\n<color=#1998fe>[피에 절은 검집]</color>을 획득할 수 있습니다.\n\n<color=#1998fe>[보상 교환]</color> 창에서 <color=#1998fe>[피에 절은 검집]</color>을\n지불하여 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nEarn <color=#1998fe>[Bloodied Scabbard]</color> via the following methods:\nEvent Stage & Dungeon clears, Mirror Dungeon clears,\nand Main Story Stage & Dungeon first-time clears.\n\nIn the <color=#1998fe>[Reward Exchange]</color> window, you can purchase various rewards\nby spending <color=#1998fe>[Bloodied Scabbard]</color> you have collected.\nJP :\nイベントステージとダンジョン、メインストーリー\n初回クリア、鏡ダンジョンをクリアすることで\n<color=#1998fe>[血に濡れた鞘]</color>を獲得できます。\n\n<color=#1998fe>[報酬交換]</color>ウィンドウより<color=#1998fe>[血に濡れた鞘]</color>を\n支払い、様々な報酬を獲得できます。"
+  },
+  {
+    "key": "ycgd_reward_popup_num_of_owned_items-content",
+    "original": "보유 검집 수",
+    "context": "EN :\nScabbards Collected\nJP :\n保有している鞘"
+  },
+  {
+    "key": "ycgd_bonusUI_Title-content",
+    "original": "증가",
+    "context": "EN :\nGain\nJP :\n増加"
+  },
+  {
+    "key": "ycgd_bonusUI_Title_contain_false-content",
+    "original": "미보유",
+    "context": "EN :\nNot Owned\nJP :\n未保有"
+  },
+  {
+    "key": "ycgd_bonusUI_Desc-content",
+    "original": "이벤트 기간 동안 해당 인격 편성 시, <color=#1998fe>[피에 절은 검집]</color>의 획득량이 상승합니다.\n획득량 상승치 합계는 최대 <color=#1998fe>120%</color>까지 적용됩니다.",
+    "context": "EN :\nDuring the event period, deploying the following Identities on your team will\nboost the amount of <color=#1998fe>[Bloodied Scabbard]</color> earned.\nYou can earn a maximum of <color=#1998fe>120%</color> boost to the amount of event currency earned.\nJP :\nイベント期間中、該当人格を編成すると<color=#1998fe>[血に濡れた鞘]</color>の獲得量が上昇します。\n獲得量上昇値の合計は、最大<color=#1998fe>120%</color>まで適用されます。"
+  },
+  {
+    "key": "ycgd_bonus_popup_title-content",
+    "original": "이벤트 보너스 캐릭터",
+    "context": "EN :\nEvent Bonus Identities\nJP :\nイベントボーナス\nキャラクター"
+  },
+  {
+    "key": "ycgd_bonus_preview-content",
+    "original": "이벤트 보너스 캐릭터",
+    "context": "EN :\nEvent Bonus Identities\nJP :\nイベントボーナス\nキャラクター"
+  }
+]

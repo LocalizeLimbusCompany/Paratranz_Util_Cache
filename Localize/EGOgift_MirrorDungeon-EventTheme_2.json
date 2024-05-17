@@ -1,0 +1,482 @@
+[
+  {
+    "key": "9751-name",
+    "original": "뱀 허물",
+    "context": "EN :\nSnake Slough\nJP :\n蛇の抜け殻"
+  },
+  {
+    "key": "9751-desc",
+    "original": "턴 시작시, 모든 아군이 [DefenseUp] 2 얻음.\n각 아군이 (자신의 [DefenseUp]/4)만큼 공격 레벨이 증가함. (최대 10)",
+    "context": "EN :\nTurn Start: all allies gain 2 [DefenseUp].\nEach ally gains ([DefenseUp] on self / 4) Offense Level. (max 10)\nJP :\nターン開始時、全味方が[DefenseUp]2を得る。\n各味方が(自分の[DefenseUp] ÷ 4)だけ攻撃レベルが増加する。(最大10)"
+  },
+  {
+    "key": "9751-simpleDesc$[0].simpleDesc",
+    "original": "모든 아군이 [DefenseUp]를 얻고, 공격 레벨 증가",
+    "context": "EN :\nAll allies gain [DefenseUp] and Offense Level\nJP :\n全味方が[DefenseUp]を得て、攻撃レベル増加"
+  },
+  {
+    "key": "19751-name",
+    "original": "뱀 허물+",
+    "context": "EN :\nSnake Slough+\nJP :\n蛇の抜け殻+"
+  },
+  {
+    "key": "19751-desc",
+    "original": "턴 시작시, 모든 아군이 [DefenseUp] 4 얻음.\n각 아군이 (자신의 [DefenseUp]/3)만큼 공격 레벨이 증가함. (최대 10)",
+    "context": "EN :\nTurn Start: all allies gain 4 [DefenseUp].\nEach ally gains ([DefenseUp] on self / 3) Offense Level. (max 10)\nJP :\nターン開始時、全味方が[DefenseUp]4を得る。\n各味方が(自分の[DefenseUp] ÷ 3)だけ攻撃レベルが増加する。(最大10)"
+  },
+  {
+    "key": "19751-simpleDesc$[0].simpleDesc",
+    "original": "모든 아군이 [DefenseUp]를 얻고, 공격 레벨 증가",
+    "context": "EN :\nAll allies gain [DefenseUp] and Offense Level\nJP :\n全味方が[DefenseUp]を得て、攻撃レベル増加"
+  },
+  {
+    "key": "29751-name",
+    "original": "뱀 허물++",
+    "context": "EN :\nSnake Slough++\nJP :\n蛇の抜け殻++"
+  },
+  {
+    "key": "29751-desc",
+    "original": "턴 시작시, 모든 아군이 [DefenseUp] 4 얻음.\n각 아군이 (자신의 [DefenseUp]/2)만큼 공격 레벨이 증가함. (최대 10)",
+    "context": "EN :\nTurn Start: all allies gain 4 [DefenseUp].\nEach ally gains ([DefenseUp] on self / 2) Offense Level. (max 10)\nJP :\nターン開始時、全味方が[DefenseUp]4を得る。\n各味方が(自分の[DefenseUp] ÷ 2)だけ攻撃レベルが増加する。(最大10)"
+  },
+  {
+    "key": "29751-simpleDesc$[0].simpleDesc",
+    "original": "모든 아군이 [DefenseUp]를 얻고, 공격 레벨 증가",
+    "context": "EN :\nAll allies gain [DefenseUp] and Offense Level\nJP :\n全味方が[DefenseUp]を得て、攻撃レベル増加"
+  },
+  {
+    "key": "9752-name",
+    "original": "거짓 광배",
+    "context": "EN :\nFalse Halo\nJP :\n偽りの光背"
+  },
+  {
+    "key": "9752-desc",
+    "original": "공격 적중시마다 [Zazen] 1 얻음. (스킬 당 2회)\n자신이 이번 턴에 적에게 스킬로 피격 당한 상태면, 얻는 [Zazen] +1.",
+    "context": "EN :\nOn Hit, gain 1 [Zazen]. (2 times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time.\nJP :\n攻撃が的中するたびに[Zazen]1を得る(スキルごとに2回)\n自分がこのターンに敵にスキルでダメージを受けた状態なら、得る[Zazen] +1"
+  },
+  {
+    "key": "9752-simpleDesc$[0].simpleDesc",
+    "original": "공격 적중시마다 [Zazen] 1 얻음",
+    "context": "EN :\nOn Hit, gain 1 [Zazen]\nJP :\n攻撃が的中するたびに[Zazen]1を得る"
+  },
+  {
+    "key": "19752-name",
+    "original": "거짓 광배+",
+    "context": "EN :\nFalse Halo+\nJP :\n偽りの光背+"
+  },
+  {
+    "key": "19752-desc",
+    "original": "공격 적중시마다 [Zazen] 1 얻음. (스킬 당 3회)\n자신이 이번 턴에 적에게 스킬로 피격 당한 상태면, 얻는 [Zazen] +1.",
+    "context": "EN :\nOn Hit, gain 1 [Zazen]. (3 times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time.\nJP :\n攻撃が的中するたびに[Zazen]1を得る(スキルごとに3回)\n自分がこのターンに敵にスキルでダメージを受けた状態なら、得る[Zazen] +1"
+  },
+  {
+    "key": "19752-simpleDesc$[0].simpleDesc",
+    "original": "공격 적중시마다 [Zazen] 1 얻음",
+    "context": "EN :\nOn Hit, gain 1 [Zazen]\nJP :\n攻撃が的中するたびに[Zazen]1を得る"
+  },
+  {
+    "key": "29752-name",
+    "original": "거짓 광배++",
+    "context": "EN :\nFalse Halo++\nJP :\n偽りの光背++"
+  },
+  {
+    "key": "29752-desc",
+    "original": "공격 적중시마다 [Zazen] 2 얻음. (스킬 당 3회)\n자신이 이번 턴에 적에게 스킬로 피격 당한 상태면, 얻는 [Zazen] +1.",
+    "context": "EN :\nOn Hit, gain 2 [Zazen]. (3 times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time.\nJP :\n攻撃が的中するたびに[Zazen]2を得る(スキルごとに3回)\n自分がこのターンに敵にスキルでダメージを受けた状態なら、得る[Zazen] +1"
+  },
+  {
+    "key": "29752-simpleDesc$[0].simpleDesc",
+    "original": "공격 적중시마다 [Zazen] 2 얻음",
+    "context": "EN :\nOn Hit, gain 2 [Zazen]\nJP :\n攻撃が的中するたびに[Zazen]2を得る"
+  },
+  {
+    "key": "9753-name",
+    "original": "메트로놈",
+    "context": "EN :\nMetronome\nJP :\nメトロノーム"
+  },
+  {
+    "key": "9753-desc",
+    "original": " 홀수 턴이면, 모든 아군이 [AttackDmgUp] 1 얻음. 짝수 턴이면, 모든 아군이 [Protection] 1 얻음.",
+    "context": "EN :\nIn odd-numbered turns, all allies gain 1 [AttackDmgUp]. In even-numbered turns, all allies gain 1 [Protection].\nJP :\n奇数ターンなら、全味方が[AttackDmgUp]1を得る。偶数ターンなら、全味方が[Protection]1を得る。"
+  },
+  {
+    "key": "9753-simpleDesc$[0].simpleDesc",
+    "original": "턴에 따라 모든 아군의 공격 또는 방어가 강화됨",
+    "context": "EN :\nEnhance allies' attack or defense based on the turn number\nJP :\nターンによって全味方の攻撃または防御が強化される"
+  },
+  {
+    "key": "19753-name",
+    "original": "메트로놈+",
+    "context": "EN :\nMetronome+\nJP :\nメトロノーム+"
+  },
+  {
+    "key": "19753-desc",
+    "original": " 홀수 턴이면, 모든 아군이 [AttackDmgUp] 1 얻음. 짝수 턴이면, 모든 아군이 [Protection] 1, [DefenseUp] 1 얻음.",
+    "context": "EN :\nIn odd-numbered turns, all allies gain 1 [AttackDmgUp]. In even-numbered turns, all allies gain 1 [Protection] and 1 [DefenseUp].\nJP :\n奇数ターンなら、全味方が[AttackDmgUp]1を得る。偶数ターンなら、全味方が[Protection]1, [DefenseUp]を得る。"
+  },
+  {
+    "key": "19753-simpleDesc$[0].simpleDesc",
+    "original": "턴에 따라 모든 아군의 공격 또는 방어가 강화됨",
+    "context": "EN :\nEnhance allies' attack or defense based on the turn number\nJP :\nターンによって全味方の攻撃または防御が強化される"
+  },
+  {
+    "key": "29753-name",
+    "original": "메트로놈++",
+    "context": "EN :\nMetronome++\nJP :\nメトロノーム++"
+  },
+  {
+    "key": "29753-desc",
+    "original": " 홀수 턴이면, 모든 아군이 [AttackDmgUp] 1, [AttackUp] 1 얻음. 짝수 턴이면, 모든 아군이 [Protection] 1, [DefenseUp] 1 얻음.",
+    "context": "EN :\nIn odd-numbered turns, all allies gain 1 [AttackDmgUp] and 1 [AttackUp]. In even-numbered turns, all allies gain 1 [Protection] and 1 [DefenseUp].\nJP :\n奇数ターンなら、全味方が[AttackDmgUp]1, [AttackUp]1を得る。偶数ターンなら、全味方が[Protection]1, [DefenseUp]を得る。"
+  },
+  {
+    "key": "29753-simpleDesc$[0].simpleDesc",
+    "original": "턴에 따라 모든 아군의 공격 또는 방어가 강화됨",
+    "context": "EN :\nEnhance allies' attack or defense based on the turn number\nJP :\nターンによって全味方の攻撃または防御が強化される"
+  },
+  {
+    "key": "9754-name",
+    "original": "굴레",
+    "context": "EN :\nBridle\nJP :\nくびき"
+  },
+  {
+    "key": "9754-desc",
+    "original": "스테이지 시작 시 (현재 층 x 2)%만큼 모든 아군의 최대 체력이 증가 (최대 20%)",
+    "context": "EN :\nEncounter Start: all allies gain (current Floor x 2)% max HP (max 20%)\nJP :\nステージ開始時、(現在の階層 × 2)%だけ全味方の体力最大値が増加(最大20%)"
+  },
+  {
+    "key": "9754-simpleDesc$[0].simpleDesc",
+    "original": "현재 층에 비례하여 모든 아군의 최대 체력 증가",
+    "context": "EN :\nAll allies gain max HP based on the current Floor\nJP :\n現在の階層に比例して全味方の体力最大値が増加"
+  },
+  {
+    "key": "19754-name",
+    "original": "굴레+",
+    "context": "EN :\nBridle+\nJP :\nくびき+"
+  },
+  {
+    "key": "19754-desc",
+    "original": "스테이지 시작 시 (현재 층 x 3)%만큼 모든 아군의 최대 체력이 증가 (최대 30%)",
+    "context": "EN :\nEncounter Start: all allies gain (current Floor x 3)% max HP (max 30%)\nJP :\nステージ開始時、(現在の階層 × 3)%だけ全味方の体力最大値が増加(最大30%)"
+  },
+  {
+    "key": "19754-simpleDesc$[0].simpleDesc",
+    "original": "현재 층에 비례하여 모든 아군의 최대 체력 증가",
+    "context": "EN :\nAll allies gain max HP based on the current Floor\nJP :\n現在の階層に比例して全味方の体力最大値が増加"
+  },
+  {
+    "key": "29754-name",
+    "original": "굴레++",
+    "context": "EN :\nBridle++\nJP :\nくびき++"
+  },
+  {
+    "key": "29754-desc",
+    "original": "스테이지 시작 시 (현재 층 x 5)%만큼 모든 아군의 최대 체력이 증가 (최대 50%)",
+    "context": "EN :\nEncounter Start: all allies gain (current Floor x 5)% max HP (max 50%)\nJP :\nステージ開始時、(現在の階層 × 5)%だけ全味方の体力最大値が増加(最大50%)"
+  },
+  {
+    "key": "29754-simpleDesc$[0].simpleDesc",
+    "original": "현재 층에 비례하여 모든 아군의 최대 체력 증가",
+    "context": "EN :\nAll allies gain max HP based on the current Floor\nJP :\n現在の階層に比例して全味方の体力最大値が増加"
+  },
+  {
+    "key": "9755-name",
+    "original": "경멸의 시선의 경멸",
+    "context": "EN :\nContempt of the Gaze of Contempt\nJP :\n軽蔑の視線の軽蔑"
+  },
+  {
+    "key": "9755-desc",
+    "original": "[편성 6번 인격 전용 효과]\n\n전투 시작 시, 자신을 타겟팅한 적의 공격 스킬당 가하는 피해량 +10% (최대 20%)\n\n전투 시작 시 2개 이상의 공격 스킬의 타겟이 되었으면, 자신을 타겟팅한 적에게 타겟팅한 스킬 수만큼 체력 고정 피해와 정신력 피해를 줌. (최대 3. 아군에게는 피해를 주지 않음)",
+    "context": "EN :\n[Effects apply only to #6 Deployed Identity]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 20%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit) fixed HP & SP damage against all enemies targeting this unit. (max 3; this effect does not hurt allies)\nJP :\n[編成6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大20%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲットにした敵に対してターゲティングしたスキル数だけ固定ダメージと精神力ダメージを与える。(最大3. 味方にはダメージを与えない)"
+  },
+  {
+    "key": "9755-simpleDesc$[0].simpleDesc",
+    "original": "타겟팅한 적의 공격 스킬에 비례하여 피해량 증가, 고정 피해를 줌",
+    "context": "EN :\nDeal more damage based on # of enemy Skills targeting this unit; deals fixed damage\nJP :\nターゲティングした敵の攻撃スキルに比例してダメージ量増加、固定ダメージを与える"
+  },
+  {
+    "key": "19755-name",
+    "original": "경멸의 시선의 경멸+",
+    "context": "EN :\nContempt of the Gaze of Contempt+\nJP :\n軽蔑の視線の軽蔑+"
+  },
+  {
+    "key": "19755-desc",
+    "original": "[편성 6번 인격 전용 효과]\n\n전투 시작 시, 자신을 타겟팅한 적의 공격 스킬당 가하는 피해량 +10% (최대 20%)\n\n전투 시작 시 2개 이상의 공격 스킬의 타겟이 되었으면, 자신을 타겟팅한 적에게 (2 x 타겟팅한 스킬 수)만큼 체력 고정 피해와 정신력 피해를 줌. (최대 5. 아군에게는 피해를 주지 않음)",
+    "context": "EN :\n[Effects apply only to #6 Deployed Identity]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 20%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit. (max 5; this effect does not hurt allies)\nJP :\n[編成6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大20%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲットにした敵に対して(2 × ターゲティングしたスキル数)だけ固定ダメージと精神力ダメージを与える。(最大5. 味方にはダメージを与えない)"
+  },
+  {
+    "key": "19755-simpleDesc$[0].simpleDesc",
+    "original": "타겟팅한 적의 공격 스킬에 비례하여 피해량 증가, 고정 피해를 줌",
+    "context": "EN :\nDeal more damage based on # of enemy Skills targeting this unit; deals fixed damage\nJP :\nターゲティングした敵の攻撃スキルに比例してダメージ量増加、固定ダメージを与える"
+  },
+  {
+    "key": "29755-name",
+    "original": "경멸의 시선의 경멸++",
+    "context": "EN :\nContempt of the Gaze of Contempt++\nJP :\n軽蔑の視線の軽蔑++"
+  },
+  {
+    "key": "29755-desc",
+    "original": "[편성 1번, 6번 인격 전용 효과]\n\n전투 시작 시, 자신을 타겟팅한 적의 공격 스킬당 가하는 피해량 +10% (최대 30%)\n\n전투 시작 시 2개 이상의 공격 스킬의 타겟이 되었으면, 자신을 타겟팅한 적에게 (2 x 타겟팅한 스킬 수)만큼 체력 고정 피해와 정신력 피해를 줌. (최대 10. 아군에게는 피해를 주지 않음)",
+    "context": "EN :\n[Effects apply only to #1 and #6 Deployed Identities]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 30%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit. (max 10; this effect does not hurt allies)\nJP :\n[編成1, 6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大30%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲットにした敵に対して(2 × ターゲティングしたスキル数)だけ固定ダメージと精神力ダメージを与える。(最大10. 味方にはダメージを与えない)"
+  },
+  {
+    "key": "29755-simpleDesc$[0].simpleDesc",
+    "original": "타겟팅한 적의 공격 스킬에 비례하여 피해량 증가, 고정 피해를 줌",
+    "context": "EN :\nDeal more damage based on # of enemy Skills targeting this unit; deals fixed damage\nJP :\nターゲティングした敵の攻撃スキルに比例してダメージ量増加、固定ダメージを与える"
+  },
+  {
+    "key": "9756-name",
+    "original": "부화하지 않은 불씨",
+    "context": "EN :\nUnhatched Embers\nJP :\n孵化しない火種"
+  },
+  {
+    "key": "9756-desc",
+    "original": "사망할 정도의 피해를 입었다면, 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 20%만큼 회복함. (전투당 1회 발동)",
+    "context": "EN :\nWhen taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)\nJP :\n致死ダメージを受けたなら該当する攻撃の間、体力が1に保たれる。該当攻撃が終了したときに全体力の20%だけ回復(戦闘につき1回発動)"
+  },
+  {
+    "key": "9756-simpleDesc$[0].simpleDesc",
+    "original": "사망할 정도의 피해를 받을 때 사망하지 않고, 이후 체력 회복",
+    "context": "EN :\nWhen taking mortal damage, defy death and heal HP\nJP :\n致死ダメージを受けたときに死亡せず、体力を回復"
+  },
+  {
+    "key": "19756-name",
+    "original": "부화하지 않은 불씨+",
+    "context": "EN :\nUnhatched Embers+\nJP :\n孵化しない火種+"
+  },
+  {
+    "key": "19756-desc",
+    "original": "사망할 정도의 피해를 입었다면, 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 20%만큼 회복함. (전투당 1회 발동)\n\n자신에게 [Combustion]이 있으면, 대신 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 30%만큼 회복함.(위 효과와 합쳐 전투 당 1회 발동)",
+    "context": "EN :\nWhen taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)\n\nIf the affect unit has [Combustion]: fix HP to 1 for the attack; After Attack, heal 30% of max HP instead. (once per Encounter for both this and the above effect)\nJP :\n致死ダメージを受けたなら該当する攻撃の間、体力が1に保たれる。該当攻撃が終了したときに全体力の20%だけ回復(戦闘につき1回発動)\n\n自分に[Combustion]があるなら、該当攻撃が終了したときの全体力回復量が30%になる。(上記の効果と合わせて戦闘につき1回発動)"
+  },
+  {
+    "key": "19756-simpleDesc$[0].simpleDesc",
+    "original": "사망할 정도의 피해를 받을 때 사망하지 않고, 이후 체력 회복",
+    "context": "EN :\nWhen taking mortal damage, defy death and heal HP\nJP :\n致死ダメージを受けたときに死亡せず、体力を回復"
+  },
+  {
+    "key": "29756-name",
+    "original": "부화하지 않은 불씨++",
+    "context": "EN :\nUnhatched Embers++\nJP :\n孵化しない火種++"
+  },
+  {
+    "key": "29756-desc",
+    "original": "사망할 정도의 피해를 입었다면, 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 20%만큼 회복함. (전투당 1회 발동)\n\n자신에게 [Combustion]이 있으면, 대신 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 40%만큼 회복함.(위 효과와 합쳐 전투 당 1회 발동)",
+    "context": "EN :\nWhen taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)\n\nIf the affect unit has [Combustion]: fix HP to 1 for the attack; After Attack, heal 40% of max HP instead. (once per Encounter for both this and the above effect)\nJP :\n致死ダメージを受けたなら該当する攻撃の間、体力が1に保たれる。該当攻撃が終了したときに全体力の20%だけ回復(戦闘につき1回発動)\n\n自分に[Combustion]があるなら、該当攻撃が終了したときの全体力回復量が40%になる。(上記の効果と合わせて戦闘につき1回発動)"
+  },
+  {
+    "key": "29756-simpleDesc$[0].simpleDesc",
+    "original": "사망할 정도의 피해를 받을 때 사망하지 않고, 이후 체력 회복",
+    "context": "EN :\nWhen taking mortal damage, defy death and heal HP\nJP :\n致死ダメージを受けたときに死亡せず、体力を回復"
+  },
+  {
+    "key": "9757-name",
+    "original": "대양전 접지 플러그",
+    "context": "EN :\nAnti-Ovine Grounding Plug\nJP :\n対羊電接地プラグ"
+  },
+  {
+    "key": "9757-desc",
+    "original": "전투 중 피격당했다면, 공격자에게 다음 턴에 [Paralysis] 1 부여. (캐릭터 1명당 턴 당 1 회)",
+    "context": "EN :\nWhen hit during the combat phase, inflict 1 [Paralysis] against the attacker next turn. (Once per turn for each character)\nJP :\n戦闘中にダメージを受けたなら、攻撃者へ次のターンにて[Paralysis]1を付与。(キャラクター1名につき1ターンごとに1回)"
+  },
+  {
+    "key": "9757-simpleDesc$[0].simpleDesc",
+    "original": "피격 시 다음 턴에 [Paralysis] 1 부여",
+    "context": "EN :\nWhen hit, inflict 1 [Paralysis] next turn\nJP :\n被ダメージ時、次のターンに[Paralysis]1を付与"
+  },
+  {
+    "key": "19757-name",
+    "original": "대양전 접지 플러그+",
+    "context": "EN :\nAnti-Ovine Grounding Plug+\nJP :\n対羊電接地プラグ+"
+  },
+  {
+    "key": "19757-desc",
+    "original": "전투 중 피격당했다면, 공격자에게 다음 턴에 [Paralysis] 1 부여. (캐릭터 1명당 턴 당 1 회)\n\n전투 시작 시 질투 완전 공명 5 이상이면, 모든 적에게 [Paralysis] 1 부여.",
+    "context": "EN :\nWhen hit during the combat phase, inflict 1 [Paralysis] against the attacker next turn. (Once per turn for each character)\n\nAt 5+ Envy A-Reson., at Combat Start: inflict 1 [Paralysis] against all enemies.\nJP :\n戦闘中にダメージを受けたなら、攻撃者へ次のターンに[Paralysis]1を付与(キャラクター1名ごとに1ターンにつき1回)\n\n戦闘開始時に嫉妬完全共鳴5以上なら、全ての敵へ[Paralysis]1を付与"
+  },
+  {
+    "key": "19757-simpleDesc$[0].simpleDesc",
+    "original": "전투 시작 시, 피격 시 다음 턴에 [Paralysis] 1 부여",
+    "context": "EN :\nCombat Start: when hit, inflict 1 [Paralysis] next turn\nJP :\n戦闘開始時、被ダメージ時に次のターンにて[Paralysis]1を付与"
+  },
+  {
+    "key": "9758-name",
+    "original": "왕의 잔재",
+    "context": "EN :\nVestiges of the King\nJP :\n王の残滓"
+  },
+  {
+    "key": "9758-desc",
+    "original": "연속 전투에서 7번째 편성 순서부터 대기 해제된 턴 시작 시 정신력 10 회복, [ParryingResultUp] 2 얻음, 자신의 스킬 1, 2, 3 속성의 E.G.O 자원을 1개씩 얻음.",
+    "context": "EN :\nChain Battles) Starting from #7 Deployed Sinner, at the start of the same turn it Substitutes in, heal 10 SP, gain 2 [ParryingResultUp], and gain 1 E.G.O resource for each one of their Skills 1, 2, and 3\nJP :\n連続戦闘にて編成7番目のから待機解除されたターン開始時に精神力を10回復、[ParryingResultUp]2を得る、自分のスキル1, 2, 3属性のE.G.O資源を1つずつ得る。"
+  },
+  {
+    "key": "9758-simpleDesc$[0].simpleDesc",
+    "original": "대기 해제 시 정신력 회복, 합 위력 증가, E.G.O 자원 획득",
+    "context": "EN :\nHeal SP, gain Clash Power Up, and E.G.O resources when substituting in\nJP :\n待機解除時に精神力回復、マッチ威力増加、E.G.O資源獲得"
+  },
+  {
+    "key": "9759-name",
+    "original": "불 꺼진 랜턴",
+    "context": "EN :\nSnuffed Lantern\nJP :\n火の消えたランタン"
+  },
+  {
+    "key": "9759-desc",
+    "original": "[편성 7번 인격 전용 효과]\n\n스킬, 코인 효과로 얻는 [Vibration] 횟수의 값 +1\n\n- 공격 대상이 흐트러짐, 사기저하, 패닉 상태면 대신 +2",
+    "context": "EN :\n[Effects apply only to #7 Deployed Identity]\n\nGain +1 more [Vibration] Count from Skill or Coin effects\n\n- If the target is in Staggered, Low Morale, or Panic states, gain +2 more instead\nJP :\n[編成7番人格専用効果]\n\nスキル・コイン効果で得る[Vibration]回数の値 +1\n\n- 攻撃対象が混乱、士気低下、パニック状態なら代わりに +2"
+  },
+  {
+    "key": "9759-simpleDesc$[0].simpleDesc",
+    "original": "스킬, 코인 효과로 얻는 [Vibration] 횟수 증가",
+    "context": "EN :\nGain more [Vibration] Count with Skill or Coin effects\nJP :\nスキル・コイン効果で得る[Vibration]回数が増加"
+  },
+  {
+    "key": "9760-name",
+    "original": "불 꺼진 촛대",
+    "context": "EN :\nSnuffed Candlestick\nJP :\n火の消えた燭台"
+  },
+  {
+    "key": "9760-desc",
+    "original": "[편성 1번 인격 전용 효과]\n\n턴 시작시 흐트러짐, 사기저하, 패닉 상태인 적이 있으면, 모든 적에게 [AttackDown] 1 또는 [DefenseDown] 1 부여. (턴 당 최대 3회)\n\n흐트러짐, 사기저하, 패닉 상태인 적에게 공격 적중시, [AttackDown] 1 또는 [DefenseDown] 1 부여 (턴 당 최대 3회)",
+    "context": "EN :\n[Effects apply only to #1 Deployed Identity]\n\nIf there are enemies in Staggered, Low Morale, or Panic states at Turn Start, inflict 1 [AttackDown] or 1 [DefenseDown] against all enemies. (3 times per turn)\n\nOn Hit against enemies in Staggered, Low Morale, or Panic states: inflict 1 [AttackDown] or 1 [DefenseDown] (3 times per turn)\nJP :\n[編成1番人格専用効果]\n\nターン開始時に混乱、士気低下、パニック状態の敵がいるなら、全ての敵へ[AttackDown]1または[DefenseDown]1を付与。(1ターンにつき最大3回)\n\n混乱、士気低下、パニック状態の敵に攻撃的中時、[AttackDown]1または[DefenseDown]1を付与(1ターンにつき最大3回)"
+  },
+  {
+    "key": "9760-simpleDesc$[0].simpleDesc",
+    "original": "[AttackDown] 또는 [DefenseDown] 1 부여",
+    "context": "EN :\nInflict 1 [AttackDown] or 1 [DefenseDown]\nJP :\n[AttackDown]または[DefenseDown]1を付与"
+  },
+  {
+    "key": "9760-simpleDesc$[1].simpleDesc",
+    "original": "[AttackDown] 또는 [DefenseDown] 1 부여",
+    "context": "EN :\nInflict 1 [AttackDown] or 1 [DefenseDown]\nJP :\n[AttackDown]または[DefenseDown]1を付与"
+  },
+  {
+    "key": "9761-name",
+    "original": "그림자 괴물",
+    "context": "EN :\nShadow Monster\nJP :\n影の怪物"
+  },
+  {
+    "key": "9761-desc",
+    "original": "[편성 1, 2, 7, 8번 인격 전용 효과]\n\n스킬, 코인 효과로 얻는 [Vibration] 횟수의 값 +1\n  - 공격 대상이 흐트러짐, 사기저하, 패닉 상태면 대신 +2\n\n턴 시작시 흐트러짐, 사기저하, 패닉 상태인 적이 있으면, 모든 적에게 [AttackDown] 2 또는 [DefenseDown] 2 부여 (턴 당 최대 3회)\n\n흐트러짐, 사기저하, 패닉 상태인 적에게 공격 적중시, [AttackDown] 1 또는 [DefenseDown] 1 부여 (턴 당 최대 3회. 다른 인격과 횟수 공유)",
+    "context": "EN :\n[Effects apply only to #1, #2, #7, and #8 Deployed Identities]\n\nGain +1 more [Vibration] Count from Skill & Coin effects\n  - If the target is in Staggered, Low Morale, or Panic states, gain +2 more instead\n\nIf there are enemies in Staggered, Low Morale, or Panic states at Turn Start, inflict 2 [AttackDown] or 2 [DefenseDown] against all enemies. (3 times per turn)\n\nOn Hit against enemies in Staggered, Low Morale, or Panic states: inflict 1 [AttackDown] or 1 [DefenseDown] (3 times per turn between all Identities)\nJP :\n[編成1・2・7・8番人格専用効果]\n\nスキル・コイン効果で得る[Vibration]回数の値 +1\n- 攻撃対象が混乱、士気低下、パニック状態なら代わりに +2\n\nターン開始時に混乱、士気低下、パニック状態の敵がいるなら、全ての敵へ[AttackDown]2または[DefenseDown]2を付与。(1ターンにつき最大3回)\n\n混乱、士気低下、パニック状態の敵に攻撃的中時、[AttackDown]1または[DefenseDown]1を付与(1ターンにつき最大3回。他の人格と回数を共有)"
+  },
+  {
+    "key": "9761-simpleDesc$[0].simpleDesc",
+    "original": "스킬, 코인 효과로 얻는 [Vibration] 횟수 증가",
+    "context": "EN :\nGain more [Vibration] Count with Skill or Coin effects\nJP :\nスキル・コイン効果で得る[Vibration]回数が増加"
+  },
+  {
+    "key": "9761-simpleDesc$[1].simpleDesc",
+    "original": "[AttackDown] 또는 [DefenseDown] 1 부여",
+    "context": "EN :\nInflict 1 [AttackDown] or 1 [DefenseDown]\nJP :\n[AttackDown]または[DefenseDown]1を付与"
+  },
+  {
+    "key": "9761-simpleDesc$[2].simpleDesc",
+    "original": "[AttackDown] 또는 [DefenseDown] 1 부여",
+    "context": "EN :\nInflict 1 [AttackDown] or 1 [DefenseDown]\nJP :\n[AttackDown]または[DefenseDown]1を付与"
+  },
+  {
+    "key": "9762-name",
+    "original": "포장용 상자",
+    "context": "EN :\nPackaging Box\nJP :\nラッピングボックス"
+  },
+  {
+    "key": "9762-desc",
+    "original": "아군의 스킬 적중 시마다, [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과의 위력 1 부여 (턴 당 3회)\n\n아군이 적 처치 시 무작위 아군에게 다음 턴에 [Breath] 횟수, [Charge] 횟수, [Agility], [AttackUp], [DefenseUp] 중 무작위 1개 효과 1 부여 (턴 당 3회)",
+    "context": "EN :\nOn Hit from ally Skills) randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], and [Sinking], then inflict 1 Potency of the selected effect (3 times per turn)\n\nOn Kill from allies) randomly select one of the following effects: [Breath] Count, [Charge] Count, [Agility], [AttackUp], and [DefenseUp], then inflict 1 of the selected effect to a random ally (3 times per turn)\nJP :\n味方のスキルが的中するたびに、[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]のうちランダムな1つの効果威力を1付与(1ターンにつき3回)\n\n味方が敵討伐時、ランダムな味方に次のターンにて[Breath]回数、[Charge]回数、[Agility]、[AttackUp]、[DefenseUp]のうちランダムに1つの効果を1付与(1ターンにつき3回)"
+  },
+  {
+    "key": "9762-simpleDesc$[0].simpleDesc",
+    "original": "무작위 디버프 부여",
+    "context": "EN :\nInflict a random debuff\nJP :\nランダムにデバフ付与"
+  },
+  {
+    "key": "9762-simpleDesc$[1].simpleDesc",
+    "original": "무작위 버프 얻음",
+    "context": "EN :\nGain a random buff\nJP :\nランダムにバフを得る"
+  },
+  {
+    "key": "9763-name",
+    "original": "포장용 끈",
+    "context": "EN :\nPackaging Ribbon\nJP :\nラッピングリボン"
+  },
+  {
+    "key": "9763-desc",
+    "original": "턴 시작시, 모든 아군이 '분노 ~ 질투 피해량 증가' 중 무작위 효과 1 얻음\n\n턴 시작시, 모든 적에게 '분노 ~ 질투 취약' 중 무작위 효과 1 부여",
+    "context": "EN :\nTurn Start: randomly select 1 out of 'Wrath ~ Envy DMG Up' effects and apply 1 Stack to all allies\n\nTurn Start: randomly select 1 out of 'Wrath ~ Envy Fragility' effects and inflict 1 Stack to all enemies\nJP :\nターン開始時、全味方が憤怒～嫉妬ダメージ量増加のうちランダムに1つの効果を得る\n\nターン開始時、全ての敵へ憤怒～嫉妬脆弱のうちランダムな効果を1付与"
+  },
+  {
+    "key": "9763-simpleDesc$[0].simpleDesc",
+    "original": "무작위 속성 피해량 증가 얻음",
+    "context": "EN :\nGain a random Affinity DMG Up effect\nJP :\nランダムな属性ダメージ量増加を得る"
+  },
+  {
+    "key": "9763-simpleDesc$[1].simpleDesc",
+    "original": "무작위 속성 취약 부여",
+    "context": "EN :\nInflict 'Fragility' against a random Affinity\nJP :\nランダムな属性脆弱を付与"
+  },
+  {
+    "key": "9764-name",
+    "original": "선물",
+    "context": "EN :\nGift\nJP :\nプレゼント"
+  },
+  {
+    "key": "9764-desc",
+    "original": "아군의 스킬 적중 시마다, [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 2개 효과의 위력 1 부여 (턴 당 3회)\n\n아군의 스킬 적중 시마다, 무작위 아군 두 명에게 다음 턴에 [Breath] 횟수, [Charge] 횟수, [Agility], [AttackUp], [DefenseUp] 중 무작위 1개 효과 1 부여 (턴 당 3회)\n\n턴 시작시, 모든 아군이 '분노 ~ 질투 피해량 증가' 중 무작위 효과 2가지를 1씩 얻음\n\n턴 시작시, 모든 적에게 '분노 ~ 질투 취약' 중 무작위 효과 2가지를 1씩 부여",
+    "context": "EN :\nWhen an ally hits with a Skill, randomly select 2 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], and [Sinking], then inflict 1 Potency of the selected effect (3 times per turn)\n\nWhen an ally hits with a Skill, randomly select one of the following effects: [Breath] Count, [Charge] Count, [Agility], [AttackUp], and [DefenseUp], then inflict 1 of the selected effect to 2 random allies (3 times per turn)\n\nTurn Start: randomly select 2 out of 'Wrath ~ Envy DMG Up' effects and apply 1 Stack to all allies\n\nTurn Start: randomly select 2 out of 'Wrath ~ Envy Fragility' effects and inflict 1 Stack to all enemies\nJP :\n味方のスキルが的中するたびに、[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]のうちランダムな2つの効果威力を1付与(1ターンにつき3回)\n\n味方のスキルが的中するたびに、ランダムな味方に次のターンにて[Breath]回数、[Charge]回数、[Agility]、[AttackUp]、[DefenseUp]のうちランダムに1つの効果を1付与(1ターンにつき3回)\n\nターン開始時、全味方が憤怒～嫉妬ダメージ量増加のうちランダムな効果2つをそれぞれ1得る\n\nターン開始時、全ての敵へ憤怒～嫉妬脆弱のうちランダムな効果2つをそれぞれ1付与"
+  },
+  {
+    "key": "9764-simpleDesc$[0].simpleDesc",
+    "original": "무작위 디버프 부여",
+    "context": "EN :\nInflict a random debuff\nJP :\nランダムにデバフ付与"
+  },
+  {
+    "key": "9764-simpleDesc$[1].simpleDesc",
+    "original": "무작위 버프 얻음",
+    "context": "EN :\nGain a random buff\nJP :\nランダムにバフを得る"
+  },
+  {
+    "key": "9764-simpleDesc$[2].simpleDesc",
+    "original": "무작위 속성 피해량 증가 얻음",
+    "context": "EN :\nGain a random Affinity DMG Up effect\nJP :\nランダムな属性ダメージ量増加を得る"
+  },
+  {
+    "key": "9765-name",
+    "original": "기쁜 봉제인형",
+    "context": "EN :\nJolly Plushie\nJP :\n楽しい縫製人形"
+  },
+  {
+    "key": "9765-desc",
+    "original": "아군이 턴 종료 시 피해를 입힌 공격 스킬 수에 비례하여 다음 턴에 [Breath] 위력 2 획득.\n- 집중 전투 방식의 스테이지에서는 효과가 강화되어 [Breath] 위력 4 획득.\n\n턴 시작 시, 체력이 가장 낮은 아군에게 호흡 2, [Breath] 횟수 2, [Protection] 2 부여.\n\n아군이 본인의 정신력에 비례하여 적에게 입히는 피해량 +(정신력 절댓값. 최소 0)%\n\n더하기 코인 스킬을 보유한 아군이 흐트러짐 상태에서 풀려날 때 정신력 최대로 회복 (침식 상태일 경우에는 발동하지 않음).\n\n모든 스킬이 빼기 코인인 아군의 경우에는 턴 시작 시 [Paralysis] 5 얻음",
+    "context": "EN :\nGain 2 [Breath] Potency next turn based on the number of allied Attack Skills that dealt damage by Turn End\n- In Focused Encounters, gain 4 [Breath] Potency instead.\n\nTurn Start: apply 2 [Breath], +2 [Breath] Count, and 2 [Protection] on the ally with the least HP.\n\nDeal +(absolute value of SP)% more damage. (min 0%)\n\nWhen an ally with Plus Coin Skills recovers from Stagger, fully heal SP. (does not activate when Corroded)\n\nFor an ally with all Minus Coin Skills: gain 5 [Paralysis] at Turn Start.\nJP :\n味方がターン終了時にダメージを当てた攻撃スキル数に比例して、次のターンにて[Breath]威力2を得る。\n- 集中戦闘方式のステージでは効果が強化されて[Breath]威力4を得る。\n\nターン開始時、体力が最も低い味方へ[Breath]2, [Breath]回数2, [Protection]2を付与。\n\n敵への与ダメージ量 +(味方自身の精神力絶対値。最低0)%\n\n加算コインを保有する味方が混乱状態から回復したとき、精神力を全快(侵蝕状態の場合は発動しない)\n\n全スキルが減算コインの場合はターン開始時に[Paralysis]5を得る"
+  },
+  {
+    "key": "9765-simpleDesc$[0].simpleDesc",
+    "original": "호흡 위력 얻음",
+    "context": "EN :\nGain Poise Potency\nJP :\n呼吸 威力を得る"
+  },
+  {
+    "key": "9765-simpleDesc$[1].simpleDesc",
+    "original": "무작위 버프 부여",
+    "context": "EN :\nApply a random buff\nJP :\nランダムにバフ付与"
+  },
+  {
+    "key": "9765-simpleDesc$[2].simpleDesc",
+    "original": "[Breath], [Protection] 부여",
+    "context": "EN :\nApply [Breath] and [Protection]\nJP :\n[Breath]、[Protection]を付与"
+  },
+  {
+    "key": "9765-simpleDesc$[3].simpleDesc",
+    "original": "피해량 증가",
+    "context": "EN :\nDeal more damage\nJP :\nダメージ量増加"
+  },
+  {
+    "key": "9765-simpleDesc$[4].simpleDesc",
+    "original": "정신력 최대 회복",
+    "context": "EN :\nFully heal SP\nJP :\n精神力を全快"
+  },
+  {
+    "key": "9765-simpleDesc$[5].simpleDesc",
+    "original": "[Paralysis] 얻음",
+    "context": "EN :\nGain [Paralysis]\nJP :\n[Paralysis]を得る"
+  }
+]

@@ -1,0 +1,797 @@
+[
+  {
+    "key": "0-place",
+    "original": "창백한 고래의 우심방 입구 ",
+    "context": "EN :\nThe Pallid Whale's Right Atrium Entrance\nJP :\n蒼白な鯨の右心房 入口"
+  },
+  {
+    "key": "0-content",
+    "original": "이스마엘이 퀴케그를 가만히 바라본다.",
+    "context": "EN :\nIshmael stares wordlessly at Queequeg.\nJP :\nイシュメールがクィークェグを静かに見つめる。"
+  },
+  {
+    "key": "1-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "1-content",
+    "original": "나는… 네가… 그리고 선원 모두가 죽은 줄 알았어.",
+    "context": "EN :\nI... I thought you... everyone... died.\nJP :\n私は…あんたが…船員みんなが死んだと思ってた。"
+  },
+  {
+    "key": "2-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "2-content",
+    "original": "나도. 죽었다고 생각했어. 너.",
+    "context": "EN :\nMe too. Also thought you dead.\nJP :\nあたいも。しんだとおもった。きみ。"
+  },
+  {
+    "key": "3-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "3-content",
+    "original": "그리고 내가 있던 곳엔. 죽은 사람. 태우지 않고 파묻어.",
+    "context": "EN :\nWhere I was, we bury dead people. No burning.\nJP :\nそしてあたいのいたばしょ。しんだひと。\nもやさない、うめる。"
+  },
+  {
+    "key": "4-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "4-content",
+    "original": "땅 속으로. 그리고 마음 속으로. 깊숙이. 다시 못 꺼내게.",
+    "context": "EN :\nIn earth. In hearts. Deep. Never to dig up again.\nJP :\nつちのなかへ。そしてこころのなかへ。\nふかく。にどと、とりだせないように。"
+  },
+  {
+    "key": "5-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "5-content",
+    "original": "잊어야 하니까.",
+    "context": "EN :\nBecause, we have to forget.\nJP :\nわすれなきゃ、ならないから。"
+  },
+  {
+    "key": "6-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "6-content",
+    "original": "네겐… 내가… 묻힌 사람이야?",
+    "context": "EN :\nDid you bury me... too?\nJP :\nあんたにとって…私って…埋められた人なの？"
+  },
+  {
+    "key": "7-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "7-content",
+    "original": "나는…",
+    "context": "EN :\nI...\nJP :\nあたいは…。"
+  },
+  {
+    "key": "8-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "8-content",
+    "original": "보고 싶어. 노을.",
+    "context": "EN :\n... want to see sunset again.\nJP :\nみたい。ゆうやけ。"
+  },
+  {
+    "key": "9-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "9-content",
+    "original": "이 생각으로 버텨. 숨을 쉬지. 작살 던져.",
+    "context": "EN :\nThat keeps me going. Breathing. Throwing harpoons.\nJP :\nこのおもいで、たえてる。いきをしてる。もりをなげる。"
+  },
+  {
+    "key": "10-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10-content",
+    "original": "…바깥 세계는 싫었던 것 아니었어?",
+    "context": "EN :\n... I thought you didn't like the outside world?\nJP :\n…外の世界は嫌いなんじゃなかったの？"
+  },
+  {
+    "key": "11-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "11-content",
+    "original": "노을은 따듯해. 언제나. 어디서나.",
+    "context": "EN :\nSunset, always warm. Wherever it sets.\nJP :\nゆうやけはあたたかい。いつも。どこでも。"
+  },
+  {
+    "key": "12-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "12-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "13-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "13-content",
+    "original": "<멀리서… 울부짖는 소리가 들리네…>",
+    "context": "EN :\n<I'm hearing a terrifying cry... coming from far away...>\nJP :\n<遠くから…鳴き叫ぶ声が聞こえるね…。>"
+  },
+  {
+    "key": "14-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "14-content",
+    "original": "인어들의 울음소리…",
+    "context": "EN :\nIt's the Mermaids' cry...\nJP :\n人魚たちの鳴き声…。"
+  },
+  {
+    "key": "15-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "15-content",
+    "original": "저렇게 돼. 나가지 못하면.",
+    "context": "EN :\nOur future. If we fail to escape.\nJP :\nああいうふうになる。でれなきゃ。"
+  },
+  {
+    "key": "16-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "16-content",
+    "original": "울부짖기만 해. 만나는 모든 것들을 죽이려고.",
+    "context": "EN :\nCry and cry. Trying to kill all we see.\nJP :\nなきさけぶだけ。であうすべてを、ころそうと。"
+  },
+  {
+    "key": "17-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "17-content",
+    "original": "녹아. 천천히. 그러다가… 아주 나중에는…",
+    "context": "EN :\nThen melt. Very slowly. And later...\nJP :\nとける。ゆっくり。そうして…あとで…。"
+  },
+  {
+    "key": "18-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "18-content",
+    "original": "처음부터 없었던 것처럼. 흘러가.",
+    "context": "EN :\nFloat away. Like we were never here.\nJP :\nさいしょから、なかったように。ながれていく。"
+  },
+  {
+    "key": "19-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "19-content",
+    "original": "되고 싶지 않아. 인어.",
+    "context": "EN :\nDon't want to be Mermaid.\nJP :\nなりたくない。にんぎょ。"
+  },
+  {
+    "key": "20-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "20-content",
+    "original": "창백한 고래. 죽여야 해. 나갈 수 있어.",
+    "context": "EN :\nThe Pallid Whale. Have to kill it. Only then, we get out.\nJP :\nそうはくなくじら。ころさないと。でられない。"
+  },
+  {
+    "key": "21-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "21-content",
+    "original": "<…!>",
+    "context": "EN :\n<…!>\nJP :\n<…！>"
+  },
+  {
+    "key": "22-content",
+    "original": "다시, 이스마엘의 어느 장면이 흘러온다.",
+    "context": "EN :\nI see another vision of Ishmael.\nJP :\n再び、イシュメールのいつかが流れてくる。"
+  },
+  {
+    "key": "23-content",
+    "original": "황금가지의 영향일까… 이런 장면들이 보이는 게 점점 잦아지는 것만 같다.",
+    "context": "EN :\nIt's growing more and more frequent... Maybe it's the influence of the Golden Bough.\nJP :\n黄金の枝の影響だろうか…\nこんな場面が見えることが段々多くなってる気がする。"
+  },
+  {
+    "key": "24-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "24-content",
+    "original": "울음소리.",
+    "context": "EN :\nCrying.\nJP :\n鳴き声。"
+  },
+  {
+    "key": "25-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "25-content",
+    "original": "지하실에서는 매일같이 끔찍한 울음이 들려온다.",
+    "context": "EN :\nEvery night, a terrifying cry echoes from the holds.\nJP :\n地下室からは毎日のようにおぞましい鳴き声が聞こえてくる。"
+  },
+  {
+    "key": "26-place",
+    "original": "피쿼드호",
+    "context": "EN :\nThe Pequod\nJP :\nピークォド号"
+  },
+  {
+    "key": "26-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "26-content",
+    "original": "핍, 이번엔 네가 지하실로 갈 차례네.",
+    "context": "EN :\nPip, it's your turn to go down there.\nJP :\nピップ、今度は君が地下室へ行く番だ。"
+  },
+  {
+    "key": "27-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "27-content",
+    "original": "인어는 매일 밤마다 울부짖기 때문에 우리는 그것들을 지하실에 가둬야만 했지.",
+    "context": "EN :\nThe Mermaids cried every single night. So, we had to lock them deep in the holds.\nJP :\n人魚は毎晩鳴き叫ぶから、私たちはそれを\n地下室に閉じ込めておく必要があった。"
+  },
+  {
+    "key": "28-model",
+    "original": "핍과거",
+    "translation": "比普",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nPip\nJP :\nピップ"
+  },
+  {
+    "key": "28-content",
+    "original": "핍은 내려가기 싫어요… 무섭단 말이에요.",
+    "context": "EN :\nPip doesn't wanna go down there... It's scary.\nJP :\nピップは降りていきたくありません…怖いんです。"
+  },
+  {
+    "key": "29-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "29-content",
+    "original": "제비뽑기 결과야. 안타깝지만… 받아들이는 수밖에.",
+    "context": "EN :\nThat's just the luck of your draw, Pip. I'm sorry, but... you gotta accept it.\nJP :\nくじ引きの結果だ。残念だが…受け入れるしか。"
+  },
+  {
+    "key": "30-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "30-content",
+    "original": "퀴케그… 이상하지 않아?",
+    "context": "EN :\nIsn't it weird, Queequeg...?\nJP :\nクィークェグ…変じゃない？"
+  },
+  {
+    "key": "31-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "31-content",
+    "original": "왜 우리가… 이런 짓을 벌이고 있어야 하는 건데?",
+    "context": "EN :\nWhy are we... doing any of this?\nJP :\nなんで私たちが…こんなことをしなきゃならないの？"
+  },
+  {
+    "key": "32-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "32-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "33-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "33-content",
+    "original": "견뎌야 해. 이스마엘.",
+    "context": "EN :\nIshmael. Steel yourself.\nJP :\n耐えないと。イシュメール。"
+  },
+  {
+    "key": "34-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "34-content",
+    "original": "우리는 그 창백한 고래를 만날 수 있을 거니까. 머지않아.",
+    "context": "EN :\nWe'll see Pallid Whale. Soon.\nJP :\nあたいたちはあの蒼白な鯨に会えるだろうから。近いうちに。"
+  },
+  {
+    "key": "35-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "35-content",
+    "original": "모든 게 다 끝날 거라는 의미지.",
+    "context": "EN :\nWhich means all this be over. Soon.\nJP :\n全てが終わるって意味だ。"
+  },
+  {
+    "key": "36-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "36-content",
+    "original": "그래, 곧… 끝날 거야…",
+    "context": "EN :\nYeah. It'll all be over, soon...\nJP :\nうん、もうすぐ…終わるんだ…。"
+  },
+  {
+    "key": "37-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "37-content",
+    "original": "그래서 이 항해만 끝난다면…",
+    "context": "EN :\nSo when this voyage is over...\nJP :\nだからこの航海さえ終われば…。"
+  },
+  {
+    "key": "38-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "38-content",
+    "original": "자기 위치도 제대로 안 지키면서 내 배에서 무슨 소란이지?",
+    "context": "EN :\nWhat is this mess? Can you not even man your stations properly, you deckhands?\nJP :\n自分の立ち位置も守ってないくせに\n私の船で一体何の騒ぎを起こしてるんだい？"
+  },
+  {
+    "key": "39-model",
+    "original": "핍과거",
+    "translation": "比普",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nPip\nJP :\nピップ"
+  },
+  {
+    "key": "39-content",
+    "original": "선장님! 핍은 지하로 내려가기 싫어요. 죽을 것 같이 무서워요. 겁이 나요.",
+    "context": "EN :\nCaptain! Pip doesn't wanna go down there. Pip's scared to death. It's so scary down there.\nJP :\n船長！ピップは地下に降りたくありません。\n死ぬかもしれないから怖いです。すごく怖いです。"
+  },
+  {
+    "key": "40-model",
+    "original": "핍과거",
+    "translation": "比普",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nPip\nJP :\nピップ"
+  },
+  {
+    "key": "40-content",
+    "original": "핍은 밤마다 소리를 들어요. 지하실 문을 긁는 소리요.",
+    "context": "EN :\nEvery night Pip hears. Every night he scratches at the locked door.\nJP :\nピップは夜な夜な音を聞きます。\n地下室の扉を引っ掻く音をです。"
+  },
+  {
+    "key": "41-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "41-content",
+    "original": "정신 차려라, 핍. 저건 그냥 인어다.",
+    "context": "EN :\nGet a hold of yourself, Pip. That's just a Mermaid.\nJP :\nしっかりしろ、ピップ。\nアレはただの人魚だ。"
+  },
+  {
+    "key": "42-model",
+    "original": "핍과거",
+    "translation": "比普",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nPip\nJP :\nピップ"
+  },
+  {
+    "key": "42-content",
+    "original": "핍은 알아요, 핍은 봤어요, 저건…",
+    "context": "EN :\nPip knows, Pip saw... That was...\nJP :\nピップは知っています、ピップは見ました、アレは…。"
+  },
+  {
+    "key": "43-model",
+    "original": "핍과거",
+    "translation": "比普",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nPip\nJP :\nピップ"
+  },
+  {
+    "key": "43-content",
+    "original": "스텁 선원이었잖아요, 선장님… 스텁이 탄 보트가 그 창백한 고래에게 먹혀버려서…",
+    "context": "EN :\nThat was our mate Stubb, Captain. The Pallid Whale ate Stubb and the boat he was on, and...\nJP :\nスタッブ船員じゃないですか、船長…。\nスタッブが乗った船があの蒼白な鯨に食べられて…。"
+  },
+  {
+    "key": "44-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "44-content",
+    "original": "핍, 지하실의 소리는 듣지 말고 호수 너머를 보도록.",
+    "context": "EN :\nPip. Turn away from the sound of the holds. Look far beyond to the Great Lake.\nJP :\nピップ、地下室の音は聞かず湖の彼方を見るように。"
+  },
+  {
+    "key": "45-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "45-content",
+    "original": "우린 창백한 고래를 만날 날이 머지않았다.",
+    "context": "EN :\nThe Pallid Whale's day of reckoning draws near.\nJP :\n私たちが蒼白な鯨に出会える日はそう遠くない。"
+  },
+  {
+    "key": "46-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "46-content",
+    "original": "저것의 울음소리가 커진다는 건 그것이 가까이에 있다는 증거니까.",
+    "context": "EN :\nThe louder the Mermaid cries, the closer we are to our goal.\nJP :\nあれの鳴き声が大きくなるということは\nアレが近くにいるという証拠だ。"
+  },
+  {
+    "key": "47-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "47-content",
+    "original": "저것이 우리를 창백한 고래에게 이끌어 줄 테니.",
+    "context": "EN :\nThat creature will lead us to the Pallid Whale.\nJP :\nあれが私たちを蒼白な鯨へと導いてくれるだろう。"
+  },
+  {
+    "key": "48-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "48-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "49-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "49-content",
+    "original": "나는 그날 한밤중, 에이해브의 선장실로 몰래 들어갔다.",
+    "context": "EN :\nThat night, I snuck into Captain Ahab's quarters.\nJP :\n私はその日の真夜中、エイハブの船長室へこっそり忍び込んだ。"
+  },
+  {
+    "key": "50-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "50-content",
+    "original": "선장실에 무단으로 들어간다는 건 금기에 가까운 짓이었다. 뱃사람이라면 누구나 알고 있는.",
+    "context": "EN :\nTo enter the Captain's quarters, unauthorized, was like breaking a taboo. Every sailor knew that.\nJP :\n船長室へ無断で入るということは、禁忌に近い行為であった。\n船人なら誰でも知っている。"
+  },
+  {
+    "key": "51-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "51-content",
+    "original": "만약 붙잡히면 선상 반란 혐의로 즉석에서 어떤 처분을 받아도 이상하지 않을 행위였지만,",
+    "context": "EN :\nIf I was caught... I would've had to accept whatever punishment they decided to levy upon me for committing a sin that may as well have been a mutiny.\nJP :\nもし捕まったら船上反乱容疑で\n即座にどんな処分を受けてもおかしくない行為だったけど、"
+  },
+  {
+    "key": "52-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "52-content",
+    "original": "정확히 무슨 생각이었는지는 나 스스로도 알 수 없었다.",
+    "context": "EN :\nBut I don't know what I was thinking when I walked in there.\nJP :\n何を考えていたのか、自分でも分かっていなかった。"
+  },
+  {
+    "key": "53-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "53-content",
+    "original": "…!",
+    "context": "EN :\n...!\nJP :\n…！"
+  },
+  {
+    "key": "54-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "54-content",
+    "original": "에… 에이해브… 선장님… 저는…",
+    "context": "EN :\nC-Captain Ahab... I...\nJP :\nえ…エイハブ…船長…私は…。"
+  },
+  {
+    "key": "55-model",
+    "original": "에이해브",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "55-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "56-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "56-content",
+    "original": "선, 선장님?",
+    "context": "EN :\nC-Captain?\nJP :\nせ、船長？"
+  },
+  {
+    "key": "57-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "57-content",
+    "original": "선장의 눈은 침실 천장에 붙어 있는 호수의 지도를 똑바로 향해 있었다.",
+    "context": "EN :\nThe Captain's eyes were locked on the map of the Great Lake stuck to the ceiling of her quarters.\nJP :\n船長の目は寝室の天井に貼られている\n湖の地図へ真っ直ぐに向かっていた。"
+  },
+  {
+    "key": "58-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "58-content",
+    "original": "미동 하나 없었다.",
+    "context": "EN :\nShe did not stir.\nJP :\n微動すらしなかった。"
+  },
+  {
+    "key": "59-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "59-content",
+    "original": "나는 그 모습을 쳐다보다 비틀거리며 선장실 문을 열고 나왔다.",
+    "context": "EN :\nI looked at this sight for a moment... before stumbling out of the Captain's quarters.\nJP :\n私はその姿をしばらく見つめ、\nよろめきながら船長室のドアを開けて出た。"
+  },
+  {
+    "key": "60-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "60-content",
+    "original": "그럴 수밖에 없었다.",
+    "context": "EN :\nI had to.\nJP :\nそうするしかなかった。"
+  },
+  {
+    "key": "61-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "61-content",
+    "original": "선장실을 들어갔었니?",
+    "context": "EN :\nSo, you went into the Captain's quarters, huh?\nJP :\n船長室に入ったのか？"
+  },
+  {
+    "key": "62-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "62-content",
+    "original": "스… 스타벅 씨…",
+    "context": "EN :\nM-mister Starbuck...\nJP :\nす…スターバックさん…。"
+  },
+  {
+    "key": "63-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "63-content",
+    "original": "선장님은 주무실 때도 언제나 눈을 똑바로 뜨고 계시지.",
+    "context": "EN :\nCaptain never gets a proper shut-eye. Even when she sleeps, she sleeps with her eyes wide open.\nJP :\n船長はお休みのときも、いつも目を開いてらっしゃる。"
+  },
+  {
+    "key": "64-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "64-content",
+    "original": "호수의 영역 어딘가에 있을 그 창백한 고래를 들여다 보고 있는 거야.",
+    "context": "EN :\nShe's always looking for that Pallid Whale somewhere in the Great Lake. Even as she dreams...\nJP :\n湖の領域のどこかにいる、あの蒼白な鯨を見ているんだ。"
+  },
+  {
+    "key": "65-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "65-content",
+    "original": "선장님은 자고 있는 게 아니야. 언제나 깨어나 있지.",
+    "context": "EN :\nCaptain ain't sleeping. She's awake. Always is.\nJP :\n船長は寝ているわけじゃない。いつも目覚めている。"
+  },
+  {
+    "key": "66-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "66-content",
+    "original": "그래… 이곳은 선장의 손아귀.",
+    "context": "EN :\nYeah... on the Pequod, the Captain had a tight leash around us.\nJP :\nそう…ここは船長の手のひらの上。"
+  },
+  {
+    "key": "67-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "67-content",
+    "original": "우리는 온몸이 움켜진 채로 허락해 주는 만큼의 숨만 쉬고 있을 뿐.",
+    "context": "EN :\nWe were merely gasping on what little air she permitted us.\nJP :\n私たちは全身を握られたまま、息だけが許されている。"
+  },
+  {
+    "key": "68-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "68-content",
+    "original": "얼른 들어가서 자. 선장님의 말씀대로 그 고래는 멀리 있지 않으니까.",
+    "context": "EN :\nGo and get some rest. Like Captain said, that Whale's gotta be close.\nJP :\n早く戻って寝ろ。船長の言う通り、あの鯨はそう遠くない。"
+  },
+  {
+    "key": "69-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "69-content",
+    "original": "선장님의 말씀은 간혹 이해가 어렵고, 종종 다른 생각을 해주길 바라기는 하지만…",
+    "context": "EN :\nI don't always understand the Captain, and sometimes I wish she'd entertain some different ideas...\nJP :\n船長のお言葉は理解が難しいこともある、\nたまには違った観点で考えてほしいけど…。"
+  },
+  {
+    "key": "70-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "70-content",
+    "original": "그런 시간도 얼마 남지 않았어.",
+    "context": "EN :\n... But we won't have to suffer much more of that.\nJP :\nそうする時間も余り残っていない。"
+  },
+  {
+    "key": "71-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "71-content",
+    "original": "곧 자유로워질 수 있어.",
+    "context": "EN :\nWe'll all be free soon.\nJP :\nもうじき、自由になれるだろう。"
+  },
+  {
+    "key": "72-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "72-content",
+    "original": "창백한 고래를 잡고… 배에서 내리면… 우리는…",
+    "context": "EN :\nOnce we kill the Pallid Whale and leave this ship... We...\nJP :\n蒼白な鯨を捕まえて…船から降りれば…俺たちは…。"
+  }
+]

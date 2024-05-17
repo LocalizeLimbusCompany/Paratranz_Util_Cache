@@ -1,0 +1,222 @@
+[
+  {
+    "key": "AtkDamageMultiplier-desc",
+    "original": "가하는 피해량 {0}%",
+    "context": "EN :\n{0}% to damage dealt\nJP :\n与ダメージ量 {0}%"
+  },
+  {
+    "key": "AtkDamageMultiplier-variation",
+    "original": "가하는 {0} 피해량 {1}%",
+    "context": "EN :\n{1}% to {0} damage dealt\nJP :\n{0} 与ダメージ量 {1}%"
+  },
+  {
+    "key": "AtkAndTakeAtkDamageMultiplier-desc",
+    "original": "가하는 / 받는 피해량 {0}%",
+    "context": "EN :\n{0}% to damage dealt & taken\nJP :\n与・被ダメージ量 {0}%"
+  },
+  {
+    "key": "AtkAndTakeAtkDamageMultiplier-variation",
+    "original": "{0} 속성 스킬로 가하는 / 받는 피해량 {1}%",
+    "context": "EN :\n{1}% to damage dealt & taken with {0} Affinity\nJP :\n{0}属性スキルの与・被ダメージ量 {1}%"
+  },
+  {
+    "key": "GiveBuffOnSucceedAttack-desc",
+    "original": "적중 시 {0} {1} 부여",
+    "context": "EN :\nApply {1} {0} On Hit\nJP :\n的中時{0} {1}付与"
+  },
+  {
+    "key": "MaxHpMultiplierRail-desc",
+    "original": "최대 체력 {0}%",
+    "context": "EN :\nMax HP {0}%\nJP :\n最大体力 {0}%"
+  },
+  {
+    "key": "SlotWeightAdder-desc",
+    "original": "슬롯 가중치 {0}",
+    "context": "EN :\nSlot Weight {0}\nJP :\nスロット加重値 {0}"
+  },
+  {
+    "key": "AtkAdder-desc",
+    "original": "공격 레벨 {0}",
+    "context": "EN :\nOffense Level {0}\nJP :\n攻撃レベル {0}"
+  },
+  {
+    "key": "DefAdder-desc",
+    "original": "방어 레벨 {0}",
+    "context": "EN :\nDefense Level {0}\nJP :\n防御レベル {0}"
+  },
+  {
+    "key": "AtkAdderIfNotDamagedPrevTurn-desc",
+    "original": "한 턴 동안 체력 피해를 받지 않았다면 다음 턴에 공격 레벨 {0}\n(보호막 피해는 해당되지 않음)",
+    "context": "EN :\nOffense Level {0} if user took no HP damage for a turn\n(Shield damage ≠ HP damage)\nJP :\n1ターンの間、体力ダメージを受けなければ次のターンに攻撃レベル {0}\n(バリアのダメージは該当しない)"
+  },
+  {
+    "key": "MaxSpeedAdderAsStack-desc",
+    "original": "속도 최댓값 {0}",
+    "context": "EN :\nMax Speed {0}\nJP :\n速度最大値 {0}"
+  },
+  {
+    "key": "MaxSpeedAdder-desc",
+    "original": "속도 최댓값 {0}",
+    "context": "EN :\nMax Speed {0}\nJP :\n速度最大値 {0}"
+  },
+  {
+    "key": "MinSpeedAdder-desc",
+    "original": "속도 최솟값 {0}",
+    "context": "EN :\nMin Speed {0}\nJP :\n速度最小値 {0}"
+  },
+  {
+    "key": "TakeHpHealMultiplier-desc",
+    "original": "스킬 효과를 통한 체력 회복량 {0}%",
+    "context": "EN :\nHP Healed from Skill Effects {0}%\nJP :\nスキル効果による体力回復量 {0}%"
+  },
+  {
+    "key": "RecoverSelfHpOnSucceedAttackByDmg-desc",
+    "original": "가한 피해량의 {0}%만큼 체력 회복",
+    "context": "EN :\nHeal {0}% of Damage dealt\nJP :\n与ダメージの{0}%体力を回復"
+  },
+  {
+    "key": "RailEnemyBuffF-desc",
+    "original": "수감자가 E.G.O 스킬을 사용할 때 소모하는 E.G.O 자원 수량 {0}",
+    "context": "EN :\n{0} to amount of E.G.O resources consumed by Sinners when using E.G.O Skills\nJP :\n囚人がE.G.Oスキル使用時に消耗するE.G.O資源の数量 {0}"
+  },
+  {
+    "key": "MaxHpMultiplier-desc",
+    "original": "최대 체력 {0}%",
+    "context": "EN :\nMax HP {0}%\nJP :\n最大体力 {0}%"
+  },
+  {
+    "key": "AtkAndDefAdder-desc",
+    "original": "공격 레벨 {0}, 방어 레벨 {0}",
+    "context": "EN :\nOffense Level {0}, Defense Level {0}\nJP :\n攻撃レベル {0}, 防御レベル {0}"
+  },
+  {
+    "key": "GiveBuffOnRoundStartToAllAlly-desc",
+    "original": "턴 시작 시 아군 전체에게 {0} {1}, {0} 횟수 {2} 부여",
+    "context": "EN :\nAt the start of the turn, apply {1} {0} and +{2} {0} Count to all allies\nJP :\nターン開始時に味方全体へ{0} {1}, {0} 回数を{2}付与"
+  },
+  {
+    "key": "GiveBuffOnRoundStartToAllAlly-variation",
+    "original": "턴 시작 시 아군 전체에게 {0} {1} 부여",
+    "context": "EN :\nAt the start of the turn, apply {1} {0} to all allies.\nJP :\nターン開始時に味方全体へ{0} {1}を付与"
+  },
+  {
+    "key": "GiveBuffOnRoundStartToAllAlly-variation2",
+    "original": "턴 시작 시 아군 전체에게 {0} 횟수 {1} 부여",
+    "context": "EN :\nAt the start of the turn, apply +{1} {0} Count to all allies\nJP :\nターン開始時に味方全体へ{0} 回数を{1}付与"
+  },
+  {
+    "key": "GiveBuffOnRoundStartToAllAllyExtra-desc",
+    "original": "턴 시작 시 아군 전체에게 {0} {1} 부여, {0} 상태인 아군에게는 {0} 횟수 {2} 추가로 부여",
+    "context": "EN :\nAt the start of the turn, apply {1} {0} to all allies and apply +{2} more {0} Count to allies with {0}\nJP :\nターン開始時に味方全体へ{0} {1}を付与、{0}状態の味方には{0} 回数を追加で{2}付与"
+  },
+  {
+    "key": "GiveBuffOnRoundStartToAllEnemyExtra-desc",
+    "original": "턴 시작 시 적 전체에게 {0} {1} 부여, {0} 상태인 적에게는 {0} 횟수 {2} 추가로 부여",
+    "context": "EN :\nAt the start of the turn, apply {1} {0} to all enemies and apply +{2} more {0} Count to all enemies with {0}\nJP :\nターン開始時に敵全体へ{0} {1}を付与、{0}状態の敵には{0} 回数を追加で{2}付与"
+  },
+  {
+    "key": "LoseTurnOnRoundEnd-desc",
+    "original": "턴 종료 시 횟수 {0} 감소",
+    "context": "EN :\nTurn End: lose {0} Count\nJP :\nターン終了時に回数が{0}減少"
+  },
+  {
+    "key": "Vibration-desc",
+    "original": "{1}턴 동안 진동 폭발 스킬로 피격 시 {0}만큼 흐트러짐 손상",
+    "context": "EN :\nWhen hit by attacks that trigger Tremor Burst, raise the Stagger Threshold by {0}. Lasts {1} turn(s).\nJP :\n{1}ターンの間、振動爆発スキルで被ダメージ時に混乱区間が{0}前進"
+  },
+  {
+    "key": "DefAdderByStackCeilToInt-desc",
+    "original": "진동 위력 4 당 방어 레벨 1 감소",
+    "context": "EN :\nLose 1 Defense Level for every 4 Tremor Potency\nJP :\n振動威力4につき、防御レベルが1減少"
+  },
+  {
+    "key": "Crack-desc",
+    "original": "흐트러짐 상태가 되었을 때, 자신의 진동 위력과 횟수의 합이 20 이상이면, 흐트러짐 단계 1 증가\n해당 효과로 최대 흐트러짐 단계를 초과할 수 없음",
+    "context": "EN :\nWhen Staggered, and when the sum of Tremor Potency and Count adds up to 20 or higher, raise Stagger Level by 1\nCannot exceed maximum Stagger Level with this effect\nJP :\n- 混乱状態になったとき、自分の振動威力とマッチ回数の合計が20以上なら、混乱段階を1増加\n- 該当効果によって最大混乱段階を超過することはない"
+  },
+  {
+    "key": "VibrationEcho-desc",
+    "original": "{1} 턴 동안 진동 폭발 시 {0}만큼 나태 피해를 입음.",
+    "context": "EN :\nWhen hit by attacks that trigger Tremor Burst, take {0} Sloth damage.\nJP :\n{1}ターンの間、振動爆発時に{0}だけ怠惰ダメージを受ける"
+  },
+  {
+    "key": "VibrationDistribution-desc",
+    "original": "턴 종료 시 (아군 전체의 진동 - 분배 횟수의 합 / (인원 수(진동 - 분배가 있는 아군 수))만큼 다음 턴에 공격 레벨 증가를 얻음 (최대 5)",
+    "context": "EN :\n- Turn End: Gain ((sum of all allies' Tremor - Distribution Count) / (# of allies with Tremor - Distribution)) Offense Level Up next turn (max 5)\nJP :\nターン終了時、(味方全体の振動 - 分配回数の合計 ÷ (人員数(振動 - 分配を持つ味方数))だけ次のターンに攻撃レベル増加を得る(最大5)"
+  },
+  {
+    "key": "VibrationChain-desc",
+    "original": "대상의 진동 위력 10 당 합 위력 1 감소 (최대 3)",
+    "context": "EN :\nLose 1 Clash Power for every 10 Tremor Potency on target (max 3)\nJP :\n対象の振動威力10につき、マッチ威力が1減少(最大3)"
+  },
+  {
+    "key": "VibrationContinue-desc",
+    "original": "스킬, 코인 효과로 진동 폭발 시 자신의 {0}% 확률로 진동 폭발 1회 추가 발동. (최대 50%)\n- 스킬, 코인 효과로 진동 폭발 시 자신의 {1}% 확률로 진동 폭발 1회 추가 발동. (최대 50%)",
+    "context": "EN :\n- When triggering Tremor Burst with Skill or Coin effects, {0}% chance to trigger an additional Tremor Burst. (max 50%)\n- When triggering Tremor Burst with Skill or Coin effects, {1}% chance to trigger an additional Tremor Burst. (max 50%)\nJP :\nスキル・コイン効果で振動爆発時、{0}%の確率で自分の振動爆発が1回追加で発動(最大50%)\n- スキル・コイン効果で振動爆発時、{1}%の確率で自分の振動爆発が1回追加で発動(最大50%)"
+  },
+  {
+    "key": "TimeSuspend-desc",
+    "original": "효과 발동 시 {3}만큼 나태 피해를 입히고 진동 폭발 {0}회 발동",
+    "context": "EN :\nUpon activation, deal {3} Sloth damage and trigger {0} Tremor Burst(s)\nJP :\n効果発動時、{3}分の怠惰ダメージを与えて振動爆発を{0}回発動"
+  },
+  {
+    "key": "TimeRentalTwoPersonality-name",
+    "original": "시간 대여",
+    "context": "EN :\nBorrowed Time\nJP :\n時間貸与"
+  },
+  {
+    "key": "TimeRentalTwoPersonality-desc",
+    "original": "턴 종료시 다음 턴에 신속, 합 위력 증가, 취약 {1} 만큼 얻음\n횟수가 1이면, 턴 종료시 효과를 대신하여 다음 턴에 속박 {0} 얻음",
+    "context": "EN :\nTurn End: gain {1} Haste, Clash Power Up, and Fragile next turn\nAt 1 Count, gain {0} Bind next turn instead\nJP :\nターン終了時に次のターンにてクイック、マッチ威力増加、脆弱を{1}得る\n回数が1なら、ターン終了時この効果の代わりに次のターンにて束縛{0}を得る"
+  },
+  {
+    "key": "VibrationChainPersonality-name",
+    "original": "진동 - 사슬",
+    "context": "EN :\nTremor - Chain\nJP :\n振動 - 鎖"
+  },
+  {
+    "key": "VibrationChainPersonality-desc",
+    "original": "진동 위력 10 당 합 위력 1 감소 (최대 3)",
+    "context": "EN :\nLose 1 Clash Power for every 10 Tremor Potency (max 3)\nJP :\n振動威力10につき、マッチ威力が1減少(最大3)"
+  },
+  {
+    "key": "DefSkillPowerResultAdder-desc",
+    "original": "수비 스킬 최종 위력 {0}",
+    "context": "EN :\nDefense Skill Final Power {0}\nJP :\n守備スキル最終威力{0}"
+  },
+  {
+    "key": "TakeAtkDamageMultiplier-desc",
+    "original": "받는 피해량 {0}%",
+    "context": "EN :\nDamage Taken {0}%\nJP :\n被ダメージ量{0}%"
+  },
+  {
+    "key": "ParryingResultAdder-desc",
+    "original": "합 위력 {0}",
+    "context": "EN :\nClash Power {0}\nJP :\nマッチ威力{0}"
+  },
+  {
+    "key": "SkillPowerResultAdder-desc",
+    "original": "최종 위력 {0}",
+    "context": "EN :\nFinal Power {0}\nJP :\n最終威力{0}"
+  },
+  {
+    "key": "SkillPowerAdder-desc",
+    "original": "기본 위력 {0}",
+    "context": "EN :\nBase Power {0}\nJP :\n基本威力{0}"
+  },
+  {
+    "key": "PlusCoinScaleAdder-desc",
+    "original": "더하기 코인 위력 {0}",
+    "context": "EN :\nPlus Coin Power {0}\nJP :\n加算コイン威力{0}"
+  },
+  {
+    "key": "MinusCoinScaleAdder-desc",
+    "original": "빼기 코인 위력 {0}",
+    "context": "EN :\nMinus Coin Power {0}\nJP :\n減算コイン威力{0}"
+  },
+  {
+    "key": "DefaultMaxHpMultiplier-desc",
+    "original": "최대 체력 {0}%",
+    "context": "EN :\nMax HP {0}%\nJP :\n最大体力 {0}%"
+  }
+]

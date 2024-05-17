@@ -1,0 +1,82 @@
+[
+  {
+    "key": "9101701-name",
+    "original": "모두의 성과",
+    "context": "EN :\nCollective Achievement\nJP :\n皆の成果"
+  },
+  {
+    "key": "9101701-desc",
+    "original": "자신의 공격 혹은 [VibrationExplosion]로 대상이 흐트러짐 상태가 된다면, 모든 아군의 정신력 10 회복",
+    "context": "EN :\nIf the target is Staggered by this unit's Attack or [VibrationExplosion], all allies heal 10 SP\nJP :\n自分の攻撃または[VibrationExplosion]で対象が混乱状態になると、全味方の精神力が10回復"
+  },
+  {
+    "key": "9014201-name",
+    "original": "시간 긴급 대출",
+    "context": "EN :\nEmergency Time Loan\nJP :\n時間緊急融資"
+  },
+  {
+    "key": "9014201-desc",
+    "original": "턴 시작 시 흐트러짐 상태라면, [TimeRentalTwo] 횟수 3 얻음.",
+    "context": "EN :\nTurn Start: If this unit is staggered, gain +3 [TimeRentalTwo] Count.\nJP :\nターン開始時に混乱状態なら、[TimeRentalTwo]回数3を得る。"
+  },
+  {
+    "key": "9014202-name",
+    "original": "황금 시간 I",
+    "context": "EN :\nGolden Time I\nJP :\nゴールデンタイム I"
+  },
+  {
+    "key": "9014202-desc",
+    "original": "턴 종료 시 체력이 16% ~ 20%사이로 남았을 때, 전체 체력의 60%만큼 즉시 회복. 흐트러짐 상태 해제. (최대 1회)",
+    "context": "EN :\nAt the end of the turn, if the HP is between 16% and 20%, instantly heal up to 60% of Max HP, and recover from stagger. (One time max)\nJP :\nターン終了時に体力が16~20%残っているなら、体力を最大値の60%即回復。混乱状態を解除。(最大1回)"
+  },
+  {
+    "key": "9014203-name",
+    "original": "시간반동 I",
+    "context": "EN :\nTime Recoil I\nJP :\n時間反動 I"
+  },
+  {
+    "key": "9014203-desc",
+    "original": "황금 시간 발동 이후, 턴 시작 시 [Vulnerable] 2 얻음",
+    "context": "EN :\nAfter activating Golden Time, gain 2 [Vulnerable] at the next Turn Start\nJP :\nゴールデンタイム発動後、ターン開始時に[Vulnerable]2を得る"
+  },
+  {
+    "key": "9014204-name",
+    "original": "시간 대여 준비",
+    "context": "EN :\nReady to Borrow Time\nJP :\n時間貸与準備"
+  },
+  {
+    "key": "9014204-desc",
+    "original": "턴 시작 시 [TimeRentalTwo]가 없을 때, 자신의 진동 횟수 5 증가",
+    "context": "EN :\nTurn Start: If this unit does not have [TimeRentalTwo], gain +5 Tremor Count\nJP :\nターン開始時に[TimeRentalTwo]がないとき、自分の振動 回数が5増加"
+  },
+  {
+    "key": "9014301-name",
+    "original": "황금 시간 II",
+    "context": "EN :\nGolden Time II\nJP :\nゴールデンタイム II"
+  },
+  {
+    "key": "9014301-desc",
+    "original": "턴 종료 시 체력이 10% ~ 20%사이로 남았을 때, 전체 체력의 80%만큼 즉시 회복. 흐트러짐 상태 해제. (최대 1회)",
+    "context": "EN :\nAt the end of the turn, if the HP is between 10% and 20%, instantly heal up to 80% of Max HP, and recover from stagger. (One time max)\nJP :\nターン終了時に体力が10~20%残っているなら、体力を最大値の80%即回復。混乱状態を解除。(最大1回)"
+  },
+  {
+    "key": "9014302-name",
+    "original": "시간반동 II",
+    "context": "EN :\nTime Recoil II\nJP :\n時間反動 II"
+  },
+  {
+    "key": "9014302-desc",
+    "original": "황금 시간 발동 이후, 턴 시작 시 [Vulnerable] 3 얻음",
+    "context": "EN :\nAfter activating Golden Time, gain 3 [Vulnerable] at the next Turn Start\nJP :\nゴールデンタイム発動後、ターン開始時に[Vulnerable]3を得る"
+  },
+  {
+    "key": "9014303-name",
+    "original": "시간 대여",
+    "context": "EN :\nBorrow Time\nJP :\n時間貸与"
+  },
+  {
+    "key": "9014303-desc",
+    "original": "스테이지 시작 시, [TimeRentalTwo] 횟수 4 증가",
+    "context": "EN :\nEncounter Start: Gain +4 [TimeRentalTwo] Count\nJP :\nステージ開始時、[TimeRentalTwo]回数が4増加"
+  }
+]

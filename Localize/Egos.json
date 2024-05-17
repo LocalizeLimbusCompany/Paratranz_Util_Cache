@@ -1,0 +1,872 @@
+[
+  {
+    "key": "20101-name",
+    "original": "오감도",
+    "context": "EN :\nCrow’s Eye View\nJP :\n烏瞰刀"
+  },
+  {
+    "key": "20101-desc",
+    "original": "이상의 기본 EGO 장비",
+    "context": "EN :\nYi Sang’s Base E.G.O\nJP :\nイサン 基本E.G.O装備"
+  },
+  {
+    "key": "20102-name",
+    "original": "4번째 성냥불",
+    "context": "EN :\n4th Match Flame\nJP :\n4本目のマッチの火"
+  },
+  {
+    "key": "20102-desc",
+    "original": "이상 전용 EGO 장비",
+    "context": "EN :\nYi Sang’s E.G.O Gear\nJP :\nイサン 専用E.G.O装備"
+  },
+  {
+    "key": "20103-name",
+    "original": "소망석",
+    "context": "EN :\nWishing Cairn\nJP :\n願いの石"
+  },
+  {
+    "key": "20103-desc",
+    "original": "이상 전용 EGO 장비",
+    "context": "EN :\nYi Sang’s E.G.O Gear\nJP :\nイサン 専用E.G.O装備"
+  },
+  {
+    "key": "20201-name",
+    "original": "표상 방출기",
+    "context": "EN :\nRepresentation Emitter\nJP :\n表象放出機"
+  },
+  {
+    "key": "20201-desc",
+    "original": "파우스트의 기본 EGO 장비",
+    "context": "EN :\nFaust’s Base E.G.O\nJP :\nファウスト 基本E.G.O装備"
+  },
+  {
+    "key": "20202-name",
+    "original": "물주머니",
+    "context": "EN :\nFluid Sac\nJP :\n水袋"
+  },
+  {
+    "key": "20202-desc",
+    "original": "파우스트 전용 EGO 장비",
+    "context": "EN :\nFaust’s E.G.O Gear\nJP :\nファウスト専用E.G.O装備"
+  },
+  {
+    "key": "20203-name",
+    "original": "저주못",
+    "context": "EN :\nHex Nail\nJP :\n呪いの釘"
+  },
+  {
+    "key": "20203-desc",
+    "original": "파우스트 전용 EGO 장비",
+    "context": "EN :\nFaust’s E.G.O Gear\nJP :\nファウスト 専用E.G.O装備"
+  },
+  {
+    "key": "20301-name",
+    "original": "라 샹그레 데 산쵸",
+    "context": "EN :\nLa Sangre de Sancho\nJP :\nラ・サングレ・デ・サンチョ"
+  },
+  {
+    "key": "20301-desc",
+    "original": "돈키호테의 기본 EGO 장비",
+    "context": "EN :\nDon Quixote’s Base E.G.O\nJP :\nドンキホーテ 基本E.G.O装備"
+  },
+  {
+    "key": "20302-name",
+    "original": "물주머니",
+    "context": "EN :\nFluid Sac\nJP :\n水袋"
+  },
+  {
+    "key": "20302-desc",
+    "original": "돈키호테 전용 EGO 장비",
+    "context": "EN :\nDon Quixote’s E.G.O Gear\nJP :\nドンキホーテ 基本E.G.O装備"
+  },
+  {
+    "key": "20401-name",
+    "original": "삼라염상",
+    "context": "EN :\nForest for the Flames\nJP :\n森羅炎象"
+  },
+  {
+    "key": "20401-desc",
+    "original": "료슈의 기본 EGO 장비",
+    "context": "EN :\nRyōshū’s Base E.G.O\nJP :\n良秀 基本E.G.O装備"
+  },
+  {
+    "key": "20402-name",
+    "original": "4번째 성냥불",
+    "context": "EN :\n4th Match Flame\nJP :\n4本目のマッチの火"
+  },
+  {
+    "key": "20402-desc",
+    "original": "료슈 전용 EGO 장비",
+    "context": "EN :\nRyōshū’s E.G.O Gear\nJP :\n良秀 専用E.G.O装備"
+  },
+  {
+    "key": "20501-name",
+    "original": "타인의 사슬",
+    "context": "EN :\nChains of Others\nJP :\n他人の鎖"
+  },
+  {
+    "key": "20501-desc",
+    "original": "뫼르소의 기본 EGO 장비",
+    "context": "EN :\nMeursault’s Base E.G.O\nJP :\nムルソー 基本E.G.O装備"
+  },
+  {
+    "key": "20502-name",
+    "original": "나사빠진 일격",
+    "context": "EN :\nScrewloose Wallop\nJP :\nネジの外れた一撃"
+  },
+  {
+    "key": "20502-desc",
+    "original": "뫼르소 전용 EGO 장비",
+    "context": "EN :\nMeursault’s E.G.O Gear\nJP :\nムルソー 専用E.G.O装備"
+  },
+  {
+    "key": "20503-name",
+    "original": "집행",
+    "context": "EN :\nPursuance\nJP :\n執行"
+  },
+  {
+    "key": "20503-desc",
+    "original": "뫼르소 전용 EGO 장비",
+    "context": "EN :\nMeursault’s E.G.O Gear\nJP :\nムルソー 専用E.G.O装備"
+  },
+  {
+    "key": "20601-name",
+    "original": "허환경",
+    "context": "EN :\nLand of Illusion\nJP :\n虚幻境"
+  },
+  {
+    "key": "20601-desc",
+    "original": "홍루 기본 EGO 장비",
+    "context": "EN :\nHong Lu’s Base E.G.O\nJP :\nホンル 基本E.G.O装備"
+  },
+  {
+    "key": "20602-name",
+    "original": "분홍욕망",
+    "context": "EN :\nRoseate Desire\nJP :\n桃色の欲望"
+  },
+  {
+    "key": "20602-desc",
+    "original": "홍루 전용 EGO 장비",
+    "context": "EN :\nHong Lu’s E.G.O Gear\nJP :\nホンル 専用E.G.O装備"
+  },
+  {
+    "key": "20701-name",
+    "original": "시체자루",
+    "context": "EN :\nBodysack\nJP :\n死体袋"
+  },
+  {
+    "key": "20701-desc",
+    "original": "히스클리프 기본 EGO 장비",
+    "context": "EN :\nHeathcliff’s Base E.G.O\nJP :\nヒースクリフ 基本E.G.O装備"
+  },
+  {
+    "key": "20702-name",
+    "original": "전봇대",
+    "context": "EN :\nTelepole\nJP :\n電信柱"
+  },
+  {
+    "key": "20702-desc",
+    "original": "히스클리프 전용 EGO 장비",
+    "context": "EN :\nHeathcliff’s E.G.O Gear\nJP :\nヒースクリフ 専用E.G.O装備"
+  },
+  {
+    "key": "20801-name",
+    "original": "작살박이",
+    "context": "EN :\nSnagharpoon\nJP :\n銛穿ち"
+  },
+  {
+    "key": "20801-desc",
+    "original": "이스마엘 기본 EGO 장비",
+    "context": "EN :\nIshmael’s Base E.G.O\nJP :\nイシュメール 基本E.G.O装備"
+  },
+  {
+    "key": "20802-name",
+    "original": "분홍욕망",
+    "context": "EN :\nRoseate Desire\nJP :\n桃色の欲望"
+  },
+  {
+    "key": "20802-desc",
+    "original": "이스마엘 전용 EGO 장비",
+    "context": "EN :\nIshmael’s E.G.O Gear\nJP :\nイシュメール 専用E.G.O装備"
+  },
+  {
+    "key": "20803-name",
+    "original": "홍염살",
+    "context": "EN :\nArdor Blossom Star\nJP :\n紅炎殺"
+  },
+  {
+    "key": "20803-desc",
+    "original": "이스마엘 전용 EGO 장비",
+    "context": "EN :\nIshmael’s E.G.O Gear\nJP :\nイシュメール 専用E.G.O装備"
+  },
+  {
+    "key": "20901-name",
+    "original": "던져지는 것",
+    "context": "EN :\nWhat is Cast\nJP :\n投げられたもの"
+  },
+  {
+    "key": "20901-desc",
+    "original": "로쟈 기본 EGO 장비",
+    "context": "EN :\nRodion’s Base E.G.O\nJP :\nロージャ 基本E.G.O装備"
+  },
+  {
+    "key": "20902-name",
+    "original": "4번째 성냥불",
+    "context": "EN :\n4th Match Flame\nJP :\n4本目のマッチの火"
+  },
+  {
+    "key": "20902-desc",
+    "original": "로쟈 전용 EGO 장비",
+    "context": "EN :\nRodion’s E.G.O Gear\nJP :\nロージャ 専用E.G.O装備"
+  },
+  {
+    "key": "20903-name",
+    "original": "얼음다리",
+    "context": "EN :\nRime Shank\nJP :\n氷の脚"
+  },
+  {
+    "key": "20903-desc",
+    "original": "로쟈 전용 EGO 장비",
+    "context": "EN :\nRodion’s E.G.O Gear\nJP :\nロージャ 専用E.G.O装備"
+  },
+  {
+    "key": "21001-name",
+    "original": "지식나무의 가지",
+    "context": "EN :\nBranch of Knowledge\nJP :\n知識の木の枝"
+  },
+  {
+    "key": "21001-desc",
+    "original": "싱클레어의 기본 EGO 장비",
+    "context": "EN :\nSinclair’s Base E.G.O\nJP :\nシンクレア 基本E.G.O装備"
+  },
+  {
+    "key": "21002-name",
+    "original": "다가올날",
+    "context": "EN :\nImpending Day\nJP :\n迫り来る日"
+  },
+  {
+    "key": "21002-desc",
+    "original": "싱클레어의 전용 EGO 장비",
+    "context": "EN :\nSinclair’s E.G.O Gear\nJP :\nシンクレア 専用E.G.O装備"
+  },
+  {
+    "key": "21101-name",
+    "original": "토 파토스 마토스",
+    "context": "EN :\nTo Páthos Máthos\nJP :\nト・パソス・マソス"
+  },
+  {
+    "key": "21101-desc",
+    "original": "오티스의 기본 EGO 장비",
+    "context": "EN :\nOutis’s Base E.G.O\nJP :\nウーティス 基本E.G.O装備"
+  },
+  {
+    "key": "21102-name",
+    "original": "검은줄기",
+    "context": "EN :\nEbony Stem\nJP :\n黒い枝"
+  },
+  {
+    "key": "21102-desc",
+    "original": "오티스의 전용 EGO 장비",
+    "context": "EN :\nOutis’s E.G.O Gear\nJP :\nウーティス 専用E.G.O装備"
+  },
+  {
+    "key": "21103-name",
+    "original": "공즉시색",
+    "context": "EN :\nYa Śūnyatā Tad Rūpam\nJP :\n空即是色"
+  },
+  {
+    "key": "21103-desc",
+    "original": "오티스의 전용 EGO 장비",
+    "context": "EN :\nOutis’s E.G.O Gear\nJP :\nウーティス 専用E.G.O装備"
+  },
+  {
+    "key": "21201-name",
+    "original": "어느날 갑자기",
+    "context": "EN :\nSuddenly, One Day\nJP :\nある日突然"
+  },
+  {
+    "key": "21201-desc",
+    "original": "그레고르의 기본 EGO 장비",
+    "context": "EN :\nGregor’s Base E.G.O\nJP :\nグレゴール 基本E.G.O装備"
+  },
+  {
+    "key": "21202-name",
+    "original": "눈속임",
+    "context": "EN :\nLegerdemain\nJP :\nまやかし"
+  },
+  {
+    "key": "21202-desc",
+    "original": "그레고르의 전용 EGO 장비",
+    "context": "EN :\nGregor’s E.G.O Gear\nJP :\nグレゴール 専用E.G.O装備"
+  },
+  {
+    "key": "21203-name",
+    "original": "초롱",
+    "context": "EN :\nLantern\nJP :\n提灯"
+  },
+  {
+    "key": "21203-desc",
+    "original": "그레고르의 전용 EGO 장비",
+    "context": "EN :\nGregor’s E.G.O Gear\nJP :\nグレゴール 専用E.G.O装備"
+  },
+  {
+    "key": "20303-name",
+    "original": "전봇대",
+    "context": "EN :\nTelepole\nJP :\n電信柱"
+  },
+  {
+    "key": "20303-desc",
+    "original": "돈키호테의 전용 EGO 장비",
+    "context": "EN :\nDon Quixote’s E.G.O Gear\nJP :\nドンキホーテ 専用E.G.O装備"
+  },
+  {
+    "key": "20204-name",
+    "original": "전봇대",
+    "context": "EN :\nTelepole\nJP :\n電信柱"
+  },
+  {
+    "key": "20204-desc",
+    "original": "파우스트의 전용 EGO 장비",
+    "context": "EN :\nFaust’s E.G.O Gear\nJP :\nファウスト 専用E.G.O装備"
+  },
+  {
+    "key": "20304-name",
+    "original": "평생 스튜",
+    "context": "EN :\nLifetime Stew\nJP :\n一生シチュー"
+  },
+  {
+    "key": "20304-desc",
+    "original": "돈키호테의 전용 EGO 장비",
+    "context": "EN :\nDon Quixote’s E.G.O Gear\nJP :\nドンキホーテ 専用E.G.O装備"
+  },
+  {
+    "key": "21003-name",
+    "original": "평생 스튜",
+    "context": "EN :\nLifetime Stew\nJP :\n一生シチュー"
+  },
+  {
+    "key": "21003-desc",
+    "original": "싱클레어의 전용 EGO 장비",
+    "context": "EN :\nSinclair’s E.G.O Gear\nJP :\nシンクレア 専用E.G.O装備"
+  },
+  {
+    "key": "20104-name",
+    "original": "차원찢개",
+    "context": "EN :\nDimension Shredder\nJP :\n次元裂き"
+  },
+  {
+    "key": "20104-desc",
+    "original": "이상의 전용 EGO 장비",
+    "context": "EN :\nYi Sang’s E.G.O Gear\nJP :\nイサン 専用E.G.O装備"
+  },
+  {
+    "key": "20603-name",
+    "original": "차원찢개",
+    "context": "EN :\nDimension Shredder\nJP :\n次元裂き"
+  },
+  {
+    "key": "20603-desc",
+    "original": "홍루의 전용 EGO 장비",
+    "context": "EN :\nHong Lu’s E.G.O Gear\nJP :\nホンル 専用E.G.O装備"
+  },
+  {
+    "key": "20504-name",
+    "original": "카포테",
+    "context": "EN :\nCapote\nJP :\nカポーテ"
+  },
+  {
+    "key": "20504-desc",
+    "original": "뫼르소의 전용 EGO 장비",
+    "context": "EN :\nMeursault’s E.G.O Gear\nJP :\nムルソー 専用E.G.O装備"
+  },
+  {
+    "key": "20804-name",
+    "original": "카포테",
+    "context": "EN :\nCapote\nJP :\nカポーテ"
+  },
+  {
+    "key": "20804-desc",
+    "original": "이스마엘의 전용 EGO 장비",
+    "context": "EN :\nIshmael’s E.G.O Gear\nJP :\nイシュメール 専用E.G.O装備"
+  },
+  {
+    "key": "21104-name",
+    "original": "여우비",
+    "context": "EN :\nSunshower\nJP :\n狐雨"
+  },
+  {
+    "key": "21104-desc",
+    "original": "오티스의 전용 EGO 장비",
+    "context": "EN :\nOutis’s E.G.O Gear\nJP :\nウーティス 専用E.G.O装備"
+  },
+  {
+    "key": "21204-name",
+    "original": "AEDD",
+    "context": "EN :\nAEDD\nJP :\nAEDD"
+  },
+  {
+    "key": "21204-desc",
+    "original": "그레고르의 전용 EGO 장비",
+    "context": "EN :\nGregor’s E.G.O Gear\nJP :\nグレゴール 専用E.G.O装備"
+  },
+  {
+    "key": "20703-name",
+    "original": "AEDD",
+    "context": "EN :\nAEDD\nJP :\nAEDD"
+  },
+  {
+    "key": "20703-desc",
+    "original": "히스클리프의 전용 EGO 장비",
+    "context": "EN :\nHeathcliff’s E.G.O Gear\nJP :\nヒースクリフ 専用E.G.O装備"
+  },
+  {
+    "key": "20105-name",
+    "original": "여우비",
+    "context": "EN :\nSunshower\nJP :\n狐雨"
+  },
+  {
+    "key": "20105-desc",
+    "original": "이상의 전용 EGO 장비",
+    "context": "EN :\nYi Sang’s E.G.O Gear\nJP :\nイサン 専用E.G.O装備"
+  },
+  {
+    "key": "20403-name",
+    "original": "적안",
+    "context": "EN :\nRed Eyes\nJP :\n赤眼"
+  },
+  {
+    "key": "20403-desc",
+    "original": "료슈의 전용 EGO 장비",
+    "context": "EN :\nRyōshū’s E.G.O Gear\nJP :\n良秀の専用E.G.O装備"
+  },
+  {
+    "key": "20404-name",
+    "original": "적안(開)",
+    "context": "EN :\nRed Eyes (Open)\nJP :\n赤眼(開)"
+  },
+  {
+    "key": "20404-desc",
+    "original": "료슈의 전용 EGO 장비",
+    "context": "EN :\nRyōshū’s E.G.O Gear\nJP :\n良秀の専用E.G.O装備"
+  },
+  {
+    "key": "20405-name",
+    "original": "소다",
+    "context": "EN :\nSoda\nJP :\nソーダ"
+  },
+  {
+    "key": "20405-desc",
+    "original": "료슈의 전용 EGO 장비",
+    "context": "EN :\nRyōshū’s E.G.O Gear\nJP :\n良秀の専用E.G.O装備"
+  },
+  {
+    "key": "20604-name",
+    "original": "소다",
+    "context": "EN :\nSoda\nJP :\nソーダ"
+  },
+  {
+    "key": "20604-desc",
+    "original": "홍루의 전용 EGO 장비",
+    "context": "EN :\nHong Lu’s E.G.O Gear\nJP :\nホンル 専用E.G.O装備"
+  },
+  {
+    "key": "21004-name",
+    "original": "초롱",
+    "context": "EN :\nLantern\nJP :\n提灯"
+  },
+  {
+    "key": "21004-desc",
+    "original": "싱클레어의 전용 EGO 장비",
+    "context": "EN :\nSinclair’s E.G.O Gear\nJP :\nシンクレア 専用E.G.O装備"
+  },
+  {
+    "key": "20704-name",
+    "original": "공즉시색",
+    "context": "EN :\nYa Śūnyatā Tad Rūpam\nJP :\n空即是色"
+  },
+  {
+    "key": "20704-desc",
+    "original": "히스클리프의 전용 EGO 장비",
+    "context": "EN :\nHeathcliff’s E.G.O Gear\nJP :\nヒースクリフ 専用E.G.O装備"
+  },
+  {
+    "key": "20505-name",
+    "original": "후회",
+    "context": "EN :\nRegret\nJP :\n後悔"
+  },
+  {
+    "key": "20505-desc",
+    "original": "뫼르소의 전용 EGO 장비",
+    "context": "EN :\nMeursault’s E.G.O Gear\nJP :\nムルソー 専用E.G.O装備"
+  },
+  {
+    "key": "20605-name",
+    "original": "들끓는 부식",
+    "context": "EN :\nEffervescent Corrosion\nJP :\n沸き立つ腐食"
+  },
+  {
+    "key": "20605-desc",
+    "original": "홍루의 전용 EGO 장비",
+    "context": "EN :\nHong Lu’s E.G.O Gear\nJP :\nホンル 専用E.G.O装備"
+  },
+  {
+    "key": "20205-name",
+    "original": "9장 2절",
+    "context": "EN :\n9:2\nJP :\n9章2節"
+  },
+  {
+    "key": "20205-desc",
+    "original": "파우스트의 전용 EGO 장비",
+    "context": "EN :\nFaust’s E.G.O Gear\nJP :\nファウスト 専用E.G.O装備"
+  },
+  {
+    "key": "20406-name",
+    "original": "맹목",
+    "context": "EN :\nBlind Obsession\nJP :\n盲目"
+  },
+  {
+    "key": "20406-desc",
+    "original": "료슈의 전용 EGO 장비",
+    "context": "EN :\nRyōshū’s E.G.O Gear\nJP :\n良秀の専用E.G.O装備"
+  },
+  {
+    "key": "20805-name",
+    "original": "맹목",
+    "context": "EN :\nBlind Obsession\nJP :\n盲目"
+  },
+  {
+    "key": "20805-desc",
+    "original": "이스마엘의 전용 EGO 장비",
+    "context": "EN :\nIshmael’s E.G.O Gear\nJP :\nイシュメール 専用E.G.O装備"
+  },
+  {
+    "key": "20904-name",
+    "original": "들끓는 부식",
+    "context": "EN :\nEffervescent Corrosion\nJP :\n沸き立つ腐食"
+  },
+  {
+    "key": "20904-desc",
+    "original": "로쟈의 전용 EGO 장비",
+    "context": "EN :\nRodion’s E.G.O Gear\nJP :\nロージャ 専用E.G.O装備"
+  },
+  {
+    "key": "21005-name",
+    "original": "9장 2절",
+    "context": "EN :\n9:2\nJP :\n9章2節"
+  },
+  {
+    "key": "21005-desc",
+    "original": "싱클레어의 전용 EGO 장비",
+    "context": "EN :\nSinclair’s E.G.O Gear\nJP :\nシンクレア 専用E.G.O装備"
+  },
+  {
+    "key": "20905-name",
+    "original": "집행",
+    "context": "EN :\nPursuance\nJP :\n執行"
+  },
+  {
+    "key": "20905-desc",
+    "original": "로쟈의 전용 EGO 장비",
+    "context": "EN :\nRodion’s E.G.O Gear\nJP :\nロージャ 専用E.G.O装備"
+  },
+  {
+    "key": "20705-name",
+    "original": "홀리데이",
+    "context": "EN :\nHoliday\nJP :\nホリデイ"
+  },
+  {
+    "key": "20705-desc",
+    "original": "히스클리프의 전용 EGO 장비",
+    "context": "EN :\nHeathcliff’s E.G.O Gear\nJP :\nヒースクリフ 専用E.G.O装備"
+  },
+  {
+    "key": "21105-name",
+    "original": "홀리데이",
+    "context": "EN :\nHoliday\nJP :\nホリデイ"
+  },
+  {
+    "key": "21105-desc",
+    "original": "오티스의 전용 EGO 장비",
+    "context": "EN :\nOutis’s E.G.O Gear\nJP :\nウーティス 専用E.G.O装備"
+  },
+  {
+    "key": "20305-name",
+    "original": "소망석",
+    "context": "EN :\nWishing Cairn\nJP :\n願いの石"
+  },
+  {
+    "key": "20305-desc",
+    "original": "돈키호테의 전용 EGO 장비",
+    "context": "EN :\nDon Quixote’s E.G.O Gear\nJP :\nドンキホーテ 専用E.G.O装備"
+  },
+  {
+    "key": "21205-name",
+    "original": "가시 화원",
+    "context": "EN :\nGarden of Thorns\nJP :\n茨の花園"
+  },
+  {
+    "key": "21205-desc",
+    "original": "그레고르의 전용 EGO 장비",
+    "context": "EN :\nGregor’s E.G.O Gear\nJP :\nグレゴール 専用E.G.O装備"
+  },
+  {
+    "key": "21206-name",
+    "original": "지난 날",
+    "context": "EN :\nBygone Days\nJP :\n過ぎし日"
+  },
+  {
+    "key": "21206-desc",
+    "original": "그레고르의 전용 EGO 장비",
+    "context": "EN :\nGregor’s E.G.O Gear\nJP :\nグレゴール 専用E.G.O装備"
+  },
+  {
+    "key": "20106-name",
+    "original": "지난 날",
+    "context": "EN :\nBygone Days\nJP :\n過ぎし日"
+  },
+  {
+    "key": "20106-desc",
+    "original": "이상의 전용 EGO 장비",
+    "context": "EN :\nYi Sang’s E.G.O Gear\nJP :\nイサン 専用E.G.O装備"
+  },
+  {
+    "key": "20306-name",
+    "original": "전기울음",
+    "context": "EN :\nElectric Screaming\nJP :\n電気哀鳴"
+  },
+  {
+    "key": "20306-desc",
+    "original": "돈키호테의 전용 EGO 장비",
+    "context": "EN :\nDon Quixote’s E.G.O Gear\nJP :\nドンキホーテ 専用E.G.O装備"
+  },
+  {
+    "key": "20506-name",
+    "original": "전기울음",
+    "context": "EN :\nElectric Screaming\nJP :\n電気哀鳴"
+  },
+  {
+    "key": "20506-desc",
+    "original": "뫼르소의 전용 EGO 장비",
+    "context": "EN :\nMeursault’s E.G.O Gear\nJP :\nムルソー 専用E.G.O装備"
+  },
+  {
+    "key": "21106-name",
+    "original": "구속",
+    "context": "EN :\nBinds\nJP :\n拘束"
+  },
+  {
+    "key": "21106-desc",
+    "original": "오티스의 전용 EGO 장비",
+    "context": "EN :\nOutis’s E.G.O Gear\nJP :\nウーティス 専用E.G.O装備"
+  },
+  {
+    "key": "20706-name",
+    "original": "구속",
+    "context": "EN :\nBinds\nJP :\n拘束"
+  },
+  {
+    "key": "20706-desc",
+    "original": "히스클리프의 전용 EGO 장비",
+    "context": "EN :\nHeathcliff’s E.G.O Gear\nJP :\nヒースクリフ 専用E.G.O装備"
+  },
+  {
+    "key": "20806-name",
+    "original": "날갯짓",
+    "context": "EN :\nWingbeat\nJP :\n羽ばたき"
+  },
+  {
+    "key": "20806-desc",
+    "original": "이스마엘의 전용 EGO 장비",
+    "context": "EN :\nIshmael’s E.G.O Gear\nJP :\nイシュメール 専用E.G.O装備"
+  },
+  {
+    "key": "20906-name",
+    "original": "핏빛욕망",
+    "context": "EN :\nSanguine Desire\nJP :\n血色の欲望"
+  },
+  {
+    "key": "20906-desc",
+    "original": "로쟈의 전용 EGO 장비",
+    "context": "EN :\nRodion’s E.G.O Gear\nJP :\nロージャ 専用E.G.O装備"
+  },
+  {
+    "key": "20606-name",
+    "original": "낮은울음",
+    "context": "EN :\nCavernous Wailing\nJP :\n低いなきごえ"
+  },
+  {
+    "key": "20606-desc",
+    "original": "홍루의 전용 EGO 장비",
+    "context": "EN :\nHong Lu’s E.G.O Gear\nJP :\nホンル 専用E.G.O装備"
+  },
+  {
+    "key": "21006-name",
+    "original": "낮은울음",
+    "context": "EN :\nCavernous Wailing\nJP :\n低いなきごえ"
+  },
+  {
+    "key": "21006-desc",
+    "original": "싱클레어의 전용 EGO 장비",
+    "context": "EN :\nSinclair’s E.G.O Gear\nJP :\nシンクレア 専用E.G.O装備"
+  },
+  {
+    "key": "20206-name",
+    "original": "영속",
+    "context": "EN :\nEverlasting\nJP :\n永続"
+  },
+  {
+    "key": "20206-desc",
+    "original": "파우스트의 전용 EGO 장비",
+    "context": "EN :\nFaust’s E.G.O Gear\nJP :\nファウスト 専用E.G.O装備"
+  },
+  {
+    "key": "20407-name",
+    "original": "경멸, 경외",
+    "context": "EN :\nContempt, Awe\nJP :\n軽蔑、畏敬"
+  },
+  {
+    "key": "20407-desc",
+    "original": "료슈의 전용 EGO 장비",
+    "context": "EN :\nRyōshū’s E.G.O Gear\nJP :\n良秀の専用E.G.O装備"
+  },
+  {
+    "key": "20707-name",
+    "original": "흉탄",
+    "context": "EN :\nFell Bullet\nJP :\n凶弾"
+  },
+  {
+    "key": "20707-desc",
+    "original": "히스클리프의 전용 EGO 장비",
+    "context": "EN :\nHeathcliff’s E.G.O Gear\nJP :\nヒースクリフ 専用E.G.O装備"
+  },
+  {
+    "key": "21107-name",
+    "original": "차원찢개",
+    "context": "EN :\nDimension Shredder\nJP :\n次元裂き"
+  },
+  {
+    "key": "21107-desc",
+    "original": "오티스의 전용 EGO 장비",
+    "context": "EN :\nOutis’s E.G.O Gear\nJP :\nウーティス 専用E.G.O装備"
+  },
+  {
+    "key": "21207-name",
+    "original": "엄숙한 애도",
+    "context": "EN :\nSolemn Lament\nJP :\n厳粛な哀悼"
+  },
+  {
+    "key": "21207-desc",
+    "original": "그레고르의 전용 EGO 장비",
+    "context": "EN :\nGregor’s E.G.O Gear\nJP :\nグレゴール 専用E.G.O装備"
+  },
+  {
+    "key": "20807-name",
+    "original": "지난 날",
+    "context": "EN :\nBygone Days\nJP :\n過ぎし日"
+  },
+  {
+    "key": "20807-desc",
+    "original": "이스마엘의 전용 EGO 장비",
+    "context": "EN :\nIshmael’s E.G.O Gear\nJP :\nイシュメール 専用E.G.O装備"
+  },
+  {
+    "key": "20207-name",
+    "original": "올가미",
+    "context": "EN :\nLasso\nJP :\n投げ縄"
+  },
+  {
+    "key": "20207-desc",
+    "original": "파우스트의 전용 EGO 장비",
+    "context": "EN :\nFaust’s E.G.O Gear\nJP :\nファウスト 専用E.G.O装備"
+  },
+  {
+    "key": "20607-name",
+    "original": "올가미",
+    "context": "EN :\nLasso\nJP :\n投げ縄"
+  },
+  {
+    "key": "20607-desc",
+    "original": "홍루의 전용 EGO 장비",
+    "context": "EN :\nHong Lu’s E.G.O Gear\nJP :\nホンル 専用E.G.O装備"
+  },
+  {
+    "key": "21007-name",
+    "original": "저주못",
+    "context": "EN :\nHex Nail\nJP :\n呪いの釘"
+  },
+  {
+    "key": "21007-desc",
+    "original": "싱클레어의 전용 EGO 장비",
+    "context": "EN :\nSinclair’s E.G.O Gear\nJP :\nシンクレア 専用E.G.O装備"
+  },
+  {
+    "key": "20907-name",
+    "original": "저주못",
+    "context": "EN :\nHex Nail\nJP :\n呪いの釘"
+  },
+  {
+    "key": "20907-desc",
+    "original": "로쟈의 전용 EGO 장비",
+    "context": "EN :\nRodion’s E.G.O Gear\nJP :\nロージャ 専用E.G.O装備"
+  },
+  {
+    "key": "20507-name",
+    "original": "갈망-미르칼라",
+    "context": "EN :\nYearning-Mircalla\nJP :\n渇望-ミルカラ"
+  },
+  {
+    "key": "20507-desc",
+    "original": "뫼르소의 전용 EGO 장비",
+    "context": "EN :\nMeursault’s E.G.O Gear\nJP :\nムルソー 専用E.G.O装備"
+  },
+  {
+    "key": "20307-name",
+    "original": "갈망-미르칼라",
+    "context": "EN :\nYearning-Mircalla\nJP :\n渇望-ミルカラ"
+  },
+  {
+    "key": "20307-desc",
+    "original": "돈키호테의 전용 EGO 장비",
+    "context": "EN :\nDon Quixote’s E.G.O Gear\nJP :\nドンキホーテ 専用E.G.O装備"
+  },
+  {
+    "key": "20107-name",
+    "original": "흉탄",
+    "context": "EN :\nFell Bullet\nJP :\n凶弾"
+  },
+  {
+    "key": "20107-desc",
+    "original": "이상의 전용 EGO 장비",
+    "context": "EN :\nYi Sang’s E.G.O Gear\nJP :\nイサン 専用E.G.O装備"
+  },
+  {
+    "key": "20708-name",
+    "original": "쏠린 관성",
+    "context": "EN :\nAsymmetrical Inertia\nJP :\n偏った慣性"
+  },
+  {
+    "key": "20708-desc",
+    "original": "히스클리프의 전용 EGO 장비",
+    "context": "EN :\nHeathcliff’s E.G.O Gear\nJP :\nヒースクリフ 専用E.G.O装備"
+  },
+  {
+    "key": "20808-name",
+    "original": "크리스마스 악몽",
+    "context": "EN :\nChristmas Nightmare\nJP :\nクリスマスの悪夢"
+  },
+  {
+    "key": "20808-desc",
+    "original": "이스마엘의 전용 EGO 장비",
+    "context": "EN :\nIshmael’s E.G.O Gear\nJP :\nイシュメール 専用E.G.O装備"
+  },
+  {
+    "key": "21208-name",
+    "original": "크리스마스 악몽",
+    "context": "EN :\nChristmas Nightmare\nJP :\nクリスマスの悪夢"
+  },
+  {
+    "key": "21208-desc",
+    "original": "그레고르의 전용 EGO 장비",
+    "context": "EN :\nGregor’s E.G.O Gear\nJP :\nグレゴール 専用E.G.O装備"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "key": "2017-name",
+    "original": "목 조르는 밧줄",
+    "context": "EN :\nNoose\nJP :\n首を絞める縄"
+  },
+  {
+    "key": "2017-desc",
+    "original": "이스마엘의 레벨이 40레벨로 상승\n이스마엘 인격의 동기화 단계, 에고의 환상해석 단계가 4단계로 상승\n이스마엘은 매 전투마다 [AaCePaBa]을 얻음.",
+    "context": "EN :\nIshmael's level rises to 40.\nIshmael's Uptie and Threadspin Tiers rise to Tier 4.\nIshmael gains [AaCePaBa] at the start of every encounter.\nJP :\nイシュメールのレベルが40に上昇\nイシュメールの人格同期化段階、E.G.O幻想解析段階が4に上昇\nイシュメールは戦闘ごとに[AaCePaBa]を得る。"
+  },
+  {
+    "key": "2018-name",
+    "original": "역방향 매듭",
+    "context": "EN :\nReverse Knot\nJP :\n逆方向結び"
+  },
+  {
+    "key": "2018-desc",
+    "original": "우울 속성 스킬로 합 승리 시 정신력이 가장 낮은 아군 1명의 정신력 5 회복",
+    "context": "EN :\nWhen winning a clash using a Gloom affinity Skill, 1 ally with the lowest SP heals 5 SP\nJP :\n憂鬱属性スキルでマッチ勝利時、精神力の最も低い味方1名の精神力を5回復"
+  },
+  {
+    "key": "2019-name",
+    "original": "녹아내린 LCCB 사원증",
+    "context": "EN :\nMelted LCCB Employee Badge\nJP :\n融けたLCCB社員証"
+  },
+  {
+    "key": "2019-desc",
+    "original": "오만 속성 스킬로 받는 피해 -10%",
+    "context": "EN :\nPride damage taken -10%\nJP :\n傲慢属性スキルによる被ダメージ -10%"
+  },
+  {
+    "key": "2020-name",
+    "original": "절박 매듭",
+    "context": "EN :\nDesperate's Knot\nJP :\n切迫結び"
+  },
+  {
+    "key": "2020-desc",
+    "original": "질투, 분노, 우울 속성 스킬의 피해량 +10%\n해당 속성 스킬의 공명 수가 6 이상이면 해당 속성의 스킬의 피해량 10% 추가 증가",
+    "context": "EN :\nDeal +10% damage with Envy, Wrath, and Gloom affinity Skills\nDeal additional +10% corresponding affinity damage when activating 6+ Reson. with one of these affinities\nJP :\n嫉妬・憤怒・憂鬱属性スキルのダメージ量 +10%\n該当属性スキルの共鳴数が6以上なら、該当スキルのダメージ量が10%追加で増加"
+  },
+  {
+    "key": "2021-name",
+    "original": "인어 기름",
+    "context": "EN :\nMermaid Oil\nJP :\n人魚油"
+  },
+  {
+    "key": "2021-desc",
+    "original": "[Vibration]을 부여하는 스킬의 진동 부여 값 +1",
+    "context": "EN :\nInflict 1 additional [Vibration] with a Skill that inflicts Tremor\nJP :\n[Vibration]を付与するスキルの振動 付与値+1"
+  },
+  {
+    "key": "2022-name",
+    "original": "교차 매듭",
+    "context": "EN :\nCrossed Knot\nJP :\n交差結び"
+  },
+  {
+    "key": "2022-desc",
+    "original": "턴 종료 시 이번 턴에 체력이 최대 체력의 15% 이상 감소하였을 때, 다음 턴에 공격 위력 증가 2를 얻음",
+    "context": "EN :\nTurn End: if more than 15% of the Max HP was lost this turn, gain 2 Attack Power Up next turn\nJP :\nターン終了時、今回のターンに体力が15%以上減少したなら、次のターンに攻撃威力増加 2を得る。"
+  },
+  {
+    "key": "2023-name",
+    "original": "강박 매듭",
+    "context": "EN :\nCompulsive's Knot\nJP :\n強迫結び"
+  },
+  {
+    "key": "2023-desc",
+    "original": "정신력이 0 미만일 때 질투, 분노, 우울 속성의 최종 위력 +1",
+    "context": "EN :\nWhen at less than 0 SP, Final Power +1 to Envy, Wrath, and Gloom affinities\nJP :\n精神力が0未満のとき、嫉妬・憤怒・憂鬱属性スキルの最終威力 +1"
+  },
+  {
+    "key": "2024-name",
+    "original": "녹슨 갈고리",
+    "context": "EN :\nRusted Hook\nJP :\n錆びたフック"
+  },
+  {
+    "key": "2024-desc",
+    "original": "[Laceration]이 부여된 적에게 스킬의 첫번째 코인 앞면 적중 시 호흡 1을 얻음",
+    "context": "EN :\nGain 1 Poise when a Skill's first coin Heads Hits against an enemy with [Laceration]\nJP :\n[Laceration]が付与された敵に、スキル1枚目のコインが表面で的中すると呼吸 1を得る"
+  },
+  {
+    "key": "2025-name",
+    "original": "보급 탄창",
+    "context": "EN :\nStandard Issue Mag\nJP :\n補給弾倉"
+  },
+  {
+    "key": "2025-desc",
+    "original": "[Bullet]을 보유한 캐릭터의 탄환 최대 값 +3",
+    "context": "EN :\nIdentities with [Bullet] start encounters with +3 max Ammo\nJP :\n[Bullet]を保有するキャラクターの弾丸最大値+3"
+  },
+  {
+    "key": "2026-name",
+    "original": "풀리지 않는 매듭",
+    "context": "EN :\nUnbreakable Knot\nJP :\n不解結び"
+  },
+  {
+    "key": "2026-desc",
+    "original": "이스마엘의 모든 스킬의 최종 위력 +2\n아군이 사망한 경우, 턴 종료 시 남은 아군이 다음 턴에 신속, 공격 위력 증가 1을 얻음 (턴 당 1회)",
+    "context": "EN :\nIshmael's Skills gain +2 Final Power\nWhen an ally dies, remaining allies gain 1 Haste and 1 Attack Power Up next turn (Once per turn)\nJP :\nイシュメールの全スキル最終威力 +2\n味方が死亡した場合、ターン終了時に残った味方が次のターンにクイック 、攻撃威力増加 1を得る(1ターンに1回)"
+  }
+]

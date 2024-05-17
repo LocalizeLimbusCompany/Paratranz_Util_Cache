@@ -1,0 +1,515 @@
+[
+  {
+    "key": "0-place",
+    "original": "꽃이 피던 구인회",
+    "context": "EN :\nBlossoming League of Nine Littérateurs\nJP :\n花が咲いていた九人会"
+  },
+  {
+    "key": "0-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "0-content",
+    "original": "너희를 부른 건 말이야, 이번에…",
+    "context": "EN :\nYou see, I called you this time, because...\nJP :\n君たちを呼んだのはね、今度…。"
+  },
+  {
+    "key": "1-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "1-content",
+    "original": "내가 만든 흥미로운 것을 보여주고 싶었어.",
+    "context": "EN :\nI've made something interesting that I'd like to show.\nJP :\n僕の作った興味深いものを見せてあげたかったんだ。"
+  },
+  {
+    "key": "2-model",
+    "original": "과거동백",
+    "translation": "过去的冬柏",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "2-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "2-title",
+    "original": "구인회",
+    "context": "EN :\nLeague of Nine Littérateurs\nJP :\n九人会"
+  },
+  {
+    "key": "2-content",
+    "original": "흠흠…",
+    "context": "EN :\nAhem...\nJP :\nえへん…。"
+  },
+  {
+    "key": "3-model",
+    "original": "과거동백",
+    "translation": "过去的冬柏",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "3-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "3-title",
+    "original": "구인회",
+    "context": "EN :\nLeague of Nine Littérateurs\nJP :\n九人会"
+  },
+  {
+    "key": "3-content",
+    "original": "영지… 이게 뭐야?",
+    "context": "EN :\nYoung-ji... What is this?\nJP :\nヨンジ…なにこれ？"
+  },
+  {
+    "key": "4-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "4-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "5-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "5-content",
+    "original": "덧없이 지는 것이, 세상에는 너무 많지 않아?",
+    "context": "EN :\nThere are simply too many transient things that wilt all too soon, don't you think?\nJP :\n儚く散っていくものが、この世の中には多すぎやしないか？"
+  },
+  {
+    "key": "6-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "6-content",
+    "original": "나비는 그저 가볍게 날아오르고자 했을 뿐인데, 그 죄로 영영 삶을 떠나버려야 되는 건… 너무 안타깝지 않은가 싶어서.",
+    "context": "EN :\nThe butterfly only wanted to lightly flutter, but to be punished with death for that crime... That felt too unfortunate.\nJP :\n蝶はただ軽々と飛び上がろうとしただけなのに、その罪で永遠に人生と離別しなければならないのは…とても残念なことじゃないかなと思って。"
+  },
+  {
+    "key": "7-model",
+    "original": "과거동백",
+    "translation": "过去的冬柏",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "7-title",
+    "original": "구인회",
+    "context": "EN :\nLeague of Nine Littérateurs\nJP :\n九人会"
+  },
+  {
+    "key": "7-content",
+    "original": "설마… 죽은 것을… 되살린 거야? 그런 기술은 머리에서 조약적으로 금기된…",
+    "context": "EN :\nDid you... bring it back... from the dead? I thought that kind of technology was forbidden by the Head's treaty...\nJP :\nまさか…死んだものを…生き返らせたの？そんな技術は頭で条約的に禁忌の―"
+  },
+  {
+    "key": "8-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "8-content",
+    "original": "아니오. 사체는 그대로이나 무언가 덧 씌워졌구료.",
+    "context": "EN :\nIt is no such case. Although the carcass remains inanimate, something has overridden it.\nJP :\n否。死体はそのままなれど、何か重ねられし。"
+  },
+  {
+    "key": "9-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "9-content",
+    "original": "맞아, 정확히 말하면… 유리창이야.",
+    "context": "EN :\nThat's right. To be exact... it's the glass window.\nJP :\nうん、正確に言うと…硝子窓だ。"
+  },
+  {
+    "key": "10-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10-content",
+    "original": "창 안에서 나비는 이제 자유로워질 수 있는 거지.",
+    "context": "EN :\nThe butterfly can now be free within it.\nJP :\n窓の中で、蝶はようやく自由を手に入れたんだ。"
+  },
+  {
+    "key": "11-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "11-content",
+    "original": "연못을 건너려다 날개가 젖어버려도, 손아귀에 잡혀 가루로 부숴져도, 꽃을 찾지 못해 메말라 가더라도…",
+    "context": "EN :\nEven if its wings dampen while trying to cross a pond, are gripped in somebody's hands and crumble to dust, or dry out due to the lack of flowers...\nJP :\n池を渡ろうとして羽が濡れてしまっても、手に捕まって粉へと砕けても、花が見つからず渇いていっても…。"
+  },
+  {
+    "key": "12-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "12-content",
+    "original": "나비는 멈추지 않을 거야. 그러다가 마침내… 먼 훗날엔…",
+    "context": "EN :\nThe butterfly won't stop. And eventually... in the distant future...\nJP :\n蝶は止まらないだろう。そうして遂には…遠いいつかには…。"
+  },
+  {
+    "key": "13-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "13-content",
+    "original": "바다까지 건너게 되는 것이겠네요.",
+    "context": "EN :\nIt'll make it across a sea.\nJP :\n海まで渡るようになるんですね。"
+  },
+  {
+    "key": "14-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "14-content",
+    "original": "그렇게 되면 나비는 바다조차도 무섭지 않게 되는 걸까요?",
+    "context": "EN :\nIf that happens, will the butterfly no longer be afraid of the sea?\nJP :\nそうなれば蝶は海すらも恐れなくなるんですか？"
+  },
+  {
+    "key": "15-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "15-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "15-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "15-content",
+    "original": "엄청나네, 영지. 이 기술 정도의 수준이라면 활용이 무궁무진하겠어.",
+    "context": "EN :\nSplendid, Young-ji. This level of technology could have numerous applications.\nJP :\n凄いね、ヨンジ。このレベルの技術なら、活用法が無限大にありそうだ。"
+  },
+  {
+    "key": "16-model",
+    "original": "과거동백",
+    "translation": "过去的冬柏",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "16-title",
+    "original": "구인회",
+    "context": "EN :\nLeague of Nine Littérateurs\nJP :\n九人会"
+  },
+  {
+    "key": "16-content",
+    "original": "영지… 정말 이 기술… 낭술회 만을 위해 만든 거 맞아?",
+    "context": "EN :\nYoung-ji... Are you sure... you really made this just for the conference?\nJP :\nヨンジ…本当にこの技術って…朗術会のためだけに作ったの？"
+  },
+  {
+    "key": "17-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "17-content",
+    "original": "그게 무슨 말이야?",
+    "context": "EN :\nWhat do you mean by that?\nJP :\nどういう意味？"
+  },
+  {
+    "key": "18-model",
+    "original": "과거동백",
+    "translation": "过去的冬柏",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "18-title",
+    "original": "구인회",
+    "context": "EN :\nLeague of Nine Littérateurs\nJP :\n九人会"
+  },
+  {
+    "key": "18-content",
+    "original": "각자의 생업에서 일을 마치고, 시간을 짬짬이 내서 취미 삼아 만든 기술을 서로에게 보여주며 감상을 나누는 것…",
+    "context": "EN :\nA gathering where we show technology we've created as a hobby in our free time after returning from a day's work, sharing our thoughts...\nJP :\nそれぞれの生業を終えて、時間を工面しながら趣味として作った技術をお互いに見せながら感想を交わすこと…。"
+  },
+  {
+    "key": "19-model",
+    "original": "과거동백",
+    "translation": "过去的冬柏",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "19-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "19-title",
+    "original": "구인회",
+    "context": "EN :\nLeague of Nine Littérateurs\nJP :\n九人会"
+  },
+  {
+    "key": "19-content",
+    "original": "그것이 우리 구인회가 가지는 낭술회의 의의이자 낭만 아니었어?",
+    "context": "EN :\nWasn't that the significance and appeal of the illuminators' conference our League had?\nJP :\nそれが私たち九人会の持つ、朗術会の意義でありロマンじゃなかったの？"
+  },
+  {
+    "key": "20-model",
+    "original": "과거동백",
+    "translation": "过去的冬柏",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "20-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "20-title",
+    "original": "구인회",
+    "context": "EN :\nLeague of Nine Littérateurs\nJP :\n九人会"
+  },
+  {
+    "key": "20-content",
+    "original": "그런데 이 기술은… 단순히 취미로 만든 것이 아닌 것 같은데?",
+    "context": "EN :\nBut this... It doesn't look like a simple hobbyhorse to me.\nJP :\nそれなのに、この技術は…単なる趣味として作ったものには見えないんだけど？"
+  },
+  {
+    "key": "21-model",
+    "original": "과거동백",
+    "translation": "过去的冬柏",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "동백",
+    "context": "EN :\nDongbaek\nJP :\nドンベク"
+  },
+  {
+    "key": "21-title",
+    "original": "구인회",
+    "context": "EN :\nLeague of Nine Littérateurs\nJP :\n九人会"
+  },
+  {
+    "key": "21-content",
+    "original": "너, 설마… 아직 그때 일 때문에…",
+    "context": "EN :\nAre you still... not over what happened then...\nJP :\nあんた、まさか…まだあの事のせいで…。"
+  },
+  {
+    "key": "22-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "22-content",
+    "original": "…동백은… 그렇게 보는구나…",
+    "context": "EN :\n...That's... how you see it, Dongbaek...\nJP :\n…ドンベクには…そう見えるんだね。"
+  },
+  {
+    "key": "23-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "23-content",
+    "original": "너의 견해도 궁금한데, 이상.",
+    "context": "EN :\nI'd like to know what you think as well, Yi Sang.\nJP :\n君の見解も気になるな、イサン。"
+  },
+  {
+    "key": "24-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "24-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "25-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "25-content",
+    "original": "동랑의 말대로 이건 위대한 첫 발견이라 하여도 과언은 아니오.",
+    "context": "EN :\nAs Dongrang rightfully assessed, this is nothing short of a great first discovery.\nJP :\nドンランの言葉通り、これは偉大なる最初の発見というとも過言ならず。"
+  },
+  {
+    "key": "26-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "26-content",
+    "original": "허나…",
+    "context": "EN :\nAlas...\nJP :\nしかし…。"
+  },
+  {
+    "key": "27-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "27-content",
+    "original": "유리창에 성에가 낀다면…",
+    "context": "EN :\nIf frost were to form on the glass window...\nJP :\n窓硝子に霜が付かば…。"
+  },
+  {
+    "key": "28-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "28-content",
+    "original": "비친 대상도 똑같이 흐릿하게 보일 것이오.",
+    "context": "EN :\nIt will blur the reflected image all the same.\nJP :\n映りし対象も、同じくぼやけ見えん。"
+  },
+  {
+    "key": "29-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "29-content",
+    "original": "따라서 유리창의 창살은… 더 튼튼하고 반듯하게 만들어져야 할 테요.",
+    "context": "EN :\nAs such, the frame of this glass window... will need to be made firmer and straighter.\nJP :\nよりて窓硝子の窓格子は、より強く、麗しく作るべし。"
+  },
+  {
+    "key": "30-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "30-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "31-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "31-content",
+    "original": "이상, 너는 고작 한 번 보았을 뿐인데도 이것의 본질까지 꿰뚫고 있구나.",
+    "context": "EN :\nYi Sang, you managed to see through its essence from just a single glance.\nJP :\nイサン。君はたった一度見ただだけで、これの本質まで見抜いたんだね。"
+  },
+  {
+    "key": "32-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "32-content",
+    "original": "그런데 나한테는… 도무지 방도가 떠오르지 않으니, 이렇게 하는 게 어떨까?",
+    "context": "EN :\nBut personally... I can't seem to think of a way, so how about this instead?\nJP :\nでも僕には…どうしても良い方法が思いつかないから、こうするのはどうかな？"
+  },
+  {
+    "key": "33-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "33-content",
+    "original": "이상, 너만의 방식으로 다시 만들어 보는 거야.",
+    "context": "EN :\nYi Sang, try recreating it in your own way.\nJP :\nイサン、君だけの方法で作り直してみるんだ。"
+  },
+  {
+    "key": "34-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "34-content",
+    "original": "나의 방식…",
+    "context": "EN :\nMy own way...\nJP :\n私の方法…。"
+  },
+  {
+    "key": "35-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "35-content",
+    "original": "맞아. 다음 낭술회 때 말이야.",
+    "context": "EN :\nThat's right. By the next conference.\nJP :\nうん。次の朗術会のときにね。"
+  },
+  {
+    "key": "36-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "36-content",
+    "original": "내가… 유리창 같은 가치 있는… 기술을 다루어도 괜찮은 것이오?",
+    "context": "EN :\nIs it... truly okay for me... to handle a technology as valuable as the glass window?\nJP :\n私が…窓硝子のようなる…価値ある技術を扱うとも大事なきや？"
+  },
+  {
+    "key": "37-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "37-content",
+    "original": "그게 아니야. 가치가 있기에 제안하는 거지.",
+    "context": "EN :\nYou got it wrong. I'm making this suggestion because it's valuable.\nJP :\nそうじゃないよ。価値があるから提案するんだ。"
+  }
+]

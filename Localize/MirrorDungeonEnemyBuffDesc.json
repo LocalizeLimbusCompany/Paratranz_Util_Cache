@@ -1,0 +1,637 @@
+[
+  {
+    "key": "992001-content",
+    "original": "적이 스킬로 부여하는 화상 +1",
+    "context": "EN :\nEnemies inflict +1 more Burn with Skills\nJP :\n敵がスキルで付与する火傷 +1"
+  },
+  {
+    "key": "992002-content",
+    "original": "적이 스킬로 부여하는 출혈 +1",
+    "context": "EN :\nEnemies inflict +1 more Bleed with Skills\nJP :\n敵がスキルで付与する出血 +1"
+  },
+  {
+    "key": "992003-content",
+    "original": "적이 스킬로 부여하는 진동 +1",
+    "context": "EN :\nEnemies inflict +1 more Tremor with Skills\nJP :\n敵がスキルで付与する振動 +1"
+  },
+  {
+    "key": "992004-content",
+    "original": "적이 스킬로 부여하는 파열 +1",
+    "context": "EN :\nEnemies inflict +1 more Rupture with Skills\nJP :\n敵がスキルで付与する破裂 +1"
+  },
+  {
+    "key": "992005-content",
+    "original": "적이 스킬로 부여하는 침잠 +1",
+    "context": "EN :\nEnemies inflict +1 more Sinking with Skills\nJP :\n敵がスキルで付与する沈潜 +1"
+  },
+  {
+    "key": "992006-content",
+    "original": "적이 참격 속성으로 가하는 피해량 +15%",
+    "context": "EN :\nEnemies deal +15% Slash damage\nJP :\n敵の斬撃属性による与ダメージ量 +15%"
+  },
+  {
+    "key": "992007-content",
+    "original": "적이 관통 속성으로 가하는 피해량 +15%",
+    "context": "EN :\nEnemies deal +15% Pierce damage\nJP :\n敵の貫通属性による与ダメージ量 +15%"
+  },
+  {
+    "key": "992008-content",
+    "original": "적이 타격 속성으로 가하는 피해량 +15%",
+    "context": "EN :\nEnemies deal +15% Blunt damage\nJP :\n敵の打撃属性による与ダメージ量 +15%"
+  },
+  {
+    "key": "992009-content",
+    "original": "적의 분노 속성을 제외한 속성의 내성 -0.1",
+    "context": "EN :\nEnemy Resistance against all Affinities -0.1 (Except Wrath)\nJP :\n敵の憤怒属性を除く属性耐性が -0.1"
+  },
+  {
+    "key": "992010-content",
+    "original": "적의 색욕 속성을 제외한 속성의 내성 -0.1",
+    "context": "EN :\nEnemy Resistance against all Affinities -0.1 (Except Lust)\nJP :\n敵の色欲属性を除く属性耐性が -0.1"
+  },
+  {
+    "key": "992011-content",
+    "original": "적의 나태 속성을 제외한 속성의 내성 -0.1",
+    "context": "EN :\nEnemy Resistance against all Affinities -0.1 (Except Sloth)\nJP :\n敵の怠惰属性を除く属性耐性が -0.1"
+  },
+  {
+    "key": "992012-content",
+    "original": "적의 탐식 속성을 제외한 속성의 내성 -0.1",
+    "context": "EN :\nEnemy Resistance against all Affinities -0.1 (Except Glut.)\nJP :\n敵の暴食属性を除く属性耐性が -0.1"
+  },
+  {
+    "key": "992013-content",
+    "original": "적의 우울 속성을 제외한 속성의 내성 -0.1",
+    "context": "EN :\nEnemy Resistance against all Affinities -0.1 (Except Gloom)\nJP :\n敵の憂鬱属性を除く属性耐性が -0.1"
+  },
+  {
+    "key": "992014-content",
+    "original": "적의 오만 속성을 제외한 속성의 내성 -0.1",
+    "context": "EN :\nEnemy Resistance against all Affinities -0.1 (Except Pride)\nJP :\n敵の傲慢属性を除く属性耐性が -0.1"
+  },
+  {
+    "key": "992015-content",
+    "original": "적의 질투 속성을 제외한 속성의 내성 -0.1",
+    "context": "EN :\nEnemy Resistance against all Affinities -0.1 (Except Envy)\nJP :\n敵の嫉妬属性を除く属性耐性が -0.1"
+  },
+  {
+    "key": "992016-content",
+    "original": "적의 최대 체력 15% 증가",
+    "context": "EN :\nEnemy Max HP +15%\nJP :\n敵の体力最大値が15%増加"
+  },
+  {
+    "key": "992017-content",
+    "original": "적의 슬롯 가중치 1 증가",
+    "context": "EN :\nEnemy Slot Weight +1\nJP :\n敵のスロット加重値が1増加"
+  },
+  {
+    "key": "992018-content",
+    "original": "적이 적중 시 가한 피해량의 5%만큼 체력 회복",
+    "context": "EN :\nOn Hit, enemies heal 5% of damage dealt as HP\nJP :\n的中時、敵が与ダメージの5%だけ体力を回復"
+  },
+  {
+    "key": "992019-content",
+    "original": "적의 속도 최댓값 1 증가",
+    "context": "EN :\nEnemy Max Speed +1\nJP :\n敵の速度最大値が1増加"
+  },
+  {
+    "key": "992020-content",
+    "original": "적이 적중 시, 정신력 고정 피해 2 입힘",
+    "context": "EN :\nOn Hit, enemies deal 2 fixed SP damage\nJP :\n敵が的中時、精神力へ固定ダメージ2を与える"
+  },
+  {
+    "key": "992021-content",
+    "original": "적이 이전 턴 동안 한 번이라도 피해를 입혔다면 턴 시작 시 피해량 증가 1 얻음",
+    "context": "EN :\nTurn Start: enemies gain 1 Damage Up if this unit dealt damage at least once last turn\nJP :\n敵が前のターンに一度でもダメージを与えたのなら、ターン開始時にダメージ量増加 1を得る。"
+  },
+  {
+    "key": "992022-content",
+    "original": "적이 이전 턴 동안 체력 피해를 받지 않았다면 턴 시작 시 공격 레벨 증가 3 얻음",
+    "context": "EN :\nTurn Start: Gain 3 Offense Level Up if the enemy did not take HP damage last turn\nJP :\n敵が前のターンにて体力に一度もダメージを受けていなければ、ターン開始時に攻撃レベル増加 3を得る。"
+  },
+  {
+    "key": "992023-content",
+    "original": "적의 일방 공격 시 최종 위력 +1",
+    "context": "EN :\nEnemy Final Power +1 to Unopposed Attacks\nJP :\n敵が一方攻撃時、最終威力 +1"
+  },
+  {
+    "key": "992024-content",
+    "original": "적의 합 진행 시 최종 위력 +1",
+    "context": "EN :\nEnemy Final Power +1 in a Clash\nJP :\n敵がマッチ実施時、最終威力 +1"
+  },
+  {
+    "key": "992031-content",
+    "original": "적의 방어 레벨 +4",
+    "context": "EN :\nEnemy Defense Level +4\nJP :\n敵の防御レベル +4"
+  },
+  {
+    "key": "992032-content",
+    "original": "적의 수비 스킬 기본 위력 +2",
+    "context": "EN :\nEnemy Defense Skill Base Power +2\nJP :\n敵の守備スキル基本威力 +2"
+  },
+  {
+    "key": "992033-content",
+    "original": "적의 최대 체력 +10%",
+    "context": "EN :\nEnemy Max HP +10%\nJP :\n敵の最大体力 +10%"
+  },
+  {
+    "key": "992034-content",
+    "original": "적의 받는 피해량 -10%",
+    "context": "EN :\nEnemies take -10% less damage\nJP :\n敵の被ダメージ量 -10%"
+  },
+  {
+    "key": "992035-content",
+    "original": "적의 공격 레벨 +3, 최대 체력 +5%",
+    "context": "EN :\nEnemy Offense Level +3, Max HP +5%\nJP :\n敵の攻撃レベル +3, 最大体力 +5%"
+  },
+  {
+    "key": "992036-content",
+    "original": "적의 최종 위력 +1, 최대 체력 +5%",
+    "context": "EN :\nEnemy Final Power +1, Max HP +5%\nJP :\n敵の最終威力 +1, 最大体力 +5%"
+  },
+  {
+    "key": "992037-content",
+    "original": "적의 기본 위력 +1, 최대 체력 +5%",
+    "context": "EN :\nEnemy Base Power +1, Max HP +5%\nJP :\n敵の基本威力 +1, 最大体力 +5%"
+  },
+  {
+    "key": "992038-content",
+    "original": "적의 가하는 피해량 +15%, 최대 체력 +5%",
+    "context": "EN :\nEnemies deal +15% damage, Max HP +5%\nJP :\n敵の与ダメージ量 +15%, 最大体力 +5%"
+  },
+  {
+    "key": "992039-content",
+    "original": "적의 최종 위력 +1, 최대 체력 +15%",
+    "context": "EN :\nEnemy Final Power +1, Max HP +15%\nJP :\n敵の最終威力 +1, 最大体力 +15%"
+  },
+  {
+    "key": "992040-content",
+    "original": "적의 최종 위력 +2, 방어 레벨 -4, 최대 체력 +15%",
+    "context": "EN :\nEnemy Final Power +2, Defense Level -4, Max HP +15%\nJP :\n敵の最終威力 +2, 防御レベル -4, 最大体力 +15%"
+  },
+  {
+    "key": "992041-content",
+    "original": "적의 기본 위력 +1, 최대 체력 +10%",
+    "context": "EN :\nEnemy Base Power +1, Max HP +10%\nJP :\n敵の基本威力 +1, 最大体力 +10%"
+  },
+  {
+    "key": "992042-content",
+    "original": "적의 기본 위력 +2, 방어 레벨 -4, 최대 체력 +10%",
+    "context": "EN :\nEnemy Base Power +2, Defense Level -4, Max HP +10%\nJP :\n敵の基本威力 +2, 防御レベル -4, 最大体力 +10%"
+  },
+  {
+    "key": "992043-content",
+    "original": "적의 더하기 코인 위력 +1, 빼기 코인 위력 -1",
+    "context": "EN :\nEnemy Plus Coin Power +1, Minus Coin Power -1\nJP :\n敵の加算コイン威力 +1, 減算コイン威力 -1"
+  },
+  {
+    "key": "992044-content",
+    "original": "적의 공격 레벨 +7, 방어 레벨 -7",
+    "context": "EN :\nEnemy Offense Level +7, Defense Level -7\nJP :\n敵の攻撃レベル +7, 防御レベル -7"
+  },
+  {
+    "key": "992045-content",
+    "original": "적의 최종 위력 +2, 방어 레벨 +6, 최대 체력 +10%",
+    "context": "EN :\nEnemy Final Power +2, Defense Level +6, Max HP +10%\nJP :\n敵の最終威力 +2, 防御レベル +6, 最大体力 +10%"
+  },
+  {
+    "key": "992046-content",
+    "original": "적의 최종 위력 +3, 최대 체력 +10%",
+    "context": "EN :\nEnemy Final Power +3, Max HP +10%\nJP :\n敵の最終威力 +3, 最大体力 +10%"
+  },
+  {
+    "key": "992047-content",
+    "original": "적의 더하기 코인 위력 +1, 빼기 코인 위력 -1, 최대 체력 +15%",
+    "context": "EN :\nEnemy Plus Coin Power +1, Minus Coin Power -1, Max HP +15%\nJP :\n敵の加算コイン威力 +1, 減算コイン威力 -1, 最大体力 +15%"
+  },
+  {
+    "key": "992048-content",
+    "original": "적의 기본 위력 +2, 방어 레벨 +3, 최대 체력 +10%",
+    "context": "EN :\nEnemy Base Power +2, Defense Level +3, Max HP +10%\nJP :\n敵の基本威力 +2, 防御レベル +3, 最大体力 +10%"
+  },
+  {
+    "key": "992049-content",
+    "original": "적의 공격 레벨 +10, 방어 레벨 -7",
+    "context": "EN :\nEnemy Offense Level +10, Defense Level -7\nJP :\n敵の攻撃レベル +10, 防御レベル -7"
+  },
+  {
+    "key": "992050-content",
+    "original": "적의 최대 체력 +25%, 방어 레벨 +5",
+    "context": "EN :\nEnemy Max HP +25%, Defense Level +5\nJP :\n敵の最大体力 +25%, 防御レベル +5"
+  },
+  {
+    "key": "992051-content",
+    "original": "적의 가하는 피해량 +50%, 받는 피해량 -50%",
+    "context": "EN :\nEnemies deal +50% damage and take -50% damage\nJP :\n敵の与ダメージ量 +50%, 被ダメージ量-50%"
+  },
+  {
+    "key": "992101-content",
+    "original": "방어 레벨 +2",
+    "context": "EN :\nDefense Level +2\nJP :\n防御レベル +2"
+  },
+  {
+    "key": "992102-content",
+    "original": "수비 스킬 최종 위력 +1",
+    "context": "EN :\nDefense Skill Final Power +1\nJP :\n守備スキル最終威力 +1"
+  },
+  {
+    "key": "992103-content",
+    "original": "공격 레벨 +1",
+    "context": "EN :\nOffense Level +1\nJP :\n攻撃レベル +1"
+  },
+  {
+    "key": "992104-content",
+    "original": "최대 체력 +5%",
+    "context": "EN :\nMax HP +5%\nJP :\n最大体力 +5%"
+  },
+  {
+    "key": "992105-content",
+    "original": "받는 피해량 -5%",
+    "context": "EN :\nDamage Taken -5%\nJP :\n被ダメージ量 -5%"
+  },
+  {
+    "key": "992111-content",
+    "original": "공격 레벨 +2",
+    "context": "EN :\nOffense Level +2\nJP :\n攻撃レベル +2"
+  },
+  {
+    "key": "992112-content",
+    "original": "공격 레벨 +1, 최대 체력 +5%",
+    "context": "EN :\nOffense Level +1, Max HP +5%\nJP :\n攻撃レベル +1, 最大体力 +5%"
+  },
+  {
+    "key": "992113-content",
+    "original": "최종 위력 +1, 방어 레벨 -1",
+    "context": "EN :\nFinal Power +1, Defense Level -1\nJP :\n最終威力 +1, 防御レベル -1"
+  },
+  {
+    "key": "992114-content",
+    "original": "기본 위력 +1, 방어 레벨 -2",
+    "context": "EN :\nBase Power +1, Defense Level -2\nJP :\n基本威力 +1, 防御レベル -2"
+  },
+  {
+    "key": "992115-content",
+    "original": "합 위력 +1",
+    "context": "EN :\nClash Power +1\nJP :\nマッチ威力 +1"
+  },
+  {
+    "key": "992116-content",
+    "original": "받는 피해량 -5%, 가하는 피해량 +5%",
+    "context": "EN :\nDamage Taken -5%, Damage Dealt +5%\nJP :\n被ダメージ量 -5%, 与ダメージ量 +5%"
+  },
+  {
+    "key": "992121-content",
+    "original": "공격 레벨 +2, 방어 레벨 +2, 최대 체력 +5%",
+    "context": "EN :\nOffense Level +2, Defense Level +2, Max HP +5%\nJP :\n攻撃レベル +2, 防御レベル +2, 最大体力 +5%"
+  },
+  {
+    "key": "992122-content",
+    "original": "공격 레벨 +2, 방어 레벨 +4",
+    "context": "EN :\nOffense Level +2, Defense Level +4\nJP :\n攻撃レベル +2、防御レベル +4"
+  },
+  {
+    "key": "992123-content",
+    "original": "최대 체력 +20%",
+    "context": "EN :\nMax HP +20%\nJP :\n最大体力 +20%"
+  },
+  {
+    "key": "992124-content",
+    "original": "최종 위력 +1, 최대 체력 +5%",
+    "context": "EN :\nFinal Power +1, Max HP +5%\nJP :\n最終威力 +1, 最大体力 +5%"
+  },
+  {
+    "key": "992125-content",
+    "original": "기본 위력 +1, 최대 체력 +5%",
+    "context": "EN :\nBase Power +1, Max HP +5\nJP :\n基本威力 +1, 最大体力 +5%"
+  },
+  {
+    "key": "992126-content",
+    "original": "합 위력 +2, 방어 레벨 -3",
+    "context": "EN :\nClash Power +2, Defense Level -3\nJP :\nマッチ威力 +2, 防御レベル -3"
+  },
+  {
+    "key": "992127-content",
+    "original": "최종 위력 +1, 수비 스킬 최종 위력 +1",
+    "context": "EN :\nFinal Power +1, Defense Skill Final Power+1\nJP :\n最終威力 +1, 守備スキル最終威力 +1"
+  },
+  {
+    "key": "992131-content",
+    "original": "공격 레벨 +3, 방어 레벨 +2, 최대 체력 +10%",
+    "context": "EN :\nOffense Level +3, Defense Level +2, Max HP +10%\nJP :\n攻撃レベル +3, 防御レベル +2, 最大体力 +10%"
+  },
+  {
+    "key": "992132-content",
+    "original": "공격 레벨 +5, 최대 체력 +7.5%",
+    "context": "EN :\nOffense Level +5, Max HP +7.5%\nJP :\n攻撃レベル +5, 最大体力 +7.5%"
+  },
+  {
+    "key": "992133-content",
+    "original": "기본 위력 +1, 방어 레벨 +3, 최대 체력 +5%",
+    "context": "EN :\nBase Power +1, Defense Level +3, Max HP +5%\nJP :\n基本威力 +1, 防御レベル +3, 最大体力 +5%"
+  },
+  {
+    "key": "992134-content",
+    "original": "최종 위력 +1, 방어 레벨 -2, 최대 체력 +17.5%",
+    "context": "EN :\nFinal Power +1, Defense Level -2, Max HP +17.5%\nJP :\n最終威力 +1, 防御レベル -2, 最大体力 +17.5%"
+  },
+  {
+    "key": "992135-content",
+    "original": "방어 레벨+3, 최대 체력 +22.5%",
+    "context": "EN :\nDefense Level +3, Max HP +22.5%\nJP :\n防御レベル +3, 最大体力 +22.5%"
+  },
+  {
+    "key": "992136-content",
+    "original": "더하기 코인 위력 +1, 빼기 코인 위력 -1, 방어 레벨 +2",
+    "context": "EN :\nPlus Coin Power +1, Minus Coin Power -1, Defense Level +2\nJP :\n加算コイン威力 +1, 減算コイン威力 -1, 防御レベル +2"
+  },
+  {
+    "key": "992137-content",
+    "original": "기본 위력 +1, 더하기 코인 위력 +1, 빼기 코인 위력 -1",
+    "context": "EN :\nBase Power +1, Plus Coin Power +1, Minus Coin Power -1\nJP :\n基本威力 +1, 加算コイン威力 +1, 減算コイン威力 -1"
+  },
+  {
+    "key": "992138-content",
+    "original": "받는 피해량 -25%, 가하는 피해량 +25%",
+    "context": "EN :\nDamage Taken -25%, Damage Dealt +25%\nJP :\n被ダメージ量 -25%, 与ダメージ量 +25%"
+  },
+  {
+    "key": "992151-content",
+    "original": "공격 레벨+ 1, 방어 레벨 +1",
+    "context": "EN :\nOffense Level +1, Defense Level +1\nJP :\n攻撃レベル +1, 防御レベル +1"
+  },
+  {
+    "key": "992152-content",
+    "original": "방어 레벨 +2, 수비 스킬 최종 위력 +1",
+    "context": "EN :\nDefense Level +2, Defense Skill Final Power +1\nJP :\n防御レベル +2, 守備スキル最終威力 +1"
+  },
+  {
+    "key": "992153-content",
+    "original": "방어 레벨 +1, 최대 체력 +5%",
+    "context": "EN :\nDefense Level +1, Max HP +5%\nJP :\n防御レベル +1, 最大体力 +5%"
+  },
+  {
+    "key": "992154-content",
+    "original": "최대 체력 +7.5%",
+    "context": "EN :\nMax HP +7.5%\nJP :\n最大体力 +7.5%"
+  },
+  {
+    "key": "992155-content",
+    "original": "받는 피해량 -7.5%",
+    "context": "EN :\nDamage Taken -7.5%\nJP :\n被ダメージ量 -7.5%"
+  },
+  {
+    "key": "992161-content",
+    "original": "공격 레벨 +2, 방어 레벨 +2, 최대 체력 +5%",
+    "context": "EN :\nOffense Level +2, Defense Level +2, Max HP +5%\nJP :\n攻撃レベル +2, 防御レベル +2, 最大体力 +5%"
+  },
+  {
+    "key": "992162-content",
+    "original": "공격 레벨 +2, 최대 체력 +10%",
+    "context": "EN :\nOffense Level +2, Max HP +10%\nJP :\n攻撃レベル +2, 最大体力 +10%"
+  },
+  {
+    "key": "992163-content",
+    "original": "최종 위력 +1, 최대 체력 +5%",
+    "context": "EN :\nFinal Power +1, Max HP +5%\nJP :\n最終威力 +1, 最大体力 +5%"
+  },
+  {
+    "key": "992164-content",
+    "original": "기본 위력 +1, 방어 레벨 +1",
+    "context": "EN :\nBase Power +1, Defense Level +1\nJP :\n基本威力 +1, 防御レベル +1"
+  },
+  {
+    "key": "992165-content",
+    "original": "방어 레벨 +4, 최대 체력 +10%",
+    "context": "EN :\nDefense Level +4, Max HP +10%\nJP :\n防御レベル +4, 最大体力 +10%"
+  },
+  {
+    "key": "992166-content",
+    "original": "받는 피해량 -10%, 가하는 피해량 +10%",
+    "context": "EN :\nDamage Taken -10%, Damage Dealt +10%\nJP :\n被ダメージ量 -10%, 与ダメージ量 +10%"
+  },
+  {
+    "key": "992171-content",
+    "original": "공격 레벨 +4, 방어 레벨 +3, 체력 +7.5%",
+    "context": "EN :\nOffense Level +4, Defense Level +3, Max HP +7.5%\nJP :\n攻撃レベル +4, 防御レベル +3, 体力 +7.5%"
+  },
+  {
+    "key": "992172-content",
+    "original": "공격 레벨 +4, 최대 체력 +15%",
+    "context": "EN :\nOffense Level +4, Max HP +15%\nJP :\n攻撃レベル +4, 最大体力 +15%"
+  },
+  {
+    "key": "992173-content",
+    "original": "최종 위력 +1, 방어 레벨 +6",
+    "context": "EN :\nFinal Power +1, Defense Level +6\nJP :\n最終威力 +1, 防御レベル +6"
+  },
+  {
+    "key": "992174-content",
+    "original": "기본 위력 +1, 방어 레벨 +5",
+    "context": "EN :\nBase Power +1, Defense Level +5\nJP :\n基本威力 +1, 防御レベル +5"
+  },
+  {
+    "key": "992175-content",
+    "original": "최종 위력 +2, 방어 레벨 -2, 최대 체력 +5%",
+    "context": "EN :\nFinal Power +2, Defense Level -2, Max HP +5%\nJP :\n最終威力 +2, 防御レベル -2, 最大体力 +5%"
+  },
+  {
+    "key": "992176-content",
+    "original": "최대 체력 +30%",
+    "context": "EN :\nMax HP +30%\nJP :\n最大体力 +30%"
+  },
+  {
+    "key": "992177-content",
+    "original": "합 위력 +2, 최대 체력 +7.5%",
+    "context": "EN :\nClash Power +2, Max HP +7.5%\nJP :\nマッチ威力 +2, 最大体力 +7.5%"
+  },
+  {
+    "key": "992181-content",
+    "original": "공격 레벨 +6, 방어 레벨 +6, 최대 체력 +15%",
+    "context": "EN :\nOffense Level +6, Defense Level +6, Max HP +15%\nJP :\n攻撃レベル +6, 防御レベル +6, 最大体力 +15%"
+  },
+  {
+    "key": "992182-content",
+    "original": "공격 레벨 +4, 방어 레벨 +3, 최대 체력 +30%",
+    "context": "EN :\nOffense Level +4, Defense Level +3, Max HP +30%\nJP :\n攻撃レベル +4, 防御レベル +3, 最大体力 +30%"
+  },
+  {
+    "key": "992183-content",
+    "original": "최종 위력 +2, 최대 체력 +25%",
+    "context": "EN :\nFinal Power +2, Max HP +25%\nJP :\n最終威力 +2, 最大体力 +25%"
+  },
+  {
+    "key": "992184-content",
+    "original": "기본 위력 +1, 최종 위력 +1, 최대 체력 +20%",
+    "context": "EN :\nBase Power +1, Final Power +1, Max HP +20%\nJP :\n基本威力 +1, 最終威力 +1, 最大体力 +20%"
+  },
+  {
+    "key": "992185-content",
+    "original": "방어 레벨+9, 최대 체력 +30%",
+    "context": "EN :\nDefense Level +9, Max HP +30%\nJP :\n防御レベル +9, 最大体力 +30%"
+  },
+  {
+    "key": "992186-content",
+    "original": "더하기 코인 위력 +2, 빼기 코인 위력 -2",
+    "context": "EN :\nPlus Coin Power +2, Minus Coin Power -2\nJP :\n加算コイン威力 +2, 減算コイン威力 -2"
+  },
+  {
+    "key": "992187-content",
+    "original": "합 위력 +2, 최대 체력 +30%",
+    "context": "EN :\nClash Power +2, Max HP +30%\nJP :\nマッチ威力 +2, 最大体力 +30%"
+  },
+  {
+    "key": "992188-content",
+    "original": "받는 피해량 -50%, 가하는 피해량 +50%",
+    "context": "EN :\nDamage Taken -50%, Damage Dealt +50%\nJP :\n被ダメージ量 -50%, 与ダメージ量 +50%"
+  },
+  {
+    "key": "992201-content",
+    "original": "공격 레벨 +1",
+    "context": "EN :\nOffense Level +1\nJP :\n攻撃レベル +1"
+  },
+  {
+    "key": "992202-content",
+    "original": "방어 레벨 +2",
+    "context": "EN :\nDefense Level +2\nJP :\n防御レベル +2"
+  },
+  {
+    "key": "992203-content",
+    "original": "방어 레벨 +1, 최대 체력 +2.5%",
+    "context": "EN :\nDefense Level +1, Max HP +2.5%\nJP :\n防御レベル +1, 最大体力 +2.5%"
+  },
+  {
+    "key": "992204-content",
+    "original": "최대 체력 +5%",
+    "context": "EN :\nMax HP +5%\nJP :\n最大体力 +5%"
+  },
+  {
+    "key": "992205-content",
+    "original": "수비 스킬 최종 위력 +1",
+    "context": "EN :\nDefense Skill Final Power +1\nJP :\n守備スキル最終威力 +1"
+  },
+  {
+    "key": "992206-content",
+    "original": "받는 피해량 -5%",
+    "context": "EN :\nDamage Taken -5%\nJP :\n被ダメージ量 -5%"
+  },
+  {
+    "key": "992211-content",
+    "original": "공격 레벨 +2",
+    "context": "EN :\nOffense Level +2\nJP :\n攻撃レベル +2"
+  },
+  {
+    "key": "992212-content",
+    "original": "공격 레벨 +1, 방어 레벨 +1, 최대 체력 +2.5%",
+    "context": "EN :\nOffense Level +1, Defense Level +1, Max HP +2.5%\nJP :\n攻撃レベル +1, 防御レベル +1, 最大体力 +2.5%"
+  },
+  {
+    "key": "992213-content",
+    "original": "공격 레벨 +1, 최대 체력 +5%",
+    "context": "EN :\nOffense Level +1, Max HP +5%\nJP :\n攻撃レベル +1, 最大体力 +5%"
+  },
+  {
+    "key": "992214-content",
+    "original": "방어 레벨 +1, 최대 체력 +7.5%",
+    "context": "EN :\nDefense Level +1, Max HP +7.5%\nJP :\n防御レベル +1, 最大体力 +7.5%"
+  },
+  {
+    "key": "992215-content",
+    "original": "방어 레벨 +2, 최대 체력 +5%",
+    "context": "EN :\nDefense Level +2, Max HP +5%\nJP :\n防御レベル +2, 最大体力 +5%"
+  },
+  {
+    "key": "992216-content",
+    "original": "최대 체력 +10%",
+    "context": "EN :\nMax HP +10%\nJP :\n最大体力 +10%"
+  },
+  {
+    "key": "992217-content",
+    "original": "받는 피해량 -7.5%, 가하는 피해량 +7.5%",
+    "context": "EN :\nDamage Taken -7.5%, Damage Dealt +7.5%\nJP :\n被ダメージ量 -7.5%, 与ダメージ量 +7.5%"
+  },
+  {
+    "key": "992221-content",
+    "original": "공격 레벨 +2, 최대 체력 +7.5%",
+    "context": "EN :\nOffense Level +2, Max HP +7.5%\nJP :\n攻撃レベル +2, 最大体力 +7.5%"
+  },
+  {
+    "key": "992222-content",
+    "original": "공격 레벨 +3, 최대 체력 +5%",
+    "context": "EN :\nOffense Level +3, Max HP +5%\nJP :\n攻撃レベル +3, 最大体力 +5%"
+  },
+  {
+    "key": "992223-content",
+    "original": "방어 레벨 +3, 최대 체력 +7.5%",
+    "context": "EN :\nDefense Level +3, Max HP +7.5%\nJP :\n防御レベル +3, 最大体力 +7.5%"
+  },
+  {
+    "key": "992224-content",
+    "original": "방어 레벨 +4, 최대 체력 +5%",
+    "context": "EN :\nDefense Level +4, Max HP +5%\nJP :\n防御レベル +4, 最大体力 +5%"
+  },
+  {
+    "key": "992225-content",
+    "original": "최대 체력 +15%",
+    "context": "EN :\nMax HP +15%\nJP :\n最大体力 +15%"
+  },
+  {
+    "key": "992226-content",
+    "original": "합 위력 +1, 최대 체력 +7.5%",
+    "context": "EN :\nClash Power +1, Max HP +7.5%\nJP :\nマッチ威力 +1, 最大体力 +7.5%"
+  },
+  {
+    "key": "992227-content",
+    "original": "최종 위력 +1, 최대 체력 +5%",
+    "context": "EN :\nFinal Power +1, Max HP +5%\nJP :\n最終威力 +1, 最大体力 +5%"
+  },
+  {
+    "key": "992228-content",
+    "original": "기본 위력 +1, 최대 체력 +2.5%",
+    "context": "EN :\nBase Power +1, Max HP +2.5%\nJP :\n基本威力 +1, 最大体力 +2.5%"
+  },
+  {
+    "key": "992231-content",
+    "original": "공격 레벨 +3, 최대 체력 +15%",
+    "context": "EN :\nOffense Level +3, Max HP +15%\nJP :\n攻撃レベル +3, 最大体力 +15%"
+  },
+  {
+    "key": "992232-content",
+    "original": "공격 레벨 +2, 방어 레벨 +3, 최대 체력 +12.5%",
+    "context": "EN :\nOffense Level +2, Defense Level +3, Max HP +12.5%\nJP :\n攻撃レベル +2, 防御レベル +3, 最大体力 +12.5%"
+  },
+  {
+    "key": "992233-content",
+    "original": "공격 레벨 +3, 방어 레벨 +2, 최대 체력 +10%",
+    "context": "EN :\nOffense Level +3, Defense Level +2, Max HP +10%\nJP :\n攻撃レベル +3, 防御レベル +2, 最大体力 +10%"
+  },
+  {
+    "key": "992234-content",
+    "original": "최대 체력 +30%",
+    "context": "EN :\nMax HP +30%\nJP :\n最大体力 +30%"
+  },
+  {
+    "key": "992235-content",
+    "original": "합 위력 +1, 최대 체력 +15%",
+    "context": "EN :\nClash Power +1, Max HP +15%\nJP :\nマッチ威力 +1, 最大体力 +15%"
+  },
+  {
+    "key": "992236-content",
+    "original": "최종 위력 +1, 최대 체력 +12.5%",
+    "context": "EN :\nFinal Power +1, Max HP +12.5%\nJP :\n最終威力 +1, 最大体力 +12.5%"
+  },
+  {
+    "key": "992237-content",
+    "original": "기본 위력 +1, 최대 체력 +10%",
+    "context": "EN :\nBase Power +1, Max HP +10%\nJP :\n基本威力 +1, 最大体力 +10%"
+  },
+  {
+    "key": "992238-content",
+    "original": "더하기 코인 위력 +1, 빼기 코인 위력 -1",
+    "context": "EN :\nPlus Coin Power +1, Minus Coin Power -1\nJP :\n加算コイン威力 +1, 減算コイン威力 -1"
+  },
+  {
+    "key": "992239-content",
+    "original": "받는 피해량 -25%, 가하는 피해량 +25%",
+    "context": "EN :\nDamage Taken -25%, Damage Dealt +25%\nJP :\n被ダメージ量 -25%, 与ダメージ量 +25%"
+  }
+]

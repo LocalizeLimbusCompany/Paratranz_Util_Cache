@@ -1,0 +1,1037 @@
+[
+  {
+    "key": "1120601-levelList$[0].name",
+    "original": "맞서기",
+    "context": "EN :\nStandoff\nJP :\n立ち向かう"
+  },
+  {
+    "key": "1120601-levelList$[0].desc",
+    "original": "[WhenUse] 방어 레벨 증가 2를 얻음",
+    "context": "EN :\n[WhenUse] Gain 2 Defense Level Up\nJP :\n[WhenUse] 防御レベル増加 2を得る"
+  },
+  {
+    "key": "1120601-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 신속 1을 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 1 Haste next turn\nJP :\n[OnSucceedAttackHead] 次のターンにクイック 1を得る"
+  },
+  {
+    "key": "1120601-levelList$[1].name",
+    "original": "맞서기",
+    "context": "EN :\nStandoff\nJP :\n立ち向かう"
+  },
+  {
+    "key": "1120601-levelList$[1].desc",
+    "original": "[WhenUse] 방어 레벨 증가 2를 얻음\n[DefeatDuel] (자신의 방어 레벨 증가 X 3)만큼 보호막을 얻음. 다음 턴에 방어 레벨 증가 1을 얻음.",
+    "context": "EN :\n[WhenUse] Gain 2 Defense Level Up\n[DefeatDuel] Gain Shield by (3 * Defense Level Up on self); Gain 1 Defense Level Up next turn\nJP :\n[WhenUse] 防御レベル増加 2を得る\n[DefeatDuel] (自分の防御レベル増加 × 3)だけバリアを得る。次のターンに防御レベル増加 1を得る。"
+  },
+  {
+    "key": "1120601-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 신속 1을 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 Haste next turn\nJP :\n[OnSucceedAttack] 次のターンにクイック 1を得る"
+  },
+  {
+    "key": "1120601-levelList$[2].name",
+    "original": "맞서기",
+    "context": "EN :\nStandoff\nJP :\n立ち向かう"
+  },
+  {
+    "key": "1120601-levelList$[2].desc",
+    "original": "[WhenUse] 방어 레벨 증가 2를 얻음\n[DefeatDuel] (자신의 방어 레벨 증가 X 5)만큼 보호막을 얻음. 다음 턴에 방어 레벨 증가 2를 얻음.",
+    "context": "EN :\n[WhenUse] Gain 2 Defense Level Up\n[DefeatDuel] Gain Shield by (5 * Defense Level Up on self); Gain 2 Defense Level Up next turn\nJP :\n[WhenUse] 防御レベル増加 2を得る\n[DefeatDuel] (自分の防御レベル増加 × 5)だけバリアを得る。次のターンに防御レベル増加 2を得る。"
+  },
+  {
+    "key": "1120601-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 신속 2를 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 Haste next turn\nJP :\n[OnSucceedAttack] 次のターンにクイック 2を得る"
+  },
+  {
+    "key": "1120602-levelList$[0].name",
+    "original": "유연한 제압",
+    "context": "EN :\nFlexible Suppression\nJP :\n柔軟な制圧"
+  },
+  {
+    "key": "1120602-levelList$[0].desc",
+    "original": "[WhenUse] 방어 레벨 증가 2를 얻음",
+    "context": "EN :\n[WhenUse] Gain 2 Defense Level Up\nJP :\n[WhenUse] 防御レベル増加 2を得る"
+  },
+  {
+    "key": "1120602-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 방어 레벨 증가 1을 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 1 Defense Level Up next turn\nJP :\n[OnSucceedAttackHead] 次のターンに防御レベル増加 1を得る"
+  },
+  {
+    "key": "1120602-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 방어 레벨 증가 1을 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 1 Defense Level Up next turn\nJP :\n[OnSucceedAttackHead] 次のターンに防御レベル増加 1を得る"
+  },
+  {
+    "key": "1120602-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "자신의 방어 레벨 증가 가 6 이상이면, 피해량 +20%",
+    "context": "EN :\nAt 6+ Defense Level Up, deal +20% damage\nJP :\n自分の防御レベル増加 が6以上なら、ダメージ量 +20%"
+  },
+  {
+    "key": "1120602-levelList$[1].name",
+    "original": "유연한 제압",
+    "context": "EN :\nFlexible Suppression\nJP :\n柔軟な制圧"
+  },
+  {
+    "key": "1120602-levelList$[1].desc",
+    "original": "[WhenUse] 방어 레벨 증가 3을 얻음\n[WhenUse] 다음 턴에 이 스킬 슬롯의 도발치 2 증가",
+    "context": "EN :\n[WhenUse] Gain 3 Defense Level Up\n[WhenUse] Gain +2 Aggro to this Skill Slot next turn\nJP :\n[WhenUse] 防御レベル増加 3を得る\n[WhenUse] 次のターンにこのスキルスロットの挑発値 が2増加"
+  },
+  {
+    "key": "1120602-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 방어 레벨 증가 1을 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 Defense Level Up next turn\nJP :\n[OnSucceedAttack] 次のターンに防御レベル増加 1を得る"
+  },
+  {
+    "key": "1120602-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 방어 레벨 증가 1을 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 Defense Level Up next turn\nJP :\n[OnSucceedAttack] 次のターンに防御レベル増加 1を得る"
+  },
+  {
+    "key": "1120602-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "자신의 방어 레벨 증가 가 6 이상이면, 피해량 +30%",
+    "context": "EN :\nAt 6+ Defense Level Up, deal +30% damage\nJP :\n自分の防御レベル増加 が6以上なら、ダメージ量 +30%"
+  },
+  {
+    "key": "1120602-levelList$[2].name",
+    "original": "유연한 제압",
+    "context": "EN :\nFlexible Suppression\nJP :\n柔軟な制圧"
+  },
+  {
+    "key": "1120602-levelList$[2].desc",
+    "original": "[WhenUse] 방어 레벨 증가 3을 얻음\n[WhenUse] 다음 턴에 이 스킬 슬롯의 도발치 3 증가\n자신의 방어 레벨 증가 가 6 이상이면, 합 위력 +1",
+    "context": "EN :\n[WhenUse] Gain 3 Defense Level Up\n[WhenUse] Gain +3 Aggro to this Skill Slot next turn\nAt 6+ Defense Level Up, Clash Power +1\nJP :\n[WhenUse] 防御レベル増加 3を得る\n[WhenUse] 次のターンにこのスキルスロットの挑発値 が3増加\n自分の防御レベル増加 が6以上なら、マッチ威力 +1"
+  },
+  {
+    "key": "1120602-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 방어 레벨 증가 1을 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 Defense Level Up next turn\nJP :\n[OnSucceedAttack] 次のターンに防御レベル増加 1を得る"
+  },
+  {
+    "key": "1120602-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 방어 레벨 증가 1을 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 Defense Level Up next turn\nJP :\n[OnSucceedAttack] 次のターンに防御レベル増加 1を得る"
+  },
+  {
+    "key": "1120602-levelList$[2].coinlist[3].coindescs[0].desc",
+    "original": "자신의 방어 레벨 증가 가 6 이상이면, 피해량 +40%",
+    "context": "EN :\nAt 6+ Defense Level Up, deal +40% damage\nJP :\n自分の防御レベル増加 が6以上なら、ダメージ量 +40%"
+  },
+  {
+    "key": "1120603-levelList$[0].name",
+    "original": "수호자",
+    "context": "EN :\nGuardian\nJP :\n守護者"
+  },
+  {
+    "key": "1120603-levelList$[0].desc",
+    "original": "[WhenUse] 모든 아군에게 수비 위력 증가 2, 방어 레벨 증가 3 부여.\n자신의 방어 레벨 증가 가 6 이상이면, 코인 위력 +1\n자신의 방어 레벨 증가 가 10 이상이면, 피해량 +30%",
+    "context": "EN :\n[WhenUse] Apply 2 Defense Power Up and 3 Defense Level Up to all allies\nAt 6+ Defense Level Up, Coin Power +1\nAt 10+ Defense Level Up, deal +30% damage\nJP :\n[WhenUse] 全味方へ守備威力増加 2, 防御レベル増加 3を付与。\n自分の防御レベル増加 が6以上なら、コイン威力 +1\n自分の防御レベル増加 が10以上なら、ダメージ量 +30%"
+  },
+  {
+    "key": "1120603-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 모든 아군에게 방어 레벨 증가 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Apply 3 Defense Level Up to all allies next turn\nJP :\n[OnSucceedAttack] 次のターンにて全味方に防御レベル増加 3を付与"
+  },
+  {
+    "key": "1120603-levelList$[1].name",
+    "original": "수호자",
+    "context": "EN :\nGuardian\nJP :\n守護者"
+  },
+  {
+    "key": "1120603-levelList$[1].desc",
+    "original": "[WhenUse] 모든 아군에게 수비 위력 증가 2, 방어 레벨 증가 3 부여.\n자신의 방어 레벨 증가 6 당 코인 위력 +1 (최대 3)\n자신의 방어 레벨 증가 가 10 이상이면, 피해량 +50%",
+    "context": "EN :\n[WhenUse] Apply 2 Defense Power Up and 3 Defense Level Up to all allies\nCoin Power +1 per 6 Defense Level Up (Max 3)\nAt 10+ Defense Level Up, deal +50% damage\nJP :\n[WhenUse] 全味方へ守備威力増加 2, 防御レベル増加 3を付与。\n自分の防御レベル増加 6につき、コイン威力 +1(最大3)\n自分の防御レベル増加 が10以上なら、ダメージ量 +50%"
+  },
+  {
+    "key": "1120603-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 모든 아군에게 방어 레벨 증가 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Apply 3 Defense Level Up to all allies next turn\nJP :\n[OnSucceedAttack] 次のターンにて全味方に防御レベル増加 3を付与"
+  },
+  {
+    "key": "1120604-levelList$[0].name",
+    "original": "최선의 방어",
+    "context": "EN :\nThe Best Defense\nJP :\n最善の防御"
+  },
+  {
+    "key": "1120604-levelList$[0].desc",
+    "original": "[StartBattle] (자신의 방어 레벨 증가 X 2)만큼 보호막을 얻음",
+    "context": "EN :\n[StartBattle] Gain Shield by (2 * Defense Level Up on self)\nJP :\n[StartBattle] (自分の防御レベル増加 × 2)だけバリアを得る"
+  },
+  {
+    "key": "1120604-levelList$[1].name",
+    "original": "최선의 방어",
+    "context": "EN :\nThe Best Defense\nJP :\n最善の防御"
+  },
+  {
+    "key": "1120604-levelList$[1].desc",
+    "original": "[StartBattle] (자신의 방어 레벨 증가 X 2)만큼 보호막을 얻음\n[WhenUse] 다음 턴에 이 스킬 슬롯의 도발치 5 증가",
+    "context": "EN :\n[StartBattle] Gain Shield by (2 * Defense Level Up on self)\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn\nJP :\n[StartBattle] (自分の防御レベル増加 × 2)だけバリアを得る\n[WhenUse] 次のターンにこのスキルスロットの挑発値 が5増加"
+  },
+  {
+    "key": "1120701-levelList$[0].name",
+    "original": "협상 시작",
+    "context": "EN :\nNegotiation Start\nJP :\n交渉開始"
+  },
+  {
+    "key": "1120701-levelList$[0].desc",
+    "original": "[WhenUse] 호흡 2 얻음",
+    "context": "EN :\n[WhenUse] Gain 2 Poise\nJP :\n[WhenUse] 呼吸 2を得る"
+  },
+  {
+    "key": "1120701-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 자신의 호흡 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Gain +1 Poise Count\nJP :\n[OnSucceedAttackHead] 自分の呼吸 回数が1増加"
+  },
+  {
+    "key": "1120701-levelList$[1].name",
+    "original": "협상 시작",
+    "context": "EN :\nNegotiation Start\nJP :\n交渉開始"
+  },
+  {
+    "key": "1120701-levelList$[1].desc",
+    "original": "[WhenUse] 호흡 3 얻음",
+    "context": "EN :\n[WhenUse] Gain 3 Poise\nJP :\n[WhenUse] 呼吸 3を得る"
+  },
+  {
+    "key": "1120701-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 호흡 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Poise Count\nJP :\n[OnSucceedAttack] 自分の呼吸 回数が1増加"
+  },
+  {
+    "key": "1120701-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 2 Bleed\nJP :\n[CriticalOnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "1120701-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 2 Bleed\nJP :\n[CriticalOnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "1120701-levelList$[2].name",
+    "original": "협상 시작",
+    "context": "EN :\nNegotiation Start\nJP :\n交渉開始"
+  },
+  {
+    "key": "1120701-levelList$[2].desc",
+    "original": "[WhenUse] 호흡 3 얻음\n대상의 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>이 7 이상이면 코인 위력 +1",
+    "context": "EN :\n[WhenUse] Gain 3 Poise\nIf target has 7+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, Coin Power +1\nJP :\n[WhenUse] 呼吸 3を得る\n対象の<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>が7以上なら、コイン威力+1"
+  },
+  {
+    "key": "1120701-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 호흡 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Poise Count\nJP :\n[OnSucceedAttack] 自分の呼吸 回数が1増加"
+  },
+  {
+    "key": "1120701-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 2 Bleed\nJP :\n[CriticalOnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "1120701-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 2 Bleed\nJP :\n[CriticalOnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "1120702-levelList$[0].name",
+    "original": "일방적 비즈니스",
+    "context": "EN :\nUnilateral Business\nJP :\n一方的ビジネス"
+  },
+  {
+    "key": "1120702-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 호흡 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +2 Poise Count\nJP :\n[WhenUse] 自分の呼吸 回数が2増加"
+  },
+  {
+    "key": "1120702-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 호흡 3 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 3 Poise\nJP :\n[OnSucceedAttackHead] 呼吸 3を得る"
+  },
+  {
+    "key": "1120702-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bleed\nJP :\n[OnSucceedAttack] 出血 3を付与"
+  },
+  {
+    "key": "1120702-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 2 Bleed\nJP :\n[CriticalOnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "1120702-levelList$[1].name",
+    "original": "일방적 비즈니스",
+    "context": "EN :\nUnilateral Business\nJP :\n一方的ビジネス"
+  },
+  {
+    "key": "1120702-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 호흡 횟수 3 증가",
+    "context": "EN :\n[WhenUse] Gain +3 Poise Count\nJP :\n[WhenUse] 自分の呼吸 回数が3増加"
+  },
+  {
+    "key": "1120702-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 호흡 4 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 4 Poise\nJP :\n[OnSucceedAttackHead] 呼吸 4を得る"
+  },
+  {
+    "key": "1120702-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 2 Bleed\nJP :\n[CriticalOnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "1120702-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bleed\nJP :\n[OnSucceedAttack] 出血 3を付与"
+  },
+  {
+    "key": "1120702-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 2 Bleed\nJP :\n[CriticalOnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "1120702-levelList$[1].coinlist[1].coindescs[2].desc",
+    "original": "크리티컬 피해량 +30%",
+    "context": "EN :\n+30% Damage on Critical Hit\nJP :\nクリティカルダメージ量 +30%"
+  },
+  {
+    "key": "1120702-levelList$[2].name",
+    "original": "일방적 비즈니스",
+    "context": "EN :\nUnilateral Business\nJP :\n一方的ビジネス"
+  },
+  {
+    "key": "1120702-levelList$[2].desc",
+    "original": "대상의 출혈 7당 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 호흡 횟수 3 증가",
+    "context": "EN :\nCoin Power +1 for every 7 Bleed on target (Max 2)\n[WhenUse] Gain +3 Poise Count\nJP :\n対象の出血 7につき、コイン威力 +1(最大2)\n[WhenUse] 自分の呼吸 回数が3増加"
+  },
+  {
+    "key": "1120702-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 호흡 4 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 4 Poise\nJP :\n[OnSucceedAttack] 呼吸 4を得る"
+  },
+  {
+    "key": "1120702-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 2 Bleed\nJP :\n[CriticalOnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "1120702-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bleed\nJP :\n[OnSucceedAttack] 出血 3を付与"
+  },
+  {
+    "key": "1120702-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 2 Bleed\nJP :\n[CriticalOnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "1120702-levelList$[2].coinlist[1].coindescs[2].desc",
+    "original": "크리티컬 피해량 +50%",
+    "context": "EN :\n+50% Damage on Critical Hit\nJP :\nクリティカルダメージ量 +50%"
+  },
+  {
+    "key": "1120703-levelList$[0].name",
+    "original": "예정된 결렬",
+    "context": "EN :\nForegone Conclusion\nJP :\n予定された決裂"
+  },
+  {
+    "key": "1120703-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 출혈 3당 호흡 1을 얻음 (최대 5)\n자신의 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">호흡</color></color></link></u>이 7 이상이면 코인 위력 +1",
+    "context": "EN :\n[WhenUse] Gain 1 Poise per 3 Bleed on target (Max 5)\nAt 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></color></link></u>, Coin Power +1\nJP :\n[WhenUse] 対象の出血 3につき、呼吸1を得る(最大5)\n自分の<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></color></link></u>が7以上なら、コイン威力+1"
+  },
+  {
+    "key": "1120703-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] 출혈 횟수 2 증가",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict +2 Bleed Count\nJP :\n[CriticalOnSucceedAttack] 出血 回数が2増加"
+  },
+  {
+    "key": "1120703-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "탄환 1 소모",
+    "context": "EN :\nSpend 1 Ammo\nJP :\n弾丸 1を消耗"
+  },
+  {
+    "key": "1120703-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "크리티컬 피해량 +50%",
+    "context": "EN :\n+50% Damage on Critical Hit\nJP :\nクリティカルダメージ量 +50%"
+  },
+  {
+    "key": "1120703-levelList$[1].name",
+    "original": "예정된 결렬",
+    "context": "EN :\nForegone Conclusion\nJP :\n予定された決裂"
+  },
+  {
+    "key": "1120703-levelList$[1].desc",
+    "original": "[WhenUse] 대상의 출혈 3당 호흡 1을 얻음 (최대 10)\n자신의 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">호흡</color></color></link></u> 7 당 코인 위력 +1 (최대 3)",
+    "context": "EN :\n[WhenUse] Gain 1 Poise for every 3 Bleed on target (Max 10)\nGain Coin Power +1 for every 7 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></color></link></u> on self (Max +3)\nJP :\n[WhenUse] 対象の出血3につき、呼吸1を得る(最大10)\n自分の<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></color></link></u>7につき、コイン威力+1(最大3)"
+  },
+  {
+    "key": "1120703-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] 출혈 횟수 2 증가",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict +2 Bleed Count\nJP :\n[CriticalOnSucceedAttack] 出血 回数が2増加"
+  },
+  {
+    "key": "1120703-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "탄환 1 소모",
+    "context": "EN :\nSpend 1 Ammo\nJP :\n弾丸 1を消耗"
+  },
+  {
+    "key": "1120703-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "크리티컬 피해량 +100%",
+    "context": "EN :\n+100% Damage on Critical Hit\nJP :\nクリティカルダメージ量 +100%"
+  },
+  {
+    "key": "1120703-levelList$[1].coinlist[1].coindescs[2].desc",
+    "original": "[EnemyKill] 다음 턴에 더하기 코인 강화 1을 얻음",
+    "context": "EN :\n[EnemyKill] Gain 1 Plus Coin Boost next turn\nJP :\n[EnemyKill] 次のターンに加算コイン強化 1を得る"
+  },
+  {
+    "key": "1120704-levelList$[0].name",
+    "original": "한 숨 돌릴까",
+    "context": "EN :\nTake a Breather\nJP :\n一息つくか"
+  },
+  {
+    "key": "1120704-levelList$[0].desc",
+    "original": "[OnSucceedEvade] 호흡 1 얻음 (턴 당 최대 3)",
+    "context": "EN :\n[OnSucceedEvade] Gain 1 Poise (Max 3 per turn)\nJP :\n[OnSucceedEvade] 呼吸 1を得る(1ターンにつき最大3)"
+  },
+  {
+    "key": "1120704-levelList$[1].name",
+    "original": "한 숨 돌릴까",
+    "context": "EN :\nTake a Breather\nJP :\n一息つくか"
+  },
+  {
+    "key": "1120704-levelList$[1].desc",
+    "original": "[OnSucceedEvade] 호흡 1 얻음 (턴 당 최대 5)",
+    "context": "EN :\n[OnSucceedEvade] Gain 1 Poise (Max 5 per turn)\nJP :\n[OnSucceedEvade] 呼吸 1を得る(1ターンにつき最大5)"
+  },
+  {
+    "key": "1120801-levelList$[0].name",
+    "original": "구름베기",
+    "context": "EN :\nLenticular Rend\nJP :\n雲斬り"
+  },
+  {
+    "key": "1120801-levelList$[0].desc",
+    "original": "[WinDuel] [Laceration] 1 부여",
+    "context": "EN :\n[WinDuel] Inflict 1 [Laceration]\nJP :\n[WinDuel] [Laceration]1を付与"
+  },
+  {
+    "key": "1120801-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +1 [Laceration] Count\nJP :\n[OnSucceedAttackHead] [Laceration]回数が1増加"
+  },
+  {
+    "key": "1120801-levelList$[1].name",
+    "original": "구름베기",
+    "context": "EN :\nLenticular Rend\nJP :\n雲斬り"
+  },
+  {
+    "key": "1120801-levelList$[1].desc",
+    "original": "<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 7 이상이면 합 위력 +1</style>\n[WinDuel] [Laceration] 1 부여",
+    "context": "EN :\n<style=\"highlight\">[WhenUse] If the target has 7+ [Laceration], Clash Power +1</style>\n[WinDuel] Inflict 1 [Laceration]\nJP :\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が7以上なら、マッチ威力 +1</style>\n[WinDuel] [Laceration]1を付与"
+  },
+  {
+    "key": "1120801-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "1120801-levelList$[2].name",
+    "original": "구름베기",
+    "context": "EN :\nLenticular Rend\nJP :\n雲斬り"
+  },
+  {
+    "key": "1120801-levelList$[2].desc",
+    "original": "[WhenUse_Force] <color=#EBCAA2>대상의 [Laceration]이 7 이상이면 합 위력 +1</color>\n[WinDuel] [Laceration] 1 부여",
+    "context": "EN :\n[WhenUse_Force] <color=#EBCAA2>If the target has 7+ [Laceration], Clash Power +1</color>\n[WinDuel] Inflict 1 [Laceration]\nJP :\n[WhenUse_Force] <color=#EBCAA2>対象の[Laceration]が7以上なら、マッチ威力 +1</color>\n[WinDuel] [Laceration]1を付与"
+  },
+  {
+    "key": "1120801-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "1120801-levelList$[3].name",
+    "original": "구름베기",
+    "context": "EN :\nLenticular Rend\nJP :\n雲斬り"
+  },
+  {
+    "key": "1120801-levelList$[3].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 7 이상이면 합 위력 +<style=\"highlight\">2</style>\n[WinDuel] [Laceration] 1 부여",
+    "context": "EN :\n[WhenUse] If the target has 7+ [Laceration], Clash Power +<style=\"highlight\">2</style>\n[WinDuel] Inflict 1 [Laceration]\nJP :\n[WhenUse] 対象の[Laceration]が7以上なら、マッチ威力 +<style=\"highlight\">2</style>\n[WinDuel] [Laceration]1を付与"
+  },
+  {
+    "key": "1120801-levelList$[3].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "1120802-levelList$[0].name",
+    "original": "먹구름",
+    "context": "EN :\nShadow Cloud\nJP :\n墨雲"
+  },
+  {
+    "key": "1120802-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttackHead] [Laceration]2を付与"
+  },
+  {
+    "key": "1120802-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 공격 레벨 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Offense Level Down\nJP :\n[OnSucceedAttack] 攻撃レベル減少 1を付与"
+  },
+  {
+    "key": "1120802-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 10 이상이면, 다음 턴에 공격 위력 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has 10+ [Laceration], inflict 1 Attack Power Down next turn\nJP :\n[OnSucceedAttack] 対象の[Laceration]が10以上なら、次のターンに攻撃威力減少 1を付与"
+  },
+  {
+    "key": "1120802-levelList$[1].name",
+    "original": "먹구름",
+    "context": "EN :\nShadow Cloud\nJP :\n墨雲"
+  },
+  {
+    "key": "1120802-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttackHead] [Laceration]2を付与"
+  },
+  {
+    "key": "1120802-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 공격 레벨 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Offense Level Down\nJP :\n[OnSucceedAttack] 攻撃レベル減少 1を付与"
+  },
+  {
+    "key": "1120802-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 10 이상이면, 다음 턴에 공격 위력 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has 10+ [Laceration], inflict 1 Attack Power Down next turn\nJP :\n[OnSucceedAttack] 対象の[Laceration]が10以上なら、次のターンに攻撃威力減少 1を付与"
+  },
+  {
+    "key": "1120802-levelList$[2].name",
+    "original": "먹구름",
+    "context": "EN :\nShadow Cloud\nJP :\n墨雲"
+  },
+  {
+    "key": "1120802-levelList$[2].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 7 이상이면 합 위력 +2",
+    "context": "EN :\n[WhenUse] If the target has 7+ [Laceration], Clash Power +2\nJP :\n[WhenUse] 対象の[Laceration]が7以上なら、マッチ威力 +2"
+  },
+  {
+    "key": "1120802-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttackHead] [Laceration]2を付与"
+  },
+  {
+    "key": "1120802-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 공격 레벨 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Offense Level Down\nJP :\n[OnSucceedAttack] 攻撃レベル減少 1を付与"
+  },
+  {
+    "key": "1120802-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 7 이상이면, 다음 턴에 공격 위력 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Attack Power Down next turn\nJP :\n[OnSucceedAttack] 対象の[Laceration]が7以上なら、次のターンに攻撃威力減少 1を付与"
+  },
+  {
+    "key": "1120803-levelList$[0].name",
+    "original": "먹구름 깨어가르기",
+    "context": "EN :\nShadowcloud Shattercleave\nJP :\n墨雲裂割"
+  },
+  {
+    "key": "1120803-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 7 이상이면 합 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 7+ [Laceration], Clash Power +1\nJP :\n[WhenUse] 対象の[Laceration]が7以上なら、マッチ威力 +1"
+  },
+  {
+    "key": "1120803-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 공격 레벨 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Offense Level Down\nJP :\n[OnSucceedAttack] 攻撃レベル減少 1を付与"
+  },
+  {
+    "key": "1120803-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 7 이상이면 다음 턴에 공격 레벨 감소 1 부여 ",
+    "context": "EN :\n[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Offense Level Down next turn \nJP :\n[OnSucceedAttack] 対象の[Laceration]が7以上なら、次のターンに攻撃レベル減少 1を付与 "
+  },
+  {
+    "key": "1120803-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 공격 레벨 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Offense Level Down\nJP :\n[OnSucceedAttack] 攻撃レベル減少 1を付与"
+  },
+  {
+    "key": "1120803-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 7 이상이면 다음 턴에 공격 레벨 감소 1 부여 ",
+    "context": "EN :\n[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Offense Level Down next turn \nJP :\n[OnSucceedAttack] 対象の[Laceration]が7以上なら、次のターンに攻撃レベル減少 1を付与 "
+  },
+  {
+    "key": "1120803-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 10 이상이면, 다음 턴에 더하기 코인 약화 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has 10+ [Laceration], inflict 1 Plus Coin Drop next turn\nJP :\n[OnSucceedAttack] 対象の[Laceration]が10以上なら、次のターンに加算コイン弱化 1を付与"
+  },
+  {
+    "key": "1120803-levelList$[1].name",
+    "original": "먹구름 깨어가르기",
+    "context": "EN :\nShadowcloud Shattercleave\nJP :\n墨雲裂割"
+  },
+  {
+    "key": "1120803-levelList$[1].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 7 이상이면 합 위력 +1\n[WhenUse] 대상의 [Laceration]이 10 이상이면 코인 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 7+ [Laceration], Clash Power +1\n[WhenUse] If the target has 10+ [Laceration], Coin Power +1\nJP :\n[WhenUse] 対象の[Laceration]が7以上なら、マッチ威力 +1\n[WhenUse] 対象の[Laceration]が10以上なら、コイン威力 +1"
+  },
+  {
+    "key": "1120803-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 공격 레벨 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Offense Level Down\nJP :\n[OnSucceedAttack] 攻撃レベル減少 1を付与"
+  },
+  {
+    "key": "1120803-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 7 이상이면 다음 턴에 공격 레벨 감소 1 부여 ",
+    "context": "EN :\n[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Offense Level Down next turn \nJP :\n[OnSucceedAttack] 対象の[Laceration]が7以上なら、次のターンに攻撃レベル減少 1を付与 "
+  },
+  {
+    "key": "1120803-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 공격 레벨 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Offense Level Down\nJP :\n[OnSucceedAttack] 攻撃レベル減少 1を付与"
+  },
+  {
+    "key": "1120803-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 7 이상이면 다음 턴에 공격 레벨 감소 1 부여 ",
+    "context": "EN :\n[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Offense Level Down next turn\nJP :\n[OnSucceedAttack] 対象の[Laceration]が7以上なら、次のターンに攻撃レベル減少 1を付与 "
+  },
+  {
+    "key": "1120803-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration] 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 [Laceration]\nJP :\n[OnSucceedAttackHead] [Laceration]3を付与"
+  },
+  {
+    "key": "1120803-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 <style=\"highlight\">7</style> 이상이면, 다음 턴에 더하기 코인 약화 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has <style=\"highlight\">7</style>+ [Laceration], inflict 1 Plus Coin Drop next turn\nJP :\n[OnSucceedAttack] 対象の[Laceration]が<style=\"highlight\">7</style>以上なら、次のターンに加算コイン弱化 1を付与"
+  },
+  {
+    "key": "1120804-levelList$[0].name",
+    "original": "가드",
+    "context": "EN :\nGuard\nJP :\nガード"
+  },
+  {
+    "key": "1120804-levelList$[1].name",
+    "original": "가드",
+    "context": "EN :\nGuard\nJP :\nガード"
+  },
+  {
+    "key": "1120901-levelList$[0].name",
+    "original": "세이버 슬래시",
+    "context": "EN :\nSabre Slash\nJP :\nセイバースラッシュ"
+  },
+  {
+    "key": "1120901-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]3を付与"
+  },
+  {
+    "key": "1120901-levelList$[1].name",
+    "original": "세이버 슬래시",
+    "context": "EN :\nSabre Slash\nJP :\nセイバースラッシュ"
+  },
+  {
+    "key": "1120901-levelList$[1].desc",
+    "original": "[WhenUse] 대상의 [Sinking]이 6 이상이면 코인 위력 +2",
+    "context": "EN :\n[WhenUse] If the target has 6+ [Sinking], Coin Power +2\nJP :\n[WhenUse] 対象の[Sinking]が6以上なら、コイン威力 +2"
+  },
+  {
+    "key": "1120901-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]3を付与"
+  },
+  {
+    "key": "1120901-levelList$[2].name",
+    "original": "세이버 슬래시",
+    "context": "EN :\nSabre Slash\nJP :\nセイバースラッシュ"
+  },
+  {
+    "key": "1120901-levelList$[2].desc",
+    "original": "[WhenUse] 대상의 [Sinking] 3 당 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Sinking] 횟수 3 당, 합 위력 +1 (최대 2)",
+    "context": "EN :\n[WhenUse] Coin Power +1 for every 3 [Sinking] on target (max 2)\n[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\nJP :\n[WhenUse] 対象の[Sinking]3につき、コイン威力 +1(最大2)\n[WhenUse] 対象の[Sinking]回数3につき、マッチ威力 +1(最大2)"
+  },
+  {
+    "key": "1120901-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]3を付与"
+  },
+  {
+    "key": "1120902-levelList$[0].name",
+    "original": "르미즈",
+    "context": "EN :\nRemise\nJP :\nルミーズ"
+  },
+  {
+    "key": "1120902-levelList$[0].desc",
+    "original": "[WinDuel] [Sinking] 횟수 1 증가",
+    "context": "EN :\n[WinDuel] Inflict +1 [Sinking] Count\nJP :\n[WinDuel] [Sinking]回数が1増加"
+  },
+  {
+    "key": "1120902-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]이 5 이상이면, 다음 턴에 [Agility] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] If the target has 5+ [Sinking], gain 1 [Agility] next turn\nJP :\n[OnSucceedAttack] 対象の[Sinking]が5以上なら、次のターンに[Agility]1を得る"
+  },
+  {
+    "key": "1120902-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]回数が3増加"
+  },
+  {
+    "key": "1120902-levelList$[1].name",
+    "original": "르미즈",
+    "context": "EN :\nRemise\nJP :\nルミーズ"
+  },
+  {
+    "key": "1120902-levelList$[1].desc",
+    "original": "[WhenUse] 대상의 [Sinking] 횟수 3 당, 합 위력 +1 (최대 2)\n[WinDuel] [Sinking] 횟수 1 증가",
+    "context": "EN :\n[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[WinDuel] Inflict +1 [Sinking] Count\nJP :\n[WhenUse] 対象の[Sinking]回数3につき、マッチ威力 +1(最大2)\n[WinDuel] [Sinking]回数が1増加"
+  },
+  {
+    "key": "1120902-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]이 5 이상이면, 다음 턴에 [Agility] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] If the target has 5+ [Sinking], gain 1 [Agility] next turn\nJP :\n[OnSucceedAttack] 対象の[Sinking]が5以上なら、次のターンに[Agility]1を得る"
+  },
+  {
+    "key": "1120902-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]回数が3増加"
+  },
+  {
+    "key": "1120902-levelList$[2].name",
+    "original": "르미즈",
+    "context": "EN :\nRemise\nJP :\nルミーズ"
+  },
+  {
+    "key": "1120902-levelList$[2].desc",
+    "original": "[WhenUse] 대상의 [Sinking]이 6 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Sinking] 횟수 3 당, 합 위력 +1 (최대 2)\n[WinDuel] [Sinking] 횟수 2 증가",
+    "context": "EN :\n[WhenUse] If the target has 6+ [Sinking], Coin Power +1\n[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[WinDuel] Inflict +2 [Sinking] Count\nJP :\n[WhenUse] 対象の[Sinking]が6以上なら、コイン威力 +1\n[WhenUse] 対象の[Sinking]回数3につき、マッチ威力 +1(最大2)\n[WinDuel] [Sinking]回数が2増加"
+  },
+  {
+    "key": "1120902-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]이 5 이상이면, 다음 턴에 [Agility] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] If the target has 5+ [Sinking], gain 1 [Agility] next turn\nJP :\n[OnSucceedAttack] 対象の[Sinking]が5以上なら、次のターンに[Agility]1を得る"
+  },
+  {
+    "key": "1120902-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]回数が3増加"
+  },
+  {
+    "key": "1120903-levelList$[0].name",
+    "original": "악몽 사냥",
+    "context": "EN :\nNightmare Hunt\nJP :\n悪夢狩り"
+  },
+  {
+    "key": "1120903-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Sinking] 횟수 3 당 합 위력 +1 (최대 2)\n[EndSkill] 대상이 흐트러짐 상태면, [Sinking] 횟수 3 증가\n[EndSkill] 대상이 사망했으면, 무작위 적 1명의 [Sinking] 횟수 3 증가",
+    "context": "EN :\n[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[EndSkill] If the target is Staggered, inflict +3 [Sinking] Count\n[EndSkill] If the target is defeated, inflict +3 [Sinking] Count on 1 random enemy\nJP :\n[WhenUse] 対象の[Sinking]回数3につき、マッチ威力 +1(最大2)\n[EndSkill] 対象が混乱状態なら、[Sinking]回数が3増加\n[EndSkill] 対象が死亡したなら、ランダムな敵1名の[Sinking]回数が3増加"
+  },
+  {
+    "key": "1120903-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]1を付与"
+  },
+  {
+    "key": "1120903-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]1を付与"
+  },
+  {
+    "key": "1120903-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]1を付与"
+  },
+  {
+    "key": "1120903-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]을 10 흡수하여 다음 턴에 [PlusCoinValueUp] 1, [AttackDmgUp] 1 얻음. 50% 확률로 [Sinking]을 흡수하지 않고 위 효과 발동",
+    "context": "EN :\n[OnSucceedAttack] Absorb 10 [Sinking] from the target and gain 1 [PlusCoinValueUp] and 1 [AttackDmgUp] next turn. 50% chance to gain the above effects without absorbing [Sinking]\nJP :\n[OnSucceedAttack] 対象の[Sinking]を10吸収し、次のターンに[PlusCoinValueUp]1, [AttackDmgUp]1得る。50%の確率で[Sinking]を吸収せずにこの効果が発動"
+  },
+  {
+    "key": "1120903-levelList$[1].name",
+    "original": "악몽 사냥",
+    "context": "EN :\nNightmare Hunt\nJP :\n悪夢狩り"
+  },
+  {
+    "key": "1120903-levelList$[1].desc",
+    "original": "[WhenUse] 대상의 [Sinking] 횟수 3 당 합 위력 +1 (최대 3)\n[EndSkill] 대상이 흐트러짐 상태면, [Sinking] 횟수 3 증가\n[EndSkill] 대상이 사망했으면, 무작위 적 2명의 [Sinking] 횟수 3 증가",
+    "context": "EN :\n[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 3)\n[EndSkill] If the target is Staggered, inflict +3 [Sinking] Count\n[EndSkill] If the target is defeated, inflict +3 [Sinking] Count on 2 random enemies\nJP :\n[WhenUse] 対象の[Sinking]回数3につき、マッチ威力 +1(最大3)\n[EndSkill] 対象が混乱状態なら、[Sinking]回数が3増加\n[EndSkill] 対象が死亡したなら、ランダムな敵2名の[Sinking]回数が3増加"
+  },
+  {
+    "key": "1120903-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]1を付与"
+  },
+  {
+    "key": "1120903-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]1を付与"
+  },
+  {
+    "key": "1120903-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]1を付与"
+  },
+  {
+    "key": "1120903-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]을 10 흡수하여 다음 턴에 [PlusCoinValueUp] 1, [AttackDmgUp] 3 얻음. 50% 확률로 [Sinking]을 흡수하지 않고 위 효과 발동",
+    "context": "EN :\n[OnSucceedAttack] Absorb 10 [Sinking] from the target and gain 1 [PlusCoinValueUp] and 3 [AttackDmgUp] next turn. 50% chance to gain the above effects without absorbing [Sinking]\nJP :\n[OnSucceedAttack] 対象の[Sinking]を10吸収し、次のターンに[PlusCoinValueUp]1, [AttackDmgUp]3得る。50%の確率で[Sinking]を吸収せずにこの効果が発動"
+  },
+  {
+    "key": "1120904-levelList$[0].name",
+    "original": "네놈도 울고싶나?",
+    "context": "EN :\nDo You Wish to Weep?\nJP :\nてめぇも泣きてぇのか？"
+  },
+  {
+    "key": "1120904-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Sinking]이 5 이상이면, 코인 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 5+ [Sinking], Coin Power +1\nJP :\n[WhenUse] 対象の[Sinking]が5以上なら、コイン威力 +1"
+  },
+  {
+    "key": "1120904-levelList$[1].name",
+    "original": "네놈도 울고싶나?",
+    "context": "EN :\nDo You Wish to Weep?\nJP :\nてめぇも泣きてぇのか？"
+  },
+  {
+    "key": "1120904-levelList$[1].desc",
+    "original": "[WhenUse] 대상의 [Sinking] 3 당, 코인 위력 +1  (최대 3)",
+    "context": "EN :\n[WhenUse] Coin Power +1 for every 3 [Sinking] on target (max 3)\nJP :\n[WhenUse] 対象の[Sinking]3につき、コイン威力 +1 (最大3)"
+  },
+  {
+    "key": "1121001-levelList$[0].name",
+    "original": "가족을 위한 헌신",
+    "context": "EN :\nSacrifice for the Family\nJP :\n家族のための献身"
+  },
+  {
+    "key": "1121001-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n[WhenUse] [Laceration] 10 얻음\n- 자신의 체력이 50% 이상이면, [Laceration] 15 추가로 얻음",
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain +15 additional [Laceration]\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] [Laceration]を10得る\n- 自分の体力が50%以上なら、[Laceration]15を追加で得る"
+  },
+  {
+    "key": "1121001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]1を付与"
+  },
+  {
+    "key": "1121001-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1121001-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BloodyHandGregFirst] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]を1得る"
+  },
+  {
+    "key": "1121001-levelList$[1].name",
+    "original": "가족을 위한 헌신",
+    "context": "EN :\nSacrifice for the Family\nJP :\n家族のための献身"
+  },
+  {
+    "key": "1121001-levelList$[1].desc",
+    "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] [Laceration] 10 얻음\n- 자신의 체력이 50% 이상이면, [Laceration] 15 추가로 얻음",
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [Laceration]を10得る\n- 自分の体力が50%以上なら、[Laceration]15を追加で得る"
+  },
+  {
+    "key": "1121001-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]1を付与"
+  },
+  {
+    "key": "1121001-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1121001-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BloodyHandGregFirst] <style=\"highlight\">2</style> 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]を2得る"
+  },
+  {
+    "key": "1121001-levelList$[2].name",
+    "original": "가족을 위한 헌신",
+    "context": "EN :\nSacrifice for the Family\nJP :\n家族のための献身"
+  },
+  {
+    "key": "1121001-levelList$[2].desc",
+    "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n<style=\"highlight\">[WhenUse] 대상의 [Laceration] 6 당, 코인 위력 +1 (최대 2)</style>\n[WhenUse] [Laceration] 10 얻음\n- 자신의 체력이 50% 이상이면, [Laceration] 15 추가로 얻음\n",
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)\n[WhenUse] [Laceration]を10得る\n- 自分の体力が50%以上なら、[Laceration]15を追加で得る"
+  },
+  {
+    "key": "1121001-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] <style=\"highlight\">2</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "1121001-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1121001-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BloodyHandGregFirst] <style=\"highlight\">3</style> 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]を3得る"
+  },
+  {
+    "key": "1121002-levelList$[0].name",
+    "original": "죄어드는 죄악감",
+    "context": "EN :\nSuffocating Guilt\nJP :\n締め付けてくる罪悪感"
+  },
+  {
+    "key": "1121002-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n[WhenUse] [Laceration] 10 얻음\n[WhenUse] 자신의 [WornHeartGreg]이 5 이상이면, [BloodDinner]을 최대 60 소모하여, 소모한 [BloodDinner] 6당 [BloodyHandGregFirst] 1 얻음\n- [WornHeartGreg]이 5 미만이면, [Laceration] 10과 [BloodyHandGregFirst] 2 얻음",
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 2 [BloodyHandGregFirst]\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] [Laceration]10を得る\n[WhenUse] 自分の[WornHeartGreg]が5以上なら、[BloodDinner]を最大60消耗し、消耗した[BloodDinner]6につき[BloodyHandGregFirst]1を得る\n- [WornHeartGreg]が5未満なら、[Laceration]10と[BloodyHandGregFirst]2を得る"
+  },
+  {
+    "key": "1121002-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "1121002-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1121002-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BloodyHandGregFirst] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]を1得る"
+  },
+  {
+    "key": "1121002-levelList$[1].name",
+    "original": "죄어드는 죄악감",
+    "context": "EN :\nSuffocating Guilt\nJP :\n締め付けてくる罪悪感"
+  },
+  {
+    "key": "1121002-levelList$[1].desc",
+    "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] [Laceration] 10 얻음\n[WhenUse] 자신의 [WornHeartGreg]이 5 이상이면, [BloodDinner]을 최대 60 소모하여, 소모한 [BloodDinner] 6당 [BloodyHandGregFirst] 1 얻음\n- [WornHeartGreg]이 5 미만이면, [Laceration] 10과 [BloodyHandGregFirst] 2 얻음",
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 2 [BloodyHandGregFirst]\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [Laceration]10を得る\n[WhenUse] 自分の[WornHeartGreg]が5以上なら、[BloodDinner]を最大60消耗し、消耗した[BloodDinner]6につき[BloodyHandGregFirst]1を得る\n- [WornHeartGreg]が5未満なら、[Laceration]10と[BloodyHandGregFirst]2を得る"
+  },
+  {
+    "key": "1121002-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 <style=\"highlight\">2</style> 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "1121002-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1121002-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BloodyHandGregFirst] <style=\"highlight\">2</style> 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]を2得る"
+  },
+  {
+    "key": "1121002-levelList$[2].name",
+    "original": "죄어드는 죄악감",
+    "context": "EN :\nSuffocating Guilt\nJP :\n締め付けてくる罪悪感"
+  },
+  {
+    "key": "1121002-levelList$[2].desc",
+    "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n<style=\"highlight\">[WhenUse] 대상의 [Laceration] 6 당, 코인 위력 +1 (최대 2)</style>\n[WhenUse] [Laceration] 10 얻음\n[WhenUse] 자신의 [WornHeartGreg]이 5 이상이면, [BloodDinner]을 최대 60 소모하여, 소모한 [BloodDinner] 6당 [BloodyHandGregFirst] 1 얻음\n- [WornHeartGreg]이 5 미만이면, [Laceration] 10과 [BloodyHandGregFirst] <style=\"highlight\">3</style> 얻음",
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 3 [BloodyHandGregFirst]\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)\n[WhenUse] [Laceration]10を得る\n[WhenUse] 自分の[WornHeartGreg]が5以上なら、[BloodDinner]を最大60消耗し、消耗した[BloodDinner]6につき[BloodyHandGregFirst]1を得る\n- [WornHeartGreg]が5未満なら、[Laceration]10と[BloodyHandGregFirst]3を得る"
+  },
+  {
+    "key": "1121002-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "1121002-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1121002-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BloodyHandGregFirst] <style=\"highlight\">3</style> 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]を3得る"
+  },
+  {
+    "key": "1121003-levelList$[0].name",
+    "original": "씻을 수 없는 죄",
+    "context": "EN :\nThe Unforgivable Sin\nJP :\n雪げぬ罪"
+  },
+  {
+    "key": "1121003-levelList$[0].desc",
+    "original": "이 스킬에서 적중 시, 입힌 체력 피해량의 50%만큼 체력 회복 (스킬당 최대 100)\n[WhenUse] 자신의 잃은 체력 1%당 피해량 + 1% (최대 60%)\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] [BloodyHandGregFirst]을 10을 초과하는 만큼 소모하여 아래 효과를 얻음\n- (소모한 수치 x 3)만큼 자신의 체력을 회복\n- 소모한 수치가 10 이상이면, 코인 위력 +1\n[WhenUse] [Laceration] 10 얻음\n[EndSkill] 최대 체력의 10%만큼 체력 회복",
+    "context": "EN :\nOn Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal +1% more damage for every 1% missing HP on self (max 60%)\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self\nJP :\nこのスキルが的中時、与ダメージ量の50%だけ体力を回復(スキルごとに最大100)\n[WhenUse] 自分の失った体力1%につきダメージ量 +1%(最大60%)\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [BloodyHandGregFirst]が10を超えた分だけ消耗して下記の効果を得る\n- (消耗数値 × 3)だけ自分の体力を回復\n- 消耗した数値が10以上なら、コイン威力 +1\n[WhenUse] [Laceration]10を得る\n[EndSkill] 体力最大値の10%だけ体力を回復"
+  },
+  {
+    "key": "1121003-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [BloodyHandGregFirst] 2 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]を2得る"
+  },
+  {
+    "key": "1121003-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "1121003-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が1増加"
+  },
+  {
+    "key": "1121003-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]1を付与"
+  },
+  {
+    "key": "1121003-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1121003-levelList$[1].name",
+    "original": "씻을 수 없는 죄",
+    "context": "EN :\nThe Unforgivable Sin\nJP :\n雪げぬ罪"
+  },
+  {
+    "key": "1121003-levelList$[1].desc",
+    "original": "이 스킬에서 적중 시, 입힌 체력 피해량의 50%만큼 체력 회복 (스킬당 최대 100)\n[WhenUse] 자신의 잃은 체력 1%당 피해량 <style=\"highlight\">+ 1.5% (최대 90%)</style>\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] [BloodyHandGregFirst]을 10을 초과하는 만큼 소모하여 아래 효과를 얻음\n- (소모한 수치 x 3)만큼 자신의 체력을 회복\n- 소모한 수치가 10 이상이면, 코인 위력 +1\n<style=\"highlight\">- 소모한 수치가 20이면, 이 스킬의 마지막 코인 재사용</style>\n[WhenUse] [Laceration] 10 얻음\n[EndSkill] 최대 체력의 10%만큼 체력 회복",
+    "context": "EN :\nOn Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal +1.5% more damage for every 1% missing HP on self (max 90%)\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n- If this unit consumed 20 Stack, Reuse the final Coin\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self\nJP :\nこのスキルが的中時、与ダメージ量の50%だけ体力を回復(スキルごとに最大100)\n[WhenUse] 自分の失った体力1%につきダメージ量 +1.5%(最大90%)\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [BloodyHandGregFirst]が10を超えた分だけ消耗して下記の効果を得る\n- (消耗数値 × 3)だけ自分の体力を回復\n- 消耗した数値が10以上なら、コイン威力 +1\n- 消耗した数値が20なら、このスキルの最終コインを再使用\n[WhenUse] [Laceration]10を得る\n[EndSkill] 体力最大値の10%だけ体力を回復"
+  },
+  {
+    "key": "1121003-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [BloodyHandGregFirst] <style=\"highlight\">3</style> 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]を3得る"
+  },
+  {
+    "key": "1121003-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 <style=\"highlight\">2</style> 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "1121003-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 <style=\"highlight\">2</style> 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "1121003-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] <style=\"highlight\">2</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "1121003-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] <style=\"highlight\">2</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "1121004-levelList$[0].name",
+    "original": "빛바랜 인내",
+    "context": "EN :\nFaded Patience\nJP :\n色褪せた忍耐"
+  },
+  {
+    "key": "1121004-levelList$[0].desc",
+    "original": "[StartBattle] [WornHeartGreg] 3 얻음 (턴 당 1회)",
+    "context": "EN :\n[StartBattle] Gain 3 [WornHeartGreg] (once per turn)\nJP :\n[StartBattle] [WornHeartGreg]3を得る(1ターンにつき1回)"
+  },
+  {
+    "key": "1121004-levelList$[1].name",
+    "original": "빛바랜 인내",
+    "context": "EN :\nFaded Patience\nJP :\n色褪せた忍耐"
+  },
+  {
+    "key": "1121004-levelList$[1].desc",
+    "original": "<style=\"highlight\">[StartBattle] 자신의 현재 체력이 최대 체력의 40% 이상이면, [Laceration] 5 얻고 자신의 [Laceration] 최대 3회 발동 (턴 당 1회. 발동된 횟수만큼 [Laceration] 횟수 감소)\n[StartBattle] 자신의 현재 체력이 최대 체력의 40% 미만이면, [BloodDinner]을 최대 20 소모하여, 소모한 [BloodDinner]만큼 자신의 체력 회복 (턴 당 1회)</style>\n[StartBattle] [WornHeartGreg] 3 얻음 (턴 당 1회)",
+    "context": "EN :\n[StartBattle] At 40%+ HP, gain 5 [Laceration] and activate [Laceration] up to 3 times on self (once per turn; lose [Laceration] Count equal to the number of times it was activated)\n[StartBattle] At less than 40% HP, consume up to 20 [BloodDinner] and heal the same value as HP (once per turn)\n[StartBattle] Gain 3 [WornHeartGreg] (once per turn)\nJP :\n[StartBattle] 自分の現体力が最大値の40%以上なら、[Laceration]5を得て自分の[Laceration]を最大3回発動(1ターンにつき1回。発動回数だけ[Laceration]回数が減少)\n[StartBattle] 自分の現体力が最大値の40%未満なら、[BloodDinner]を最大20消耗し、消耗した[BloodDinner]だけ自分の体力を回復(1ターンにつき1回)\n[StartBattle] [WornHeartGreg]3を得る(1ターンにつき1回)"
+  }
+]

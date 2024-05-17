@@ -1,0 +1,372 @@
+[
+  {
+    "key": "9403-name",
+    "original": "흑단 브로치",
+    "context": "EN :\nEbony Brooch\nJP :\n黒檀のブローチ"
+  },
+  {
+    "key": "9403-desc",
+    "original": "스테이지 첫 턴 시작 시, 모든 적에게 [Burst] 위력 2, [Burst] 횟수 2 부여.\n\n3턴 동안 턴 종료 시, 모든 적에게 다음 턴에 [Binding] 2 부여",
+    "context": "EN :\nFirst Turn Start of an Encounter: Inflict 2 [Burst] Potency and Count to all enemies.\n\nInflict 2 [Binding] next turn at Turn End to all enemies for 3 turns.\nJP :\nステージの最初のターン開始時、全ての敵へ[Burst]威力2, [Burst]回数2付与。\n\n3ターンの間、ターン終了時に全ての敵へ次のターンにて[Binding]2を付与"
+  },
+  {
+    "key": "9403-simpleDesc$[0].simpleDesc",
+    "original": "모든 적에게 [Burst] 위력 2, [Burst] 횟수 2 부여",
+    "context": "EN :\nInflict 2 [Burst] Potency and +2 [Burst] Count on all enemies\nJP :\n全ての敵へ[Burst]威力2, [Burst]回数を2付与"
+  },
+  {
+    "key": "9403-simpleDesc$[1].simpleDesc",
+    "original": "모든 적에게 [Binding] 2 부여",
+    "context": "EN :\nInflict 2 [Binding] on all enemies\nJP :\n全ての敵へ[Binding]2を付与"
+  },
+  {
+    "key": "9404-name",
+    "original": "갇힌 구더기",
+    "context": "EN :\nContained Maggots\nJP :\n閉じ込められた蛆虫"
+  },
+  {
+    "key": "9404-desc",
+    "original": "적에게 탐식 속성 공격 스킬 사용 시, 대상에게 [Muckworm] 2 부여 (E.G.O 스킬 제외).\n\n[Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬일 경우에는 효과가 강화되어 [Muckworm] 3 부여.",
+    "context": "EN :\nWhen using a Gluttony Affinity Attack Skill(except E.G.O Skills) against an enemy, inflict 2 [Muckworm] on target.\n\nIf the said Skill applies [Laceration] Potency, Count, or 'Unique Bleed', inflict 3 [Muckworm] instead.\nJP :\n敵に暴食属性攻撃スキルを使用する場合、対象に[Muckworm]2を付与(E.G.Oスキルを除く)\n\n[Laceration]威力, [Laceration]回数, または特殊出血を付与するスキルの場合は、効果が強化され、[Muckworm]3を付与"
+  },
+  {
+    "key": "9404-simpleDesc$[0].simpleDesc",
+    "original": "[Muckworm] 2 부여",
+    "context": "EN :\nInflict 2 [Muckworm]\nJP :\n[Muckworm]2を付与"
+  },
+  {
+    "key": "9404-simpleDesc$[1].simpleDesc",
+    "original": "[Muckworm] 3 부여",
+    "context": "EN :\nInflict 3 [Muckworm]\nJP :\n[Muckworm]3を付与"
+  },
+  {
+    "key": "9407-name",
+    "original": "오더메이드",
+    "context": "EN :\nMade-to-Order\nJP :\nオーダーメイド"
+  },
+  {
+    "key": "9407-desc",
+    "original": "[편성 3번 인격 전용 효과]\n\n스테이지 시작 시, [Vibration] 횟수 3을 획득.\n\n턴 시작 시, [Protection] 1, [AttackDmgUp] 1, [ResultEnhancement] 1 얻음.",
+    "context": "EN :\n[Effects apply only to #3 Deployed Identity]\n\nEncounter Start: gain +3 [Vibration] Count.\n\nTurn Start: gain 1 [Protection], 1 [AttackDmgUp], and 1 [ResultEnhancement].\nJP :\n[編成3番人格専用効果]\n\nステージ開始時、[Vibration]回数3を獲得\n\nターン開始時、[Protection]1, [AttackDmgUp]1, [ResultEnhancement]1を得る"
+  },
+  {
+    "key": "9407-simpleDesc$[0].simpleDesc",
+    "original": "[Vibration] 횟수 3을 획득",
+    "context": "EN :\nGain +3 [Vibration] Count\nJP :\n[Vibration]回数3を得る"
+  },
+  {
+    "key": "9407-simpleDesc$[1].simpleDesc",
+    "original": "[Protection] 1, [AttackDmgUp] 1, [ResultEnhancement] 1 얻음",
+    "context": "EN :\nGain 1 [Protection], 1 [AttackDmgUp], and 1 [ResultEnhancement]\nJP :\n[Protection]1, [AttackDmgUp]1, [ResultEnhancement]1を得る"
+  },
+  {
+    "key": "9408-name",
+    "original": "귀신 들린 신발",
+    "context": "EN :\nHaunted Shoes\nJP :\n憑かれた靴"
+  },
+  {
+    "key": "9408-desc",
+    "original": "[편성 2번 인격 전용 효과]\n\n스테이지 시작 시, [Sinking] 횟수 3을 획득.\n\n턴 시작 시, [Protection] 1, [AttackDmgUp] 1, [ResultEnhancement] 1 얻음.",
+    "context": "EN :\n[Effects apply only to #2 Deployed Identity]\n\nEncounter Start: gain +3 [Sinking] Count.\n\nTurn Start: gain 1 [Protection], 1 [AttackDmgUp], and 1 [ResultEnhancement].\nJP :\n[編成2番人格専用効果]\n\nステージ開始時、[Sinking]回数3を獲得\n\nターン開始時、[Protection]1, [AttackDmgUp]1, [ResultEnhancement]1を得る"
+  },
+  {
+    "key": "9408-simpleDesc$[0].simpleDesc",
+    "original": "[Sinking] 횟수 3을 획득",
+    "context": "EN :\nGain +3 [Sinking] Count\nJP :\n[Sinking]回数を3得る"
+  },
+  {
+    "key": "9408-simpleDesc$[1].simpleDesc",
+    "original": "[Protection] 1, [AttackDmgUp] 1, [ResultEnhancement] 1 얻음",
+    "context": "EN :\nGain 1 [Protection], 1 [AttackDmgUp], and 1 [ResultEnhancement]\nJP :\n[Protection]1, [AttackDmgUp]1, [ResultEnhancement]1を得る"
+  },
+  {
+    "key": "9409-name",
+    "original": "얼어붙은 아우성",
+    "context": "EN :\nFrozen Cries\nJP :\n凍り付いた阿鼻叫喚"
+  },
+  {
+    "key": "9409-desc",
+    "original": "턴 시작 시 속도가 제일 낮은 인격 하나에게 효과 적용.\n\n해당 아군이 합에서 승리하거나 적에게 피격 시, 적에게 [Sinking] 위력 3 부여.",
+    "context": "EN :\nApplies only to 1 Identity with the slowest Speed at Turn Start.\n\nIf the said ally wins a Clash or is hit by an enemy, inflict 3 [Sinking] against the enemy.\nJP :\nターン開始時、速度が最も低い人格1名へ効果を適用。\n\n該当する味方がマッチで勝利するか敵に被弾すると、敵へ[Sinking]威力3を付与。"
+  },
+  {
+    "key": "9409-simpleDesc$[0].simpleDesc",
+    "original": "적에게 [Sinking] 위력 3 부여",
+    "context": "EN :\nInflict 3 [Sinking] against the enemy\nJP :\n敵へ[Sinking]威力3を付与"
+  },
+  {
+    "key": "9410-name",
+    "original": "서릿발 발자국",
+    "context": "EN :\nHoarfrost Footprint\nJP :\n霜柱の足跡"
+  },
+  {
+    "key": "9410-desc",
+    "original": "웨이브 첫 턴 시작 시 아군 전체가 [Sinking] 횟수 3을 획득하고 적 전체(환상체일 경우, 모든 부위)에게 [Sinking] 위력 4, [Sinking] 횟수 8 부여.\n\n[Sinking] 상태인 적의 합 위력이 2만큼 감소하고 효과를 받은 대상이 아군 인격에게 합 패배 시 [Sinking] 위력 2, 아군 인격에게 피해를 입힐 경우 [Sinking] 위력 3 부여.",
+    "context": "EN :\nFirst Turn Start of a wave: all allies gain +3 [Sinking] Count, and inflict all enemies(or all Abnormality parts) 4 [Sinking] Potency and +8 [Sinking] Count.\n\nEnemies with [Sinking] lose 2 Clash Power; when an allied Identity wins a Clash against an affected enemy, inflict 2 [Sinking] Potency; when an allied Identity is hit by an affected enemy, inflict 3 [Sinking] Potency.\nJP :\nウェーブの1ターン目が開始時、味方全体が[Sinking]回数3を獲得し、敵全体(幻想体の場合は全部位)に[Sinking]威力4、[Sinking]回数8を付与。\n\n[Sinking]状態の敵のマッチ威力が2減少し、効果を受けた対象が味方人格にマッチ敗北時[Sinking]威力2, 味方人格にダメージを与える場合は[Sinking]威力3を付与"
+  },
+  {
+    "key": "9410-simpleDesc$[0].simpleDesc",
+    "original": "적 전체에게 [Sinking] 위력 4, [Sinking] 횟수 8 부여.",
+    "context": "EN :\nInflict 4 [Sinking] Potency and +8 [Sinking] Count against all enemies.\nJP :\n敵全体へ[Sinking]威力4, [Sinking]回数8を付与"
+  },
+  {
+    "key": "9410-simpleDesc$[1].simpleDesc",
+    "original": "[Sinking] 상태인 적의 합 위력이 2만큼 감소",
+    "context": "EN :\nEnemies with [Sinking] lose 2 Clash Power\nJP :\n[Sinking]状態の敵のマッチ威力が2減少"
+  },
+  {
+    "key": "9413-name",
+    "original": "못과 망치의 책",
+    "context": "EN :\nNagel und Hammer Scriptures\nJP :\n釘と金鎚の本"
+  },
+  {
+    "key": "9413-desc",
+    "original": "아군이 [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬로 적과 합하여 승리 시, [NailPersonality] 1 ~ 2 부여.\n\nN사 광신도 소속일 경우, 턴 시작 시 광신 1 얻음.",
+    "context": "EN :\nWhen an ally wins a Clash using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', inflict 1~2 [NailPersonality].\n\nIf the said ally is an 'N Corp. Fanatic', gain 1 Fanatic at Turn Start.\nJP :\n味方が[Laceration]威力、[Laceration]回数、または特殊出血を与えるスキルで敵とマッチにて勝利すると、[NailPersonality]を1~2付与。\n\nN社の狂信者所属の場合、ターン開始時に狂信1を得る"
+  },
+  {
+    "key": "9413-simpleDesc$[0].simpleDesc",
+    "original": "[NailPersonality] 1 ~ 2 부여",
+    "context": "EN :\nInflict 1~2 [NailPersonality]\nJP :\n[NailPersonality]を1～2付与"
+  },
+  {
+    "key": "9413-simpleDesc$[1].simpleDesc",
+    "original": "N사 광신도 소속일 경우, 턴 시작 시 광신 1 얻음.",
+    "context": "EN :\nIf the unit is an 'N Corp. Fanatic', gain 1 Fanatic at Turn Start.\nJP :\nN社の狂信者所属の場合、ターン開始時に狂信1を得る。"
+  },
+  {
+    "key": "9414-name",
+    "original": "핏빛 갈기",
+    "context": "EN :\nBlood-red Mane\nJP :\n血紅色のたてがみ"
+  },
+  {
+    "key": "9414-desc",
+    "original": "분노 또는 색욕 속성 공격 스킬을 보유한 모든 인격에게 효과 적용.\n\n턴 종료 시 이번 턴에 공격 스킬로 적에게 피해를 받지 않았다면, 다음 턴에 [Agility] 2, [Endurance] 2 얻음.\n\n턴 종료 시 이번 턴에 공격 스킬로 적에게 피해를 받았다면, 다음 턴에 [Binding] 2 얻고 합 위력 + 2.",
+    "context": "EN :\nEffects apply to all Identities with Wrath or Lust Affinity Attack Skills.\n\nTurn End: if this unit did not take any damage from enemy Attack Skills this turn, gain 2 [Agility] and 2 [Endurance].\n\nTurn End: if this unit did take damage from enemy Attack Skills this turn, gain 2 [Binding] and Clash Power +2 next turn.\nJP :\n憤怒または色欲属性攻撃スキルを持つ全人格へ効果を適用。\n\nターン終了時、このターンに攻撃スキルで敵にダメージを受けなかったなら、次のターンに[Agility]2, [Endurance]2を得る。\n\nターン終了時、このターンに攻撃スキルで敵にダメージを受けた場合は、次のターンに[Binding]2を得てマッチ威力+2"
+  },
+  {
+    "key": "9414-simpleDesc$[0].simpleDesc",
+    "original": "다음 턴에 [Agility] 2, [Endurance] 2 얻음",
+    "context": "EN :\nGain 2 [Agility] and 2 [Endurance] next turn\nJP :\n次のターンに[Agility]2, [Endurance]2を得る"
+  },
+  {
+    "key": "9414-simpleDesc$[1].simpleDesc",
+    "original": "다음 턴에 [Binding] 2 얻고 합 위력 + 2",
+    "context": "EN :\nGain 2 [Binding] and Clash Power +2 next turn\nJP :\n次のターンに[Binding]2を得てマッチ威力 +2"
+  },
+  {
+    "key": "9415-name",
+    "original": "불결함",
+    "context": "EN :\nSqualidity\nJP :\n不潔さ"
+  },
+  {
+    "key": "9415-desc",
+    "original": "아군이 [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬로 [Laceration] 상태인 적을 공격할 경우, 대상에게 입히는 피해량 +15%.\n\n적의 체력이 최대 체력의 33% 이하인 경우, 효과가 강화되어 입히는 피해량 +25%.",
+    "context": "EN :\nWhen an ally attacks an enemy that has [Laceration] with a Skill that inflicts [Laceration] Potency, Count or 'Unique Bleed', deal +15% more damage against the target.\n\nIf the target has 33%- HP, inflict +25% more damage against the target instead.\nJP :\n味方が[Laceration]威力、[Laceration]回数または特殊出血を与えるスキルで[Laceration]状態の敵を攻撃する場合、対象への与ダメージ量 +15%\n\n敵の体力が最大値の33%以下なら、効果が強化されて与ダメージ量 +25%"
+  },
+  {
+    "key": "9415-simpleDesc$[0].simpleDesc",
+    "original": "입히는 피해량 +15%",
+    "context": "EN :\nDeal +15% more damage\nJP :\n与ダメージ量 +15%"
+  },
+  {
+    "key": "9415-simpleDesc$[1].simpleDesc",
+    "original": "입히는 피해량 +25%",
+    "context": "EN :\nDeal +25% more damage\nJP :\n与ダメージ量 +25%"
+  },
+  {
+    "key": "9416-name",
+    "original": "완전함",
+    "context": "EN :\nWholeness\nJP :\n完全さ"
+  },
+  {
+    "key": "9416-desc",
+    "original": "아군이 [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬로 적과 합하여 승리 시, [NailPersonality] 2 ~ 3 부여.\n\nN사 광신도 소속일 경우, 턴 시작 시 광신 1 얻고 [Laceration] 상태인 적을 공격할 때 피해량 +25%\n\n스테이지 시작 시 N사 광신도 소속 인격이 5인 이상일 때 특수 효과 발동 (출격 인원을 기준으로 함). N사 광신도 소속 인격의 최종 위력 +1, 더하기 코인 위력 +1, 빼기 코인 위력 -1, 공격 스킬의 [NailPersonality] 부여량 +1. 턴 시작 시 N사 광신도 소속 인격의 정신력이 최대일 경우, [AttackDmgUp] 3 얻음.",
+    "context": "EN :\nIf the ally wins a Clash using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', inflict 2~3 [NailPersonality].\n\nIf the ally is an 'N Corp. Fanatic'., gain 1 Fanatic at Turn Start, and deal +25% more damage against targets with [Laceration].\n\nActivate a special effect when there are 5+ 'N Corp. Fanatic' Identities(only counts Identities on the field at Encounter Start):\n- 'N Corp. Fanatic' Identities gain Final Power +1, Plus Coin Power +1, Minus Coin Power -1, and Attack Skills inflict +1 more [NailPersonality]. If an 'N Corp. Fanatic' Identity is at max SP at Turn Start, gain 3 [AttackDmgUp].\nJP :\n味方が[Laceration]威力、[Laceration]回数または特殊出血を与えるスキルで、敵とマッチで勝利した場合、[NailPersonality]2～3を付与。\n\nN社の狂信者所属の場合、ターン開始時に狂信1を得て[Laceration]状態の敵を攻撃する際のダメージ量 +25%\n\nステージ開始時、N社の狂信者所属人格が5人以上の時に特殊効果発動。N社の狂信者所属人格の最終威力 +1、加算コイン威力+ 1, 減算コイン威力 -1, 攻撃スキルの[NailPersonality]付与量 +1。ターン開始時にN社の狂信者所属人格の精神力が最大の場合、[AttackDmgUp]2を得る。"
+  },
+  {
+    "key": "9416-simpleDesc$[0].simpleDesc",
+    "original": "합 승리 시, [NailPersonality] 2 ~ 3 부여",
+    "context": "EN :\nClash Win: inflict 2~3 [NailPersonality]\nJP :\nマッチ威力時、[NailPersonality]2～3を付与"
+  },
+  {
+    "key": "9416-simpleDesc$[1].simpleDesc",
+    "original": "N사 광신도 소속일 경우, 적을 공격할 때 피해량 +25%",
+    "context": "EN :\n'N Corp. Fanatic' Identities deal +25% more damage when attacking an enemy\nJP :\nN社の狂信者所属の場合、敵を攻撃するときにダメージ量 +25"
+  },
+  {
+    "key": "9416-simpleDesc$[2].simpleDesc",
+    "original": "N사 광신도 소속 인격이 5인 이상일 때 특수 효과 발동",
+    "context": "EN :\nActivate a special effect when there are 5+ 'N Corp. Fanatic' Identities\nJP :\nN社の狂信者所属人格が5名以上のとき、特殊効果発動"
+  },
+  {
+    "key": "9419-name",
+    "original": "생강꽃 가지",
+    "context": "EN :\nSpicebush Branch\nJP :\n檀香梅の枝"
+  },
+  {
+    "key": "9419-desc",
+    "original": "이번 전투 동안 스킬 1, 스킬 2, 스킬 3을 전부 한 번씩 사용할 때마다 다음 턴에 효과 발동.\n\n턴 시작 시, [Agility] 1, [SkillPowerUp] 1 얻음 (최대 3회까지 누적).",
+    "context": "EN :\nFor this Encounter, the following effect activates every time Skill 1, Skill 2, and Skill 3 are all used at least once.\n\nTurn Start: gain 1 [Agility] and 1 [SkillPowerUp]. (can stack up to 3 times)\nJP :\n今回の戦闘の間、スキル1、スキル2、スキル3を全部1回ずつ使うたびに次のターンに効果発動。\n\nターン開始時、[Agility]1, [SkillPowerUp]1を得る(最大3回まで重複)"
+  },
+  {
+    "key": "9419-simpleDesc$[0].simpleDesc",
+    "original": "턴 시작 시, [Agility] 1, [SkillPowerUp] 1 얻음",
+    "context": "EN :\nTurn Start: gain 1 [Agility] and 1 [SkillPowerUp].\nJP :\nターン開始時、[Agility]1, [SkillPowerUp]1を得る"
+  },
+  {
+    "key": "9420-name",
+    "original": "만화경",
+    "context": "EN :\nKaleidoscope\nJP :\n万華鏡"
+  },
+  {
+    "key": "9420-desc",
+    "original": "턴 시작 시 자신과 동일한 소속 인격이 존재할 경우, 자신을 제외한 동일한 소속 인격 수만큼 [AttackUp]를 얻음 (최대 4).\n\n기술해방연합 소속의 인격의 합 위력 +1.",
+    "context": "EN :\nTurn Start: units accompanied by other Identities from the same faction as themselves gain [AttackUp] equal to the number of other Identities from the same faction. (max 4)\n\nIdentities from Technology Liberation Alliance gain Clash Power +1.\nJP :\nターン開始時に自分と同じ所属人格が存在する場合、自分を除く同じ所属人格の数だけ[AttackUp]を得る(最大4)\n\n技術解放連合所属人格のマッチ威力 +1"
+  },
+  {
+    "key": "9420-simpleDesc$[0].simpleDesc",
+    "original": "[AttackUp]를 얻음",
+    "context": "EN :\nGain [AttackUp]\nJP :\n[AttackUp]を得る"
+  },
+  {
+    "key": "9420-simpleDesc$[1].simpleDesc",
+    "original": "합 위력 +1",
+    "context": "EN :\nClash Power +1\nJP :\nマッチ威力 +1"
+  },
+  {
+    "key": "9423-name",
+    "original": "깨진 안경",
+    "context": "EN :\nBroken Glasses\nJP :\n割れた眼鏡"
+  },
+  {
+    "key": "9423-desc",
+    "original": "아군이 자신보다 속도가 높은 적과 합을 진행할 때, 합 위력 +1.\n\n아군이 자신보다 속도가 높은 적과 합을 진행하여 합 승리 시, 다음 턴에 [AttackUp] 2 얻음 (최대 4).",
+    "context": "EN :\nWhen an ally Clashes against an enemy with a faster Speed, gain Clash Power +1.\n\nWhen an ally wins a Clash against an enemy with a faster Speed, gain 2 [AttackUp] next turn (max 4.)\nJP :\n味方が自分より速度の高い敵とマッチを進行するとき、マッチ威力+1。\n\n味方が自分より速度の高い敵とマッチして勝利すると、次のターンに[AttackUp]2を得る(最大4)。"
+  },
+  {
+    "key": "9423-simpleDesc$[0].simpleDesc",
+    "original": "합 위력 +1",
+    "context": "EN :\nClash Power +1\nJP :\nマッチ威力 +1"
+  },
+  {
+    "key": "9423-simpleDesc$[1].simpleDesc",
+    "original": "다음 턴에 [AttackUp] 2 얻음",
+    "context": "EN :\nGain 2 [AttackUp] next turn\nJP :\n次のターンに[AttackUp]2を得る"
+  },
+  {
+    "key": "9424-name",
+    "original": "부치지 못한 편지",
+    "context": "EN :\nUnmailed Letter\nJP :\n送れなかった手紙"
+  },
+  {
+    "key": "9424-desc",
+    "original": "[편성 1번, 2번 인격 전용 효과]\n\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 공격 스킬을 사용하여 합 승리 시, 대상 적에게 [Burst] 위력 5, [Burst] 횟수 3 부여 (인격 별로 턴 당 1회).\n\n자신보다 속도가 낮은 적과 합을 진행할 때, 최종 위력 +1, 피해량 +25%.\n\n[AttackUp] 버프를 보유한 적과 합하여 승리 시, 다음 턴 동안 자신은 [AttackUp] 3을 얻고 합에서 패배한 적에게는 [AttackDown] 3 부여 (증가, 감소 최대 9)",
+    "context": "EN :\n[Effects apply only to #1, #2 Deployed Identities]\n\nWhen winning a Clash with an Attack Skill that inflicts [Burst] Potency or Count, inflict 5 [Burst] Potency and +3 [Burst] Count against the target. (once per turn per Identity)\n\nWhen Clashing against an enemy with a slower Speed, gain Final Power +1 and deal +25% more damage.\n\nWhen winning a Clash against an enemy with [AttackUp] buff, gain 3 [AttackUp] for the next turn, and inflict 3 [AttackDown] on the enemy that lost the Clash (absolute value 9)\nJP :\n[編成1・2番人格専用効果]\n\n[Burst]威力または[Burst]回数を付与する攻撃スキルを使用してマッチ勝利時、対象の敵へ[Burst]威力5, [Burst]回数3を付与(人格別に1ターンにつき1回)\n\n自分より速度の低い敵とマッチを進行するとき、最終威力 +1、ダメージ量 +25%。\n\n[AttackUp]バフを保有する敵とマッチで勝利した場合、次のターンの間、自分は[AttackUp]3を得て、マッチで敗北した敵には[AttackDown]3を付与(増減ともに最大9)"
+  },
+  {
+    "key": "9424-simpleDesc$[0].simpleDesc",
+    "original": "합 승리 시, 대상 적에게 [Burst] 위력 5, [Burst] 횟수 3 부여",
+    "context": "EN :\nClash Win: inflict 5 [Burst] Power and +3 [Burst] Count against the target\nJP :\nマッチ勝利時、対象の敵へ[Burst]威力5, [Burst]回数を3付与"
+  },
+  {
+    "key": "9424-simpleDesc$[1].simpleDesc",
+    "original": "최종 위력 +1, 피해량 +25%.",
+    "context": "EN :\nFinal Power +1, deal +25% more damage\nJP :\n最終威力+1, ダメージ量 +25%"
+  },
+  {
+    "key": "9424-simpleDesc$[2].simpleDesc",
+    "original": "합에서 패배한 적에게는 [AttackDown] 3 부여",
+    "context": "EN :\nInflict 3 [AttackDown] against the enemy that lost the Clash\nJP :\nマッチで敗北した敵には[AttackDown]3を付与"
+  },
+  {
+    "key": "9429-name",
+    "original": "작살 의족",
+    "context": "EN :\nHarpoon Prosthetic Leg\nJP :\n銛の義足"
+  },
+  {
+    "key": "9429-desc",
+    "original": "턴 종료 시 [Breath] 위력과 [Breath] 횟수의 합이 가장 높은 아군 하나에게 다음 턴에 [Agility] 2, [AttackUp] 2, [AttackDmgUp] 2 부여.\n\n피쿼드호 소속 인격의 최대 속도값 +1.",
+    "context": "EN :\nTurn End: apply 2 [Agility], 2 [AttackUp] and 2 [AttackDmgUp] next turn to the ally with the highest sum of [Breath] Potency and Count.\n\nThe Pequod Identities gain Max Speed +1.\nJP :\nターン終了時、[Breath]威力と[Breath]回数の合計が最も多い味方1人に、次のターンにて[Agility]2, [AttackUp]2, [AttackDmgUp]2を付与。\n\nピークォド号所属の人格の最大速度 +1"
+  },
+  {
+    "key": "9429-simpleDesc$[0].simpleDesc",
+    "original": "다음 턴에 [Agility] 2, [AttackUp] 2, [AttackDmgUp] 2 부여",
+    "context": "EN :\nApply 2 [Agility], 2 [AttackUp], and 2 [AttackDmgUp] next turn\nJP :\n次のターンに [Agility]2, [AttackUp]2, [AttackDmgUp]2を付与"
+  },
+  {
+    "key": "9429-simpleDesc$[1].simpleDesc",
+    "original": "피쿼드호 소속 인격의 최대 속도값 +1.",
+    "context": "EN :\nThe Pequod Identities gain Max Speed +1.\nJP :\nピークォド号所属人格の速度最大値 +1"
+  },
+  {
+    "key": "9430-name",
+    "original": "앞을 비추는 가스등",
+    "context": "EN :\nGuiding Gas Lamp\nJP :\n前を照らすガス灯"
+  },
+  {
+    "key": "9430-desc",
+    "original": "웨이브 첫 턴 시작 시, 모든 아군이 [Breath] 5 얻고 [Breath] 횟수 5 증가.\n\n턴 종료 시 [Breath] 위력과 [Breath] 횟수의 합이 가장 높은 아군 하나에게 다음 턴에 [Agility] 2, [AttackUp] 3, [AttackDmgUp] 3 부여.\n\n피쿼드호 소속 인격의 스킬 위력 +2, 최대 속도값 +2.",
+    "context": "EN :\nFirst Turn Start of a wave: all allies gain 5 [Breath] and +5 [Breath] Count.\n\nTurn End: 1 ally with the highest sum of [Breath] Potency and Count gains 2 [Agility], 3 [AttackUp], and 3 [AttackDmgUp] next turn.\n\nThe Pequod Identities gain Skill Power +2 and Max Speed +2.\nJP :\nウェーブの1ターン目が開始時、全味方が[Breath]5を得て[Breath]回数が5増加。\n\nターン終了時、[Breath]威力と[Breath]回数の合計が最も多い味方1人に、次のターンにて[Agility]2, [AttackUp]3, [AttackDmgUp]3を付与。\n\nピークォド号所属の人格スキル威力 +2, の最大速度 +2"
+  },
+  {
+    "key": "9430-simpleDesc$[0].simpleDesc",
+    "original": "모든 아군이 [Breath] 5 얻고 [Breath] 횟수 5 증가.",
+    "context": "EN :\nAll allies gain 5 [Breath] and +5 [Breath] Count.\nJP :\n全味方が[Breath]5を得て、[Breath]回数が5増加"
+  },
+  {
+    "key": "9430-simpleDesc$[1].simpleDesc",
+    "original": "다음 턴에 [Agility] 2, [AttackUp] 3, [AttackDmgUp] 3 부여.",
+    "context": "EN :\nApply 2 [Agility], 3 [AttackUp], and 3 [AttackDmgUp] next turn.\nJP :\n次のターンに [Agility]2, [AttackUp]3, [AttackDmgUp]3を付与."
+  },
+  {
+    "key": "9430-simpleDesc$[2].simpleDesc",
+    "original": "스킬 위력 +2, 최대 속도값 +2.",
+    "context": "EN :\nSkill Power +2, Max Speed +2.\nJP :\nスキル威力 +2, 速度最大値 +2"
+  },
+  {
+    "key": "9433-name",
+    "original": "치프 버틀러의 비급서",
+    "context": "EN :\nChief Butler's Secret Arts\nJP :\nチーフバトラーの秘笈書"
+  },
+  {
+    "key": "9433-desc",
+    "original": "웨이브 첫 턴 시작 시, 속도가 제일 낮은 적 하나(환상체일 경우, 무작위 부위 하나)를 선택하여 다음 턴부터 5턴 동안 [Binding] 5를 부여.\n\n합 승리 시 대상보다 속도가 높을 경우, 대상과의 속도 차이만큼 정신력을 회복하고 그 수치의 절반만큼 공격 레벨이 증가 (해당 스킬에만 적용되며, 공격 레벨 증가량 최대 3).",
+    "context": "EN :\nFirst Turn Start of a wave: select 1 enemy with the slowest Speed(or a random Abnormality part), and inflict 5 [Binding] for 5 turns starting next turn.\n\nClash Win: If this unit's Speed is faster than the target's, heal SP equal to the Speed difference, and gain 'Offense Level' equal to the half of that Speed difference. (only applies to the Skill used to win the Skill. Max 'Offense Level' gain: 3)\nJP :\nウェーブの1ターン目が開始時、速度が最も低い敵1体(幻想体の場合はランダムな部位1つ)を選択し、次のターンから5ターンの間、[Binding]5を付与。\n\nマッチ勝利時、対象より速度が高いなら、対象との速度差だけ精神力を回復し、その数値の半分だけ攻撃レベルが増加(該当スキルにのみ適用される、最大攻撃レベル増加量 : 3)。"
+  },
+  {
+    "key": "9433-simpleDesc$[0].simpleDesc",
+    "original": "다음 턴부터 5턴 동안 [Binding] 5를 부여",
+    "context": "EN :\nInflict 5 [Binding] for 5 turns starting next turn\nJP :\n次のターンから5ターンの間[Binding]を5付与"
+  },
+  {
+    "key": "9433-simpleDesc$[1].simpleDesc",
+    "original": "정신력을 회복하고 그 수치의 절반만큼 공격 레벨이 증가",
+    "context": "EN :\nHeal SP, and gain Offense Level equal to the amount of SP healed\nJP :\n精神力を回復し、その数値の半分だけ攻撃レベルが増加"
+  },
+  {
+    "key": "9434-name",
+    "original": "손거울",
+    "context": "EN :\nHandheld Mirror\nJP :\n手鏡"
+  },
+  {
+    "key": "9434-desc",
+    "original": "웨이브 첫 턴 시작 시, 속도가 제일 낮은 적 둘(환상체일 경우 무작위 부위 둘, 적이 단일 대상일 경우 효과가 중첩되지 않음)를 선택하여 다음 턴부터 턴 시작 시 [Binding] 5, [DefenseDown] 3을 부여.\n\n적이 흐트러짐에서 풀려날 때, 보유한 흐트러짐 구간이 없다면 대상의 현재 체력 기준 66%에 새로운 흐트러짐 구간 추가 (전투 당 3회).아군이 [Vibration] 위력 또는 [Vibration] 횟수를 부여하는 공격 스킬(본인 또는 아군을 대상으로 하는 경우 포함)로 적을 흐트러뜨릴 경우 (E.G.O 스킬 제외), 다음 턴에 대상이 보유한 [Vibration] 위력의 절반만큼 다른 무작위 적들(환상체일 경우, 부위)에게 [Vibration] 위력을 나누어 부여하고 흐트러진 대상은 보유한 [Vibration] 위력이 2배로 증가.",
+    "context": "EN :\nFirst Turn Start of a wave: select 2 enemies with the slowest Speed(or 2 random Abnormality parts. The effect does not stack if the enemy is singular) and inflict 5 [Binding] and 3 [DefenseDown] at Turn Start starting next turn.\n\nWhen the enemy recovers from Stagger, and if they don't have any remaining Stagger Thresholds, create a new Stagger Threshold at 66% mark of the target's current HP (3 times per Encounter). If an ally Staggers an enemy with an Attack Skill(except E.G.O Skills) that applies [Vibration] Potency or [Vibration] Count(including on self or on ally), randomly inflict [Vibration] Potency equal to half of the [Vibration] Potency on target between other enemies(or other Abnormality parts), and increase [Vibration] Potency on the Staggered target by x2.\nJP :\nウェーブの1ターン目が開始時、速度が最も低い敵2体(幻想体の場合はランダムな部位2つ、敵が単一の場合は効果が重複しない)を選択し、次のターンからターン開始時に[Binding]5, [DefenseDown]3を付与。\n\n敵の混乱が解けるときに、保有する混乱区間がなければ対象の現体力の66%を基準に新しい混乱区間を追加(戦闘につき3回)。味方が[Vibration]威力または[Vibration]回数を付与する攻撃スキル(本人または味方を対象とする場合を含む)で敵を混乱させる場合(E.G.Oスキルは除く)、次のターンに対象が保有する[Vibration]威力の半分だけ他のランダムな敵(幻想体の場合は部位)に[Vibration]威力を配分し、混乱対象の保有する[Vibration]威力が2倍に増加する。"
+  },
+  {
+    "key": "9434-simpleDesc$[0].simpleDesc",
+    "original": "턴 시작 시 속박 5, 방어 레벨 감소 3을 부여.",
+    "context": "EN :\nTurn Start: Gain 5 Bind and 3 Defense Level Down.\nJP :\nターン開始時に束縛 5, 防御レベル減少 3を付与"
+  },
+  {
+    "key": "9434-simpleDesc$[1].simpleDesc",
+    "original": "현재 체력 기준 66%에 새로운 흐트러짐 구간 추가",
+    "context": "EN :\nCreate a new Stagger Threshold at 66% mark of the target's current HP\nJP :\n現在の体力を基準に、66%の箇所に新たな混乱区間を追加。"
+  },
+  {
+    "key": "9434-simpleDesc$[2].simpleDesc",
+    "original": "흐트러진 대상은 보유한 진동 위력이 2배로 증가",
+    "context": "EN :\n[Vibration] Potency on the Staggered target increases by x2\nJP :\n混乱した対象は保有した振動威力が2倍に増加"
+  }
+]

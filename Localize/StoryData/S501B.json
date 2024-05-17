@@ -1,0 +1,884 @@
+[
+  {
+    "key": "0-place",
+    "original": "메피스토펠레스 갑판",
+    "context": "EN :\nAboard Mephistopheles's Deck\nJP :\nメフィストフェレス デッキ"
+  },
+  {
+    "key": "0-content",
+    "original": "버스… 아니, 버스배가 초록색 불빛으로 요란을 떨던 소란이 지나간지도 얼마 되지 않아…",
+    "context": "EN :\nIt hasn't been so long since this bus... I mean, busboat was hounded by the sirens and the flashing green lights.\nJP :\nバス…いや、バスボートが緑色の明かりと共に\n騒ぎを起こしてからあまり経っていない…。"
+  },
+  {
+    "key": "1-content",
+    "original": "모두들 자기 방으로 들어갈 생각도 않고 선실(버스의 내부였던)에 아무렇게나 걸터앉아 쪽잠을 자고 있을 무렵.",
+    "context": "EN :\nThe Sinners were sitting uncomfortably, trying to get some shut-eye in the ship cabins(formerly known as the bus cabins). The thought of returning to their rooms didn't even seem to occur to them.\nJP :\nみんな自分の部屋に戻ろうともせずに船室(バスの内部だった)に\nテキトーに腰掛けて寝てた頃。"
+  },
+  {
+    "key": "2-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "2-content",
+    "original": "…….",
+    "context": "EN :\n......\nJP :\n……。"
+  },
+  {
+    "key": "3-content",
+    "original": "창밖을 바라보던 파우스트가, 별안간 자리에서 일어나 키(운전대였던)가 있는 곳을 향해 걸어갔다.",
+    "context": "EN :\nAfter gazing out the window for a while, Faust came to her feet and approached the helm(formerly known as the wheel).\nJP :\n窓の外を見つめていたファウストが、突然立ち上がって\n舵(運転台だった)のある場所へ向かって歩いて行った。"
+  },
+  {
+    "key": "4-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "4-content",
+    "original": "파우스트 씨.",
+    "context": "EN :\nMs. Faust.\nJP :\nファウストさん。"
+  },
+  {
+    "key": "5-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "5-content",
+    "original": "네, 신호가 왔군요.",
+    "context": "EN :\nYes. We have received a signal.\nJP :\nはい、信号が来ましたね。"
+  },
+  {
+    "key": "6-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "6-content",
+    "original": "<파우스트?>",
+    "context": "EN :\n<Faust?>\nJP :\n<ファウスト？>"
+  },
+  {
+    "key": "7-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "7-content",
+    "original": "우웁… 후. 내내 기다리던 그 연락이 도래했다는 말이오?",
+    "context": "EN :\nHurk... Haah... The long-awaited signal has arrived, then...?\nJP :\nうぇっぷ…ふぅ。始終待ちしその連絡が到来せりということなりや？"
+  },
+  {
+    "key": "8-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "8-content",
+    "original": "오오! 드디어 대호수에서의 모험이 시작된다는 말인겐가!",
+    "context": "EN :\nOooh! Then shall our adventure in the Great Lake finally commence?!\nJP :\nおぉ！ついに大湖での冒険が始まるということであるか！"
+  },
+  {
+    "key": "9-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "9-content",
+    "original": "어떤 신호가 왔다는 거죠? 알람 소리가 들리는 것도 아니고, 무언가가 나타나거나 한 적도 없는데요…",
+    "context": "EN :\nWhat signal? I don't hear or see anything... Not even an alarm.\nJP :\nどんな信号が来たんですか？アラームの音が聞こえるわけでもなくて、\n何かが現れたわけでもないと思うんですけど…。"
+  },
+  {
+    "key": "10-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10-content",
+    "original": "시야에는 잡히지 않지만, 메피스토펠레스가 먼 곳의 연기 신호를 감지했습니다.",
+    "context": "EN :\nA smoke signal outside our visual range has been picked up by Mephistopheles.\nJP :\n視野では補足できませんが、メフィストフェレスが遠くの信号煙を感知しました。"
+  },
+  {
+    "key": "11-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "11-content",
+    "original": "연기… 봉화를 피워올렸다는 건가. 그걸 기다리고 있었던 거구만.",
+    "context": "EN :\nA smoke signal... the beacons are lit, then. I guess that's what we've been sitting on our butts for.\nJP :\n煙…狼煙を上げたってことか。それを待ってたんだな。"
+  },
+  {
+    "key": "12-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "12-content",
+    "original": "항해 시작, 첨벙첨벙.",
+    "context": "EN :\nSailing is a go. Splish splash.\nJP :\n航海開始、ばちゃんばちゃん。"
+  },
+  {
+    "key": "13-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "13-content",
+    "original": "슬슬… 연안 구역에서 벗어나 대호수 초입이라고 부를만한 부분으로 진입합니다.",
+    "context": "EN :\nSoon... we will be moving away from the coastal area and draw closer to what one could call the Great Lake approach.\nJP :\nそろそろ…沿岸区域から抜け出し、大湖の入口といえる場所へ進入します。"
+  },
+  {
+    "key": "14-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "14-content",
+    "original": "지금부터는 자동 항해 기능을 작동시키겠습니다.",
+    "context": "EN :\nActivating automatic navigation system now.\nJP :\n今からは自動航海機能を作動させます。"
+  },
+  {
+    "key": "15-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "15-content",
+    "original": "뭣이?! 지금까지는 대호수가 아니었다는 것이오?",
+    "context": "EN :\nHow, how! Thou meanest to say that what we have experienced so far... was not the Great Lake?\nJP :\nなぬ！？今までは大湖ではなかったということにありまするか？"
+  },
+  {
+    "key": "16-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "16-content",
+    "original": "정의를 말하자면 지금껏 대호수에 있었다고 할 수 있지만, 특별한 위협이 존재하지 않았기 때문에 돈키호테 씨가 인식하고 있는 정보에 맞춰 구분하여 말씀드렸습니다.",
+    "context": "EN :\nBy strict definition... Yes, it was. We have been inside the Great Lake's borders for a while. Yet I make the distinction based on the information available to you, as our path has so far lacked any real threats.\nJP :\n定義を言うのであれば今まで大湖にいたとは言えますが、特には脅威が存在しなかったため\nドンキホーテさんが認識している情報に合わせ、区分して申し上げます。"
+  },
+  {
+    "key": "17-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "17-content",
+    "original": "그런… 일들이 있었는데 위협이 없었다는 것인가…",
+    "context": "EN :\nNo real... threats, thou sayeth. After all that...\nJP :\nあんな…ことがあったのに危険がなかったというのか…。"
+  },
+  {
+    "key": "18-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "18-content",
+    "original": "저기에 있는 이상 군은 항해 내내 양동이만 붙잡고 있지 않은가…!",
+    "context": "EN :\nLo! Yi Sang there has hitherto been burying his face in that very bucket, I shall have thee know...!\nJP :\nあそこにいるイサン君は航海中ずっとバケツを抱えているではないか…！"
+  },
+  {
+    "key": "19-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "19-content",
+    "original": "나… 는 괜찮소… 신경… 우웁…",
+    "context": "EN :\nI... mind me not, plea— hurk...\nJP :\n私…は安穏なり…。気を遣…うえっ…。"
+  },
+  {
+    "key": "20-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "20-content",
+    "original": "처음엔 물을 퍼내려는 줄 알았건만, 속에서부터 다른 걸 퍼내니 어쩔 도리가 없네…",
+    "context": "EN :\nI had thought the bucket's purpose was to remove water from the ship in case of a flooding... yet all it hath heretofore removed were contents of Yi Sang's stomach...\nJP :\n最初は水を汲み出しているのかと思ったのだが、胃から別のものを\n汲み出しているからどうしようもないのだ…。"
+  },
+  {
+    "key": "21-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "21-content",
+    "original": "그리고! 그… 왈퓌뢰기수밤? 그것이 지나간 지도 얼마 안 되었고!",
+    "context": "EN :\nAnd! That uh, Wal-puree-gisoonaught? That incident is still quite fresh in my mind!\nJP :\nそれに！その…ヴァゥポゥゲスの夜？\nあれが過ぎてからあまり経ってすらおらぬ！"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-content",
+    "original": "발푸르기스의 밤, 입니다.",
+    "context": "EN :\nWalpurgis Night.\nJP :\nヴァルプルギスの夜、です。"
+  },
+  {
+    "key": "23-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "23-content",
+    "original": "그리고, 그 모든 일들이… 대호수에 의한 것은 아니지 않은가요.",
+    "context": "EN :\nAnd... not many of those 'threats' could be attributed to the dangers of the Great Lake.\nJP :\nそして、その全ての出来事は…大湖によるものではないように思えますが。"
+  },
+  {
+    "key": "24-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "24-content",
+    "original": "거짓 원인의 오류로군.",
+    "context": "EN :\nFalse Cause Fallacy.\nJP :\n論点先取の虚偽だな。"
+  },
+  {
+    "key": "25-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "25-content",
+    "original": "…어려운 말이 너무 많으니, 본인은 자던 잠이나 마저 자겠소…",
+    "context": "EN :\n... Quite the rush of daunting ideas thou hast thrown in mine direction. I shall henceforth continue to slumber, then...\nJP :\n…難しい言葉が多すぎまするので、当人は夢の続きを見ることにしまする。"
+  },
+  {
+    "key": "26-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "26-content",
+    "original": "아니! 위험 구역에 들어섰다면 이제 몸을 추스르고 긴장 상태에 돌입해야 한다고 본다.",
+    "context": "EN :\nNO! We have just entered a hostile environment. We must rouse ourselves from sleep and ready ourselves for what dangers there may be.\nJP :\nいや！危険区域に立ち入ったのであれば、\nこれから身を固めて緊張状態に突入するべきとみる。"
+  },
+  {
+    "key": "27-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "27-content",
+    "original": "<오티스?>",
+    "context": "EN :\n<Outis?>\nJP :\n<ウーティス？>"
+  },
+  {
+    "key": "28-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "28-content",
+    "original": "총원, 경계 배치!",
+    "context": "EN :\nAll hands, to defensive stations!\nJP :\n総員、警戒配置！"
+  },
+  {
+    "key": "29-content",
+    "original": "오티스는 갑자기 자리를 박차고 일어나 모두를 향해 외치기 시작했다.",
+    "context": "EN :\nOutis suddenly leaped to her feet and began barking orders at the Sinners.\nJP :\nウーティスは突然勢いよく立ち上がり、全員に向かって声を上げ始めた。"
+  },
+  {
+    "key": "30-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "30-content",
+    "original": "으헉!",
+    "context": "EN :\nGuh?!\nJP :\nうへぉっ！"
+  },
+  {
+    "key": "31-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "31-content",
+    "original": "…뭐야?",
+    "context": "EN :\n... What in the bloody...\nJP :\n…何だ？"
+  },
+  {
+    "key": "32-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "32-content",
+    "original": "…아이 씨, 심장 멎는 줄 알았네.",
+    "context": "EN :\n... Augh, my heart dropped for a sec there.\nJP :\n…畜生、心臓止まるかと思ったよ。"
+  },
+  {
+    "key": "33-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "33-content",
+    "original": "오티스, 이 배는 자동으로 운행되고 있어요. 위험한 상황은 피해 갈뿐더러, 마주할 수밖에 없다면 경고가 울릴 거예요.",
+    "context": "EN :\nOutis, this ship is currently steered by an automated navigation system. As its name suggests, it will automatically avoid any threats the Great Lake may pose. Should a threat prove to be unavoidable, it will sound an alarm.\nJP :\nウーティス、この船は自動で運行しています。危険な状況は避けていくだけではなく、\n立ち向かうしかないのであれば警告が鳴るはずです。"
+  },
+  {
+    "key": "34-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "34-content",
+    "original": "하하… 나 참. 그런 뜻 모를 기능을 얼마나 신뢰하라는 거지?",
+    "context": "EN :\nBah... Do you really expect me to trust that incomprehensible contraption?\nJP :\nはは…まったく。そんな得体の知れない機能をどれだけ信頼しろっていうんだ？"
+  },
+  {
+    "key": "35-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "35-content",
+    "original": "게다가 그 장치라는 것도, 막판에 그 보트 센터 해결사들이 급하게 붙여 놓은 것일 뿐이잖나!",
+    "context": "EN :\nBesides, this 'automated navigation system' is nothing but some slapdash, last-minute installation by the Boatworks Fixers!\nJP :\nそれにその装置というものも、土壇場でボートセンターのフィクサーたちが\n急ごしらえで貼っ付けたものじゃないか！"
+  },
+  {
+    "key": "36-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "36-content",
+    "original": "…확실히, 파우스트가 직접 장착하지 않았죠. 신뢰도가 100%는 아닐 겁니다.",
+    "context": "EN :\n... Indeed, Faust was not the one who installed this system. So, no. Its reliability is not absolute.\nJP :\n…確かに、ファウストが直接装着させはしませんでした。\n信頼度が100%ではないでしょう。"
+  },
+  {
+    "key": "37-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "37-content",
+    "original": "잘 말했다. 자고로, 항해는 알 수 없는 일들이 도사리고 있는 법. 결국 사람이 나서야 한다는 것이다!",
+    "context": "EN :\nWell said. It is well-known wisdom that the path of a sailor is fraught with dangers unknown, which is to say that a human must handle it!\nJP :\nよく言った。昔から、航海には得体の知れない出来事が潜んでいるものだ。\n 結局は、人が乗り出さねばならないということだ！"
+  },
+  {
+    "key": "38-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "38-content",
+    "original": "그렇다면, 그대가 이 배를 이끌겠다는 말인가!",
+    "context": "EN :\nThen shalt thou be the one to lead this vessel to victory?!\nJP :\nということは、そなたがこの船を導くということにありまするか！"
+  },
+  {
+    "key": "39-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "39-content",
+    "original": "관리자님께서 항해에 대한 기억을 갖고 계시지는 않으니, 그 편이 옳겠군. 나는 마침, 다수를 이끈 경험이 있는 몸이니.",
+    "context": "EN :\nI must rise to the occasion, as Executive Manager unfortunately lacks any memories pertinent to sailing. Luckily, I am quite experienced with a leadership position.\nJP :\n管理人様が航海に関する記憶をお持ちではないので、それが正しいだろう。\n私はちょうど、多数を導いた経験のある身の上だからな。"
+  },
+  {
+    "key": "40-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "40-content",
+    "original": "오오호… 대장!",
+    "context": "EN :\nOoho... Commander!\nJP :\nおおおぉ…隊長！"
+  },
+  {
+    "key": "41-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "41-content",
+    "original": "대장이 아니다! 선장이다!",
+    "context": "EN :\nI am no commander! I am... your Captain!\nJP :\n隊長ではない！船長だ！"
+  },
+  {
+    "key": "42-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "42-content",
+    "original": "관리자님! 이번엔 관리자님의 대리로써 선장직을 잠시 맡겠습니다.",
+    "context": "EN :\nExecutive Manager! Allow me to briefly assume your authority so that I may lead this vessel as its temporary Captain.\nJP :\n管理人様！\n今回は管理人様の代理として、船長職をしばらく引き受けます。"
+  },
+  {
+    "key": "43-content",
+    "original": "오티스는 내 대답을 듣기도 전에 말을 이어 나갔다.",
+    "context": "EN :\nShe continued before I even had the chance to reply.\nJP :\nウーティスは私の答えを聞く前に、言葉を続けた。"
+  },
+  {
+    "key": "44-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "44-content",
+    "original": "자, 들어라! 무릇 항해라는 것은…",
+    "context": "EN :\nAtten-tion! Sailing, that is to say, the act of traveling across bodies of water...\nJP :\nさぁ、聞け！そもそも航海というものは…。"
+  },
+  {
+    "key": "45-content",
+    "original": "시간이 흐른 후…",
+    "context": "EN :\nAfter an indeterminate amount of time...\nJP :\nしばらくして…。"
+  },
+  {
+    "key": "46-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "46-content",
+    "original": "…라는 것이다, 항해의 기본은! 다 잘 받아 적었나, 제군들?",
+    "context": "EN :\n... And that concludes the fundamentals of sailing! Have you been taking your notes, men?\nJP :\n…ということだ、航海の基本は！\n全員耳の穴かっぽじって聞いて、ちゃんとメモ取ったか諸君？"
+  },
+  {
+    "key": "47-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "47-content",
+    "original": "후비적 후비적.",
+    "context": "EN :\nSnore, snore.\nJP :\nほじほじ。"
+  },
+  {
+    "key": "48-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "48-content",
+    "original": "오호오! 들을수록 신기한 것투성이군! 마치 모험하는 것 같지 않은가!",
+    "context": "EN :\nOho, marvelous! Quite a considerable amount of new knowledge I have acquired! 'Tis akin to an adventure, is it not?!\nJP :\nおほお！聞けば聞くほど不思議なものだらけであるな！\nまるで冒険しているようではないか！"
+  },
+  {
+    "key": "49-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "49-content",
+    "original": "거친 파도 속 폭풍을 뚫으며 모험을 하는 것… 그것은 이몸의 꿈 863개 중 하나였다네!",
+    "context": "EN :\n'Twas one of mine humble eight-hundred-and-sixty-three old dreams to sail the Great Lake as an adventurer, like a challenger of storms, a queller of rogue waves!\nJP :\n荒れ狂う波の中、嵐を突き抜けながら冒険をすること…\nそれは当人の夢863つの内の一つであったのだ！"
+  },
+  {
+    "key": "50-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "50-content",
+    "original": "어찌 그리도 숫자가 구체적인지.",
+    "context": "EN :\nSuch an exact number of aspirations you have.\nJP :\nいかで、しかも数字つぶさなるや。"
+  },
+  {
+    "key": "51-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "51-content",
+    "original": "오티스 님, 지… 질문이 있습니다!",
+    "context": "EN :\nOutis, Ma'am? I have a q-question!\nJP :\nウーティスさん、し…質問があります！"
+  },
+  {
+    "key": "52-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "52-content",
+    "original": "좋다, 허가하지.",
+    "context": "EN :\nYes, you are recognized.\nJP :\nよし、許可しよう。"
+  },
+  {
+    "key": "53-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "53-content",
+    "original": "저… 복잡하게 생긴 레버는 무엇인가요?",
+    "context": "EN :\nUh... What's that complicated looking lever over there?\nJP :\nあの…複雑な形をしたレバーは何ですか？"
+  },
+  {
+    "key": "54-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "54-content",
+    "original": "…음.",
+    "context": "EN :\n... Um.\nJP :\n…ふむ。"
+  },
+  {
+    "key": "55-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "55-content",
+    "original": "나도 궁금했다네! 저건 대체 무슨 기능을 하는가?!",
+    "context": "EN :\nAh, It has been a riddle in mine head as well! What may be the function of that peculiar device?\nJP :\n私も気になっていたのでござりまする！\nあれは一体どのような機能を備えているのでありまするか！？"
+  },
+  {
+    "key": "56-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "56-content",
+    "original": "호, 혹시 누르면 배에서 대포가 철컥철컥! 나와서 막~ 퍼퍼펑! 하고 나가는 것은 아닌가?!",
+    "context": "EN :\nOoh, perchance it shall load and fire a volley of cannonballs at the press of a button? Kacha-chaw! Puh-puh-puh-pow!\nJP :\nも、もしや押すと船から大砲がガチャンガチャン！って出て\nこう、バババ～ン！って射出されるのではあるまいか！？"
+  },
+  {
+    "key": "57-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "57-content",
+    "original": "트랜스-포메이션 레버인가. 실제로 본다면 제법 멋질 것으로 보오.",
+    "context": "EN :\nA lever of transformative variety. It shall be an auspicious day in which we are availed sight of this contraption in action.\nJP :\nチュレンス­‐フォゥメイシェンレバアなりや。\n実際に見られば、中々めでたからん。"
+  },
+  {
+    "key": "58-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "58-content",
+    "original": "…….",
+    "context": "EN :\n......\nJP :\n……。"
+  },
+  {
+    "key": "59-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "59-content",
+    "original": "…흐음…",
+    "context": "EN :\n... Hm...\nJP :\n…ふむ。"
+  },
+  {
+    "key": "60-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "60-content",
+    "original": "저… 오티스 씨…?",
+    "context": "EN :\nUh, Outis...?\nJP :\nその…ウーティスさん…？"
+  },
+  {
+    "key": "61-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "61-content",
+    "original": "흠. 요새 들어, 쓸데없이 겉멋만 들고 속 알맹이는 제대로 되지 않는 것들이… 소위 ‘최신 기술’이라는 같잖은 이름 아래에 생겨나더군.",
+    "context": "EN :\nHmph. I've been seeing more and more of these as of late. These so-called 'bleeding-edge' technologies are hollow inventions that have nothing to show for it aside from their pretty exteriors.\nJP :\nふむ。近頃は無駄に見てくれが良くて、中身はまともじゃないものが…\nいわゆる「最新技術」というくだらない名の下に生まれている。"
+  },
+  {
+    "key": "62-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "62-content",
+    "original": "편리함만 좇다 보면 위험성은 증대한다. 그런 최신 기술에 기대다보면 어느 순간 전부 무너질 거라고!",
+    "context": "EN :\nA blind pursuit of convenience breeds increased risk. There's nothing but ruin at the end of the road paved with overreliance on these bleeding-edge technologies!\nJP :\n利便性を追いかけていれば危険性は増大する。\nそんな最新技術に寄りかかっていれば、いつしか全て崩れてしまうんだ！"
+  },
+  {
+    "key": "63-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "63-content",
+    "original": "기계의 피와 땀과 같은 나사와 기름 속에서 이뤄진 열기…",
+    "context": "EN :\nFervor fueled in the furnace of bolts and engine oil, the ship's blood and sweat...\nJP :\n機械の血と汗のごとき、ネジと油の中で生じる熱気…。"
+  },
+  {
+    "key": "64-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "64-content",
+    "original": "그 속에서 지휘자의 냉철한 리더십과 부하들의 탄탄한 충성심이 만들어 내는 조합.",
+    "context": "EN :\nA combined force of the commanding officer's decisive leadership and their subordinates' firm loyalty.\nJP :\nその中で指揮者の冷徹なリーダーシップと、部下の固い忠誠心が創り出す和合。"
+  },
+  {
+    "key": "65-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "65-content",
+    "original": "<피…?>",
+    "context": "EN :\n<Blood? What?>\nJP :\n<血…？>"
+  },
+  {
+    "key": "66-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "66-content",
+    "original": "제대로 된 정통과 역사가 있는 공방 장치는 그런 식으로 돌아가는 게 맞는 이치인 것을! 그게 바로 전우애라는 것이 탄생하는 순간이다!",
+    "context": "EN :\nThat is how proper workshops of tradition and history are supposed to be run! Now THAT is how true comrades are born!\nJP :\n由緒正しい伝統と歴史がある工房装置はそんな風に回っていくのが\n正しい道理であることを！それがまさに戦友愛というものが誕生する瞬間だ！"
+  },
+  {
+    "key": "67-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "67-content",
+    "original": "이해는 안 가지만 멋있어요… 가슴에 뭔가 울림이 느껴져요…!",
+    "context": "EN :\nI don't know what she's talking about... but that was kind of cool...! I can feel something rising from deep within my chest...!\nJP :\n理解は出来ないんですが格好いいです…胸に何だかジーンときました…！"
+  },
+  {
+    "key": "68-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "68-content",
+    "original": "대장! 아니 아니, 선장! 최신 기술이라는 것이 자꾸만 불량한 소리를 내고 있소! 어떻게 해야 하겠소?",
+    "context": "EN :\nCommander! Ah, I mean, Captain! This 'bleeding edge' technology is bleating like a mule! Whatever shall we do?\nJP :\n隊長！いやいや、船長！最新技術とやらがしきりに粗悪な音を出しておりまする！\nどうするべきにありまするか？"
+  },
+  {
+    "key": "69-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "69-content",
+    "original": "…….",
+    "context": "EN :\n......\nJP :\n……。"
+  },
+  {
+    "key": "70-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "70-content",
+    "original": "이 오티스… 증명해 보이겠다.",
+    "context": "EN :\nI, Outis... Shall prove it to the world.\nJP :\nこのウーティス…証明して見せよう。"
+  },
+  {
+    "key": "71-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "71-content",
+    "original": "이따위 최신 기술 없이도 항해에는 문제가 저언혀 없다는걸!",
+    "context": "EN :\nThat I don't need this high-tech junk to sail!\nJP :\nこれしきの最新技術が無くとも航海には問題が全くないということを！"
+  },
+  {
+    "key": "72-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "72-content",
+    "original": "자! 돈키호테 선원! 출력 손잡이를 최대로 개방!",
+    "context": "EN :\nNow, seawoman Don Quixote, set the power lever to the maximum output!\nJP :\nさぁ！ドンキホーテ船員！出力をフルスロットルに！"
+  },
+  {
+    "key": "73-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "73-content",
+    "original": "손잡이 최대 개방! 하겠소!",
+    "context": "EN :\nPower lever to the maximum output! Aye aye, Captain!\nJP :\nフルスロットル！しまする！"
+  },
+  {
+    "key": "74-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "74-content",
+    "original": "싱클레어 선원! 키를 중앙에 놓고 스위치!",
+    "context": "EN :\nSeaman Sinclair! Set the helm to the neutral position and hit the switch!\nJP :\nシンクレア船員！舵を中央に、そしてスイッチ！"
+  },
+  {
+    "key": "75-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "75-content",
+    "original": "키를 중앙에 놓고 스위치, 키를 중앙에 놓고… 스, 스위치!",
+    "context": "EN :\nSet the helm to the neutral position, s-set the helm to the neutral position, and... h-hit the switch!\nJP :\n舵を中央に、そしてスイッチ。舵を中央に、そして…ス、スイッチ！"
+  },
+  {
+    "key": "76-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "76-content",
+    "original": "가자!!!!!",
+    "context": "EN :\nLET'S GOOOOO!!!!!\nJP :\n征くぞ！！！！！"
+  },
+  {
+    "key": "77-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "77-content",
+    "original": "엔진, 완전히 침묵… 하였소.",
+    "context": "EN :\nThe engine... has fallen silent.\nJP :\nエンジン、全く沈黙…せり。"
+  },
+  {
+    "key": "78-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "78-content",
+    "original": "자동항해 기능이 중지되었군요. 오래된 모듈이라 재부팅을 하려면 약 5시간이 소요됩니다.",
+    "context": "EN :\nThe automatic navigation system has failed. It is an old model; rebooting will be complete in approximately five hours.\nJP :\n自動航海機能が中止されましたね。\n古いモジュールなのでリブートするには約5時間が掛かります。"
+  },
+  {
+    "key": "79-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "79-content",
+    "original": "운전수를 버린 벌이야.",
+    "context": "EN :\nThat's what you get for abandoning your bus driver.\nJP :\n運転手をすてたバツだ。"
+  },
+  {
+    "key": "80-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "80-content",
+    "original": "<잠깐, 그럼 배가 더 이상 움직이지 않는 거야?>",
+    "context": "EN :\n<Wait, wait. So we're just stuck here?>\nJP :\n<待って、じゃあ船がこれ以上動かないのか？>"
+  },
+  {
+    "key": "81-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "81-content",
+    "original": "그럴 리가요. 자동항해 기능이 메피스토펠레스의 엔진에 녹아들었기 때문에 엔진을 기동하는 건 어렵겠지만, 배는 움직일 수 있습니다.",
+    "context": "EN :\nOf course not. While Mephistopheles' engine may be inoperable as it has melded with the automatic navigation system, the ship itself can still move.\nJP :\nそんなことはありません。自動航海機能はメフィストフェレスのエンジンに\n溶け込んでいるのでエンジンを起動することは難しいですが、船は動かせます。"
+  },
+  {
+    "key": "82-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "82-content",
+    "original": "수동으로 전환하면 될 뿐입니다.",
+    "context": "EN :\nWe still have a manually activated backup power system on standby.\nJP :\n手動に転換すれば良いだけです。"
+  }
+]

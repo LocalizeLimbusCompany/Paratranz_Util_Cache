@@ -1,0 +1,797 @@
+[
+  {
+    "key": "0-place",
+    "original": "워프 열차 일반 객실 칸",
+    "context": "EN :\nWARP Train Economy Class Cabin\nJP :\nワープ列車一般席 客車"
+  },
+  {
+    "key": "0-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "0-content",
+    "original": "파우스트 군, 이들은… 승객의 모습을 하고 있었지만…",
+    "context": "EN :\nLady Faust, however similar in appearance they may have been to the passengers...\nJP :\nファウスト君、この者たちは…乗客の姿をしていたが…。"
+  },
+  {
+    "key": "1-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "1-content",
+    "original": "제대로 사리분별을 할 수 없는, 이성이 존재하지 않는 자들 같았네…",
+    "context": "EN :\n... Verily, 'tis as though they were in complete want of sense...\nJP :\nまともな思慮分別ができぬ、理性の存在しない者たちのようであった…。"
+  },
+  {
+    "key": "2-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "2-content",
+    "original": "마치 그 고래에 의해 백화된 것처럼요… ",
+    "context": "EN :\nLike people pallidified by the Whale...\nJP :\nまるで、あの鯨によって白化したものみたいに…ですね…。"
+  },
+  {
+    "key": "3-content",
+    "original": "제일 마지막까지 그것들과 싸우기를 주저했던 돈키호테가 낙담한 표정으로 고개를 떨궜다. ",
+    "context": "EN :\nDon Quixote hesitated until the last second to raise her weapon against them. She hung her head mournfully.\nJP :\n最後まであれらと戦うことをためらっていたドンキホーテが\n落胆した表情でうなだれた。"
+  },
+  {
+    "key": "4-content",
+    "original": "만약 평소 같았으면…",
+    "context": "EN :\nNormally...\nJP :\n普段通りだったら…。"
+  },
+  {
+    "key": "5-content",
+    "original": "전투를 하기 전에 돈키호테에게 이들에 대한 정보를 미리 알려주었을 파우스트였다. ",
+    "context": "EN :\nFaust would have told her more information about those monsters before the fight began.\nJP :\n戦闘をする前に、ドンキホーテに対してこの者たちに対する情報を\nファウストが教えてくれただろう。"
+  },
+  {
+    "key": "6-content",
+    "original": "그렇다면 돈키호테는 무고한 자들을 해친다는 생각은 하지 않고 전투에 임했을 것이다. ",
+    "context": "EN :\nAnd she would not have been burdened by the sheer thought of bringing harm to the innocent.\nJP :\nそうしたなら、ドンキホーテは無辜の者たちを\n殺すという考えを抱かずに戦闘へと臨んだだろう。"
+  },
+  {
+    "key": "7-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "7-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "8-content",
+    "original": "파우스트는 주위를 두리번거리며 탐색을 하기 시작했다. ",
+    "context": "EN :\nFaust began searching the area, closely observing various bodies and the general area for information.\nJP :\nファウストは周囲を見渡しながら探索をし始めた。"
+  },
+  {
+    "key": "9-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "9-content",
+    "original": "오늘따라 주위를 많이 돌아보는구료, 파우스트 양. ",
+    "context": "EN :\nYou appear particularly inquisitive today, Miss Faust.\nJP :\n今日に限りて周囲を数多見渡すかし、ファウスト嬢。"
+  },
+  {
+    "key": "10-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10-content",
+    "original": "그러게요. 평소 같았으면 저희가 관찰을 하고 있을 때 결론을 내주시지 않았나요?",
+    "context": "EN :\nHuh, yeah. Aren't you usually the one who has all the answers while we're wracking our brains trying to come up with something?\nJP :\nそうですね。普段なら私たちが観察している間に\n結論を出してくれませんでしたっけ？"
+  },
+  {
+    "key": "11-content",
+    "original": "수감자들도 하나 둘, 파우스트가 평소와 다르다는 위화감을 느끼는 것 같고…",
+    "context": "EN :\nThe Sinners were starting to feel that there's something off about Faust's behavior...\nJP :\n囚人たちもひとりふたり、ファウストが普段と違うという\n違和感を覚え始めたようで…。"
+  },
+  {
+    "key": "12-content",
+    "original": "이대로면 결국 파우스트에게 문제가 생겼다는 걸 들키게 될 텐데.",
+    "context": "EN :\nThey might even soon realize that there's something wrong with Faust.\nJP :\nこのままじゃ、いつかファウストに問題が生じたということに気付かれるだろう。"
+  },
+  {
+    "key": "13-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "13-content",
+    "original": "… 돈키호테. ",
+    "context": "EN :\n... Don Quixote.\nJP :\n…ドンキホーテ。"
+  },
+  {
+    "key": "14-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "14-content",
+    "original": "이들은 죽지 않았습니다. ",
+    "context": "EN :\nThey are not dead.\nJP :\nこの者たちは死んでいません。"
+  },
+  {
+    "key": "15-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "15-content",
+    "original": "… 으응?",
+    "context": "EN :\n... Huhh?\nJP :\n…ん？"
+  },
+  {
+    "key": "16-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "16-content",
+    "original": "자세히 보시죠. 파편과 파편 사이에 무언가 이어져 있지 않나요?",
+    "context": "EN :\nObserve closer. The parts are all tethered to one another by something, are they not?\nJP :\nよく見てください。\n破片と破片の間に何かが繋がっているのが見えませんか？"
+  },
+  {
+    "key": "17-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "17-content",
+    "original": "으음…",
+    "context": "EN :\nHm...\nJP :\nうぅむ…。"
+  },
+  {
+    "key": "18-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "18-content",
+    "original": "아아…!",
+    "context": "EN :\nOoho!\nJP :\nあぁ…！"
+  },
+  {
+    "key": "19-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "19-content",
+    "original": "이 공간은 시간이 멈춰있는 것으로 보입니다. 그러니 죽음에 달하는… 끊어짐이 발생하지 않고 이어져 있는 것이죠.",
+    "context": "EN :\nIt appears that the flow of time has ceased in this space. Therefore, it follows that the... connections, that tether bodies to life and away from death, remain intact.\nJP :\nこの空間は時間が止まっているように見えます。\nそれゆえ死に至る…断絶が発生せずに繋がっているということです。"
+  },
+  {
+    "key": "20-content",
+    "original": "다행히도…",
+    "context": "EN :\nTo my relief...\nJP :\n幸いなことに…。"
+  },
+  {
+    "key": "21-content",
+    "original": "잠시 시간이 걸렸지만, 파우스트는 평소처럼 정보를 제공할 수 있었다.",
+    "context": "EN :\n... Faust managed to correctly figure out what's going on like her usual self, even if it took her slightly longer than it usually does.\nJP :\n少し時間は掛かったけど、ファウストは普段通りに情報を提供することができた。"
+  },
+  {
+    "key": "22-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "22-content",
+    "original": "<거봐, 내가 할 수 있다고 했잖아…!>",
+    "context": "EN :\n<Hey, what'd I say? We got this...!>\nJP :\n<ほれ見ろ。上手くやれるって言ったよね…！>"
+  },
+  {
+    "key": "23-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "23-content",
+    "original": "응? 뭐라고 했어?",
+    "context": "EN :\nHuh? What was that about?\nJP :\nえ？今なんて？"
+  },
+  {
+    "key": "24-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "24-content",
+    "original": "<아, 아니야…>",
+    "context": "EN :\n<O-oh, nothing...>\nJP :\n<あ、何でもない…。>"
+  },
+  {
+    "key": "25-content",
+    "original": "하지만… 호락호락하게 넘어가지 않는 수감자도 있다.",
+    "context": "EN :\nBut... I'd forgotten that not all Sinners were content with nodding along to whatever information Faust told us.\nJP :\nでも…そう簡単に騙されてくれない囚人もいる。"
+  },
+  {
+    "key": "26-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "26-content",
+    "original": "흐음…",
+    "context": "EN :\nHm...\nJP :\nふぅむ…。"
+  },
+  {
+    "key": "27-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "27-content",
+    "original": "시간이 멈춰 있다라…",
+    "context": "EN :\nThe flow of time is ceased aboard a WARP train, is it...?\nJP :\n時間の止まれるとな…。"
+  },
+  {
+    "key": "28-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "28-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "29-content",
+    "original": "갑자기 생각에 빠져든 이상을 보자 파우스트의 입이 잠시 벙긋거렸다.",
+    "context": "EN :\nYi Sang grew pensive. Seeing that, Faust lips parted for a moment before closing shut.\nJP :\n突然思索に耽ったイサンを見た瞬間、ファウストの口が一瞬パクパクと動いた。"
+  },
+  {
+    "key": "30-content",
+    "original": "이쯤 되면 알 수 있다. …찰나였지만 저건 아차 싶은 표정이라는 걸.",
+    "context": "EN :\nI was starting to get a good read of her expressions. That was an unmistakable look of regret, however short-lived.\nJP :\nそこそこ過ごしてきたのだから分かる。\n…刹那ではあったけどアレは「あちゃー」って表情だということを。"
+  },
+  {
+    "key": "31-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "31-content",
+    "original": "이 차원 바깥에서 바라볼 때는 멈추었다고 느낄 정도로 시간이 아득히 느려져 있다… 그렇게 볼 수 있지 않겠는가.",
+    "context": "EN :\nHowbeit, would it not be more accurate to muse that the flow of time has decelerated to the point where, to an extradimensional observer, it has slowed to a stop? What is your perspective regarding this suggestion?\nJP :\nこの次元の外より眺むと、止まりきと感ずるほどに\n時間が遥かに遅くなれり…さ見るべからずや。"
+  },
+  {
+    "key": "32-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "32-content",
+    "original": "네. 이상 씨의 의견이 합리적이겠네요.",
+    "context": "EN :\nYes. That is a most rational suggestion, Yi Sang.\nJP :\nはい。イサンさんの意見が合理的でしょうね。"
+  },
+  {
+    "key": "33-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "33-content",
+    "original": "어… 파우스트 씨가 틀린 적도 있으셨나요?",
+    "context": "EN :\nUh... Did Miss Faust just get something wrong?\nJP :\nえっ…ファウストさんが間違うこともあるんですか？"
+  },
+  {
+    "key": "34-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "34-content",
+    "original": "<여, 역시 이상은 시간 현상에 있어서는 전문가라니까. 이왕 이렇게 된 거 이상이 좀 더 풀어서 설명해주는 게 어때?>",
+    "context": "EN :\n<W-wow, Yi Sang sure is a time expert, right? Can you summarize it in easier language now that we're talking about it anyway?>\nJP :\n<や、やっぱりイサンは時間現象に関しては専門家だからねぇ。\nこうなったんだし、ついでにイサンの方からもうちょっと\n噛み砕いて説明してくれたりしないかなぁ？>"
+  },
+  {
+    "key": "35-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "35-content",
+    "original": "오, 그래도 되겠는가. ",
+    "context": "EN :\nAh. Gladly, if you would allow me.\nJP :\nあなや、さすべしや？"
+  },
+  {
+    "key": "36-content",
+    "original": "이상이 조금 기뻐하는 듯한 기색으로 말을 이어 나간다. ",
+    "context": "EN :\nYi Sang began to elaborate with gentle enthusiasm.\nJP :\nイサンが少し嬉しそうな様子で話を続けた。"
+  },
+  {
+    "key": "37-content",
+    "original": "…한시름 놓았나.",
+    "context": "EN :\n... That was close.\nJP :\n…これで一安心だ。"
+  },
+  {
+    "key": "38-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "38-content",
+    "original": "간단히 풀어 말하면, 이 열차에는 죽음이 존재하지 않소.",
+    "context": "EN :\nTo speak in brevity, it can be said that death is not an element aboard this train.\nJP :\n易く言わば、この列車には死あらず。"
+  },
+  {
+    "key": "39-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "39-content",
+    "original": "너무 생략한 것 같은데…?",
+    "context": "EN :\nAnd...? Can ya maybe speak in a little less brevity?\nJP :\n省略しすぎてない…？"
+  },
+  {
+    "key": "40-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "40-content",
+    "original": "아, 말을 얹자면…",
+    "context": "EN :\nAh, to elaborate...\nJP :\nあな、言の葉付け加うと…。"
+  },
+  {
+    "key": "41-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "41-content",
+    "original": "…정말이군! 이자, 심장이 뛰고 있네!",
+    "context": "EN :\n... Ah, verily! This one's heart beats still!\nJP :\n…本当である！この者、心臓が弾んでおるぞ！"
+  },
+  {
+    "key": "42-content",
+    "original": "돈키호테가 파편 중 몸통으로 보이는 것에 귀를 기울이더니, 짐짓 안도한 듯 나직하게 외쳤다.",
+    "context": "EN :\nDon Quixote lowers her head and listens closely to what appeared to be a dismembered torso... and shouts with relief.\nJP :\nドンキホーテが破片の中の胴体に見えるものに耳を傾けると、\nほっとした様子で低く呟いた。"
+  },
+  {
+    "key": "43-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "43-content",
+    "original": "이들은 퍼즐 조각이 여러 개로 나뉜 것처럼, 단지 활동할 수 없는 상태로 나뒹굴고 있을 뿐이요.",
+    "context": "EN :\nTheir state is akin to an unassembled jigsaw puzzle; merely immobilized and separated.\nJP :\n彼らはパズルのピィスがいくつかに分かれたかのごとく\nただ、え活動できぬ有様にて転がれるばかりなり。"
+  },
+  {
+    "key": "44-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "44-content",
+    "original": "몸이 분리된다는 과정은 진행되었지만, 이 열차의 존재는 보존되고 한없이 유예되므로…",
+    "context": "EN :\nThough their corpus has been sundered, the concept of death is at a state of, for all intents and purposes, eternal delay aboard this train, existence in continuance of moratorium...\nJP :\n身体が分離すという過程は進めど、\nこの列車の存在は残され、限りなく猶予さるれば…。"
+  },
+  {
+    "key": "45-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "45-content",
+    "original": "그저 한없이 가늘어져도 끊어지지는 않는 생명만을 붙든 채, 이리 널브러질 뿐이지.",
+    "context": "EN :\nForced, they are, to be tethered upon the thinnest yet tenacious thread of life.\nJP :\nただ限りなく細くなるとも絶えぬ命を保ちしまま、\nかく散らばるばかりなり。"
+  },
+  {
+    "key": "46-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "46-content",
+    "original": "어려운 말은 잘 모르겠지만… 아무튼 죽지는 않은 것이군!",
+    "context": "EN :\nMm... I ill understood what hath been said here, yet they are not dead all the same, hm?\nJP :\n難しいことはよく分からぬが…とにかく死んではおらぬということであるな！"
+  },
+  {
+    "key": "47-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "47-content",
+    "original": "이들의 파편이 연결되어 있다는 것은, 아무리 뒤섞여 있어도 결국 파편끼리의 실타래를 따라 모아보면 승객 하나하나를 특정할 수 있다는 뜻이겠죠.",
+    "context": "EN :\nIf their severed parts are all connected... then it can be said that no matter how entangled their bodies become, it is not impossible to eventually gather their parts together to form a single passenger.\nJP :\nこの者たちの破片が繋がっているということは、いくら入り混じっていても\n破片同士を繋いでいる糸に沿って集めれば、\n乗客を一つ一つ特定できるという意味でしょうね。"
+  },
+  {
+    "key": "48-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "48-content",
+    "original": "자연스럽게… W사의 정리 요원이라는 직책이 생긴 이유를 추론할 수 있겠습니다.",
+    "context": "EN :\nThus, naturally, we can determine how and why the profession 'W Corp. Cleanup Agent' has come to be.\nJP :\n自然と…W社整理要員という役職が生じた理由を推論することができそうです。"
+  },
+  {
+    "key": "49-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "49-content",
+    "original": "누군가는 이 퍼즐들을 조립해서 구별해둘 필요가 있을 테니…",
+    "context": "EN :\nI see. Because someone will have to categorize and reconstruct these puzzles once the journey is over.\nJP :\n誰かしら、このパズルを組み立てて区別する必要があるから…。"
+  },
+  {
+    "key": "50-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "50-content",
+    "original": "<그런 걸로 직업이 생겨난다니, 좀 심한데…>",
+    "context": "EN :\n<It's really baffling to me that a job like that even exists...>\nJP :\n<そんなので職業が生まれるだなんて、ちょっと酷い話だなぁ…。>"
+  },
+  {
+    "key": "51-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "51-content",
+    "original": "날개에서 하는 일치고 심하지 않은 게 어디 있겠어?",
+    "context": "EN :\nEver seen a Wing that wasn't baffling in every sense of that word?\nJP :\n翼がやらかしてることに酷くないことがあるとでも？"
+  },
+  {
+    "key": "52-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "52-content",
+    "original": "<그래도… 결국 이 열차가 도착하면 승객들이 전부 분류되어서 아무 일 없었던 것처럼 돌아갈 수 있겠네.>",
+    "context": "EN :\n<Still... I guess that means that, as long as the train arrives at the station, they'll all be put back together like nothing happened.>\nJP :\n<でも…最終的にこの列車が到着すれば、乗客たちが全部分類されて\n何事も無かったかのように戻れそうだね。>"
+  },
+  {
+    "key": "53-content",
+    "original": "인격들이 말했던 것을 떠올려보면, 하나같이 이런 조각들을 모아서 승객이 탑승 직후의 상태로 돌리는 일을 했던 것 같다.",
+    "context": "EN :\nFrom what I learned through the W Corp. Identities, their main job was to gather chunks of flesh together to bring them back to their original shapes before they boarded the trains.\nJP :\n人格が言ったことを思い返すと、皆が皆このような欠片を集めて\n乗客を搭乗直後の状態に戻す仕事をしていた気がする。"
+  },
+  {
+    "key": "54-content",
+    "original": "직접 보게 되니 잔혹하다는 생각이 들기는 하지만…",
+    "context": "EN :\nIt's a lot more visceral when I have to look at it in person...\nJP :\nこの目で直接見た感想としては、残酷だなぁとは思うけど…。"
+  },
+  {
+    "key": "55-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "55-content",
+    "original": "휴… 그거 듣던 중 다행이군. ",
+    "context": "EN :\nPhew... that is quite the auspicious news among ill tidings indeed.\nJP :\nふぅ…それを聞いて安心したぞ。"
+  },
+  {
+    "key": "56-content",
+    "original": "안도의 한숨을 내쉬는 돈키호테를 보자 파우스트가 어설프게나마 하려고 했던 것이 무엇인지 알 수 있었다. ",
+    "context": "EN :\nIt soon clicked in me what Faust was, though with some awkward effort, trying to do as I watched Don Quixote sigh with relief.\nJP :\n安堵の溜め息を吐くドンキホーテを見ると、拙くはあったけど\nファウストが何を言おうとしたのかが分かった。"
+  },
+  {
+    "key": "57-content",
+    "original": "어쩌면 지금의 파우스트는 돈키호테에게 나름대로 위로를 하려고 했던 걸지도 모른다. ",
+    "context": "EN :\nMaybe Faust was trying to cheer Don Quixote up in her own way.\nJP :\nもしかすると、今のファウストは自分なりにドンキホーテを\n慰めようとしたのかもしれない。"
+  },
+  {
+    "key": "58-content",
+    "original": "이전의 파우스트라면 하지 않아도 될 행동이었겠지만…",
+    "context": "EN :\nThe other Faust would not find it even necessary to do something like that...\nJP :\n前のファウストならやらなくても良い行動だっただろうけど…。"
+  },
+  {
+    "key": "59-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "59-content",
+    "original": "단테.",
+    "context": "EN :\nDante.\nJP :\nダンテ。"
+  },
+  {
+    "key": "60-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "60-content",
+    "original": "<왜 그래?>",
+    "context": "EN :\n<Huh? What's up?>\nJP :\n<どうしたの？>"
+  },
+  {
+    "key": "61-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "61-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "62-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "62-content",
+    "original": "<아, 비밀 이야기.>",
+    "context": "EN :\n<Oh. Time to whisper, right?>\nJP :\n<あ、秘密の話か。>"
+  },
+  {
+    "key": "63-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "63-content",
+    "original": "…네, 정보를 수집 중입니다.",
+    "context": "EN :\n... Indeed. I intend to collect further intelligence.\nJP :\n…はい、情報を収集中です。"
+  },
+  {
+    "key": "64-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "64-content",
+    "original": "<내가 대답해줄 수 있는 거라면…>",
+    "context": "EN :\n<Well, if there's anything I can tell you...>\nJP :\n<私が答えられることなら…。>"
+  },
+  {
+    "key": "65-content",
+    "original": "파우스트는 잠시 어두운 눈빛으로 파편 쪽을 쳐다보다가, 시선을 그대로 둔 채 속삭였다.",
+    "context": "EN :\nFaust cast a dark gaze toward the chunks of flesh. Her gaze remained fixed upon them as she whispered.\nJP :\nファウストはしばらくのあいだ暗い目で破片の方を見つめると、\n視線をそのままにして囁いた。"
+  },
+  {
+    "key": "66-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "66-content",
+    "original": "이들이 뒤틀림인지, 혹은 환상체인지 아시겠나요?",
+    "context": "EN :\nAre they Distortions, or... Abnormalities?\nJP :\nこれがねじれか、あるいは幻想体か分かりますか？"
+  },
+  {
+    "key": "67-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "67-content",
+    "original": "<아… 안 그래도 묻고 싶었던 건데.>",
+    "context": "EN :\n<Oh... yeah. I actually wanted to ask you about that.>\nJP :\n<あぁ…ちょうど聞こうと思ってたんだけど。>"
+  },
+  {
+    "key": "68-content",
+    "original": "이들에게도 사람과는 다른… 그러니까 괴물에게서 느껴지는 감각을 느낄 수 있었다.",
+    "context": "EN :\nThey weren't humans, that's for sure. From them, I felt the same sensation I felt from monsters.\nJP :\nこの者たちからも人間とは違う…だからその、怪物から感じられるような感覚がした。"
+  },
+  {
+    "key": "69-content",
+    "original": "설명할 수 없는, 애매모호한 감각, 혹은 느낌.",
+    "context": "EN :\nSomething inexplicable. An unclear sensation or an aura.\nJP :\n説明できない、曖昧な感覚。あるいはフィーリング。"
+  },
+  {
+    "key": "70-content",
+    "original": "분명 이것들도 어디선가 느껴본 적은 있는 것 같은 감각인데… 그 정체를 알 수 없다.",
+    "context": "EN :\nI've felt this somewhere before, I'm sure of it. But... I couldn't quite pinpoint the source of this sensation.\nJP :\n確かこれもどこかしらで感じたことはあるような感覚なんだけど…\nその正体が分からない。"
+  },
+  {
+    "key": "71-content",
+    "original": "확실한 건, 환상체나 뒤틀림… 죄종에게서 느껴지는 감각과는 분명하게 다르다는 것뿐이다.",
+    "context": "EN :\nOne thing I do know for sure is that this sensation was not the same feeling I got from Abnormalities, Distortions, or even the Peccatula.\nJP :\n確かなのは、幻想体やねじれ…大罪から感じる雰囲気とは\n明確に違うということだけだ。"
+  },
+  {
+    "key": "72-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "72-content",
+    "original": "<굳이 따지자면 뒤틀림에… 가까운 것 같긴 한데.>",
+    "context": "EN :\n<If I had to lean one way or the other, I'd say they're... closer to Distortions.>\nJP :\n<強いて言うならねじれに…近い気はするけど。>"
+  },
+  {
+    "key": "73-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "73-content",
+    "original": "<미안, 일단 둘 다 아닌 것 같아.>",
+    "context": "EN :\n<I'm sorry, I don't think they're either of those.>\nJP :\n<ごめん、とりあえずどっちでもないと思う。>"
+  },
+  {
+    "key": "74-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "74-content",
+    "original": "확신할 수 없는 건가요?",
+    "context": "EN :\nIs it difficult to be certain at the moment?\nJP :\n確信できないんですか？"
+  },
+  {
+    "key": "75-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "75-content",
+    "original": "<설명하긴 어렵지만… 뭔가 뒤틀림하고 굉장히 비슷한데… 달라.>",
+    "context": "EN :\n<Again, I'm not sure how I can explain this, but they're very, very similar to Distortions. But also... different.>\nJP :\n<説明するのは難しいんだけど…なんだかねじれと凄く似てるけど…違うんだ。>"
+  },
+  {
+    "key": "76-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "76-content",
+    "original": "<이렇게 묻는다는 건… 파우스트는 모르는 거구나.>",
+    "context": "EN :\n<If you had to ask, then... I'm gonna guess Faust doesn't know?>\nJP :\n<こういう風に聞いてくるってことは…ファウストは知らないんだね。>"
+  },
+  {
+    "key": "77-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "77-content",
+    "original": "파우스트라면 알고 있을 수도 있겠지만… 적어도 지금의 저는 알 수 없군요.",
+    "context": "EN :\nFaust may know... but I, at this moment, have no way of knowing.\nJP :\nファウストなら知っているかもしれませんが…\n少なくとも今の私には分かりませんね。"
+  },
+  {
+    "key": "78-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "78-content",
+    "original": "<…뭔가 미안하네.>",
+    "context": "EN :\n<... I feel like I should apologize for that.>\nJP :\n<…何だか申し訳ないね。>"
+  },
+  {
+    "key": "79-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "79-content",
+    "original": "그러실 필요는 없습니다, 단테.",
+    "context": "EN :\nThere is no need, Dante.\nJP :\nそう思う必要はありません、ダンテ。"
+  },
+  {
+    "key": "80-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "80-content",
+    "original": "불확실한 정보지만 그 덕에 한 가지 추론에 도달할 수 있었기 때문에.",
+    "context": "EN :\nThough the information you have provided me is rather ambiguous, it has helped me deduce something of worth.\nJP :\n不確実な情報ですが、そのおかげで1つの推論に到達できましたので。"
+  },
+  {
+    "key": "81-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "81-content",
+    "original": "그리고…",
+    "context": "EN :\nAnd...\nJP :\nそして…。"
+  },
+  {
+    "key": "82-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "82-content",
+    "original": "직접 정보를 수집하며 논리적 결론을 만들어내는 것도 예상보다…",
+    "context": "EN :\nCollecting intelligence myself and creating deductions based on sparse information is quite...\nJP :\n手ずから情報を収集しながら論理的結論を作っていくのも、予想より…。"
+  },
+  {
+    "key": "83-content",
+    "original": "파우스트가 잔뜩 곤죽이 된 파편들을 손에 쥐고서 말했다.",
+    "context": "EN :\nShe paused, holding a bloody, slimy chunk of flesh in her hands.\nJP :\nファウストがミンチになった破片を手に握りながら言った。"
+  },
+  {
+    "key": "84-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "84-content",
+    "original": "…쟤 지금 살점 조각 들고 혼자 웃은 거야?",
+    "context": "EN :\n... Did she just smile to herself with gore in her hands?\nJP :\n…アイツいま肉の破片持って\nひとりで笑ってなかったか？"
+  },
+  {
+    "key": "85-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "85-content",
+    "original": "후, 드디어 각성한 것인가.",
+    "context": "EN :\nHooh. Finally, the awakening has begun.\nJP :\nふぅ、ついに覚醒したか。"
+  }
+]

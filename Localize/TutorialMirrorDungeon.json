@@ -1,0 +1,712 @@
+[
+  {
+    "key": "tutorial_mirrordungeon04_page_01_title_01-content",
+    "original": "폭풍의 거울",
+    "context": "EN :\nMirror of the Wuthering\nJP :\n嵐の鏡"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_01_desc_01-content",
+    "original": "시즌 4 거울 던전의 명칭은 폭풍의 거울로 불립니다.",
+    "context": "EN :\nSeason 4's Mirror Dungeon is called 'Mirror of the Wuthering'.\nJP :\nシーズン4 鏡ダンジョンの名称は「嵐の鏡」です。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_01_desc_02-content",
+    "original": "시뮬레이션 난이도와 리토르넬로 난이도 중 하나를 선택하여 입장할 수 있습니다.",
+    "context": "EN :\nChoose between 'Simulation' and 'Ritornello' difficulties to enter.\nJP :\n難易度:シミュレーションとリトルネッロの内1つを選択し、入場することができます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_02_title_01-content",
+    "original": "주간 추가 보상",
+    "context": "EN :\nWeekly Bonuses\nJP :\nウィークリー追加報酬"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_02_desc_01-content",
+    "original": "거울 던전에서는 주간 추가 보상 기회가 제공됩니다. 보상 수령 시점에 추가 보상 기회를 사용하면 획득하는 보상의 수치가 크게 증가합니다.",
+    "context": "EN :\nEvery week, Mirror Dungeons offer Weekly Bonuses. Use Weekly Bonuses when you're claiming the rewards for the run—and receive greatly increased rewards.\nJP :\n鏡ダンジョンでは、ウィークリー追加報酬チャンスが提供されます。報酬受け取り時に追加報酬チャンスを使用すれば、獲得する報酬の数値が大幅に増加します。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_02_desc_02-content",
+    "original": "주간 추가 보상은 난이도 관계없이 매주 최대 3회까지 제공됩니다.",
+    "context": "EN :\nEvery week, you can receive 3 Weekly Bonuses regardless of difficulty.\nJP :\nウィークリー追加報酬は、難易度と関係なしに毎週最大3回まで提供されます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_02_desc_03-content",
+    "original": "리토르넬로 난이도 클리어 시에는 주간 추가 보상 기회를 한 번에 2개 이상 소모할 수 있으며, 그에 비례한 보상을 획득할 수 있습니다.",
+    "context": "EN :\nIn Ritornello difficulty, you can use 2 or more Weekly Bonuses at once, and will receive rewards proportional to the number of Weekly Bonuses used.\nJP :\n難易度:リトルネッロクリア時はウィークリー追加報酬チャンスを1度に2回以上消耗でき、それに比例した報酬を獲得できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_02_desc_04-content",
+    "original": "단, 주간 추가 보상 기회를 한 번에 사용하는 것보다는 한 번에 1회씩 사용하는 것이 소모한 엔케팔린 대비 보상 효율이 제일 높습니다.",
+    "context": "EN :\nHowever, it is more enkephalin-efficient to use all 3 Weekly Bonuses at once rather than to use them one at a time.\nJP :\nただし、ウィークリー追加報酬を一括で使用するよりかは、1度に1回ずつ使用する方が消耗エンケファリン効率が高くなります。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_03_title_01-content",
+    "original": "수감자",
+    "context": "EN :\nSinners\nJP :\n囚人"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_03_desc_01-content",
+    "original": "수감자 편성 현황을 확인할 수 있습니다.",
+    "context": "EN :\nYou can view your currently deployed Sinners here.\nJP :\n囚人の編成状況が確認できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_03_title_02-content",
+    "original": "시작 버프",
+    "context": "EN :\nStarter Buffs\nJP :\n開始バフ"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_03_desc_02-content",
+    "original": "거울 던전 클리어 시 획득하는 별빛을 사용하여 거울 던전 진행에 도움이 되는 다양한 버프를 획득할 수 있습니다.",
+    "context": "EN :\nCollect Starlight from completing Mirror Dungeons and use them to obtain several Starter Buffs that will help you in the Mirror Dungeon.\nJP :\n鏡ダンジョンでクリア時に獲得する星明かりを使用し、鏡ダンジョン進行の役に立つ様々なバフを獲得できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_03_title_03-content",
+    "original": "테마팩 기록집",
+    "context": "EN :\nTheme Pack Compendium\nJP :\nテーマパック記録"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_03_desc_03-content",
+    "original": "거울 던전에 등장하는 층 테마 팩을 확인할 수 있습니다. 거울 던전 진행 중에 선택한 층 테마에 대한 기록이 수집됩니다.",
+    "context": "EN :\nYou can view the list of Floor Theme Packs that appear in the Mirror Dungeon. Selected Floor Theme Pack records will be collected here.\nJP :\n鏡ダンジョンに登場する階層テーマパックを確認することができます。\n鏡ダンジョン進行中に選択した階層テーマに関する記録が収集されます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_03_title_04-content",
+    "original": "E.G.O 기프트 기록집",
+    "context": "EN :\nE.G.O Gift Compendium\nJP :\nE.G.Oギフト記録集"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_03_desc_04-content",
+    "original": "거울 던전에 등장하는 E.G.O 기프트를 확인할 수 있습니다. 거울 던전 진행 중에 획득한 E.G.O 기프트의 기록이 추가됩니다.",
+    "context": "EN :\nYou can view the list of E.G.O Gifts that appear in the Mirror Dungeon. Obtaining an E.G.O Gift in the Mirror Dungeon will add an entry to your E.G.O Gift Compendium.\nJP :\n鏡ダンジョンに出現するE.G.Oギフトを確認できます。鏡ダンジョンを進みながら獲得したE.G.Oギフトが記録に追加されます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_04_title_01-content",
+    "original": "시작 버프",
+    "context": "EN :\nStarter Buffs\nJP :\n開始バフ"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_04_desc_01-content",
+    "original": "시작 버프를 많이 활성화할수록 진행 과정에서 도움이 되는 E.G.O 기프트를 획득할 기회가 많아집니다.",
+    "context": "EN :\nYou can increase your chances of obtaining helpful E.G.O Gifts during your Mirror Dungeon run by activating more Starter Buffs.\nJP :\n開始バフを活性化するたび、進行に役立つE.G.Oギフトを獲得できるチャンスが増えます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_04_desc_02-content",
+    "original": "시작 버프는 던전의 난이도 상관없이 적용됩니다.",
+    "context": "EN :\nStarter Buffs do not change with the Mirror Dungeon difficulties.\nJP :\n開始バフは、ダンジョンの難易度にかかわらず適用されます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_04_title_02-content",
+    "original": "별빛",
+    "context": "EN :\nStarlight\nJP :\n星明かり"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_04_desc_03-content",
+    "original": "별빛은 거울 던전 클리어 시 획득할 수 있습니다.",
+    "context": "EN :\nYou can obtain Starlight from completing Mirror Dungeon runs.\nJP :\n星明かりは、鏡ダンジョンクリア時に獲得できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_04_desc_04-content",
+    "original": "높은 층에 오를수록 더 많은 별빛을 획득할 수 있습니다.",
+    "context": "EN :\nThe higher you rise through the Mirror Dungeon floors, the more Starlight you will obtain.\nJP :\n高い階層に上るほど、より多くの星明かりを獲得できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_05_title_01-content",
+    "original": "시작 E.G.O 기프트 선택",
+    "context": "EN :\nStarting E.G.O Gift Choice\nJP :\n開始E.G.Oギフト選択"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_05_desc_01-content",
+    "original": "거울 던전 입장 시, E.G.O 기프트의 키워드별 항목이 제시됩니다. 처음에는 무작위만 표시되지만 시작 버프를 통해 키워드별 항목을 추가로 개방할 수 있습니다.",
+    "context": "EN :\nWhen you enter a Mirror Dungeon, you’ll be offered a selection of Keyword-based categories of E.G.O Gifts. At first, you will only have access to the Random category. However, you can unlock more Keyword categories as you activate more Starter Buffs.\nJP :\n鏡ダンジョン入場時、E.G.Oギフトのキーワード別項目が提示されます。最初はランダムに表示されますが、開始バフよりキーワード別項目を追加で解放できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_05_desc_02-content",
+    "original": "각 키워드별 항목의 등장 E.G.O 기프트는 고정이며, 선택한 카테고리 내에 있는 E.G.O 기프트를 선택 가능한 수만큼 획득할 수 있습니다.",
+    "context": "EN :\nE.G.O Gifts appearing in each category are fixed. You can choose as many E.G.O Gifts as it is available to you from the same category.\nJP :\n各キーワード別項目の出現E.G.Oギフトは固定であり、選択したカテゴリ内にあるE.G.Oギフトを選択可能な数だけ獲得できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_05_desc_03-content",
+    "original": "직전 클리어 시 선택하지 않은 E.G.O 기프트 항목을 선택하여 거울 던전을 클리어한다면 별빛을 추가로 획득할 수 있습니다.",
+    "context": "EN :\nYou can obtain extra Starlight by choosing an E.G.O Gift category that you did not use in your immediately preceding run.\nJP :\n前回のクリア時に選択していないE.G.Oギフトの項目を選択して鏡ダンジョンをクリアすると、星明かりを追加で獲得できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_06_title_01-content",
+    "original": "수감자 선택",
+    "context": "EN :\nForming the Team\nJP :\n囚人選択"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_06_desc_01-content",
+    "original": "거울 던전에 참여할 수감자를 선택하여 편성합니다.",
+    "context": "EN :\nSelect Sinners who will participate in the Mirror Dungeon run.\nJP :\n鏡ダンジョンに参加する囚人を選択して編成します。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_06_desc_02-content",
+    "original": "거울 던전 편성 단계에서는 인격의 레벨에 보정치를 반영하여 45로 적용됩니다. 리토르넬로 난이도에서는 보유한 인격의 레벨이 적용됩니다. (최대 레벨 45)",
+    "context": "EN :\nIn the Mirror Dungeon deployment stage, all Identity Levels will be fixed to 45. In the Ritornello difficulty, your current Identity levels will be reflected instead. (Max Lv. 45)\nJP :\n鏡ダンジョン編成段階では、人格レベルに補正値を反映して45として適用します。リトルネッロでは保有している人格レベルが適用されます。(最大レベル45)"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_06_desc_03-content",
+    "original": "1성, 2성 인격을 편성할 경우, 입장 시 코스트를 추가로 획득할 수 있습니다.",
+    "context": "EN :\nDeploy 1★ or 2★ Identities to gain additional Cost upon entry.\nJP :\n星1, 星2人格を編成する場合、入場時のコストを追加で獲得できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_06_desc_04-content",
+    "original": "만약 이전 클리어 과정에서 교체를 포함해 한 번도 선택하지 않은 인격을 편성할 경우, 입장 시 코스트를 추가로 획득할 수 있습니다.",
+    "context": "EN :\nDeploy Identities that have not been used in your immediately preceding Run to gain additional Cost upon entry.\nJP :\n以前のクリア過程にて、交換を含めて一度も選択していない人格を編成する場合、入場時のコストを追加で獲得できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_07_title_01-content",
+    "original": "휴식 게이지",
+    "context": "EN :\nRest Bonus\nJP :\n休息ゲージ"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_07_desc_01-content",
+    "original": "거울 던전 클리어 시, 편성한 인격의 휴식 게이지가 전부 소모되고 그 수치의 총합만큼 별빛을 추가로 획득합니다.",
+    "context": "EN :\nThe deployed Identity's Rest Bonus will be completely exhausted upon clearing the Mirror Dungeon. The more Rest Bonus you exhaust, the more Starlight you will earn.\nJP :\n鏡ダンジョンクリア時、編成した人格の休息ゲージの残存値が星明かりに変換されます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_07_desc_02-content",
+    "original": "단, 게임 진행 과정에서 한 번이라도 교체된 인격은 휴식 게이지가 소모되지 않아 별빛을 획득할 수 없습니다.",
+    "context": "EN :\nHowever, Identities that have been swapped in or out during the Mirror Dungeon run will not spend their Rest Bonuses, and will not provide additional Starlight.\nJP :\nただし、ゲーム進行中に一度でも交換した人格は休息ゲージが消耗されず、星明かりを獲得することはできません。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_07_desc_03-content",
+    "original": "휴식 게이지를 소모하였거나 한 번이라도 교체된 인격을 제외한 나머지 모든 인격은 휴식 게이지가 한 칸 증가합니다.",
+    "context": "EN :\nIdentities that did not spend their Rest Bonuses, and Identities that were not swapped in or out will gain 1 Bar of Rest Bonus.\nJP :\n休息ゲージを消耗するか、一度でも交換した人格を除いた残りの全人格は休憩ゲージが1枠増加します。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_08_title_01-content",
+    "original": "거울 던전 입장",
+    "context": "EN :\nEntering the Mirror Dungeon\nJP :\n鏡ダンジョンへの入場"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_08_desc_01-content",
+    "original": "인격과 E.G.O 편성을 완료하였다면 확인 버튼을 통해 거울 던전 스테이지로 입장할 수 있습니다.",
+    "context": "EN :\nAfter finishing up the initial Team setup, press 'Confirm' to enter the Mirror Dungeon.\nJP :\n人格とE.G.Oの編成が完了すると、確認ボタンで鏡ダンジョンのステージへ入場することができます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_08_desc_02-content",
+    "original": "편성 과정에서 획득하게 된 추가 코스트 수량 합계가 표시됩니다.",
+    "context": "EN :\nThis area displays the additional Cost you have gained over the deployment process.\nJP :\n編成段階で獲得した追加コストの合計が表示されます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_09_title_01-content",
+    "original": "층 테마팩 선택",
+    "context": "EN :\nSelecting Floor Theme Packs\nJP :\n階層テーマパックの選択"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_09_desc_01-content",
+    "original": "층 진입 시, 이번 층에서 마주할 테마를 제시된 목록 중에서 선택할 수 있습니다. 선택하고자 하는 카드팩을 아래로 드래그하여 고를 수 있습니다.",
+    "context": "EN :\nUpon entering a new Floor, you will be presented with a collection of different 'Themes' that you can choose to face on this Floor. Select and pull down a Card Pack you would like to challenge for this Floor.\nJP :\n階層突入時、今回の階層にて遭遇するテーマを提示されたリストの中から選択できます。カードパックを下にドラッグすると選択できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_09_desc_02-content",
+    "original": "각각의 층 테마팩 우상단 버튼을 통해 해당 팩에서 등장할 수 있는 보스와 E.G.O 기프트를 확인할 수 있습니다.",
+    "context": "EN :\nYou can view the available Bosses and E.G.O Gifts from the Theme Pack by pressing this button in the top right corner of each Theme Pack.\nJP :\nそれぞれの階層テーマパックの右上にあるボタンを押すと、該当パックにて出現するボスとE.G.Oギフトが確認できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_09_desc_03-content",
+    "original": "층 테마팩 하단에는 해당 층 테마의 보스 클리어 시 제시되는 E.G.O 기프트의 목록이 표시됩니다.",
+    "context": "EN :\nAt the bottom of the Floor Theme Packs, you can view the E.G.O Gifts that you can choose from after defeating the boss of the Floor Theme.\nJP :\n階層テーマパック下段には、該当する階層テーマのボスクリア時に提示されるE.G.Oギフトのリストが表示されます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_09_desc_04-content",
+    "original": "층 테마마다 각각 적, E.G.O 기프트, 선택지의 등장 범위가 정해져 있기 때문에, 현재 편성으로 상대하기 유리한 적들이나 편성에 도움이 되는 E.G.O 기프트가 존재하는 층 테마팩을 선택하는 것이 효율적입니다.",
+    "context": "EN :\nBecause each Floor Theme has a set range of E.G.O Gifts and Choices, it would be most effective to choose the Floor Theme Pack that has enemies that are weak to your current Team composition, or Floor Theme Packs with E.G.O Gifts that you need.\nJP :\n階層テーマごとにそれぞれ敵・E.G.Oギフト・選択肢の出現範囲が決まっているので、現在の編成で挑むのに有利な敵や、編成に役立つE.G.Oギフトが存在するテーマパックを選択すると効率的です。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_10_title_01-content",
+    "original": "거울 던전 탐사",
+    "context": "EN :\nExploring Mirror Dungeons\nJP :\n鏡ダンジョン探査"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_10_desc_01-content",
+    "original": "거울 던전에 입장하게 되면 방과 경로가 무작위로 생성됩니다.",
+    "context": "EN :\nThe Mirror Dungeon rooms and paths are randomly generated.\nJP :\n鏡ダンジョンへ入場すると、部屋と経路がランダムで生成されます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_10_desc_02-content",
+    "original": "현재 방에서 연결된 방을 선택해 진행하며, 각 방에선 다양한 종류의 전투와 이벤트가 무작위로 등장합니다.",
+    "context": "EN :\nYou proceed by moving to nodes adjacent to your current node. You may find various events or combat encounters in each of the nodes.\nJP :\n現在の部屋から繋がっている部屋を選択しながら進め、それぞれの部屋では様々な種類の戦闘やイベントがランダムに発生します。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_10_title_02-content",
+    "original": "별빛과 코스트",
+    "context": "EN :\nStarlight & Starting Cost\nJP :\n星明かりとコスト"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_10_desc_03-content",
+    "original": "거울 던전 진행 과정에서 별빛과 코스트를 획득할 수 있습니다. 별빛으로는 시작 버프 별새김을, 코스트로는 진행 중 상점이나 쉼터의 기능을 이용할 수 있습니다.",
+    "context": "EN :\nYou will earn 'Starlight' and 'Cost' as you proceed through the Mirror Dungeon. Starlight can be spent to engrave stars(activate) Starter Buffs, and 'Cost' can be spent at Shops and Rest Stops found in the Mirror Dungeon.\nJP :\n鏡ダンジョンを進める過程で星明かりとコストを獲得できます。星明かりでは開始バフの刻星を、コストでは進行中にショップや憩いの場の機能を利用できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_11_title_01-content",
+    "original": "E.G.O 기프트",
+    "context": "EN :\nE.G.O Gifts\nJP :\nE.G.Oギフト"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_11_desc_01-content",
+    "original": "획득한 E.G.O 기프트가 표시됩니다. E.G.O 기프트는 던전 안에서 적용되는 강력한 효과를 주는 아이템입니다.",
+    "context": "EN :\nAcquired E.G.O Gifts are displayed here. E.G.O Gifts are items that offer powerful effects that last until the end of the Dungeon.\nJP :\n獲得したE.G.Oギフトが表示されます。E.G.Oギフトはダンジョンの中で適用される、強力な効果を与えるアイテムです。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_11_title_02-content",
+    "original": "스테이지 유효 속성",
+    "context": "EN :\nEffective Attacks\nJP :\nステージ有効属性"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_11_desc_02-content",
+    "original": "거울 던전의 전투 방 하단에는 해당 스테이지에서 유효한 속성이 표기됩니다.",
+    "context": "EN :\nBelow the combat Encounter nodes in Mirror Dungeons are types and affinities effective against the enemies in each node.\nJP :\n鏡ダンジョンの戦闘部屋の下部には、該当ステージにて有効な属性が表記されます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_11_title_03-content",
+    "original": "수감자 현황",
+    "context": "EN :\nSinner Status\nJP :\n囚人状況"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_11_desc_03-content",
+    "original": "던전을 진행하는 동안 수감자들의 체력과 정신력, 사망 상태는 유지됩니다.",
+    "context": "EN :\nThe HP, SP, and lost lives of your Sinners will carry over between encounters.\nJP :\nダンジョンを進める間、囚人の体力と精神力・死亡状態は維持されます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_12_title_01-content",
+    "original": "상점",
+    "context": "EN :\nShops\nJP :\nショップ"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_12_desc_01-content",
+    "original": "코스트를 소모하여 E.G.O 기프트를 구입하거나 아군 회복, 추가 편성, 제시된 인격 강화를 진행할 수 있습니다.",
+    "context": "EN :\nAt Shops, you can spend your 'Cost' to purchase E.G.O Gifts, heal allies, deploy/swap out additional Identities or power up selected Identities.\nJP :\nコストを消耗してE.G.Oギフトの購入、味方の回復、追加編成、提示された人格の強化を実施できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_12_desc_02-content",
+    "original": "사용하지 않는 E.G.O 기프트를 상점에서 판매하여 코스트를 획득할 수 있습니다.",
+    "context": "EN :\nAt Shops, you can sell E.G.O Gifts you don't use to obtain 'Cost'.\nJP :\n使用しないE.G.Oギフトをショップにて売却し、コストを獲得できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_13_title_01-content",
+    "original": "쉼터",
+    "context": "EN :\nRest Stops\nJP :\n憩いの場"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_13_desc_01-content",
+    "original": "코스트를 소모하여 아군 회복, 추가 편성, E.G.O 기프트 강화를 진행할 수 있습니다.",
+    "context": "EN :\nAt Rest Stops, you can spend your 'Cost' to heal allies, deploy/swap out additional Identities or enhance E.G.O Gifts.\nJP :\nコストを消耗して味方回復、追加編成、E.G.Oギフト強化を実施できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_13_desc_02-content",
+    "original": "E.G.O 기프트를 합성하여 다른 E.G.O 기프트를 노려볼 수 있습니다.",
+    "context": "EN :\nYou can Fuse E.G.O Gifts to obtain different E.G.O Gifts.\nJP :\nE.G.Oギフトを合成し、他のE.G.Oギフトの獲得を狙うことができます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_14_title_01-content",
+    "original": "전투 보상 카드",
+    "context": "EN :\nEncounter Reward Cards\nJP :\n戦闘報酬カード"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_14_desc_01-content",
+    "original": "전투에서 승리하면 전투 난이도에 따라 일정 확률로 전투 보상 카드가 등장합니다.",
+    "context": "EN :\nThere is a chance for 'Encounter Reward Cards' to appear after winning an Encounter. The harder the Encounter difficulty, the higher the chance of obtaining an Encounter Reward Card.\nJP :\n戦闘にて勝利すると、戦闘難易度によって一定の確率で戦闘報酬カードが出現します。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_14_desc_02-content",
+    "original": "전투 보상 카드를 통해 코스트, 별빛, E.G.O 기프트 또는 E.G.O 자원을 획득할 수 있습니다.",
+    "context": "EN :\nYou can obtain various resources such as Cost, Starlight, E.G.O Gifts, or E.G.O Resources from the Encounter Reward Cards.\nJP :\n戦闘報酬カードより、コスト・星明かり・E.G.OギフトまたはE.G.O資源を獲得できます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_15_title_01-content",
+    "original": "층 버프",
+    "context": "EN :\nFloor Buffs\nJP :\n階層バフ"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_15_desc_01-content",
+    "original": "층을 클리어할 경우, E.G.O 기프트와 함께 연결된 무작위 적 버프를 획득하게 됩니다. ",
+    "context": "EN :\nUpon clearing a floor, you will obtain random enemy buffs tied to each E.G.O Gifts.\nJP :\n階層をクリアするとき、E.G.Oギフトに紐付けられたランダムな敵バフを獲得することになります。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_15_desc_02-content",
+    "original": "층을 클리어할 때마다 적 버프는 누적됩니다.",
+    "context": "EN :\nEnemy Buffs will continue to stack with every floor cleared.\nJP :\n階層をクリアするたびに、敵バフは累積されます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_16_title_01-content",
+    "original": "거울 던전 보상",
+    "context": "EN :\nMirror Dungeon Rewards\nJP :\n鏡ダンジョン報酬"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_16_desc_01-content",
+    "original": "거울 던전 클리어 시, 엔케팔린 모듈을 소모하여 보상을 수령할 수 있습니다.",
+    "context": "EN :\nUpon clearing a Mirror Dungeon run, spend Enkephalin Modules to claim your rewards.\nJP :\n鏡ダンジョンクリア時、エンケファリンモジュールを消耗して報酬を受け取ることができます。"
+  },
+  {
+    "key": "tutorial_mirrordungeon04_page_16_desc_02-content",
+    "original": "보상은 클리어한 층 수에 따라 지급되며, 주간 보너스 기회를 사용하여 더 많은 보상을 획득할 수 있습니다.",
+    "context": "EN :\nThe amount of rewards depends on the number of cleared Floors. You can use Weekly Bonus chances to claim even more rewards.\nJP :\n報酬はクリアした階層数によって支給され、ウィークリーボーナスチャンスを使用してより多くの報酬を獲得することができます。"
+  },
+  {
+    "key": "TutoMD05_P1_T1-content",
+    "original": "꿈결의 거울",
+    "context": "EN :\nMirror of the Dreaming\nJP :\n夢心地の鏡"
+  },
+  {
+    "key": "TutoMD05_P1_D1-content",
+    "original": "시즌 5 거울 던전의 명칭은 꿈결의 거울로 불립니다.",
+    "context": "EN :\nSeason 5's Mirror Dungeon is called 'Mirror of the Dreaming'.\nJP :\nシーズン5 鏡ダンジョンの名称は「夢心地の鏡」です。"
+  },
+  {
+    "key": "TutoMD05_P1_D2-content",
+    "original": "문 또는 입장 버튼을 선택하여 진입할 수 있습니다.",
+    "context": "EN :\nSelect the door or the \"Enter\" button to begin your Mirror Dungeon run.\nJP :\nドアまたは入場ボタンをタップして突入できます。"
+  },
+  {
+    "key": "TutoMD05_P2_T1-content",
+    "original": "주간 추가 보상",
+    "context": "EN :\nWeekly Bonuses\nJP :\nウィークリー追加報酬"
+  },
+  {
+    "key": "TutoMD05_P2_D1-content",
+    "original": "거울 던전에서는 매주 3회의 주간 추가 보상 기회가 제공됩니다.",
+    "context": "EN :\nEvery week, you're given 3 Weekly Bonus eligibilities\nto gain additional Mirror Dungeon rewards.\nJP :\n鏡ダンジョンでは、毎週3回のウィーズリー追加報酬チャンスが提供されます。"
+  },
+  {
+    "key": "TutoMD05_P2_D2-content",
+    "original": "보상 수령 시 주간 추가 보상 기회를 사용하면, 획득하는 보상의 수치가 크게 증가합니다.",
+    "context": "EN :\nUsing a Weekly Bonus eligibility when claiming your reward,\nand receive greatly increased rewards.\nJP :\n報酬受け取り時にウィーズリー追加報酬チャンスを使用すると、獲得する報酬の数値が大幅に増加します。"
+  },
+  {
+    "key": "TutoMD05_P2_D3-content",
+    "original": "모든 테마팩을 Hard 난이도로 클리어 시, 주간 추가 보상 기회를 한 번에 2개 이상 소모할 수 있으며, 그에 비례한 보상을 획득할 수 있습니다.",
+    "context": "EN :\nIf you chose Hard difficulty Theme Packs for every Floor, you can consume 2 or more Weekly Bonuses at once, and will receive rewards proportional to the number of Weekly Bonuses used.\nJP :\n全テーマパックをHardでクリアすると、ウィークリー追加報酬チャンスを1度に2回以上消耗でき、それに比例した報酬を獲得できます。"
+  },
+  {
+    "key": "TutoMD05_P2_D4-content",
+    "original": "단, 주간 추가 보상 기회를 한 번에 사용하는 것보다는 한 번에 1회씩 사용하는 것이 소모한 엔케팔린 대비 보상 효율이 제일 높습니다.",
+    "context": "EN :\nHowever, it is more enkephalin-efficient to use 1 Weekly Bonus at a time rather than to use them all at once.\nJP :\nただし、ウィークリー追加報酬を一括で使用するよりかは、1度に1回ずつ使用する方が消耗エンケファリン効率が高くなります。"
+  },
+  {
+    "key": "TutoMD05_P3_T1-content",
+    "original": "수감자",
+    "context": "EN :\nSinners\nJP :\n囚人"
+  },
+  {
+    "key": "TutoMD05_P3_D1-content",
+    "original": "수감자 편성 현황을 확인할 수 있습니다.",
+    "context": "EN :\nYou can view your currently deployed Sinners here.\nJP :\n囚人の編成状況が確認できます。"
+  },
+  {
+    "key": "TutoMD05_P3_T2-content",
+    "original": "테마팩 기록집",
+    "context": "EN :\nTheme Pack Compendium\nJP :\nテーマパック記録"
+  },
+  {
+    "key": "TutoMD05_P3_D2-content",
+    "original": "거울 던전에 등장하는 테마팩을 확인할 수 있습니다. 거울 던전 진행 중 선택한 테마팩에 대한 기록이 수집됩니다.",
+    "context": "EN :\nYou can view the list of Theme Packs that appear in the Mirror Dungeon. Selected Theme Pack records will be collected here.\nJP :\n鏡ダンジョンに登場するテーマパックを確認することができます。\n鏡ダンジョン進行中に選択したテーマパックに関する記録が収集されます。"
+  },
+  {
+    "key": "TutoMD05_P3_T3-content",
+    "original": "E.G.O 기프트 기록집",
+    "context": "EN :\nE.G.O Gift Compendium\nJP :\nE.G.Oギフト記録集"
+  },
+  {
+    "key": "TutoMD05_P3_D3-content",
+    "original": "거울 던전에 등장하는 E.G.O 기프트를 확인할 수 있습니다. 거울 던전 진행 중에 획득한 E.G.O 기프트의 기록이 수집됩니다.",
+    "context": "EN :\nYou can view the list of E.G.O Gifts that appear in the Mirror Dungeon. Obtaining an E.G.O Gift in the Mirror Dungeon will add an entry to your E.G.O Gift Compendium.\nJP :\n鏡ダンジョンに出現するE.G.Oギフトを確認できます。鏡ダンジョンを進みながら獲得したE.G.Oギフトが記録が収集されます。"
+  },
+  {
+    "key": "TutoMD05_P4_T1-content",
+    "original": "편성 선택",
+    "context": "EN :\nCreating your TEAM\nJP :\n編成選択"
+  },
+  {
+    "key": "TutoMD05_P4_D1-content",
+    "original": "참여할 인격을 선택하여 편성합니다.",
+    "context": "EN :\nSelect Identities to run this Dungeon with.\nJP :\n参加人格を選択し、編成します。"
+  },
+  {
+    "key": "TutoMD05_P4_D2-content",
+    "original": "거울 던전 Normal 난이도에서는 인격 레벨이 50으로 적용됩니다. Hard 난이도에서는 보유한 인격의 레벨이 적용됩니다. (최대 Lv.50)",
+    "context": "EN :\nIn Mirror Dungeon Normal, all Identity Levels will be fixed to 50. In Mirror Dungeon Hard, your current Identity levels will be reflected instead. (max Lv. 50)\nJP :\n鏡ダンジョンのNormalでは人格レベルが50に適用されます。Hardでは保有している人格のレベルが適用されます。(最大 Lv.50)"
+  },
+  {
+    "key": "TutoMD05_P5_T1-content",
+    "original": "휴식 보너스",
+    "context": "EN :\nRest Bonus\nJP :\n休息ボーナス"
+  },
+  {
+    "key": "TutoMD05_P5_D1-content",
+    "original": "거울 던전 입장 시, 편성한 인격의 휴식 보너스를 이용하여 꿈결 별의 가호에서 특별한 효과를 선택할 수 있습니다.",
+    "context": "EN :\nUpon entering Mirror Dungeon, you can spend the Rest Bonus of the Identities in your Team to select special effects from Grace of the Dreaming Star.\nJP :\n鏡ダンジョンに入場するとき、編成人格の休息ボーナスを利用して夢心地の星の加護から特別な効果を選択することができます。"
+  },
+  {
+    "key": "TutoMD05_P5_D2-content",
+    "original": "거울 던전을 클리어하면 입장 시 편성한 인격의 휴식 보너스는 0으로 초기화되고 편성하지 않은 모든 인격의 휴식 보너스가 1 증가합니다.",
+    "context": "EN :\nUpon clearing Mirror Dungeon, Rest Bonus for Identities in your current Mirror Dungeon Team resets to 0, and every other Identity gains 1 Rest Bonus.\nJP :\n鏡のダンジョンをクリアすると、入場時に編成した人格の休息ボーナスは0に初期化され、編成していない全人格の休息ボーナスが1増加します。"
+  },
+  {
+    "key": "TutoMD05_P5_D3-content",
+    "original": "게임 진행 과정에서 편성을 교체하여 등장한 인격은 휴식 게이지가 소모되거나 증가하지 않습니다.",
+    "context": "EN :\nIdentities that have been swapped in or out during the Mirror Dungeon run will, however, neither spend nor gain Rest Bonuses.\nJP :\nゲームの進行過程で編成を変えて出撃した人格は、休息ゲージが増減しません。"
+  },
+  {
+    "key": "TutoMD05_P5_D4-content",
+    "original": "인격과 E.G.O 편성을 완료하였다면 확인 버튼을 통해 거울 던전에 입장할 수 있습니다.",
+    "context": "EN :\nOnce you're finished with the Team ID & E.G.O setup, press 'Confirm' to enter the Mirror Dungeon.\nJP :\n人格とE.G.Oの編成が完了すると、確認ボタンで鏡ダンジョンへ入場することができます。"
+  },
+  {
+    "key": "TutoMD05_P5_D5-content",
+    "original": "현재 편성의 휴식 보너스 합계를 확인할 수 있습니다.",
+    "context": "EN :\nYou can view your team's sum of Rest Bonuses here.\nJP :\n現編成の休憩ボーナスの合計を確認できます。"
+  },
+  {
+    "key": "TutoMD05_P6_T1-content",
+    "original": "꿈결 별의 가호",
+    "context": "EN :\nGrace of the Dreaming Star\nJP :\n夢心地の星の加護"
+  },
+  {
+    "key": "TutoMD05_P6_D1-content",
+    "original": "보유한 휴식 보너스를 지불하여 별의 가호를 선택할 수 있습니다.",
+    "context": "EN :\nSpend your Team's Rest Bonuses to select Graces of Stars.\nJP :\n手持ちの休息ボーナスを支払うことで、星の加護を選択できます。"
+  },
+  {
+    "key": "TutoMD05_P6_T2-content",
+    "original": "잔여 휴식 보너스",
+    "context": "EN :\nRemaining Rest Bonus\nJP :\n残り休息ボーナス"
+  },
+  {
+    "key": "TutoMD05_P6_D2-content",
+    "original": "별의 가호를 선택하고 남은 휴식 보너스는 던전 진행 중 사용할 코스트로 전환됩니다.",
+    "context": "EN :\nRemaining Rest Bonus after selecting Graces of Stars will be converted to 'Cost' to be used during your Mirror Dungeon run.\nJP :\n星の加護を選択し、残った休息ボーナスはダンジョン進行中に使用できるコストに変換されます。"
+  },
+  {
+    "key": "TutoMD05_P6_D3-content",
+    "original": "별의 가호 패시브는 휴식 보너스를 일정 수치 보유한 상태면 자동으로 적용되며, 휴식 보너스를 별도로 소모하지 않습니다.",
+    "context": "EN :\nGrace of Stars Passives do not consume your Rest Bonuses; they activate automatically if you have enough Rest Bonuses.\nJP :\n星の加護パッシブは、休息ボーナスを一定数値保有した状態であれば自動的に適用され、休息ボーナスを別途消耗しません。"
+  },
+  {
+    "key": "TutoMD05_P6_D4-content",
+    "original": "남은 휴식 보너스는 거울 던전 진행 중 사용할 수 있는 코스트로 전환됩니다.",
+    "context": "EN :\nRemaining Rest Bonus will be converted to 'Cost' to be used during your Mirror Dungeon run.\nJP :\n残りの休憩ボーナスは、鏡ダンジョンの進行中に使用できるコストに変換されます。"
+  },
+  {
+    "key": "TutoMD05_P7_T1-content",
+    "original": "시작 E.G.O 기프트 선택",
+    "context": "EN :\nStarting E.G.O Gift Choice\nJP :\n開始E.G.Oギフト選択"
+  },
+  {
+    "key": "TutoMD05_P7_D1-content",
+    "original": "거울 던전 입장 시, E.G.O 기프트의 키워드별 항목이 제시됩니다",
+    "context": "EN :\nUpon Mirror Dungeon entry, you will be given Keyword categories to choose E.G.O Gifts from.\nJP :\n鏡ダンジョンに入場すると、キーワード別に分かれたE.G.Oギフトの項目が提示されます"
+  },
+  {
+    "key": "TutoMD05_P7_D2-content",
+    "original": "각 키워드별 항목의 등장 E.G.O 기프트는 고정이며, 선택한 카테고리 내에 있는 E.G.O 기프트를 선택 가능한 수만큼 획득할 수 있습니다.",
+    "context": "EN :\nE.G.O Gifts appearing in each category are fixed. You can choose as many E.G.O Gifts as it is available to you from the same category.\nJP :\n各キーワード別項目の出現E.G.Oギフトは固定であり、選択したカテゴリ内にあるE.G.Oギフトを選択可能な数だけ獲得できます。"
+  },
+  {
+    "key": "TutoMD05_P7_D3-content",
+    "original": " 이 단계에서 선택한 키워드에 해당하는 E.G.O 기프트가 던전 진행 중에 더욱 자주 등장합니다.",
+    "context": "EN :\nThrough your Mirror Dungeon run, E.G.O Gifts in the category you selected here will appear more frequently.\nJP :\nこの段階で選択したキーワードに該当するE.G.Oギフトはダンジョン進行中、更に頻繁に出現するようになります。"
+  },
+  {
+    "key": "TutoMD05_P8_T1-content",
+    "original": "테마팩 선택",
+    "context": "EN :\nSelecting Theme Packs\nJP :\nテーマパックの選択"
+  },
+  {
+    "key": "TutoMD05_P8_D1-content",
+    "original": "층 진입 시, 이번 층에서 헤쳐나갈 테마를 제시된 목록 중에서 선택할 수 있습니다. 선택하고자 하는 테마팩을 아래로 드래그하여 고를 수 있습니다.",
+    "context": "EN :\nUpon entering a new Floor, you will be presented with a collection of different 'Themes' that you can choose to face on this Floor. Select and pull down a Theme Pack you would like to challenge for this Floor.\nJP :\n階層突入時、今回の階層にて切り抜けてゆくテーマを提示されたリストの中から選択できます。テーマパックを下にドラッグすると選択できます。"
+  },
+  {
+    "key": "TutoMD05_P8_D2-content",
+    "original": "각각의 테마팩 우상단 버튼을 통해 해당 팩에서 등장할 수 있는 보스와 전투 보상으로 얻을 수 있는 E.G.O 기프트를 확인할 수 있습니다.",
+    "context": "EN :\nYou can view the available Bosses and E.G.O Gifts(obtainable as Encounter rewards) from the Theme Pack by pressing this button in the top right corner of each Theme Pack.\nJP :\nそれぞれのテーマパックの右上にあるボタンを押すと、該当パックにて出現するボスと報酬で獲得できるE.G.Oギフトが確認できます。"
+  },
+  {
+    "key": "TutoMD05_P8_D3-content",
+    "original": "테마팩 하단에는 해당 테마팩의 보스 클리어 시 제시되는 E.G.O 기프트의 목록이 표시됩니다.",
+    "context": "EN :\nAt the bottom of the Theme Packs, you can view the list of E.G.O Gifts that you can choose from after defeating the boss of this Theme Pack.\nJP :\nテーマパック下段には、該当するテーマパックのボスクリア時に提示されるE.G.Oギフトの一覧が表示されます。"
+  },
+  {
+    "key": "TutoMD05_P8_T2-content",
+    "original": "테마팩 난이도 변경",
+    "context": "EN :\nChoosing the Theme Pack Difficulty\nJP :\nテーマパック難易度変更"
+  },
+  {
+    "key": "TutoMD05_P8_D4-content",
+    "original": "꿈결의 거울에서는 테마팩 선택 단계에서 원하는 난이도를 선택하여 입장합니다.",
+    "context": "EN :\nIn Mirror of the Dreaming, you can select the difficulty of the upcoming floor in the Theme Pack selection phase.\nJP :\n夢心地の鏡では、テーマパックの選択段階でお好みの難易度を選択して入場できます。"
+  },
+  {
+    "key": "TutoMD05_P8_D5-content",
+    "original": "단, Hard 난이도를 선택하여 입장하면 이후에는 난이도를 변경할 수 없습니다.",
+    "context": "EN :\nHowever, once you enter the Hard difficulty, it cannot be changed again.\nJP :\nただし、Hardを選択して入場すると以降は難易度を変更することがで来ません。"
+  },
+  {
+    "key": "TutoMD05_P8_T3-content",
+    "original": "Hard 난이도",
+    "context": "EN :\nHard Difficulty\nJP :\n難易度Hard"
+  },
+  {
+    "key": "TutoMD05_P8_D6-content",
+    "original": "Hard 난이도 테마팩에서는 보스 클리어 시 제시되는 E.G.O 기프트의 목록이 3개에서 4개로 증가하며, 어떤 E.G.O 기프트는 Hard 난이도에서만 얻을 수 있습니다.",
+    "context": "EN :\nIn Hard Theme Packs, you will be able to choose 4 instead of 3 E.G.O Gifts upon clearing the Floor Boss. Also, some E.G.O Gifts are exclusive to Hard difficulty.\nJP :\nHardテーマパックではボスクリア時に提示されるE.G.Oギフトの数が3つから4つに増加し、特定のE.G.OギフトはHardでのみ獲得できます。"
+  },
+  {
+    "key": "TutoMD05_P8_D7-content",
+    "original": "또한 Hard 난이도에서는 E.G.O 기프트와 고난을 2개씩 선택해야 하며, 특별한 상점이 등장할 수도 있습니다.",
+    "context": "EN :\nAlso, you must select 2 E.G.O Gifts and 2 Mounting Trials in Hard difficulty, and there's a chance for a Super Shop to spawn.\nJP :\nまた、HardではE.G.Oギフトと苦難を2つずつ選択しなければならず、特別なショップ出現することもあります。"
+  },
+  {
+    "key": "TutoMD05_P9_T1-content",
+    "original": "거울 던전 탐사",
+    "context": "EN :\nExploring Mirror Dungeons\nJP :\n鏡ダンジョン探査"
+  },
+  {
+    "key": "TutoMD05_P9_D1-content",
+    "original": "거울 던전에 입장하게 되면 인카운터와 경로가 무작위로 생성됩니다.",
+    "context": "EN :\nThe Mirror Dungeon Encounters and paths are randomly generated.\nJP :\n鏡ダンジョンへ入場すると、エンカウンターと経路がランダムで生成されます。"
+  },
+  {
+    "key": "TutoMD05_P9_D2-content",
+    "original": "현재 인카운터에서 연결된 인카운터을 선택해 진행하며, 각 인카운터에서는 다양한 종류의 전투와 이벤트가 무작위로 등장합니다.",
+    "context": "EN :\nYou proceed by moving to nodes adjacent to your current node. You may find various events or combat encounters in each of the nodes.\nJP :\n現在のエンカウンターに繋がっているエンカウンターを選択しながら進め、それぞれのエンカウンターでは様々な種類の戦闘やイベントがランダムに発生します。"
+  },
+  {
+    "key": "TutoMD05_P9_T2-content",
+    "original": "코스트",
+    "context": "EN :\nCost\nJP :\nコスト"
+  },
+  {
+    "key": "TutoMD05_P9_D3-content",
+    "original": "거울 던전 진행 과정에서 코스트를 획득할 수 있습니다. 코스트를 지불하여 상점의 기능을 이용할 수 있습니다.",
+    "context": "EN :\nYou will earn 'Cost' as you proceed through the Mirror Dungeon. 'Cost' you earned can be spent at Shops for their various services.\nJP :\n鏡ダンジョンの進行中にコストを獲得することができます。コストを支払ってショップの機能を利用できます。"
+  },
+  {
+    "key": "TutoMD05_P10_T1-content",
+    "original": "E.G.O 기프트",
+    "context": "EN :\nE.G.O Gifts\nJP :\nE.G.Oギフト"
+  },
+  {
+    "key": "TutoMD05_P10_D1-content",
+    "original": "획득한 E.G.O 기프트가 표시됩니다. E.G.O 기프트는 던전 안에서 적용되는 강력한 효과를 주는 아이템입니다.",
+    "context": "EN :\nAcquired E.G.O Gifts are displayed here. E.G.O Gifts are items that offer powerful effects that last until the end of the Dungeon.\nJP :\n獲得したE.G.Oギフトが表示されます。E.G.Oギフトはダンジョンの中で適用される、強力な効果を与えるアイテムです。"
+  },
+  {
+    "key": "TutoMD05_P10_T2-content",
+    "original": "스테이지 유효 속성과 획득 코스트",
+    "context": "EN :\nEffective Attacks & Cost Rewards\nJP :\nステージ有効属性と獲得コスト"
+  },
+  {
+    "key": "TutoMD05_P10_D2-content",
+    "original": "거울 던전의 전투 인카운터에는 해당 전투에서 유효한 속성과 해당 전투를 클리어 시 획득할 수 있는 코스트가 표시됩니다.",
+    "context": "EN :\nCombat Encounter nodes of Mirror Dungeons display affinity/attack type useful for that battle. It also displays the amount of Cost reward you can gain by completing it.\nJP :\n鏡ダンジョンの戦闘エンカウンターには、その戦闘で有効な属性と、その戦闘をクリア時に獲得できるコストが表示されます。"
+  },
+  {
+    "key": "TutoMD05_P10_T3-content",
+    "original": "수감자 현황",
+    "context": "EN :\nSinner Status\nJP :\n囚人状況"
+  },
+  {
+    "key": "TutoMD05_P10_D3-content",
+    "original": "던전을 진행하는 동안 수감자들의 체력과 정신력, 사망 상태는 유지됩니다.",
+    "context": "EN :\nThe HP, SP, and lives of Sinners lost will carry over between encounters.\nJP :\nダンジョンを進める間、囚人の体力と精神力・死亡状態は維持されます。"
+  },
+  {
+    "key": "TutoMD05_P10_T4-content",
+    "original": "적용 효과 목록",
+    "context": "EN :\nActive Effects\nJP :\n適用効果リスト"
+  },
+  {
+    "key": "TutoMD05_P10_D4-content",
+    "original": "던전을 진행하는 동안 선택한 고난, 휴식 보너스, 선택지 효과를 확인할 수 있습니다.",
+    "context": "EN :\nView your Mounting Trials, Rest Bonus, and Choice Event Effects here.\nJP :\nダンジョンの進行中に選択した苦難、休息ボーナス、選択肢の効果を確認することができます。"
+  },
+  {
+    "key": "TutoMD05_P11_T1-content",
+    "original": "상점",
+    "context": "EN :\nShops\nJP :\nショップ"
+  },
+  {
+    "key": "TutoMD05_P11_D1-content",
+    "original": "테마팩 보스 전투 직전에는 상점이 배치되어 있습니다.",
+    "context": "EN :\nNodes before Theme Pack Boss Encounters are shops.\nJP :\nテーマパックのボス戦闘の直前には、ショップが配置されています。"
+  },
+  {
+    "key": "TutoMD05_P11_D2-content",
+    "original": "코스트를 소모하여 E.G.O 기프트를 구입하거나 회복과 부활, 편성 교체, 인격 스킬 교체를 진행할 수 있습니다.",
+    "context": "EN :\nAt Shops, you can spend your 'Cost' to purchase E.G.O Gifts, heal or revive allies, deploy/swap out additional Identities, or replace Identity Skills.\nJP :\nコストを消耗してE.G.Oギフトの購入したり、回復と復活、編成交代、人格スキル交換を実施できます。"
+  },
+  {
+    "key": "TutoMD05_P11_D3-content",
+    "original": "또한 E.G.O 기프트를 상점에서 판매하여 코스트를 획득하거나, E.G.O 기프트를 합성하여 더욱 유용한 E.G.O 기프트를 획득할 수 있습니다.",
+    "context": "EN :\nAlso, you can sell your E.G.O Gifts at Shops to gain more Cost or Fuse your E.G.O Gifts to gain even more useful E.G.O Gifts.\nJP :\nまた、E.G.Oギフトをショップで販売してコストを獲得したり、E.G.Oギフトを合成してより有用なE.G.Oギフトを獲得することができます。"
+  },
+  {
+    "key": "TutoMD05_P11_D4-content",
+    "original": "Hard 난이도로 진행 시, 특별한 상점이 등장할 수 있습니다. 거울 던전 진행 중에 누적 소모한 코스트가 많을수록 특별한 상점이 등장할 확률이 증가합니다.",
+    "context": "EN :\nIn Hard difficulty, there is a chance for a Super Shop to appear. The more Cost you spend in a Mirror Dungeon run, the greater the chance becomes for it to appear.\nJP :\nHardで進行する場合、特別なショップが出現することがあります。鏡ダンジョン進行中に累計で消耗したコストが多いほど、特別な商店が出現する確率が高くなります。"
+  },
+  {
+    "key": "TutoMD05_P12_T1-content",
+    "original": "전투 보상 카드",
+    "context": "EN :\nEncounter Reward Cards\nJP :\n戦闘報酬カード"
+  },
+  {
+    "key": "TutoMD05_P12_D1-content",
+    "original": "전투에서 승리하면 전투 난이도에 따라 일정 확률로 전투 보상 카드가 등장합니다.",
+    "context": "EN :\nThere is a chance for 'Encounter Reward Cards' to appear after winning an Encounter. The harder the Encounter difficulty, the higher the chance of obtaining an Encounter Reward Card.\nJP :\n戦闘にて勝利すると、戦闘難易度によって一定の確率で戦闘報酬カードが出現します。"
+  },
+  {
+    "key": "TutoMD05_P12_D2-content",
+    "original": "전투 보상 카드를 통해 코스트,E.G.O 기프트 또는 E.G.O 자원을 획득할 수 있습니다.",
+    "context": "EN :\nYou can obtain various resources such as Cost, E.G.O Gifts, or E.G.O Resources from the Encounter Reward Cards.\nJP :\n戦闘報酬カードより、コスト・E.G.OギフトまたはE.G.O資源を獲得できます。"
+  },
+  {
+    "key": "TutoMD05_P13_T1-content",
+    "original": "E.G.O 기프트와 추가되는 고난",
+    "context": "EN :\nE.G.O Gifts & Mounting Trials\nJP :\nE.G.Oギフトと追加される苦難"
+  },
+  {
+    "key": "TutoMD05_P13_D1-content",
+    "original": "층을 클리어할 경우, E.G.O 기프트와 함께 연결된 고난 효과를 선택하여 획득합니다. ",
+    "context": "EN :\nUpon clearing a floor, you will obtain random enemy buffs linked to each E.G.O Gift.\nJP :\n階層をクリアするとき、E.G.Oギフトとそれに紐付けられた苦難を選択して獲得します。"
+  },
+  {
+    "key": "TutoMD05_P13_D2-content",
+    "original": "층을 클리어할 때마다 고난 효과는 누적됩니다.",
+    "context": "EN :\nMounting Trials will continue to stack with every floor cleared.\nJP :\n階層をクリアするたびに、苦難は累積されます。"
+  },
+  {
+    "key": "TutoMD05_P13_D3-content",
+    "original": "Hard 난이도로 진행 시, E.G.O 기프트를 2개 선택할 수 있습니다. 대신 고난 효과도 2개를 선택하게 됩니다.",
+    "context": "EN :\nIn Hard difficulty, you can select 2 E.G.O Gifts. However, this means that you will be selecting 2 Mounting Trials in the process as well.\nJP :\nHardで進行時、E.G.Oギフトを2つ選択することができます。その代わり、苦難も2つ選択することになります。"
+  },
+  {
+    "key": "TutoMD05_P14_T1-content",
+    "original": "거울 던전 보상",
+    "context": "EN :\nMirror Dungeon Rewards\nJP :\n鏡ダンジョン報酬"
+  },
+  {
+    "key": "TutoMD05_P14_D1-content",
+    "original": "거울 던전 클리어 시, 엔케팔린 모듈을 소모하여 보상을 수령할 수 있습니다.",
+    "context": "EN :\nUpon clearing a Mirror Dungeon run, spend Enkephalin Modules to claim your rewards.\nJP :\n鏡ダンジョンクリア時、エンケファリンモジュールを消耗して報酬を受け取ることができます。"
+  },
+  {
+    "key": "TutoMD05_P14_D2-content",
+    "original": "보상은 클리어한 층 수에 따라 지급되며, 주간 보너스 기회를 사용하여 더 많은 보상을 획득할 수 있습니다.",
+    "context": "EN :\nThe amount of rewards depends on the number of cleared Floors. You can use Weekly Bonus chances to claim even more rewards.\nJP :\n報酬はクリアした階層数によって支給され、ウィークリーボーナスチャンスを使用してより多くの報酬を獲得することができます。"
+  },
+  {
+    "key": "TutoMD05_P14_D3-content",
+    "original": "모든 테마팩을 Hard 난이도로 클리어 시, 주간 추가 보상 기회를 한 번에 2개 이상 소모할 수 있으며, 그에 비례한 보상을 획득할 수 있습니다.",
+    "context": "EN :\nIf you chose Hard difficulty Theme Packs for every Floor, you can consume 2 or more Weekly Bonuses at once, and will receive rewards proportional to the number of Weekly Bonuses used.\nJP :\n全テーマパックをHardでクリアすると、ウィークリー追加報酬チャンスを1度に2回以上消耗でき、それに比例した報酬を獲得できます。"
+  },
+  {
+    "key": "TutoMD05_P14_D4-content",
+    "original": "단, 주간 추가 보상 기회를 한 번에 사용하는 것보다는 한 번에 1회씩 사용하는 것이 소모한 엔케팔린 대비 보상 효율이 제일 높습니다.",
+    "context": "EN :\nHowever, it is more enkephalin-efficient to use 1 Weekly Bonus at a time rather than to use them all at once.\nJP :\nただし、ウィークリー追加報酬を一括で使用するよりかは、1度に1回ずつ使用する方が消耗エンケファリン効率が高くなります。"
+  }
+]

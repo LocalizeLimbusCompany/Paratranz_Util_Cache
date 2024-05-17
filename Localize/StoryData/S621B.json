@@ -1,0 +1,264 @@
+[
+  {
+    "key": "0-place",
+    "original": "워더링하이츠 벽난로",
+    "context": "EN :\nWuthering Heights Fireplace\nJP :\nワザリング・ハイツ 暖炉"
+  },
+  {
+    "key": "0-content",
+    "original": "벽난로에는 우리보다 먼저 도착한 자들이 있었다.",
+    "context": "EN :\nThere already was a group of people by the fireplace.\nJP :\n暖炉には、私たちよりも先に到着した者がいた。"
+  },
+  {
+    "key": "1-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "1-content",
+    "original": "린튼 주인님…",
+    "context": "EN :\nMaster Linton...\nJP :\nリントンご主人様…。"
+  },
+  {
+    "key": "2-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "2-content",
+    "original": "결국 여기까지… 왔군…",
+    "context": "EN :\nSo you've arrived...\nJP :\n結局ここまで…来たか…。"
+  },
+  {
+    "key": "3-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "3-content",
+    "original": "우연찮은 만남 따윈 아닐 테고… 네 놈의 목적지도 지하실인 모양이야.",
+    "context": "EN :\nThis can't be a coincidence, can it? I suppose you're also trying to enter the basement.\nJP :\n偶然の出会いなんかじゃねぇだろ…\nテメェの目的地も地下室らしいな。"
+  },
+  {
+    "key": "4-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "4-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "5-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "5-content",
+    "original": "린튼님, 대체 지하실에 무엇을 숨겨놓으신 거예요?",
+    "context": "EN :\nMaster Linton, what are you hiding in the basement?\nJP :\nリントン様、一体地下室に何を隠されたのですか？"
+  },
+  {
+    "key": "6-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "6-content",
+    "original": "…먼저 들어갔으면서, 결국 찾아야 할 건 저들이 찾은 모양이군.",
+    "context": "EN :\n... I see that they have gotten their hands on it first. Despite the fact that you had the head start.\nJP :\n…先に入ったというのに、\n結局探すべきものは奴らが見つけたようだな。"
+  },
+  {
+    "key": "7-model",
+    "original": "린튼버틀러1",
+    "translation": "林顿管家",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "조심스러운 버틀러",
+    "context": "EN :\nDiscreet Butler\nJP :\n用心深いバトラー"
+  },
+  {
+    "key": "7-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "7-content",
+    "original": "죄송합니다, 린튼 주인님…",
+    "context": "EN :\nOur most profound apologies, Master Linton...\nJP :\n申し訳ございません、リントンご主人様…。"
+  },
+  {
+    "key": "8-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "8-content",
+    "original": "…그 일기장을 돌려주게.",
+    "context": "EN :\n... Return that diary to me.\nJP :\n…その日記帳を返したまえ。"
+  },
+  {
+    "key": "9-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "9-content",
+    "original": "그래야 할 이유가 있나?",
+    "context": "EN :\nWhy must we?\nJP :\nそうすべき理由はあるのか？"
+  },
+  {
+    "key": "10-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "10-content",
+    "original": "…남편이 사랑하는 아내의 유품을 돌려달라는 게, 그리 불합리한 요청이었나?",
+    "context": "EN :\n... Is it that unreasonable for a husband to request that you return his loving wife's memento to his hands?\nJP :\n…夫が愛する妻の遺品を返してくれと頼むのが、\nそれほどまでに不合理な要求だというのか？"
+  },
+  {
+    "key": "11-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "11-content",
+    "original": "자꾸 자극하지 마.",
+    "context": "EN :\nDon't provoke me.\nJP :\n何度も刺激すんなよ。"
+  },
+  {
+    "key": "12-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "12-content",
+    "original": "캐서린이 죽은 이유에 대해서나 말해.",
+    "context": "EN :\nTell me why Catherine died.\nJP :\nどうしてキャサリンが死んだか言えよ。"
+  },
+  {
+    "key": "13-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "13-content",
+    "original": "계속 말했지만… 시체를 보기 전까지는 네 말은 아무것도 믿지 않아.",
+    "context": "EN :\nAnd like I said earlier... I won't believe a word from your gob until I see her body for myself.\nJP :\n何度も言うが…死体を見るまで\nテメェの言うことは何も信じねぇからな。"
+  },
+  {
+    "key": "14-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "14-content",
+    "original": "결혼했다는 이야기부터… 모든 걸 말이지.",
+    "context": "EN :\nEven your claim that she married you.\nJP :\n結婚したって話から…全部だ。"
+  },
+  {
+    "key": "15-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "15-content",
+    "original": "애처롭군.",
+    "context": "EN :\nHow desperate.\nJP :\nなんと哀れな。"
+  },
+  {
+    "key": "16-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "16-content",
+    "original": "이건 어떤가? 그냥 이 저택에 벼락이 다 칠 때까지 가만히 숨어 지내면서… 캐서린의 유언대로 황금가지나 챙긴 뒤 영영 떠나는 게.",
+    "context": "EN :\nAllow me to offer you an alternative. Go hide in some corner of this manor. Wait until the lightning strikes seven times... Then take the Golden Bough Catherine left you, leave, and never return to this place ever again.\nJP :\nこうするのはどうだ？ただ、この邸宅に雷が落ちるまで\nじっと隠れて過ごしながら…キャサリンの遺言通り\n黄金の枝を手にして、ここから永遠に去るのは。"
+  },
+  {
+    "key": "17-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "17-content",
+    "original": "제일 잘해왔던 거잖나, 히스클리프. 우는 모습을 들키지 않으려고, 매질을 당하지 않으려고, 혹은 개에게 물릴까 봐 두려워서… 캐서린을 버리고 떠나버리는 거 말이야.",
+    "context": "EN :\nIt is what you do best, Heathcliff—turning tail and hiding. Shrouding your shameful, tear-soaked face from the world, fleeing from the beatings, abandoning Catherine... because you were too busy running away from the gnawing hounds.\nJP :\nお前の得意技だったじゃないか、ヒースクリフ。\n泣いているのがバレないように、鞭打たれないように、あるいは犬に\n噛まれるのが怖くて…キャサリンを捨てて去ってしまうのはね。"
+  },
+  {
+    "key": "18-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "18-content",
+    "original": "…두 눈 뜨고 똑바로 봐, 에드가 도련님. 내가 아직도 그때의 힘 없는 꼬맹이 같아 보이는지.",
+    "context": "EN :\n... Keep talking, 'Young Master' Edgar. And you'll find that I'm no longer that weak child you once knew.\nJP :\n…両目かっ開いてちゃんと見るんだな、エドガー坊ちゃんよ。\nオレがまだあの頃の、何の力も無い子供みてぇに見えるのか。"
+  },
+  {
+    "key": "19-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "19-content",
+    "original": "글쎄. 내 눈엔 여전히… 변한 게 없는 것 같다만, 히스클리프.",
+    "context": "EN :\nWell... I'm not so sure what has really changed about you since then, Heathcliff.\nJP :\nさぁ。私が見るに…何も変わっていないように見えるがね、ヒースクリフ。"
+  },
+  {
+    "key": "20-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "20-content",
+    "original": "여전히 네가 보낸 그… 싸구려 편지들은…",
+    "context": "EN :\nAnd those... cheap, tacky letters you sent...?\nJP :\nそれにお前が送ったあの…安っぽい手紙は…。"
+  },
+  {
+    "key": "21-model",
+    "original": "린튼",
+    "translation": "林顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nLinton\nJP :\nリントン"
+  },
+  {
+    "key": "21-content",
+    "original": "소각장에 태워질 뿐이지. 쓰레기들과 함께.",
+    "context": "EN :\nAll burned with the rest of the trash in the incinerator.\nJP :\n焼却炉で燃やされるだけさ。\nゴミと一緒に。"
+  },
+  {
+    "key": "22-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "22-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  }
+]

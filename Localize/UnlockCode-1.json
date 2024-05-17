@@ -1,0 +1,87 @@
+[
+  {
+    "key": "101-openCondition",
+    "original": "주요 이야기 1장 클리어",
+    "context": "EN :\nClear Canto 1\nJP :\nメインストーリー1章 クリア"
+  },
+  {
+    "key": "102-openCondition",
+    "original": "주요 이야기 2장 클리어",
+    "context": "EN :\nClear Canto 2\nJP :\nメインストーリー2章 クリア"
+  },
+  {
+    "key": "103-openCondition",
+    "original": "주요 이야기 3장 클리어",
+    "context": "EN :\nClear Canto 3\nJP :\nメインストーリー3章 クリア"
+  },
+  {
+    "key": "104-openCondition",
+    "original": "주요 이야기 4장 클리어",
+    "context": "EN :\nClear Canto 4\nJP :\nメインストーリー4章 クリア"
+  },
+  {
+    "key": "105-openCondition",
+    "original": "주요 이야기 5장 클리어",
+    "context": "EN :\nClear Canto 5\nJP :\nメインストーリー5章 クリア"
+  },
+  {
+    "key": "105-askLevelUp",
+    "original": "인격의 레벨 상한은 스토리 진행도에 따라 개방되며,\n이 티켓으로 달성할 수 있는 최대 레벨(Lv. {0})은\n주요 이야기 5장을 클리어할 경우 개방됩니다.",
+    "context": "EN :\nIdentity level caps are unlocked by progressing through the main story,\nand the highest level achievable with this ticket(Lv. {0})\nwill be unlocked upon clearing Main Story Canto V.\nJP :\n人格のレベル上限はストーリーの進捗によって開放され、\nこのチケットで達成できる最大レベル(Lv. {0})は\nメインストーリーの6章をクリアすると開放されます。"
+  },
+  {
+    "key": "106-openCondition",
+    "original": "주요 이야기 6장 클리어",
+    "context": "EN :\nClear Canto 6\nJP :\nメインストーリー6章 クリア"
+  },
+  {
+    "key": "106-askLevelUp",
+    "original": "인격의 레벨 상한은 스토리 진행도에 따라 개방되며,\n이 티켓으로 달성할 수 있는 최대 레벨(Lv. {0})은\n주요 이야기 6장을 클리어할 경우 개방됩니다.",
+    "context": "EN :\nIdentity level caps are unlocked by progressing through the main story,\nand the highest level achievable with this ticket(Lv. {0})\nwill be unlocked upon clearing Main Story Canto VI.\nJP :\n人格のレベル上限はストーリーの進捗によって開放され、\nこのチケットで達成できる最大レベル(Lv. {0})は\nメインストーリーの6章をクリアすると開放されます。"
+  },
+  {
+    "key": "9103-openCondition",
+    "original": "헬스치킨 클리어",
+    "context": "EN :\nClear Hell's Chicken\nJP :\nヘルズチキン クリア"
+  },
+  {
+    "key": "9104-openCondition",
+    "original": "우.미.다 클리어",
+    "context": "EN :\nClear S.E.A.\nJP :\nう・み・ダ クリア"
+  },
+  {
+    "key": "9105-openCondition",
+    "original": "20번구의 기적 클리어",
+    "context": "EN :\nClear Miracle in District 20\nJP :\n20番区の奇跡 クリア"
+  },
+  {
+    "key": "9106-openCondition",
+    "original": "제 2 회 발푸르기스의 밤 클리어",
+    "context": "EN :\nClear The 2nd Walpurgis Night\nJP :\n第2回 ヴァルプルギスの夜クリア"
+  },
+  {
+    "key": "9107-openCondition",
+    "original": "육참골단 클리어",
+    "context": "EN :\nClear Yield My Flesh to Claim Their Bones\nJP :\n肉斬骨断 クリア"
+  },
+  {
+    "key": "9109-openCondition",
+    "original": "시간살인시간 클리어",
+    "context": "EN :\nClear Timekilling Time\nJP :\n時間殺人時間 クリア"
+  },
+  {
+    "key": "107-openCondition",
+    "original": "주요 이야기 7장 클리어",
+    "context": "EN :\nClear Canto 7\nJP :\nメインストーリー7章 クリア"
+  },
+  {
+    "key": "9110-openCondition",
+    "original": "워프특급 살인사건 클리어",
+    "context": "EN :\nClear Murder on the WARP Express\nJP :\nワープ特急殺人事件 クリア"
+  },
+  {
+    "key": "9111-openCondition",
+    "original": "제 4 회 발푸르기스의 밤 클리어",
+    "context": "EN :\nClear The 4th Walpurgis Night\nJP :\n第4回 ヴァルプルギスの夜 クリア"
+  }
+]

@@ -1,0 +1,567 @@
+[
+  {
+    "key": "2110511-levelList$[0].name",
+    "original": "홀리데이",
+    "context": "EN :\nHoliday\nJP :\nホリデイ"
+  },
+  {
+    "key": "2110511-levelList$[0].abName",
+    "original": "산돌프",
+    "context": "EN :\nSandolph\nJP :\nサンドルフ"
+  },
+  {
+    "key": "2110511-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "2110511-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[EndSkill] 현재 정신력이 가장 낮은 아군 2명에게 가장 높은 공명 속성의 피해량 증가를 1 부여",
+    "context": "EN :\n[EndSkill] Apply 1 'Damage Up' for the Affinity with the highest Resonance count to 2 allies with the least SP\nJP :\n[EndSkill] 現在の精神力が最も低い味方2名へ、最も多い共鳴属性のダメージ量増加を1付与"
+  },
+  {
+    "key": "2110511-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[EndSkill] 현재 정신력이 가장 낮은 아군 2명의 정신력 20 회복",
+    "context": "EN :\n[EndSkill] Heal 20 SP for 2 allies with the least SP\nJP :\n[EndSkill] 現在の精神力の最も低い味方2名の精神力を20回復"
+  },
+  {
+    "key": "2110511-levelList$[1].name",
+    "original": "홀리데이",
+    "context": "EN :\nHoliday\nJP :\nホリデイ"
+  },
+  {
+    "key": "2110511-levelList$[1].abName",
+    "original": "산돌프",
+    "context": "EN :\nSandolph\nJP :\nサンドルフ"
+  },
+  {
+    "key": "2110511-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "2110511-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[EndSkill] 현재 정신력이 가장 낮은 아군 3명에게 가장 높은 공명 속성의 피해량 증가를 1 부여",
+    "context": "EN :\n[EndSkill] Apply 1 'Damage Up' for the Affinity with the highest Resonance count to 3 allies with the least SP\nJP :\n[EndSkill] 現在の精神力が最も低い味方3名へ、最も多い共鳴属性のダメージ量増加を1付与"
+  },
+  {
+    "key": "2110511-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[EndSkill] 현재 정신력이 가장 낮은 아군 3명의 정신력 20 회복",
+    "context": "EN :\n[EndSkill] Heal 20 SP for 3 allies with the least SP\nJP :\n[EndSkill] 現在の精神力の最も低い味方3名の精神力を20回復"
+  },
+  {
+    "key": "2110511-levelList$[2].name",
+    "original": "홀리데이",
+    "context": "EN :\nHoliday\nJP :\nホリデイ"
+  },
+  {
+    "key": "2110511-levelList$[2].abName",
+    "original": "산돌프",
+    "context": "EN :\nSandolph\nJP :\nサンドルフ"
+  },
+  {
+    "key": "2110511-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "2110511-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[EndSkill] 현재 정신력이 가장 낮은 아군 4명에게 가장 높은 공명 속성의 피해량 증가를 1 부여",
+    "context": "EN :\n[EndSkill] Apply 1 'Damage Up' for the Affinity with the highest Resonance count to 4 allies with the least SP\nJP :\n[EndSkill] 現在の精神力が最も低い味方4名へ、最も多い共鳴属性のダメージ量増加を1付与"
+  },
+  {
+    "key": "2110511-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[EndSkill] 현재 정신력이 가장 낮은 아군 4명의 정신력 20 회복",
+    "context": "EN :\n[EndSkill] Heal 20 SP for 4 allies with the least SP\nJP :\n[EndSkill] 現在の精神力の最も低い味方4名の精神力を20回復"
+  },
+  {
+    "key": "2110521-levelList$[0].name",
+    "original": "홀리데이",
+    "context": "EN :\nHoliday\nJP :\nホリデイ"
+  },
+  {
+    "key": "2110521-levelList$[0].abName",
+    "original": "산돌프",
+    "context": "EN :\nSandolph\nJP :\nサンドルフ"
+  },
+  {
+    "key": "2110521-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 체력이 최대 체력의 10%만큼 감소",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] This unit loses 10% HP\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の体力が最大値の10%だけ減少"
+  },
+  {
+    "key": "2110521-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 정신력 10 피해",
+    "context": "EN :\n[OnSucceedAttack] Target loses 10 SP\nJP :\n[OnSucceedAttack] 対象へ10精神力ダメージ"
+  },
+  {
+    "key": "2110521-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "2110521-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackTail] 가장 높은 공명 속성의 취약을 1 부여",
+    "context": "EN :\n[OnSucceedAttackTail] Inflict 1 Fragility to the Affinity with the highest Resonance count\nJP :\n[OnSucceedAttackTail] 最も多い共鳴属性の[Vulnerable]を1付与"
+  },
+  {
+    "key": "2110521-levelList$[1].name",
+    "original": "홀리데이",
+    "context": "EN :\nHoliday\nJP :\nホリデイ"
+  },
+  {
+    "key": "2110521-levelList$[1].abName",
+    "original": "산돌프",
+    "context": "EN :\nSandolph\nJP :\nサンドルフ"
+  },
+  {
+    "key": "2110521-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 체력이 최대 체력의 10%만큼 감소",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] This unit loses 10% HP\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の体力が最大値の10%だけ減少"
+  },
+  {
+    "key": "2110521-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 정신력 10 피해",
+    "context": "EN :\n[OnSucceedAttack] Target loses 10 SP\nJP :\n[OnSucceedAttack] 対象へ10精神力ダメージ"
+  },
+  {
+    "key": "2110521-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "2110521-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackTail] 가장 높은 공명 속성의 취약을 2 부여",
+    "context": "EN :\n[OnSucceedAttackTail] Inflict 2 Fragility for the Affinity with the highest Resonance count\nJP :\n[OnSucceedAttackTail] 最も多い共鳴属性の[Vulnerable]を2付与"
+  },
+  {
+    "key": "2110521-levelList$[1].coinlist[0].coindescs[3].desc",
+    "original": "[EndSkillTail] 가장 높은 공명 속성의 피해량 증가를 1 얻음",
+    "context": "EN :\n[EndSkillTail] Gain 1 'Damage Up' to the Affinity with the highest Resonance count\nJP :\n[EndSkillTail] 最も多い共鳴属性のダメージ量増加を1得る"
+  },
+  {
+    "key": "2110521-levelList$[2].name",
+    "original": "홀리데이",
+    "context": "EN :\nHoliday\nJP :\nホリデイ"
+  },
+  {
+    "key": "2110521-levelList$[2].abName",
+    "original": "산돌프",
+    "context": "EN :\nSandolph\nJP :\nサンドルフ"
+  },
+  {
+    "key": "2110521-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 체력이 최대 체력의 10%만큼 감소",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] This unit loses 10% HP\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の体力が最大値の10%だけ減少"
+  },
+  {
+    "key": "2110521-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 정신력 10 피해",
+    "context": "EN :\n[OnSucceedAttack] Target loses 10 SP\nJP :\n[OnSucceedAttack] 対象へ10精神力ダメージ"
+  },
+  {
+    "key": "2110521-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "2110521-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 가장 높은 공명 속성의 취약을 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Fragility for the Affinity with the highest Resonance count\nJP :\n[OnSucceedAttack] 最も多い共鳴属性の[Vulnerable]を2付与"
+  },
+  {
+    "key": "2110521-levelList$[2].coinlist[0].coindescs[3].desc",
+    "original": "[EndSkillTail] 가장 높은 공명 속성의 피해량 증가를 1 얻음",
+    "context": "EN :\n[EndSkillTail] Gain 1 'Damage Up' to the Affinity with the highest Resonance count\nJP :\n[EndSkillTail] 最も多い共鳴属性のダメージ量増加を1得る"
+  },
+  {
+    "key": "2110611-levelList$[0].name",
+    "original": "구속",
+    "context": "EN :\nBinds\nJP :\n拘束"
+  },
+  {
+    "key": "2110611-levelList$[0].abName",
+    "original": "묶인 왕",
+    "context": "EN :\nThe King in Binds\nJP :\n縛られた王"
+  },
+  {
+    "key": "2110611-levelList$[0].desc",
+    "original": "[BeforeAttack] (오만 또는 나태 공명 중 가장 높은 공명 수 - 2)만큼 공격 가중치 증가 (최대 2)\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소",
+    "context": "EN :\n[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\n[EndSkill] For 3 turns, lose 10 SP at Turn End\nJP :\n[BeforeAttack] (傲慢または怠惰共鳴のうち最も多い共鳴数 - 2)だけ攻撃加重値増加(最大2)\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少"
+  },
+  {
+    "key": "2110611-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]4を付与"
+  },
+  {
+    "key": "2110611-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationCrack]로 [Switch_Vibration]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]\nJP :\n[OnSucceedAttack] [VibrationCrack]で[Switch_Vibration]"
+  },
+  {
+    "key": "2110611-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]\nJP :\n[OnSucceedAttack] [VibrationExplosion]"
+  },
+  {
+    "key": "2110611-levelList$[1].name",
+    "original": "구속",
+    "context": "EN :\nBinds\nJP :\n拘束"
+  },
+  {
+    "key": "2110611-levelList$[1].abName",
+    "original": "묶인 왕",
+    "context": "EN :\nThe King in Binds\nJP :\n縛られた王"
+  },
+  {
+    "key": "2110611-levelList$[1].desc",
+    "original": "[BeforeAttack] (오만 또는 나태 공명 중 가장 높은 공명 수 - 2)만큼 공격 가중치 증가 (최대 2)\n[VibrationExplosion] 시 흐트러짐 손상 50% 증가\n[EndSkill] 3턴 동안 턴 종료 시 정신력 9 감소",
+    "context": "EN :\n[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 50%\n[EndSkill] For 3 turns, lose 9 SP at Turn End\nJP :\n[BeforeAttack] (傲慢または怠惰共鳴のうち最も多い共鳴数 - 2)だけ攻撃加重値増加(最大2)\n[VibrationExplosion]時、混乱区間前進効果が50％増加\n[EndSkill] 3ターンの間、ターン終了時に精神力が9減少"
+  },
+  {
+    "key": "2110611-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]5を付与"
+  },
+  {
+    "key": "2110611-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationCrack]로 [Switch_Vibration]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]\nJP :\n[OnSucceedAttack] [VibrationCrack]で[Switch_Vibration]"
+  },
+  {
+    "key": "2110611-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]\nJP :\n[OnSucceedAttack] [VibrationExplosion]"
+  },
+  {
+    "key": "2110611-levelList$[2].name",
+    "original": "구속",
+    "context": "EN :\nBinds\nJP :\n拘束"
+  },
+  {
+    "key": "2110611-levelList$[2].abName",
+    "original": "묶인 왕",
+    "context": "EN :\nThe King in Binds\nJP :\n縛られた王"
+  },
+  {
+    "key": "2110611-levelList$[2].desc",
+    "original": "[BeforeAttack] (오만 또는 나태 공명 중 가장 높은 공명 수 - 2)만큼 공격 가중치 증가 (최대 2)\n[VibrationExplosion] 시 흐트러짐 손상 100% 증가\n[EndSkill] 3턴 동안 턴 종료 시 정신력 8 감소",
+    "context": "EN :\n[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 100%\n[EndSkill] For 3 turns, lose 8 SP at Turn End\nJP :\n[BeforeAttack] (傲慢または怠惰共鳴のうち最も多い共鳴数 - 2)だけ攻撃加重値増加(最大2)\n[VibrationExplosion]時、混乱区間前進効果が100％増加\n[EndSkill] 3ターンの間、ターン終了時に精神力が8減少"
+  },
+  {
+    "key": "2110611-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 6 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 6 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]6を付与"
+  },
+  {
+    "key": "2110611-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationCrack]로 [Switch_Vibration]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]\nJP :\n[OnSucceedAttack] [VibrationCrack]で[Switch_Vibration]"
+  },
+  {
+    "key": "2110611-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]\nJP :\n[OnSucceedAttack] [VibrationExplosion]"
+  },
+  {
+    "key": "2110621-levelList$[0].name",
+    "original": "구속",
+    "context": "EN :\nBinds\nJP :\n拘束"
+  },
+  {
+    "key": "2110621-levelList$[0].abName",
+    "original": "묶인 왕",
+    "context": "EN :\nThe King in Binds\nJP :\n縛られた王"
+  },
+  {
+    "key": "2110621-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (오만 또는 나태 공명 중 가장 높은 공명 수 - 2)만큼 공격 가중치 증가 (최대 2)",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (傲慢または怠惰共鳴のうち最も多い共鳴数 - 2)だけ攻撃加重値増加(最大2)"
+  },
+  {
+    "key": "2110621-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]4を付与"
+  },
+  {
+    "key": "2110621-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]回数が2増加"
+  },
+  {
+    "key": "2110621-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationCrack]로 [Switch_Vibration]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]\nJP :\n[OnSucceedAttack] [VibrationCrack]で[Switch_Vibration]"
+  },
+  {
+    "key": "2110621-levelList$[0].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]\nJP :\n[OnSucceedAttack] [VibrationExplosion]"
+  },
+  {
+    "key": "2110621-levelList$[1].name",
+    "original": "구속",
+    "context": "EN :\nBinds\nJP :\n拘束"
+  },
+  {
+    "key": "2110621-levelList$[1].abName",
+    "original": "묶인 왕",
+    "context": "EN :\nThe King in Binds\nJP :\n縛られた王"
+  },
+  {
+    "key": "2110621-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (오만 또는 나태 공명 중 가장 높은 공명 수 - 2)만큼 공격 가중치 증가 (최대 2)\n[VibrationExplosion] 시 흐트러짐 손상 50% 증가",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 50%\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (傲慢または怠惰共鳴のうち最も多い共鳴数 - 2)だけ攻撃加重値増加(最大2)\n[VibrationExplosion]時、混乱区間前進効果を50％増加"
+  },
+  {
+    "key": "2110621-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]5を付与"
+  },
+  {
+    "key": "2110621-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]回数が2増加"
+  },
+  {
+    "key": "2110621-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationCrack]로 [Switch_Vibration]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]\nJP :\n[OnSucceedAttack] [VibrationCrack]で[Switch_Vibration]"
+  },
+  {
+    "key": "2110621-levelList$[1].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttackTail] [VibrationExplosion]",
+    "context": "EN :\n[OnSucceedAttackTail] Trigger [VibrationExplosion]\nJP :\n[OnSucceedAttackTail] [VibrationExplosion]"
+  },
+  {
+    "key": "2110621-levelList$[1].coinlist[0].coindescs[4].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2110621-levelList$[2].name",
+    "original": "구속",
+    "context": "EN :\nBinds\nJP :\n拘束"
+  },
+  {
+    "key": "2110621-levelList$[2].abName",
+    "original": "묶인 왕",
+    "context": "EN :\nThe King in Binds\nJP :\n縛られた王"
+  },
+  {
+    "key": "2110621-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (오만 또는 나태 공명 중 가장 높은 공명 수 - 2)만큼 공격 가중치 증가 (최대 2)\n[VibrationExplosion] 시 흐트러짐 손상 50% 증가",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 50%\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (傲慢または怠惰共鳴のうち最も多い共鳴数 - 2)だけ攻撃加重値増加(最大2)\n[VibrationExplosion]時、混乱区間前進効果を50％増加"
+  },
+  {
+    "key": "2110621-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 6 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 6 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]6を付与"
+  },
+  {
+    "key": "2110621-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]回数が3増加"
+  },
+  {
+    "key": "2110621-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationCrack]로 [Switch_Vibration]",
+    "context": "EN :\n[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]\nJP :\n[OnSucceedAttack] [VibrationCrack]で[Switch_Vibration]"
+  },
+  {
+    "key": "2110621-levelList$[2].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttackTail] [VibrationExplosion]",
+    "context": "EN :\n[OnSucceedAttackTail] Trigger [VibrationExplosion]\nJP :\n[OnSucceedAttackTail] [VibrationExplosion]"
+  },
+  {
+    "key": "2110621-levelList$[2].coinlist[0].coindescs[4].desc",
+    "original": "[OnSucceedAttackTail] [VibrationExplosion]<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttackTail] Trigger [VibrationExplosion]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttackTail] [VibrationExplosion]<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2110621-levelList$[2].coinlist[0].coindescs[5].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [VibrationExplosion]<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2110711-levelList$[0].name",
+    "original": "차원찢개",
+    "context": "EN :\nDimension Shredder\nJP :\n次元裂き"
+  },
+  {
+    "key": "2110711-levelList$[0].abName",
+    "original": "길 잃은 승객",
+    "context": "EN :\nWayward Passenger\nJP :\n道を失った乗客"
+  },
+  {
+    "key": "2110711-levelList$[0].desc",
+    "original": "[BeforeAttack] 최대 공명이 4 이상이면, 공격 가중치 1 증가\n[BeforeAttack] 보유한 [Charge] 횟수가 10 미만일 때, 최대 체력의 15%만큼 체력을 소모하여 [Charge] 횟수를 10 얻음 (이 피해로 체력이 0이 되지않음, 소수점 버림)\n[BeforeAttack] [Charge] 횟수를 최대 40 소모하여 소모한 [Charge] 횟수당 피해량 +1% (최대 10%)",
+    "context": "EN :\n[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n[BeforeAttack] At less than 10 [Charge] Count, consume 15% HP to gain +10 [Charge] Count (this damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +1% more damage for every [Charge] Count consumed (max 10%)\nJP :\n[BeforeAttack] 最大共鳴数が4以上なら、攻撃加重値が1増加\n[BeforeAttack] 保有している[Charge]回数が10未満のとき、体力最大値の15%だけ体力を消耗して[Charge]回数を10得る(このダメージで体力が0にならない、小数点切り捨て)\n[BeforeAttack] [Charge]回数を最大40消耗し、消耗した[Charge]回数1につきダメージ量 +1%(最大10%)"
+  },
+  {
+    "key": "2110711-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] ([Charge] - 1)만큼 [DimensionRift] 부여 (최대 1)",
+    "context": "EN :\n[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 1)\nJP :\n[OnSucceedAttack] ([Charge] - 1)だけ[DimensionRift]を付与(最大1)"
+  },
+  {
+    "key": "2110711-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Charge]만큼 다음 턴에 [Agility] 1, [ChargeLoad] 1 얻음 (한 스킬당 최대 1)",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max 1 of each per Skill)\nJP :\n[OnSucceedAttack] [Charge]だけ次のターンに[Agility]1, [ChargeLoad]1を得る(スキル1回につき最大1)"
+  },
+  {
+    "key": "2110711-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[EnemyKill] [Charge] 횟수 2 증가",
+    "context": "EN :\n[EnemyKill] Gain +2 [Charge] Count\nJP :\n[EnemyKill] [Charge]回数が2増加"
+  },
+  {
+    "key": "2110711-levelList$[1].name",
+    "original": "차원찢개",
+    "context": "EN :\nDimension Shredder\nJP :\n次元裂き"
+  },
+  {
+    "key": "2110711-levelList$[1].abName",
+    "original": "길 잃은 승객",
+    "context": "EN :\nWayward Passenger\nJP :\n道を失った乗客"
+  },
+  {
+    "key": "2110711-levelList$[1].desc",
+    "original": "[BeforeAttack] 최대 공명이 <style=\"highlight\">3</style> 이상이면, 공격 가중치 1 증가\n[BeforeAttack] 보유한 [Charge] 횟수가 10 미만일 때, 최대 체력의 15%만큼 체력을 소모하여 [Charge] 횟수를 10 얻음 (이 피해로 체력이 0이 되지않음, 소수점 버림)\n[BeforeAttack] [Charge] 횟수를 최대 40 소모하여 소모한 [Charge] 횟수당 피해량 +1% (최대 <style=\"highlight\">20</style>%)",
+    "context": "EN :\n[BeforeAttack] At <style=\"highlight\">3</style>+ highest Reson., gain +1 Atk Weight\n[BeforeAttack] At less than 10 [Charge] Count, consume 15% HP to gain +10 [Charge] Count (this damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +1% more damage for every [Charge] Count consumed (max <style=\"highlight\">20</style>%)\nJP :\n[BeforeAttack] 最大共鳴数が<style=\"highlight\">3</style>以上なら、攻撃加重値が1増加\n[BeforeAttack] 保有している[Charge]回数が10未満のとき、体力最大値の15%だけ体力を消耗して[Charge]回数を10得る(このダメージで体力が0にならない、小数点切り捨て)\n[BeforeAttack] [Charge]回数を最大40消耗し、消耗した[Charge]回数1につきダメージ量 +1%(最大<style=\"highlight\">20</style>%)"
+  },
+  {
+    "key": "2110711-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] ([Charge] - 1)만큼 [DimensionRift] 부여 (최대 <style=\"highlight\">2</style>)",
+    "context": "EN :\n[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max <style=\"highlight\">2</style>)\nJP :\n[OnSucceedAttack] ([Charge] - 1)だけ[DimensionRift]を付与(最大<style=\"highlight\">2</style>)"
+  },
+  {
+    "key": "2110711-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Charge]만큼 다음 턴에 [Agility] 1, [ChargeLoad] 1 얻음 (한 스킬당 최대 <style=\"highlight\">2</style>)",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max <style=\"highlight\">2</style> of each per Skill)\nJP :\n[OnSucceedAttack] [Charge]だけ次のターンに[Agility]1, [ChargeLoad]1を得る(スキル1回につき最大<style=\"highlight\">2</style>)"
+  },
+  {
+    "key": "2110711-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[EnemyKill] [Charge] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>\nJP :\n[EnemyKill] [Charge]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2110711-levelList$[2].name",
+    "original": "차원찢개",
+    "context": "EN :\nDimension Shredder\nJP :\n次元裂き"
+  },
+  {
+    "key": "2110711-levelList$[2].abName",
+    "original": "길 잃은 승객",
+    "context": "EN :\nWayward Passenger\nJP :\n道を失った乗客"
+  },
+  {
+    "key": "2110711-levelList$[2].desc",
+    "original": "[BeforeAttack] <style=\"highlight\">(최대 공명 수 - 2)만큼</style> 공격 가중치 증가 <style=\"highlight\">(최대 2)</style>\n[BeforeAttack] 보유한 [Charge] 횟수가 10 미만일 때, 최대 체력의 <style=\"highlight\">10</style>%만큼 체력을 소모하여 [Charge] 횟수를 10 얻음 (이 피해로 체력이 0이 되지않음, 소수점 버림)\n[BeforeAttack] [Charge] 횟수를 최대 40 소모하여 소모한 [Charge] 횟수당 피해량 +1% (최대 <style=\"highlight\">30</style>%)",
+    "context": "EN :\n[BeforeAttack] Gain <style=\"highlight\">(highest Reson. - 2)</style> Atk Weight <style=\"highlight\">(max 2)</style>\n[BeforeAttack] At less than 10 [Charge] Count, consume <style=\"highlight\">10</style>% HP to gain +10 [Charge] Count (this damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +1% more damage for every [Charge] Count consumed (max <style=\"highlight\">30</style>%)\nJP :\n[BeforeAttack] <style=\"highlight\">(最大共鳴数 - 2)だけ</style>攻撃加重値が増加<style=\"highlight\">(最大2)</style>\n[BeforeAttack] 保有している[Charge]回数が10未満のとき、体力最大値の<style=\"highlight\">10</style>%だけ体力を消耗して[Charge]回数を10得る(このダメージで体力が0にならない、小数点切り捨て)\n[BeforeAttack] [Charge]回数を最大40消耗し、消耗した[Charge]回数1につきダメージ量 +1%(最大<style=\"highlight\">30</style>%)"
+  },
+  {
+    "key": "2110711-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] ([Charge] - 1)만큼 [DimensionRift] 부여 (최대 2)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] ([Charge] - 1)だけ[DimensionRift]を付与(最大2)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2110711-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Charge]만큼 다음 턴에 [Agility] 1, [ChargeLoad] 1 얻음 (한 스킬당 최대 <style=\"highlight\">3</style>)",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max <style=\"highlight\">3</style> of each per Skill)\nJP :\n[OnSucceedAttack] [Charge]だけ次のターンに[Agility]1, [ChargeLoad]1を得る(スキル1回につき最大<style=\"highlight\">3</style>)"
+  },
+  {
+    "key": "2110711-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[EnemyKill] [Charge] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>\nJP :\n[EnemyKill] [Charge]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2110721-levelList$[0].name",
+    "original": "차원찢개",
+    "context": "EN :\nDimension Shredder\nJP :\n次元裂き"
+  },
+  {
+    "key": "2110721-levelList$[0].abName",
+    "original": "길 잃은 승객",
+    "context": "EN :\nWayward Passenger\nJP :\n道を失った乗客"
+  },
+  {
+    "key": "2110721-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 최대 공명이 4 이상이면, 공격 가중치 1 증가\n[BeforeAttack] 보유한 [Charge] 횟수가 최대치 미만일 때, 최대 체력의 (부족한 [Charge] 횟수 X 1.5)%만큼 체력을 소모하여 [Charge] 횟수를 최대치까지 얻음 (최대 [Charge] 횟수 획득량 : 30.  이 피해로 체력이 0이 되지않음, 소수점 버림)\n[BeforeAttack] [Charge] 횟수를 최대 40 소모하여 소모한 [Charge] 횟수당 피해량 +2% (최대 20%) ",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n[BeforeAttack] At less than maximum [Charge] Count, consume (missing [Charge] Count x 1.5)% HP to gain up to max [Charge] Count (max [Charge] Count obtainable from this effect: 30. This damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +2% more damage for every [Charge] Count consumed (max 20%)\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 最大共鳴数が4以上なら、攻撃加重値が1増加\n[BeforeAttack] 保有した[Charge]回数が最大値未満のとき、体力を最大値の(足りない[Charge]回数 × 1.5)%だけ消耗して[Charge]回数を最大値まで得る(最大[Charge]回数獲得量 : 30 / このダメージで体力が0にならない、小数点切り捨て)\n[BeforeAttack] [Charge]回数を最大40消耗し、消耗した[Charge]回数1につきダメージ量 +2%(最大20%) "
+  },
+  {
+    "key": "2110721-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] ([Charge] - 1)만큼 [DimensionRift] 부여 (최대 2)",
+    "context": "EN :\n[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)\nJP :\n[OnSucceedAttack] ([Charge] - 1)だけ[DimensionRift]を付与(最大2)"
+  },
+  {
+    "key": "2110721-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Charge]만큼 다음 턴에 [Agility] 1, [ChargeLoad] 1 얻음 (한 스킬당 최대 2)",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max 2 of each per Skill)\nJP :\n[OnSucceedAttack] [Charge]だけ次のターンに[Agility]1, [ChargeLoad]1を得る(スキル1回につき最大2)"
+  },
+  {
+    "key": "2110721-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[EnemyKill] [Charge] 횟수 2 증가",
+    "context": "EN :\n[EnemyKill] Gain +2 [Charge] Count\nJP :\n[EnemyKill] [Charge]回数が2増加"
+  },
+  {
+    "key": "2110721-levelList$[1].name",
+    "original": "차원찢개",
+    "context": "EN :\nDimension Shredder\nJP :\n次元裂き"
+  },
+  {
+    "key": "2110721-levelList$[1].abName",
+    "original": "길 잃은 승객",
+    "context": "EN :\nWayward Passenger\nJP :\n道を失った乗客"
+  },
+  {
+    "key": "2110721-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 최대 공명이 4 이상이면, 공격 가중치 1 증가\n[BeforeAttack] 보유한 [Charge] 횟수가 최대치 미만일 때, 최대 체력의 (부족한 [Charge] 횟수 X <style=\"highlight\">1.2</style>)%만큼 체력을 소모하여 [Charge] 횟수를 최대치까지 얻음 (최대 [Charge] 횟수 획득량 : 30.  이 피해로 체력이 0이 되지않음, 소수점 버림)\n[BeforeAttack] [Charge] 횟수를 최대 40 소모하여 소모한 [Charge] 횟수당 피해량 +2% (최대 <style=\"highlight\">40</style>%) ",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n[BeforeAttack] At less than maximum [Charge] Count, consume (missing [Charge] Count x <style=\"highlight\">1.2</style>)% HP to gain up to max [Charge] Count (max [Charge] Count obtainable from this effect: 30. This damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +2% more damage for every [Charge] Count consumed (max <style=\"highlight\">40</style>%)\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 最大共鳴数が4以上なら、攻撃加重値が1増加\n[BeforeAttack] 保有した[Charge]回数が最大値未満のとき、体力を最大値の(足りない[Charge]回数 × <style=\"highlight\">1.2</style>)%だけ消耗して[Charge]回数を最大値まで得る(最大[Charge]回数獲得量 : 30 / このダメージで体力が0にならない、小数点切り捨て)\n[BeforeAttack] [Charge]回数を最大40消耗し、消耗した[Charge]回数1につきダメージ量 +2%(最大<style=\"highlight\">40</style>%) "
+  },
+  {
+    "key": "2110721-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] ([Charge] - 1)만큼 [DimensionRift] 부여 (최대 2)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] ([Charge] - 1)だけ[DimensionRift]を付与(最大2)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2110721-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Charge]만큼 다음 턴에 [Agility] 1, [ChargeLoad] 1 얻음 (한 스킬당 최대 2)",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max 2 of each per Skill)\nJP :\n[OnSucceedAttack] [Charge]だけ次のターンに[Agility]1, [ChargeLoad]1を得る(スキル1回につき最大2)"
+  },
+  {
+    "key": "2110721-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[EnemyKill] [Charge] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>\nJP :\n[EnemyKill] [Charge]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2110721-levelList$[2].name",
+    "original": "차원찢개",
+    "context": "EN :\nDimension Shredder\nJP :\n次元裂き"
+  },
+  {
+    "key": "2110721-levelList$[2].abName",
+    "original": "길 잃은 승객",
+    "context": "EN :\nWayward Passenger\nJP :\n道を失った乗客"
+  },
+  {
+    "key": "2110721-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] <style=\"highlight\">(최대 공명 수 - 2)만큼</style> 공격 가중치 증가 <style=\"highlight\">(최대 2)</style>\n[BeforeAttack] 보유한 [Charge] 횟수가 최대치 미만일 때, 최대 체력의 <style=\"highlight\">(부족한 [Charge] 횟수)%</style>만큼 체력을 소모하여 [Charge] 횟수를 최대치까지 얻음 (최대 [Charge] 횟수 획득량 : 30.  이 피해로 체력이 0이 되지않음, 소수점 버림)\n[BeforeAttack] [Charge] 횟수를 최대 40 소모하여 소모한 [Charge] 횟수당 피해량 +2% (최대 <style=\"highlight\">60</style>%) ",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain <style=\"highlight\">(highest Reson. - 2)</style> Atk Weight <style=\"highlight\">(max 2)</style>\n[BeforeAttack] At less than maximum [Charge] Count, consume <style=\"highlight\">(missing [Charge] Count)%</style> HP to gain up to max [Charge] Count (max [Charge] Count obtainable from this effect: 30. This damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +2% more damage for every [Charge] Count consumed (max <style=\"highlight\">60</style>%)\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] <style=\"highlight\">(最大共鳴数 - 2)だけ</style>攻撃加重値が増加<style=\"highlight\">(最大2)</style>\n[BeforeAttack] 保有した[Charge]回数が最大値未満の時、体力を最大値の<style=\"highlight\">(足りない[Charge]回数)%</style>だけ消耗して[Charge]回数を最大値まで得る(最大[Charge]回数獲得量 : 30 / このダメージで体力が0にならない、小数点切り捨て)\n[BeforeAttack] [Charge]回数を最大40消耗し、消耗した[Charge]回数1につきダメージ量 +2%(最大<style=\"highlight\">60%</style>) "
+  },
+  {
+    "key": "2110721-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] ([Charge] - 1)만큼 [DimensionRift] 부여 (최대 <style=\"highlight\">4</style>)",
+    "context": "EN :\n[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max <style=\"highlight\">4</style>)\nJP :\n[OnSucceedAttack] ([Charge] - 1)だけ[DimensionRift]を付与(最大<style=\"highlight\">4</style>)"
+  },
+  {
+    "key": "2110721-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Charge]만큼 다음 턴에 [Agility] 1, [ChargeLoad] 1 얻음 (한 스킬당 최대 <style=\"highlight\">3</style>)",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max <style=\"highlight\">3</style> of each per Skill)\nJP :\n[OnSucceedAttack] [Charge]だけ次のターンに[Agility]1, [ChargeLoad]1を得る(スキル1回につき最大<style=\"highlight\">3</style>)"
+  },
+  {
+    "key": "2110721-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[EnemyKill] [Charge] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>\nJP :\n[EnemyKill] [Charge]回数が2増加<style=\"highlight\"></style>"
+  }
+]

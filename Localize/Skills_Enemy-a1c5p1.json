@@ -1,0 +1,512 @@
+[
+  {
+    "key": "9008301-levelList$[0].name",
+    "original": "물거품 토하기",
+    "context": "EN :\nVomit Froth\nJP :\n水の泡を吐く"
+  },
+  {
+    "key": "9008301-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 침잠 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Sinking\nJP :\n[OnSucceedAttackHead] 沈潜 2を付与"
+  },
+  {
+    "key": "9008301-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 침잠 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Sinking\nJP :\n[OnSucceedAttackHead] 沈潜 2を付与"
+  },
+  {
+    "key": "9008302-levelList$[0].name",
+    "original": "할퀴기",
+    "context": "EN :\nClaw\nJP :\n引っ掻く"
+  },
+  {
+    "key": "9008302-levelList$[0].desc",
+    "original": "대상의 <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">침잠</link></u></color>이 5 이상이면 피해량 +20%",
+    "context": "EN :\nIf target has 5+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, deal +20% damage.\nJP :\n対象の<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</link></u></color>が5以上なら、ダメージ量+20%"
+  },
+  {
+    "key": "9008302-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 30%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 30% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の30%分体力を回復"
+  },
+  {
+    "key": "9008302-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 30%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 30% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の30%分体力を回復"
+  },
+  {
+    "key": "9008303-levelList$[0].name",
+    "original": "살수",
+    "context": "EN :\nWater Jet\nJP :\n撒水"
+  },
+  {
+    "key": "9008303-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 5 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +5 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が5増加"
+  },
+  {
+    "key": "9008304-levelList$[0].name",
+    "original": "미끌거리는 피부",
+    "context": "EN :\nMucous Skin\nJP :\nぬめる皮膚"
+  },
+  {
+    "key": "9008304-levelList$[0].desc",
+    "original": "보호막이 있는동안 피격 시 대상에게 침잠 1 부여",
+    "context": "EN :\nIf attacked while Shielded, inflict 1 Sinking on the attacker\nJP :\nバリアがある間、被ダメージ時対象に沈潜 1を付与"
+  },
+  {
+    "key": "9008401-levelList$[0].name",
+    "original": "갈고리 베기",
+    "context": "EN :\nHook Slice\nJP :\n鉤裂き"
+  },
+  {
+    "key": "9008401-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 출혈 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Bleed\nJP :\n[OnSucceedAttackHead] 出血 3を付与"
+  },
+  {
+    "key": "9008402-levelList$[0].name",
+    "original": "연속 갈고리 베기",
+    "context": "EN :\nConsecutive Hook Slice\nJP :\n連続鉤裂き"
+  },
+  {
+    "key": "9008402-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が2増加"
+  },
+  {
+    "key": "9008402-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Bleed\nJP :\n[OnSucceedAttack] 出血 5を付与"
+  },
+  {
+    "key": "9008403-levelList$[0].name",
+    "original": "전투의 함성",
+    "context": "EN :\nBattle Cry\nJP :\n戦闘の喊声"
+  },
+  {
+    "key": "9008403-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 호흡 2 얻음.\n턴 종료시 보호막만큼 체력을 회복함.",
+    "context": "EN :\n[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal HP equal to the Shield HP.\nJP :\n[WhenUse] 次のターンに呼吸 2を得る。\nターン終了時にバリア分、体力を回復する。"
+  },
+  {
+    "key": "9008404-levelList$[0].name",
+    "original": "빈틈 후리기",
+    "context": "EN :\nTear the Gap\nJP :\n隙を払う"
+  },
+  {
+    "key": "9008404-levelList$[0].desc",
+    "original": "<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">호흡</link></u></color>이 있을 때 코인 효과가 발동한다.",
+    "context": "EN :\nCoin effects activate when this unit has <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</link></u></color>.\nJP :\n<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</link></u></color>があるとき、コイン効果が発動する。"
+  },
+  {
+    "key": "9008404-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 가하는 피해량 +30%",
+    "context": "EN :\n[OnSucceedAttackTail] Deal +30% damage\nJP :\n[OnSucceedAttackTail] 与ダメージ量 +30%"
+  },
+  {
+    "key": "9008404-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 가하는 피해량 +30%",
+    "context": "EN :\n[OnSucceedAttackTail] Deal +30% damage\nJP :\n[OnSucceedAttackTail] 与ダメージ量 +30%"
+  },
+  {
+    "key": "9008501-levelList$[0].name",
+    "original": "갈고리 걸기",
+    "context": "EN :\nHook Snag\nJP :\n鉤掛け"
+  },
+  {
+    "key": "9008501-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 출혈 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +2 Bleed Count\nJP :\n[OnSucceedAttackHead] 出血 回数が2増加"
+  },
+  {
+    "key": "9008502-levelList$[0].name",
+    "original": "갈고리 훅",
+    "context": "EN :\nHook Punch\nJP :\n鉤フック"
+  },
+  {
+    "key": "9008502-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "9008502-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が3増加"
+  },
+  {
+    "key": "9008503-levelList$[0].name",
+    "original": "전투의 함성",
+    "context": "EN :\nBattle Cry\nJP :\n戦闘の喊声"
+  },
+  {
+    "key": "9008503-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 호흡 2 얻음.\n턴 종료시 보호막만큼 체력을 회복함.",
+    "context": "EN :\n[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal HP equal to the Shield HP.\nJP :\n[WhenUse] 次のターンに呼吸 2を得る。\nターン終了時にバリア分、体力を回復する。"
+  },
+  {
+    "key": "9008504-levelList$[0].name",
+    "original": "빈틈 후리기",
+    "context": "EN :\nTear the Gap\nJP :\n隙を払う"
+  },
+  {
+    "key": "9008504-levelList$[0].desc",
+    "original": "<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">호흡</link></u></color>이 있을 때 코인 효과가 발동한다.",
+    "context": "EN :\nCoin effects activate when this unit has <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</link></u></color>.\nJP :\n<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</link></u></color>があるとき、コイン効果が発動する。"
+  },
+  {
+    "key": "9008504-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 가하는 피해량 +30%",
+    "context": "EN :\n[OnSucceedAttackTail] Deal +30% damage\nJP :\n[OnSucceedAttackTail] 与ダメージ量 +30%"
+  },
+  {
+    "key": "9008504-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 가하는 피해량 +30%",
+    "context": "EN :\n[OnSucceedAttackTail] Deal +30% damage\nJP :\n[OnSucceedAttackTail] 与ダメージ量 +30%"
+  },
+  {
+    "key": "9008601-levelList$[0].name",
+    "original": "피부 찢기",
+    "context": "EN :\nTear the Flesh\nJP :\n皮膚を裂く"
+  },
+  {
+    "key": "9008601-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が2増加"
+  },
+  {
+    "key": "9008601-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 출혈 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Bleed\nJP :\n[OnSucceedAttackHead] 出血 3を付与"
+  },
+  {
+    "key": "9008602-levelList$[0].name",
+    "original": "침투한다",
+    "context": "EN :\nGoing In\nJP :\n浸透"
+  },
+  {
+    "key": "9008602-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 4 부여, 출혈 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Bleed and +3 Bleed Count\nJP :\n[OnSucceedAttack] 出血 4を付与、出血 回数が3増加"
+  },
+  {
+    "key": "9008603-levelList$[0].name",
+    "original": "더 빠르게",
+    "context": "EN :\nFaster\nJP :\nより速く"
+  },
+  {
+    "key": "9008603-levelList$[0].desc",
+    "original": "[EndSkill] 다음 턴에 피해량 증가 1 얻음",
+    "context": "EN :\n[EndSkill] Gain 1 Damage Up next turn\nJP :\n[EndSkill] 次のターンにダメージ量増加 1を得る"
+  },
+  {
+    "key": "9008603-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 호흡 4 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 4 Poise next turn\nJP :\n[OnSucceedAttack] 次のターンに呼吸 4を得る"
+  },
+  {
+    "key": "9008603-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 취약 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Fragile next turn\nJP :\n[OnSucceedAttack] 次のターンに脆弱 2を付与"
+  },
+  {
+    "key": "9008604-levelList$[0].name",
+    "original": "전투의 함성",
+    "context": "EN :\nBattle Cry\nJP :\n戦闘の喊声"
+  },
+  {
+    "key": "9008604-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 호흡 2 얻음.\n턴 종료시 보호막만큼 체력을 회복함.",
+    "context": "EN :\n[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal HP equal to the Shield HP.\nJP :\n[WhenUse] 次のターンに呼吸 2を得る。\nターン終了時にバリア分、体力を回復する。"
+  },
+  {
+    "key": "9008605-levelList$[0].name",
+    "original": "노획",
+    "context": "EN :\nLooting\nJP :\n虜獲"
+  },
+  {
+    "key": "9008605-levelList$[0].desc",
+    "original": "[WinDuel] 대상의 1~3등급 스킬의 코인 위력, 갯수를 가져와 사용함",
+    "context": "EN :\n[WinDuel] Copies the target's 1~3 Skill Coin Power and Coin Count and uses them as its own\nJP :\n[WinDuel] 対象のランク1～3スキルのコイン威力、個数をコピーして使用"
+  },
+  {
+    "key": "9008701-levelList$[0].name",
+    "original": "더 때려봐",
+    "context": "EN :\nHit Me Harder\nJP :\nもっと殴れ"
+  },
+  {
+    "key": "9008701-levelList$[0].desc",
+    "original": "[WhenUse] 대상에게 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>이 있다면, 보호 1 얻음",
+    "context": "EN :\n[WhenUse] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain 1 Protection\nJP :\n[WhenUse] 対象に<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>があるなら、保護 1を得る"
+  },
+  {
+    "key": "9008701-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttack] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "9008701-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "9008702-levelList$[0].name",
+    "original": "여기를 때리는거다",
+    "context": "EN :\nHit Me Right here\nJP :\nここを殴るんだ"
+  },
+  {
+    "key": "9008702-levelList$[0].desc",
+    "original": "[WhenUse] 대상에게 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>이 있다면, 보호 1 얻음",
+    "context": "EN :\n[WhenUse] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain 1 Protection\nJP :\n[WhenUse] 対象に<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>があるなら、保護 1を得る"
+  },
+  {
+    "key": "9008702-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 1を付与"
+  },
+  {
+    "key": "9008702-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "9008702-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 피해량 감소 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Damage Down next turn\nJP :\n[OnSucceedAttack] 次のターンにダメージ量減少 2を付与"
+  },
+  {
+    "key": "9008702-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Bleed\nJP :\n[OnSucceedAttack] 出血 2を付与"
+  },
+  {
+    "key": "9008703-levelList$[0].name",
+    "original": "더욱 단단하게",
+    "context": "EN :\nEven Harder\nJP :\nもっと強く"
+  },
+  {
+    "key": "9008703-levelList$[0].desc",
+    "original": "[EndSkill] 다음 턴에 피해량 증가 1 얻음",
+    "context": "EN :\n[EndSkill] Gain 1 Damage Up next turn\nJP :\n[EndSkill] 次のターンにダメージ量増加 1を得る"
+  },
+  {
+    "key": "9008703-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 보호 2 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 Protection\nJP :\n[OnSucceedAttack] 保護 2を得る"
+  },
+  {
+    "key": "9008703-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 보호 2 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 Protection next turn\nJP :\n[OnSucceedAttack] 次のターンに保護 2を得る"
+  },
+  {
+    "key": "9008703-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 호흡 4 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 4 Poise next turn\nJP :\n[OnSucceedAttack] 次のターンに呼吸 4を得る"
+  },
+  {
+    "key": "9008704-levelList$[0].name",
+    "original": "방어",
+    "context": "EN :\nDefend\nJP :\n防御"
+  },
+  {
+    "key": "9008704-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 호흡 2 얻음.\n턴 종료시 보호막만큼 체력을 회복함.",
+    "context": "EN :\n[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal HP equal to the Shield HP.\nJP :\n[WhenUse] 次のターンに呼吸 2を得る。\nターン終了時にバリア分、体力を回復する。"
+  },
+  {
+    "key": "9008705-levelList$[0].name",
+    "original": "노획",
+    "context": "EN :\nLooting\nJP :\n虜獲"
+  },
+  {
+    "key": "9008705-levelList$[0].desc",
+    "original": "[WinDuel] 대상의 1~3등급 스킬의 코인 위력, 갯수를 가져와 사용함",
+    "context": "EN :\n[WinDuel] Copies the target's 1~3 Skill Coin Power and Coin Count and uses them as its own\nJP :\n[WinDuel] 対象のランク1～3スキルのコイン威力、個数をコピーして使用"
+  },
+  {
+    "key": "9101101-levelList$[0].name",
+    "original": "살수",
+    "context": "EN :\nWater Jet\nJP :\n撒水"
+  },
+  {
+    "key": "9101101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Sinking\nJP :\n[OnSucceedAttack] 沈潜 3を付与"
+  },
+  {
+    "key": "9101101-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Sinking\nJP :\n[OnSucceedAttack] 沈潜 3を付与"
+  },
+  {
+    "key": "9101102-levelList$[0].name",
+    "original": "축축한 일격",
+    "context": "EN :\nDamp Strike\nJP :\n湿った一撃"
+  },
+  {
+    "key": "9101102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 취약 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Sinking Fragility\nJP :\n[OnSucceedAttack] 沈潜脆弱 2を付与"
+  },
+  {
+    "key": "9101102-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が3増加"
+  },
+  {
+    "key": "9101102-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 피해량의 50%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal by 50% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の50%分体力を回復"
+  },
+  {
+    "key": "9101103-levelList$[0].name",
+    "original": "파도의 손아귀",
+    "context": "EN :\nClutch of the Waves\nJP :\n波の掌中"
+  },
+  {
+    "key": "9101103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が2増加"
+  },
+  {
+    "key": "9101103-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Bleed\nJP :\n[OnSucceedAttackHead] 出血 2を付与"
+  },
+  {
+    "key": "9101103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が2増加"
+  },
+  {
+    "key": "9101103-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Bleed\nJP :\n[OnSucceedAttackHead] 出血 2を付与"
+  },
+  {
+    "key": "9101104-levelList$[0].name",
+    "original": "울부짖는 물결",
+    "context": "EN :\nShrieking Waves\nJP :\n泣き叫ぶ波浪"
+  },
+  {
+    "key": "9101104-levelList$[0].desc",
+    "original": "대상의 침잠 위력 5당 피해량 +20%\n대상의 정신력이 0 미만이면 피해량 +10%",
+    "context": "EN :\nDamage +20% per 5 Sinking Potency on target\nIf target's SP is below 0, deal +10% damage\nJP :\n対象の沈潜 威力5につきダメージ量 +20%\n対象の精神力が0未満なら、ダメージ量 +10%"
+  },
+  {
+    "key": "9101104-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠쇄도",
+    "context": "EN :\n[OnSucceedAttack] Sinking Deluge\nJP :\n[OnSucceedAttack] 沈潜殺到"
+  },
+  {
+    "key": "9101105-levelList$[0].name",
+    "original": "미끌거리는 피부",
+    "context": "EN :\nMucous Skin\nJP :\nぬめる皮膚"
+  },
+  {
+    "key": "9101105-levelList$[0].desc",
+    "original": "보호막이 있는동안 피격 시 대상에게 침잠 1 부여",
+    "context": "EN :\nIf attacked while Shielded, inflict 1 Sinking on the attacker\nJP :\nバリアがある間、被ダメージ時対象に沈潜 1を付与"
+  },
+  {
+    "key": "9101201-levelList$[0].name",
+    "original": "저기 저기봐",
+    "context": "EN :\nThere, There They Are\nJP :\nあっちを見てみろ"
+  },
+  {
+    "key": "9101201-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bleed\nJP :\n[OnSucceedAttack] 出血 3を付与"
+  },
+  {
+    "key": "9101202-levelList$[0].name",
+    "original": "얘들아 손님이다",
+    "context": "EN :\nWe've Got Company, Boys\nJP :\nお前ら、お客さんだ"
+  },
+  {
+    "key": "9101202-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が2増加"
+  },
+  {
+    "key": "9101202-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 출혈 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Bleed\nJP :\n[OnSucceedAttackHead] 出血 2を付与"
+  },
+  {
+    "key": "9101202-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Bleed Count\nJP :\n[OnSucceedAttack] 出血 回数が1増加"
+  },
+  {
+    "key": "9101202-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead]  출혈 4 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 4 Bleed\nJP :\n[OnSucceedAttackHead] 出血 4を付与"
+  },
+  {
+    "key": "9101203-levelList$[0].name",
+    "original": "전투 지휘",
+    "context": "EN :\nBattle Command\nJP :\n戦闘指揮"
+  },
+  {
+    "key": "9101203-levelList$[0].desc",
+    "original": "[WhenUse] 이번 턴에 호흡 5 얻음",
+    "context": "EN :\n[WhenUse] Gain 5 Poise this turn\nJP :\n[WhenUse] このターンに呼吸 5を得る"
+  },
+  {
+    "key": "9101203-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신을 제외한 모든 아군에게 다음 턴에 보호 2, 공격 위력 증가 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Apply 2 Protection, 1 Attack Power Up to all other allies next turn\nJP :\n[OnSucceedAttack] 自分を除いた全味方に次のターンにて、保護 2, 攻撃威力増加 1を付与"
+  },
+  {
+    "key": "9101204-levelList$[0].name",
+    "original": "헛점 발견! 격발!",
+    "context": "EN :\nWeakness Spotted! Fire!\nJP :\n隙発見！撃発！"
+  },
+  {
+    "key": "9101204-levelList$[0].desc",
+    "original": "대상의 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>이 5이상일 때, 합 위력 +2",
+    "context": "EN :\nIf target has 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, Clash Power +2\nJP :\n対象の<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>が5以上のとき、マッチ威力+2"
+  },
+  {
+    "key": "9101204-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Bleed\nJP :\n[OnSucceedAttack] 出血 4を付与"
+  },
+  {
+    "key": "9101204-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 출혈 4 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 4 Bleed\nJP :\n[OnSucceedAttackHead] 出血 4を付与"
+  },
+  {
+    "key": "9101204-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 출혈 횟수 3 부여\n대상의 <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">출혈</color></link></u>만큼 추가 피해",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Bleed Count\nDeal bonus damage equal to <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> on target\nJP :\n[OnSucceedAttack] 出血 回数を3付与\n対象の<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>だけ追加ダメージ"
+  },
+  {
+    "key": "9101204-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "탄환 1 소모",
+    "context": "EN :\nSpend 1 Ammo\nJP :\n弾丸 1を消耗"
+  },
+  {
+    "key": "9101205-levelList$[0].name",
+    "original": "회피",
+    "context": "EN :\nEvade\nJP :\n回避"
+  },
+  {
+    "key": "9101205-levelList$[0].desc",
+    "original": "[OnSucceedEvade] 다음 턴에 호흡 5 얻음.\n[OnSucceedEvade]다음 턴에 모든 아군에게 호흡 2 부여.",
+    "context": "EN :\n[OnSucceedEvade] Gain 5 Poise next turn.\n[OnSucceedEvade] Apply 2 Poise to all allies next turn.\nJP :\n[OnSucceedEvade] 次のターンに呼吸 5を得る。\n[OnSucceedEvade] 次のターンに全味方へ呼吸 2を付与。"
+  },
+  {
+    "key": "9101206-levelList$[0].name",
+    "original": "노획",
+    "context": "EN :\nLooting\nJP :\n虜獲"
+  },
+  {
+    "key": "9101206-levelList$[0].desc",
+    "original": "[WinDuel] 대상의 3등급 스킬의 코인 위력, 갯수를 가져와 사용함",
+    "context": "EN :\n[WinDuel] Copies the target's Skill 3 Coin Power and Coin Count and uses them as its own\nJP :\n[WinDuel] 対象のランク3スキルのコイン威力、個数をコピーして使用"
+  }
+]

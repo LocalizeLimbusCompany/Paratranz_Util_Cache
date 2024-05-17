@@ -1,0 +1,660 @@
+[
+  {
+    "key": "0-place",
+    "original": "워더링하이츠 복도",
+    "context": "EN :\nWuthering Heights Corridors\nJP :\nワザリング・ハイツ 廊下"
+  },
+  {
+    "key": "0-content",
+    "original": "히스클리프가 죽은 데드레빗츠들의 시체를 뒤지고 있었다.",
+    "context": "EN :\nHeathcliff was digging through the deceased Dead Rabbits' pockets.\nJP :\nヒースクリフは死んだデッドラビッツの死体を漁っていた。"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<뭘 찾고 있는 거야, 히스클리프?>",
+    "context": "EN :\n<What are you looking for, Heathcliff?>\nJP :\n<ヒースクリフ、何か探してるの？>"
+  },
+  {
+    "key": "2-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "2-content",
+    "original": "안 보여.",
+    "context": "EN :\nThey don't have 'em.\nJP :\nない。"
+  },
+  {
+    "key": "3-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "3-content",
+    "original": "<아까 이상이 말했던… 시계?>",
+    "context": "EN :\n<The timepieces that Yi Sang mentioned earlier?>\nJP :\n<さっきイサンが言ってた…時計？>"
+  },
+  {
+    "key": "4-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "4-content",
+    "original": "그래, T사에서 태어나고 자란 자들은 무조건 시계를 가지고 있어야 해.",
+    "context": "EN :\nYeah. Everyone born and raised in T Corp. carries a watch. They have to.\nJP :\nそうだ、T社で生まれ育ったヤツらは\n絶対に時計を持ってなきゃならねぇ。"
+  },
+  {
+    "key": "5-content",
+    "original": "그러고 보니… 요전번에 용진빌딩에서 싸웠던 흑운회의 간부도 비슷한 말을 했었지.",
+    "context": "EN :\nRight... the Kurokumo Clan officer we fought in Yong-jin building was looking for a timepiece, too.\nJP :\nそういえば…この前ヨンジンビルで戦った\n黒雲会の幹部も似たようなことを言っていたっけ。"
+  },
+  {
+    "key": "6-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "6-content",
+    "original": "그건… 내가 어떤 사람인지에 대한 신원을 알려주는 도구이니까.",
+    "context": "EN :\nIt's... like a form of personal identification. It's something you carry around to show others that you are who you are.\nJP :\nそれは…オレがどんな人か、身分を証明する道具だからな。"
+  },
+  {
+    "key": "7-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "7-content",
+    "original": "나는 T사를 떠나면서 시계도 같이 버렸지만…",
+    "context": "EN :\nI abandoned my watch when I left T Corp., but...\nJP :\nオレはT社を去りながら時計も一緒に捨てたけど…。"
+  },
+  {
+    "key": "8-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "8-content",
+    "original": "그러게… 이자들, 시계 끈조차 보이지 않아.",
+    "context": "EN :\nI see... They don't even have their pocket watch chains with them.\nJP :\nそうだね…この人たち、時計の紐すら持ってない。"
+  },
+  {
+    "key": "9-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "9-content",
+    "original": "시계만 있다면 적어도 어디서부터 온 자들인지까지는 알아낼 수 있을 텐데.",
+    "context": "EN :\nIf they did carry a watch, we would have been able to learn at least where they were coming from.\nJP :\n時計さえあれば、少なくともどこから来た人なのかだけは\n分かると思うんだけど。"
+  },
+  {
+    "key": "10-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "10-content",
+    "original": "의도적으로 이 사람들의 신분을 지웠거나… 여기 출신이 아니라던가?",
+    "context": "EN :\nSo someone either doesn't want people finding out who they are... or they're simply not from around here. Right?\nJP :\n意図的にこの人たちの身分を隠したか…この出身じゃないとか？"
+  },
+  {
+    "key": "11-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "11-content",
+    "original": "복장은 T사에서 자주 보던 양식이오. 분명 이곳 출신은 맞을 터…",
+    "context": "EN :\nI have witnessed such garb commonly worn about within the T Corp. territory. I have no doubts that they must be locals...\nJP :\n服装はT社にて繁く見かくる様式なり。\n定かに、ここの出自なるべし…。"
+  },
+  {
+    "key": "12-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "12-content",
+    "original": "의문점이 한두 개가 아니지만… 일단 지나가지.",
+    "context": "EN :\nThere are many unanswered questions... but let us save that discussion for later.\nJP :\n疑問が一つや二つではないが…ひとまず通過しよう。"
+  },
+  {
+    "key": "13-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "13-content",
+    "original": "…여기군.",
+    "context": "EN :\n... Here it is.\nJP :\n…ここか。"
+  },
+  {
+    "key": "14-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "14-content",
+    "original": "오늘처럼 방까지 오는 길이 험난한 적이 없었네. 휴… 그럼 이제 들어갈까?",
+    "context": "EN :\nWhew... Now that was quite the journey, wasn't it? Shall we enter?\nJP :\n今日ほど部屋までの道が険しいことはなかった気がするね。\nふぅ…じゃあ、入りましょうか？"
+  },
+  {
+    "key": "15-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "15-content",
+    "original": "…말해줘, 넬리.",
+    "context": "EN :\n... Nelly. Tell me.\nJP :\n…教えてくれ、ネリー。"
+  },
+  {
+    "key": "16-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "16-content",
+    "original": "내가… 이곳을 말도 없이 떠나고 나서… 캐서린은 어떻게 지냈어?",
+    "context": "EN :\nAfter I... left without a word... how did Catherine fare?\nJP :\nオレが…ここを何も言わずに去ってから…\nキャサリンはどう過ごしていた？"
+  },
+  {
+    "key": "17-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "17-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "18-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "18-content",
+    "original": "물론… 결국 린튼 놈과 결혼해서… 행복하게 살았다는 거 정도는 알겠어. 하지만…",
+    "context": "EN :\nOf course, I already know that she lived happily ever after with that sod, Linton. But...\nJP :\nもちろん…結局リントンの野郎と結婚して…\n幸せに暮らしたことくらいは分かるさ。でも…。"
+  },
+  {
+    "key": "19-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "19-content",
+    "original": "말해줄까?",
+    "context": "EN :\nAre you sure you want to know?\nJP :\n教えてあげようか？"
+  },
+  {
+    "key": "20-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "20-content",
+    "original": "젠장… 듣고 싶은데, 듣고 싶지 않아.",
+    "context": "EN :\nDammit, I do. But... I also don't.\nJP :\nクソッ…聞きてぇけど、聞きたくねぇな。"
+  },
+  {
+    "key": "21-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "21-content",
+    "original": "분명 지금 내 표정… 꼴사납겠지. 캐시가 지금 나를 보면 한마디 날려줬을 거야.",
+    "context": "EN :\nI must look so... pathetic. If Cathy was here, she would've mocked me mercilessly.\nJP :\nきっと今のオレの表情…みっともねぇだろうな。\nキャシーが今オレを見たら何かしら、ひとこと言ってきただろう。"
+  },
+  {
+    "key": "22-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "22-content",
+    "original": "거울이라도 있으면 보여주고 싶을 표정이긴 해.",
+    "context": "EN :\nI would have brought you a mirror so you can see that priceless look on your face...\nJP :\n鏡でもあったら、見せてあげたい表情ではあるね。"
+  },
+  {
+    "key": "23-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "23-content",
+    "original": "내가 전부 치워버려서 지금은 남아있지 않지만… 하하.",
+    "context": "EN :\n... if I hadn't removed them all from the premises... Ha ha.\nJP :\n私が全部片付けちゃったせいで、今は残ってないけど…あはは。"
+  },
+  {
+    "key": "24-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "24-content",
+    "original": "쯧, 실없는 농담은 갖다 치워.",
+    "context": "EN :\nTsk, I'm not interested in your stupid jests.\nJP :\nちっ、くだんねぇ冗談はやめろ。"
+  },
+  {
+    "key": "25-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "25-content",
+    "original": "애초에… 내가 나간 후에 캐서린이 한 번이라도 내 이야기를… 꺼낸 적이 있어?",
+    "context": "EN :\nBut has Catherine ever, even once, talked about me at all since I left?\nJP :\nそもそも…オレが出て行ってから、\nキャサリンが一度でもオレの話を…したことはあるのか？"
+  },
+  {
+    "key": "26-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "26-content",
+    "original": "…없었어.",
+    "context": "EN :\n... No.\nJP :\n…なかったよ。"
+  },
+  {
+    "key": "27-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "27-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "28-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "28-content",
+    "original": "뭐, 그랬겠지. 나 같은 망나니 새끼는… 떠나든 말든 캐서린에겐…",
+    "context": "EN :\nOf course she didn’t. A witless brigand, a scoundrel like me… I’m sure it didn’t matter to Catherine whether I—\nJP :\nまあ、そうだろう。\nオレみてぇなならず者は…去ろうと去るまいとキャサリンには…。"
+  },
+  {
+    "key": "29-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "29-content",
+    "original": "글쎄, 히스클리프.",
+    "context": "EN :\nI wouldn't be so sure, Heathcliff.\nJP :\nえっとね、ヒースクリフ。"
+  },
+  {
+    "key": "30-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "30-content",
+    "original": "내 말은 그런 뜻이 아니었어.",
+    "context": "EN :\nThat is not what I meant.\nJP :\nそういう意味じゃなくて。"
+  },
+  {
+    "key": "31-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "31-content",
+    "original": "네가 떠난 후 캐서린 아가씨는… 아주 천천히 죽어가기 시작했어. 방에 처박혀서 며칠을 안 나오고, 밥도 먹지 않고 말도 하지 않았지.",
+    "context": "EN :\nWhen you left, Miss Catherine… she began withering away. She skulked in her room for days upon days, refusing to eat or even speak.\nJP :\nあんたが去った後、キャサリンお嬢様は…とてもゆっくりと死に始めたの。\n部屋に閉じこもって何日も出て来ずに、ご飯も食べずに話もしなかった。"
+  },
+  {
+    "key": "32-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "32-content",
+    "original": "그러다가 소리 지르고, 울고, 혼잣말을 하고… 린튼 주인님이 와서 달래 줘도 똑같았어.",
+    "context": "EN :\nThen she’d suddenly grow lachrymose, scream, cry, whisper things to herself… Master Linton would come by to coax her, but it hardly helped matters.\nJP :\nそうしてると叫んで、泣いて、独り言を言って…\nリントンご主人様が来て、なだめても同じだった。"
+  },
+  {
+    "key": "33-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "33-content",
+    "original": "정말… 장의사를 미리 불러야 하는 건가 싶을 정도로 아가씨는…",
+    "context": "EN :\nShe was so ill that I was worried that we might have to start making arrangements with a mortician in advance.\nJP :\n本当に…葬儀屋を前もって呼ぶべきかと思うくらいに、お嬢様は…。"
+  },
+  {
+    "key": "34-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "34-content",
+    "original": "정말이야? 캐서린이… 그렇게 고통스러워했다고?",
+    "context": "EN :\nReally? I... Catherine… she was in that much pain?\nJP :\n本当か？キャサリンが…そんなに苦しんでたのか？"
+  },
+  {
+    "key": "35-content",
+    "original": "믿기지 않는다는 듯이 히스클리프가 되물었다.",
+    "context": "EN :\nHeathcliff asked, incredulously.\nJP :\n信じられないという風に、ヒースクリフが問い返した。"
+  },
+  {
+    "key": "36-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "36-content",
+    "original": "응. 보고 있는 모두가 고통스러워질 정도로. 그러다가 어느 날…",
+    "context": "EN :\nYes. It pained us to even watch her suffer. And one day, she…\nJP :\nうん。見ている方が苦しくなるくらいには。\nそうしているうちに、ある日…。"
+  },
+  {
+    "key": "37-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "37-content",
+    "original": "넬리, 이것 봐. 린튼이 베개 위에 꽃을 놓아두고 갔어.",
+    "context": "EN :\nNelly, look. Linton’s left a flower on my pillow.\nJP :\nネリー、これを見て。\nリントンが枕の上に花を置いていったの。"
+  },
+  {
+    "key": "38-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "38-content",
+    "original": "황금빛이네. 몰랐는데, 워더링하이츠에 이제 봄이 왔구나. 눈도 다 녹았어.",
+    "context": "EN :\nOh, it’s golden. I didn’t know that spring had come to Wuthering Heights already. I suppose the snow has all but thawed, too.\nJP :\n黄金色だね。気づかなかったけど、\nワザリング・ハイツに春が来たのね。\n雪も全部溶けて。"
+  },
+  {
+    "key": "39-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "39-content",
+    "original": "와, 정말 낭만적인데요?",
+    "context": "EN :\nIs that not so romantic of him, miss?\nJP :\nわぁ、本当にロマンチックですね？"
+  },
+  {
+    "key": "40-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "40-content",
+    "original": "그렇게 보일 수도. 또 엄청난 값을 치렀으려나.",
+    "context": "EN :\nI suppose it could appear that way. He must have paid quite the fortune for this.\nJP :\nそう見えるかもしれないわね。\nまた途方もない額を払ったのかしら。"
+  },
+  {
+    "key": "41-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "41-content",
+    "original": "하지만 린튼이 정말 날 위해 꽃에 색을 주고 싶었다면…",
+    "context": "EN :\nBut if Linton truly cared for me, truly wished to return a color to a flower for my sake...\nJP :\nでも、リントンが本当に私のために\n花へ色を与えたかったのなら…。"
+  },
+  {
+    "key": "42-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "42-content",
+    "original": "이 꽃은, 보랏빛을 띠는 꽃이었어야 했겠지.",
+    "context": "EN :\n... then he should have brought me a violet flower.\nJP :\nこの花は、紫色を帯びた花であるべきだったわね。"
+  },
+  {
+    "key": "43-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "43-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "44-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "44-content",
+    "original": "그러니까… 이건 나를 위한 게 아니야. 린튼 그 스스로를 위한 거지.",
+    "context": "EN :\nSo... he did not bring this flower for my sake. This was only for his own satisfaction.\nJP :\nだから…これは私のためじゃないの。\nリントン、彼自身のためよ。"
+  },
+  {
+    "key": "45-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "45-content",
+    "original": "아가씨… 괜찮은 거예요?",
+    "context": "EN :\nAre you... okay, Miss?\nJP :\nお嬢様…大丈夫ですか？"
+  },
+  {
+    "key": "46-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "46-content",
+    "original": "무슨 말을 하는 거야. 오늘만큼 상태가 좋은 날도 드문 것 같아.",
+    "context": "EN :\nWhatever do you mean? I have never felt better than I do today.\nJP :\n何を言ってるる。\n今日ほど調子の良い日も珍しいと思うわ。"
+  },
+  {
+    "key": "47-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "47-content",
+    "original": "나와 함께 바깥에 산책을 가주지 않을래? 어떤 꽃들이 겨울을 이겨내고 피어났는지, 하나하나씩 봐야겠어.",
+    "context": "EN :\nWalk with me, won't you? I would like to see which flowers have weathered the wintery cold and bloomed.\nJP :\n私と一緒に、外へ散歩に行ってくれない？\nどんな花が冬を耐え抜いて咲いたのか、一つずつ見ないとね。"
+  },
+  {
+    "key": "48-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "48-content",
+    "original": "아가씨는 그 후로 정말 기운을 차리셨어.",
+    "context": "EN :\nAfter that day, Miss Catherine truly appeared convalescent.\nJP :\nお嬢様は、それから本当に元気を取り戻されました。"
+  },
+  {
+    "key": "49-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "49-content",
+    "original": "캐서린 아가씨가 다시 활기를 되찾게 되어서 모두가 기뻐했지만…",
+    "context": "EN :\nWe were all happy to see Miss Catherine be herself again, but...\nJP :\nキャサリンお嬢様が\n再び元気を取り戻すことができて皆が喜んだけど…。"
+  },
+  {
+    "key": "50-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "50-content",
+    "original": "지금 생각해 보면 뭔가 이상했던 것 같긴 해. 몇 달을 괴로워하던 사람이 하루아침에 열병을 떨쳐낼 수 있을까?",
+    "context": "EN :\n... now that I think about it, it was a tad strange. She suffered for months upon months from fever; how could anyone so suddenly recover from all that after a single night's repose?\nJP :\n今考えてみると、何か変だったような気がする。\n何ヶ月も苦しんでいた人が、一晩で熱病に打ち勝つことなんてできる？"
+  },
+  {
+    "key": "51-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "51-content",
+    "original": "힌들리 씨로부터 이 워더링하이츠를 사버리고…",
+    "context": "EN :\nThat is also when she purchased Wuthering Heights from Mister Hindley Earnshaw...\nJP :\nヒンドリー様からこのワザリング・ハイツを買い取られて…。"
+  },
+  {
+    "key": "52-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "52-content",
+    "original": "이곳에서 본격적으로 집을 개조하기 시작한 것도… 모두 그때부터야.",
+    "context": "EN :\n... and started making sweeping modifications to this place.\nJP :\n本格的に家を改造し始めたのも…全部その頃からだったはず。"
+  },
+  {
+    "key": "53-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "53-content",
+    "original": "나는 두 분이서 다시 워더링하이츠로 돌아가서 사시려나 보다 싶었어. 궁금해서 계속 물어봤지만 저택을 어떻게 바꾸는지는 결코 말씀해 주시지 않았거든.",
+    "context": "EN :\nI thought the two of them had intended to return to Wuthering Heights, so I asked them what exactly they planned to do with it… but they never gave me a straight answer.\nJP :\n私はお二人がまたワザリング・ハイツに戻って暮らすつもりじゃないのかって\n思ってたの。気になって何度も尋ねてみたけど、邸宅をどう変えるかは\n決して言ってくれなかったんだ。"
+  },
+  {
+    "key": "54-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "54-content",
+    "original": "하. 나도 알고 싶다, 히스클리프. 아가씨가 대체 어떤 생각이었는지…",
+    "context": "EN :\nHaah. I'm just as in the dark as you are. I've not the slightest clue as to what she was thinking...\nJP :\nはぁ。私も知りたいなぁ、ヒースクリフ。\nお嬢様が一体何を考えていたのか…。"
+  },
+  {
+    "key": "55-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "55-content",
+    "original": "편지는…",
+    "context": "EN :\nWhat about... my letters?\nJP :\n手紙は…。"
+  },
+  {
+    "key": "56-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "56-content",
+    "original": "편지를 보낸 적이 있었어. 이곳에 입사하고부터는 못 보냈지만… 갱단에 있을 때부터…",
+    "context": "EN :\nI sent her letters. I haven't been able to since I joined this company, but... when I was a part of that gang...\nJP :\n手紙を送ったことがある。\nここに入社してからは送れなかったけど…ギャングにいたときに…。"
+  },
+  {
+    "key": "57-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "57-content",
+    "original": "봉투에 내 이름을 써놓진 않았지만…",
+    "context": "EN :\n... I wrote her letters. Though I didn't sign my name on 'em.\nJP :\n封筒にオレの名前は書いてねぇけど…。"
+  },
+  {
+    "key": "58-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "58-content",
+    "original": "그냥… 잘 지낸다는 것 정도는 알려주고 싶었다고.",
+    "context": "EN :\nI... just wanted to let her know that I was doing fine.\nJP :\nただ…上手くやってることくらいは知らせたかったんだ。"
+  },
+  {
+    "key": "59-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "59-content",
+    "original": "글쎄, 편지 같은 건 뜯어보지 않으셨어.",
+    "context": "EN :\nWell, I don't recall her ever opening a letter.\nJP :\nさぁ、手紙とかは開けられた覚えはないかな。"
+  },
+  {
+    "key": "60-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "60-content",
+    "original": "그 고집은 아무도 꺾을 수가 없을 거야. 아무도…",
+    "context": "EN :\nSeriously, once she has her mind set on something, no one could convince her otherwise. No one...\nJP :\nあの意地は、誰にも挫かせることはできなかったと思う。\n誰にも…。"
+  }
+]

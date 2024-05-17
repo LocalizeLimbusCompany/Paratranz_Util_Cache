@@ -1,0 +1,1032 @@
+[
+  {
+    "key": "1100701-levelList$[0].name",
+    "original": "맹습",
+    "context": "EN :\nFierce Assault\nJP :\n猛襲"
+  },
+  {
+    "key": "1100701-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 진동 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Tremor Count\nJP :\n[OnSucceedAttack] 自分の振動 回数が1増加"
+  },
+  {
+    "key": "1100701-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 진동 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 Tremor Count\nJP :\n[OnSucceedAttack] 自分の振動 回数が1増加"
+  },
+  {
+    "key": "1100701-levelList$[1].name",
+    "original": "맹습",
+    "context": "EN :\nFierce Assault\nJP :\n猛襲"
+  },
+  {
+    "key": "1100701-levelList$[1].desc",
+    "original": "자신의 진동 횟수가 10 이상이면 코인 위력 +1",
+    "context": "EN :\nAt 10+ Tremor Count, Coin Power +1\nJP :\n自分の振動 回数が10以上なら、コイン威力 +1"
+  },
+  {
+    "key": "1100701-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 진동 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 Tremor Count\nJP :\n[OnSucceedAttack] 自分の振動 回数が2増加"
+  },
+  {
+    "key": "1100701-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 진동 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +1 Tremor Count\nJP :\n[OnSucceedAttackHead] 振動 回数が1増加"
+  },
+  {
+    "key": "1100701-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 진동 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 Tremor Count\nJP :\n[OnSucceedAttack] 自分の振動 回数が2増加"
+  },
+  {
+    "key": "1100701-levelList$[1].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 진동 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +1 Tremor Count\nJP :\n[OnSucceedAttackHead] 振動 回数が1増加"
+  },
+  {
+    "key": "1100701-levelList$[2].name",
+    "original": "맹습",
+    "context": "EN :\nFierce Assault\nJP :\n猛襲"
+  },
+  {
+    "key": "1100701-levelList$[2].desc",
+    "original": "자신의 진동 횟수가 10 이상이면 코인 위력 +1",
+    "context": "EN :\nAt 10+ Tremor Count, Coin Power +1\nJP :\n自分の振動 回数が10以上なら、コイン威力 +1"
+  },
+  {
+    "key": "1100701-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 진동 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 Tremor Count\nJP :\n[OnSucceedAttack] 自分の振動 回数が2増加"
+  },
+  {
+    "key": "1100701-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 진동 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Tremor Count\nJP :\n[OnSucceedAttack] 振動 回数が1増加"
+  },
+  {
+    "key": "1100701-levelList$[2].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 진동 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 Tremor Count\nJP :\n[OnSucceedAttack] 自分の振動 回数が2増加"
+  },
+  {
+    "key": "1100701-levelList$[2].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 진동 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 Tremor Count\nJP :\n[OnSucceedAttack] 振動 回数が1増加"
+  },
+  {
+    "key": "1100702-levelList$[0].name",
+    "original": "침착하게...",
+    "context": "EN :\nSteady...\nJP :\n落ち着いて…"
+  },
+  {
+    "key": "1100702-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 진동 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +2 Tremor Count\nJP :\n[WhenUse] 自分の振動 回数が2増加"
+  },
+  {
+    "key": "1100702-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Tremor\nJP :\n[OnSucceedAttack] 振動 2を付与"
+  },
+  {
+    "key": "1100702-levelList$[1].name",
+    "original": "침착하게...",
+    "context": "EN :\nSteady...\nJP :\n落ち着いて…"
+  },
+  {
+    "key": "1100702-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 진동 횟수 4 증가",
+    "context": "EN :\n[WhenUse] Gain +4 Tremor Count\nJP :\n[WhenUse] 自分の振動 回数が4増加"
+  },
+  {
+    "key": "1100702-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 Tremor\nJP :\n[OnSucceedAttack] 振動 4を付与"
+  },
+  {
+    "key": "1100702-levelList$[2].name",
+    "original": "침착하게...",
+    "context": "EN :\nSteady...\nJP :\n落ち着いて…"
+  },
+  {
+    "key": "1100702-levelList$[2].desc",
+    "original": "[WhenUse] 자신의 진동 횟수 6 증가",
+    "context": "EN :\n[WhenUse] Gain +6 Tremor Count\nJP :\n[WhenUse] 自分の振動 回数が6増加"
+  },
+  {
+    "key": "1100702-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 6 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 6 Tremor\nJP :\n[OnSucceedAttack] 振動 6を付与"
+  },
+  {
+    "key": "1100703-levelList$[0].name",
+    "original": "도박수",
+    "context": "EN :\nGamble\nJP :\nギャンブラー"
+  },
+  {
+    "key": "1100703-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 진동 횟수가 10 이상이면, 진동 횟수를 전부 소모하여 대상에게 동일한 값의 진동 횟수 부여\n[OnSucceedAttack] 자신의 진동 횟수가 10 미만이면, 진동 6을 얻고, 자신에게 진동 폭발 발생\n대상에게 진동 폭발 피해만큼 타격 피해를 입힘",
+    "context": "EN :\n[OnSucceedAttack] At 10+ Tremor Count, spend all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gain 6 Tremor and trigger Tremor Burst on self\nDeal Blunt damage equal to Tremor Burst damage\nJP :\n[OnSucceedAttack] 自分の振動 回数が10以上なら、振動 回数を全部消耗して対象に同じ値の振動 回数を付与\n[OnSucceedAttack] 自分の振動 回数が10未満なら、振動 を6得て、自分に振動爆発を発生\n対象に振動爆発分の打撃ダメージを与える"
+  },
+  {
+    "key": "1100703-levelList$[1].name",
+    "original": "도박수",
+    "context": "EN :\nGamble\nJP :\nギャンブラー"
+  },
+  {
+    "key": "1100703-levelList$[1].desc",
+    "original": "자신의 진동 횟수 10 당 코인 위력 +1 (최대 2)",
+    "context": "EN :\nCoin Power +1 for every 10 Tremor Count on self (Max 2)\nJP :\n自分の振動 回数10につき、コイン威力 +1(最大2)"
+  },
+  {
+    "key": "1100703-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 진동 횟수가 10 이상이면, 진동 횟수를 전부 소모하여 대상에게 동일한 값의 진동 횟수 부여\n[OnSucceedAttack] 자신의 진동 횟수가 10 미만이면, 진동 10을 얻고, 자신에게 진동 폭발 발생\n대상에게 진동 폭발 피해만큼 타격 피해를 입힘",
+    "context": "EN :\n[OnSucceedAttack] At 10+ Tremor Count, spend all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gain 10 Tremor and trigger Tremor Burst on self\nDeal Blunt damage equal to Tremor Burst damage\nJP :\n[OnSucceedAttack] 自分の振動 回数が10以上なら、振動 回数を全部消耗して対象に同じ値の振動 回数を付与\n[OnSucceedAttack] 自分の振動 回数が10未満なら、振動 を10得て、自分に振動爆発を発生\n対象に振動爆発分の打撃ダメージを与える"
+  },
+  {
+    "key": "1100704-levelList$[0].name",
+    "original": "게 딱지 녀석들...!",
+    "context": "EN :\nCrab Bastards...!\nJP :\n蟹甲羅どもめ…！"
+  },
+  {
+    "key": "1100704-levelList$[0].desc",
+    "original": "[WhenUse] 파열 보호 1을 얻음 (턴 당 최대 3)",
+    "context": "EN :\n[WhenUse] Gain 1 Rupture Protection (3 times per turn)\nJP :\n[WhenUse] 破裂保護 1を得る(1ターンにつき最大3)"
+  },
+  {
+    "key": "1100801-levelList$[0].name",
+    "original": "르미즈",
+    "context": "EN :\nRemise\nJP :\nルミーズ"
+  },
+  {
+    "key": "1100801-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +2 [Breath] Count\nJP :\n[WhenUse] 自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "1100801-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 [Agility] 1 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 1 [Agility] next turn\nJP :\n[OnSucceedAttackHead] 次のターンに[Agility]1を得る"
+  },
+  {
+    "key": "1100801-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 [Agility] 1 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 1 [Agility] next turn\nJP :\n[OnSucceedAttackHead] 次のターンに[Agility]1を得る"
+  },
+  {
+    "key": "1100801-levelList$[1].name",
+    "original": "르미즈",
+    "context": "EN :\nRemise\nJP :\nルミーズ"
+  },
+  {
+    "key": "1100801-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +2 [Breath] Count\nJP :\n[WhenUse] 自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "1100801-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [Agility] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Agility]1を得る"
+  },
+  {
+    "key": "1100801-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [Agility] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Agility]1を得る"
+  },
+  {
+    "key": "1100801-levelList$[2].name",
+    "original": "르미즈",
+    "context": "EN :\nRemise\nJP :\nルミーズ"
+  },
+  {
+    "key": "1100801-levelList$[2].desc",
+    "original": "자신의 속도가 대상보다 2 이상 높으면 코인 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\nJP :\n自分の速度が対象より2以上高ければ、コイン威力 +1\n[WhenUse] 自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "1100801-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [Agility] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Agility]1を得る"
+  },
+  {
+    "key": "1100801-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [Agility] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Agility]1を得る"
+  },
+  {
+    "key": "1100802-levelList$[0].name",
+    "original": "앙가즈망",
+    "context": "EN :\nEngagement\nJP :\nアンガジェマン"
+  },
+  {
+    "key": "1100802-levelList$[0].desc",
+    "original": "[WinDuel] 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\n[WinDuel] Gain +2 [Breath] Count\nJP :\n[WinDuel] 自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "1100802-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 자신의 [Breath] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Gain +1 [Breath] Count\nJP :\n[OnSucceedAttackHead] 自分の[Breath]回数が1増加"
+  },
+  {
+    "key": "1100802-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 자신의 [Breath] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Gain +1 [Breath] Count\nJP :\n[OnSucceedAttackHead] 自分の[Breath]回数が1増加"
+  },
+  {
+    "key": "1100802-levelList$[1].name",
+    "original": "앙가즈망",
+    "context": "EN :\nEngagement\nJP :\nアンガジェマン"
+  },
+  {
+    "key": "1100802-levelList$[1].desc",
+    "original": "자신의 속도가 대상보다 2 이상 높으면 코인 위력 +1\n[WinDuel] 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WinDuel] Gain +2 [Breath] Count\nJP :\n自分の速度が対象より2以上高ければ、コイン威力 +1\n[WinDuel] 自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "1100802-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 [Breath] Count\nJP :\n[OnSucceedAttack] 自分の[Breath]回数が1増加"
+  },
+  {
+    "key": "1100802-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 [Breath] Count\nJP :\n[OnSucceedAttack] 自分の[Breath]回数が1増加"
+  },
+  {
+    "key": "1100802-levelList$[2].name",
+    "original": "앙가즈망",
+    "context": "EN :\nEngagement\nJP :\nアンガジェマン"
+  },
+  {
+    "key": "1100802-levelList$[2].desc",
+    "original": "자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2 당 코인 위력 +1. 최대 2)\n[WinDuel] 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\nIf this unit's Speed is higher than the target's, Coin Power +1 for every 2 Speed difference (Max 2)\n[WinDuel] Gain +2 [Breath] Count\nJP :\n自分の速度が、対象より高いほどコイン威力 +1(速度差2につきコイン威力 +1, 最大2)\n[WinDuel] 自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "1100802-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 [Breath] Count\nJP :\n[OnSucceedAttack] 自分の[Breath]回数が1増加"
+  },
+  {
+    "key": "1100802-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 [Breath] Count\nJP :\n[OnSucceedAttack] 自分の[Breath]回数が1増加"
+  },
+  {
+    "key": "1100803-levelList$[0].name",
+    "original": "꽁트르 아따끄",
+    "context": "EN :\nContre Attaque\nJP :\nコントラタック"
+  },
+  {
+    "key": "1100803-levelList$[0].desc",
+    "original": "자신의 속도가 대상보다 2 이상 높으면 코인 위력 +1 \n[WinDuel] 자신의 [Breath] 횟수 10 소모. 소모한 [Breath] 횟수만큼 [Breath]을 얻음.\n[WinDuel] 적 슬롯의 공격 스킬과 [OneOnOneDuel]을 진행했으면, 적중 시 [Vulnerable] 1 부여 (턴 당 최대 2)",
+    "context": "EN :\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WinDuel] Consume 10 [Breath] Count. Gain [Breath] equal to [Breath] Count consumed.\n[WinDuel] If this unit conducted a [OneOnOneDuel] with the target Slot's Attack Skill, inflict 1 [Vulnerable] On Hit (Twice per turn)\nJP :\n自分の速度が対象より2以上高ければコイン威力 +1 \n[WinDuel] 自分の[Breath]回数を10消耗。消耗した[Breath]回数だけ[Breath]を得る。\n[WinDuel] 敵スロットの攻撃スキルと[OneOnOneDuel]をしたなら、的中時に[Vulnerable]1を付与(1ターンにつき最大2)"
+  },
+  {
+    "key": "1100803-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DuelDeclaration_Sinclair] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [DuelDeclaration_Sinclair]\nJP :\n[OnSucceedAttack] [DuelDeclaration_Sinclair]を付与"
+  },
+  {
+    "key": "1100803-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "크리티컬 피해량 +30%",
+    "context": "EN :\n+30% Damage on Critical Hit\nJP :\nクリティカルダメージ量 +30%"
+  },
+  {
+    "key": "1100803-levelList$[1].name",
+    "original": "꽁트르 아따끄",
+    "context": "EN :\nContre Attaque\nJP :\nコントラタック"
+  },
+  {
+    "key": "1100803-levelList$[1].desc",
+    "original": "자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2 당 코인 위력 +1. 최대 3)\n[WinDuel] 자신의 [Breath] 횟수 10 소모. 소모한 [Breath] 횟수만큼 [Breath]을 얻음. 대상이 [DuelDeclaration_Sinclair] 대상인 경우, 대신 (소모한 [Breath] 횟수 X 2)만큼 [Breath]을 얻음\n[WinDuel] 적 슬롯의 공격 스킬과 [OneOnOneDuel]을 진행했으면, 적중 시 [Vulnerable] 1 부여 (턴 당 최대 2)",
+    "context": "EN :\nIf this unit's Speed is higher than the target's, Coin Power +1 for every 2 Speed difference (Max 3)\n[WinDuel] Consume 10 [Breath] Count. Gain [Breath] equal to [Breath] Count consumed. Against targets with [DuelDeclaration_Sinclair], gain [Breath] equal to ([Breath] Count consumed x 2) instead\n[WinDuel] If this unit conducted a [OneOnOneDuel] with the target Slot's Attack Skill, inflict 1 [Vulnerable] On Hit (Twice per turn)\nJP :\n自分の速度が、対象より高いほどコイン威力 +1(速度差2につきコイン威力 +1, 最大3)\n[WinDuel] 自分の[Breath]回数を10消耗。消耗した[Breath]回数だけ[Breath]を得る。対象が[DuelDeclaration_Sinclair]の対象なら、代わりに(消耗した[Breath]回数 × 2)だけ[Breath]を得る\n[WinDuel] 敵スロットの攻撃スキルと[OneOnOneDuel]をしたなら、的中時に[Vulnerable]1を付与(1ターンにつき最大2)"
+  },
+  {
+    "key": "1100803-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DuelDeclaration_Sinclair] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [DuelDeclaration_Sinclair]\nJP :\n[OnSucceedAttack] [DuelDeclaration_Sinclair]を付与"
+  },
+  {
+    "key": "1100803-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "크리티컬 피해량 +50%",
+    "context": "EN :\n+50% Damage on Critical Hit\nJP :\nクリティカルダメージ量 +50%"
+  },
+  {
+    "key": "1100804-levelList$[0].name",
+    "original": "데팡시브",
+    "context": "EN :\nDéfensive\nJP :\nデフォンシヴ"
+  },
+  {
+    "key": "1100804-levelList$[1].name",
+    "original": "데팡시브",
+    "context": "EN :\nDéfensive\nJP :\nデフォンシヴ"
+  },
+  {
+    "key": "1100901-levelList$[0].name",
+    "original": "맹렬한 돌진",
+    "context": "EN :\nFierce Charge\nJP :\n猛烈な突進"
+  },
+  {
+    "key": "1100901-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1100901-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 자신이 불안정 E.G.O 상태면, 코인 재사용 (스킬당 최대 1회 발동)",
+    "context": "EN :\n[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin (once per Skill)\nJP :\n[OnSucceedAttackHead] 自分が不安定E.G.O状態なら、コインを再使用(スキルごとに最大1回発動)"
+  },
+  {
+    "key": "1100901-levelList$[0].coinlist[0].coindescs[1].summary",
+    "original": "[OnSucceedAttackHead] 자신이 불안정 E.G.O 상태면, 코인 재사용",
+    "context": "EN :\n[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin\nJP :\n[OnSucceedAttackHead] 自分が不安定E.G.O状態なら、コインを再使用"
+  },
+  {
+    "key": "1100901-levelList$[1].name",
+    "original": "맹렬한 돌진",
+    "context": "EN :\nFierce Charge\nJP :\n猛烈な突進"
+  },
+  {
+    "key": "1100901-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1100901-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 자신이 불안정 E.G.O 상태면, 코인 재사용 (스킬당 최대 1회 발동)",
+    "context": "EN :\n[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin (once per Skill)\nJP :\n[OnSucceedAttackHead] 自分が不安定E.G.O状態なら、コインを再使用(スキルごとに最大1回発動)"
+  },
+  {
+    "key": "1100901-levelList$[1].coinlist[0].coindescs[1].summary",
+    "original": "[OnSucceedAttackHead] 자신이 불안정 E.G.O 상태면, 코인 재사용",
+    "context": "EN :\n[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin\nJP :\n[OnSucceedAttackHead] 自分が不安定E.G.O状態なら、コインを再使用"
+  },
+  {
+    "key": "1100901-levelList$[2].name",
+    "original": "맹렬한 돌진",
+    "context": "EN :\nFierce Charge\nJP :\n猛烈な突進"
+  },
+  {
+    "key": "1100901-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1100901-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 자신이 불안정 E.G.O 상태면, 코인 재사용 (스킬당 최대 1회 발동)",
+    "context": "EN :\n[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin (once per Skill)\nJP :\n[OnSucceedAttackHead] 自分が不安定E.G.O状態なら、コインを再使用(スキルごとに最大1回発動)"
+  },
+  {
+    "key": "1100901-levelList$[2].coinlist[0].coindescs[1].summary",
+    "original": "[OnSucceedAttackHead] 자신이 불안정 E.G.O 상태면, 코인 재사용",
+    "context": "EN :\n[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse this Coin\nJP :\n[OnSucceedAttackHead] 自分が不安定E.G.O状態なら、コインを再使用"
+  },
+  {
+    "key": "1100902-levelList$[0].name",
+    "original": "노을빛 검",
+    "context": "EN :\nSunset Blade\nJP :\n茜さす剣"
+  },
+  {
+    "key": "1100902-levelList$[0].desc",
+    "original": "[WhenUse] 자신이 불안정 E.G.O 상태면, 정신력 5 소모\n[BeforeAttack] 자신이 불안정 E.G.O 상태면, 공격 가중치 +1\n[EndSkill] 자신이 불안정 E.G.O 상태면, 정신력 5 소모",
+    "context": "EN :\n[WhenUse] When in a Volatile E.G.O state, consume 5 SP\n[BeforeAttack] When in a Volatile E.G.O state, Atk Weight +1\n[EndSkill] When in a Volatile E.G.O state, consume 5 SP\nJP :\n[WhenUse] 自分が不安定E.G.O状態なら、精神力が5減少\n[BeforeAttack] 自分が不安定E.G.O状態なら、攻撃加重値 +1\n[EndSkill] 自分が不安定E.G.O状態なら、精神力が5減少"
+  },
+  {
+    "key": "1100902-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1100902-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1100902-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1100902-levelList$[1].name",
+    "original": "노을빛 검",
+    "context": "EN :\nSunset Blade\nJP :\n茜さす剣"
+  },
+  {
+    "key": "1100902-levelList$[1].desc",
+    "original": "<style=\"highlight\">대상의 [Combustion]이 4 이상이면, 합 위력 +1</style>\n[WhenUse] 자신이 불안정 E.G.O 상태면, 정신력 5 소모\n[BeforeAttack] 자신이 불안정 E.G.O 상태면, 공격 가중치 +1\n[EndSkill] 자신이 불안정 E.G.O 상태면, 정신력 5 소모",
+    "context": "EN :\n<style=\"highlight\">If the target has 4+ [Combustion], Clash Power +1</style>\n[WhenUse] When in a Volatile E.G.O state, consume 5 SP\n[BeforeAttack] When in a Volatile E.G.O state, Atk Weight +1\n[EndSkill] When in a Volatile E.G.O state, consume 5 SP\nJP :\n<style=\"highlight\">対象の[Combustion]が4以上なら、マッチ威力 +1</style>\n[WhenUse] 自分が不安定E.G.O状態なら、精神力が5減少\n[BeforeAttack] 自分が不安定E.G.O状態なら、攻撃加重値 +1\n[EndSkill] 自分が不安定E.G.O状態なら、精神力が5減少"
+  },
+  {
+    "key": "1100902-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1100902-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1100902-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1100902-levelList$[2].name",
+    "original": "노을빛 검",
+    "context": "EN :\nSunset Blade\nJP :\n茜さす剣"
+  },
+  {
+    "key": "1100902-levelList$[2].desc",
+    "original": "대상의 [Combustion]이 4 이상이면, 합 위력 +1\n[WhenUse] 자신이 불안정 E.G.O 상태면, 정신력 5 소모\n[BeforeAttack] 자신이 불안정 E.G.O 상태면, 공격 가중치 +1\n<style=\"highlight\">- 자신의 정신력이 45면, 대신 공격 가중치 +2</style>\n[EndSkill] 자신이 불안정 E.G.O 상태면, 정신력 5 소모",
+    "context": "EN :\nIf the target has 4+ [Combustion], Clash Power +1\n[WhenUse] When in a Volatile E.G.O state, consume 5 SP\n[BeforeAttack] When in a Volatile E.G.O state, Atk Weight +1\n<style=\"highlight\">- At 45 SP, Atk Weight +2 instead</style>\n[EndSkill] When in a Volatile E.G.O state, consume 5 SP\nJP :\n対象の[Combustion]が4以上なら、マッチ威力 +1\n[WhenUse] 自分が不安定E.G.O状態なら、精神力が5減少\n[BeforeAttack] 自分が不安定E.G.O状態なら、攻撃加重値 +1\n<style=\"highlight\">- 自分の精神力が45なら、攻撃加重値を追加で +1</style>\n[EndSkill] 自分が不安定E.G.O状態なら、精神力が5減少"
+  },
+  {
+    "key": "1100902-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1100902-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1100902-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1100903-levelList$[0].name",
+    "original": "낙인",
+    "context": "EN :\nStigmatize\nJP :\n烙印"
+  },
+  {
+    "key": "1100903-levelList$[0].desc",
+    "original": "대상의 [Combustion]이 10 이상이면, 코인 위력 +1\n자신이 불안정 E.G.O 상태면, 타오르는 일격으로 발동됨\n[WinDuel] 정신력 10 회복\n[DefeatDuel] 정신력 10 감소",
+    "context": "EN :\nIf the target has 10+ [Combustion], Coin Power +1\nWhen in a Volatile E.G.O State, activate Blazing Strike instead\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 10 SP\nJP :\n対象の[Combustion]が10以上なら、コイン威力 +1\n自分が不安定E.G.O状態なら、燃えたぎる一撃として発動\n[WinDuel] 精神力を10回復\n[DefeatDuel] 精神力が10減少"
+  },
+  {
+    "key": "1100903-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]3を付与"
+  },
+  {
+    "key": "1100903-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]3を付与"
+  },
+  {
+    "key": "1100903-levelList$[1].name",
+    "original": "낙인",
+    "context": "EN :\nStigmatize\nJP :\n烙印"
+  },
+  {
+    "key": "1100903-levelList$[1].desc",
+    "original": "<style=\"highlight\">대상의 [Combustion] 7 당 코인 위력 +1 (최대 2)</style>\n자신이 불안정 E.G.O 상태면, 타오르는 일격으로 발동됨\n[WinDuel] 정신력 10 회복\n[DefeatDuel] 정신력 10 감소",
+    "context": "EN :\n<style=\"highlight\">Coin Power +1 for every 7 [Combustion] on target (max 2)</style>\nWhen in a Volatile E.G.O state, activate Blazing Strike instead\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 10 SP\nJP :\n<style=\"highlight\">対象の[Combustion]7につき、コイン威力 +1(最大2)</style>\n自分が不安定E.G.O状態なら、燃えたぎる一撃として発動\n[WinDuel] 精神力を10回復\n[DefeatDuel] 精神力が10減少"
+  },
+  {
+    "key": "1100903-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]3を付与"
+  },
+  {
+    "key": "1100903-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]3を付与"
+  },
+  {
+    "key": "1100904-levelList$[0].name",
+    "original": "후회",
+    "context": "EN :\nRue\nJP :\n後悔"
+  },
+  {
+    "key": "1100904-levelList$[0].desc",
+    "original": "자신이 불안정 E.G.O 상태면, 대상의 [Combustion] 2 당 기본 위력 +1 (최대 10)",
+    "context": "EN :\nWhen in a Volatile E.G.O state, Base Power +1 for every 2 [Combustion] on target (max 10)\nJP :\n自分が不安定E.G.O状態なら、対象の[Combustion]2につき基本威力 +1(最大10)"
+  },
+  {
+    "key": "1100904-levelList$[1].name",
+    "original": "후회",
+    "context": "EN :\nRue\nJP :\n後悔"
+  },
+  {
+    "key": "1100904-levelList$[1].desc",
+    "original": "자신이 불안정 E.G.O 상태면, 대상의 [Combustion] 2 당 기본 위력 +1 (최대 <style=\"highlight\">20</style>)",
+    "context": "EN :\nWhen in a Volatile E.G.O state, Base Power +1 for every 2 [Combustion] on target (max <style=\"highlight\">20</style>)\nJP :\n自分が不安定E.G.O状態なら、対象の[Combustion]2につき基本威力 +1(最大<style=\"highlight\">20</style>)"
+  },
+  {
+    "key": "1100905-levelList$[0].name",
+    "original": "타오르는 일격",
+    "context": "EN :\nBlazing Strike\nJP :\n燃えたぎる一撃"
+  },
+  {
+    "key": "1100905-levelList$[0].desc",
+    "original": "적 전체 [Combustion] 위력의 합 4 당 코인 위력 +1 (최대 8)\n[WinDuel] 정신력 10 회복\n[DefeatDuel] 정신력 30감소\n분노 공명당 피해량 5% 증가 (최대 30%)\n[EndSkill] 정신력 15 감소",
+    "context": "EN :\nCoin Power +1 for every 4 (sum of [Combustion] Potency on all enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +5% more damage for every Wrath Reson. (max 30%)\n[EndSkill] Lose 15 SP\nJP :\n敵全体の[Combustion]威力合計が4ごとに、コイン威力 +1(最大8)\n[WinDuel] 精神力が10回復\n[DefeatDuel] 精神力が30減少\n憤怒共鳴1つにつき、ダメージ量が5%増加(最大30%)\n[EndSkill] 精神力が15減少"
+  },
+  {
+    "key": "1100905-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "대상의 [Combustion] 1당 피해량 +2.5% (최대 100%)",
+    "context": "EN :\nDeal +2.5% more damage for every 1 [Combustion] on target (max 100%)\nJP :\n対象の[Combustion]1につき、ダメージ量 +2.5%(最大100%)"
+  },
+  {
+    "key": "1100905-levelList$[0].coinlist[0].coindescs[0].summary",
+    "original": "대상의 [Combustion] 비례 피해량이 증가",
+    "context": "EN :\nDeal more damage based on [Combustion] on target\nJP :\n対象の[Combustion]に比例してダメージ量が増加"
+  },
+  {
+    "key": "1100905-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 [Combustion]이 10 이상 있으면, 무작위 적 (가장 높은 공명 수)명에게 [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has 10+ [Combustion], inflict 2 [Combustion] against (# of highest Reson.) random enemies\nJP :\n[OnSucceedAttack] 対象に[Combustion]が10以上あれば、ランダムな敵(最も多い共鳴数)名へ[Combustion]2を付与"
+  },
+  {
+    "key": "1100905-levelList$[0].coinlist[0].coindescs[1].summary",
+    "original": "[OnSucceedAttack] 공명 비례 [Combustion] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [Combustion] based on Reson.\nJP :\n[OnSucceedAttack] 共鳴に比例して[Combustion]を付与"
+  },
+  {
+    "key": "1100905-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion] 10 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 10 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]10を付与"
+  },
+  {
+    "key": "1100905-levelList$[0].coinlist[0].coindescs[3].desc",
+    "original": "[EnemyKill] 처치한 대상의 [Combustion] 위력을 무작위 적에게 나눠서 부여 (최대 10. 집중 전투인 경우 부위로 판정)",
+    "context": "EN :\n[EnemyKill] Randomly inflict [Combustion] Potency of the defeated target between all enemies (max 10. In Focused Encounters, between all Parts)\nJP :\n[EnemyKill] 倒した対象の[Combustion]威力をランダムな敵へ配分して付与(集中戦闘の場合部位で判定。最大10)"
+  },
+  {
+    "key": "1100905-levelList$[0].coinlist[0].coindescs[3].summary",
+    "original": "[EnemyKill] 무작위 적에게 [Combustion] 부여",
+    "context": "EN :\n[EnemyKill] Inflict [Combustion] to random enemies\nJP :\n[EnemyKill] ランダムな敵へ[Combustion]を付与"
+  },
+  {
+    "key": "1100905-levelList$[1].name",
+    "original": "타오르는 일격",
+    "context": "EN :\nBlazing Strike\nJP :\n燃えたぎる一撃"
+  },
+  {
+    "key": "1100905-levelList$[1].desc",
+    "original": "적 전체 [Combustion] 위력의 합 4 당 코인 위력 +<style=\"highlight\">2</style> (최대 8)\n[WinDuel] 정신력 10 회복\n[DefeatDuel] 정신력 30 감소\n분노 공명당 피해량 <style=\"highlight\">10</style>% 증가 (최대 <style=\"highlight\">60</style>%)\n<style=\"highlight\">- 최대 분노 완전 공명 수가 4 이상이면, 대신 20% 증가 (최대 120%)</style>\n[EndSkill] 정신력 15 감소",
+    "context": "EN :\nCoin Power +<style=\"highlight\">2</style> for every 4 (sum of [Combustion] Potency on all enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +<style=\"highlight\">10</style>% more damage for every Wrath Reson. (max <style=\"highlight\">60</style>%)\n<style=\"highlight\">If at 4+ highest Wrath A-Reson., deal +20% more damage for every Wrath Reson. instead (max 120%)</style>\n[EndSkill] Lose 15 SP\nJP :\n敵全体の[Combustion]威力合計が4ごとに、コイン威力 +<style=\"highlight\">2</style>(最大8)\n[WinDuel] 精神力が10回復\n[DefeatDuel] 精神力が30減少\n憤怒共鳴1つにつき、ダメージ量が<style=\"highlight\">10</style>%増加(最大<style=\"highlight\">60</style>%)\n<style=\"highlight\">- 最大憤怒完全共鳴数が4以上なら、追加10%で増加(最大120%)</style>\n[EndSkill] 精神力が15減少"
+  },
+  {
+    "key": "1100905-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "대상의 [Combustion] 1당 피해량 +<style=\"highlight\">4</style>% (최대 <style=\"highlight\">120</style>%)",
+    "context": "EN :\nDeal +<style=\"highlight\">4</style>% more damage for every 1 [Combustion] on target (max <style=\"highlight\">120</style>%)\nJP :\n対象の[Combustion]1につき、ダメージ量 +<style=\"highlight\">4</style>%(最大<style=\"highlight\">120</style>%)"
+  },
+  {
+    "key": "1100905-levelList$[1].coinlist[0].coindescs[0].summary",
+    "original": "대상의 [Combustion] 비례 피해량이 증가",
+    "context": "EN :\nDeal more damage based on [Combustion] on target\nJP :\n対象の[Combustion]に比例してダメージ量が増加"
+  },
+  {
+    "key": "1100905-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 [Combustion]이 10 이상 있으면, 무작위 적 (가장 높은 공명 수)명에게 [Combustion] 2 부여\n<style=\"highlight\">- 해당 공명이 분노 공명이면, [Combustion] 횟수 1 추가 부여</style>",
+    "context": "EN :\n[OnSucceedAttack] If the target has 10+ [Combustion], inflict 2 [Combustion] against (# of highest Reson.) random enemies\n<style=\"highlight\">- If the above Reson. was a Wrath Reson., inflict +1 [Combustion] Count as well</style>\nJP :\n[OnSucceedAttack] 対象に[Combustion]が10あるなら、ランダムな敵(もっと多い共鳴数)名へ[Combustion]2を付与\n<style=\"highlight\">- 該当する共鳴が憤怒共鳴なら、[Combustion]回数を1追加で付与</style>"
+  },
+  {
+    "key": "1100905-levelList$[1].coinlist[0].coindescs[1].summary",
+    "original": "[OnSucceedAttack] 공명 비례 [Combustion] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [Combustion] based on Reson.\nJP :\n[OnSucceedAttack] 共鳴に比例して[Combustion]を付与"
+  },
+  {
+    "key": "1100905-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion] 10 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 10 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]10を付与"
+  },
+  {
+    "key": "1100905-levelList$[1].coinlist[0].coindescs[3].desc",
+    "original": "[EnemyKill] 처치한 대상의 [Combustion] 위력을 무작위 적에게 나눠서 부여 (최대 10. 집중 전투인 경우 부위로 판정)",
+    "context": "EN :\n[EnemyKill] Randomly inflict [Combustion] Potency of the defeated target between all enemies (max 10. In Focused Encounters, between all Parts)\nJP :\n[EnemyKill] 倒した対象の[Combustion]威力をランダムな敵へ配分して付与(集中戦闘の場合部位で判定。最大10)"
+  },
+  {
+    "key": "1100905-levelList$[1].coinlist[0].coindescs[3].summary",
+    "original": "[EnemyKill] 무작위 적에게 [Combustion] 부여",
+    "context": "EN :\n[EnemyKill] Inflict [Combustion] to random enemies\nJP :\n[EnemyKill] ランダムな敵へ[Combustion]を付与"
+  },
+  {
+    "key": "1101001-levelList$[0].name",
+    "original": "제압합니다.",
+    "context": "EN :\nSuppressing.\nJP :\n制圧します。"
+  },
+  {
+    "key": "1101001-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n[WhenUse] [DefenseUp] 1 얻음\n[WinDuel] 자신의 [Vibration] 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp]\n[WinDuel] Gain +2 [Vibration] Count\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] [DefenseUp]1を得る\n[WinDuel] 自分の[Vibration]回数が2増加"
+  },
+  {
+    "key": "1101001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[WinDuelAttack] [Vibration] 횟수 1 증가",
+    "context": "EN :\n[WinDuelAttack] Inflict +1 [Vibration] Count\nJP :\n[WinDuelAttack] [Vibration]回数が1増加"
+  },
+  {
+    "key": "1101001-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 [DefenseUp] 2를 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 2 [DefenseUp] next turn\nJP :\n[OnSucceedAttackHead] 次のターンに[DefenseUp]2を得る"
+  },
+  {
+    "key": "1101001-levelList$[1].name",
+    "original": "제압합니다.",
+    "context": "EN :\nSuppressing.\nJP :\n制圧します。"
+  },
+  {
+    "key": "1101001-levelList$[1].desc",
+    "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n[WhenUse] [DefenseUp] <style=\"highlight\">2</style> 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Vibration] 횟수가 4 이상이면, 합 위력 +1</style>\n[WinDuel] 자신의 [Vibration] 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain <style=\"highlight\">2</style> [DefenseUp]\n<style=\"highlight\">[WhenUse] If the target has 4+ [Vibration] Count, Clash Power +1</style>\n[WinDuel] Gain +2 [Vibration] Count\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] [DefenseUp]<style=\"highlight\">2</style>を得る\n<style=\"highlight\">[WhenUse] 対象の[Vibration]が4以上なら、マッチ威力 +1</style>\n[WinDuel] 自分の[Vibration]回数が2増加"
+  },
+  {
+    "key": "1101001-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[WinDuelAttack] [Vibration] 횟수 2 증가",
+    "context": "EN :\n[WinDuelAttack] Inflict +2 [Vibration] Count\nJP :\n[WinDuelAttack] [Vibration]回数が2増加"
+  },
+  {
+    "key": "1101001-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 [DefenseUp] 2를 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 2 [DefenseUp] next turn\nJP :\n[OnSucceedAttackHead] 次のターンに[DefenseUp]2を得る"
+  },
+  {
+    "key": "1101001-levelList$[2].name",
+    "original": "제압합니다.",
+    "context": "EN :\nSuppressing.\nJP :\n制圧します。"
+  },
+  {
+    "key": "1101001-levelList$[2].desc",
+    "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n[WhenUse] [DefenseUp] 2 얻음\n[WhenUse] 대상의 [Vibration] 횟수가 4 이상이면, 합 위력 +<style=\"highlight\">2</style>\n[WinDuel] 자신의 [Vibration] 횟수 <style=\"highlight\">3</style> 증가",
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 2 [DefenseUp]\n[WhenUse] If the target has 4+ [Vibration] Count, Clash Power +<style=\"highlight\">2</style>\n[WinDuel] Gain +<style=\"highlight\">3</style> [Vibration] Count\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] [DefenseUp]2を得る\n[WhenUse] 対象の[Vibration]が4以上なら、マッチ威力 +<style=\"highlight\">2</style>\n[WinDuel] 自分の[Vibration]回数が<style=\"highlight\">3</style>増加"
+  },
+  {
+    "key": "1101001-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[WinDuelAttack] [Vibration] 횟수 2 증가",
+    "context": "EN :\n[WinDuelAttack] Inflict +2 [Vibration] Count\nJP :\n[WinDuelAttack] [Vibration]回数が2増加"
+  },
+  {
+    "key": "1101001-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [DefenseUp] 2를 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 [DefenseUp] next turn\nJP :\n[OnSucceedAttack] 次のターンに[DefenseUp]2を得る"
+  },
+  {
+    "key": "1101002-levelList$[0].name",
+    "original": "전투 준비",
+    "context": "EN :\nCombat Preparation\nJP :\n戦闘準備"
+  },
+  {
+    "key": "1101002-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n[WinDuel] 자신의 [Vibration] 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WinDuel] Gain +2 [Vibration] Count\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WinDuel] 自分の[Vibration]回数が2増加"
+  },
+  {
+    "key": "1101002-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신을 제외한 [DefenseUp]를 보유한 아군 1명에게 (대상이 보유한 [DefenseUp]/3)만큼 다음 턴에 [AttackUp] 부여 (턴 당 1회. 최대 3 부여)",
+    "context": "EN :\n[OnSucceedAttack] On 1 other ally with [DefenseUp], apply (([DefenseUp] on the ally)/3) [AttackUp] next turn (once per turn, max 3)\nJP :\n[OnSucceedAttack] 自分を除いた[DefenseUp]を保有した味方1名へ(対象の保有した[DefenseUp] ÷ 3)だけ次のターンに[AttackUp]を付与(1ターンにつき1回。最大3付与)"
+  },
+  {
+    "key": "1101002-levelList$[1].name",
+    "original": "전투 준비",
+    "context": "EN :\nCombat Preparation\nJP :\n戦闘準備"
+  },
+  {
+    "key": "1101002-levelList$[1].desc",
+    "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n<style=\"highlight\">[WhenUse] 자신의 [Vibration] 횟수 2 당 [DefenseUp] 1 얻음 (최대 3)\n[WhenUse] 자신의 [DefenseUp]가 4 이상이면, 코인 위력 +1</style>\n[WinDuel] 자신의 [Vibration] 횟수 <style=\"highlight\">3</style> 증가",
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Count on self (max 3)\n[WhenUse] At 4+ [DefenseUp], Coin Power +1</style>\n[WinDuel] Gain +<style=\"highlight\">3</style> [Vibration] Count\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n<style=\"highlight\">[WhenUse] 自分の[Vibration]回数2につき、[DefenseUp]1を得る(最大3)\n[WhenUse] 自分の[DefenseUp]が4以上なら、コイン威力 +1</style>\n[WinDuel] 自分の[Vibration]回数が<style=\"highlight\">3</style>増加"
+  },
+  {
+    "key": "1101002-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[WinDuelAttack] 자신 제외 현재 체력 비율이 가장 낮은 아군 1명에게 다음 턴에 방어 레벨 증가 2 부여",
+    "context": "EN :\n[WinDuelAttack] On 1 other ally with the lowest HP percentage, apply 2 Defense Level Up next turn\nJP :\n[WinDuelAttack] 自分を除く、現体力の比率が最も低い味方1名へ次のターンにて防御レベル増加2付与"
+  },
+  {
+    "key": "1101002-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신을 제외한 [DefenseUp]를 보유한 아군 1명에게 (대상이 보유한 [DefenseUp]/<style=\"highlight\">2</style>)만큼 다음 턴에 [AttackUp] 부여 (턴 당 1회. 최대 3 부여)",
+    "context": "EN :\n[OnSucceedAttack] On 1 other ally with [DefenseUp], apply (([DefenseUp] on the ally)/<style=\"highlight\">2</style>) [AttackUp] next turn (once per turn, max 3)\nJP :\n[OnSucceedAttack] 自分を除いた[DefenseUp]を保有した味方1名へ(対象の保有した[DefenseUp] ÷ <style=\"highlight\">2</style>)だけ次のターンに[AttackUp]を付与(1ターンにつき1回。最大3付与)"
+  },
+  {
+    "key": "1101002-levelList$[2].name",
+    "original": "전투 준비",
+    "context": "EN :\nCombat Preparation\nJP :\n戦闘準備"
+  },
+  {
+    "key": "1101002-levelList$[2].desc",
+    "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n[WhenUse] 자신의 [Vibration] 횟수 2 당 [DefenseUp] 1 얻음 (최대 3)\n[WhenUse] 자신의 [DefenseUp] 4 이상이면, 코인 위력 +1\n[WinDuel] 자신의 [Vibration] 횟수 3 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Count on self (max 3)\n[WhenUse] At 4+ [DefenseUp], Coin Power +1\n[WinDuel] Gain +3 [Vibration] Count<style=\"highlight\"></style>\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] 自分の[Vibration]回数2につき、[DefenseUp]1を得る(最大3)\n[WhenUse] 自分の[DefenseUp]が4以上なら、コイン威力 +1\n[WinDuel] 自分の[Vibration]回数が3増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1101002-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[WinDuelAttack] 자신 제외 현재 체력 비율이 가장 낮은 아군 <style=\"highlight\">2</style>명에게 다음 턴에 방어 레벨 증가 2 부여",
+    "context": "EN :\n[WinDuelAttack] On <style=\"highlight\">2 other allies</style> with the lowest HP percentage, apply 2 Defense Level Up next turn\nJP :\n[WinDuelAttack] 自分を除く、現体力の比率が最も低い味方<style=\"highlight\">2</style>名へ次のターンにて防御レベル増加2付与"
+  },
+  {
+    "key": "1101002-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신을 제외한 [DefenseUp]를 보유한 아군 <style=\"highlight\">2</style>명에게 (대상이 보유한 [DefenseUp]/2)만큼 다음 턴에 [AttackUp] 부여 (턴 당 1회. 최대 3 부여)",
+    "context": "EN :\n[OnSucceedAttack] On <style=\"highlight\">2 other allies</style> with [DefenseUp], apply (([DefenseUp] on the ally)/2) [AttackUp] next turn (once per turn, max 3)\nJP :\n[OnSucceedAttack] 自分を除いた[DefenseUp]を保有した味方<style=\"highlight\">2</style>名へ(対象の保有した[DefenseUp] ÷ 2)だけ次のターンに[AttackUp]を付与(1ターンにつき1回。最大3付与)"
+  },
+  {
+    "key": "1101003-levelList$[0].name",
+    "original": "울타리",
+    "context": "EN :\nFence\nJP :\n囲い"
+  },
+  {
+    "key": "1101003-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Vibration] 횟수 2 당 [DefenseUp] 1 얻음 (최대 2)\n[WhenUse] 자신의 [DefenseUp] 3 당 코인 위력 +1 (최대 2)",
+    "context": "EN :\n[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Count on self (max 2)\n[WhenUse] Coin Power +1 for every 3 [DefenseUp] on self (max 2)\nJP :\n[WhenUse] 自分の[Vibration]回数2につき[DefenseUp]1を得る(最大2)\n[WhenUse] 自分の[DefenseUp]3につき、コイン威力 +1(最大2)"
+  },
+  {
+    "key": "1101003-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신 제외 현재 체력 비율이 가장 낮은 아군 1명에게 다음 턴에 [DefenseUp] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] On 1 other ally with the lowest HP percentage, apply 3 [DefenseUp] next turn\nJP :\n[OnSucceedAttack] 自分を除く、現体力の比率が最も低い味方1名へ次のターンにて[DefenseUp]3付与"
+  },
+  {
+    "key": "1101003-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Vibration] 횟수를 최대 8 소모하여, 소모한 값만큼 대상의 [Vibration] 횟수 증가",
+    "context": "EN :\n[OnSucceedAttack] Consume up to 8 [Vibration] Count on self, and inflict the same amount of [Vibration] Count on target\nJP :\n[OnSucceedAttack] 自分の[Vibration]回数を最大8消耗し、消耗した値だけ対象の[Vibration]回数が増加"
+  },
+  {
+    "key": "1101003-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
+  },
+  {
+    "key": "1101003-levelList$[1].name",
+    "original": "울타리",
+    "context": "EN :\nFence\nJP :\n囲い"
+  },
+  {
+    "key": "1101003-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 [Vibration] 횟수 2 당 [DefenseUp] 1 얻음 (최대 <style=\"highlight\">4</style>)\n[WhenUse] 자신의 [DefenseUp] 3 당 코인 위력 +1 (최대 <style=\"highlight\">3</style>)",
+    "context": "EN :\n[WhenUse] Gain 1 [DefenseUp] for every 2 [Vibration] Count on self (max <style=\"highlight\">4</style>)\n[WhenUse] Coin Power +1 for every 3 [DefenseUp] on self (max <style=\"highlight\">3</style>)\nJP :\n[WhenUse] 自分の[Vibration]回数2につき[DefenseUp]1を得る(最大<style=\"highlight\">4</style>)\n[WhenUse] 自分の[DefenseUp]3につき、コイン威力 +1(最大<style=\"highlight\">3</style>)"
+  },
+  {
+    "key": "1101003-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신 제외 현재 체력 비율이 가장 낮은 아군 1명에게 다음 턴에 [DefenseUp] <style=\"highlight\">4</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] On 1 other ally with the lowest HP percentage, apply <style=\"highlight\">4</style> [DefenseUp] next turn\nJP :\n[OnSucceedAttack] 自分を除く、現体力の比率が最も低い味方1名へ次のターンにて[DefenseUp]<style=\"highlight\">4</style>付与"
+  },
+  {
+    "key": "1101003-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Vibration] 횟수를 최대 8 소모하여, 소모한 값만큼 대상의 [Vibration] 횟수 증가",
+    "context": "EN :\n[OnSucceedAttack] Consume up to 8 [Vibration] Count on self, and inflict the same amount of [Vibration] Count on target\nJP :\n[OnSucceedAttack] 自分の[Vibration]回数を最大8消耗し、消耗した値だけ対象の[Vibration]回数が増加"
+  },
+  {
+    "key": "1101003-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\nJP :\n[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少"
+  },
+  {
+    "key": "1101004-levelList$[0].name",
+    "original": "츠바이 기사단 대검술 - 가드",
+    "context": "EN :\nZwei Knight's Greatsword Form - Guard\nJP :\nツヴァイ騎士団大剣術 - ガード"
+  },
+  {
+    "key": "1101004-levelList$[0].desc",
+    "original": "[CanDuelGuard]\n[StartBattle] 다음 턴에 이 스킬 슬롯의 [Aggro] 5 증가\n[WhenUse] 자신의 [Vibration] 횟수 2 증가 (턴 당 1회)\n[WinDuel] [VibrationExplosion]",
+    "context": "EN :\n[CanDuelGuard]\n[StartBattle] Gain +5 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain +2 [Vibration] Count (once per turn)\n[WinDuel] Trigger [VibrationExplosion]\nJP :\n[CanDuelGuard]\n[StartBattle] 次のターンこのスキルスロットの[Aggro]が5増加\n[WhenUse] 自分の[Vibration]回数が2増加(1ターンにつき1回)\n[WinDuel] [VibrationExplosion]"
+  },
+  {
+    "key": "1101004-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "1101004-levelList$[1].name",
+    "original": "츠바이 기사단 대검술 - 가드",
+    "context": "EN :\nZwei Knight's Greatsword Form - Guard\nJP :\nツヴァイ騎士団大剣術 - ガード"
+  },
+  {
+    "key": "1101004-levelList$[1].desc",
+    "original": "[CanDuelGuard]\n[StartBattle] 다음 턴에 이 스킬 슬롯의 [Aggro] 5 증가\n[WhenUse] 자신의 [Vibration] 횟수 <style=\"highlight\">3</style> 증가 (턴 당 1회)\n[WinDuel] [VibrationExplosion]",
+    "context": "EN :\n[CanDuelGuard]\n[StartBattle] Gain +5 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain +<style=\"highlight\">3</style> [Vibration] Count (once per turn)\n[WinDuel] Trigger [VibrationExplosion]\nJP :\n[CanDuelGuard]\n[StartBattle] 次のターンこのスキルスロットの[Aggro]が5増加\n[WhenUse] 自分の[Vibration]回数が<style=\"highlight\">3</style>増加(1ターンにつき1回)\n[WinDuel] [VibrationExplosion]"
+  },
+  {
+    "key": "1101004-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "1101101-levelList$[0].name",
+    "original": "딜리버리 캐리어 - 붕괴 망치",
+    "context": "EN :\nCourier Trunk - Decay Hammer\nJP :\nデリバリーキャリア - 崩壊ハンマー"
+  },
+  {
+    "key": "1101101-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중 시 효과로 [Burst] 횟수를 부여하지 않는 대신, [DefenseDown] 2 부여 (코인 당 1회)",
+    "context": "EN :\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with this Skill's On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)\nJP :\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルの的中時効果で[Burst]回数を付与しない代わり、[DefenseDown]2を付与(コインごとに1回)"
+  },
+  {
+    "key": "1101101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSackSinclair] 1 얻음\n- [DevyatDimensionalSackSinclair]가 15 미만이면, [DevyatDimensionalSackSinclair] 1 추가로 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [DevyatDimensionalSackSinclair]\n- If this unit has less than 15 [DevyatDimensionalSackSinclair], gain 1 additional [DevyatDimensionalSackSinclair]\nJP :\n[OnSucceedAttack] [DevyatDimensionalSackSinclair]1を得る\n- [DevyatDimensionalSackSinclair]が15未満なら、[DevyatDimensionalSackSinclair]1を追加で得る"
+  },
+  {
+    "key": "1101101-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加\n"
+  },
+  {
+    "key": "1101101-levelList$[1].name",
+    "original": "딜리버리 캐리어 - 붕괴 망치",
+    "context": "EN :\nCourier Trunk - Decay Hammer\nJP :\nデリバリーキャリア - 崩壊ハンマー"
+  },
+  {
+    "key": "1101101-levelList$[1].desc",
+    "original": "[DevyatDimensionalSackSinclair]가 10 이상이거나, 대상의 [Burst]이 6 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중 시 효과로 [Burst] 횟수를 부여하지 않는 대신, [DefenseDown] 2 부여 (코인 당 1회)",
+    "context": "EN :\nAt 10+ [DevyatDimensionalSackSinclair], or if the target has 6+ [Burst], Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)\nJP :\n自分の[DevyatDimensionalSackSinclair]が10以上か、対象の[Burst]が6以上ならコイン威力 +1\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルの的中時効果で[Burst]回数を付与しない代わりに[DefenseDown]2を付与(コインごとに1回)"
+  },
+  {
+    "key": "1101101-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSackSinclair] 1 얻음\n- [DevyatDimensionalSackSinclair]가 15 미만이면, [DevyatDimensionalSackSinclair] 1 추가로 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [DevyatDimensionalSackSinclair]\n- If this unit has less than 15 [DevyatDimensionalSackSinclair], gain 1 additional [DevyatDimensionalSackSinclair]\nJP :\n[OnSucceedAttack] [DevyatDimensionalSackSinclair]1を得る\n- [DevyatDimensionalSackSinclair]が15未満なら、[DevyatDimensionalSackSinclair]1を追加で得る"
+  },
+  {
+    "key": "1101101-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가\n- [DevyatDimensionalSackSinclair]가 15 이상이면, [Burst] 횟수 1 추가 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\n- At 15+ [DevyatDimensionalSackSinclair], inflict +1 additional [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加\n- [DevyatDimensionalSackSinclair]が15以上なら、[Burst]回数が1追加で増加"
+  },
+  {
+    "key": "1101101-levelList$[2].name",
+    "original": "딜리버리 캐리어 - 붕괴 망치",
+    "context": "EN :\nCourier Trunk - Decay Hammer\nJP :\nデリバリーキャリア - 崩壊ハンマー"
+  },
+  {
+    "key": "1101101-levelList$[2].desc",
+    "original": "[DevyatDimensionalSackSinclair] 10 또는 대상의 [Burst] 6당 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중 시 효과로 [Burst] 횟수를 부여하지 않는 대신, [DefenseDown] 2 부여 (코인 당 1회)",
+    "context": "EN :\nCoin Power +1 for every 10 [DevyatDimensionalSackSinclair] on self or for every 6 [Burst] on the target (max 2)\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)\nJP :\n自分の[DevyatDimensionalSackSinclair]10または、対象の[Burst]6につきコイン威力 +1(最大2)\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルの的中時効果で[Burst]回数を付与しない代わりに[DefenseDown]2を付与(コインごとに1回)"
+  },
+  {
+    "key": "1101101-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSackSinclair] 1 얻음\n- [DevyatDimensionalSackSinclair]가 15 미만이면, [DevyatDimensionalSackSinclair] 1 추가로 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [DevyatDimensionalSackSinclair]\n- If this unit has less than 15 [DevyatDimensionalSackSinclair], gain 1 additional [DevyatDimensionalSackSinclair]\nJP :\n[OnSucceedAttack] [DevyatDimensionalSackSinclair]1を得る\n- [DevyatDimensionalSackSinclair]が15未満なら、[DevyatDimensionalSackSinclair]1を追加で得る"
+  },
+  {
+    "key": "1101101-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가\n- [DevyatDimensionalSackSinclair]가 15 이상이면, [Burst] 횟수 1 추가 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\n- At 15+ [DevyatDimensionalSackSinclair], inflict +1 additional [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加\n- [DevyatDimensionalSackSinclair]が15以上なら、[Burst]回数が1追加で増加"
+  },
+  {
+    "key": "1101102-levelList$[0].name",
+    "original": "딜리버리 캐리어 - 돌파 가젯",
+    "context": "EN :\nCourier Trunk - Demolition Gadget\nJP :\nデリバリーキャリア - 突破ガジェット"
+  },
+  {
+    "key": "1101102-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중 시 효과로 [Burst], [Burst] 횟수를 부여하지 않는 대신, [DefenseDown] 2 부여 (코인 당 1회)",
+    "context": "EN :\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count with this Skill's On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)\nJP :\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルの的中時効果で [Burst]・[Burst]回数を付与しない代わり、[DefenseDown]2を付与(コインごとに1回)"
+  },
+  {
+    "key": "1101102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSackSinclair] 1 얻음\n- [DevyatDimensionalSackSinclair]가 15 미만이면, [DevyatDimensionalSackSinclair] 2 추가로 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [DevyatDimensionalSackSinclair]\n- If this unit has less than 15 [DevyatDimensionalSackSinclair], gain 2 additional [DevyatDimensionalSackSinclair]\nJP :\n[OnSucceedAttack] [DevyatDimensionalSackSinclair]1を得る\n- [DevyatDimensionalSackSinclair]が15未満なら、[DevyatDimensionalSackSinclair]2を追加で得る"
+  },
+  {
+    "key": "1101102-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "1101102-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\nJP :\n[OnSucceedAttack] [Burst]3を付与"
+  },
+  {
+    "key": "1101102-levelList$[1].name",
+    "original": "딜리버리 캐리어 - 돌파 가젯",
+    "context": "EN :\nCourier Trunk - Demolition Gadget\nJP :\nデリバリーキャリア - 突破ガジェット"
+  },
+  {
+    "key": "1101102-levelList$[1].desc",
+    "original": "[DevyatDimensionalSackSinclair]가 10 이상이거나, 대상의 [Burst]이 6 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중 시 효과로 [Burst], [Burst] 횟수를 부여하지 않는 대신, [DefenseDown] 2 부여 (코인 당 1회)\n[WhenUse] [DevyatDimensionalSackSinclair]가 20 이하면, 다음 턴에 [Agility] 1 얻음 (턴 당 최대 1)",
+    "context": "EN :\nAt 10+ [DevyatDimensionalSackSinclair], or if the target has 6+ [Burst], Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with its On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)\n[WhenUse] At 20- [DevyatDimensionalSackSinclair], gain 1 [Agility] next turn (once per turn)\nJP :\n自分の[DevyatDimensionalSackSinclair]が10以上か、対象の[Burst]が6以上ならコイン威力 +1\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルの的中時効果で[Burst]・[Burst]回数を付与しない代わりに[DefenseDown]2を付与(コインごとに1回)\n[WhenUse] [DevyatDimensionalSackSinclair]が20以下なら、次のターンに[Agility]1を得る(1ターンにつき最大1)"
+  },
+  {
+    "key": "1101102-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSackSinclair] 1 얻음\n- [DevyatDimensionalSackSinclair]가 15 미만이면, [DevyatDimensionalSackSinclair] 2 추가로 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [DevyatDimensionalSackSinclair]\n- If this unit has less than 15 [DevyatDimensionalSackSinclair], gain 2 additional [DevyatDimensionalSackSinclair]\nJP :\n[OnSucceedAttack] [DevyatDimensionalSackSinclair]1を得る\n- [DevyatDimensionalSackSinclair]が15未満なら、[DevyatDimensionalSackSinclair]2を追加で得る"
+  },
+  {
+    "key": "1101102-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여\n- [DevyatDimensionalSackSinclair]가 15 이상이면, [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\n- At 15+ [DevyatDimensionalSackSinclair], inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]を2付与\n- [DevyatDimensionalSackSinclair]が15以上なら、[Burst]回数が1増加"
+  },
+  {
+    "key": "1101102-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여\n- [DevyatDimensionalSackSinclair]가 15 이상이면, [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\n- At 15+ [DevyatDimensionalSackSinclair], inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]3を付与\n- [DevyatDimensionalSackSinclair]が15以上なら、[Burst]回数が1増加"
+  },
+  {
+    "key": "1101102-levelList$[2].name",
+    "original": "딜리버리 캐리어 - 돌파 가젯",
+    "context": "EN :\nCourier Trunk - Demolition Gadget\nJP :\nデリバリーキャリア - 突破ガジェット"
+  },
+  {
+    "key": "1101102-levelList$[2].desc",
+    "original": "[DevyatDimensionalSackSinclair] 10 또는 대상의 [Burst] 6당 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중 시 효과로 [Burst], [Burst] 횟수를 부여하지 않는 대신, [DefenseDown] 2 부여 (코인 당 1회)\n[WhenUse] [DevyatDimensionalSackSinclair]가 30 이하면, 다음 턴에 [Agility] 1 얻음 (턴 당 최대 1)",
+    "context": "EN :\nCoin Power +1 for every 10 [DevyatDimensionalSackSinclair] on self or for every 6 [Burst] on the target (max 2)\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with its On Hit effects; instead, it inflicts 2 [DefenseDown] (once per Coin)\n[WhenUse] At 30- [DevyatDimensionalSackSinclair], gain 1 [Agility] next turn (once per turn)\nJP :\n自分の[DevyatDimensionalSackSinclair]10または、対象の[Burst]6につきコイン威力 +1(最大2)\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルの的中時効果で[Burst]・[Burst]回数を付与しない代わりに[DefenseDown]2を付与(コインごとに1回)\n[WhenUse] [DevyatDimensionalSackSinclair]が30以下なら、次のターンに[Agility]1を得る(1ターンにつき最大1)"
+  },
+  {
+    "key": "1101102-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSackSinclair] 1 얻음\n- [DevyatDimensionalSackSinclair]가 15 미만이면, [DevyatDimensionalSackSinclair] 2 추가로 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [DevyatDimensionalSackSinclair]\n- If this unit has less than 15 [DevyatDimensionalSackSinclair], gain 2 additional [DevyatDimensionalSackSinclair]\nJP :\n[OnSucceedAttack] [DevyatDimensionalSackSinclair]1を得る\n- [DevyatDimensionalSackSinclair]が15未満なら、[DevyatDimensionalSackSinclair]2を追加で得る"
+  },
+  {
+    "key": "1101102-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여\n- [DevyatDimensionalSackSinclair]가 15 이상이면, [Burst] 횟수 <style=\"highlight\">2</style> 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\n- At 15+ [DevyatDimensionalSackSinclair], inflict +<style=\"highlight\">2</style> [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]を2付与\n- [DevyatDimensionalSackSinclair]が15以上なら、[Burst]回数が<style=\"highlight\">2</style>増加"
+  },
+  {
+    "key": "1101102-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여\n- [DevyatDimensionalSackSinclair]가 15 이상이면, [Burst] 횟수 <style=\"highlight\">2</style> 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\n- At 15+ [DevyatDimensionalSackSinclair], inflict +<style=\"highlight\">2</style> [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]3を付与\n- [DevyatDimensionalSackSinclair]が15以上なら、[Burst]回数が<style=\"highlight\">2</style>増加"
+  },
+  {
+    "key": "1101103-levelList$[0].name",
+    "original": "플루드니차... 부탁해요!",
+    "context": "EN :\nPoludnitsa... I trust you!\nJP :\nポルードニツァ…お願いします！"
+  },
+  {
+    "key": "1101103-levelList$[0].desc",
+    "original": "[DevyatDimensionalSackSinclair]가 10 이상이거나, 대상의 [Burst]이 6 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중 시 효과로 [Burst], [Burst] 횟수를 부여하지 않는 대신, 마지막 코인 위력 +2\n[WhenUse] 대상의 [Burst]이 15 이상이면, [DevyatDimensionalSackSinclair] 1 당 마지막 코인의 피해량 +3% (최대 90%)",
+    "context": "EN :\nAt 10+ [DevyatDimensionalSackSinclair], or if the target has 6+ [Burst], Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with its On Hit effects; instead, the final Coin gains +2 Coin Power\n[WhenUse] If the target has 15+ [Burst], deal +3% more damage for every [DevyatDimensionalSackSinclair] (max 90%)\nJP :\n自分の[DevyatDimensionalSackSinclair]が10以上か、対象の[Burst]が6以上ならコイン威力 +1\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルの的中時効果で[Burst]・[Burst]回数を付与しない代わりに最終コイン威力 +2\n[WhenUse] 対象の[Burst]が15以上なら、[DevyatDimensionalSackSinclair]1につき最終コインのダメージ量 +3%(最大90%)"
+  },
+  {
+    "key": "1101103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가\n- [DevyatDimensionalSackSinclair] 10 당 [Burst] 횟수 1 추가로 증가 (최대 2)",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\n- Inflict +1 additional [Burst] Count for every 10 [DevyatDimensionalSackSinclair] (max 2)\nJP :\n[OnSucceedAttack] [Burst]回数が1増加\n- [DevyatDimensionalSackSinclair]10につき、[Burst]回数が1追加で増加(最大2)"
+  },
+  {
+    "key": "1101103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여\n- [DevyatDimensionalSackSinclair] 10 당 [Burst] 1 추가로 부여 (최대 2)",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\n- Inflict +1 additional [Burst] for every 10 [DevyatDimensionalSackSinclair] (max 2)\nJP :\n[OnSucceedAttack] [Burst]3を付与\n- [DevyatDimensionalSackSinclair]10につき、[Burst]1を追加で付与(最大2)"
+  },
+  {
+    "key": "1101103-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 이 스킬의 마지막 코인 위력이 증가하는 효과가 발동하지 않았다면, 다음 턴에 [Agility] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] If this Skill failed to increase the final Coin Power, gain 1 [Agility] next turn\nJP :\n[OnSucceedAttack] このスキルの最終威力増加効果が発動しなかったなら、次のターンに[Agility]1を得る"
+  },
+  {
+    "key": "1101103-levelList$[1].name",
+    "original": "플루드니차... 부탁해요!",
+    "context": "EN :\nPoludnitsa... I trust you!\nJP :\nポルードニツァ…お願いします！"
+  },
+  {
+    "key": "1101103-levelList$[1].desc",
+    "original": "[DevyatDimensionalSackSinclair] 10 또는 대상의 [Burst] 6당 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중 시 효과로 [Burst], [Burst] 횟수를 부여하지 않는 대신, 마지막 코인 위력 +4\n[WhenUse] 대상의 [Burst]이 15 이상이면, [DevyatDimensionalSackSinclair] 1 당 마지막 코인의 피해량 +4% (최대 120%)",
+    "context": "EN :\nCoin Power +1 for every 10 [DevyatDimensionalSackSinclair] on self or for every 6 [Burst] on the target (max 2)\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] or [Burst] Count with its On Hit effects; instead, the final Coin gains +4 Coin Power\n[WhenUse] If the target has 15+ [Burst], deal +4% more damage for every [DevyatDimensionalSackSinclair] (max 120%)\nJP :\n自分の[DevyatDimensionalSackSinclair]10または、対象の[Burst]6につきコイン威力 +1(最大2)\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルの的中時効果で[Burst]・[Burst]回数を付与しない代わりに最終コイン威力 +4\n[WhenUse] 対象の[Burst]が15以上なら、[DevyatDimensionalSackSinclair]1につき最終コインのダメージ量 +4%(最大120%)"
+  },
+  {
+    "key": "1101103-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가\n- [DevyatDimensionalSackSinclair] 10 당 [Burst] 횟수 1 추가로 증가 (최대 <style=\"highlight\">3</style>)",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\n- Inflict +1 additional [Burst] Count for every 10 [DevyatDimensionalSackSinclair] (max <style=\"highlight\">3</style>)\nJP :\n[OnSucceedAttack] [Burst]回数が1増加\n- [DevyatDimensionalSackSinclair]10につき、[Burst]回数が1追加で増加(最大<style=\"highlight\">3</style>)"
+  },
+  {
+    "key": "1101103-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여\n- [DevyatDimensionalSackSinclair] <style=\"highlight\">8</style> 당 [Burst] 1 추가로 부여 (최대 <style=\"highlight\">4</style>)",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\n- Inflict +1 additional [Burst] for every <style=\"highlight\">8</style> [DevyatDimensionalSackSinclair] (max <style=\"highlight\">4</style>)\nJP :\n[OnSucceedAttack] [Burst]3を付与\n- [DevyatDimensionalSackSinclair]<style=\"highlight\">8</style>につき、[Burst]1を追加で付与(最大<style=\"highlight\">4</style>)"
+  },
+  {
+    "key": "1101103-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 이 스킬의 마지막 코인 위력이 증가하는 효과가 발동하지 않았다면, 다음 턴에 [Agility] 2 얻음",
+    "context": "EN :\n[OnSucceedAttack] If this Skill's effect to raise its final Coin Power did not activate, gain 2 [Agility] next turn\nJP :\n[OnSucceedAttack] このスキルの最終威力増加効果が発動しなかったなら、次のターンに[Agility]2を得る"
+  },
+  {
+    "key": "1101104-levelList$[0].name",
+    "original": "배달 지원 및 상황 통제 절차",
+    "context": "EN :\nCourier Assistance & Crisis Control System\nJP :\n配達支援および状況統制手続き"
+  },
+  {
+    "key": "1101104-levelList$[0].desc",
+    "original": "[StartBattle] [DevyatDimensionalSackSinclair]가 15 이상이면, '자, 잠깐 정비 좀 할게요...!' 으로 발동함 (턴 당 1회)\n[StartBattle] 이 스킬로 발동 예정인 경우, 자신의 최대 체력의 ([DevyatDimensionalSackSinclair]/2)% 만큼 보호막을 얻음 (최대 15%, 턴 당 1회)",
+    "context": "EN :\n[StartBattle] At 15+ [DevyatDimensionalSackSinclair], activate 'W-wait, I need to do some maintenance...!.' instead (once per turn)\n[StartBattle] If this Skill is to be activated, gain ([DevyatDimensionalSackSinclair] / 2)% of this unit's max HP as Shield (max 15%, once per turn)\nJP :\n[StartBattle] [DevyatDimensionalSackSinclair]が15以上なら、「ちょ、ちょっと整備してきます…！」として発動(1ターンに1回)\n[StartBattle] このスキルで発動予定なら、自分の体力最大値の([DevyatDimensionalSackSinclair] ÷ 2)%だけバリアを得る(最大15%, 1ターンにつき1回)"
+  },
+  {
+    "key": "1101104-levelList$[1].name",
+    "original": "배달 지원 및 상황 통제 절차",
+    "context": "EN :\nCourier Assistance & Crisis Control System\nJP :\n配達支援および状況統制手続き"
+  },
+  {
+    "key": "1101104-levelList$[1].desc",
+    "original": "[StartBattle] [DevyatDimensionalSackSinclair]가 15 이상이면, '자, 잠깐 정비 좀 할게요...!' 으로 발동함 (턴 당 1회)\n[StartBattle] 이 스킬로 발동 예정인 경우, 자신의 최대 체력의 <style=\"highlight\">([DevyatDimensionalSackSinclair])</style>% 만큼 보호막을 얻음 (최대 <style=\"highlight\">25</style>%, 턴 당 1회)",
+    "context": "EN :\n[StartBattle] At 15+ [DevyatDimensionalSackSinclair], activate 'W-wait, I need to do some maintenance...!' instead (once per turn)\n[StartBattle] If this Skill is to be activated, gain <style=\"highlight\">([DevyatDimensionalSackSinclair])%</style> of this unit's max HP as Shield (max <style=\"highlight\">25%</style>, once per turn)\nJP :\n[StartBattle] [DevyatDimensionalSackSinclair]が15以上なら、「ちょ、ちょっと整備してきます…！」として発動(1ターンに1回)\n[StartBattle] このスキルで発動予定なら、自分の体力最大値の<style=\"highlight\">([DevyatDimensionalSackSinclair])%</style>だけバリアを得る(最大<style=\"highlight\">25</style>%, 1ターンにつき1回)"
+  },
+  {
+    "key": "1101105-levelList$[0].name",
+    "original": "자, 잠깐 정비 좀 할게요...!",
+    "context": "EN :\nW-wait, I need to do some maintenance...!\nJP :\nちょ、ちょっと整備してきます…！"
+  },
+  {
+    "key": "1101105-levelList$[0].desc",
+    "original": "[StartBattle] 이 스킬로 발동 예정인 경우, 자신의 최대 체력의 ([DevyatDimensionalSackSinclair]/2)% 만큼 보호막을 얻음 (최대 15%, 턴 당 1회)\n[EndBattle] [Retreat] 발동",
+    "context": "EN :\n[StartBattle] If this Skill is to be activated, gain ([DevyatDimensionalSackSinclair])% of this unit's max HP as Shield (max 15%, once per turn)\n[EndBattle] Activate [Retreat]\nJP :\n[StartBattle] このスキルで発動する場合、自分の体力最大値の([DevyatDimensionalSackSinclair] ÷ 2)%だけバリアを得る(最大15%, 1ターンにつき1回)\n[EndBattle] [Retreat]発動"
+  },
+  {
+    "key": "1101105-levelList$[1].name",
+    "original": "자, 잠깐 정비 좀 할게요...!",
+    "context": "EN :\nW-wait, I need to do some maintenance...!\nJP :\nちょ、ちょっと整備してきます…！"
+  },
+  {
+    "key": "1101105-levelList$[1].desc",
+    "original": "[StartBattle] 이 스킬로 발동 예정인 경우, 자신의 최대 체력의 <style=\"highlight\">([DevyatDimensionalSackSinclair])</style>% 만큼 보호막을 얻음 (최대 <style=\"highlight\">25</style>%, 턴 당 1회)\n[EndBattle] [Retreat] 발동",
+    "context": "EN :\n[StartBattle] If this Skill is to be activated, gain <style=\"highlight\">([DevyatDimensionalSackSinclair])%</style> of this unit's max HP as Shield (max <style=\"highlight\">25%</style>, once per turn)\n[EndBattle] Activate [Retreat]\nJP :\n[StartBattle] このスキルで発動する場合、自分の体力最大値の<style=\"highlight\">([DevyatDimensionalSackSinclair])</style>%だけバリアを得る(最大<style=\"highlight\">25%</style>, 1ターンにつき1回)\n[EndBattle] [Retreat]発動"
+  }
+]

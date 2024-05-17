@@ -1,0 +1,1046 @@
+[
+  {
+    "key": "0-place",
+    "original": "캐서린의 방",
+    "context": "EN :\nCatherine's Room\nJP :\nキャサリンの部屋"
+  },
+  {
+    "key": "0-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "0-content",
+    "original": "그만해! 히스클리프!",
+    "context": "EN :\nThat's enough, Heathcliff!\nJP :\nやめて！ヒースクリフ！"
+  },
+  {
+    "key": "1-model",
+    "original": "린튼버틀러1",
+    "translation": "林顿管家",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "1-teller",
+    "original": "조심스러운 버틀러",
+    "context": "EN :\nDiscreet Butler\nJP :\n用心深いバトラー"
+  },
+  {
+    "key": "1-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "1-content",
+    "original": "커헉… 쿨럭…",
+    "context": "EN :\nGaah... Cough...\nJP :\nゲボッ…ケホッ…。"
+  },
+  {
+    "key": "2-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "2-content",
+    "original": "살려는 놔야 해요. 그래야 왜, 무엇을 찾고 있었는지 정돈 알 수 있을 테니까.",
+    "context": "EN :\nWe can't kill her. Otherwise we won’t know what they were looking for, or why.\nJP :\n生かしてはおかないといけません。そうしたら\nどうして、何を探していたかくらいは分かるでしょうから。"
+  },
+  {
+    "key": "3-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "3-content",
+    "original": "…말해.",
+    "context": "EN :\n... Speak.\nJP :\n…言え。"
+  },
+  {
+    "key": "4-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "4-content",
+    "original": "납득이 되지 않으면 네놈들의 그 식기로 손가락을 하나씩 잘라 줄 거니까.",
+    "context": "EN :\nI am going to take your utensils and cut off your fingers one by one with each dodgy answer you give me.\nJP :\n納得いかなきゃテメェらのその食器で\n指を一本ずつ切ってやる。"
+  },
+  {
+    "key": "5-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "5-content",
+    "original": "얼마나 잘 썰릴진 본인들이 더 잘 알겠지.",
+    "context": "EN :\nYou must know how sharp your own blades are.\nJP :\nどれだけ切れ味が良いかは、テメェらの方がよく知ってるだろ。"
+  },
+  {
+    "key": "6-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "6-content",
+    "original": "…말해줄래? 너희까지 내 손으로 꿈밤을 먹이고 싶진 않거든…",
+    "context": "EN :\n... Please cooperate, won't you? I don't want to have to use the sleepy smack on my own subordinates.\nJP :\n…言ってくれない？あんたたちにまで、\n私の手でゲンコツを食らわせたくないから…。"
+  },
+  {
+    "key": "7-model",
+    "original": "린튼버틀러1",
+    "translation": "林顿管家",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "조심스러운 버틀러",
+    "context": "EN :\nDiscreet Butler\nJP :\n用心深いバトラー"
+  },
+  {
+    "key": "7-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "7-content",
+    "original": "…일기장.",
+    "context": "EN :\nThe... diary.\nJP :\n…日記帳。"
+  },
+  {
+    "key": "8-model",
+    "original": "린튼버틀러1",
+    "translation": "林顿管家",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "8-teller",
+    "original": "조심스러운 버틀러",
+    "context": "EN :\nDiscreet Butler\nJP :\n用心深いバトラー"
+  },
+  {
+    "key": "8-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "8-content",
+    "original": "캐서린 주인님의 방에서… 일기장을 찾아야만 한다고 하셨습니다.",
+    "context": "EN :\nMaster Linton told us that we must find the diary in Mistress Catherine's room.\nJP :\nキャサリンお嬢様の部屋で…日記帳を\n探さなければならないと仰いました。"
+  },
+  {
+    "key": "9-model",
+    "original": "린튼버틀러1",
+    "translation": "林顿管家",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "조심스러운 버틀러",
+    "context": "EN :\nDiscreet Butler\nJP :\n用心深いバトラー"
+  },
+  {
+    "key": "9-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "9-content",
+    "original": "저택이 개조되면서… 캐서린 님이 일기장을 어딘가에 숨겨놓으셨을 거라고…",
+    "context": "EN :\nThat she must have hidden her diary somewhere in here as they were making modifications to the manor...\nJP :\n邸宅が改装されてから…キャサリン様が\n日記帳をどこかに隠しておいただろうと…。"
+  },
+  {
+    "key": "10-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "10-content",
+    "original": "그래, 그 일기장을 왜 찾으려고 하시는 걸까, 린튼 도련님이?",
+    "context": "EN :\nI see. So why do you think Master Linton's looking for that diary?\nJP :\nそう、リントン坊ちゃんが。\nどうしてその日記帳を探そうとしてるんだろうね？"
+  },
+  {
+    "key": "11-model",
+    "original": "린튼버틀러1",
+    "translation": "林顿管家",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "조심스러운 버틀러",
+    "context": "EN :\nDiscreet Butler\nJP :\n用心深いバトラー"
+  },
+  {
+    "key": "11-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "11-content",
+    "original": "방법을… 찾아야 한다고 하셨습니다.",
+    "context": "EN :\nMaster Linton told us that it was to find... a way.\nJP :\n方法を…探す必要があると仰いました。"
+  },
+  {
+    "key": "12-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "12-content",
+    "original": "너희 계속 그렇게 두루뭉술하게만 말할래? 내가 어떤 방법으로 치프 버틀러 자리를 꿰찼는지 재연해 줄까?",
+    "context": "EN :\nPlease, do keep up your mysterious attitude. A few more answers like that and I will personally demonstrate how I managed to become the Chief Butler.\nJP :\nあんたたち、ずっとそうやって曖昧に話すつもり？\n私がどうやってチーフバトラーの座を掴み取ったのか\n実演してあげようか？"
+  },
+  {
+    "key": "13-model",
+    "original": "린튼버틀러1",
+    "translation": "林顿管家",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "조심스러운 버틀러",
+    "context": "EN :\nDiscreet Butler\nJP :\n用心深いバトラー"
+  },
+  {
+    "key": "13-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "13-content",
+    "original": "정말입니다. 어떤 것과 관련된 방법인진… 말씀해 주시지 않았습니다. 그 이상은 저희도 모릅니다.",
+    "context": "EN :\nIt's the truth. He did not let us in on what this... 'way' is. I have told you all that I know.\nJP :\n本当です。何と関係している方法なのかは…\n仰いませんでした。それ以上は私たちも存じ上げません。"
+  },
+  {
+    "key": "14-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "14-content",
+    "original": "모른다고만 할 거면…",
+    "context": "EN :\nThat's it. Looks like I'll have to—\nJP :\n知らないっつーなら…。"
+  },
+  {
+    "key": "15-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "15-content",
+    "original": "됐어, 히스클리프. 모른다는 말은 진심인 것 같아. 너희, 이제 물러가.",
+    "context": "EN :\nThat's enough, Heathcliff. I believe that she is telling the truth. All of you, leave us. Now.\nJP :\nよして、ヒースクリフ。知らないって言葉は本当だと思う。\nあんたたち、下がって。"
+  },
+  {
+    "key": "16-model",
+    "original": "린튼버틀러1",
+    "translation": "林顿管家",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "조심스러운 버틀러",
+    "context": "EN :\nDiscreet Butler\nJP :\n用心深いバトラー"
+  },
+  {
+    "key": "16-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "16-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "17-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "17-content",
+    "original": "그리고 더 이상 눈에 띄지 마. 부탁인데…",
+    "context": "EN :\nAnd please, do stay out of my sight.\nJP :\nお願いなんだけど…これ以上視界に入らないで。"
+  },
+  {
+    "key": "18-model",
+    "original": "린튼버틀러1",
+    "translation": "林顿管家",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "조심스러운 버틀러",
+    "context": "EN :\nDiscreet Butler\nJP :\n用心深いバトラー"
+  },
+  {
+    "key": "18-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "18-content",
+    "original": "넬리님…",
+    "context": "EN :\nChief Butler Nelly...\nJP :\nネリー様…。"
+  },
+  {
+    "key": "19-model",
+    "original": "린튼버틀러1",
+    "translation": "林顿管家",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "19-teller",
+    "original": "조심스러운 버틀러",
+    "context": "EN :\nDiscreet Butler\nJP :\n用心深いバトラー"
+  },
+  {
+    "key": "19-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "19-content",
+    "original": "저희 내부 정보에 의하면…",
+    "context": "EN :\nAccording to what intelligence we could gather...\nJP :\n我々の内部情報によると…。"
+  },
+  {
+    "key": "20-model",
+    "original": "린튼버틀러1",
+    "translation": "林顿管家",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "20-teller",
+    "original": "조심스러운 버틀러",
+    "context": "EN :\nDiscreet Butler\nJP :\n用心深いバトラー"
+  },
+  {
+    "key": "20-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "20-content",
+    "original": "도시질병급 조직에 해당하던 데드레빗츠는 이미 한참 전에 T사 뒷골목에서 궤멸이 된 상태였습니다.",
+    "context": "EN :\nThe 'Dead Rabbits', the Syndicate of an Urban Plague classification, had long been obliterated from the T Corp. Backstreets.\nJP :\n都市疾病級の組織に該当していたデッドラビッツは、\n既にかなり前にT社の裏路地で壊滅した状態でした。"
+  },
+  {
+    "key": "21-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "21-content",
+    "original": "…뭐?",
+    "context": "EN :\n… What?\nJP :\n…は？"
+  },
+  {
+    "key": "22-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "22-content",
+    "original": "…!",
+    "context": "EN :\n…!\nJP :\n…！"
+  },
+  {
+    "key": "23-model",
+    "original": "린튼버틀러1",
+    "translation": "林顿管家",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "23-teller",
+    "original": "조심스러운 버틀러",
+    "context": "EN :\nDiscreet Butler\nJP :\n用心深いバトラー"
+  },
+  {
+    "key": "23-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "23-content",
+    "original": "오랫동안 활동하질 않은… 이른바 토벌된 조직이라는 것입니다. 다른 갱단들도 뒷골목에서 데드레빗츠들을 보지 못한 지 한참 되었다고 합니다.",
+    "context": "EN :\nThey have been inactive for a long, long time—in other words, they have already been vanquished. Other gangs have not seen the Dead Rabbits in the Backstreets in a while, either.\nJP :\n長らく活動していない…いわゆる討伐された組織ということです。\n他のギャングも裏路地でデッドラビッツを見なくなって久しいとのことです。"
+  },
+  {
+    "key": "24-model",
+    "original": "린튼버틀러1",
+    "translation": "林顿管家",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "24-teller",
+    "original": "조심스러운 버틀러",
+    "context": "EN :\nDiscreet Butler\nJP :\n用心深いバトラー"
+  },
+  {
+    "key": "24-title",
+    "original": "에드가 가문",
+    "context": "EN :\nEdgar Family\nJP :\nエドガー家"
+  },
+  {
+    "key": "24-content",
+    "original": "신원을 알 수 없는 자들입니다. 부디 조심하십시오.",
+    "context": "EN :\nWe have no way of verifying their identities. Please, do be careful.\nJP :\n身元が分からない者たちです。\nどうかお気をつけください。"
+  },
+  {
+    "key": "25-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "25-content",
+    "original": "힌들리 씨가 대체 누구를 이 집안에 들인 거지… 그리고 일기장이라는 건…",
+    "context": "EN :\nWho in the blazes did Mister Hindley let into this manor...? And that diary...\nJP :\nヒンドリー氏は一体誰をこの家に入れたんだろう…\nそして日記帳というのは…。"
+  },
+  {
+    "key": "26-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "26-content",
+    "original": "<일기장이라… 어떤 것이 적혀 있는 건진 모르겠지만…>",
+    "context": "EN :\n<A diary, huh... I'm not sure what to expect from it, but...>\nJP :\n<日記帳か…どんなことが書かれているかは分からないけど…。>"
+  },
+  {
+    "key": "27-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "27-content",
+    "original": "찾기만 한다면… 이 상황을 타개할 단서 정도는 되어주겠죠.",
+    "context": "EN :\nIf we do find it, it'll at least clue us in as to what kind of situation we've just walked into.\nJP :\n見つけさえすれば…この状況を打開する\n手がかり程度にはなってくれるでしょう。"
+  },
+  {
+    "key": "28-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "28-content",
+    "original": "일기장… 따위의 조그만 물건을 숨길만한 곳이라면, 이 책꽂이와 서랍들 정도겠지만…",
+    "context": "EN :\nA small container, a space to hide such a thing as a diary... would be these bookshelves or drawers.\nJP :\n日記帳…などの小さな物を隠すなら、\nこの本棚と引き出しぐらいだろうけど…。"
+  },
+  {
+    "key": "29-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "29-content",
+    "original": "이미 저들이 최선을 다해서 뒤지고 간 모양이군.",
+    "context": "EN :\nBut it appears that the Butlers have combed this room clean already.\nJP :\n既に彼らが、誠心誠意引っくり返した後のように見えるな。"
+  },
+  {
+    "key": "30-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "30-content",
+    "original": "음음…! 나 이런 거 본 적 있소.",
+    "context": "EN :\nHm hm...! I have once beheld such a sight.\nJP :\nうむうむ…！私、こういうの見たことありまする。"
+  },
+  {
+    "key": "31-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "31-content",
+    "original": "보통 어딘가에 숨겨진 버튼이 있거나! 그레고르 군이 쓴 것보다 훨씬 커다란 돋보기로 이런 데를 유심히 쳐다보면…!",
+    "context": "EN :\nForsooth, 'tis oft the case that a hidden button exists somewhere! We ought to scour this room from corner to corner with magnifying glasses much larger than even Gregor's...!\nJP :\n普通はどこかに隠されたボタンがあったり！グレゴール君が使っているものより\nもっと大きなルーペでこういう場所を注意深く観察すれば…！"
+  },
+  {
+    "key": "32-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "32-content",
+    "original": "이건 근시 안경이라고…",
+    "context": "EN :\nThese are glasses for my myopia...\nJP :\nこれ、近視用なんだけど…。"
+  },
+  {
+    "key": "33-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "33-content",
+    "original": "베개 속은 온갖 새들의 깃털로 가득하지. 아마 천 개쯤 있을걸.",
+    "context": "EN :\nThere are a thousand feathers of so many birds in this pillow.\nJP :\n枕の中はありとあらゆる鳥の羽でいっぱいね。\n多分千本はありそう。"
+  },
+  {
+    "key": "34-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "34-content",
+    "original": "다른 부자들은 희귀한 새 깃털을 수집해서 넣어놓는다곤 하지만… 난 싫어.",
+    "context": "EN :\nOther people of means like to collect rare bird feathers and stuff their pillows with them. But... I don't like that.\nJP :\n他のお金持ちは珍しい鳥の羽を集めて入れるらしいけど…私は嫌。"
+  },
+  {
+    "key": "35-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "35-content",
+    "original": "왜인지… 너는 알겠어?",
+    "context": "EN :\nDo you know... why?\nJP :\nどうしてか…あなたには分かる？"
+  },
+  {
+    "key": "36-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "36-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "37-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "37-content",
+    "original": "날아가는 새들은… 죽이지 말아야 하니까.",
+    "context": "EN :\nBecause birds are meant to fly. Not to be killed like that.\nJP :\n飛んでく鳥は…殺すべきじゃねぇから。"
+  },
+  {
+    "key": "38-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "38-content",
+    "original": "맞아. 새들은 새장을 벗어나서 하늘을 날도록 태어난 존재니까.",
+    "context": "EN :\nYes. Birds do not belong in their cages; they are beings born to soar the skies.\nJP :\nそう。鳥は鳥かごを抜け出して、\n空を飛ぶために生まれた存在だから。"
+  },
+  {
+    "key": "39-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "39-content",
+    "original": "그래서 나는 이 깃털들을 전부 빼낼 거야.",
+    "context": "EN :\nSo I am going to empty this pillow of their feathers.\nJP :\nだから、私はこの羽を全部抜きとるんだ。"
+  },
+  {
+    "key": "40-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "40-content",
+    "original": "대신 그 빈 속엔 내 비밀을 채우는 거지.",
+    "context": "EN :\nInstead, I will fill it with my secret.\nJP :\n代わりに、空っぽになったところを私の秘密で満たすの。"
+  },
+  {
+    "key": "41-model",
+    "original": "캐서린",
+    "translation": "凯瑟琳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCatherine\nJP :\nキャサリン"
+  },
+  {
+    "key": "41-content",
+    "original": "언제든지 내 머리맡에서 펴볼 수 있도록.",
+    "context": "EN :\nSo that I will always have it at an arm's reach.\nJP :\nいつでも、私の枕元から掘り返せるように。"
+  },
+  {
+    "key": "42-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "42-content",
+    "original": "…히스클리프 씨? 왜 갑자기 베개를…",
+    "context": "EN :\nHeathcliff...? Why are you tearing that pillow open...?\nJP :\n…ヒースクリフさん？\nどうして急に枕を…。"
+  },
+  {
+    "key": "43-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "43-content",
+    "original": "캐시라면… 분명…!",
+    "context": "EN :\nThis is where... Cathy would have...!\nJP :\nキャサリンなら…きっと…！"
+  },
+  {
+    "key": "44-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "44-content",
+    "original": "…일기장이 나왔군. 베갯속에서.",
+    "context": "EN :\n... A diary. Hidden within the pillow.\nJP :\n…日記帳が出てきたな。枕の中から。"
+  },
+  {
+    "key": "45-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "45-content",
+    "original": "음… 커다란 얼룩이 번져 있네요. 표지부터.",
+    "context": "EN :\nHm... it's stained by ink. Even the cover, too.\nJP :\nうーん…大きなシミがありますね。表紙にも。"
+  },
+  {
+    "key": "46-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "46-content",
+    "original": "왜 이런 얼룩들이 배어 있는 거지…",
+    "context": "EN :\nI wonder why anyone would do this to their own diary...?\nJP :\nなんでこんなシミができてるんだろう…。"
+  },
+  {
+    "key": "47-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "47-content",
+    "original": "음… 아주 오랫동안 무슨 글을 써야 할지 몰라서 펜을 든 상태로 종이를 계속 누르다 보면…",
+    "context": "EN :\nMm... when I would hold my pen against the paper for a long, long time, because I'm not sure what to write...\nJP :\nうーん…長い間、何を書けばいいのか分からなくなって\nペンを持った状態で紙を押し続けていると…。"
+  },
+  {
+    "key": "48-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "48-content",
+    "original": "잉크에 생긴 웅덩이가 번지고 번져서~ 이런 커다란 얼룩들이 남기도 하더라고요.",
+    "context": "EN :\n... the ink will start to pool and spread, leaving big stains like these.\nJP :\nインクの雫が滲みに滲んで～\nこんな大きなシミが残ったりするんですよね。"
+  },
+  {
+    "key": "49-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "49-content",
+    "original": "일반적인 잉크의 성질과는 다르게 보입니다. 한 페이지에 번져 있는 잉크가 다른 페이지에는 어떤 영향도 없어 보이고…",
+    "context": "EN :\nThese ink stains appear to have been made from nonstandard, special ink. A pool of ink that stained this page has left no marks on the subsequent page.\nJP :\n一般的な性質のインクとは違って見えます。\nひとつのページに広がっているインクが\n他のページには全く滲んでないようですし…。"
+  },
+  {
+    "key": "50-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "50-content",
+    "original": "무엇보다.",
+    "context": "EN :\nPerhaps...\nJP :\n何よりも。"
+  },
+  {
+    "key": "51-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "51-content",
+    "original": "의도적으로 글자를 가리기 위한 장치라는 생각도 드는군요.",
+    "context": "EN :\n... these stains were made on purpose to hide the words under them.\nJP :\n意図的に、文字を隠すための装置として利用した気もしますね。"
+  },
+  {
+    "key": "52-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "52-content",
+    "original": "린튼이라는 자가 기를 쓰고 찾으려는 게 이 일기장이 맞다면…",
+    "context": "EN :\nIf that Linton guy's trying so hard to find this diary, then...\nJP :\nリントンという者が必死で探していたのがこの日記帳なら…。"
+  },
+  {
+    "key": "53-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "53-content",
+    "original": "중요한 정보가 담겨있는 물건은 확실하겠네요.",
+    "context": "EN :\n... I'm willing to bet that it's something important.\nJP :\n重要な情報が書かれているのは確かでしょうね。"
+  },
+  {
+    "key": "54-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "54-content",
+    "original": "…대부분의 페이지에 다 얼룩이 묻어 있어.",
+    "context": "EN :\nMost of these pages are stained.\nJP :\n…ほとんどのページにシミがついてるな。"
+  },
+  {
+    "key": "55-content",
+    "original": "히스클리프의 말대로 온전히 읽을 수 있는 페이지는 얼마 없었다.",
+    "context": "EN :\nTrue. Most of the pages were stained, and their contents were rather difficult to read.\nJP :\nヒースクリフの言う通り、完全に読めるページはあまりなかった。"
+  },
+  {
+    "key": "56-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "56-content",
+    "original": "…읽고 싶은데. 조금이라도.",
+    "context": "EN :\n... I would have liked to read them. Even a little bit.\nJP :\n…読みてぇのに。少しでも。"
+  },
+  {
+    "key": "57-content",
+    "original": "그때.",
+    "context": "EN :\nThat's when...\nJP :\nそのとき。"
+  },
+  {
+    "key": "58-content",
+    "original": "순간 일기장의 종이들이 빠른 속도로 넘겨지더니, 글자가 보이는 페이지에 멈췄다.",
+    "context": "EN :\n... the pages suddenly began to flip rapidly, until it came to a stop at a page with actually legible words.\nJP :\nあっという間に日記帳の紙が素早く捲られ、\n文字が見えるページに止まった。"
+  },
+  {
+    "key": "59-content",
+    "original": "바람이 불어서 넘겨졌다기엔 창문은 굳게 닫혀 있었지만…",
+    "context": "EN :\nIt couldn't have been the wind. There weren't any open windows.\nJP :\n風が吹いて捲られたというにも、窓は固く閉ざされていた。"
+  },
+  {
+    "key": "60-content",
+    "original": "X월 X일",
+    "context": "EN :\nXX/XX\nJP :\nX月X日"
+  },
+  {
+    "key": "61-content",
+    "original": "히스클리프, 그 애가 아무 말도 없이 나를 떠났어.",
+    "context": "EN :\nHeathcliff left me. Without a word.\nJP :\nヒースクリフ、あの子が何も言わずに私のもとを去った。"
+  },
+  {
+    "key": "62-content",
+    "original": "밖에는 천둥과 비바람이 치고 있지.",
+    "context": "EN :\nA terrible thunderstorm rages outside.\nJP :\n外では雷が落ち、風雨が吹き荒れている。"
+  },
+  {
+    "key": "63-content",
+    "original": "넬리의 말대로 장대비가 한바탕 쏟아지고 나면, 그가 내 속을 더 이상 썩이지 않고 집으로 다시 돌아올까?",
+    "context": "EN :\nWill he cease to pain my heart and return home once the rain passes? Like Nelly said?\nJP :\nネリーの言う通り大雨が降りしきれば、彼はこれ以上私の心を痛めずに家に帰ってきてくれるのかな？"
+  },
+  {
+    "key": "64-content",
+    "original": "X월 X일",
+    "context": "EN :\nXX/XX\nJP :\nX月X日"
+  },
+  {
+    "key": "65-content",
+    "original": "그래, 돌아오지 마.",
+    "context": "EN :\nFine. Don't come back.\nJP :\nもういい、帰ってこないで。"
+  },
+  {
+    "key": "66-content",
+    "original": "나도 널 더 이상 보고 싶지 않아.",
+    "context": "EN :\nI don't want to see your face ever again, either.\nJP :\n私もこれ以上、あなたの顔なんか見たくない。"
+  },
+  {
+    "key": "67-content",
+    "original": "X월 X일",
+    "context": "EN :\nXX/XX\nJP :\nX月X日"
+  },
+  {
+    "key": "68-content",
+    "original": "너에게는 이 저택과 나뿐이잖아.",
+    "context": "EN :\nThis manor and me... we're all you have. You don't have anything else.\nJP :\nあなたにはこの邸宅と私しかないじゃない。"
+  },
+  {
+    "key": "69-content",
+    "original": "아니면 너의 전부를 기어코 버리겠다는 거니?",
+    "context": "EN :\nWill you truly abandon what is everything to you?\nJP :\nあるいは、もはやあなたの全部を捨てるつもり？"
+  },
+  {
+    "key": "71-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "71-content",
+    "original": "어우, 이거 우리가 계속 봐도 될 만한 내용인가?",
+    "context": "EN :\nBoy, this all feels extremely private. Should we...?\nJP :\nおぅ、これって俺たちがこのまま見続けて良い内容か？"
+  },
+  {
+    "key": "72-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "72-content",
+    "original": "히스클리프 씨가 따로 읽어보시는 게…",
+    "context": "EN :\nWhy don't we leave Heathcliff alone so he can...\nJP :\nヒースクリフさん一人で読んだ方が…。"
+  },
+  {
+    "key": "73-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "73-content",
+    "original": "…아니. 좀 묘한게 나온 것 같은데.",
+    "context": "EN :\n... No. This entry seems... off.\nJP :\n…いや、ちょっと変なのがあるぞ。"
+  },
+  {
+    "key": "74-content",
+    "original": "X월 X일",
+    "context": "EN :\nXX/XX\nJP :\nX月X日"
+  },
+  {
+    "key": "75-content",
+    "original": "오랜만에 저택에 손님이 찾아왔어.",
+    "context": "EN :\nA guest paid me a visit. The first in a long time.\nJP :\n久しぶりに邸宅へお客様が訪ねてきた。"
+  },
+  {
+    "key": "76-content",
+    "original": "새로운 자와 이야기를 해보니까 정신이 맑아졌지 뭐야.",
+    "context": "EN :\nConversing with someone new... really cleared my head.\nJP :\n新しい人と話をしてたら、どうしてか頭がすっきりしたの。"
+  },
+  {
+    "key": "78-content",
+    "original": "그리고 문득 눈앞의 거울에 비친 내 모습을 봤어.",
+    "context": "EN :\nAnd I saw my shape in the mirror before me.\nJP :\nそしてふと、目の前の鏡に映った自分の姿を見た。"
+  },
+  {
+    "key": "79-content",
+    "original": "이제야 내가 무엇을 해야 할지 알 것 같아.",
+    "context": "EN :\nI know what to do now.\nJP :\n今や、私が何をしなきゃならないのか分かった気がする。"
+  },
+  {
+    "key": "80-content",
+    "original": "지하실.",
+    "context": "EN :\nThe basement.\nJP :\n地下室。"
+  },
+  {
+    "key": "81-content",
+    "original": "우리는… 그곳으로 내려가야 해.",
+    "context": "EN :\nWe... must descend there.\nJP :\n私たちは…そこへ降りていかないと。"
+  },
+  {
+    "key": "82-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "82-content",
+    "original": "‘우리?’ 가… 누굴까요.",
+    "context": "EN :\nWho do you think this 'we' is?\nJP :\n「私たち」？って…誰のことなんでしょうか。"
+  },
+  {
+    "key": "83-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "83-content",
+    "original": "지하실… 지하실…",
+    "context": "EN :\nThe basement... the basement...?\nJP :\n地下室…地下室…。"
+  },
+  {
+    "key": "84-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "84-content",
+    "original": "넬리… 분명 내 기억으로는…",
+    "context": "EN :\nFrom what I remember, Nelly...\nJP :\nネリー…確かオレの記憶通りなら…。"
+  },
+  {
+    "key": "85-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "85-content",
+    "original": "맞아, 히스클리프.",
+    "context": "EN :\nI agree, Heathcliff.\nJP :\nそうだね、ヒースクリフ。"
+  },
+  {
+    "key": "86-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "86-content",
+    "original": "여러분, 다음 장소는 지하실로 가야 할 것 같아요.",
+    "context": "EN :\nEveryone, it appears that our next destination lies at the basement of this manor.\nJP :\n皆さん、次は地下室へ向かう必要がありそうです。"
+  },
+  {
+    "key": "87-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "87-content",
+    "original": "왜 그렇게 추론하는 거지?",
+    "context": "EN :\nWhat makes you say that?\nJP :\nどうしてそう推論したんだ？"
+  },
+  {
+    "key": "88-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "88-content",
+    "original": "이 저택은 오래전 돌아가신 마님의 명령으로 지하실을 막아 놓았었어요.",
+    "context": "EN :\nThe old Mistress, who passed many years ago, ordered us to seal the entrance to the basement.\nJP :\nこの邸宅は、ずっと前に亡くなった奥様の命令で\n地下室を塞いでいました。"
+  },
+  {
+    "key": "89-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "89-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "90-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "90-content",
+    "original": "즉, 저택의 개조와 함께 뚫어버린 공간이라는 거죠.",
+    "context": "EN :\nWhich means that the basement was unsealed when the modifications were made to the manor.\nJP :\nつまり、邸宅の改造と共に\n開放されてしまった空間だということです。"
+  },
+  {
+    "key": "91-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "91-content",
+    "original": "왜… 지하실로…",
+    "context": "EN :\nBut why... why the basement...?\nJP :\nどうして…地下室へ…。"
+  },
+  {
+    "key": "92-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "92-content",
+    "original": "캐시는 어두운 걸 싫어했어. 항상 방에는 랜턴을 여러 개 두고 싶어 할 정도로.",
+    "context": "EN :\nCathy hated the dark. Enough to keep her room always lit with several lanterns.\nJP :\nキャシーは暗いのが嫌いだったんだ。\nいつも部屋にランタンを何個も置きたがるほどにな。"
+  },
+  {
+    "key": "93-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "93-content",
+    "original": "덕분에 매일 장을 보러 갈 때마다 랜턴들을 한가득 사놓아야 했죠.",
+    "context": "EN :\nIndeed. I recall having to purchase an entire set of lanterns whenever I left the manor to procure the groceries.\nJP :\nおかげで、毎日買い物に行くたびに\nランタンを沢山買っておかなければならなかったんですよね。"
+  },
+  {
+    "key": "94-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "94-content",
+    "original": "확실히 수상하긴 하군.",
+    "context": "EN :\nThat is certainly suspicious.\nJP :\n確かに怪しくはあるな。"
+  },
+  {
+    "key": "95-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "95-content",
+    "original": "지하실 위치, 예상가는 곳이 있어? 넬리 씨?",
+    "context": "EN :\nGot any idea as to where we might find the basement, Nelly?\nJP :\n地下室の位置、どこか見当はついてるか？ネリーさん？"
+  },
+  {
+    "key": "96-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "96-content",
+    "original": "뭐~ 집집마다 거기서 거기죠. 부엌부터 한 번 가봅시다.",
+    "context": "EN :\nWell~ It's usually by the kitchen, isn't it? Let us investigate that place first, shall we?\nJP :\nまあ～家によって違いますからね。\n台所から行ってみましょう。"
+  }
+]

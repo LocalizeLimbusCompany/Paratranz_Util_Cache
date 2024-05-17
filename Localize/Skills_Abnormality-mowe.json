@@ -1,0 +1,177 @@
+[
+  {
+    "key": "835001-levelList$[0].name",
+    "original": "조아려라",
+    "context": "EN :\nGrovel Before Me\nJP :\n跪け"
+  },
+  {
+    "key": "835001-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 4 이상이면, 합 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 4+ [Laceration], Clash Power +1\nJP :\n[WhenUse] 対象の[Laceration]が4以上なら、マッチ威力 +1"
+  },
+  {
+    "key": "835001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]4を付与"
+  },
+  {
+    "key": "835002-levelList$[0].name",
+    "original": "하찮은 것",
+    "context": "EN :\nPathetic One\nJP :\n取るに足らぬモノが"
+  },
+  {
+    "key": "835002-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 4 이상이면, 합 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 4+ [Laceration], Clash Power +1\nJP :\n[WhenUse] 対象の[Laceration]が4以上なら、マッチ威力 +1"
+  },
+  {
+    "key": "835002-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "835003-levelList$[0].name",
+    "original": "저리 가... 저리 가...!",
+    "context": "EN :\nGo... Go Away...!\nJP :\nあっち行け…あっちいけ…！"
+  },
+  {
+    "key": "835003-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 4 이상이면, 합 위력 +1\n[WhenUse] 대상의 [Laceration] 횟수당, 피해량 +5% (최대 20%)",
+    "context": "EN :\n[WhenUse] If the target has 4+ [Laceration], Clash Power +1\n[WhenUse] Deal +5% more damage for every [Laceration] Count on the target (max 20%)\nJP :\n[WhenUse] 対象の[Laceration]が4以上なら、マッチ威力 +1\n[WhenUse] 対象の[Laceration]回数1につき、ダメージ量 +5%(最大20%)"
+  },
+  {
+    "key": "835003-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 8 부여. [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 8 [Laceration] and +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]8を付与、[Laceration]回数が2増加"
+  },
+  {
+    "key": "835004-levelList$[0].name",
+    "original": "퍼레이드의 왕자",
+    "context": "EN :\nThe Parade's Prince\nJP :\nパレードの王子"
+  },
+  {
+    "key": "835004-levelList$[0].desc",
+    "original": "[StartBattle] [Laceration]을 가진 대상만큼 가중치 증가 (최대 5)\n[WhenUse] 대상의 [Laceration]이 4 이상이면, 기본 위력 +1\n[WhenUse] 대상의 [Laceration] 횟수가 3 이상이면, 코인 위력 +1\n[DefeatDuel] [KeptBlood] 1 감소",
+    "context": "EN :\n[StartBattle] Gain Atk Weight equal to the number of targets with [Laceration] (max 5)\n[WhenUse] If the target has 4+ [Laceration], Base Power +1\n[WhenUse] If the target has 3+ [Laceration], Coin Power +1\n[DefeatDuel] Lose 1 [KeptBlood]\nJP :\n[StartBattle] [Laceration]を持つ対象だけ攻撃加重値が増加(最大5)\n[WhenUse] 対象の[Laceration]が4以上なら、基本威力 +1\n[WhenUse] 対象の[Laceration]回数が3以上なら、コイン威力 +1\n[DefeatDuel] [KeptBlood]が1減少"
+  },
+  {
+    "key": "835004-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "835004-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "835004-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]4を付与"
+  },
+  {
+    "key": "835004-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]4を付与"
+  },
+  {
+    "key": "835005-levelList$[0].name",
+    "original": "피... 피... 피...!",
+    "context": "EN :\nBlood... Blood... Blood...!\nJP :\n血…血…血…！"
+  },
+  {
+    "key": "835005-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 8 이상이면, 코인 위력 +1\n[DefeatDuel] [KeptBlood] 1 감소",
+    "context": "EN :\n[WhenUse] If the target has 8+ [Laceration], Coin Power +1\n[DefeatDuel] Lose 1 [KeptBlood]\nJP :\n[WhenUse] 対象の[Laceration]が8以上なら、コイン威力 +1\n[DefeatDuel] [KeptBlood]が1減少"
+  },
+  {
+    "key": "835005-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 5 부여, [Laceration] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Laceration] and +3 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]5を付与、[Laceration]回数が3増加"
+  },
+  {
+    "key": "835005-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 10 이상이면, 다음 코인 피해량 +20%",
+    "context": "EN :\n[OnSucceedAttack] If the target has 10+ [Laceration], the next Coin deals +20% more damage\nJP :\n[OnSucceedAttack] 対象の[Laceration]が10以上なら、次のコインダメージ量 +20%"
+  },
+  {
+    "key": "835005-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [KeptBlood] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [KeptBlood]\nJP :\n[OnSucceedAttack] [KeptBlood]1を得る"
+  },
+  {
+    "key": "835005-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Binding] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Binding]1を付与"
+  },
+  {
+    "key": "835006-levelList$[0].name",
+    "original": "날 내버려둬...!",
+    "context": "EN :\nLeave Me Alone...!\nJP :\n放っておいてくれ…！"
+  },
+  {
+    "key": "835006-levelList$[0].desc",
+    "original": "[WhenUseEvade] 대상의 [Laceration] 횟수당 기본 위력 +1 (최대 4)",
+    "context": "EN :\n[WhenUseEvade] Base Power +1 for every [Laceration] Count on the target (max 4)\nJP :\n[WhenUseEvade] 対象の[Laceration]回数1につき、基本威力 +1 (最大4)"
+  },
+  {
+    "key": "835007-levelList$[0].name",
+    "original": "나는... 이 행진의... 왕자이다...!",
+    "context": "EN :\nI Am... The Prince... of the Parade...!\nJP :\n我は…この行進の…王子である…！"
+  },
+  {
+    "key": "835007-levelList$[0].desc",
+    "original": "[CantDuel]\n[WhenUse] 경혈[TabExplain]식 글레이브의 회복 효과가 2배로 적용됨\n[WhenUse] 정신력이 0이 됨\n[EndSkill] [KeptBlood] 10 얻음\n이번 턴동안 흐트러짐 상태가 되지 않고 이 스킬 사용 후 턴 종료함.",
+    "context": "EN :\n[CantDuel]\n[WhenUse] Double the amount healed by Hardblood[TabExplain] Glaive\n[WhenUse] Reset SP to 0\n[EndSkill] Gain 10 [KeptBlood]\nDoes not get Staggered this turn; ends turn after using this Skill.\nJP :\n[CantDuel]\n[WhenUse] 硬血[TabExplain]式グレイブの回復効果が2倍になる\n[WhenUse] 精神力が0になる\n[EndSkill] [KeptBlood]を10得る\nこのターンの間、混乱状態にならない。このスキルを使用後にターンを終了する。"
+  },
+  {
+    "key": "835007-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration] and +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が1増加"
+  },
+  {
+    "key": "835007-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration] and +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が1増加"
+  },
+  {
+    "key": "835007-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration] and +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が1増加"
+  },
+  {
+    "key": "835007-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration] and +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が1増加"
+  },
+  {
+    "key": "835008-levelList$[0].name",
+    "original": "절대... 돌아가지 않아...!",
+    "context": "EN :\nI'm... Never... Going Back...!\nJP :\n絶対に…戻らぬぞ…！"
+  },
+  {
+    "key": "835008-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Laceration]이 5당, 합 위력 +1 (최대 3)\n[WhenUse] 대상의 [Laceration] 횟수 4 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Laceration] 횟수당, 피해량 +5% (최대 20%)\n[WhenUse] 경혈[TabExplain]식 글레이브의 회복 효과가 2배로 적용됨\n[EndSkill] [KeptBlood] 10 얻음",
+    "context": "EN :\n[WhenUse] Clash Power +1 for every 5 [Laceration] on target (max 3)\n[WhenUse] If the target has 4+ [Laceration], Coin Power +1\n[WhenUse] Deal +5% more damage for every [Laceration] on target (max 20%)\n[WhenUse] Double the amount healed by Hardblood[TabExplain] Glaive\n[EndSkill] Gain 10 [KeptBlood]\nJP :\n[WhenUse] 対象の[Laceration]が5につき、マッチ威力 +1(最大3)\n[WhenUse] 対象の[Laceration]回数が4以上なら、コイン威力 +1\n[WhenUse] 対象の[Laceration]回数1につき、ダメージ量 +5%(最大20%)\n[WhenUse] 硬血[TabExplain]式グレイブの回復効果が2倍になる\n[EndSkill] [KeptBlood]を10得る"
+  },
+  {
+    "key": "835008-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration] and +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]3を付与、[Laceration]回数が1増加"
+  },
+  {
+    "key": "835008-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration] and +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]3を付与、[Laceration]回数が1増加"
+  },
+  {
+    "key": "835008-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration] and +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]3を付与、[Laceration]回数が1増加"
+  },
+  {
+    "key": "835008-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration] and +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]3を付与、[Laceration]回数が1増加"
+  }
+]

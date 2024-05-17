@@ -1,0 +1,272 @@
+[
+  {
+    "key": "816101-name",
+    "original": "죄악 내성",
+    "context": "EN :\nSin Nullification\nJP :\n罪悪耐性"
+  },
+  {
+    "key": "816101-desc",
+    "original": "흐트러짐 상태, 부위 파괴 상태가 아니라면 자신이 받는 [Combustion] 피해 80% 감소.",
+    "context": "EN :\nUnless this unit is Staggered or Part Broken, take 80% less [Combustion] damage.\nJP :\n混乱状態、部位破壊状態でなければ自分が受ける[Combustion]ダメージが80％減少。"
+  },
+  {
+    "key": "816102-name",
+    "original": "화염 전이",
+    "context": "EN :\nProliferating Flame\nJP :\n火炎転移"
+  },
+  {
+    "key": "816102-desc",
+    "original": "대상에게 [Combustion]이 있을 때, 적중시 대상의 [Combustion] 절반만큼 [Combustion]을 조작 패널 양옆 인격에게 부여함.",
+    "context": "EN :\nIf the target has [Combustion]: On Hit, spread half of [Combustion] on target to 2 units adjacent to the target on the Dashboard.\nJP :\n対象に[Combustion]があるとき、的中時に対象の[Combustion]半分だけ[Combustion]を操作パネル両隣の人格へ付与。"
+  },
+  {
+    "key": "816601-name",
+    "original": "뒤엉킨 사냥",
+    "context": "EN :\nChaotic Hunt\nJP :\n絡まった狩り"
+  },
+  {
+    "key": "816601-desc",
+    "original": "합 승리시, 다음 합에서 합 위력 -1 (최대 2)\n합 패배시, 다음 합에서 합 위력 +1 (최대 2)",
+    "context": "EN :\nClash Win: Clash Power -1 for the next Clash (max 2)\nClash Lose: Clash Power +1 for the next Clash (max 2)\nJP :\nマッチ勝利時、次のマッチにてマッチ威力 -1(最大2)\nマッチ敗北時、次のマッチにてマッチ威力 +1(最大2)"
+  },
+  {
+    "key": "816602-name",
+    "original": "포기한 인간성",
+    "context": "EN :\nHumanity Abandoned\nJP :\n放棄した人間性"
+  },
+  {
+    "key": "816602-desc",
+    "original": "턴 시작시, [AttackDmgUp] 2 얻음.",
+    "context": "EN :\nTurn Start: gain 2 [AttackDmgUp].\nJP :\nターン開始時、[AttackDmgUp]2を得る。"
+  },
+  {
+    "key": "816603-name",
+    "original": "자루",
+    "context": "EN :\nSack\nJP :\n袋"
+  },
+  {
+    "key": "816603-desc",
+    "original": "- 사슬이 있는 동안에는 모든 부위가 [Enhancement]를 1, [AttackDmgUp]를 2 얻음\n- 사슬이 파괴시 이번 스테이지동안 턴 종료시 다음 턴에 [Binding]을 2 얻고 물리 내성이 0.7 증가함",
+    "context": "EN :\n- When this unit has the Chain, all Parts gain 1 [Enhancement] and 2 [AttackDmgUp]\n- When the Chain is broken, starting next turn, gain 2 [Binding] and +0.7 to all physical resistances until the end of this Encounter\nJP :\n- 鎖がある間は、全部位が[Enhancement]を1, [AttackDmgUp]を2得る\n- 鎖破壊時、今回のステージの間はターン終了時、次のターンにて[Binding]を2得て物理耐性が0.7増加する"
+  },
+  {
+    "key": "816604-name",
+    "original": "르쌍티망",
+    "context": "EN :\nRessentiment\nJP :\nルサンチマン"
+  },
+  {
+    "key": "816604-desc",
+    "original": "자신의 체력이 35%이하일 때, 대상이 자신보다 현재 체력 비율이 높으면 합 위력 +2",
+    "context": "EN :\nWhen this unit has 35% or less HP: If the target has a higher HP percentage than this unit, Clash Power +2\nJP :\n自分の体力が35％以下のとき、対象が自分より現体力の比率が高ければマッチ威力 +2"
+  },
+  {
+    "key": "816605-name",
+    "original": "악에 받친",
+    "context": "EN :\nSpite-driven\nJP :\n頭にくる"
+  },
+  {
+    "key": "816605-desc",
+    "original": "자신의 현재 체력 비율이 30%이하가 되었다면\n- 타격 스킬의 피해량 +20%\n- 턴이 지남에 따라 [Enhancement] 1, [Vulnerable] 2씩 추가로 얻음. (최대 3회)",
+    "context": "EN :\nIf this Unit's current HP percentage is 30% or less:\n- Blunt Skills Deal +20% more damage\n- Gain 1 [Enhancement] and 2 [Vulnerable] with every turn that passes. (3 times max)\nJP :\n自分の現体力の比率が30%以下になると\n- 打撃スキルダメージ量 +20%\n- ターンが経過するにつれ[Enhancement]1, [Vulnerable]を2ずつ追加で得る。(最大3回)"
+  },
+  {
+    "key": "816606-name",
+    "original": "지옥의 사냥개",
+    "context": "EN :\nInfernal Hound\nJP :\n地獄の猟犬"
+  },
+  {
+    "key": "816606-desc",
+    "original": "사슬 파괴시, 무작위 적에게 [AaCfPcBg] 부여.\n다음 턴부터 [AaCfPcBg]을 지닌 인격 우선 공격함.",
+    "context": "EN :\nWhen the Chain is broken, inflict [AaCfPcBg] to a random enemy.\nStarting next turn, prioritize target with [AaCfPcBg].\nJP :\n鎖破壊時、ランダムな敵へ[AaCfPcBg]を付与。\n次のターンから[AaCfPcBg]を持つ人格を優先して攻撃。"
+  },
+  {
+    "key": "817101-name",
+    "original": "우위",
+    "context": "EN :\nSuperiority\nJP :\n優位"
+  },
+  {
+    "key": "817101-desc",
+    "original": "합 승리시 대상보다 속도가 빠르다면, 정신력 3 회복",
+    "context": "EN :\nClash Win: If this unit's Speed is faster than the target's, heal 3 SP\nJP :\nマッチ勝利時、対象よりも速度が高ければ精神力が3回復"
+  },
+  {
+    "key": "817102-name",
+    "original": "불속지객",
+    "context": "EN :\nThe Uninvited\nJP :\n招かざる客"
+  },
+  {
+    "key": "817102-desc",
+    "original": "흐트러짐 상태의 적이 있다면, 공격 스킬로 대상을 우선 지정함.\n흐트러짐 상태의 적 적중시, 피해량 +20%",
+    "context": "EN :\nIf there are Staggered enemies, this unit prioritizes Staggered targets with its Attack Skills\nDeal +20% more damage to Staggered enemies On Hit\nJP :\n混乱状態の敵がいるなら、攻撃スキルで対象を優先的に指定する。\n混乱状態の敵へ的中時、ダメージ量 +20％"
+  },
+  {
+    "key": "817103-name",
+    "original": "응접도 제 9식 결박",
+    "context": "EN :\nReceiving Arts 9: Binding\nJP :\n応接道第九式 結縛"
+  },
+  {
+    "key": "817103-desc",
+    "original": "패턴이 변경되고부터 전투 종료시 다음 턴에 [AaCfPcBc]이 없는 무작위 인격 한명에게 다음 턴에 [AaCfPcBc] 부여",
+    "context": "EN :\nAfter this unit gains a new pattern, and after Combat End, inflict [AaCfPcBc] to a random Identity without [AaCfPcBc] next turn\nJP :\nパターンが変更されてから戦闘終了時、次のターンに[AaCfPcBc]がないランダムな人格1名へ、次のターンにて[AaCfPcBc]付与"
+  },
+  {
+    "key": "817104-name",
+    "original": "포박 해제",
+    "context": "EN :\nRelease From Binds\nJP :\n捕縛解除"
+  },
+  {
+    "key": "817104-desc",
+    "original": "흐트러짐 상태가 되면, 수치가 2 이하인 모든 [AaCfPcBc] 제거",
+    "context": "EN :\nAll [AaCfPcBc] less than or equal to 2 expires when this unit is Staggered\nJP :\n混乱状態になると、数値が2以下の全[AaCfPcBc]が除去"
+  },
+  {
+    "key": "817201-name",
+    "original": "번지는 감정",
+    "context": "EN :\nSpreading Emotions\nJP :\n滲む感情"
+  },
+  {
+    "key": "817201-desc",
+    "original": "자신과 동일한 속성의 폭발하는 감정 효과를 가진 아군이 사망하면, 자신의 폭발하는 감정 효과가 제거되며, 나머지 아군을 모두 사망시키고, 다음 턴에 [AaCfPbBd]을 얻음.\n해당 속성의 폭발하는 감정 효과, 해당 속성의 보호가 모든 수감자에게 부여됨.",
+    "context": "EN :\nWhen an ally with the same Affinity to this unit's Explosive Emotions effect is defeated: lose Explosive Emotions effect on self, kill all other allies, and gain [AaCfPbBd] next turn.\nAll Sinners gain the effects of the corresponding Explosive Emotions effect, and protection against the corresponding Affinity.\nJP :\n自分と同じ属性の爆発する感情効果を持つ味方が死亡すると、自分の爆発する感情効果が除去され、残りの味方を全員死亡させて次のターンに[AaCfPbBd]を得る。\n該当属性の爆発する感情効果、該当属性の保護が全囚人へ付与される。"
+  },
+  {
+    "key": "817202-name",
+    "original": "맺힌 원한",
+    "context": "EN :\nAmalgamated Resentment\nJP :\n燻った恨み"
+  },
+  {
+    "key": "817202-desc",
+    "original": "폭발하는 감정 효과가 있는 동안 모든 스킬의 속성이 해당 속성으로 변경됨.\n폭발하는 감정 효과가 제거된 후에도 해당 페이즈동안 변경된 스킬 속성이 유지됨.",
+    "context": "EN :\nWhen this unit has an Explosive Emotions effect, all Skill Affinities are replaced with the corresponding Affinity.\nEven after the Explosive Emotions effect expires, the changed Skill Affinities remain changed for the rest of the Phase.\nJP :\n爆発する感情効果を持っている間、全スキルの属性が該当属性へ変更。\n爆発する感情効果が除去された後も、該当フェーズの間は変更されたスキル属性が維持される。"
+  },
+  {
+    "key": "817203-name",
+    "original": "끝나지 않은 복수",
+    "context": "EN :\nContinuing Revenge\nJP :\n終わらない復讐"
+  },
+  {
+    "key": "817203-desc",
+    "original": "체력이 최대 체력의 75%, 35%가 될 때마다 패턴이 변경됨.\n패턴 변경 시 자신에게 부여된 부정적인 효과의 위력, 횟수를 절반으로 감소",
+    "context": "EN :\nGains a new pattern at 75% and 35% of max HP.\nWhen this unit gains a new pattern, halve the Potency and Count of every negative effect on self\nJP :\n体力が最大値の75％, 35％になるたびにパターンが変更。\nパターン変更時、自分に付与されたマイナス効果の威力・回数を半減させる"
+  },
+  {
+    "key": "9101602-name",
+    "original": "적의",
+    "context": "EN :\nAntagonism\nJP :\n敵意"
+  },
+  {
+    "key": "9101602-desc",
+    "original": "대상이 자신보다 현재 체력이 높으면 합 위력 +2, 피해량 +20%",
+    "context": "EN :\nIf the target's current HP is higher than this unit's, Clash Power +2 and deal +20% more damage\nJP :\n対象が自分より現体力が高ければマッチ威力 +2, ダメージ量 +20％"
+  },
+  {
+    "key": "9101603-name",
+    "original": "기다린 순간",
+    "context": "EN :\nLong-awaited Moment\nJP :\n待ち望んだ瞬間"
+  },
+  {
+    "key": "9101603-desc",
+    "original": "합 승리 시 자신의 정신력 5 회복\n히스클리프에게 합 패배 시 정신력 감소 10, 다음 턴에 [Binding] 2를 얻음. (턴 당 1회)\n한 턴 동안 히스클리프에게 공격을 적중하지 못했으면, 턴 종료 시 정신력 감소 5",
+    "context": "EN :\nClash Win: Heal 5 SP on self\nClash Lose against Heathcliff: Lose 5 SP and gain 2 [Binding] next turn. (Once per turn)\nIf this unit did not land a single hit against Heathcliff this turn, lose 5 SP at Turn End\nJP :\nマッチ勝利時、自分の精神力を5回復\nヒースクリフにマッチ敗北時に精神力減少10、次のターンに[Binding]2を得る。(1ターンにつき1回)\n1ターンの間ヒースクリフに攻撃を的中できなかった場合、ターン終了時に精神力減少5"
+  },
+  {
+    "key": "9101606-name",
+    "original": "오기",
+    "context": "EN :\nVying Spirit\nJP :\n傲気"
+  },
+  {
+    "key": "9101606-desc",
+    "original": "자신의 체력이 낮아질수록 방어 레벨 증가\n(자신의 잃은 체력 10% 당 방어 레벨 +1. 소수점 버림)",
+    "context": "EN :\nThe lower this unit's HP gets, the higher this unit's Defense Level gets\nDefense Level +1 for every 10% missing HP on self (rounded down)\nJP :\n自分の体力が低くなるほど、防御レベルが増加\n(自分の失った体力10％につき、防御レベル +1, 小数点切り捨て)"
+  },
+  {
+    "key": "821601-name",
+    "original": "파탄의 와일드헌트",
+    "context": "EN :\nWild Hunt of Desolation\nJP :\n破綻のワイルドハント"
+  },
+  {
+    "key": "821601-desc",
+    "original": "체력이 1이 되면, 사망하지 않고 체력이 1로 유지된다.",
+    "context": "EN :\nCannot be defeated at 0 HP. HP does not drop below 1.\nJP :\n体力が1になると死亡せず、体力が1に維持される。"
+  },
+  {
+    "key": "817401-name",
+    "original": "또 다른 인격",
+    "context": "EN :\nA Distant Identity\nJP :\n別の人格"
+  },
+  {
+    "key": "817401-desc",
+    "original": "턴 종료 시 양손의 체력이 1이 되면, 행동 불가 상태가 된다.",
+    "context": "EN :\nTurn End: If both Hands are at 1 HP, become Immobilized.\nJP :\nターン終了時、両手の体力が1になると行動不能状態になる。"
+  },
+  {
+    "key": "817402-name",
+    "original": "싸늘한 몸",
+    "context": "EN :\nCold Body\nJP :\n冷たい身体"
+  },
+  {
+    "key": "817402-desc",
+    "original": "체력이 1 미만으로 감소하지 않는다.",
+    "context": "EN :\nHP does not drop below 1.\nJP :\n体力が1未満に下がらない。"
+  },
+  {
+    "key": "817403-name",
+    "original": "흔들리는 자아",
+    "context": "EN :\nA Shaky Ego\nJP :\n揺れる自我"
+  },
+  {
+    "key": "817403-desc",
+    "original": "턴 종료 시 양손의 체력이 1이 되면, 다음 턴에 보호막을 얻는다.\n보호막을 전부 제거하면, 행동 불가 상태가 된다.",
+    "context": "EN :\nTurn End: If both Hands are at 1 HP, gain Shield next turn.\nOnce the Shield is fully depleted, become Immobilized.\nJP :\nターン終了時、両手の体力が1になると次のターンにバリアを得る。\nバリアを全て除去すると、行動不能状態になる。"
+  },
+  {
+    "key": "819201-name",
+    "original": "불행을 끊는 손",
+    "context": "EN :\nMisery-severing Hand\nJP :\n不幸を断ち切る手"
+  },
+  {
+    "key": "819201-desc",
+    "original": "체력이 1이 된 턴의 다음 턴 종료 시 다른 손의 체력이 2 이상이면, 해당 손의 현재 체력의 50%만큼 자신의 체력을 회복한다. (소수점 버림)",
+    "context": "EN :\nIf the other Hand is at 2+ HP at the next Turn End after the turn in which this Hand reaches 1 HP, this unit heals HP equal to 50% of the other Hand's HP. (rounded down)\nJP :\n体力が1になったターンの次のターンが終了時、他の手の体力が2以上なら、その手の残体力の50％だけ自分の体力を回復する。(小数点切り捨て)"
+  },
+  {
+    "key": "821401-name",
+    "original": "깊은 상실",
+    "context": "EN :\nDeep Bereavement\nJP :\n深い喪失"
+  },
+  {
+    "key": "821401-desc",
+    "original": "체력이 1인 동안 흐트러짐 상태가 되고, 체력이 1 미만으로 감소하지 않는다.",
+    "context": "EN :\nBecome Staggered as long as this unit's HP is at 1. The HP does not drop below 1.\nJP :\n体力が1の間は混乱状態になり、体力が1未満に減少しない。"
+  },
+  {
+    "key": "817404-name",
+    "original": "찢긴 마음",
+    "context": "EN :\nBroken Heart\nJP :\n引き裂かれた心"
+  },
+  {
+    "key": "817404-desc",
+    "original": "턴 시작 시 체력이 2 이상인 손이 있으면, [Protection] 10을 얻고, 모든 내성이 0.2로 변경된다.\n턴 시작 시 양손의 체력이 1이면, [Protection]가 해제되고, 내성이 원래 값으로 돌아온다.",
+    "context": "EN :\nTurn Start: If there is a Hand with 2+ HP, gain 10 [Protection], and all Resistance values become 0.2.\nTurn Start: If both Hands are at 1 HP, [Protection] expires, and all Resistance values revert to default values.\nJP :\nターン開始時に体力が2以上の手があるなら、[Protection]10を得て全耐性が0.2に変更される。\nターン開始時に両手の体力が1なら、[Protection]が解除されて耐性が本来の値に戻る。"
+  },
+  {
+    "key": "817405-name",
+    "original": "모든 히스클리프를 위하여",
+    "context": "EN :\nFor Every Heathcliff\nJP :\n全てのヒースクリフのために"
+  },
+  {
+    "key": "817405-desc",
+    "original": "히스클리프와 합 진행 시 합 위력 -3, 히스클리프에게 가하는 피해량 -50%\n히스클리프가 사망하면 전투 패배",
+    "context": "EN :\nWhen Clashing against Heathcliff, Clash Power -3 and deal -50% less damage against Heathcliff\nWins Encounter if Heathcliff dies\nJP :\nヒースクリフとマッチ進行時にマッチ威力 -3, ヒースクリフへの与ダメージ量 -50％\nヒースクリフが死亡すると戦闘にて敗北"
+  },
+  {
+    "key": "816408-name",
+    "original": "기다린 순간",
+    "context": "EN :\nLong-awaited Moment\nJP :\n待ち望んだ瞬間"
+  },
+  {
+    "key": "816408-desc",
+    "original": "합 승리 시 자신의 정신력 5 회복\n히스클리프에게 합 패배 시 정신력 감소 10, 다음 턴에 [Binding] 2를 얻음. (턴 당 1회)\n한 턴 동안 히스클리프에게 공격을 적중하지 못했으면, 턴 종료 시 정신력 감소 5",
+    "context": "EN :\nClash Win: Heal 5 SP on self\nClash Lose against Heathcliff: Lose 5 SP and gain 2 [Binding] next turn. (Once per turn)\nIf this unit did not land a single hit against Heathcliff this turn, lose 5 SP at Turn End\nJP :\nマッチ勝利時、自分の精神力を5回復\nヒースクリフにマッチ敗北時に精神力減少10、次のターンに[Binding]2を得る。(1ターンにつき1回)\n1ターンの間ヒースクリフに攻撃を的中できなかった場合、ターン終了時に精神力減少5"
+  }
+]

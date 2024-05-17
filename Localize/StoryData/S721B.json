@@ -1,0 +1,404 @@
+[
+  {
+    "key": "0-place",
+    "original": "헌티드 블러디 메리",
+    "context": "EN :\nHaunted: Bloody Mary\nJP :\nホーンテッド・ブラッディー・メアリー"
+  },
+  {
+    "key": "0-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "0-content",
+    "original": "유령의 집은 오랜만이네요… 다시 온다면 가족과 함께일 줄 알았는데… 이렇게 혼자서…\r",
+    "context": "EN :\nIt's been so long since I visited one of these haunted mansions... The last time I was at a place like this, I thought when the next time came I'd be here with my family again. Not... all on my own like this...\nJP :\nお化け屋敷は久しぶりですね…また来るなら\n家族と一緒だと思っていたのに…こんな風に一人で…。"
+  },
+  {
+    "key": "1-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "1-content",
+    "original": "혼자라니, 섭섭한 말을… 동료들이랑 함께 온 거지~\r",
+    "context": "EN :\nAll on your own? C'mon, kiddo... You're here with your coworkers~\nJP :\n一人だなんて、寂しいこと言うじゃない…。\n仲間たちと一緒に来たんでしょ〜。"
+  },
+  {
+    "key": "2-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "2-content",
+    "original": "큼. 뭐, 식구 같은 거잖냐.",
+    "context": "EN :\nAhm. Coworkers who are... kinda like family, innit?\nJP :\nけほん。まぁ、かぞ<size=80%>く</size>…みたいなもんだろ。"
+  },
+  {
+    "key": "3-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "3-content",
+    "original": "…….\r",
+    "context": "EN :\n…….\n\nJP :\n……。"
+  },
+  {
+    "key": "4-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "4-content",
+    "original": "잡담은 거기까지. 아래에 무언가 있으니 전원 확인할 수 있도록.\r",
+    "context": "EN :\nEnough chit-chat. Everyone, direct your attention to the floor. There's something there.\nJP :\n雑談はそこまで。\n下に何かあるから、全員確認できるように。"
+  },
+  {
+    "key": "5-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "5-content",
+    "original": "…역시, 이미 몇 차례 전투가 치뤄진 흔적이 남아있군.",
+    "context": "EN :\n... Yes, there are numerous signs of battle. Just as I expected.\nJP :\n…やはり、既に何度か戦闘が行われた痕跡が残っているな。"
+  },
+  {
+    "key": "6-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "6-content",
+    "original": "썩은 내음이 허파에 들어차는 것으로 보아… 흔적이 만들어진 후, 꽤 시간이 흘렀으리라 보오.",
+    "context": "EN :\nA stench, this miasma of rot fills my lungs... it has been some time since the battle took place.\nJP :\n腐敗せる匂が肺まで染み入るを見るに…\n痕跡の作られしときより、中々時間経きと覚ゆ。"
+  },
+  {
+    "key": "7-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "7-content",
+    "original": "…이번 토벌에 참여한 해결사들로 보이는 자들은 없는 것 같구료.",
+    "context": "EN :\n... No body here appears to be a Fixer who participated in our ongoing mission.\nJP :\n…此度の討伐に交じりしフィクサーたちに見ゆる者はあるまじ。"
+  },
+  {
+    "key": "8-content",
+    "original": "…물론 피주머니가 되어 유령의 집 안을 배회하고 있을지도 모르지만, 굳이 여기서 그 가능성을 언급할 필요는 없겠지.",
+    "context": "EN :\n... Or maybe they've all been turned into Bloodbags and are shambling through the haunted mansion... but it's probably better to not share that kind of thought here.\nJP :\n…もちろん、血袋になってお化け屋敷の中をさまよっているかも\nしれないけど、あえてここでその可能性を言及する必要はないだろう。"
+  },
+  {
+    "key": "9-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "9-content",
+    "original": "<핏자국이 계속 이어지네…>\r",
+    "context": "EN :\n<There's blood everywhere...>\nJP :\n<血痕が続いているね…。>"
+  },
+  {
+    "key": "10-content",
+    "original": "치지직… 치지직…\r",
+    "context": "EN :\nTzzzt... zzzt...\nJP :\nジジジッ…ジジッ…。"
+  },
+  {
+    "key": "11-teller",
+    "original": "내레이션",
+    "context": "EN :\nNarrator\nJP :\nナレーション"
+  },
+  {
+    "key": "11-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "11-content",
+    "original": "헌티드 블러디 메리에 오신 여러분, 진심으로 환영합니다.  \r",
+    "context": "EN :\nI welcome you all with all my heart, dear guests, to Haunted: Bloody Mary.\nJP :\nホーンテッド・ブラッディー・メアリーへお越しの皆様、\n心より歓迎いたします。"
+  },
+  {
+    "key": "12-content",
+    "original": "목소리가 흘러나오는 초상화는 절반 정도가 찢겨져 있었다.\r",
+    "context": "EN :\nThe portrait from which the voice was echoing from was torn in half.\nJP :\n声が流れてきてる肖像画は、半分くらい裂けていた。"
+  },
+  {
+    "key": "13-content",
+    "original": "남겨진 부분을 보아, 이 성의 왕을 그린 초상화…라는 컨셉인가 보다.",
+    "context": "EN :\nFrom what we could deduce from the remaining part of the portrait, it was likely a depiction of the king of this castle... or at least, that was the story it tried to convey.\nJP :\n残った部分を見るに、この城の王を描いた肖像画…という\nコンセプトみたいだ。"
+  },
+  {
+    "key": "14-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "14-content",
+    "original": "…다 망가져 있네요. \r",
+    "context": "EN :\n... It's all torn up.\nJP :\n…全部壊れてますね。"
+  },
+  {
+    "key": "15-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "15-content",
+    "original": "찢어진 형태로 보아 이곳에 걸릴 때부터 의도적으로 절개했을 것으로 파악된다.\r",
+    "context": "EN :\nIt can be extrapolated from the torn patterns that it was intended to be displayed in its current, tattered, form.\nJP :\n裂けた形状からして、ここに掛けられたときから\n意図的に切開されたと把握される。"
+  },
+  {
+    "key": "16-teller",
+    "original": "내레이션",
+    "context": "EN :\nNarrator\nJP :\nナレーション"
+  },
+  {
+    "key": "16-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "16-content",
+    "original": "이곳은 지금은 몰락했지만, 한때 찬란한 번영을 이루었던 어느 왕국의 고성.",
+    "context": "EN :\nYou find yourselves in the castle of an ancient, once-prosperous kingdom that has long fallen to ruin.\nJP :\nここは今や没落したが、かつては輝かしい繁栄を誇った\nある王国の古城。"
+  },
+  {
+    "key": "17-teller",
+    "original": "내레이션",
+    "context": "EN :\nNarrator\nJP :\nナレーション"
+  },
+  {
+    "key": "17-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "17-content",
+    "original": "자. 이제 여러분은 성 곳곳을 탐험하여, 옛 왕국의 비밀을 밝혀내야 합니다. ",
+    "context": "EN :\nNow, you must explore every corner of this derelict castle to unveil the true secrets of the old kingdom.\nJP :\nさあ、これから皆さんは城のあちこちを探検して、\n古い王国の秘密を明らかにしなければなりません。"
+  },
+  {
+    "key": "18-teller",
+    "original": "내레이션",
+    "context": "EN :\nNarrator\nJP :\nナレーション"
+  },
+  {
+    "key": "18-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "18-content",
+    "original": "다소 두려울 수 있는 장치가 많으니, 심신이 미약하신 분들은 탐험을 재고하는 편이 좋을지도 모르겠군요.\r",
+    "context": "EN :\nPlease note that there are several installations with the explicit purpose of inducing fear. If you have a heart condition, or cannot handle horror very well, please reconsider partaking in this expedition.\nJP :\n多少恐ろしい仕掛けが多いので、心身の弱い方は探検を\n再考されたほうがよろしいかもしれませんね。"
+  },
+  {
+    "key": "19-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "19-content",
+    "original": "그렇다는데?\r",
+    "context": "EN :\nSo he says.\nJP :\nだってよ？"
+  },
+  {
+    "key": "20-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "20-content",
+    "original": "보, 보보보본인은 이런 것에 겁먹지 않네!\r",
+    "context": "EN :\nW-well! V-v-v-v-verily, I have no such fear in my heart! Pah!\nJP :\nと、ととと当人はこんなものに怖がりはしないぞ！"
+  },
+  {
+    "key": "21-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "21-content",
+    "original": "윽, 그렇게 세게 잡으면 아파요, 돈키호테 씨… 팔좀 놔주세요…",
+    "context": "EN :\nAagh! Don't squeeze me so tightly, Don Quixote!... Can you let go of my arm, please...?\nJP :\nうっ、そんなに強く掴まれると痛いです！\nドンキホーテさん…腕を離してください…。"
+  },
+  {
+    "key": "22-teller",
+    "original": "내레이션",
+    "context": "EN :\nNarrator\nJP :\nナレーション"
+  },
+  {
+    "key": "22-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "22-content",
+    "original": "음? 산초, 말씀하실 게 있다면 가까이서 말씀해주셔야… \r",
+    "context": "EN :\nHm? Sancho, your grace, if you have something you would like to tell me, please come closer and...\nJP :\nん？サンチョ、何かおっしゃりたいことがあるなら\n近くでおっしゃっていただ―"
+  },
+  {
+    "key": "23-teller",
+    "original": "내레이션",
+    "context": "EN :\nNarrator\nJP :\nナレーション"
+  },
+  {
+    "key": "23-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "23-content",
+    "original": "대사를 빠뜨렸다니 그게 무슨… 아, 그걸 안했군요.",
+    "context": "EN :\nI missed a line, you say? What... ah, I see.\nJP :\n台詞を飛ばしたとはどういう…。\nああ、あれをやっていませんでしたね。"
+  },
+  {
+    "key": "24-teller",
+    "original": "내레이션",
+    "context": "EN :\nNarrator\nJP :\nナレーション"
+  },
+  {
+    "key": "24-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "24-content",
+    "original": "흠흠. 차가운 공포 속에서도 용기를 잃지 않는 탐험되시길.",
+    "context": "EN :\nAhm, ahm. Let the fire of courage light your way in this adventure of cold, bone-chilling fear.\nJP :\nふむふむ。冷たい恐怖の中でも\n勇気を失わない探検となりますように。"
+  },
+  {
+    "key": "25-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "25-content",
+    "original": "여기부터 시작인가 보네요… 구조를 보면, 아마 저쪽 거울에서는 숨어있던 혈귀들이 갑자기 튀어나왔을 거고. 이 천장 접합부가 헐렁한 걸로 봐서는 아마 여기서도…",
+    "context": "EN :\nThe tour must start somewhere around here... Hm. That mirror's gotta be where the Bloodfiends used to hide to shock their guests. And look, that ceiling panel's slightly ajar. That's probably where—\nJP :\nこれで始まるみたいですね…構造を見るに、たぶんあちらの鏡からは\n隠れている血鬼たちが突然飛び出してくるでしょうし、\nこの天井の接合部が緩んでいるところを見ると、たぶんここからも―"
+  },
+  {
+    "key": "26-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "화난 혈귀",
+    "context": "EN :\nAngry Bloodfiend\nJP :\n怒った血鬼"
+  },
+  {
+    "key": "26-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "26-content",
+    "original": "키야악! 그런 식으로 다 설명하는 놈들이 제일 재미 없어! 알아?\r",
+    "context": "EN :\nKeeeeeh! I hate smartasses who can't keep their mouths shut! Stop explaining things!\nJP :\nキェエエッ！そんな風に全部説明するヤツが\n一番つまんないんだ！分かってるか？"
+  },
+  {
+    "key": "27-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "27-content",
+    "original": "흐아아아아악!!!!",
+    "context": "EN :\nHEEAAAAGH!!!!!\nJP :\nふゎぁああああぁっ！！！！"
+  },
+  {
+    "key": "28-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "28-content",
+    "original": "아이씨! 깜짝이야!\r",
+    "context": "EN :\nBloody hell!\nJP :\nうわっ！ビックリしたぁ！"
+  },
+  {
+    "key": "29-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "29-content",
+    "original": "<정말 있네…>\r",
+    "context": "EN :\n<Huh, she was right...>\nJP :\n<ホントにいたね…。>"
+  },
+  {
+    "key": "30-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "30-teller",
+    "original": "화난 혈귀",
+    "context": "EN :\nAngry Bloodfiend\nJP :\n怒った血鬼"
+  },
+  {
+    "key": "30-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "30-content",
+    "original": "헌티드 블러디 메리가 가지는 묘미는 당할 걸 알면서도 소리질러주는 저런 손님들이라고! ",
+    "context": "EN :\nDon't you understand that the real fun of Haunted: Bloody Mary is walking into a scare knowing that it's going to happen?! Why can't you just be a good guest?!\nJP :\nホーンテッド・ブラッディー・メアリーの醍醐味は、\n脅かされるって分かってながらも叫んでくれる\nああいうお客さんたちなんだぞ！"
+  },
+  {
+    "key": "31-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "31-content",
+    "original": "전 그런 상냥한 타입은 못 되어서요.\r",
+    "context": "EN :\nSorry, I'm just not that nice.\nJP :\n私はああいう優しいタイプではないので。"
+  },
+  {
+    "key": "32-model",
+    "original": "신부부하",
+    "translation": "神父的手下",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "32-teller",
+    "original": "화난 혈귀",
+    "context": "EN :\nAngry Bloodfiend\nJP :\n怒った血鬼"
+  },
+  {
+    "key": "32-title",
+    "original": "라만차랜드",
+    "context": "EN :\nLa Manchaland\nJP :\nラ・マンチャランド"
+  },
+  {
+    "key": "32-content",
+    "original": "나서지 않고 가만히 숨어있으려고 했는데 이놈 때문에 열이 받아서 안 되겠어…! \r",
+    "context": "EN :\nWe were just going to let you through, but... she's really getting on my nerves!\nJP :\n出しゃばらずにじっと隠れていようと思ったのに、\nこいつのせいで頭にきた、もう我慢ならない…！"
+  }
+]

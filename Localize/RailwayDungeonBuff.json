@@ -1,0 +1,17 @@
+[
+  {
+    "key": "HealHpMaxForSelected-content",
+    "original": "선택한 인격 체력 최대로 회복",
+    "context": "EN :\nFully heal selected Identity\nJP :\n選択人格の体力を全快"
+  },
+  {
+    "key": "HealHpPercentageForAll-content",
+    "original": "모든 인격 체력 {0}% 회복",
+    "context": "EN :\nAll Identities heal {0}% HP\nJP :\n全人格の体力{0}% 回復"
+  },
+  {
+    "key": "ResurrectForSelected-content",
+    "original": "사망한 인격 1명 최대 체력 상태로 부활",
+    "context": "EN :\nRevive an Identity with fully healed HP\nJP :\n死亡した人格1名の体力を全快で復活"
+  }
+]

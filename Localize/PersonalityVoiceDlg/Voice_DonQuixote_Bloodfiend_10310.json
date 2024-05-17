@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10310_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10310_1-dlg",
+    "original": "가족의 관리는 차질이 없을 겁니다. …당신이 내팽개친 것을 돌보는 것이 저의 몫이었을테니.",
+    "context": "EN :\nThe Family will be well-cared for.\n... After all, the onus always fell on me to provide for what you abandoned.\nJP :\n家族の管理に支障はないでしょう。…あなたが投げ出したものの面倒を見ることが私の役目だったのですから。"
+  },
+  {
+    "key": "lobby_morning_10310_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10310_1-dlg",
+    "original": "해가… 뜨는군. 곧 인간들이 잔뜩 찾아오겠지. 아무것도 모르는 얼굴로 웃으면서.\n가족들은 웃음거리가 되어 타들어가는 갈증에 목을 움켜쥐는데…",
+    "context": "EN :\nThe sun rises... Humans will be arriving soon. Abound with smiles and laughter, their ignorance buried in happiness.\nAll the while the Family is reduced to laughingstocks and forced to endure this burning thirst, clutching their parched throats...\nJP :\n太陽が…昇ってきたな。もうすぐ人間たちがわんさか訪れてくるだろう。何も知らない顔して笑いながら。\n家族たちはお笑いものとなって、燃えるような渇きに喉を絞めつけているというに…。"
+  },
+  {
+    "key": "lobby_noon_10310_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10310_1-dlg",
+    "original": "성문을 걸어 잠가보아야 또 부서져라 문을 두드리겠지. 그러면 어버이는 눈을 반짝이시며 어서 그 기사를 들이라 할 거고.\n후우… 매일 이 시간만 되면 머리부터 아파오는군.",
+    "context": "EN :\nI don't suppose locking the castle gates will do aught to deter the Knight from relentlessly knocking upon them. Father will command us to let the Knight in, with that familiar twinkle in his eyes, and...\nHaah... this hour alone has become a cause for headaches.\nJP :\n城門を閉めて鍵を掛けたとて、また壊れるほどに戸を叩いてくるだろう。そうしたら父上様は目をお輝かせになって、早くその騎士を入れろと言うだろう。\nふぅ…毎日この時間になると頭が痛くなってくるな。"
+  },
+  {
+    "key": "lobby_night_10310_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10310_1-dlg",
+    "original": "꺼질 줄 모르는 고해소의 불빛. 재단실의 미싱소리. 퍼레이드 연습실의 땅울림.\n더는 두고 볼 수 없어. 굶주린 가족들이… 어버이의 꿈에 갇혀사는 건.",
+    "context": "EN :\nThe ever-lit lights of the confessional, the ceaseless sounds of the sewing machine from the tailor's room, the tired footsteps echoing from the Parade training hall... \nI can no longer abide by this charade as the family starves, suffering and gaoled in Father's dream.\nJP :\n消えることを知らぬ告解所の明かり。裁断室のミシンの音。パレード練習室の地鳴り。\nもう見て見ぬ振りはできない。餓えた家族たちが…父上様の夢に閉じ込められて生きることは。"
+  },
+  {
+    "key": "smalltalk_10310_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10310_1-dlg",
+    "original": "어버이께서는… 누구보다 강한 힘과 강인한 정신력을 지니셨어. …그렇기에 우리를 절대 이해하실 수 없는 거다. 우리가 얼마나 피에 절실한지. 우리가 어떻게 죽어가고 있는지.",
+    "context": "EN :\nFather's strength and will are greater than those of anyone. ... That is precisely why he shall never discern the fathoms of our suffering and our yearning for blood. He will never understand how death encroaches upon us.\nJP :\n父上様は…誰よりも強い力と強靭な精神力を持ってらっしゃいました。…それゆえに私たちを絶対に理解することができぬのだ。私たちがどれほど血に餓えているか。私たちがどのように死んでいっているか。"
+  },
+  {
+    "key": "smalltalk_10310_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10310_2-dlg",
+    "original": "권속을 만들지 않은 이유… 처음에는 혼자가 편해서. 그 다음에는 책임질 것이 늘어나는 게 싫어서.\n그리고 지금은… 헛된 꿈에 취한 어버이 대신, 내 동생의 자식들을 지키는 것만으로도 벅차니까.",
+    "context": "EN :\nI did not sire my own Kindreds because... I enjoyed solitude, at first. Then, my reasoning became that I did not wish for my responsibility to be expanded beyond what there was.\nAnd now... because I already have my hands full protecting my little sister's Children while Father has absconded from his responsibilities in favor of a futile dream.\nJP :\n眷属を作らなかった理由…最初は一人が楽だったから。次に責任を負うべきものが増えるのが嫌だったから。\nそして今は…虚しい夢に酔った父上様の代わりに、私の兄弟の子供たちを守るだけでも精一杯だから。"
+  },
+  {
+    "key": "smalltalk_10310_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10310_3-dlg",
+    "original": "정의로운 해결사? 그런 건 없어. 하얀 달의 기사가 말했던 용기도, 자비도, 겸손도… 인간의 기준에 치우친 발상일 뿐.\n그들이 우리와 같은 갈망을 가졌다면, 그런 정의로움을 논할 수 있었을까?",
+    "context": "EN :\n'The righteous Fixer of justice'? It is only an illusion. Courage, clemency, and humility that the Knight of the White Moon preached of are all but concepts conjured from a human mind.\nLet us see if humans can continue to insist on such 'righteousness' were they plagued by the same yearning that ails us.\nJP :\n正義のフィクサー？そんなものなどない。白い月の騎士が言っていた勇気も、慈悲も、謙虚さも…人間の基準に偏った考え方に過ぎない。\n彼らが私たちと同じ渇望を持っていたなら、そんな正義を論じることはできたのだろうか？"
+  },
+  {
+    "key": "smalltalk_10310_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10310_4-dlg",
+    "original": "결국 당신이 꾸었던 공존이라는 허울 좋은 꿈은… 가족을 울타리 밖으로 내팽개친 무책임한 어버이로 끝을 맺는군요.\n왜 우리의 고통은 안중에도 없었던 겁니까, 왜 우리는 항상 희생을 강요당해야만 했던 겁니까!",
+    "context": "EN :\nAt the end of the road paved by your gilded dream of coexistence lies the ruin of an irresponsible Father who's cast his Children from the sanctuary of their home.\nWhere was your concern for our suffering? Why—why was the burden of sacrifice always ours?!\nJP :\n結局、あなたが見ていた共存という見かけ倒しの夢は…家族を垣根の外に放り出した無責任な父上として終わりを迎えるのですね。\nなぜ私たちの苦しみは眼中にすら無かったのですか、なぜ私たちはいつも犠牲を強いられなければならなかったのですか！"
+  },
+  {
+    "key": "smalltalk_10310_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10310_5-dlg",
+    "original": "공존이 끝났으니, 만찬을 즐길 때가 왔다. 인간을 죽여 피로 온몸을 적시고, 억눌렸던 감정을 따라라.\n그리고… 심장에 박힌 말뚝과 짓눌린 혈향 앞에 돌아와 목놓아 외치는 거다. 앞으로 우리는, 혈귀답게 살겠노라고.",
+    "context": "EN :\nCoexistence is no more; let the hour of the banquet commence. Slaughter them, kill every human you see. Bathe in their blood and break the levees of your repressed emotions.\nWe shall then return to the stake that has impaled the heart, mantled in this stench of blood... and declare with our voices bridled no more. That we shall, henceforth, live as Bloodfiends should.\nJP :\n共存は終わったがゆえに、晩餐を楽しむ時が来た。人間を殺して血で全身を濡らし、抑圧していた感情に従え。\nそして…心臓に刺さった杭と押しつぶされた血香の前へ戻り、声を張り上げて叫ぶのだ。これから私たちは、血鬼らしく生きていくのだと。"
+  },
+  {
+    "key": "neglect_10310_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10310_1-dlg",
+    "original": "…좋은 생각이 났더라도, 입 밖으로 꺼내지 마. 허황된 생각을 들어주는 건 이제 지긋지긋하니까.",
+    "context": "EN :\n... Hold your tongue; I will no longer tolerate any more ingenious ideas. I've wasted enough time entertaining those cloud-chasing ruminations.\nJP :\n…良い考えが浮かんでも、口には出すな。荒唐無稽な考えを聞いてやるのは、もううんざりだから。"
+  },
+  {
+    "key": "gacksung_10310_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10310_1-dlg",
+    "original": "그 허황되고 유치한 꿈은 즐거우셨습니까. 이제 깨어날 시간입니다. 당신이 외면하고 떠넘겼던 모든 책임을 다하기 위해서.\n…원망하십시오, 어버이시여. 우리 역시 당신을 원망할 테니.",
+    "context": "EN :\nWas it sweet, your hollow, juvenile dream? It is about time you awakened from it. Take responsibility for those you had once abandoned in the hands of others.\nResent us, O Father. For we shall resent you in return.\nJP :\nその荒唐無稽で幼稚な夢は楽しかったでしょうか。そろそろ目覚める時間です。あなたが顔を背けて押しつけた全ての責任を果たすために。\n…どうぞ恨んでください、父上様よ。私たちもまたあなたを恨みますがゆえに。"
+  },
+  {
+    "key": "formation_10310_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10310_1-dlg",
+    "original": "책임은 모두 내가 진다.",
+    "context": "EN :\nI shall bear the responsibility for everything.\nJP :\n責任は全て私が負う。"
+  },
+  {
+    "key": "battleentry_10310_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10310_1-dlg",
+    "original": "라만차랜드를 뒤엎는다.",
+    "context": "EN :\nRebellion comes to La Manchaland.\nJP :\nラ・マンチャランドを覆す。"
+  },
+  {
+    "key": "battle_select_10310_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10310_1-dlg",
+    "original": "나는… 어떤 말도 할 수 없어.",
+    "context": "EN :\nI... cannot speak a word.\nJP :\n私が…言える言葉など無い。"
+  },
+  {
+    "key": "battle_endcommand_10310_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10310_1-dlg",
+    "original": "가족을 위해…",
+    "context": "EN :\nFor the Family...\nJP :\n家族のため…。"
+  },
+  {
+    "key": "battle_enemy_break_10310_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10310_1-dlg",
+    "original": "꿰뚫리고…",
+    "context": "EN :\nFrom this impalement...\nJP :\n貫かれ…。"
+  },
+  {
+    "key": "battle_break_10310_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10310_1-dlg",
+    "original": "별 것 아닌 상처다.",
+    "context": "EN :\nThis is nothing.\nJP :\n大したこと無い傷だ。"
+  },
+  {
+    "key": "battle_kill_10310_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10310_1-dlg",
+    "original": "…쏟아내라.",
+    "context": "EN :\n... shall it cascade.\nJP :\n…ぶちまけろ。"
+  },
+  {
+    "key": "battle_dead_10310_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10310_1-dlg",
+    "original": "신부… 네가 말했던 벌이… 이것인가.",
+    "context": "EN :\nIs this... 'the retribution' you spoke of, Priest...?\nJP :\n神父…お前の言ってた罰とは…これか。"
+  },
+  {
+    "key": "choice_success_p_10310_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10310_2-dlg",
+    "original": "지금은 성공했지만, 앞으로는 어떨지.",
+    "context": "EN :\nWe triumphed for now, yet I do not know what lies in our future.\nJP :\n今は成功したが、これからどうなるか。"
+  },
+  {
+    "key": "choice_fail_n_10310_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10310_1-dlg",
+    "original": "…불가능한 것에 기대를 품었던 거다. 처음부터 안 될 일이었어.",
+    "context": "EN :\n... Your mistake was putting your faith in an impossibility. It was destined for failure.\nJP :\n…不可能なものに対して期待を抱いたのだ。最初からできないことだった。"
+  },
+  {
+    "key": "battle_clear_10310_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10310_1-dlg",
+    "original": "고작 이 정도로 만족하려고, 패륜의 죄까지 저지른 게 아냐. 더 많은 가족들이 배불리 먹기 위해… 피의 흐름이 멈춰선 안 돼. ",
+    "context": "EN :\nI did not commit the sin of filial impiety for this meager outcome. Blood must continue to flow, to sate more of my family...\nJP :\nたかがこの程度で満足するために、不孝行の罪を犯したんじゃない。より多くの家族達が腹一杯食べられるように…血の流れが止まってはいけない。"
+  },
+  {
+    "key": "battle_clear_ex_10310_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10310_1-dlg",
+    "original": "오랜 목마름도, 어버이를 향한 죄책감도… 피를 마시는 순간에는 생각나지 않을 거다. 그러니, 가릴 것 없이 마음껏 마셔. 그게 우리가 이룰 수 있는 유일한 꿈이니까.",
+    "context": "EN :\nWhen the blood wets our throats, we shall be liberated from the deep thirst and the guilt toward our Father. So drink, drink with abandon, for that is the only dream this existence has permitted us.\nJP :\n永きに渡る渇きも、父上様への罪悪感も…血を飲む瞬間には思い出せなくなるだろう。だから、遠慮せず思う存分に飲め。それが私たちの叶えられる唯一の夢なのだから。"
+  },
+  {
+    "key": "battle_defeat_10310_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10310_1-dlg",
+    "original": "…예상한 일이야. 어버이와 달리 우리는 약하니까.\n비록 지금은 이렇게 되돌아가지만, 더 많은 피가 흐른 뒤에는…",
+    "context": "EN :\nThis was to be expected, for we do not possess the strength that our Father wields.\nThus we retreat for now, but should more blood spill...\nJP :\n…予想していたことだ。父上様と違って私たちは弱いから。\nたとえ今はこう回っていても、より沢山の血が流れてからなら…。"
+  }
+]

@@ -1,0 +1,941 @@
+[
+  {
+    "key": "0-place",
+    "original": "창백한 고래 우심방",
+    "context": "EN :\nThe Pallid Whale's Right Atrium\nJP :\n蒼白な鯨 右心房"
+  },
+  {
+    "key": "0-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "0-content",
+    "original": "야, 네 머리띠…!",
+    "context": "EN :\nOi, your headband...!\nJP :\nおい、お前のカチューシャ…！"
+  },
+  {
+    "key": "1-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "1-content",
+    "original": "피가 엉망진창으로 묻어 있잖아. 이거 좀 호러인데…",
+    "context": "EN :\nIt's all mucked up with blood. Now that's a right terrifyin' look, innit...?\nJP :\n血まみれじゃねぇか。なんかスプラッタだな…。"
+  },
+  {
+    "key": "2-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "2-content",
+    "original": "물로 씻으면 금방 지워져요.",
+    "context": "EN :\nNothing a quick wash in the water can't fix.\nJP :\n水で洗えばすぐに落ちます。"
+  },
+  {
+    "key": "3-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "3-content",
+    "original": "네 머리띠. 익숙해.",
+    "context": "EN :\nYour headband. Familiar.\nJP :\nきみのカチューシャ。みなれている。"
+  },
+  {
+    "key": "4-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "4-content",
+    "original": "익숙한 매듭. 절박 매듭.",
+    "context": "EN :\nFamiliar knot. Desperate's Knot.\nJP :\nみなれたむすびめ。せっぱくむすび。"
+  },
+  {
+    "key": "5-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "5-content",
+    "original": "퀴케그, 나는… 너의 관에 매달린 줄을 붙잡고 살아남았어.",
+    "context": "EN :\nQueequeg... I survived by hanging onto the ropes you tied to your coffin.\nJP :\nクィークェグ、私は…あんたの棺の縄を掴んで生き残ったの。"
+  },
+  {
+    "key": "6-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "6-content",
+    "original": "어쩌면 네가 붙잡았을 수도 있을 그 줄을… 악착같이 붙잡고…",
+    "context": "EN :\nThe ropes that you could have held... Instead, I held onto it with my dear life...\nJP :\nもしかするあんたが掴んでいたかもしれないその縄を…\n必死に掴んで…。"
+  },
+  {
+    "key": "7-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "7-content",
+    "original": "그 줄…",
+    "context": "EN :\nThat rope...\nJP :\nあのなわ…。"
+  },
+  {
+    "key": "8-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "8-content",
+    "original": "너를 위한 줄이기도 했어.",
+    "context": "EN :\n... also for you.\nJP :\nきみのための、なわでもあった。"
+  },
+  {
+    "key": "9-place",
+    "original": "피쿼드호",
+    "context": "EN :\nThe Pequod\nJP :\nピークォド号"
+  },
+  {
+    "key": "9-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "9-content",
+    "original": "저기 안에 들어가서… 기름을 꺼내 오라고요?",
+    "context": "EN :\nYou want me to... bucket out oil from in there?\nJP :\nあの中に入って…油を取りだしてこいって？"
+  },
+  {
+    "key": "10-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "10-content",
+    "original": "그래, 생각보다 그렇게 어렵지는 않아.",
+    "context": "EN :\nYep. It's not as hard as it looks, though.\nJP :\nそうだ、そこまで難しくはないさ。"
+  },
+  {
+    "key": "11-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "11-content",
+    "original": "끔찍한 냄새를 풍기는 고래의 시체가 갈고리에 매달린 채로 흔들리고 있었다.",
+    "context": "EN :\nThe cadaver of a Whale hung from a hook and swayed from side to side. Its stench was awful.\nJP :\nおぞましい臭いを漂わせる鯨の死体が、フックにぶら下がって揺れていた。"
+  },
+  {
+    "key": "12-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "12-content",
+    "original": "몸집이 작고 민첩할수록 유리하지.",
+    "context": "EN :\nThe smaller and more nimble you are, the easier it will be.\nJP :\n小柄で敏捷なほど有利さ。"
+  },
+  {
+    "key": "13-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "13-content",
+    "original": "나는 그렇게 작진 않은데…",
+    "context": "EN :\nI'm not that small, though...\nJP :\n私はそんなに小さくもないのに…。"
+  },
+  {
+    "key": "14-model",
+    "original": "스텁",
+    "translation": "斯塔布",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStubb\nJP :\nスタッブ"
+  },
+  {
+    "key": "14-content",
+    "original": "원래 이런 일은 신참들이 하는 거야! 잔말 말고 들어가는 게 좋을 거다.",
+    "context": "EN :\nIt's a job for greenhorns anyway! Less talk, more oil-bucketing. Get on with it, will ya?\nJP :\n本来こういう仕事は新参たちがやるもんだ！\nグズグズ言わずに入った方がいいぞ。"
+  },
+  {
+    "key": "15-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "15-content",
+    "original": "고래를 잡는다고 끝나는 일이 아니었다.",
+    "context": "EN :\nA Whaler's toil does not end with killing the Whale.\nJP :\n鯨を捕まえただけじゃ終わらない。"
+  },
+  {
+    "key": "16-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "16-content",
+    "original": "그 고래에서부터 나오는 엄청난 양의 기름을 퍼 나르는 일도 고래잡이의 일 중 하나였으니까.",
+    "context": "EN :\nWhalers also had to bucket and carry the inordinate amount of oil from the dead Whale.\nJP :\nその鯨から出てくる膨大な量の油を汲み取ることも\n鯨捕りの仕事の一つだったから。"
+  },
+  {
+    "key": "17-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "17-content",
+    "original": "아니… 저 안에 뭐가 있을 줄 알고요…?",
+    "context": "EN :\nI mean... How the hell do I know what's in there...?\nJP :\nいや…あの中に何があるんですか…？"
+  },
+  {
+    "key": "18-model",
+    "original": "스텁",
+    "translation": "斯塔布",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStubb\nJP :\nスタッブ"
+  },
+  {
+    "key": "18-content",
+    "original": "답답하네, 당연히 고래기름이 있겠지. 우리를 등 따습고 배부르게 만들어 줄!",
+    "context": "EN :\nWell, whaddaya think? Whale oil! It feeds us, it keeps us warm...\nJP :\nじれってぇな、当然鯨油があんだろ。\n俺たちの背中を温めて、腹を満たしてくれる！"
+  },
+  {
+    "key": "19-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "19-content",
+    "original": "스텁이라는 선원은 이등 항해사였는데, 대개는 짜증에 가득 차 있었다.",
+    "context": "EN :\nAboard the Pequod was a man named Stubb, the second mate. He was a man of irritable disposition.\nJP :\nスタッブという船員は2等航海士だったけど、常にイライラしていた。"
+  },
+  {
+    "key": "20-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "20-content",
+    "original": "전…",
+    "context": "EN :\nI...\nJP :\n私は…。"
+  },
+  {
+    "key": "21-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "21-content",
+    "original": "못 들어가요, 이런 무저갱 속에, 고작 칼날 한 번만 스치면 끊어질 끈 하나만 믿고…",
+    "context": "EN :\nI can't. Into that abyss, on nothing but a rope that looks like it'll snap from a slight breeze? I can't...\nJP :\n入れません、こんな深淵の中へ。\nナイフ一振りで切れる縄一本だけが頼みの綱だなんて…。"
+  },
+  {
+    "key": "22-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "22-content",
+    "original": "그 말이 목 끝까지 나오려던 순간이었다.",
+    "context": "EN :\n... Those words nearly escaped my mouth, when...\nJP :\nその言葉が喉元まで上ってきた瞬間。"
+  },
+  {
+    "key": "23-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "23-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "24-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "24-content",
+    "original": "지금 뭐 하는… 거야?",
+    "context": "EN :\nWhat... are you doing?\nJP :\nいま何…してるの？"
+  },
+  {
+    "key": "25-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "25-content",
+    "original": "묶어. 네 끈을 내 허리에.",
+    "context": "EN :\nYour rope. Tie it to my waist.\nJP :\n結んで。きみの縄をあたいの腰に。"
+  },
+  {
+    "key": "26-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "26-content",
+    "original": "왜… 왜?",
+    "context": "EN :\nB-but why?\nJP :\nど…どうして？"
+  },
+  {
+    "key": "27-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "27-content",
+    "original": "이렇게 묶으면. 네가 떨어지면. 나도 떨어지게 되니까.",
+    "context": "EN :\nTethered like so. Now if you fall, I fall.\nJP :\nこう結べば。君が落ちても。あたいも落ちるから。"
+  },
+  {
+    "key": "28-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "28-content",
+    "original": "한 몸. 되도록.",
+    "context": "EN :\nYou. Me. Together.\nJP :\n一体に。なるよう。"
+  },
+  {
+    "key": "29-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "29-content",
+    "original": "나는 그 부정확하고도 많은 것이 생략 되어있는 문장에 묘하게 안심을 느꼈다.",
+    "context": "EN :\nHer sentences were stuttering and incomplete. But there was something there that oddly soothed me.\nJP :\n私はその不正確で、多くが省略されている文章に妙な安心感を覚えた。"
+  },
+  {
+    "key": "30-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "30-content",
+    "original": "한 몸이라는 건…",
+    "context": "EN :\nTogether...\nJP :\n一体というのは…。"
+  },
+  {
+    "key": "31-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "31-content",
+    "original": "내가 떨어져도 잡아줄 누군가가 있다는 것이며 동시에,",
+    "context": "EN :\nSomeone to catch me if I fell.\nJP :\n私が落ちても、掴んでくれる誰かがいるということと同時に、"
+  },
+  {
+    "key": "32-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "32-content",
+    "original": "떨어지는 내 모습을 지켜봐 주는 사람이 있다는 것이었으니까.",
+    "context": "EN :\nSomeone to watch over me if I fell.\nJP :\n落ちる私の姿を見守ってくれる人がいるということだったから。"
+  },
+  {
+    "key": "33-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "33-content",
+    "original": "그렇게 밧줄의 한쪽 끝은 퀴케그의 허리에, 한쪽 끝은 내게 묶여 있었다.",
+    "context": "EN :\nSo I tied one end of the rope to Queequeg's waist, and the other on mine.\nJP :\nそうして縄の片方はクィークェグの腰に、\nもう片方は私に結ばれていた。"
+  },
+  {
+    "key": "34-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "34-content",
+    "original": "어… 어…?",
+    "context": "EN :\nAh... Huh...?\nJP :\nえっ…え…？"
+  },
+  {
+    "key": "35-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "35-content",
+    "original": "그런데 그 생각을 한 지 얼마나 됐다고, 어이도 없지.",
+    "context": "EN :\nFunny I should mention that.\nJP :\nでもそう思ってから余り経ってないうちに、ホント馬鹿らしいけど。"
+  },
+  {
+    "key": "36-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "36-content",
+    "original": "줄은 너무 짧았고, 보란 듯이 끊어져 버려서…",
+    "context": "EN :\nThe rope was too short, too flimsy. It immediately snapped...\nJP :\n縄は短すぎて、これ見よがしに引きちぎれたせいで…。"
+  },
+  {
+    "key": "37-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "37-content",
+    "original": "나는 그 기름 구덩이의 뱃속으로 추락했다.",
+    "context": "EN :\nAnd I was sent hurtling down into the lard-filled belly of the Whale.\nJP :\n私はその油溜まりの腹の中に墜落した。"
+  },
+  {
+    "key": "38-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "38-content",
+    "original": "크학, 흐압…",
+    "context": "EN :\nKah! Gaah...\nJP :\nくはっ、うっ…。"
+  },
+  {
+    "key": "39-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "39-content",
+    "original": "온갖 내장들과 장기와 기름과 찌꺼기보다 더 견디기가 힘들었던 것은, 아무것도 보이지 않는 어둠이었다.",
+    "context": "EN :\nWhat was harder to bear than the entrails, the viscera, the oil, and various other things I didn't want to think about... was the pitch-black darkness.\nJP :\nありとあらゆる内臓と臓器、油やカスより耐え難かったのは\n何も見えない暗闇だった。"
+  },
+  {
+    "key": "40-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "40-content",
+    "original": "으읍, 읍!",
+    "context": "EN :\nMmph! Mmrph!\nJP :\nうぐっ、うっ！"
+  },
+  {
+    "key": "41-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "41-content",
+    "original": "고래기름은 진동하고 울리며 소리를 낸다.",
+    "context": "EN :\nWhale oil makes a sound as it quivers and reverberates.\nJP :\n鯨油は揺れながら音を立てた。"
+  },
+  {
+    "key": "42-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "42-content",
+    "original": "진동하는 기름은 무엇이든 하나가 되려고 한다고 한다.",
+    "context": "EN :\nThe reverberating oil tries to become one with everything it touches.\nJP :\n振動する油は、何がなんでも一つになろうとするらしい。"
+  },
+  {
+    "key": "43-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "43-content",
+    "original": "초진동적 결합, 진동수 그리고 그걸 이용하여 만드는 공명 굽쇠와 그 파장과 연료… 알아먹지 못할 도시의 말로 하는 사람도 있지만.",
+    "context": "EN :\nSome City folk talk about this phenomenon using big words like ultravibro-fusion, oscillation frequency... How such elements are used to produce the resonance tuning forks, their wavelengths and fuel...\nJP :\n超振動的結合、振動数、そしてそれを利用して作る共鳴叉と\nその波長と燃料…わけの分からない都市の言葉で言う人もいるけど。"
+  },
+  {
+    "key": "44-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "44-content",
+    "original": "결국 고래를 채우고 있는 이 기름은 상대를 자신의 것으로 만들고 뒤덮는다.",
+    "context": "EN :\nBut the point is, a Whale's oil covers and devours anyone it comes in contact with.\nJP :\n兎にも角にも、鯨を満たしているこの油は\n相手を自分のものにして、覆う。"
+  },
+  {
+    "key": "45-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "45-content",
+    "original": "그렇게 살아있는 고래의 기름에 뒤덮이면 고래의 인어가 되고.",
+    "context": "EN :\nAnd when you're devoured by a living Whale's oil, you become a mermaid.\nJP :\nそうして、生きている鯨油に覆われると鯨の人魚になる。"
+  },
+  {
+    "key": "46-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "46-content",
+    "original": "나보다 부피가 큰 죽은 고래의 기름에 들어가면 자기의 존재는 옅어지고 천천히 녹아 흩어진다고 한다.",
+    "context": "EN :\nAnd when you're devoured by a dead Whale's oil, your sense of self slowly scatters, until there is nothing of you left.\nJP :\n私より体積の大きい死んだ鯨の油に入ると、\n自分の存在は薄くなり、ゆっくりと溶けて散らばるらしい。"
+  },
+  {
+    "key": "47-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "47-content",
+    "original": "…하, 하… 하아…",
+    "context": "EN :\n... Ha, ha... Haah...\nJP :\n…は。は…はぁ…。"
+  },
+  {
+    "key": "48-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "48-content",
+    "original": "그때 나는…",
+    "context": "EN :\nThat's when I...\nJP :\nそのとき私は…。"
+  },
+  {
+    "key": "49-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "49-content",
+    "original": "내가 얼마나 작고 연약하고 보잘것없는 존재인지에 대해 알 수 있었다.",
+    "context": "EN :\n... realized how tiny and fragile I was. How insignificant of a thing I was.\nJP :\n私がいかに小さくて弱く、つまらない存在であるかが分かった。"
+  },
+  {
+    "key": "50-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "50-content",
+    "original": "고래들은 사실 외로웠던 게 아닐까.",
+    "context": "EN :\nMaybe the Whales were just lonely.\nJP :\n実のところ、鯨たちは寂しかったんじゃないだろうか。"
+  },
+  {
+    "key": "51-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "51-content",
+    "original": "그래서 자기와 같은 것으로 만들어 버리는 기름을 품고 다니는 게 아닐까.",
+    "context": "EN :\nAnd that's why they carried within them the oil that had the power to turn others just like them.\nJP :\nだから、自分と同じものへと作り替えてしまう油を\n抱えているんじゃないか。"
+  },
+  {
+    "key": "52-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "52-content",
+    "original": "어쩌면 사람들도…",
+    "context": "EN :\nMaybe, people are the same...\nJP :\nもしかすると人間たちも…。"
+  },
+  {
+    "key": "53-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "53-content",
+    "original": "외로워서 어떻게든 무언가를, 누군가를 자신의 것으로 칠하고 채우려는 게 아닐까…",
+    "context": "EN :\nOut of loneliness, we want to make something, someone ours. To paint them just like us, to fill them with things that make us.\nJP :\n寂しくて何とかして、何かを、誰かを\n自分のものに塗りつぶそうとしてるんじゃないだろうか…。"
+  },
+  {
+    "key": "54-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "54-content",
+    "original": "그런 나는 내가 무엇으로 채워져 있는지도 모르는데, 그런 내가 누군가를 어떻게 칠하고 채울 수 있을까…",
+    "context": "EN :\nI don't even know what makes me. How could I possibly paint others like me... if even I don't know what I am?\nJP :\nそんな私は自分が何に食い潰されてるのかも分からないのに、\nそんな私が誰かを、どうやって塗りつぶすことができるんだろうか…。"
+  },
+  {
+    "key": "55-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "55-content",
+    "original": "나는 고래보다도 옅은 사람인가 봐.",
+    "context": "EN :\nMaybe I'm shallower than a Whale.\nJP :\n私は鯨よりも薄い人間みたい。"
+  },
+  {
+    "key": "56-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "56-content",
+    "original": "단순히 남들과 다른 삶을 살고 싶어서, 그저 그런 삶을 살기가 질린다는 이유로 배에 올랐던 나는…",
+    "context": "EN :\nI, who boarded the Pequod just because I wanted to live a life unlike those of others. Just because living a humdrum life was too boring for me...\nJP :\n単に他人と違う人生を生きたくて、\n普通の人生に飽きたという理由で船に乗った私は…。"
+  },
+  {
+    "key": "57-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "57-content",
+    "original": "나는.",
+    "context": "EN :\nI...\nJP :\n私は。"
+  },
+  {
+    "key": "58-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "58-content",
+    "original": "결국 뭘하고 싶은 걸까.",
+    "context": "EN :\nWhat do I even want?\nJP :\n結局何をしたいんだろうか。"
+  },
+  {
+    "key": "59-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "59-content",
+    "original": "모든 게 옅어지는 어둠 속에서…",
+    "context": "EN :\nIn the dark, where the distinction of all things begin to blur...\nJP :\n全てが薄れる暗闇の中で…。"
+  },
+  {
+    "key": "60-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "60-content",
+    "original": "그때 빛이 보였다.",
+    "context": "EN :\nI saw light.\nJP :\nそのとき、光が見えた。"
+  },
+  {
+    "key": "61-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "61-content",
+    "original": "그 빛이 새어 들어오는 틈 사이로, 하늘에서 내려온 것과 같은 줄이 보였다.",
+    "context": "EN :\nA ray of light scattered through an opening. I saw a rope drop from there. A rope lowered from the heavens into this dark, lonely abyss.\nJP :\nその光が漏れ入る間から、\n天から垂れてきたかのような縄が見えた。"
+  },
+  {
+    "key": "62-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "62-content",
+    "original": "이 줄만큼은. 눈앞의 이 줄만큼은 내 손으로 붙잡고 살아남고 싶었다.",
+    "context": "EN :\nThis rope. I wanted to hold onto this rope and live.\nJP :\nこの縄だけは。\n目の前の、この綱だけは自分の手で掴んで生き延びたかった。"
+  },
+  {
+    "key": "63-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "63-content",
+    "original": "눈앞의 그것은 명확했으니까.",
+    "context": "EN :\nBecause it was there, right before me.\nJP :\n目の前のそれは、はっきりとしていたから。"
+  },
+  {
+    "key": "64-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "64-content",
+    "original": "이스마엘.",
+    "context": "EN :\nIshmael!\nJP :\nイシュメール。"
+  },
+  {
+    "key": "65-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "65-content",
+    "original": "줄 꽉 잡아라.",
+    "context": "EN :\nRope, hold tight!\nJP :\nしっかり掴まれ。"
+  },
+  {
+    "key": "66-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "66-content",
+    "original": "아…",
+    "context": "EN :\nAh...\nJP :\nあっ…。"
+  },
+  {
+    "key": "67-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "67-content",
+    "original": "와… 기름 범벅인 채로 죽었더라면… 그야말로 존재감 없는 죽음이었겠네.",
+    "context": "EN :\nMan... Dying in that oil... Now that would've left nothin' for nobody to remember.\nJP :\nわぁ…油まみれで死んだら…\nそれこそ存在感の無い死になっただろうな。"
+  },
+  {
+    "key": "68-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "68-content",
+    "original": "도시에서 제일 의미 없는 죽음 중 하나였겠죠…",
+    "context": "EN :\nYeah. Guess I almost died one of the most meaningless deaths in the City...\nJP :\n都市で最も意味の無い死のうちの一つになったでしょうね…。"
+  },
+  {
+    "key": "69-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "69-content",
+    "original": "어쩌면 나는 그날 다시 한번 태어난 건지도 몰라.",
+    "context": "EN :\nI was born again that day, maybe.\nJP :\nもしかすると私はあの日、生まれ変わったのかもしれない。"
+  },
+  {
+    "key": "70-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "70-content",
+    "original": "그래, 내가 그날 붙잡았던 줄은… 절대 끊어질 수 없을 거야.",
+    "context": "EN :\nThe rope I held onto that day... was a rope that could never be severed.\nJP :\nそう、私があの日掴んだ縄は…絶対に切れることはないだろう。"
+  },
+  {
+    "key": "71-place",
+    "original": "창백한 고래 우심방",
+    "context": "EN :\nThe Pallid Whale's Right Atrium\nJP :\n蒼白な鯨 右心房"
+  },
+  {
+    "key": "71-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "71-content",
+    "original": "줄. 끊어졌어.",
+    "context": "EN :\nThat rope. It snapped.\nJP :\nなわ。きれた。"
+  },
+  {
+    "key": "72-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "72-content",
+    "original": "아니야, 다시 한 번… 붙일 수 있어. 다시 엮을 수 있어. 심장에만 갈 수 있다면…",
+    "context": "EN :\nNo, no. It can... We can make it whole again. We'll tie another knot. As long as we can make it to the heart...\nJP :\nいや、もう一度…くっ付けられる。もう一度編める。\n心臓に行けるなら…。"
+  },
+  {
+    "key": "73-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "73-content",
+    "original": "넌 자유를 찾을 수 있어.",
+    "context": "EN :\n... you'll be free.\nJP :\nあんたは自由になれる。"
+  },
+  {
+    "key": "74-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "74-content",
+    "original": "우리 이곳에 갇히고.",
+    "context": "EN :\nOnce we, trapped here...\nJP :\nあたいたち、ここにとじこめられて。"
+  },
+  {
+    "key": "75-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "75-content",
+    "original": "하나의 생각만. 해야 했어. 인어 되지 않기 위해.",
+    "context": "EN :\nWe had to think one thing. One thing only. To not become Mermaids.\nJP :\nひとつのかんがえだけ。するべきだった。\nにんぎょにならないために。"
+  },
+  {
+    "key": "76-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "76-content",
+    "original": "의심하면. 망설이면. 몸이 하얗게 되어가.",
+    "context": "EN :\nDoubting. Hesitating. And pale begin to grow on skin.\nJP :\nうたがえば。ためらえば。\nからだがしろくなっていく。"
+  },
+  {
+    "key": "77-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "77-content",
+    "original": "알지? 고래기름.",
+    "context": "EN :\nYou know. Like Whale oil.\nJP :\nしってるよね？げいゆ。"
+  },
+  {
+    "key": "78-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "78-content",
+    "original": "다시 너를 만나 새로운 모험을 떠나려면. 이곳을 나가야 한다고. 이것을 죽여야 한다고.",
+    "context": "EN :\nI thought one thing. To meet you again, to go on a new adventure with you, I have to escape. Have to kill the Whale.\nJP :\nまたきみにあって、あたらしいぼうけんにでるなら。\nここをでないといけない。これをころさないと、いけない。"
+  },
+  {
+    "key": "79-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "79-content",
+    "original": "그러기 위해서면 끊어야 한다고. 줄을.",
+    "context": "EN :\nBut to do that, I had to cut... the rope.\nJP :\nそうするには、きらないといけない。なわを。"
+  },
+  {
+    "key": "80-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "80-content",
+    "original": "인어 되지 않기 위해 그 하나만을 생각하고 또 생각해. 그러다 나는 어느 순간부터…",
+    "context": "EN :\nTo not become a Mermaid, I think that one thought. I think that one thought again and again. And suddenly...\nJP :\nにんぎょにならないために、そのひとつだけをかんがえて、またかんがえる。\nするとあたいは、いつからか…。"
+  },
+  {
+    "key": "81-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "81-content",
+    "original": "묻었지. 너를.",
+    "context": "EN :\nI, buried you.\nJP :\nうめた。きみを。"
+  },
+  {
+    "key": "82-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "82-content",
+    "original": "이것의 심장. 죽이기 위해… 내 심장…",
+    "context": "EN :\nThe Whale-heart. To kill it...\nJP :\nこれのしんぞう。ころすため…あたいのしんぞう…。"
+  },
+  {
+    "key": "83-model",
+    "original": "퀴케그",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "83-content",
+    "original": "내 마음을 잠재운 거야.",
+    "context": "EN :\nI put my heart to sleep.\nJP :\nあたいのこころを、ねむらせた。"
+  }
+]

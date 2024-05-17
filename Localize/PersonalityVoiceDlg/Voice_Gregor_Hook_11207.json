@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_11207_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_11207_1-dlg",
+    "original": "푸하… 그래, 내가 쌍갈고리 해적단 부선장, 그레고르다. 사인이라도 해줘?",
+    "context": "EN :\nHooh... Yeah, that's me. The first mate of the Twinhook Pirates. What, want an autograph?\nJP :\nふぅ…あぁ、俺が双鉤海賊団副船長、グレゴールだ。サインでもしてやろうか？"
+  },
+  {
+    "key": "lobby_morning_11207_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_11207_1-dlg",
+    "original": "어~ 굿모닝. 아, 얘기는 조금 이따 하자. 야~ 오늘 부업들 돌아가는 것 보고들 좀 해봐라~",
+    "context": "EN :\nHey~ Good morning. Oh, talk'll have to wait.\nRight, lads! I want a report! How are our 'side jobs' doing~?\nJP :\nお～グッモーニン。あぁ、話はちょっと後でしようか。お～い、今日の副業の回り具合を報告報告してくれって～。"
+  },
+  {
+    "key": "lobby_noon_11207_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_11207_1-dlg",
+    "original": "배 위에서 한가롭게 점심을 챙기고 그러진 않지. 배가 고프다 싶으면 적당히 그 때가 밥 먹을 때인 거야.\n물론, 허락없이 식량창고를 뒤지는 놈은 그대로 돛대에 묶여야지.",
+    "context": "EN :\nLunch? On a ship? Lunch ain't a thing in the life of a sailorman, friend. Just eat when you're starting to feel peckish.\nIf you steal from our food storage, though... Now that's asking to get tied to the mast.\nJP :\n船の上でのんびり昼メシを食ってたりしないさ。腹が減ったときが食べ時だ。\nもちろん、許可なく食料倉庫を漁るやつはそのままマストに縛らないと。"
+  },
+  {
+    "key": "lobby_night_11207_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_11207_1-dlg",
+    "original": "밤도 됐겠다, 나가서 술이나 한 잔 하고 싶은데… 후크 이 놈이 도통 돌아와야지, 쯧. 자리를 비우고 싶어도 비울 수가 없네.",
+    "context": "EN :\nIt's getting late... And I can feel the call of alcohol from outside. Hook, you bastard. Where the hell are you? I'd love to get out for a bit, but I've got responsibilities.\nJP :\n夜か、外で一杯やりに行きたいんだが…フックの野郎が全く戻ってこねぇんだ、チッ。席をを外したくても外せねぇよ。"
+  },
+  {
+    "key": "smalltalk_11207_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_11207_1-dlg",
+    "original": "인어 향수는 그렇게 돈이 안돼. 결국 이것 저것 손을 벌려야만 돈이 들어오는 법이거든. 정보든, 고래기름이든, …사람이든!",
+    "context": "EN :\nMermaid Perfume ain't such a lucrative venture. Gotta branch out like a kraken. Intel, Whale oil, or even people!\nJP :\n人魚香水はそんなカネにならねぇ。結局あれこれ手広くやればカネが入ってくるもんだ。情報であれ、鯨であれ、…人間でもな！"
+  },
+  {
+    "key": "smalltalk_11207_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_11207_2-dlg",
+    "original": "우리가 여기 저기 들쑤시고 다니는 거? 뭐, 해적이라면 당연한 거 아닌가? …우리는 든든한 뒷배도 있다고.",
+    "context": "EN :\nWhat, we're poking too many hornet's nests? Well, that's just the life of a pirate. ... Besides, we've got somebody looking out for us.\nJP :\n俺らがあちこちほじくり回してるって？まぁ、海賊なら当然じゃないか？…俺たちには心強い後ろ盾もあるんだ。"
+  },
+  {
+    "key": "smalltalk_11207_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_11207_3-dlg",
+    "original": "어우, 잠깐 잠깐. 인질이라니, 말이 조금 험하네~ 우리 사업에 중요한 손님을 모신 것 뿐이라고. 조금 터프하게 대하는 거 뿐이야.",
+    "context": "EN :\nHey, wait up. Wait up. Hostages? A bit crude to call them that, nah? We're just having... very important guests over for business. And we're just putting up some of that tough guy act.\nJP :\nおぅ、待った待った。人質だなんて、言い方がキツいなぁ～。俺たちの事業に大事なゲストを迎えただけだって。少し荒っぽく扱ってるだけだ。"
+  },
+  {
+    "key": "smalltalk_11207_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_11207_4-dlg",
+    "original": "어, 맞아 맞아. 이건 협박이야. 지금 우리들하고 따라가지 않으면 머리통에 바람구멍이 뚫릴 거라니까? 아니 아니, 총알은 비싸니까 이 갈고리로 뚫지.",
+    "context": "EN :\nUh huh. Yep yep. This is a threat. Come with us, or I'll give your skull a new hole to breathe out of. No, I'm not gonna shoot you. Bullets are pricey, y'know. Instead... lemme introduce you to my hook right here.\nJP :\nあ、そうだそうだ。これは脅迫だ。今俺たちに付いてこねぇなら、ドタマに風穴が空くからな？いやいや、弾丸は高いからこのこのフックで空けてやる。"
+  },
+  {
+    "key": "smalltalk_11207_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_11207_5-dlg",
+    "original": "컨테이너에 잠깐 들어가 있는 거야, 잠깐~ 습! 벌써부터 왜 이렇게 떨어? 어차피 들어가면 추워서 많이 떨건데, 먼저 힘 빼지 말구~",
+    "context": "EN :\nNow just go in ahead and rest up in that shipping container, 'kay?\nWait~ Tsk tsk! Why are you shuddering? You'll have plenty of time for that once we get you situated nicely in that cold storage. Don't waste your strength now~\nJP :\nコンテナに少しの間入ってるんだ、ちょ～っとだけな、チッ！何でもうそんなに震えてるんだ？どうせ入ったら寒くて沢山震えるだろうに、体力を無駄遣いするなよ～。"
+  },
+  {
+    "key": "neglect_11207_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_11207_1-dlg",
+    "original": "후~ 항구선에서 멍하니 시덥지 않은 일하면서 대기하고 있다보면, 후크랑 호수에서 배를 털 때가 그리워지네…",
+    "context": "EN :\nSigh~ Doin' this kinda boring desk job on a portship... Makes me miss the days Hook and I used to sail the high Lakes, looting treasures, ships...\nJP :\nふぅ～港船でぼーっとくだらねぇ仕事しながら待機してると、フックと一緒に湖へ船を浮かべたときが恋しくなるなぁ…。"
+  },
+  {
+    "key": "gacksung_11207_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_11207_1-dlg",
+    "original": "동업하고 싶다고? 음~ 그래, 뭐. 너도 사이즈가 되는 것 같기도 하고. 어디, 잘 해보자고.",
+    "context": "EN :\nYou wanna work together? Hmm~ Well, sure. I think you'll do. Well, then... let's make this work.\nJP :\n合併したいって？う～ん。そうか、まぁ。お前も色々とサイズが合うみたいだしな。どれ、上手くやっていこうか。"
+  },
+  {
+    "key": "formation_11207_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_11207_1-dlg",
+    "original": "부선장이 필요한가?",
+    "context": "EN :\nNeed a first mate?\nJP :\n副船長が必要か？"
+  },
+  {
+    "key": "battleentry_11207_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_11207_1-dlg",
+    "original": "직접 손 봐주지.",
+    "context": "EN :\nFine, I'll do it myself.\nJP :\n直接手ほどきしてやろう。"
+  },
+  {
+    "key": "battle_select_11207_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_11207_1-dlg",
+    "original": "바빠, 밑에 애들한테 말해.",
+    "context": "EN :\nI'm busy. Go bother one of my underlings.\nJP :\n忙しいんだ、下の奴らに言ってくれ。"
+  },
+  {
+    "key": "battle_endcommand_11207_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_11207_1-dlg",
+    "original": "바람 구멍을 내주지.",
+    "context": "EN :\nI'll poke you a new breathing hole.\nJP :\n風穴を空けてやる。"
+  },
+  {
+    "key": "battle_enemy_break_11207_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_11207_1-dlg",
+    "original": "꼭 찢어진 돛같이 흐느적거리는구만.",
+    "context": "EN :\nFlapping like a torn sail, huh?\nJP :\nまるで引き裂かれた旗みたいにふらふらだな。"
+  },
+  {
+    "key": "battle_break_11207_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_11207_1-dlg",
+    "original": "뭣…",
+    "context": "EN :\nWhat...\nJP :\nなっ…。"
+  },
+  {
+    "key": "battle_kill_11207_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_11207_1-dlg",
+    "original": "헹, 별 것도 아니네.",
+    "context": "EN :\nHeh, that was nothing.\nJP :\nへっ、どうってこと無かったか。"
+  },
+  {
+    "key": "battle_dead_11207_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_11207_1-dlg",
+    "original": "내, 내가… 죽을 리가… 주, 중지에게…",
+    "context": "EN :\nI-I can't die like this... The M-Middle will...\nJP :\nお、俺が…死ぬわけ…。な、中指に…。"
+  },
+  {
+    "key": "choice_success_p_11207_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_11207_2-dlg",
+    "original": "흥, 보물상자 열쇠 따는 게 더 어렵겠어.",
+    "context": "EN :\nHeh, easier than picking open a treasure chest.\nJP :\nふん、宝箱の鍵を開けるのがもっと難しいだろうよ。"
+  },
+  {
+    "key": "choice_fail_n_11207_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_11207_1-dlg",
+    "original": "나는 경고했어, 이런 거 잘 못한다고.",
+    "context": "EN :\nWhat'd I say? I'm not good with this kinda thing.\nJP :\n俺は警告したぞ、こんなの上手くやれないって。"
+  },
+  {
+    "key": "battle_clear_11207_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_11207_1-dlg",
+    "original": "성공적인 비즈니스였지. 몇몇은 손님으로 들이자고.",
+    "context": "EN :\nAnother day, another profitable business. Let's take some of 'em as our guests.\nJP :\nビジネス成功だ。何人かはゲストに持って帰ろうか。"
+  },
+  {
+    "key": "battle_clear_ex_11207_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_11207_1-dlg",
+    "original": "싹 다 정리해버렸네… 이러면 돈이 덜 나오는데. 흠, 이놈들 지갑 좀 볼까?",
+    "context": "EN :\nWell, we wiped the floor with them. That doesn't leave much for our... 'business'. Hm, let's check their wallets and see what they've got.\nJP :\nきれいさっぱり片付けちまったか…。これじゃカネ入りが良くないんだがなぁ。ふむ、こいつらの財布でも見てくか？"
+  },
+  {
+    "key": "battle_defeat_11207_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_11207_1-dlg",
+    "original": "하… 전부 기억했어. 얼굴, 이름… 작은 누님이 나서면, 너희는 끝장이야.",
+    "context": "EN :\nHaah... I got your faces and names... Once the Big Sister gets here, you're finished. All of you.\nJP :\nはぁ…全部覚えた。顔、名前…末姉がお出ましなったら、テメェらは一巻の終わりだ。"
+  }
+]

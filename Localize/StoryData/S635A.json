@@ -1,0 +1,411 @@
+[
+  {
+    "key": "0-place",
+    "original": "워더링하이츠 지하실",
+    "context": "EN :\nWuthering Heights Basement\nJP :\nワザリング・ハイツ 地下室"
+  },
+  {
+    "key": "0-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "0-content",
+    "original": "<정신이 들어, 히스클리프?>",
+    "context": "EN :\n<Are you okay, Heathcliff?>\nJP :\n<気が付いた、ヒースクリフ？>"
+  },
+  {
+    "key": "1-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "1-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "2-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "2-content",
+    "original": "…기분은 어때요?",
+    "context": "EN :\n... How are you feeling?\nJP :\n…気分はどうですか？"
+  },
+  {
+    "key": "3-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "3-content",
+    "original": "더럽군.",
+    "context": "EN :\nLike shite.\nJP :\nクソみてぇだ。"
+  },
+  {
+    "key": "4-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "4-content",
+    "original": "그리고 비참해.",
+    "context": "EN :\nAnd miserable.\nJP :\nそれに惨めだ。"
+  },
+  {
+    "key": "5-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "5-content",
+    "original": "이 시체들과 너네들… 내가 이런 거지?",
+    "context": "EN :\nThese bodies... your wounds... I did that, didn't I?\nJP :\nこの死体とお前ら…オレがやったんだよな？"
+  },
+  {
+    "key": "6-content",
+    "original": "무참하게 쓰러져 있는 연구원들의 시체를 보며 히스클리프가 중얼거렸다.",
+    "context": "EN :\nHeathcliff muttered, looking around at the mutilated, mauled corpses of the researchers.\nJP :\n無惨に倒れている研究員たちの死体を見ながら、ヒースクリフが呟いた。"
+  },
+  {
+    "key": "7-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "7-content",
+    "original": "이상하네.",
+    "context": "EN :\nStrange.\nJP :\n変だな。"
+  },
+  {
+    "key": "8-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "8-content",
+    "original": "이번에야말로 모든 걸 때려 부수고 나면…",
+    "context": "EN :\nI thought... if I went wild, smashed everything to pieces...\nJP :\n今度こそ全部ぶっ潰したら…。"
+  },
+  {
+    "key": "9-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "9-content",
+    "original": "속이 후련해질 줄 알았는데.",
+    "context": "EN :\n... the weight in my heart would be lifted.\nJP :\nスッキリすると思ったんだけどな。"
+  },
+  {
+    "key": "10-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "10-content",
+    "original": "이번엔 그렇지 않아. 오히려 아주 더러워.",
+    "context": "EN :\nBut no. Not this time. Not at all. This... this feels awful.\nJP :\n今回はそうでもねぇ。\nむしろクソ山盛りみてぇな気分だ。"
+  },
+  {
+    "key": "11-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "11-content",
+    "original": "힌들리, 그놈과 별반 다를 것도 없는 꼴이잖아.",
+    "context": "EN :\nHow am I any different from that prick, Hindley?\nJP :\nヒンドリー、アイツとそう変わりない有り様だろ。"
+  },
+  {
+    "key": "12-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "12-content",
+    "original": "그저 눈앞에 있는 것들을 부수겠다는 생각만 가득 찼는데…",
+    "context": "EN :\nFull of blind hatred against everything in front of me, desiring nothin' but destruction...\nJP :\nただ、目の前にあるもんをぶっ潰すって考えでいっぱいだったけど…。"
+  },
+  {
+    "key": "13-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "13-content",
+    "original": "제일 끔찍했던 건… 내가 그 상태에서 계속 머무르고 싶어 했다는 거야.",
+    "context": "EN :\nBut the worst thing is... that I wanted to be like that forever.\nJP :\n一番おぞましかったのは…オレがずっとその状態でありたかったってことだ。"
+  },
+  {
+    "key": "14-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "14-content",
+    "original": "왜냐하면…",
+    "context": "EN :\nBecause...\nJP :\nどうしてかっていうと…。"
+  },
+  {
+    "key": "15-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "15-content",
+    "original": "그냥 가만히 멈춰 있기엔 견딜 수가 없었으니까.",
+    "context": "EN :\nI couldn't bear to simply sit there and do nothing.\nJP :\nただ、じっと止まってちゃ耐えられねぇから。"
+  },
+  {
+    "key": "16-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "16-content",
+    "original": "<달라.>",
+    "context": "EN :\n<No. You're not like him.>\nJP :\n<違うよ。>"
+  },
+  {
+    "key": "17-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "17-content",
+    "original": "<결국엔 돌아왔잖아, 너는.>",
+    "context": "EN :\n<Because you came back.>\nJP :\n<最終的には戻ってきたよ、君は。>"
+  },
+  {
+    "key": "18-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "18-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "19-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "19-content",
+    "original": "이번엔 돌아왔지만, 그다음엔? 또 안 그럴 거라는 보장이 있냐?",
+    "context": "EN :\nThis time, sure. But what if it happens again? Who's to say that there won't be a next time?\nJP :\n今回は戻ってきたけど、その次は？\nまたそうならないって保証があんのか？"
+  },
+  {
+    "key": "20-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "20-content",
+    "original": "힌들리 놈이 맞았을 수도 있어.",
+    "context": "EN :\nMaybe Hindley, that prick, was right.\nJP :\nヒンドリーのやつが正しかったのかもしんねぇ。"
+  },
+  {
+    "key": "21-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "21-content",
+    "original": "난 글러 먹은 놈이라, 바뀌었다는 건 가소로운 착각일 뿐이었고…",
+    "context": "EN :\nI'm unsalvageable. Did I change? No. I deluded myself into believing that I did, like the dullard I am.\nJP :\nオレは生まれから間違ってたから、変われたっつーのは\n馬鹿げた錯覚に過ぎなくて…。"
+  },
+  {
+    "key": "22-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "22-content",
+    "original": "이런 식으로 훼까닥 한 다음, 때려 부숴야만 끝나는 게 내 진짜 모습이라고.",
+    "context": "EN :\nThis is what I do, what I am. A destroyer who brings ruin to everything until there isn't anything left to pulverise.\nJP :\nこんな風にプッツンして、殴ってぶっ潰さねぇと\n気が済まねぇのがオレのホントの姿だって。"
+  },
+  {
+    "key": "23-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "23-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "24-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "24-content",
+    "original": "<보장하진 못해. 그래도… 또 돌려놓을 거야.>",
+    "context": "EN :\n<If it happens again... I can't guarantee that I'll succeed, but I will try again.>\nJP :\n<保証はできない。でも…また元に戻すから。>"
+  },
+  {
+    "key": "25-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "25-content",
+    "original": "하…",
+    "context": "EN :\nHah...\nJP :\nはっ…。"
+  },
+  {
+    "key": "26-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "26-content",
+    "original": "야, 시계 대가리.",
+    "context": "EN :\nOi, Clockhead.\nJP :\nおい、時計ヅラ。"
+  },
+  {
+    "key": "27-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "27-content",
+    "original": "넌 스스로 모르겠지만… 아마 너 빼고 다 알 거야.",
+    "context": "EN :\nYou wouldn't know this, but... Well, everyone but you would know.\nJP :\nお前は分からねぇだろうけど…きっとお前以外全員知ってるだろうな。"
+  },
+  {
+    "key": "28-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "28-content",
+    "original": "정신이 나가버리거나, 눈앞이 깜깜해지거나 뭐 하여간… 아무것도 안 보이고 아무 소리도 안 들리고…",
+    "context": "EN :\nWhen I'm starting to lose my mind, when I'm completely blinded and deafened...\nJP :\nイカれたり、目の前が真っ暗になったりまぁとにかく…\n何も見えなくなっちまって、そして何にも聞こえなくなって…。"
+  },
+  {
+    "key": "29-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "29-content",
+    "original": "이대로 나라는 인간이 계속 어둠 속에 사라져 가는 느낌일 때…",
+    "context": "EN :\nWhen I feel my sense of self, my very being, slowly fading away into the dark...\nJP :\nこのままじゃ、オレって人間が暗闇の中に消えていきそうになるとき…。"
+  },
+  {
+    "key": "30-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "30-content",
+    "original": "아주 희미하게 들려오는 소리가 있거든.",
+    "context": "EN :\n... I hear that faint noise.\nJP :\n本当に微かだけだけど聞こえてくる音があんだ。"
+  },
+  {
+    "key": "31-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "31-content",
+    "original": "그 지긋지긋한 시계 소리.",
+    "context": "EN :\nThat damned noise of a clock.\nJP :\nあのうっぜぇ時計の音。"
+  },
+  {
+    "key": "32-model",
+    "original": "히스클리프다침",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "32-content",
+    "original": "그걸로 다시 눈이 떠져. 그리고 다시 이곳으로 끄집어낸단 말이야.",
+    "context": "EN :\nIt opens my eyes. Drags me back to reality.\nJP :\nそれでまた目が開いちまうんだ。\nそしてまたここへ引きずられてくんだよ。"
+  },
+  {
+    "key": "33-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "33-content",
+    "original": "<그거야…>",
+    "context": "EN :\n<Well, that's...>\nJP :\n<そりゃぁ…。>"
+  },
+  {
+    "key": "34-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "34-content",
+    "original": "<너희들을 원래의 길로 돌려놓는 게 관리자인 내 역할이잖아.>",
+    "context": "EN :\n<Because I'm your manager. Bringing you back to your paths is what I do.>\nJP :\n<君たちを本来の道へと戻すのが、管理人である私の役割だし。>"
+  },
+  {
+    "key": "35-content",
+    "original": "말을 하고 나서야 분명해지는 기분이었다.",
+    "context": "EN :\nThings became a lot clearer when I said that out loud.\nJP :\n言葉にしてこそ、はっきりとした気がする。"
+  },
+  {
+    "key": "36-content",
+    "original": "나의 시계 소리는 그들을 깨우고 원래의 길로 돌려놓는다.",
+    "context": "EN :\nThe sound of my clock awakens them, steers them back to their paths.\nJP :\n私の時計の音は、彼らを目覚めさせて本来の道へと戻す。"
+  },
+  {
+    "key": "37-content",
+    "original": "원래의 길이라는 게 정확히 무엇인지는, 어떻게 가야 할지는 정확히 알 수는 없지만…",
+    "context": "EN :\nI don't really know what their 'paths' really are, or how we'd go about following them, but...\nJP :\n本来の道というのが正確になんなのか、\nどうやって進むべきかは正確には分からないけど…。"
+  },
+  {
+    "key": "38-content",
+    "original": "그럼에도 우리는 계속해서 나아가고 있다.",
+    "context": "EN :\n... we're forging on anyway.\nJP :\nそれでも私たちは歩み続けている。"
+  },
+  {
+    "key": "39-content",
+    "original": "벽을 짚어보며 더듬더듬 가다 보면 어느 정도 윤곽이 잡히는 것처럼.",
+    "context": "EN :\nLike feeling our way through a dark maze, learning its shape with every step we take.\nJP :\n壁を手探りで進めば、ある程度は輪郭が掴めるように。"
+  }
+]

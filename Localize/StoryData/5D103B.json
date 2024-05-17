@@ -1,0 +1,933 @@
+[
+  {
+    "key": "0-place",
+    "original": "창백한 고래의 위",
+    "context": "EN :\nThe Pallid Whale's Stomach\nJP :\n蒼白な鯨の胃"
+  },
+  {
+    "key": "0-content",
+    "original": "마구잡이로 쏟아지는 위산들을 피해 우리는 달려갔다.",
+    "context": "EN :\nAnd so we ran, trying to weave our way between the pouring stomach acid...\nJP :\nめちゃくちゃに噴き出してくる胃酸を避けて私たちは走った。"
+  },
+  {
+    "key": "1-content",
+    "original": "어디로 달려야 할지도 제대로 알 수 없는 채로.",
+    "context": "EN :\n... without even knowing where we were supposed to go.\nJP :\nどこに走っていくべきかも分からないまま。"
+  },
+  {
+    "key": "2-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "2-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "2-content",
+    "original": "이야, 이거… 신기한 광경인 걸.",
+    "context": "EN :\nWow, man. What a... what a funny sight, eh?\nJP :\nいやぁ、これまた…ふしぎな光景だな。"
+  },
+  {
+    "key": "3-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "3-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "3-content",
+    "original": "신기라기 보단 수상한데요.",
+    "context": "EN :\nFunny? That's more suspicious than funny.\nJP :\n不思議というよりかは怪しいんですけど。"
+  },
+  {
+    "key": "4-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "4-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "4-content",
+    "original": "너무 크게 감탄을 하시는 바람에 전부 우리를 보게 되었습니다.",
+    "context": "EN :\nYou're too loud...! Great, now we caught their attention.\nJP :\n感嘆の声が大きすぎたせいで、\n全員が私たちの方を見てしまいましたね。"
+  },
+  {
+    "key": "5-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "5-content",
+    "original": "<…? 누구지?>",
+    "context": "EN :\n<...? Who's there?>\nJP :\n<…？誰だ？>"
+  },
+  {
+    "key": "6-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "6-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "6-content",
+    "original": "당신들 말이야, 말을 하잖아.",
+    "context": "EN :\nHey. I heard you guys... talking down there.\nJP :\nおまえたち、しゃべったよな。"
+  },
+  {
+    "key": "7-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "7-content",
+    "original": "인어가… 말을 하오…",
+    "context": "EN :\nThose Mermaids... speak...?\nJP :\n人魚が…話しき…。"
+  },
+  {
+    "key": "8-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "8-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "8-content",
+    "original": "우리는 인어가 아니야. 이렇게 말 잘하는 인어 본 적 있어?",
+    "context": "EN :\nWe're not... Mermaids. Ever seen a Mer...maid this chatty?\nJP :\nおれたちは人魚じゃない。\nこんなにしゃべれる人魚、みたことあるか？"
+  },
+  {
+    "key": "9-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "9-content",
+    "original": "이들은 백화 현상이 일부만 진행 되었다.",
+    "context": "EN :\nTheir Pallidification effects have only partially progressed.\nJP :\n彼らは白化現象が一部のみ進行している。"
+  },
+  {
+    "key": "10-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "10-content",
+    "original": "그럼 뭐야? 반인 반어?",
+    "context": "EN :\nSo what does that make them? Half-human, half-fish?\nJP :\nじゃあなに？半人半魚？"
+  },
+  {
+    "key": "11-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "11-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "11-content",
+    "original": "시간이 없으니까 간단하게만 말할게.",
+    "context": "EN :\nWell, we don't got... much time. So I'll make it... short.\nJP :\n時間がないから、かんたんにいう。"
+  },
+  {
+    "key": "12-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "12-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "12-content",
+    "original": "여기는 10분에 한 번씩 왕성하게 산을 뽑아내는 곳이야.",
+    "context": "EN :\nThis zone... floods with acid every 10 minutes... or so.\nJP :\nここは10分に1回ずつ、たくさん酸がふきでる場所だ。"
+  },
+  {
+    "key": "13-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "13-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "13-content",
+    "original": "너희 몸이 강철로 이뤄졌다면 말리지 않겠지만…",
+    "context": "EN :\nUnless you guys are all... made of steel...\nJP :\nおまえたちのからだが鋼鉄でできているなら、止めないが…。"
+  },
+  {
+    "key": "14-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "14-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "14-content",
+    "original": "선택을 하는 게 좋을 거야. 우리가 내린 줄을 잡고 이곳을 빠져나갈지,",
+    "context": "EN :\n... you better decide fast! Either ta...ke the rope we're about to lower down, or...\nJP :\n選んだほうがいいだろう。\nおれたちが下ろす縄をつかんでここをぬけだすか、"
+  },
+  {
+    "key": "15-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "15-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "15-content",
+    "original": "아니면 여기서 물컹거리는 영양소가 되어서 이 놈이랑 한 몸이 될지.",
+    "context": "EN :\n... become sludgy nutrient... for the Whale and be one with it... forever and ever.\nJP :\nあるいはここでぐちゃぐちゃの栄養になって\nコイツといっしょになるか。"
+  },
+  {
+    "key": "16-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "16-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "16-content",
+    "original": "뭐, 우린 너희들이 녹으면 무기만 건져 올라가도 되니까!",
+    "context": "EN :\nWell, even if you were to all turn into sludge, we can still salvage your weapons. We don't got nothing to lose.\nJP :\nまぁ、俺たちとしては\nお前らが融けたんなら武器だけ拾い上げてもいいしな！"
+  },
+  {
+    "key": "17-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "17-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "17-content",
+    "original": "몇 명은 이미 조금 녹아버렸군.",
+    "context": "EN :\nSome of 'em are already starting to melt.\nJP :\n数人は少し融けたか。"
+  },
+  {
+    "key": "18-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "18-content",
+    "original": "<선택이랄게 있겠어?>",
+    "context": "EN :\n<Do we even have a choice?>\nJP :\n<この状況で選べるとでも？>"
+  },
+  {
+    "key": "19-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "19-content",
+    "original": "줄 내려! 당장!",
+    "context": "EN :\nROPE! NOW!\nJP :\n縄下ろせ！今すぐ！"
+  },
+  {
+    "key": "20-content",
+    "original": "그들은 무언가 우스운 듯 잘 들리지 않게 몇 마디를 나누더니, 묘하게 생긴 줄을 이쪽으로 휙 하고 던져주었다.",
+    "context": "EN :\nThey muttered something amongst themselves, as though they found something funny about this situation... and tossed an odd-looking rope in our direction.\nJP :\n彼らは何やら面白そうにコソコソ喋ると、\n奇妙な縄をこちらにさっと投げてきた。"
+  },
+  {
+    "key": "21-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "21-content",
+    "original": "이 밧줄 느낌이 영 이상한데.",
+    "context": "EN :\nThis rope feels funny.\nJP :\nこの縄、なんか変だな。"
+  },
+  {
+    "key": "22-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "22-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "22-content",
+    "original": "허파에서 뽑아온 모세혈관 다발이야. 산에도 한 시간 이상은 버틸 수 있어.",
+    "context": "EN :\nThat rope right... there's made of capillary we pulled straight... from its lungs. It'll last more than... an hour, even in its stomach acid.\nJP :\n肺からぬいてきた毛細血管のたばだ。\n酸にも一時間いじょうは、たえられる。"
+  },
+  {
+    "key": "23-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "23-content",
+    "original": "그렉… 왜 그런 걸 물어봐서… 으익, 기분 나빠…",
+    "context": "EN :\nGreg... Why'd you even ask that...? Eugh, I hate it...\nJP :\nグレッグ…なんでそんなこと聞いて…\nうぇっ、気持ち悪っ…。"
+  },
+  {
+    "key": "24-content",
+    "original": "로쟈의 투덜거리는 소리와 함께, 우리는 그 모세혈관 다발을 잡고 열심히 기어올랐다.",
+    "context": "EN :\nWith Rodya and her grumblings in tow, we struggled up the bundle of capillary rope.\nJP :\nロージャのブツブツ言う声と共に、\n私たちはその毛細血管の束を掴んで必死で登った。"
+  },
+  {
+    "key": "25-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "25-content",
+    "original": "<…휴우. 누군지는 모르겠지만… 고마워.>",
+    "context": "EN :\n<... Phew. I don't know who you guys are... But thanks.>\nJP :\n<…ふぅ。誰かは知らないけど…ありがとう。>"
+  },
+  {
+    "key": "26-model",
+    "original": "피쿼드호주민1",
+    "translation": "裴廓德号居民1",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "26-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "26-content",
+    "original": "이야, 이번 낚시는 대성공이네. 돌아가면 금화 세 개는 포상으로 받겠는걸.",
+    "context": "EN :\nHell yeah, what a catch! We'll net us upwards of 3 gold coins for this.\nJP :\nいやぁ、今回の釣りは大成功だったな。\n帰れば金貨三枚くらいは褒賞に貰えるだろう。"
+  },
+  {
+    "key": "27-model",
+    "original": "피쿼드호주민2",
+    "translation": "裴廓德号居民2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "27-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "27-content",
+    "original": "이 째깍거리는 녀석은 더 쳐줄 것 같은데.",
+    "context": "EN :\nI think this tick-tocking friend might be worth more than that.\nJP :\nこのカチコチ言うやつはもっと出してくれそうだけど。"
+  },
+  {
+    "key": "28-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "28-content",
+    "original": "낚시? 우리를 낚았다는 말인가?",
+    "context": "EN :\nA catch? You think you fished us up?\nJP :\n釣り？俺たちを釣ったってことか？"
+  },
+  {
+    "key": "29-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "29-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "29-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "29-content",
+    "original": "우린 정기적으로 이곳에 들리거든.",
+    "context": "EN :\nWe come here every... once in a while to check if... anyone's washed up, yeah.\nJP :\n俺たちは定期的にここへよるんだ。"
+  },
+  {
+    "key": "30-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "30-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "30-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "30-content",
+    "original": "하지만 절반은 인어가 되기 직전의 불쌍한 표류자들이지. 몇 분 후면 바로 우리를 죽이려고 들었어. 그리고 나머지 절반은 그냥 인어들.",
+    "context": "EN :\nBut most of 'em poor castaways... are already almost full Mermaids by the time we find 'em. In a matter of... minutes, they're all rearing to kill us. And the rest are... just your every-day Mermaids.\nJP :\nでもはんぶんは人魚になる直前の可哀想なひょうりゅうしゃたちだ。\n数分後にはすぐにおれたちを殺しに掛かってくる。\nそして半分はただのにんぎょ。"
+  },
+  {
+    "key": "31-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "31-content",
+    "original": "하하, 저희가 특별한 경우였군요.",
+    "context": "EN :\nHaha, so this is a special occasion, then?\nJP :\nあはは、僕たちが特別な例なんですね。"
+  },
+  {
+    "key": "32-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "32-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "32-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "32-content",
+    "original": "말도 하고 인어가 되어가고 있지 않은 선원들을 만난 건 아마 처음이야.",
+    "context": "EN :\nThis is probably the first time ever... that we found sailors that could not only... talk, but also weren't halfway turned... into Mermaids.\nJP :\n喋れて、にんぎょになっていない\nせんいんたちに出会ったのは恐らく初めてだ。"
+  },
+  {
+    "key": "33-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "33-content",
+    "original": "<그런데 이곳엔 왜 정기적으로 들리는 거지?>",
+    "context": "EN :\n<So why do you guys come here every once in a while, then?>\nJP :\n<でも、どうしてここには定期的に寄るんだ？>"
+  },
+  {
+    "key": "34-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "34-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "34-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "34-content",
+    "original": "이 시계 머리 선원은 계속 째깍거리기만 하네. 뭐라고 말이라도 하는 거야? 기계는 아닐 테고.",
+    "context": "EN :\nThe clock friend... here keeps tick-tockin'. Are they saying some...thing? Doubt they're a full-on robot.\nJP :\nこの時計頭の船員はずっとちくたく言ってるな。\n何かしゃべってるのか？機械ではないだろうし。"
+  },
+  {
+    "key": "35-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "35-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "35-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "35-content",
+    "original": "우리가 이곳에 있을 동안 유행이 많이 바뀌었나 봐. 머리를 의체로 바꿔도 보통 말은 할 수 있지 않나?",
+    "context": "EN :\nDon't most... people prefer to keep the ability to speak even when re...placing their bodies with prosthetics? Guess the trends have re...ally changed since we got here.\nJP :\nおれたちがここにいる間、流行がかなりかわったらしいな。\n頭を義体に変えても、普通ならしゃべれるんじゃないのか？"
+  },
+  {
+    "key": "36-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "36-content",
+    "original": "어, 그러니까 저자는… 사정이 있어서 정상적으로 소통을 못하고 있는 거야.",
+    "context": "EN :\nUh, so that buddy there... Well, it's a long story. But yeah, they can't communicate normally.\nJP :\nあぁ、だからあの人は…事情があって\nまともな意思疎通ができないんだ。"
+  },
+  {
+    "key": "37-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "37-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "37-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "37-content",
+    "original": "흠, 그래. 사정이라는 건 각자 있는 거니까.",
+    "context": "EN :\nHm, all... good. Everyone's got a sto...ry they don't want to tell.\nJP :\nふむ、そうか。じじょうというものは\n各自持っているものだしな。"
+  },
+  {
+    "key": "38-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "38-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "38-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "38-content",
+    "original": "우리 선원들도 마찬가지야. 말하는 건 언제나 힘겹지.",
+    "context": "EN :\nWe can sympathize a little. Talking ain't... the easiest thi...ng to do.\nJP :\nおれら船員たちも同じだ。\nしゃべるのはいつであれ、たいへん、だ。"
+  },
+  {
+    "key": "39-model",
+    "original": "피쿼드호주민1",
+    "translation": "裴廓德号居民1",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "39-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "39-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "39-content",
+    "original": "우리를 만난 걸 다행으로 여기는 게 좋을 거다, 짜샤!",
+    "context": "EN :\nConsider yourselves lucked out, fellas! You guys ran into us, of all things!\nJP :\n俺たちに会えたことを幸運に思いな、こんにゃろ！"
+  },
+  {
+    "key": "40-model",
+    "original": "피쿼드호주민2",
+    "translation": "裴廓德号居民2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "40-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "40-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "40-content",
+    "original": "우리는 곧 이곳을 나갈 거니까!",
+    "context": "EN :\nCuz we'll be getting out of here real soon!\nJP :\n私たちはもうじき、ここから出るんだから！"
+  },
+  {
+    "key": "41-content",
+    "original": "자신 있게 안내하는 그들을 뒤따라갔지만 의구심이 가득한 눈빛으로 볼 수 밖에 없었다.",
+    "context": "EN :\nWe followed their confident, guiding steps, but there was no way to look at this situation without a bit of suspicion.\nJP :\n自信満々で案内する彼らに付いて行ったが、今のところは\n疑いに満ちた目つきで眺めることしかできなかった。"
+  },
+  {
+    "key": "42-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "42-content",
+    "original": "<어디로 데려가는 걸까?>",
+    "context": "EN :\n<Where do you think they're taking us?>\nJP :\n<どこに連れて行くんだろう？>"
+  },
+  {
+    "key": "43-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "43-content",
+    "original": "<우리를 전부 해치려고 하는 거라면…>",
+    "context": "EN :\n<What if they're leading us into a trap...?>\nJP :\n<私たちを全員殺すつもりなら…。>"
+  },
+  {
+    "key": "44-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "44-content",
+    "original": "공격을 하려고 했다면 저희가 절벽에 올라올 때 했을 거예요. 기습에 제일 취약했을 때이니까.",
+    "context": "EN :\nIf they were trying to attack us, they would've done so when we were almost at the top of the cliff. We were completely vulnerable to attacks there.\nJP :\n攻撃するつもりだったのなら、私たちが絶壁に登るときにやったでしょう。\n奇襲に一番弱かったのはあの時点ですから。"
+  },
+  {
+    "key": "45-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "45-content",
+    "original": "그리고…",
+    "context": "EN :\nAnd...\nJP :\nそれに…。"
+  },
+  {
+    "key": "46-content",
+    "original": "이스마엘은 무언가를 더 말하려는 듯하다가, 이내 고민이 끝나지 않은 듯 고개를 돌리고 중얼거렸다.",
+    "context": "EN :\nIshmael opened her mouth as though she was about to say something, then stopped herself before turning around. It looked like she hadn't finished processing her thoughts yet.\nJP :\nイシュメールはもう少し何かを言おうとした様子だったが、\nまだ何かを悩んでいるかのようにすぐ顔を背けて呟いた。"
+  },
+  {
+    "key": "47-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "47-content",
+    "original": "저 작살… 분명 본 적이 있어…",
+    "context": "EN :\n... I'm sure I've seen that harpoon before somewhere...\nJP :\nあの銛…確かに見たことが…。"
+  },
+  {
+    "key": "48-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "48-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "48-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "48-content",
+    "original": "그런데 너희는 어느 배 출신이라고 했지?",
+    "context": "EN :\nSo what ship a...re you guys from again?\nJP :\nところで、おまえたちはどの船しゅっしんだ？"
+  },
+  {
+    "key": "49-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "49-content",
+    "original": "음… 그게 림버스… 호라고… 아마 잘 모를 거야. 응…",
+    "context": "EN :\nUm... It's called the... The Limbus. You probably haven't heard of it, yeah...\nJP :\nうーん…それがリンバス…号って…。\n多分あんまり知らないと思うな。うん…。"
+  },
+  {
+    "key": "50-model",
+    "original": "피쿼드호주민1",
+    "translation": "裴廓德号居民1",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "50-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "50-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "50-content",
+    "original": "인어도 아니면서 왜 그렇게 어물거리지? 선장의 이름을 대라. U사 출신이면 대충이나마 알 수 있을지도 모르니까.",
+    "context": "EN :\nWell, talk straight, man! It's not like you're a Mermaid. Who's your Captain? If they're from U Corp, their name just might ring a bell.\nJP :\n人魚でもないくせになんでそんなにどもるんだ？船長の名を挙げろ。\nU社出身ならざっくりでも分かるかもしれないからな。"
+  },
+  {
+    "key": "51-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "51-content",
+    "original": "음…우리의 선장은… 누구지?",
+    "context": "EN :\nUm... who's... our Captain again?\nJP :\nうーん…俺たちの船長は…誰だ？"
+  },
+  {
+    "key": "52-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "52-content",
+    "original": "<난 키를 한 번도 안 잡아봤는데, 내가 선장을 해도 되나?>",
+    "context": "EN :\n<I dunno, guys. I've never taken the helm. Not sure if I can call myself a Captain here.>\nJP :\n<私は一度も舵を触ってないんだけど、\n私が船長だって言ってもいいのかな？>"
+  },
+  {
+    "key": "53-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "53-content",
+    "original": "키라… 음… 운전대를 잡는 자라면…",
+    "context": "EN :\nThe helm... Forsooth... If this be all about who handles the wheel...\nJP :\n舵か…うむ…運転台を掴んだというなら…。"
+  },
+  {
+    "key": "54-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "54-content",
+    "original": "나 알고 있소!!! 카론 군이 선장님이오!",
+    "context": "EN :\nI am quite well aware of our Captain!!! Charon is our Captain, indeed!\nJP :\n私、知っておりまする！！！\nカロン君が船長様にありまする！"
+  },
+  {
+    "key": "55-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "55-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "55-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "55-content",
+    "original": "아… 역시 처음 들어보는군. 시대가 많이 지났던 모양이야.",
+    "context": "EN :\nAha... nope. Never hea...rd of 'em. I guess it's really been... a while, then...\nJP :\nあぁ…やはり、はじめて聞くな。\n時代がかなり、とおりすぎたようだ。"
+  },
+  {
+    "key": "56-content",
+    "original": "졸지에 선장이 되어버린 카론을 두고 그자가 머리를 긁적였다.",
+    "context": "EN :\nHe scratched his head. 'Captain' Charon clearly didn't ring a bell.\nJP :\n突然船長になってしまったカロンのことを差し置きながら、\n彼が頭をぽりぽりと掻いた。"
+  },
+  {
+    "key": "57-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "57-content",
+    "original": "당신들… 이곳에 갇힌 지 어느 정도가 지났죠?",
+    "context": "EN :\nYou... How long has it been since you were trapped in here?\nJP :\nあなたたちは…ここに閉じ込められて\nどれくらい経ったんですか？"
+  },
+  {
+    "key": "58-model",
+    "original": "피쿼드호주민1",
+    "translation": "裴廓德号居民1",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "58-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "58-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "58-content",
+    "original": "여덟 달.",
+    "context": "EN :\nEight months.\nJP :\n八ヶ月。"
+  },
+  {
+    "key": "59-model",
+    "original": "피쿼드호주민2",
+    "translation": "裴廓德号居民2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "59-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "59-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "59-content",
+    "original": "아니 멍청아, 삼 년이야! 마지막으로 센 게 644일째였으니까…",
+    "context": "EN :\nNo, dumbass! This is our third year! Our last count was at 644 days, so...\nJP :\nいやバカなの、三年だよ！\n最後に数えたのが644日目だったから…。"
+  },
+  {
+    "key": "60-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "60-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "60-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "60-content",
+    "original": "모르겠다. 날짜를 세는 건 관뒀어. 햇빛도 들지 않아서 시간 개념도 없어졌으니까.",
+    "context": "EN :\nI dunno, la...dy. I quit coun...ting the days a while ago. I've completely lost tra...ck of time since we got stuck deep in...side where the sun don't shine.\nJP :\nわからない。日付を数えるのはやめにした。\n日も差さないから時間の、がいねんもなくなったからな。"
+  },
+  {
+    "key": "61-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "61-content",
+    "original": "…그렇군요.",
+    "context": "EN :\n... I see.\nJP :\n…そうですか。"
+  },
+  {
+    "key": "62-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "62-content",
+    "original": "제가 알기론 저런 식으로 작살의 매듭을 묶는 사람은 하나밖에 없어서…",
+    "context": "EN :\nI know only one person who ties a knot to their harpoon like that...\nJP :\n私が覚えている限りでは、あんな風に銛を括り付ける人は\n一人しかいなくて…。"
+  },
+  {
+    "key": "63-model",
+    "original": "스타벅",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "63-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "63-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "63-content",
+    "original": "이거? 절박 매듭이라는 거야. 우리 마을에서도 노련한 몇 명만 묶을 수 있지.",
+    "context": "EN :\nOh, this? It's called the Desper...ate's Knot. Even in our town, only the... experienced few knows how to tie it.\nJP :\nこれか？切迫結びっていうんだ。\nおれらの町でも熟練した数人しかむすべないんだ。"
+  },
+  {
+    "key": "64-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "64-content",
+    "original": "그럼… 이곳에 있다는 거잖아…",
+    "context": "EN :\nSo... they're here...?\nJP :\nじゃあ…ここにいるってことじゃ…。"
+  },
+  {
+    "key": "65-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "65-content",
+    "original": "나, 당신의 이름… 알 것 같아.",
+    "context": "EN :\nI... I think I know you.\nJP :\n私、あんたの名前…知ってるかも。"
+  },
+  {
+    "key": "66-content",
+    "original": "이스마엘이 우뚝 멈춰 선다. 동시에 이들도 같이 발걸음을 멈춘다.",
+    "context": "EN :\nIshmael comes to a sudden stop. So do our guides.\nJP :\nイシュメールが突然立ち止まった。\n同時に彼らも歩みを止めた。"
+  },
+  {
+    "key": "67-content",
+    "original": "…이름을 알 것 같다는 말에 멈춘 것은 아니었다.",
+    "context": "EN :\n... Not because of what she said.\nJP :\n…名前を知っているという言葉に立ち止まったわけではなかった。"
+  }
+]

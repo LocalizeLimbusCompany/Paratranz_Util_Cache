@@ -1,0 +1,62 @@
+[
+  {
+    "key": "814702-name",
+    "original": "의문",
+    "context": "EN :\nDoubt\nJP :\n疑問"
+  },
+  {
+    "key": "814702-desc",
+    "original": "공격 스킬로 적 처치 시, 모든 적에게 정신력 10 피해.",
+    "context": "EN :\nWhen this unit defeats an enemy with an Attack Skill, deal 10 SP damage to all enemies.\nJP :\n攻撃スキルで敵討伐時、全ての敵へ10精神力ダメージ"
+  },
+  {
+    "key": "814801-name",
+    "original": "생명",
+    "context": "EN :\nLife\nJP :\n生命"
+  },
+  {
+    "key": "814801-desc",
+    "original": "공격 스킬로 적을 흐트러짐 혹은 처치 시, 자신의 체력 50 회복 (본체, 부위 둘 다 회복)",
+    "context": "EN :\nWhen Staggering or Defeating an enemy with an Attack Skill, this unit heals 50 HP (Both Core and Part)\nJP :\n攻撃スキルで敵を混乱または討伐時、自分の体力を50回復(本体・部位が両方回復)"
+  },
+  {
+    "key": "814901-name",
+    "original": "고통",
+    "context": "EN :\nPain\nJP :\n苦痛"
+  },
+  {
+    "key": "814901-desc",
+    "original": "전투 중 아군이 죽었다면, 다음 턴에 속박 1, 공격 위력 증가 1, 피해량 증가 3을 얻음.",
+    "context": "EN :\nIf an ally is defeated in Combat, gain 1 Bind, 1 Attack Power Up, and 3 Damage Up next turn.\nJP :\n戦闘中に味方が死んだなら、次のターンに束縛 1, 攻撃威力増加 1, ダメージ量増加 3を得る。"
+  },
+  {
+    "key": "814902-name",
+    "original": "약점",
+    "context": "EN :\nWeakness\nJP :\n弱点"
+  },
+  {
+    "key": "814902-desc",
+    "original": "이 캐릭터가 사망하면 모든 적에게 다음 턴에 피해량 증가 5를 부여. 이 효과는 중첩되지 않는다.",
+    "context": "EN :\nIf this unit dies, apply 5 Damage Up next turn to all enemies. This effect does not stack.\nJP :\nこのキャラクターが死亡すれば、全ての敵へ次のターンにてダメージ量増加 5を付与。この効果は重複しない。"
+  },
+  {
+    "key": "815001-name",
+    "original": "무책임",
+    "context": "EN :\nIrresponsible\nJP :\n無責任"
+  },
+  {
+    "key": "815001-desc",
+    "original": "녹빛여명 - 의문 - δ를 제외한 아군이 없다면, 의문과 생명의 효과가 2배로 적용됨.",
+    "context": "EN :\nIf there are no other allies than Dawn of Green - Doubt - δ, double the effects of 'Doubt' and 'Life'.\nJP :\n緑の黎明 - 疑問 - δを除いた味方がいなければ、疑問と生命の効果が2倍になる"
+  },
+  {
+    "key": "815002-name",
+    "original": "시작",
+    "context": "EN :\nBeginning\nJP :\n開始"
+  },
+  {
+    "key": "815002-desc",
+    "original": "이 캐릭터가 살아있으면 턴 종료 시 적이 생성되지 않는다.",
+    "context": "EN :\nIf this unit is alive, no enemies are generated at Turn End.\nJP :\nこのキャラクターが生存しているなら、ターン終了時に敵が生成されない。"
+  }
+]

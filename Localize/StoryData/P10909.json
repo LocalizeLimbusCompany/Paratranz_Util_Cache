@@ -1,0 +1,746 @@
+[
+  {
+    "key": "0-content",
+    "original": "T사의 어느 레스토랑.",
+    "context": "EN :\nA restaurant in T Corp.\nJP :\nT社のとあるレストラン。"
+  },
+  {
+    "key": "1-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "1-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "1-content",
+    "original": "세상에… 다들 이 스테이크에 육즙 떨어지는 것 좀 보게나!",
+    "context": "EN :\nBy the— Behold this glorious piece of steak! 'Tis practically dripping with juice!\nJP :\nなんとまぁ…皆このステーキから滴る肉汁をご覧ぜよ！"
+  },
+  {
+    "key": "2-content",
+    "original": "아이의 직장 동료 중 한명이 육즙이 뚝뚝 떨어지는 스테이크를 입에 가득 넣고 우물거려.",
+    "context": "EN :\nThe child's coworker cheerfully chomps a mouthful of juicy steak and savors its flavor.\nJP :\n子供の職場の同僚の内1人が、肉汁が滴るステーキを\n口いっぱいに頬張ってもぐもぐしてるね。"
+  },
+  {
+    "key": "3-teller",
+    "original": "2등급 징수직 직원",
+    "context": "EN :\nClass 2 Collection Staff\nJP :\n2級 徴収職職員"
+  },
+  {
+    "key": "3-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "3-content",
+    "original": "역시, 여기 오길 잘한 것 같아요.",
+    "context": "EN :\nI've got to say, we really chose a great place for lunch.\nJP :\nやっぱり、来て良かったですね。"
+  },
+  {
+    "key": "4-content",
+    "original": "반대쪽에 앉아있는 다른 동료도 기분 좋다는 듯 입가를 닦고 있지.",
+    "context": "EN :\nThe other coworker appears just as jolly as he happily wipes his mouth with a napkin.\nJP :\n反対側に座っている他の同僚も気分良さそうに\n口元を拭いてるんだ。"
+  },
+  {
+    "key": "5-content",
+    "original": "다들 맛있다는 듯 먹는 걸 보니, 꽤 괜찮은 레스토랑인가 봐.",
+    "context": "EN :\nThe food here was, going by the reactions from everyone else, nothing short of delicious.\nJP :\nみんな美味しそうに食べてるのを見るに、結構良いレストランみたい。"
+  },
+  {
+    "key": "6-content",
+    "original": "하지만… 아이는 한 입도 먹지 않고, 포크로 찍은 스테이크를 빤히 바라보고 있어.",
+    "context": "EN :\nBut... the child was glaring at the piece of steak at the tip of her fork as though she was eyeing something that wasn't even food.\nJP :\nでも…子供は一口も食べずに、フォークで刺したステーキをじっと見つめてるの。"
+  },
+  {
+    "key": "7-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "7-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "7-content",
+    "original": "구질구질해… ",
+    "context": "EN :\nThis sucks...\nJP :\n陰気臭い…。"
+  },
+  {
+    "key": "8-content",
+    "original": "썰어둔 스테이크가 맛있다는 사실을 아이가 모르진 않아.",
+    "context": "EN :\nShe probably knows that the steak is, if she could bring herself to bite into it, very delicious.\nJP :\n切り分けたステーキが美味しいって事実を、\n子供が知らないわけないよね。"
+  },
+  {
+    "key": "9-content",
+    "original": "그저 색을 빼앗겨 누렇게 변한 스테이크가 아이의 식욕을 돌게 하지 못한 거야.",
+    "context": "EN :\nIt was simply that the sickly yellow-brown color of the steak did nothing to excite the child's taste buds.\nJP :\nただ、色を奪われて黄色く変わったステーキが\n子供の食欲を掻き立てなかっただけなんだ。"
+  },
+  {
+    "key": "10-content",
+    "original": "그 빼앗긴 색이 오히려 역겨움을 불러왔고…",
+    "context": "EN :\nThe sepia-monochrome steak inspired nothing but disgust...\nJP :\nその奪われた色が却って気色悪さを呼び起こし…。"
+  },
+  {
+    "key": "11-content",
+    "original": "아이의 표정을 싸늘하게 만들고 있을 뿐.",
+    "context": "EN :\n... which was very apparent from her repulsed expression.\nJP :\n子供の表情を冷たくしているだけ。"
+  },
+  {
+    "key": "12-content",
+    "original": "탐탁지 않은 눈빛으로 스테이크 조각을 몇 번이나 찔러보던 아이는 깊은 한숨과 함께 포크를 내려놓았어.",
+    "context": "EN :\nAfter staring and poking halfheartedly at the piece of steak, the child let out a deep sigh and put down her fork.\nJP :\n気に食わなそうな目つきでステーキの欠片を何度も刺すように見ていた子供は\n深い溜め息と共にフォークを下ろした。"
+  },
+  {
+    "key": "13-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "13-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "13-content",
+    "original": "로쟈 군, 무슨 일인가? 오늘따라 기분이 좋지 않아 보인다만…",
+    "context": "EN :\nWhat is it, Rodya? Thou appeareth quite miffed today.\nJP :\nロージャ君、どうしたのであるか？\n今日に限って気分悪そうに見えるのだが…。"
+  },
+  {
+    "key": "14-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "14-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "14-content",
+    "original": "별거 아니야. 그냥… 입맛이 없어서 그래.",
+    "context": "EN :\nIt's nothing. I just... I guess I just don't have the appetite today.\nJP :\n別にどうってこと無いよ。\nただ…食欲が無いってだけ。"
+  },
+  {
+    "key": "15-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "15-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "15-content",
+    "original": "으음~ 좋지 않군! 이렇게 맛있는 식사를 통해서 격무의 스트레스를 해소해야 하는 법이거늘! ",
+    "context": "EN :\nMm~ That is quite the conundrum! Thine work-related stress must be relieved in some way, no? That is why we have chosen this delicious meal to be our vehicle for joy!\nJP :\nうぅ～ん、良くないな！これほどにまで美味しい食事を通じて\n激務のストレスを解消すべきであるというのに！"
+  },
+  {
+    "key": "16-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "16-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "16-content",
+    "original": "자자, 여기 와인으로 건배라도 하지!",
+    "context": "EN :\nNow, now! Lift thine wine glasses! 'Tis a toast!\nJP :\nさぁさぁ、このワインで乾杯でもしようじゃないか！"
+  },
+  {
+    "key": "17-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "17-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "17-content",
+    "original": "…벌써? 아직 점심시간인데?",
+    "context": "EN :\n... Like, now? It's only midday, though.\nJP :\n…もう？まだお昼なのに？"
+  },
+  {
+    "key": "18-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "18-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "18-content",
+    "original": "다소의 알코올은 업무 효율에 도움을 준다네!",
+    "context": "EN :\nA dash of alcohol in thy bloodstream may help with work efficiency, indeed!\nJP :\n多少のアルコールは業務効率の助けになるのだ！"
+  },
+  {
+    "key": "19-teller",
+    "original": "2등급 징수직 직원",
+    "context": "EN :\nClass 2 Collection Staff\nJP :\n2級 徴収職職員"
+  },
+  {
+    "key": "19-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "19-content",
+    "original": "맞는 말이에요. 우리가 자주 이러는 것도 아니고…",
+    "context": "EN :\nShe's not wrong. It ain't like we get a chance for this kinda outing very often, yeah?\nJP :\nそれもそうですね。\n私たちがこんなことをよくやるわけでもないですし…。"
+  },
+  {
+    "key": "20-content",
+    "original": "동료의 말대로, 이런 레스토랑에서 등급이 다른 직원끼리 식사를 같이하는 경우는 많지 않아. ",
+    "context": "EN :\nHer coworker was right. T Corp. employees of different Classes rarely dined together.\nJP :\n同僚の言うとおり、こんなレストランでランクの違う職員同士\n食事を共にすることはあんまり無いんだ。"
+  },
+  {
+    "key": "21-content",
+    "original": "서로가 살아가는 시간이 다르기에 T사의 직원들은 시간이 맞는 사람끼리 밥을 먹는 경우가 대부분이지.",
+    "context": "EN :\nBecause they all lived varying hours in a given day, most T Corp. employees preferred to dine with those living in similar time scales.\nJP :\nお互いが生きる時間が違うせいで、T社の職員たちは時間が合う人同士\nご飯を食べに行く場合が大半なの。"
+  },
+  {
+    "key": "22-content",
+    "original": "함께 밥 먹는 기분을 내려면 TT4 프로토콜이 적용된 식당에 가야 하고…",
+    "context": "EN :\nTo dine together without making each other uncomfortable, their only choice was to go to a restaurant under the TT4 Protocol...\nJP :\n一緒にご飯を食べるような集まりを作ろうにも\nまずTT4プロトコルが適用された食堂に行かなきゃならないし…。"
+  },
+  {
+    "key": "23-content",
+    "original": "그런 곳은 시간이 그리 두둑하지 못한 낮은 등급 직원에겐 부담스러운 곳이야.",
+    "context": "EN :\n... and those restaurants were usually out of low-ranking Staffs' budget ranges.\nJP :\nそういう場所は、時間がそこまで多くない\n低ランク職員にとっては負担が大きい場所なの。"
+  },
+  {
+    "key": "24-content",
+    "original": "그래서 조금이라도 부담을 덜고자 색이 없는 음식을 먹으러 온 거지.",
+    "context": "EN :\nThey chose a place that serves colorless food in hopes of saving a bit of money while indulging as much as they can afford to.\nJP :\nだから少しでも負担を減らすために、色がない料理を食べに来たんだ。"
+  },
+  {
+    "key": "25-content",
+    "original": "이 식당에는 색을 돌려주는 램프가 없어서, 그나마 가격이 저렴하거든.",
+    "context": "EN :\nBecause this restaurant isn't adorned with the expensive color-returning lamps, its prices are on the more affordable side of things.\nJP :\nこの食堂には色を戻すランプがなくて、比較的価格が安いからね。"
+  },
+  {
+    "key": "26-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "26-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "26-content",
+    "original": "아우, 알았어. 건배하자, 건배.",
+    "context": "EN :\nUgh, fiiine. Cheers, alright? Cheers. Let's do a toast.\nJP :\nもう、分かった。乾杯しよ、乾杯。"
+  },
+  {
+    "key": "27-content",
+    "original": "분위기를 망치고 싶지 않던 아이는 마지못해 잔을 부딪쳤어.",
+    "context": "EN :\nThe child hesitated, then raised her glasses for a toast. She did not want to be the one to ruin this cheery mood, after all.\nJP :\n雰囲気を壊したくなかった子供は、渋々グラスを合わせた。"
+  },
+  {
+    "key": "28-content",
+    "original": "물론 잔에 담긴 와인의 색을 본 아이는 혐오감을 품었지.",
+    "context": "EN :\nThe brown contents of the wineglass disgusted her still.\nJP :\n勿論、グラスに入ったワインの色を見た子供は嫌悪感を抱いた。"
+  },
+  {
+    "key": "29-content",
+    "original": "하지만 최대한, 그 감정을 얼굴에 드러나지 않게 애를 쓰고 있는 거야.",
+    "context": "EN :\nShe nevertheless tried her best to suppress that look of revulsion from being too apparent.\nJP :\nでもなるべく、その感情を顔に出さないよう頑張ってるんだよね。"
+  },
+  {
+    "key": "30-content",
+    "original": "당연히, 그런 모습을 유지하는 건 쉬운 일은 아니었고…",
+    "context": "EN :\nOf course, it took a lot of effort to maintain that level of composure...\nJP :\n当然、そんな姿を保つのは簡単じゃなかったし…。"
+  },
+  {
+    "key": "31-content",
+    "original": "아이는 금세, 자리에서 일어났어.",
+    "context": "EN :\n... and the child couldn't stand being there anymore. She rose from her seat.\nJP :\n子供はすぐ、その場から立ち上がった。"
+  },
+  {
+    "key": "32-content",
+    "original": "음식에는 손도 대지 않고서 말이지.",
+    "context": "EN :\nHer food was still untouched.\nJP :\n料理には手も付けずにね。"
+  },
+  {
+    "key": "33-teller",
+    "original": "2등급 징수직 직원",
+    "context": "EN :\nClass 2 Collection Staff\nJP :\n2級 徴収職職員"
+  },
+  {
+    "key": "33-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "33-content",
+    "original": "벌써 일어나려고?",
+    "context": "EN :\nLeaving already?\nJP :\nもう行くの？"
+  },
+  {
+    "key": "34-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "34-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "34-content",
+    "original": "요즘 한창 불법 발명품 단속 기간이잖아~ 슬슬 가봐야 시간이 맞을걸.",
+    "context": "EN :\nIt's the illegal inventions crackdown period, y'know~ I gotta get back to work or I won't make my time quota.\nJP :\n最近、違法発明品の取り締まり期間真っ最中でしょ～。\nそろそろ行かないと時間が合わなそうだし。"
+  },
+  {
+    "key": "35-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "35-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "35-content",
+    "original": "요즘 들어 단속 근무가 많아졌더군. 수고가 많다네!",
+    "context": "EN :\nHm hm, I did hear that we have been redoubling our regulation enforcement efforts. Try not to overwork thyself!\nJP :\n最近取り締まり勤務が多いようであるな。ご苦労様である！"
+  },
+  {
+    "key": "36-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "36-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "36-content",
+    "original": "하하… 이러다가 금세 승진하는 거 아닌가 몰라?",
+    "context": "EN :\nHa ha... who knows, maybe I'll nab that promotion soon?\nJP :\nはは…この調子じゃすーぐ昇進しちゃうんじゃない？"
+  },
+  {
+    "key": "37-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "37-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "37-content",
+    "original": "아무튼 먼저 가볼게.",
+    "context": "EN :\nAnyways, see ya around.\nJP :\nとにかく先行くね。"
+  },
+  {
+    "key": "38-teller",
+    "original": "2등급 징수직 직원",
+    "context": "EN :\nClass 2 Collection Staff\nJP :\n2級 徴収職職員"
+  },
+  {
+    "key": "38-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "38-content",
+    "original": "으응… 그래.",
+    "context": "EN :\nUmm, yeah. See you around.\nJP :\nうん…じゃあね。"
+  },
+  {
+    "key": "39-content",
+    "original": "식사가 끝난 뒤, 아이가 향한 곳은 T사의 뒷골목이야.",
+    "context": "EN :\nThe child departed the restaurant for the Backstreets of T Corp.\nJP :\n食事が終わってから、子供が向かったのはT社の裏路地。"
+  },
+  {
+    "key": "40-content",
+    "original": "신고가 들어온 장소를 확인한 뒤, 기술청과 연락해 등록되지 않은 발명품을 따로 수거해가는 게 아이의 오늘 업무지.",
+    "context": "EN :\nHer job today consisted of conducting on-site report verification, contacting the Technology Administration Agency with her findings, and retrieving any and all unregistered inventions.\nJP :\n通報が入った場所を確認し、技術庁と連絡して登録されてない発明品を\n別途収集していくのが子供の今日の業務なんだ。"
+  },
+  {
+    "key": "41-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "41-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "41-content",
+    "original": "미등록 발명품은 전량 수거. 그리고 벌금 말인데…",
+    "context": "EN :\nAlright, we'll be confiscating all of your unregistered inventions. As for your fines...\nJP :\n未登録発明品は全て回収。あと罰金なんだけど…。"
+  },
+  {
+    "key": "42-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "42-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "42-content",
+    "original": "이번에 갱신된 매뉴얼을 보면, 이것들은 품목별로 8시간씩, 총 40시간 징수할 거야. 불만 없지?",
+    "context": "EN :\n... According to the updated manuals... aha, it'll be eight hours for each item, which adds up to forty hours. Now cough it up.\nJP :\n今回更新されたマニュアルを見るに…これらは品目別に8時間ずつ、\n計40時間徴収することになるみたい。不満はないよね？"
+  },
+  {
+    "key": "43-teller",
+    "original": "뒷골목 발명가",
+    "context": "EN :\nBackstreets Inventor\nJP :\n裏路地の発明家"
+  },
+  {
+    "key": "43-title",
+    "original": "20구 주민",
+    "context": "EN :\nDistrict 20 Resident\nJP :\n20区の住民"
+  },
+  {
+    "key": "43-content",
+    "original": " …40시간이라니! 저번에는 똑같은 품목에 7시간을 징수하지 않았던가.",
+    "context": "EN :\n... Forty hours?! Wasn't it seven hours per item last time?\nJP :\n…40時間だなんて！この前は同じ品目で7時間徴収してたではないか。"
+  },
+  {
+    "key": "44-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "44-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "44-content",
+    "original": "요즘 벌금이 올랐거든~ 마음에 안들어? 징수소로 가서 하나하나 따져보는 걸 원하는 거야?",
+    "context": "EN :\nThe higher-ups raised the fines and tax rates in general, what can I do?\n... What's with that look, huh? What, ya wanna take this to the Collections Office and go through each and every single one of these items? Is that what you want?\nJP :\n最近罰金が引き上げられたんだよね～気に入らないの？\n徴収所に行ってひとつひとつ抗議するのがお望み？"
+  },
+  {
+    "key": "45-teller",
+    "original": "뒷골목 발명가",
+    "context": "EN :\nBackstreets Inventor\nJP :\n裏路地の発明家"
+  },
+  {
+    "key": "45-title",
+    "original": "20구 주민",
+    "context": "EN :\nDistrict 20 Resident\nJP :\n20区の住民"
+  },
+  {
+    "key": "45-content",
+    "original": "그건… 아니지만…",
+    "context": "EN :\nWell, no. But...\nJP :\nそういうわけでは…ないが…。"
+  },
+  {
+    "key": "46-content",
+    "original": "사실 시간세는 오르지 않았어.",
+    "context": "EN :\nIn truth, there weren't any changes made to the Time Tax rates.\nJP :\n実のところ、時間税は引き上げられてないんだ。"
+  },
+  {
+    "key": "47-content",
+    "original": "그저 아이는 자기가 쓸 시간을 벌기 위해 더 많은 시간을 불렀을 뿐이지.",
+    "context": "EN :\nThe child was just giving him an inflated number to skim a little bit off the top for her personal use.\nJP :\nただ子供は、自分が使う時間を稼ぐために\nもっと沢山の時間を要求してるだけなの。"
+  },
+  {
+    "key": "48-content",
+    "original": "받는 시간이 적은, T사의 저등급 징수직에게선 흔한 일이야. ",
+    "context": "EN :\nEmbezzlement is a common practice among the lower-ranking, underpaid Collection Staff at T Corp.\nJP :\n貰う時間が少ない、T社の低ランク徴収職では良くあることだね。"
+  },
+  {
+    "key": "49-content",
+    "original": "징수할 시간보다 더 많은 시간을 회수하고, 그 차익을 자신의 시간으로 쓰는 거지.",
+    "context": "EN :\nThey fine people for more than they owe, and take the surplus time for themselves.\nJP :\n徴収する時間より多くの時間を回収し、\nその差額を自分の時間として使うってこと。"
+  },
+  {
+    "key": "50-content",
+    "original": "괜히 찍혀서 트집잡히면 더 많은 시간을 내야 할 수도 있으니, T사의 시민들도 알면서 눈감아주곤 해.",
+    "context": "EN :\nMost Citizens of T Corp. already know this, but they simply allow it to happen because they don't want to risk beefing with a Collector, which is usually more trouble than it's worth.\nJP :\n無駄に目を付けられて、難癖や言いがかりで更に時間を払う羽目になりかねないから\nT社の市民も知っていながら目を瞑ってくれるんだ。"
+  },
+  {
+    "key": "51-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "51-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "51-content",
+    "original": "나니까, 이 정도만 받는 거야~ 다른 시간 징수자가 왔어봐. 품목 당 10시간은 내야 했을걸.",
+    "context": "EN :\nBesides, you should consider yourself lucky that it's me you're dealing with. The other guys would've tried to rip you off for ten hours per item or something ridiculous like that.\nJP :\n私だから、これくらいにしてあげてるの～。他の時間徴収者が来たら、\n品目につき10時間は出さなきゃならなかったでしょうね。"
+  },
+  {
+    "key": "52-teller",
+    "original": "뒷골목 발명가",
+    "context": "EN :\nBackstreets Inventor\nJP :\n裏路地の発明家"
+  },
+  {
+    "key": "52-title",
+    "original": "20구 주민",
+    "context": "EN :\nDistrict 20 Resident\nJP :\n20区の住民"
+  },
+  {
+    "key": "52-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "53-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "53-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "53-content",
+    "original": "그리고 시계엔 손대지 마.",
+    "context": "EN :\nHey, hands off the timepiece.\nJP :\nあと、時計から手を離して。"
+  },
+  {
+    "key": "54-content",
+    "original": "허리춤에 달린 시계에 손을 가져가는 발명가를 보며 아이는 재빨리 제지했어.",
+    "context": "EN :\nThe child quickly stopped the inventor from reaching the timepiece hanging from his waist.\nJP :\n腰についている時計に手をやる発明家を見ながら、子供は素早く制止した。"
+  },
+  {
+    "key": "55-content",
+    "original": "시간을 아무리 많이 가지고 있더라도, 당일에 가진 시간을 바로 사용하는 건 불가능하지만…",
+    "context": "EN :\nEven the time-rich can't immediately make use of the abundance of time they have within the same day...\nJP :\n時間をいくら沢山持っていたとしても、当日に\n自分が持っている時間をすぐに使うことは不可能だけど…。"
+  },
+  {
+    "key": "56-content",
+    "original": "전날에 미리 감아둔 시간이 있다면, 시계를 만지는 것으로 상대도 가속할 수 있기 때문이야.",
+    "context": "EN :\nBut... if they've already readied and stored enough time the day before, they can accelerate themselves merely by touching their timepieces.\nJP :\n前日に予め巻いておいた時間があれば、時計を触ることで加速できるからね。"
+  },
+  {
+    "key": "57-content",
+    "original": "하지만 상대가 꺼내려던 건, 시계가 아니었어.",
+    "context": "EN :\nBut it wasn't his watch that the inventor was going for.\nJP :\nでも相手が取り出そうとしたのは、時計じゃなかったんだ。"
+  },
+  {
+    "key": "58-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "58-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "58-content",
+    "original": "공구!?",
+    "context": "EN :\nIs that a tool?!\nJP :\n工具！？"
+  },
+  {
+    "key": "59-teller",
+    "original": "뒷골목 발명가",
+    "context": "EN :\nBackstreets Inventor\nJP :\n裏路地の発明家"
+  },
+  {
+    "key": "59-title",
+    "original": "20구 주민",
+    "context": "EN :\nDistrict 20 Resident\nJP :\n20区の住民"
+  },
+  {
+    "key": "59-content",
+    "original": "뭐, 됐수다. 어차피 징수자에게 줄 시간 같은 건 없었으니.",
+    "context": "EN :\nWell, you know what? You can sod right off. I ain't got the time to spare for one of you Collectors anyway.\nJP :\nまぁ、いっかぁ。どうせ徴収者にやる時間なんて無かったんだし。"
+  },
+  {
+    "key": "60-content",
+    "original": "상대가 허리춤에서 공구를 들어 올리자마자, 뒷골목 곳곳에서 공구를 든 사람들이 나왔어.",
+    "context": "EN :\nThat may have been a signal; people holding all kinds of construction equipment slowly emerge from the alleyways of the Backstreets.\nJP :\n相手が腰から工具を取り出すや否や、裏路地のあちこちから\n工具を持った人たちが現れた。"
+  },
+  {
+    "key": "61-content",
+    "original": "처음부터 벌금을 납부할 생각이 없었던 거지.",
+    "context": "EN :\nClearly, he wasn't planning to pay the fine anyway.\nJP :\n最初から罰金を納付するつもりがなかったんだろうね。"
+  },
+  {
+    "key": "62-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "62-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "62-content",
+    "original": "어머, 언제 이렇게 친구들을 많이 불렀대?",
+    "context": "EN :\nOh my! You're a popular one, aren't you?\nJP :\nあらぁ、いつこんなにお友達を呼んだの？"
+  },
+  {
+    "key": "63-teller",
+    "original": "뒷골목 발명가",
+    "context": "EN :\nBackstreets Inventor\nJP :\n裏路地の発明家"
+  },
+  {
+    "key": "63-title",
+    "original": "20구 주민",
+    "context": "EN :\nDistrict 20 Resident\nJP :\n20区の住民"
+  },
+  {
+    "key": "63-content",
+    "original": "40시간이나 뜯어가면, 일주일 정도는 4시간으로 살아야 하지. 어디 그게 사람의 삶인가.",
+    "context": "EN :\nYou take forty hours from me, and I've got to live four-hour days for an entire week. That ain't living at all, lass.\nJP :\n40時間も持ってかれちゃあ、1週間くらいは4時間で生きなきゃならないだろう。\nそんなのが人間の生活だなんて言えるか。"
+  },
+  {
+    "key": "64-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "64-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "64-content",
+    "original": "4시간이 보장되는 게 어디야. ",
+    "context": "EN :\nYou should be grateful that the four-hour policy even exists.\nJP :\n4時間保証されるだけでもマシでしょ。"
+  },
+  {
+    "key": "65-content",
+    "original": "아이는 갑작스레 나타난 사람들에 흠칫 놀랐지만, 이내 침착하게 시계의 태엽을 돌리기 시작했어.",
+    "context": "EN :\nThe child flinched as they began to surround her, but she soon regained her composure and slowly started turning the clockwork on her watch.\nJP :\n子供は突然現れた人に少し驚いたけど、\nすぐに落ち着いて時計のぜんまいを巻き始めた。"
+  },
+  {
+    "key": "66-content",
+    "original": "태엽이 돌아가는 소리와 함께 아이의 몸에 잔상과도 같은 흔적이 아른거렸지.",
+    "context": "EN :\nThe clockwork rattles and turns—and her body begins to shimmer with afterimages.\nJP :\nぜんまいが回る音と共に、子供の身体に残像のような痕跡がちらつき始めた。"
+  },
+  {
+    "key": "67-content",
+    "original": "T사 징수직에게 지급되는 보급 시계. ",
+    "context": "EN :\nThe T Corp. Collectors' standard issue watch.\nJP :\nT者徴収職に支給される普及型時計。"
+  },
+  {
+    "key": "68-content",
+    "original": "그 안의 임무 수행용 시간을 다 쓰면, 다음에는 자신의 시간을 써야하는데도…",
+    "context": "EN :\nOnce she depletes all the time that is assigned to her for the mission, she'll have to resort to using her own time.\nJP :\n任務遂行用の時間を全て使い切っちゃえば、\nその次は自分の時間を使わなきゃならないというのに…。"
+  },
+  {
+    "key": "69-content",
+    "original": "아이는 시간을 대여하기로 한 거야.",
+    "context": "EN :\nBut the child decided to spend it anyway.\nJP :\n子供は時間を借りることにしたんだ。"
+  },
+  {
+    "key": "70-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "70-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "70-content",
+    "original": "너희에게 쓰기엔 너무 아까운 시간이지만… 그래, 어쩔 수 없네.",
+    "context": "EN :\nI don't want to waste my precious time on people like you, but... looks like I haven't got a choice.\nJP :\nあんたたちに対して使うには惜しすぎる時間だけど…うん、どうしようもないか。"
+  },
+  {
+    "key": "71-content",
+    "original": "대답은 돌아오지 않아.",
+    "context": "EN :\nThere is no response.\nJP :\n答えは返ってこない。"
+  },
+  {
+    "key": "72-content",
+    "original": "아니, 정확히는 돌아오는 대답이 너무 느려졌지.",
+    "context": "EN :\nWell—to be more precise, their response was too slow for her to understand.\nJP :\nいいえ、正確には返ってくる答えが遅すぎたの。"
+  },
+  {
+    "key": "73-content",
+    "original": "사람들이 연신 무기나 공구를 휘두르지만, 소용없어.",
+    "context": "EN :\nThe attackers crowd around her, wildly swinging their weapons and tools in her direction, but it's all futile.\nJP :\n人々がしきりに武器や工具を振り回すけど、意味は無い。"
+  },
+  {
+    "key": "74-content",
+    "original": "어떤 방향에서 어떻게 공격해도, 잠시나마 더 많은 시간을 살게 된 아이의 눈에는 너무 느렸거든.",
+    "context": "EN :\nMoving in condensed time, even for a brief moment, was more than enough for her to casually avoid every sluggish haymaker, every wild swing her enemies attempted.\nJP :\nどんな方向から攻撃しても、幾分かは多くの時間を生きることになった\n子供の目には遅すぎるんだ。"
+  },
+  {
+    "key": "75-content",
+    "original": "늘어난 시간만큼 빨라진 아이가 한 걸음을 내디딜 때마다, 상대의 얼굴에는 느릿하게 공포심이 들어차.",
+    "context": "EN :\nWith every rapid step she takes, the greater the fear grows on the faces of her enemies.\nJP :\n増えた時間だけ早くなった子供が1歩を踏み出すたび、\n相手の顔にはゆったりと恐怖が浮かびあがる。"
+  },
+  {
+    "key": "76-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "76-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "76-content",
+    "original": "어차피 내 말이 들리지도 않겠지만, 그래도 말은 해둬야겠어.",
+    "context": "EN :\nI know ya can't hear me, but I gotta say my piece.\nJP :\nどうせ私の言うことは聞こえないだろうけど、\nそれでも言っておかないとね。"
+  },
+  {
+    "key": "77-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "77-title",
+    "original": "T사",
+    "context": "EN :\nT Corp.\nJP :\nT社"
+  },
+  {
+    "key": "77-content",
+    "original": "내 시간을 낭비하게 만든 값. 제대로 뜯어갈 테니 각오하라고.",
+    "context": "EN :\nYou'll pay dearly for wasting my time. Oh, just you wait 'till I'm done with ya.\nJP :\n私の時間を浪費させた代償。\n目一杯むしり取ってくから覚悟してね。"
+  }
+]

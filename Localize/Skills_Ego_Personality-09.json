@@ -1,0 +1,707 @@
+[
+  {
+    "key": "2090411-levelList$[0].name",
+    "original": "들끓는 부식",
+    "context": "EN :\nEffervescent Corrosion\nJP :\n沸き立つ腐食"
+  },
+  {
+    "key": "2090411-levelList$[0].abName",
+    "original": "걷는 진주",
+    "context": "EN :\nAmbling Pearl\nJP :\n歩く真珠"
+  },
+  {
+    "key": "2090411-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 횟수 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 Tremor Count\nJP :\n[OnSucceedAttack] 振動 回数を3付与"
+  },
+  {
+    "key": "2090411-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttackHead] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "2090411-levelList$[1].name",
+    "original": "들끓는 부식",
+    "context": "EN :\nEffervescent Corrosion\nJP :\n沸き立つ腐食"
+  },
+  {
+    "key": "2090411-levelList$[1].abName",
+    "original": "걷는 진주",
+    "context": "EN :\nAmbling Pearl\nJP :\n歩く真珠"
+  },
+  {
+    "key": "2090411-levelList$[1].desc",
+    "original": "[BeforeAttack] 메인 공격 대상의 체력이 최대 체력의 50% 이상이면, 공격 가중치 +1",
+    "context": "EN :\n[BeforeAttack] If main target has 50%+ HP, Atk Weight +1\nJP :\n[BeforeAttack] メインターゲットの体力が最大値の50%以上なら、攻撃加重値 +1"
+  },
+  {
+    "key": "2090411-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 3, 진동 횟수 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Tremor and +5 Tremor Count\nJP :\n[OnSucceedAttack] 振動 3, 振動 回数を5付与"
+  },
+  {
+    "key": "2090411-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttackHead] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "2090411-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackHead] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttackHead] Trigger Tremor Burst\nJP :\n[OnSucceedAttackHead] 振動爆発"
+  },
+  {
+    "key": "2090411-levelList$[2].name",
+    "original": "들끓는 부식",
+    "context": "EN :\nEffervescent Corrosion\nJP :\n沸き立つ腐食"
+  },
+  {
+    "key": "2090411-levelList$[2].abName",
+    "original": "걷는 진주",
+    "context": "EN :\nAmbling Pearl\nJP :\n歩く真珠"
+  },
+  {
+    "key": "2090411-levelList$[2].desc",
+    "original": "[BeforeAttack] 메인 공격 대상의 체력이 최대 체력의 50% 이상이면, 공격 가중치 +1, 최대 체력의 75% 이상이면, 추가로 공격 가중치 +1",
+    "context": "EN :\n[BeforeAttack] If main target has 50%+ HP, Atk Weight +1;\nIf main target has 75%+ HP, additional Atk Weight +1\nJP :\n[BeforeAttack] メインターゲットの体力が最大値の50%以上なら、攻撃加重値 +1\n最大値の75%以上なら、追加で攻撃加重値 +1"
+  },
+  {
+    "key": "2090411-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 3, 진동 횟수 7 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Tremor and +7 Tremor Count\nJP :\n[OnSucceedAttack] 振動 3, 振動 回数を7付与"
+  },
+  {
+    "key": "2090411-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 속박 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 Bind next turn\nJP :\n[OnSucceedAttackHead] 次のターンに束縛 2を付与"
+  },
+  {
+    "key": "2090411-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "2090421-levelList$[0].name",
+    "original": "들끓는 부식",
+    "context": "EN :\nEffervescent Corrosion\nJP :\n沸き立つ腐食"
+  },
+  {
+    "key": "2090421-levelList$[0].abName",
+    "original": "걷는 진주",
+    "context": "EN :\nAmbling Pearl\nJP :\n歩く真珠"
+  },
+  {
+    "key": "2090421-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nJP :\n[CantIdentify]\nランダムな対象を攻撃"
+  },
+  {
+    "key": "2090421-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 30%만큼 자신의 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 30% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の30%分、自分の体力を回復"
+  },
+  {
+    "key": "2090421-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "2090421-levelList$[1].name",
+    "original": "들끓는 부식",
+    "context": "EN :\nEffervescent Corrosion\nJP :\n沸き立つ腐食"
+  },
+  {
+    "key": "2090421-levelList$[1].abName",
+    "original": "걷는 진주",
+    "context": "EN :\nAmbling Pearl\nJP :\n歩く真珠"
+  },
+  {
+    "key": "2090421-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 메인 공격 대상의 체력이 최대 체력의 50% 이상이면, 공격 가중치 +1",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] If main target has 50%+ HP, Atk Weight +1\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] メインターゲットの体力が最大値の50%以上なら、攻撃加重値+1"
+  },
+  {
+    "key": "2090421-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 30%만큼 자신의 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 30% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の30%分、自分の体力を回復"
+  },
+  {
+    "key": "2090421-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 방어 레벨 감소 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Defense Level Down\nJP :\n[OnSucceedAttack] 防御レベル減少 3を付与"
+  },
+  {
+    "key": "2090421-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "2090421-levelList$[2].name",
+    "original": "들끓는 부식",
+    "context": "EN :\nEffervescent Corrosion\nJP :\n沸き立つ腐食"
+  },
+  {
+    "key": "2090421-levelList$[2].abName",
+    "original": "걷는 진주",
+    "context": "EN :\nAmbling Pearl\nJP :\n歩く真珠"
+  },
+  {
+    "key": "2090421-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 메인 공격 대상의 체력이 최대 체력의 50% 이상이면, 공격 가중치 +1, 최대 체력의 75% 이상이면, 추가로 공격 가중치 +1",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] If main target has 50%+ HP, Atk Weight +1;\nIf main target has 75%+ HP, additional Atk Weight +1\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] メインターゲットの体力が最大値の50%以上なら、攻撃加重値 +1\n最大値の75%以上なら、追加で攻撃加重値 +1"
+  },
+  {
+    "key": "2090421-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 피해량의 30%만큼 자신의 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 30% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の30%分、自分の体力を回復"
+  },
+  {
+    "key": "2090421-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 방어 레벨 감소 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Defense Level Down\nJP :\n[OnSucceedAttack] 防御レベル減少 5を付与"
+  },
+  {
+    "key": "2090421-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "2090511-levelList$[0].name",
+    "original": "집행",
+    "context": "EN :\nPursuance\nJP :\n執行"
+  },
+  {
+    "key": "2090511-levelList$[0].abName",
+    "original": "하늘 집행관의 보좌",
+    "context": "EN :\nHeavenly Executor’s Scribe\nJP :\n天の執行官の補佐"
+  },
+  {
+    "key": "2090511-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 나태 취약 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Sloth Fragility next turn\nJP :\n[OnSucceedAttackHead] 次のターンに怠惰脆弱 1を付与"
+  },
+  {
+    "key": "2090511-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[EndSkill] 자신을 제외하고 현재 체력이 비율이 가장 낮은 아군 2명의 체력을 자신의 최대 체력의 15%만큼 회복",
+    "context": "EN :\n[EndSkill] Heal 2 other allies with the least HP percentage for 15% of this unit's Max HP\nJP :\n[EndSkill] 自分を除く、現体力の比率が最も低い味方2名の体力を、自分の体力最大値の15%だけ回復"
+  },
+  {
+    "key": "2090511-levelList$[1].name",
+    "original": "집행",
+    "context": "EN :\nPursuance\nJP :\n執行"
+  },
+  {
+    "key": "2090511-levelList$[1].abName",
+    "original": "하늘 집행관의 보좌",
+    "context": "EN :\nHeavenly Executor’s Scribe\nJP :\n天の執行官の補佐"
+  },
+  {
+    "key": "2090511-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 나태 취약 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Sloth Fragility next turn\nJP :\n[OnSucceedAttackHead] 次のターンに怠惰脆弱 1を付与"
+  },
+  {
+    "key": "2090511-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[EndSkill] 자신을 제외하고 현재 체력이 비율이 가장 낮은 아군 2명의 체력을 자신의 최대 체력의 25%만큼 회복",
+    "context": "EN :\n[EndSkill] Heal 2 other allies with the least HP percentage for 25% of this unit's Max HP\nJP :\n[EndSkill] 自分を除く、現体力の比率が最も低い味方2名の体力を、自分の体力最大値の25%だけ回復"
+  },
+  {
+    "key": "2090511-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[EndSkillHead] 대상이 흐트러지거나 사망한 경우, 체력을 회복시킨 캐릭터들에게 자신의 최대 체력의 10%만큼 보호막 부여",
+    "context": "EN :\n[EndSkillHead] If the target is Staggered or defeated, apply 10% of this unit's Max HP as Shield to allies that this unit healed\nJP :\n[EndSkillHead] 対象が混乱するか死亡した場合、体力を回復させたキャラクターへ、自分の体力最大値の10%だけバリアを付与"
+  },
+  {
+    "key": "2090511-levelList$[2].name",
+    "original": "집행",
+    "context": "EN :\nPursuance\nJP :\n執行"
+  },
+  {
+    "key": "2090511-levelList$[2].abName",
+    "original": "하늘 집행관의 보좌",
+    "context": "EN :\nHeavenly Executor’s Scribe\nJP :\n天の執行官の補佐"
+  },
+  {
+    "key": "2090511-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 나태 취약 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Sloth Fragility next turn\nJP :\n[OnSucceedAttack] 次のターンに怠惰脆弱 1を付与"
+  },
+  {
+    "key": "2090511-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[EndSkill] 자신을 제외하고 현재 체력이 비율이 가장 낮은 아군 2명의 체력을 자신의 최대 체력의 30%만큼 회복",
+    "context": "EN :\n[EndSkill] Heal 2 other allies with the least HP percentage for 30% of this unit's Max HP\nJP :\n[EndSkill] 自分を除く、現体力の比率が最も低い味方2名の体力を、自分の体力最大値の30%だけ回復"
+  },
+  {
+    "key": "2090511-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[EndSkillHead] 대상이 흐트러지거나 사망한 경우, 체력을 회복시킨 캐릭터들에게 자신의 최대 체력의 15%만큼 보호막 부여",
+    "context": "EN :\n[EndSkillHead] If the target is Staggered or defeated, apply 15% of this unit's Max HP as Shield to allies that this unit healed\nJP :\n[EndSkillHead] 対象が混乱するか死亡した場合、体力を回復させたキャラクターへ、自分の体力最大値の15%だけバリアを付与"
+  },
+  {
+    "key": "2090521-levelList$[0].name",
+    "original": "집행",
+    "context": "EN :\nPursuance\nJP :\n執行"
+  },
+  {
+    "key": "2090521-levelList$[0].abName",
+    "original": "하늘 집행관의 보좌",
+    "context": "EN :\nHeavenly Executor’s Scribe\nJP :\n天の執行官の補佐"
+  },
+  {
+    "key": "2090521-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nJP :\n[CantIdentify]\nランダムな対象を攻撃"
+  },
+  {
+    "key": "2090521-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "2090521-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 정신력 15 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal 15 SP damage\nJP :\n[OnSucceedAttack] 対象へ15精神力ダメージ"
+  },
+  {
+    "key": "2090521-levelList$[1].name",
+    "original": "집행",
+    "context": "EN :\nPursuance\nJP :\n執行"
+  },
+  {
+    "key": "2090521-levelList$[1].abName",
+    "original": "하늘 집행관의 보좌",
+    "context": "EN :\nHeavenly Executor’s Scribe\nJP :\n天の執行官の補佐"
+  },
+  {
+    "key": "2090521-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 체력이 50% 미만이면, 공격 가중치 +1",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 50%- HP, Atk Weight +1\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の体力が50%未満なら、攻撃加重値 +1"
+  },
+  {
+    "key": "2090521-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "2090521-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 정신력 20 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal 20 SP damage\nJP :\n[OnSucceedAttack] 対象へ20精神力ダメージ"
+  },
+  {
+    "key": "2090521-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackTail] 대상이 흐트러지거나 사망한 경우 자신의 정신력 5 회복",
+    "context": "EN :\n[OnSucceedAttackTail] If the target is Staggered or defeated, heal 5 SP on self\nJP :\n[OnSucceedAttackTail] 対象が混乱するか死亡した場合、自分の精神力を5回復"
+  },
+  {
+    "key": "2090521-levelList$[2].name",
+    "original": "집행",
+    "context": "EN :\nPursuance\nJP :\n執行"
+  },
+  {
+    "key": "2090521-levelList$[2].abName",
+    "original": "하늘 집행관의 보좌",
+    "context": "EN :\nHeavenly Executor’s Scribe\nJP :\n天の執行官の補佐"
+  },
+  {
+    "key": "2090521-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 체력이 50% 미만이면, 공격 가중치 +2",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 50%- HP, Atk Weight +2\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の体力が50%未満なら、攻撃加重値 +2"
+  },
+  {
+    "key": "2090521-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 진동 폭발",
+    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nJP :\n[OnSucceedAttack] 振動爆発"
+  },
+  {
+    "key": "2090521-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 정신력 20 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal 20 SP damage\nJP :\n[OnSucceedAttack] 対象へ20精神力ダメージ"
+  },
+  {
+    "key": "2090521-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 대상이 흐트러지거나 사망한 경우 자신의 정신력 7 회복",
+    "context": "EN :\n[OnSucceedAttack] If the target is Staggered or defeated, heal 7 SP on self\nJP :\n[OnSucceedAttack] 対象が混乱するか死亡した場合、自分の精神力を7回復"
+  },
+  {
+    "key": "2090611-levelList$[0].name",
+    "original": "핏빛욕망",
+    "context": "EN :\nSanguine Desire\nJP :\n血色の欲望"
+  },
+  {
+    "key": "2090611-levelList$[0].abName",
+    "original": "빨간 구두",
+    "context": "EN :\nThe Red Shoes\nJP :\n赤い靴"
+  },
+  {
+    "key": "2090611-levelList$[0].desc",
+    "original": "대상의 [Laceration] 2당 코인 위력 +1 (최대 6)\n[StartBattle] 이 스킬의 메인 타겟은 이번 턴 동안 [Laceration] 횟수가 감소하지 않음.\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소.",
+    "context": "EN :\nCoin Power +1 for every 2 [Laceration] on target (max 6)\n[StartBattle] The main target for this Skill does not lose [Laceration] Count for this turn.\n[EndSkill] For 3 turns, Lose 10 SP at Turn End.\nJP :\n対象の[Laceration]2につきコイン威力 +1(最大6)\n[StartBattle] このスキルのメインターゲットはこのターンの間、[Laceration]回数が減少しない。\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少。"
+  },
+  {
+    "key": "2090611-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration] 위력만큼 색욕 속성 피해를 줌.\n- 색욕 공명이 4 이상이면, 1.2배로 계산\n(계산 시 반영되는 [Laceration] 위력은 99를 초과할 수 없음.)",
+    "context": "EN :\n[OnSucceedAttack] Inflict Lust Affinity damage equal to [Laceration] Potency on target.\n- At 4+ Lust Reson., inflict Lust Affinity damage equal to ([Laceration] Potency on target x 1.2).\n([Laceration] Potency up to only 99 will be used to calculate for this Skill.)\nJP :\n[OnSucceedAttack] 対象の[Laceration]威力だけ色欲属性ダメージを与える。\n- 色欲共鳴が4以上なら、1.2倍で計算\n(計算時に反映される[Laceration]威力は99を超えない。)"
+  },
+  {
+    "key": "2090611-levelList$[0].coinlist[0].coindescs[0].summary",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]에 비례하여 색욕 속성 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal Lust Affinity damage based on [Laceration] on target\nJP :\n[OnSucceedAttack] 対象の[Laceration]に比例して、色欲属性ダメージ"
+  },
+  {
+    "key": "2090611-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[EnemyKill] 이 스킬의 피해 또는 코인 효과로 적의 남은 체력을 초과하여 피해를 준 경우, 초과한 피해량을 고정 피해로 적 전체에 나눠서 가함.\n(집중 전투인 경우, 본체의 체력을 기준으로 계산)",
+    "context": "EN :\n[EnemyKill] If this Skill or its Coin effects dealt damage that exceeds the target's(In Focused Encounters, the Core's) remaining HP, deal the excess damage as fixed damage between all enemies.\nJP :\n[EnemyKill] このスキルのダメージ、またはコイン効果で敵の残体力以上のダメージを与えた場合、超過分のダメージを敵全体へ配分して与える。\n(集中戦闘の場合、本体の体力を基準に計算)"
+  },
+  {
+    "key": "2090611-levelList$[0].coinlist[0].coindescs[1].summary",
+    "original": "[EnemyKill] 초과 피해를 준 경우, 초과 피해량을 적 전체에 나눠서 가함.",
+    "context": "EN :\n[EnemyKill] Inflict the excess damage between all enemies.\nJP :\n[EnemyKill] 敵の残体力以上のダメージを与えた場合、超過分のダメージを敵全体へ配分して与える。"
+  },
+  {
+    "key": "2090611-levelList$[1].name",
+    "original": "핏빛욕망",
+    "context": "EN :\nSanguine Desire\nJP :\n血色の欲望"
+  },
+  {
+    "key": "2090611-levelList$[1].abName",
+    "original": "빨간 구두",
+    "context": "EN :\nThe Red Shoes\nJP :\n赤い靴"
+  },
+  {
+    "key": "2090611-levelList$[1].desc",
+    "original": "대상의 [Laceration] 2당 코인 위력 +1 (최대 <style=\"highlight\">9</style>)\n[StartBattle] 이 스킬의 메인 타겟은 이번 턴 동안 [Laceration] 횟수가 감소하지 않음.\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소.",
+    "context": "EN :\nCoin Power +1 for every 2 [Laceration] on target (max <style=\"highlight\">9</style>)\n[StartBattle] The main target for this Skill does not lose [Laceration] Count for this turn.\n[EndSkill] For 3 turns, Lose 10 SP at Turn End.\nJP :\n対象の[Laceration]2につきコイン威力 +1(最大<style=\"highlight\">9</style>)\n[StartBattle] このスキルのメインターゲットはこのターンの間、[Laceration]回数が減少しない。\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少。"
+  },
+  {
+    "key": "2090611-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] <style=\"highlight\">(대상의 [Laceration] 위력 x 1.2)</style>만큼 색욕 속성 피해를 줌.\n- 색욕 공명이 4 이상이면, x<style=\"highlight\">1.5</style>로 계산.\n<style=\"highlight\">- 최대 색욕 완전 공명 수가 4 이상이면, x1.8로 계산.</style>\n(계산 시 반영되는 [Laceration] 위력은 99를 초과할 수 없음.)",
+    "context": "EN :\n[OnSucceedAttack] Inflict Lust Affinity damage equal to <style=\"highlight\">([Laceration] Potency on target x 1.2)</style>.\n- At 4+ Lust Reson., inflict Lust Affinity damage equal to ([Laceration] Potency on target x <style=\"highlight\">1.5</style>).\n<style=\"highlight\">- At 4+ Lust A-Reson., inflict Lust Affinity damage equal to ([Laceration] Potency on target x 1.8).</style>\n([Laceration] Potency up to only 99 will be used to calculate for this Skill.)\nJP :\n[OnSucceedAttack] <style=\"highlight\">(対象の[Laceration]威力 × 1.2)</style>だけ色欲属性ダメージを与える。\n- 色欲共鳴が4以上なら、×<style=\"highlight\">1.5</style>で計算\n- 最大色欲完全共鳴数が4以上なら、×<style=\"highlight\">1.8</style>で計算\n(計算時に反映される[Laceration]威力は99を超えない。)"
+  },
+  {
+    "key": "2090611-levelList$[1].coinlist[0].coindescs[0].summary",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]에 비례하여 색욕 속성 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal Lust Affinity damage based on [Laceration] on target\nJP :\n[OnSucceedAttack] 対象の[Laceration]に比例して、色欲属性ダメージ"
+  },
+  {
+    "key": "2090611-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[EnemyKill] 이 스킬의 피해 또는 코인 효과로 적의 남은 체력을 초과하여 피해를 준 경우, 초과한 피해량을 고정 피해로 적 전체에 나눠서 가함.\n(집중 전투인 경우, 본체의 체력을 기준으로 계산)",
+    "context": "EN :\n[EnemyKill] If this Skill or its Coin effects dealt damage that exceeds the target's(In Focused Encounters, the Core's) remaining HP, deal the excess damage as fixed damage between all enemies.\nJP :\n[EnemyKill] このスキルのダメージ、またはコイン効果で敵の残体力以上のダメージを与えた場合、超過分のダメージを敵全体へ配分して与える。\n(集中戦闘の場合、本体の体力を基準に計算)"
+  },
+  {
+    "key": "2090611-levelList$[1].coinlist[0].coindescs[1].summary",
+    "original": "[EnemyKill] 초과 피해를 준 경우, 초과 피해량을 적 전체에 나눠서 가함.",
+    "context": "EN :\n[EnemyKill] Inflict the excess damage between all enemies.\nJP :\n[EnemyKill] 敵の残体力以上のダメージを与えた場合、超過分のダメージを敵全体へ配分して与える。"
+  },
+  {
+    "key": "2090611-levelList$[2].name",
+    "original": "핏빛욕망",
+    "context": "EN :\nSanguine Desire\nJP :\n血色の欲望"
+  },
+  {
+    "key": "2090611-levelList$[2].abName",
+    "original": "빨간 구두",
+    "context": "EN :\nThe Red Shoes\nJP :\n赤い靴"
+  },
+  {
+    "key": "2090611-levelList$[2].desc",
+    "original": "대상의 [Laceration] 2당 코인 위력 +1 (최대 <style=\"highlight\">13</style>)\n[StartBattle] 이 스킬의 메인 타겟은 이번 턴 동안 [Laceration] 횟수가 감소하지 않음.\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소.",
+    "context": "EN :\nCoin Power +1 for every 2 [Laceration] on target (max <style=\"highlight\">13</style>)\n[StartBattle] The main target for this Skill does not lose [Laceration] Count for this turn.\n[EndSkill] For 3 turns, Lose 10 SP at Turn End.\nJP :\n対象の[Laceration]2につきコイン威力 +1(最大<style=\"highlight\">13</style>)\n[StartBattle] このスキルのメインターゲットはこのターンの間、[Laceration]回数が減少しない。\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少。"
+  },
+  {
+    "key": "2090611-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] (대상의 [Laceration] 위력 x <style=\"highlight\">1.5</style>)만큼 색욕 속성 피해를 줌.\n- 색욕 공명이 4 이상이면, x<style=\"highlight\">1.8</style>로 계산.\n- 최대 색욕 완전 공명 수가 4 이상이면, x<style=\"highlight\">2</style>로 계산.\n(계산 시 반영되는 [Laceration] 위력은 99를 초과할 수 없음.)",
+    "context": "EN :\n[OnSucceedAttack] Inflict Lust Affinity damage equal to ([Laceration] Potency on target x <style=\"highlight\">1.5</style>)\n- At 4+ Lust Reson., inflict Lust Affinity damage equal to ([Laceration] Potency on target x <style=\"highlight\">1.8</style>).\n- At 4+ Lust A-Reson., inflict Lust Affinity damage equal to ([Laceration] Potency on target x <style=\"highlight\">2</style>).\n([Laceration] Potency up to only 99 will be used to calculate for this Skill.)\nJP :\n[OnSucceedAttack] (対象の[Laceration]威力 × 1.2)だけ色欲属性ダメージを与える。\n- 色欲共鳴が4以上なら、×<style=\"highlight\">1.8</style>で計算\n- 最大色欲完全共鳴数が4以上なら、×<style=\"highlight\">2</style>で計算\n(計算時に反映される[Laceration]威力は99を超えない。)"
+  },
+  {
+    "key": "2090611-levelList$[2].coinlist[0].coindescs[0].summary",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]에 비례하여 색욕 속성 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal Lust Affinity damage based on [Laceration] on target\nJP :\n[OnSucceedAttack] 対象の[Laceration]に比例して、色欲属性ダメージ"
+  },
+  {
+    "key": "2090611-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[EnemyKill] 이 스킬의 피해 또는 코인 효과로 적의 남은 체력을 초과하여 피해를 준 경우, 초과한 피해량을 고정 피해로 적 전체에 나눠서 가함.\n(집중 전투인 경우, 본체의 체력을 기준으로 계산)",
+    "context": "EN :\n[EnemyKill] If this Skill or its Coin effects dealt damage that exceeds the target's(In Focused Encounters, the Core's) remaining HP, deal the excess damage as fixed damage between all enemies.\nJP :\n[EnemyKill] このスキルのダメージ、またはコイン効果で敵の残体力以上のダメージを与えた場合、超過分のダメージを敵全体へ配分して与える。\n(集中戦闘の場合、本体の体力を基準に計算)"
+  },
+  {
+    "key": "2090611-levelList$[2].coinlist[0].coindescs[1].summary",
+    "original": "[EnemyKill] 초과 피해를 준 경우, 초과 피해량을 적 전체에 나눠서 가함.",
+    "context": "EN :\n[EnemyKill] Inflict the excess damage between all enemies.\nJP :\n[EnemyKill] 敵の残体力以上のダメージを与えた場合、超過分のダメージを敵全体へ配分して与える。"
+  },
+  {
+    "key": "2090621-levelList$[0].name",
+    "original": "핏빛욕망",
+    "context": "EN :\nSanguine Desire\nJP :\n血色の欲望"
+  },
+  {
+    "key": "2090621-levelList$[0].abName",
+    "original": "빨간 구두",
+    "context": "EN :\nThe Red Shoes\nJP :\n赤い靴"
+  },
+  {
+    "key": "2090621-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (가장 높은 공명 수 - 2) 만큼 공격 가중치 증가 (최대 2)",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (max 2)\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大2)"
+  },
+  {
+    "key": "2090621-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 2 + (색욕 공명 수)만큼 [Laceration] 부여\n(공명 수 비례 최대 [Laceration] 부여량 : 4)",
+    "context": "EN :\n[OnSucceedAttack] Inflict (2 + (Lust Reson.)) [Laceration]\n(Maximum Lust Reson. taken into account : 4)\nJP :\n[OnSucceedAttack] 2 + (色欲共鳴数)だけ[Laceration]を付与\n(共鳴数比例の最大[Laceration]付与量 : 4)"
+  },
+  {
+    "key": "2090621-levelList$[0].coinlist[0].coindescs[0].summary",
+    "original": "[OnSucceedAttack] 2 + 색욕 공명 수만큼 [Laceration] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict (2 + (Lust Reson.)) [Laceration]\nJP :\n[OnSucceedAttack] 2 + 色欲共鳴数だけ[Laceration]を付与"
+  },
+  {
+    "key": "2090621-levelList$[1].name",
+    "original": "핏빛욕망",
+    "context": "EN :\nSanguine Desire\nJP :\n血色の欲望"
+  },
+  {
+    "key": "2090621-levelList$[1].abName",
+    "original": "빨간 구두",
+    "context": "EN :\nThe Red Shoes\nJP :\n赤い靴"
+  },
+  {
+    "key": "2090621-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (가장 높은 공명 수 - 2) 만큼 공격 가중치 증가 (최대 2)",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (max 2)\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大2)"
+  },
+  {
+    "key": "2090621-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] <style=\"highlight\">3</style> + (색욕 공명 수)만큼 [Laceration] 부여\n(공명 수 비례 최대 [Laceration] 부여량 : <style=\"highlight\">5</style>)",
+    "context": "EN :\n[OnSucceedAttack] Inflict (<style=\"highlight\">3</style> + (Lust Reson.)) [Laceration]\n(Maximum Lust Reson. taken into account : <style=\"highlight\">5</style>)\nJP :\n[OnSucceedAttack] <style=\"highlight\">3</style> + (色欲共鳴数)だけ[Laceration]を付与\n(共鳴数比例の最大[Laceration]付与量 : <style=\"highlight\">5</style>)"
+  },
+  {
+    "key": "2090621-levelList$[1].coinlist[0].coindescs[0].summary",
+    "original": "[OnSucceedAttack] 3 + 색욕 공명 수만큼 [Laceration] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict (3 + (Lust Reson.)) [Laceration]\nJP :\n[OnSucceedAttack] 3 + 色欲共鳴数だけ[Laceration]を付与"
+  },
+  {
+    "key": "2090621-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "2090621-levelList$[2].name",
+    "original": "핏빛욕망",
+    "context": "EN :\nSanguine Desire\nJP :\n血色の欲望"
+  },
+  {
+    "key": "2090621-levelList$[2].abName",
+    "original": "빨간 구두",
+    "context": "EN :\nThe Red Shoes\nJP :\n赤い靴"
+  },
+  {
+    "key": "2090621-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (가장 높은 공명 수 - 2) 만큼 공격 가중치 증가 (최대 2)",
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (max 2)\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大2)"
+  },
+  {
+    "key": "2090621-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] <style=\"highlight\">4</style> + (색욕 공명 수)만큼 [Laceration] 부여\n(공명 수 비례 최대 [Laceration] 부여량 : <style=\"highlight\">6</style>)",
+    "context": "EN :\n[OnSucceedAttack] Inflict (<style=\"highlight\">4</style> + (Lust Reson.)) [Laceration]\n(Maximum Lust Reson. taken into account : <style=\"highlight\">6</style>)\nJP :\n[OnSucceedAttack] <style=\"highlight\">4</style> + (色欲共鳴数)だけ[Laceration]を付与\n(共鳴数比例の最大[Laceration]付与量 : <style=\"highlight\">6</style>)"
+  },
+  {
+    "key": "2090621-levelList$[2].coinlist[0].coindescs[0].summary",
+    "original": "[OnSucceedAttack] 4 + 색욕 공명 수만큼 [Laceration] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict (4 + (Lust Reson.)) [Laceration]\nJP :\n[OnSucceedAttack] 4 + 色欲共鳴数だけ[Laceration]を付与"
+  },
+  {
+    "key": "2090621-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 <style=\"highlight\">3</style> 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +<style=\"highlight\">3</style> [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が<style=\"highlight\">3</style>増加"
+  },
+  {
+    "key": "2090711-levelList$[0].name",
+    "original": "저주못",
+    "context": "EN :\nHex Nail\nJP :\n呪いの釘"
+  },
+  {
+    "key": "2090711-levelList$[0].abName",
+    "original": "아파하는 테디",
+    "context": "EN :\nHurting Teddy Bear\nJP :\n痛がるテディ"
+  },
+  {
+    "key": "2090711-levelList$[0].desc",
+    "original": "[EndSkill] 자신과 현재 체력 비율이 가장 낮은 아군 2명의 체력을 자신의 최대 체력의 12.5%만큼 회복",
+    "context": "EN :\n[EndSkill] Heal self and 2 other allies with the least HP percentage for 12.5% of this unit's max HP\nJP :\n[EndSkill] 自分と、現体力の比率が最も低い味方2名の体力を、自分の体力最大値の12.5%だけ回復"
+  },
+  {
+    "key": "2090711-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "2090711-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Curse]\nJP :\n[OnSucceedAttack] [Curse]2を付与"
+  },
+  {
+    "key": "2090711-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [NailPersonality] 2 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 [NailPersonality]\nJP :\n[OnSucceedAttackHead] [NailPersonality]2を付与"
+  },
+  {
+    "key": "2090711-levelList$[1].name",
+    "original": "저주못",
+    "context": "EN :\nHex Nail\nJP :\n呪いの釘"
+  },
+  {
+    "key": "2090711-levelList$[1].abName",
+    "original": "아파하는 테디",
+    "context": "EN :\nHurting Teddy Bear\nJP :\n痛がるテディ"
+  },
+  {
+    "key": "2090711-levelList$[1].desc",
+    "original": "[EndSkill] 자신과 현재 체력 비율이 가장 낮은 아군 2명의 체력을 자신의 최대 체력의 12.5%만큼 회복\n<style=\"highlight\">- 회복받는 대상이 보유한 부정적인 효과 종류 2개당 최대 체력의 2.5%만큼 회복량이 증가 (최대 7.5%)</style>",
+    "context": "EN :\n[EndSkill] Heal self and 2 other allies with the least HP percentage for 12.5% of this unit's max HP\n<style=\"highlight\">- Each heal-receiving unit heals +2.5% more HP for every 2 negative effect on themselves (max 7.5)</style>\nJP :\n[EndSkill] 自分と、現体力の比率が最も低い味方2名の体力を、自分の体力最大値の12.5%だけ回復\n<style=\"highlight\">- 回復対象が保有するマイナス効果の種類2つにつき、体力最大値の2.5%だけ回復量が増加(最大7.5%)</style>"
+  },
+  {
+    "key": "2090711-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]<style=\"highlight\">3</style>を付与"
+  },
+  {
+    "key": "2090711-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Curse]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Curse]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2090711-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [NailPersonality] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 2 [NailPersonality]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttackHead] [NailPersonality]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2090711-levelList$[2].name",
+    "original": "저주못",
+    "context": "EN :\nHex Nail\nJP :\n呪いの釘"
+  },
+  {
+    "key": "2090711-levelList$[2].abName",
+    "original": "아파하는 테디",
+    "context": "EN :\nHurting Teddy Bear\nJP :\n痛がるテディ"
+  },
+  {
+    "key": "2090711-levelList$[2].desc",
+    "original": "[EndSkill] 자신과 현재 체력 비율이 가장 낮은 아군 2명의 체력을 자신의 최대 체력의 <style=\"highlight\">15%</style>만큼 회복\n- 회복받는 대상이 보유한 부정적인 효과 종류 <style=\"highlight\">1</style>개당 최대 체력의 2.5%만큼 회복량이 증가 (최대 <style=\"highlight\">10%</style>)\n<style=\"highlight\">- 이 스킬을 포함하여 질투 공명이 4 이상이면, 회복 대상 수 +1</style>",
+    "context": "EN :\n[EndSkill] Heal self and 2 other allies with the least HP percentage for <style=\"highlight\">15%</style> of this unit's max HP\n- Each heal-receiving unit heals +2.5% more HP for <style=\"highlight\">every</style> negative effect on themselves (max <style=\"highlight\">10%</style>)\n<style=\"highlight\">- At 4+ Envy Reson. including this Skill, heal 1 additional ally</style>\nJP :\n[EndSkill] 自分と、現体力の比率が最も低い味方2名の体力を、自分の体力最大値の<style=\"highlight\">15%</style>だけ回復\n- 回復対象が保有するマイナス効果の種類<style=\"highlight\">1</style>つにつき、体力最大値の2.5%だけ回復量が増加(最大<style=\"highlight\">10%</style>)\n<style=\"highlight\">- このスキルを含めた嫉妬共鳴が4以上なら、回復対象数 +1</style>"
+  },
+  {
+    "key": "2090711-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] <style=\"highlight\">4</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">4</style> [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]<style=\"highlight\">4</style>を付与"
+  },
+  {
+    "key": "2090711-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Curse]\nJP :\n[OnSucceedAttack] [Curse]<style=\"highlight\">3</style>を付与"
+  },
+  {
+    "key": "2090711-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [NailPersonality] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict <style=\"highlight\">3</style> [NailPersonality]\nJP :\n[OnSucceedAttackHead] [NailPersonality]<style=\"highlight\">3</style>を付与"
+  },
+  {
+    "key": "2090721-levelList$[0].name",
+    "original": "저주못",
+    "context": "EN :\nHex Nail\nJP :\n呪いの釘"
+  },
+  {
+    "key": "2090721-levelList$[0].abName",
+    "original": "아파하는 테디",
+    "context": "EN :\nHurting Teddy Bear\nJP :\n痛がるテディ"
+  },
+  {
+    "key": "2090721-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 자신을 제외하고 현재 체력 비율이 가장 낮은 아군 3명의 체력을 자신의 최대 체력의 15%만큼 회복",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n[EndSkill] Heal 3 other allies with the least HP percentage for 15% of this unit's max HP\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 自分を除く、現体力の比率が最も低い味方3名の体力を、自分の体力最大値の15%だけ回復"
+  },
+  {
+    "key": "2090721-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "2090721-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "2090721-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Curse]\nJP :\n[OnSucceedAttack] [Curse]2を付与"
+  },
+  {
+    "key": "2090721-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackTail] [NailPersonality] 2 부여",
+    "context": "EN :\n[OnSucceedAttackTail] Inflict 2 [NailPersonality]\nJP :\n[OnSucceedAttackTail] [NailPersonality]2を付与"
+  },
+  {
+    "key": "2090721-levelList$[1].name",
+    "original": "저주못",
+    "context": "EN :\nHex Nail\nJP :\n呪いの釘"
+  },
+  {
+    "key": "2090721-levelList$[1].abName",
+    "original": "아파하는 테디",
+    "context": "EN :\nHurting Teddy Bear\nJP :\n痛がるテディ"
+  },
+  {
+    "key": "2090721-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 자신을 제외하고 현재 체력 비율이 가장 낮은 아군 3명의 체력을 자신의 최대 체력의 15%만큼 회복\n<style=\"highlight\">- 회복받는 대상이 보유한 부정적인 효과 종류 2개당 다음 턴까지 [AttackUp] 1 부여 (최대 2)</style>",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n[EndSkill] Heal 3 other allies with the least HP percentage for 15% of this unit's max HP\n<style=\"highlight\">- Each heal-receiving unit gains 1 [AttackUp] until next turn for every 2 negative effect on themselves (max 2)</style>\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 自分を除く、現体力の比率が最も低い味方3名の体力を、自分の体力最大値の15%だけ回復\n<style=\"highlight\">- 回復対象が保有するマイナス効果の種類2つにつき、次のターンまで[AttackUp]1を付与(最大2)</style>"
+  },
+  {
+    "key": "2090721-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]<style=\"highlight\">3</style>を付与"
+  },
+  {
+    "key": "2090721-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2090721-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Curse]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Curse]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2090721-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackTail] [NailPersonality] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttackTail] Inflict 2 [NailPersonality]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttackTail] [NailPersonality]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2090721-levelList$[2].name",
+    "original": "저주못",
+    "context": "EN :\nHex Nail\nJP :\n呪いの釘"
+  },
+  {
+    "key": "2090721-levelList$[2].abName",
+    "original": "아파하는 테디",
+    "context": "EN :\nHurting Teddy Bear\nJP :\n痛がるテディ"
+  },
+  {
+    "key": "2090721-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[EndSkill] 자신을 제외하고 현재 체력 비율이 가장 낮은 아군 3명의 체력을 자신의 최대 체력의 <style=\"highlight\">20%</style>만큼 회복\n- 회복받는 대상이 보유한 부정적인 효과 종류 <style=\"highlight\">1</style>개당 다음 턴까지 [AttackUp] 1 부여 (최대 <style=\"highlight\">3</style>)\n<style=\"highlight\">- 이 스킬을 포함하여 질투 공명이 4 이상이면, 회복 대상 수 +1</style>",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n[EndSkill] Heal 3 other allies with the least HP percentage for <style=\"highlight\">20%</style> of this unit's max HP\n- Each heal-receiving unit gains 1 [AttackUp] until next turn for <style=\"highlight\">every</style> negative effect on themselves (max <style=\"highlight\">3</style>)\n<style=\"highlight\">- At 4+ Envy Reson. including this Skill, heal 1 additional ally</style>\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 自分を除く、現体力の比率が最も低い味方3名の体力を、自分の体力最大値の<style=\"highlight\">20%</style>だけ回復\n- 回復対象が保有するマイナス効果の種類<style=\"highlight\">1</style>つにつき、次のターンまで[AttackUp]1を付与(最大<style=\"highlight\">3</style>)\n<style=\"highlight\">- このスキルを含む嫉妬共鳴が4以上なら、回復対象数 +1</style>"
+  },
+  {
+    "key": "2090721-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] <style=\"highlight\">4</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">4</style> [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]<style=\"highlight\">4</style>を付与"
+  },
+  {
+    "key": "2090721-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2090721-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Curse]\nJP :\n[OnSucceedAttack] [Curse]<style=\"highlight\">3</style>を付与"
+  },
+  {
+    "key": "2090721-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackTail] [NailPersonality] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[OnSucceedAttackTail] Inflict <style=\"highlight\">3</style> [NailPersonality]\nJP :\n[OnSucceedAttackTail] [NailPersonality]<style=\"highlight\">3</style>を付与"
+  }
+]

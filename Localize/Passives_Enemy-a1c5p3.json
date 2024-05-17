@@ -1,0 +1,42 @@
+[
+  {
+    "key": "9009801-name",
+    "original": "억제된 백화",
+    "context": "EN :\nSuppressed Pallidification\nJP :\n抑制された白化"
+  },
+  {
+    "key": "9009801-desc",
+    "original": "턴 시작 시 (자신을 제외한 살아있는 아군 수)만큼 자신의 공격 레벨과 방어 레벨이 증가",
+    "context": "EN :\nAt Turn Start, gain 'Offense Level' and 'Defense Level' by the number of surviving allies (not including this unit)\nJP :\nターン開始時、(自分を除く生存している味方の数)だけ自分の攻撃・防御レベルが増加"
+  },
+  {
+    "key": "9009802-name",
+    "original": "선장님의 명령",
+    "context": "EN :\nCaptain's Orders\nJP :\n船長の命令"
+  },
+  {
+    "key": "9009802-desc",
+    "original": "턴 시작 시 (자신을 제외한 살아있는 아군 수 x 3) 만큼 정신력을 회복한다.",
+    "context": "EN :\nAt Turn Start, heal SP by (# of other surviving allies x 3)\nJP :\nターン開始時(自分を除外した生存している味方の数 × 3)だけ精神力を回復する。"
+  },
+  {
+    "key": "9009803-name",
+    "original": "주입된 증오와 미움",
+    "context": "EN :\nInjected Hatred and Animosity\nJP :\n注入された憎悪と恨み"
+  },
+  {
+    "key": "9009803-desc",
+    "original": "턴 종료 시 체력이 50% 미만이면, 다음 턴에 공격 위력 증가 1을 얻는다. (전투 당 1회 발동)",
+    "context": "EN :\nTurn End: At 50%- HP, gain 1 Attack Power Up next turn. (once per encounter)\nJP :\nターン終了時に体力が50%未満なら、次のターンに攻撃威力増加 1を得る。(戦闘につき1回発動)"
+  },
+  {
+    "key": "9009804-name",
+    "original": "덮쳐오는 백화",
+    "context": "EN :\nCrashing Pallidification\nJP :\n襲いかかる白化"
+  },
+  {
+    "key": "9009804-desc",
+    "original": "턴 종료 시 정신력이 0 미만이면, 50% 확률로 스킬 패턴이 변경된다.",
+    "context": "EN :\nTurn End: At less than 0 SP, 50% chance to change Skill patterns.\nJP :\nターン終了時に精神力が0未満なら、50%の確率でスキルパターンが変更。"
+  }
+]

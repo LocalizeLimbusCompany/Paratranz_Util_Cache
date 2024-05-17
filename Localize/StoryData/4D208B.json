@@ -1,0 +1,604 @@
+[
+  {
+    "key": "0-teller",
+    "original": "스테파네트",
+    "context": "EN :\nStephanette\nJP :\nステファネット"
+  },
+  {
+    "key": "0-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "0-content",
+    "original": "너무 그렇게 슬퍼하지 마…",
+    "context": "EN :\nDon't be so sad...\nJP :\nそんなに悲しまないで…。"
+  },
+  {
+    "key": "1-teller",
+    "original": "스테파네트",
+    "context": "EN :\nStephanette\nJP :\nステファネット"
+  },
+  {
+    "key": "1-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "1-content",
+    "original": "나는 당신의 눈물로 다가오는 세월까지 피해 가고 싶지 않아…",
+    "context": "EN :\nI don't want to use your tears to fight the flow of time...\nJP :\n私はあなたの涙で、迫りくる歳月までもを避けて行きたくはないの…。"
+  },
+  {
+    "key": "2-teller",
+    "original": "스테파네트",
+    "context": "EN :\nStephanette\nJP :\nステファネット"
+  },
+  {
+    "key": "2-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "2-content",
+    "original": "그 눈물은 더 절실한 사람들을 위해 쓰이는게 맞으니까.",
+    "context": "EN :\nThose tears are better reserved for those who need them more dearly.\nJP :\nその涙は、より切実に願う人々のために使われるのが正しいのよ。"
+  },
+  {
+    "key": "3-teller",
+    "original": "스테파네트",
+    "context": "EN :\nStephanette\nJP :\nステファネット"
+  },
+  {
+    "key": "3-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "3-content",
+    "original": "잊지 마, 당신은… 아파하는 모든 이들을 위한 이름 모를 별이야…",
+    "context": "EN :\nDon't forget... You're a nameless star, hanging in the sky for everyone who is in suffering...\nJP :\n忘れないでちょうだい、あなたは…痛がる全ての人たちのための、名も知らぬ星だから…。"
+  },
+  {
+    "key": "4-place",
+    "original": "K사 어딘가의 실험실",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 どこかの実験室"
+  },
+  {
+    "key": "4-model",
+    "original": "K사임원진1",
+    "translation": "K公司高管1",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "4-teller",
+    "original": "점잔떠는 K사 임원진",
+    "context": "EN :\nPrudish K Corp. Executive\nJP :\n上品ぶるK社役員"
+  },
+  {
+    "key": "4-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "4-content",
+    "original": "스테파네트 씨가 별세하였고… 저희 K사는, 그분의 숭고한 유지를 받들며 유감을 표하고자…",
+    "context": "EN :\nWith the passing of Ms. Stephanette... We at K Corp. would like to take a moment to express our condolences, honoring her noble will...\nJP :\nステファネット氏が亡くなられ…我々K社はあの方の崇高な遺志を受け止め、遺憾の意を表そうと…。"
+  },
+  {
+    "key": "5-model",
+    "original": "알폰소",
+    "translation": "阿方索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "5-teller",
+    "original": "알폰소",
+    "context": "EN :\nAlfonso\nJP :\nアルフォンソ"
+  },
+  {
+    "key": "5-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "5-content",
+    "original": "뭘 또 그렇게 돌려 말하실까.",
+    "context": "EN :\nWhat's the need to be so roundabout?\nJP :\n何をまたそんな遠回しにおっしゃるんですかねぇ。"
+  },
+  {
+    "key": "6-model",
+    "original": "알폰소",
+    "translation": "阿方索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "6-teller",
+    "original": "알폰소",
+    "context": "EN :\nAlfonso\nJP :\nアルフォンソ"
+  },
+  {
+    "key": "6-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "6-content",
+    "original": "제일 하고 싶은 말은 따로 있잖아요. 우리 중 누가 그다음 대표 자리에 앉을 것인가…",
+    "context": "EN :\nYou know there's something you really want to say: which one of us will be the next chief executive...\nJP :\n一番言いたいことは、それとはまた別にあるじゃないですか。私たちの中で、誰が次の代表の座に就くのか…。"
+  },
+  {
+    "key": "7-model",
+    "original": "K사임원진1",
+    "translation": "K公司高管1",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "점잔떠는 K사 임원진",
+    "context": "EN :\nPrudish K Corp. Executive\nJP :\n上品ぶるK社役員"
+  },
+  {
+    "key": "7-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "7-content",
+    "original": "…음.",
+    "context": "EN :\n...Mm.\nJP :\n…うっ。"
+  },
+  {
+    "key": "8-model",
+    "original": "K사임원진2",
+    "translation": "K公司高管2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "8-teller",
+    "original": "충동적인 K사 임원진",
+    "context": "EN :\nImpulsive K Corp. Executive\nJP :\n衝動的なK社役員"
+  },
+  {
+    "key": "8-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "8-content",
+    "original": "크흠…",
+    "context": "EN :\nKehm…\nJP :\nこほん…。"
+  },
+  {
+    "key": "9-model",
+    "original": "알폰소",
+    "translation": "阿方索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "알폰소",
+    "context": "EN :\nAlfonso\nJP :\nアルフォンソ"
+  },
+  {
+    "key": "9-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "9-content",
+    "original": "뭐… 대표 자리에 앉는 법은 간단하지 않겠어요? 누가 얼마나 이 날개와 둥지에 기여하고 부흥시켰는가…",
+    "context": "EN :\nWell... The nomination should be simple, right? What did each of us do, and how much did it help to contribute to the growth of this Wing and its Nest...\nJP :\nまぁ…代表の座に座る方法は簡単じゃないですか？誰がどれだけこの翼と巣に寄与して、復興させたか…。"
+  },
+  {
+    "key": "10-model",
+    "original": "K사임원진2",
+    "translation": "K公司高管2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "충동적인 K사 임원진",
+    "context": "EN :\nImpulsive K Corp. Executive\nJP :\n衝動的なK社役員"
+  },
+  {
+    "key": "10-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "10-content",
+    "original": "저는 스테파네트 님이 노쇠로 인해 제대로 말씀하기 힘겨워할 때부터… 대신 눈물을 뽑아냈습니다.",
+    "context": "EN :\nEver since Ms. Stephanette began struggling to even speak due to her age... I started extracting the tears in her stead.\nJP :\n私はステファネット様が老衰によって、まともに話すこと出来なくなった頃から…代わりに涙を抽出しました。"
+  },
+  {
+    "key": "11-model",
+    "original": "K사임원진1",
+    "translation": "K公司高管1",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "점잔떠는 K사 임원진",
+    "context": "EN :\nPrudish K Corp. Executive\nJP :\n上品ぶるK社役員"
+  },
+  {
+    "key": "11-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "11-content",
+    "original": "뭐… 그 ‘마음이 아릿하고 따듯한 이야기’? 동화책을 산 다음에 부하들을 시켜서 읽어 주기만 하는 게 당신 역할 아니요? 점점 눈물의 양도 줄어 가고 있더만.",
+    "context": "EN :\nWhat... Having your men buy and read those 'gut-wrenching and heartwarming stories' out loud? I saw the tear production going down, too.\nJP :\nまさか…あの「心がズキズキしながらも温かい話」？童話を買ってから、部下たちに読ませることだけがあなたの役目ではなかったのですか？段々と涙の量も減ってきてたんだが。"
+  },
+  {
+    "key": "12-model",
+    "original": "K사임원진2",
+    "translation": "K公司高管2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "충동적인 K사 임원진",
+    "context": "EN :\nImpulsive K Corp. Executive\nJP :\n衝動的なK社役員"
+  },
+  {
+    "key": "12-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "12-content",
+    "original": "…말 다 했습니까?",
+    "context": "EN :\n...Are you serious?\nJP :\n…言いたいことはそれが全てですか？"
+  },
+  {
+    "key": "13-model",
+    "original": "K사임원진1",
+    "translation": "K公司高管1",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "점잔떠는 K사 임원진",
+    "context": "EN :\nPrudish K Corp. Executive\nJP :\n上品ぶるK社役員"
+  },
+  {
+    "key": "13-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "13-content",
+    "original": "큭… 자, 잠깐.",
+    "context": "EN :\nKah... W-Wait.\nJP :\nくっ…ま、待て。"
+  },
+  {
+    "key": "14-model",
+    "original": "K사임원진2",
+    "translation": "K公司高管2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "충동적인 K사 임원진",
+    "context": "EN :\nImpulsive K Corp. Executive\nJP :\n衝動的なK社役員"
+  },
+  {
+    "key": "14-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "14-content",
+    "original": "그러니까 말을 함부로 하면 이렇게 된다니까요. 제 성격을 알면서 그딴 식으로 지껄이셨나요?",
+    "context": "EN :\nThis is what happens when you run your mouth rashly. You knew my temper and still decided to play with fire?\nJP :\nだから無闇に言葉を発するとこうなるんですよ。私の性格を知っていながら、そんな風にほざかれたのでしょうか？"
+  },
+  {
+    "key": "15-model",
+    "original": "K사임원진1",
+    "translation": "K公司高管1",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "15-teller",
+    "original": "점잔떠는 K사 임원진",
+    "context": "EN :\nPrudish K Corp. Executive\nJP :\n上品ぶるK社役員"
+  },
+  {
+    "key": "15-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "15-content",
+    "original": "윽… 이사들이 이 사실을 알면 가만히 있지 않을… 텐데…",
+    "context": "EN :\nHngh... The board of directors won't... let you get away with this...\nJP :\nくっ…理事たちがこの事実を知れば黙っちゃいない…だろうに…。"
+  },
+  {
+    "key": "16-model",
+    "original": "K사임원진2",
+    "translation": "K公司高管2",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "충동적인 K사 임원진",
+    "context": "EN :\nImpulsive K Corp. Executive\nJP :\n衝動的なK社役員"
+  },
+  {
+    "key": "16-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "16-content",
+    "original": "그 전에 일단 당신은 끝장내주겠어.",
+    "context": "EN :\nI'll make sure that you're finished before that happens.\nJP :\nその前にとりあえずあなたを終わらせてあげましょう。"
+  },
+  {
+    "key": "17-model",
+    "original": "알폰소",
+    "translation": "阿方索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "알폰소",
+    "context": "EN :\nAlfonso\nJP :\nアルフォンソ"
+  },
+  {
+    "key": "17-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "17-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "18-model",
+    "original": "알폰소",
+    "translation": "阿方索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "알폰소",
+    "context": "EN :\nAlfonso\nJP :\nアルフォンソ"
+  },
+  {
+    "key": "18-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "18-content",
+    "original": "아, 우리 스테파네트 님… 마지막까지 한없이 상냥하셨군요.",
+    "context": "EN :\nAh, our dear Ms. Stephanette... You were so kind even after you've gone.\nJP :\nあぁ、我がステファネット様…最後までこの上なくお優しいのですね。"
+  },
+  {
+    "key": "19-model",
+    "original": "알폰소",
+    "translation": "阿方索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "19-teller",
+    "original": "알폰소",
+    "context": "EN :\nAlfonso\nJP :\nアルフォンソ"
+  },
+  {
+    "key": "19-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "19-content",
+    "original": "눈물을 꼭 고귀하게 흘려야 한다는 법은 없었던 거였잖아요.",
+    "context": "EN :\nThe tears don't have to be by noble means after all.\nJP :\n涙は必ず高貴に流さなねばならないという決まりは無かったではないですか。"
+  },
+  {
+    "key": "20-model",
+    "original": "알폰소",
+    "translation": "阿方索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "20-teller",
+    "original": "알폰소",
+    "context": "EN :\nAlfonso\nJP :\nアルフォンソ"
+  },
+  {
+    "key": "20-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "20-content",
+    "original": "여러분, 아무래도 제가 찾은 것 같아요.",
+    "context": "EN :\nEveryone, I believe I've found the answer.\nJP :\nみなさん、どうにも私は見つけたようです。"
+  },
+  {
+    "key": "21-model",
+    "original": "알폰소",
+    "translation": "阿方索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "알폰소",
+    "context": "EN :\nAlfonso\nJP :\nアルフォンソ"
+  },
+  {
+    "key": "21-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "21-content",
+    "original": "대표의 자리에 앉는 방법은 참 간단해요. K사의 부흥.",
+    "context": "EN :\nTo take the seat of the chief executive, there's only one simple thing to do: ensure the prosperity of K Corp.\nJP :\n代表の座に座る方法は実に簡単です。K社の復興。"
+  },
+  {
+    "key": "22-model",
+    "original": "알폰소",
+    "translation": "阿方索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "22-teller",
+    "original": "알폰소",
+    "context": "EN :\nAlfonso\nJP :\nアルフォンソ"
+  },
+  {
+    "key": "22-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "22-content",
+    "original": "이제 남은 건, 이사들의 투표뿐이네요.",
+    "context": "EN :\nAll that's left now is for the board of directors to cast their votes.\nJP :\nこれで残ったのは、理事たちの投票だけですね。"
+  },
+  {
+    "key": "23-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "23-content",
+    "original": "멈추시오…! 모두를 위해 누군가는 절망만을 보며 갇혀 살아야 한다는 건…",
+    "context": "EN :\nStop them this instant...! It appalls me greatly to think that one must suffer everlasting sights of despair in captivity for the many...\nJP :\n止めなされ…！皆のために誰かが絶望のみを見ながら、閉じ込められつつ生きねばならぬということは…！"
+  },
+  {
+    "key": "24-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "24-content",
+    "original": "저들에겐 닿지 않을 거예요. 이건 이상 씨가 아닌… 눈물에 관한 장면의 파편이니까.",
+    "context": "EN :\nYour pleas won't reach them. This one didn't come from Yi Sang... It's a fragmented scene concerning the tears.\nJP :\nあの者たちには届かないでしょう。これはイサンさんではない…涙の場面に関する破片ですから。"
+  },
+  {
+    "key": "25-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "25-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "25-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "25-content",
+    "original": "아, 혹시 모르실 수도 있겠지만, 저 특이점 하나로 셀 수도 없는 사람들이 목숨을 구했어요.",
+    "context": "EN :\nAh, in case you aren't familiar, that one Singularity has saved countless lives.\nJP :\nあぁ、もしかしたらご存じないかもしれませんが、あの特異点一つで数え切れない人々の命が救われました。"
+  },
+  {
+    "key": "26-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "26-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "26-content",
+    "original": "마치 오래전 이루지 못했던 제 꿈을 누군가 대신 이뤄주는 것 같았죠.",
+    "context": "EN :\nIt was like someone fulfilled my old dream I couldn't make true.\nJP :\nまるで昔叶えられなかった僕の夢を、誰かが代わりに叶えてくれるようにですね。"
+  },
+  {
+    "key": "27-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "27-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "28-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "28-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "28-content",
+    "original": "만일 저 통 속에 들어있는 것이 저였다면… 저는 감사해 하면서 제 모든 걸 바쳤을 거예요. 남김없이, 전부.",
+    "context": "EN :\nIf, say, I were in that vat... I would have gladly given up everything I had. Every single thing, with no exception.\nJP :\nもしあの容器の中に入っているのが僕だったなら…僕は感謝しながら、僕の全てを捧げたと思います。余すところなく、全部。"
+  },
+  {
+    "key": "29-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "29-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "29-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "29-content",
+    "original": "그러니까 우리가 할 수 있는 건 그저… 저것을 보며 감사해하고 존중해 하는 것뿐이예요.",
+    "context": "EN :\nSo all we can do is just... look at it with gratitude and respect.\nJP :\nだから僕たちにできるのはただ…あれを見ながら感謝し、尊重することだけです。"
+  },
+  {
+    "key": "30-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "30-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "30-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "30-content",
+    "original": "마치 고향의 별을 보는 것처럼.",
+    "context": "EN :\nLike looking up at the stars in my hometown.\nJP :\nまるで故郷の星を見るように。"
+  }
+]

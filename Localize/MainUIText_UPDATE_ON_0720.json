@@ -1,0 +1,42 @@
+[
+  {
+    "key": "move_to_inventory-content",
+    "original": "인벤토리 이동",
+    "context": "EN :\nGo to Inventory\nJP :\nインベントリへ移動"
+  },
+  {
+    "key": "progress_personality_gacksung-content",
+    "original": "동기화 진행",
+    "context": "EN :\nUptie\nJP :\n同期化進行"
+  },
+  {
+    "key": "mainui_reinforce_support_passive-content",
+    "original": "서포트 패시브 [{0}] 강화",
+    "context": "EN :\nSupport Passive [{0}] Enhanced\nJP :\nサポートパッシブ [{0}]強化"
+  },
+  {
+    "key": "mainui_reinforce_battle_passive-content",
+    "original": "전투 패시브 [{0}] 강화",
+    "context": "EN :\nCombat Passive [{0}] Enhanced\nJP :\nバトルパッシブ [{0}]強化"
+  },
+  {
+    "key": "mainui_battle_passsive_reinforce-content",
+    "original": "전투 패시브 강화",
+    "context": "EN :\nCombat Passive Enhanced\nJP :\nバトルパッシブ強化"
+  },
+  {
+    "key": "mainui_support_passsive_reinforce-content",
+    "original": "서포트 패시브 강화",
+    "context": "EN :\nSupport Passive Enhanced\nJP :\nサポートパッシブ強化"
+  },
+  {
+    "key": "mainui_target_num_label-content",
+    "original": "공격 가중치",
+    "context": "EN :\nAtk Weight\nJP :\n攻撃加重値"
+  },
+  {
+    "key": "mainui_awaken_requirement_label-content",
+    "original": "필요 재화 수량",
+    "context": "EN :\nCurrency Req.\nJP :\n必要なアイテムの数"
+  }
+]

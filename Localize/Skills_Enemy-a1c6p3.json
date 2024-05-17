@@ -1,0 +1,337 @@
+[
+  {
+    "key": "9013601-levelList$[0].name",
+    "original": "...크",
+    "context": "EN :\n...nocking\nJP :\n…ク"
+  },
+  {
+    "key": "9013601-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Sinking]이 5이상이면, [AttackDown] 1 부여",
+    "context": "EN :\n[WhenUse] If target has 5+ [Sinking], inflict 1 [AttackDown]\nJP :\n[WhenUse] 対象の[Sinking]が5以上なら、[AttackDown]1を付与"
+  },
+  {
+    "key": "9013601-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]4を付与"
+  },
+  {
+    "key": "9013601-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Binding] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Binding]1を付与"
+  },
+  {
+    "key": "9013601-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]4を付与"
+  },
+  {
+    "key": "9013601-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Paralysis] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Paralysis] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Paralysis]1を付与"
+  },
+  {
+    "key": "9013602-levelList$[0].name",
+    "original": "...시간",
+    "context": "EN :\n...to Clean\nJP :\n…時間"
+  },
+  {
+    "key": "9013602-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 정신력이 10이하라면, [AttackDown] 2 부여\n[WinDuel] [Vulnerable] 1 부여",
+    "context": "EN :\n[WhenUse] If the target is at 10 or less SP, inflict 2 [AttackDown]\n[WinDuel] Inflict 1 [Vulnerable]\nJP :\n[WhenUse] 対象の精神力が10以下なら、[AttackDown]2を付与\n[WinDuel] [Vulnerable]1を付与"
+  },
+  {
+    "key": "9013602-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [PlusCoinValueDown] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [PlusCoinValueDown] next turn\nJP :\n[OnSucceedAttack] 次のターンに[PlusCoinValueDown]1を付与"
+  },
+  {
+    "key": "9013602-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]回数が3増加"
+  },
+  {
+    "key": "9013602-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Vulnerable] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Vulnerable]2を付与"
+  },
+  {
+    "key": "9013603-levelList$[0].name",
+    "original": "대로...!",
+    "context": "EN :\n...mmands...!\nJP :\n通り…！"
+  },
+  {
+    "key": "9013603-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Sinking] 3당 기본 위력 +1 (최대 3)\n[WinDuel] 모든 아군 정신력 5 회복",
+    "context": "EN :\n[WhenUse] Base Power +1 for every 3 [Sinking] on target (max 3)\n[WinDuel] All allies heal 5 SP\nJP :\n[WhenUse] 対象の[Sinking]3につき、基本威力 +1(最大3)\n[WinDuel] 全味方の精神力を5回復"
+  },
+  {
+    "key": "9013603-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 8 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 8 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]8を付与"
+  },
+  {
+    "key": "9013603-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [Sinking] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +2 [Sinking] Count\nJP :\n[OnSucceedAttackHead] [Sinking]回数が2増加"
+  },
+  {
+    "key": "9013603-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 8 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 8 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]8を付与"
+  },
+  {
+    "key": "9013603-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [Sinking] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +2 [Sinking] Count\nJP :\n[OnSucceedAttackHead] [Sinking]回数が2増加"
+  },
+  {
+    "key": "9013603-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 8 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 8 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]8を付与"
+  },
+  {
+    "key": "9013603-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [Sinking] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +2 [Sinking] Count\nJP :\n[OnSucceedAttackHead] [Sinking]回数が2増加"
+  },
+  {
+    "key": "9013604-levelList$[0].name",
+    "original": "먼지...",
+    "context": "EN :\n...of Dust\nJP :\n埃…"
+  },
+  {
+    "key": "9013604-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Sinking] 6당, 기본 위력 +1 (최대 3)\n[WhenUse] 대상의 [Sinking] 6당, 피해량 +10% (최대 30%)",
+    "context": "EN :\n[WhenUse] Base Power +1 for every 6 [Sinking] on target (max 3)\n[WhenUse] Deal +10% more damage for every 6 [Sinking] Count on target (max 30%)\nJP :\n[WhenUse] 対象の[Sinking]6につき、コイン威力 +1(最大3)\n[WhenUse] 対象の[Sinking]6につき、マッチ威力 +10％(最大30%)"
+  },
+  {
+    "key": "9013604-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]만큼 우울 속성 추가 피해 입힘. [Sinking] 횟수 1 감소",
+    "context": "EN :\n[OnSucceedAttack] Inflict Gloom Affinity bonus damage equal to [Sinking] on target. Reduce [Sinking] Count on target by 1\nJP :\n[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性追加ダメージを与える。[Sinking]回数が1減少"
+  },
+  {
+    "key": "9013604-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]만큼 우울 속성 추가 피해 입힘. [Sinking] 횟수 1 감소",
+    "context": "EN :\n[OnSucceedAttack] Inflict Gloom Affinity bonus damage equal to [Sinking] on target. Reduce [Sinking] Count on target by 1\nJP :\n[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性追加ダメージを与える。[Sinking]回数が1減少"
+  },
+  {
+    "key": "9013604-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking]만큼 우울 속성 추가 피해 입힘",
+    "context": "EN :\n[OnSucceedAttack] Inflict Gloom Affinity bonus damage equal to [Sinking] on target.\nJP :\n[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性追加ダメージを与える"
+  },
+  {
+    "key": "9013604-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]4を付与"
+  },
+  {
+    "key": "9013604-levelList$[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 대상의 [Sinking] 횟수가 3이상이면, 이 코인 재사용. (최대 2회)",
+    "context": "EN :\n[OnSucceedAttack] If the target has 3+ [Sinking] Count, Reuse this Coin (twice)\nJP :\n[OnSucceedAttack] 対象の[Sinking]回数が3以上なら、このコインを再使用(最大2回)"
+  },
+  {
+    "key": "9013605-levelList$[0].name",
+    "original": "쥐새끼...",
+    "context": "EN :\nSlipp...\nJP :\n鼠野郎…"
+  },
+  {
+    "key": "9013605-levelList$[0].desc",
+    "original": "턴 종료 시 보호막이 남아있다면, 50만큼 흐트러짐 회복",
+    "context": "EN :\nIf this unit has remaining Shield HP at Turn End, lower Stagger threshold by 50\nJP :\nターン終了時にバリアが残っているなら、50だけ混乱区間を後退"
+  },
+  {
+    "key": "9013701-levelList$[0].name",
+    "original": "잡배놈...",
+    "context": "EN :\nDamn Pl...\nJP :\n雑輩ども…"
+  },
+  {
+    "key": "9013701-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [AttackUp] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [AttackUp] next turn\nJP :\n[OnSucceedAttack] 次のターンに[AttackUp]1を得る"
+  },
+  {
+    "key": "9013701-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [AttackUp] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [AttackUp] next turn\nJP :\n[OnSucceedAttack] 次のターンに[AttackUp]1を得る"
+  },
+  {
+    "key": "9013702-levelList$[0].name",
+    "original": "치워...",
+    "context": "EN :\nI'll Remo...\nJP :\n片付け…"
+  },
+  {
+    "key": "9013702-levelList$[0].desc",
+    "original": "[WinDuel] 기본 위력 +1",
+    "context": "EN :\n[WinDuel] Base Power +1\nJP :\n[WinDuel] 基本威力+1"
+  },
+  {
+    "key": "9013702-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 [AttackDown]이 있다면, 피해량 20%만큼 타격 피해 입힘",
+    "context": "EN :\n[OnSucceedAttack] If the target has [AttackDown], deal 20% of damage dealt as bonus Blunt damage\nJP :\n[OnSucceedAttack] 対象に[AttackDown]があるなら、与ダメージ量20%分の打撃ダメージを与える"
+  },
+  {
+    "key": "9013702-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상에게 [AttackDown]이 있다면, 피해량 20%만큼 타격 피해 입힘",
+    "context": "EN :\n[OnSucceedAttack] If the target has [AttackDown], deal 20% of damage dealt as bonus Blunt damage\nJP :\n[OnSucceedAttack] 対象に[AttackDown]があるなら、与ダメージ量20%分の打撃ダメージを与える"
+  },
+  {
+    "key": "9013703-levelList$[0].name",
+    "original": "단추...",
+    "context": "EN :\nMake Things...\nJP :\nボタン…"
+  },
+  {
+    "key": "9013703-levelList$[0].desc",
+    "original": "[WinDuel] 대상의 [AttackDown]가 2 이상이면, 기본 위력 +1\n[WhenUse] 대상에게 [DefenseDown]이 있다면, 피해량 30%만큼 타격 피해 입힘",
+    "context": "EN :\n[WinDuel] If the target has 2+ [AttackDown], Base Power +1\n[WhenUse] If the target has [DefenseDown], deal 30% of damage dealt as bonus Blunt damage\nJP :\n[WinDuel] 対象の[AttackDown]が2以上なら、基本威力 +1\n[WhenUse] 対象に[DefenseDown]があるなら、ダメージ量の30％だけ打撃ダメージを与える"
+  },
+  {
+    "key": "9013703-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 정신력 4 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 4 SP on self\nJP :\n[OnSucceedAttack] 自分の精神力を4回復"
+  },
+  {
+    "key": "9013703-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 정신력 4 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 4 SP on self\nJP :\n[OnSucceedAttack] 自分の精神力を4回復"
+  },
+  {
+    "key": "9013703-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 정신력 4 회복",
+    "context": "EN :\n[OnSucceedAttack] Heal 4 SP on self\nJP :\n[OnSucceedAttack] 自分の精神力を4回復"
+  },
+  {
+    "key": "9013704-levelList$[0].name",
+    "original": "...주마",
+    "context": "EN :\n... ove You\nJP :\n…してやる"
+  },
+  {
+    "key": "9013704-levelList$[0].desc",
+    "original": "부정적인 효과가 가장 많은 대상 우선 공격\n[WinDuel] 대상의 [DefenseDown] 3당 코인 위력 +1 (최대 3)",
+    "context": "EN :\nPrioritizes targets with the most negative effects\n[WinDuel] Coin Power +1 for every 3 [DefenseDown] on target (max 3)\nJP :\nマイナス効果が最も多い対象を優先して攻撃\n[WinDuel]対象の[DefenseDown]3につき、コイン威力 +1(最大3)"
+  },
+  {
+    "key": "9013704-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vulnerable] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vulnerable]\nJP :\n[OnSucceedAttack] [Vulnerable]1を付与"
+  },
+  {
+    "key": "9013704-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vulnerable] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Vulnerable]1を付与"
+  },
+  {
+    "key": "9013704-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Paralysis] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Paralysis] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Paralysis]2を付与"
+  },
+  {
+    "key": "9013704-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [AttackDown] 2당 +30% (최대 120%)",
+    "context": "EN :\n[OnSucceedAttack] Deal +30% more damage for every 2 [AttackDown] on target (max 120%)\nJP :\n[OnSucceedAttack] 対象の[AttackDown]2につき、ダメージ量 +30%(最大120%)"
+  },
+  {
+    "key": "9013704-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 대상의 부정적인 효과가 3개 이상이면, 이 코인 재사용 (1회)",
+    "context": "EN :\n[OnSucceedAttackHead] If the target has 3+ negative effects, reuse this coin (once)\nJP :\n[OnSucceedAttackHead] 対象のマイナス効果が3以上なら、このコインを再使用(1回)"
+  },
+  {
+    "key": "9013705-levelList$[0].name",
+    "original": "가드",
+    "context": "EN :\nGuard\nJP :\nガード"
+  },
+  {
+    "key": "9013705-levelList$[0].desc",
+    "original": "[StartBattle] 살아있는 아군 수당 보호막 체력 20을 추가로 얻음",
+    "context": "EN :\n[StartBattle] Gain 20 additional Shield HP for every surviving ally\nJP :\n[StartBattle] 生存している味方1名につき、バリアを20を追加で得る。"
+  },
+  {
+    "key": "9013801-levelList$[0].name",
+    "original": "마르...",
+    "context": "EN :\nMarc...\nJP :\nマル…"
+  },
+  {
+    "key": "9013801-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [DefenseDown] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [DefenseDown] next turn\nJP :\n[OnSucceedAttack] 次のターンに[DefenseDown]2を付与"
+  },
+  {
+    "key": "9013802-levelList$[0].name",
+    "original": "...트",
+    "context": "EN :\n...te\nJP :\n…テ"
+  },
+  {
+    "key": "9013802-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 부정적인 효과가 2개 이상이면, 기본 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 2+ negative effects, Base Power +1\nJP :\n[WhenUse] 対象のマイナス効果が2以上なら、基本威力 +1"
+  },
+  {
+    "key": "9013802-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [DefenseDown] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [DefenseDown] next turn\nJP :\n[OnSucceedAttack] 次のターンに[DefenseDown]3を付与"
+  },
+  {
+    "key": "9013803-levelList$[0].name",
+    "original": "플...쉬",
+    "context": "EN :\nFl...he\nJP :\nフ…シュ"
+  },
+  {
+    "key": "9013803-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 부정적인 효과가 4개 이상이면, 코인 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 4+ negative effects, Coin Power +1\nJP :\n[WhenUse] 対象のマイナス効果が4以上なら、コイン威力 +1"
+  },
+  {
+    "key": "9013803-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Binding] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Binding]1を付与"
+  },
+  {
+    "key": "9013803-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [PenetrateTakeDamageUp] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] next turn\nJP :\n[OnSucceedAttack] 次のターンに[PenetrateTakeDamageUp]1を付与"
+  },
+  {
+    "key": "9013803-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Binding] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Binding] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Binding]2を付与"
+  },
+  {
+    "key": "9013804-levelList$[0].name",
+    "original": "꾸...와",
+    "context": "EN :\nCou...oit\nJP :\nクー…ワ"
+  },
+  {
+    "key": "9013804-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 기본 위력 +2\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 피해량 +30%",
+    "context": "EN :\n[WhenUse] If the target has 5+ negative effects, Base Power +2\n[WhenUse] If the target has 5+ negative effects, deal +30% more damage\nJP :\n[WhenUse] 対象のマイナス効果が5つ以上なら、基本威力 +2\n[WhenUse] 対象のマイナス効果が5つ以上なら、ダメージ量 +30%"
+  },
+  {
+    "key": "9013804-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vulnerable] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Vulnerable]\nJP :\n[OnSucceedAttack] [Vulnerable]2を付与"
+  },
+  {
+    "key": "9013804-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Vulnerable] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Vulnerable]2を付与"
+  },
+  {
+    "key": "9013804-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 부정적인 효과가 5개 이상이면, 이 코인 재사용 (2회)",
+    "context": "EN :\n[OnSucceedAttack] If the target has 5+ negative effects, reuse this coin (2 times max)\nJP :\n[OnSucceedAttack] 対象のマイナス効果が5以上なら、このコインを再使用(2回)"
+  },
+  {
+    "key": "9013804-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 대상의 해제 가능한 부정적인 효과 무작위 하나 제거",
+    "context": "EN :\n[OnSucceedAttack] Remove 1 random removable negative effect applied on target\nJP :\n[OnSucceedAttack] 対象の解除可能なマイナス効果をランダムに1つ除去"
+  },
+  {
+    "key": "9013805-levelList$[0].name",
+    "original": "...",
+    "context": "EN :\n...\nJP :\n…"
+  },
+  {
+    "key": "9013805-levelList$[0].desc",
+    "original": "[OnSucceedEvade] 정신력 5 회복 (최대 2회)",
+    "context": "EN :\n[OnSucceedEvade] Heal 5 SP (2 times max)\nJP :\n[OnSucceedEvade] 精神力を5回復(最大2回)"
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "key": "0-place",
+    "original": "아수라장 된 K사 연구소 복도",
+    "context": "EN :\nRuined K Corp. Laboratory Hallway\nJP :\n修羅場になったK社研究所 廊下"
+  },
+  {
+    "key": "0-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "0-content",
+    "original": "복귀했습니다.",
+    "context": "EN :\nI've returned.\nJP :\n復帰しました。"
+  },
+  {
+    "key": "1-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "1-content",
+    "original": "슈렌느의 메일함에서 읽어볼 만한 메일은 한 통이었습니다.",
+    "context": "EN :\nThere was one message in Shrenne's mailbox that was deemed worth reading.\nJP :\nシュレンヌの受信ボックスにあった読む価値のありそうなメールは一通でした。"
+  },
+  {
+    "key": "2-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "2-content",
+    "original": "다만 인쇄까지 하기에는 환경이 적합지 않아 그냥 외웠습니다.",
+    "context": "EN :\nThe environment did not permit me to print it out, so I memorized the mail's content.\nJP :\nただし、印刷するには環境が適しておりませんでしたので全部覚えてきました。"
+  },
+  {
+    "key": "3-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "3-content",
+    "original": "잘 지내시나요, 선배. 괄호 열고 별 눈물 눈물 그리고 물결 표시와 제곱 기호, 제곱기호… 괄호 닫기.",
+    "context": "EN :\n'I hope you're doing well, Miss Ran. Open parenthesis, star, tear, tear, swung dash, caret, caret... closed parenthesis.'\nJP :\n近頃調子はどうですか、先輩。括弧、エキュートアクセント、セミコロン、オメガとセミコロン、グレイヴアクセント…括弧閉じ。"
+  },
+  {
+    "key": "4-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "4-content",
+    "original": "<그, 그런 건 그냥 생략하고 읽어도 돼…>",
+    "context": "EN :\n<Y-You can skip those parts...>\nJP :\n<そ、そういうのは省略して読んでも良いよ…。>"
+  },
+  {
+    "key": "5-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "5-content",
+    "original": "알겠습니다. 중요하지 않은 내용 같아 보이는 문장 부호는 생략하겠습니다.",
+    "context": "EN :\nUnderstood. I will then dispense with punctuation marks that do not appear important.\nJP :\n分かりました。重要な内容とは思えない記号は省略します。"
+  },
+  {
+    "key": "6-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "6-content",
+    "original": "선배가 말한 게 정말인지 알아보려고 했는데, 그 망할 새끼 때문에 저는 접근이 어렵네요.",
+    "context": "EN :\n'I've been trying to figure out if what you said was really true, but that sucker is making it hard.'\nJP :\n先輩が言ったことが本当なのか調べようとしたんですけど、あの野郎のせいで私は近寄るのが難しいですね。"
+  },
+  {
+    "key": "7-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "7-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "7-content",
+    "original": "저도 나름 팀장으로 진급했는데 그놈의 최우수 뭐시기 그거 하나 못 받았다고… 안 끼워주더라고요.",
+    "context": "EN :\n'I've been promoted to team manager too, but I wasn't let in... just because I didn't win that silly \"best\" award.'\nJP :\n私もなんとかチーフに昇格したんですけど、あんの最優秀なんたらを受け取れなかっただけで…仲間に入れてくれなかったんですよ。"
+  },
+  {
+    "key": "8-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "8-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "8-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "8-content",
+    "original": "그리고 무슨 꿍꿍이 인지, 그놈이 외부에서 조력자들을 구했나 봐요.",
+    "context": "EN :\n'And he's now recruited collaborators from the outside, probably to help with whatever he's plotting.'\nJP :\nそれに何を企んでるのか、あの野郎が外部から助力者を集めたみたいです。"
+  },
+  {
+    "key": "9-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "9-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "9-content",
+    "original": "신생 회사에서 온다던데, 어떤 인간들인지 확인은 안 됐어요. 걔처럼 재수 없고 오만한 놈들이겠죠.",
+    "context": "EN :\n'I heard they're from a newly-found company, and I haven't checked what kind of people they are yet. I bet they're all haughty and arrogant just like their client.'\nJP :\n新生会社から来るって言ってましたけど、どんな連中かは確認はできてません。あいつみたいにエラそうで傲慢なやつでしょうね。"
+  },
+  {
+    "key": "10-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "10-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "10-content",
+    "original": "그래도…  그래도 계획은 작전대로 진행할 거예요.",
+    "context": "EN :\n'Still... Still, the plan will proceed as intended.'\nJP :\nそれでも…それでも計画は作戦通りに進めます。"
+  },
+  {
+    "key": "11-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "11-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "11-content",
+    "original": "그래서 우리는… 찬란한 과거로 돌아갈 거예요.",
+    "context": "EN :\n'We'll succeed... and return to a glorious past.'\nJP :\nそれで私たちは…輝かしい過去へと戻るんです。"
+  },
+  {
+    "key": "12-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "12-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "12-content",
+    "original": "사실 제게 있어서 가장 빛났던 과거는, 입사해서 선배를 처음 만났을 때였지만.",
+    "context": "EN :\n'To tell you the truth, my most dazzling memory was when I first met you after joining the company.'\nJP :\n実のところ、私にとって最も輝かしい過去は、入社して先輩に初めて会ったときでしたけど。"
+  },
+  {
+    "key": "13-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "13-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "13-content",
+    "original": "우리의 목표는 더 장대하잖아요.",
+    "context": "EN :\n'But our goal is more ambitious than that.'\nJP :\n私たちの目標はもっと壮大じゃないですか。"
+  },
+  {
+    "key": "14-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "14-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "14-content",
+    "original": "그러니까 그곳에서 다시 만나는 걸로 해요.",
+    "context": "EN :\n'So, let's promise to meet again there.'\nJP :\nだからそこで再会することにしましょう。"
+  },
+  {
+    "key": "15-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "15-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "15-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "15-content",
+    "original": "어떤 기술도 존재하지 않았던, 그래서 모든 것이 더 반짝이게 보였을 과거로.",
+    "context": "EN :\n'In a past where no technologies existed, allowing everything that existed to shine brighter.'\nJP :\nいかなる技術も存在しなかった、だからこそ全てが一層輝いて見えた過去へ。"
+  },
+  {
+    "key": "16-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "16-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "16-content",
+    "original": "거기선 날개가 잘리지 않는 닭들이 초원을 날고 있을 거예요.",
+    "context": "EN :\n'There, chickens will freely fly over the meadows, their wings uncut.'\nJP :\nそこでは、翼を切られない鶏たちが草原を飛んでいるはずです。"
+  },
+  {
+    "key": "17-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "17-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "17-content",
+    "original": "팔이 잘리는 사람이 생기면 모두가 위로해 주고…",
+    "context": "EN :\n'When a person loses their arm, we'll comfort them...'\nJP :\n腕が切られる人がいれば、みんなが慰めてくれて…。"
+  },
+  {
+    "key": "18-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "18-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "18-content",
+    "original": "팔이 없어도 함께 살아가는 법에 대해서 배워 나가겠죠.",
+    "context": "EN :\n'And learn how to live together even if an arm is missing.'\nJP :\n腕がなくても、一緒に生きていく方法について学んでいくんです。"
+  },
+  {
+    "key": "19-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "19-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "19-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "19-content",
+    "original": "풍족한 음식과 문명… 우리가 누렸던 모든 자원들은 이제 없겠지만…",
+    "context": "EN :\n'We may not be able to enjoy sumptuous feasts or conveniences of modern civilization, and we won't have nearly as many resources at our disposal...'\nJP :\n豊かな食べ物や文明、私たちが享受してきた全ての資源は、もう無いでしょうけど…。"
+  },
+  {
+    "key": "20-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "20-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "20-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "20-content",
+    "original": "아무것도 없는 그곳에서는… 온종일 걸을 수 있을 거예요.",
+    "context": "EN :\n'In that vastness... We'll be free to walk all day.'\nJP :\n何もないその場所では…きっと一日中歩いていられるんです。"
+  },
+  {
+    "key": "21-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "21-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "21-content",
+    "original": "아, 작전에는 외부 해결사들을 데려갈 생각이에요. 제 후임들은 앰플에 지나치게 익숙해져 있거든요.",
+    "context": "EN :\n'Oh, I'm planning to bring Fixers from the outside for the plan. My juniors have gotten too used to the ampules.'\nJP :\nあ、作戦には外部のフィクサーを連れて行くつもりです。私の後任たちってみんなアンプルに慣れすぎているんですよ。"
+  },
+  {
+    "key": "22-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "22-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "22-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "22-content",
+    "original": "비약적인 발전을 거두는 것에 누군가의 아픔과 고통이 깔려 있을 수밖에 없다면…",
+    "context": "EN :\n'If rapid development can only be achieved by means that cause pain and suffering to people...'\nJP :\n飛躍的な発展を収める道に、必ず誰かの痛みと苦痛が敷かれているのであるなら…。"
+  },
+  {
+    "key": "23-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "23-content",
+    "original": "저는 그 모든 풍요로움을 포기하겠습니다.",
+    "context": "EN :\n'Then I'm willing to give up on all the prosperity it brings'.\nJP :\n私はあらゆる豊かさを放棄します。"
+  },
+  {
+    "key": "24-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "24-content",
+    "original": "잘 지내세요, 그럼 이만 총총…",
+    "context": "EN :\n'That's all I have to say for now. Yours in haste...'\nJP :\nメールはこの辺にしておきます、それじゃお元気で…。"
+  },
+  {
+    "key": "25-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "25-content",
+    "original": "별별 하트하트하트.",
+    "context": "EN :\nStar, star, heart heart heart.\nJP :\n星星、ハートハートハート。"
+  },
+  {
+    "key": "26-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "26-content",
+    "original": "그것까지는 됐다니까!",
+    "context": "EN :\nYou don't have to read all that!\nJP :\nそれはいいっつってんだろ！"
+  },
+  {
+    "key": "27-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "27-content",
+    "original": "모종의 수열, 혹은 암호일 수도 있기 때문에 생략해야 할지 고민되어 판단을 유보하고 필요한 정보일 가능성을 배제하기보단 관리자님이 추려내는 판단이 보다 합리적이기에 나는 그저 있는 대로 나열했을 뿐이다.",
+    "context": "EN :\nThere's a possibility that it may have been a sequence or cipher, so I deemed it reasonable to read it out and let the manager determine its significance rather than mull over whether I should dispense with it and discount the possibility that it may be necessary information.\nJP :\nある種の数列、あるいは暗号であるかもしれないので省略すべきか悩んで判断を留保し、必要な情報である可能性を排除するよりは管理人様が選び取るという判断がより合理的なので、私はただ、あるがままに並べ立てただけだ。"
+  },
+  {
+    "key": "28-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "28-content",
+    "original": "<잘했어…>",
+    "context": "EN :\n<Good work...>\nJP :\n<ありがとう…。>"
+  },
+  {
+    "key": "29-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "29-content",
+    "original": "아이러니하네요.",
+    "context": "EN :\nHow ironic.\nJP :\n皮肉ですね。"
+  },
+  {
+    "key": "30-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "30-content",
+    "original": "그나마 다행이랄까요, 슈렌느 씨가 아까처럼 해방연합대원들이 무자비하게 연구원들을 학살하고 있는 장면을 못 봤던 게…",
+    "context": "EN :\nI guess it's fortunate for her that she didn't get to see liberation alliance members murdering researchers without mercy...\nJP :\nそれでも幸いと言うべきですね。シュレンヌさんは先程のような、解放連合隊員が無慈悲に研究員を虐殺しているシーンを見ることはなかったので…。"
+  },
+  {
+    "key": "31-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "31-content",
+    "original": "죽는 순간까지 믿었겠지. 자신이 하고 있는 일은… 폭력을 끊어낼 고결한 대의라고…",
+    "context": "EN :\nShe probably believed she was working for a noble cause to end violence until the end of her life...\nJP :\n死ぬ瞬間まで信じてたんでしょう。自分がやってることは…暴力を断ち切る高潔な大義だって…。"
+  },
+  {
+    "key": "32-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "32-content",
+    "original": "그래도 역시 그렇게 믿은 채로 죽는 편이 나았을 수도 있겠네.",
+    "context": "EN :\nBut I agree, it was probably best for her that she died holding onto that belief.\nJP :\nそれでもやっぱり、そんな風に信じたまま死ぬ方が良かったかもしれないね。"
+  }
+]

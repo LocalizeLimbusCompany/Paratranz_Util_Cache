@@ -1,0 +1,912 @@
+[
+  {
+    "key": "2010111-name",
+    "original": "침묵",
+    "context": "EN :\nSilence\nJP :\n沈黙"
+  },
+  {
+    "key": "2010111-desc",
+    "original": "피격 시 다음 턴에 속박 3을 얻고, 대상을 약점, 취약인 속성으로 공격 시 피해량 +20%\n(턴 당 1회 발동)",
+    "context": "EN :\nWhen hit by an attack, gain 3 Bind next turn, and deal +20% damage when attacking with a type or Affinity the target is Weak or Fatal to.\n(Once per turn.)\nJP :\n被ダメージ時に次のターンにて束縛 3を得て、対象を弱点・脆弱 属性で攻撃すると与ダメージ量+20%\n(ターン毎に1回発動)"
+  },
+  {
+    "key": "2010211-name",
+    "original": "불티",
+    "context": "EN :\nEmber\nJP :\n火の粉"
+  },
+  {
+    "key": "2010211-desc",
+    "original": "합 승리 시 대상에게 (분노 완전 공명 수/2)만큼 화상 부여 (스킬당 1회)",
+    "context": "EN :\nOn clash win, inflict Burn by (Wrath A-Reson. / 2).\n(Once per skill.)\nJP :\nマッチ勝利時、対象に(憤怒完全共鳴の数÷2)の火傷 を付与(スキル毎に1回)"
+  },
+  {
+    "key": "2010311-name",
+    "original": "돌하르방",
+    "context": "EN :\nDol Hareubang\nJP :\nドルハルバン"
+  },
+  {
+    "key": "2010311-desc",
+    "original": "매 턴마다 타격 보호, 나태 보호 3을 얻음",
+    "context": "EN :\nAt the start of the turn, gain 3 Blunt Protection and Sloth Protection.\nJP :\n毎ターン打撃保護、怠惰保護 3を得る"
+  },
+  {
+    "key": "2020111-name",
+    "original": "권태",
+    "context": "EN :\nEnnui\nJP :\n倦怠"
+  },
+  {
+    "key": "2020111-desc",
+    "original": "자신의 공격 중 적이 흐트러짐 상태가 되었으면, 정신력이 가장 낮은 아군 1명의 다음 턴 정신력 회복 효율 +2 (턴 당 최대 3회)",
+    "context": "EN :\nIf an enemy is staggered during this unit's attack, 1 ally with the lowest SP has +2 SP Heal Efficiency next turn. (Max 3 times per turn)\nJP :\n自分の攻撃中に敵が混乱状態になると、精神力が最も低い味方1名の次のターンにおける精神力回復効率 +2(1ターンにつき最大3回)"
+  },
+  {
+    "key": "2020211-name",
+    "original": "감싸는 액체",
+    "context": "EN :\nLiquid Veil\nJP :\n包み込む液体"
+  },
+  {
+    "key": "2020211-desc",
+    "original": "턴 시작 시 자신을 포함하여 체력이 가장 낮은 아군 1명에게 보호 2 부여",
+    "context": "EN :\nAt the start of the turn, apply 2 Protection to the ally with the least HP. (Including self.)\nJP :\nターン開始時、体力が最も低い味方(自分を含む)1人に保護 2を付与"
+  },
+  {
+    "key": "2020311-name",
+    "original": "아파!",
+    "context": "EN :\nIt Hurts!\nJP :\nいたい！"
+  },
+  {
+    "key": "2020311-desc",
+    "original": "자신에게 부여된 부정적 효과 1개당 피해량 +10% (최대 50%)",
+    "context": "EN :\nDeal +10% damage for every negative status effect on this unit. (Up to 50%)\nJP :\n自分に付与されたマイナス効果1つにつき与ダメージ量 +10%(最大50%)"
+  },
+  {
+    "key": "2030111-name",
+    "original": "과도한 열정",
+    "context": "EN :\nImmoderate Passion\nJP :\n過度な熱情"
+  },
+  {
+    "key": "2030111-desc",
+    "original": "공격 적중 시 대상에게 출혈이 있으면 체력 3 회복",
+    "context": "EN :\nOn hit, if the target had Bleed, heal 3 HP.\nJP :\n攻撃的中時、対象に出血があれば体力を3回復"
+  },
+  {
+    "key": "2030211-name",
+    "original": "밀려오는 우울",
+    "context": "EN :\nWave of Depression\nJP :\n押し寄せる憂鬱"
+  },
+  {
+    "key": "2030211-desc",
+    "original": "조작 패널에서 가장 오른쪽의 스킬로 공격하는 대상에게 공격 종료 시 (우울 완전 공명 수X2)만큼 정신력 피해\n(정신력이 없는 대상에게는 우울 속성 피해로 적용)",
+    "context": "EN :\nThe target of the rightmost skill on the Dashboard loses SP by (2x Gloom A-Reson.) after the attack.\n(Targets without SP values take Gloom damage instead.)\nJP :\n操作パネルの一番右のスキルで攻撃する対象に、攻撃終了時(憂鬱完全共鳴数 × 2)の精神力ダメージ\n(精神力の無い対象には、憂鬱属性ダメージとして適用)"
+  },
+  {
+    "key": "2040111-name",
+    "original": "예술",
+    "context": "EN :\nArt\nJP :\n芸術"
+  },
+  {
+    "key": "2040111-desc",
+    "original": "이전 턴에 자신이 처치한 적의 수당 5%만큼 가하는 피해 증가, 받는 피해 증가",
+    "context": "EN :\nDeal and take +5% damage for each enemy this unit defeated last turn.\nJP :\n前のターンにて自分が倒した敵の数につき5%分被・与ダメージが増加"
+  },
+  {
+    "key": "2040211-name",
+    "original": "4번째 성냥불",
+    "context": "EN :\n4th Match Flame\nJP :\n4本目のマッチの火"
+  },
+  {
+    "key": "2040211-desc",
+    "original": "4번째로 사용하는 스킬의 최종 위력 +4, 적중 시마다 화상 4 부여",
+    "context": "EN :\nEvery 4th skill used gains +4 Final Power and inflicts 4 Burn with each of its attacks.\nJP :\n4つ目に使用するスキルの最終威力 +4、的中する度に火傷 4を付与"
+  },
+  {
+    "key": "2050111-name",
+    "original": "판단 거부",
+    "context": "EN :\nRefusal to Judge\nJP :\n判断拒否"
+  },
+  {
+    "key": "2050111-desc",
+    "original": "전투 시작 시 자신이 3개 이상의 스킬의 타겟이 되었다면, 보호 3을 얻음",
+    "context": "EN :\nAt the start of the combat phase, gain 3 Protection if the unit is targeted by 3 or more skills.\nJP :\n戦闘開始時に自分が3つ以上のスキルのターゲットになっているなら、保護 3を得る。"
+  },
+  {
+    "key": "2050211-name",
+    "original": "마지막 개조",
+    "context": "EN :\nFinal Augment\nJP :\n最後の改造"
+  },
+  {
+    "key": "2050211-desc",
+    "original": "체력이 25%미만일 때 <너 맞아볼래? 매우?> E.G.O 스킬 사용시 매 턴마다 공격 위력 증가, 수비 위력 증가, 신속 3을 얻고, 3턴 뒤 사망함.",
+    "context": "EN :\nIf the E.G.O Skill <You Want To Get Beat? Hurtily?> is used at less than 25% HP, gain 3 Attack Power Up, Defense Power Up, and Haste every turn, but then die in 3 turns.\nJP :\n体力が25%未満のとき<お前ぶたれたい？しこたま？>E.G.Oスキル使用時、毎ターン攻撃威力増加 、守備威力増加 、クイック 3を得て3ターン後に死亡。"
+  },
+  {
+    "key": "2050311-name",
+    "original": "하늘의 계시",
+    "context": "EN :\nRevelation from Above\nJP :\n天の啓示"
+  },
+  {
+    "key": "2050311-desc",
+    "original": "조작 패널에서 가장 왼쪽의 스킬로 합 승리 시 다음 턴에 무작위 아군에게 공격 위력 증가 또는 수비 위력 증가 1 부여",
+    "context": "EN :\nAfter winning a clash with the leftmost skill on the Dashboard, apply 1 Attack Power Up or Defense Power Up to a random ally next turn.\nJP :\n操作パネルの一番左のスキルでマッチ勝利時、次のターンにてランダムな味方に攻撃威力増加 あるいは守備威力増加 1を付与"
+  },
+  {
+    "key": "2060111-name",
+    "original": "파문",
+    "context": "EN :\nRipple\nJP :\n波紋"
+  },
+  {
+    "key": "2060111-desc",
+    "original": "전투 시작 시 정신력이 가장 낮은 아군의 정신력을 조작 패널에서 가장 높은 자신의 완전 공명 수만큼 회복 \n패닉 상태의 아군 제외",
+    "context": "EN :\nAt the start of the combat phase, heal SP for the ally with the least SP by the count of your highest A-Reson. value, excluding those in Panic.\nJP :\n戦闘開始時に精神力が最も低い味方の精神力を、操作パネルで一番多い自分の完全共鳴数だけ回復\nパニック状態の味方を除く"
+  },
+  {
+    "key": "2060211-name",
+    "original": "구속하는 리본",
+    "context": "EN :\nBinding Ribbons\nJP :\n拘束するリボン"
+  },
+  {
+    "key": "2060211-desc",
+    "original": "조작 패널에서 가장 왼쪽의 스킬로 공격하는 대상에게 공격 종료 시 \n다음 턴에 (색욕 완전 공명 수/4)만큼 색욕 취약 부여",
+    "context": "EN :\nThe target of the leftmost skill on the Dashboard is inflicted with (Lust A-Reson. / 4) Lust Fragility next turn.\nJP :\n操作パネルの一番左にあるスキルで攻撃する対象へ\n攻撃が終わったとき、次のターンに(色欲完全共鳴数÷4)色欲脆弱 を付与"
+  },
+  {
+    "key": "2070111-name",
+    "original": "오기",
+    "context": "EN :\nVying Spirit\nJP :\n傲気"
+  },
+  {
+    "key": "2070111-desc",
+    "original": "다른 아군이 적을 처치하면 다음 턴 시작 시 공격 위력 증가 1, 신속 1을 얻음 (최대 3)",
+    "context": "EN :\nWhen another ally defeats an enemy, gain 1 Attack Power Up and 1 Haste at the start of next turn. (Max 3)\nJP :\n他の味方が敵を倒すと、次のターン開始時に攻撃威力増加 1, クイック1を得る(最大3)"
+  },
+  {
+    "key": "2070211-name",
+    "original": "포효",
+    "context": "EN :\nRoar\nJP :\n咆哮"
+  },
+  {
+    "key": "2070211-desc",
+    "original": "적 처치 시 해당 턴의 (질투 완전 공명 수/2)만큼 충전 횟수 증가",
+    "context": "EN :\nAfter defeating an enemy, gain Charge Count by half that turn’s Envy A-Reson.\n(Envy A-Reson. / 2)\nJP :\n敵を倒したとき、そのターンの(嫉妬完全共鳴数÷2)だけ充電 回数を増加"
+  },
+  {
+    "key": "2080111-name",
+    "original": "강박",
+    "context": "EN :\nCompulsion\nJP :\n強迫"
+  },
+  {
+    "key": "2080111-desc",
+    "original": "승률이 우세인 합 진행 시 합 위력 +2. 승률이 불리인 합 진행 시 합 위력 -2",
+    "context": "EN :\nClash Power +2 in clashes whose win rate is in the unit’s favor.\nClash Power -2 in clashes whose win rate is against the unit’s favor.\nJP :\n勝率が有利であるマッチを進行時、マッチ威力 +2。勝率が不利であるマッチを進行時、マッチ威力 -2"
+  },
+  {
+    "key": "2080211-name",
+    "original": "분홍 리본",
+    "context": "EN :\nPink Ribbons\nJP :\n桃色のリボン"
+  },
+  {
+    "key": "2080211-desc",
+    "original": "합 승리 시 분홍 리본 1 부여",
+    "context": "EN :\nOn clash win, inflict 1 Pink Ribbons\nJP :\nマッチ勝利時、桃色のリボン1を付与"
+  },
+  {
+    "key": "2080311-name",
+    "original": "흩날리는 불꽃",
+    "context": "EN :\nShower of Fire\nJP :\n舞い散る火花"
+  },
+  {
+    "key": "2080311-desc",
+    "original": "화상이 부여된 적에게 공격 적중 시 무작위 적 3 명에게 화상 1 부여",
+    "context": "EN :\nOn hit, if the target had Burn, inflict 1 Burn on 3 random enemies.\nJP :\n火傷 が付与された敵に攻撃的中時、ランダムな敵3名に火傷 1を付与"
+  },
+  {
+    "key": "2090111-name",
+    "original": "단절",
+    "context": "EN :\nSeverance\nJP :\n断絶"
+  },
+  {
+    "key": "2090111-desc",
+    "original": "정신력 회복 효율 +1, 정신력 감소 효율 -1",
+    "context": "EN :\n+1 SP Heal Efficiency, -1 SP Loss Efficiency\nJP :\n精神力回復効率 +1, 精神力減少効率 -1"
+  },
+  {
+    "key": "2090211-name",
+    "original": "불씨",
+    "context": "EN :\nSpark of Flame\nJP :\n火種"
+  },
+  {
+    "key": "2090211-desc",
+    "original": "화상이 부여된 적 처치 시 최대 체력의 (분노 완전 공명 수)% 만큼 체력 회복",
+    "context": "EN :\nAfter defeating an enemy that has Burn, heal HP by (Wrath A-Reson.)% of Max HP.\nJP :\n火傷 が付与された敵を倒したとき、体力最大値の(憤怒完全共鳴数)%体力を回復"
+  },
+  {
+    "key": "2090311-name",
+    "original": "추위",
+    "context": "EN :\nColdness\nJP :\n寒気"
+  },
+  {
+    "key": "2090311-desc",
+    "original": "침잠이 5 이상 부여된 적에게 공격 적중 시 속박, 공격 위력 감소 1 부여\n(적 1명 당 최대 3)",
+    "context": "EN :\nOn hit, if the target has 5+ Sinking, inflict 1 Bind and Attack Power Down.\n(3 times per unit.)\nJP :\n沈潜 が5以上付与された敵に攻撃的中時、束縛 、攻撃威力減少 1を付与\n(敵1名につき最大3)"
+  },
+  {
+    "key": "2100111-name",
+    "original": "불안정",
+    "context": "EN :\nUnstable\nJP :\n不安定"
+  },
+  {
+    "key": "2100111-desc",
+    "original": "한 스킬에서 공격 적중 시 이전에 판정한 코인과 다른 면의 코인 나오면 정신력 -5, 이번 턴에 피해량 증가 1을 얻음 (턴 당 최대 3회)",
+    "context": "EN :\nIf a skill's Coin hits with a different side from the previous Coin in the same skill, lose 5 SP and gain 1 Damage Up this turn. (3 times per turn)\nJP :\n一つのスキルにて攻撃的中時、前に判定したコインと別の面のコインが出ると精神力を-5, このターンにダメージ量増加 1を得る(1ターンにつき最大3回)"
+  },
+  {
+    "key": "2100211-name",
+    "original": "산제물 의식",
+    "context": "EN :\nLive Offering\nJP :\n生贄の儀式"
+  },
+  {
+    "key": "2100211-desc",
+    "original": "공격, 반격 스킬로 적 처치 시 처치한 스킬의 E.G.O 자원을 5개 획득",
+    "context": "EN :\nAfter defeating an enemy with an attack or counter skill, gain 5 E.G.O resources of that skill’s Affinity.\nJP :\n攻撃・反撃スキルで敵を倒したとき、倒したスキルのE.G.O資源を5つ得る"
+  },
+  {
+    "key": "2110111-name",
+    "original": "완벽한 전술",
+    "context": "EN :\nTactical Perfection\nJP :\n完璧な戦術"
+  },
+  {
+    "key": "2110111-desc",
+    "original": "매 턴마다 한번도 피격 당하지 않을 경우, 다음 턴에 피해량 증가 1을 얻음 (최대 3회 중첩 가능)",
+    "context": "EN :\nIf the unit did not get hit at all during a turn, gain 1 Damage Up next turn. (Max 3 stacks)\nJP :\n毎ターン、一度も被弾しなかったときは次のターンにダメージ量増加 1を得る。(最大3ターン重複)"
+  },
+  {
+    "key": "2110211-name",
+    "original": "불신의 줄기",
+    "context": "EN :\nStem of Distrust\nJP :\n不信の枝"
+  },
+  {
+    "key": "2110211-desc",
+    "original": "매 턴마다 관통 피해량 증가 1을 얻음\n앞면 적중 시 다음 턴에 속박 1 부여, 파열 횟수 1 증가",
+    "context": "EN :\nAt the start of the turn, gain 1 Pierce DMG Up.\nOn hit with a Heads coin, inflict 1 Bind and +1 Rupture Count next turn.\nJP :\nターンごとに貫通ダメージ量増加  1を得る\n表面的中時、次のターンに束縛 1を付与、破裂 回数が1増加。"
+  },
+  {
+    "key": "2110311-name",
+    "original": "비워냄",
+    "context": "EN :\nEmptying\nJP :\n空ける"
+  },
+  {
+    "key": "2110311-desc",
+    "original": "매 턴마다 색욕 피해량 증가 1을 얻음. 자신의 정신력이 0 미만이면 추가로 1을 더 얻음",
+    "context": "EN :\nAt the start of the turn, gain 1 Lust DMG Up.\nGain 1 more when below 0 SP.\nJP :\n毎ターン、色欲ダメージ量増加 1を得る。自分の精神力が0未満なら追加で1得る。"
+  },
+  {
+    "key": "2120111-name",
+    "original": "이형발작",
+    "context": "EN :\nUncontrolled Morph\nJP :\n異形発作"
+  },
+  {
+    "key": "2120111-desc",
+    "original": "턴 시작 시 체력이 25% 미만이면 체력을 15 회복하고, 보호 2를 얻음.\n해당 효과 발동 시 자신을 제외한 무작위 아군과 적 1명의 정신력 감소 효율 +2 ",
+    "context": "EN :\nAt the start of the turn, if below 25% HP, heal 15 HP and gain 2 Protection.\nWhen this effect activates, inflict 1 random other ally & 1 random enemy with +2 SP Loss Efficiency.\nJP :\nターン開始時に体力が25%未満の場合は体力を15回復し、保護 2を得る。\n効果発動時、自分以外のランダムな味方と敵1名の精神力減少効率 +2"
+  },
+  {
+    "key": "2120211-name",
+    "original": "구더기",
+    "context": "EN :\nMaggots\nJP :\n蛆虫"
+  },
+  {
+    "key": "2120211-desc",
+    "original": "공격 적중 시 (탐식 완전 공명 수 x 8)% 확률로 구더기 5 부여",
+    "context": "EN :\nOn hit, inflict 5 Maggots at a (Gluttony A-Reson. x8)% chance.\nJP :\n攻撃的中時、(暴食完全共鳴数 × 8)%の確率で蛆虫 5を付与"
+  },
+  {
+    "key": "2120311-name",
+    "original": "양분 흡수",
+    "context": "EN :\nNutrient Absorption\nJP :\n養分吸収"
+  },
+  {
+    "key": "2120311-desc",
+    "original": "파열이 부여된 적 처치 시 최대 체력의  (탐식 완전 공명 수)% 만큼 체력 회복",
+    "context": "EN :\nAfter defeating an enemy that has Rupture, heal HP by (Gluttony A-Reson.)% of Max HP.\nJP :\n破裂 が付与された敵を倒したとき、体力最大値の(暴食完全共鳴数)%体力を回復"
+  },
+  {
+    "key": "2030311-name",
+    "original": "무작위 방출",
+    "context": "EN :\nHaphazard Discharge\nJP :\n無作為放出"
+  },
+  {
+    "key": "2030311-desc",
+    "original": "전투 시작 시 충전을 보유한 무작위 아군의 충전 횟수가 (질투 완전 공명 수/2)만큼 증가",
+    "context": "EN :\nAt the start of the combat phase, a random ally with Charge gains +(Envy A-Reson. / 2) Charge Count.\nJP :\n戦闘開始時、充電 を保有するランダムな味方の充電回数が(嫉妬完全共鳴数÷2)だけ増加"
+  },
+  {
+    "key": "2020411-name",
+    "original": "적응형 방출",
+    "context": "EN :\nAdaptive Release\nJP :\n適応型放出"
+  },
+  {
+    "key": "2020411-desc",
+    "original": "자신에게 충전이 있을 때 충전 횟수 1 당 피해량 +2%\n스킬의 효과로 소모하는 충전 횟수의 값 -2",
+    "context": "EN :\nWhile this unit has Charge, deal +2% damage per Charge Count.\nSkills spend -2 Charge Count.\nJP :\n自分に充電 があるとき、充電 回数1つにつきダメージ量 +2%\nスキルの効果で消耗する充電 回数の値 -2"
+  },
+  {
+    "key": "2030411-name",
+    "original": "폭식의 도가니",
+    "context": "EN :\nCauldron of Gorging\nJP :\n暴食のるつぼ"
+  },
+  {
+    "key": "2030411-desc",
+    "original": "턴 시작 시 색욕이 아닌 무작위 속성의 E.G.O 자원 2개를 색욕 E.G.O 자원 1개로 변경",
+    "context": "EN :\nAt the start of the turn, convert 2 random non-Lust E.G.O resources into 1 Lust resource.\nJP :\nターン開始時、色欲以外のランダム属性のE.G.O資源2つを、色欲E.G.O資源1つに変換"
+  },
+  {
+    "key": "2100311-name",
+    "original": "스튜 분출",
+    "context": "EN :\nStew Spewage\nJP :\nシチュー噴出"
+  },
+  {
+    "key": "2100311-desc",
+    "original": "뒷면 적중 시 대상이 적인 경우, 화상 1 부여",
+    "context": "EN :\nTails Coins inflict 1 Burn if hitting an enemy.\nJP :\n裏面的中時、対象が敵なら火傷1を付与"
+  },
+  {
+    "key": "2010411-name",
+    "original": "헤메이는 자",
+    "context": "EN :\nRambling Man\nJP :\n彷徨う者"
+  },
+  {
+    "key": "2010411-desc",
+    "original": "턴 시작 시 이전 턴에 피해를 받지 않았으면, 자신의 충전 횟수 4 증가\n자신보다 속도가 느린 적에게 공격 적중 시 대상의 파열 횟수 1 증가 (턴 당 최대 3회)",
+    "context": "EN :\nAt the start of the turn, if this unit took no damage last turn, gain +4 Charge Count.\nAfter successfully hitting an enemy with lower Speed, inflict +1 Rupture Count. (3 times per turn)\nJP :\nターン開始時、前のターンでダメージを受けていなければ自分の充電 回数が4増加\n自分より速度が遅い敵に攻撃的中時、対象の破裂 回数を1増加(1ターンにつき最大3回)"
+  },
+  {
+    "key": "2060311-name",
+    "original": "뒤얽힌 현상 복구",
+    "context": "EN :\nEntangled Phenomena Restoration\nJP :\nもつれた現状復旧"
+  },
+  {
+    "key": "2060311-desc",
+    "original": "부정적인 효과를 가진 적에게 공격 적중 시 자신의 충전 횟수 1 증가 (턴 당 최대 4회)\n체력이 0이 될 때 충전 횟수를 전부 소모하고, 소모한 값에 비례하여 체력 회복 (전투당 1회 발동. 회복량 최대값: 전체 체력의 25%) ",
+    "context": "EN :\nWhen hitting an enemy with negative status effects, this unit gains +1 Charge Count. \n(Max +4 per turn.)\nWhen HP falls to 0 for the first time during battle, spend all Charge Count and heal in proportion to the amount spent. (Cannot heal over 25% Max HP.)\nJP :\nマイナス効果を持つ敵に攻撃的中時、自分の充電回数を1増加(1ターンにつき最大4回)\n体力が0になるとき充電 回数を全て消耗し、消耗した値に比例して体力を回復(戦闘につき1回発動。回復最大値: 体力最大値の25%)"
+  },
+  {
+    "key": "2050411-name",
+    "original": "삭히지 못한 흥분",
+    "context": "EN :\nUntempered Agitation\nJP :\n冷ませぬ興奮"
+  },
+  {
+    "key": "2050411-desc",
+    "original": "전투 시작 시 자신이 2개 이상의 스킬의 타겟이 되었다면, 스킬 기본 위력이 1 증가하고, 피격 시 공격자에게 화상 1 부여 (턴 당 최대 5회) ",
+    "context": "EN :\nAt the start of the combat phase, if targeted by 2 or more skills, this unit’s skills have +1 Base Power; when hit, inflict 1 Burn on the attacker. (5 times per turn.)\nJP :\n戦闘開始時、自分が2つ以上のスキルのターゲットになっているなら、スキルの基本威力が1増加し、被ダメージ時に攻撃者へ火傷1を付与(1ターンにつき最大5回)"
+  },
+  {
+    "key": "2080411-name",
+    "original": "환호 속 숨통 끊기",
+    "context": "EN :\nSlaying Amid Cheers\nJP :\n喝采の中、息の根を断つ"
+  },
+  {
+    "key": "2080411-desc",
+    "original": "공격하는 대상의 체력이 30% 미만일 때 분노 속성 스킬의 피해량 + 20%",
+    "context": "EN :\nWhen attacking a target with less than 30% HP, Wrath skills deal +20% damage.\nJP :\n攻撃する対象の体力が30%未満のとき、憤怒属性スキルのダメージ量 +20%"
+  },
+  {
+    "key": "2110411-name",
+    "original": "사냥의 호흡",
+    "context": "EN :\nBreath of the Hunt\nJP :\n狩りの呼吸"
+  },
+  {
+    "key": "2110411-desc",
+    "original": "합 종료 시 호흡 2를 얻음\n흐트러짐 상태가 되면 보호 2를 얻고, 흐트러짐 상태에서 돌아올 때 호흡 5를 얻음",
+    "context": "EN :\nAfter a clash, gain 2 Poise\nWhen staggered, gain 2 Protection; when recovering from stagger, gain 5 Poise\nJP :\nマッチ終了時、呼吸 2を得る\n混乱状態になると保護 2を得て、混乱状態から立ち直ったときに呼吸 5を得る"
+  },
+  {
+    "key": "2070311-name",
+    "original": "신경질적인 방전",
+    "context": "EN :\nTemperamental Discharge\nJP :\n神経質な放電"
+  },
+  {
+    "key": "2070311-desc",
+    "original": "피격 시 충전 횟수를 1 소모하여 최대 체력의 2.5%만큼 체력 회복\n피격 시 체력이 40%미만인 경우 충전 횟수가 1 증가한 뒤, 체력 회복 효과가 발동됨 (충전 횟수는 턴 당 최대 10까지 증가 가능)",
+    "context": "EN :\nWhen hit, spend 1 Charge Count to heal 2.5% of Max HP\nAt less than 40% HP, gain 1 Charge Count before activating the healing effect. (Can gain up to 10 Charge Count per turn)\nJP :\n被ダメージ時、充電 回数を1消耗して体力を最大値の2.5%分回復\n被ダメージ時の体力が40%未満の場合充電 回数が1増加し、体力回復効果が発動する(充電 回数は1ターンに最大10まで増加可能)"
+  },
+  {
+    "key": "2120411-name",
+    "original": "교류 방출",
+    "context": "EN :\nAlternating Discharge\nJP :\n交流放出"
+  },
+  {
+    "key": "2120411-desc",
+    "original": "앞면 적중 시 자신의 충전 횟수 2를 소모하여 충전을 보유한 아군 중 충전 횟수가 가장 낮은 아군 1명의 충전 횟수 1 증가",
+    "context": "EN :\nOn hit with a Heads coin, spend 2 Charge Count to give +1 Charge Count to the Charge-possessing ally with the lowest Charge Count\nJP :\n表面的中時、自分の充電 回数2を消耗して充電を保有する味方の内、充電 回数が最も低い味方1名の充電 回数を1増加"
+  },
+  {
+    "key": "2010511-name",
+    "original": "비 갠 뒤 햇살",
+    "context": "EN :\nRay of Sun After Rain\nJP :\n雨上がりの陽射し"
+  },
+  {
+    "key": "2010511-desc",
+    "original": "턴 시작 시 모든 아군의 정신력 3 회복",
+    "context": "EN :\nAt the start of the turn, all allies heal 3 SP\nJP :\nターン開始時、全味方の精神力を3回復"
+  },
+  {
+    "key": "2040311-name",
+    "original": "거미줄",
+    "context": "EN :\nSpider's Webs\nJP :\n蜘蛛の糸"
+  },
+  {
+    "key": "2040311-desc",
+    "original": "합 승리 시 다음 턴에 속박 1 부여 (턴 당 최대 3회)",
+    "context": "EN :\nOn clash win, inflict 1 Bind next turn. (3 times per turn)\nJP :\nマッチ勝利時、次のターンに束縛 1を付与(1ターンにつき最大3回)"
+  },
+  {
+    "key": "2040411-name",
+    "original": "포식",
+    "context": "EN :\nPredator\nJP :\n捕食"
+  },
+  {
+    "key": "2040411-desc",
+    "original": "이번 턴에 최대 체력의 10%를 초과하여 체력을 회복한 경우, 다음 턴에 공격 위력 증가 1을 얻음",
+    "context": "EN :\nIf this unit healed more than 10% of its Max HP this turn, gain 1 Attack Power Up next turn.\nJP :\nこのターンにて体力最大値を超過して体力を10%回復した場合、次のターンに攻撃威力増加 1を得る"
+  },
+  {
+    "key": "2040511-name",
+    "original": "뚜껑 따인 음료수",
+    "context": "EN :\nOpened Can\nJP :\n蓋の開いた飲料"
+  },
+  {
+    "key": "2040511-desc",
+    "original": "침잠이 5 이상 부여된 적에게 공격 적중 시 수비 위력 감소 1 부여 (턴 당 최대 5회)",
+    "context": "EN :\nOn hit, if the target has 5+ Sinking, inflict 1 Defense Power Down. (5 times per turn)\nJP :\n沈潜 が5以上付与された敵に攻撃的中時、守備威力減少 1を付与(1ターンにつき最大5回)"
+  },
+  {
+    "key": "2060411-name",
+    "original": "먼 바다의 갈매기 울음 소리",
+    "context": "EN :\nSeagull Squawking Of The Distant Seas\nJP :\n遠い海のカモメの鳴き声"
+  },
+  {
+    "key": "2060411-desc",
+    "original": "적 사망 시 정신력이 가장 낮은 아군 1명의 정신력 1 회복\n적이 사망할 때마다 회복량 2 증가 (최대 9)\n웨이브 시작시 증가된 값 초기화",
+    "context": "EN :\nWhen an enemy is defeated, the ally with the least SP heals 1 SP.\nWhenever an enemy is defeated, the amount of SP healed increases by 2. (Max 9)\nThe amount is reset at the start of a new wave.\nJP :\n敵死亡時、精神力が最も低い味方1名の精神力を1回復\n敵が死亡するたびに回復量が2増加(最大9)\nウェーブ開始時、増加した値が初期化される"
+  },
+  {
+    "key": "2100411-name",
+    "original": "미끼 요정",
+    "context": "EN :\nFairy Lure\nJP :\n好餌妖精"
+  },
+  {
+    "key": "2100411-desc",
+    "original": "전투 시작 시 자신을 메인 타겟으로 공격하는 대상을 처치하면, 자신의 체력을 최대 체력의 (3 + (탐식 완전 공명 수))% 만큼 회복 ",
+    "context": "EN :\nAfter defeating an enemy that mainly targets this unit at the start of the combat phase, heal 3% of Max HP + (Gluttony A-Reson.)% of Max HP \nJP :\n戦闘開始時、自分をメインターゲットに攻撃する対象を討伐すると、自分の体力を最大値の( 3 + (暴食完全共鳴数))%だけ回復 "
+  },
+  {
+    "key": "2070411-name",
+    "original": "참선",
+    "context": "EN :\nDhyāna\nJP :\n禅定"
+  },
+  {
+    "key": "2070411-desc",
+    "original": "흐트러짐 상태에서 회복될 때, 최대 체력이 인격의 기본 최대 체력의 15%만큼 증가.\n이후 체력을 현재 최대 체력의 15%만큼 회복. 현재 체력이 현재 최대 체력의 30% 미만인 경우, 대신 25%만큼 회복.\n(스테이지당 최대 3회 발동. 스테이지 종료 시 최대 체력 증가가 해제되며, 해제 시점의 체력 비율에 맞게 현재 체력이 조정됨.)",
+    "context": "EN :\nRaise Max HP by 15% of this Identity's base Max HP when recovering from Staggered state.\nThen, heal by 15% of current Max HP. If at less than 30% of current Max HP, heal by 25% instead.\n(3 times per encounter. At Encounter End, revert to base Max HP. Current HP value will be adjusted to reflect the HP percentage at the time of Encounter End.)\nJP :\n混乱状態から回復するとき、体力最大値が人格の基本最大値の15%増加。\n以降、体力を現最大値の15%回復。現体力が現最大値の30%未満の場合は25%回復する。\n(ステージにつき3回発動。ステージ終了時に体力最大値増加が解除され、解除時点の体力比率に合わせて現体力が調整される。)"
+  },
+  {
+    "key": "2050511-name",
+    "original": "구속당한 분노",
+    "context": "EN :\nBound Wrath\nJP :\n縛られた怒り"
+  },
+  {
+    "key": "2050511-desc",
+    "original": "자신의 조작 패널에서 가장 왼쪽에 위치한 스킬의 기본 위력 1 감소. 코인 위력 2 증가\n턴 시작 시 속도가 4 이하면, 타격 위력 증가 1을 얻음.",
+    "context": "EN :\nThis unit's leftmost skill on the Dashboard loses 1 Base Power and gains 2 Coin Power\nAt the start of the turn, if at 4- Speed, gain 1 Blunt Power Up\nJP :\n操作パネルで一番左に置かれた自分のスキルの基本威力が1減少。コイン威力が2増加\nターン開始時に速度が4以下なら、打撃威力増加 1を得る。"
+  },
+  {
+    "key": "2020511-name",
+    "original": "불꽃의 검",
+    "context": "EN :\nFlamebrand\nJP :\n炎の剣"
+  },
+  {
+    "key": "2020511-desc",
+    "original": "색욕 속성 스킬로 앞면 적중 시 대상에게 화상 1 부여 (턴 당 최대 6회)",
+    "context": "EN :\nOn Heads Hit with a Lust affinity Skill, inflict 1 Burn on target (6 times per turn)\nJP :\n色欲属性スキルで表面的中時、対象に火傷 1を付与(1ターンにつき最大6回)"
+  },
+  {
+    "key": "2060511-name",
+    "original": "녹색 진액",
+    "context": "EN :\nGreen Slime\nJP :\n緑色のエキス"
+  },
+  {
+    "key": "2060511-desc",
+    "original": "피격 시 현재 체력이 최대 체력의 50% 미만이면, 공격자에게 파열 1 부여. (턴 당 가장 많은 탐식 완전 공명 수만큼 발동)",
+    "context": "EN :\nIf struck at less than 50% HP, inflict 1 Rupture on the attacker. (Activates (Highest Gluttony A-Reson) times per turn)\nJP :\n被ダメージ時、現体力が最大値の50%未満なら攻撃者に破裂 1を付与。(1ターンにつき1番多い暴食完全共鳴数だけ発動)"
+  },
+  {
+    "key": "2040611-name",
+    "original": "꿈 먹기",
+    "context": "EN :\nDream Devouring\nJP :\n夢を貪る"
+  },
+  {
+    "key": "2040611-desc",
+    "original": "오만 속성 스킬로 크리티컬 적중 시 호흡 횟수 1 증가 (턴 당 최대 3회)",
+    "context": "EN :\nOn Crit with a Pride affinity Skill, gain 1 Poise Count (3 times per turn)\nJP :\n傲慢属性スキルでクリティカル的中時、呼吸 回数が1増加(1ターンにつき最大3回)"
+  },
+  {
+    "key": "2080511-name",
+    "original": "무모한 항해",
+    "context": "EN :\nTemeritous Voyage\nJP :\n無謀な航海"
+  },
+  {
+    "key": "2080511-desc",
+    "original": "턴 종료 시 자신을 제외한 체력이 가장 낮은 아군 1명에게 침잠 5를 부여하고, 다음 턴에 신속 1, 공격 레벨 증가 3 부여",
+    "context": "EN :\nAt the end of the turn, inflict 5 Sinking to 1 other ally with the lowest HP; Apply 1 Haste and 3 Offense Level Up next turn\nJP :\nターン終了時、自分を除いた体力が最も低い味方1名に沈潜 5を付与し、次のターンにクイック 1, 攻撃レベル増加 3を付与"
+  },
+  {
+    "key": "2090411-name",
+    "original": "끈적거리는 오물",
+    "context": "EN :\nSticky Filth\nJP :\n粘つく汚物"
+  },
+  {
+    "key": "2090411-desc",
+    "original": "관통 속성 스킬로 앞면 적중 시 속박 1 부여 (턴 당 최대 2회)",
+    "context": "EN :\nOn Heads Hit with a Pierce Skill, inflict 1 Bind (2 times per turn)\nJP :\n貫通属性スキルで表面的中時、束縛 1を付与(1ターンにつき最大2回)"
+  },
+  {
+    "key": "2100511-name",
+    "original": "파멸의 예언",
+    "context": "EN :\nProphecy of Ruin\nJP :\n破滅の予言"
+  },
+  {
+    "key": "2100511-desc",
+    "original": "색욕 속성 스킬의 앞면 적중 시 자신과 대상에게 정신력 피해 4를 입힘.\n(정신력이 없는 대상에게는 정신력 피해가 적용되지 않음)\n색욕 속성 스킬로 처치 시 색욕 E.G.O 자원을 5개 획득",
+    "context": "EN :\nOn Heads Hit with a Lust affinity Skill, lower this unit and the target's SP by 4.\n(Does not work against targets without Sanity)\nGain 5 Lust E.G.O resources On Kill with a Lust affinity Skill\nJP :\n色欲属性スキルが表面的中時、自分と対象へ精神力ダメージ4を与える。\n(精神力のない対象には精神力ダメージが適用されない)\n色欲属性スキルで敵を倒した場合、色欲E.G.O資源を5つ獲得"
+  },
+  {
+    "key": "2090511-name",
+    "original": "하늘의 선고",
+    "context": "EN :\nSentencing from Above\nJP :\n天の宣告"
+  },
+  {
+    "key": "2090511-desc",
+    "original": "적이 흐트러짐 상태에 빠질 때마다 아군 중 현재 체력 비율이 가장 낮은 아군 1명이 해당 캐릭터의 최대 체력의 4%만큼 체력을 회복 (턴 당 1회 발동)",
+    "context": "EN :\nWhenever an enemy is Staggered, the ally with the least HP percentage heals 4% of their Max HP. (Once per turn)\nJP :\n敵が混乱するたびに、味方の中で現体力の比率が最も低い味方1名が、該当キャラクターの体力最大値の4%だけ体力を回復(1ターンにつき1回発動)"
+  },
+  {
+    "key": "2070511-name",
+    "original": "무한한 증오",
+    "context": "EN :\nInfinite Hatred\nJP :\n無限の憎悪"
+  },
+  {
+    "key": "2070511-desc",
+    "original": "자신에게 상태 이상 또는 부정적인 효과가 있을 때, 메인 공격 대상 또는 자신을 공격하는 대상에게 긍정적인 효과가 있으면, 스킬, 코인 효과로 자신과 적에게 부여하는 화상, 출혈, 진동, 파열, 침잠 위력 +1, 스킬, 코인 효과로 자신이 얻는 호흡, 충전 횟수 +1",
+    "context": "EN :\nWhen this unit has a status effect or a negative effect, and if the main target or the attacker has a positive effect:\n- Inflict +1 more Burn, Bleed, Tremor, Rupture, and Sinking Potency to self and enemies with Skill effects or Coin effects\n- Gain +1 more Poise and Charge Count with Skill effects or Coin effects\nJP :\n\n自分に状態異常またはマイナス効果があるとき、メインターゲットまたは自分を攻撃する対象にプラス効果があるなら、スキル・コイン効果で自分と敵に与える火傷・出血・振動・破裂・沈潜 威力 +1, スキル・コイン効果で自分が得る呼吸・充電 回数 +1"
+  },
+  {
+    "key": "2110511-name",
+    "original": "평등한 선물",
+    "context": "EN :\nFair Presents\nJP :\n平等なプレゼント"
+  },
+  {
+    "key": "2110511-desc",
+    "original": "자신을 제외한 아군에게 스킬, 코인 효과로 긍정적인 버프를 부여할 때 무작위 적 1명에게 화상, 출혈, 진동, 파열, 침잠 중 무작위 효과 1개의 위력 1 부여 (턴 당 최대 5회 발동. 적 1명 당 최대 5회 부여 가능, 환상체의 경우 무작위 부위에 부여됨.)",
+    "context": "EN :\nWhen applying positive effects to other allies with Skill effects or Coin effects, randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking.\nThen, inflict 1 Potency of the selected effect to 1 random enemy. (Activates 5 times per Turn. Can be applied up to 5 times per enemy. For abnormalities, applied to a random Part.)\nJP :\n自分を除いた味方へスキル・コイン効果でプラス効果を付与するとき、ランダムな敵1名へ火傷・出血・振動・破裂・沈潜 のうちランダムな効果1つを威力1で付与(1ターンにつき最大5回発動。敵1体につき最大5回付与可能、幻想体の場合はランダムな部位に付与。)"
+  },
+  {
+    "key": "2030511-name",
+    "original": "무너진 돌탑",
+    "context": "EN :\nFallen Stone Pagoda\nJP :\n崩れた石塔"
+  },
+  {
+    "key": "2030511-desc",
+    "original": "출혈이 부여된 적 처치 시 호흡 2, 호흡 횟수 2 얻음 (턴 당 3회)",
+    "context": "EN :\nGain 2 Poise and +2 Poise Count when defeating an enemy with Bleed (3 times per turn)\nJP :\n出血が付与された敵を討伐時に呼吸 2, 呼吸 回数2を得る(1ターンにつき3回)"
+  },
+  {
+    "key": "2120511-name",
+    "original": "장미 면류관",
+    "context": "EN :\nCrown of Roses\nJP :\n薔薇の冠"
+  },
+  {
+    "key": "2120511-desc",
+    "original": "턴 시작 시, 무작위 적 1명에게 파열 위력 2 부여.(집중 전투인 경우, 모든 부위에 부여)\n완전 공명을 발동하였다면 전투 시작 시, 모든 적에게 파열 위력 2 부여.",
+    "context": "EN :\nTurn Start: Inflict 2 Rupture Potency on a random enemy(In Focused Encounters, all parts)\nWhen activating Absolute Resonance, inflict 2 Rupture Potency on all enemies at Combat Start\nJP :\nターン開始時、ランダムな敵1名へ破裂 威力を2付与。(集中戦闘の場合、全部位へ付与)\n完全共鳴を発動したなら戦闘開始時、全ての敵へ破裂 威力2を付与。"
+  },
+  {
+    "key": "2120611-name",
+    "original": "되돌릴 수 있다면...",
+    "context": "EN :\nIf I Could Go Back...\nJP :\n戻れるなら…"
+  },
+  {
+    "key": "2120611-desc",
+    "original": "자신의 공격 종료 시 대상이 사망한 경우, 가장 수량이 적은 E.G.O. 자원 1개 획득.\n대상의 ([Sinking] 위력 + 횟수) 5 당 추가로 1개 획득 (최대 3)\n(가장 수량이 적은 E.G.O 자원이 2개 이상이면, 부족한 자원 중 무작위로 획득)",
+    "context": "EN :\nAfter Attack: If the target is defeated after this unit's attack, gain 1 E.G.O resource for the least-owned E.G.O resource.\nGain 1 additional E.G.O resource for every 5 ([Sinking] Potency + Count) (max 3)\n(If there are 2 or more \"least-owned E.G.O resource\", select 1 of those Affinities at random to gain an E.G.O resource)\nJP :\n自分の攻撃終了時に対象が死亡した場合、最も少ないE.G.O資源を1つ獲得。\n対象の([Sinking]威力 + 回数)5につき、追加で1獲得(最大3)\n(最も少ないE.G.O資源が2つ以上ならランダムに獲得)"
+  },
+  {
+    "key": "2010611-name",
+    "original": "조각난 어제",
+    "context": "EN :\nFractured Yesterday\nJP :\n砕け散った昨日"
+  },
+  {
+    "key": "2010611-desc",
+    "original": "대상의 [Sinking] 위력이 6 이상이면, 합 위력 +1\n대상의 [Sinking] 횟수가 4 이상이면, 합 위력 +1",
+    "context": "EN :\nIf the target has 6+ [Sinking] Potency, Clash Power +1\nIf the target has 4+ [Sinking] Count, Clash Power +1\nJP :\n対象の[Sinking]威力が6以上なら、マッチ威力 +1\n対象の[Sinking]回数が4以上なら、マッチ威力 +1"
+  },
+  {
+    "key": "2030611-name",
+    "original": "폭풍 같은 비명",
+    "context": "EN :\nTempestuous Screaming\nJP :\n嵐が如き悲鳴"
+  },
+  {
+    "key": "2030611-desc",
+    "original": "자신의 참격 스킬 또는 질투 속성 스킬 종료 시 대상이 사망했으면, 다음 턴에 [Enhancement] 1 얻음 (턴 당 1회)",
+    "context": "EN :\nIf the target is defeated at this unit's Slash or Envy Affinity Skill End, gain 1 [Enhancement] next turn (once per turn)\nJP :\n自分の斬撃スキルまたは嫉妬属性スキル終了時に対象が死亡したなら、次のターンに[Enhancement]1を得る(1ターンにつき1回)"
+  },
+  {
+    "key": "2050611-name",
+    "original": "과부하 케이블",
+    "context": "EN :\nOverloading Cables\nJP :\n過負荷ケーブル"
+  },
+  {
+    "key": "2050611-desc",
+    "original": "전투 시작 시 공명이 4 이상 발동하였다면, [AttackUp] 2, [DefenseUp] 2 얻음.\n해당 공명이 질투 공명이었다면, 자신의 조작 패널 양 옆 아군에게도 부여",
+    "context": "EN :\nCombat Start: At 4+ Reson., gain 2 [AttackUp] and 2 [DefenseUp].\nIf the Reson. was an Envy Reson., apply the above effects to the 2 units adjacent to this unit on the Dashboard as well\nJP :\n戦闘開始時に共鳴が4以上発動したなら、[AttackUp]2, [DefenseUp]2を得る。\n該当共鳴が嫉妬共鳴なら、自分の操作パネル両隣の味方にも付与"
+  },
+  {
+    "key": "2070611-name",
+    "original": "구속의 사슬",
+    "context": "EN :\nChains of Binding\nJP :\n拘束の鎖"
+  },
+  {
+    "key": "2070611-desc",
+    "original": "- 전투 시작 시 자신의 스킬을 포함한 공명 중 가장 높은 공명이 4 이상이 되었다면, 자신과 공명에 포함된 모든 아군에게 [AttackUp] 3, [DefenseUp] 3 부여\n- 해당 공명이 완전 공명이면, 추가 2 부여",
+    "context": "EN :\n- Combat Start: At 4+ highest Reson. that includes this unit's Skills, apply 3 [AttackUp] and 3 [DefenseUp] to self and all allies who were a part of that Reson.\n- If the said Reson. was an A-Reson., apply 2 additional [AttackUp] and [DefenseUp]\nJP :\n- 戦闘開始時、自分のスキルが含まれた共鳴のうち最も高い共鳴が4以上なら、自分と共鳴に含まれている全味方へ[AttackUp]3, [DefenseUp]3を付与\n- 該当する共鳴が完全共鳴なら、追加で2付与"
+  },
+  {
+    "key": "2110611-name",
+    "original": "성대한 환대",
+    "context": "EN :\nGrand Welcome\nJP :\n盛大な歓待"
+  },
+  {
+    "key": "2110611-desc",
+    "original": "자신의 공격 종료 시 대상이 흐트러짐 상태가 되었거나 사망하였으면, 오만 속성 E.G.O 자원 +1, 나머지 속성의 E.G.O 자원 중 무작위 1종 +1 (턴 당 최대 3회 발동)",
+    "context": "EN :\nAfter Attack from this unit: if the target is Staggered or defeated, gain +1 Pride E.G.O resource and +1 E.G.O resource for 1 other random Affinity (3 times per turn)\nJP :\n自分の攻撃終了時、対象が混乱状態になるか死亡したなら傲慢属性E.G.O資源 +1, 残り属性のE.G.O資源のうちランダムに1種を +1(1ターンにつき最大3回発動)"
+  },
+  {
+    "key": "2080611-name",
+    "original": "식탐",
+    "context": "EN :\nGluttony\nJP :\n食い意地"
+  },
+  {
+    "key": "2080611-desc",
+    "original": "스킬 사용 시 메인 타겟이 이번 턴에 체력 피해를 받아 체력이 감소한 상태면, 적중시 자신의 체력이 최대인 경우, 피해량이 5 ~ 10% 증가하고, 자신의 체력이 감소한 상태인 경우, 체력을 2 ~ 5 회복. (턴 당 7회 발동)",
+    "context": "EN :\nIf the main target took HP damage this turn and isn't at max HP at Skill Use:\nOn Hit,\n- When this unit is at max HP, deal +5~+10% more damage.\n- When this unit isn't at max HP, heal 2~5 HP. \n(7 times per turn)\nJP :\nスキル使用時、メインターゲットがこのターンにダメージを受けて体力が減少した状態なら、的中時に自分の体力が最大である場合はダメージ量が5～10%増加し、自分の体力が減少した状態なら体力を2～5回復。(1ターンにつき7回発動)"
+  },
+  {
+    "key": "2080611-summary",
+    "original": "대상의 체력이 감소했으면, 적중시 피해량 증가 또는 체력 회복",
+    "context": "EN :\nIf the target isn't at max HP, deal more damage On Hit or heal HP On Hit\nJP :\n対象の体力が減少したなら、的中時にダメージ量増加または体力回復"
+  },
+  {
+    "key": "2090611-name",
+    "original": "집착",
+    "context": "EN :\nObsession\nJP :\n執着"
+  },
+  {
+    "key": "2090611-desc",
+    "original": "자신의 스킬 패널에서 가장 왼쪽에 위치한 스킬의 [Laceration] 위력 부여량이 2배로 증가 (턴 당 1회 적용)",
+    "context": "EN :\nThis unit's leftmost Skill on the Dashboard inflicts double the [Laceration] Potency (once per turn)\nJP :\n自分のスキルパネルにて、最左方に位置するスキルの[Laceration]威力付与量が2倍になる(1ターンにつき1回適用)"
+  },
+  {
+    "key": "2090611-summary",
+    "original": "스킬의 [Laceration] 위력 부여량 2배 증가",
+    "context": "EN :\nThis Skill Inflicts x2 [Laceration] Potency\nJP :\nスキルの[Laceration]威力付与量が2倍に増加"
+  },
+  {
+    "key": "2060611-name",
+    "original": "우울감",
+    "context": "EN :\nGloominess\nJP :\n憂鬱感"
+  },
+  {
+    "key": "2060611-desc",
+    "original": "자신이 적에게 스킬을 사용하여 [VibrationExplosion] 부여 시, 다음 턴에 [AttackDown] 1, [DefenseDown] 2 부여. (턴 당 최대 3회, E.G.O 스킬 포함)",
+    "context": "EN :\nWhen this unit uses a Skill to trigger [VibrationExplosion] on an enemy, inflict 1 [AttackDown] and 2 [DefenseDown] on the enemy next turn. (3 times per turn, including E.G.O Skills)\nJP :\n自分に敵へスキルを使用して[VibrationExplosion]付与時、次のターンに[AttackDown]1, [DefenseDown]2を付与。(1ターンにつき最大3回、E.G.Oスキルを含む)"
+  },
+  {
+    "key": "2060611-summary",
+    "original": "[VibrationExplosion] 부여 시, 다음 턴에 [AttackDown] 1, [DefenseDown] 2 부여",
+    "context": "EN :\nWhen triggering [VibrationExplosion], inflict 1 [AttackDown] and 2 [DefenseDown] next turn\nJP :\n[VibrationExplosion]を付与時、次のターンに[AttackDown]1, [DefenseDown]2を付与"
+  },
+  {
+    "key": "2100611-name",
+    "original": "눈물막",
+    "context": "EN :\nTear Film\nJP :\n涙液膜"
+  },
+  {
+    "key": "2100611-desc",
+    "original": "턴 시작 시 자신에게 보호막이 적용 중일 때, [Protection] 1 얻음\n자신에게 [ShieldManagerCryingToad]이 적용 중일 때, [Protection] 1 추가로 얻음",
+    "context": "EN :\nTurn Start: If this unit has Shield, gain 1 [Protection]\nIf this unit is under [ShieldManagerCryingToad]'s effect, gain 1 additional [Protection]\nJP :\nターン開始時、自分にバリアがある場合は[Protection]1を得る\n自分へ[ShieldManagerCryingToad]がある場合、[Protection]を1追加で得る"
+  },
+  {
+    "key": "2100611-summary",
+    "original": "보호막 적용 중일 때, [Protection] 1 얻음\n[ShieldManagerCryingToad] 적용 중일 때, [Protection] 1 얻음",
+    "context": "EN :\nIf this unit has Shield, gain 1 [Protection]\nIf [ShieldManagerCryingToad] is active, gain 1 [Protection]\nJP :\nバリアがある場合は[Protection]1を得る\n[ShieldManagerCryingToad]がある場合、[Protection]を1追加で得る"
+  },
+  {
+    "key": "2020611-name",
+    "original": "달리는 시간",
+    "context": "EN :\nRunning Time\nJP :\n走る時間"
+  },
+  {
+    "key": "2020611-desc",
+    "original": "자신이 적에게 스킬을 사용하여 [VibrationExplosion] 부여 시, 다음 턴에 [Agility] 1 얻음 (턴 당 최대 4회, E.G.O 스킬 포함)",
+    "context": "EN :\nWhen this unit uses a Skill to trigger [VibrationExplosion] on an enemy, gain 1 [Agility] next turn. (4 times per turn, including E.G.O Skills)\nJP :\n自分に敵へスキルを使用して[VibrationExplosion]付与時、次のターンに[Agility]1を得る。(1ターンにつき最大4回、E.G.Oスキルを含む)"
+  },
+  {
+    "key": "2020611-summary",
+    "original": "[VibrationExplosion] 부여 시, 다음 턴에 [Agility] 1 얻음 (턴 당 최대 4회, E.G.O 스킬 포함)",
+    "context": "EN :\nWhen using a Skill to trigger [VibrationExplosion] on an enemy, gain 1 [Agility] next turn. (4 times per turn, including E.G.O Skills)\nJP :\n[VibrationExplosion]付与時、次のターンに[Agility]1を得る(1ターンにつき最大4回、E.G.Oスキルを含む)"
+  },
+  {
+    "key": "2040711-name",
+    "original": "시선의 흔적",
+    "context": "EN :\nMark of the Gaze\nJP :\n視線の痕跡"
+  },
+  {
+    "key": "2040711-desc",
+    "original": "자신이 적에게 기본 공격 스킬을 사용할 때마다 자신이 사용한 스킬 속성 이외의 제일 적게 보유한 무작위 속성 E.G.O 자원 1개를 추가로 얻음 (턴 당 2회)",
+    "context": "EN :\nWhenever this unit uses a base Attack Skill against an enemy, gain 1 additional E.G.O resource for a random, least-owned Affinity that doesn't correspond to the Affinity of the Attack Skill used\nJP :\n自分が敵へ基本攻撃スキルを使用する度、自分の使用したスキル属性以外の最も保有量が少ないランダムな属性E.G.O資源1つを追加で得る(1ターンにつき2回)"
+  },
+  {
+    "key": "2070711-name",
+    "original": "뭉개진 펜던트",
+    "context": "EN :\nCrushed Pendant\nJP :\n潰れたペンダント"
+  },
+  {
+    "key": "2070711-desc",
+    "original": "전투 시작 시 최대 공명이 3 이상이면, [Breath] 3 얻음.",
+    "context": "EN :\nCombat Start: At 3+ highest Reson., gain 3 [Breath].\nJP :\n戦闘開始時、最大共鳴が3以上なら[Breath]3を得る。"
+  },
+  {
+    "key": "2110711-name",
+    "original": "헤메이는 자",
+    "context": "EN :\nRambling Man\nJP :\n彷徨う者"
+  },
+  {
+    "key": "2110711-desc",
+    "original": "[Charge] 횟수 최대치 +5\n([Charge] - 1)당 [Charge] 횟수를 소모하는 스킬의 피해량 +2% (최대 10%)",
+    "context": "EN :\nMax [Charge] Count +5\nSkills that consume [Charge] Count deal +2% more damage for every ([Charge] - 1) (max 10%)\nJP :\n[Charge]回数の最大値 +5\n([Charge]威力 - 1)につき、[Charge]回数を消耗するスキルのダメージ量 +2%(最大10%)"
+  },
+  {
+    "key": "2110711-summary",
+    "original": "[Charge] 횟수를 소모하는 스킬의 피해량이 증가",
+    "context": "EN :\nSkills that consume [Charge] Count deal more damage\nJP :\n[Charge]回数を消耗するスキルのダメージ量が増加"
+  },
+  {
+    "key": "2120711-name",
+    "original": "애도",
+    "context": "EN :\nLament\nJP :\n哀悼"
+  },
+  {
+    "key": "2120711-desc",
+    "original": "턴 종료시 자신이 부정적인 효과를 보유하고 있으면, 다음 턴에 [Enhancement] 1 얻음\n패닉 상태인 대상이나 E.G.O 침식 상태인 대상을 공격할 때, 피해량 + 15%",
+    "context": "EN :\nTurn End: if this unit has a negative effect, gain 1 [Enhancement] next turn\nWhen attacking targets that are either in Panic or in E.G.O Corrosion: deal +15% more damage\nJP :\nターン終了時に自分がマイナス効果を持っているなら、次のターンに[Enhancement]1を得る\nパニック状態の対象やE.G.O侵蝕状態の対象を攻撃するとき、ダメージ量 + 15%"
+  },
+  {
+    "key": "2080711-name",
+    "original": "불청객 맞이",
+    "context": "EN :\nInterloper Reception\nJP :\n招かざる客の出迎え"
+  },
+  {
+    "key": "2080711-desc",
+    "original": "대상에게 [UninvitedGuestPersonality] 또는 패닉 유형 변경 효과가 있으면, 합 위력 +1.\n해당 대상에게 공격 적중시 정신력이 가장 낮은 아군 1명의 정신력 5 회복. (턴 당 1회)",
+    "context": "EN :\nIf the target has [UninvitedGuestPersonality] or any of the Panic Type changing effects, Clash Power +1.\nOn Hit against the said target, heal 1 ally with the least SP for 5 SP. (once per turn)\nJP :\n対象に[UninvitedGuestPersonality]またはパニックタイプ変更効果があるなら、マッチ威力 +1\n該当対象へ攻撃的中時、精神力が最も低い味方1名の精神力を5回復。(1ターンにつき1回)"
+  },
+  {
+    "key": "2020711-name",
+    "original": "퍼져나가는 올가미",
+    "context": "EN :\nSprawling Lasso\nJP :\n広がりゆく投げ縄"
+  },
+  {
+    "key": "2020711-desc",
+    "original": "공격 종료 시 대상이 흐트러지거나 사망한 경우, 무작위 적 2명의 [Burst] 횟수 1 증가 (턴 당 1회, 중첩 불가, 집중전투인 경우 부위로 판정)",
+    "context": "EN :\nAfter Attack, if the target is Staggered or defeated, inflict +1 [Burst] Count against 2 random enemies (once per turn; cannot stack; in Focused Encounters, against 2 random Parts)\nJP :\n攻撃終了時、対象が混乱・死亡した場合、ランダムな敵2名の[Burst]回数が1増加(1ターンにつき1回、重畳不可、集中戦闘の場合は部位で判定)"
+  },
+  {
+    "key": "2020711-summary",
+    "original": "공격 종료 시 대상이 흐트러지거나 사망한 경우, 무작위 적 2명의 [Burst] 횟수 1 증가",
+    "context": "EN :\nAfter Attack, if the target is Staggered or defeated, inflict +1 [Burst] Count against 2 random enemies\nJP :\n攻撃終了時、対象が混乱・死亡した場合、ランダムな敵2名の[Burst]回数が1増加"
+  },
+  {
+    "key": "2060711-name",
+    "original": "사냥의 시간",
+    "context": "EN :\nTime to Hunt\nJP :\n狩猟の時間"
+  },
+  {
+    "key": "2060711-desc",
+    "original": "[Burst], [Laceration] 피해로 적 또는 아군이 사망하면, 무작위 적 1명에게 [Snare] 2를 부여하고, 다음 턴에 [Agility] 1 얻음 (턴 당 1회)",
+    "context": "EN :\nIf an enemy or an ally is killed due to [Burst] or [Laceration] damage, inflict 2 [Snare] against a random enemy, and gain 1 [Agility] next turn (once per turn)\nJP :\n[Burst], [Laceration]ダメージで敵または味方が死亡すると、ランダムな敵1名へ[Snare]2を付与し、次のターンに[Agility]1を得る(1ターンにつき1回)"
+  },
+  {
+    "key": "2030711-name",
+    "original": "높게 치솟은 붉은 꽃",
+    "context": "EN :\nSpiring Crimson Blossom\nJP :\n高くそびえる紅い花"
+  },
+  {
+    "key": "2030711-desc",
+    "original": "[Laceration]로 인한 피해가 10 이상 발생할 때마다 자신의 정신력 1 회복 (턴 당 최대 10)",
+    "context": "EN :\nEvery time 10+ [Laceration] damage occurs, heal 1 SP on self (10 per turn)\nJP :\n[Laceration]によるダメージが10以上発生するたび、自分の精神力が1回復(1ターンにつき最大10)"
+  },
+  {
+    "key": "2090711-name",
+    "original": "가슴에 박힌 쇠말뚝",
+    "context": "EN :\nIron Stake against the Heart\nJP :\n胸に突き刺さった鉄のくい"
+  },
+  {
+    "key": "2090711-desc",
+    "original": "기본 공격 스킬을 사용하여 적에게 [Laceration] 또는 특수 출혈을 부여할 경우, [DefenseDown] 1 부여 (턴 당 1회)\n- 대상 적이 [Laceration] 또는 특수 출혈을 보유하였다면 [Laceration] 2 추가로 부여 (턴 당 1회)\n\n자신을 포함한 아군이 적에게 스킬로 직접적인 체력 피해를 받은 경우, 대상 적에게 [Curse] 1 부여 (턴 당 2회)",
+    "context": "EN :\nWhen inflicting [Laceration] or 'Unique Bleed' against an enemy with Base Attack Skills, inflict 1 [DefenseDown] (once per turn)\n- If the target has [Laceration] or 'Unique Bleed', inflict additional 2 [Laceration] (once per turn)\n\nIf an ally, including this unit, takes direct HP damage from the enemy, inflict 1 [Curse] against the target enemy (2 times per turn)\nJP :\n基本攻撃スキルを使用して敵へ[Laceration]または特殊出血を付与する場合、[DefenseDown]1を付与(1ターンにつき1回)\n- 対象の敵が[Laceration]または特殊出血を保有したなら[Laceration]2を追加で付与(1ターンにつき1回)\n\n自分を含めて味方が敵からスキルによって直接体力ダメージを受けた場合、対象の敵へ[Curse]1を付与(1ターンにつき2回)"
+  },
+  {
+    "key": "2100711-name",
+    "original": "눌어붙은 가죽",
+    "context": "EN :\nGrimy Hide\nJP :\n薄汚れた皮"
+  },
+  {
+    "key": "2100711-desc",
+    "original": "전투 시작 시 자신에게 부정적인 효과가 부여되어 있으면 [ParryingResultUp] 1, [Endurance] 1 얻음\n- 자신에게 부여된 부정적 효과 3개당 [Protection] 1 얻음 (최대 2)",
+    "context": "EN :\nCombat Start: if this unit has a negative effect, gain 1 [ParryingResultUp] and 1 [Endurance]\n- Gain 1 [Protection] for every 3 negative effect on self (max 2)\nJP :\n戦闘開始時、自分にマイナス効果が付与されていれば[ParryingResultUp]1, [Endurance]1を得る\n- 自分に付与されたマイナス効果3につき[Protection]1を得る(最大2)"
+  },
+  {
+    "key": "2050711-name",
+    "original": "잔혹한 만찬",
+    "context": "EN :\nBloodthirsty Banquet\nJP :\n残酷な晩餐"
+  },
+  {
+    "key": "2050711-desc",
+    "original": "자신이 [Laceration] 피해를 가하거나 받을 때, [Laceration] 피해만큼 자신의 체력을 회복 (턴 당 최대 10)\n- [Laceration]을 부여하는 스킬, 코인 효과 발동 시, 대상에게 [RoseWedge]가 있으면 대상에게 [Laceration] 1 부여. (턴 당 2회)",
+    "context": "EN :\nWhen this unit deals or takes [Laceration] damage, heal HP equal to the [Laceration] damage (max 10 per turn)\n- When activating a Skill/Coin effect that inflicts [Laceration], if the target has [RoseWedge], inflict 1 [Laceration] against the target. (2 times per turn)\nJP :\n自分が[Laceration]ダメージを与えるか受けるとき、[Laceration]ダメージだけ自分の体力を回復(1ターンにつき最大10)\n- [Laceration]を付与するスキル、効果発動時、対象に[RoseWedge]があれば対象へ[Laceration]1を付与。(1ターンにつき2回)"
+  },
+  {
+    "key": "2010711-name",
+    "original": "다음",
+    "context": "EN :\nNext\nJP :\n次"
+  },
+  {
+    "key": "2010711-desc",
+    "original": "공격 종료 시 대상이 사망했으면 [Breath] 횟수 2 증가 (턴 당 최대 2회)",
+    "context": "EN :\nAfter Attack: if the target is killed, gain +2 [Breath] Count (2 times per turn)\nJP :\n攻撃終了時に対象が死亡したなら、[Breath]回数が2増加(1ターンにつき最大2回)"
+  },
+  {
+    "key": "2070811-name",
+    "original": "망가진 종",
+    "context": "EN :\nBroken Bell\nJP :\n壊れた鐘"
+  },
+  {
+    "key": "2070811-desc",
+    "original": "스킬, 코인, 패시브 효과로 [VibrationExplosion]이 발생한 적에게 이번 턴에 [Vulnerable] 1 부여 (적 1명 당 턴당 1회 발동).\n- 진동 폭발 시 [Vulnerable]을 부여하는 E.G.O 기프트와 중첩하여 발동되지 않음. (해당 기프트가 강화 상태인 경우, 이 효과의 값을 차감한 뒤 부여됨.)",
+    "context": "EN :\nInflict [Vulnerable] this turn on enemies who were hit by [VibrationExplosion] from Skill, Coin, or Passive effects.\n- Does not stack with E.G.O Gifts that inflict [Vulnerable] upon triggering Tremor Burst. (If the said E.G.O Gifts have been enhanced, subtract this effect's value from the final value before inflicting it.)\nJP :\nスキル・コイン・パッシブ効果で[VibrationExplosion]が発生した敵へ今回のターンにて[Vulnerable]1を付与(敵1名につき1ターンごとに1回発動)\n- [VibrationExplosion]時、[Vulnerable]を付与するE.G.Oギフトと重畳して発動しない。(該当ギフトが強化状態なら、この効果の値を差し引いてから付与される)"
+  },
+  {
+    "key": "2070811-summary",
+    "original": "[VibrationExplosion]시 [Vulnerable] 1 부여 ",
+    "context": "EN :\nInflict 1 [Vulnerable] upon triggering [VibrationExplosion] \nJP :\n[VibrationExplosion]時、[Vulnerable]1を付与 "
+  },
+  {
+    "key": "2080811-name",
+    "original": "어둠 속 시선",
+    "context": "EN :\nA Gaze in the Shadows\nJP :\n暗闇の中の視線"
+  },
+  {
+    "key": "2080811-desc",
+    "original": "아군이 스킬, 코인 효과로 얻는 [Vibration] 횟수의 값 +1 (턴 당 2회 발동)\n- 아군의 공격 대상이 흐트러짐, 사기저하, 패닉 상태면 대신 +2\n- 동일한 효과를 갖는 E.G.O 기프트와 중첩하여 발동되지 않음.",
+    "context": "EN :\nAllies gain +1 more [Vibration] Count from Skill or Coin effects (2 times per turn)\n- If the ally's target is in Staggered, Low Morale, or Panic states, gain +2 more instead\n- Effect does not stack with E.G.O Gifts of an identical effect.\nJP :\n味方がスキル・コイン効果で得る[Vibration]回数の値 +1(1ターンにつき2回発動)\n- 味方の攻撃対象が混乱・士気低下・パニック状態なら代わりに +2\n- 同じ効果を持つE.G.Oギフトと重複して発動しない"
+  },
+  {
+    "key": "2120811-name",
+    "original": "잠들지 못하는 밤",
+    "context": "EN :\nInsomniac Night\nJP :\n眠れぬ夜"
+  },
+  {
+    "key": "2120811-desc",
+    "original": "전투 시작시 흐트러짐, 사기저하, 패닉 상태인 적의 수만큼 모든 적에게 각각 [AttackDown] 1 또는 [DefenseDown] 1 부여. (턴 당 최대 2회)\n- 동일한 효과를 갖는 E.G.O 기프트와 중첩하여 발동되지 않음.",
+    "context": "EN :\nCombat Start: against all enemies, inflict 1 [AttackDown] or 1 [DefenseDown] to all enemies (# of enemies in Staggered, Low Morale, or Panic states) times. (2 times per turn)\n- Effect does not stack with E.G.O Gifts with the same effect.\nJP :\n戦闘開始時に混乱・士気低下・パニック状態の敵の数だけ、全ての敵へそれぞれ[AttackDown]1または[DefenseDown]1を付与。(1ターンにつき最大2回)\n- 同じ効果を持つE.G.Oギフトと重複して発動しない。"
+  }
+]

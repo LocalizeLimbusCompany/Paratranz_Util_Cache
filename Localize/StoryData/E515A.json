@@ -1,0 +1,650 @@
+[
+  {
+    "key": "0-place",
+    "original": "용진 빌딩 4층",
+    "context": "EN :\nYong-jin Building 4F\nJP :\nヨンジンビル 4階"
+  },
+  {
+    "key": "0-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "0-content",
+    "original": "<…죄종? 방금, 죄종이었나?>",
+    "context": "EN :\n<... Did we just fight the Peccatula?>\nJP :\n<…大罪？さっきの、大罪だった？>"
+  },
+  {
+    "key": "1-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-content",
+    "original": "맞습니다.",
+    "context": "EN :\nYes.\nJP :\nその通りです。"
+  },
+  {
+    "key": "2-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "2-content",
+    "original": "여직 봐왔던 면면들과 다른 생김새요. 좀 더 심화된 듯한…",
+    "context": "EN :\nTheir appearances are rather dissimilar from what we have encountered afore. They appear to have grown more... acute...\nJP :\n今まで見来し面々とは違う姿形なり。\nなお深まらん心地が…。"
+  },
+  {
+    "key": "3-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "3-content",
+    "original": "죄종의 다음 형태입니다.",
+    "context": "EN :\nThey are evolutions of each Peccatula.\nJP :\n大罪の次の形態です。"
+  },
+  {
+    "key": "4-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "4-content",
+    "original": "사람마다 담아온 죄에 따라 죄종의 질이 달라지니, 형태는 다양할 수 있습니다.",
+    "context": "EN :\nThe kind of Peccatula one transforms into depends on the types of Sin that one has embodied in life, so it is no surprise that there may be variations to them.\nJP :\n人によって宿してきた大罪の質が異なりますので、\n形態は様々なものになり得ます。"
+  },
+  {
+    "key": "5-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "5-content",
+    "original": "하지만… 여태 이런 형태가 나타났던 적은 한 번도 없었는데요.",
+    "context": "EN :\nBut... we've never encountered anything like them before.\nJP :\nでも…今までこんな形態の個体が現れたことは\n一度もなかったじゃないですか。"
+  },
+  {
+    "key": "6-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "6-content",
+    "original": "황금가지를 회수함에 따라 죄종의 성장이 촉진되기도 합니다.",
+    "context": "EN :\nCollecting the Golden Boughs could have expedited the Peccatula growth process.\nJP :\n黄金の枝を回収することで、大罪の成長が促進されることもあります。"
+  },
+  {
+    "key": "7-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "7-content",
+    "original": "그 가지… 뭐가 연관되지 않은 걸 찾는 게 더 빠르겠어. 생각 이상으로 어마어마한데…",
+    "context": "EN :\nThose boughs... they really have something to do with everything, huh? Our job is starting to look a lot more serious...\nJP :\nその枝…何かしら関係がないものを探すのがもっと早そうな気がする。\n思った以上に凄いんだけど…。"
+  },
+  {
+    "key": "8-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "8-content",
+    "original": "그러고 보니, 이 죄종이라는 거… 뭔가 ‘죄’를 상징하는 거였지?",
+    "context": "EN :\nRight, that reminds me. These 'Peccatula' are each supposed to represent some kinda 'Sin', right?\nJP :\nそう考えてみると、この大罪って…何かしらの「罪」を象徴するんだったよな？"
+  },
+  {
+    "key": "9-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "9-content",
+    "original": "<죄…>",
+    "context": "EN :\n<Sin...>\nJP :\n<罪…。>"
+  },
+  {
+    "key": "10-content",
+    "original": "문득, 생각이 멀어진다.",
+    "context": "EN :\nMy thoughts grow distant all of a sudden.\nJP :\nふと、考えが遠くなる。"
+  },
+  {
+    "key": "11-content",
+    "original": "아니… 정확하게는 나의 생각이 가까워지고 수감자들의 이야기가 멀어져간다.",
+    "context": "EN :\n... No. The Sinners grow distant while my thoughts draw nearer. Their voices grow muffled.\nJP :\nいや…正確に言うと私の考えが近づき、囚人の話が遠く感じるようになった。"
+  },
+  {
+    "key": "12-content",
+    "original": "새삼스레, 죄라는 단어가 유독 낯설게 느껴진다.",
+    "context": "EN :\nThe word 'Sin' feels oddly unfamiliar today.\nJP :\n今更だが、ふと「罪」という単語に対して\n聞きなじみがないような気がしてきた。"
+  },
+  {
+    "key": "13-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "13-content",
+    "original": "자신을 잃고 원본의 모양을 상실한 모습으로 보이는구료.",
+    "context": "EN :\nIt appears that they have lost their sense of self; their original forms now forgotten to oblivion.\nJP :\n自信失い、原本の形を失いし姿に見ゆ。"
+  },
+  {
+    "key": "14-content",
+    "original": "자신…",
+    "context": "EN :\nSelf...\nJP :\n自分…。"
+  },
+  {
+    "key": "15-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "15-content",
+    "original": "뒤틀림이라는 것도 비슷한 거 아니었어?",
+    "context": "EN :\nAren't Distortions kinda similar to that?\nJP :\nねじれってものも\n似たようなもんじゃなかったっけ？"
+  },
+  {
+    "key": "16-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "16-content",
+    "original": "누구는 뒤틀림이 되고, 누구는 죄종이 되고… 무슨 기준인 걸까요.",
+    "context": "EN :\nHmm... some people become Distortions, and some people become Peccatula... I wonder what the difference is?\nJP :\nある人はねじれになり、ある人は大罪になり…どういう基準があるんですかね。"
+  },
+  {
+    "key": "17-content",
+    "original": "그건… 알 것만 같은 걸…",
+    "context": "EN :\nI think... I think I know...\nJP :\nそれは…なんだか分かる気がする…。"
+  },
+  {
+    "key": "18-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "18-content",
+    "original": "<…다들 마음속에 언제든 피어날 수 있는 씨앗을 갖고 있어.>",
+    "context": "EN :\n<... Planted in the hearts of all are seeds with ever-present potential to bloom.>\nJP :\n<…誰であれ、心の中にはいつであれ咲き出る種を持っている。>"
+  },
+  {
+    "key": "19-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "19-content",
+    "original": "관리자님?",
+    "context": "EN :\nExecutive Manager?\nJP :\n管理人様？"
+  },
+  {
+    "key": "20-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "20-content",
+    "original": "뭐라고 했어? 파우가 설명하고 있어서 겹쳐서 안 들렸는데…",
+    "context": "EN :\nWhat'dya say? Fau talked over ya, so I couldn't hear...\nJP :\nなんて言った？ファウが説明してるせいで聞こえなかったんだけど…。"
+  },
+  {
+    "key": "21-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "21-content",
+    "original": "…계속하자면, 극심한 스트레스에서 자신을 유지할 수 있게 된다면 그건 뒤틀림으로 발전하고…",
+    "context": "EN :\n... If you would allow me to continue... Maintaining the self even at times of extreme stress could cause one to evolve into a Distortion, and—\nJP :\n…続けますが、激しいストレス下で自分を保てるようになれば\nそれはねじれに発展し…。"
+  },
+  {
+    "key": "22-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "22-content",
+    "original": "<그날의 빛이 사람들의 마음에 쐬어져 저마다 묻혀있던 씨앗을 피워낼 때…>",
+    "context": "EN :\n<When the light of that day descends upon the hearts of every human, blooming the seeds buried deep within...>\nJP :\n<あの日の光が人々の心に曝され、それぞれ埋もれていた種が芽吹くとき…。>"
+  },
+  {
+    "key": "23-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "23-content",
+    "original": "…관리자님?",
+    "context": "EN :\n... Manager?\nJP :\n…管理人さん？"
+  },
+  {
+    "key": "24-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "24-content",
+    "original": "<죄에 삼켜져서 ■■■ ■■■, 그 무엇도 아닌 사람들이 꾸고 있는 ■■ ■■ ■■ 형태를 빌어 ■■으로 태어나고.>",
+    "context": "EN :\n<If one's ■■■■ ■■ ■■■■■■■■, devoured by their sins, they are reborn in the form of the ■■■■■■■■■, their image reflecting the ■■■■■■■ ■■■■■ ■■ ■■■ ■■■■ dreamt by those who are nothing.>\nJP :\n<罪に呑まれて■■■■■■、誰でもない人々の見ている■■■■■■■■を借りて\n■■として生まれ。>"
+  },
+  {
+    "key": "25-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "25-content",
+    "original": "단테.",
+    "context": "EN :\nDante.\nJP :\nダンテ。"
+  },
+  {
+    "key": "26-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "26-content",
+    "original": "단테! 괜찮은…",
+    "context": "EN :\nDante! What is—\nJP :\nダンテ！安穏な―"
+  },
+  {
+    "key": "27-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "27-content",
+    "original": "<■■ ■■■ 견뎠지만 자신의 죄를 ■■■■ 마음은 ■■■■…>",
+    "context": "EN :\n<If one withstands ■■■ ■■■■■■ ■■ ■■■■■ ■■■■, yet ■■■■■■■ ■■ ■■■■■■ ■■ their sins, the heart ■■■■■■■■...>\nJP :\n<■■■■■に耐えたけど、自分の罪を■■■■■心は■■■…。>"
+  },
+  {
+    "key": "28-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "28-content",
+    "original": "뭐, 뭐야… 시계 대가리… 갑자기 무게 잡고 뭘 중얼거리는 거야?",
+    "context": "EN :\nW-what the hell... Clockhead, what in the bloody hell are you talking about?\nJP :\nな、何だよ…時計ヅラ…突然カッコつけてなにブツブツ言ってんだ？"
+  },
+  {
+    "key": "29-model",
+    "original": "앵두",
+    "translation": "樱桃",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "29-teller",
+    "original": "앵두",
+    "context": "EN :\nAeng-du\nJP :\nエンドゥ"
+  },
+  {
+    "key": "29-title",
+    "original": "검계",
+    "context": "EN :\nBlade Lineage\nJP :\n剣契"
+  },
+  {
+    "key": "29-content",
+    "original": "심각한 소리가 나는…저 분 의체 머리에 무슨 문제라도…",
+    "context": "EN :\nI ill like the sound of that... Has something gone awry with their prosthetic head...?\nJP :\n深刻そうな音が…あの方の頭部義体に何か問題でも…。"
+  },
+  {
+    "key": "30-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "30-content",
+    "original": "<■ ■ ■■■ 받아들여 짊어지려 한다면 ■■■ 본래 마음 그대로의 ■■■ ■■■되어…>",
+    "context": "EN :\n<Yet if one seeks to bear the ■■■■ ■■■■■■■■■■■■ ■■ ■■■■■ ■■■■, the ■■■ shall ■■■■■■ ■■■ ■■■■■ of their original hearts...>\nJP :\n<■■■■■■受け容れて背負おうとするなら、\n■■■本来の心そのままの■■■■■ことになり…。>"
+  },
+  {
+    "key": "31-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "31-content",
+    "original": "E.G.O? 그걸 말하려는 것이오?",
+    "context": "EN :\nE.G.O? Is that what you are speaking of?\nJP :\nE.G.O？それを言わんとせりや？"
+  },
+  {
+    "key": "32-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "32-content",
+    "original": "<자신의 ■■■■ 바라본 세상에서… 자아를 ■■■ ■■■■■, 자신만의 죄의 ■■■ ■■■ ■■■ 녹아들지 ■■■ 가능하게 될지니…>",
+    "context": "EN :\n<And in a world perceived through their own ■■■■■ ■■ ■■■ ■■■■■■■■ ■■■ ■■■ ■■■■■■, the ■■■■■■■ shall be unveiled: to ■■■■■ their egos ■■■ ■■■■■■■■... ■■ ■■ melt into ■■■ ■■■■■ by ■■■■■■■■ ■■■■ ■■ ■■■■ ■■■■■ ■■■■■■ of sin...>\nJP :\n<自分の■■■眺めた世界から…自我を振りかざして■■■■■■■、\n自分だけの罪の■■■■■■■■■■■融けていくかの■■■可能になるがゆえに…。>"
+  },
+  {
+    "key": "33-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "33-content",
+    "original": "말투도 뭔가 저희 할아버지… 어?! 과, 관리자님! 머리!",
+    "context": "EN :\nHuh, they're starting to talk a bit like my grandfa— Huh?! M-manager! Your head!\nJP :\n話し方も何だか僕のおじいさん…えっ！？か、管理人さん！ 頭！"
+  },
+  {
+    "key": "34-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "34-content",
+    "original": "관리자님! 머, 머리가 불타고 계십니다!",
+    "context": "EN :\nExecutive Manager! Y-your head is on fire!\nJP :\n管理人様！あ、頭が燃えています！"
+  },
+  {
+    "key": "35-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "35-content",
+    "original": "오~ 불꽃.",
+    "context": "EN :\nOoh~ what a blaze.\nJP :\nお～、炎。"
+  },
+  {
+    "key": "36-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "36-content",
+    "original": "지, 진짜 터질 것 같은데요?!",
+    "context": "EN :\nI-I think they're about to explode!\nJP :\nほ、本当に爆発しそうなんですけど！？"
+  },
+  {
+    "key": "37-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "37-content",
+    "original": "<■■ 스스로 가릴 수 있는 자만이…>",
+    "context": "EN :\n<Only those who can define their own ■■■■...>\nJP :\n<■■自ら覆える者のみが…。>"
+  },
+  {
+    "key": "38-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "38-content",
+    "original": "야! 저러다 쟤 죽는다고! 뭐 방법이 없어?",
+    "context": "EN :\nOi! We've got to do something before Clockhead bites it! Got any bright ideas, lass?!\nJP :\nおい！あのままじゃアイツ死ぬぞ！なんか方法ねぇのか？"
+  },
+  {
+    "key": "39-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "39-content",
+    "original": "보, 본인도 모르오…!",
+    "context": "EN :\nI-I know not what to do...!\nJP :\nと、当人にも分かりませぬ…！"
+  },
+  {
+    "key": "40-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "40-content",
+    "original": "<■■■■ 자각할 수 있는 자만이…>",
+    "context": "EN :\n<Only those who are awakened to their own ■■■■■...>\nJP :\n<■■■■自覚できる者のみが…。>"
+  },
+  {
+    "key": "41-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "41-content",
+    "original": "아앗! 뜨, 뜨겁소! 과, 관리자 나리의 머리에 있던 불은 뜨겁지 않아서 그저 장식이라고 생각했는데…",
+    "context": "EN :\nGaaah! 'T-tis scorching! I had thought that Manager Esquire's flaming head was merely for style, for I had not once felt such heat from it...!\nJP :\nあぁっ！あ、熱いのでありまする！か、管理人殿の頭にあった火は熱くなくて\nただの飾りかと思っておりましたが…。"
+  },
+  {
+    "key": "42-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "42-content",
+    "original": "파우스트 씨! 그때 이야기했던 자폭 장치가 작동된 거 아녜요?! 이 열기를 보면 정말 모든 걸 녹일 것처럼…",
+    "context": "EN :\nFaust! What if they accidentally activated the self-destruct sequence?! Agh, this heat... if we don't douse it now, it's going to melt everything around them...!\nJP :\nファウストさん！あのとき話してた自爆装置が作動したわけじゃないですか！？\nこの熱気、本当に何でも溶かしそうな…。"
+  },
+  {
+    "key": "43-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "43-content",
+    "original": "…원리는 같습니다. 단테는 황금가지를 통해 본사 지하에 심어진 묘목의 뿌리와 연결된 상태로…",
+    "context": "EN :\n... Yes, the operating principles are the same. Dante is, via the Golden Boughs, connected to the root of the sapling planted in the subterranean area of the headquarters. Which is to say that—\nJP :\n…原理は同じです。ダンテは黄金の枝を通じて\n本社地下に植えられた苗木の根と繋がった状態で…。"
+  },
+  {
+    "key": "44-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "44-content",
+    "original": "가지고 나발이고! 저 새끼 불은 꺼야 할 거 아냐!",
+    "context": "EN :\nWho gives a shite about the Boughs?! We've got to douse the flames on their head!\nJP :\n枝もクソもねぇよ！\nあの野郎の火は消さないといけねぇだろ！"
+  },
+  {
+    "key": "45-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "45-content",
+    "original": "물! 누군가 물 없소?! 뭐, 뭐라도 부어서 식혀보면…",
+    "context": "EN :\nWater! Doest nay one have water? We must make haste and douse the flames!\nJP :\n水！だれか水を持っておりませぬか！？\nな、何かしら掛けて冷ませば…。"
+  },
+  {
+    "key": "46-content",
+    "original": "잠시 후…",
+    "context": "EN :\nSome time later...\nJP :\nしばらくして…。"
+  },
+  {
+    "key": "47-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "47-content",
+    "original": "<…어.>",
+    "context": "EN :\n<... Ugh.>\nJP :\n<…あ。>"
+  },
+  {
+    "key": "48-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "48-content",
+    "original": "정신이 드는가?!",
+    "context": "EN :\nPray tell, art thou recover'd?!\nJP :\n気がついたか！？"
+  },
+  {
+    "key": "49-content",
+    "original": "눈을 뜨듯 시야가 열리니, 수감자들이 나를 내려다보고 있었다.",
+    "context": "EN :\nMy eyes—if I had eyes, that is—opened slowly. I was lying on the ground, surrounded by the Sinners.\nJP :\n目を開けるように視界が広がっていくと、\n囚人たちが私を見下ろしていた。"
+  },
+  {
+    "key": "50-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "50-content",
+    "original": "<무슨 일이 있었어…?>",
+    "context": "EN :\n<What... happened?>\nJP :\n<一体何が…？>"
+  },
+  {
+    "key": "51-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "51-content",
+    "original": "기억을 못 하는 것이오?",
+    "context": "EN :\nDo you not recall what had transpired?\nJP :\n覚えたらずや？"
+  },
+  {
+    "key": "52-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "52-content",
+    "original": "<어… 그런 것… 같네.>",
+    "context": "EN :\n<Uh... I guess I don't?>\nJP :\n<あ…そうみ…たい。>"
+  },
+  {
+    "key": "53-content",
+    "original": "분명 계단을 올라가고 있었는데, 어느 순간 머리가 멍해졌던 것만 생각이 난다.",
+    "context": "EN :\nI do remember walking up the stairs... and suddenly feeling really dizzy.\nJP :\n確かに階段を上っていたはずなのに、\n一瞬頭がぼーっとなったことだけしか覚えていない。"
+  },
+  {
+    "key": "54-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "54-content",
+    "original": "…관리자님, 복귀하면 반드시 수리받으십시오…",
+    "context": "EN :\nExecutive Manager. You must visit a workshop to get that looked at as soon as we return...\nJP :\n…管理人様、復帰したら必ず修理を受けてください。"
+  },
+  {
+    "key": "55-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "55-content",
+    "original": "<어? 수리? 나 망가졌었어?>",
+    "context": "EN :\n<Huh? A workshop? Did I malfunction or something?>\nJP :\n<え？修理？私壊れてた？>"
+  },
+  {
+    "key": "56-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "56-content",
+    "original": "무슨 기계 다루듯이 말하기는… 하, 어차피 지금은 어떻게 할 수도 없는 것 같고.",
+    "context": "EN :\nDon't talk about them like you're talking about some machine... Haah, either way, there isn't anything we can do about what just happened. Not here.\nJP :\nなに機械扱いしてるんですか…はぁ、どうせ今は何もできないと思いますし。"
+  },
+  {
+    "key": "57-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "57-content",
+    "original": "복귀 후에 이야기 나누시죠. 우선은 활동에 지장은 없는 것 같습니다.",
+    "context": "EN :\nWe can discuss this later once we return. What just transpired does not seem to pose any hindrance to our mission.\nJP :\n復帰後に話しましょうか。\nとりあえず、活動に支障はないようです。"
+  },
+  {
+    "key": "58-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "58-content",
+    "original": "<앵두 씨는…>",
+    "context": "EN :\n<Aeng-du, where is...>\nJP :\n<エンドゥさんは…。>"
+  },
+  {
+    "key": "59-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "59-content",
+    "original": "이미 올라갔소… 궁금한 것도 걱정되는 것도 많지만 상황이 급하니 우리도 합류하는 게 좋겠구료.",
+    "context": "EN :\nShe has advanced without us. While I remain curious yet concerned about your condition, we must reconvene with her. The situation calls for urgency.\nJP :\n既に上がりつる… 気になることも\nおぼつかなきことも多けれど、早く我らも合流すべし。"
+  },
+  {
+    "key": "60-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "60-content",
+    "original": "<응… 그러자.>",
+    "context": "EN :\n<Yeah... okay.>\nJP :\n<うん…そうしようか。>"
+  },
+  {
+    "key": "61-content",
+    "original": "여러 가지가 이해 되지 않는 상황이었지만, 우선은 작전 중이었으니까…",
+    "context": "EN :\nThere was a lot I didn't understand, but since we're in the middle of an operation...\nJP :\n色々理解できない状況だったけど、とりあえずは作戦中だったから…。"
+  },
+  {
+    "key": "62-content",
+    "original": "그걸 해결하는 데 집중하자.",
+    "context": "EN :\n... let's deal with this first.\nJP :\n解決する方に集中しようか。"
+  }
+]

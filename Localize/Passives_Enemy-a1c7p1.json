@@ -1,0 +1,212 @@
+[
+  {
+    "key": "9015206-name",
+    "original": "굶주림과 노쇠",
+    "context": "EN :\nStarved and Withered\nJP :\n餓えと老衰"
+  },
+  {
+    "key": "9015206-desc",
+    "original": "전투 시작 시, [StarvingBarberOne] 얻음",
+    "context": "EN :\nGain [StarvingBarberOne] at the start of the Encounter\nJP :\n戦闘開始時、[StarvingBarberOne]を得る"
+  },
+  {
+    "key": "9015202-name",
+    "original": "노쇠",
+    "context": "EN :\nWithered\nJP :\n老衰"
+  },
+  {
+    "key": "9015202-desc",
+    "original": "턴 시작 시 [Laceration]이 있는 대상이 없으면, 속도 최댓값 -2 (아군, 적군 전부 포함)",
+    "context": "EN :\nTurn Start: if no one has [Laceration], Min Speed -2 (checks both allies & enemies)\nJP :\nターン開始時[Laceration]がある対象がいなければ、速度最大値 -2(敵味方全てを含む)"
+  },
+  {
+    "key": "9015203-name",
+    "original": "흡혈",
+    "context": "EN :\nBloodsucking\nJP :\n吸血"
+  },
+  {
+    "key": "9015203-desc",
+    "original": "공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 15%만큼 체력 회복",
+    "context": "EN :\nOn Hit, if the target has [Laceration], heal by 15% of damage dealt\nJP :\n攻撃的中時、対象に[Laceration]があるならダメージ量の15%だけ体力を回復"
+  },
+  {
+    "key": "9015204-name",
+    "original": "혈액 경화",
+    "context": "EN :\nBlood Coagulation\nJP :\n血液硬化"
+  },
+  {
+    "key": "9015204-desc",
+    "original": "공격 종료시 대상의 [Laceration]이 8 이상이면, [HardenedBlood] 1 얻음",
+    "context": "EN :\nAfter Attack: if the target has 8+ [Laceration], gain 1 [HardenedBlood]\nJP :\n攻撃終了時、対象の[Laceration]が8以上なら、[HardenedBlood]を1得る"
+  },
+  {
+    "key": "9015205-name",
+    "original": "핏빛 가위날",
+    "context": "EN :\nBlood-tinged Scissorblades\nJP :\n血染めの鋏の刃"
+  },
+  {
+    "key": "9015205-desc",
+    "original": "[BloodScissor]이 1 이상이면, 가위의 날이 강화됨.",
+    "context": "EN :\nAt 1+ [BloodScissor], enhance the blades of the scissor.\nJP :\n[BloodScissor]が1以上なら、鋏の刃が強化される"
+  },
+  {
+    "key": "9015207-name",
+    "original": "피주머니",
+    "context": "EN :\nBloodbag\nJP :\n血袋 "
+  },
+  {
+    "key": "9015207-desc",
+    "original": "피격 시 자신의 [Laceration] 횟수 1 증가.\n체력이 20% 감소할 때마다 [HardenedBlood] 1 얻음.\n아군 또는 적에 혈귀가 있는 경우, 사망 시, [BloodDinner]이 30만큼 증가",
+    "context": "EN :\nWhen hit, gain +1 [Laceration] Count.\nGain 1 [HardenedBlood] every time this unit loses 20% HP.\nIf there is a Bloodfiend on the field, regardless of whether it is an ally or an enemy, increase [BloodDinner] by 30\nJP :\n被ダメージ時に自分の[Laceration]回数が1増加。\n体力が20%減少するたびに[HardenedBlood]1を得る。\n味方または敵に血鬼がいる場合、死亡時に[BloodDinner]が30増加"
+  },
+  {
+    "key": "9015401-name",
+    "original": "흡혈",
+    "context": "EN :\nBloodsucking\nJP :\n吸血"
+  },
+  {
+    "key": "9015401-desc",
+    "original": "공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 20%만큼 체력 회복",
+    "context": "EN :\nOn Hit, if the target has [Laceration], heal by 20% of damage dealt\nJP :\n攻撃的中時、対象に[Laceration]があるならダメージ量の20%だけ体力を回復"
+  },
+  {
+    "key": "9015402-name",
+    "original": "혈액 경화",
+    "context": "EN :\nBlood Coagulation\nJP :\n血液硬化"
+  },
+  {
+    "key": "9015402-desc",
+    "original": "공격 종료시 대상의 [Laceration]이 5 이상이면, [HardenedBlood] 1 얻음",
+    "context": "EN :\nAfter Attack: if the target has 5+ [Laceration], gain 1 [HardenedBlood]\nJP :\n攻撃終了時、対象の[Laceration]が5以上なら、[HardenedBlood]を1得る"
+  },
+  {
+    "key": "9015403-name",
+    "original": "피의 갈증",
+    "context": "EN :\nThirst for Blood\nJP :\n血の渇き"
+  },
+  {
+    "key": "9015403-desc",
+    "original": "- [Laceration]이 부여된 대상을 우선적으로 공격\n- 턴 종료 시 이번 턴에 피해를 주지 못한 경우, 다음 턴에 취약 2, 공격 레벨 증가 2를 얻음\n- 턴 종료 시 이번 턴에 피해를 줬다면,정신력 5 회복",
+    "context": "EN :\n- Prioritizes targets with [Laceration]\nTurn End: if this unit failed to deal any damage this turn, gain 2 [Vulnerable] and 2 Offense Level Up next turn\n- Turn End: if this unit dealt damage this turn, heal 5 SP\nJP :\n- [Laceration]が付与された対象を優先して攻撃\n- ターン終了時、このターンにダメージを与えられなかったなら、次のターンに脆弱2, 攻撃レベル増加2を得る\n- ターン終了時、このターンにダメージを与えられたなら精神力を5回復"
+  },
+  {
+    "key": "9015404-name",
+    "original": "혈찬",
+    "context": "EN :\nBloodfeast\nJP :\n血餐"
+  },
+  {
+    "key": "9015404-desc",
+    "original": "이 캐릭터가 전투에 등장해 있거나, 등장할 적 리스트에 포함되어 있으면, 1턴부터 모든 캐릭터가 받은 [Laceration] 피해만큼 [BloodDinner]이 증가함.\n이 캐릭터가 전투에 등장할 때 전장에 흩뿌려진 잠재된 피를 드러낸다.",
+    "context": "EN :\nIf this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit. \nWhen this unit enters the field, the sleeping blood drenching the battlefield will surface.\nJP :\nこのキャラクターが戦闘に登場するか、登場する敵リストに含まれているなら、1ターン目から全キャラクターが受ける[Laceration]ダメージだけ[BloodDinner]が増加する。このキャラクターが戦闘に登場するたび、戦場にまき散らされた伏在する血を顕わにする。"
+  },
+  {
+    "key": "9015405-name",
+    "original": "핏빛 가위날",
+    "context": "EN :\nBlood-tinged Scissorblades\nJP :\n血染めの鋏の刃"
+  },
+  {
+    "key": "9015405-desc",
+    "original": "[BloodScissor]이 2 이상이면, 가위의 날이 강화됨.",
+    "context": "EN :\nAt 2+ [BloodScissor], enhance the blades of the scissor.\nJP :\n[BloodScissor]が2以上なら、鋏の刃が強化される"
+  },
+  {
+    "key": "9015601-name",
+    "original": "혈귀 사냥꾼",
+    "context": "EN :\nBloodfiend Hunter\nJP :\n血鬼の狩人"
+  },
+  {
+    "key": "9015601-desc",
+    "original": "대상이 <혈귀>, <피주머니>면 피해량 +10%",
+    "context": "EN :\nIf the target is a <Bloodfiend> or a <Bloodbag>, deal +10% damage\nJP :\n対象が<血鬼>、<血袋>ならダメージ量 +10%"
+  },
+  {
+    "key": "9015602-name",
+    "original": "과격한 사냥법",
+    "context": "EN :\nAggressive Hunting Techniques\nJP :\n過激な狩猟術"
+  },
+  {
+    "key": "9015602-desc",
+    "original": "적에게 공격 스킬 적중 시 10% 확률로 [Burst] 횟수 2 증가",
+    "context": "EN :\nWhen hitting an enemy with an Attack Skill, 10% chance to inflict +2 [Burst] Count\nJP :\n敵へ攻撃スキル的中時、10%の確率で[Burst]回数が2増加"
+  },
+  {
+    "key": "9015603-name",
+    "original": "대 혈귀전용 망치",
+    "context": "EN :\nAnti-Bloodfiend Hammer\nJP :\n対血鬼専用ハンマー"
+  },
+  {
+    "key": "9015603-desc",
+    "original": "스킬 사용 시, 대상의 [Burst]이 10 이상이면, 스킬에서 [Burst]을 부여하는 대신 피해량이 30% 증가",
+    "context": "EN :\nOn Skill use, if the target has 10+ [Burst], deal +30% more damage instead of inflicting [Burst] with this unit's Skills\nJP :\nスキル使用時、対象の[Burst]が10以上なら、スキルにて[Burst]を付与する変わる代わりにダメージ量が30%増加"
+  },
+  {
+    "key": "9015604-name",
+    "original": "지혈제",
+    "context": "EN :\nStyptics\nJP :\n止血剤"
+  },
+  {
+    "key": "9015604-desc",
+    "original": "턴 종료시, 자신에게 [Laceration]이 있으면 [Laceration] 횟수 1 감소",
+    "context": "EN :\nTurn End: if this unit has [Laceration], lose 1 [Laceration] Count\nJP :\nターン終了時、自分に[Laceration]があるなら[Laceration]回数が1減少"
+  },
+  {
+    "key": "9016001-name",
+    "original": "약자 표식",
+    "context": "EN :\nWeakling Mark\nJP :\n弱者の目印"
+  },
+  {
+    "key": "9016001-desc",
+    "original": "합 승리시, 대상에게 [TrulyWeak] 디버프를 부여함",
+    "context": "EN :\nOn Clash Win, inflict [TrulyWeak]\nJP :\nマッチ勝利時、対象へ[TrulyWeak]を付与する"
+  },
+  {
+    "key": "9016002-name",
+    "original": "악의 무리",
+    "context": "EN :\nThe Wicked Caitiffs\nJP :\n悪の群れ"
+  },
+  {
+    "key": "9016002-desc",
+    "original": "약자를 괴롭히는 것을 좋아함",
+    "context": "EN :\nLoves bullying the weak\nJP :\n弱者を虐める事を好む"
+  },
+  {
+    "key": "9016003-name",
+    "original": "비열함",
+    "context": "EN :\nBullies\nJP :\n卑劣さ"
+  },
+  {
+    "key": "9016003-desc",
+    "original": "[TrulyWeak] 디버프를 가진 적을 공격할 때, 합 위력 1 증가",
+    "context": "EN :\nClash Power +1 when attacking an enemy with [TrulyWeak]\nJP :\n[TrulyWeak]を持つ敵を攻撃するとき、マッチ威力が1増加"
+  },
+  {
+    "key": "9016101-name",
+    "original": "시시하지 않은 전투",
+    "context": "EN :\nAn Encounter of Moderate Difficulty\nJP :\nつまらなく無い戦闘"
+  },
+  {
+    "key": "9016101-desc",
+    "original": "이 캐릭터가 가하는 피해량 +15%",
+    "context": "EN :\nDeals +15% more damage\nJP :\nこのキャラクターの与ダメージ量 +15%"
+  },
+  {
+    "key": "9016102-name",
+    "original": "사람까지 잡아먹는 곰",
+    "context": "EN :\nThe Man-eating Bear\nJP :\n人間すら取って食うクマ"
+  },
+  {
+    "key": "9016102-desc",
+    "original": "현재 체력이 최대 체력의 50% 이하인 대상에게 가하는 피해량 +25%",
+    "context": "EN :\nDeal +25% more damage against targets with 50%- HP\nJP :\n現体力が最大値の50%以下の対象への与ダメージ量 +25%"
+  },
+  {
+    "key": "9016103-name",
+    "original": "무시무시함",
+    "context": "EN :\nBig & Scary\nJP :\nおそろしさ"
+  },
+  {
+    "key": "9016103-desc",
+    "original": "합 진행 시 대상의 정신력이 1 감소할 수도 있음",
+    "context": "EN :\nIn a Clash, the opponent just might lose 1 SP, maybe\nJP :\nマッチ進行時、対象の精神力が1減少することがある"
+  }
+]

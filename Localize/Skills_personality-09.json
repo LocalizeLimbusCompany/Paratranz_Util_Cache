@@ -1,0 +1,1182 @@
+[
+  {
+    "key": "1090701-levelList$[0].name",
+    "original": "무지를 밝히리",
+    "context": "EN :\nIlluminate Thy Vacuity\nJP :\n無知を明かさん"
+  },
+  {
+    "key": "1090701-levelList$[0].desc",
+    "original": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 3%)만큼 보호막을 얻음",
+    "context": "EN :\nGain (Insight x 3% of Max HP) Shield if this Skill is Discarded\nJP :\nこのスキルが捨てられると、(探求した知識 × 体力最大値の3%)バリアを得る。"
+  },
+  {
+    "key": "1090701-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 흐트러짐 5 회복",
+    "context": "EN :\n[OnSucceedAttack] Lower user's Stagger Threshold by 5\nJP :\n[OnSucceedAttack] 混乱区間を5後退"
+  },
+  {
+    "key": "1090701-levelList$[1].name",
+    "original": "무지를 밝히리",
+    "context": "EN :\nIlluminate Thy Vacuity\nJP :\n無知を明かさん"
+  },
+  {
+    "key": "1090701-levelList$[1].desc",
+    "original": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 4%)만큼 보호막을 얻음\n[WhenUse] 탐구한 지식 이 2 이상이면, (탐구한 지식 - 1)만큼 코인 위력이 증가",
+    "context": "EN :\nGain (Insight x 4% of Max HP) Shield if this Skill is Discarded\n[WhenUse] If Insight is 2 or higher, gain Coin Power by (Insight -1)\nJP :\nこのスキルが捨てられると、(探求した知識 × 体力最大値の3%)バリアを得る。\n[WhenUse] 探求した知識 が2以上なら、(探求した知識 - 1)だけコイン威力が増加"
+  },
+  {
+    "key": "1090701-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 흐트러짐 8 회복",
+    "context": "EN :\n[OnSucceedAttack] Lower user's Stagger Threshold by 8\nJP :\n[OnSucceedAttack] 混乱区間を8後退"
+  },
+  {
+    "key": "1090701-levelList$[2].name",
+    "original": "무지를 밝히리",
+    "context": "EN :\nIlluminate Thy Vacuity\nJP :\n無知を明かさん"
+  },
+  {
+    "key": "1090701-levelList$[2].desc",
+    "original": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 5%)만큼 보호막을 얻음\n[WhenUse] 탐구한 지식 이 2 이상이면, (탐구한 지식 - 1)만큼 코인 위력이 증가",
+    "context": "EN :\nGain (Insight x 5% of Max HP) Shield if this Skill is Discarded\n[WhenUse] If Insight is 2 or higher, gain Coin Power by (Insight -1)\nJP :\nこのスキルが捨てられると、(探求した知識 × 体力最大値の5%)バリアを得る。\n[WhenUse] 探求した知識 が2以上なら、(探求した知識 - 1)だけコイン威力が増加"
+  },
+  {
+    "key": "1090701-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 흐트러짐 10 회복",
+    "context": "EN :\n[OnSucceedAttack] Lower user's Stagger Threshold by 10\nJP :\n[OnSucceedAttack] 混乱区間を10後退"
+  },
+  {
+    "key": "1090702-levelList$[0].name",
+    "original": "지식의 무게",
+    "context": "EN :\nWeight of Knowledge\nJP :\n知識の重さ"
+  },
+  {
+    "key": "1090702-levelList$[0].desc",
+    "original": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 5%)만큼 보호막을 얻음.\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 2를 얻음",
+    "context": "EN :\nGain (Insight x 5% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 2 Aggro next turn\nJP :\nこのスキルが捨てられると、(探求した知識 × 体力最大値の5%)バリアを得る。\n[WhenUse] 自分の全スキルスロットから、ランクが最も低いスキル1つを捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値2を得る"
+  },
+  {
+    "key": "1090702-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Sinking\nJP :\n[OnSucceedAttack] 沈潜 2を付与"
+  },
+  {
+    "key": "1090702-levelList$[1].name",
+    "original": "지식의 무게",
+    "context": "EN :\nWeight of Knowledge\nJP :\n知識の重さ"
+  },
+  {
+    "key": "1090702-levelList$[1].desc",
+    "original": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 8%)만큼 보호막을 얻음.\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 3을 얻음",
+    "context": "EN :\nGain (Insight x 8% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 3 Aggro next turn\nJP :\nこのスキルが捨てられると、(探求した知識 × 体力最大値の8%)バリアを得る。\n[WhenUse] 自分の全スキルスロットから、ランクが最も低いスキル1つを捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値3を得る"
+  },
+  {
+    "key": "1090702-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 Sinking\nJP :\n[OnSucceedAttack] 沈潜 3を付与"
+  },
+  {
+    "key": "1090702-levelList$[2].name",
+    "original": "지식의 무게",
+    "context": "EN :\nWeight of Knowledge\nJP :\n知識の重さ"
+  },
+  {
+    "key": "1090702-levelList$[2].desc",
+    "original": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 10%)만큼 보호막을 얻음.\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 5를 얻음\n[WhenUse] 대상의 침잠이 5 이상이면, 합 위력 +2",
+    "context": "EN :\nGain (Insight x 10% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 Aggro next turn\n[WhenUse] If target has 5+ Sinking, gain Clash Power +2\nJP :\nこのスキルが捨てられると、(探求した知識 × 体力最大値の10%)バリアを得る。\n[WhenUse] 自分の全スキルスロットから、ランクが最も低いスキル1つを捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値5を得る\n[WhenUse] 対象の沈潜が5以上なら、マッチ威力 +2"
+  },
+  {
+    "key": "1090702-levelList$[2].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 Sinking\nJP :\n[OnSucceedAttack] 沈潜 5を付与"
+  },
+  {
+    "key": "1090703-levelList$[0].name",
+    "original": "고통스러운 계몽",
+    "context": "EN :\nExcruciating Study\nJP :\n苦痛に満ちた啓蒙"
+  },
+  {
+    "key": "1090703-levelList$[0].desc",
+    "original": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 15%)만큼 보호막을 얻음.\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 2개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 3을 얻음",
+    "context": "EN :\nGain (Insight x 15% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 2 Skills of the lowest ranks in all of this unit's Skill Slots\n[WhenUse] This Slot gains 3 Aggro next turn\nJP :\nこのスキルが捨てられると、(探求した知識 × 体力最大値の15%)バリアを得る。\n[WhenUse] 自分の全スキルスロットから、ランクが最も低いスキル2つを捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値3を得る"
+  },
+  {
+    "key": "1090703-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 침잠 횟수 4 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +4 Sinking Count\nJP :\n[OnSucceedAttackHead] 沈潜 回数が4増加"
+  },
+  {
+    "key": "1090703-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が2増加"
+  },
+  {
+    "key": "1090703-levelList$[1].name",
+    "original": "고통스러운 계몽",
+    "context": "EN :\nExcruciating Study\nJP :\n苦痛に満ちた啓蒙"
+  },
+  {
+    "key": "1090703-levelList$[1].desc",
+    "original": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 20%)만큼 보호막을 얻음.\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 2개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 5를 얻음\n[WhenUse] 대상의 침잠이 7 이상이면, 코인 위력 +1",
+    "context": "EN :\nGain (Insight x 20% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 2 Skills of the lowest ranks in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 Aggro next turn\n[WhenUse] If target has 7+ Sinking, gain Coin Power +1\nJP :\nこのスキルが捨てられると、(探求した知識 × 体力最大値の20%)バリアを得る。\n[WhenUse] 自分の全スキルスロットから、ランクが最も低いスキル2つを捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値5を得る\n[WhenUse] 対象の沈潜が7以上なら、コイン威力 +1"
+  },
+  {
+    "key": "1090703-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 4 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +4 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が4増加"
+  },
+  {
+    "key": "1090703-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 침잠 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 Sinking Count\nJP :\n[OnSucceedAttack] 沈潜 回数が2増加"
+  },
+  {
+    "key": "1090704-levelList$[0].name",
+    "original": "탐구 몰입",
+    "context": "EN :\nFixated Study\nJP :\n探求没入"
+  },
+  {
+    "key": "1090704-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 높은 스킬 1개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 2를 얻음",
+    "context": "EN :\n[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 2 Aggro next turn\nJP :\n[WhenUse] 自分の全スキルスロットから、ランクが最も高いスキル1つを捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値2を得る"
+  },
+  {
+    "key": "1090704-levelList$[1].name",
+    "original": "탐구 몰입",
+    "context": "EN :\nFixated Study\nJP :\n探求没入"
+  },
+  {
+    "key": "1090704-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 높은 스킬 1개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 5를 얻음",
+    "context": "EN :\n[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 Aggro next turn\nJP :\n[WhenUse] 自分の全スキルスロットから、ランクが最も高いスキル1つを捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値5を得る"
+  },
+  {
+    "key": "1090801-levelList$[0].name",
+    "original": "염권격",
+    "context": "EN :\nFlaming Fists\nJP :\n炎拳撃"
+  },
+  {
+    "key": "1090801-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1090801-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1090801-levelList$[1].name",
+    "original": "염권격",
+    "context": "EN :\nFlaming Fists\nJP :\n炎拳撃"
+  },
+  {
+    "key": "1090801-levelList$[1].desc",
+    "original": "대상의 [Combustion]이 3 이상이면 코인 위력 +1",
+    "context": "EN :\nIf target has 3+ [Combustion], Coin Power +1\nJP :\n対象の[Combustion]が3以上ならコイン威力 +1"
+  },
+  {
+    "key": "1090801-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1090801-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1090801-levelList$[2].name",
+    "original": "염권격",
+    "context": "EN :\nFlaming Fists\nJP :\n炎拳撃"
+  },
+  {
+    "key": "1090801-levelList$[2].desc",
+    "original": "대상의 [Combustion] 3당, 코인 위력 +1(최대 2)",
+    "context": "EN :\nCoin Power +1 for every 3 [Combustion] on target (Max 2)\nJP :\n対象の[Combustion]3につき、コイン威力 +1(最大2)"
+  },
+  {
+    "key": "1090801-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1090801-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1090802-levelList$[0].name",
+    "original": "염수격-연",
+    "context": "EN :\nFiery Knifehand-Combust\nJP :\n炎手撃-燃"
+  },
+  {
+    "key": "1090802-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1090802-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1090802-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Combustion] 횟수가 6 이상이면, [Combustion]이 없거나 [Combustion] 횟수가 가장 낮은 적 2명에게 [Combustion] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] If the target has 6+ [Combustion] Count, apply 3 [Combustion] to 2 targets with no [Combustion] or with the least [Combustion] Count.\nJP :\n[OnSucceedAttack] 対象の[Combustion]回数が6以上なら、[Combustion]が無いか[Combustion]回数が最も低い敵2名へ[Combustion]3を付与"
+  },
+  {
+    "key": "1090802-levelList$[1].name",
+    "original": "염수격-연",
+    "context": "EN :\nFiery Knifehand-Combust\nJP :\n炎手撃-燃"
+  },
+  {
+    "key": "1090802-levelList$[1].desc",
+    "original": "대상의 [Combustion]이 6 이상이면 코인 위력 +1",
+    "context": "EN :\nIf target has 6+ [Combustion], Coin Power +1\nJP :\n対象の[Combustion]が6以上ならコイン威力 +1"
+  },
+  {
+    "key": "1090802-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1090802-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1090802-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttackHead] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1090802-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Combustion] 횟수가 6 이상이면, [Combustion]이 없거나 [Combustion] 횟수가 가장 낮은 적 2명에게 [Combustion] 3 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] If the target has 6+ [Combustion] Count, apply 3 [Combustion] to 2 targets with no [Combustion] or with the least [Combustion] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 対象の[Combustion]回数が6以上なら、[Combustion]が無いか[Combustion]回数が最も低い敵2名へ[Combustion]3を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1090802-levelList$[2].name",
+    "original": "염수격-연",
+    "context": "EN :\nFiery Knifehand-Combust\nJP :\n炎手撃-燃"
+  },
+  {
+    "key": "1090802-levelList$[2].desc",
+    "original": "대상의 [Combustion] 6당, 코인 위력 +1(최대 2)",
+    "context": "EN :\nCoin Power +1 for every 6 [Combustion] on target (Max 2)\nJP :\n対象の[Combustion]6につき、コイン威力 +1(最大2)"
+  },
+  {
+    "key": "1090802-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1090802-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1090802-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttackHead] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1090802-levelList$[2].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Combustion] 횟수가 6 이상이면, [Combustion]이 없거나 [Combustion] 횟수가 가장 낮은 적 2명에게 [Combustion] 3 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] If the target has 6+ [Combustion] Count, apply 3 [Combustion] to 2 targets with no [Combustion] or with the least [Combustion] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 対象の[Combustion]回数が6以上なら、[Combustion]が無いか[Combustion]回数が最も低い敵2名へ[Combustion]3を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1090803-levelList$[0].name",
+    "original": "일점돌파",
+    "context": "EN :\nPinpoint Blitz\nJP :\n一点突破"
+  },
+  {
+    "key": "1090803-levelList$[0].desc",
+    "original": "대상의 [Combustion]과 [Combustion] 횟수가 6 이상이면, 피해량 +30%",
+    "context": "EN :\nIf the target has 6+ [Combustion] and [Combustion] Count, Deal +30% more Damage\nJP :\n対象の[Combustion]と[Combustion]回数が6以上なら、ダメージ量 +30%"
+  },
+  {
+    "key": "1090803-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1090803-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1090803-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1090803-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Combustion] 위력의 절반만큼 분노 속성 피해를 줌.(최대 20) 대상의 [Combustion] 횟수 2 감소",
+    "context": "EN :\n[OnSucceedAttack] Inflict Wrath Affinity damage equal to half of [Combustion] Potency on target. (Max 20) Reduce Target's [Combustion] Count by 2\nJP :\n[OnSucceedAttack] 対象の[Combustion]威力の半分だけ憤怒属性ダメージを与える(最大20) 対象の[Combustion]回数が2減少"
+  },
+  {
+    "key": "1090803-levelList$[1].name",
+    "original": "일점돌파",
+    "context": "EN :\nPinpoint Blitz\nJP :\n一点突破"
+  },
+  {
+    "key": "1090803-levelList$[1].desc",
+    "original": "<style=\"highlight\">대상의 [Combustion]이 6 이상이면 코인 위력 +1</style>\n대상의 [Combustion]과 [Combustion] 횟수가 6 이상이면, 피해량 +30%",
+    "context": "EN :\n<style=\"highlight\">If the target has 6+ [Combustion], Coin Power +1</style>\nIf the target has 6+ [Combustion] and [Combustion] Count, deal +30% more Damage\nJP :\n<style=\"highlight\">対象の[Combustion]が6以上なら、コイン威力 +1</style>\n対象の[Combustion]と[Combustion]回数が6以上なら、ダメージ量 +30%"
+  },
+  {
+    "key": "1090803-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1090803-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1090803-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1090803-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Combustion] 위력만큼 분노 속성 피해를 줌.(최대 30) 대상의 [Combustion] 횟수 2 감소",
+    "context": "EN :\n[OnSucceedAttack] Inflict Wrath Affinity damage equal to [Combustion] Potency on target. (Max 30) Reduce Target's [Combustion] Count by 2\nJP :\n[OnSucceedAttack] 対象の[Combustion]威力だけ憤怒属性ダメージを与える(最大30) 対象の[Combustion]回数が2減少"
+  },
+  {
+    "key": "1090804-levelList$[0].name",
+    "original": "반격",
+    "context": "EN :\nCounter\nJP :\n反撃"
+  },
+  {
+    "key": "1090804-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1090804-levelList$[1].name",
+    "original": "반격",
+    "context": "EN :\nCounter\nJP :\n反撃"
+  },
+  {
+    "key": "1090804-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1090901-levelList$[0].name",
+    "original": "징수 준비",
+    "context": "EN :\nPrepare To Collect\nJP :\n徴収準備"
+  },
+  {
+    "key": "1090901-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Vibration] 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +2 [Vibration] Count\nJP :\n[WhenUse] 自分の[Vibration]回数が2増加"
+  },
+  {
+    "key": "1090901-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]1を付与"
+  },
+  {
+    "key": "1090901-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Vibration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 [Vibration] Count\nJP :\n[OnSucceedAttack] 自分の[Vibration]回数が1増加"
+  },
+  {
+    "key": "1090901-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[WinDuelAttack] [Vibration] 횟수 1 증가",
+    "context": "EN :\n[WinDuelAttack] Inflict +1 [Vibration] Count\nJP :\n[WinDuelAttack] [Vibration]回数が1増加"
+  },
+  {
+    "key": "1090901-levelList$[1].name",
+    "original": "징수 준비",
+    "context": "EN :\nPrepare To Collect\nJP :\n徴収準備"
+  },
+  {
+    "key": "1090901-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 [Vibration] 횟수 2 증가\n<style=\"highlight\">[WhenUse] 대상의 [Vibration]이 6 이상이면, 합 위력 +1</style>",
+    "context": "EN :\n[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] If the target has 6+ [Vibration], Clash Power +1</style>\nJP :\n[WhenUse] 自分の[Vibration]回数が2増加\n<style=\"highlight\">[WhenUse] 対象の[Vibration]が6以上なら、マッチ威力 +1</style>"
+  },
+  {
+    "key": "1090901-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Vibration]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1090901-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Vibration] 횟수 1 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 [Vibration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の[Vibration]回数が1増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1090901-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[WinDuelAttack] [Vibration] 횟수 1 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[WinDuelAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>\nJP :\n[WinDuelAttack] [Vibration]回数が1増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1090901-levelList$[2].name",
+    "original": "징수 준비",
+    "context": "EN :\nPrepare To Collect\nJP :\n徴収準備"
+  },
+  {
+    "key": "1090901-levelList$[2].desc",
+    "original": "[WhenUse] 자신의 [Vibration] 횟수 2 증가\n[WhenUse] 대상의 [Vibration] <style=\"highlight\">6 당 합 위력 +1 (최대 2)</style>",
+    "context": "EN :\n[WhenUse] Gain +2 [Vibration] Count\n[WhenUse] <style=\"highlight\">Clash Power +1 for every 6 [Vibration] on target (max 2)</style>\nJP :\n[WhenUse] 自分の[Vibration]回数が2増加\n[WhenUse] 対象の[Vibration]が<style=\"highlight\">6につき、マッチ威力 +1(最大2)</style>"
+  },
+  {
+    "key": "1090901-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] <style=\"highlight\">2</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style> を付与"
+  },
+  {
+    "key": "1090901-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Vibration] 횟수 1 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 [Vibration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の[Vibration]回数が1増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1090901-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[WinDuelAttack] [Vibration] 횟수 1 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[WinDuelAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>\nJP :\n[WinDuelAttack] [Vibration]回数が1増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1090902-levelList$[0].name",
+    "original": "T사식 제압 격투",
+    "context": "EN :\nT Corp. Martial Suppression\nJP :\nT社式制圧格闘"
+  },
+  {
+    "key": "1090902-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Vibration] 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +2 [Vibration] Count\nJP :\n[WhenUse] 自分の[Vibration]回数が2増加"
+  },
+  {
+    "key": "1090902-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Vibration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 [Vibration] Count\nJP :\n[OnSucceedAttack] 自分の[Vibration]回数が2増加"
+  },
+  {
+    "key": "1090902-levelList$[1].name",
+    "original": "T사식 제압 격투",
+    "context": "EN :\nT Corp. Martial Suppression\nJP :\nT社式制圧格闘"
+  },
+  {
+    "key": "1090902-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 [Vibration] 횟수 2 증가\n<style=\"highlight\">[WhenUse] 대상의 [Vibration]이 6 이상이면, 합 위력 +1</style>",
+    "context": "EN :\n[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] If the target has 6+ [Vibration], Clash Power +1</style>\nJP :\n[WhenUse] 自分の[Vibration]回数が2増加\n<style=\"highlight\">[WhenUse] 対象の[Vibration]が6以上なら、マッチ威力 +1</style>"
+  },
+  {
+    "key": "1090902-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Vibration] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 [Vibration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の[Vibration]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1090902-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "<style=\"highlight\">[WinDuelAttack] [Vibration] 횟수 2 증가</style>",
+    "context": "EN :\n<style=\"highlight\">[WinDuelAttack] Inflict +2 [Vibration] Count</style>\nJP :\n<style=\"highlight\">[WinDuelAttack] [Vibration]回数が2増加</style>"
+  },
+  {
+    "key": "1090902-levelList$[2].name",
+    "original": "T사식 제압 격투",
+    "context": "EN :\nT Corp. Martial Suppression\nJP :\nT社式制圧格闘"
+  },
+  {
+    "key": "1090902-levelList$[2].desc",
+    "original": "<style=\"highlight\">대상의 [Binding] 1 당 피해량 +5% (최대 15%)</style>\n[WhenUse] 자신의 [Vibration] 횟수 2 증가\n[WhenUse] 대상의 [Vibration] <style=\"highlight\">6 당 합 위력 +1 (최대 2)</style>",
+    "context": "EN :\n<style=\"highlight\">Deal +5% more damage for every [Binding] on target (max 15%)</style>\n[WhenUse] Gain +2 [Vibration] Count\n[WhenUse] <style=\"highlight\">Clash Power +1 for every 6 [Vibration] on target (max 2)</style>\nJP :\n<style=\"highlight\">対象の[Binding]1につき、ダメージ量 +5%(最大15%)</style>\n[WhenUse] 自分の[Vibration]回数が2増加\n[WhenUse] 対象の[Vibration]<style=\"highlight\">6につき、マッチ威力 +1(最大2)</style>"
+  },
+  {
+    "key": "1090902-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Vibration] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 [Vibration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の[Vibration]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1090902-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[WinDuelAttack] [Vibration] 횟수 <style=\"highlight\">3</style> 증가",
+    "context": "EN :\n[WinDuelAttack] Inflict +<style=\"highlight\">3</style> [Vibration] Count\nJP :\n[WinDuelAttack] [Vibration]回数が<style=\"highlight\">3</style>増加"
+  },
+  {
+    "key": "1090902-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 다음 턴에 [Binding] 1 부여</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Binding] next turn</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 次のターンに[Binding]1を付与</style>"
+  },
+  {
+    "key": "1090902-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 대상의 [Vibration]이 6 이상이면, 다음 턴에 [Binding] 1 부여</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] If the target has 6+ [Vibration], inflict 1 [Binding] next turn</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 対象の[Vibration]が6以上なら、次のターンに[Binding]1を付与</style>"
+  },
+  {
+    "key": "1090903-levelList$[0].name",
+    "original": "징수 집행",
+    "context": "EN :\nExecute Collections\nJP :\n徴収執行"
+  },
+  {
+    "key": "1090903-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Vibration]이 8 이상이면, 합 위력 +1\n[WhenUse] 자신의 진동 횟수를 8 소모하여 코인 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 8+ [Vibration], Clash Power +1\n[WhenUse] Consume 8 [Vibration] Count on self to gain Coin Power +1\nJP :\n[WhenUse] 対象の[Vibration]が8以上なら、マッチ威力 +1\n[WhenUse] 自分の[Vibration]回数を8消耗してコイン威力 +1"
+  },
+  {
+    "key": "1090903-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]回数が2増加"
+  },
+  {
+    "key": "1090903-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]1を付与"
+  },
+  {
+    "key": "1090903-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Vibration]\nJP :\n[OnSucceedAttack] [Vibration]2を付与"
+  },
+  {
+    "key": "1090903-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Binding] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Binding]1を付与"
+  },
+  {
+    "key": "1090903-levelList$[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신이 [TimeRentalTwoPersonality] 상태면, [TimeSuspend] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] If this unit is in a [TimeRentalTwoPersonality] state, inflict 2 [TimeSuspend]\nJP :\n[OnSucceedAttack] 自分が[TimeRentalTwoPersonality]状態なら、[TimeSuspend]2を付与"
+  },
+  {
+    "key": "1090903-levelList$[1].name",
+    "original": "징수 집행",
+    "context": "EN :\nExecute Collections\nJP :\n徴収執行"
+  },
+  {
+    "key": "1090903-levelList$[1].desc",
+    "original": "<style=\"highlight\">대상의 [Binding] 1 당 피해량 +5% (최대 20%)</style>\n[WhenUse] 대상의 [Vibration]이 8 이상이면, 합 위력 +<style=\"highlight\">2</style>\n[WhenUse] 자신의 [Vibration] 횟수를 8 소모하여 코인 위력 +1",
+    "context": "EN :\n<style=\"highlight\">Deal +5% more damage for every [Binding] on target (max 20%)</style>\n[WhenUse] If the target has 8+ [Vibration], Clash Power +<style=\"highlight\">2</style>\n[WhenUse] Consume 8 [Vibration] Count on self to gain Coin Power +1\nJP :\n<style=\"highlight\">対象の[Binding]1につき、ダメージ量 +5%(最大20%)</style>\n[WhenUse] 対象の[Vibration]が8以上なら、マッチ威力+<style=\"highlight\">2</style>\n[WhenUse] 自分の[Vibration]回数を8消耗し、コイン威力 +1"
+  },
+  {
+    "key": "1090903-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 횟수 <style=\"highlight\">3</style> 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +<style=\"highlight\">3</style> [Vibration] Count\nJP :\n[OnSucceedAttack] [Vibration]回数が<style=\"highlight\">3</style>増加"
+  },
+  {
+    "key": "1090903-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Vibration]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1090903-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Vibration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Vibration]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1090903-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Binding] next turn<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 次のターンに[Binding]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1090903-levelList$[1].coinlist[3].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 스킬 사용시 [Vibration] 횟수를 소모했다면, 다음 턴에 [Binding] 2 부여</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] If this unit consumed [Vibration] Count with Skill use, inflict 2 [Binding] next turn</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] スキル使用時に[Vibration]回数を消耗したなら、次のターンに[Binding]2を付与</style>"
+  },
+  {
+    "key": "1090903-levelList$[1].coinlist[3].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 자신이 [TimeRentalTwoPersonality] 상태면, [TimeSuspend] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] If this unit is in a [TimeRentalTwoPersonality] state, inflict 2 [TimeSuspend]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分が[TimeRentalTwoPersonality]状態なら、[TimeSuspend]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1090903-levelList$[1].coinlist[3].coindescs[3].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少</style>"
+  },
+  {
+    "key": "1090904-levelList$[0].name",
+    "original": "시간 대여",
+    "context": "EN :\nBorrow Time\nJP :\n時間貸与"
+  },
+  {
+    "key": "1090904-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[StartBattle] [TimeRentalTwoPersonality] 상태가 아니면, 턴 종료 시 [TimeRentalTwoPersonality] 3 얻음 (턴 당 1회)\n[WhenUse] 이번 턴 동안 적에게 피격 시, 다음 턴에 대상에게 [Vibration] 2 부여 (턴 당 2회)",
+    "context": "EN :\n[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, gain 3 [TimeRentalTwoPersonality] at Turn End (once per turn)\n[WhenUse] For this turn: when hit by an enemy, inflict 2 [Vibration] on target next turn (2 times per turn)\nJP :\n[StartBattle] [TimeRentalTwoPersonality]状態でなければ、ターン終了時に[TimeRentalTwoPersonality]3を得る(1ターンにつき1回)\n[WhenUse] このターンの間、敵にダメージを受けたときに次のターンにて対象へ[Vibration]2を付与(1ターンにつき2回)"
+  },
+  {
+    "key": "1090904-levelList$[1].name",
+    "original": "시간 대여",
+    "context": "EN :\nBorrow Time\nJP :\n時間貸与"
+  },
+  {
+    "key": "1090904-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[StartBattle] [TimeRentalTwoPersonality] 상태가 아니면, 턴 종료 시 [TimeRentalTwoPersonality] 3 얻음 (턴 당 1회)\n[WhenUse] 이번 턴 동안 적에게 피격 시, 다음 턴에 대상에게 [Vibration] 2 부여 (턴 당 <style=\"highlight\">6</style>회)",
+    "context": "EN :\n[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, gain 3 [TimeRentalTwoPersonality] at Turn End (once per turn)\n[WhenUse] For this turn: when hit by an enemy, inflict 2 [Vibration] on target next turn (<style=\"highlight\">6 times</style> per turn)\nJP :\n[StartBattle] [TimeRentalTwoPersonality]状態でなければ、ターン終了時に[TimeRentalTwoPersonality]3を得る(1ターンにつき1回)\n[WhenUse] このターンの間、敵にダメージを受けたときに次のターンにて対象へ[Vibration]2を付与(1ターンにつき<style=\"highlight\">6</style>回)"
+  },
+  {
+    "key": "1091001-levelList$[0].name",
+    "original": "딜리버리 캐리어 - 붕괴 나이프",
+    "context": "EN :\nCourier Trunk - Decay Knife\nJP :\nデリバリーキャリア - 崩壊ナイフ"
+  },
+  {
+    "key": "1091001-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중시 효과로 [Burst]을 부여하지 않는 대신 적중시 [Burst] 횟수를 소모하지 않음",
+    "context": "EN :\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit, but does not inflict [Burst] with this Skill's On Hit effects\nJP :\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルの的中時効果で[Burst]を付与しない代わり、的中時に[Burst]回数を消耗しない"
+  },
+  {
+    "key": "1091001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [DevyatDimensionalSack]\nJP :\n[OnSucceedAttack] [DevyatDimensionalSack]1を得る"
+  },
+  {
+    "key": "1091001-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "1091001-levelList$[1].name",
+    "original": "딜리버리 캐리어 - 붕괴 나이프",
+    "context": "EN :\nCourier Trunk - Decay Knife\nJP :\nデリバリーキャリア - 崩壊ナイフ"
+  },
+  {
+    "key": "1091001-levelList$[1].desc",
+    "original": "<style=\"highlight\">[DevyatDimensionalSack]가 10 이상이거나 대상의 [Burst]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중시 효과로 [Burst]을 부여하지 않는 대신 적중시 [Burst] 횟수를 소모하지 않음",
+    "context": "EN :\n<style=\"highlight\">At 10+ [DevyatDimensionalSack], or if the target has 6+ [Burst], Coin Power +1</style>\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit, but does not inflict [Burst] with this Skill's On Hit effects\nJP :\n<style=\"highlight\">[DevyatDimensionalSack]が10以上か、対象の[Burst]が6以上ならコイン威力 +1</style>\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルの的中時効果で[Burst]を付与しない代わり、的中時に[Burst]回数を消耗しない"
+  },
+  {
+    "key": "1091001-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음\n<style=\"highlight\">- [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] 1 추가로 얻음</style>",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [DevyatDimensionalSack]\n<style=\"highlight\">- If this unit has less than 15 [DevyatDimensionalSack], gain 1 additional [DevyatDimensionalSack]</style>\nJP :\n[OnSucceedAttack] [DevyatDimensionalSack]1を得る\n<style=\"highlight\">- [DevyatDimensionalSack]が15未満なら、[DevyatDimensionalSack]1を追加で得る</style>"
+  },
+  {
+    "key": "1091001-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091001-levelList$[2].name",
+    "original": "딜리버리 캐리어 - 붕괴 나이프",
+    "context": "EN :\nCourier Trunk - Decay Knife\nJP :\nデリバリーキャリア - 崩壊ナイフ"
+  },
+  {
+    "key": "1091001-levelList$[2].desc",
+    "original": "<style=\"highlight\">[DevyatDimensionalSack] 10 또는 대상의 [Burst] 6당 코인 위력 +1 (최대 2)</style>\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중시 효과로 [Burst]을 부여하지 않는 대신 적중시 [Burst] 횟수를 소모하지 않음",
+    "context": "EN :\n<style=\"highlight\">Coin Power +1 for every 10 [DevyatDimensionalSack] or for every 6 [Burst] on the target (max 2)</style>\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit, but does not inflict [Burst] with this Skill's On Hit effects\nJP :\n<style=\"highlight\">[DevyatDimensionalSack]10, または対象の[Burst]が6につきコイン威力 +1(最大2)</style>\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルの的中時効果で[Burst]を付与しない代わり、的中時に[Burst]回数を消耗しない"
+  },
+  {
+    "key": "1091001-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음\n- [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] 1 추가로 얻음<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [DevyatDimensionalSack]\n- If this unit has less than 15 [DevyatDimensionalSack], gain 1 additional [DevyatDimensionalSack]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [DevyatDimensionalSack]1を得る\n- [DevyatDimensionalSack]が15未満なら、[DevyatDimensionalSack]1を追加で得る<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091001-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Burst]\nJP :\n[OnSucceedAttack] [Burst]<style=\"highlight\">3</style> を付与"
+  },
+  {
+    "key": "1091002-levelList$[0].name",
+    "original": "딜리버리 캐리어 - 가젯 사출",
+    "context": "EN :\nCourier Trunk - Gadget Reveal\nJP :\nデリバリーキャリア - ガジェット射出"
+  },
+  {
+    "key": "1091002-levelList$[0].desc",
+    "original": "[DevyatDimensionalSack]가 10 이상이거나 대상의 [Burst]이 6 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬로 적중시 [Burst] 횟수를 소모하지 않음",
+    "context": "EN :\nAt 10+ [DevyatDimensionalSack], or if the target has 6+ [Burst], Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit\nJP :\n[DevyatDimensionalSack]が10以上か、対象の[Burst]が6以上ならコイン威力 +1\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルが的中時に[Burst]回数を消耗しない"
+  },
+  {
+    "key": "1091002-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [DevyatDimensionalSack]\nJP :\n[OnSucceedAttack] [DevyatDimensionalSack]1を得る"
+  },
+  {
+    "key": "1091002-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 [Agility] 1 얻음 (턴 당 1회)",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 1 [Agility] next turn (once per turn)\nJP :\n[OnSucceedAttackHead] 次のターンに[Agility]1を得る(1ターンにつき1回)"
+  },
+  {
+    "key": "1091002-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSack] 10 또는 대상의 [Burst] 5당 [DefenseDown] 1 부여 (최대 2, 턴 당 1회)",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [DefenseDown] for every 10 [DevyatDimensionalSack] on self or for every 5 [Burst] on the target (max 2, once per turn)\nJP :\n[OnSucceedAttack] [DevyatDimensionalSack]10, または対象の[Burst]5につき[DefenseDown]1を付与(最大2, 1ターンにつき1回)"
+  },
+  {
+    "key": "1091002-levelList$[1].name",
+    "original": "딜리버리 캐리어 - 가젯 사출",
+    "context": "EN :\nCourier Trunk - Gadget Reveal\nJP :\nデリバリーキャリア - ガジェット射出"
+  },
+  {
+    "key": "1091002-levelList$[1].desc",
+    "original": "<style=\"highlight\">[DevyatDimensionalSack] 10 또는 대상의 [Burst] 6당 코인 위력 +1 (최대 2)</style>\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬로 적중시 [Burst] 횟수를 소모하지 않음",
+    "context": "EN :\n<style=\"highlight\">Coin Power +1 for every 10 [DevyatDimensionalSack] or for every 6 [Burst] on the target (max 2)</style>\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit\nJP :\n<style=\"highlight\">[DevyatDimensionalSack]10, または対象の[Burst]6につきコイン威力 +1(最大2)</style>\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルが的中時に[Burst]回数を消耗しない"
+  },
+  {
+    "key": "1091002-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음\n<style=\"highlight\">- [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] 1 추가로 얻음</style>",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [DevyatDimensionalSack]\n<style=\"highlight\">- If this unit has less than 15 [DevyatDimensionalSack], gain 1 additional [DevyatDimensionalSack]</style>\nJP :\n[OnSucceedAttack] [DevyatDimensionalSack]1を得る\n<style=\"highlight\">- [DevyatDimensionalSack]が15未満なら、[DevyatDimensionalSack]1を追加で得る</style>"
+  },
+  {
+    "key": "1091002-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 [Agility] 1 얻음 (턴 당 1회)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 1 [Agility] next turn (once per turn)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttackHead] 次のターンに[Agility]1を得る(1ターンにつき1回)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091002-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSack] <style=\"highlight\">5</style> 또는 대상의 [Burst] 5당 [DefenseDown] 1 부여 (최대 <style=\"highlight\">4</style>, 턴 당 1회)",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [DefenseDown] for every <style=\"highlight\">5</style> [DevyatDimensionalSack] on self or for every 5 [Burst] on the target (max <style=\"highlight\">4</style>, once per turn)\nJP :\n[OnSucceedAttack] [DevyatDimensionalSack]<style=\"highlight\">5</style>, または対象の[Burst]5につき[DefenseDown]1を付与(最大<style=\"highlight\">4</style>, 1ターンにつき1回)"
+  },
+  {
+    "key": "1091002-levelList$[2].name",
+    "original": "딜리버리 캐리어 - 가젯 사출",
+    "context": "EN :\nCourier Trunk - Gadget Reveal\nJP :\nデリバリーキャリア - ガジェット射出"
+  },
+  {
+    "key": "1091002-levelList$[2].desc",
+    "original": "<style=\"highlight\">[DevyatDimensionalSack] 1당 피해량 +2% (최대 40%)</style>\n[DevyatDimensionalSack] 10 또는 대상의 [Burst] 6당 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬로 적중시 [Burst] 횟수를 소모하지 않음",
+    "context": "EN :\n<style=\"highlight\">Deal +2% more damage for every [DevyatDimensionalSack] on self (max 40%)</style>\nCoin Power +1 for every 10 [DevyatDimensionalSack] or for every 6 [Burst] on the target (max 2)\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit\nJP :\n<style=\"highlight\">[DevyatDimensionalSack]1につきダメージ量 +2%(最大40%)</style>\n[DevyatDimensionalSack]10, または対象の[Burst]6につきコイン威力 +1(最大2)\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルが的中時に[Burst]回数を消耗しない"
+  },
+  {
+    "key": "1091002-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSack] 1 얻음\n- [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] <style=\"highlight\">2</style> 추가로 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [DevyatDimensionalSack]\n- If this unit has less than 15 [DevyatDimensionalSack], gain <style=\"highlight\">2</style> additional [DevyatDimensionalSack]\nJP :\n[OnSucceedAttack] [DevyatDimensionalSack]1を得る\n- [DevyatDimensionalSack]が15未満なら、[DevyatDimensionalSack]<style=\"highlight\">2</style>を追加で得る"
+  },
+  {
+    "key": "1091002-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 다음 턴에 [Agility] 1 얻음 (턴 당 1회)\n<style=\"highlight\">- [DevyatDimensionalSack]가 15 이상이면, [Agility] 1 추가로 얻음</style>",
+    "context": "EN :\n[OnSucceedAttackHead] Gain 1 [Agility] next turn (once per turn)\n<style=\"highlight\">- At 15+ [DevyatDimensionalSack], gain 1 additional [Agility]</style>\nJP :\n[OnSucceedAttackHead] 次のターンに[Agility]1を得る(1ターンにつき1回)\n<style=\"highlight\">- [DevyatDimensionalSack]が15以上なら、[Agility]1を追加で得る</style>"
+  },
+  {
+    "key": "1091002-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSack] 5 또는 대상의 [Burst] 5당 [DefenseDown] 1 부여 (최대 <style=\"highlight\">6</style>, 턴 당 1회)",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [DefenseDown] for every 5 [DevyatDimensionalSack] on self or for every 5 [Burst] on the target (max <style=\"highlight\">6</style>, once per turn)\nJP :\n[OnSucceedAttack] [DevyatDimensionalSack]5, または対象の[Burst]5につき[DefenseDown]1を付与(最大<style=\"highlight\">6</style>, 1ターンにつき1回)"
+  },
+  {
+    "key": "1091003-levelList$[0].name",
+    "original": "플루! 힘 좀 써줘!",
+    "context": "EN :\nI Trust Ya, Polu!\nJP :\nポルー！ちょっと頑張って！"
+  },
+  {
+    "key": "1091003-levelList$[0].desc",
+    "original": "[DevyatDimensionalSack] 1당 피해량 +2% (최대 40%)\n[DevyatDimensionalSack]가 10 이상이거나 대상의 [Burst]이 6 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중시 효과로 [Burst] 횟수를 부여하지 않는 대신 마지막 코인을 재사용",
+    "context": "EN :\nDeal +2% more damage for every [DevyatDimensionalSack] (max 40%)\nAt 10+ [DevyatDimensionalSack] on self, or if the target has 6+ [Burst], Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its On Hit effects; instead, Reuse its last Coin\nJP :\n[DevyatDimensionalSack]1につきダメージ量 +2%(最大40%)\n[DevyatDimensionalSack]が10以上か、対象の[Burst]が6以上ならコイン威力 +1\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルの的中時効果で[Burst]回数を付与しない代わりに最後のコインを再使用"
+  },
+  {
+    "key": "1091003-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 3 증가 (턴 당 1회)",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Burst] Count (once per turn)\nJP :\n[OnSucceedAttack] [Burst]回数が3増加(1ターンにつき1回)"
+  },
+  {
+    "key": "1091003-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSack]가 15 이상이면, 피해량 +15%",
+    "context": "EN :\n[OnSucceedAttack] At 15+ [DevyatDimensionalSack], deal +15% more damage\nJP :\n[OnSucceedAttack] [DevyatDimensionalSack]が15以上なら、ダメージ量 +15%"
+  },
+  {
+    "key": "1091003-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[EndSkill] 대상이 흐트러짐 상태가 되거나 사망하면, 다음 턴에 [Agility] 1 얻음 (턴 당 1회)",
+    "context": "EN :\n[EndSkill] If target is Staggered or defeated, gain 1 [Agility] next turn (once per turn)\nJP :\n[EndSkill] 対象が混乱状態になるか死亡すると、次のターンに[Agility]1を得る(1ターンにつき1回)"
+  },
+  {
+    "key": "1091003-levelList$[1].name",
+    "original": "플루! 힘 좀 써줘!",
+    "context": "EN :\nI Trust Ya, Polu!\nJP :\nポルー！ちょっと頑張って！"
+  },
+  {
+    "key": "1091003-levelList$[1].desc",
+    "original": "[DevyatDimensionalSack] 1당 피해량 <style=\"highlight\">+4%</style> (최대 <style=\"highlight\">80%</style>)\n<style=\"highlight\">[DevyatDimensionalSack] 10 또는 대상의 [Burst] 6당 코인 위력 +1 (최대 2)</style>\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 적중시 효과로 [Burst] 횟수를 부여하지 않는 대신 마지막 코인을 재사용",
+    "context": "EN :\nDeal <style=\"highlight\">+4%</style> more damage for every [DevyatDimensionalSack] (max <style=\"highlight\">80%</style>)\n<style=\"highlight\">Coin Power +1 for every 10 [DevyatDimensionalSack] on self or for every 6 [Burst] on the target (max 2)</style>\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its On Hit effects; instead, Reuse its last Coin\nJP :\n[DevyatDimensionalSack]1につきダメージ量 <style=\"highlight\">+4%</style>(最大<style=\"highlight\">80%</style>)\n<style=\"highlight\">[DevyatDimensionalSack]10, または対象の[Burst]6につきコイン威力 +1(最大2)</style>\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキルの的中時効果で[Burst]回数を付与しない代わりに最後のコインを再使用"
+  },
+  {
+    "key": "1091003-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 3 증가 (턴 당 1회)\n<style=\"highlight\">- [DevyatDimensionalSack] 10당 [Burst] 횟수 1 추가로 증가 (최대 2)</style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Burst] Count (once per turn)\n<style=\"highlight\">- Inflict +1 more [Burst] Count for every 10 [DevyatDimensionalSack] (max 2)</style>\nJP :\n[OnSucceedAttack] [Burst]回数が3増加(1ターンにつき1回)\n<style=\"highlight\">- [DevyatDimensionalSack]10につき[Burst]回数が1追加で増加(最大2)</style>"
+  },
+  {
+    "key": "1091003-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DevyatDimensionalSack]가 15 이상이면, 피해량 <style=\"highlight\">+25%</style>",
+    "context": "EN :\n[OnSucceedAttack] At 15+ [DevyatDimensionalSack], deal <style=\"highlight\">+25%</style> more damage\nJP :\n[OnSucceedAttack] [DevyatDimensionalSack]が15以上なら、ダメージ量 <style=\"highlight\">+25%</style>"
+  },
+  {
+    "key": "1091003-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[EndSkill] 대상이 흐트러짐 상태가 되거나 사망하면, 다음 턴에 [Agility] <style=\"highlight\">2</style> 얻음 (턴 당 1회)",
+    "context": "EN :\n[EndSkill] If target is Staggered or defeated, gain <style=\"highlight\">2</style> [Agility] next turn (once per turn)\nJP :\n[EndSkill] 対象が混乱状態になるか死亡すると、次のターンに[Agility]<style=\"highlight\">2</style>を得る(1ターンにつき1回)"
+  },
+  {
+    "key": "1091004-levelList$[0].name",
+    "original": "배달 보조 및 통제 시퀀스",
+    "context": "EN :\nCourier Support & Control Sequence\nJP :\n配達補助および統制シーケンス"
+  },
+  {
+    "key": "1091004-levelList$[0].desc",
+    "original": "[StartBattle] [DevyatDimensionalSack]가 15 이상이면, ‘이건... 잠시 전략적 휴식이야!’로 발동함 (턴 당 1회)\n[StartBattle] 이 스킬로 발동 예정인 경우, 자신의 최대 체력의 ([DevyatDimensionalSack]/2)%만큼 보호막을 얻음 (최대 15%, 턴 당 1회)\n[WhenUse] [DevyatDimensionalSack] 2 얻음 (턴 당 1회)\n- [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] 1 추가로 얻음",
+    "context": "EN :\n[StartBattle] At 15+ [DevyatDimensionalSack], activate 'Just... a Strategic Time Off!' instead (once per turn)\n[StartBattle] If this Skill is to be activated, gain ([DevyatDimensionalSack]/2)% of this unit's max HP as Shield (max 15%, once per turn)\n[WhenUse] Gain 2 [DevyatDimensionalSack] (once per turn)\n- At less than 15 [DevyatDimensionalSack], gain 1 additional [DevyatDimensionalSack]\nJP :\n[StartBattle] [DevyatDimensionalSack]が15以上なら、「これは…ちょっとした戦略的休憩だから！」として発動(1ターンにつき1回)\n[StartBattle] このスキルで発動する場合、自分の体力最大値の([DevyatDimensionalSack] ÷ 2)%だけバリアを得る(最大15%, 1ターンにつき1回)\n[WhenUse] [DevyatDimensionalSack]2を得る(1ターンにつき1回)\n- 自分の[DevyatDimensionalSack]が15未満なら、[DevyatDimensionalSack]1を追加で得る"
+  },
+  {
+    "key": "1091004-levelList$[1].name",
+    "original": "배달 보조 및 통제 시퀀스",
+    "context": "EN :\nCourier Support & Control Sequence\nJP :\n配達補助および統制シーケンス"
+  },
+  {
+    "key": "1091004-levelList$[1].desc",
+    "original": "[StartBattle] [DevyatDimensionalSack]가 15 이상이면, ‘이건... 잠시 전략적 휴식이야!’로 발동함 (턴 당 1회)\n[StartBattle] 이 스킬로 발동 예정인 경우, 자신의 최대 체력의 <style=\"highlight\">([DevyatDimensionalSack])%</style>만큼 보호막을 얻음 (최대 <style=\"highlight\">25%</style>, 턴 당 1회)\n[WhenUse] [DevyatDimensionalSack] 2 얻음 (턴 당 1회)\n- [DevyatDimensionalSack]가 15 미만이면, [DevyatDimensionalSack] 1 추가로 얻음",
+    "context": "EN :\n[StartBattle] At 15+ [DevyatDimensionalSack], activate 'Just... a Strategic Time Off!' instead (once per turn)\n[StartBattle] If this Skill is to be activated, gain <style=\"highlight\">([DevyatDimensionalSack])%</style> of this unit's max HP as Shield (max <style=\"highlight\">25%</style>, once per turn)\n[WhenUse] Gain 2 [DevyatDimensionalSack] (once per turn)\n- At less than 15 [DevyatDimensionalSack], gain 1 additional [DevyatDimensionalSack]\nJP :\n[StartBattle] [DevyatDimensionalSack]が15以上なら、「これは…ちょっとした戦略的休憩だから！」として発動(1ターンにつき1回)\n[StartBattle] このスキルで発動する場合、自分の体力最大値の<style=\"highlight\">([DevyatDimensionalSack] )%</style>だけバリアを得る(最大<style=\"highlight\">25%</style>, 1ターンにつき1回)\n[WhenUse] [DevyatDimensionalSack]2を得る(1ターンにつき1回)\n- [DevyatDimensionalSack]が15未満なら、[DevyatDimensionalSack]1を追加で得る"
+  },
+  {
+    "key": "1091005-levelList$[0].name",
+    "original": "이건... 잠시 전략적 휴식이야!",
+    "context": "EN :\nJust... a Strategic Time Off!\nJP :\nこれは…ちょっとした戦略的休憩だから！"
+  },
+  {
+    "key": "1091005-levelList$[0].desc",
+    "original": "[StartBattle] 이 스킬로 발동 예정인 경우, 자신의 최대 체력의 ([DevyatDimensionalSack]/2)%만큼 보호막을 얻음 (최대 15%, 턴 당 1회)\n[EndBattle] [Retreat] 발동",
+    "context": "EN :\n[StartBattle] If this Skill is to be activated, gain ([DevyatDimensionalSack]/2)% of this unit's max HP as Shield (max 15%, once per turn)\n[EndBattle] Activate [Retreat]\nJP :\n[StartBattle] このスキルで発動する場合、自分の体力最大値の([DevyatDimensionalSack] ÷ 2)%だけバリアを得る(最大15%, 1ターンにつき1回)\n[EndBattle] [Retreat]発動"
+  },
+  {
+    "key": "1091005-levelList$[1].name",
+    "original": "이건... 잠시 전략적 휴식이야!",
+    "context": "EN :\nJust... a Strategic Time Off!\nJP :\nこれは…ちょっとした戦略的休憩だから！"
+  },
+  {
+    "key": "1091005-levelList$[1].desc",
+    "original": "[StartBattle] 이 스킬로 발동 예정인 경우, 자신의 최대 체력의 <style=\"highlight\">([DevyatDimensionalSack])%</style>만큼 보호막을 얻음 (최대 <style=\"highlight\">25%</style>, 턴 당 1회)\n[EndBattle] [Retreat] 발동",
+    "context": "EN :\n[StartBattle] If this Skill is to be activated, gain <style=\"highlight\">([DevyatDimensionalSack])%</style> of this unit's max HP as Shield (max <style=\"highlight\">25%</style>, once per turn)\n[EndBattle] Activate [Retreat]\nJP :\n[StartBattle] このスキルで発動する場合、自分の体力最大値の<style=\"highlight\">([DevyatDimensionalSack] )</style>%だけバリアを得る(最大<style=\"highlight\">25%</style>, 1ターンにつき1回)\n[EndBattle] [Retreat]発動"
+  },
+  {
+    "key": "1091101-levelList$[0].name",
+    "original": "물러가도록...",
+    "context": "EN :\nBegone...\nJP :\n下がりなさい…"
+  },
+  {
+    "key": "1091101-levelList$[0].desc",
+    "original": "[StartBattle] 자신과 최대 체력이 가장 높은 아군 1명에게 [BloodDinner]을 최대 20 소모하여, [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [BloomingThornsRodionFirst] 1 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음",
+    "context": "EN :\n[StartBattle] On self and 1 ally with the highest max HP: consume up to 20 [BloodDinner] and apply 1 [BloomingThornsRodionFirst] for every 10 [BloodDinner] this unit consumed (2 times per turn)\n- Prioritizes <Bloodfiend> allies\n- If the affected ally is a <Bloodfiend>, this unit applies 1 additional [BloomingThornsRodionFirst]\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\nJP :\n[StartBattle] 自分と最大体力が最も高い味方1名へ[BloodDinner]を最大20消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[BloomingThornsRodionFirst]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る"
+  },
+  {
+    "key": "1091101-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]1を付与"
+  },
+  {
+    "key": "1091101-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1091101-levelList$[1].name",
+    "original": "물러가도록...",
+    "context": "EN :\nBegone...\nJP :\n下がりなさい…"
+  },
+  {
+    "key": "1091101-levelList$[1].desc",
+    "original": "[StartBattle] 자신과 최대 체력이 가장 높은 아군 1명에게 [BloodDinner]을 최대 20 소모하여, [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [BloomingThornsRodionFirst] 1 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>",
+    "context": "EN :\n[StartBattle] On self and 1 ally with the highest max HP: consume up to 20 [BloodDinner] and apply 1 [BloomingThornsRodionFirst] for every 10 [BloodDinner] this unit consumed (2 times per turn)\n- Prioritizes <Bloodfiend> allies\n- If the affected ally is a <Bloodfiend>, this unit applies 1 additional [BloomingThornsRodionFirst]\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\nJP :\n[StartBattle] 自分と最大体力が最も高い味方1名へ[BloodDinner]を最大20消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[BloomingThornsRodionFirst]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>"
+  },
+  {
+    "key": "1091101-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091101-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091101-levelList$[2].name",
+    "original": "물러가도록...",
+    "context": "EN :\nBegone...\nJP :\n下がりなさい…"
+  },
+  {
+    "key": "1091101-levelList$[2].desc",
+    "original": "[StartBattle] 자신과 최대 체력이 가장 높은 아군 1명에게 [BloodDinner]을 최대 20 소모하여, [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [BloomingThornsRodionFirst] 1 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration] 6 당 코인 위력 +1 (최대 2)</style>",
+    "context": "EN :\n[StartBattle] On self and 1 ally with the highest max HP: consume up to 20 [BloodDinner] and apply 1 [BloomingThornsRodionFirst] for every 10 [BloodDinner] this unit consumed (2 times per turn)\n- Prioritizes <Bloodfiend> allies\n- If the affected ally is a <Bloodfiend>, this unit applies 1 additional [BloomingThornsRodionFirst]\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>\nJP :\n[StartBattle] 自分と最大体力が最も高い味方1名へ[BloodDinner]を最大20消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、[BloomingThornsRodionFirst]1を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)</style>"
+  },
+  {
+    "key": "1091101-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091101-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091102-levelList$[0].name",
+    "original": "흩뿌리며 갈려나가라",
+    "context": "EN :\nIn Finely Ground Mistfall\nJP :\n撒き散らし、磨り潰されよ"
+  },
+  {
+    "key": "1091102-levelList$[0].desc",
+    "original": "[StartBattle] 자신과 최대 체력이 가장 낮은 아군 1명에게 [Enhancement] 1 부여, [BloodDinner]을 최대 30 소모하여 [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [Enhancement] 1, [BloomingThornsRodionFirst] 2 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음",
+    "context": "EN :\n[StartBattle] On self and 1 ally with the least max HP: apply 1 [Enhancement], consume up to 30 [BloodDinner] and apply 1 [BloomingThornsRodionFirst] for every 10 [BloodDinner] this unit consumed (2 times per turn)\n- Prioritizes <Bloodfiend> allies\n- If the affected ally is a <Bloodfiend>, this unit applies additional 1 [Enhancement] and 2 [BloomingThornsRodionFirst]\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\nJP :\n[StartBattle] 自分と最大体力が最も低い味方1名へ[Enhancement]1を付与。[BloodDinner]を最大30消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、 [Enhancement]1, [BloomingThornsRodionFirst]2を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る"
+  },
+  {
+    "key": "1091102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が1増加"
+  },
+  {
+    "key": "1091102-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "1091102-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1091102-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]1を付与"
+  },
+  {
+    "key": "1091102-levelList$[1].name",
+    "original": "흩뿌리며 갈려나가라",
+    "context": "EN :\nIn Finely Ground Mistfall\nJP :\n撒き散らし、磨り潰されよ"
+  },
+  {
+    "key": "1091102-levelList$[1].desc",
+    "original": "[StartBattle] 자신과 최대 체력이 가장 낮은 아군 1명에게 [Enhancement] 1을 부여, [BloodDinner]을 최대 30 소모하여 [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [Enhancement] 1, [BloomingThornsRodionFirst] 2 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>",
+    "context": "EN :\n[StartBattle] On self and 1 ally with the least max HP: apply 1 [Enhancement], consume up to 30 [BloodDinner] and apply 1 [BloomingThornsRodionFirst] for every 10 [BloodDinner] this unit consumed (2 times per turn)\n- Prioritizes <Bloodfiend> allies\n- If the affected ally is a <Bloodfiend>, this unit applies additional 1 [Enhancement] and 2 [BloomingThornsRodionFirst]\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\nJP :\n[StartBattle] 自分と最大体力が最も低い味方1名へ[Enhancement]1を付与。[BloodDinner]を最大30消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、 [Enhancement]1, [BloomingThornsRodionFirst]2を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>"
+  },
+  {
+    "key": "1091102-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 <style=\"highlight\">2</style> 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が<style=\"highlight\">2</style>増加\n"
+  },
+  {
+    "key": "1091102-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 <style=\"highlight\">2</style> 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が<style=\"highlight\">2</style>増加"
+  },
+  {
+    "key": "1091102-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091102-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091102-levelList$[2].name",
+    "original": "흩뿌리며 갈려나가라",
+    "context": "EN :\nIn Finely Ground Mistfall\nJP :\n撒き散らし、磨り潰されよ"
+  },
+  {
+    "key": "1091102-levelList$[2].desc",
+    "original": "[StartBattle] 자신과 최대 체력이 가장 낮은 아군 1명에게 [Enhancement] 1 부여, [BloodDinner]을 최대 30 소모하여 [BloodDinner] 10당 [BloomingThornsRodionFirst] 1 부여 (턴 당 최대 2회)\n- <혈귀>인 아군에게 우선 부여\n- 부여한 아군이 <혈귀>면, [Enhancement] 1, [BloomingThornsRodionFirst] 2 추가 부여\n- [BloodDinner]을 소모하지 못했으면, [Laceration] 5 얻음\n<style=\"highlight\">[WhenUse] 대상의 [Laceration] 6 당, 코인 위력 +1 (최대 2)</style>",
+    "context": "EN :\n[StartBattle] On self and 1 ally with the least max HP: apply 1 [Enhancement], consume up to 30 [BloodDinner] and apply 1 [BloomingThornsRodionFirst] for every 10 [BloodDinner] this unit consumed (2 times per turn)\n- Prioritizes <Bloodfiend> allies\n- If the affected ally is a <Bloodfiend>, this unit applies additional 1 [Enhancement] and 2 [BloomingThornsRodionFirst]\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>\nJP :\n[StartBattle] 自分と最大体力が最も低い味方1名へ[Enhancement]1を付与。[BloodDinner]を最大30消耗し、[BloodDinner]10につき[BloomingThornsRodionFirst]を1付与(1ターンにつき最大2回)\n- <血鬼>の味方に優先して付与\n- 付与した味方が<血鬼>なら、 [Enhancement]1, [BloomingThornsRodionFirst]2を追加で付与\n- [BloodDinner]を消耗できなければ、[Laceration]5を得る\n<style=\"highlight\">[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)</style>"
+  },
+  {
+    "key": "1091102-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091102-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091102-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091102-levelList$[2].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091103-levelList$[0].name",
+    "original": "축제는 끝날거야",
+    "context": "EN :\nThe Festival Will End\nJP :\n祝祭は終わるの"
+  },
+  {
+    "key": "1091103-levelList$[0].desc",
+    "original": "[BeforeUse] 자신의 [BloomingThornsRodionFirst]가 25 이상이면, '돈키호테류 경혈[TabExplain] 오의 피날레'로 발동됨\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 이번 턴과 다음 턴에 [FestivalFeverRodion] 3 + (자신의 [BloodDinner_Accumulation] 50 당 1) 부여 (최대 10)\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 [BloomingThornsRodionFirst] 3 부여",
+    "context": "EN :\n[BeforeUse] At 25+ [BloomingThornsRodionFirst], activate 'Ascendant Don Quixote Hardblood[TabExplain] Arts - The Finale' instead\n[WhenUse] To self and (highest Reson.) allies: apply (3 + (1 for every 50 [BloodDinner_Accumulation] by this unit) [FestivalFeverRodion] this turn and next turn (max 10)\n[WhenUse] To self and (highest Reson.) allies: apply 3 [BloomingThornsRodionFirst]\nJP :\n[BeforeUse] 自分の[BloomingThornsRodionFirst]が25以上なら、「ドンキホーテ流硬血[TabExplain]奥義 フィナーレ」として発動\n[WhenUse] 自分と味方(最大共鳴数)名へ今回と次のターンに[FestivalFeverRodion]3 + (自分の[BloodDinner_Accumulation]50につき1)を付与(最大10)\n[WhenUse] 自分と味方(最大共鳴数)名へ[BloomingThornsRodionFirst]3を付与"
+  },
+  {
+    "key": "1091103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が1増加"
+  },
+  {
+    "key": "1091103-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "1091103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1091103-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]1を付与"
+  },
+  {
+    "key": "1091103-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1091103-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]1を付与"
+  },
+  {
+    "key": "1091103-levelList$[1].name",
+    "original": "축제는 끝날거야",
+    "context": "EN :\nThe Festival Will End\nJP :\n祝祭は終わるの"
+  },
+  {
+    "key": "1091103-levelList$[1].desc",
+    "original": "[BeforeUse] 자신의 [BloomingThornsRodionFirst]가 25 이상이면, '돈키호테류 경혈[TabExplain] 오의 피날레'로 발동됨\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 이번 턴과 다음 턴에 [FestivalFeverRodion] 3 + (자신의 [BloodDinner_Accumulation] 50 당 1) 부여 (최대 10)\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 [BloomingThornsRodionFirst] 3 부여",
+    "context": "EN :\n[BeforeUse] At 25+ [BloomingThornsRodionFirst], activate 'Ascendant Don Quixote Hardblood[TabExplain] Arts - The Finale' instead\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] To self and (highest Reson.) allies: apply (3 + (1 for every 50 [BloodDinner_Accumulation] by this unit) [FestivalFeverRodion] this turn and next turn (max 10)\n[WhenUse] To self and (highest Reson.) allies: apply 3 [BloomingThornsRodionFirst]\nJP :\n[BeforeUse] 自分の[BloomingThornsRodionFirst]が25以上なら、「ドンキホーテ流硬血[TabExplain]奥義 フィナーレ」として発動\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>\n[WhenUse] 自分と味方(最大共鳴数)名へ今回と次のターンに[FestivalFeverRodion]3 + (自分の[BloodDinner_Accumulation]50につき1)を付与(最大10)\n[WhenUse] 自分と味方(最大共鳴数)名へ[BloomingThornsRodionFirst]3を付与"
+  },
+  {
+    "key": "1091103-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091103-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091103-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091103-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091103-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091103-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091104-levelList$[0].name",
+    "original": "돈키호테류 경혈 15식 양산",
+    "context": "EN :\nDon Quixote Hardblood Arts 15: Parasol\nJP :\nドンキホーテ流硬血15式日傘"
+  },
+  {
+    "key": "1091104-levelList$[0].desc",
+    "original": "[DuelCounter]\n[WhenUse] 자신을 제외하고 ([Laceration] x [Laceration] 횟수) 값이 가장 높은 아군 2명의 [Laceration] 횟수를 3 감소시키고, (감소 전 [Laceration] x 감소시킨 [Laceration] 횟수) 만큼 [BloodDinner] 증가\n - 이 효과로 [Laceration] 횟수가 0이 되면 [Laceration] 소멸\n[WinDuel] [BloomingThornsRodionFirst] 4 얻음",
+    "context": "EN :\n[DuelCounter]\n[WhenUse] Reduce [Laceration] Count by 3 for 2 other allies with the highest ([Laceration] Potency x Count) value, and increase [BloodDinner] by (pre-reduction [Laceration] Potency x Count reduced)\n  - If this effect reduces [Laceration] Count to 0, [Laceration] expires\n[WinDuel] Gain 4 [BloomingThornsRodionFirst]\nJP :\n[DuelCounter]\n[WhenUse] 自分を除く([Laceration] × [Laceration]回数)の値が最も高い味方2名の[Laceration]回数を3減少させ、(減少前の[Laceration] × 減少させた[Laceration]回数)だけ[BloodDinner]が増加\n - この効果で[Laceration]回数が0になると[Laceration]が消滅\n[WinDuel] [BloomingThornsRodionFirst]4を得る"
+  },
+  {
+    "key": "1091104-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "1091104-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "1091104-levelList$[1].name",
+    "original": "돈키호테류 경혈 15식 양산",
+    "context": "EN :\nDon Quixote Hardblood Arts 15: Parasol\nJP :\nドンキホーテ流硬血15式日傘"
+  },
+  {
+    "key": "1091104-levelList$[1].desc",
+    "original": "[DuelCounter]\n[WhenUse] 자신을 제외하고 ([Laceration] x [Laceration] 횟수) 값이 가장 높은 아군 2명의 [Laceration] 횟수를 3 감소시키고, (감소 전 [Laceration] x 감소시킨 [Laceration] 횟수) 만큼 [BloodDinner] 증가\n - 이 효과로 [Laceration] 횟수가 0이 되면 [Laceration] 소멸\n<style=\"highlight\"> - 대상 아군이 <혈귀>면, [Laceration] 횟수 추가 2 감소</style>\n[WinDuel] [BloomingThornsRodionFirst] 4 얻음",
+    "context": "EN :\n[DuelCounter]\n[WhenUse] Reduce [Laceration] Count by 3 for 2 other allies with the highest ([Laceration] Potency x Count) value, and increase [BloodDinner] by (pre-reduction [Laceration] Potency x Count reduced)\n  - If this effect reduces [Laceration] Count to 0, [Laceration] expires\n<style=\"highlight\">  - If the affected ally is a <Bloodfiend>, reduce their [Laceration] Count by 2 more</style>\n[WinDuel] Gain 4 [BloomingThornsRodionFirst]\nJP :\n[DuelCounter]\n[WhenUse] 自分を除く([Laceration] × [Laceration]回数)の値が最も高い味方2名の[Laceration]回数を3減少させ、(減少前の[Laceration] × 減少させた[Laceration]回数)だけ[BloodDinner]が増加\n - この効果で[Laceration]回数が0になると[Laceration]が消滅\n<style=\"highlight\"> - 対象の味方が<血鬼>なら、[Laceration]回数が追加で2減少</style>\n[WinDuel] [BloomingThornsRodionFirst]4を得る"
+  },
+  {
+    "key": "1091104-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091104-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091105-levelList$[0].name",
+    "original": "돈키호테류 경혈 오의 피날레",
+    "context": "EN :\nAscendant Don Quixote Hardblood Arts - The Finale\nJP :\nドンキホーテ流硬血奥義 フィナーレ"
+  },
+  {
+    "key": "1091105-levelList$[0].desc",
+    "original": "[WhenUse] 자신과 아군 (최대 공명 수)명에게 이번 턴과 다음 턴에 [FestivalFeverRodion] 5 + (자신의 [BloodDinner_Accumulation] 50 당 1) 부여 (최대 10)\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 [BloomingThornsRodionFirst] 5 부여\n[WhenUse] 자신의 [BloodDinner_Accumulation] 5 당 피해량 1% 증가 (최대 50%)\n[EndSkill] 자신의 [BloomingThornsRodionFirst] 전부 소모",
+    "context": "EN :\n[WhenUse] To self and (highest Reson.) allies: apply (5 + (1 for every 50 [BloodDinner_Accumulation] by this unit) [FestivalFeverRodion] this turn and next turn (max 10)\n[WhenUse] To self and (highest Reson.) allies: apply 5 [BloomingThornsRodionFirst]\n[WhenUse] Deal +1% more damage for every 5 [BloodDinner_Accumulation] by this unit (max 50%)\n[EndSkill] Consume all [BloomingThornsRodionFirst] on self\nJP :\n[WhenUse] 自分と味方(最大共鳴数)名へこのターンと次のターンに[FestivalFeverRodion]5 + (自分の[BloodDinner_Accumulation]50につき1)を付与(最大10)\n[WhenUse] 自分と味方(最大共鳴数)名へ[BloomingThornsRodionFirst]5を付与\n[WhenUse] 自分の[BloodDinner_Accumulation]5につき、ダメージ量が1%が増加(最大50%)\n[EndSkill] 自分の[BloomingThornsRodionFirst]を全て消耗"
+  },
+  {
+    "key": "1091105-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が1増加"
+  },
+  {
+    "key": "1091105-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "1091105-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "1091105-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "1091105-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "1091105-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "1091105-levelList$[1].name",
+    "original": "돈키호테류 경혈 오의 피날레",
+    "context": "EN :\nAscendant Don Quixote Hardblood Arts - The Finale\nJP :\nドンキホーテ流硬血奥義 フィナーレ"
+  },
+  {
+    "key": "1091105-levelList$[1].desc",
+    "original": "<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 이번 턴과 다음 턴에 [FestivalFeverRodion] 5 + (자신의 [BloodDinner_Accumulation] 50 당 1) 부여 (최대 10)\n[WhenUse] 자신과 아군 (최대 공명 수)명에게 [BloomingThornsRodionFirst] 5 부여\n[WhenUse] 자신의 [BloodDinner_Accumulation] 5 당 피해량 1% 증가 (최대 50%)\n[EndSkill] 자신의 [BloomingThornsRodionFirst] 전부 소모",
+    "context": "EN :\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] To self and (highest Reson.) allies: apply (5 + (1 for every 50 [BloodDinner_Accumulation] by this unit) [FestivalFeverRodion] this turn and next turn (max 10)\n[WhenUse] To self and (highest Reson.) allies: apply 5 [BloomingThornsRodionFirst]\n[WhenUse] Deal +1% more damage for every 5 [BloodDinner_Accumulation] by this unit (max 50%)\n[EndSkill] Consume all [BloomingThornsRodionFirst] on self\nJP :\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>\n[WhenUse] 自分と味方(最大共鳴数)名へこのターンと次のターンに[FestivalFeverRodion]5 + (自分の[BloodDinner_Accumulation]50につき1)を付与(最大10)\n[WhenUse] 自分と味方(最大共鳴数)名へ[BloomingThornsRodionFirst]5を付与\n[WhenUse] 自分の[BloodDinner_Accumulation]5につき、ダメージ量が1%が増加(最大50%)\n[EndSkill] 自分の[BloomingThornsRodionFirst]を全て消耗"
+  },
+  {
+    "key": "1091105-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 <style=\"highlight\">2</style> 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が<style=\"highlight\">2</style>増加\n"
+  },
+  {
+    "key": "1091105-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 <style=\"highlight\">2</style> 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が<style=\"highlight\">2</style>増加"
+  },
+  {
+    "key": "1091105-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091105-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091105-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1091105-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]2を付与<style=\"highlight\"></style>"
+  }
+]

@@ -1,0 +1,653 @@
+[
+  {
+    "key": "0-content",
+    "original": "베르길리우스에 의하면.",
+    "context": "EN :\nAccording to Vergilius...\nJP :\nヴェルギリウスによると。"
+  },
+  {
+    "key": "1-content",
+    "original": "그들은 원래 해결사 사무소를 차렸던 곳인 V사의 뒷골목으로 돌아가기 위해 자금을 모은다는 듯 하다.",
+    "context": "EN :\nThe people at the boatworks have been saving up for a trip back to V Corp's Backstreets where their Fixer Office used to be.\nJP :\n彼らは元々フィクサー事務所を構えていた場所のV社の裏路地に戻るため、資金を集めているようだ。"
+  },
+  {
+    "key": "2-content",
+    "original": "W사의 워프 열차가 고장나는 일을 한 번 겪고 나니, 차라리 차량을 통해 움직이는 게 나을 것 같다는 생각이 들었다는 듯 하다.",
+    "context": "EN :\nAfter experiencing a WARP train malfunction, they apparently decided they'd rather take the car.\nJP :\nW社のワープ列車が故障する事故を一度経験したので、いっそ車で移動する方がマシだという考えになったらしい。"
+  },
+  {
+    "key": "3-content",
+    "original": "…인격들을 통해 알게 된 사실을 말해줘야 하는 건 아닐까 했지만, 모르는 게 차라리 나을지도 모른다는 생각이 들어 가만히 있기로 했다.",
+    "context": "EN :\n...I considered telling them the truth I learned from a number of Identities, but I figured ignorance is bliss and kept my figurative mouth shut.\nJP :\n…人格を通じて知った事実を言うべきじゃないかとは思ったけど、知らない方がいっそマシじゃないかとも思ったので何も言わないことにした。"
+  },
+  {
+    "key": "4-content",
+    "original": "…어쩌면 내가 한 말이 또 한 번 나쁜 결과를 불러올 수도 있다는 공포심이 들어서였을지도 모른다.",
+    "context": "EN :\n...Maybe I feared that the things I said could bring bad results again.\nJP :\n…もしかすると私が言葉を発することによって、また良くない結果を招くかもしれないという恐怖が湧き上がってきたからかもしれない。"
+  },
+  {
+    "key": "5-content",
+    "original": "이스마엘과의 사이가 이렇게 된 것 처럼.",
+    "context": "EN :\nLike how Ishmael has fallen out with me.\nJP :\nイシュメールとの仲がこうなってしまったように。"
+  },
+  {
+    "key": "6-place",
+    "original": "어금니 보트 센터 입구",
+    "context": "EN :\nMolar Boatworks Entrance\nJP :\n奥歯ボートセンター 入口"
+  },
+  {
+    "key": "6-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "6-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "6-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "6-content",
+    "original": "자… 걸려라…",
+    "context": "EN :\nC'mon... Get working...\nJP :\nさぁ…掛かって…。"
+  },
+  {
+    "key": "7-model",
+    "original": "올가",
+    "translation": "奥尔佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "올가",
+    "context": "EN :\nOlga\nJP :\nオルガ"
+  },
+  {
+    "key": "7-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "7-content",
+    "original": "오~! 걸렸다, 걸렸어!",
+    "context": "EN :\nOhh, we've got 'em now!\nJP :\nお～！掛かった掛かった！"
+  },
+  {
+    "key": "8-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "8-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "8-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "8-content",
+    "original": "휴… 이걸로 완성이네요.",
+    "context": "EN :\nPhew... Looks like our job's done.\nJP :\nふぅ…これで完成ですね。"
+  },
+  {
+    "key": "9-model",
+    "original": "레인",
+    "translation": "雷恩",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "레인",
+    "context": "EN :\nRain\nJP :\nレイン"
+  },
+  {
+    "key": "9-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "9-content",
+    "original": "마침… 밀물 때네요. 지금 출발하실 수 있을 겁니다.",
+    "context": "EN :\nAnd... lucky you, the tide is in. You should be able to set off now.\nJP :\nちょうど…満ち潮ですね。今すぐ出発できそうです。"
+  },
+  {
+    "key": "10-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "10-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "10-content",
+    "original": "자, 그럼… 보트 형태로 전환!",
+    "context": "EN :\nNow, then... Switch to boat mode!\nJP :\nじゃあ、はい…ボート形態に転換！"
+  },
+  {
+    "key": "11-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "11-content",
+    "original": "오오옷?! 이렇게 변하는군!",
+    "context": "EN :\nOooh?! It transforms thusly, then!\nJP :\nおぉぉっ！？こんな風に変わるのであるな！"
+  },
+  {
+    "key": "12-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "12-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "12-content",
+    "original": "이 차량을 설계한 분이 존경스럽네요. 사실 저도 듣기만 들었지, 실제로 이렇게 작동하는 건 처음 봐서…",
+    "context": "EN :\nI've got to say, I have great admiration for whoever designed this vehicle. I heard stories of it, but to see it in motion firsthand...\nJP :\nこの車両を設計した人って凄いですね。実は私も聞いたことしかなくて、実際にこうやって動くのは初めて見たんで…。"
+  },
+  {
+    "key": "13-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "13-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "13-content",
+    "original": "아마 이 차량의 핵심만 건재하다면, 다른 형태로도 충분히 바뀔 수 있을 걸요?",
+    "context": "EN :\nIf you tried, it could most certainly change into other forms, as long as the core is intact.\nJP :\nきっとこの車の核さえ健在なら、他の形態にも十分変形できると思いますよ？"
+  },
+  {
+    "key": "14-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "14-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "14-content",
+    "original": "어떻게 이런 코어가 존재할 수 있는 거죠? 정말… 대단하다는 말 밖에는 나오지가 않네요.",
+    "context": "EN :\nHow can such a core be real? I'm just... amazed, for lack of a better term.\nJP :\nどうしてこんなコアが存在し得るんですか？本当に…凄いって言葉しか出て来ませんね。"
+  },
+  {
+    "key": "15-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "15-content",
+    "original": "네, 파우스트는 대단합니다.",
+    "context": "EN :\nIndeed, Faust is amazing.\nJP :\nはい、ファウストは凄いのです。"
+  },
+  {
+    "key": "16-model",
+    "original": "레인",
+    "translation": "雷恩",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "레인",
+    "context": "EN :\nRain\nJP :\nレイン"
+  },
+  {
+    "key": "16-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "16-content",
+    "original": "자, 그럼… 다들 탑승하세요. 물가에 가서 배로 다시 전환하면 될 거예요.",
+    "context": "EN :\nAlright, now... Get in your vehicle. You can switch the mode again once you're in the water.\nJP :\nさぁ、それでは…皆さんご搭乗ください。水辺に寄って、船にまた転換すれば良いはずです。"
+  },
+  {
+    "key": "17-place",
+    "original": "대호수",
+    "context": "EN :\nThe Great Lake\nJP :\n大湖"
+  },
+  {
+    "key": "17-content",
+    "original": "그렇게 우리는 배의 모양을 한 메피스토펠레스 안에서 천천히 올라오는 수위에 맞추어 조금씩 나아가기 시작했다.",
+    "context": "EN :\nAboard the now boat-shaped Mephistopheles, we forged ahead, into the ever-rising waters.\nJP :\nそうして私たちは船の形をしたメフィストフェレスの中で、ゆっくりとせり上がってくる水位に合わせて少しずつ進み始めた。"
+  },
+  {
+    "key": "18-content",
+    "original": "이스마엘과의 사이는 여전히 해결되지 않았고, 앞으로 어떻게 해야 할 지도 고민이지만…",
+    "context": "EN :\nMy relationship with Ishmael was still precarious, which was something I still wasn't sure what to do about...\nJP :\nイシュメールとの関係はまだ解決してないし、これからどうするべきかというのも悩みの種だけど…。"
+  },
+  {
+    "key": "19-content",
+    "original": "우선은 이스마엘을 챙겨주려고 노력하는 몇몇 수감자들이 있으니, 그동안 대책을 더 떠올려봐야 할 것 같다.",
+    "context": "EN :\nBut since some of the Sinners were also trying to be supportive towards Ishmael, I decided that it would be best if I tried to come up with a solution in the meantime.\nJP :\nとりあえずはイシュメールを支えてあげようと努力する囚人が何人かいるから、その間に対策を考えてみないと。"
+  },
+  {
+    "key": "20-content",
+    "original": "대호수로 나아가면, 또 무언가를 알 수 있을지도 모르니까.",
+    "context": "EN :\nMaybe I'll find out more the further we get from the shores of the Great Lake.\nJP :\n大湖に進んでいけば、また何か分かるかもしれないから。"
+  },
+  {
+    "key": "21-place",
+    "original": "어금니 보트 센터 항구",
+    "context": "EN :\nMolar Boatworks Bay\nJP :\n奥歯ボートセンター 港口"
+  },
+  {
+    "key": "21-model",
+    "original": "레인",
+    "translation": "雷恩",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "레인",
+    "context": "EN :\nRain\nJP :\nレイン"
+  },
+  {
+    "key": "21-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "21-content",
+    "original": "음, 잘 나아가네요.",
+    "context": "EN :\nMm. It's sailing, all right.\nJP :\nうん、ちゃんと進んでますね。"
+  },
+  {
+    "key": "22-model",
+    "original": "올가",
+    "translation": "奥尔佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "22-teller",
+    "original": "올가",
+    "context": "EN :\nOlga\nJP :\nオルガ"
+  },
+  {
+    "key": "22-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "22-content",
+    "original": "그럼 우리 이제 돈 받아서 외식하러 갈 수 있는 거야?",
+    "context": "EN :\nDoes that mean we can get paid and go out for a meal now?\nJP :\nじゃあアタシたち、これでカネ受け取って外食しに行けんのか？"
+  },
+  {
+    "key": "23-model",
+    "original": "레인",
+    "translation": "雷恩",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "23-teller",
+    "original": "레인",
+    "context": "EN :\nRain\nJP :\nレイン"
+  },
+  {
+    "key": "23-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "23-content",
+    "original": "돈이라면 아까 받았어요. 계약 이행 완료하자마자 제뱌찌 협회에서 보낸 배송 전문 해결사가 오시더니, 바로 잔금을 치뤄 주시던데요.",
+    "context": "EN :\nWe actually got our money a minute ago. As soon as we fulfilled our end of the contract, a delivery Fixer from the Devyat Association came by and paid us the remainder.\nJP :\nお金はさっき受け取りました。契約履行が完了してすぐ、ヂェーヴィチ協会から送られた配送専門フィクサーがいらっしゃって、すぐに残金を支払ってくれましたけど。"
+  },
+  {
+    "key": "24-model",
+    "original": "올가",
+    "translation": "奥尔佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "24-teller",
+    "original": "올가",
+    "context": "EN :\nOlga\nJP :\nオルガ"
+  },
+  {
+    "key": "24-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "24-content",
+    "original": "오~ 생각보다 어마어마한 회사였는데?",
+    "context": "EN :\nOho~ Our contractor turned out to be a pretty big deal, huh?\nJP :\nお～思ってたよりスッゲェ会社だったね？"
+  },
+  {
+    "key": "25-model",
+    "original": "올가",
+    "translation": "奥尔佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "25-teller",
+    "original": "올가",
+    "context": "EN :\nOlga\nJP :\nオルガ"
+  },
+  {
+    "key": "25-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "25-content",
+    "original": "크으~ 좋아! 잔뜩 벌었으니, 오늘은 크<size=110%>랲</size>게 말고 오랜만에 돼지 고기 어때? 삼겹살로?",
+    "context": "EN :\nHot damn, now that's a catch! How about we take a break from trash crabs and splurge for some pork? Pork belly barbecue!\nJP :\nくぅ～よし！どっさり稼いだし、今日はクラップ蟹じゃなくて久々に豚肉はどうだ？サムギョプサルで！"
+  },
+  {
+    "key": "26-model",
+    "original": "레인",
+    "translation": "雷恩",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "26-teller",
+    "original": "레인",
+    "context": "EN :\nRain\nJP :\nレイン"
+  },
+  {
+    "key": "26-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "26-content",
+    "original": "좋죠, 누님.",
+    "context": "EN :\nSounds good, Big Sis.\nJP :\n良いですね、姐さん。"
+  },
+  {
+    "key": "27-model",
+    "original": "올가",
+    "translation": "奥尔佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "올가",
+    "context": "EN :\nOlga\nJP :\nオルガ"
+  },
+  {
+    "key": "27-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "27-content",
+    "original": "하하하! …그런데, 미카.",
+    "context": "EN :\nHahaha! ...By the way, Mika?\nJP :\nははは！…ところで、ミカ。"
+  },
+  {
+    "key": "28-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "28-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "28-content",
+    "original": "네?",
+    "context": "EN :\nYes?\nJP :\nはい？"
+  },
+  {
+    "key": "29-model",
+    "original": "올가",
+    "translation": "奥尔佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "29-teller",
+    "original": "올가",
+    "context": "EN :\nOlga\nJP :\nオルガ"
+  },
+  {
+    "key": "29-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "29-content",
+    "original": "이번 개조 목록에… 잠수 기능도 있었어?",
+    "context": "EN :\nWhen did we add a submersible mode to the modifications?\nJP :\n今回の改造リストに…潜水機能もあったか？"
+  },
+  {
+    "key": "30-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "30-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "30-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "30-content",
+    "original": "그럴리가…요?",
+    "context": "EN :\nWe... didn't?\nJP :\nそんなわけない…ですよね？"
+  },
+  {
+    "key": "31-model",
+    "original": "레인",
+    "translation": "雷恩",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "31-teller",
+    "original": "레인",
+    "context": "EN :\nRain\nJP :\nレイン"
+  },
+  {
+    "key": "31-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "31-content",
+    "original": "저거 기우는 것 같은데…",
+    "context": "EN :\nThe ship looks like it's listing...\nJP :\nあれ傾いてませんか…。"
+  },
+  {
+    "key": "32-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "32-content",
+    "original": "야! 빨리 물 빼!",
+    "context": "EN :\nOi! Get the water out, quick!\nJP :\nおい！早く水抜け！"
+  },
+  {
+    "key": "33-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "33-content",
+    "original": "양동이! 양동이는 어딨죠?!",
+    "context": "EN :\nBuckets! Where are the buckets?!\nJP :\nバケツ！バケツはどこですか！？"
+  },
+  {
+    "key": "34-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "34-content",
+    "original": "구멍을 찾았소! 이곳을…",
+    "context": "EN :\nI have found a hole! This must be...\nJP :\n穴を見つけき！ここを…。"
+  },
+  {
+    "key": "35-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "35-content",
+    "original": "가. 관.",
+    "context": "EN :\nT. D.\nJP :\n見・物。"
+  },
+  {
+    "key": "36-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "36-content",
+    "original": "출발할게, 보글보글.",
+    "context": "EN :\nWe're off, glub glub.\nJP :\n出発するね、ぶくぶく。"
+  },
+  {
+    "key": "37-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "37-content",
+    "original": "하…",
+    "context": "EN :\nSigh...\nJP :\nはぁ…。"
+  },
+  {
+    "key": "38-model",
+    "original": "레인",
+    "translation": "雷恩",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "38-teller",
+    "original": "레인",
+    "context": "EN :\nRain\nJP :\nレイン"
+  },
+  {
+    "key": "38-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "38-content",
+    "original": "…구명보트 꺼내올게요.",
+    "context": "EN :\n...I'll get the lifeboat.\nJP :\n…救命ボート、出してきます。"
+  },
+  {
+    "key": "39-model",
+    "original": "미카",
+    "translation": "美香",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "39-teller",
+    "original": "미카",
+    "context": "EN :\nMika\nJP :\nミカ"
+  },
+  {
+    "key": "39-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "39-content",
+    "original": "위약금 낼 준비나 해야겠네요…",
+    "context": "EN :\nGuess we should also prepare to pony up penalty fees...\nJP :\n違約金を払う準備をしておかないとですね…。"
+  },
+  {
+    "key": "40-model",
+    "original": "올가",
+    "translation": "奥尔佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "40-teller",
+    "original": "올가",
+    "context": "EN :\nOlga\nJP :\nオルガ"
+  },
+  {
+    "key": "40-title",
+    "original": "어금니 보트 센터",
+    "context": "EN :\nMolar Boatworks\nJP :\n奥歯ボートセンター"
+  },
+  {
+    "key": "40-content",
+    "original": "하하… 조졌군.",
+    "context": "EN :\nHaha... We're so screwed.\nJP :\nはは…水の泡ってか。"
+  },
+  {
+    "key": "43-content",
+    "original": "…어떻게든 물을 빼고, 카론이 노를 저어준 덕에…",
+    "context": "EN :\n...With our frantic attempts to drain the bus, and Charon's skillful rowing...\nJP :\n…どうにか水を抜いて、カロンがオールを漕いでくれたおかげで、"
+  },
+  {
+    "key": "44-content",
+    "original": "우리는 다행히 센터로 돌아가 재 수리받은 뒤 출항할 수 있었고…",
+    "context": "EN :\nWe managed to get back to the boatworks and have the bus repaired...\nJP :\n私たちは無事にセンターへ戻って再修理を受けてから出航することができて…。"
+  },
+  {
+    "key": "45-content",
+    "original": "우리는 이렇게, 어떻게든 대호수를 향해 본격적인 항해를 시작하게 되었다…",
+    "context": "EN :\nWith that, our voyage on the Great Lake began somehow in earnest...\nJP :\nこうして私たちは大湖に向け、やっとのことで本格的な航海を開始することができたのであった…。"
+  }
+]

@@ -1,0 +1,633 @@
+[
+  {
+    "key": "0-content",
+    "original": "K사에서의 일을 마무리하고 보름 정도 지났을까.",
+    "context": "EN :\nIt’s been about two weeks since we took care of the job at K Corp.\nJP :\nK社での出来事を片付けてから半月くらい経った頃だろうか。"
+  },
+  {
+    "key": "1-content",
+    "original": "새삼스럽게 알게 된 사실은, 둥지 안에서 차를 타고 어딘가로 간다는 것이 아주 지독한 일이라는 것이다.",
+    "context": "EN :\nAnd the immense dullness of traveling through a Nest by car was just starting to sink in.\nJP :\n今更ながら知った事実だが、巣の中で車に乗ってどこかへ行くということはとてもおぞましいことである。"
+  },
+  {
+    "key": "2-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "2-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "2-content",
+    "original": "<분명… 30분 전에도 이 풍경이었던 것 같은데…>",
+    "context": "EN :\n<…Pretty sure I saw a road that looked exactly like this one 30 minutes ago.>\nJP :\n<絶対に…30分前もこんな風景だったと思うんだけど…。>"
+  },
+  {
+    "key": "3-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "3-content",
+    "original": "둥지와 뒷골목의 도로를 비교해서는 곤란합니다.",
+    "context": "EN :\nThe way roads are built in the Nests and Backstreets is rather dissimilar.\nJP :\n巣と裏路地の道路を比較されては困ります。"
+  },
+  {
+    "key": "4-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "4-content",
+    "original": "뒷골목에서는 통하는 길만 안다면 골목 구석구석을 질주하며 갔을 수 있었겠지만…",
+    "context": "EN :\nIf we were navigating the Backstreets, we would have been able to find a shortcut through the alleyways and corners…\nJP :\n裏路地では道さえ知っていれば、裏路地の隅々を疾走しながら進むことはできたでしょうけど…。"
+  },
+  {
+    "key": "5-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "5-content",
+    "original": "보통 둥지 안에서 차를 타고 어딘가를 간다는 것은, 어마어마하게 끔찍한 교통체증까지 감안하겠다는 뜻이니까요.",
+    "context": "EN :\nBut navigating a Nest in an automobile means driving through this absolutely abominable traffic congestion.\nJP :\n普通、巣の中で車に乗ってどこかへ行くということは、過酷極まりない交通渋滞まで勘案するという意味ですからね。"
+  },
+  {
+    "key": "6-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "6-content",
+    "original": "그래서 돈 좀 주머니에 짤랑거린다 싶으면 W사 워프 열차도 타고 그러는 거 아니겠어~",
+    "context": "EN :\nI guess that’s why people with cash to spare spend it on W Corp's WARP trains and such~\nJP :\nだからちょっくりお財布がパンパンなら、W社ワープ列車にでも乗ろうとするんじゃないの～。"
+  },
+  {
+    "key": "7-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "7-content",
+    "original": "워프 열차는…",
+    "context": "EN :\nThe WARP trains, they are...\nJP :\nワープ列車は…。"
+  },
+  {
+    "key": "8-content",
+    "original": "거울 세계에서 보았던 W사 워프 열차가 떠올랐는지, 버스 안이 잠시 숙연 해졌다.",
+    "context": "EN :\nThe bus fell silent, as though everyone seemed to simultaneously recall the WARP train they saw in the Mirror Worlds.\nJP :\n鏡の世界で観たW社ワープ列車が思い浮かんだのか、バスの中がしばらく静まりかえった。"
+  },
+  {
+    "key": "9-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "9-content",
+    "original": "저, 전 역시… 버스가 나은 것 같네요…",
+    "context": "EN :\nI-I think I prefer riding the bus…\nJP :\nぼ、僕はやっぱり…バスの方が良いと思いますね…。"
+  },
+  {
+    "key": "10-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "10-content",
+    "original": "동의한다.",
+    "context": "EN :\nD'accord.\nJP :\n同意する。"
+  },
+  {
+    "key": "11-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "11-content",
+    "original": "차라리 히스처럼 속 편하게 자기라도 하자. 창 밖만 보고 있다가는 지루해 죽겠으니까.",
+    "context": "EN :\nWhy don’t we all take a nice little nap like Heath? I’m bored to death just staring out the window.\nJP :\nいっそヒースみたいに気楽に寝ちゃいましょ。窓の外ばっか見てたら退屈で死んじゃいそうだし。"
+  },
+  {
+    "key": "12-content",
+    "original": "우리는 그렇게 버스 안에서 며칠을 보내다, 아주 조금씩 전진하며…",
+    "context": "EN :\nSo we spent days upon days of boredom on the bus, making very little progress…\nJP :\n私たちはそうしてバスの中で何日も過ごし、ほんの少しずつ前進しながら…。"
+  },
+  {
+    "key": "13-content",
+    "original": "어디론가로 통하는 듯한 터널을 들어갈 수 있었다.",
+    "context": "EN :\nToward a tunnel that seemed to lead somewhere.\nJP :\nどこかに通じてそうなトンネルに入った。"
+  },
+  {
+    "key": "14-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "14-content",
+    "original": "거의 다 왔군요. 이 터널만 지나면 곧 길이 틀 겁니다.",
+    "context": "EN :\nWe’re almost there. The road will free up once we exit this tunnel.\nJP :\nほぼ到着しましたね。このトンネルさえ通れば、まもなく道が開けるでしょう。"
+  },
+  {
+    "key": "15-content",
+    "original": "그 말처럼 터널을 지나자 눈에 띄게 차량도 줄어들었고, 조금은 속도를 내어 전진 할 수도 있게 되었다.",
+    "context": "EN :\nJust as Faust said, the traffic jam appeared to visibly improve—allowing us to make actual progress.\nJP :\nその言葉通り、トンネルを抜けると車の量が目に見えて減っており、少しは速度を上げて前進できるようにもなった。"
+  },
+  {
+    "key": "16-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "16-content",
+    "original": "<다행이네. 아직 밖은 제대로 안 보이지만 목적지에 거의 다 왔다니…>",
+    "context": "EN :\n<That’s good. I can’t see much yet, but I’m glad we’re almost there…>\nJP :\n<よかった。まだ外はちゃんと見えないけど、目的地にはほぼ到着したかぁ…。>"
+  },
+  {
+    "key": "17-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "17-content",
+    "original": "<그러고보니 목적지는…>",
+    "context": "EN :\n<Speaking of which, our destination was…>\nJP :\n<そういえば目的地は…。>"
+  },
+  {
+    "key": "18-content",
+    "original": "그렇다, 이번에도 우리는 목적지를 모른 채 길잡이의 일방적인 안내에 따라 어디론가로 향하고 있었던 것이다.",
+    "context": "EN :\nYes, indeed. Once again, we were being blindly led along by our guide to who knows where.\nJP :\nそうだ。今回も私たちは目的地を知らないまま、案内人の一方的な案内に従ってどこかへと向かっていたのだった。"
+  },
+  {
+    "key": "19-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "19-content",
+    "original": "<이제… 슬슬 목적지를 이야기 해주고 다니면 좋을 것 같은데.>",
+    "context": "EN :\n<Don’t you think… it’s about time he started telling us where we’re going?>\nJP :\n<なんというか…そろそろ目的地を話してから移動してくれると嬉しいんだけど。>"
+  },
+  {
+    "key": "20-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "20-content",
+    "original": "단테 씨가 목적지를 묻는군요.",
+    "context": "EN :\nDante is asking where our destination is.\nJP :\nダンテさんが目的地を尋ねていますね。"
+  },
+  {
+    "key": "21-content",
+    "original": "…정확하게는 미리 좀 말하고 출발하면 안되겠냐는 이야기였지만, 넘어가기로 했다.",
+    "context": "EN :\n…I was asking if he could start telling us where we’re headed before we leave, but I thought better of it.\nJP :\n…正確には、そろそろあらかじめ話してもらってから出発しちゃ駄目なのかという話だったが、そこは置いておくことにした。"
+  },
+  {
+    "key": "22-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "22-content",
+    "original": "이번 목적지는…",
+    "context": "EN :\nOur current destination is…\nJP :\n今回の目的地は…。"
+  },
+  {
+    "key": "23-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "23-content",
+    "original": "아. 최종 목적지는, U사에 위치한 로보토미 지부입니다.",
+    "context": "EN :\nAh. Our final destination is a Lobotomy Corp. branch located at U Corp.\nJP :\nあぁ。最終目的地は、U社に位置したロボトミー支部です。"
+  },
+  {
+    "key": "24-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "24-content",
+    "original": "…!",
+    "context": "EN :\n...!\nJP :\n…！"
+  },
+  {
+    "key": "25-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "25-content",
+    "original": "으으음… 뭐야, 이스. 자다가 깼어? 갑자기 움찔거려서 놀랐잖아.",
+    "context": "EN :\nMmmh… What was that, Ishy? You up? Ya spooked me.\nJP :\nうぅうん…どしたの、イシュ。起きたの？急にビクってしたからびっくりしたじゃない。"
+  },
+  {
+    "key": "26-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "26-content",
+    "original": "아… 죄송해요.",
+    "context": "EN :\nOh… Sorry.\nJP :\nあ…すみません。"
+  },
+  {
+    "key": "27-content",
+    "original": "갑자기 흠칫거린 이스마엘의 상태가 궁금하기는 했지만… 우선 하던 이야기를 이어가기로 했다.",
+    "context": "EN :\nI wasn't sure why Ishmael suddenly jolted, but… I decided to carry on with our conversation for now.\nJP :\n急にビクッとしたイシュメールの様子が気になりはしたが…とりあえずは先程の話を続けることにした。"
+  },
+  {
+    "key": "28-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "28-content",
+    "original": "<잠깐, 최종 목적지라는 건…>",
+    "context": "EN :\n<Wait, so by our final destination, you mean…>\nJP :\n<待てよ、最終目的地ってことは…。>"
+  },
+  {
+    "key": "29-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "29-content",
+    "original": "지금 우리는 경유지를 향해 갑니다.",
+    "context": "EN :\nWe are currently headed to a temporary stop.\nJP :\n今、我々は経由地へと向かっております。"
+  },
+  {
+    "key": "30-content",
+    "original": "베르길리우스가 그렇게 말하는 순간, 버스는 기다란 터널에서 빠져나왔고…",
+    "context": "EN :\nJust as Vergilius finished his sentence, the bus emerged from the lengthy tunnel…\nJP :\nヴェルギリウスがそう言った瞬間、バスは長いトンネルを抜け出し…。"
+  },
+  {
+    "key": "31-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "31-content",
+    "original": "우와앗!",
+    "context": "EN :\nWoahhh!\nJP :\nうわぁっ！"
+  },
+  {
+    "key": "32-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "32-content",
+    "original": "저건…!",
+    "context": "EN :\nThat’s…!\nJP :\nあれは…！"
+  },
+  {
+    "key": "33-content",
+    "original": "갑자기 밝아진 창문 밖을 바라보자…",
+    "context": "EN :\nI looked to the window, which had suddenly turned bright...\nJP :\n急に明るくなった窓の外を見ると…。"
+  },
+  {
+    "key": "34-content",
+    "original": "거기에는, 지금껏 보지 못했던 아름다운 모래사장과 해변이 펼쳐져 있었다.",
+    "context": "EN :\nAnd the cleanest sandy beach and the most turquoise blue ocean I had ever seen graced my eyes.\nJP :\nそこには、今まで見たこともないような美しい砂浜と海が拡がっていた。"
+  },
+  {
+    "key": "35-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "35-content",
+    "original": "저것은 대, 대호수가 아니오?!",
+    "context": "EN :\nDo I behold the G-Great Lake yonder?!\nJP :\nあれは、た、大湖ではありませぬか！？"
+  },
+  {
+    "key": "36-content",
+    "original": "돈키호테의 흥분에 젖은 목소리에 의자에서 가볍게 잠들었던 수감자들도 하나둘 깨어나기 시작했고.",
+    "context": "EN :\nWith Don Quixote’s enthusiastic exclamation, Sinners began waking up from their naps one by one.\nJP :\nドンキホーテの興奮に満ちた声で、椅子で軽く寝ていた囚人たちも一人二人起き始めた。"
+  },
+  {
+    "key": "37-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "37-content",
+    "original": "…햐, 이거 얼마만에 보는 광경이야?",
+    "context": "EN :\n…Whew, now that's a sight I've not seen in a long time!\nJP :\n…ひゃあ。これ、いつぶりに見る光景だ？"
+  },
+  {
+    "key": "38-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "38-content",
+    "original": "어머, 그렉. 자기는 와봤던 거야? 나는 말만 들었지 한 번도 와본 적 없는데…",
+    "context": "EN :\nOh Greg, darling! You’ve been here before? I’ve only ever heard of this place, never been myself…\nJP :\nあら、グレッグ。ダーリンは来たことあるの？私は話に聞いたことならあるけど、一度も来たことなくて…。"
+  },
+  {
+    "key": "39-content",
+    "original": "수감자들은 저마다 바다에 관해서 이것저것 떠들기 시작했다.",
+    "context": "EN :\nThe Sinners each began excitedly chattering about the sea.\nJP :\n囚人は各々、海に関してあれこれ騒ぎ立て始めた。"
+  },
+  {
+    "key": "40-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "40-content",
+    "original": "아니… 잠깐… 벌써. 내 차례라고…?",
+    "context": "EN :\nWait, wait… It can't be my turn already...!\nJP :\nいや…ちょっと…もうそんな。私の番なの…？"
+  },
+  {
+    "key": "41-content",
+    "original": "한 명을 제외한다면, 그랬다.",
+    "context": "EN :\nExcept for one, that is.\nJP :\n一名を除けば、そうだった。"
+  },
+  {
+    "key": "42-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "42-content",
+    "original": "아직… 다들 준비가 안 됐는데…",
+    "context": "EN :\nI… No, we're still not ready for this...\nJP :\nまだ…みんな準備できてないのに…。"
+  },
+  {
+    "key": "43-model",
+    "original": "단테2",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "43-content",
+    "original": "<이스마엘… 괜찮아?>",
+    "context": "EN :\n<Ishmael… you good?>\nJP :\n<イシュメール…大丈夫？>"
+  },
+  {
+    "key": "44-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "44-content",
+    "original": "아, 아뇨. 어… 잠시…만요. 생각을 좀 할 게 있어서요…",
+    "context": "EN :\nN-no. Uh… give me a moment… I need some time to think…\nJP :\nい、いえ。あ…ちょっと…待ってください。ちょっと考え事をしたいので…。"
+  },
+  {
+    "key": "45-content",
+    "original": "갑작스레 분위기가 어두워진 이스마엘이 여전히 신경은 쓰였지만, 언제나 똑 부러졌던 이스마엘이기에 큰 문제는 없을 거라고 여겼다.",
+    "context": "EN :\nWhile I was still worried about Ishmael’s sudden gloominess, I had faith that she would be okay. She was always on top of things, after all.\nJP :\n急に雰囲気が暗くなったイシュメールのことは気掛かりだが、いつもしっかり者のイシュメールには大きな問題が無いだろうと思った。"
+  },
+  {
+    "key": "46-content",
+    "original": "그보다, 한층 흥분된 버스 내부의 열기가 더 신경 쓰이기도 했고.",
+    "context": "EN :\nBesides, my attention was drawn to the bubbling enthusiasm that seemed to have possessed the Sinners.\nJP :\nそれよりかは、さらに盛り上がったバス内の狂熱の方が気掛かりだったし。"
+  },
+  {
+    "key": "47-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "47-content",
+    "original": "그, 그러면 우리는 대호수로 가는 것이오?!",
+    "context": "EN :\nS-so, we are journeying toward the Great Lake?!\nJP :\nそ、それでは私たちは大湖に行くのでありますか！？"
+  },
+  {
+    "key": "48-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "48-content",
+    "original": "대호수는… 듣기만 해보고 실제로 본 적은 없었는데… 이런 모습이었군요…",
+    "context": "EN :\nI’ve only heard of the Great Lake but never saw it myself… So this is what it looks like, huh…\nJP :\n大湖は…聞いたことはあれど実際に見たことないんですが…こんな見た目だったんですね…。"
+  },
+  {
+    "key": "49-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "49-content",
+    "original": "오오… 지친 우리의 여정 속에서 드디어 물놀이라는 것이 있을 예정인가보오!",
+    "context": "EN :\nOoh… Perhaps our trying journey shall finally be rewarded with a seaside picnic!\nJP :\nおぉ…疲れた我々の旅路に、ついに水遊びというものが訪れるようですな！"
+  },
+  {
+    "key": "50-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "50-content",
+    "original": "아하~ 이런 곳에서 휴양을 즐겨보는 것도 좋은 경험이겠어요.",
+    "context": "EN :\nAha~ I suppose spending a nice vacation here could be a fun experience!\nJP :\nあはぁ～こんな場所でバカンスを楽しむのも良い経験ですね。"
+  },
+  {
+    "key": "51-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "51-content",
+    "original": "쉴 수 있게 된다면, 따듯한 모래사장 위에 누워 하늘을 바라보고 싶소.",
+    "context": "EN :\nIf we were permitted to rest, I wish to lie upon the summery sand and gaze up at the skies.\nJP :\n休むこと叶わば、温かき砂浜の上に横たわりて空を眺めたし。"
+  },
+  {
+    "key": "52-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "52-content",
+    "original": "나는 기다란 벤치에서 일광욕~",
+    "context": "EN :\nI could use some nice tanning on a long bench~\nJP :\n私は長いベンチで日光浴～。"
+  },
+  {
+    "key": "53-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "53-content",
+    "original": "본인은~ 비치 발리볼! 모두와 함께 해보고 싶소!",
+    "context": "EN :\nI wish to try the game of beach volleyball! With everyone, that is!\nJP :\n当人は～ビーチヴァリーボール！皆と共にやってみたいのであります！"
+  },
+  {
+    "key": "54-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "54-content",
+    "original": "하, 그거 재밌겠네.",
+    "context": "EN :\nHah, sounds like the craic.\nJP :\nはっ、そりゃ面白そうだな。"
+  },
+  {
+    "key": "55-content",
+    "original": "그렇게, 수감자들은 저마다의 하고 싶은 일들을 떠들고 있었다.",
+    "context": "EN :\nThe Sinners were all eagerly chatting about things they wanted to do.\nJP :\nそういう風に、囚人たちはそれぞれのやりたいことを言い合っていた。"
+  },
+  {
+    "key": "56-content",
+    "original": "신나하는 모습을 보는 건 기분 좋은 일이었지만…",
+    "context": "EN :\nIt was nice to see them excited for once, but…\nJP :\n楽しそうな様子を見るのは気分が良かったが…。"
+  },
+  {
+    "key": "57-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "57-content",
+    "original": "이봐, 안내자 양반. 우리 정말 쉬는 거야…?",
+    "context": "EN :\nHey, guide bud. Are we really stopping at the beach…?\nJP :\nおい、案内人の旦那。俺たち本当に休めるのか…？"
+  },
+  {
+    "key": "58-content",
+    "original": "베르길리우스는 단 한 번도 쉬고 간다는 말을 한 적이 없다는 걸, 모두는 간과하고 있었다.",
+    "context": "EN :\n…Everyone seemed to be conveniently forgetting the fact that Vergilius never mentioned if we were stopping at the beach.\nJP :\nヴェルギリウスは休むという言葉をたったの一度も発していないということを、皆が見過ごしていた。"
+  },
+  {
+    "key": "59-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "59-content",
+    "original": "그럴리가.",
+    "context": "EN :\nWhat do you think?\nJP :\nそんなわけ。"
+  },
+  {
+    "key": "60-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "60-content",
+    "original": "카론.",
+    "context": "EN :\nCharon.\nJP :\nカロン。"
+  },
+  {
+    "key": "61-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "61-content",
+    "original": "바퀴를 도랑에 걸칠 거야. 끼이이익.",
+    "context": "EN :\nGonna hitch wheels in a ditch. Screech.\nJP :\nタイヤを溝に引っかけるよ。きいぃっ。"
+  },
+  {
+    "key": "62-content",
+    "original": "잘만 달리고 있던 버스는 순식간에 진로를 꺾어버렸고, 우리 모두는 여느 때처럼 버스 안을 뒹굴었다.",
+    "context": "EN :\nThe formerly-on-track bus suddenly swerved, and everyone was thrown around the bus as is often the case.\nJP :\n調子よく走っていたバスはあっという間に進路を曲げ、私たちはいつものようにバスの中を転がった。"
+  },
+  {
+    "key": "63-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "63-content",
+    "original": "아야야… 뭔가! 적습인가?!",
+    "context": "EN :\nOwowow… What treachery is this? An ambush?!\nJP :\nいたた…何ごとか！敵襲か！？"
+  },
+  {
+    "key": "64-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "64-content",
+    "original": "아니, 그저 경유지에 도착한 것뿐이다.",
+    "context": "EN :\nNo. This is our stop.\nJP :\nいや、ただ経由地に到着しただけだ。"
+  },
+  {
+    "key": "65-content",
+    "original": "수감자들은 하나 둘 앓는 소리를 내며 몸을 일으켰고…",
+    "context": "EN :\nThe Sinners got to their feet one by one, groaning with pain…\nJP :\n囚人たちは一人二人、呻き声を上げながら身体を起こし…。"
+  },
+  {
+    "key": "66-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "66-content",
+    "original": "이, 이게…",
+    "context": "EN :\nW-what the…\nJP :\nこ、これって…。"
+  },
+  {
+    "key": "67-place",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "67-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "67-content",
+    "original": "이게 대체 뭔가?!!!!",
+    "context": "EN :\nWHAT IN THE NAME OF THE WINGS?!!!!\nJP :\nこれは一体何にありまするか！？！！？"
+  },
+  {
+    "key": "68-content",
+    "original": "창 밖에 비추어지는 음울하고 질척한 공간 속에서, 참담한 절규만이 울려 퍼졌다.",
+    "context": "EN :\nOnly the despairing cries of Sinners echoed in the dark and damp view outside the windows.\nJP :\n窓の外に映る陰鬱でドロドロとした空間の中、惨烈な叫び声が木霊した。"
+  }
+]

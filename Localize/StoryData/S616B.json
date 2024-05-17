@@ -1,0 +1,618 @@
+[
+  {
+    "key": "0-place",
+    "original": "워더링하이츠 복도",
+    "context": "EN :\nWuthering Heights Corridors\nJP :\nワザリング・ハイツ 廊下"
+  },
+  {
+    "key": "0-model",
+    "original": "조세핀",
+    "translation": "约瑟芬",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nJosephine\nJP :\nジョセフィーヌ"
+  },
+  {
+    "key": "0-content",
+    "original": "…네, 그러죠. 마님. 분부대로 하겠습니다.",
+    "context": "EN :\n... Understood, Mistress. I shall do as you command.\nJP :\n…はい、そういたしましょう。奥様。\n奥様の意のままにいたします。"
+  },
+  {
+    "key": "1-model",
+    "original": "조세핀",
+    "translation": "约瑟芬",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nJosephine\nJP :\nジョセフィーヌ"
+  },
+  {
+    "key": "1-content",
+    "original": "우린 여기서 시간을 더 끌지 않고 데드레빗츠, 그놈들을 청소한다.",
+    "context": "EN :\nWe will not waste any more time here. Let's go and clear out the Dead Rabbits rabble.\nJP :\n我々はこれ以上時間を稼がず\nデッドラビッツ、あいつらを掃除する。"
+  },
+  {
+    "key": "2-model",
+    "original": "조세핀",
+    "translation": "约瑟芬",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nJosephine\nJP :\nジョセフィーヌ"
+  },
+  {
+    "key": "2-content",
+    "original": "…다음에 다시 만나게 되면 너희도 같이 청소해주지.",
+    "context": "EN :\n... We'll put the rest of you in the bin should our paths cross again.\nJP :\n…今度また会ったときは、お前たちも一緒に掃除してあげよう。"
+  },
+  {
+    "key": "3-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "3-content",
+    "original": "쳇…",
+    "context": "EN :\nTsk...\nJP :\nチッ…。"
+  },
+  {
+    "key": "4-content",
+    "original": "정작 힌들리로부터는 고맙다는 기색따윈 단 털끝만큼도 찾아볼 수가 없었다.",
+    "context": "EN :\nHindley didn't show even a hint of gratitude.\nJP :\n肝心のヒンドリーからは、\n感謝の気持ちが一ミリたりとも見られなかった。"
+  },
+  {
+    "key": "5-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "5-content",
+    "original": "뭐… 사실 나 혼자여도 무리 없이 상대할 수 있었어. 제정신이 아닌 조세핀과 그 똘마니들 따위…",
+    "context": "EN :\nWell… I could’ve handled them all on my own. I didn't need your help to beat up some insane old hag and her pawns…\nJP :\nまあ…実のところ、俺一人でも無理なく相手できたんだけどな。\nイカれたジョセフィーヌと、あの子分どもなんか…。"
+  },
+  {
+    "key": "6-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "6-content",
+    "original": "<…그냥 가버릴 걸 그랬나.>",
+    "context": "EN :\n<... Maybe we should’ve just left him behind.>\nJP :\n<…無視した方が良かったかな。>"
+  },
+  {
+    "key": "7-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "7-content",
+    "original": "그리고, 네가 형님이라고 꼴사납게 따르는 놈… 이름도 잘못 기억하고 있는 주제에 우애 좋은 척은 다 하더군.",
+    "context": "EN :\nAnd that ‘Boss’ of yours… you don't even remember his name properly, do you? So much for your loyalty.\nJP :\nそして、お前がアニキだっつってとみっともなく従ってたやつ…\n名前を覚え間違えてた癖して、仲良いフリなんかするんだな。"
+  },
+  {
+    "key": "8-content",
+    "original": "잠시 누그러졌다 싶었던 히스클리프의 얼굴에 굵은 주름이 잡힌다.",
+    "context": "EN :\nRage slowly returns to Heathcliff's face and draws a deep crease between his brows.\nJP :\nしばらくの間平らになっていたヒースクリフの顔に、太い皺が寄る。"
+  },
+  {
+    "key": "9-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "9-content",
+    "original": "… 무슨 개만도 못한 헛소리야?",
+    "context": "EN :\n… What dodgy nonsense are you blathering about?\nJP :\n…なにクソほどにもねぇこと言ってんだ？"
+  },
+  {
+    "key": "10-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "10-content",
+    "original": "그놈 이름은 매트야. 매튜가 아니라.",
+    "context": "EN :\nHe goes by 'Matt'. Not Matthew, or whatever you decided to call him.\nJP :\nあいつの名前はマットだ。マシューじゃなくて。"
+  },
+  {
+    "key": "11-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "11-content",
+    "original": "뭐? 무슨… 정신 나갔냐? 내가 몇 년 동안 알고 지낸 형님 이름을 헷갈렸을 것 같아?",
+    "context": "EN :\nWhat? What are you... have you finally gone mad? I've known the gaffer for years, and you think I'd get his name wrong?\nJP :\nは？なっ…ドタマおかしいのか？\n俺が何年も一緒に過ごしたアニキの名前を間違えるとでも？"
+  },
+  {
+    "key": "12-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "12-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "13-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "13-content",
+    "original": "그리고…",
+    "context": "EN :\nBesides...\nJP :\nそれに…。"
+  },
+  {
+    "key": "14-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "14-content",
+    "original": "정신 나간 조세핀, 눈치 하나는 빠르더군! 내가 무슨 수를 써서라도 이 저택을 뺏어 갈 생각이라는 걸 알고 있어.",
+    "context": "EN :\nThat insane old hag still has some of her wits about. Because I do intend to take this manor back. No matter what.\nJP :\nイカれたジョセフィーヌ、勘だけは冴えてるな！\n俺がどんな手を使ってでも、この邸宅を奪っていくつもりだってことは分かっていた。"
+  },
+  {
+    "key": "15-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "15-content",
+    "original": "큭… 거의 다 따 놓은 판이었는데… 그때 그 카드만 나오지 않았어도…",
+    "context": "EN :\nI almost had it! If only I hadn't gotten that confounded card in that round...!\nJP :\nアハハ…ほぼ手に入れてたってのに…。\nあのとき、あのカードさえ切られなかったら…。"
+  },
+  {
+    "key": "16-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "16-content",
+    "original": "아니지, 분명 조작된 판이었어. 그렇고말고. 그게 아니고선 경매로 넘어간 이 워더링하이츠를 캐서린이 곧바로 샀을 리가 없으니까.",
+    "context": "EN :\nNo, the game must've been rigged. That’s the only way this makes sense. Nothing else explains how Catherine could have had the funds so ready to purchase Wuthering Heights the moment it was put up for sale at the auction.\nJP :\n違う、確かに操作された盤面だった。そうだとも。\nそうじゃなきゃ、競売にかけられたこのワザリング・ハイツを\nキャサリンがすぐに買ったわけねぇからな。"
+  },
+  {
+    "key": "17-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "17-content",
+    "original": "네가 도박으로 잃은 이 저택을 캐서린이 다시 샀다고?",
+    "context": "EN :\nYou lost this manor in a gamble? And Catherine bought it back?\nJP :\nお前がギャンブルで失ったこの邸宅を、キャサリンが買い戻したのか？"
+  },
+  {
+    "key": "18-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "18-content",
+    "original": "그래! 걔도 조세핀처럼 언제나 제정신이었던 적이 없었지.",
+    "context": "EN :\nYes! That girl was always as insane as Josephine.\nJP :\nそうだ！あいつもジョセフィーヌみてぇに\nいつであれマトモだったことはなかった。"
+  },
+  {
+    "key": "19-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "19-content",
+    "original": "하지만 곧 워더링하이츠는 내게 돌아올 거다.",
+    "context": "EN :\nBut mark my words, Wuthering Heights shall be mine again.\nJP :\nでも、じきにワザリング・ハイツは俺の手に戻ってくるだろう。"
+  },
+  {
+    "key": "20-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "20-content",
+    "original": "매트 그놈이 나와 계약을 했거든.",
+    "context": "EN :\nMatt's made a deal with me.\nJP :\nマットは俺と契約したのさ。"
+  },
+  {
+    "key": "21-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "21-content",
+    "original": "자신과 데드레빗츠를 함께 워더링하이츠에 데려가 준다면… 이 저택을 돌려받게 해주기로.",
+    "context": "EN :\nHe promised to help me retrieve this manor, as long as I let him and his Dead Rabbits into Wuthering Heights.\nJP :\n自分とデッドラビッツをワザリング・ハイツに連れて行けば…\nこの邸宅を取り戻してやると。"
+  },
+  {
+    "key": "22-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "22-content",
+    "original": "잠깐, 어디로 가는 거예요, 힌들리 님?",
+    "context": "EN :\nMaster Hindley, wait. Where are you going?\nJP :\nちょっと、どこへ行かれるんですか？\nヒンドリー様？"
+  },
+  {
+    "key": "23-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "23-content",
+    "original": "내가 네 놈들과 사이좋게 동행이나 할 거라고 생각한 건 아니지?",
+    "context": "EN :\nYou didn't seriously expect me to be cosy with you lot after that, did you?\nJP :\n俺がお前らと仲良く同行するとでも思ったのか？"
+  },
+  {
+    "key": "24-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "24-content",
+    "original": "매트, 그놈을 다시 만난 뒤에 내가 할 수 있는 모든 방법을 동원할 거다.",
+    "context": "EN :\nI'll find Matt. And I'll do everything I can to make this place mine again.\nJP :\nマット、もう一度あいつに会えたら\n俺ができる全ての方法を動員してやる。"
+  },
+  {
+    "key": "25-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "25-content",
+    "original": "그리고… 시건방지게 이전과는 다른 사람이 되었다고 착각하지는 마라, 히스클리프.",
+    "context": "EN :\n... And don't be so quick to assume that you've really changed, Heathcliff.\nJP :\nあと…生意気にも、以前とは別人になっただなんて勘違いするなよ、\nヒースクリフ。"
+  },
+  {
+    "key": "26-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "26-content",
+    "original": "넌 변하지 않았어. 변하지도 못하지.",
+    "context": "EN :\nYou haven't. You simply can't change.\nJP :\nおめぇは変わってない。変われもしないのさ。"
+  },
+  {
+    "key": "27-model",
+    "original": "힌들리",
+    "translation": "亨德利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHindley\nJP :\nヒンドリー"
+  },
+  {
+    "key": "27-content",
+    "original": "넝마자루나 어울리는 놈. 그걸 똑똑히 기억하라고.",
+    "context": "EN :\nYou're nothing but a ragged sack of waste. Don't you forget that.\nJP :\nずた袋がお似合いのやつ。\nそれをゆめゆめ忘れるんじゃねぇぞ。"
+  },
+  {
+    "key": "28-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "28-content",
+    "original": "성질머리 하고는…",
+    "context": "EN :\nWhat an asshole...\nJP :\n性格クソだな…。"
+  },
+  {
+    "key": "29-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "29-content",
+    "original": "어흠, 히스클리프 군… 이런 말이 화가 난 자네에게 도움이 될지는 모르겠지만…",
+    "context": "EN :\nAhem, Sir Heathcliff... I am quite unsure as to how much of my words may reach thine ears, given thy fury, but...\nJP :\nけほん、ヒースクリフ君…。\nあのような言葉のせいで怒った君の役に立つかは分からぬが…。"
+  },
+  {
+    "key": "30-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "30-content",
+    "original": "하.",
+    "context": "EN :\nHah.\nJP :\nはっ。"
+  },
+  {
+    "key": "31-content",
+    "original": "평소라면 길길이 화를 내고 있을 법한 히스클리프의 눈치를 보며, 수감자들이 몇 마디를 거들려 했지만.",
+    "context": "EN :\nSome Sinners attempted to cheer Heathcliff up, who would normally be seething with anger upon hearing abuse like that, but...\nJP :\n普段なら、カンカンに怒っているであろうヒースクリフの顔色を伺いながら、\n囚人たちが一言ずつ口を出そうとしたが…。"
+  },
+  {
+    "key": "32-content",
+    "original": "히스클리프가 무언가 다른 기분을 품은 것 같았다.",
+    "context": "EN :\n... this was different. It wasn't anger.\nJP :\nヒースクリフは、いつもとは違う気分を抱いているように見えた。"
+  },
+  {
+    "key": "33-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "33-content",
+    "original": "예전에는… 매일 나를 짓밟는 데 안달이 나 있는 저놈을 볼 때마다…",
+    "context": "EN :\nBack then... whenever I heard that kind of contemptuous shite from that bastard...\nJP :\nかつては…毎日オレを踏みにじりたくてしょうがないアイツを見るたび…。"
+  },
+  {
+    "key": "34-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "34-content",
+    "original": "마치 저놈 말대로 나는 밑바닥 인생에 쓸모없는 인간이 되는 것 같았어.",
+    "context": "EN :\n... it felt as though every word he spat out rang true. That I really was just a useless lowlife who deserved nothing but the rags.\nJP :\nまるでアイツの言う通り、オレは人生ドン底の\n役に立たねぇ人間になっているような気がしたんだ。"
+  },
+  {
+    "key": "35-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "35-content",
+    "original": "매일 저놈에게 앙갚음할 방법만 궁리했지. 그런데 이제는…",
+    "context": "EN :\nI've spent days and nights coming up with all kinds of ways I'd exact my revenge on 'im. But now it's...\nJP :\n毎日アイツに仕返しする方法だけ考えてたんだ。\nでも今は…。"
+  },
+  {
+    "key": "36-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "36-content",
+    "original": "하, 참나. 이 기분은 뭐냐… 뭔질 모르겠네…",
+    "context": "EN :\nHah, bloody hell. I can't even put this feeling to words.\nJP :\nはあ、まったく。\n何だこの気分は…よく分かんねぇな…。"
+  },
+  {
+    "key": "37-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "37-content",
+    "original": "변하지 못한 건 저놈이예요. 구질구질하게, 과거에만 매여 있잖아요.",
+    "context": "EN :\nHe's the one that couldn't change, not you. Look at him, clinging desperately to his past like it's the only thing he's got.\nJP :\n変われてないのはあいつです。\n陰湿に、過去にばかり縛られてるじゃないですか。"
+  },
+  {
+    "key": "38-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "38-content",
+    "original": "그냥… 자라지 못한 10살짜리 어린애 같아요.",
+    "context": "EN :\nHe's just... he's just like an immature kid who never grew up past ten.\nJP :\nただの…成長できてない十歳の子供みたいです。"
+  },
+  {
+    "key": "39-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "39-content",
+    "original": "캐서린이라는 자의 방은 어느 정도에 위치해 있지? 교전 중인 저택을 마음 놓고 지나다니기는 힘들겠군.",
+    "context": "EN :\nWhere is Catherine's room? We would do well to be on our guard in this manor. We must always be wary of our surroundings in this field of battle.\nJP :\nキャサリンという者の部屋はどのあたりに位置しているんだ？\n交戦中の邸宅を心置きなく移動することは難しいだろうな。"
+  },
+  {
+    "key": "40-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "40-content",
+    "original": "여기서 오른쪽으로 꺾으면 될 거예요. 이상하네, 복도가 이렇게 길었나…",
+    "context": "EN :\nIt should be there once we turn right here. Odd... I don't recall the corridor being this long.\nJP :\nここで右に曲がればいいと思います。\nおかしいな、廊下ってこんなに長かったっけ…。"
+  },
+  {
+    "key": "41-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "41-content",
+    "original": "어머나! 저기…",
+    "context": "EN :\nHeavens! There...\nJP :\nあらま！あそこに…。"
+  },
+  {
+    "key": "42-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "42-content",
+    "original": "복도 끝. 데드레빗츠들이군.",
+    "context": "EN :\nDead Rabbits. At the end of the corridor.\nJP :\n廊下の端。デッドラビッツたちだな。"
+  },
+  {
+    "key": "43-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "43-content",
+    "original": "아까랑은 조금 달라 보이는 데 기분 탓이라고 누가 말해줄 사람?",
+    "context": "EN :\nIs it just me, or do they look a bit different from earlier? I'll take \"it's just you\" for an answer, by the way.\nJP :\nさっきとは少し違って見えるんだけど…\n誰か気のせいだって言ってくれる人いな～い？"
+  },
+  {
+    "key": "44-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "44-content",
+    "original": "그러고 보니… 거리에서 종종 저런 식으로 돌아다니는 데드레빗츠들에 대한 소문을 들은 적이 있어요…",
+    "context": "EN :\nThat reminds me... I have heard tales from the streets about those strange, wandering Dead Rabbits.\nJP :\nそういえば…街で時々あんな風に歩き回るデッドラビッツに関する\n噂を聞いたことがあります…。"
+  },
+  {
+    "key": "45-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "45-content",
+    "original": "혹시라도 저런… 붉은 안광과는… 마주치지 않는 편이 여러모로 좋을 거라고…요…",
+    "context": "EN :\nWord on the street is that we should steer clear of the Dead Rabbits with red eyes... Just... like... the ones they have...\nJP :\nあんな…赤い眼光とは…視線を合わせない方が色んな意味で良いっ…て…。"
+  },
+  {
+    "key": "46-model",
+    "original": "데드레빗츠1",
+    "translation": "死兔帮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "46-teller",
+    "original": "이상한 데드레빗츠 조직원",
+    "context": "EN :\nStrange Dead Rabbits Henchman\nJP :\n変なデッドラビッツ団員"
+  },
+  {
+    "key": "46-title",
+    "original": "데드레빗츠",
+    "context": "EN :\nThe Dead Rabbits\nJP :\nデッドラビッツ"
+  },
+  {
+    "key": "46-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "47-model",
+    "original": "넬리",
+    "translation": "耐莉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nNelly\nJP :\nネリー"
+  },
+  {
+    "key": "47-content",
+    "original": "너희들… 무엇을… 아니면 누구를 찾고 있는 거야?",
+    "context": "EN :\nExcuse me, are you looking for something... or someone?\nJP :\nお前たち…何を…あるいは誰を探しているんだ？"
+  },
+  {
+    "key": "48-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "48-content",
+    "original": "참고로! 우리 중엔 그 린튼이라는 사람은 없어. 워더링하이츠의 버틀러… 그놈들도 아까 저 복도 뒤로 가버렸거든. 그래서 아마 우리랑은 볼일이 없지 않나 싶은데? 하하.",
+    "context": "EN :\nJust for your information, that 'Linton' fella ain't here! Those 'Butlers' of Wuthering Heights ain't here either. They all went that way, past the hallway. Clearly, you've got no beef with us, right? Ha ha ha.\nJP :\nちなみに！俺たちの中にはリントンって人はいないからな。\nワザリング・ハイツのバトラー…あいつらもさっきあの廊下の向こうに\n行っちゃったし。だから多分俺たちには特に用が無くないか？アハハハ。"
+  },
+  {
+    "key": "49-model",
+    "original": "데드레빗츠1",
+    "translation": "死兔帮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "49-teller",
+    "original": "이상한 데드레빗츠 조직원",
+    "context": "EN :\nStrange Dead Rabbits Henchman\nJP :\n変なデッドラビッツ団員"
+  },
+  {
+    "key": "49-title",
+    "original": "데드레빗츠",
+    "context": "EN :\nThe Dead Rabbits\nJP :\nデッドラビッツ"
+  },
+  {
+    "key": "49-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "50-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "50-content",
+    "original": "볼일. 있어 보이는군.",
+    "context": "EN :\nLooks like they've got plenty of beef with us.\nJP :\n用。ありそうだな。"
+  },
+  {
+    "key": "51-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "51-content",
+    "original": "우리의 말이 들리긴 하는 건가? 원하는 게 있다면 명확하게 응답을 해라. 협상의 여지가 있다면…",
+    "context": "EN :\nCan they even hear what we are saying? If you have demands, then state them. If there is room for negotiation—\nJP :\n我々の言うことが聞き取れてはいるのか？\n望むものがあれば明確に答えろ。交渉の余地があるなら…。"
+  },
+  {
+    "key": "52-model",
+    "original": "데드레빗츠1",
+    "translation": "死兔帮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "52-teller",
+    "original": "이상한 데드레빗츠 조직원",
+    "context": "EN :\nStrange Dead Rabbits Henchman\nJP :\n変なデッドラビッツ団員"
+  },
+  {
+    "key": "52-title",
+    "original": "데드레빗츠",
+    "context": "EN :\nThe Dead Rabbits\nJP :\nデッドラビッツ"
+  },
+  {
+    "key": "52-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "53-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "53-content",
+    "original": "<정신이 아예 나가 있는 사람들 같이 행동하네.>",
+    "context": "EN :\n<They all look a bit... no, they all look completely out of it, don't they?>\nJP :\n<完全にイカれてる人っぽい行動だね。>"
+  },
+  {
+    "key": "54-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "54-content",
+    "original": "조금 아쉽기도 하군요. 이 오티스의 협상술을 관리자님께 보여드릴 기회가 매번 이렇게 흩어지니.",
+    "context": "EN :\nWhat a shame. I, Outis, would have loved to demonstrate my excellent negotiation skills to the Executive Manager.\nJP :\n少し残念ではありますね。このウーティスの交渉術を\n管理人様に見せる機会が、毎回こんな風にふいになるとは。"
+  }
+]

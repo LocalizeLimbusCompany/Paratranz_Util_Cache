@@ -1,0 +1,142 @@
+[
+  {
+    "key": "OnWinDuelAsParryingCountMultiplyAndPlusPercent-add",
+    "original": "합 승리 시 합 횟수에 비례하여 증가\n<size=95%>(증가량: 기본 값 {0}, 2합부터 1합당 {1}%씩 증가)</size>",
+    "context": "EN :\nIncreases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>\nJP :\nマッチ勝利時、マッチ回数に比例して増加\n<size=95%>(増加量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加)</size>"
+  },
+  {
+    "key": "OnWinDuelAsParryingCountMultiplyAndPlusPercent-min",
+    "original": "합 승리 시 합 횟수에 비례하여 감소\n<size=95%>(감소량: 기본 값 {0}, 2합부터 1합당 {1}%씩 증가)</size>",
+    "context": "EN :\nDecreases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>\nJP :\nマッチ勝利時、マッチ回数に比例して減少\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加)</size>"
+  },
+  {
+    "key": "OnKillEnemyAsLevelRatioMultiply-add",
+    "original": "적 처치 시 처치한 적의 레벨이 자신의 레벨 이상인 경우 {0} 증가",
+    "context": "EN :\nIncrease by {0} after this unit defeats an enemy whose level was higher than or equal to this unit’s\nJP :\n敵討伐時、倒した敵のレベルが自分のレベル以上の場合、{0}増加"
+  },
+  {
+    "key": "OnKillEnemyAsLevelRatioMultiply-min",
+    "original": "적 처치 시 처치한 적의 레벨이 자신의 레벨 이상인 경우 {0} 감소",
+    "context": "EN :\nDecrease by {0} after this unit defeats an enemy whose level was higher than or equal to this unit’s\nJP :\n敵討伐時、倒した敵のレベルが自分のレベル以上の場合、{0}減少"
+  },
+  {
+    "key": "OnKillEnemyByOtherAllyAsLevelRatioMultiply-add",
+    "original": "아군이 처치한 적의 레벨이 자신의 레벨 이상인 경우 {0} 증가",
+    "context": "EN :\nIncrease by {0} after an ally defeats an enemy whose level was higher than or equal to the unit’s\nJP :\n味方が倒した敵のレベルが自分のレベル以上の場合、{0}増加"
+  },
+  {
+    "key": "OnKillEnemyByOtherAllyAsLevelRatioMultiply-min",
+    "original": "아군이 처치한 적의 레벨이 자신의 레벨 이상인 경우 {0} 감소",
+    "context": "EN :\nDecrease by {0} after an ally defeats an enemy whose level was higher than or equal to the unit’s\nJP :\n味方が倒した敵のレベルが自分のレベル以上の場合、{0}増加"
+  },
+  {
+    "key": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent-add",
+    "original": "합 패배 시 합 횟수에 비례하여 증가\n<size=95%>(증가량: 기본 값 {0}, 2합부터 1합당 {1}%씩 증가)</size>",
+    "context": "EN :\nIncreases after losing a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>\nJP :\nマッチ敗北時、マッチ回数に比例して増加\n<size=95%>(増加量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加)</size>"
+  },
+  {
+    "key": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent-min",
+    "original": "합 패배 시 합 횟수에 비례하여 감소\n<size=95%>(감소량: 기본 값 {0}, 2합부터 1합당 {1}%씩 증가)</size>",
+    "context": "EN :\nDecreases after losing a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>\nJP :\nマッチ敗北時、マッチ回数に比例して減少\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加)</size>"
+  },
+  {
+    "key": "OnDieAllyAsLevelRatio-add",
+    "original": "아군 사망 시 사망한 아군의 레벨이 자신의 레벨 이상인 경우,\n 레벨 차에 따라 증가\n<size=95%>(증가량: 기본 값 {0}, 레벨 차이당 {0}씩 증가)</size>",
+    "context": "EN :\nIf the level of the defeated ally was higher than or equal to the unit’s,\nincrease based on the level difference\n<size=95%>(Base Value is {0}, raised by {0} per level)</size>\nJP :\n味方死亡時、死亡した味方のレベルが自分のレベル以上の場合、\nレベル差によって増加\n<size=95%>(増加量: 基本値{0}, レベル差につき{0}ずつ増加)</size>"
+  },
+  {
+    "key": "OnDieAllyAsLevelRatio-min",
+    "original": "아군 사망 시 사망한 아군의 레벨이 자신의 레벨 이상인 경우,\n 레벨 차에 따라 감소\n<size=95%>(감소량: 기본 값 {0}, 레벨 차이당 {0}씩 증가)</size>",
+    "context": "EN :\nIf the level of the defeated ally was higher than or equal to the unit’s,\ndecrease based on the level difference\n<size=95%>(Base Value is {0}, raised by {0} per level)</size>\nJP :\n味方死亡時、死亡した味方のレベルが自分のレベル以上の場合、\nレベル差によって減少\n<size=95%>(減少量: 基本値{0}, レベル差につき{0}ずつ増加)</size>"
+  },
+  {
+    "key": "OnRoundStartAfterEvent-add",
+    "original": "턴 시작 시 {0} 증가",
+    "context": "EN :\nIncreased by {0} at the start of the turn\nJP :\nターン開始時、{0}増加"
+  },
+  {
+    "key": "OnRoundStartAfterEvent-min",
+    "original": "턴 시작 시 {0} 감소",
+    "context": "EN :\nDecreased by {0} at the start of the turn\nJP :\nターン開始時、{0}減少"
+  },
+  {
+    "key": "OnKillEnemyMp-add",
+    "original": "적 처치 시 처치한 적의 레벨에 관계 없이 {0} 증가",
+    "context": "EN :\nIncrease by {0} after this unit defeats an enemy regardless of their level\nJP :\n敵討伐時、倒した敵のレベルに関係なく{0}増加"
+  },
+  {
+    "key": "OnKillEnemyMp-min",
+    "original": "적 처치 시 처치한 적의 레벨에 관계 없이 {0} 감소",
+    "context": "EN :\nDecrease by {0} after this unit defeats an enemy regardless of their level\nJP :\n敵討伐時、倒した敵のレベルに関係なく{0}減少"
+  },
+  {
+    "key": "OnDieAllyMp-add",
+    "original": "아군 사망 시 사망한 아군의 레벨에 관계 없이 {0} 증가",
+    "context": "EN :\nIf an ally is defeated, increase by {0} regardless of the ally's level\nJP :\n味方死亡時、死亡した味方のレベルに関係なく{0}増加"
+  },
+  {
+    "key": "OnDieAllyMp-min",
+    "original": "아군 사망 시 사망한 아군의 레벨에 관계 없이 {0} 감소",
+    "context": "EN :\nIf an ally is defeated, decrease by {0} regardless of the ally's level\nJP :\n味方死亡時、死亡した味方のレベルに関係なく{0}減少"
+  },
+  {
+    "key": "OnKillEnemyByOtherAllyExceptSupportiveAction-add",
+    "original": "아군이 처치한 적의 레벨이 자신의 레벨 이상인 경우 {0} 증가",
+    "context": "EN :\nIncrease by {0} after an ally defeats an enemy whose level was higher than or equal to this unit’s\nJP :\n味方が倒した敵のレベルが自分のレベル以上の場合、{0}増加"
+  },
+  {
+    "key": "OnKillEnemyByOtherAllyExceptSupportiveAction-min",
+    "original": "아군이 처치한 적의 레벨이 자신의 레벨 이상인 경우 {0} 감소. 원호 공격이 부여된 아군이 처치한 경우에는 감소하지 않음.",
+    "context": "EN :\nDecrease by {0} after an ally defeats an enemy whose level was higher than or equal to this unit’s. Does not decrease when the enemy was defeated by an Assist Attack.\nJP :\n味方が倒した敵のレベルが自分のレベル以上の場合、{0}減少。援護攻撃が付与された味方が倒された場合は減少しない。"
+  },
+  {
+    "key": "OnDieBladeLineageAlly-add",
+    "original": "검계 조직원 사망시 사망한 아군의 레벨에 관계 없이 {0} 증가",
+    "context": "EN :\nIf a Blade Lineage ally is defeated, gain {0} regardless of the ally's level\nJP :\n剣契組織員死亡時、死亡した味方のレベルに関係なく{0}増加"
+  },
+  {
+    "key": "OnDieBladeLineageAlly-min",
+    "original": "검계 조직원 사망시 사망한 아군의 레벨에 관계 없이 {0} 감소",
+    "context": "EN :\nIf a Blade Lineage ally is defeated, lose {0} regardless of the ally's level\nJP :\n剣契組織員死亡時、死亡した味方のレベルに関係なく{0}減少"
+  },
+  {
+    "key": "OnWinDuelLessMpTarget-add",
+    "original": "정신력이 자신보다 낮은 대상과의 합에서 승리 시 {0} 증가",
+    "context": "EN :\nIncreases by {0} after winning a Clash against an enemy with SP lower than this unit's\nJP :\n精神力が自分より低い対象とマッチ勝利時、{0}増加"
+  },
+  {
+    "key": "OnWinDuelLessMpTarget-min",
+    "original": "정신력이 자신보다 낮은 대상과의 합에서 승리 시 {0} 감소",
+    "context": "EN :\nDecreases by {0} after winning a Clash against an enemy with SP lower than this unit's\nJP :\n精神力が自分より低い対象とマッチ勝利時、{0}減少"
+  },
+  {
+    "key": "OnLoseDuelLessMpTarget-add",
+    "original": "정신력이 자신보다 낮은 대상과의 합에서 패배 시 {0} 증가",
+    "context": "EN :\nIncreases by {0} after losing a Clash against an enemy with SP lower than this unit's\nJP :\n精神力が自分より低い対象とマッチ敗北時、{0}増加"
+  },
+  {
+    "key": "OnLoseDuelLessMpTarget-min",
+    "original": "정신력이 자신보다 낮은 대상과의 합에서 패배 시 {0} 감소",
+    "context": "EN :\nDecreases by {0} after losing a Clash against an enemy with SP lower than this unit's\nJP :\n精神力が自分より低い対象とマッチ敗北時、{0}減少"
+  },
+  {
+    "key": "OnKillEnemyByOtherAlly-add",
+    "original": "아군이 처치한 적의 레벨에 관계 없이 {0} 증가",
+    "context": "EN :\nIncrease by {0} after an ally defeats an enemy regardless of their level\nJP :\n味方の倒した敵のレベルに関係なく{0}増加"
+  },
+  {
+    "key": "OnKillEnemyByOtherAlly-min",
+    "original": "아군이 처치한 적의 레벨에 관계 없이 {0} 감소",
+    "context": "EN :\nDecrease by {0} after an ally defeats an enemy regardless of their level\nJP :\n味方の倒した敵のレベルに関係なく{0}減少"
+  },
+  {
+    "key": "OnWinDuelAnyTarget-add",
+    "original": "합 승리 시 {0} 증가",
+    "context": "EN :\nIncreased by {0} on Clash Win\nJP :\nマッチ勝利時、{0}増加"
+  },
+  {
+    "key": "OnWinDuelAnyTarget-min",
+    "original": "합 승리 시 {0} 감소",
+    "context": "EN :\nDecreased by {0} on Clash Lose\nJP :\nマッチ勝利時、{0}減少"
+  }
+]

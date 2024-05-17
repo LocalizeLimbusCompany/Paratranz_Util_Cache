@@ -1,0 +1,1425 @@
+[
+  {
+    "key": "0-place",
+    "original": "P사 워프 열차 승강장",
+    "context": "EN :\nP Corp. WARP train platform\nJP :\nP社 ワープ列車プラットフォーム"
+  },
+  {
+    "key": "0-content",
+    "original": "저 자가… 이 승강장에서 만나겠다고 약속했던…",
+    "context": "EN :\nSo she's the one we were supposed to meet here at the station...\nJP :\nあの人が…このプラットフォームで会うことになっていた…。"
+  },
+  {
+    "key": "1-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "1-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "1-title",
+    "original": "의뢰인",
+    "context": "EN :\nThe Client\nJP :\n依頼人"
+  },
+  {
+    "key": "1-content",
+    "original": "이거… 특색 붉은시선 님을 뵈어 영광이군요.",
+    "context": "EN :\nMy, my... what an honor this is, to meet the Red Gaze himself in the flesh.\nJP :\nこれは…特色の赤い視線様にお目にかかれて光栄ですね。"
+  },
+  {
+    "key": "2-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "2-content",
+    "original": "그 외에도 모두들, 반갑습니다. 저는 P사 아카이빙 부서의 부장, 체사라입니다.",
+    "context": "EN :\nEveryone, I am pleased to meet you all. I am Cesara, Head Manager of P Corp. Archival Department.\nJP :\nそれ以外に皆さん、初めまして。\n私はP社アーカイビング部署の部長、チェーザラです。"
+  },
+  {
+    "key": "3-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "3-content",
+    "original": "아카이빙 부서? 뭔가 기록하는 일이라도 하는 건가?",
+    "context": "EN :\nArchival Department? So you are... bookkeepers, then?\nJP :\nアーカイビング部署？\n何かを記録する仕事でもしているのか？"
+  },
+  {
+    "key": "4-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "4-content",
+    "original": "그렇다고 할 수 있죠. 다른 날개는 몰라도 P사에서는 꽤 중요한 부서랍니다.",
+    "context": "EN :\nIn a manner of speaking, yes. It is a rather significant department within P Corp., regardless of how other Wings treat their own archivists.\nJP :\nそうだといえるでしょう。他の翼はどうか知りませんが、\nP社ではかなり重要な部署なのですよ。"
+  },
+  {
+    "key": "5-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "5-content",
+    "original": "그런 중요한 부서의 부장이 찾아왔다는 건… 이제 정말로 이 회사가 꽤 유명해진 건가?",
+    "context": "EN :\nIf a bigwig like the Head Manager of such an important Department is here to see us herself, then... boy, I guess we really are putting our names out there.\nJP :\nそんな重要な部署の部長が訪れてきたということは…\n今や本当にこの会社が結構有名になったってことか？"
+  },
+  {
+    "key": "6-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "6-content",
+    "original": "틀린 말은 아니네요. 당신들, 림버스 컴퍼니에 대한 이야기는 건너건너서 들려오더라고요.",
+    "context": "EN :\nNot an entirely incorrect assessment. I did hear some things about you and Limbus Company through the word of mouth.\nJP :\n間違ってはいないですね。あなた方、リンバス・カンパニーに関する話は\nあちこちで耳に入ってきていますから。"
+  },
+  {
+    "key": "7-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "7-content",
+    "original": "뭐라더라… 황금가지라는 것만 얻을 수 있다면 죽음까지 불사하면서 의뢰를 성공시켜 내고야 마는 중견 회사라고 하던데…",
+    "context": "EN :\nWhat was it...? Ah, yes. A medium-sized enterprise with its employees gladly braving death to see a contract to its end. All just to obtain these... 'Golden Boughs'.\nJP :\nなんだっけ…。「黄金の枝」というものさえ手に入れることができれば、\n死をも恐れずに依頼を成功させる中堅会社だと聞いたんですけど…。"
+  },
+  {
+    "key": "8-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "8-content",
+    "original": "틀린 말은 아니지만…",
+    "context": "EN :\nThat's true, I guess, but...\nJP :\n間違っては無いけどさ…。"
+  },
+  {
+    "key": "9-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "9-content",
+    "original": "<그렇게 들으니까 엄청 대단한 것처럼 들리는데…?>",
+    "context": "EN :\n<Hey, she's actually making us sound pretty impressive, huh...?>\nJP :\n<そんな風に言われると、なんだか凄い感じがするね…？>"
+  },
+  {
+    "key": "10-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10-content",
+    "original": "바아아아로 그것이네! 본인과 동료들은! 수많은 역경과 죽음을 각오하며 무수한 악들을 처단해 냈지.",
+    "context": "EN :\nFor-sooth! I, and my dearest compatriots, have vanquished countless evils through all kinds of hardships and deadly foes! Braved death, indeed.\nJP :\nまぁあああさにそうである！当人と仲間たちは！様々な逆境と\n死を覚悟しながら無数の悪たちを処断してきたのである。"
+  },
+  {
+    "key": "11-content",
+    "original": "다른 수감자들은 얼떨떨해해도, 돈키호테만큼은 그 소개 문구가 맘에 쏙 드는 듯 눈빛이 평소보다 곱절은 더 반짝거리고 있었다.",
+    "context": "EN :\nThe other Sinners were more confused than impressed by her description, but it was clear from Don Quixote's practically twinkling eyes that she was immensely infatuated by it.\nJP :\n他の囚人たちが戸惑っている中、ドンキホーテだけはその紹介文句が\nすっかり気に入ったようで、いつも以上に目が何倍も輝いていた。"
+  },
+  {
+    "key": "12-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "12-content",
+    "original": "이쪽에서도 이번 의뢰에 대한 대략적인 내용은 전달받았습니다.",
+    "context": "EN :\nWe did receive a brief of this contract.\nJP :\nこちらでも今回の依頼に対する大まかな内容は伝達されました。"
+  },
+  {
+    "key": "13-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "13-content",
+    "original": "다양한 해결사들이 모여 수차례나 토벌을 시도하고 있는 도시악몽 급 사건이 있다고.",
+    "context": "EN :\nA particularly stubborn Urban Nightmare case, which all kinds of Fixers have failed to rout despite their repeated attempts.\nJP :\n様々なフィクサーたちが集まり、\n何度も討伐を試みている都市悪夢級の事件があると。"
+  },
+  {
+    "key": "14-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "14-content",
+    "original": "맞아요.",
+    "context": "EN :\nCorrect.\nJP :\nそうです。"
+  },
+  {
+    "key": "15-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "15-content",
+    "original": "해결사들이 올 때마다 손수 부장씩이나 되는 당신 같은 사람이 마중 나와 줄 리는 없었을 테고.",
+    "context": "EN :\nI doubt it is customary for the Head Manager of an entire department to greet every no-name Fixer Office looking to make a name for themselves.\nJP :\nフィクサーたちが来るたびに、わざわざ部長クラスであるあなたのような人が\n出迎えてくれるはずもないでしょうし。"
+  },
+  {
+    "key": "16-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "16-content",
+    "original": "네, 그것 또한 맞습니다.",
+    "context": "EN :\nCorrect again.\nJP :\nはい、それも合っています。"
+  },
+  {
+    "key": "17-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "17-content",
+    "original": "더군다나 공식적인 자리도 아닌 곳에서 의뢰를 전달한다는 건…",
+    "context": "EN :\nAnd seeing how you've gone to the lengths to privately deliver this particular contract to our hands...\nJP :\nましてや、公式的な場でもない場所で依頼を伝達するというのは…。"
+  },
+  {
+    "key": "18-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "18-content",
+    "original": "우리에게 원하는 게 도시악몽의 토벌뿐만이 아니라,",
+    "context": "EN :\n... this isn't a simple Urban Nightmare eradication contract, is it?\nJP :\n我々に望むことは都市悪夢の討伐だけではなく、"
+  },
+  {
+    "key": "19-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "19-content",
+    "original": "그 이상의 뭔가를 해내 주었으면 하는 기대가 느껴지는군요.",
+    "context": "EN :\nI sense that your expectations of us extend beyond simply defeating it.\nJP :\nそれ以上の何かをやり遂げて欲しいという期待が感じられますね。"
+  },
+  {
+    "key": "20-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "20-content",
+    "original": "아까 말한 대로, ‘죽음까지 불사하면서…’ 무언가를 해줄 것이란 기대가.",
+    "context": "EN :\nThere must be a particular task you're expecting us to 'brave death' for, given your emphasis.\nJP :\n先程おっしゃったように、「死をも恐れずに…」何かを\nしてくれるだろうという期待が。"
+  },
+  {
+    "key": "21-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "21-content",
+    "original": "…이상한 기분이네요, 굳이 숨길 셈도 아니었지만 간파당한 느낌이라.",
+    "context": "EN :\n... Hm. What an odd feeling. I wasn't going to hide it from you anyway, but... it feels as though you're reading me like an open book.\nJP :\n…変な気分ですね。あえて隠すつもりは無かったのですが\n看破されたような気分だなんて。"
+  },
+  {
+    "key": "22-content",
+    "original": "너무나 매끄럽게 의뢰의 핵심을 이끌어내는 베르길리우스를 나와 수감자들은 멍하니 지켜보기만 했다.",
+    "context": "EN :\nWe stared in dumbfounded silence as Vergilius effortlessly cut through the hoops to get to the core of the contract.\nJP :\nあまりにも鮮やかに依頼の核心を引き出すヴェルギリウスの姿を、\n私と囚人たちはただ呆然と見守ってばかりいた。"
+  },
+  {
+    "key": "23-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "23-content",
+    "original": "맞아요. 토벌 대상이 있는 위치 어딘가에 황금가지라는 게 있다고 해요. 이건 당신들 쪽에서 우리에게 먼저 연락을 취해서 말한 정보죠.",
+    "context": "EN :\nYes. Your people were quite blunt about this when you contacted us first. That there's this 'Golden Bough' somewhere near our eradication target.\nJP :\nその通りです。討伐対象がいる場所のどこかに「黄金の枝」があるそうです。\nこれは、あなた方のほうから先に私たちに連絡して伝えてきた情報ですよね。"
+  },
+  {
+    "key": "24-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "24-content",
+    "original": "처음에 그 연락을 받았을 때 얼마나 황당했던지… 황금가지가 뭐냐는 말에도 정확하게 대답을 해주지도 않고, 정확한 좌표는 당신들 인원이 직접 그 구역으로 들어가야지만 알 수 있다고 하고… 난 장난 전화인 줄 알았다니까요.",
+    "context": "EN :\nMy, I was so astonished when I picked up that call. Your people refused to answer our questions, refused to tell us what those 'Golden Boughs' are, insisted that we let your people inside the zone to confirm the exact coordinates... I almost thought it was a prank call or something.\nJP :\n最初にその連絡を受けたとき、どれほど呆れたことか…。そもそも「黄金の枝」が\n何なのか尋ねても、正確な答えは返ってこないし、正確な座標もあなたたちが\nその区域に入らないと分からないと言うし…。いたずら電話かと思ったくらいですよ。"
+  },
+  {
+    "key": "25-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "25-content",
+    "original": "하지만, 그 순간 결코 거절하지 못할 제안도 함께이지 않았습니까.",
+    "context": "EN :\nI believe we also made you an offer you couldn't refuse.\nJP :\nしかし、あの瞬間に決して断れない提案も差し上げたのではないでしょうか。"
+  },
+  {
+    "key": "26-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "26-content",
+    "original": "…하아. 장담하는데, 당신들 회사에는 정보 수집력이 어마어마하게 대단한 정보원이나 유능한 정보 부서가 있을 거예요.",
+    "context": "EN :\n... Haah. I don't know if it's a particularly versatile agent or a very proactive intelligence department, but your company has some serious intel gathering capabilities.\nJP :\n…はあ。断言しますけど、あなたたちの会社には、驚異的な情報収集能力を持つ\n情報源か、優秀な情報部門があるんでしょうね。"
+  },
+  {
+    "key": "27-content",
+    "original": "체사라는 길게 한숨을 내쉬더니 어깨를 떨구면서 벽에 기대었다.",
+    "context": "EN :\nCesara let out a deep sigh and leaned against a wall, her shoulders slumping slightly.\nJP :\nチェーザラは長い溜め息を吐き、肩を落として壁にもたれ掛かった。"
+  },
+  {
+    "key": "28-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "28-content",
+    "original": "그래서 토벌해야 되는 게 정확히 어떤 건데요?",
+    "context": "EN :\nSo what exactly are we eradicating this time?\nJP :\nそれで、討伐すべきものって\n正確にどういうものなんですか？"
+  },
+  {
+    "key": "29-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "29-content",
+    "original": "여러 해결사가 모인 걸 보면… 지난번처럼 지부에서 탈출한 환상체라도 어딘가에 돌아다니고 있는 건가요? 혹은 뒤틀림이라거나…",
+    "context": "EN :\nGiven that we have hopeful Fixers queuing up to join the mission... what, is an escaped Abnormality wreaking havoc somewhere like last time? Or is it a Distortion, because if it is—\nJP :\n複数のフィクサーが集まっているのを見るに…前回のように支部から逃げ出した\n幻想体がどこかで徘徊しているんでしょうか？あるいは、ねじれとか…。"
+  },
+  {
+    "key": "30-content",
+    "original": "체사라는 와다다 말을 이어가는 이스마엘을 물끄러미 바라보았다.",
+    "context": "EN :\nCesara wordlessly stared at Ishmael as she began to rapid-fire her list of questions.\nJP :\nチェーザラは、立て板に水のイシュメールをじっと見つめていた。"
+  },
+  {
+    "key": "31-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "31-content",
+    "original": "어, 아… 설명. 그러니까 환상체나 뒤틀림이라는 건 일종의 괴물… 같은 건데요.",
+    "context": "EN :\nOh, uh... ah, right. Forgot to explain. So Abnormalities and Distortions are the kind of 'monsters' that may look similar at first glance—\nJP :\nえっ、あぁ…説明。つまり、幻想体やねじれというのは\n一種の怪物…みたいなものなんですけど―"
+  },
+  {
+    "key": "32-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "32-content",
+    "original": "…차라리 그런 ‘것’이었으면 더 좋았을 뻔했을 텐데요.",
+    "context": "EN :\n... If only our problem was just another monster to deal with.\nJP :\n…いっそ、そんな「もの」ならもっと良かったんですけどね。"
+  },
+  {
+    "key": "33-content",
+    "original": "이곳에 도착하자마자 유독 신경 쓰였던 것이 하나 있었다.",
+    "context": "EN :\nSomething had caught my eye immediately after we arrived at this place.\nJP :\nここに到着してすぐ、とても気になっていたことが1つあった。"
+  },
+  {
+    "key": "34-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "34-content",
+    "original": "<실종자 전단지들…>",
+    "context": "EN :\n<The missing persons flyers...>\nJP :\n<失踪者の張り紙…。>"
+  },
+  {
+    "key": "35-content",
+    "original": "역의 기둥 곳곳에 붙어 있는 수많은 실종자 전단지들.",
+    "context": "EN :\nCountless flyers, each in search of a different person, were taped to the pillars inside the station.\nJP :\n駅の柱のあちこちに貼られている、数多の失踪者の張り紙。"
+  },
+  {
+    "key": "36-content",
+    "original": "나이도, 성별도 모두 제각각. P사에서 불특정 다수의 사람들이 실종된 것 같다.",
+    "context": "EN :\nLooks like people of P Corp. are randomly going missing in no discernible age or gender patterns.\nJP :\n年齢も、性別も全てバラバラ。\nP社で不特定多数の人々が行方不明になっているようだ。"
+  },
+  {
+    "key": "37-content",
+    "original": "우리의 시선이 실종자 전단지에 향하고 있다는 걸 눈치챈 체사라가 말을 이었다.",
+    "context": "EN :\nCesara, realizing that we were staring at the wall of missing person flyers, began.\nJP :\n私たちの視線が失踪者の張り紙に向かっていることに\n気づいたチェーザラが、言葉を続けた。"
+  },
+  {
+    "key": "38-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "38-content",
+    "original": "전단지가 떼어지지 않고 종이가 너덜거릴 때까지 붙어있다는 건…",
+    "context": "EN :\nAs you can see, the flyers are all old, faded, and tattered to the point where the papers are starting to peel off.\nJP :\n張り紙が剥がされることなく、\n紙がボロボロになるまで貼られているということは…。"
+  },
+  {
+    "key": "39-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "39-content",
+    "original": "여전히 그들이 집으로 무사히 돌아오지 않고 있다는 뜻이죠.",
+    "context": "EN :\n... Which means that none of them have returned home safely.\nJP :\n未だ彼らが無事に家へと帰れていないということを意味します。"
+  },
+  {
+    "key": "40-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "40-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "41-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "41-content",
+    "original": "토벌해야 하는 건… 개체가 아니라…",
+    "context": "EN :\nSo we're not dealing with an entity, then...\nJP :\n討伐すべきなのは個体ではなく…。"
+  },
+  {
+    "key": "42-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "42-content",
+    "original": "현상인가?",
+    "context": "EN :\n... It is a phenomenon.\nJP :\n現象か？"
+  },
+  {
+    "key": "43-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "43-content",
+    "original": "행복한 미소가 꽃피는 곳.",
+    "context": "EN :\nThe land where the happiest smiles bloom.\nJP :\n幸せな笑顔が花開く場所。"
+  },
+  {
+    "key": "44-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "44-content",
+    "original": "옛 이야기 속의 놀이공원, 라만차랜드죠.",
+    "context": "EN :\nThe 'amusement park' of fables and legends, La Manchaland.\nJP :\n昔話の中の遊園地、ラ・マンチャランドです。"
+  },
+  {
+    "key": "45-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "45-content",
+    "original": "라만차랜드…",
+    "context": "EN :\nLa Manchaland...\nJP :\nラ・マンチャランド…。"
+  },
+  {
+    "key": "46-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "46-content",
+    "original": "집계가 된 실종자만 현재 수십여 명, 아마 실제로는 그 이상이겠죠.",
+    "context": "EN :\nMore than several dozen people have been reported missing. But the real number is likely much higher.\nJP :\n集計できた失踪者だけでも現在数十人余り、\n実際にはそれ以上いるでしょう。"
+  },
+  {
+    "key": "47-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "47-content",
+    "original": "두 달 전, P사 뒷골목에서 나타난 이 라만차랜드에 입장한 방문객들은… 오늘까지도 대부분 퇴장하지 못하고 있습니다.",
+    "context": "EN :\nMost of the guests who visited La Manchaland, which mysteriously materialized two months ago at the Backstreets of P Corp... are still trapped within.\nJP :\n2ヶ月前、P社の裏路地に現れたこの「ラ・マンチャランド」に入場した\n訪問者たちは…今日に至るまでほとんどがまだ退場できていません。"
+  },
+  {
+    "key": "48-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "48-content",
+    "original": "실종? 오로지 즐거움만이 가득해야 마땅한 놀이동산에서 어찌 그런 일이…",
+    "context": "EN :\nThey have gone 'missing', thou sayest? Yet how can that be? 'Tis against the nature of amusement parks to be so full of horror, not joy...!\nJP :\n失踪？楽しさだけで満ち溢れているべき遊園地にて、\nなにゆえそのようなことが…。"
+  },
+  {
+    "key": "49-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "49-content",
+    "original": "제게 할당된 직원들만으로는 처리가 불가능했어요. 생긴 지 사흘 만에 도시 질병을 부여받고 지금은 도시악몽이 되었죠.",
+    "context": "EN :\nI simply did not have enough manpower under my authority to deal with this. It was designated an Urban Plague three days after its first appearance, and now it's been escalated to an Urban Nightmare.\nJP :\n私に割り当てられた職員たちでは対処が不可能でした。できてからわずか\n3日で都市疾病に昇格し、今や都市悪夢になりました。"
+  },
+  {
+    "key": "50-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "50-content",
+    "original": "하지만 도시의 별도 아니고, 도시악몽 정도라면 P사가 자력으로 해결 가능한 수준이라고 생각됩니다만.",
+    "context": "EN :\nCurious. If it is a mere Urban Nightmare, not even a Star of the City, then shouldn't P Corp. be able to easily handle this on its own?\nJP :\nしかし、都市の星でもなく、都市悪夢程度であれば\nP社が自力で解決できる水準だと思われますが…。"
+  },
+  {
+    "key": "51-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "51-content",
+    "original": "음… 그게 다른 부서에서는 그리 주목하지 않는 현상이라 전투 부서의 정규 직원들이 투입되지 않았거든요.",
+    "context": "EN :\nMm... that's the thing. The other departments aren't really interested in this phenomenon, which means that the Martial Department won't be sending their elite employees to handle this case.\nJP :\nうーん…それが、他の部署ではあまり注目していない現象だったので、\n戦闘部門の正規職員が投入されなかったんですよ。"
+  },
+  {
+    "key": "52-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "52-content",
+    "original": "왜… 왜 P사에서는 그들을 투입시켜주지 않은 겐가?!",
+    "context": "EN :\nWha— Yet wherefore? Wherefore doth P Corp. not deploy their elite forces to swiftly vanquish this risk to the lives of the innocent?!\nJP :\nな、なにゆえP社は彼らを投入してくれなかったのであるか！？"
+  },
+  {
+    "key": "53-content",
+    "original": "돈키호테는 의뢰인이 하는 말에 완전히 몰입하다 못해 분개하고 있었다.",
+    "context": "EN :\nDon Quixote was now completely and emotionally invested in this gripping tale of tragedy that our client was sharing.\nJP :\nドンキホーテは依頼人の言葉に完全に没入するあまり、\nついには憤慨してしまった。"
+  },
+  {
+    "key": "54-content",
+    "original": "…체사라는 조금 과한 돈키호테의 반응을 즐기는 것 같기도 했다.",
+    "context": "EN :\n... Cesara seemed to be enjoying Don Quixote's excessive, almost theatrical reaction.\nJP :\n…チェーザラは、少しオーバーなドンキホーテの反応を\n楽しんでいるようにも見えた。"
+  },
+  {
+    "key": "55-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "55-content",
+    "original": "이 현상이 나타난 장소가 뒷골목이니까요.",
+    "context": "EN :\nBecause the phenomenon only affects the Backstreets.\nJP :\nこの現象が出現した場所が裏路地ですからね。"
+  },
+  {
+    "key": "56-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "56-content",
+    "original": "둥지였다면 당장에라도 압착부서의 정예 요원들을 배치했을걸요.",
+    "context": "EN :\nImagine if it happened somewhere within the Nest; squadrons of elite agents from the Compression Department would've descended the moment it manifested.\nJP :\n巣だったなら、すぐにでも圧搾部署の精鋭たちが配置されたでしょう。"
+  },
+  {
+    "key": "57-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "57-content",
+    "original": "그쯤 하시죠, 체사라 부장. 그게 다는 아니지 않습니까.",
+    "context": "EN :\nThat's enough beating around the bush, Head Manager Cesara. What more are you hiding?\nJP :\nその辺にしてください、チェーザラ部長。\nそれが全てではないと思いますが。"
+  },
+  {
+    "key": "58-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "58-content",
+    "original": "당신의 직책이라면 타 부서 직원을 투입해달라는 협조 요청은 일도 아니었을 것이고.",
+    "context": "EN :\nIt would've been a walk in the park for someone of your status and station to requisition agents from a different department.\nJP :\nあなたの立場なら、他部署の職員を投入して欲しいという協力要請など\n造作もないことだったはずでしょうし。"
+  },
+  {
+    "key": "59-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "59-content",
+    "original": "림버스 컴퍼니를 선택한 이유는, 따로 있지 않습니까.",
+    "context": "EN :\nSo, explain. Why did you really go through the trouble of hiring Limbus Company?\nJP :\nリンバス・カンパニーを選択した理由は、\n他にあるではないですか。"
+  },
+  {
+    "key": "60-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "60-content",
+    "original": "네 네, 나 참. 못 이기겠군요.",
+    "context": "EN :\nYes, yes. My, you really are unrelenting.\nJP :\nはいはい、全く。勝てっこありませんね。"
+  },
+  {
+    "key": "61-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "61-content",
+    "original": "알겠어요, 자백하겠습니다. 저희 부서의 목적은…",
+    "context": "EN :\nFine. I confess. The goal of our department...\nJP :\n分かりました、自白しましょう。\n我が部署の目的は…。"
+  },
+  {
+    "key": "62-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "62-content",
+    "original": "라만차랜드를 없애는 것이 아닙니다.",
+    "context": "EN :\n... isn't the eradication of La Manchaland.\nJP :\nラ・マンチャランドを無くすことではありません。"
+  },
+  {
+    "key": "63-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "63-content",
+    "original": "<…음?>",
+    "context": "EN :\n<... Huh?>\nJP :\n<…えっ？>"
+  },
+  {
+    "key": "64-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "64-content",
+    "original": "자, 당신들은 곧 다른 해결사들과 함께 라만차랜드로 향하게 될 것입니다.",
+    "context": "EN :\nNow, you will soon be heading into La Manchaland with the other Fixers.\nJP :\nさぁ、あなた方はじきに他のフィクサーたちと共に\nラ・マンチャランドへと向かうことになるでしょう。"
+  },
+  {
+    "key": "65-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "65-content",
+    "original": "한 가지 조언을 드리자면, 당신들이 황금가지를 찾으러 왔다는 사실을 다른 해결사들이 알게 하지 마세요.",
+    "context": "EN :\nA piece of advice, if you will; do not let the other Fixers know that you are here to find the Golden Bough.\nJP :\nひとつ助言を差し上げるとすれば、あなた方が黄金の枝を探しに来たという事実を、\n他のフィクターたちには知られないようにしてください。"
+  },
+  {
+    "key": "66-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "66-content",
+    "original": "황금가지라는 미지의 것이 어딘가에 숨겨져 있다고 섣불리 밝혔다간…",
+    "context": "EN :\nIf they were to somehow find out that there is this mysterious artifact called the 'Golden Bough' hidden somewhere within that zone...\nJP :\n黄金の枝という未知のものがどこかに隠されているとうっかり明かしてしまえば…。"
+  },
+  {
+    "key": "67-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "67-content",
+    "original": "해결사들에겐 또 다른 보상으로 여겨질 수도 있으니까요. 괜히 저들을 자극하지 말라는 소리죠.",
+    "context": "EN :\n... it could start attracting unwanted attention from Fixers who consider it a bounty separate from the eradication reward. No need to stir the pot, hm?\nJP :\nフィクサーたちには、それが別の報酬だと思われるかもしれませんからね。\nあえて彼らを刺激するなということです。"
+  },
+  {
+    "key": "68-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "68-content",
+    "original": "물론 눈치껏 저희 부서의 목표가 라만차랜드의 토벌이 아니라는 것도 함구하는 게 좋겠죠?",
+    "context": "EN :\nAnd I'm sure you are all savvy enough to know that it would be wise to keep quiet about the true objective of our department... if you know what I mean.\nJP :\nもちろん、我が部署の目標がラ・マンチャランドの討伐ではないということも、\n空気を読んで黙っておいた方がいいでしょうね？"
+  },
+  {
+    "key": "69-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "69-content",
+    "original": "한 마디로… P사와 림버스 컴퍼니 서로가 원하는 것을 조용히 얻고 처리하자는 소리 정도로 일축할 수 있겠네요.",
+    "context": "EN :\nI hear you loud and clear. Let's keep this hush-hush between P Corp. and Limbus Company, we both get what we want, and we can go our separate ways once this business is over. No fuss, no muss. Did I get that right?\nJP :\nひとことで言うと…P社とリンバス・カンパニーがそれぞれ欲しいものを\n波風立てずに手に入れ、処理しようという話で一蹴されそうですね。"
+  },
+  {
+    "key": "70-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "70-content",
+    "original": "정리가 깔끔하시네요.",
+    "context": "EN :\nThat's a pretty good summary.\nJP :\nまとめ方がお上手ですね。"
+  },
+  {
+    "key": "71-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "71-content",
+    "original": "너무 얕잡아 보지 말도록. 그렇게 멍청하게 기밀을 나불거릴 자가 우리 중에…",
+    "context": "EN :\nWho do you think we are? I can tell you right now that, when it comes to OPSEC—\nJP :\nあまり侮らないように。そんな馬鹿みたいに機密を\nペラペラと喋る者が我々の中に…。"
+  },
+  {
+    "key": "72-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "72-content",
+    "original": "…있을 수도 있나.",
+    "context": "EN :\n... some of us might fall slightly behind.\nJP :\n…いるかもしれないな。"
+  },
+  {
+    "key": "73-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "73-content",
+    "original": "이제 슬슬 본론으로 향하는 게 어떻겠습니까. 이곳에 오래 서 있을수록 시선만 많아질 뿐이니.",
+    "context": "EN :\nIt's about time we got to the point. We're only attracting more unwanted eyes by lingering here.\nJP :\nそろそろ本題に移るのはどうでしょう。\nここに長く立っていればいるほど、余計な視線ばかり集まりますから。"
+  },
+  {
+    "key": "74-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "74-content",
+    "original": "…그렇네요.",
+    "context": "EN :\n... That's true.\nJP :\n…そうですね。"
+  },
+  {
+    "key": "75-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "75-content",
+    "original": "라만차랜드로 들어가, 그곳을 최초로 만들어낸 무언가 혹은 누군가… 를 찾은 뒤, 저에게 데려오세요.",
+    "context": "EN :\nHere is your mission. Enter La Manchaland. Find the thing—or someone—that created La Manchaland, and bring it to me.\nJP :\nラ・マンチャランドに入り、その場所を最初に作り出した「何か」\nもしくは「誰か」…それを見つけて、私のところに連れて来てください。"
+  },
+  {
+    "key": "76-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "76-content",
+    "original": "누군가…?",
+    "context": "EN :\nOr someone...?\nJP :\n誰か…？"
+  },
+  {
+    "key": "77-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "77-content",
+    "original": "무언가일 수도 있다. 정보가 너무 적군. 생물인지 무생물인지도 알 수 없는 것인가.",
+    "context": "EN :\n\"The thing—or someone\" is too insufficient a description. We do not even know if what we seek is made of organic or inorganic material.\nJP :\n何かである可能性もある。情報が少なすぎるな。\n生物なのか無生物なのかも分からないということか。"
+  },
+  {
+    "key": "78-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "78-content",
+    "original": "단순히 라만차랜드를 없애는 걸로 끝나는 게 아니라… 만든 사람이 필요한 이유는 뭔가요…?",
+    "context": "EN :\nSo why do you need the... thing... person... who created La Manchaland? Shouldn't eradicating it be enough?\nJP :\n単にラ・マンチャランドを無くすので終わるんじゃなくて…\n作った人が必要になる理由は何ですか…？"
+  },
+  {
+    "key": "79-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "79-content",
+    "original": "…허.",
+    "context": "EN :\n... Hah.\nJP :\n…はぁ。"
+  },
+  {
+    "key": "80-content",
+    "original": "수감자들 여럿의 반응을 듣던 체사라의 눈빛이 순간 반짝거리며 싱클레어를 향했다.",
+    "context": "EN :\nCesara's eyes twinkled for a brief moment as they lingered on Sinclair.\nJP :\n囚人たちの反応を聞いていたチェーザラの目が一瞬鋭くなり、\nシンクレアに向けられた。"
+  },
+  {
+    "key": "81-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "81-content",
+    "original": "왜… 왜 그러시나요…?",
+    "context": "EN :\nD-did I say something wrong...?\nJP :\nど…どうされましたか…？"
+  },
+  {
+    "key": "82-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "82-content",
+    "original": "그런 질문을 감히 할 거라는 생각조차 하지 못해서 오히려 말문이 막혔달까요.",
+    "context": "EN :\nI don't know. I suppose I was flabbergasted by your boldness of daring to ask a question like that.\nJP :\nまさかそんな質問を投げかけられるとは思ってもみなかったので、\nむしろ絶句したって言うべきでしょうか。"
+  },
+  {
+    "key": "83-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "83-content",
+    "original": "제가 당신들에게 황금가지를 왜 찾아 헤매고 있냐는 질문을 하지 않았던 것처럼.",
+    "context": "EN :\nNotice how I'm not asking you why you're looking for the Golden Boughs?\nJP :\n私があなた方に、なぜ黄金の枝を探し回っているのかという質問を\nしなかったのと同じように。"
+  },
+  {
+    "key": "84-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "84-content",
+    "original": "아…",
+    "context": "EN :\nAhh...\nJP :\nあっ…。"
+  },
+  {
+    "key": "85-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "85-content",
+    "original": "뭐, 굳이 숨길만한 내용은 아니지만요.",
+    "context": "EN :\nWell, it's not like a big secret or anything.\nJP :\nまぁ、あえて隠すような内容ではないですけどね。"
+  },
+  {
+    "key": "86-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "86-content",
+    "original": "굳이 말씀드리자면… 그 피해에 대한 책임을 묻기 위해서죠.",
+    "context": "EN :\nIf you really do want to know, here it is. I just want whoever, or whatever it is behind this case to be held responsible for the damages they've caused.\nJP :\nあえて申し上げるなら…その被害に対する責任を問うためですね。"
+  },
+  {
+    "key": "87-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "87-content",
+    "original": "음음, 맞는 말이지. 그런 극악무도한 짓을 저지른 자에겐 마땅한 처벌이 내려져야 하는 법!",
+    "context": "EN :\nMm, forsooth! A villain who hath committed such wicked atrocity deserveth a punishment most fitting!\nJP :\nうむうむ、そうであるな。そのような極悪非道なことをした者には、\n当然の報いが下されるべきなのだ！"
+  },
+  {
+    "key": "88-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "88-content",
+    "original": "그리고 겸사겸사 다른 부서들을 제칠 만한 성과를 올려서 간만에 승진하면 더 좋고요.",
+    "context": "EN :\nAnd as a little bonus, I get to put some achievements under my belt to give my department a little push to rise above the others. I could use some promotion right about now, you know.\nJP :\nそれと、他の部署を出し抜けるような成果を上げて、\n久々に昇進できればもっと良いですしね。"
+  },
+  {
+    "key": "89-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "89-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "90-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "90-content",
+    "original": "…어차피 우리가 받아들이냐와는 관계없이, 윗선과는 이야기가 다 끝난 사항이겠지.",
+    "context": "EN :\n... I suppose it doesn't matter whether we accept your proposition or not. You must have already reached an agreement with the top brass of our company.\nJP :\n…どうせ我々が受け入れるかどうかは関係なく、\n上層部との話は全て終わった状況だろう。"
+  },
+  {
+    "key": "91-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "91-content",
+    "original": "…만약 우리가 그곳을 직접 없애버리는 데 성공한다고 쳐도, 그 요상한 놀이공원을 만든 놈을 너희에게 안 데려오면.",
+    "context": "EN :\n... Right. But what if, after kickin' the phenomenon's arse, we don't bother bringin' in the bloke who made that bizarre amusement park?\nJP :\n…もしオレたちがその場所を壊すことに成功したとして、\nそのヘンテコな遊園地を作ったヤツをお前たちに渡さなかったら。"
+  },
+  {
+    "key": "92-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "92-content",
+    "original": "그땐 어쩔 거냐?",
+    "context": "EN :\nWhat'll you do then?\nJP :\nそしたらどうするつもりだ？"
+  },
+  {
+    "key": "93-content",
+    "original": "히스클리프의 말은 꽤 거친 느낌이었지만, 사실 의문을 품을 만한 일이었다.",
+    "context": "EN :\nHeathcliff spoke crassly, but it was a reasonable question.\nJP :\nヒースクリフの言葉はかなり荒々しかったけど、\n実際のところ疑問を抱くに値する内容だった。"
+  },
+  {
+    "key": "94-content",
+    "original": "안 데려온다기보다, 못 데려올 수도 있는 상황이 생길 수 있을 테니까.",
+    "context": "EN :\nAfter all, there was also a chance that we could *fail* to bring the culprit here, even if we wanted to.\nJP :\n連れて来ないというより、連れて来れないかもしれない\n状況になるかもしれないから。"
+  },
+  {
+    "key": "95-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "95-content",
+    "original": "당장 손에 넣을 순 없겠지만, 황금가지라는 걸 우리 쪽에서도 차차 연구를 해보기 시작하겠죠.",
+    "context": "EN :\nWell, then I suppose we'll start looking into what these 'Golden Boughs' are, even if we won't get our hands on them immediately.\nJP :\nすぐに手に入れることはできないでしょうけど、黄金の枝というものについて\n我々の方でも徐々に研究し始めることになるでしょう。"
+  },
+  {
+    "key": "96-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "96-content",
+    "original": "하. 갖고 오지 않으면 앞으로 우리의 것을 빼앗을 수도 있다는 말이군.",
+    "context": "EN :\nHah. So you'll start getting in our way if we don't bring you what you want, is that it?\nJP :\nはっ。持って来なければ、この先\n我々のものを奪うこともあるということだな。"
+  },
+  {
+    "key": "97-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "97-content",
+    "original": "물론 데려온다면 굳이 그런 불확실한 걸 연구할 필요는 없겠죠.",
+    "context": "EN :\nIt would be a rather unnecessary and cost-ineffective research investment, of course, but you just might force our hand if you don't do as we requested.\nJP :\n勿論連れて来れば、そんな不確実な研究をする必要はなくなるでしょう。"
+  },
+  {
+    "key": "98-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "98-content",
+    "original": "그리고… 지금이야 라만차랜드가 도시악몽에 머무르고 있다 해도, 그 위험도의 성장세가 가파르다 보니 도시 곳곳에서 조금씩 주목받고 있어요.",
+    "context": "EN :\nBesides... While La Manchaland is only an Urban Nightmare at the moment, its threat level is rising exponentially. This means that more and more people in the City are beginning to catch wind of this case.\nJP :\nそれに…今はラ・マンチャランドが都市悪夢の状態に留まっているとしても、\nその危険度の増加が急速なため、都市のあちこちでも\n少しずつ注目が集まり始めています。"
+  },
+  {
+    "key": "99-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "99-content",
+    "original": "지금 이 순간에도 여러 해결사들이 라만차랜드의 토벌을 위해 도시 전역에서 모이고 있기도 하고.",
+    "context": "EN :\nNumerous Fixers from all over the City are gathering here at this very moment to eradicate La Manchaland, to demonstrate my point.\nJP :\n今この主観にも、様々なフィクサーたちが\nラ・マンチャランドの討伐のために都市の全域から集まってもいますし。"
+  },
+  {
+    "key": "100-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "100-content",
+    "original": "라만차랜드를 토벌할 사람들은 우리 말고도 많다는 건가요?",
+    "context": "EN :\nSo, you're saying that we're not your only option.\nJP :\nラ・マンチャランドを討伐しようとする人たちは\n私たち以外にも沢山いるということですか？"
+  },
+  {
+    "key": "101-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "101-content",
+    "original": "돈과 명예를 원하는 자들은 언제나 마르는 법이 없죠.",
+    "context": "EN :\nMhm, who doesn't love fame and fortune? We could always get a truckload of willing participants if we wanted to.\nJP :\n金と名声を望む者は、いつであれ\n干上がって尽きることはありません。"
+  },
+  {
+    "key": "102-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "102-content",
+    "original": "아, 어쩌면 그 해결사들도 조만간 황금가지라는 것에 관심을 가질 수도 있을 거예요. 값진 것이 있으면 단내를 풍겨오기 마련이니까.",
+    "context": "EN :\nOh, and maybe, just maybe, some Fixers among them may find themselves becoming particularly interested in these Golden Boughs. I swear, these precious artifacts must have a particular smell that attracts Fixers like bees to honey.\nJP :\nああ、もしかしたらそのフィクサーたちも、近いうちに「黄金の枝」に興味を\n持つかもしれませんね。価値のあるものであれば、\n自然と甘い香りが漂ってくるものですから。"
+  },
+  {
+    "key": "103-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "103-content",
+    "original": "…다른 세력이나 해결사가 눈독 들이기 전에 조용히 거래하자는 거군요.",
+    "context": "EN :\n... Got it. You want this mission taken care of before the phenomenon attracts too much attention.\nJP :\n…他の勢力やフィクサーが目を付ける前に、\n静かに取引を済ませようというわけですね。"
+  },
+  {
+    "key": "104-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "104-content",
+    "original": "이번에도 이야기의 핵심을 잘 파악하네요!",
+    "context": "EN :\nOh, you're cutting right through the fluff again!\nJP :\n今回もこの話の核心を上手に把握されましたね！"
+  },
+  {
+    "key": "105-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "105-content",
+    "original": "맞아요. 다행인 일이죠, 서로가 찾고 있는 게 ‘아직까진’ 서로에게만 가치 있다고 판단하고 있으니까.",
+    "context": "EN :\nAnyways, you got that right. Isn't it so fortunate how we both seem to be under the impression that what each of us is looking for won't be of much use to the other? For now, at least?\nJP :\nその通りです。幸いなことに、お互いが探しているものが\n「今のところは」お互いにしか価値がないと判断しているから。"
+  },
+  {
+    "key": "106-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "106-content",
+    "original": "그래서 당신들도 황금가지에 대해 말을 아끼는 거고, 저희도 라만차랜드를 만든 무언가에 대해서 입조심을 하는 거죠.",
+    "context": "EN :\nI suppose that is why you're keeping the nature of those Golden Boughs discreet, and that is why we're keeping it on the down low about what created La Manchaland.\nJP :\nだからあなた方も黄金の枝について言葉を惜しんでいるし、私たちも\nラ・マンチャランドを作った何かについて口を閉ざしているというわけです。"
+  },
+  {
+    "key": "107-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "107-content",
+    "original": "타당. 아는 놈이 많을수록 정보는 가치를 잃지. 흔해빠진 공산품처럼.",
+    "context": "EN :\nAgreed. The more eyes observe an info, the less value it has. Like run-of-the-mill mass-produced products.\nJP :\n妥当。知るヤツが多いほど情報は価値を失う。\nありふれた工業製品みたいにな。"
+  },
+  {
+    "key": "108-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "108-content",
+    "original": "그럼 그렇지… 난 또 기념품이라도 챙겨주는 줄 알았잖아, 괜히 따로 부른 게 아니었네.",
+    "context": "EN :\nHaah... of course it's all work talk. I got excited for a sec thinkin' we were about to get some nice souvenirs.\nJP :\nそれもそっかぁ…てっきり記念品でもくれるのかっておもったじゃん、\n別に呼んだのは理由があったんだね。"
+  },
+  {
+    "key": "109-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "109-content",
+    "original": "당신들에게 거는 기대가 커요.",
+    "context": "EN :\nWe have very high expectations for every single one of you.\nJP :\nあなた方に懸けている期待が大きいです。"
+  },
+  {
+    "key": "110-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "110-content",
+    "original": "죽음까지도 불사하시는 분들이잖아요.",
+    "context": "EN :\nAfter all, you're all willing to die for this, aren't you?\nJP :\n死すらも恐れない方々ですからね。"
+  },
+  {
+    "key": "111-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "111-content",
+    "original": "<자꾸 저 말을…>",
+    "context": "EN :\n<She keeps saying that...>\nJP :\n<何度もあの言葉を…。>"
+  },
+  {
+    "key": "112-content",
+    "original": "모든 의뢰는 항상 이런 식이었던 것 같다.",
+    "context": "EN :\nThis is what every single one of our contracts has been like.\nJP :\n大体の依頼は、いつもこんな感じだった気がする。"
+  },
+  {
+    "key": "113-content",
+    "original": "처음부터 모두의 안전과 평화는 뒷전.",
+    "context": "EN :\nOur stability and safety go out the window the moment a mission begins in earnest.\nJP :\n最初から皆の安全と平和なんて二の次。"
+  },
+  {
+    "key": "114-content",
+    "original": "각자 원하는 것을 내세우고, 그 속내는 드러내지 않는다.",
+    "context": "EN :\nWe share nothing but our cold goals and objectives, not exchanging anything deeper than the shallowest transactions.\nJP :\nそれぞれが自分の望むものを掲げ、その本音は表に出さない。"
+  },
+  {
+    "key": "115-content",
+    "original": "이런 방법에 대해 이미 마음 한켠에서 납득하고 있지만…",
+    "context": "EN :\nI'd grown to accept this as an inevitability, but...\nJP :\nこんな方法については既に心の片隅で納得してるけど…。"
+  },
+  {
+    "key": "116-content",
+    "original": "올바르지 못한 과정이 될 수 있다는 것은 알고 있다.",
+    "context": "EN :\n... I do know that this is... probably not the right way.\nJP :\nそれが正しくない道へと進むことになるかもしれないことは\n分かっている。"
+  },
+  {
+    "key": "117-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "117-content",
+    "original": "흐흠!",
+    "context": "EN :\nAHEM!\nJP :\nうえっへん！"
+  },
+  {
+    "key": "118-content",
+    "original": "그럼 그렇지 하는 덤덤한 눈빛의 다른 수감자들 사이에서, 돈키호테의 눈만이 홀로 불꽃처럼 타오르고 있었다.",
+    "context": "EN :\nAmidst the dull and resigned eyes of the other Sinners, Don Quixote's eyes alone burned with passionate fire.\nJP :\nやっぱりなぁという冷めた目をした他の囚人たちの中で、\nドンキホーテの瞳だけが一人、炎のように燃え上がっていた。"
+  },
+  {
+    "key": "119-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "119-content",
+    "original": "체사라 부장이시여, 믿어주시게!",
+    "context": "EN :\nThou mayest put thy faith in us, Head Manager Cesara!\nJP :\nチェーザラ部長よ、信じてくだされ！"
+  },
+  {
+    "key": "120-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "120-content",
+    "original": "꼭 이 돈키호테와 림버스 컴퍼니의 동료들이 라만차랜드를 없애고 실종된 사람들까지 구해내리다!",
+    "context": "EN :\nI, Don Quixote, and my compatriots here at Limbus Company shall put an end to the terrible reign of this 'La Manchaland', and rescue every single victim it hath claimed!\nJP :\n必ずこのドンキホーテとリンバス・カンパニーの仲間たちが\nラ・マンチャランド消して、失踪した人々までいざ救わん！"
+  },
+  {
+    "key": "121-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "121-content",
+    "original": "그 간악한 라만차랜드의 창조자 또한 데려올 테니, 부디 모두를 대신하여 엄벌에 처해 주시게.",
+    "context": "EN :\nAnd mark my words; we shall pinch this vile rascal who created La Manchaland by the collar and present them before thee! Prithee, smite them with the hammer of justice in everyone's stead.\nJP :\nその奸悪(かんあく)なラ・マンチャランドの創造者も必ず連れくるゆえ、\nどうか皆に代わって厳しく罰してくだされ。"
+  },
+  {
+    "key": "122-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "122-content",
+    "original": "어머나… 그거 참 안심이 되는 말이네요. 웬만한 해결사들보다 더 믿음직스러운걸요?",
+    "context": "EN :\nMy, my...! You certainly know how to inspire confidence. That's more than I could say for the vast majority of Fixers I've known!\nJP :\nあらまぁ…それまた安心できる言葉ですね。\n大抵のフィクサーたちよりも、ずっと頼もしいですね？"
+  },
+  {
+    "key": "123-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "123-content",
+    "original": "크흐엉… 이 돈키호테, 자네를 위해 용맹하고 명예롭게 싸워서 P사의 전당에 이름을 남기리라…",
+    "context": "EN :\nSniff... I, Don Quixote, shall battle valiantly and honorably; thus shall my name be forever etched in the halls of P Corp....!\nJP :\nくほぉっほん…このドンキホーテ、そなたのため勇猛かつ\n名誉ある戦いを繰り広げ、P社の殿堂に名を刻まん…。"
+  },
+  {
+    "key": "124-content",
+    "original": "돈키호테는 체사라의 입에서 나오는 부탁은 무엇이라도 해낼 것 같은 사람처럼 방방 뛰고 있었다.",
+    "context": "EN :\nDon Quixote was bouncing up and down like she was prepared to stand at Cesara's beck and call.\nJP :\nドンキホーテは、チェーザラの口から出る頼みなら\n何でもやり遂げそうな勢いでボンボン跳び跳ねていた。"
+  },
+  {
+    "key": "125-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "125-content",
+    "original": "그만…",
+    "context": "EN :\nPlease stop...\nJP :\nやめろ…。"
+  },
+  {
+    "key": "126-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "126-content",
+    "original": "그 짧은 시간에 사람 하나 다루는 법을 정확하게 간파해 냈군…",
+    "context": "EN :\nThis woman certainly wasted no time figuring out how to turn her into putty in her hands...\nJP :\nあの短い時間で人間ひとりを扱う方法を正確に看破したか…。"
+  },
+  {
+    "key": "127-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "127-content",
+    "original": "저 녀석이 너무 쉬운 거 아니냐…",
+    "context": "EN :\nIt really ain't that difficult to see how the lass works, to be fair...\nJP :\nアイツが単純すぎるだけじゃねぇの…。"
+  },
+  {
+    "key": "128-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "128-content",
+    "original": "자, 그럼 슬슬 이동할까요?",
+    "context": "EN :\nWell, then! Shall we get a move on?\nJP :\nじゃあ、そろそろ移動しますか？"
+  },
+  {
+    "key": "129-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "129-content",
+    "original": "떠나세. 자, 안내해 주시겠는가!",
+    "context": "EN :\nLet us depart! Lead the way, Lady Cesara!\nJP :\n征かん。さぁ、案内を頼めまするか！"
+  },
+  {
+    "key": "130-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "130-content",
+    "original": "안타깝지만 안내는 없어요. 저는 여러분들이랑 같이 갈 수 없는걸요.",
+    "context": "EN :\nOh, I'm sorry. Sadly, I can't go there with you.\nJP :\n残念ですが案内はありません。\n私はあなた方とは一緒に行けないんですよ。"
+  },
+  {
+    "key": "131-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "131-content",
+    "original": "여기, 종이에 적힌 장소로 가주시면 됩니다.",
+    "context": "EN :\nPlease head to the location marked on this piece of paper.\nJP :\nここ、紙に書かれた場所に行ってくれれば良いです。"
+  },
+  {
+    "key": "132-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "132-content",
+    "original": "어째서인가! 자네 혼자서만 가면 모험이 적적할 터인데…",
+    "context": "EN :\nYet wherefore?! A journey on thy lonesome shall be so dreary, no?\nJP :\nどうしてであるか！\nそなたひとりで行けば冒険も寂しいであろう…。"
+  },
+  {
+    "key": "133-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "133-content",
+    "original": "당연하잖아요. 온갖 해결사들이 모여 있다는 곳에서, 우리가 저 부장이랑 같이 들어가면 순식간에 인기스타가 될걸요…",
+    "context": "EN :\nIsn't it obvious? If we show up at the Fixers' gathering with the Head Manager of a whole department in tow, we'll attract more eyes than superstars on a red carpet.\nJP :\n当然じゃないですか。フィクサーたちが集まっている場所で、\n私たちがあの部長と一緒に入れば、一瞬で人気スターになりますよ…。"
+  },
+  {
+    "key": "134-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "134-content",
+    "original": "응, 우리랑 P사가 모종의 연결고리가 있다는 냄새를 바로 맡게 되겠지.",
+    "context": "EN :\nYep. I'm sure they'll sniff out our connection to P Corp. at a glance...\nJP :\nうん、私たちとP社にある種のコネがあるってニオイを\nすぐ嗅ぎつけるだろうね。"
+  },
+  {
+    "key": "135-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "135-content",
+    "original": "인기스타… 좋지 않은가…",
+    "context": "EN :\nYet... are not stars of... super variety a good goal to strive for?\nJP :\n人気スター…良いではないか…。"
+  },
+  {
+    "key": "136-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "136-content",
+    "original": "돈키호테… 이 말의 뜻이 꼭 하나만 있지 않다는 걸 슬슬 알 때가…",
+    "context": "EN :\nDon Quixote... this might come as news to you, but sometimes words can mean more than one thing at a time...\nJP :\nドンキホーテ…その言葉の意味することが1つだけじゃないってこと、\nそろそろ気づくべきとき―"
+  },
+  {
+    "key": "137-model",
+    "original": "체사라",
+    "translation": "切萨拉",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCesara\nJP :\nチェーザラ"
+  },
+  {
+    "key": "137-content",
+    "original": "현장은 뒷골목에 있으니 통행권을 나눠 드릴게요. 당분간 P사의 뒷골목과 둥지를 자유롭게 오갈 수 있는 특수 업무 비자입니다.",
+    "context": "EN :\nHere's a pass that'll let you move freely between the Backstreets and the Nest of P Corp. Do note that it's a work visa, however, so it won't last forever.\nJP :\n現場は裏路地にあるので通行券をお分けします。\n当分の間、P社の裏路地と巣を自由に行き来できる業務用ビザです。"
+  },
+  {
+    "key": "138-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "138-content",
+    "original": "역시… 이런 걸 나눠줄 정도면 작거나 힘이 없는 부서는 아닌 것 같은데 말이죠…",
+    "context": "EN :\nHmm... If they can just hand out something so important this easily, I can't imagine why her department won't be able to handle it themselves...\nJP :\nやっぱり…こんなのを分けてくれるくらいなら\n小さいとか力のない部署ではないはずだと思うんですけどね…。"
+  },
+  {
+    "key": "139-content",
+    "original": "싱클레어는 여전히 켕기는 것이 있어 보였지만, 수감자들이 시끌거리며 비자를 받으러 돌아다니는 통에 싱클레어의 조용한 고민은 곧 흐려지고 말았다.",
+    "context": "EN :\nSinclair was still quietly suspicious, but that small doubt was practically buried in the brief commotion that followed as Sinners gathered in front of Cesara to receive their visa.\nJP :\nシンクレアは未だ何か引っかかる様子だったけど、囚人たちがガヤガヤと\nビザを受け取りに回ったせいで、彼の静かな悩みはすぐに薄れてしまった。"
+  }
+]

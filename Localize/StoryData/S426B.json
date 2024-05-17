@@ -1,0 +1,845 @@
+[
+  {
+    "key": "0-place",
+    "original": "K사 로보토미 지부 어딘가",
+    "context": "EN :\nNest K - LC Branch Interior\nJP :\nK社 ロボトミー支部のどこか"
+  },
+  {
+    "key": "0-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "0-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "0-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "0-content",
+    "original": "그럼 이제… 네 쪽에서 설명해 주겠어, 슈렌느?",
+    "context": "EN :\nAlright, then... Care to give us an explanation, Shrenne?\nJP :\nじゃあ今から…君の方で説明してくれるか、シュレンヌ？"
+  },
+  {
+    "key": "1-content",
+    "original": "슈렌느가 표정 짓는 법을 잊은 듯 동랑을 가만히 바라본다.",
+    "context": "EN :\nShrenne blankly looks at Dongrang, her face wooden as if she's forgotten how to make expressions.\nJP :\nシュレンヌは顔の作り方を忘れたように、ドンランを静かに見つめる。"
+  },
+  {
+    "key": "2-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "2-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "2-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "2-content",
+    "original": "언제부터 저쪽 편에 붙은 거야?",
+    "context": "EN :\nSince when did you join their side?\nJP :\nいつからあっちの方に付いたんだ？"
+  },
+  {
+    "key": "3-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "3-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "3-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "3-content",
+    "original": "…대단하다. 놀라는 시늉도 안 하네.",
+    "context": "EN :\n...You really are something. You don't even act surprised.\nJP :\n…凄いね。驚いた素振りも見せないんだ。"
+  },
+  {
+    "key": "4-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "4-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "4-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "4-content",
+    "original": "하, 앰플도 없이 멀쩡히 살아나는 직원들이라니… 이런 건 계획에 없었어… 너무 치사하잖아.",
+    "context": "EN :\nHah, employees that can be brought back to life without the ampules, huh... This wasn't in the plans... It's not fair.\nJP :\nはっ、アンプルも無しにピンピンと生きてる職員だなんて…こんなの計画に無かった…ズルすぎるでしょ。"
+  },
+  {
+    "key": "5-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "5-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "5-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "5-content",
+    "original": "연구실에서, 네가 따라가겠다고 했을 때 이유를 묻는 내게 이렇게 대답했지.",
+    "context": "EN :\nWhen I asked why you volunteered to follow me at the laboratory, you told me this:\nJP :\n研究室で付いて行くと行ったとき、理由を聞いた僕に君はこう答えた。"
+  },
+  {
+    "key": "6-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "6-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "6-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "6-content",
+    "original": "‘동료가 셋이나 죽었어’라고.",
+    "context": "EN :\n\"Three of my coworkers died.\"\nJP :\n「同僚が三人も死んだ」って。"
+  },
+  {
+    "key": "7-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "7-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "7-content",
+    "original": "우리 쪽에서 죽은 사람들은 셋이 아니라 다섯이야. 해방연합에서 죽은 사람들 숫자가 셋이었지.",
+    "context": "EN :\nFive of us died in that attack. Three is the number of casualties the technology liberation alliance suffered.\nJP :\n僕らの方で死んだ人は三人じゃなくて五人だ。解放連合で死んだ人の数字が三人だったよね。"
+  },
+  {
+    "key": "8-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "8-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "8-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "8-content",
+    "original": "아, 그리고 너 개인 전산 기록도 봤어.",
+    "context": "EN :\nOh, and I checked your network history, too.\nJP :\nあぁ、そして君の個人電算記録も見たよ。"
+  },
+  {
+    "key": "9-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "9-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "9-content",
+    "original": "뭐야… 그런 것도 가능했어?",
+    "context": "EN :\nYou did what... You're allowed to do that?\nJP :\nなによ…そんなのも出来たの？"
+  },
+  {
+    "key": "10-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "10-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "10-content",
+    "original": "최우수 직원의 특혜는 날 밤을 까도 설명하기 모자라다니까?",
+    "context": "EN :\nSo they keep telling you, it takes a full day and the night after to name all the benefits of the best employee.\nJP :\n最優秀職員の恩恵は、夜を明かしても説明するには足りないって言ったよね？"
+  },
+  {
+    "key": "11-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "11-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "11-content",
+    "original": "그 망할 놈의 최우수 최우수 최우수…",
+    "context": "EN :\nThat stupid \"best\" tripe again...\nJP :\nまーた最優秀最優秀最優秀…。"
+  },
+  {
+    "key": "12-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "12-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "12-content",
+    "original": "퇴사한 란 선배랑 엄청 긴밀하게 메일을 주고받았던데. 무슨 내용이었어? 내가 커피 마시자고 보낸 메일엔 답장 한 통도 없었으면서.",
+    "context": "EN :\nI saw that you exchanged tons of mail with Ran even after she left. What was it about? You wouldn't reply to a single one I sent asking to go grab coffee together.\nJP :\n退社したラン先輩と凄く緊密にメールをやりとりしてたけど。どういう内容だった？僕がコーヒー飲もうって送ったメールには返信一通も返さなかったくせに。"
+  },
+  {
+    "key": "13-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "13-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "13-content",
+    "original": "하긴… 너는 입사할 때부터 란 선배를 존경했지. 비밀번호도 ‘보고싶다란선배’ 던데?",
+    "context": "EN :\nI do suppose... you've respected Ran a lot ever since you joined. Even your password was set as \"missyouran\", how about that?\nJP :\nまぁ…君は入社したときからラン先輩を尊敬したよね。パスワードも「aitairansenpai」だったけど？"
+  },
+  {
+    "key": "14-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "14-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "14-content",
+    "original": "아니, 잠깐… 정말입니까?",
+    "context": "EN :\nWait, is this... all true?\nJP :\nいや、ちょっと…本当ですか？"
+  },
+  {
+    "key": "15-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "15-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "15-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "15-content",
+    "original": "이해가 안 됩니다. K사 연구소만큼 안정적이고 복지도 높으며 각광받는 연구원 자리는 없습니다.",
+    "context": "EN :\nI don't understand. K Corp's research institutes are the best workplace you could ask for as a scientist; it's a stable job, cares about employee well-being, and has the limelight of the academy.\nJP :\n理解できません。K社研究所くらいに安定的で、福祉も充実していて、脚光を浴びている研究員職はありません。"
+  },
+  {
+    "key": "16-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "16-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "16-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "16-content",
+    "original": "그런데, 왜 그 이런 테러 집단과 내통을…",
+    "context": "EN :\nBut, why would you turn your back on it and collude with those terrorists...\nJP :\nそれなのに、どうしてこんなテロ集団と内通を…。"
+  },
+  {
+    "key": "17-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "17-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "17-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "17-content",
+    "original": "전 당신 정도면 꽤 미래가 충만한 연구원이라고 생각했습니다만… 물론 동랑 님에 비하면 아직 멀었지만…",
+    "context": "EN :\nI saw you as a researcher with a promising future... You had a long way to go compared to Mr. Dongrang, but still...\nJP :\n僕は、あなたくらいならかなり未来が明るい研究者になると思いましたが…もちろんドンランさんに比べるとまだまだですが…。"
+  },
+  {
+    "key": "18-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "18-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "18-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "18-content",
+    "original": "그래, 슈렌느. 네 입으로 직접 말해줘.",
+    "context": "EN :\nYeah, Shrenne. Why don't you say it yourself?\nJP :\nうん、シュレンヌ。君の口で直接話してくれ。"
+  },
+  {
+    "key": "19-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "19-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "19-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "19-content",
+    "original": "왜 저들과 뜻을 함께하게 됐어?",
+    "context": "EN :\nWhy did you decide to collude with them?\nJP :\nどうして彼らと意を共にしたんだ？"
+  },
+  {
+    "key": "20-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "20-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "20-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "20-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "21-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "21-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "21-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "21-content",
+    "original": "눈물이 멈추지 않으니까.",
+    "context": "EN :\nThe tears wouldn't stop.\nJP :\n涙が止まらないから。"
+  },
+  {
+    "key": "22-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "22-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "22-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "22-content",
+    "original": "너…",
+    "context": "EN :\nYou...\nJP :\n君…。"
+  },
+  {
+    "key": "23-model",
+    "original": "슈렌느",
+    "translation": "施伦妮",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "23-teller",
+    "original": "슈렌느",
+    "context": "EN :\nShrenne\nJP :\nシュレンヌ"
+  },
+  {
+    "key": "23-title",
+    "original": "K사 연구소",
+    "context": "EN :\nK Corp. Laboratory\nJP :\nK社 研究所"
+  },
+  {
+    "key": "23-content",
+    "original": "너라면 무슨 뜻인지 알겠지? 난…",
+    "context": "EN :\nYou know what that means, right? I...\nJP :\nあんたならどういう意味か分かるよね？私…。"
+  },
+  {
+    "key": "24-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "24-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "24-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "24-content",
+    "original": "…!",
+    "context": "EN :\n…!\nJP :\n…！"
+  },
+  {
+    "key": "25-content",
+    "original": "슈렌느의 뒷말은 끝내 들을 수 없었다.",
+    "context": "EN :\nWe couldn't hear the rest of what Shrenne tried to say.\nJP :\nシュレンヌの残りの言葉を聞くことはできなかった。"
+  },
+  {
+    "key": "26-content",
+    "original": "처음에는 기다랗고 가는, 붉은 선이 슈렌느의 몸에 그어지는 줄 알았지만…",
+    "context": "EN :\nAt first, it looked like a thin red line was drawn on her body...\nJP :\n最初は長くて細い、赤い線がシュレンヌの身体に引かれたと思ったけど…。"
+  },
+  {
+    "key": "27-content",
+    "original": "이내 단순한 선이 아님을 모두가 깨달았다.",
+    "context": "EN :\nThen we realized that it wasn't just a line.\nJP :\nすぐに単純な線ではないことを、皆が悟った。"
+  },
+  {
+    "key": "28-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "28-content",
+    "original": "이봐… 슈렌느 씨…",
+    "context": "EN :\nHey... Shrenne...\nJP :\nおい…シュレンヌさん…。"
+  },
+  {
+    "key": "29-content",
+    "original": "깔끔하게 반으로 갈라진 머리의 뇌는 재생 앰플 따위로 손쓸 방도가 없다고 주장하듯 뇌수 같은 것이 첨벙거리고 있었다.",
+    "context": "EN :\nCut clean in half, fluid splashed from the severed hemispheres of her brain as if to convey that regeneration ampules won't heal this.\nJP :\n整然と半分に割れた頭の脳からは、再生アンプルなんかじゃ手の施しようがないと主張するように、脳髄のようなものがビチャビチャいってた。"
+  },
+  {
+    "key": "30-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "30-content",
+    "original": "핫, 하하… 닥치고 동작 금지. 숨도 쉬지 마.",
+    "context": "EN :\nHah, haha... Shut your mouths and keep still. Don't even breathe.\nJP :\nはっ、はは…黙って動作禁止。息も吸うな。"
+  },
+  {
+    "key": "31-content",
+    "original": "발자국 소리조차 내지 않고 벽과 함께 슈렌느를 베어버린 자들은…",
+    "context": "EN :\nThe people who slew Shrenne along with the wall behind her without letting even their footsteps be heard were...\nJP :\n足音すら出さず、壁と共にシュレンヌを切り裂いた者は…。"
+  },
+  {
+    "key": "32-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "32-content",
+    "original": "…!",
+    "context": "EN :\n…!\nJP :\n…！"
+  },
+  {
+    "key": "33-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "33-content",
+    "original": "그림자 속에서 움직이는 반푼이 해결사 놈들… 특별히 그.움.반.해.라고 불러주지. 훗.",
+    "context": "EN :\nFixers inanely treading shadows... I'll give you the honor of being called F.I.T.S. Heh.\nJP :\n影の中で動く阿呆なフィクサーども…。特別に、影・動・阿・フィと呼んでやろう。フッ。"
+  },
+  {
+    "key": "34-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "34-content",
+    "original": "그런 해결사라면… 시 협회… 인가요.",
+    "context": "EN :\nFixers who work like that... would belong to... Shi Association.\nJP :\nそういうフィクサーなら…シ協会…ですかね。"
+  },
+  {
+    "key": "35-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "35-content",
+    "original": "도시에서 암살만 전문으로 의뢰받는 해결사 협회예요.",
+    "context": "EN :\nAn Association of Fixers that exclusively take assassination requests.\nJP :\n都市で暗殺依頼のみを専門的に受けるフィクサー協会です。"
+  },
+  {
+    "key": "36-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "36-content",
+    "original": "저희가 함부로 상대할 수 있는 자들이 아닐 거예요. 물론 얼마로 어느 과의 해결사를 보냈는 지가 중요하겠지만…",
+    "context": "EN :\nThey most likely aren't ones we could easily fight and defeat. It depends on how much they were paid and what Section are they from, but in this case...\nJP :\n私たちが無闇に相手できる者達ではないと思います。もちろんいくらで、どの課のフィクサーを送ったかが重要ですけど…。"
+  },
+  {
+    "key": "37-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "37-content",
+    "original": "료슈 씨만 그 기척을 간파했으니… 만만한 5, 6과 따위는 절대 아니겠죠.",
+    "context": "EN :\nSeeing that only Ryōshū was able to pick up hints of their presence... They most certainly won't be amateurs from Sections 5 or 6.\nJP :\n良秀さんだけがその気配を看破しましたし…与し易い5, 6課では絶対にないでしょう。"
+  },
+  {
+    "key": "38-model",
+    "original": "암살자",
+    "context": "这是当前说话人物的默认名称,仅供参考\n但是,令人震惊的是,此版本并没有相关翻译,请前往NickName条目查看相关内容"
+  },
+  {
+    "key": "38-teller",
+    "original": "암살자",
+    "context": "EN :\nAssassin\nJP :\n暗殺者"
+  },
+  {
+    "key": "38-title",
+    "original": "시협회",
+    "context": "EN :\nShi Association\nJP :\nシ協会"
+  },
+  {
+    "key": "38-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "39-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "39-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "39-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "39-content",
+    "original": "슈렌느 씨… 대체 왜…",
+    "context": "EN :\nMs. Shrenne... Why...\nJP :\nシュレンヌさん…一体どうして…。"
+  },
+  {
+    "key": "40-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "40-content",
+    "original": "쯧, 벌써 떠났군.",
+    "context": "EN :\nTsk, gone already.\nJP :\nチッ、もう行ったか。"
+  },
+  {
+    "key": "41-content",
+    "original": "내게는 암살자의 발소리조차 들리지 않았건만, 료슈만이 혀를 차며 말했다. ",
+    "context": "EN :\nRyōshū clicked her tongue and complained about the assassins' retreat, even though I couldn't hear or see them at all.\nJP :\n私には暗殺者の足音すら聞こえなかったが、良秀だけが舌を打ちながら言った。"
+  },
+  {
+    "key": "42-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "42-content",
+    "original": "어이가 없군. 내부 분열이라니.",
+    "context": "EN :\nHow ridiculous. Torn by inner conflict.\nJP :\n呆れたもんだ。内部分裂とか。"
+  },
+  {
+    "key": "43-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "43-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "43-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "43-content",
+    "original": "란 선배는 슈렌느 씨가 입사할 때 사수였어요. 제 생각보다 둘이 인연을 오랫동안 유지하고 있었나 보네요.",
+    "context": "EN :\nSenior Researcher Ran was Shrenne's mentor when she first joined the firm. It looks like their bond lasted much longer than I thought.\nJP :\nラン先輩はシュレンヌさんが入社したときの指導役でした。僕が思ってた以上に、二人は長い間関係を維持していたようですね。"
+  },
+  {
+    "key": "44-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "44-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "44-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "44-content",
+    "original": "단테 씨, 보셨죠? 같은 회사 동기들 사이에서도 내통이 발생하고 있네요.",
+    "context": "EN :\nYou see, Dante? We were peers working for the same firm, and there's still collusion and fraternity.\nJP :\nダンテさん、見ましたか？同じ会社の同期の間でも内通が発生してるんですよ。"
+  },
+  {
+    "key": "45-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "45-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "45-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "45-content",
+    "original": "배신, 분열, 동참. 어느 집단이든 간에 반복되는… 어쩔 수 없는 굴레인가 봐요.",
+    "context": "EN :\nBetrayal, division, connivance. It happens in any group of people... I guess it's an inescapable cycle.\nJP :\n裏切り、分裂、賛同。どの集団であれ繰り返される…どうしようもない連鎖みたいですね。"
+  },
+  {
+    "key": "46-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "46-content",
+    "original": "<나한테 그렇게 말해 봐야…>",
+    "context": "EN :\n<Not sure there's any point in telling me this...>\nJP :\n<私にそんなこと言ったところで…。>"
+  },
+  {
+    "key": "47-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "47-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "47-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "47-content",
+    "original": "당신은… 당신의 수감자들을 어디까지 믿나요?",
+    "context": "EN :\nSay... How much do you trust your Sinners?\nJP :\nあなたは…あなたの囚人をどこまで信じますか？"
+  },
+  {
+    "key": "48-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "48-content",
+    "original": "<뭐… 뭐라고?>",
+    "context": "EN :\n<I’m… sorry, what?>\nJP :\n<な…なんだって？>"
+  },
+  {
+    "key": "49-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "49-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "49-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "49-content",
+    "original": "사실 아무것도 모르잖아요. 저도 슈렌느를 전부 알지 못했던 것 처럼. 그렇지 않나?",
+    "context": "EN :\nYou know virtually nothing about them, do you? Much like how I couldn't know everything about Shrenne. Am I wrong?\nJP :\n実のところ何も分からないじゃないですか。僕もシュレンヌのことを全部分からなかったみたいに。そうじゃない？"
+  },
+  {
+    "key": "50-model",
+    "original": "동랑",
+    "translation": "东朗",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\n\nJP :\n"
+  },
+  {
+    "key": "50-teller",
+    "original": "동랑",
+    "context": "EN :\nDongrang\nJP :\nドンラン"
+  },
+  {
+    "key": "50-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "50-content",
+    "original": "내가… 이 중 누구와 연이 있었는지도 모르잖아.",
+    "context": "EN :\nYou... don't even know which is the one that has a history with me.\nJP :\n僕が…この中の誰と縁があるかも知らないでしょ。"
+  }
+]

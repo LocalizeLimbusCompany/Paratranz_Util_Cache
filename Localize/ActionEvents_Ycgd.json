@@ -1,0 +1,187 @@
+[
+  {
+    "key": "10506-name",
+    "original": "검은 장부 선택지",
+    "context": "EN :\nBlack Ledger Choice\nJP :\n黒い帳簿選択肢"
+  },
+  {
+    "key": "10506-desc",
+    "original": "\"여기는 이제부터 흑운회가 주관하는 영역이다.\"\n\n\"지나가고 싶으면 통행세를 내야할 거 아냐!\"\n\n아무런 무장도 하고 있지 않은 주민들에게, 흑운회로 보이는 자들이 길을 막고 겁박을 하고 있다.\n\n\"...빌미를 한 번 만들더니, 이렇게 우리 구역까지 와서 설치는군.\"\n\n앵두는 이를 아득거리며 분노를 숨기지 않는다.\n\n저들을 어떻게 하는 것이 좋을까?",
+    "context": "EN :\n\"It's us Kurokumo Clan's turf from here on out.\"\n\n\"Is it that hard for you to understand that you gotta pay the toll to use our road? Huh?\"\n\nPeople dressed in Kurokumo Clan garb stand in the way of unarmed civilians, threatening them.\n\n\"... I suppose that excuse was enough for them to tread on our territory as well.\"\n\nAeng-du does not hide her indignation. She is gritting her teeth.\n\nWhat should we do about them?\nJP :\n「ここは今から黒雲会が管轄する領域だ。」\n\n「通りたいんなら通行税払えよ！」\n\n何の武装もしていない住民たちに、黒雲会らしき者たちが道を塞いで脅している。\n\n「…一度口実を作って、こうやって私たちの区域まで来て荒らし回ってるのか。」\n\nエンドゥは歯を食いしばりつつ、怒りを隠そうとしなかった。\n\n彼らをどうするべきだろうか？"
+  },
+  {
+    "key": "10506-options$[0].message",
+    "original": "주민들을 구한다.",
+    "context": "EN :\nSave the civilians.\nJP :\n住民達を救う。"
+  },
+  {
+    "key": "10506-options$[1].message",
+    "original": "모른척 지나간다.",
+    "context": "EN :\nTurn a blind eye.\nJP :\n知らないふりをして通り過ぎる。"
+  },
+  {
+    "key": "10506-options$[1].result[0]",
+    "original": "\"도시에서는 흔한 일이야.\"\n\n수감자 중 누군가가 한숨 섞인 목소리로 말했다.\n\n\".......\"\n\n앵두는 어떻게 안되겠냐는 표정을 하고 서 있지만, 막상 뛰쳐나가지는 않는다.\n\n앞으로의 전투나, 결국 마주할 뒤틀린 김삿갓을 상대하려면...\n\n필요 이상의 전투는 지양하는 것이 좋겠지.\n\n찝찝한 마음을 뒤에 남기고, 우리는 소란 옆을 지나갔다.",
+    "context": "EN :\n\"Another day, another mugging in the City.\"\n\nOne of the Sinners mutters with a sigh.\n\n\"......\"\n\nAeng-du stands there with her eyes pleading us to do something, but does not step forward.\n\nWe should avoid unnecessary battles...\n\n... if we are to survive the coming challenges and face Distorted Bamboo-hatted Kim who awaits us at the end of this path.\n\nThis left a bad taste in our mouths as we ignored the commotion and walked away.\nJP :\n「都市ではよくあることだ。」\n\n囚人の誰かが、溜め息交じりの声で言った。\n\n「……。」\n\nエンドゥはどうにかならないかという顔で立っているが、飛び出そうとはしない。\n\nこの先の戦闘や、最終的に対峙すべきねじれたキムサッガッを相手にするには…。\n\n必要以上の戦闘は控えた方がいいだろう。\n\nもやもやとした気持ちを残しながら、私たちはその横を通り過ぎた。"
+  },
+  {
+    "key": "1050602-name",
+    "original": "검은 장부 2차 선택지",
+    "context": "EN :\nBlack Ledger Choice #2\nJP :\n黒い帳簿2次選択肢"
+  },
+  {
+    "key": "1050602-desc",
+    "original": "\"아이고, 감사합니다...\"\n\n흑운회의 횡포에서 벗어난 주민들이 저마다 고개를 숙이며 감사를 표한다.\n\n\"헌데... 못 보던 행색이십니다만...\"\n\n\"혹시 뉘신지 알 수 있을런지요?\"",
+    "context": "EN :\n\"Thank you, thank you so much...\"\n\nThe civilians, freed from the threat of the Kurokumo Clan, each bow and give us their thanks.\n\n\"But... You're not dressed like a local.\"\n\n\"If you don't mind us prying... who might you be?\"\nJP :\n「あぁ、ありがたい限りでございます…。」\n\n黒雲会の横暴から逃れられた住民たちが、各々頭を下げつつ感謝の意を表した。\n\n「ところで…見たことない身なりでいらっしゃるようですが…。」\n\n「もしや、どなたか教えて貰うことはできませんでしょうか？」"
+  },
+  {
+    "key": "1050602-options$[0].message",
+    "original": "그저 지나가던 사람이라고 말한다.",
+    "context": "EN :\nSay that you're just passing by.\nJP :\n通りすがりの人だと言う。"
+  },
+  {
+    "key": "1050602-options$[0].result[0]",
+    "original": "\"예에...?\"\n\n주민들은 어리둥절한 표정이다.\n\n\"이렇게 많은 분들을 이끄시고... 그저 지나가고 있단 말씀이신지요?\"\n\n어설펐나, 조금 더 고민을 하고 대답해야했던 걸까...\n\n\"흑운회와 아무 관계가 없는데 이렇게 도움을 주실 이유가...\"\n\n그들은 서로 얼굴을 마주보며 당혹스러움을 감추지 못하다가..\n\n\"아, 아무튼 감사합니다.\"\n\n\"살펴, 살펴 가십시오!\"\n\n그런 말을 남기고 후다닥 달아나버렸다.",
+    "context": "EN :\n\"Huhh...?\"\n\nThe civilians appear puzzled.\n\n\"You're just... 'passing by' with this many people behind you?\"\n\nMaybe I should've given my answer more thought before replying...\n\n\"Why would you help us if you don't have anything to do with the Kurokumo Clan...?\"\n\nThey looked at each other, clearly perplexed.\n\n\"T-thank you anyways.\"\n\n\"Sa-safe travels to you!\"\n\nWith that, they hurriedly left the scene.\nJP :\n「はぇい…？」\n\n住民たちは戸惑った表情をしている。\n\n「こんなに沢山の方々を率いて…ただ通り過ぎただけということでっか？」\n\n怪しかったかな、もう少し悩んで答えた方が良かっただろうか…。\n\n「黒雲会となんの関係もないのに、こうやって助けてくださるわけが…。」\n\n彼らはお互いに顔を見合わせ、戸惑いを隠せないようだったが…。\n\n「と、とにかくありがとうございます。」\n\n「ど、どうかお気をつけくだせぇ！」\n\nそんな言葉を残してそそくさと逃げてしまった。"
+  },
+  {
+    "key": "1050602-options$[1].message",
+    "original": "검계라고 말한다.",
+    "context": "EN :\nSay that you're with the Blade Lineage.\nJP :\n剣契だと言う。"
+  },
+  {
+    "key": "1050602-options$[1].messageDesc",
+    "original": "판정 성공 시, E.G.O GIFT 획득",
+    "context": "EN :\nPass to gain an E.G.O Gift.\nJP :\n判定成功時、E.G.O GIFT獲得"
+  },
+  {
+    "key": "10507-name",
+    "original": "녹슨 칼자루 선택지",
+    "context": "EN :\nRusted Hilt Choice\nJP :\n錆びた柄 選択肢"
+  },
+  {
+    "key": "10507-desc",
+    "original": "\"이곳은 주막인가...\"\n\n술집처럼 보이는 공간에서 사람들이 기분 좋은 듯 떠들고 있다.\n\n그 중에, 고성으로 서로 삿대질을 하는 모습도 보인다.\n\n\"아니, 아니! 자고로 검은 베어내는 물건! 베는 것이 옳은 검법이지.\"\n\n\"모르는 소리! 한 점에 힘을 집중해서 한 번에 찔러버리면 일격 필살 아닌가!\"\n\n\"...둘 다 틀렸어. 어설프게 베고 찔러보아야 적은 다시 일어나기 마련.\"\n\n\"칼자루나 검집으로 머리를 두드려 패면, 골이 어질거려 일어나지 못하게 된단 말이다!\"\n\n무언가 심오한 논의를 하는 것 같아, 잠시 멈추어 서서 듣고 있는데...\n\n그들이 그런 우리를 보고 말을 걸었다.\n\n\"그대들! 척 보아도 무인이군!\"\n\n\"답해보게. 가장 우수한 검격이 무엇인가!\"\n\n\"당연히 참격을 제일로 치겠지?\"\n\n무어라 답해야 할까.",
+    "context": "EN :\n\"This must be a tavern...\"\n\nThis bar or an inn is bustling, and its patrons are energetically chattering away. They all seem to be in a rather good mood.\n\nA trio among the crowd is quite boisterously arguing and pointing fingers at each other.\n\n\"No, NO! I don't understand why this is even a matter of dispute! A blade is a weapon made for cutting, and the 'right' way to use a blade is to slash with it.\"\n\n\"You don't know what you're talking about! Stab a single point with all your might, and your foe shall surely fall!\"\n\n\"... You're both wrong. Your half-hearted cuts and stabs won't do anything but piss 'em off. They'll be back on their feet immediately!\"\n\n\"Smack their skulls with the blunt end—hilt or the scabbard, and knock them down for good! Make 'em too dazed to get up!\"\n\nThe trio appeared to be talking about something pretty serious, so we'd stopped to listen to their debate...\n\nThey suddenly turned in our direction and called over to us.\n\n\"You there! Your band can clearly handle your weapons, am I wrong?\"\n\n\"Answer us. What is the best way to wield your sword?\"\n\n\"Of course, to slash is the best way to use a blade, is it not?\"\n\nWhat should I say to that?\nJP :\n「ここは酒幕(ジュマク)か…。」\n\n酒場のように見える空間で、人々が気持ち良さげに騒いでいる。\n\nその中で、高らかにヤジを飛ばし合ってる様子も見受けられる。\n\n「いや、いや！ 昔から剣は斬るもの！斬るのが正しい剣法だ。」\n\n「何を言うか！一点に力を集中して一気に刺してしまえば、一撃必殺ではないか！」\n\n「…どちらも間違っている。中途半端に斬って刺したところで敵は再び起き上がるものだ。」\n\n「刀の柄や鞘で頭を叩きのめせば、頭がぐらぐらして起き上がれなくなるんだ！」\n\n何か奥深い議論をしているらしいので、少し立ち止まって聞いてたら…。\n\n彼らは、そんな私たちを見て声を掛けてきた。\n\n「君たち！ぱっと見でも武人だと分かるよ！」\n\n「答えてくれ。最も優れた剣撃は何か！」\n\n「当然、斬撃が一番だろう？」\n\n何と答えるべきだろうか。"
+  },
+  {
+    "key": "10507-options$[0].message",
+    "original": "맞다. 검술은 참격을 담기에 적합한 무술이다.",
+    "context": "EN :\nRight. Slashing is the way to go when wielding a blade.\nJP :\nそうだ。剣術は斬撃を加えるのに適した武術である。"
+  },
+  {
+    "key": "10507-options$[0].messageDesc",
+    "original": "판정 성공 시, E.G.O GIFT 획득",
+    "context": "EN :\nPass to gain an E.G.O Gift.\nJP :\n判定成功時、E.G.O GIFT獲得"
+  },
+  {
+    "key": "10507-options$[1].message",
+    "original": "그렇지 않다. 참격도, 관통도, 타격도 모두 쓰임새가 있다.",
+    "context": "EN :\nNot true. Slash, Pierce, and Blunt all have their uses.\nJP :\nそうではない。斬撃も、貫通も、打撃にも全て使い道がある。"
+  },
+  {
+    "key": "10507-options$[1].result[0]",
+    "original": "\"흐음.\"\n\n세 사람은 불편한 듯 불퉁한 표정을 짓는다.\n\n\"정론이네.\"\n\n\"정론이지.\"\n\n\"우리도 그걸 모르는게 아니야...\"\n\n속이 타는지, 각자 술을 한 잔 씩 털어넣는다.\n\n\"우리가 전쟁을 준비하려 이런 말을 하고 있겠는가?\"\n\n\"술자리 화담으로 좋은 주제 일 뿐인데, 그런 재미없는 대답을...\"\n\n\"에잉, 됐소. 가시던 길 가시게!\"\n\n그들은 흥미가 떨어졌는지, 우리를 등지고 다시 탁자에 앉았다...",
+    "context": "EN :\n\"Hm.\"\n\nThe three of them suddenly grow very obviously uncomfortable.\n\n\"That's the right answer, isn't it?\"\n\n\"That's certainly the textbook answer.\"\n\n\"It's not like we don't know what the right answer is...\"\n\nThey all take frustrated swigs from their respective cups.\n\n\"What, you think we're sitting here talking about weapons like generals preparing for war?\"\n\n\"It's just a fun topic to argue about with liquor in our bellies. What a way to kill the mood with that uninspired answer...\"\n\n\"Bah, forget it. Be on your way, then!\"\n\nThey turned away from us and returned to drinking, clearly having lost interest.\nJP :\n「ふぅむ。」\n\n三人は居心地の悪そうに、ぶっきらぼうな顔をした。\n\n「正論だ。」\n\n「正論だな。」\n\n「私たちも分かってないわけじゃないさ…。」\n\nイライラしているのか、それぞれ酒を一杯煽った。\n\n「俺たちが戦争を準備でもしようとこんなことを話してるとでも？」\n\n「酒の席でするに良い話題だっていうのに、そんなつまんねぇ答えを…。」\n\n「はぁ、もう良い。帰れ！」\n\n彼らは興味を失ったのか、私たちに背を向けて再び席に着いた…。"
+  },
+  {
+    "key": "10508-name",
+    "original": "조각난 칼날, 부서진 칼날 선택지",
+    "context": "EN :\nFractured & Broken Blade Choice\nJP :\n砕けた刃, 壊れた刃 選択肢"
+  },
+  {
+    "key": "10508-desc",
+    "original": "\"무언가 이상하군... 안개가...\"\n\n언제부터인지 모르게, 안개가 주변을 감싸고 있었다.\n\n\"들은 적 있소. 밤길, 걷다보니 스산하게 안개가 내려앉은 곳으로 흘러가더니 이 세상의 것이 아닌 것을...\"\n\n\"으아악! 그만, 그만!\"\n\n수감자들이 왁자지껄 떠드는 동안, 앞에 무언가 흐릿한 것이 있다는 걸 깨달았다.\n\n\"춤을 추고... 있는 거야?\"\n\n정체를 알 수 없는 흰 복장을 입은 무언가가, 커다란 검을 들고 하늘하늘 춤을 추고 있는 것 같다.\n\n그리고 그것과 눈이 마주친 것 같다는 생각이 들자...\n\n내 손아귀에는 어느새 낡은 검집에 검이 꽂힌 채 들려져 있었다.\n\n무얼 하라는 걸까?",
+    "context": "EN :\n\"This is odd... this mist is...\"\n\nI don't know when it happened, but a thick layer of mist had descended all around us.\n\n\"I have heard a tale of one such nightly stroll. In this tale, a clueless traveler heedlessly wanders into a brumous haze, and finds himself afore an otherworldly being—\"\n\n\"AAAGH! Stop, stop it!\"\n\nJust as the Sinners began loudly bickering with each other, I realized that there was something hazy standing in our way.\n\n\"Is that thing... dancing?\"\n\nA mysterious thing, dressed in white, danced gracefully before us with a large blade in hand.\n\nWhen it met my gaze... or, when I thought it did...\n\n... a sheathed blade had materialized in my hand.\n\nWhat does it want me to do with it?\nJP :\n「何か変だな…霧が…。」\n\nいつの間にか、霧があたりを包み込んでいた。\n\n「聞きしためしあり。夜道歩めると、霧がうっすらと降り立ちし方へ行くと、この世のものならぬものを…。」\n\n「うわぁ！ストップ、ストップ！」\n\n囚人たちがガヤガヤ騒いでいる間、目の前に何かぼやけたものがあることに気づいた。\n\n「舞って…るの？」\n\n正体不明の白い服装をした何かが、大きな剣を持ってひらひらと踊っているようだ。\n\nそしてそれと目が合ったような気がした刹那…。\n\n私の手には、いつの間にか古い鞘に収められた剣が握られていた。\n\n何をしろということだろうか？"
+  },
+  {
+    "key": "10508-options$[0].message",
+    "original": "발검 자세를 취해볼까.",
+    "context": "EN :\nAssume a stance like I'm about to draw the sword.\nJP :\n抜剣の姿勢を取ってみようか。"
+  },
+  {
+    "key": "10508-options$[0].messageDesc",
+    "original": "판정 성공 시, E.G.O GIFT 획득",
+    "context": "EN :\nPass to gain an E.G.O Gift.\nJP :\n判定成功時、E.G.O GIFT獲得"
+  },
+  {
+    "key": "10508-options$[1].message",
+    "original": "검을 뽑아서 늘어뜨릴까.",
+    "context": "EN :\nUnsheathe the sword and hold it on my side.\nJP :\n剣を抜いて降ろそうか。"
+  },
+  {
+    "key": "10508-options$[1].messageDesc",
+    "original": "판정 성공 시, E.G.O GIFT 획득",
+    "context": "EN :\nPass to gain an E.G.O Gift.\nJP :\n判定成功時、E.G.O GIFT獲得"
+  },
+  {
+    "key": "10508-options$[2].message",
+    "original": "검을 버리고 도망치자.",
+    "context": "EN :\nLeave the sword, let's leave.\nJP :\n剣を捨てて逃げよう。"
+  },
+  {
+    "key": "10508-options$[2].result[0]",
+    "original": "대응해야 할 환상체도 아니고, 회사에서 목표로 지정하지도 않은 것이다.\n\n알 수 없는 것과의 전투는 필요하지 않다면 언제나 피하는 것이 좋다.\n\n나는 그 자리에 검을 던지고 수감자들과 함께 다른 곳으로 이탈했다.\n\n...흐느끼는 듯한 웃음소리가 내내 뒤에서 따라오는 것만 같았다.",
+    "context": "EN :\nIt's not an Abnormality we have to deal with, and the company never said that we had to engage them.\n\nI should always avoid battles against unknown entities.\n\nI tossed the sword on the ground before fleeing from the scene with the Sinners.\n\nA weeping laughter seemed to follow me the entire way back.\nJP :\n対応すべき幻想体でもなく、会社で目標に指定してもいないものである。\n\n分からないものとの戦闘は、必要でないならいつであれ避けた方が無難だ。\n\n私はその場に剣を放り投げ、囚人たちと共に別の場所へと離脱した。\n\n...咽び泣くような笑い声が、ずっと後ろからついてくるような気がした。"
+  },
+  {
+    "key": "10509-name",
+    "original": "붉은 색술 선택지",
+    "context": "EN :\nRed Tassel Choice\nJP :\n赤い房飾り 選択肢"
+  },
+  {
+    "key": "10509-desc",
+    "original": "돌담을 따라 걷는데, 검을 차고 있는 두 행인의 말 소리가 들렸다.\n\n\"이곳 사람들도 딱해...\"\n\n\"뭐, 날개가 그렇게 하겠다는데 그저 깃털들이 무얼 할 수 있겠나.\"\n\n한 명의 옷차림이 조금 유별난 걸 보니, 외지의 사람일 수도 있을 것 같다.\n\n\"하지만, 흑운회 놈들이 이렇게 치고 들어오는 것은 좀 과한 것 같은데.\"\n\n\"그런 자잘한 것에 신경 쓰기엔, 날개는 이미 푸드덕 거리는 일에만 전념하고 있으니.\"\n\n지금의 S사에 대해 이야기 하는 것 같다.\n\n\"마침 외지의 인물이 더 늘은 것 같군.\"\n\n어느새 앞을 걷던 자들이 멈추어 우리를 바라보고 있었다.\n\n\"흑운회... 로는 보이지 않는군. 혼란한 뒷골목에서 한탕 하려는 양민으로 보이지도 않고.\"\n\n\"그래, 자네는 작금의 상황을 어떻게 보는가?\"\n\n무어라 답해야 할까.",
+    "context": "EN :\nWe hear a pair of voices as we walk alongside a stone fence. The two travelers are both carrying blades.\n\n\"I pity the people here...\"\n\n\"Well, the decision of a Wing is absolute for its feathers. There is very little they can do about it.\"\n\nOne of them stands out—their clothing sets them apart from the locals. Maybe they're not from around here.\n\n\"Still, to allow the Kurokumo Clan to make their way in here? That's too much.\"\n\n\"The Wing cares about naught else but fluttering its wings. All else becomes insignificant.\"\n\nSounds like they're talking about the current S Corp.\n\n\"More outsiders, I see. How convenient.\"\n\nThe pair stops in their tracks, then turns around to face us.\n\n\"The Kurokumo Clan... no. You do not wear their garb. You don't appear to be peasants seeking to make some cash in the chaos of the Backstreets, either...\"\n\n\"Well, then. What do you outsiders think of the current climate?\"\n\nHow should I answer this?\nJP :\n石垣に沿って歩いていると、剣を身につけている二人の行人の声が聞こえてきた。\n\n「ここの人たちも不憫だな…。」\n\n「まあ、翼がそうするというのに一介の羽たちに何ができるだろうか。」\n\n片方の身なりが少し変わっているので、もしかすると外地の人かもしれない。\n\n「でも、黒雲会のやつらがこうやって攻め込んでくるのは、少しやりすぎだと思うんだけどな。」\n\n「そんな細かいことを気にしようにも、翼はもはや羽ばたくことにしか専念していないから。」\n\n今のS社について話しているみたいだ。\n\n「ちょうど外地の人物が増えたようだ。」\n\nいつの間にか前を歩いていた者たちが立ち止まって私たちのことを見つめていた。\n\n「黒雲会…のようには見えないな。混乱した裏路地で一儲けしようとする良民(ヤンミン)にも見えないし。」\n\n「そうだな、君は昨今の状況をどう見ている？」\n\n何と答えるべきだろうか。"
+  },
+  {
+    "key": "10509-options$[0].message",
+    "original": "고래 싸움에 새우등이 터져나가는 건 도시 어디를 가나 같지 않나.",
+    "context": "EN :\nIt's the City. That's just what happens to small fries getting mixed up in large-scale conflicts.\nJP :\n鯨の争いに巻き込まれた海老の背が裂けるのは、都市のどこへ行けど同じではないか。"
+  },
+  {
+    "key": "10509-options$[0].messageDesc",
+    "original": "판정 성공 시, E.G.O GIFT 획득",
+    "context": "EN :\nPass to gain an E.G.O Gift.\nJP :\n判定成功時、E.G.O GIFT獲得"
+  },
+  {
+    "key": "10509-options$[1].message",
+    "original": "무념무상. 안타깝기는 하다.",
+    "context": "EN :\nI have no thoughts regarding the matter. A pity, though.\nJP :\n無念無想。不憫には思う。"
+  },
+  {
+    "key": "10509-options$[1].result[0]",
+    "original": "\"안타깝다라...\"\n\n검을 찬 자가 팔짱을 낀 채로 한숨을 푹 쉰다.\n\n\"그래, 그리 생각할 수도 있겠지. 생각은 자유히 해야하는 법.\"\n\n\"그러나 별 생각이 없을 것이라면, 함부로 안타까움을 느끼는 것도 죄악일 수 있음은 알았으면 좋겠군.\"\n\n둘은 어딘가 어두운 표정을 지으며, 등을 돌려 어딘가로 걸어나갔다.",
+    "context": "EN :\n\"A pity, you say...\"\n\nThe sword-carrying man crosses his arms, then sighs.\n\n\"Sure, I suppose that's one way of looking at it. A thought must remain free, indeed.\"\n\n\"Yet, if you have no thoughts regarding the matter, do understand that to feel pity may be a sin of its own.\"\n\nThe pair walks away. They both wear a dark expression.\nJP :\n「不憫か…。」\n\n剣を腰に携えた者が腕を組んだまま溜め息を吐く。\n\n「そうだ、そう考えることもできるだろう。考えは自由にすべきもの。」\n\n「しかし、何の考えもないのであれば、無闇に憐憫を感じることも罪悪であることは分かってほしいな。」\n\n二人はどこか暗い表情を浮かべながら、背を向けてどこかへと歩いていった。"
+  },
+  {
+    "key": "10510-name",
+    "original": "삿갓 도포 선택지",
+    "context": "EN :\nBamboo Hat & Dopo Robe Choice\nJP :\n笠, 道袍 選択肢"
+  },
+  {
+    "key": "10510-desc",
+    "original": "눈 앞에 푸른 빛의 글자들이 둥둥 떠다닌다.\n\n글자들은 비슷한 단어들이 줄줄이 쓰여 있어 이해가 어려운 것 같다.\n\n'옳은 것을 옳다 하고 그른 것을 그르다 함이 옳지 않으며,'\n\n'그른 것을 옳다 하고 옳은 것을 그르다 함이 옳지 않음이 아니다.'\n\n'그른 것을 옳다 하고 옳은 것을 그르다 함이 그른 것이 아니며,'\n\n'옳다는 것을 옳다 하고 그른 것을 그르다고 함이 도리어 이 그른 것을 옳다 함이다.'\n\n...이 말에 대한 감상이 필요한 걸까?\n\n무슨 뜻일까.",
+    "context": "EN :\nShimmering blue letters float before you.\n\nThe way that these similar words are ordered makes it difficult to understand what it's trying to say.\n\nTo say what is right is right and what is wrong is wrong is not right,\n\nbut that is not to say that to say what is wrong is right and right is wrong is wrong.\n\nTo say that what is wrong is right and right is wrong is not wrong,\n\nand to say that what is right is right and what is wrong is wrong is, in turn, to say that this wrong is right.\n\n... Does it want my impression of these words?\n\nWhat is it talking about?\nJP :\n目の前に青い文字がふわふわと浮かんでいる。\n\n文字は似たような単語を延々と羅列しているので、理解しづらい。\n\n「正しいことを正しいと言い、間違いを間違いと言うことは正しくなく、」\n\n「間違いを正しいと言い、正しいことを間違いと言うことは、正しくないわけではない。」\n\n「間違いを正しいと言い、正しいことを間違いと言うことは、間違いではなく、」\n\n「正しいことを正しいと言い、間違いを間違いと言うことが、却ってこの間違いが正しいということになる。」\n\n…この言葉に対する感想が必要なんだろうか？\n\nどういう意味なんだろうか。"
+  },
+  {
+    "key": "10510-options$[0].message",
+    "original": "옳고 그름이 가장 중요한 것일까? 중요한 건 다른 것이라고 말한다.",
+    "context": "EN :\nWhat is 'right' and what is 'wrong'... is it really that important to tell which is which? Say that what really matters is something else.\nJP :\n是非が最も重要なことだろうか？大事なのは他にあると言う。"
+  },
+  {
+    "key": "10510-options$[0].messageDesc",
+    "original": "판정 성공 시, E.G.O GIFT 획득",
+    "context": "EN :\nPass to gain an E.G.O Gift.\nJP :\n判定成功時、E.G.O GIFT獲得"
+  },
+  {
+    "key": "10510-options$[1].message",
+    "original": "그래도 옳은 것을 옳다고 말해야 한다.",
+    "context": "EN :\nStill, it must be said that what is right, is right.\nJP :\nそれでも正しいことは正しいと言うべきだ。"
+  },
+  {
+    "key": "10510-options$[1].messageDesc",
+    "original": "판정 성공 시, E.G.O GIFT 획득",
+    "context": "EN :\nPass to gain an E.G.O Gift.\nJP :\n判定成功時、E.G.O GIFT獲得"
+  }
+]

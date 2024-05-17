@@ -1,0 +1,650 @@
+[
+  {
+    "key": "0-place",
+    "original": "피쿼드호",
+    "context": "EN :\nThe Pequod\nJP :\nピークォド号"
+  },
+  {
+    "key": "0-model",
+    "original": "핍과거",
+    "translation": "比普",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nPip\nJP :\nピップ"
+  },
+  {
+    "key": "0-content",
+    "original": "핍 구하려다가 고래에게 물렸어요. 핍 구하려다가 고래에게…",
+    "context": "EN :\nHe got bit, trying to save Pip. The Whale bit him when he tried to save Pip, he...\nJP :\nピップは助けようとして鯨に噛まれました。ピップは助けようとして鯨に…。"
+  },
+  {
+    "key": "1-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "1-content",
+    "original": "젠장, 노잡이는 왜 갑자기 그놈의 기름을 뒤집어써 갖고는…",
+    "context": "EN :\nShit, why'd that oil barrel have to fall on our oarsman...?\nJP :\nクソッ、漕ぎ手はどうしてあいつの油を被りやがって…。"
+  },
+  {
+    "key": "2-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "2-content",
+    "original": "저 어린놈을 대타로 쓰는 것부터 말이 안 됐어.",
+    "context": "EN :\nNone of it made sense from the start, making that kid row as a replacement...!\nJP :\nあの若造を代打に使うこと自体間違ってた。"
+  },
+  {
+    "key": "3-model",
+    "original": "핍과거",
+    "translation": "比普",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nPip\nJP :\nピップ"
+  },
+  {
+    "key": "3-content",
+    "original": "선장님, 핍에게 말해주세요, 스텁은 이제 죽나요?",
+    "context": "EN :\nCaptain, please tell Pip. Is Stubb going to die?\nJP :\n船長、ピップに言ってください、スタッブは今から死にますか？"
+  },
+  {
+    "key": "4-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "4-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "5-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "5-content",
+    "original": "내가 말했지.",
+    "context": "EN :\nWhat did I say?\nJP :\n言っただろ。"
+  },
+  {
+    "key": "6-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "6-content",
+    "original": "내 배에서! 내 허락 없이는! 누구도 눈을 감지 못한다고.",
+    "context": "EN :\nAs long as you are my crew! None of you! Shall die without my explicit permission.\nJP :\n私の船で！私の許可無しに！目を閉じることは許さない。"
+  },
+  {
+    "key": "7-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "7-content",
+    "original": "난 아직 너희에게 죽어도 좋다는 허락을 내준 적이 없다.",
+    "context": "EN :\nAnd I don't remember giving any of you permission to die just yet.\nJP :\n私はまだお前たちに死んで良いと許可した覚えはない。"
+  },
+  {
+    "key": "8-model",
+    "original": "스텁",
+    "translation": "斯塔布",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStubb\nJP :\nスタッブ"
+  },
+  {
+    "key": "8-content",
+    "original": "그, 그럼… 저는… 어떻게…",
+    "context": "EN :\nB-but... I... What will happen to...\nJP :\nじゃ、じゃあ…俺は…どう…。"
+  },
+  {
+    "key": "9-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "9-content",
+    "original": "피쿼드호는 창백한 증오의 고래에 거의 다 도달했다! 이제 필요한 건 올바른 나침반뿐이지.",
+    "context": "EN :\nThe Pequod is on the brink of reaching the Pallid Whale of hatred! All we need is a good compass that'll lead us to it.\nJP :\nピークォド号は蒼白な憎悪の鯨にもうじき到達する！\n今や必要なのは、正しい羅針盤だけだ。"
+  },
+  {
+    "key": "10-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "10-content",
+    "original": "우리 눈앞의 인어가 훌륭한 나침반이 되어줄 거다.",
+    "context": "EN :\nThis Mermaid before us will serve that role better than anything.\nJP :\n私たちの目の前にある人魚が、優秀な羅針盤になってくれるだろう。"
+  },
+  {
+    "key": "11-model",
+    "original": "스텁",
+    "translation": "斯塔布",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStubb\nJP :\nスタッブ"
+  },
+  {
+    "key": "11-content",
+    "original": "그, 그게 무슨… 말씀… 전 인어가 아닙니다, 선장님…",
+    "context": "EN :\nB-but, Captain, I... am not... a Mermaid...\nJP :\nそ、それはどういう…意味ですか…。\n俺は人魚じゃありません、船長…。"
+  },
+  {
+    "key": "12-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "12-content",
+    "original": "…!",
+    "context": "EN :\n…!\nJP :\n…！"
+  },
+  {
+    "key": "13-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "13-content",
+    "original": "그 고래에게 먹힌 것은 곧 백색의 인어가 된다는 걸 알고 있을 텐데.",
+    "context": "EN :\nWhatever that Whale devoured will eventually turn into a Pallid Mermaid. You must know that.\nJP :\nあの鯨に食われたものは、じきに白色の人魚になるということは\n知ってるだろうに。"
+  },
+  {
+    "key": "14-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "14-content",
+    "original": "인어를 지하실에 있는 큰 수조 안에 가둬라. 본능적으로 증오와 미움의 고래가 있는 방향만을 향해 헤엄쳐 갈 거다.",
+    "context": "EN :\nIncarcerate this Mermaid in the large cistern down by the holds. Its instinct will drive it toward the Whale of hatred.\nJP :\n人魚を地下室にある大水槽に閉じ込めろ。\n本能的に、憎悪と恨みの鯨がいる方向へと泳ぎ続けるだろう。"
+  },
+  {
+    "key": "15-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "15-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "16-model",
+    "original": "스텁",
+    "translation": "斯塔布",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStubb\nJP :\nスタッブ"
+  },
+  {
+    "key": "16-content",
+    "original": "선장님… 선장님… 제발…",
+    "context": "EN :\nCaptain... Captain... Please, no...!\nJP :\n船長…船長…お願いだ…。"
+  },
+  {
+    "key": "17-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "17-content",
+    "original": "스타벅, 아래로 조각배 하나를 내려라.",
+    "context": "EN :\nStarbuck, send down a skiff.\nJP :\nスターバック、小舟を一つ下ろせ。"
+  },
+  {
+    "key": "18-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "18-content",
+    "original": "…갑자기?",
+    "context": "EN :\n... What? Now?\nJP :\n…今？"
+  },
+  {
+    "key": "19-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "19-content",
+    "original": "…네.",
+    "context": "EN :\n... Aye.\nJP :\n…はい。"
+  },
+  {
+    "key": "20-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "20-content",
+    "original": "풍덩거리는 소리가 잠시 후에 들렸고, 그렇게 시간이 지나는 동안 배에 탄 모든 선원이 갑판에 나와 에이해브를 둘러쌌다.",
+    "context": "EN :\nA few moments later, I heard a splash of water. All hands of the ship emerged from their stations and gathered around Ahab.\nJP :\nばちゃんという音がしばらくして聞こえ、そうしている間に\n船に乗った船人は全員、甲板に出てエイハブを取り囲んだ。"
+  },
+  {
+    "key": "21-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "21-content",
+    "original": "그리고 에이해브는 크게… 말했다.",
+    "context": "EN :\nAnd Ahab... thundered.\nJP :\nそしてエイハブは大きく…叫んだ。"
+  },
+  {
+    "key": "22-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "22-content",
+    "original": "오오! 어디선가 들린다! 스텁, 스텁의 목소리다!",
+    "context": "EN :\nOoh! I hear him! Listen well, for it is Stubb who speaks! Heed his voice!\nJP :\nおぉ！どこかから聞こえる！スタッブ、スタッブの声だ！"
+  },
+  {
+    "key": "23-model",
+    "original": "핍과거",
+    "translation": "比普",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nPip\nJP :\nピップ"
+  },
+  {
+    "key": "23-content",
+    "original": "…?",
+    "context": "EN :\n…?\nJP :\n…？"
+  },
+  {
+    "key": "24-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "24-content",
+    "original": "무슨 소리를…",
+    "context": "EN :\nWhat the hell is she...\nJP :\n何言って…。"
+  },
+  {
+    "key": "25-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "25-content",
+    "original": "모두! 똑바로 들어라! 그 고래를 죽이기 위해 기꺼이 목숨을 내던진 위대한 선원 스텁의 목소리가 저 호수 어딘가를 떠돈다!",
+    "context": "EN :\nAll of you! Listen well! The voice of the great sailor Stubb echoes from across that Lake! The great sailor Stubb who so willingly threw his life in danger for the hunt of the Whale!\nJP :\n全員！ちゃんと聞け！あの鯨を殺すために喜んで命を投げ出した\n偉大なる船員スタッブの声が、あの湖のどこかを漂っている！"
+  },
+  {
+    "key": "26-model",
+    "original": "스텁그림자",
+    "translation": "斯塔布",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStubb\nJP :\nスタッブ"
+  },
+  {
+    "key": "26-content",
+    "original": "…내가… 위대한…",
+    "context": "EN :\n... I... the great...\nJP :\n…おれが…いだいな…。"
+  },
+  {
+    "key": "27-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "27-content",
+    "original": "우리는 급박한 항해를 위해 그를 다시 태울 수 없었다!",
+    "context": "EN :\nIn our urgency, we had no time to bring him back aboard!\nJP :\n我々は急いでいるため、彼を再び乗せることはできなかった！"
+  },
+  {
+    "key": "28-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "28-content",
+    "original": "하지만 그는 죽지 않았다! 비록 목숨을 건 사투 끝에 배에 돌아오지 못하고 이곳을 넘실대고 있지만, 곧 내가 내린 조각배를 타고 안전한 곳으로 갈 것이다!",
+    "context": "EN :\nYet he lives! He did not die! Though he is overboard, floating on the Lake after this fateful battle, he will soon find safety aboard the skiff I have lowered for him!\nJP :\nしかし、彼は死んでいない！たとえ命がけの死闘の末、船に戻れず\nこの辺りを彷徨ってはいるが、じきに私が下ろした小舟に乗って\n安全な場所に行くであろう！"
+  },
+  {
+    "key": "29-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "29-content",
+    "original": "그가 외친다! 우리의 성공을 위해 바락바락 외친다! 그 목소리가 우리를 보고 나아가라고 한다!",
+    "context": "EN :\nHe shouts! Oh yes, he bellows for our victory! And he bellows that we must go on, sail forth to victory!\nJP :\n彼が叫ぶ！私たちの成功のために声高に叫ぶ！ \nその声が私たちを見て進めと言う！"
+  },
+  {
+    "key": "30-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "30-content",
+    "original": "대체 뭐야, 이 정신 나간 말은…",
+    "context": "EN :\nWhat kind of insanity is...\nJP :\n一体何なの、このイカれた演説は…。"
+  },
+  {
+    "key": "31-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "31-content",
+    "original": "…나아간다. 우리.",
+    "context": "EN :\n... We. Sail forth.\nJP :\n…進むんだ、あたいたち。"
+  },
+  {
+    "key": "32-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "32-content",
+    "original": "…퀴케그?",
+    "context": "EN :\n... Queequeg?\nJP :\n…クィークェグ？"
+  },
+  {
+    "key": "33-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "33-content",
+    "original": "나는 이 항해를 성공적으로 마치고 가장 먼저 가까운 항구를 찾을 것이다!",
+    "context": "EN :\nThis voyage will soon meet its victorious end. Then I shall sail to the nearest port!\nJP :\n私はこの航海を成功に導き、真っ先に\n一番近い港を探そう！"
+  },
+  {
+    "key": "34-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "34-content",
+    "original": "그곳엔 있다! 스텁이! 행복한 얼굴로 우리를 맞이하겠지.",
+    "context": "EN :\nAnd there he shall await us, the great Stubb! With a profound smile he shall greet us.\nJP :\nそこにはいる！スタッブが！\n幸せな顔で私たちを出迎えるであろう。"
+  },
+  {
+    "key": "35-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "35-content",
+    "original": "나는 그에게 걸맞은 보상을 줄 것이다. 그리고 우리의 끈질겼던 항해에 대해 긴 밤을 지새우며 이야기 나누리라!",
+    "context": "EN :\nHe will be rightly rewarded. And of course, we will all share tales of this long voyage over many sleepless nights!\nJP :\n私は彼にふさわしい報酬を与えるつもりだ。\nそして我々の長い航海について、\n長い夜を明かしながら話し合うだろう！"
+  },
+  {
+    "key": "36-model",
+    "original": "스텁그림자",
+    "translation": "斯塔布",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStubb\nJP :\nスタッブ"
+  },
+  {
+    "key": "36-content",
+    "original": "나는… 행복하게…",
+    "context": "EN :\nWith... a profound... smile... I...\nJP :\nおれは…しあわせに…。"
+  },
+  {
+    "key": "37-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "37-content",
+    "original": "그곳엔 너희도 있다! 너희 모두가 있다! 스텁의 이름으로 우리는 그 밤, 주점의 모두에게 술을 살 것이다!",
+    "context": "EN :\nAnd there you shall all be as well! We will buy rounds upon rounds of drinks for everyone in the tavern in Stubb's name!\nJP :\nそこにはお前たちもいる！お前たち全員がいる！\nスタッブの名で、我々はその夜、酒場の全員に酒を奢ろう！"
+  },
+  {
+    "key": "38-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "38-content",
+    "original": "이 항해가 끝나면! 모든 것이! 보장된다!",
+    "context": "EN :\nOnce! This voyage is over! EVERYTHING! WILL! COME TO BE!\nJP :\nこの航海が終われば！全てが！保障される！"
+  },
+  {
+    "key": "39-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "39-content",
+    "original": "…이 항해만 끝난다면.",
+    "context": "EN :\n... Once this voyage is over.\nJP :\n…この航海さえ終われば。"
+  },
+  {
+    "key": "40-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "40-content",
+    "original": "이 항해. 끝나면.",
+    "context": "EN :\nOnce this voyage... Over.\nJP :\nこの航海。終われば。"
+  },
+  {
+    "key": "41-model",
+    "original": "스텁그림자",
+    "translation": "斯塔布",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStubb\nJP :\nスタッブ"
+  },
+  {
+    "key": "41-content",
+    "original": "항해가… 끝나면…",
+    "context": "EN :\nOnce... this voyage... is over...\nJP :\nこうかいが…おわれば…。"
+  },
+  {
+    "key": "42-model",
+    "original": "스텁그림자",
+    "translation": "斯塔布",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStubb\nJP :\nスタッブ"
+  },
+  {
+    "key": "42-content",
+    "original": "증오의 고래… 드디어… 우리의 눈앞에…",
+    "context": "EN :\nThe Whale of Hatred... is finally... in our sights...\nJP :\nぞうおのくじら…ついに…おれたちのめのまえに…。"
+  },
+  {
+    "key": "43-model",
+    "original": "스텁그림자",
+    "translation": "斯塔布",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStubb\nJP :\nスタッブ"
+  },
+  {
+    "key": "43-content",
+    "original": "죽일 수 있는 거죠, 선장님…?",
+    "context": "EN :\nYou'll kill it, right...? Captain...\nJP :\nころせるんですよね、せんちょう…？"
+  },
+  {
+    "key": "44-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "44-content",
+    "original": "그의 외침에 보답하자! 증오의… 창백한 고래를 죽인다!",
+    "context": "EN :\nLet us answer his calling! We will kill the Whale of Hatred... WE WILL KILL THE PALLID WHALE!\nJP :\n彼の叫びに応えよう！\n憎悪の…蒼白な鯨を殺す！"
+  },
+  {
+    "key": "45-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "45-content",
+    "original": "모두가 동참하라! 세상과 도시가 가지고 있던…",
+    "context": "EN :\nAll aboard, men! All aboard for the hunt for the evil...!\nJP :\n皆加われ！世界と都市が持っていた…。"
+  },
+  {
+    "key": "46-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "46-content",
+    "original": "그대들을 사지로 내몰고 있는 그 증오스러운 악을 없애는 일에 동참하는 것이다!",
+    "context": "EN :\nAll aboard on this voyage to hunt the fount of all evils of the world, of the City, the hateful evil that pushes you all to the brink of death!\nJP :\n皆を死地へ追いやっている、\nあの憎たらしい悪の排除へ加わるのだ！"
+  },
+  {
+    "key": "47-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "47-content",
+    "original": "모든 고난, 모든 부조리, 모든 이별은 그 고래가 자아내는 악에 의해 자행되었으니…",
+    "context": "EN :\nAll of your struggles, all of your injustices, all of your pains and losses... that very evil sprang forth from that very Whale...\nJP :\n全ての苦難、全ての不条理、全ての離別は\nその鯨が生み出す悪によって行われたのだから…。"
+  },
+  {
+    "key": "48-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "48-content",
+    "original": "우리는 그것을 죽이고 모든 것이 제자리에 돌아가는 것을 지켜볼 것이다!",
+    "context": "EN :\nSo we'll kill it! We'll kill it and watch as the new dawn breaks upon a world that has been mended!\nJP :\n我々はそれを殺して、全てが元通りになるのを見守るであろう！"
+  },
+  {
+    "key": "49-model",
+    "original": "퀴케그과거",
+    "translation": "魁魁格",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nQueequeg\nJP :\nクィークェグ"
+  },
+  {
+    "key": "49-content",
+    "original": "…예!",
+    "context": "EN :\n... Aye!\nJP :\n…はっ！"
+  },
+  {
+    "key": "50-model",
+    "original": "에이해브과거",
+    "translation": "亚哈",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAhab\nJP :\nエイハブ"
+  },
+  {
+    "key": "50-content",
+    "original": "소리쳐라! 외쳐라!",
+    "context": "EN :\nSHOUT! BELLOW!\nJP :\n声に出せ！叫べ！"
+  },
+  {
+    "key": "51-model",
+    "original": "스타벅과거",
+    "translation": "斯达巴克",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStarbuck\nJP :\nスターバック"
+  },
+  {
+    "key": "51-content",
+    "original": "예! 선장님…!",
+    "context": "EN :\nAye, Captain...!\nJP :\nはっ！船長…！"
+  },
+  {
+    "key": "52-model",
+    "original": "핍과거",
+    "translation": "比普",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nPip\nJP :\nピップ"
+  },
+  {
+    "key": "52-content",
+    "original": "이히힛, 잘 가! 스텁!! 다시 보자! 다시, 다시!",
+    "context": "EN :\nEhehehe, goodbye! Stubb!! Let's meet again! Again, and again!\nJP :\nいひひっ、さよなら！スタッブ！！\nまた会おう！また、また！"
+  },
+  {
+    "key": "53-model",
+    "original": "스텁그림자",
+    "translation": "斯塔布",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nStubb\nJP :\nスタッブ"
+  },
+  {
+    "key": "53-content",
+    "original": "…네!!!",
+    "context": "EN :\n... Aye!!!\nJP :\n…はっ！！！"
+  },
+  {
+    "key": "54-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "54-content",
+    "original": "맞아, 창백한 고래만 죽이면 드디어 모든 게 끝나.",
+    "context": "EN :\nYeah. It'll all be over when we kill the Pallid Whale.\nJP :\nそうだ、蒼白な鯨さえ殺せば全てが終わるんだ。"
+  },
+  {
+    "key": "55-model",
+    "original": "이스마엘과거",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "55-content",
+    "original": "그 모든 악의 고래만 죽이면…",
+    "context": "EN :\nWhen we kill the Whale of all evils...\nJP :\nあの全ての悪の鯨さえ殺せば…。"
+  },
+  {
+    "key": "57-place",
+    "original": "창백한 고래 우심실",
+    "context": "EN :\nThe Pallid Whale's Right Ventricle\nJP :\n蒼白な鯨 右心室"
+  },
+  {
+    "key": "57-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "57-content",
+    "original": "<우리는 지금…>",
+    "context": "EN :\n<So all along, we've not only...>\nJP :\n<私たちは今…。>"
+  },
+  {
+    "key": "58-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "58-content",
+    "original": "<고래 안에 있지만 그보다 더 깊은 곳 안에 있었던 거였네…>",
+    "context": "EN :\n<... been trapped inside the Whale, but also in her palms, all along...>\nJP :\n<鯨の中にいるけど、\nそれよりもっと深い場所へ連れてこられたみたいだ…。>"
+  }
+]

@@ -1,0 +1,816 @@
+[
+  {
+    "key": "0-place",
+    "original": "워더링하이츠 옥상",
+    "context": "EN :\nWuthering Heights Rooftop\nJP :\nワザリング・ハイツ 屋上"
+  },
+  {
+    "key": "0-content",
+    "original": "옥상에 남은 것은 관 속에 있는 다 타버린 황금가지 하나뿐이었다.",
+    "context": "EN :\nAll that remained on the rooftop was a burnt Golden Bough in the coffin.\nJP :\n屋上に残ったのは、棺の中にある\n燃え尽きた黄金の枝一本だった。"
+  },
+  {
+    "key": "1-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-content",
+    "original": "하얗게 타버렸습니다. 나머지 한 개는 누군가 이미 가져간 듯하군요.",
+    "context": "EN :\nThe Golden Bough is burnt white. It appears that someone has made off with the other.\nJP :\n白く燃えてしまいました。残りの一つは誰かが既に持っていったようですね。"
+  },
+  {
+    "key": "2-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "2-content",
+    "original": "<멀쩡한 한 개를… 넬리가 가져갔어.>",
+    "context": "EN :\n<Nelly... took the other one. The one that's intact.>\nJP :\n<まともな方を…ネリーが持って行ったんだ。>"
+  },
+  {
+    "key": "3-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "3-content",
+    "original": "그자에게 간 거겠지.",
+    "context": "EN :\nShe must've taken it to her.\nJP :\nあいつの元へ行ったんだろうな。"
+  },
+  {
+    "key": "4-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "4-content",
+    "original": "…헤르만.",
+    "context": "EN :\n... Hermann.\nJP :\n…ヘルマン。"
+  },
+  {
+    "key": "6-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "6-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "7-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "7-content",
+    "original": "실패하지 않았어.",
+    "context": "EN :\nThis isn't a failure.\nJP :\n失敗してねぇよ。"
+  },
+  {
+    "key": "8-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "8-content",
+    "original": "되찾을 수 있어.",
+    "context": "EN :\nWe'll get it back.\nJP :\n取り戻せる。"
+  },
+  {
+    "key": "9-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "9-content",
+    "original": "어긋나도… 진심을 다한다면… 다시 이어질 수 있으니까.",
+    "context": "EN :\nEven if our hearts may be broken apart, if I give it my all... we'll be connected once again.\nJP :\n擦れ違っても…真心を尽くせば…再び繋がれるから。"
+  },
+  {
+    "key": "10-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "10-content",
+    "original": "나와 캐서린이 죽은 세계에서조차 그랬던 것처럼.",
+    "context": "EN :\nAs it did, even in the world where Catherine and I were both dead.\nJP :\nオレとキャサリンが死んだ世界ですら、そうだったみてぇに。"
+  },
+  {
+    "key": "11-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11-content",
+    "original": "이 관 속에 들어있는 자의 이름이… 캐서린인가요?",
+    "context": "EN :\nIs Catherine... the name of the person in this coffin?\nJP :\nこの棺の中に入ってる人の名前が…キャサリンなんですか？"
+  },
+  {
+    "key": "12-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "12-content",
+    "original": "죄송해요, 안개가 낀 것처럼 흐릿해져서…",
+    "context": "EN :\nI'm sorry, everything feels so... foggy...\nJP :\nすみません、霧が掛かってるみたいにぼんやりしてて…。"
+  },
+  {
+    "key": "13-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "13-content",
+    "original": "이 관과 관의 주인은 곧바로 LCCA 팀이 수거하여 본부로 전송해 놓을 겁니다.",
+    "context": "EN :\nThe coffin and the person that lies within will be retrieved to the headquarters by the After Team.\nJP :\nこの棺と棺の主人はすぐにLCCAチームにて回収され、\n本部に転送されるでしょう。"
+  },
+  {
+    "key": "14-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "14-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "15-content",
+    "original": "괜찮냐고 물어보기엔 많은 것이 어긋나 있었다.",
+    "context": "EN :\nI wanted to ask him if he was okay, but... I already knew the answer. So many things had gone wrong.\nJP :\n大丈夫かと聞くには、沢山のものが擦れ違いすぎていた。"
+  },
+  {
+    "key": "16-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "16-content",
+    "original": "여전히… 괜찮지 않아.",
+    "context": "EN :\nNo. I'm still... not okay.\nJP :\nまだ…大丈夫じゃあねぇな。"
+  },
+  {
+    "key": "17-content",
+    "original": "히스클리프의 단 하나뿐인 목표가 사라졌다.",
+    "context": "EN :\nHeathcliff's one and only goal... was gone.\nJP :\nヒースクリフのたった一つの目標が消えてしまった。"
+  },
+  {
+    "key": "18-content",
+    "original": "하지만, 그랬기에 꿈속에서만 갇혀 살던 히스클리프도 사라졌으며…",
+    "context": "EN :\nBut Heathcliff was no longer trapped in a living dream.\nJP :\nでも、だからこそ夢の中に閉じ込められたまま\n生きていたヒースクリフも消え…。"
+  },
+  {
+    "key": "19-content",
+    "original": "그랬기에 히스클리프는 문을 열어서 더 넓은 세상을 볼 수 있을지도 모른다.",
+    "context": "EN :\n... Perhaps that is precisely why he could open the door to see a new, wider world.\nJP :\nだからこそヒースクリフはドアを開けて\nもっと広い世界を見ることができるかもしれない。"
+  },
+  {
+    "key": "20-content",
+    "original": "이제 폭풍은 끝났고, 고요해진 워더링하이츠엔 어떤 색깔도 남아 있지 않았다.",
+    "context": "EN :\nNot a single color remained in the silent Wuthering Heights once the tempest passed.\nJP :\nやっと嵐は止み、静かになったワザリング・ハイツには\n何の色も残っていない。"
+  },
+  {
+    "key": "21-content",
+    "original": "그 대신…",
+    "context": "EN :\nAll monochromatic, save for...\nJP :\nその代わり…。"
+  },
+  {
+    "key": "22-content",
+    "original": "유일하게 색을 띠고 있는…",
+    "context": "EN :\n... patches of color...\nJP :\n唯一、色を帯びている…。"
+  },
+  {
+    "key": "23-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "23-content",
+    "original": "저 꽃의 이름은… 히스라고 해.",
+    "context": "EN :\nThose flowers... are called heath.\nJP :\nあの花の名前は…ヒースって言うんだ。"
+  },
+  {
+    "key": "24-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "24-content",
+    "original": "황야에서 고독하게 피어나지만… 폭풍에도 끈질기게 살아남아서… 기다리지.",
+    "context": "EN :\nThe loneliest flowers that take root and bloom in the wild moorlands... But they're also flowers that survive no matter what devastating tempest comes their way. They endure it all and wait.\nJP :\n荒野で孤独に裂くけど…嵐の中でもしぶとく生き残って…待つんだ。"
+  },
+  {
+    "key": "25-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "25-content",
+    "original": "<무엇을?>",
+    "context": "EN :\n<Wait for... what?>\nJP :\n<何を？>"
+  },
+  {
+    "key": "26-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "26-content",
+    "original": "몰라, 그냥… 시간을.",
+    "context": "EN :\nI don't know. The time, I suppose.\nJP :\n知らねぇよ、ただ…時間を。"
+  },
+  {
+    "key": "27-content",
+    "original": "그제야 히스클리프는 꽃의 이름을 말하게 되었다.",
+    "context": "EN :\nThat is when Heathcliff finally told us the name of the flowers.\nJP :\nようやく、ヒースクリフが花の名前を言った。"
+  },
+  {
+    "key": "29-place",
+    "original": "T사 뒷골목 어딘가",
+    "context": "EN :\nBackstreets of T Corp.\nJP :\nT社の裏路地 どこか"
+  },
+  {
+    "key": "29-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "29-content",
+    "original": "어어어? 쫓아가! 쫓아!",
+    "context": "EN :\nWoahh! Go after it! GO!\nJP :\nおぉお？追いかけろ！あっちだ！"
+  },
+  {
+    "key": "30-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "30-content",
+    "original": "아니, 저기로 사라졌잖아. 어딜 보는 거야!",
+    "context": "EN :\nOi, it took off. Where the bloody hell are you lookin' at?!\nJP :\nいや、あっちに失せただろ。どこ見てんだ！"
+  },
+  {
+    "key": "31-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "31-content",
+    "original": "그걸 진작에 말씀해 주셨어야죠!",
+    "context": "EN :\nWell, maybe you should've told me that first?!\nJP :\nそれをもっと早く言ってくださいよ！"
+  },
+  {
+    "key": "32-content",
+    "original": "T사 어딘가를 이동하던 우리는, 저번처럼 LCD에서 명령이 내려와 지정된 뒤틀림을 한창 쫓고 있었다.",
+    "context": "EN :\nAnother day, another Distortion hunting in the streets of T Corp. as per LCD's orders.\nJP :\nT社のどこかを移動していた私たちは、前回のようにLCDから命令が下され\n指定されたねじれを追い続けていた。"
+  },
+  {
+    "key": "33-content",
+    "original": "히스클리프는 다행히도 빠르게 활기를 되찾은 것 같은…",
+    "context": "EN :\nLooks like it didn't take too long for Heathcliff to be his usual energetic self once agai—\nJP :\nヒースクリフは幸いなことに、早くに活気を取り戻した―"
+  },
+  {
+    "key": "34-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "34-content",
+    "original": "야! 뒤질래? 이쪽으로 넘기라니까!",
+    "context": "EN :\nOi, I told you to send 'em this way! I'll smash your head in once this is over!\nJP :\nおい！くたばりてぇのか？こっちに寄越せって！"
+  },
+  {
+    "key": "35-content",
+    "original": "…걸 넘어서, 평소보다 한층 더 열성적이게 된 것 같았다.",
+    "context": "EN :\n... Maybe he's gotten too passionate.\nJP :\n…だけでなく、いつもより一層熱心になったみたいだ。"
+  },
+  {
+    "key": "36-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "36-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "37-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "37-content",
+    "original": "<오랜만… 아니, 왜 넌… 색깔이 전부 존재하지?>",
+    "context": "EN :\n<Long time no— Wait. Why are you... how do you still have color?>\nJP :\n<久しぶ―あれ、なんで君は…色が全部あるんだ？>"
+  },
+  {
+    "key": "38-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "38-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "38-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "38-content",
+    "original": "빛이 내게 아직 닿지 못한 거야.",
+    "context": "EN :\nBecause the light is yet to reach me.\nJP :\n光が君にまだ至ってないからさ。"
+  },
+  {
+    "key": "39-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "39-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "39-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "39-content",
+    "original": "별은 아주 까마득하게 있으니까.",
+    "context": "EN :\nBecause a star is an unfathomable distance away.\nJP :\n星は果てしなく存在するから。"
+  },
+  {
+    "key": "40-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "40-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "40-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "40-content",
+    "original": "단테, 당신도 꽃을 좋아해?",
+    "context": "EN :\nDo you like flowers too, Dante?\nJP :\nダンテ、君も花が好きかい？"
+  },
+  {
+    "key": "41-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "41-content",
+    "original": "<어…>",
+    "context": "EN :\n<Um...>\nJP :\n<えっと…。>"
+  },
+  {
+    "key": "42-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "42-content",
+    "original": "<그렇게 된 것 같아.>",
+    "context": "EN :\n<I think I've come to like them.>\nJP :\n<今回ので好きになった気がする。>"
+  },
+  {
+    "key": "43-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "43-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "43-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "43-content",
+    "original": "당신이 정성스럽게 보살피고 있는 장미 한 송이가 있었어.",
+    "context": "EN :\nImagine that there was a single rose you've cared for a long time.\nJP :\n君が丁寧に世話をしている薔薇が一輪あった。"
+  },
+  {
+    "key": "44-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "44-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "44-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "44-content",
+    "original": "당신의 방은 그 꽃이 풍기는 향기로 가득 채워져 있지.",
+    "context": "EN :\nYour room was always brimming from the sweet aroma of that flower.\nJP :\n君の部屋はその花の香りで満たされているのさ。"
+  },
+  {
+    "key": "45-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "45-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "45-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "45-content",
+    "original": "그러나 어느 날 당신은 긴 여행을 떠나. 그 장미를 내버려둔 채로.",
+    "context": "EN :\nBut one day, you leave the rose behind to go on a long, long journey.\nJP :\nでもある日、君は長旅に出る。その薔薇を捨て置いたまま。"
+  },
+  {
+    "key": "46-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "46-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "46-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "46-content",
+    "original": "그곳에서 큰 정원에 도달하게 되고… 당신이 보살폈던 것과 똑같은 장미가 수천 송이가 피어 있는 걸 보았어… 그걸 본 당신은 울음이 차올라서 바닥에 주저앉고 말았지.",
+    "context": "EN :\nIn your journey, you come across a large garden... and there, you see thousands of the very same rose you once you cared for. That sight... brings you to tears, and you drop to your knees.\nJP :\nその旅路で君は大きな庭園に至り…君が世話していた薔薇と同じ薔薇が\n数千本も咲いているのを見るんだ…。それを見た君は涙が溢れてきて\n地面にうずくまってしまうのさ。"
+  },
+  {
+    "key": "47-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "47-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "47-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "47-content",
+    "original": "이유가 무엇일 것 같아?",
+    "context": "EN :\n... Why do you suppose that is?\nJP :\nどうしてだと思う？"
+  },
+  {
+    "key": "48-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "48-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "49-content",
+    "original": "데미안, 이전에도 내게 잠깐 나타났다 사라져간 이 자는 계속 나한테 어떠한 수수께끼를 던지고 있었다.",
+    "context": "EN :\nDemian... he's appeared before me in the past. He would always leave me with these cryptic riddles.\nJP :\nデミアン、以前にも私にちょっとだけ顔を見せて消えたこの者は、\n何度も私にある種のなぞなぞを投げかけていた。"
+  },
+  {
+    "key": "50-content",
+    "original": "그 수수께끼가 빗대는 것이 무엇일지 아주 어렴풋하게 알게 되는 것 같았다.",
+    "context": "EN :\nBut I'm starting to understand what his riddles are supposed to represent.\nJP :\nそのなぞなぞが、何をなぞらえているのか\nとてもぼんやりとだが分かるようになった気がする。"
+  },
+  {
+    "key": "51-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "51-content",
+    "original": "<깨달았기 때문이지.>",
+    "context": "EN :\n<Because I've finally come to understand.>\nJP :\n<気付いたから。>"
+  },
+  {
+    "key": "52-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "52-content",
+    "original": "<내가 사랑하는 건 내가 두고 온 장미였다는 걸.>",
+    "context": "EN :\n<That the one I truly loved was the rose I'd left behind.>\nJP :\n<自分が愛していたのは、私が置いてきた薔薇だったってことを。>"
+  },
+  {
+    "key": "53-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "53-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "53-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "53-content",
+    "original": "맞아.",
+    "context": "EN :\nCorrect.\nJP :\nその通り。"
+  },
+  {
+    "key": "54-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "54-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "54-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "54-content",
+    "original": "세상엔 수천 송이의 장미꽃들이 있어도 나의 장미꽃은 단 하나야.",
+    "context": "EN :\nEven though there are thousands of roses in this world, there is but one rose that is mine.\nJP :\n世界には数千本の薔薇の花があったとしても、\n僕の薔薇の花はたった一つなのさ。"
+  },
+  {
+    "key": "55-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "55-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "55-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "55-content",
+    "original": "당신이 물을 주고 가꿔주고 가시에 찔려서 가끔 아파하긴 해도 당신의 보살핌으로 인해서 향기가 나는 그 꽃말이야.",
+    "context": "EN :\nYou've watered it diligently, cared for it, even as its thorns pricked your fingers. So that your care makes its aroma bloom.\nJP :\n君が水をやって、世話をして、トゲに刺されてたまに\n傷付くことはあるけど、君の手入れによって香るあの花。"
+  },
+  {
+    "key": "56-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "56-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "56-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "56-content",
+    "original": "히스클리프와 캐서린에게도 그러지 않았을까? 어느 세계에서도 여러 캐서린과 히스클리프가 있다는 것을 알아도… 그 어디에나 있을 히스클리프와 캐서린이 행복하길 바라기보다 눈앞의 서로가 특별하고 소중하다고 생각했으니까.",
+    "context": "EN :\nI suppose that's how it was for Heathcliff and Catherine as well. Knowing that there are infinite Catherines and Heathcliffs in countless worlds... they wished not for the happiness of infinite Catherines and Heathcliffs but for the happiness of each other. Because to them, each other was the one that truly mattered.\nJP :\nヒースクリフとキャサリンもそうだったんじゃあないのかな？どの世界にもキャサリンと\nヒースクリフがいることを知っていても…。どこにでもいるヒースクリフとキャサリンが\n幸せになることを願うより、目の前にいるお互いが特別で大切だと思ったから。"
+  },
+  {
+    "key": "57-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "57-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "57-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "57-content",
+    "original": "하지만 대부분의 사람들은 어리석어서 그걸 깨닫기까지는 정말 오랜 시간이 필요할 거야.",
+    "context": "EN :\nBut it would take most people a long, long time to understand that. Because most people are foolish.\nJP :\nでも、大多数の人々は愚かだから\nそれに気付くまで本当に長い時間が必要になるだろうね。"
+  },
+  {
+    "key": "58-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "58-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "58-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "58-content",
+    "original": "알겠어? 눈앞에 있는 나의 꽃을 사랑하는 방법을 알기만 한다면…",
+    "context": "EN :\nDo you understand? Once I learn to properly love my very own flower...\nJP :\n分かるかい？目の前にある自分の花を愛せる方法を知りさえすれば…。"
+  },
+  {
+    "key": "59-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "59-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "59-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "59-content",
+    "original": "그 순간부터 더 이상 수천 송이의 장미꽃들은 지킬 필요가 없는 거야.",
+    "context": "EN :\nI no longer need to protect the thousands of other roses in the world.\nJP :\nその瞬間から、もはや数千本の薔薇を守る必要は無くなるのさ。"
+  },
+  {
+    "key": "60-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "60-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "60-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "60-content",
+    "original": "이 별 사람들은 자신의 정원만을 꾸미기 위해 장미꽃 수천 송이를 가꾸면서도 정작 자신이 원하는 것은 찾지 못하더라고.",
+    "context": "EN :\nPeople of this star care for thousands of rose blossoms in their own gardens... but still fail to find what they really desire.\nJP :\nこの星の人々は自分の庭園を彩るために、薔薇の花を数千本育てながらも\n自分が望むものは見つけられないんだ。"
+  },
+  {
+    "key": "61-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "61-content",
+    "original": "<…하지만 이미 피어나게 된 그 나머지 꽃들은?>",
+    "context": "EN :\n<... But what of the other flowers that's already bloomed?>\nJP :\n<…でも、もう咲いてしまった残りの花は？>"
+  },
+  {
+    "key": "62-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "62-content",
+    "original": "<어떻게 되는 거야?>",
+    "context": "EN :\n<What happens to them?>\nJP :\n<どうなるの？>"
+  },
+  {
+    "key": "63-content",
+    "original": "내가 이렇게 묻자 데미안은 빙그레 웃었다.",
+    "context": "EN :\nDemian smiled at my question.\nJP :\n私がこう聞くと、デミアンはにっこり笑った。"
+  },
+  {
+    "key": "64-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "64-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "64-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "64-content",
+    "original": "그건 당신이 내게 양을 그려줄 수 있을 때.",
+    "context": "EN :\nYou will find the answer to that question yourself...\nJP :\nそれは、君が僕に羊を描けるようになったとき。"
+  },
+  {
+    "key": "65-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "65-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "65-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "65-content",
+    "original": "그때 스스로 찾게 될 답일 거야.",
+    "context": "EN :\n... when you can draw me a sheep.\nJP :\nそのときに、自ら見つけることになるだろう。"
+  },
+  {
+    "key": "66-content",
+    "original": "말을 마친 데미안은 사라졌다.",
+    "context": "EN :\nWith that, Demian disappeared.\nJP :\n言葉を終えたデミアンは消えていった。"
+  },
+  {
+    "key": "67-content",
+    "original": "…어디선가 양의 울음소리가 희미하게 들리고 있었다.",
+    "context": "EN :\n... I hear the faint cry of a distant lamb.\nJP :\n…どこかから、羊の鳴き声が微かに聞こえてきた。"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "key": "107804-levelList$[0].name",
+    "original": "포장하겠어요",
+    "context": "EN :\nLet's Get Packing\nJP :\nラッピングするぞい"
+  },
+  {
+    "key": "107804-levelList$[0].desc",
+    "original": "자신에게 [AaCeSeBa]가 있다면, 코인 효과에 다음 턴에 [Paralysis] 1 부여 추가\n가장 느린 대상 우선 공격\n[EndBattle] 모든 [Charge] 횟수 소모",
+    "context": "EN :\nIf this unit has [AaCeSeBa], add 'Inflict 1 [Paralysis] next turn' to Coin effects\nTargets the unit with the lowest Speed\n[EndBattle] Spend all [Charge] Count\nJP :\n対象に[AaCeSeBa]があれば、コイン効果へ「次のターンに[Paralysis]1付与」を追加\n最も遅い対象を優先して攻撃\n[EndBattle] [Charge]回数を全て消耗"
+  },
+  {
+    "key": "107804-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "107804-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Breath] 3 얻음.",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 [Breath].\nJP :\n[OnSucceedAttack] [Breath]3を得る。"
+  },
+  {
+    "key": "107804-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "107804-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 [Breath]만큼 추가 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal bonus damage equal to [Breath] on self\nJP :\n[OnSucceedAttack] 自分の[Breath]だけ追加ダメージ"
+  },
+  {
+    "key": "107804-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Breath] 1 얻음, 자신의 [Breath] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [Breath] and +3 [Breath] Count\nJP :\n[OnSucceedAttack] [Breath]1を得る、自分の[Breath]回数が3増加"
+  },
+  {
+    "key": "107804-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "107804-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack]  [Protection], [Enhancement], [Vulnerable], [Paralysis] 중 무작위 1개 효과를 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Randomly select 1 of 4 effects ([Protection], [Enhancement], [Vulnerable], [Paralysis]). Inflict or apply 3 of the selected effect.\nJP :\n[OnSucceedAttack]  [Protection], [Enhancement], [Vulnerable], [Paralysis]のうち、ランダムに1つの効果を3付与"
+  },
+  {
+    "key": "107804-levelList$[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 자신의 [Charge] 횟수만큼 대상의 정신력을 감소",
+    "context": "EN :\n[OnSucceedAttack] Target loses SP equal to [Charge] Count on this unit\nJP :\n[OnSucceedAttack] 自分の[Charge]回数だけ、対象の精神力を減少"
+  },
+  {
+    "key": "107804-levelList$[0].coinlist[2].coindescs[3].desc",
+    "original": "[EnemyKill] 모든 적의 정신력 10 감소.",
+    "context": "EN :\n[EnemyKill] All enemies lose 10 Sp.\nJP :\n[EnemyKill] 全ての敵の精神力を10減少。"
+  },
+  {
+    "key": "107804-levelList$[0].coinlist[2].coindescs[4].desc",
+    "original": "[EnemyKillFail] 다음 턴에 [Paralysis] 2 얻음.",
+    "context": "EN :\n[EnemyKillFail] Gain 2 [Paralysis] next turn.\nJP :\n[EnemyKillFail] 次のターンに[Paralysis]2を得る"
+  }
+]
