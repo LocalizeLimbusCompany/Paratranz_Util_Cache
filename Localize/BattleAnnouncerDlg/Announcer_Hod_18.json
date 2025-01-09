@@ -145,9 +145,15 @@
     "context": "EN :\nManager, the Qliphoth Meltdown gauge is rising. At this rate, the Ordeal will be here at any minute!\nJP :\n管理人さん。クリフォト暴走ゲージが増加しています。このままじゃ、じきに試練が来ますよ！"
   },
   {
+    "key": "announcer_add_18_1-isHide"
+  },
+  {
     "key": "announcer_add_18_2-dlg",
     "original": "관리자님. 클리포트 폭주 게이지가 한 칸 남았어요! 곧 자색 정오의 시련이 올 거예요!",
     "context": "EN :\nManager, there's only one bar left of the Qliphoth Meltdown gauge! Prepare for the Noon of Violet!\nJP :\n管理人さん。クリフォト暴走ゲージが残り1マスです！じきに紫の白昼の試練が来ますよ！"
+  },
+  {
+    "key": "announcer_add_18_2-isHide"
   },
   {
     "key": "announcer_add_18_3-dlg",
@@ -155,8 +161,11 @@
     "context": "EN :\nThe Physical Intervention Shield protected the employees. I'm so relieved that we managed to restore the Regenerator.\nJP :\n物理干渉保護フィールドが職員たちを保護してくれました。再生炉が復旧して本当に良かったですね。"
   },
   {
+    "key": "announcer_add_18_3-isHide"
+  },
+  {
     "key": "announcer_equip_18_1-dlg",
     "original": "자, 직원 여러분 모두 웃으며 여길 봐주세요~ 오늘은 교육팀의 세피라인 저와 함께 적대 개체 제압 훈련 비디오를 찍을 거예요!",
-    "context": "EN :\nHello, everyone! Please give the camera a bright smile~ As the Sephirah of the Training Team, I'll be joining you today to film a training video for hostile entity suppression!\nJP :\nさぁ、職員の皆さん。笑ってこっちを見てくださ～い。今日は教育チームのセフィラである私と一緒に敵対個体制圧訓練用ビデオを撮りますよ！"
+    "context": "EN :\nHello, everyone! Please give the camera a bright smile~ As the Sephirah of the Training Team, I'll be joining you today to film a training video for hostile entity suppression!\nJP :\nさぁ、職員の皆さん。笑ってこっちを見てくださ～い。今日は教育チームのセフィラである私と一緒に、敵対個体制圧訓練ビデオを撮りますよ！"
   }
 ]

@@ -2407,7 +2407,7 @@
   {
     "key": "10610-desc",
     "original": "홍루의 열번째 인격",
-    "context": "EN :\nHong Lu’s 11th Identity\nJP :\nホンルの10番目の人格"
+    "context": "EN :\nHong Lu’s 10th Identity\nJP :\nホンルの10番目の人格"
   },
   {
     "key": "11210-title",
@@ -2427,7 +2427,7 @@
   {
     "key": "11210-desc",
     "original": "그레고르의 열번째 인격",
-    "context": "EN :\nGregor’s 11th Identity\nJP :\nグレゴールの10番目の人格"
+    "context": "EN :\nGregor’s 10th Identity\nJP :\nグレゴールの10番目の人格"
   },
   {
     "key": "10911-title",
@@ -2488,5 +2488,45 @@
     "key": "10310-desc",
     "original": "돈키호테의 열번째 인격",
     "context": "EN :\nDon Quixote’s 10th Identity\nJP :\nドンキホーテの10番目の人格"
+  },
+  {
+    "key": "10611-title",
+    "original": "마침표 사무소\n대표",
+    "context": "EN :\nFull-Stop Office\nRep\nJP :\n終止符事務所\n代表"
+  },
+  {
+    "key": "10611-name",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10611-nameWithTitle",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10611-desc",
+    "original": "홍루의 열한번째 인격",
+    "context": "EN :\nHong Lu’s 11th Identity\nJP :\nホンルの11番目の人格"
+  },
+  {
+    "key": "10711-title",
+    "original": "마침표 사무소\n해결사",
+    "context": "EN :\nFull-Stop Office\nFixer\nJP :\n終止符事務所\nフィクサー"
+  },
+  {
+    "key": "10711-name",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "10711-nameWithTitle",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "10711-desc",
+    "original": "히스클리프의 열한번째 인격",
+    "context": "EN :\nHeathcliff’s 11th Identity\nJP :\nヒースクリフの11番目の人格"
   }
 ]

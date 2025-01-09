@@ -2298,5 +2298,10 @@
     "key": "gacha_notice_vending_available_date_v3-content",
     "original": "시즌 인격·E.G.O는 {0}월 {1}일 {2} ({3}) 부터 자판기에서 교환할 수 있습니다.",
     "context": "EN :\nSeasonal ID & E.G.O can be Dispensed starting from {0}/{1} {2} ({3})\nJP :\nシーズン人格・E.G.Oは{0}月{1}日{2} ({3})から自販機にて交換可能になります。"
+  },
+  {
+    "key": "mini_story_warning_spoiler_checkbox_desc-content",
+    "original": "팝업 다시 보지 않기",
+    "context": "EN :\nDon't see this message again\nJP :\nポップアップを二度と表示しない"
   }
 ]

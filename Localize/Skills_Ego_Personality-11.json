@@ -563,5 +563,165 @@
     "key": "2110721-levelList$[2].coinlist[0].coindescs[2].desc",
     "original": "[EnemyKill] [Charge] 횟수 2 증가<style=\"highlight\"></style>",
     "context": "EN :\n[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>\nJP :\n[EnemyKill] [Charge]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2110811-levelList$[0].name",
+    "original": "마탄",
+    "context": "EN :\nMagic Bullet\nJP :\n魔弾"
+  },
+  {
+    "key": "2110811-levelList$[0].abName",
+    "original": "마탄의 사수",
+    "context": "EN :\nDer Freischütz\nJP :\n魔弾の射手"
+  },
+  {
+    "key": "2110811-levelList$[0].desc",
+    "original": "대상의 [Combustion] 수치 3당 피해량 +1% (최대 10%)\n[BeforeAttack] [FreischutzShotCount]이 0이면, [FreischutzShotCount] 1 얻음.\n- [FreischutzShotCount] 수치에 따라 발사할 탄환이 정해짐\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] 최대 공명 수만큼 [FreischutzShotCount]을 얻음 (최소 1, 최대 4)\n[EndSkill] 메인 타겟이 사망했으면, [Combustion]이 있는 모든 적에게 [DarkFlame] 2 부여",
+    "context": "EN :\nDeal +1% more damage for every 3 [Combustion] on the target (max 10%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict 2 [DarkFlame] against all enemies with [Combustion]\nJP :\n対象の[Combustion]数値3につきダメージ量 +1%(最大10%)\n[BeforeAttack] [FreischutzShotCount]が0なら、[FreischutzShotCount]1を得る。\n- [FreischutzShotCount]の数値によって発射する弾丸が決定\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] 最大共鳴数だけ[FreischutzShotCount]を得る(最小1, 最大4)\n[EndSkill] メインターゲットが死亡したなら、[Combustion]を持つ全ての敵へ[DarkFlame]2を付与"
+  },
+  {
+    "key": "2110811-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [FreischutzShotCount]만큼 [Combustion] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]\nJP :\n[OnSucceedAttack] [FreischutzShotCount]だけ[Combustion]を付与"
+  },
+  {
+    "key": "2110811-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [FreischutzShotCount]만큼 [DarkFlame] 부여 (턴 당 대상 1명마다 최대 1회 부여)",
+    "context": "EN :\n[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)\nJP :\n[OnSucceedAttack] [FreischutzShotCount]だけ[DarkFlame]を付与(1ターンごとに対象1名につき最大1回付与)"
+  },
+  {
+    "key": "2110811-levelList$[1].name",
+    "original": "마탄",
+    "context": "EN :\nMagic Bullet\nJP :\n魔弾"
+  },
+  {
+    "key": "2110811-levelList$[1].abName",
+    "original": "마탄의 사수",
+    "context": "EN :\nDer Freischütz\nJP :\n魔弾の射手"
+  },
+  {
+    "key": "2110811-levelList$[1].desc",
+    "original": "대상의 [Combustion] 수치 3당 피해량 +<style=\"highlight\">2</style>% (최대 <style=\"highlight\">20</style>%)\n[BeforeAttack] [FreischutzShotCount]이 0이면, [FreischutzShotCount] 1 얻음.\n- [FreischutzShotCount] 수치에 따라 발사할 탄환이 정해짐\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] 최대 공명 수만큼 [FreischutzShotCount]을 얻음 (최소 1, 최대 4)\n[EndSkill] 메인 타겟이 사망했으면, [Combustion]이 있는 모든 적에게 [DarkFlame] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\nDeal +<style=\"highlight\">2</style>% more damage for every 3 [Combustion] on the target (max <style=\"highlight\">20</style>%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict <style=\"highlight\">3</style> [DarkFlame] against all enemies with [Combustion]\nJP :\n対象の[Combustion]数値3につきダメージ量 +<style=\"highlight\">2</style>%(最大<style=\"highlight\">20</style>%)\n[BeforeAttack] [FreischutzShotCount]が0なら、[FreischutzShotCount]1を得る。\n- [FreischutzShotCount]の数値によって発射する弾丸が決定\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] 最大共鳴数だけ[FreischutzShotCount]を得る(最小1, 最大4)\n[EndSkill] メインターゲットが死亡したなら、[Combustion]を持つ全ての敵へ[DarkFlame]<style=\"highlight\">3</style>を付与"
+  },
+  {
+    "key": "2110811-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [FreischutzShotCount]만큼 [Combustion] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]\nJP :\n[OnSucceedAttack] [FreischutzShotCount]だけ[Combustion]を付与"
+  },
+  {
+    "key": "2110811-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [FreischutzShotCount]만큼 [DarkFlame] 부여 (턴 당 대상 1명마다 최대 1회 부여)",
+    "context": "EN :\n[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)\nJP :\n[OnSucceedAttack] [FreischutzShotCount]だけ[DarkFlame]を付与(1ターンごとに対象1名につき最大1回付与)"
+  },
+  {
+    "key": "2110811-levelList$[2].name",
+    "original": "마탄",
+    "context": "EN :\nMagic Bullet\nJP :\n魔弾"
+  },
+  {
+    "key": "2110811-levelList$[2].abName",
+    "original": "마탄의 사수",
+    "context": "EN :\nDer Freischütz\nJP :\n魔弾の射手"
+  },
+  {
+    "key": "2110811-levelList$[2].desc",
+    "original": "대상의 [Combustion] 수치 3당 피해량 +<style=\"highlight\">3</style>% (최대 <style=\"highlight\">30</style>%)\n[BeforeAttack] [FreischutzShotCount]이 0이면, [FreischutzShotCount] 1 얻음.\n- [FreischutzShotCount] 수치에 따라 발사할 탄환이 정해짐\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] 최대 공명 수만큼 [FreischutzShotCount]을 얻음 (최소 1, 최대 4)\n[EndSkill] 메인 타겟이 사망했으면, [Combustion]이 있는 모든 적에게 [DarkFlame] <style=\"highlight\">4</style> 부여",
+    "context": "EN :\nDeal +<style=\"highlight\">3</style>% more damage for every 3 [Combustion] on the target (max <style=\"highlight\">30</style>%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict <style=\"highlight\">4</style> [DarkFlame] against all enemies with [Combustion]\nJP :\n対象の[Combustion]数値3につきダメージ量 +<style=\"highlight\">3</style>%(最大<style=\"highlight\">30</style>%)\n[BeforeAttack] [FreischutzShotCount]が0なら、[FreischutzShotCount]1を得る。\n- [FreischutzShotCount]の数値によって発射する弾丸が決定\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] 最大共鳴数だけ[FreischutzShotCount]を得る(最小1, 最大4)\n[EndSkill] メインターゲットが死亡したなら、[Combustion]を持つ全ての敵へ[DarkFlame]<style=\"highlight\">4</style>を付与"
+  },
+  {
+    "key": "2110811-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [FreischutzShotCount]만큼 [Combustion] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]\nJP :\n[OnSucceedAttack] [FreischutzShotCount]だけ[Combustion]を付与"
+  },
+  {
+    "key": "2110811-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [FreischutzShotCount]만큼 [DarkFlame] 부여 (턴 당 대상 1명마다 최대 1회 부여)",
+    "context": "EN :\n[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)\nJP :\n[OnSucceedAttack] [FreischutzShotCount]だけ[DarkFlame]を付与(1ターンごとに対象1名につき最大1回付与)"
+  },
+  {
+    "key": "2110821-levelList$[0].name",
+    "original": "마탄",
+    "context": "EN :\nMagic Bullet\nJP :\n魔弾"
+  },
+  {
+    "key": "2110821-levelList$[0].abName",
+    "original": "마탄의 사수",
+    "context": "EN :\nDer Freischütz\nJP :\n魔弾の射手"
+  },
+  {
+    "key": "2110821-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n대상의 [Combustion] 수치 3당 피해량 +1% (최대 10%)\n[BeforeAttack] [FreischutzShotCount]이 0이면, [FreischutzShotCount] 1 얻음.\n- [FreischutzShotCount] 수치에 따라 발사할 탄환이 정해짐\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] 최대 공명 수만큼 [FreischutzShotCount]을 얻음 (최소 1, 최대 4)\n[EndSkill] 메인 타겟이 사망했으면, [Combustion]이 있는 모든 대상에게 [DarkFlame] 3 부여",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nDeal +1% more damage for every 3 [Combustion] on the target (max 10%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict 3 [DarkFlame] against all enemies with [Combustion]\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n対象の[Combustion]数値3につきダメージ量 +1%(最大10%)\n[BeforeAttack] [FreischutzShotCount]が0なら、[FreischutzShotCount]1を得る。\n- [FreischutzShotCount]の数値によって発射する弾丸が決定\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] 最大共鳴数だけ[FreischutzShotCount]を得る(最小1, 最大4)\n[EndSkill] メインターゲットが死亡したなら、[Combustion]を持つ全ての対象へ[DarkFlame]3を付与"
+  },
+  {
+    "key": "2110821-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [FreischutzShotCount]만큼 [Combustion] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]\nJP :\n[OnSucceedAttack] [FreischutzShotCount]だけ[Combustion]を付与"
+  },
+  {
+    "key": "2110821-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [FreischutzShotCount]만큼 [DarkFlame] 부여 (턴 당 대상 1명마다 최대 1회 부여)",
+    "context": "EN :\n[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)\nJP :\n[OnSucceedAttack] [FreischutzShotCount]だけ[DarkFlame]を付与(1ターンごとに対象1名につき最大1回付与)"
+  },
+  {
+    "key": "2110821-levelList$[1].name",
+    "original": "마탄",
+    "context": "EN :\nMagic Bullet\nJP :\n魔弾"
+  },
+  {
+    "key": "2110821-levelList$[1].abName",
+    "original": "마탄의 사수",
+    "context": "EN :\nDer Freischütz\nJP :\n魔弾の射手"
+  },
+  {
+    "key": "2110821-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n대상의 [Combustion] 수치 3당 피해량 +<style=\"highlight\">2</style>% (최대 <style=\"highlight\">20</style>%)\n[BeforeAttack] [FreischutzShotCount]이 0이면, [FreischutzShotCount] 1 얻음.\n- [FreischutzShotCount] 수치에 따라 발사할 탄환이 정해짐\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] 최대 공명 수만큼 [FreischutzShotCount]을 얻음 (최소 1, 최대 4)\n[EndSkill] 메인 타겟이 사망했으면, [Combustion]이 있는 모든 대상에게 [DarkFlame] <style=\"highlight\">5</style> 부여",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nDeal +<style=\"highlight\">2</style>% more damage for every 3 [Combustion] on the target (max <style=\"highlight\">20</style>%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict <style=\"highlight\">5</style> [DarkFlame] against all enemies with [Combustion]\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n対象の[Combustion]数値3につきダメージ量 +<style=\"highlight\">2</style>%(最大<style=\"highlight\">20</style>%)\n[BeforeAttack] [FreischutzShotCount]が0なら、[FreischutzShotCount]1を得る。\n- [FreischutzShotCount]の数値によって発射する弾丸が決定\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] 最大共鳴数だけ[FreischutzShotCount]を得る(最小1, 最大4)\n[EndSkill] メインターゲットが死亡したなら、[Combustion]を持つ全ての対象へ[DarkFlame]<style=\"highlight\">5</style>を付与"
+  },
+  {
+    "key": "2110821-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [FreischutzShotCount]만큼 [Combustion] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]\nJP :\n[OnSucceedAttack] [FreischutzShotCount]だけ[Combustion]を付与"
+  },
+  {
+    "key": "2110821-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] ([FreischutzShotCount] / 3)만큼 [Combustion] 횟수 증가 (소수점 버림)",
+    "context": "EN :\n[OnSucceedAttack] Inflict +([FreischutzShotCount] / 3) [Combustion] Count (rounded down)\nJP :\n[OnSucceedAttack] ([FreischutzShotCount] ÷ 3)だけ[Combustion]回数が増加(小数点切り捨て)"
+  },
+  {
+    "key": "2110821-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [FreischutzShotCount]만큼 [DarkFlame] 부여 (턴 당 대상 1명마다 최대 1회 부여)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [FreischutzShotCount]だけ[DarkFlame]を付与(1ターンごとに対象1名につき最大1回付与)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "2110821-levelList$[2].name",
+    "original": "마탄",
+    "context": "EN :\nMagic Bullet\nJP :\n魔弾"
+  },
+  {
+    "key": "2110821-levelList$[2].abName",
+    "original": "마탄의 사수",
+    "context": "EN :\nDer Freischütz\nJP :\n魔弾の射手"
+  },
+  {
+    "key": "2110821-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n대상의 [Combustion] 수치 3당 피해량 +<style=\"highlight\">3</style>% (최대 <style=\"highlight\">30</style>%)\n[BeforeAttack] [FreischutzShotCount]이 0이면, [FreischutzShotCount] 1 얻음.\n- [FreischutzShotCount] 수치에 따라 발사할 탄환이 정해짐\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] 최대 공명 수만큼 [FreischutzShotCount]을 얻음 (최소 1, 최대 4)\n[EndSkill] 메인 타겟이 사망했으면, [Combustion]이 있는 모든 대상에게 [DarkFlame] <style=\"highlight\">7</style> 부여",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\nDeal +<style=\"highlight\">3</style>% more damage for every 3 [Combustion] on the target (max <style=\"highlight\">30</style>%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict <style=\"highlight\">7</style> [DarkFlame] against all enemies with [Combustion]\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n対象の[Combustion]数値3につきダメージ量 +<style=\"highlight\">3</style>%(最大<style=\"highlight\">30</style>%)\n[BeforeAttack] [FreischutzShotCount]が0なら、[FreischutzShotCount]1を得る。\n- [FreischutzShotCount]の数値によって発射する弾丸が決定\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] 最大共鳴数だけ[FreischutzShotCount]を得る(最小1, 最大4)\n[EndSkill] メインターゲットが死亡したなら、[Combustion]を持つ全ての対象へ[DarkFlame]<style=\"highlight\">7</style>を付与"
+  },
+  {
+    "key": "2110821-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [FreischutzShotCount]만큼 [Combustion] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]\nJP :\n[OnSucceedAttack] [FreischutzShotCount]だけ[Combustion]を付与"
+  },
+  {
+    "key": "2110821-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] ([FreischutzShotCount] / <style=\"highlight\">2</style>)만큼 [Combustion] 횟수 증가 (소수점 버림)",
+    "context": "EN :\n[OnSucceedAttack] Inflict +([FreischutzShotCount] / <style=\"highlight\">2</style>) [Combustion] Count (rounded down)\nJP :\n[OnSucceedAttack] ([FreischutzShotCount] ÷ <style=\"highlight\">2</style>)だけ[Combustion]回数が増加(小数点切り捨て)"
+  },
+  {
+    "key": "2110821-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [FreischutzShotCount]만큼 [DarkFlame] 부여 (턴 당 대상 1명마다 최대 1회 부여)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [FreischutzShotCount]だけ[DarkFlame]を付与(1ターンごとに対象1名につき最大1回付与)<style=\"highlight\"></style>"
   }
 ]

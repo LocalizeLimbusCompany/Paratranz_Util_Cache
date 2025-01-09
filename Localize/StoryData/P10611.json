@@ -1,0 +1,750 @@
+[
+  {
+    "key": "0-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "0-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "0-content",
+    "original": "사격 중지.",
+    "context": "EN :\nHold your fire.\nJP :\n射撃中止。"
+  },
+  {
+    "key": "1-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "1-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "1-content",
+    "original": "으, 으아아아!",
+    "context": "EN :\nUagh, aaaagh!\nJP :\nう、うわぁああ！"
+  },
+  {
+    "key": "2-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "2-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "2-content",
+    "original": "야, 사격 중지라잖아! 총구 내려!",
+    "context": "EN :\nOi! Hold your fire, lad! Low ready, now!\nJP :\nおい、射撃中止っつったろ！銃口下ろせ！"
+  },
+  {
+    "key": "3-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "3-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "3-content",
+    "original": "하하, 복창 고마워요. 연기 때문에 앞이 보이질 않아서…",
+    "context": "EN :\nHa ha, thanks for repeating after me. Can't see too well through all this smoke.\nJP :\nはは、復唱ありがとうございます。\n煙のせいで前が見えなくて…。"
+  },
+  {
+    "key": "4-content",
+    "original": "연기가 자욱하게 깔린 전장.",
+    "context": "EN :\nA battlefield thick with the smoke of war...\nJP :\n煙が酷く立ちこめる戦場。"
+  },
+  {
+    "key": "5-content",
+    "original": "연달아 들려오는 총성과 톱니가 돌아가는 마찰음이, 아이의 손짓 한 번에 멈췄어.",
+    "context": "EN :\nThe chaotic cacophony of gunfire and grinding gears came to a sudden stop at the child's hand sign.\nJP :\n何度も聞こえる銃声と、歯車が回る摩擦音が\n子供の手の合図ひとつで止まった。"
+  },
+  {
+    "key": "6-content",
+    "original": "협회에서 준 의뢰는 톱니교단의 토벌.",
+    "context": "EN :\nThey were contracted by the Association for the eradication of the Church of Gears.\nJP :\n協会から与えられた依頼は、歯車の教団の討伐。"
+  },
+  {
+    "key": "7-content",
+    "original": "아이가 자신만만하게 수주해 온 의뢰지만, 예상 밖의 상황에 의뢰의 진행은 지지부진해.",
+    "context": "EN :\nThe child accepted the contract with gusto, but things weren't quite going according to plan, thanks to certain unexpected variables.\nJP :\n子供が自信満々に請け負った依頼だけど、\n予想外の状況に依頼は中々捗らないんだ。"
+  },
+  {
+    "key": "8-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "8-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "8-content",
+    "original": "먼저 올 생각은 없어 보이죠?",
+    "context": "EN :\nDoesn't seem like they'll be closing the distance any time soon, right?\nJP :\n向こうから来るつもりはなさそうですね？"
+  },
+  {
+    "key": "9-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "9-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "9-content",
+    "original": "그렇다고 저희가 먼저 쏠 수도 없을 것 같아요. 이미 꽤 많이 쐈기도 하고요.",
+    "context": "EN :\nYeah, but I don't know if it's a good idea for us to shoot first. Not to mention how we've already wasted a lot of bullets.\nJP :\nだからといって、僕たちの方から先に撃つこともできなさそうです。\nもうだいぶ撃っちゃいましたしね。"
+  },
+  {
+    "key": "10-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "10-content",
+    "original": "시 협회에서 준 의뢰라 그런가, 생각보다 의뢰 난도가 높네요~",
+    "context": "EN :\nThis contract is a bit more troublesome than I'd expected. I guess that's what you get for picking up a Shi Association contract~\nJP :\nシ協会からの依頼だからですかね、思ったより依頼の難易度が高いですね〜。"
+  },
+  {
+    "key": "11-content",
+    "original": "아이와 동료들은 이미 꽤 많은 탄환을 쏟아부었지만, 제대로 된 성과를 얻지 못하고 있어.",
+    "context": "EN :\nDespite already having spent quite a lot of bullets, the child and his colleagues were having some trouble making much headway.\nJP :\n子供と仲間たちは既にかなりの弾丸をぶっ放したけど、\nめぼしい成果は上がっていないみたいだね。"
+  },
+  {
+    "key": "12-content",
+    "original": "파괴력을 높이는 과정에서 나오는 뜨거운 증기와 톱니가 움직이며 내뿜는 연기 때문도 있지만…",
+    "context": "EN :\nThere was the hot steam—a byproduct of boosting their powers—and the smoke coming out of the grinding gears. But the worst of them all was...\nJP :\n破壊力を高める過程で発生する熱い蒸気と、\n回転する歯車が吐き出す煙のせいでもあるけど…。"
+  },
+  {
+    "key": "13-content",
+    "original": "가장 큰 장애물은 의뢰 대상인 톱니 신도들의 불규칙한 움직임이야.",
+    "context": "EN :\n... the erratically moving Gear Worshippers, the very targets of their contract.\nJP :\n一番大きな障害は、依頼対象である\n歯車の教団の信者たちの不規則な動きだね。"
+  },
+  {
+    "key": "14-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "14-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "14-content",
+    "original": "하… 예측해서 쏴야 하는 것도 짜증 나는데, 자꾸 희한하게 움직이니까 조준도 안 되네.",
+    "context": "EN :\nHaah... Not only are they constantly moving, but their movements are all so bloody offbeat. I'm havin' some difficulty gettin' a good shot in, lads.\nJP :\nはぁ…予測して撃たなきゃなんねぇだけでもイラつくのに、\n何度も変に動かれちゃ照準も合わせらんねぇよ。"
+  },
+  {
+    "key": "15-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "15-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "15-content",
+    "original": "아무나, 뭐 방법 없어?",
+    "context": "EN :\nGot any bright ideas?\nJP :\n誰か、なんか方法ねぇか？"
+  },
+  {
+    "key": "16-content",
+    "original": "신도들은 탄환의 궤적을 예상한 듯 유연한 몸놀림으로 화망을 벗어나고 있어.",
+    "context": "EN :\nThe worshippers were sliding out of the bullets' trajectories in bizarrely fluent motions, as though they could tell where their guns were aiming.\nJP :\n信徒たちは弾道を予想しているみたいに、\n柔軟な身のこなしで射線をうまく外れているんだ。"
+  },
+  {
+    "key": "17-content",
+    "original": "그들이 생각 톱니라 부르는, 사람으로 만들어진 연산 장치 덕분이지.",
+    "context": "EN :\nBenefits of installing 'Thought Gears', a calculation unit made from humans.\nJP :\n彼らが考えの歯車と呼ぶ、人間で作られた演算装置のおかげだね。"
+  },
+  {
+    "key": "18-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "18-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "18-content",
+    "original": "음… 그냥 무차별적으로 쏴버릴까요?",
+    "context": "EN :\nHm... should we just start blasting and hope for the best?\nJP :\nうーん…いっそ無差別に撃っちゃいますか？"
+  },
+  {
+    "key": "19-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "19-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "19-content",
+    "original": "마음 같아선 그러고 싶긴 한데… 쯧. 그랬다간 의뢰에 성공해도 대표 주머니를 털어야 할 거야.",
+    "context": "EN :\nI don't hate that idea, but... tsk. The budget for the bullets wasted's gonna be comin' straight out of bossman's pockets again, even if we were to finish the contract.\nJP :\n本音を言えばそうしたいけどよ…ちっ。\nそうしたら依頼が成功しても、代表の財布をはたく羽目になんぞ。"
+  },
+  {
+    "key": "20-content",
+    "original": "사무소 예산을 넘어, 대표의 사비까지 써야 한다는 사실에 동료들은 힐끗 아이의 눈치를 살폈어.",
+    "context": "EN :\nThe colleagues glanced anxiously at the child as the prospect of having to dip into their boss's personal funds became increasingly likely.\nJP :\n事務所の予算を超え、代表が自腹を切らないといけないという事実に\n仲間たちは子供の顔色を伺ったの。"
+  },
+  {
+    "key": "21-content",
+    "original": "하지만 아이는 그런 걱정은 전혀 하지 않는 듯 여유로운 표정으로 콧노래를 흥얼거렸지.",
+    "context": "EN :\nHowever, the child's expression was as calm and casual as always, and he'd even begun humming a pleasant tune.\nJP :\nでも、子供はそんな心配なんて全くしていないみたいに\n余裕そうな表情で鼻歌を歌ってるね。"
+  },
+  {
+    "key": "22-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "22-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "22-content",
+    "original": "흐음~ 한 번 정도는 상관없는걸요? 로직 아틀리에제 탄환을 난사할 생각이라면... 그건 저도 파산할테니 안 되지만요. 하하.",
+    "context": "EN :\nHmhm~ I think my budget can handle a volley, unless you're looking to shoot Atelier Logic ammunition full auto... Now that'll bankrupt even me, ha ha.\nJP :\nう～ん、一回くらいは構いませんよ？\nでもロジックアトリエ製の弾丸を乱射するつもりだというなら…\nそれは僕でも破産するのでダメですけどね。あはは。"
+  },
+  {
+    "key": "23-content",
+    "original": "낭비만 하지 않는다면, 아이에게 탄약값을 지불하는 건 그리 어려운 일이 아니야.",
+    "context": "EN :\nIt's true. It wasn't that big of a deal for this child to pay for the bullets, as long as they made each one count.\nJP :\n無駄遣いさえしなければ、子供にとって弾丸代を支払うのは\nそんなに難しいことじゃないの。"
+  },
+  {
+    "key": "24-content",
+    "original": "사무소 예산이 모두 사라질, 큰 위기가 다가온다고 해도 마찬가지지.",
+    "context": "EN :\nHe could handle it, even if the Office funds were about to be completely depleted.\nJP :\n事務所の予算が底を突くような\n大ピンチが訪れたとしても、同じことなんだ。"
+  },
+  {
+    "key": "25-content",
+    "original": "아이가 말만 하면, 가문에선 소소한 용돈을 보내줄 테고…",
+    "context": "EN :\nAll he had to do was to say the word, and the family would send him some pocket money...\nJP :\n子供が話さえすれば、一族の方から\nちょっとした小遣いを送ってくれるだろうし…。"
+  },
+  {
+    "key": "26-content",
+    "original": "사무소의 1년 예산과 다름없는 그 용돈이면, 아슬아슬해도 매번 탄환을 다시 채워넣을 수 있을 테니까.",
+    "context": "EN :\n... That 'pocket money', being the equivalent of the Office's yearly budget, could fill their warehouse to the brim with ammunition. It wouldn't leave them much, of course, but still.\nJP :\n事務所の1年分の予算に匹敵するそのお小遣いなら、\nカツカツでも毎回弾丸を再び補充できるだろうから。"
+  },
+  {
+    "key": "27-content",
+    "original": "하지만, 그런 태도가 모두의 마음에 드는 건 아냐.",
+    "context": "EN :\nBut not everyone found this attitude to be pleasant.\nJP :\nでも、みんながそんな態度を気に入ってるわけじゃないんだ。"
+  },
+  {
+    "key": "28-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "28-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "28-content",
+    "original": "아이씨. 뭔가 안 내킨다고!",
+    "context": "EN :\nBlimey, I just don't like it!\nJP :\nちくしょう。なんか気に食わねぇんだよ！"
+  },
+  {
+    "key": "29-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "29-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "29-content",
+    "original": "그렇게 돈을 가져올 때마다… 뭔가 우리가 식충이가 된 것 같아서 기분 더럽단 말야.",
+    "context": "EN :\nIt makes us feel like parasites every time we gotta ask your family for favours.\nJP :\nそんな風にカネ持ってくるたびに…なんかオレたちが\n穀潰しになった気がして気分悪ぃんだよな。"
+  },
+  {
+    "key": "30-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "30-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "30-content",
+    "original": "그, 그럼 어떻게 할까요. 벽 뒤로 숨는 거야, 충격탄으로 부숴버리면 되지만… 저렇게 연기 속에 숨어버리면…",
+    "context": "EN :\nW-well, what other choice have we got? We can break down their cover with impact rounds, but they're hiding in that smoke...\nJP :\nじゃ、じゃあどうするんですか。\n壁の後ろに隠れるなら、衝撃弾で壊せばいいですけど…。\nあんな風に煙の中に隠れられたら…。"
+  },
+  {
+    "key": "31-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "31-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "31-content",
+    "original": "자자~ 진정하고 평소처럼 해 보자구요.",
+    "context": "EN :\nAlright, everyone~ Let's all relax and get it done like we always do.\nJP :\nまぁまぁ～。落ち着いていつも通りやってみましょうよ。"
+  },
+  {
+    "key": "32-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "32-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "32-content",
+    "original": "제가 전위를 맡을 테니, 엄호해 주세요.",
+    "context": "EN :\nI'll take the vanguard, so please cover me.\nJP :\n僕が前衛をやりますから、援護してください。"
+  },
+  {
+    "key": "33-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "33-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "33-content",
+    "original": "옆에 달라붙는 떨거지들은 떨궈달라는 거 아냐. 그 정돈 말 안 해도 안다고.",
+    "context": "EN :\nRight, I gotta take care of any buggers that get too close to you, yeah? No need to tell me how to do my job.\nJP :\n横から引っ付いてくるザコを蹴散らせってことだろ。\nそんなの言われなくても分かってるっつーの。"
+  },
+  {
+    "key": "34-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "34-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "34-content",
+    "original": "으음. 그것도 좋지만 조금 다르게 가볼까요?",
+    "context": "EN :\nHm, that's great and all, but how about this?\nJP :\nうーん。それもいいけど、少し違った感じでやりませんか？"
+  },
+  {
+    "key": "35-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "35-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "35-content",
+    "original": "작전 하나가 생각났거든요.",
+    "context": "EN :\nI think I just came up with a plan.\nJP :\n作戦を1つ思いついたんですよ。"
+  },
+  {
+    "key": "36-content",
+    "original": "아이의 목소리는 부드러웠지만, 작전에 대한 설명에는 결단력과 자신감이 가득해.",
+    "context": "EN :\nThe child's voice was as gentle as always, but there was a certain confidence and decisiveness in it as he explained the new strategy.\nJP :\n子供の声は柔らかかったけど、作戦に対する説明は\n決断力と自信で満ちていたんだ。"
+  },
+  {
+    "key": "37-content",
+    "original": "전투가 소강상태에 접어든 동안 이어진 작전에 두 동료는 고개를 끄덕였고…",
+    "context": "EN :\nAfter listening to the new plan, quickly described over the brief lull of battle, the two colleagues nodded affirmatively.\nJP :\n戦闘が小康状態に差し掛かっている間、\nその作戦に2人の仲間は頷いて…。"
+  },
+  {
+    "key": "38-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "38-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "38-content",
+    "original": "그럼… 갈게요!",
+    "context": "EN :\nOkay, then... I'm going in!\nJP :\nそれじゃあ…行きますね！"
+  },
+  {
+    "key": "39-content",
+    "original": "아이는 한 치 앞도 보이지 않는 자욱한 연기 속으로 망설임 없이 몸을 던졌어.",
+    "context": "EN :\nWith that, the child leapt into the thick miasma of smoke without hesitation.\nJP :\n子供は一寸先も見えないほど煙が充満した中へ\nためらうことなく身を投げたの。"
+  },
+  {
+    "key": "40-content",
+    "original": "시야는 어둡고, 메케한 연기가 호흡을 방해하지만, 아이는 걸음을 멈추지 않아.",
+    "context": "EN :\nHe could barely see what was ahead, and the smoke was suffocating, but the child did not stop.\nJP :\n視界は暗く、咽せるほどの煙が呼吸を阻むけど\n子供は歩みを止めないんだ。"
+  },
+  {
+    "key": "41-content",
+    "original": "연기 속으로 단숨에 파고드는 순간, 아이는 쉼 없이 방아쇠를 당겼어.",
+    "context": "EN :\nHe began pulling the trigger with abandon the moment he ventured into the smoke.\nJP :\n煙の中へ一息で突っ込んだ瞬間、\n子供は休む暇も無く引き金を引いたの。"
+  },
+  {
+    "key": "42-content",
+    "original": "그 총격은 대부분 빗나갔지만, 아이가 노리는 건 직접 신도들을 처리하는 게 아니야.",
+    "context": "EN :\nMost of them flew fruitlessly toward nothing, but he wasn't planning to hit the worshippers anyway.\nJP :\nその銃撃は大体外れていったけど、子供が狙ってるのは\n直接信者を片付けることじゃないんだ。"
+  },
+  {
+    "key": "43-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "43-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "43-content",
+    "original": "스으읍… 후우…",
+    "context": "EN :\nHuff... phoo...\nJP :\nすうぅ…はぁ…。"
+  },
+  {
+    "key": "44-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "44-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "44-content",
+    "original": "히스클리프!",
+    "context": "EN :\nHeathcliff, now!\nJP :\nヒースクリフ！"
+  },
+  {
+    "key": "45-content",
+    "original": "송신기를 통해 전해진 부름이 채 끝나기도 전에 짧은 총성이 울리고.",
+    "context": "EN :\nA thunderous gunshot rings out, even before the child says his full name through the receiver.\nJP :\nトランスミッター越しに伝わった呼びかけが終わる間もなく\n短い銃声が鳴り響いて。"
+  },
+  {
+    "key": "46-content",
+    "original": "지시에 따라 발사된 동료의 탄환은 현란하게 움직이던 신도의 뇌를 터트렸어.",
+    "context": "EN :\nThe bullet, fired at a moment's notice, lands a direct hit into the worshipper's brain.\nJP :\n指示に従って発射された仲間の弾丸は、華麗に動き回っていた\n信者の脳を粉砕したの。"
+  },
+  {
+    "key": "47-content",
+    "original": "신도들의 예측과 움직임을 파악해, 저격 중인 동료가 맞추기 쉽게 유인한 거지.",
+    "context": "EN :\nHe'd drawn them to the perfect angle for his sniper colleague to line up his shot.\nJP :\n信者たちの予測と動きを把握して、\n狙撃中の仲間が当てやすいように誘導したんだ。"
+  },
+  {
+    "key": "48-content",
+    "original": "뇌가 꿰뚫린 신도의 생각 톱니가 더는 회전하지 않음을 확인한 아이는 쉬지 않고 다음 지시를 내리기 시작했어.",
+    "context": "EN :\nOnce he confirmed that the Thought Gear inside the worshipper had come to a complete stop, the child did not waste a second and gave his next order.\nJP :\n脳を貫かれた信者の考えの歯車がこれ以上回転しないことを\n確認した子供は、休まずに次の指示を出し始めたの。"
+  },
+  {
+    "key": "49-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "49-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "49-content",
+    "original": "유인할 테니, 셋을 세면 마구 쏘세요.",
+    "context": "EN :\nI'll draw them out, so start blasting on my count of three.\nJP :\n誘導するから、3つ数えたら撃ちまくってください。"
+  },
+  {
+    "key": "50-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "50-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "50-content",
+    "original": "넵!",
+    "context": "EN :\nYessir!\nJP :\nはい！"
+  },
+  {
+    "key": "51-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "51-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "51-content",
+    "original": "하나… 둘… 셋!",
+    "context": "EN :\nOne... two... three!\nJP :\nイー…アール…サン！"
+  },
+  {
+    "key": "52-content",
+    "original": "탄환은 건물이나 철을 관통해서는 안 된다.",
+    "context": "EN :\nBullets mustn't possess the firepower to penetrate building walls or steel.\nJP :\n弾丸は建物や鉄を貫通してはならない。"
+  },
+  {
+    "key": "53-content",
+    "original": "머리가 금기로 지정한 총기의 제한에 대해 잘 아는 아이는, 그 정보를 한껏 활용하고 있어.",
+    "context": "EN :\nThe child knew well about the Head's taboo involving firearms; and with that knowledge twisted these disadvantages to his own advantage.\nJP :\n頭が禁忌と定めた重機の制限についてよく知っている子供は、\nその情報を最大限活用しているんだ。"
+  },
+  {
+    "key": "54-content",
+    "original": "신도를 건물 벽면으로 유인한 뒤, 자신만 숨은 채 관통탄을 쏘게 지시한다던가.",
+    "context": "EN :\nDrawing a worshipper next to a building wall, taking cover on the other side of the wall himself, then ordering his colleague to fire a penetrator round would be an example of one such strategy.\nJP :\n信者を建物の壁面に誘導してから、\n自分だけ隠れたまま貫通弾を撃たせる指示をするだとか。"
+  },
+  {
+    "key": "55-content",
+    "original": "그다음에는 벽에 숨도록 유도한 뒤, 충격탄을 쏘라고 지시해 무너진 잔해에 신도들이 깔리게 만든다던가.",
+    "context": "EN :\nAnother would be forcing the enemies to take cover behind a wall, requesting his colleagues to fire an impact round, and demolishing the wall to bury them in the rubble.\nJP :\nその次は、壁に隠れるよう誘導してから衝撃弾を撃てと指示して\n崩れた瓦礫に信者たちが下敷きになるようにするだとか。"
+  },
+  {
+    "key": "56-content",
+    "original": "그렇게 하나둘, 신도를 쓰러뜨리는 사이 아이는 이제 한 명의 신도만 남았다는 걸 깨달았지.",
+    "context": "EN :\nThe child soon realized that there was but a single worshipper remaining, having survived the slow but methodical takedown of the other worshippers.\nJP :\nそうやってひとりふたり、信者を倒していくうちに\n子供は今や信者がひとりしか残っていないということに気付いたんだ。"
+  },
+  {
+    "key": "57-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "57-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "57-content",
+    "original": "교주분…은 이미 도망친 모양이네요.",
+    "context": "EN :\nLooks like their leader... escaped.\nJP :\n教祖の方(かた)は…もう逃げたみたいですね。"
+  },
+  {
+    "key": "58-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "58-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "58-content",
+    "original": "당신이 마지막인 것 같네요. 톱니가 두 개인 걸 보면, 다른 신도분들보다는 높은 위치에 있으셨나요?",
+    "context": "EN :\nSo you're the last one of this group. Seeing as you have two gears, may I assume that you are in a higher position than the others?\nJP :\nあなたが最後みたいですね。歯車が2つなのを見るに、\n他の信者さんよりかは高い地位にいたんですか？"
+  },
+  {
+    "key": "59-content",
+    "original": "하나의 톱니가 늘었을 뿐임에도, 혼자 남은 신도의 저항은 상상 이상으로 거셌어.",
+    "context": "EN :\nA mere addition of one extra gear provided the lone worshipper a tremendous advantage in their final resistance.\nJP :\n歯車が1つ増えただけなのに、ひとり残った信徒の抵抗は\n想像以上に激しかったの。"
+  },
+  {
+    "key": "60-content",
+    "original": "유인한 곳으로 저격해도, 잘 맞지 않고… 관통탄을 난사해도 철로 만들어진 견고한 흉갑이 탄환을 막아버렸지.",
+    "context": "EN :\nThe worshipper nimbly wiggled out of bullet trajectories even after the child drew them to an open position, and any penetration rounds that hit it bounced off impotently against its steel armor.\nJP :\n誘導先で狙撃しても中々当たらないし…\n貫通弾を乱射しても、金属製の堅牢な胸甲に弾かれちゃうんだ。"
+  },
+  {
+    "key": "61-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "61-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "61-content",
+    "original": "어이! 이제 괜찮냐? 거긴 사각이라 못 쏜다?",
+    "context": "EN :\nOi, you alright over there? I don't got a clear shot anymore! You're in my dead angle!\nJP :\nおい！そろそろ大丈夫か？そこは死角だから撃てねぇぞ？"
+  },
+  {
+    "key": "62-content",
+    "original": "어려운 상대라고 생각했는지, 아이의 귀로 걱정스러운 외침이 여럿 들려왔지만…",
+    "context": "EN :\nHis colleagues, realizing that this was not a foe to be underestimated, hollered worriedly in the child's direction.\nJP :\n手強い相手だと思ったのか、子供の耳には\n心配そうな呼びかけがいくつも聞こえたけど…。"
+  },
+  {
+    "key": "63-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "63-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "63-content",
+    "original": "지원은 여기까지면 충분해요.",
+    "context": "EN :\nI think you two have done a great job supporting me so far.\nJP :\n援護はここまでで大丈夫です。"
+  },
+  {
+    "key": "64-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "64-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "64-content",
+    "original": "마무리할 시간이네요.",
+    "context": "EN :\nBut it's time to end this.\nJP :\n仕上げの時間です。"
+  },
+  {
+    "key": "65-content",
+    "original": "아무래도 아이는 그렇게 생각하지 않는 모양이네.",
+    "context": "EN :\nIt doesn't seem that the child agrees with their concerns.\nJP :\nどうにも子供はそう考えてないみたいだね。"
+  },
+  {
+    "key": "66-content",
+    "original": "여유로운 미소를 머금은 채, 아이는 앞으로 걸음을 내디뎠어.",
+    "context": "EN :\nThe child steps forward, beaming with a casual smile.\nJP :\n余裕の笑顔を宿したまま、子供は前に足を踏み出したんだ。"
+  },
+  {
+    "key": "67-content",
+    "original": "철로 만들어진 견고한 흉갑.",
+    "context": "EN :\nA sturdy breastplate made of steel.\nJP :\n金属でできた堅牢な胸甲。"
+  },
+  {
+    "key": "68-content",
+    "original": "어떤 사람은 그런 흉갑을 뚫지 않고 파괴할 충격탄을 구입하고.",
+    "context": "EN :\nSome would purchase impact rounds to destroy the metal without penetrating it...\nJP :\nある者はその胸甲を貫かずに破壊するために衝撃弾を買い求め。"
+  },
+  {
+    "key": "69-content",
+    "original": "또 어떤 사람은 흉갑의 틈새를 파고들기 위해 미세탄을 마련하기도 하지만…",
+    "context": "EN :\nSome would purchase micro bullets to shoot through any visible holes in the armor...\nJP :\nまたある者は胸甲の隙間を狙うために微細弾を準備することもあるけど…。"
+  },
+  {
+    "key": "70-content",
+    "original": "아이가 선호하는 방법은 훨씬 단순해.",
+    "context": "EN :\n... but the child sought a much simpler approach.\nJP :\n子供のやり方はもっと単純なんだ。"
+  },
+  {
+    "key": "71-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "71-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "71-content",
+    "original": "그 삶에…",
+    "context": "EN :\nTo this life of yours...\nJP :\nその人生に…。"
+  },
+  {
+    "key": "72-content",
+    "original": "단검으로 철을 베는 것에는 그 어떠한 제한도 없으니.",
+    "context": "EN :\nThere was nothing stopping him from cutting through metal with his dagger, after all.\nJP :\n短剣で鉄を断ち切ることには、何の制約もないから。"
+  },
+  {
+    "key": "73-content",
+    "original": "아이가 휘두른 공방제 단검이 신도의 흉갑을 베어내는 건 그리 어려운 일도 아니었어.",
+    "context": "EN :\nThe Workshop-made dagger in the child's hand cut through the worshipper's armor like a knife through butter, and...\nJP :\n子供が振るう工房製の短剣で、信者の胸甲を切り裂くのは\nそう難しいことじゃなかったの。"
+  },
+  {
+    "key": "74-content",
+    "original": "그 틈 사이로 총구가 겨눠진 건 정말 순식간이었고…",
+    "context": "EN :\n... he aimed the barrel into this newly created gap in the worshipper's armor.\nJP :\nそのわずかな隙間に、銃口が向けられたのはほんの一瞬で…。"
+  },
+  {
+    "key": "75-content",
+    "original": "세 발의 총성이 멎었을 땐, 이미 신도의 톱니는 움직임을 멈춘 뒤였지.",
+    "context": "EN :\nBy the time the echoes of the three gunshots had dissipated into thin air, the worshipper's gears had already stopped turning.\nJP :\n3発の銃声が止んだときには、\n信者の歯車はもう動きを失っていたんだ。"
+  },
+  {
+    "key": "76-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "76-title",
+    "original": "마침표 사무소",
+    "context": "EN :\nFull-Stop Office\nJP :\n終止符事務所"
+  },
+  {
+    "key": "76-content",
+    "original": "…마침표를.",
+    "context": "EN :\n... I place the final Full-Stop.\nJP :\n…終止符を。"
+  }
+]

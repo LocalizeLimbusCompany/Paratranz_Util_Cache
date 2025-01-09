@@ -918,5 +918,330 @@
     "key": "1071006-levelList$[1].coinlist[1].coindescs[2].desc",
     "original": "[EnemyKill] 정신력 15 회복",
     "context": "EN :\n[EnemyKill] Heal 15 SP\nJP :\n[EnemyKill] 精神力を15回復"
+  },
+  {
+    "key": "1071101-levelList$[0].name",
+    "original": "응사",
+    "context": "EN :\nReturn Fire\nJP :\n応射"
+  },
+  {
+    "key": "1071101-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\n[WhenUse] Gain +2 [Breath] Count\nJP :\n[WhenUse] 自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "1071101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[Bullet] 1 소모",
+    "context": "EN :\nSpend 1 [Bullet]\nJP :\n[Bullet]を1消耗"
+  },
+  {
+    "key": "1071101-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[Bullet] 1 소모",
+    "context": "EN :\nSpend 1 [Bullet]\nJP :\n[Bullet]を1消耗"
+  },
+  {
+    "key": "1071101-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[Bullet] 1 소모",
+    "context": "EN :\nSpend 1 [Bullet]\nJP :\n[Bullet]を1消耗"
+  },
+  {
+    "key": "1071101-levelList$[1].name",
+    "original": "응사",
+    "context": "EN :\nReturn Fire\nJP :\n応射"
+  },
+  {
+    "key": "1071101-levelList$[1].desc",
+    "original": "[WhenUse] 자신의 [Breath] 횟수 2 증가\n<style=\"highlight\">[WhenUse] 다음 턴에 [Agility] 1 얻음 (턴 당 1회)</style>",
+    "context": "EN :\n[WhenUse] Gain +2 [Breath] Count\n<style=\"highlight\">[WhenUse] Gain 1 [Agility] next turn (once per turn)</style>\nJP :\n[WhenUse] 自分の[Breath]回数が2増加\n<style=\"highlight\">[WhenUse] 次のターンに[Agility]1を得る(1ターンにつき1回)</style>"
+  },
+  {
+    "key": "1071101-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[Bullet] 1 소모<style=\"highlight\"></style>",
+    "context": "EN :\nSpend 1 [Bullet]<style=\"highlight\"></style>\nJP :\n[Bullet]を1消耗<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071101-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Gain +1 [Breath] Count</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 自分の[Breath]回数が1増加</style>"
+  },
+  {
+    "key": "1071101-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[Bullet] 1 소모<style=\"highlight\"></style>",
+    "context": "EN :\nSpend 1 [Bullet]<style=\"highlight\"></style>\nJP :\n[Bullet]を1消耗<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071101-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[Bullet] 1 소모<style=\"highlight\"></style>",
+    "context": "EN :\nSpend 1 [Bullet]<style=\"highlight\"></style>\nJP :\n[Bullet]を1消耗<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071101-levelList$[2].name",
+    "original": "응사",
+    "context": "EN :\nReturn Fire\nJP :\n応射"
+  },
+  {
+    "key": "1071101-levelList$[2].desc",
+    "original": "[WhenUse] 자신의 [Breath] 횟수 2 증가\n[WhenUse] 다음 턴에 [Agility] <style=\"highlight\">2</style> 얻음 (턴 당 1회)",
+    "context": "EN :\n[WhenUse] Gain +2 [Breath] Count\n[WhenUse] Gain <style=\"highlight\">2</style> [Agility] next turn (once per turn)\nJP :\n[WhenUse] 自分の[Breath]回数が2増加\n[WhenUse] 次のターンに[Agility]<style=\"highlight\">2</style>を得る(1ターンにつき1回)"
+  },
+  {
+    "key": "1071101-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[Bullet] 1 소모<style=\"highlight\"></style>",
+    "context": "EN :\nSpend 1 [Bullet]<style=\"highlight\"></style>\nJP :\n[Bullet]を1消耗<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071101-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の[Breath]回数が1増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071101-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[Bullet] 1 소모<style=\"highlight\"></style>",
+    "context": "EN :\nSpend 1 [Bullet]<style=\"highlight\"></style>\nJP :\n[Bullet]を1消耗<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071101-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[Bullet] 1 소모<style=\"highlight\"></style>",
+    "context": "EN :\nSpend 1 [Bullet]<style=\"highlight\"></style>\nJP :\n[Bullet]を1消耗<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071102-levelList$[0].name",
+    "original": "헤드샷",
+    "context": "EN :\nHeadshot\nJP :\nヘッドショット"
+  },
+  {
+    "key": "1071102-levelList$[0].desc",
+    "original": "[WhenUse] [Breath] 3 얻음. 자신의 [Breath] 횟수 1 증가",
+    "context": "EN :\n[WhenUse] Gain 3 [Breath] and +1 [Breath] Count\nJP :\n[WhenUse] [Breath]3を得る。[Breath]回数が1増加"
+  },
+  {
+    "key": "1071102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[Bullet] 1 소모",
+    "context": "EN :\nSpend 1 [Bullet]\nJP :\n[Bullet]を1消耗"
+  },
+  {
+    "key": "1071102-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [PenetrateTakeDamageUp] 1 부여 (턴 당 2회)",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] (2 times per turn)\nJP :\n[OnSucceedAttack] [PenetrateTakeDamageUp]1を付与(1ターンにつき2回)"
+  },
+  {
+    "key": "1071102-levelList$[1].name",
+    "original": "헤드샷",
+    "context": "EN :\nHeadshot\nJP :\nヘッドショット"
+  },
+  {
+    "key": "1071102-levelList$[1].desc",
+    "original": "<style=\"highlight\">대상의 속도가 자신보다 느리면, 대상과의 속도 차이 1 당 피해량 +10% (최대 30%)</style>\n[WhenUse] [Breath] 3 얻음. 자신의 [Breath] 횟수 1 증가\n<style=\"highlight\">[WhenUse] 다음 턴에 [Agility] 2 얻음 (턴 당 1회)</style>",
+    "context": "EN :\n<style=\"highlight\">If this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference (max 30%)</style>\n[WhenUse] Gain 3 [Breath] and +1 [Breath] Count\n<style=\"highlight\">[WhenUse] Gain 2 [Agility] next turn (once per turn)</style>\nJP :\n<style=\"highlight\">対象の速度が自分より低ければ、対象との速度差1につきダメージ量 +10%(最大30%)</style>\n[WhenUse] [Breath]3を得る。[Breath]回数が1増加\n<style=\"highlight\">[WhenUse] 次のターンに[Agility]2を得る(1ターンにつき1回)</style>"
+  },
+  {
+    "key": "1071102-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[Bullet] 1 소모<style=\"highlight\"></style>",
+    "context": "EN :\nSpend 1 [Bullet]<style=\"highlight\"></style>\nJP :\n[Bullet]を1消耗<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071102-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "<style=\"highlight\">크리티컬 피해량 +30%</style>",
+    "context": "EN :\n<style=\"highlight\">+30% Damage on Critical Hit</style>\nJP :\n<style=\"highlight\">クリティカルダメージ量 +30%</style>"
+  },
+  {
+    "key": "1071102-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [PenetrateTakeDamageUp] 1 부여 (턴 당 2회)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] (2 times per turn)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [PenetrateTakeDamageUp]1を付与(1ターンにつき2回)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071102-levelList$[1].coinlist[0].coindescs[3].desc",
+    "original": "<style=\"highlight\">[CriticalOnSucceedAttack] 다음 턴에 [PenetrateTakeDamageUp] 1 부여 (턴 당 1회)</style>",
+    "context": "EN :\n<style=\"highlight\">[CriticalOnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] next turn (once per turn)</style>\nJP :\n<style=\"highlight\">[CriticalOnSucceedAttack] 次のターンに[PenetrateTakeDamageUp]1を付与(1ターンにつき1回)</style>"
+  },
+  {
+    "key": "1071102-levelList$[2].name",
+    "original": "헤드샷",
+    "context": "EN :\nHeadshot\nJP :\nヘッドショット"
+  },
+  {
+    "key": "1071102-levelList$[2].desc",
+    "original": "대상의 속도가 자신보다 느리면, 대상과의 속도 차이 1 당 피해량 +10% <style=\"highlight\">(최대 50%)</style>\n[WhenUse] [Breath] 3 얻음. 자신의 [Breath] 횟수 <style=\"highlight\">2</style> 증가\n[WhenUse] 다음 턴에 [Agility] 2 얻음 (턴 당 1회)",
+    "context": "EN :\nIf this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference <style=\"highlight\">(max 50%)</style>\n[WhenUse] Gain 3 [Breath] and +<style=\"highlight\">2</style> [Breath] Count\n[WhenUse] Gain 2 [Agility] next turn (once per turn)\nJP :\n対象の速度が自分より低ければ、対象との速度差1につきダメージ量 +10%<style=\"highlight\">(最大50%)</style>\n[WhenUse] [Breath]3を得る。[Breath]回数が<style=\"highlight\">2</style>増加\n[WhenUse] 次のターンに[Agility]2を得る(1ターンにつき1回)"
+  },
+  {
+    "key": "1071102-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[Bullet] 1 소모<style=\"highlight\"></style>",
+    "context": "EN :\nSpend 1 [Bullet]<style=\"highlight\"></style>\nJP :\n[Bullet]を1消耗<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071102-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "크리티컬 피해량 <style=\"highlight\">+50%</style>",
+    "context": "EN :\n<style=\"highlight\">+50%</style> Damage on Critical Hit\nJP :\nクリティカルダメージ量 <style=\"highlight\">+50%</style>"
+  },
+  {
+    "key": "1071102-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [PenetrateTakeDamageUp] 1 부여 (턴 당 2회)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] (2 times per turn)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [PenetrateTakeDamageUp]1を付与(1ターンにつき2回)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071102-levelList$[2].coinlist[0].coindescs[3].desc",
+    "original": "[CriticalOnSucceedAttack] 다음 턴에 [PenetrateTakeDamageUp] 1 부여 (턴 당 1회)<style=\"highlight\"></style>",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] next turn (once per turn)<style=\"highlight\"></style>\nJP :\n[CriticalOnSucceedAttack] 次のターンに[PenetrateTakeDamageUp]1を付与(1ターンにつき1回)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071103-levelList$[0].name",
+    "original": "한 점만 노린다",
+    "context": "EN :\nGoin' for the Bullseye\nJP :\n一点狙い"
+  },
+  {
+    "key": "1071103-levelList$[0].desc",
+    "original": "[BeforeUse] 자신에게 [Bullet_LogicAtelier]가 있으면, '로직 아틀리에제 고속분쇄탄'으로 발동\n대상의 속도가 자신보다 느리면, 대상과의 속도 차이 1 당 피해량 +10% (최대 50%)\n[WhenUse] [Breath] 5 얻음\n[WhenUse] [LogicAtelierAM]을 전부 소모하여 (소모한 수치 x 2)만큼 호흡 위력을 얻고, 피해량 +(소모한 수치 x 12.5)%",
+    "context": "EN :\n[BeforeUse] If this unit has [Bullet_LogicAtelier], activate 'AL-HV Pulverisation Round' instead\nIf this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) Poise Potency, and deal +(value consumed x 12.5)% more damage\nJP :\n[BeforeUse] 自分が[Bullet_LogicAtelier]を持っているなら、「ロジックアトリエ製 高速粉砕弾」として発動\n対象の速度が自分より低ければ、対象との速度差1につきダメージ量 +10%(最大50%)\n[WhenUse] [Breath]5を得る\n[WhenUse] [LogicAtelierAM]を全て消耗し、(消耗した数値 × 2)だけ[Breath]威力を得てダメージ量 +(消耗した数値 × 12.5)%"
+  },
+  {
+    "key": "1071103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[Bullet] 1 소모",
+    "context": "EN :\nSpend 1 [Bullet]\nJP :\n[Bullet]を1消耗"
+  },
+  {
+    "key": "1071103-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "크리티컬 피해량 +50%",
+    "context": "EN :\n+50% Damage on Critical Hit\nJP :\nクリティカルダメージ量 +50%"
+  },
+  {
+    "key": "1071103-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] 자신의 [Breath] 위력이 30을 초과하면, 30을 초과하는 [Breath] 위력을 최대 10까지 소모하여 피해량 +(소모한 [Breath] 위력 x 10)%",
+    "context": "EN :\n[CriticalOnSucceedAttack] At more than 30 [Breath] Potency, consume up to 10 of [Breath] Potency over 30 to deal +([Breath] Potency consumed x 10)% more damage\nJP :\n[CriticalOnSucceedAttack] 自分の[Breath]威力が30を超過したなら、30を超える[Breath]威力を最大10まで消耗してダメージ量 +(消耗した[Breath]威力 × 10)%"
+  },
+  {
+    "key": "1071103-levelList$[1].name",
+    "original": "한 점만 노린다",
+    "context": "EN :\nGoin' for the Bullseye\nJP :\n一点狙い"
+  },
+  {
+    "key": "1071103-levelList$[1].desc",
+    "original": "[BeforeUse] 자신에게 [Bullet_LogicAtelier]가 있으면, '로직 아틀리에제 고속분쇄탄'으로 발동\n대상의 속도가 자신보다 느리면, 대상과의 속도 차이 1 당 피해량 +10% (최대 50%)\n[WhenUse] [Breath] 5 얻음\n[WhenUse] [LogicAtelierAM]을 전부 소모하여 (소모한 수치 x 2)만큼 호흡 위력을 얻고, 피해량 +(소모한 수치 x 12.5)%\n<style=\"highlight\">[EndSkill] 자신의 [Breath] 횟수 2 증가</style>",
+    "context": "EN :\n[BeforeUse] If this unit has [Bullet_LogicAtelier], activate 'AL-HV Pulverisation Round' instead\nIf this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) Poise Potency, and deal +(value consumed x 12.5)% more damage\n<style=\"highlight\">[EndSkill] Gain +2 [Breath] Count</style>\nJP :\n[BeforeUse] 自分が[Bullet_LogicAtelier]を持っているなら、「ロジックアトリエ製 高速粉砕弾」として発動\n対象の速度が自分より低ければ、対象との速度差1につきダメージ量 +10%(最大50%)\n[WhenUse] [Breath]5を得る\n[WhenUse] [LogicAtelierAM]を全て消耗し、(消耗した数値 × 2)だけ[Breath]威力を得てダメージ量 +(消耗した数値 × 12.5)%\n<style=\"highlight\">[EndSkill] 自分の[Breath]回数が2増加</style>"
+  },
+  {
+    "key": "1071103-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[Bullet] 1 소모<style=\"highlight\"></style>",
+    "context": "EN :\nSpend 1 [Bullet]<style=\"highlight\"></style>\nJP :\n[Bullet]を1消耗<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071103-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "크리티컬 피해량 <style=\"highlight\">+80%</style>",
+    "context": "EN :\n<style=\"highlight\">+80%</style> Damage on Critical Hit\nJP :\nクリティカルダメージ量 <style=\"highlight\">+80%</style>"
+  },
+  {
+    "key": "1071103-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "<style=\"highlight\">크리티컬 피해량 +(대상의 관통 내성 x 50)%</style>",
+    "context": "EN :\n<style=\"highlight\">+(the target's Pierce Res. x 50)% Damage on Critical Hit</style>\nJP :\n<style=\"highlight\">クリティカルダメージ量 +(対象の貫通耐性 × 50)%</style>"
+  },
+  {
+    "key": "1071103-levelList$[1].coinlist[0].coindescs[3].desc",
+    "original": "[CriticalOnSucceedAttack] 자신의 [Breath] 위력이 30을 초과하면, 30을 초과하는 [Breath] 위력을 최대 10까지 소모하여 피해량 +(소모한 [Breath] 위력 x 10)%<style=\"highlight\"></style>",
+    "context": "EN :\n[CriticalOnSucceedAttack] At more than 30 [Breath] Potency, consume up to 10 of [Breath] Potency over 30 to deal +([Breath] Potency consumed x 10)% more damage<style=\"highlight\"></style>\nJP :\n[CriticalOnSucceedAttack] 自分の[Breath]威力が30を超過したなら、30を超える[Breath]威力を最大10まで消耗してダメージ量 +(消耗した[Breath]威力 × 10)%<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071104-levelList$[0].name",
+    "original": "전투 호흡",
+    "context": "EN :\nCombat Poise\nJP :\n戦闘呼吸"
+  },
+  {
+    "key": "1071104-levelList$[0].desc",
+    "original": "턴 시작시 탄환이 0이면 '엄폐'로 변경됨\n[WhenUse] 마침표 사무소 대표 홍루 인격이 전투에 등장해 있으면, 대상에게 [MeleeCover] 요청 (턴 당 1회)\n[EndBattle] 다음 턴에 [LogicAtelierAM] 1 얻음 (턴 당 1회)",
+    "context": "EN :\nTurn Start: At 0 Ammo, this Skill activates as 'Taking Cover' instead\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)\nJP :\nターン開始時に弾丸が0なら「掩蔽」に変更\n[WhenUse] 終止符事務所代表ホンル人格が戦闘に出場しているなら、対象に[MeleeCover]を要請(1ターンにつき1回)\n[EndBattle] 次のターンに[LogicAtelierAM]を1得る(1ターンにつき1回)"
+  },
+  {
+    "key": "1071104-levelList$[1].name",
+    "original": "전투 호흡",
+    "context": "EN :\nCombat Poise\nJP :\n戦闘呼吸"
+  },
+  {
+    "key": "1071104-levelList$[1].desc",
+    "original": "턴 시작시 탄환이 0이면 '엄폐'로 변경됨\n[WhenUse] 마침표 사무소 대표 홍루 인격이 전투에 등장해 있으면, 대상에게 [MeleeCover] 요청 (턴 당 1회)\n<style=\"highlight\">[OnSucceedEvade] [Breath] 3 얻음 (턴 당 최대 3회)</style>\n[EndBattle] 다음 턴에 [LogicAtelierAM] 1 얻음 (턴 당 1회)",
+    "context": "EN :\nTurn Start: At 0 Ammo, this Skill activates as 'Taking Cover' instead\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n<style=\"highlight\">[OnSucceedEvade] Gain 3 [Breath] (3 times per turn)</style>\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)\nJP :\nターン開始時に弾丸が0なら「掩蔽」に変更\n[WhenUse] 終止符事務所代表ホンル人格が戦闘に出場しているなら、対象に[MeleeCover]を要請(1ターンにつき1回)\n<style=\"highlight\">[OnSucceedEvade] [Breath]3を得る(1ターンにつき3回)</style>\n[EndBattle] 次のターンに[LogicAtelierAM]を1得る(1ターンにつき1回)"
+  },
+  {
+    "key": "1071105-levelList$[0].name",
+    "original": "로직 아틀리에제 고속분쇄탄",
+    "context": "EN :\nAL-HV Pulverisation Round\nJP :\nロジックアトリエ製 高速粉砕弾"
+  },
+  {
+    "key": "1071105-levelList$[0].desc",
+    "original": "대상의 속도가 자신보다 느리면, 대상과의 속도 차이 1당 피해량 +10% (최대 50%)\n[WhenUse] [Breath] 5 얻음\n[WhenUse] [LogicAtelierAM]을 전부 소모하여, (소모한 수치 x 2)만큼 [Breath] 위력을 얻고, 피해량 +(소모한 수치 x 25)%",
+    "context": "EN :\nIf this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) [Breath] Potency, and deal +(value consumed x 25)% more damage\nJP :\n対象の速度が自分より低ければ、対象との速度差1につきダメージ量 +10%(最大50%)\n[WhenUse] [Breath]5を得る\n[WhenUse] [LogicAtelierAM]を全て消耗し、(消耗した数値 × 2)だけ[Breath]威力を得てダメージ量 +(消耗した数値 × 25)%"
+  },
+  {
+    "key": "1071105-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[Bullet_LogicAtelier] 1 소모",
+    "context": "EN :\nSpend 1 [Bullet_LogicAtelier]\nJP :\n[Bullet_LogicAtelier]を1消耗"
+  },
+  {
+    "key": "1071105-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "크리티컬 피해량 +100%",
+    "context": "EN :\n+100% Damage on Critical Hit\nJP :\nクリティカルダメージ量 +100%"
+  },
+  {
+    "key": "1071105-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] 자신의 [Breath] 위력이 30을 초과하면, 30을 초과하는 [Breath] 위력을 최대 10까지 소모하여 피해량 +(소모한 [Breath] 위력 x 10)%",
+    "context": "EN :\n[CriticalOnSucceedAttack] At more than 30 [Breath] Potency, consume up to 10 of [Breath] Potency over 30 to deal +([Breath] Potency consumed x 10)% more damage\nJP :\n[CriticalOnSucceedAttack] 自分の[Breath]威力が30を超過したなら、30を超える[Breath]威力を最大10まで消耗してダメージ量 +(消耗した[Breath]威力 × 10)%"
+  },
+  {
+    "key": "1071105-levelList$[1].name",
+    "original": "로직 아틀리에제 고속분쇄탄",
+    "context": "EN :\nAL-HV Pulverisation Round\nJP :\nロジックアトリエ製 高速粉砕弾"
+  },
+  {
+    "key": "1071105-levelList$[1].desc",
+    "original": "대상의 속도가 자신보다 느리면, 대상과의 속도 차이 1당 피해량 +10% (최대 50%)\n[WhenUse] [Breath] 5 얻음\n[WhenUse] [LogicAtelierAM]을 전부 소모하여, (소모한 수치 x 2)만큼 [Breath] 위력을 얻고, 피해량 +(소모한 수치 x 25)%\n<style=\"highlight\">[EndSkill] 자신의 [Breath] 횟수 5 증가</style>",
+    "context": "EN :\nIf this unit's Speed is faster than the target's, deal +10% more damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) [Breath] Potency, and deal +(value consumed x 25)% more damage\n<style=\"highlight\">[EndSkill] Gain +5 [Breath] Count</style>\nJP :\n対象の速度が自分より低ければ、対象との速度差1につきダメージ量 +10%(最大50%)\n[WhenUse] [Breath]5を得る\n[WhenUse] [LogicAtelierAM]を全て消耗し、(消耗した数値 × 2)だけ[Breath]威力を得てダメージ量 +(消耗した数値 × 25)%\n<style=\"highlight\">[EndSkill] 自分の[Breath]回数が5増加</style>"
+  },
+  {
+    "key": "1071105-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[Bullet_LogicAtelier] 1 소모<style=\"highlight\"></style>",
+    "context": "EN :\nSpend 1 [Bullet_LogicAtelier]<style=\"highlight\"></style>\nJP :\n[Bullet_LogicAtelier]を1消耗<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071105-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "크리티컬 피해량 <style=\"highlight\">+130%</style>",
+    "context": "EN :\n<style=\"highlight\">+130%</style> Damage on Critical Hit\nJP :\nクリティカルダメージ量 <style=\"highlight\">+130%</style>"
+  },
+  {
+    "key": "1071105-levelList$[1].coinlist[0].coindescs[2].desc",
+    "original": "<style=\"highlight\">크리티컬 피해량 +(대상의 관통 내성 x 50)%</style>",
+    "context": "EN :\n<style=\"highlight\">+(the target's Pierce Res. x 50)% Damage on Critical Hit</style>\nJP :\n<style=\"highlight\">クリティカルダメージ量 +(対象の貫通耐性 × 50)%</style>"
+  },
+  {
+    "key": "1071105-levelList$[1].coinlist[0].coindescs[3].desc",
+    "original": "[CriticalOnSucceedAttack] 자신의 [Breath] 위력이 30을 초과하면, 30을 초과하는 [Breath] 위력을 최대 10까지 소모하여 피해량 +(소모한 [Breath] 위력 x 10)%<style=\"highlight\"></style>",
+    "context": "EN :\n[CriticalOnSucceedAttack] At more than 30 [Breath] Potency, consume up to 10 of [Breath] Potency over 30 to deal +([Breath] Potency consumed x 10)% more damage<style=\"highlight\"></style>\nJP :\n[CriticalOnSucceedAttack] 自分の[Breath]威力が30を超過したなら、30を超える[Breath]威力を最大10まで消耗してダメージ量 +(消耗した[Breath]威力 × 10)%<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071106-levelList$[0].name",
+    "original": "엄폐",
+    "context": "EN :\nTaking Cover\nJP :\n掩蔽"
+  },
+  {
+    "key": "1071106-levelList$[0].desc",
+    "original": "[CanDuelGuard]\n[WhenUse] 마침표 사무소 대표 홍루 인격이 전투에 등장해 있으면, 대상에게 [MeleeCover] 요청 (턴 당 1회)\n[EndBattle] 다음 턴에 [LogicAtelierAM] 1 얻음 (턴 당 1회)",
+    "context": "EN :\n[CanDuelGuard]\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)\nJP :\n[CanDuelGuard]\n[WhenUse] 終止符事務所代表ホンル人格が戦闘に出場しているなら、対象に[MeleeCover]を要請(1ターンにつき1回)\n[EndBattle] 次のターンに[LogicAtelierAM]を1得る(1ターンにつき1回)"
+  },
+  {
+    "key": "1071106-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]<style=\"highlight\"></style>",
+    "context": "EN :\n[SuperCoin]<style=\"highlight\"></style>\nJP :\n[SuperCoin]<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1071106-levelList$[1].name",
+    "original": "엄폐",
+    "context": "EN :\nTaking Cover\nJP :\n掩蔽"
+  },
+  {
+    "key": "1071106-levelList$[1].desc",
+    "original": "[CanDuelGuard]\n[WhenUse] 마침표 사무소 대표 홍루 인격이 전투에 등장해 있으면, 대상에게 [MeleeCover] 요청 (턴 당 1회)\n<style=\"highlight\">[WinDuel] 대상에게 [PenetrateResistDown] 1 부여 (턴 당 1회)</style>\n[EndBattle] 다음 턴에 [LogicAtelierAM] 1 얻음 (턴 당 1회)",
+    "context": "EN :\n[CanDuelGuard]\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n<style=\"highlight\">[WinDuel] Inflict 1 [PenetrateResistDown] (once per turn)</style>\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)\nJP :\n[CanDuelGuard]\n[WhenUse] 終止符事務所代表ホンル人格が戦闘に出場しているなら、対象に[MeleeCover]を要請(1ターンにつき1回)\n<style=\"highlight\">[WinDuel] 対象へ[PenetrateResistDown]1を付与(1ターンにつき1回)</style>\n[EndBattle] 次のターンに[LogicAtelierAM]を1得る(1ターンにつき1回)"
+  },
+  {
+    "key": "1071106-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]<style=\"highlight\"></style>",
+    "context": "EN :\n[SuperCoin]<style=\"highlight\"></style>\nJP :\n[SuperCoin]<style=\"highlight\"></style>"
   }
 ]

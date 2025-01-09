@@ -908,5 +908,15 @@
     "key": "2120811-desc",
     "original": "전투 시작시 흐트러짐, 사기저하, 패닉 상태인 적의 수만큼 모든 적에게 각각 [AttackDown] 1 또는 [DefenseDown] 1 부여. (턴 당 최대 2회)\n- 동일한 효과를 갖는 E.G.O 기프트와 중첩하여 발동되지 않음.",
     "context": "EN :\nCombat Start: against all enemies, inflict 1 [AttackDown] or 1 [DefenseDown] to all enemies (# of enemies in Staggered, Low Morale, or Panic states) times. (2 times per turn)\n- Effect does not stack with E.G.O Gifts with the same effect.\nJP :\n戦闘開始時に混乱・士気低下・パニック状態の敵の数だけ、全ての敵へそれぞれ[AttackDown]1または[DefenseDown]1を付与。(1ターンにつき最大2回)\n- 同じ効果を持つE.G.Oギフトと重複して発動しない。"
+  },
+  {
+    "key": "2110811-name",
+    "original": "일곱 개의 탄환",
+    "context": "EN :\nSeven Bullets\nJP :\n7つの弾丸"
+  },
+  {
+    "key": "2110811-desc",
+    "original": "기본 공격 스킬로 적중 시, 자신의 ([FreischutzShotCount] / 3)만큼 [Combustion] 부여 (턴 당 최대 3회 부여)\n- 로보토미 E.G.O:: 마탄[TabExplain] 오티스 인격인 경우, 대신 자신의 [FreischutzShotCount]만큼 [Combustion] 부여 (턴 당 최대 3회 부여)\n- 대상의 [Combustion] 위력이 30 이상이면, 위 효과를 대신하여 [DarkFlame] 1 부여 (턴 당 최대 2회 부여)",
+    "context": "EN :\n- On Hit with Base Attack Skills: inflict ([FreischutzShotCount] / 3) [Combustion] (3 times per turn)\n- For Lobotomy E.G.O::Magic Bullet[TabExplain] Outis Identity, inflict ([FreischutzShotCount]) [Combustion] instead (3 times per turn)\n- If the target has 30+ [Combustion], inflict 1 [DarkFlame] instead of the above effect (2 times per turn)\nJP :\n- 基本攻撃スキルが的中時、自分の([FreischutzShotCount] ÷ 3)だけ[Combustion]を付与(1ターンにつき最大3回付与)\n- ロボトミーE.G.O::魔弾[TabExplain] ウーティスの場合、代わりに自分の[FreischutzShotCount]だけ[Combustion]を付与(1ターンにつき最大3回付与)\n- 対象の[Combustion]威力が30以上なら、上記の効果の代わりに[DarkFlame]1を付与(1ターンにつき最大2回付与)"
   }
 ]

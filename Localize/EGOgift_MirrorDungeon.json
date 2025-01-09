@@ -5341,8 +5341,8 @@
   },
   {
     "key": "9145-desc",
-    "original": "관통 공격 스킬의 합 위력 +1\n\n[Bullet]을 소모하는 스킬의 피해량 +(40/코인 수)%\n\n[Bullet]을 전부 소모하였다면 다음 턴 시작 시, [Bullet] 2 얻음 (전투 당 1회)",
-    "context": "EN :\nPierce Skills gain Clash Power +1\n\nSkills that consume [Bullet] deal +(40/# of Coins)% more damage\n\nIf the unit is out of [Bullet], gain 2 [Bullet] at the next Turn Start (once per Encounter)\nJP :\n貫通攻撃スキルのマッチ威力 +1\n\n[Bullet]を消耗するスキルのダメージ量 +(40 ÷ コイン数)%\n\n[Bullet]を全て消耗した場合、次のターン開始時に[Bullet]2を得る(戦闘につき1回)"
+    "original": "관통 공격 스킬의 합 위력 +1\n\n[Bullet]을 소모하는 스킬의 피해량 +(40/코인 수)%\n\n[Bullet]을 전부 소모하였다면 다음 턴 시작 시, [Bullet] 2 얻음 (인격 당, 전투 당 1회)",
+    "context": "EN :\nPierce Skills gain Clash Power +1\n\nSkills that consume [Bullet] deal +(40/# of Coins)% more damage\n\nIf the unit is out of [Bullet], gain 2 [Bullet] at the next Turn Start (once per Encounter for each Identity)\nJP :\n貫通攻撃スキルのマッチ威力 +1\n\n[Bullet]を消耗するスキルのダメージ量 +(40 ÷ コイン数)%\n\n[Bullet]を全て消耗した場合、次のターン開始時に[Bullet]2を得る(人格ごとに、戦闘につき1回)"
   },
   {
     "key": "9145-simpleDesc$[0].simpleDesc",
@@ -5366,8 +5366,8 @@
   },
   {
     "key": "19145-desc",
-    "original": "관통 공격 스킬의 합 위력 +1, <style=\"upgradeHighlight\">피해량 +5%</style>\n\n[Bullet]을 소모하는 스킬의 피해량 +(<style=\"upgradeHighlight\">50</style>/코인 수)%\n\n[Bullet]을 전부 소모하였다면 다음 턴 시작 시, [Bullet] 2 얻음 (전투 당 1회)",
-    "context": "EN :\nPierce Skills gain Clash Power +1 <style=\"upgradeHighlight\">and deal +5% more damage</style>\n\nSkills that consume [Bullet] deal +(<style=\"upgradeHighlight\">50</style>/# of Coins)% more damage\n\nIf the unit is out of [Bullet], gain 2 [Bullet] at the next Turn Start (once per Encounter)\nJP :\n貫通攻撃スキルのマッチ威力 +1, <style=\"upgradeHighlight\">ダメージ量 +5%</style>\n\n[Bullet]を消耗するスキルのダメージ量 +(<style=\"upgradeHighlight\">50</style> ÷ コイン数)%\n\n[Bullet]を全て消耗した場合、次のターン開始時に[Bullet]2を得る(戦闘につき1回)"
+    "original": "관통 공격 스킬의 합 위력 +1, <style=\"upgradeHighlight\">피해량 +5%</style>\n\n[Bullet]을 소모하는 스킬의 피해량 +(<style=\"upgradeHighlight\">50</style>/코인 수)%\n\n[Bullet]을 전부 소모하였다면 다음 턴 시작 시, [Bullet] 2 얻음 (인격 당, 전투 당 1회)",
+    "context": "EN :\nPierce Skills gain Clash Power +1 <style=\"upgradeHighlight\">and deal +5% more damage</style>\n\nSkills that consume [Bullet] deal +(<style=\"upgradeHighlight\">50</style>/# of Coins)% more damage\n\nIf the unit is out of [Bullet], gain 2 [Bullet] at the next Turn Start (once per Encounter for each Identity)\nJP :\n貫通攻撃スキルのマッチ威力 +1, <style=\"upgradeHighlight\">ダメージ量 +5%</style>\n\n[Bullet]を消耗するスキルのダメージ量 +(<style=\"upgradeHighlight\">50</style> ÷ コイン数)%\n\n[Bullet]を全て消耗した場合、次のターン開始時に[Bullet]2を得る(人格ごとに、戦闘につき1回)"
   },
   {
     "key": "19145-simpleDesc$[0].simpleDesc",
@@ -5391,8 +5391,8 @@
   },
   {
     "key": "29145-desc",
-    "original": "관통 공격 스킬의 합 위력 +1, 피해량 +<style=\"upgradeHighlight\">10</style>%\n\n[Bullet]을 소모하는 스킬의 피해량 +(<style=\"upgradeHighlight\">60</style>/코인 수)%\n\n[Bullet]을 전부 소모하였다면 다음 턴 시작 시, [Bullet] 2 얻음 (전투 당 1회)",
-    "context": "EN :\nPierce Skills gain Clash Power +1 and deal <style=\"upgradeHighlight\">+10%</style> more damage\n\nSkills that consume [Bullet] deal +(<style=\"upgradeHighlight\">60</style>/# of Coins)% more damage\n\nIf the unit is out of [Bullet], gain 2 [Bullet] at the next Turn Start (once per Encounter)\nJP :\n貫通攻撃スキルのマッチ威力 +1, ダメージ量 +<style=\"upgradeHighlight\">10</style>%\n\n[Bullet]を消耗するスキルのダメージ量 +(<style=\"upgradeHighlight\">60</style> ÷ コイン数)%\n\n[Bullet]を全て消耗した場合、次のターン開始時に[Bullet]2を得る(戦闘につき1回)"
+    "original": "관통 공격 스킬의 합 위력 +1, 피해량 +<style=\"upgradeHighlight\">10</style>%\n\n[Bullet]을 소모하는 스킬의 피해량 +(<style=\"upgradeHighlight\">60</style>/코인 수)%\n\n[Bullet]을 전부 소모하였다면 다음 턴 시작 시, [Bullet] 2 얻음 (인격 당, 전투 당 1회)",
+    "context": "EN :\nPierce Skills gain Clash Power +1 and deal <style=\"upgradeHighlight\">+10%</style> more damage\n\nSkills that consume [Bullet] deal +(<style=\"upgradeHighlight\">60</style>/# of Coins)% more damage\n\nIf the unit is out of [Bullet], gain 2 [Bullet] at the next Turn Start (once per Encounter for each Identity)\nJP :\n貫通攻撃スキルのマッチ威力 +1, ダメージ量 +<style=\"upgradeHighlight\">10</style>%\n\n[Bullet]を消耗するスキルのダメージ量 +(<style=\"upgradeHighlight\">60</style> ÷ コイン数)%\n\n[Bullet]を全て消耗した場合、次のターン開始時に[Bullet]2を得る(人格ごとに、戦闘につき1回)"
   },
   {
     "key": "29145-simpleDesc$[0].simpleDesc",

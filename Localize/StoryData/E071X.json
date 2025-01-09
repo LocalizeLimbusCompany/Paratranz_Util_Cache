@@ -1,0 +1,641 @@
+[
+  {
+    "key": "0-place",
+    "original": "톱니교단 집회소",
+    "context": "EN :\nThe Church of Gears Meeting House\nJP :\n歯車の教団 集会所"
+  },
+  {
+    "key": "0-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "0-content",
+    "original": "좀 꺼림칙한 놈들이긴 했는데… 뭐, 못 이겨낼 정도는 아니었구만.",
+    "context": "EN :\nPretty unsettling, but... they didn't give us too much trouble, huh?\nJP :\nなんだか気味の悪い連中だったけど…\nまぁ、勝てない相手じゃなかったな。"
+  },
+  {
+    "key": "1-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "1-content",
+    "original": "그래…? 난 구역질 참느라 중간 중간에 무기를 놓칠 뻔했는데…",
+    "context": "EN :\nYeah...? My weapon kept slipping outta my hand 'cuz I had to stop myself from throwing up.\nJP :\nそう…？私は吐き気こらえるのに必死で、\n途中何回か武器を落としそうになったんだけど…。"
+  },
+  {
+    "key": "2-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "2-content",
+    "original": "뇌, 뇌가 선명하게 보이고… 톱니가 돌아갈 때마다 뇌에서 피랑, 조각들이… 으으…",
+    "context": "EN :\nB-brains, and... all that blood and... chunks of flesh whenever the gears... eugh, turned and crushed the...\nJP :\nの、脳がはっきり見えて…。\n歯車が回るたびに脳から血と、欠片が…うぅ…。"
+  },
+  {
+    "key": "3-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "3-content",
+    "original": "불쾌했던 기억을 입으로 되새기는 것은 그다지 좋지 않을 것이오, 싱클레어 군…",
+    "context": "EN :\nIt is ill-advised to mouth what imparts you nothing but displeasure, Sinclair...\nJP :\n不快なる記憶を殊更に口にするは\nさほど良きことならぬぞ、シンクレア君…。"
+  },
+  {
+    "key": "4-content",
+    "original": "평소와는 조금 다른 의미로 전투에 지쳐있는 수감자들 사이로, 멀찍이 우들우들 떨고 있는 모습이 보인다.",
+    "context": "EN :\nPast the sinners, who all appeared rather exhausted from certain non-fatigue related issues, I saw a shuddering figure.\nJP :\nいつもとは少し違う意味で戦闘に疲れている\n囚人たちの肩越しに、遠くで震えている人の姿が見える。"
+  },
+  {
+    "key": "5-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "5-content",
+    "original": "저자가 분명 교주… 겠군.",
+    "context": "EN :\nThat one must be the... 'leader' of this Church.\nJP :\nあの者がきっと教祖…だろう。"
+  },
+  {
+    "key": "6-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "6-content",
+    "original": "<오티스, 알지? 생포해야 한댔어.>",
+    "context": "EN :\n<Outis, remember. This is a <i>capture</i> mission.>\nJP :\n<ウーティス、分かってるよね？\n生け捕りにしろって言われたよ。>"
+  },
+  {
+    "key": "7-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "7-content",
+    "original": "물론입니다, 관리자 님.",
+    "context": "EN :\nOf course, Executive Manager.\nJP :\n勿論です、管理人様。"
+  },
+  {
+    "key": "8-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "8-content",
+    "original": "저항 시 다소 생채기가 날 수는 있지만, 생명에는 지장이 없을 수밖에 없는 포획술을 잘 알고 있습니다.",
+    "context": "EN :\nI know an exceptional technique by which I can one-hundred-percent ensure the survival of the subject, possible defense wounds notwithstanding.\nJP :\n抵抗されれば少し傷を負わせるかもしれませんが、\n生命には支障が無いようにする捕縛術を心得ています。"
+  },
+  {
+    "key": "9-teller",
+    "original": "교주",
+    "context": "EN :\nLeader\nJP :\n教祖"
+  },
+  {
+    "key": "9-title",
+    "original": "톱니교단",
+    "context": "EN :\nThe Church of Gears\nJP :\n歯車の教団"
+  },
+  {
+    "key": "9-content",
+    "original": "오, 오지 마… 오지 마세요…!",
+    "context": "EN :\nPlease... leave us alone... stay away...!\nJP :\nこ、来ない…来ないでください…！"
+  },
+  {
+    "key": "10-content",
+    "original": "오티스가 무서운 표정을 얼굴에 띄우며 한 걸음씩 다가가고 있을 때.",
+    "context": "EN :\nJust as Outis had begun approaching the leader, her face contorting into a terrifying expression...\nJP :\nウーティスが怖い顔を浮かべながら一歩ずつ近づいているとき。"
+  },
+  {
+    "key": "11-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "11-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "11-content",
+    "original": "아아, 이런. 열셋이나 있네.",
+    "context": "EN :\nOhh, wow. Thirteen of you, hm?\nJP :\nあぁ、おっと。\n13人もいるんだね。"
+  },
+  {
+    "key": "12-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "12-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "12-content",
+    "original": "그 친구들… 없는 형편에 돈 많이 썼네?",
+    "context": "EN :\nWhy, those friends must have spent quite a fortune hiring you all.\nJP :\nあのお友だちさんたち…無い金を絞りに絞ったみたいだね？"
+  },
+  {
+    "key": "13-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "13-content",
+    "original": "읏…!",
+    "context": "EN :\nNgh...!\nJP :\nうっ…！"
+  },
+  {
+    "key": "14-content",
+    "original": "별안간 빛이 번쩍였나 싶더니, 순식간에 오티스를 한쪽으로 걷어차고선 교주를 감싸안는 자가 있었다.",
+    "context": "EN :\nThere was a flash of light, and in that blink of an eye, someone had kicked Outis to the side and embraced the leader in their arms.\nJP :\n突然閃光が走ったかと思うと、あっという間にウーティスを\n横へ蹴り飛ばして教祖をかばうように抱きしめる者が現れた。"
+  },
+  {
+    "key": "15-teller",
+    "original": "교주",
+    "context": "EN :\nLeader\nJP :\n教祖"
+  },
+  {
+    "key": "15-title",
+    "original": "톱니교단",
+    "context": "EN :\nThe Church of Gears\nJP :\n歯車の教団"
+  },
+  {
+    "key": "15-content",
+    "original": "아, 아버지께서 줄곧 저에게 말씀하신 분이 바로 당신인가요…",
+    "context": "EN :\nAh, could you be the person my father always talked about…?\nJP :\nあっ、父がずっと私に伝えてくれた方って\nまさかあなたなんですか……。"
+  },
+  {
+    "key": "16-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "16-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "16-content",
+    "original": "음… 그런가 봐.",
+    "context": "EN :\nMmm... I guess.\nJP :\nうん…そうみたい。"
+  },
+  {
+    "key": "17-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "17-content",
+    "original": "자, 자세히 보이질 않는군… 저런 힘을 가진 자라면 분명…",
+    "context": "EN :\nF-fie, I cannot well see whom this figure is... Yet... such power has to be...\nJP :\nよ、よく見えぬな…。\nあれほどの力を持っている者なら恐らく…。"
+  },
+  {
+    "key": "18-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "18-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "18-content",
+    "original": "기껏 환영해 준 친구들한테는 조금 미안하지만…",
+    "context": "EN :\nSorry, friends. I do appreciate your welcome, but...\nJP :\n折角歓迎してくれたお友だちのみんなには\nちょっと悪いけど…。"
+  },
+  {
+    "key": "19-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "19-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "19-content",
+    "original": "나는 이 친구와 함께 가야 할 것 같아서 말이야. 비켜주겠어?",
+    "context": "EN :\n... I'm going to have to leave with this friend over here instead. Make way for us, will you?\nJP :\n俺はこの子と一緒に行かなきゃならないからね。\n退いてくれる？"
+  },
+  {
+    "key": "20-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "20-content",
+    "original": "허튼… 소리를!",
+    "context": "EN :\nAbsolutely... not!\nJP :\n戯…言を！"
+  },
+  {
+    "key": "21-content",
+    "original": "그림자에 가려져 알 수는 없지만, 거대한 낫을 들고 있는 괴한에게 오티스가 빠르게 다가가려 한다.",
+    "context": "EN :\nOutis aggressively strides toward the shadowy intruder. The details were fuzzy and shadowed, but I was pretty sure that this figure was holding a massive scythe.\nJP :\n影に隠れているせいで容姿は分からないけど、巨大な鎌を持つ\n怪しい人物に向かってウーティスがすかさず近寄ろうとした。"
+  },
+  {
+    "key": "22-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "22-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "22-content",
+    "original": "성대한 환대… 참, 눈물 날라 그러네.",
+    "context": "EN :\nWhat a grand welcome... Wow, I'm about to shed a tear.\nJP :\n盛大な歓待…ほんと、涙が出そうだよ。"
+  },
+  {
+    "key": "23-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "23-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "23-content",
+    "original": "그럼…",
+    "context": "EN :\nWell, then...\nJP :\nそれじゃあ…。"
+  },
+  {
+    "key": "24-content",
+    "original": "그리고 목소리에서 어떠한 위기감도 읽을 수 없는 그자의 낫이 천천히 들어 올려지려는 그때.",
+    "context": "EN :\nThe intruder begins to raise his scythe, his voice untainted by even a tinge of battle anxiety...\nJP :\nそして、声からまるで危機感が感じられない\nその者の鎌がゆっくりと掲げられたそのとき。"
+  },
+  {
+    "key": "25-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "25-content",
+    "original": "…헛?!",
+    "context": "EN :\n... Hm?!\nJP :\n…はっ！？"
+  },
+  {
+    "key": "26-place",
+    "original": "버스의 뒷문",
+    "context": "EN :\nBus’s Backdoor\nJP :\nバスの裏口"
+  },
+  {
+    "key": "26-content",
+    "original": "우리는 어느 순간 복도에 서 있었다.",
+    "context": "EN :\n... And we found ourselves back at the corridors.\nJP :\n私たちはいつの間にか廊下に立っていた。"
+  },
+  {
+    "key": "27-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "27-content",
+    "original": "…아무래도 이번 시나리오는 여기까지였던 것 같군요.",
+    "context": "EN :\n... It seems that this is where this 'scenario' ends.\nJP :\n…どうやら、今回のシナリオはここまでだったようですね。"
+  },
+  {
+    "key": "28-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "28-content",
+    "original": "큭… 모욕적이군.",
+    "context": "EN :\nDammit... What indignity...!\nJP :\nくっ…。屈辱的だ。"
+  },
+  {
+    "key": "29-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "29-content",
+    "original": "아니, 차라리 잘 되었을 지도 모르네, 오티스 군…",
+    "context": "EN :\nNay, young Outis; 'tis naught to be humiliated of.\nJP :\nいや、むしろ良かったかもしれぬぞ。ウーティス君。"
+  },
+  {
+    "key": "30-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "30-content",
+    "original": "확실하진 않지만, 그 힘이며 여유는…",
+    "context": "EN :\nWhile I am not entirely confident of this speculation, for I was availed naught else save for the silhouette... that strength, that composure...\nJP :\n確かではないが、あの力と余裕は…。"
+  },
+  {
+    "key": "31-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "31-content",
+    "original": "부, 분명… 잡지에서 보았던… 시…실뤼엣의…트, 트트트… 특색…!",
+    "context": "EN :\nF-f-f-forsooth, the sill-hou-wette of this foe... I had bore witness to this magnificence in the past in the magazines... A C-c-c-c-c-c-Color...!\nJP :\nき、きっと…雑誌で見た…し…シッルウェッツの…\nと、ととと…特色…！"
+  },
+  {
+    "key": "32-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "32-content",
+    "original": "그대, 특색과 싸울 뻔했다네!",
+    "context": "EN :\nThou hast almost engaged in a duel with... <i>a Color Fixer!</i>\nJP :\nそなた、特色と戦うところだったのだぞ！"
+  },
+  {
+    "key": "33-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "33-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "34-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "34-content",
+    "original": "망각에서 벗어나도 해결사를 사랑하는 마음은 여전한 거군요…?",
+    "context": "EN :\nRecovering your memories clearly hasn't diminished your love of Fixers one bit, huh...?\nJP :\n忘却から抜け出しても、\nフィクサーを愛する気持ちは変わらないんですね…？"
+  },
+  {
+    "key": "35-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "35-content",
+    "original": "그, 그거랑 이거는 다르네!",
+    "context": "EN :\nS-silence! 'Tis irrelevant!\nJP :\nそ、それとこれは違うであろう！"
+  },
+  {
+    "key": "36-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "36-content",
+    "original": "아, 아무튼! 파우스트… 군?! 분명 그대는 이 밤이 이어지는 동안 계속해서 방문하는 것이 좋다고 말했었지. 그렇지?!",
+    "context": "EN :\nA-anyhow! Fau— young Faust! Thou hast said as such in the past, that a repeated visit would be to our benefit as long as this Night is in effect, forsooth?! Forsooth?!\nJP :\nと、とにかく！ファウスト…君！？確かそなたは\nこの夜が続く間は何度も訪問する方が良いといったであろう。\n違うか！？"
+  },
+  {
+    "key": "37-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "37-content",
+    "original": "그렇습니다.",
+    "context": "EN :\nIndeed.\nJP :\nその通りです。"
+  },
+  {
+    "key": "38-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "38-content",
+    "original": "그, 조금만… 조오금만 가까이 다가가면 어떤 특색이신지 본인이 유추할 수 있을 것만 같은데…!",
+    "context": "EN :\nW-well, should I be granted the chance to behold the countenance of this figure, it should be of no trouble for I to determine which of the illustrious Color Fixers this one is with greater certainty...!\nJP :\nその、少しだけ…すこぉしだけ近づけば\nどの特色なのか当人が推測できると思うのだが…！"
+  },
+  {
+    "key": "39-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "39-content",
+    "original": "다음엔 오티스 군 말고, 본인이 나서서…!",
+    "context": "EN :\nMay I, perchance, be granted the opportunity to approach this figure in young Outis's stead...?!\nJP :\n次はウーティス君ではなく、当人が前へ出て…！"
+  },
+  {
+    "key": "40-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "40-content",
+    "original": "…이 시나리오에서는 그자의 정체를 공개하지 않는 결과로 귀결될 것 같다는 생각이 듭니다만, 시도해보지 않을 이유는 없겠군요.",
+    "context": "EN :\n... There is no reason to deny that request, though I am of the belief that the identity of this individual will not be revealed regardless of the choices we make in this scenario.\nJP :\n…このシナリオではあの者の正体を公開しない結果に\n帰結する気はしますが、試さない理由は無さそうですね。"
+  },
+  {
+    "key": "41-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "41-content",
+    "original": "조오와써!!!",
+    "context": "EN :\nWOOHOOOOO!!!\nJP :\nうぃいよっしゃあああ！！！"
+  },
+  {
+    "key": "42-content",
+    "original": "…돈키호테는 여전히 뜨거운 것 같다.",
+    "context": "EN :\n... Don Quixote's just as passionate as ever, huh.\nJP :\n…ドンキホーテは未だ熱い気がする。"
+  },
+  {
+    "key": "43-content",
+    "original": "그것과 대비해서, 파우스트의 표정은 차갑기만 하다.",
+    "context": "EN :\nBut Faust's expression maintains its stony coldness, highlighting the contrast.\nJP :\nそれとは裏腹に、ファウストの表情は冷たい。"
+  },
+  {
+    "key": "44-content",
+    "original": "무언가를 골똘히 고민하는 것만 같이.",
+    "context": "EN :\nIt seems like she was deep in contemplation.\nJP :\n何かしらについて、ひたすら悩んでいるかのように。"
+  },
+  {
+    "key": "45-content",
+    "original": "그래서 나는 물어보기로 했다.",
+    "context": "EN :\nSo I sought to ask.\nJP :\nだから私は聞いてみることにした。"
+  },
+  {
+    "key": "46-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "46-content",
+    "original": "<파우스트, 뭔가 짚이는 게 남았어?>",
+    "context": "EN :\n<Is something on your mind, Faust?>\nJP :\n<ファウスト、何か引っ掛かることでもある？>"
+  },
+  {
+    "key": "47-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "47-content",
+    "original": "…시나리오 가설이 정말 맞다면, 방금의 ‘종점’ 또한 무언가의 암시가 아닐까라는 생각이 들었습니다.",
+    "context": "EN :\n... If the 'scenario' hypothesis is correct, perhaps the 'conclusion' we have just seen may be a hint of sorts.\nJP :\n…シナリオ仮説が本当に正しいとしたら、先程の「終点」もまた\n何かの暗示ではないだろうかと思いました。"
+  },
+  {
+    "key": "48-content",
+    "original": "암시…",
+    "context": "EN :\nA hint...?\nJP :\n暗示…。"
+  },
+  {
+    "key": "49-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "49-content",
+    "original": "이렇게 작위적인 끝도 만들어낼 수 있다는 건, 어쩌면 저희의 행동과는 관계없이 이야기가 강제로 진행될 수도 있다는 경고일 수 있겠다는 생각이 드는군요.",
+    "context": "EN :\nPerhaps the overt contrivance of this conclusion implies a tacit threat or a warning, posed against us that the tale may be forced to continue regardless of our own actions.\nJP :\nこういう作為的な終わりを作り出せるということは、もしかしたら\n私たちの行動とは関係なく、物語が強制的に進んでしまうことも\nあるかもしれないという警告にも思えるのです。"
+  },
+  {
+    "key": "50-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "50-content",
+    "original": "발푸르기스의 밤에서 ‘종점’을 찾지 못해 LCB의 여정이 가로막히는 사태도 발생할 수 있을지도… 음, 아직 그 부분까지는 열람이 어려운 듯 하군요.",
+    "context": "EN :\nThere may be an incident in the future in which LCB's journey comes to an untimely halt due to our failure to find the 'conclusion' in a Walpurgis Night event... mm. It appears the access to that information is still locked.\nJP :\nヴァルプルギスの夜にて「終点」を見つけられずに、LCBの旅路が\n行き止まりになってしまう自体が発生するのやも… 。\nふむ、その部分までの閲覧はまだ難しいようですね。"
+  },
+  {
+    "key": "51-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "51-content",
+    "original": "<여전히 잘 이해되진 않네…>",
+    "context": "EN :\n<I'm having some trouble following your train of thought...>\nJP :\n<やっぱりよく分からないね…。>"
+  },
+  {
+    "key": "52-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "52-content",
+    "original": "괜찮습니다.",
+    "context": "EN :\nIt is alright.\nJP :\n大丈夫です。"
+  },
+  {
+    "key": "53-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "53-content",
+    "original": "때가 되면… 단테, 당신의 감이 이런 가설들을 검증해주겠죠.",
+    "context": "EN :\nWhen the time comes, Dante, it may be the case that your intuition will bring proof to these hypotheses.\nJP :\n時が来れば…ダンテ、あなたの勘がこのような仮説たちを\n確かめてくれるでしょう。"
+  },
+  {
+    "key": "54-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "54-content",
+    "original": "오늘 같은 상황에서처럼 말입니다.",
+    "context": "EN :\nAs it has today.\nJP :\n今日の状況のようにです。"
+  },
+  {
+    "key": "55-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "55-content",
+    "original": "<…그래.>",
+    "context": "EN :\n<... Yeah.>\nJP :\n<…そうだね。>"
+  },
+  {
+    "key": "56-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "56-content",
+    "original": "하지만 우선, 돈키호테 씨의 가설부터 검증되어야 할 것 같긴 하군요.",
+    "context": "EN :\nHowever, it seems that verifying Don Quixote's hypothesis takes precedence for the moment.\nJP :\nしかし、まずはドンキホーテさんの仮説から\n確かめるべきかもしれませんね。"
+  },
+  {
+    "key": "57-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "57-content",
+    "original": "관리자 나리! 어서, 어서!",
+    "context": "EN :\nManager Esquire! Prithee, move with haste, now! Haste, I say!\nJP :\n管理人殿！はやく、はやく！"
+  },
+  {
+    "key": "58-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "58-content",
+    "original": "아아… 조금이라도 쉬다가… 우웁.",
+    "context": "EN :\nUgh... can we have a second before we— hurp.\nJP :\nうぅ…少しくらいは休んでから…うぇっぷ。"
+  },
+  {
+    "key": "59-content",
+    "original": "잔뜩 흥분한 돈키호테의 모습을 보면서, 복잡한 생각은 언제나처럼 잠시 미뤄두기로 했다.",
+    "context": "EN :\nWatching Don Quixote's enthusiasm, I decided to table the more complicated thoughts for later like I always do.\nJP :\n酷く興奮したドンキホーテの姿を見ながら、\n複雑な考えはいつも通り、少し置いておくことにした。"
+  },
+  {
+    "key": "60-content",
+    "original": "파우스트의 말처럼 지금은 내 감을 조금 더 믿게 되어도 좋을 것 같으니까.",
+    "context": "EN :\nFaust is right. It might do us well for me to have some more faith in my own intuitions for now.\nJP :\nファウストの言う通り、今は私の勘を\nもう少し信じても良さそうだからね。"
+  }
+]

@@ -3746,8 +3746,8 @@
   },
   {
     "key": "FreischutzShotCount-desc",
-    "original": "- 최댓값: 7\n- 특정 스킬 효과에 따라 수치가 변경됨.\n- 스킬 3 기본 위력 +{0}\n- 스킬 3 코인 위력 +{1}",
-    "context": "EN :\n- Max Value: 7\n- Value changes depending on certain Skill effects.\n- Skill 3 Base Power +{0}\n- Skill 3 Coin Power +{1}\nJP :\n- 最大値: 7\n- 特定スキル効果によって数値が変動。\n- スキル3基本威力 +{0}\n- スキル3コイン威力 +{1}"
+    "original": "- 최댓값: 7\n- 특정 스킬 효과에 따라 수치가 변경됨.\n- [로보토미 E.G.O::마탄 오티스 인격 전용 효과]\n· 스킬 3 기본 위력 +{0}\n- 스킬 3 코인 위력 +{1}",
+    "context": "EN :\n- Max Value: 7\n- Value changes depending on certain Skill effects.\n- [Lobotomy E.G.O::Magic Bullet Outis Only]\n· Skill 3 Base Power +{0}\n· Skill 3 Coin Power +{1}\nJP :\n- 最大値: 7\n- 特定スキル効果によって数値が変更される\n- [ロボトミーE.G.O::魔弾ウーティス人格専用効果]\n· スキル3の基本威力 +{0}\n- スキル3のコイン威力 +{1}"
   },
   {
     "key": "DarkFlame-name",
@@ -4567,7 +4567,7 @@
   {
     "key": "Retreat-desc",
     "original": "- 턴 종료 시 흐트러짐 상태를 해제하고 전투에서 이탈함 (강제 흐트러짐 제외, 사망으로 처리되지 않음)\n· 연속 전투인 경우, 퇴각 시 대기 인원에게 자신의 슬롯 수를 이전한 뒤 교체되고, 대기 인원 목록의 마지막 순서로 이동 (다음 턴에 교체 가능한 대기 인원이 없으면 이탈함. 복귀 시 퇴각 순서대로 복귀)\n· 전투 복귀 시 자신에게 부여된 일부 효과를 제외한 모든 효과 제거, 퇴각 시의 체력과 정신력이 유지됨 (정신력이 0 미만이면, 0으로 초기화)",
-    "context": "EN :\n- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)\nJP :\n- ターン終了時に混乱状態を解除して戦闘から離脱(強制混乱を除く、死亡処理されない)\n· 連続戦闘の場合、退却時に定期人員へ自分のスロット数を譲渡して後退され、待機人員リストの最後尾へ移動(次のターンに交代可能な待機人員がいなければ離脱。復帰時には退却順に復帰)\n· 戦闘復帰時に自分に付与された一部効果を除いた全ての効果が除去。退却時の体力と精神力が維持される(精神力が0未満なら、0に初期化)"
+    "context": "EN :\n- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)\nJP :\n- ターン終了時に混乱状態を解除して戦闘から離脱(強制混乱を除く、死亡処理されない)\n· 連続戦闘の場合、退却時に待機人員へ自分のスロット数を譲渡して後退され、待機人員リストの最後尾へ移動(次のターンに交代可能な待機人員がいなければ離脱。復帰時には退却順に復帰)\n· 戦闘復帰時に自分に付与された一部効果を除いた全ての効果が除去。退却時の体力と精神力が維持される(精神力が0未満なら、0に初期化)"
   },
   {
     "key": "DefensiveStance-name",
@@ -4818,5 +4818,155 @@
     "key": "SadLamanchaland-desc",
     "original": "- 최댓값: 1\n- 합 위력 +1\n- 가하는 피해량 +20%\n- 받는 피해량 +20%",
     "context": "EN :\n- Max Value: 1\n- Clash Power +1\n- Deal +20% more damage\n- Take +20% more damage\nJP :\n- 最大値: 1\n- マッチ威力 +1\n- 与ダメージ量 +20%\n- 被ダメージ量 +20%"
+  },
+  {
+    "key": "FreishutzOutisEgoBullet_1st-name",
+    "original": "첫번째 마탄",
+    "context": "EN :\nThe First Magic Bullet\nJP :\n1つ目の魔弾"
+  },
+  {
+    "key": "FreishutzOutisEgoBullet_1st-desc",
+    "original": "- 가하는 피해량 +20%\n- 대상에게 피해량만큼 흐트러짐 손상을 입힘 (최대 30)",
+    "context": "EN :\n- Deals +20% more damage\n- Raise the target's Stagger Threshold by damage dealt (max 30)\nJP :\n- 与ダメージ量 +20%\n- 対象の混乱区間をダメージ量だけ前進(最大30)"
+  },
+  {
+    "key": "FreishutzOutisEgoBullet_2nd-name",
+    "original": "두번째 마탄",
+    "context": "EN :\nThe Second Magic Bullet\nJP :\n2つ目の魔弾"
+  },
+  {
+    "key": "FreishutzOutisEgoBullet_2nd-desc",
+    "original": "- 가하는 피해량 +10%\n- 메인 대상을 제외한 대상에게 피해를 입힘 (대상 수: 최대 4명), 메인 대상이 받는 피해는 0이 됨\n- 적중시 마비 3 부여",
+    "context": "EN :\n- Deal +10% more damage\n- Deal damage to targets other than the main target (max targets: 4); the main target takes 0 damage\n- On Hit, inflict 3 Paralyze\nJP :\n- 与ダメージ量 +10%\n- メインターゲットを除いた対象へダメージを与える(対象数: 最大4名)、メインターゲットの被ダメージは0になる\n- 的中時に麻痺3を付与"
+  },
+  {
+    "key": "FreishutzOutisEgoBullet_3rd-name",
+    "original": "세번째 마탄",
+    "context": "EN :\nThe Third Magic Bullet\nJP :\n3つ目の魔弾"
+  },
+  {
+    "key": "FreishutzOutisEgoBullet_3rd-desc",
+    "original": "- 가하는 피해량 +20%\n- 공격 시작 전 가중치 2 증가\n- 적중시 대상에게 공격 위력 감소 2, 화상 10 부여",
+    "context": "EN :\n- Deal +20% more damage\n- Before Attack: gain +2 Atk Weight\n- On Hit, inflict 2 Attack Power Down and 10 Burn\nJP :\n- 与ダメージ量 +20%\n- 攻撃開始前に加重値が2増加\n- 的中時に対象へ攻撃威力減少2, 火傷10を付与"
+  },
+  {
+    "key": "FreishutzOutisEgoBullet_4th-name",
+    "original": "네번째 마탄",
+    "context": "EN :\nThe Fourth Magic Bullet\nJP :\n4つ目の魔弾"
+  },
+  {
+    "key": "FreishutzOutisEgoBullet_4th-desc",
+    "original": "- 가하는 피해량 +30%\n- 공격 시작 전 가중치 3 증가\n- 적중시 대상에게 피해량만큼 흐트러짐 손상을 입힘 (최대 20), 다음 턴에 취약 3 부여",
+    "context": "EN :\n- Deal +30% more damage\n- Before Attack: gain +3 Atk Weight\n- On Hit, raise the target's Stagger Threshold by damage dealt (max 20); then, inflict 3 Fragility next turn\nJP :\n- 与ダメージ量 +30%\n- 攻撃開始前に加重値が3増加\n- 的中時に対象の混乱区間をダメージ量だけ前進(最大20), 次のターンに脆弱3を付与"
+  },
+  {
+    "key": "FreishutzOutisEgoBullet_5th-name",
+    "original": "다섯번째 마탄",
+    "context": "EN :\nThe Fifth Magic Bullet\nJP :\n5つ目の魔弾"
+  },
+  {
+    "key": "FreishutzOutisEgoBullet_5th-desc",
+    "original": "- 가하는 피해량 +30%\n- 공격 시작 전 가중치 4 증가\n- 적중시 대상에게 화상 10 부여. 다음 턴에 공격 레벨 감소 4, 방어 레벨 감소 4 부여",
+    "context": "EN :\n- Deal +30% more damage\n- Before Attack: gain +4 Atk Weight\n- On Hit, inflict 10 Burn; then, inflict 4 Offense Level down and 4 Defense Level Down next turn\nJP :\n- 与ダメージ量 +30%\n- 攻撃開始前に加重値が4増加\n- 的中時に対象へ火傷10を付与。次のターンに攻撃レベル減少4, 防御レベル減少4を付与"
+  },
+  {
+    "key": "FreishutzOutisEgoBullet_6th-name",
+    "original": "여섯번째 마탄",
+    "context": "EN :\nThe Sixth Magic Bullet\nJP :\n6つ目の魔弾"
+  },
+  {
+    "key": "FreishutzOutisEgoBullet_6th-desc",
+    "original": "- 공격 시작 전 가중치 6 증가\n- 적중시 대상에게 피해량만큼 흐트러짐 손상을 입힘 (최대 30)\n- 메인 타겟의 화상 7당 코인을 재사용함 (최대 2회 재사용)\n- 더하기 코인 스킬 기본 위력 16 감소\n- 빼기 코인 스킬 기본 위력 22 감소\n - 더하기 코인 위력 8 감소\n - 빼기 코인 위력 12 감소",
+    "context": "EN :\n- Before Attack: gain +6 Atk Weight\n- On Hit, raise the target's Stagger Threshold by damage dealt (max 30)\n- Reuse the Coin for every 7 Burn on the main target (2 times max)\n- Plus Coin Skill Base Power -16\n- Minus Coin Skill Base Power -22\n - Plus Coin Power -8\n - Minus Coin Power -12\nJP :\n- 攻撃開始前に加重値が6増加\n- 対象の混乱区間をダメージ量だけ前進(最大30)\n- メインターゲットの火傷7につき、コインを再使用する(最大2回再使用)\n- 加算コインスキルの基本威力を16減少\n- 減算コインの基本威力を22減少\n - 加算コインの威力を8減少\n - 減算コインの威力を12減少"
+  },
+  {
+    "key": "FreishutzOutisEgoBullet_7th-name",
+    "original": "일곱번째 마탄",
+    "context": "EN :\nThe Seventh Magic Bullet\nJP :\n7つ目の魔弾"
+  },
+  {
+    "key": "FreishutzOutisEgoBullet_7th-desc",
+    "original": "- 가하는 피해량 +200%\n- 대상의 잃은 체력 1%당 피해량 +2.5% (최대 200%)\n- 공격 시작 전 대상이나 자신의 관통 속성 내성이 2.0 미만이면, 이 공격에 한해 취약(x2.0)으로 변경함\n- 공격 종료 시, 사망함",
+    "context": "EN :\n- Deal +200% more damage\n- Deal +2.5% more damage for every 1% missing HP on the target (max 200%)\n- Before Attack: for this attack, if the Pierce Damage Res. on the target or on self are less than 2.0, change them to Fatal(x2.0)\n- After Attack: kills this unit\nJP :\n- 与ダメージ量 +200%\n- 対象の失った体力1%ごとにダメージ量 +2.5%(最大200%)\n- 攻撃開始前、対象や自分の貫通属性耐性が2.0未満なら、この攻撃に限って脆弱(×2.0)に変更\n- 攻撃終了時に死亡する"
+  },
+  {
+    "key": "FreishutzOutisEgoBulletCnt-name",
+    "original": "사수의 탄환",
+    "context": "EN :\nMarksman's Bullet\nJP :\n射手の弾丸"
+  },
+  {
+    "key": "FreishutzOutisEgoBulletCnt-desc",
+    "original": "사수의 탄환에 따라 사용하는 탄환이 달라짐",
+    "context": "EN :\nUses a different Ammo depending on Marksman's Bullet\nJP :\n射手の弾丸によって、使用する弾丸が変わる"
+  },
+  {
+    "key": "CoveringFire-name",
+    "original": "타겟 포착",
+    "context": "EN :\nTarget Spotted\nJP :\nターゲット捕捉"
+  },
+  {
+    "key": "CoveringFire-desc",
+    "original": "이 효과를 부여한 대상의 공격 스킬 종료시, 부여 대상이 공격한 적을 스킬 2로 일방 공격함\n- 부여 대상이 이 효과로 공격 시 해당 캐릭터의 사용할 스킬 목록에 영향을 주지 않음.",
+    "context": "EN :\nIf unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with its Skill 2 against the same enemy Unit A attacked with its Skill. Activates at Unit A's Attack End.\n- The Skill used due to this effect does not affect Unit B's upcoming Skills list.\nJP :\n- この効果を付与した対象の攻撃スキル終了時、付与対象が攻撃した敵をスキル2で一方攻撃する。\n- 付与対象がこの効果で攻撃時、該当キャラクターの使用するスキルリストに影響を与えない。"
+  },
+  {
+    "key": "FullReload-name",
+    "original": "재장전",
+    "context": "EN :\nReload\nJP :\n再装填"
+  },
+  {
+    "key": "FullReload-desc",
+    "original": "보유한 탄환을 모두 버리고, 최대치만큼 다시 얻음",
+    "context": "EN :\nLose all currently owned Ammo, and reload it back to full\nJP :\n保有する弾丸を全て捨てて、最大値だけ再取得する"
+  },
+  {
+    "key": "Bullet_LogicAtelier-name",
+    "original": "탄환 - 로직 아틀리에",
+    "context": "EN :\nAmmo - Atelier Logic\nJP :\n弾丸 - ロジックアトリエ"
+  },
+  {
+    "key": "Bullet_LogicAtelier-desc",
+    "original": "특수 탄환\n로직 아틀리에 공방제 특수탄\n- 이 탄환은 외부 효과로 얻거나 값이 증가할 수 없음",
+    "context": "EN :\nUnique Ammo\nAtelier Logic Workshop Special Ammo\n- This Ammo's count cannot be gained or lost due to external effects\nJP :\n特殊弾丸\nロジックアトリエの工房製特殊弾\n- この弾丸は外部の効果で獲得したり値が増加しない"
+  },
+  {
+    "key": "Retreat_FullStop-name",
+    "original": "후방 지원 배치",
+    "context": "EN :\nOverwatch Assignment\nJP :\n後方支援配置"
+  },
+  {
+    "key": "Retreat_FullStop-desc",
+    "original": "- 턴 종료 시 흐트러짐 상태를 해제하고 전투에서 이탈함 (강제 흐트러짐 제외, 사망으로 처리되지 않음)\n· 연속 전투인 경우, 퇴각 시 대기 인원에게 자신의 슬롯 수를 이전한 뒤 교체되고, 대기 인원 목록의 마지막 순서로 이동 (다음 턴에 교체 가능한 대기 인원이 없으면 이탈함. 복귀 시 퇴각 순서대로 복귀)\n· 전투 복귀 시 자신의 슬롯 수가 1로 초기화, 자신에게 부여된 일부 효과를 제외한 모든 효과 제거, 퇴각 시의 체력과 정신력이 유지됨 (정신력이 0 미만이면, 0으로 초기화)",
+    "context": "EN :\n- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)\nJP :\n- ターン終了時に混乱状態を解除して戦闘から離脱(強制混乱を除く、死亡処理されない)\n· 連続戦闘の場合、退却時に待機人員へ自分のスロット数を譲渡して後退され、待機人員リストの最後尾へ移動(次のターンに交代可能な待機人員がいなければ離脱。復帰時には退却順に復帰)\n· 戦闘復帰時に自分のスロット数が1に初期化。自分に付与された一部効果を除いた全ての効果が除去。退却時の体力と精神力が維持される(精神力が0未満なら、0に初期化)"
+  },
+  {
+    "key": "LogicAtelierAM-name",
+    "original": "집중[저격]",
+    "context": "EN :\nConcentration[Sniper]\nJP :\n集中[狙撃]"
+  },
+  {
+    "key": "LogicAtelierAM-desc",
+    "original": "- 최댓값 : 4\n- 턴 종료시 수치 1 증가",
+    "context": "EN :\n- Max Stack: 4\n- Turn End: gain 1 Stack\nJP :\n- 最大値 : 4\n- ターン終了時に数値が1増加"
+  },
+  {
+    "key": "MeleeCover-name",
+    "original": "근접 지원",
+    "context": "EN :\nMelee Support\nJP :\n近接支援"
+  },
+  {
+    "key": "MeleeCover-desc",
+    "original": "- 이 효과를 부여한 대상의 스킬 종료시, 해당 아군을 공격한 적을 ‘근접 지원’ 스킬로 일방 공격함.\n- 근접 지원 시 해당 캐릭터의 사용할 스킬 목록에 영향을 주지 않음",
+    "context": "EN :\n- If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with the 'Melee Support' Skill against the same enemy that attacked Unit A. Activates at Unit A's Skill End.\n- The Skill used due to the 'Melee Support' effect does not affect Unit B's upcoming Skills list.\nJP :\n- この効果を付与した対象がスキル終了時、該当する味方を攻撃した敵を「近接支援」スキルで一方攻撃する。\n- 近接支援時、該当キャラクターの使用するスキルリストに影響を与えない。"
+  },
+  {
+    "key": "RequestedTarget-name",
+    "original": "의뢰 대상",
+    "context": "EN :\nRequested Target\nJP :\n依頼対象"
+  },
+  {
+    "key": "RequestedTarget-desc",
+    "original": "참격, 관통, 타격 중 1.5 이하인 내성 +0.2. 이 버프가 부여된 대상을 처치하면, 모든 E.G.O 자원을 1 얻고 처치한 대상의 정신력을 10 회복시킴",
+    "context": "EN :\n+0.2 Resistance to Attack Types with 1.5 or less Resistance. If the target with this effect is defeated, gain 1 E.G.O resource for all Affinities, and the unit that defeated the target heals 10 SP\nJP :\n斬撃・貫通・打撃のうち1.5以下の耐性が +0.2。このバフが付与された対象を討伐すると全E.G.O資源を1得て、討伐者の精神力を10回復させる"
   }
 ]

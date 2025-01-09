@@ -1,0 +1,17 @@
+[
+  {
+    "key": "1035-panicName",
+    "original": "교단",
+    "context": "EN :\nThe Church\nJP :\n教団"
+  },
+  {
+    "key": "1035-lowMoraleDescription",
+    "original": "전투 중 [Smoke] 혹은 [Smoke] 횟수를 얻을 때, 추가로 1 얻음.\n턴 시작 시 [Vulnerable] 3, [AttackDmgUp] 2, [Endurance] 1 얻음",
+    "context": "EN :\nGain 1 additional [Smoke] or [Smoke] Count when gaining them.\nTurn Start: gain 3 [Vulnerable], 2 [AttackDmgUp], and 1 [Endurance].\nJP :\n戦闘中、[Smoke]または[Smoke]回数を得るとき追加で1得る\nターン開始時に[Vulnerable]3, [AttackDmgUp]2, [Endurance]1を得る"
+  },
+  {
+    "key": "1035-panicDescription",
+    "original": "전투 중 [Smoke] 혹은 [Smoke] 횟수를 얻을 때, 추가로 2 얻음.\n턴 시작 시 [Vulnerable] 3, [AttackDmgUp] 4, [Endurance] 2 얻음",
+    "context": "EN :\nGain 2 additional [Smoke] or [Smoke] Count when gaining them.\nTurn Start: gain 3 [Vulnerable], 4 [AttackDmgUp], and 2 [Endurance].\nJP :\n戦闘中、[Smoke]または[Smoke]回数を得るとき追加で2得る\nターン開始時に[Vulnerable]3, [AttackDmgUp]4, [Endurance]2を得る"
+  }
+]

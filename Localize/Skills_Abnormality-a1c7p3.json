@@ -461,11 +461,6 @@
   },
   {
     "key": "837404-levelList$[0].coinlist[0].coindescs[0].desc",
-    "original": "[CriticalOnSucceedAttack] 피해량 +50%",
-    "context": "EN :\n[CriticalOnSucceedAttack] Deal +50% more damage\nJP :\n[CriticalOnSucceedAttack] ダメージ量 +50%"
-  },
-  {
-    "key": "837404-levelList$[0].coinlist[0].coindescs[1].desc",
     "original": "[OnSucceedAttack] 다음 턴에 [Breath] 횟수 2 증가",
     "context": "EN :\n[OnSucceedAttack] Gain +2 [Breath] Count next turn\nJP :\n[OnSucceedAttack] 次のターンに[Breath]回数が2増加"
   },

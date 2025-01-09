@@ -1,0 +1,362 @@
+[
+  {
+    "key": "Walpu5_reward_button-content",
+    "original": "미션 목록",
+    "context": "EN :\nMissions\nJP :\nミッション一覧"
+  },
+  {
+    "key": "Walpu5_story_theater_button-content",
+    "original": "상영관 이동",
+    "context": "EN :\nTo Theater\nJP :\n上映館へ移動"
+  },
+  {
+    "key": "Walpu5_normal_stage-content",
+    "original": "쉬움 난이도 입장",
+    "context": "EN :\nEnter Easy Difficulty\nJP :\n難易度:イージー 入場"
+  },
+  {
+    "key": "Walpu5_hard_stage-content",
+    "original": "어려움 난이도 입장",
+    "context": "EN :\nEnter Hard Difficulty\nJP :\n難易度:ハード 入場"
+  },
+  {
+    "key": "Walpu5_normal_stage_name-content",
+    "original": "톱니교단의 책",
+    "context": "EN :\nBook of the Church of Gears\nJP :\n歯車の教団の本"
+  },
+  {
+    "key": "Walpu5_hard_stage_name-content",
+    "original": "톱니교단의 책",
+    "context": "EN :\nBook of the Church of Gears\nJP :\n歯車の教団の本"
+  },
+  {
+    "key": "Walpu5_hard_stage_unlock_condition-content",
+    "original": "쉬움 난이도 클리어 시 개방",
+    "context": "EN :\nClear Easy Difficulty to Unlock\nJP :\nイージークリア時に解放"
+  },
+  {
+    "key": "EVENT_Walpu5_NORMAL-content",
+    "original": "쉬움",
+    "context": "EN :\nEasy\nJP :\nイージー"
+  },
+  {
+    "key": "EVENT_Walpu5_HARD-content",
+    "original": "어려움",
+    "context": "EN :\nHard\nJP :\nハード"
+  },
+  {
+    "key": "missionConditionTitle_10037-content",
+    "original": "1회 전투에서 톱니교단 신도 처치",
+    "context": "EN :\nDefeat a Gear Worshipper in an Encounter\nJP :\n1回の戦闘で歯車の教団の信者を討伐"
+  },
+  {
+    "key": "missionConditionTitle_10038-content",
+    "original": "1회 전투에서 톱니교단 신도 처치",
+    "context": "EN :\nDefeat a Gear Worshipper in an Encounter\nJP :\n1回の戦闘で歯車の教団の信者を討伐"
+  },
+  {
+    "key": "missionConditionTitle_10039-content",
+    "original": "1회 전투에서 톱니교단 신도 처치",
+    "context": "EN :\nDefeat a Gear Worshipper in an Encounter\nJP :\n1回の戦闘で歯車の教団の信者を討伐"
+  },
+  {
+    "key": "missionConditionTitle_10040-content",
+    "original": "1회 전투에서 저돌적인 톱니 광신도 처치",
+    "context": "EN :\nDefeat an Aggressive Gear Fanatic in an Encounter\nJP :\n1回の戦闘で猪突的な歯車の狂信者を討伐"
+  },
+  {
+    "key": "missionConditionTitle_10041-content",
+    "original": "모든 아군이 생존한 상태로 토벌 완료",
+    "context": "EN :\nComplete Encounter without any ally deaths\nJP :\n全味方が生存した状態で討伐完了"
+  },
+  {
+    "key": "missionConditionTitle_10042-content",
+    "original": "모든 아군이 정신력 -45에 도달하지 않고 토벌 완료",
+    "context": "EN :\nComplete Encounter without any of the allies' SP dropping to -45 SP\nJP :\n全味方が精神力-45に到達せずに討伐完了"
+  },
+  {
+    "key": "missionConditionTitle_10043-content",
+    "original": "'사격 준비 만전' 효과를 보유한 아군이 1회 전투에서 톱니교단 신도 처치",
+    "context": "EN :\nDefeat a Gear Worshipper with an ally with the 'Ready to Fire' effect in an Encounter\nJP :\n「射撃準備万全」効果を保有する味方が、1回の戦闘にて歯車の教団の信者を討伐"
+  },
+  {
+    "key": "missionConditionTitle_10044-content",
+    "original": "'사격 준비 만전' 효과를 보유한 아군이 적의 공격 스킬로 피해를 5회 미만으로 받고, 생존한 상태로 토벌 완료",
+    "context": "EN :\nComplete the Encounter with an ally with the 'Ready to Fire' effect surviving and taking less than 5 hits from enemy Attack Skills\nJP :\n「射撃準備万全」効果を保有する味方が、敵の攻撃スキルでダメージを受けた回数が5回未満かつ生存した状態で討伐完了"
+  },
+  {
+    "key": "missionConditionTitle_10045-content",
+    "original": "공격 스킬 1회 사용으로 톱니교단 신도 4명 이상 처치 ",
+    "context": "EN :\nDefeat 4+ Gear Worshippers with a single Attack Skill\nJP :\n攻撃スキル1回で歯車の教団の信者を4名以上討伐"
+  },
+  {
+    "key": "missionConditionTitle_10046-content",
+    "original": "현재 체력이 최대 체력의 80% 이상인 저돌적인 톱니 광신도를 공격 스킬 1회 사용으로 처치",
+    "context": "EN :\nDefeat an Aggressive Gear Fanatic with 80%+ HP with a single Attack Skill\nJP :\n現体力が最大値80%以上の猪突的な歯車の狂信者を、攻撃スキル1回で討伐"
+  },
+  {
+    "key": "missionConditionTitle_20039-content",
+    "original": "1회 전투에서 톱니교단 신도 처치",
+    "context": "EN :\nDefeat a Gear Worshipper in an Encounter\nJP :\n1回の戦闘で歯車の教団の信者を討伐"
+  },
+  {
+    "key": "missionConditionTitle_20040-content",
+    "original": "1회 전투에서 톱니교단 신도 처치",
+    "context": "EN :\nDefeat a Gear Worshipper in an Encounter\nJP :\n1回の戦闘で歯車の教団の信者を討伐"
+  },
+  {
+    "key": "missionConditionTitle_20041-content",
+    "original": "1회 전투에서 톱니교단 신도 처치",
+    "context": "EN :\nDefeat a Gear Worshipper in an Encounter\nJP :\n1回の戦闘で歯車の教団の信者を討伐"
+  },
+  {
+    "key": "missionConditionTitle_20042-content",
+    "original": "1회 전투에서 저돌적인 톱니 광신도 처치",
+    "context": "EN :\nDefeat an Aggressive Gear Fanatic in an Encounter\nJP :\n1回の戦闘で猪突的な歯車の狂信者を討伐"
+  },
+  {
+    "key": "missionConditionTitle_20043-content",
+    "original": "모든 아군이 생존한 상태로 토벌 완료",
+    "context": "EN :\nComplete Encounter without any ally deaths\nJP :\n全味方が生存した状態で討伐完了"
+  },
+  {
+    "key": "missionConditionTitle_20044-content",
+    "original": "모든 아군이 정신력 -45에 도달하지 않고 토벌 완료",
+    "context": "EN :\nComplete Encounter without any of the allies' SP dropping to -45 SP\nJP :\n全味方が精神力-45に到達せずに討伐完了"
+  },
+  {
+    "key": "missionConditionTitle_20045-content",
+    "original": "연기 위력이 10에 도달한 아군 없이 토벌 완료",
+    "context": "EN :\nComplete Encounter without any allies reaching 10 Smoke Potency\nJP :\n煙の威力が10に到達した味方が0の状態で討伐完了"
+  },
+  {
+    "key": "missionConditionTitle_20046-content",
+    "original": "'사격 준비 만전' 효과를 보유한 아군이 1회 전투에서 톱니교단 신도 처치",
+    "context": "EN :\nDefeat a Gear Worshipper with an ally with the 'Ready to Fire' effect in an Encounter\nJP :\n「射撃準備万全」効果を保有する味方が、1回の戦闘にて歯車の教団の信者を討伐"
+  },
+  {
+    "key": "missionConditionTitle_20047-content",
+    "original": "'사격 준비 만전' 효과를 보유한 아군이 1회 전투에서 톱니교단 신도 처치",
+    "context": "EN :\nDefeat a Gear Worshipper with an ally with the 'Ready to Fire' effect in an Encounter\nJP :\n「射撃準備万全」効果を保有する味方が、1回の戦闘にて歯車の教団の信者を討伐"
+  },
+  {
+    "key": "missionConditionTitle_20048-content",
+    "original": "'사격 준비 만전' 효과를 보유한 아군이 적의 공격 스킬로 피해를 3회 미만으로 받고, 생존한 상태로 토벌 완료",
+    "context": "EN :\nComplete the Encounter with an ally with the 'Ready to Fire' effect surviving and taking less than 3 hits from enemy Attack Skills\nJP :\n「射撃準備万全」効果を保有する味方が、敵の攻撃スキルでダメージを受けた回数が3回未満かつ生存した状態で討伐完了"
+  },
+  {
+    "key": "missionConditionTitle_20049-content",
+    "original": "공격 스킬 1회 사용으로 톱니교단 신도 7명 이상 처치 ",
+    "context": "EN :\nDefeat 7+ Gear Worshippers with a single Attack Skill\nJP :\n攻撃スキル1回で歯車の教団の信者を7名以上討伐"
+  },
+  {
+    "key": "missionConditionTitle_20050-content",
+    "original": "현재 체력이 최대 체력의 80% 이상인 저돌적인 톱니 광신도를 공격 스킬 1회 사용으로 처치",
+    "context": "EN :\nDefeat an Aggressive Gear Fanatic with 80%+ HP with a single Attack Skill\nJP :\n現体力が最大値80%以上の猪突的な歯車の狂信者を、攻撃スキル1回で討伐"
+  },
+  {
+    "key": "missionConditionTitle_20051-content",
+    "original": "1회 전투에서 공격 스킬 1개로 가한 크리티컬 피해량 300 이상 달성",
+    "context": "EN :\nDeal 300+ Crit Damage with a single Attack Skill in an Encounter\nJP :\n1回の戦闘にて、攻撃スキル1回によるクリティカル与ダメージ量が300以上を達成"
+  },
+  {
+    "key": "missionConditionTitle_30004-content",
+    "original": "쉬움, 어려움 난이도의 모든 미션 클리어",
+    "context": "EN :\nComplete all Missions in both Easy and Hard difficulties\nJP :\nイージー・ハード難易度の全ミッションをクリア"
+  },
+  {
+    "key": "Walpu5_reward_event_desc-content",
+    "original": "톱니교단 신도를 쉬움, 어려움 난이도 전투에서 처치하며 미션을 클리어하세요.\n\n미션을 클리어하면 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nDefeat the Gear Worshippers in 'Easy' and 'Hard' difficulties and complete the missions.\n\nEarn various rewards by clearing these missions.\nJP :\n歯車の教団の信者をイージー・ハードの戦闘にて討伐し、ミッションをクリアしてください。\n\nミッションをクリアすれば様々な報酬が獲得できます。"
+  },
+  {
+    "key": "Walpu5_reward_normal_tab-content",
+    "original": "쉬움 난이도",
+    "context": "EN :\nEasy\nJP :\nイージー"
+  },
+  {
+    "key": "Walpu5_reward_hard_tab-content",
+    "original": "어려움 난이도",
+    "context": "EN :\nHard\nJP :\nハード"
+  },
+  {
+    "key": "Walpu5_modal_yes-content",
+    "original": "예",
+    "context": "EN :\nYes\nJP :\nはい"
+  },
+  {
+    "key": "Walpu5_modal_no-content",
+    "original": "아니오",
+    "context": "EN :\nNo\nJP :\nいいえ"
+  },
+  {
+    "key": "walpu_modal_enterStage_10562-content",
+    "original": "톱니교단의 책 속으로 들어가시겠습니까?",
+    "context": "EN :\nWill you enter the book of The Church of Gears?\nJP :\n歯車の教団の本の中へ入りますか？"
+  },
+  {
+    "key": "walpu_modal_enterStage_10563-content",
+    "original": "톱니교단의 책 속으로 들어가시겠습니까?",
+    "context": "EN :\nWill you enter the book of The Church of Gears?\nJP :\n歯車の教団の本の中へ入りますか？"
+  },
+  {
+    "key": "walpu_battle_2_wave-content",
+    "original": "톱니교단 예배당",
+    "context": "EN :\nThe Church of Gears Oratory\nJP :\n歯車の教団の礼拝堂"
+  },
+  {
+    "key": "walpu_battle_name_10562-content",
+    "original": "톱니교단 신도",
+    "context": "EN :\nGear Worshipper\nJP :\n歯車の教団の信者"
+  },
+  {
+    "key": "walpu_battle_name_10563-content",
+    "original": "톱니교단 신도",
+    "context": "EN :\nGear Worshipper\nJP :\n歯車の教団の信者"
+  },
+  {
+    "key": "walpu_battle_name_10564-content",
+    "original": "톱니교단 신도",
+    "context": "EN :\nGear Worshipper\nJP :\n歯車の教団の信者"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_01_title-content",
+    "original": "제5회 발푸르기스밤 - 탄환이 찍은 마침표",
+    "context": "EN :\nThe 5th Walpurgis Night - Full-Stopped by a Bullet\nJP :\n第5回ヴァルプルギスの夜 - 弾丸が打った終止符"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_01_title_01-content",
+    "original": "제5회 발푸르기스밤 - 탄환이 찍은 마침표",
+    "context": "EN :\nThe 5th Walpurgis Night - Full-Stopped by a Bullet\nJP :\n第5回ヴァルプルギスの夜 - 弾丸が打った終止符"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_01_desc_01-content",
+    "original": "[제5회 발푸르기스밤 - 탄환이 찍은 마침표]는 주요 이야기의 진행도에 관계 없이 개방됩니다. 유리창이나 운전석에 있는 이벤트 배너를 통해 입장할 수 있습니다.",
+    "context": "EN :\n[The 5th Walpurgis Night - Full-Stopped by a Bullet] unlocks regardless of your progress in the Main Story. Enter via the event banner on the Window or the Driverside tabs.\nJP :\n[第5回ヴァルプルギスの夜 - 弾丸が打った終止符]はメインストーリーの進行度と関係なく解放されます。硝子窓や運転席にあるイベントバナーより入場できます。"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_02_title_01-content",
+    "original": "이벤트 기간",
+    "context": "EN :\nEvent Period\nJP :\nイベント期間"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_02_desc_01-content",
+    "original": "[제5회 발푸르기스밤 - 탄환이 찍은 마침표] 이벤트 기간이 표시됩니다. 이벤트 기간 동안 쉬움 난이도, 어려움 난이도의 전투를 진행하여 미션을 수행하고, 완료한 미션의 보상을 수령할 수 있습니다.",
+    "context": "EN :\nThe duration of The 5th Walpurgis Night event is shown here. During the event, complete Missions for Easy and Hard difficulty event Encounters and claim their rewards.\nJP :\n[第5回ヴァルプルギスの夜 - 弾丸が打った終止符]のイベント期間が表示されます。イベント期間中、イージー・ハードの戦闘を実施してミッションを遂行し、完了したミッションの報酬を受け取ることができます。"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_03_title_01-content",
+    "original": "쉬움 난이도 전투",
+    "context": "EN :\nEasy Difficulty Encounter\nJP :\n難易度:イージー"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_03_desc_01-content",
+    "original": "문을 눌러 쉬움 난이도 전투에 입장할 수 있습니다.\n전투는 입장 시 엔케팔린 모듈을 소모합니다.\n쉬움 난이도 전투에서는 인격의 레벨이 50레벨보다 낮은 경우, 50레벨로 상승합니다.\n또한 인격의 동기화 단계가 3단계보다 낮은 경우,\n3단계로 상승합니다.\nE.G.O의 환상 해석 단계는 현재 육성 상태가 반영됩니다.",
+    "context": "EN :\nSelect the door to begin the Easy difficulty Encounter.\nThe Encounter consumes an Enkephalin Module upon entry.\nOn Easy difficulty, any Deployed Identities under Level 50 will be raised to Level 50.\nAlso, any Deployed Identities under Tier 3 Uptie Level will be raised to Tier 3 Uptie Level.\nHowever, your current E.G.O Threadspinning Tiers will be reflected.\nJP :\n扉を押して、戦闘(イージー)へ突入することができます。\n突入時にエンケファリンモジュールを消耗します。\nイージーでは、人格レベルが50未満なら50に上昇します。\nまた、人格の同期化段階が3以下なら、\n3段階へ上昇します。\nE.G.Oの幻想解析段階は現段階の育成状態が反映されます。"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_03_title_02-content",
+    "original": "어려움 난이도 전투",
+    "context": "EN :\nHard Difficulty Encounter\nJP :\n難易度:ハード"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_03_desc_02-content",
+    "original": "쉬움 난이도 전투를 클리어하면 어려움 난이도 전투가 개방됩니다.\n어려움 난이도 전투는 인격의 레벨, 인격의 동기화 단계, E.G.O의 환상 해석 단계가 현재 육성 상태로 반영됩니다.",
+    "context": "EN :\nClearing the Easy difficulty Encounter unlocks the Hard difficulty.\nIn Hard difficulty, your Identities' current Levels, Uptie Tiers, and E.G.O Threadspinning Tiers will be reflected.\nJP :\nイージーをクリアすると、ハードが解放されます。\nハードでは現時点での人格レベル、同期化段階、E.G.Oの幻想解析状態がそのまま反映されます。"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_04_title_01-content",
+    "original": "사격 준비 만전 효과",
+    "context": "EN :\n'Ready to Fire' Effect\nJP :\n効果: 射撃準備万全"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_04_desc_01-content",
+    "original": "전투 편성에서 1번으로 선택한 수감자에게 ‘사격 준비 만전’ 효과가 부여됩니다. ‘사격 준비 만전’ 효과를 받은 수감자는 전투에서 행동 수가 증가하고, 이로운 효과를 얻습니다.",
+    "context": "EN :\nThe #1 Sinner to be deployed in the Teams menu will be imbued with the 'Ready to Fire' effect. The Sinner with the 'Ready to Fire' effect will gain more Slots and other beneficial effects.\nJP :\n編成で一番目に選択した囚人に、効果「射撃準備万全」が付与されます。「射撃準備万全」を持つ囚人は戦闘での行動数が増加し、プラスの効果を獲得します。"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_05_title_01-content",
+    "original": "미션 목록",
+    "context": "EN :\nMissions\nJP :\nミッション一覧"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_05_desc_01-content",
+    "original": "전투 중 수행할 수 있는 미션과 미션의 보상을 확인할 수 있는 [미션 목록] 페이지로 입장할 수 있습니다. ",
+    "context": "EN :\nYou can enter the [Missions] page, where you can view the list of Missions to be completed during the Encounter and their rewards. \nJP :\n戦闘中に遂行できるミッションと、ミッションの報酬を確認できる[ミッションリスト]ページへ入場できます。"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_06_desc_01-content",
+    "original": "[미션 목록] 페이지에서 보상을 수령할 수 있는 기간이 표시됩니다.",
+    "context": "EN :\nYou can view the Reward Exchange period in the [Missions] page.\nJP :\n[ミッションリスト]ページに報酬を受け取れる期間が表示されます。"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_06_desc_02-content",
+    "original": "쉬움 난이도 전투와 어려움 난이도 전투의 미션을 각각 확인할 수 있습니다. ",
+    "context": "EN :\nEasy difficulty and Hard difficulty each has different sets of Missions to complete. \nJP :\nイージーとハードのミッションをそれぞれ確認できます。"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_06_desc_03-content",
+    "original": "미션을 완료하면 [미션 목록]에서 다양한 보상을 얻을 수 있습니다. ",
+    "context": "EN :\nComplete these Missions and claim various rewards from the [Missions] page. \nJP :\nミッションを完了すれば[ミッションリスト]より様々な報酬を獲得できます。"
+  },
+  {
+    "key": "tutorial_mainui_27_Walpu5_07_desc_01-content",
+    "original": "이벤트가 종료된 이후에도 운전석과 상영관 - [그 밖의 이야기]를 통해 ‘제5회 발푸르기스밤 - 탄환이 찍은 마침표’의 전투를 다시 즐기거나 스토리를 감상할 수 있습니다.",
+    "context": "EN :\nEven after the event fully ends, you will be able to experience the 'The 5th Walpurgis Night - Full-Stopped by a Bullet' combat Encounters and view its story anytime at the Driverside and Theater - [Detour Tales].\nJP :\nイベント終了後も運転席と上映館 - [その他のストーリー]を通じて「第5回 ヴァルプルギスの夜 - 弾丸が打った終止符」の戦闘を再び楽しんだり、ストーリーを閲覧したりすることができます。"
+  },
+  {
+    "key": "Walpu5_not_progress_event_date-content",
+    "original": "이벤트 기간 종료",
+    "context": "EN :\nEvent Closed\nJP :\nイベント期間終了"
+  },
+  {
+    "key": "KillCount_Title_LOR_2-content",
+    "original": "처치 현황",
+    "context": "EN :\nFoes Slain\nJP :\n討伐状況"
+  },
+  {
+    "key": "LOR_KillCountTitle_2-content",
+    "original": "톱니교단 신도",
+    "context": "EN :\nGear Worshipper\nJP :\n歯車の教団の信者"
+  },
+  {
+    "key": "walpu_battle_result_win_2-content",
+    "original": "{0} 토벌 완료",
+    "context": "EN :\n{0} Battle Completed\nJP :\n{0} 討伐完了"
+  },
+  {
+    "key": "walpu_battle_result_lose_2-content",
+    "original": "{0} 토벌 실패",
+    "context": "EN :\n{0} Elimination Failed\nJP :\n{0} 討伐失敗"
+  },
+  {
+    "key": "walpu_battle_result_win_1-content",
+    "original": "{0} 토벌 성공",
+    "context": "EN :\n{0} Eliminated\nJP :\n{0} 討伐成功"
+  },
+  {
+    "key": "walpu_battle_result_lose_1-content",
+    "original": "{0} 토벌 실패",
+    "context": "EN :\n{0} Elimination Failed\nJP :\n{0} 討伐失敗"
+  },
+  {
+    "key": "mainui_battleresult_win_lor_stage_type_2-content",
+    "original": "토벌 완료",
+    "context": "EN :\nBattle Completed\nJP :\n討伐完了"
+  },
+  {
+    "key": "mainui_battleresult_defeat_lor_stage_type_2-content",
+    "original": "토벌 실패",
+    "context": "EN :\nElimination Failed\nJP :\n討伐失敗"
+  },
+  {
+    "key": "mainui_battleresult_reward_title_lor_stage_type_2-content",
+    "original": "토벌한 개체",
+    "context": "EN :\nVanquished Entities\nJP :\n討伐した個体"
+  },
+  {
+    "key": "walpu5_battle_entrance-content",
+    "original": "전투 시작",
+    "context": "EN :\nTo Battle!\nJP :\n戦闘開始"
+  }
+]

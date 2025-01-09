@@ -402,7 +402,7 @@
   {
     "key": "9763-desc",
     "original": "턴 시작시, 모든 아군이 '분노 ~ 질투 피해량 증가' 중 무작위 효과 1 얻음\n\n턴 시작시, 모든 적에게 '분노 ~ 질투 취약' 중 무작위 효과 1 부여",
-    "context": "EN :\nTurn Start: randomly select 1 out of 'Wrath ~ Envy DMG Up' effects and apply 1 Stack to all allies\n\nTurn Start: randomly select 1 out of 'Wrath ~ Envy Fragility' effects and inflict 1 Stack to all enemies\nJP :\nターン開始時、全味方が憤怒～嫉妬ダメージ量増加のうちランダムに1つの効果を得る\n\nターン開始時、全ての敵へ憤怒～嫉妬脆弱のうちランダムな効果を1付与"
+    "context": "EN :\nTurn Start: randomly select 1 out of 'Wrath ~ Envy DMG Up' effects and apply 1 Stack to all allies\n\nTurn Start: randomly select 1 out of 'Wrath ~ Envy Fragility' effects and inflict 1 Stack to all enemies\nJP :\nターン開始時、全味方が「憤怒～嫉妬ダメージ量増加」のうちランダムに1つの効果を得る\n\nターン開始時、全ての敵へ「憤怒～嫉妬脆弱」のうちランダムな効果を1付与"
   },
   {
     "key": "9763-simpleDesc$[0].simpleDesc",
@@ -422,7 +422,7 @@
   {
     "key": "9764-desc",
     "original": "아군의 스킬 적중 시마다, [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 2개 효과의 위력 1 부여 (턴 당 3회)\n\n아군의 스킬 적중 시마다, 무작위 아군 두 명에게 다음 턴에 [Breath] 횟수, [Charge] 횟수, [Agility], [AttackUp], [DefenseUp] 중 무작위 1개 효과 1 부여 (턴 당 3회)\n\n턴 시작시, 모든 아군이 '분노 ~ 질투 피해량 증가' 중 무작위 효과 2가지를 1씩 얻음\n\n턴 시작시, 모든 적에게 '분노 ~ 질투 취약' 중 무작위 효과 2가지를 1씩 부여",
-    "context": "EN :\nWhen an ally hits with a Skill, randomly select 2 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], and [Sinking], then inflict 1 Potency of the selected effect (3 times per turn)\n\nWhen an ally hits with a Skill, randomly select one of the following effects: [Breath] Count, [Charge] Count, [Agility], [AttackUp], and [DefenseUp], then inflict 1 of the selected effect to 2 random allies (3 times per turn)\n\nTurn Start: randomly select 2 out of 'Wrath ~ Envy DMG Up' effects and apply 1 Stack to all allies\n\nTurn Start: randomly select 2 out of 'Wrath ~ Envy Fragility' effects and inflict 1 Stack to all enemies\nJP :\n味方のスキルが的中するたびに、[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]のうちランダムな2つの効果威力を1付与(1ターンにつき3回)\n\n味方のスキルが的中するたびに、ランダムな味方に次のターンにて[Breath]回数、[Charge]回数、[Agility]、[AttackUp]、[DefenseUp]のうちランダムに1つの効果を1付与(1ターンにつき3回)\n\nターン開始時、全味方が憤怒～嫉妬ダメージ量増加のうちランダムな効果2つをそれぞれ1得る\n\nターン開始時、全ての敵へ憤怒～嫉妬脆弱のうちランダムな効果2つをそれぞれ1付与"
+    "context": "EN :\nWhen an ally hits with a Skill, randomly select 2 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], and [Sinking], then inflict 1 Potency of the selected effect (3 times per turn)\n\nWhen an ally hits with a Skill, randomly select one of the following effects: [Breath] Count, [Charge] Count, [Agility], [AttackUp], and [DefenseUp], then inflict 1 of the selected effect to 2 random allies (3 times per turn)\n\nTurn Start: randomly select 2 out of 'Wrath ~ Envy DMG Up' effects and apply 1 Stack to all allies\n\nTurn Start: randomly select 2 out of 'Wrath ~ Envy Fragility' effects and inflict 1 Stack to all enemies\nJP :\n味方のスキルが的中するたびに、[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]のうちランダムな2つの効果威力を1付与(1ターンにつき3回)\n\n味方のスキルが的中するたびに、ランダムな味方に次のターンにて[Breath]回数、[Charge]回数、[Agility]、[AttackUp]、[DefenseUp]のうちランダムに1つの効果を1付与(1ターンにつき3回)\n\nターン開始時、全味方が「憤怒～嫉妬ダメージ量増加」のうちランダムな効果2つをそれぞれ1得る\n\nターン開始時、全ての敵へ「憤怒～嫉妬脆弱」のうちランダムな効果2つをそれぞれ1付与"
   },
   {
     "key": "9764-simpleDesc$[0].simpleDesc",
@@ -478,5 +478,310 @@
     "key": "9765-simpleDesc$[5].simpleDesc",
     "original": "[Paralysis] 얻음",
     "context": "EN :\nGain [Paralysis]\nJP :\n[Paralysis]を得る"
+  },
+  {
+    "key": "9766-name",
+    "original": "묵시적 계약 갱신",
+    "context": "EN :\nImplicit Contract Renewal\nJP :\n黙示的契約更新"
+  },
+  {
+    "key": "9766-desc",
+    "original": "생존한 [RequestedTarget]이 없을 경우, 아군이 처음 공격하는 적에게 [RequestedTarget] 효과를 부여함. (턴 당 1회)",
+    "context": "EN :\nIf there are no surviving [RequestedTarget], inflict the [RequestedTarget] effect against the first enemy to be attacked by an ally. (once per turn)\nJP :\n生存している[RequestedTarget]がいない場合、味方が最初に攻撃する敵へ[RequestedTarget]効果を付与する(1ターンにつき1回)"
+  },
+  {
+    "key": "9766-simpleDesc$[0].simpleDesc",
+    "original": "[RequestedTarget] 부여",
+    "context": "EN :\nInflict [RequestedTarget]\nJP :\n[RequestedTarget]を付与"
+  },
+  {
+    "key": "9767-name",
+    "original": "흑염 파이프",
+    "context": "EN :\nDarkflame Smoking Pipe\nJP :\n黒炎のパイプ"
+  },
+  {
+    "key": "9767-desc",
+    "original": "[1번 편성 전용 효과]\n\n매 턴마다 [Enhancement] 2, [Vulnerable] 1 얻음\n\n메인 공격 대상의 방어 레벨이 감소한 상태면, 공격 전에 [Breath] 5 얻음\n\n오만 관통 스킬의 피해량 +(50/코인 수)%. (E.G.O 포함)",
+    "context": "EN :\n[Effect applies only to #1 Deployed Identity]\n\nGain 2 [Enhancement] and 1 [Vulnerable] every turn\n\nIf the main target currently has a reduced Defense Level, gain 5 [Breath] before attack\n\nPride Pierce Skills deal +(50 / # of Coins)% more damage (including E.G.O)\nJP :\n[編成1番人格専用効果]\n\n毎ターン[Enhancement]2, [Vulnerable]1を得る\n\nメイン攻撃対象の防御レベルが減少した状態なら、攻撃前に[Breath]5を得る\n\n傲慢貫通スキルのダメージ量 +(50 ÷ コイン数)% (E.G.Oを含む)"
+  },
+  {
+    "key": "9767-simpleDesc$[0].simpleDesc",
+    "original": "[Enhancement], [Vulnerable] 얻음",
+    "context": "EN :\nGain [Enhancement] and [Vulnerable]\nJP :\n[Enhancement], [Vulnerable]を得る"
+  },
+  {
+    "key": "9767-simpleDesc$[1].simpleDesc",
+    "original": "[Breath] 얻음",
+    "context": "EN :\nGain [Breath]\nJP :\n[Breath]を得る"
+  },
+  {
+    "key": "9767-simpleDesc$[2].simpleDesc",
+    "original": "관통 스킬의 피해량이 증가",
+    "context": "EN :\nPierce Skills deal more damage\nJP :\n貫通スキルのダメージ量が増加"
+  },
+  {
+    "key": "9768-name",
+    "original": "평등",
+    "context": "EN :\nEqualizer\nJP :\n平等"
+  },
+  {
+    "key": "9768-desc",
+    "original": "적의 관통 내성이 1.5 이하인 경우, 관통 내성 +0.3",
+    "context": "EN :\nIf the target has 1.5 or lower Pierce Resistance, Pierce Resistance +0.3\nJP :\n敵の貫通耐性が1.5以下の場合、貫通耐性 +0.3"
+  },
+  {
+    "key": "9769-name",
+    "original": "신속한 지휘",
+    "context": "EN :\nSwift Command\nJP :\n迅速な指揮"
+  },
+  {
+    "key": "9769-desc",
+    "original": "턴 종료시 이번 턴에 퇴각한 아군이 있으면, 다음 턴 시작시 속도가 가장 빠른 아군 1명이 [Enhancement] 2, [AttackDmgUp] 1 얻음\n\n전투 시작시 이번 턴에 대기해제된 아군이 있으면, 대기해제된 아군이 [Enhancement] 2, [Endurance] 2 얻음",
+    "context": "EN :\nTurn End: if any allies Retreated this turn, 1 ally with the fastest Speed gains 2 [Enhancement] and 1 [AttackDmgUp] at the next Turn Start\n\nCombat Start: if any allies were Substituted in this turn, allies that were Substituted in gain 2 [Enhancement] and 2 [Endurance]\nJP :\nターン終了時、このターンに退却した味方がいるなら、次のターン開始時に速度が最も高い味方1名が[Enhancement]2, [AttackDmgUp]1を得る\n\n戦闘開始時、このターンに待機解除した味方がいるなら、待機解除された味方が[Enhancement]2, [Endurance]2を得る\n\n"
+  },
+  {
+    "key": "9769-simpleDesc$[0].simpleDesc",
+    "original": "[Enhancement], [AttackDmgUp] 얻음",
+    "context": "EN :\nGain [Enhancement] and [AttackDmgUp]\nJP :\n[Enhancement]、[AttackDmgUp]を得る"
+  },
+  {
+    "key": "9769-simpleDesc$[1].simpleDesc",
+    "original": "[Enhancement], [Endurance] 얻음",
+    "context": "EN :\nGain [Enhancement] and [Endurance]\nJP :\n[Enhancement]、[Endurance]を得る"
+  },
+  {
+    "key": "9770-name",
+    "original": "톱니 파편",
+    "context": "EN :\nGear Shrapnel\nJP :\n歯車の破片"
+  },
+  {
+    "key": "9770-desc",
+    "original": "턴 시작시 자신에게 [Breath]이 있으면, [DefenseUp] 2, [Endurance] 1 얻음\n\n[Breath]이 있으면 처음으로 적중하는 코인의 피해량 +10%\n\n해당 코인이 크리티컬 적중시, 크리티컬 피해량 +20%",
+    "context": "EN :\nTurn Start: if this unit has [Breath], gain 2 [DefenseUp] and 1 [Endurance]\n\nIf this unit has [Breath], the first Coin to hit deals +10% more damage\n\nIf the said Coin hits critically, +20% Damage on Critical Hit\nJP :\nターン開始時、自分に[Breath]があるなら[DefenseUp]2, [Endurance]1を得る\n\n[Breath]があるなら最初に的中するコインのダメージ量 +10%\n\n該当コインがクリティカル的中時、クリティカルダメージ量 +20%"
+  },
+  {
+    "key": "9770-simpleDesc$[0].simpleDesc",
+    "original": "[DefenseUp], [Endurance] 얻음",
+    "context": "EN :\nGain [DefenseUp] and [Endurance]\nJP :\n[DefenseUp]、[Endurance]を得る"
+  },
+  {
+    "key": "9770-simpleDesc$[1].simpleDesc",
+    "original": "처음으로 적중하는 코인의 피해량이 증가",
+    "context": "EN :\nDeal more damage with the first Coin that hits\nJP :\n最初に的中するコインのダメージ量が増加"
+  },
+  {
+    "key": "9771-name",
+    "original": "근접 전술 교본",
+    "context": "EN :\nCQC Maual\nJP :\n近接戦術教本"
+  },
+  {
+    "key": "9771-desc",
+    "original": "[Bullet]을 소모할 수 있는 스킬에서 소모하지 않을 경우, 이번 턴과 다음 턴에 [Enhancement] 1 얻음 (턴 당 1회)\n\n[Bullet]을 얻으면, 이번 턴과 다음 턴에 사용하는 스킬 3의 피해량 +50%\n\n[Bullet]을 소모하는 스킬 사용 시, [Breath] 3 [Breath] 횟수 1 얻음",
+    "context": "EN :\nIf a Skill that can spend [Bullet] does not spend [Bullet], gain 1 [Enhancement] this turn and next turn (once per turn)\n\nWhen gaining [Bullet], Skill 3 deals +50% more damage this turn and next turn when used\n\nWhen using a Skill that spends [Bullet], gain 3 [Breath] and +1 [Breath] Count\nJP :\n[Bullet]を消耗できるスキルにて消耗しない場合、このターンと次のターンに[Enhancement]を1得る(1ターンにつき1回)\n\n[Bullet]を得ると、このターンと次のターンにて使用するスキル3のダメージ量 +50%\n\n[Bullet]を消耗スキル使用時、[Breath]3, [Breath]回数を1得る"
+  },
+  {
+    "key": "9771-simpleDesc$[0].simpleDesc",
+    "original": "[Enhancement] 얻음",
+    "context": "EN :\nGain [Enhancement]\nJP :\n[Enhancement]を得る"
+  },
+  {
+    "key": "9771-simpleDesc$[1].simpleDesc",
+    "original": "3스킬의 피해량이 증가",
+    "context": "EN :\nSkill 3 deals more damage\nJP :\nスキル3のダメージ量が増加"
+  },
+  {
+    "key": "9771-simpleDesc$[2].simpleDesc",
+    "original": "[Breath] 위력, 횟수 얻음",
+    "context": "EN :\nGain [Breath] Potency and Count\nJP :\n[Breath]威力、回数を得る"
+  },
+  {
+    "key": "9772-name",
+    "original": "점화 장갑",
+    "context": "EN :\n점화 장갑\nJP :\n점화 장갑"
+  },
+  {
+    "key": "9772-desc",
+    "original": "[Combustion] 위력 또는 특수 화상을 부여하는 기본 공격 스킬로 적과 합 승리 시, [Combustion] 위력 2 부여 (인격 별로 턴당 2회).\n\n[Combustion] 횟수를 부여하는 기본 공격 스킬로 적과 합 승리 시, [Combustion] 횟수 1 증가. (인격 별로 턴당 2회)\n\n[Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3). 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가.",
+    "context": "EN :\n[Combustion] 위력 또는 특수 화상을 부여하는 기본 공격 스킬로 적과 합 승리 시, [Combustion] 위력 2 부여 (인격 별로 턴당 2회).\n\n[Combustion] 횟수를 부여하는 기본 공격 스킬로 적과 합 승리 시, [Combustion] 횟수 1 증가. (인격 별로 턴당 2회)\n\n[Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3). 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가.\nJP :\n[Combustion] 위력 또는 특수 화상을 부여하는 기본 공격 스킬로 적과 합 승리 시, [Combustion] 위력 2 부여 (인격 별로 턴당 2회).\n\n[Combustion] 횟수를 부여하는 기본 공격 스킬로 적과 합 승리 시, [Combustion] 횟수 1 증가. (인격 별로 턴당 2회)\n\n[Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3). 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가."
+  },
+  {
+    "key": "9772-simpleDesc$[0].simpleDesc",
+    "original": "[Conbustion] 부여",
+    "context": "EN :\n[Conbustion] 부여\nJP :\n[Conbustion] 부여"
+  },
+  {
+    "key": "9772-simpleDesc$[1].simpleDesc",
+    "original": "[Conbustion] 횟수 증가",
+    "context": "EN :\n[Conbustion] 횟수 증가\nJP :\n[Conbustion] 횟수 증가"
+  },
+  {
+    "key": "9772-simpleDesc$[2].simpleDesc",
+    "original": "공격 레벨 증가",
+    "context": "EN :\n공격 레벨 증가\nJP :\n공격 레벨 증가"
+  },
+  {
+    "key": "9773-name",
+    "original": "가시 전투화",
+    "context": "EN :\n가시 전투화\nJP :\n가시 전투화"
+  },
+  {
+    "key": "9773-desc",
+    "original": "[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬을 사용하여 적에게 적중 시, [Burst] 위력 2 부여 (적 별로 턴당 1회).\n\n 적중 시 대상 적에게 [Burst]이 없으면, [Burst] 위력을 부여하는 코인 효과가 [Burst] 위력을 부여하는 대신 [Burst] 횟수를 부여 (최대 4, 적 별로 턴당 2회, 환상체일 경우 부위 별로 계산)\n\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3). 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가.",
+    "context": "EN :\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬을 사용하여 적에게 적중 시, [Burst] 위력 2 부여 (적 별로 턴당 1회).\n\n 적중 시 대상 적에게 [Burst]이 없으면, [Burst] 위력을 부여하는 코인 효과가 [Burst] 위력을 부여하는 대신 [Burst] 횟수를 부여 (최대 4, 적 별로 턴당 2회, 환상체일 경우 부위 별로 계산)\n\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3). 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가.\nJP :\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬을 사용하여 적에게 적중 시, [Burst] 위력 2 부여 (적 별로 턴당 1회).\n\n 적중 시 대상 적에게 [Burst]이 없으면, [Burst] 위력을 부여하는 코인 효과가 [Burst] 위력을 부여하는 대신 [Burst] 횟수를 부여 (최대 4, 적 별로 턴당 2회, 환상체일 경우 부위 별로 계산)\n\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3). 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가."
+  },
+  {
+    "key": "9773-simpleDesc$[0].simpleDesc",
+    "original": "[Burst] 부여",
+    "context": "EN :\n[Burst] 부여\nJP :\n[Burst] 부여"
+  },
+  {
+    "key": "9773-simpleDesc$[1].simpleDesc",
+    "original": "[Burst] 횟수 증가",
+    "context": "EN :\n[Burst] 횟수 증가\nJP :\n[Burst] 횟수 증가"
+  },
+  {
+    "key": "9773-simpleDesc$[2].simpleDesc",
+    "original": "공격 레벨 증가",
+    "context": "EN :\n공격 레벨 증가\nJP :\n공격 레벨 증가"
+  },
+  {
+    "key": "9774-name",
+    "original": "재점화 플러그",
+    "context": "EN :\n재점화 플러그\nJP :\n재점화 플러그"
+  },
+  {
+    "key": "9774-desc",
+    "original": "[Combustion] 횟수를 부여하는 기본 공격 스킬의 피해량 +20%, [Combustion] 횟수 부여량 +1. 해당 스킬을 사용하여 [Combustion] 또는 특수 화상을 보유한 적에게 적중 시, [DefenseDown] 1 부여 (인격 별로 턴당 2회)\n\n모든 기본 공격 스킬이 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 인격이 턴 시작 시, 생존한 턴만큼 [AttackUp]를 얻음 (등장 턴 제외, 최대 5)",
+    "context": "EN :\n[Combustion] 횟수를 부여하는 기본 공격 스킬의 피해량 +20%, [Combustion] 횟수 부여량 +1. 해당 스킬을 사용하여 [Combustion] 또는 특수 화상을 보유한 적에게 적중 시, [DefenseDown] 1 부여 (인격 별로 턴당 2회)\n\n모든 기본 공격 스킬이 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 인격이 턴 시작 시, 생존한 턴만큼 [AttackUp]를 얻음 (등장 턴 제외, 최대 5)\nJP :\n[Combustion] 횟수를 부여하는 기본 공격 스킬의 피해량 +20%, [Combustion] 횟수 부여량 +1. 해당 스킬을 사용하여 [Combustion] 또는 특수 화상을 보유한 적에게 적중 시, [DefenseDown] 1 부여 (인격 별로 턴당 2회)\n\n모든 기본 공격 스킬이 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 인격이 턴 시작 시, 생존한 턴만큼 [AttackUp]를 얻음 (등장 턴 제외, 최대 5)"
+  },
+  {
+    "key": "9774-simpleDesc$[0].simpleDesc",
+    "original": "[DefenseDown] 부여",
+    "context": "EN :\n[DefenseDown] 부여\nJP :\n[DefenseDown] 부여"
+  },
+  {
+    "key": "9774-simpleDesc$[1].simpleDesc",
+    "original": "[AttackUp] 얻음",
+    "context": "EN :\n[AttackUp] 얻음\nJP :\n[AttackUp] 얻음"
+  },
+  {
+    "key": "9775-name",
+    "original": "강화제 Mk.4",
+    "context": "EN :\n강화제 Mk.4\nJP :\n강화제 Mk.4"
+  },
+  {
+    "key": "9775-desc",
+    "original": "[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬을 사용하여 [Burst] 위력을 15 이하로 보유한 적에게 마지막 코인 적중 시, 대상의 [Burst] 횟수 2 증가 (인격 별로 턴당 1회).\n\n[Burst] 횟수를 부여하는 기본 공격 스킬의 합 위력 +1, 피해량 +20%.",
+    "context": "EN :\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬을 사용하여 [Burst] 위력을 15 이하로 보유한 적에게 마지막 코인 적중 시, 대상의 [Burst] 횟수 2 증가 (인격 별로 턴당 1회).\n\n[Burst] 횟수를 부여하는 기본 공격 스킬의 합 위력 +1, 피해량 +20%.\nJP :\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬을 사용하여 [Burst] 위력을 15 이하로 보유한 적에게 마지막 코인 적중 시, 대상의 [Burst] 횟수 2 증가 (인격 별로 턴당 1회).\n\n[Burst] 횟수를 부여하는 기본 공격 스킬의 합 위력 +1, 피해량 +20%."
+  },
+  {
+    "key": "9775-simpleDesc$[0].simpleDesc",
+    "original": "[Burst] 횟수 증가",
+    "context": "EN :\n[Burst] 횟수 증가\nJP :\n[Burst] 횟수 증가"
+  },
+  {
+    "key": "9775-simpleDesc$[1].simpleDesc",
+    "original": "합 위력, 피해량 증가",
+    "context": "EN :\n합 위력, 피해량 증가\nJP :\n합 위력, 피해량 증가"
+  },
+  {
+    "key": "9776-name",
+    "original": "잔불",
+    "context": "EN :\n잔불\nJP :\n잔불"
+  },
+  {
+    "key": "9776-desc",
+    "original": "턴 시작 시, [Combustion] 횟수가 2 이상, 8 미만인 모든 적(환상체일 경우, 모든 부위)의 [Combustion] 횟수 1~2 증가.\n\n[Combustion]을 보유한 적이 아군으로부터 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 공격 스킬(E.G.O 스킬 포함)로 5회 적중받을 경우, [Combustion]이 1회 발동하고 [Combustion] 횟수 1 감소 (적 별로 턴당 2회, 환상체일 경우 부위 별로 계산)",
+    "context": "EN :\n턴 시작 시, [Combustion] 횟수가 2 이상, 8 미만인 모든 적(환상체일 경우, 모든 부위)의 [Combustion] 횟수 1~2 증가.\n\n[Combustion]을 보유한 적이 아군으로부터 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 공격 스킬(E.G.O 스킬 포함)로 5회 적중받을 경우, [Combustion]이 1회 발동하고 [Combustion] 횟수 1 감소 (적 별로 턴당 2회, 환상체일 경우 부위 별로 계산)\nJP :\n턴 시작 시, [Combustion] 횟수가 2 이상, 8 미만인 모든 적(환상체일 경우, 모든 부위)의 [Combustion] 횟수 1~2 증가.\n\n[Combustion]을 보유한 적이 아군으로부터 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 공격 스킬(E.G.O 스킬 포함)로 5회 적중받을 경우, [Combustion]이 1회 발동하고 [Combustion] 횟수 1 감소 (적 별로 턴당 2회, 환상체일 경우 부위 별로 계산)"
+  },
+  {
+    "key": "9776-simpleDesc$[0].simpleDesc",
+    "original": "[Combustion] 횟수 증가",
+    "context": "EN :\n[Combustion] 횟수 증가\nJP :\n[Combustion] 횟수 증가"
+  },
+  {
+    "key": "9776-simpleDesc$[1].simpleDesc",
+    "original": "[Combustion] 발동",
+    "context": "EN :\n[Combustion] 발동\nJP :\n[Combustion] 발동"
+  },
+  {
+    "key": "9777-name",
+    "original": "잔가지",
+    "context": "EN :\n잔가지\nJP :\n잔가지"
+  },
+  {
+    "key": "9777-desc",
+    "original": "[Burst]을 보유한 적이 아군으로부터 [Burst] 위력 또는 [Burst] 횟수를 부여하는 공격 스킬(E.G.O 스킬 포함)로 적중받아 [Burst]이 3회 발동할 때마다 [AttackDown] 1 얻음 (적 별로 턴당 3회, 환상체일 경우 부위별로 계산)\n\n[Burst] 횟수를 부여하는 기본 공격 스킬로 적 처치 시, 사망한 대상이 보유한 남은 [Burst] 횟수를 다음 턴에 무작위 적에게 부여 (턴당 2회).",
+    "context": "EN :\n[Burst]을 보유한 적이 아군으로부터 [Burst] 위력 또는 [Burst] 횟수를 부여하는 공격 스킬(E.G.O 스킬 포함)로 적중받아 [Burst]이 3회 발동할 때마다 [AttackDown] 1 얻음 (적 별로 턴당 3회, 환상체일 경우 부위별로 계산)\n\n[Burst] 횟수를 부여하는 기본 공격 스킬로 적 처치 시, 사망한 대상이 보유한 남은 [Burst] 횟수를 다음 턴에 무작위 적에게 부여 (턴당 2회).\nJP :\n[Burst]을 보유한 적이 아군으로부터 [Burst] 위력 또는 [Burst] 횟수를 부여하는 공격 스킬(E.G.O 스킬 포함)로 적중받아 [Burst]이 3회 발동할 때마다 [AttackDown] 1 얻음 (적 별로 턴당 3회, 환상체일 경우 부위별로 계산)\n\n[Burst] 횟수를 부여하는 기본 공격 스킬로 적 처치 시, 사망한 대상이 보유한 남은 [Burst] 횟수를 다음 턴에 무작위 적에게 부여 (턴당 2회)."
+  },
+  {
+    "key": "9777-simpleDesc$[0].simpleDesc",
+    "original": "[AttackDown] 부여",
+    "context": "EN :\n[AttackDown] 부여\nJP :\n[AttackDown] 부여"
+  },
+  {
+    "key": "9777-simpleDesc$[1].simpleDesc",
+    "original": "[Burst] 횟수 증가",
+    "context": "EN :\n[Burst] 횟수 증가\nJP :\n[Burst] 횟수 증가"
+  },
+  {
+    "key": "9778-name",
+    "original": "통상 작전용 장비",
+    "context": "EN :\n통상 작전용 장비\nJP :\n통상 작전용 장비"
+  },
+  {
+    "key": "9778-desc",
+    "original": "LCE 또는 LCCB 소속 인격이 사용하는 스킬 2의 공격 레벨 +1, 피해량 +15%, 스킬 3의 공격 레벨 +2, 피해량 +30%\n\n대기 인원에 LCE 또는 LCCB 소속 인격이 4명 이상이면, 턴 시작 시 무작위 아군 둘이 [AttackUp] 2를 얻음",
+    "context": "EN :\nLCE 또는 LCCB 소속 인격이 사용하는 스킬 2의 공격 레벨 +1, 피해량 +15%, 스킬 3의 공격 레벨 +2, 피해량 +30%\n\n대기 인원에 LCE 또는 LCCB 소속 인격이 4명 이상이면, 턴 시작 시 무작위 아군 둘이 [AttackUp] 2를 얻음\nJP :\nLCE 또는 LCCB 소속 인격이 사용하는 스킬 2의 공격 레벨 +1, 피해량 +15%, 스킬 3의 공격 레벨 +2, 피해량 +30%\n\n대기 인원에 LCE 또는 LCCB 소속 인격이 4명 이상이면, 턴 시작 시 무작위 아군 둘이 [AttackUp] 2를 얻음"
+  },
+  {
+    "key": "9778-simpleDesc$[0].simpleDesc",
+    "original": "공격 레벨, 피해량 증가",
+    "context": "EN :\n공격 레벨, 피해량 증가\nJP :\n공격 레벨, 피해량 증가"
+  },
+  {
+    "key": "9778-simpleDesc$[1].simpleDesc",
+    "original": "공격 레벨 증가 얻음",
+    "context": "EN :\n공격 레벨 증가 얻음\nJP :\n공격 레벨 증가 얻음"
+  },
+  {
+    "key": "9779-name",
+    "original": "작전 승인 카드",
+    "context": "EN :\n작전 승인 카드\nJP :\n작전 승인 카드"
+  },
+  {
+    "key": "9779-desc",
+    "original": "전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 3을 무작위로 나누어 얻음. (턴당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면 효과가 강화되어, [AttackUp] 6을 무작위로 나누어 얻음. (턴당 2회)",
+    "context": "EN :\n전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 3을 무작위로 나누어 얻음. (턴당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면 효과가 강화되어, [AttackUp] 6을 무작위로 나누어 얻음. (턴당 2회)\nJP :\n전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 3을 무작위로 나누어 얻음. (턴당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면 효과가 강화되어, [AttackUp] 6을 무작위로 나누어 얻음. (턴당 2회)"
+  },
+  {
+    "key": "9779-simpleDesc$[0].simpleDesc",
+    "original": "공격 레벨 증가 얻음",
+    "context": "EN :\n공격 레벨 증가 얻음\nJP :\n공격 레벨 증가 얻음"
+  },
+  {
+    "key": "9780-name",
+    "original": "고위험 작전용 장비",
+    "context": "EN :\n고위험 작전용 장비\nJP :\n고위험 작전용 장비"
+  },
+  {
+    "key": "9780-desc",
+    "original": "LCE 또는 LCCB 소속 인격이 사용하는 스킬 2의 공격 레벨 +2, 피해량 +20%, 스킬 3의 공격 레벨 +3, 피해량 +40%.\n\n턴 시작 시 사망하였거나 대기 인원에 포함된 LCE 또는 LCCB 소속 인격의 수만큼, 무작위 아군이 [AttackUp] 2를 얻음.\n\n전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 4를 무작위로 나누어 얻음 (턴당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackUp] 7을 무작위로 나누어 얻음\n- LCE 또는 LCCB 소속 인격이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackDmgUp] 2, [AttackUp] 10을 무작위로 나누어 얻음",
+    "context": "EN :\nLCE 또는 LCCB 소속 인격이 사용하는 스킬 2의 공격 레벨 +2, 피해량 +20%, 스킬 3의 공격 레벨 +3, 피해량 +40%.\n\n턴 시작 시 사망하였거나 대기 인원에 포함된 LCE 또는 LCCB 소속 인격의 수만큼, 무작위 아군이 [AttackUp] 2를 얻음.\n\n전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 4를 무작위로 나누어 얻음 (턴당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackUp] 7을 무작위로 나누어 얻음\n- LCE 또는 LCCB 소속 인격이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackDmgUp] 2, [AttackUp] 10을 무작위로 나누어 얻음\nJP :\nLCE 또는 LCCB 소속 인격이 사용하는 스킬 2의 공격 레벨 +2, 피해량 +20%, 스킬 3의 공격 레벨 +3, 피해량 +40%.\n\n턴 시작 시 사망하였거나 대기 인원에 포함된 LCE 또는 LCCB 소속 인격의 수만큼, 무작위 아군이 [AttackUp] 2를 얻음.\n\n전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 4를 무작위로 나누어 얻음 (턴당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackUp] 7을 무작위로 나누어 얻음\n- LCE 또는 LCCB 소속 인격이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackDmgUp] 2, [AttackUp] 10을 무작위로 나누어 얻음"
+  },
+  {
+    "key": "9780-simpleDesc$[0].simpleDesc",
+    "original": "공격 레벨, 피해량 증가",
+    "context": "EN :\n공격 레벨, 피해량 증가\nJP :\n공격 레벨, 피해량 증가"
+  },
+  {
+    "key": "9780-simpleDesc$[1].simpleDesc",
+    "original": "공격 레벨 증가를 무작위로 나누어 얻음",
+    "context": "EN :\n공격 레벨 증가를 무작위로 나누어 얻음\nJP :\n공격 레벨 증가를 무작위로 나누어 얻음"
+  },
+  {
+    "key": "9780-simpleDesc$[2].simpleDesc",
+    "original": "공격 레벨 증가를 무작위로 나누어 얻음",
+    "context": "EN :\n공격 레벨 증가를 무작위로 나누어 얻음\nJP :\n공격 레벨 증가를 무작위로 나누어 얻음"
   }
 ]
