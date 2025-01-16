@@ -2302,6 +2302,11 @@
   {
     "key": "mini_story_warning_spoiler_checkbox_desc-content",
     "original": "팝업 다시 보지 않기",
-    "context": "EN :\nDon't see this message again\nJP :\nポップアップを二度と表示しない"
+    "context": "EN :\nDon't see this message again\nJP :\n二度と表示しない"
+  },
+  {
+    "key": "mainui_settings_push_notification-content",
+    "original": "알림 설정",
+    "context": "EN :\nNotification Settings\nJP :\n通知設定"
   }
 ]

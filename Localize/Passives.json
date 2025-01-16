@@ -3907,7 +3907,7 @@
   {
     "key": "1071102-desc",
     "original": "턴 종료시 자신의 [Breath] 10 당, 다음 턴에 [Agility] 1 얻음 (최대 2)\n\n턴 종료 시 이번 턴에 자신이 (E.G.O 스킬 포함, [CoveringFire] 제외) 공격 스킬을 사용하지 않았으면, 다음 턴에 [Breath] 10, [PenetrateResultUp] 1 얻음.",
-    "context": "EN :\nTurn End: gain 1 [Agility] next turn for every 10 [Breath] on self (max 2)\n\nTurn End: if this unit is not set to use any Attack Skills (including E.G.O Skills, excluding [CoveringFire]), gain 10 [Breath] and 1 [PenetrateResultUp] next turn.\nJP :\nターン終了時、自分の[Breath]10につき、次のターンに[Agility]1を得る(最大2)\n\nターン終了時、このターンに自分が(E.G.Oスキルを含む, [CoveringFire]を除く)攻撃スキルを使用しなかったら、次のターンに[Breath]10, [PenetrateResultUp]1を得る"
+    "context": "EN :\nTurn End: gain 1 [Agility] next turn for every 10 [Breath] on self (max 2)\n\nTurn End: if this unit is not set to use any Attack Skills (including E.G.O Skills, excluding [CoveringFire]), gain 10 [Breath] and 1 [PenetrateResultUp] next turn.\nJP :\nターン終了時、自分の[Breath]10につき、次のターンに[Agility]1を得る(最大2)\n\nターン終了時、このターンに自分が(E.G.Oスキルを含む、[CoveringFire]を除く)攻撃スキルを使用しなかったら、次のターンに[Breath]10, [PenetrateResultUp]1を得る"
   },
   {
     "key": "1071103-name",
@@ -3916,8 +3916,8 @@
   },
   {
     "key": "1071103-desc",
-    "original": "스테이지 시작시 [PenetrateResultUp] 3 얻음\n\n이 캐릭터가 전투에 등장할 때, [Bullet_LogicAtelier] 1 얻음 (전투 당 1회)\n\n턴 종료시 자신의 모든 [Bullet]이 0이면, [Retreat_FullStop] (전투 당 1회)\n\n대기해제되었거나, [Retreat_FullStop] 이후 다시 전투에 참여했을 때, [LogicAtelierAM]이 최대가 되고, [PenetrateResultUp]를 3 얻고, [FullReload]\n([Bullet_LogicAtelier] 제외, 전투 당 1회)",
-    "context": "EN :\nEncounter Start: gain 3 [PenetrateResultUp]\n\nWhen this unit enters the Encounter, gain 1 [Bullet_LogicAtelier] (once per Encounter)\n\nTurn End: If this unit does not have any remaining [Bullet] of any kind, activate [Retreat_FullStop] (once per Encounter)\n\nIf this unit is Substituted in, or is rejoining battle after [Retreat_FullStop], gain max [LogicAtelierAM], 3 [PenetrateResultUp], and [FullReload]\n(Except [Bullet_LogicAtelier]; once per Encounter)\nJP :\nステージ開始時に[PenetrateResultUp]3を得る\n\nこのキャラクターが戦闘に出場するとき、[Bullet_LogicAtelier]1を得る(戦闘につき1回)\n\nターン終了時、自分の全[Bullet]が0なら[Retreat_FullStop](戦闘につき1回)\n\n待機解除されたか、[Retreat_FullStop]されてから再度戦闘に参加したとき、[LogicAtelierAM]が最大になり[PenetrateResultUp]を3得て、[FullReload] ([Bullet_LogicAtelier]を除く、戦闘につき1回)"
+    "original": "스테이지 시작시 [PenetrateResultUp] 3 얻음\n\n<style=\"highlight\">이 캐릭터가 전투에 등장할 때, [Bullet_LogicAtelier] 1 얻음 (전투 당 1회)</style>\n\n턴 종료시 자신의 모든 [Bullet]이 0이면, [Retreat_FullStop] (전투 당 1회)\n\n대기해제되었거나, [Retreat_FullStop] 이후 다시 전투에 참여했을 때, [LogicAtelierAM]이 최대가 되고, [PenetrateResultUp]를 3 얻고, [FullReload]\n([Bullet_LogicAtelier] 제외, 전투 당 1회)",
+    "context": "EN :\nEncounter Start: gain 3 [PenetrateResultUp]\n\n<style=\"highlight\">When this unit enters the Encounter, gain 1 [Bullet_LogicAtelier] (once per Encounter)</style>\n\nTurn End: If this unit does not have any remaining [Bullet] of any kind, activate [Retreat_FullStop] (once per Encounter)\n\nIf this unit is Substituted in, or is rejoining battle after [Retreat_FullStop], gain max [LogicAtelierAM], 3 [PenetrateResultUp], and [FullReload]\n(Except [Bullet_LogicAtelier]; once per Encounter)\nJP :\nステージ開始時に[PenetrateResultUp]3を得る\n\n<style=\"highlight\">このキャラクターが戦闘に出場するとき、[Bullet_LogicAtelier]1を得る(戦闘につき1回)</style>\n\nターン終了時、自分の全[Bullet]が0なら[Retreat_FullStop](戦闘につき1回)\n\n待機解除されたか、[Retreat_FullStop]されてから再度戦闘に参加したとき、[LogicAtelierAM]が最大になり[PenetrateResultUp]を3得て、[FullReload] ([Bullet_LogicAtelier]を除く、戦闘につき1回)"
   },
   {
     "key": "1071111-name",

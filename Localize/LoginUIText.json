@@ -253,5 +253,155 @@
     "key": "forcequit_cache_initialize_fail-content",
     "original": "게임 클라이언트가 정상적으로 기동하지 못하였습니다.\n네트워크 연결 상태를 확인하시고 다시 시도해 주세요.\n문의: limbussupport+bug@projmoon.com",
     "context": "EN :\nGame Client failed to launch properly.\nPlease confirm your network status and try again.\nInquiries: limbussupport+bug@projmoon.com\nJP :\nゲームクライアントが正しく起動できませんでした。\nネットワーク接続状態を確認してやり直してください。\nお問い合わせ: limbussupport+bug@projmoon.com"
+  },
+  {
+    "key": "push_notification_message_full_stamina_default_title-content",
+    "original": "림버스 컴퍼니",
+    "context": "EN :\nLimbus Company\nJP :\nリンバス・カンパニー"
+  },
+  {
+    "key": "push_notification_message_full_stamina_default_text-content",
+    "original": "엔케팔린 충전이 완료되었습니다.",
+    "context": "EN :\nEnkephalin has been fully recharged.\nJP :\nエンケファリンの充填が完了しました。"
+  },
+  {
+    "key": "push_notification_message_full_stamina_1_title-content",
+    "original": "엔케팔린 충전 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン充填完了"
+  },
+  {
+    "key": "push_notification_message_full_stamina_1_text-content",
+    "original": "이상하다 여길 것은 없소. 그저 엔케팔린이 가득 찼다 말하러 온 것이기에… 용건은 이상이오.",
+    "context": "EN :\nTake notice, yet naught is odd here. Ideally, my only purpose here would be to inform you that Enkephalin is replenished fully. Such is all I have to say.\nJP :\n異常と思わずともよろし。ただ、エンケファリン満ちきと言いに推参せしばかりなれば…要件は以上なり。"
+  },
+  {
+    "key": "push_notification_message_full_stamina_2_title-content",
+    "original": "엔케팔린 충전 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン充填完了"
+  },
+  {
+    "key": "push_notification_message_full_stamina_2_text-content",
+    "original": "엔케팔린이 가득 찼네요. 관리자님. 효율적인 사용을 위해서 모듈로의 변환을 추천드립니다.",
+    "context": "EN :\nEnkephalin recharge is complete. Dear manager, Enkephalin module conversion is recommended for the sake of efficiency.\nJP :\nエンケファリンがいっぱいになりましたね、管理人さん。効率的な使用のためモジュールへの変換をお勧めします。"
+  },
+  {
+    "key": "push_notification_message_full_stamina_3_title-content",
+    "original": "엔케팔린 충전 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン充填完了"
+  },
+  {
+    "key": "push_notification_message_full_stamina_3_text-content",
+    "original": "연료통이 빵빵해졌소, 관리자 나리이이!!! 모험을 떠나야 하는데 어디로 간 겐가!!!",
+    "context": "EN :\nMANAGER ESQUIRE!!! THE FUEL TANK HATH BEEN REFILLED!!! COME HITHER, FOR OUR ADVENTURES MUST GO ON!!!\nJP :\n燃料タンクがパンパンになりましたぞ、管理人殿ぉおお！！！冒険に出るべきだというのにどこへ行かれたのでありまするか！！！"
+  },
+  {
+    "key": "push_notification_message_full_stamina_4_title-content",
+    "original": "엔케팔린 충전 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン充填完了"
+  },
+  {
+    "key": "push_notification_message_full_stamina_4_text-content",
+    "original": "엔.팔.충.완.(엔케팔린 충전 완료.)",
+    "context": "EN :\nE.C.(Enkephalin Charged.)\nJP :\nエン・ファ・充・了(エンケファリン充填完了)"
+  },
+  {
+    "key": "push_notification_message_full_stamina_5_title-content",
+    "original": "엔케팔린 충전 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン充填完了"
+  },
+  {
+    "key": "push_notification_message_full_stamina_5_text-content",
+    "original": "엔케팔린 충전이 완료되었습니다, 관리자님.",
+    "context": "EN :\nEnkephalin has been fully recharged, manager.\nJP :\nエンケファリンの充填が完了しました、管理人様。"
+  },
+  {
+    "key": "push_notification_message_full_stamina_6_title-content",
+    "original": "엔케팔린 충전 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン充填完了"
+  },
+  {
+    "key": "push_notification_message_full_stamina_6_text-content",
+    "original": "와아~ 벌써 엔케팔린이 다 충전됐나 봐요~ 확인해 보러 가지 않으실래요?",
+    "context": "EN :\nWoow~ Enkephalin's already fully charged~ Would you like to go check?\nJP :\nわぁ～もうエンケファリンが満タンまで充填されたみたいですね～。確認しに行きませんか？"
+  },
+  {
+    "key": "push_notification_message_full_stamina_7_title-content",
+    "original": "엔케팔린 충전 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン充填完了"
+  },
+  {
+    "key": "push_notification_message_full_stamina_7_text-content",
+    "original": "그 뭐냐. 엔케…? 아무튼 초록색 연료 그거 충전 다 됐다더라. 가서 좀 봐.",
+    "context": "EN :\nThe, uh. Enkeph—? ... The green stuff's full. Go take a gander, yeah?\nJP :\nそのなんだ。エンケ…？とにかく緑色の燃料、アレが充填されたってよ。ちょっと見てこいよ。"
+  },
+  {
+    "key": "push_notification_message_full_stamina_8_title-content",
+    "original": "엔케팔린 충전 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン充填完了"
+  },
+  {
+    "key": "push_notification_message_full_stamina_8_text-content",
+    "original": "엔케팔린 충전 완료... 음. 다시 버스가 출발할 수 있겠네요. 어서 가보죠.",
+    "context": "EN :\nEnkephalin's been recharged... Hm. Yeah, the bus is ready for another voyage. Let's go.\nJP :\nエンケファリン充填完了…。ふむ、またバスを動かせられそうですね。早く行きましょう。"
+  },
+  {
+    "key": "push_notification_message_full_stamina_9_title-content",
+    "original": "엔케팔린 충전 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン充填完了"
+  },
+  {
+    "key": "push_notification_message_full_stamina_9_text-content",
+    "original": "단테~ 엔케팔린 충전 끝났어. 모듈로 안 바꾸면 더 안 쌓일 거라구~",
+    "context": "EN :\nDante~ Enkephalin's charged! Don'tcha forget to convert 'em to modules!\nJP :\nダンテ～エンケファリンの充填終わったよ。モジュールに変えないとこれ以上溜まらないよ～。"
+  },
+  {
+    "key": "push_notification_message_full_stamina_11_title-content",
+    "original": "엔케팔린 충전 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン充填完了"
+  },
+  {
+    "key": "push_notification_message_full_stamina_11_text-content",
+    "original": "관리자님... 바쁘신가요? 벼, 별건 아니고… 엔케팔린이 넘치고 있어서…",
+    "context": "EN :\nHi, manager... are you... busy? I-it's nothing too serious, but... Enkephalin's about to overflow...\nJP :\n管理人さん…忙しいんですか？た、大したことじゃ無くて…エンケファリンが溢れてるので…。"
+  },
+  {
+    "key": "push_notification_message_full_stamina_12_title-content",
+    "original": "엔케팔린 충전 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン充填完了"
+  },
+  {
+    "key": "push_notification_message_full_stamina_12_text-content",
+    "original": "보고드립니다, 관리자님. 엔케팔린이 완충되었습니다. 소모나 축적을 권장드립니다.",
+    "context": "EN :\nReporting to the Executive Manager. Enkephalin has been fully replenished. May I suggest that you use or convert them?\nJP :\n報告いたします、管理人様。エンケファリンの充填が完了しました。消耗か蓄積をお勧めいたします。"
+  },
+  {
+    "key": "push_notification_message_full_stamina_13_title-content",
+    "original": "엔케팔린 충전 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン充填完了"
+  },
+  {
+    "key": "push_notification_message_full_stamina_13_text-content",
+    "original": "어어, 관리자 양반! 그, 버스 연료가 가득 찼는데... 한 번 확인하지 그래?",
+    "context": "EN :\nUhh, manager bud? You there? The, uh, the bus fuel tank is full... Might wanna come check?\nJP :\nおい、管理人の旦那！その、バスの燃料がいっぱいになったんだけど…確認してみるのはどうだ？"
+  },
+  {
+    "key": "push_notification_message_full_stamina_14_title-content",
+    "original": "엔케팔린 충전 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン充填完了"
+  },
+  {
+    "key": "push_notification_message_full_stamina_14_text-content",
+    "original": "휴식 시간은 끝났습니다. 관리자 단테. 버스를 너무 오래 세워두지 마시지요.",
+    "context": "EN :\nYour break is over, manager Dante. Don't keep the bus sitting for too long.\nJP :\n休憩時間は終わりました、管理人ダンテ。バスをあまり長いこと立ち往生させないでください。"
+  },
+  {
+    "key": "push_notification_message_full_stamina_15_title-content",
+    "original": "엔케팔린 충전 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン充填完了"
+  },
+  {
+    "key": "push_notification_message_full_stamina_15_text-content",
+    "original": "메피가 배부르대, 카론. 부릉부릉할 시간이야.",
+    "context": "EN :\nMephi's stuffed. Charon, time to vroom-vroom.\nJP :\nメフィがお腹いっぱいだって。カロン、ぶるんぶるんする時間だ。"
   }
 ]
