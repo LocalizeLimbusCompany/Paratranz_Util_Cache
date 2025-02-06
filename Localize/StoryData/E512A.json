@@ -77,7 +77,7 @@
   {
     "key": "6-content",
     "original": "눈앞에 신분이 버젓이 쓰여 있지 않나?",
-    "context": "EN :\nIsn't it clear as day as to who she is?\nJP :\n目の前に役職が堂々と書かれているのが見えないのか？"
+    "context": "EN :\nIsn't it clear as day as to who she is?\nJP :\n目の前に役職がはっきり書いてあるじゃないか。"
   },
   {
     "key": "7-content",
@@ -130,7 +130,7 @@
   {
     "key": "11-content",
     "original": "어? 이 사람, 관리자님 말이 들리나요?",
-    "context": "EN :\nHuh? Wait, can she hear what you're saying?\nJP :\nあれ？この人、管理人の言うことが聞き取れるんですが？"
+    "context": "EN :\nHuh? Wait, can she hear what you're saying?\nJP :\nあれ？この人、管理人さんの言うことが聞き取れるんですが？"
   },
   {
     "key": "12-model",
@@ -151,7 +151,7 @@
   {
     "key": "12-content",
     "original": "안 들려. 태엽 소리를 번역하는 재능도 없다. 그렇게 멍청한 느낌으로 고개를 까딱이고 있는데 모르는게 더 힘들겠군.",
-    "context": "EN :\nNo. Don't have any talent in tick-tock interpretation, either. But it was pretty easy to tell with that blank, stupid look they were giving me.\nJP :\n聞こえない。ゼンマイの音を翻訳する才能も無い。\nあんな馬鹿らしく首を傾げているというのに、分からないわけないだろう。"
+    "context": "EN :\nNo. Don't have any talent in tick-tock interpretation, either. But it was pretty easy to tell with that blank, stupid look they were giving me.\nJP :\n聞こえない。ゼンマイの音を翻訳する才能も無い。\nあんな間抜けそうに首を傾げているというのに、\n知らないふりをするほうが難しいだろう。"
   },
   {
     "key": "13-model",
@@ -295,7 +295,7 @@
   {
     "key": "22-content",
     "original": "그 뿐일까. 목숨 버리개, 범퍼카, 돈 먹는 버스, 고기 방패, 얻어걸린 또라이. 뭐… 더 있기는 한데 그게 지금 당장 필요한 이야기 같진 않군.",
-    "context": "EN :\nOh, that's not all. Wastes of lives, bumper cars, the most expensive bus in the world, meat shields, maniacs with more luck than they deserve, and then some. Doesn't seem like the most relevant conversation topic for now, though.\nJP :\nそれだけだとでも？\n身投げ集団、バンパーカー、金食いバス、肉壁、ツイてるキチガ…。\nまぁ…もっとあるにはあるが、今すぐすべき話題ではないだろう。"
+    "context": "EN :\nOh, that's not all. Wastes of lives, bumper cars, the most expensive bus in the world, meat shields, maniacs with more luck than they deserve, and then some. Doesn't seem like the most relevant conversation topic for now, though.\nJP :\nそれだけだとでも？\n身投げ集団、バンパーカー、金食いバス、肉壁、ツイてるキチガ―\nまぁ…もっとあるにはあるが、今すぐすべき話題ではないだろう。"
   },
   {
     "key": "23-model",
@@ -306,7 +306,7 @@
   {
     "key": "23-content",
     "original": "이 새끼가… 말하는 꼬라지는 계속 그 따위일 거냐?",
-    "context": "EN :\nYou little... You better change your tone. Now.\nJP :\nこの野郎…何様のつもりで偉そうにくっちゃべってんだ？"
+    "context": "EN :\nYou little... You better change your tone. Now.\nJP :\nこの野郎…ずっとその調子ってくっちゃべろうってわけか？"
   },
   {
     "key": "24-model",
@@ -718,7 +718,7 @@
   {
     "key": "49-content",
     "original": "그건 맞는 말이네요. 사실 궁금했거든요. 이 회사가 대체 무슨 돈으로 돌아가고 있는 건지…",
-    "context": "EN :\nI suppose so. I've been wondering about the company's finances for a while. Where do we even get our funding from?\nJP :\nそれはその通りですね。実は気になってたんですよ。\nこの会社が一体どんなお金で回ってるか…。"
+    "context": "EN :\nI suppose so. I've been wondering about the company's finances for a while. Where do we even get our funding from?\nJP :\nそれはその通りですね。実は気になってたんですよ。\nこの会社が一体どういうお金で回ってるのか…。"
   },
   {
     "key": "50-model",
@@ -914,7 +914,7 @@
   {
     "key": "61-content",
     "original": "…하, 안 되겠다. 그냥 오늘 머리 부수고 끝장을 보자, 너.",
-    "context": "EN :\n... Hah, that does it. You're not leaving this bus alive.\nJP :\n…はぁ、もう無理だ。\nドタマぶっ潰して決着付けようじゃねぇか、テメェ。"
+    "context": "EN :\n... Hah, that does it. You're not leaving this bus alive.\nJP :\n…はぁ、もう無理だ。\nドタマぶっ潰してケリ付けようじゃねぇか、テメェ。"
   },
   {
     "key": "62-model",
@@ -1155,8 +1155,8 @@
   },
   {
     "key": "77-content",
-    "original": "버스에 조용한 적막만을 남긴 채로, 그녀는 문을 통해 천천히 사라졌고…",
-    "context": "EN :\nShe left, leaving nothing but the awkward silence behind.\nJP :\nバスに寂寞のみを残し、彼女はドアよりゆっくりと姿を消し…。"
+    "original": "버스에 조용한 적막만을 남긴 채로, 그는 문을 통해 천천히 사라졌고…",
+    "context": "EN :\nShe left, leaving nothing but the awkward silence behind.\nJP :\nバスに静寂のみを残し、彼女はドアよりゆっくりと姿を消し…。"
   },
   {
     "key": "78-model",
@@ -1172,7 +1172,7 @@
   {
     "key": "79-content",
     "original": "그제야 왁자지껄, 여러 곳에서 탄식이 튀어 나왔다.",
-    "context": "EN :\nAfter that brief moment of quiet, everyone began sighing and complaining as though they'd just been ungagged.\nJP :\nそうしてやっと、あちこちから騒がしく嘆息が飛び出してきた。"
+    "context": "EN :\nAfter that brief moment of quiet, everyone began sighing and complaining as though they'd just been ungagged.\nJP :\nそうしてやっと、あちこちから嘆息が飛び出してきた。"
   },
   {
     "key": "80-model",
@@ -1264,7 +1264,7 @@
   },
   {
     "key": "88-content",
-    "original": "나는 수감자들을 독려하면서, 카이만이 넘기고 간 서류봉투를 부스럭 거리며 열어보았다.",
+    "original": "나는 수감자들을 독려하면서, 그가 넘기고 간 서류봉투를 부스럭 거리며 열어보았다.",
     "context": "EN :\nI tried my best to cheer up the Sinners as I opened the envelope she left behind.\nJP :\n私は囚人たちを激励しながら、彼女が渡した書類封筒を\nガサガサ音を立てつつ開けてみた。"
   },
   {
@@ -1318,7 +1318,7 @@
   {
     "key": "95-content",
     "original": "용, 진? 맞지, 베르. 좋아. 감이 온다. 삐릭삐릭.",
-    "context": "EN :\nYong... Jin? Right, Verg? Got it. I'm feeling it. Bzzt bzzt.\nJP :\nよん、じん？だよね、ヴェル。\nカンが回ってきた。ビリビリ。"
+    "context": "EN :\nYong... Jin? Right, Verg? Got it. I'm feeling it. Bzzt bzzt.\nJP :\nよん、じん？だよね、ヴェル。\nカンが回ってきた。ピロピロ。"
   },
   {
     "key": "96-model",

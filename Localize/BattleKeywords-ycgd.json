@@ -7,7 +7,7 @@
   {
     "key": "Grudge-desc",
     "original": "버프가 있을 때, 받은 피해량만큼 수치를 얻음. 턴 종료 시 소멸됨",
-    "context": "EN :\nWhen this unit has a relevant buff: gain Growing Resentment equal to damage taken. Expires at Turn End\nJP :\nバフがあるとき、被ダメージ量だけ数値が増える。ターン終了時に消滅。"
+    "context": "EN :\nWhen this unit has a relevant buff: gain Growing Resentment equal to damage taken. Expires at Turn End\nJP :\nバフがあるなら、被ダメージ量だけ数値が増える。ターン終了時に消滅。"
   },
   {
     "key": "AaCePbBg-name",

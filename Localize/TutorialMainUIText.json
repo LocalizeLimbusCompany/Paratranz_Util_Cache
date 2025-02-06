@@ -3728,5 +3728,205 @@
     "key": "TutoEvent5501_P9_D1-content",
     "original": "이벤트가 종료된 이후에도 운전석 - [외전]과 상영관 - [그 밖의 이야기]를 통해 20번구의 기적 전투를 다시 즐기거나 스토리를 감상할 수 있습니다.",
     "context": "EN :\nEven after the event fully ends, you will be able to experience the Miracle in District 20 combat Encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Detour Tales].\nJP :\nイベントが終了しても、運転席 - [外伝]と上映館 - [その他のストーリー]から20番区の奇跡の戦闘を再度楽しんだり、ストーリーを鑑賞することができます。"
+  },
+  {
+    "key": "TutoEvent7501_P1_T1-content",
+    "original": "LCB 정기검진",
+    "context": "EN :\nLCB Regular Check-up\nJP :\nLCB定期検診"
+  },
+  {
+    "key": "TutoEvent7501_P1_D1-content",
+    "original": "LCB 정기검진 개방",
+    "context": "EN :\nUnlocking LCB Regular Check-up\nJP :\nLCB定期検診 解放"
+  },
+  {
+    "key": "TutoEvent7501_P1_D2-content",
+    "original": "유리창이나 운전석에 있는 이벤트 배너를 통해 입장할 수 있습니다.",
+    "context": "EN :\nSelect the Event banner from either the Window or the Drive menu to enter.\nJP :\n硝子窓や運転席にあるイベントバナーから入場できます。"
+  },
+  {
+    "key": "TutoEvent7501_P2_T1-content",
+    "original": "이벤트 기간",
+    "context": "EN :\nEvent Period\nJP :\nイベント期間"
+  },
+  {
+    "key": "TutoEvent7501_P2_D1-content",
+    "original": "LCB 정기검진 이벤트 기간이 표시됩니다. 이벤트 기간 동안 LCB 정기검진 스테이지 혹은 주요 이야기 스테이지와 거울 던전을 클리어하면 [정보서류]를 획득할 수 있습니다.\n\n※ 단, 채광과 거울굴절철도에서는 [정보서류]를 획득할 수 없습니다.",
+    "context": "EN :\nThe duration of LCB Regular Check-up event is shown here. During the event, you can earn [Amassed Data] by clearing Stages and Dungeons in the event and Main Story.\n\n※ However, [Amassed Data] cannot be obtained in Luxcavations.\nJP :\nLCB定期検診のイベント期間が表示されます。イベント期間中、LCB定期検診またはメインストーリーステージと鏡ダンジョンをクリアすると[情報書類]を獲得できます。\n\n※ただし、採光と鏡屈折鉄道では[情報書類]を獲得できません。"
+  },
+  {
+    "key": "TutoEvent7501_P3_T1-content",
+    "original": "이벤트 전투",
+    "context": "EN :\nEvent Encounters\nJP :\nイベント戦闘"
+  },
+  {
+    "key": "TutoEvent7501_P3_D1-content",
+    "original": "LCB 정기검진 전투는 스토리 스테이지를 포함하여 총 13개의 스테이지와 1개의 던전으로 구성됩니다. LCB 정기검진 전투에서는 클리어 보상과 별개로 초회 보상으로 [정보서류]를 획득할 수 있습니다. (1회 한정) ",
+    "context": "EN :\nLCB Regular Check-up event consists of 13 stages, including story stages, and a single dungeon.\n\nEvent Encounters also offer batches of [Amassed Data] as a first-time Clear bonus.\nJP :\nLCB定期検診イベントは、ストーリーステージを含めて計13のステージと1つのダンジョンで構成されます。LCB定期検診の戦闘ではクリア報酬とは別途で、初回報酬として[情報書類]を獲得することができます。(1回限定)"
+  },
+  {
+    "key": "TutoEvent7501_P3_D2-content",
+    "original": "LCB 정기검진 스테이지에서는 주요 이야기의 스테이지보다 훨씬 많은 [정보서류]를 획득할 수 있습니다. ",
+    "context": "EN :\nYou can earn considerably more [Amassed Data] from LCB Regular Check-up Stages compared to Main Story Stages. \nJP :\nLCB定期検診ステージでは、メインストーリーのステージよりも遥かに多くの[情報書類]を獲得することができます。"
+  },
+  {
+    "key": "TutoEvent7501_P4_T1-content",
+    "original": "이벤트 특화 대상",
+    "context": "EN :\nEvent Bonus Units\nJP :\nイベント特化対象"
+  },
+  {
+    "key": "TutoEvent7501_P4_D1-content",
+    "original": "LCB 정기검진 기간 동안 이벤트 인격, E.G.O 편성하여 스테이지, 던전을 클리어하면 [정보서류]의 획득량이 상승합니다.",
+    "context": "EN :\nHaving Event Identities and E.G.O from the LCB Regular Check-up event on your team increases the amount of [Amassed Data] earned from Stages and Dungeons.\nJP :\nLCB定期検診の期間中にイベント人格・E.G.Oを編成してステージ、ダンジョンをクリアすると[情報書類]の獲得量が上昇します。"
+  },
+  {
+    "key": "TutoEvent7501_P5_T1-content",
+    "original": "보상 교환",
+    "context": "EN :\nReward Exchange\nJP :\n報酬交換"
+  },
+  {
+    "key": "TutoEvent7501_P5_D1-content",
+    "original": "획득한 [정보서류]를 소모하여 [보상 교환]에서 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nYou can redeem various rewards from the [Reward Exchange] based on the number of [Amassed Data] you have.\nJP :\n獲得した[情報書類]を消耗し[報酬交換]から様々な報酬を得ることができます。"
+  },
+  {
+    "key": "TutoEvent7501_P6_T1-content",
+    "original": "[보상 교환] 페이지에서 보상을 수령할 수 있는 기간이 표시됩니다.",
+    "context": "EN :\nThe [Reward Exchange]'s open duration is shown here.\nJP :\n[報酬交換]ページに報酬を受け取れる期間が表示されます。"
+  },
+  {
+    "key": "TutoEvent7501_P6_D1-content",
+    "original": "[보상 교환] 페이지에서 각종 재화와 이벤트 배포 인격을 획득할 수 있습니다.",
+    "context": "EN :\nYou can acquire event reward Identities and various currencies from the [Reward Exchange].\nJP :\n[報酬交換]ページより、各種アイテムやイベント人格を獲得することができます。"
+  },
+  {
+    "key": "TutoEvent7501_P7_T1-content",
+    "original": "연속 전투 스테이지",
+    "context": "EN :\nChain Battle Encounters\nJP :\n連続戦闘ステージ"
+  },
+  {
+    "key": "TutoEvent7501_P7_D1-content",
+    "original": "LCB 정기검진의 일부 전투는 연속 전투 방식으로 진행됩니다. 연속 전투에서는 아군이 죽더라도 정신력이 소모되지 않습니다.",
+    "context": "EN :\nCertain Encounters in the LCB Regular Check-up event are Chain Battles. In Chain Battles, the Sinners will not lose their Sanity(SP) even if their allies are defeated.\nJP :\nLCB定期検診では、一部戦闘が連続戦闘形式にて進行します。連続戦闘では、味方が死んでも精神力が消耗されません。"
+  },
+  {
+    "key": "TutoEvent7501_P8_T1-content",
+    "original": "이벤트 스테이지",
+    "context": "EN :\nEvent Stages\nJP :\nイベントステージ"
+  },
+  {
+    "key": "TutoEvent7501_P8_D1-content",
+    "original": "LCB 정기검진 제일 마지막에는 거울 던전이 등장하며, 입장 시 엔케팔린 모듈을 소모합니다.",
+    "context": "EN :\nA Mirror Dungeon awaits at the end of LCB Regular Check-up event. Entering this Mirror Dungeon costs Enkephalin Modules.\nJP :\nLCB定期検診の最後には鏡ダンジョンが出現し、入場時にエンケファリンモジュールを消耗します。"
+  },
+  {
+    "key": "TutoEvent7501_P9_T1-content",
+    "original": "기밀서류",
+    "context": "EN :\nClassified Data\nJP :\n機密書類"
+  },
+  {
+    "key": "TutoEvent7501_P9_D1-content",
+    "original": "전투에서 승리할 경우, 낮은 확률로 기밀서류를 획득할 수 있습니다. 획득한 기밀서류는 정보서류 20개로 자동 변환됩니다.",
+    "context": "EN :\nThere is a small chance to obtain Classified Data upon clearing an Encounter. Classified Data are automatically converted to 20 Amassed Data.\nJP :\n戦闘にて勝利したとき、低確率で機密書類を獲得することができます。獲得した機密書類は情報書類20個に自動変換されます。"
+  },
+  {
+    "key": "TutoEvent7501_P10_D1-content",
+    "original": "이벤트가 종료된 이후에도 운전석 - [외전]과 상영관 - [그 밖의 이야기]를 통해 LCB 정기검진 전투를 다시 즐기거나 스토리를 감상할 수 있습니다.",
+    "context": "EN :\nEven after the event fully ends, you will be able to experience the LCB Regular Check-up combat Encounters and view its story at any time at the Driverside - [Deviazione] and Theater - [Detour Tales].\nJP :\nイベントが終了しても、運転席 - [外伝]と上映館 - [その他のストーリー]からLCB定期検診の戦闘を再度楽しんだり、ストーリーを鑑賞することができます。"
+  },
+  {
+    "key": "TutoEvent5502_P1_T1-content",
+    "original": "이벤트 개방",
+    "context": "EN :\nAccessing the Event\nJP :\nイベント解放"
+  },
+  {
+    "key": "TutoEvent5502_P1_D1-content",
+    "original": "유리창이나 운전석에 있는 이벤트 배너를 통해 [육참골단 BokGak 이벤트 창]으로 입장할 수 있습니다.",
+    "context": "EN :\nSelect the Event banner from either the Window or the Drive menu to enter the [Yield My Flesh to Claim Their Bones BokGak Event] menu.\nJP :\n硝子窓や運転席にあるイベントバナーから[肉斬骨断 BokGakイベントウィンドウ]へ入場できます。"
+  },
+  {
+    "key": "TutoEvent5502_P2_T1-content",
+    "original": "이벤트 기간",
+    "context": "EN :\nEvent Period\nJP :\nイベント期間"
+  },
+  {
+    "key": "TutoEvent5502_P2_D1-content",
+    "original": "육참골단 BokGak 이벤트 기간이 표시됩니다. 이벤트 기간 동안 육참골단 스테이지, 거울 던전을 클리어하거나 주요 이야기 스테이지를 이벤트 시작 후 처음으로 클리어할 경우, [피에 절은 검집]을 획득할 수 있습니다.\n\n※ 단, 채광과 거울굴절철도에서는 [피에 절은 검집]을 획득할 수 없습니다.",
+    "context": "EN :\nThe duration of Yield My Flesh to Claim Their Bones BokGak Event is shown here.\n\nDuring the event, you can earn [Bloodied Scabbard] by clearing Event Stages. You can also earn [Bloodied Scabbard] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Bloodied Scabbard] cannot be obtained in Luxcavations and Refraction Railways.\nJP :\n肉斬骨断 BokGakイベント期間が表示されます。イベント期間中、肉斬骨断のステージ・鏡ダンジョンをクリアするかメインストーリーステージをイベント開始後に初回クリアすると、[血に濡れた鞘]を獲得できます。\n\n※ただし、採光と鏡屈折鉄道では[血に濡れた鞘]を獲得することはできません。"
+  },
+  {
+    "key": "TutoEvent5502_P3_T1-content",
+    "original": "이벤트 전투",
+    "context": "EN :\nEvent Encounters\nJP :\nイベント戦闘"
+  },
+  {
+    "key": "TutoEvent5502_P3_D1-content",
+    "original": "육참골단 BokGak 이벤트는 스토리 스테이지를 포함하여 총 11개의 스테이지와 1개의 던전으로 구성됩니다. 이벤트 전투에서는 클리어 보상과 별개로 초회 보상으로 [피에 절은 검집]을 획득할 수 있습니다 (전투당 최초 1회 한정).",
+    "context": "EN :\nYield My Flesh to Claim Their Bones BokGak Event consists of 11 stages, including story stages, and a Dungeon.\n\nSaid stages also offer batches of [Bloodied Scabbard] as a First-time Clear bonus in addition to clear rewards. (only for first-time clears of each Stage)\nJP :\n肉斬骨断 BokGakの戦闘はストーリーステージを含めて計11のステージと1つのダンジョンで構成されます。\n\nイベント戦闘ではクリア報酬と別途に、初回クリア報酬で[血に濡れた鞘]を獲得することができます。(戦闘ごとに初回限定)"
+  },
+  {
+    "key": "TutoEvent5502_P4_T1-content",
+    "original": "이벤트 특화 대상",
+    "context": "EN :\nEvent Bonus Units\nJP :\nイベント特化対象"
+  },
+  {
+    "key": "TutoEvent5502_P4_D1-content",
+    "original": "이벤트 기간 동안 이벤트 인격을 편성하여 스테이지와 거울 던전을 클리어하면 [피에 절은 검집]의 획득량이 상승합니다.",
+    "context": "EN :\nHaving Event Identities from Event on your team increases the amount of [Bloodied Scabbard] earned from Stages and Dungeons.\nJP :\nイベント期間中、イベント人格を編成してステージとダンジョンをクリアすると[血に濡れた鞘]の獲得量が上昇します。"
+  },
+  {
+    "key": "TutoEvent5502_P5_T1-content",
+    "original": "보상 교환",
+    "context": "EN :\nReward Exchange\nJP :\n報酬交換"
+  },
+  {
+    "key": "TutoEvent5502_P5_D1-content",
+    "original": "획득한 [피에 절은 검집]을 소모하여 [보상 교환]에서 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nYou can redeem various rewards from the [Reward Exchange] using the [Bloodied Scabbard] you have collected.\nJP :\n獲得した[血に濡れた鞘]を消耗し[報酬交換]から様々な報酬を得ることができます。"
+  },
+  {
+    "key": "TutoEvent5502_P6_D1-content",
+    "original": "[보상 교환] 창에서 이벤트 배포 인격, 티켓 꾸미기와 장식 배너, 각종 재화를 획득할 수 있습니다.",
+    "context": "EN :\nYou can acquire the event reward Identity, Ticket Deco, banners, and various currencies from [Reward Exchange] menu.\nJP :\n[報酬交換]ウィンドウにて、イベント配布人格、チケットデコと装飾バナー、各種アイテムを獲得できます。"
+  },
+  {
+    "key": "TutoEvent5502_P6_D2-content",
+    "original": "[보상 교환] 창에서 보상을 수령할 수 있는 기간이 표시됩니다.",
+    "context": "EN :\nThe [Reward Exchange]'s open duration is shown here.\nJP :\n[報酬交換]ウィンドウにて報酬を受け取れる期間が表示されます。"
+  },
+  {
+    "key": "TutoEvent5502_P7_T1-content",
+    "original": "한 서린 검집",
+    "context": "EN :\nResentful Scabbard\nJP :\n恨の宿った鞘"
+  },
+  {
+    "key": "TutoEvent5502_P7_D1-content",
+    "original": "전투에서 승리할 경우, 낮은 확률로 [한 서린 검집]을 획득할 수 있습니다. 획득한 [한 서린 검집]은 [피에 절은 검집] 20개로 자동 전환됩니다.",
+    "context": "EN :\nRarely, you may obtain [Resentful Scabbard] from clearing Encounters.\n\n[Resentful Scabbard] is automatically converted to 20 [Bloodied Scabbard] upon acquisition.\nJP :\n戦闘にて勝利すると、低い確率で[恨の宿った鞘]を獲得できます。獲得した[恨の宿った鞘]は、[血に濡れた鞘2]0個に自動で変換されます。"
+  },
+  {
+    "key": "TutoEvent5502_P8_T1-content",
+    "original": "Hard 난이도",
+    "context": "EN :\nHard Difficulty\nJP :\n難易度Hard"
+  },
+  {
+    "key": "TutoEvent5502_P8_D1-content",
+    "original": "이벤트 기간 동안 육참골단 Hard 난이도를 진행할 수 있습니다. 주요 이야기 6-48 클리어 시 이벤트 스테이지 Hard 난이도가 개방됩니다.",
+    "context": "EN :\nYield My Flesh to Claim Their Bones Hard Difficulty will be unlocked during the Event period. The Hard Difficulty is unlocked upon clearing the Main Story Stage 6-48.\nJP :\nイベント期間中、肉斬骨断 難易度Hardを進行することができます。メインストーリー6-48クリア時にイベントステージの難易度Hardが解放されます。"
+  },
+  {
+    "key": "TutoEvent5502_P8_D2-content",
+    "original": "Hard 난이도에서는 Normal 난이도보다 더 많은 이벤트 재화를 얻을 수 있습니다.",
+    "context": "EN :\nHard Difficulty rewards more Event currencies than the Normal Difficulty does.\nJP :\n難易度Hardでは、Normalよりも多くのイベントアイテムを獲得することができます。"
+  },
+  {
+    "key": "TutoEvent5502_P8_D3-content",
+    "original": "Hard 스테이지 클리어 시에도 초회 보상, EX 클리어 보상, 챕터 진행도 보상을 획득할 수 있습니다.",
+    "context": "EN :\nYou can earn first-time clear rewards, EX Clear rewards, and Chapter Progress rewards from clearing the Hard Difficulty Stages as well.\nJP :\nHardステージクリア時にも初回報酬、EXクリア報酬、チャプター進行度報酬を獲得できます。"
+  },
+  {
+    "key": "TutoEvent5502_P9_D1-content",
+    "original": "이벤트가 종료된 이후에도 운전석 - [외전]과 상영관 - [그 밖의 이야기]를 통해 육참골단 전투를 다시 즐기거나 스토리를 감상할 수 있습니다.",
+    "context": "EN :\nEven after the event fully ends, you will be able to experience the Yield My Flesh to Claim Their Bones combat Encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Detour Tales].\nJP :\nイベントが終了しても、運転席 - [外伝]と上映館 - [その他のストーリー]から肉斬骨断の戦闘を再度楽しんだり、ストーリーを鑑賞することができます。"
   }
 ]

@@ -1,0 +1,951 @@
+[
+  {
+    "key": "0-place",
+    "original": "LCE 연구팀 실험동",
+    "context": "EN :\nLCE Research Team Lab. Unit\nJP :\nLCE研究チーム 実験棟"
+  },
+  {
+    "key": "0-model",
+    "original": "다친베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "0-content",
+    "original": "이번 일은 누구에게도 책임은 묻지 않겠습니다, 단테.",
+    "context": "EN :\nI will not place the blame of this incident on anyone, Dante.\nJP :\n今回の件では誰にも責任を問いません、ダンテ。"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "2-model",
+    "original": "다친베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "2-content",
+    "original": "옛 제 1권속이 3번 수감자 돈키호테에게 남겨준 로시난테라는 억제구에 대해 수집된 정보가 많지 않았던 탓에…",
+    "context": "EN :\nI understand that no one could have expected this outcome,\nJP :\nかつての第1眷属が、囚人3番ドンキホーテに残した\nロシナンテという抑制具に関する収集情報が\nあまりにも乏しかったせいで…。"
+  },
+  {
+    "key": "3-model",
+    "original": "다친베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "3-content",
+    "original": "회사 측에서도 정확한 예측을 할 수가 없었을 테니.",
+    "context": "EN :\ngiven the dearth of intelligence regarding the binding tool the First Kindred had gifted to the third Sinner.\nJP :\n会社側でも正確な予測は立てられなかったのだろう。"
+  },
+  {
+    "key": "4-model",
+    "original": "다친베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "4-content",
+    "original": "…그럼.",
+    "context": "EN :\n… Well, then.\nJP :\n…では。"
+  },
+  {
+    "key": "5-content",
+    "original": "베르길리우스의 싸우는 모습을 자주 본 것은 아니지만, 적어도 지금까지 본 것 중에서 가장 피곤해 보이는 모습을 한 그를 바라보며…",
+    "context": "EN :\nI hadn't had that much firsthand experience with watching Vergilius fight, but... this was certainly the most exhausted I've seen him after a fight.\nJP :\nヴェルギリウスの戦う姿を何度も見たことはないけど、少なくとも\n今まで見た中では一番疲れているように見える彼を眺めながら…。"
+  },
+  {
+    "key": "6-content",
+    "original": "나는 순순히 시계를 돌리기로 했다.",
+    "context": "EN :\n... I decided to say nothing, and turned the clock.\nJP :\n私は素直に時計を回すことにした。"
+  },
+  {
+    "key": "7-content",
+    "original": "시간이 지난 후…",
+    "context": "EN :\nAfter some time passed…\nJP :\nしばらくして…。"
+  },
+  {
+    "key": "8-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "8-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "9-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "9-content",
+    "original": "<돈키호테… 정신을 아예 잃었던 거야? 혹은 기억이라거나…>",
+    "context": "EN :\n<Don Quixote, what happened? Did you lose consciousness? Or did something affect your memory…?>\nJP :\n<ドンキホーテ…。完全に意識を失ってたの？\nあるいは記憶とか…。>"
+  },
+  {
+    "key": "10-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10-content",
+    "original": "나리, 기억에는…",
+    "context": "EN :\nManager Esquire, I…\nJP :\n管理人殿、記憶には…。"
+  },
+  {
+    "key": "11-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "11-content",
+    "original": "아무런 문제가 없었네.",
+    "context": "EN :\nMy memories were fine.\nJP :\nまったく問題が無かったのだ。"
+  },
+  {
+    "key": "12-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "12-content",
+    "original": "신발을 벗자마자… 들려오는 소리가 있었지.",
+    "context": "EN :\nBut there were… I heard something as soon as I removed my shoes.\nJP :\n靴を脱いだとたん…聞こえてきたのだ、声が。"
+  },
+  {
+    "key": "13-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "13-content",
+    "original": "<…목소리였지?>",
+    "context": "EN :\n<… Voices, right?>\nJP :\n<…声だったよね？>"
+  },
+  {
+    "key": "14-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "14-content",
+    "original": "…이번에도 본인을 본 것인가.",
+    "context": "EN :\nOnce again, you have witnessed me.\nJP :\n…今回も当人を見たのか。"
+  },
+  {
+    "key": "15-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "15-content",
+    "original": "그래, 수많은 이들의 목소리가 들려오더군.",
+    "context": "EN :\nYes, the voices. So many voices.\nJP :\nああ、数多の声が聞こえてきた。"
+  },
+  {
+    "key": "16-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "16-content",
+    "original": "목… 소리요?",
+    "context": "EN :\nVo... voices…?\nJP :\nこ…声ですか？"
+  },
+  {
+    "key": "17-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "17-content",
+    "original": "내… 가족들의 목소리였어.",
+    "context": "EN :\nThe voices… of my Family.\nJP :\n私の…家族達の声だった。"
+  },
+  {
+    "key": "18-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "18-content",
+    "original": "하지만… 라만차랜드의 혈귀들은 이미…",
+    "context": "EN :\nBut… the Bloodfiends of La Manchaland are all…\nJP :\nでも… ラ・マンチャランドの血鬼たちはもう…。"
+  },
+  {
+    "key": "19-content",
+    "original": "싱클레어가 조심스럽게 말을 흐렸다.",
+    "context": "EN :\nSinclair trailed off.\nJP :\nシンクレアは慎重に言葉を濁した。"
+  },
+  {
+    "key": "20-content",
+    "original": "라만차랜드가 무너지면서 그 안에 있던 혈귀들은 전부 죽었다.",
+    "context": "EN :\nEvery single Bloodfiend left inside La Manchaland was killed when the amusement park collapsed.\nJP :\nラ・マンチャランドが崩壊したとき、\nそこにいた血鬼たちは全員死んだ。"
+  },
+  {
+    "key": "21-content",
+    "original": "그건 즉, 돈키호테의 하위 권속 혈귀들 대부분이 죽었다는 소리기도 했다.",
+    "context": "EN :\nIn other words, most of Don Quixote’s lower Kindreds were dead.\nJP :\nそれはつまり、ドンキホーテの下位眷属である血鬼たちの\n大多数が死んだということでもあった。"
+  },
+  {
+    "key": "22-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "22-content",
+    "original": "그건… 맞네, 하지만 그건… 뭐라고 설명할 수 없지만, 내… 피가 기억하고 있는 소리였어.",
+    "context": "EN :\nThat is… indeed, that is correct. But I cannot well explain how—the only way I might explain this is… that it was as though my very blood remembered them still.\nJP :\nそれは…事実である、しかしあれは…。何と説明すればいいか\n分からぬが、私の…血が覚えている声だった。"
+  },
+  {
+    "key": "23-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "23-content",
+    "original": "그중에는 낯익은 목소리도, 내가 한때 아끼던 자들의 목소리도 있었던 것 같아.",
+    "context": "EN :\nI recognized some of them. And some were voices of those I once deeply cared for.\nJP :\nその中には聞き覚えのある声も、\n私がかつて大切にしていた者の声もあった気がするんだ。"
+  },
+  {
+    "key": "24-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "24-content",
+    "original": "나의 바람과 상관없이 어버이의 자리에는 내가 앉게 되었네. 이미 앉아 있었다고 해야 바를까.",
+    "context": "EN :\nIt seems that I was, against my own desire, made to ascend to my Father’s seat. Perhaps I always was, ever since then.\nJP :\n私の意思とは関係なく、父上の座には私が座ることになったのだ。\n既に座っていたと言ったほうが正しいか。"
+  },
+  {
+    "key": "25-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "25-content",
+    "original": "그와 동시에 본인에게… 지금까지 참아왔던 갈증뿐만 아니라, 자식들의 목마름까지 전부… 몰아치더군.",
+    "context": "EN :\n… And I was struck not only by my own thirst, but the combined thirst of every single one of the Children.\nJP :\nそれと同時に当人へ…今まで耐えてきた渇きのみならず、\n子供達が抱える渇きまで全て…押し寄せてきたのだ。"
+  },
+  {
+    "key": "26-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "26-content",
+    "original": "갈증…",
+    "context": "EN :\nThirst…\nJP :\n渇き…。"
+  },
+  {
+    "key": "27-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "27-content",
+    "original": "그래, 내게도 갈증이 있었네.",
+    "context": "EN :\nIndeed, I am also bound by that thirst.\nJP :\nそうだ、私にも渇きがあった。"
+  },
+  {
+    "key": "28-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "28-content",
+    "original": "혈귀니까, 당연한 이치겠지.",
+    "context": "EN :\nIt is only natural. Because I am a Bloodfiend.\nJP :\n血鬼だから、当然の道理だろう。"
+  },
+  {
+    "key": "29-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "29-content",
+    "original": "결과적으로 나는 그 무수한 압력들에 정신을 놓치게 되었고…",
+    "context": "EN :\nThus the pressure of it all broke my hold of sanity, and…\nJP :\n結果として、私はあの無数の圧力に意識を手放してしまい…。"
+  },
+  {
+    "key": "30-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "30-content",
+    "original": "수감자이자 동료인 돈키호테가 아니라, 상위 권속 혈귀… 돈키호테로서 그대들을 해치게 되고 만걸세.",
+    "context": "EN :\n… I… hurt you all. As Don Quixote the Bloodfiend, a higher Kindred… not as Don Quixote, a Sinner and your friend.\nJP :\n囚人にして仲間であるドンキホーテではなく、上位眷属の血鬼…\nドンキホーテとして、そなたらに襲いかかってしまったわけである。"
+  },
+  {
+    "key": "31-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "31-content",
+    "original": "돈키호테 씨, 이건… 당신 잘못이…",
+    "context": "EN :\nDon Quixote, this isn’t your fault, it’s…\nJP :\nドンキホーテさん、これは…あなたのせいじゃ…。"
+  },
+  {
+    "key": "32-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "32-content",
+    "original": "아니, 그런 말은 이제 의미가 없네…",
+    "context": "EN :\nNo, such words are now meaningless…\nJP :\nいや、そういう言葉にもう意味はないのだ…。"
+  },
+  {
+    "key": "33-content",
+    "original": "돈키호테가 이젠 얌전히 묶여 있는 자신의 신발을 가만히 내려다보았다.",
+    "context": "EN :\nShe looked down at her pair of shoes, their strings again neatly tied.\nJP :\nドンキホーテは、今や大人しく結ばれている\n自分の靴を静かに見下ろした。"
+  },
+  {
+    "key": "34-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "34-content",
+    "original": "상부에서는 자네에게 정기적으로 인공 혈액팩을 제공할 예정일세.",
+    "context": "EN :\nThe higher office will now be regularly supplying you with artificial blood packs.\nJP :\n上層部からは君に定期的に\n人工血液パックを支給する予定である。"
+  },
+  {
+    "key": "35-content",
+    "original": "그때, 멀찍이서 무언가를 열심히 적어 내려가던 호엔하임이 슬그머니 걸어왔다.",
+    "context": "EN :\nHohenheim approached us, after spending a while vigorously scribbling something in his notes.\nJP :\nそのとき、遠くで何やら書き付けていたホーエンハイムが\n静かに歩み寄ってきた。"
+  },
+  {
+    "key": "36-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "36-content",
+    "original": "일반 혈액과 성분도 비슷하고… 수급에도 전혀 문제가 없는 방향으로 말이지.",
+    "context": "EN :\nThe blood substitute will be very similar to real blood in terms of composition... and we won't have any issues with supply.\nJP :\n通常の血液と成分がほぼ同じで…供給にも問題のない方向にだな。"
+  },
+  {
+    "key": "37-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "37-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "38-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "38-content",
+    "original": "설마 자네의 충동을 혈액의 섭취 없이 그저 정신력으로만 버텨낼 수 있을 거라는 생각은 하지 않았으리라 믿네.",
+    "context": "EN :\nI don't suppose you actually believed that mere willpower would be enough to withstand this urge?\nJP :\nまさか君の衝動を血液の摂取なしに、ただ精神力だけで\n抑えられるという考えでいたわけではなかろう。"
+  },
+  {
+    "key": "39-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "39-content",
+    "original": "…실제로 본인은 지금까지 잘 참아오고 있었네만.",
+    "context": "EN :\n... I have done quite well suppressing it thus far.\nJP :\n…実際、当人は今まで上手いこと耐えてきたのだが。"
+  },
+  {
+    "key": "40-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "40-content",
+    "original": "맞네. 그리고 그것이 언젠가의 LCB가 맞닥뜨리게 될 대형 폭탄의 불붙은 심지였기도 하지.",
+    "context": "EN :\nIndeed. And that was precisely the wick attached to the ticking time bomb within the LCB.\nJP :\nそれは事実だろう。そしてそれこそ、いつかLCBが対面するであろう\n火の付いた大型爆弾の導火線でもあったのさ。"
+  },
+  {
+    "key": "41-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "41-content",
+    "original": "오늘 자네가 한 것처럼 그 억제구는 너무도 손쉽게 벗어버릴 수 있기도 하고.",
+    "context": "EN :\nMust I remind you that the soundness of this 'limiter' of yours is quite tenuous, as today's events have demonstrated?\nJP :\n今日、君が試みた通り\nあの抑制具がいとも容易く外れてしまう場合もある。"
+  },
+  {
+    "key": "42-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "42-content",
+    "original": "잠재적 위험을 해소하기 위해 일부러 실험을 강행했다는 건가요, 호엔하임.",
+    "context": "EN :\nIs it your implication that the purpose of conducting this reckless experiment was to determine the full extent of the latent danger?\nJP :\n潜在的な危険を解消するためにわざと実験を\n強行したというのですか、ホーエンハイム。"
+  },
+  {
+    "key": "43-model",
+    "original": "후디히스",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "43-content",
+    "original": "그렇다기엔 저 녀석은 그냥 순수하게 궁금증을 해소하려는 것 같았는데…",
+    "context": "EN :\nI dunno, it seemed like he was in it only to sate his curiosity.\nJP :\nそんなのよりかは、アイツはただ純粋に\n疑問を解決したかっただけみてぇに見えたけどな…。"
+  },
+  {
+    "key": "44-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "44-content",
+    "original": "타이밍이 적절했을 뿐일세. 늦든 이르든 비슷한 방법으로 위험 요소를 배제해야 했지. 이 정도의 위험 요소인 줄 알았더라면 강제 소환이라도 신청했을 걸세.",
+    "context": "EN :\nCall it merely the auspice of opportune convenience. This risk factor had to be measured sooner or later—had I known the full extent of the danger she posed, I would have immediately requested a forceful summoning of your department.\nJP :\nタイミングが適切であっただけだ。遅かれ早かれ似た方法で\nリスクを排除する必要があったろう。これほどの危険要素だと\n分かっていたのなら強制召喚でも申請していたな。"
+  },
+  {
+    "key": "45-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "45-content",
+    "original": "대신, 몰랐던 만큼 많은 정보를 얻을 순 있었지만.",
+    "context": "EN :\nOf course, as large as this void of unknowns was, we were able to fill it with much new information.\nJP :\nその代わり、知らなかったがゆえに多くの情報は得られたが。"
+  },
+  {
+    "key": "46-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "46-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "47-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "47-content",
+    "original": "혈귀에 대한 보고와 이번 실험 결과를 비교해 보면 몇 가지 분석을 할 수 있네.",
+    "context": "EN :\nCertain analyses can be drawn by comparing the reports regarding Bloodfiends and this very experiment.\nJP :\n血鬼に関する報告と、今回の実験結果を照らし合わせれば\nいくつか分析が可能である。"
+  },
+  {
+    "key": "48-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "48-content",
+    "original": "가령, 자네가 겪었다는 하위 권속 혈귀 전체의 욕구가 포함된 갈증.",
+    "context": "EN :\nLet us discuss the thirst you experienced first, for example—the combined desire of every lower Kindred.\nJP :\nたとえば、君が体験したという\n下位眷属全体の欲求が混ざった渇き。"
+  },
+  {
+    "key": "49-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "49-content",
+    "original": "분명 라만차랜드에서의 사건으로 가문의 모든 권속은 죽음을 맞이했지만, 자네는 자식 되는 것들의 목소리를 들었을 걸세.",
+    "context": "EN :\nIndeed, it is true. The Manchegan Kindreds have been completely eradicated due to the events at La Manchaland. But you still heard the voices of your 'Children', yes?\nJP :\n確かに、ラ・マンチャランドの一件で\n一族の全眷属は死を迎えたが、君は子供となる者たちの声を聞いたのであろう。"
+  },
+  {
+    "key": "50-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "50-content",
+    "original": "…무슨 이야기지?",
+    "context": "EN :\n... What are you trying to say?\nJP :\n…何が言いたい。"
+  },
+  {
+    "key": "51-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "51-content",
+    "original": "'피'에 담긴 강한 구속력.",
+    "context": "EN :\nI aim to discuss the powerful binding force contained within 'blood'.\nJP :\n「血」に宿る強い拘束力。"
+  },
+  {
+    "key": "52-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "52-content",
+    "original": "LCD에서 보낸 협력 보고서에는 혈액이 단순한 열량 보급의 의미가 아니라, 무형의 가치까지 모두 함유한 무언가라고 하더군.",
+    "context": "EN :\nLCD's cooperative report explains that 'blood' is not merely a carrier of nutrients, but something more. That it contains certain abstract values as well.\nJP :\nLCDからの協力レポートには、血液が単なる栄養補給源ではなく\n無形の価値が内包された何かであるとあった。"
+  },
+  {
+    "key": "53-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "53-content",
+    "original": "두루뭉술한 보고서라고 볼멘소리를 늘어놓자 그 현장 추리 팀장이라는 작자가 뱉어낸 내용이 또 놀라웠지.",
+    "context": "EN :\nWe sent in a complaint, that the report was far too vague in its wording, and we received a reply their On-site Investigative Reasoning Team Leader spat out, the contents of which were equally fascinating.\nJP :\n曖昧なレポートだとぼやいたら、そこの現場推理チーフとかいう奴が\n吐き出した内容がまた驚くべき内容であった。"
+  },
+  {
+    "key": "54-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "54-content",
+    "original": "그들의 욕구… 즉 갈증은 가문의 피에 녹아들고 새겨져 있는 것과 마찬가지라더군. 그것을 혼자 짊어지는 것은 무거운 일이니 가족을 늘려가며 그 중압감을 나눠 짊어짐이 일반적이지만…",
+    "context": "EN :\nThis desire of their kind... this 'thirst', is something that may as well be imbued and imprinted on the Familial bloodline. Normally, the weight of that thirst is far too heavy for any individual to bear—which is why they propagate. To bear the unbearable burden together.\nJP :\n連中の欲求…つまり渇きは、一族の血の中に溶け込み刻まれているも同然なんだと。\nそれを一人で背負うには重すぎるから、\n家族を増やして重圧感を分けて背負うのが一般的だが…。"
+  },
+  {
+    "key": "55-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "55-content",
+    "original": "가문의 핏줄이 단 하나 생존한 상황에서 전부 나누어졌던 것이 한 점으로 합쳐졌을 때 이성을 유지하는 건 어려운 일일 테지.",
+    "context": "EN :\n... But considering that all of that desire is now focused unto an individual, on account of the extinction of her entire Family line, it is easy to see why her hold to sanity was so easily broken, no matter the strength of her will.\nJP :\n一族の血筋がたった一人しか生存していない状況で、本来分散されていたものが\n一点に合わされば理性を保つのは難しいであろう。"
+  },
+  {
+    "key": "56-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "56-content",
+    "original": "가문의 권세를 다시 일으켜야 한다는 책임감, 중압감, 의무감…",
+    "context": "EN :\nShe alone was made to bear the responsibility, the pressure, the duty... of having to raise the Family once again.\nJP :\n一族の威光を再興しなければという責任感、重圧、義務感…。"
+  },
+  {
+    "key": "57-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "57-content",
+    "original": "그리고 그것들이 어느 방향으로도 실현되지 못하고 있는 것에 대한 갈증, 갈증, 갈증…",
+    "context": "EN :\nAnd because none of those needs are currently met, there comes the endlessly exacerbating thirst, thirst, and more thirst…\nJP :\nそしてそれらが、どの方向にも昇華されず\nくすぶっていることへの渇き、渇き、渇き…。"
+  },
+  {
+    "key": "58-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "58-content",
+    "original": "그런 무형의 가치가 자네들 혈귀에게는 혈액이라는 이름으로 보존되고 있다니 경이로울 수밖에.",
+    "context": "EN :\nIt is quite fascinating to see how your kind preserves these very abstract values in the physical form of blood.\nJP :\nそのような無形の価値が、君たち血鬼にとっては血という名の下に\n保存されているのは驚異的だと言うしか。"
+  },
+  {
+    "key": "59-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "59-content",
+    "original": "갈증이라는 활자로는 이 정도의 현상이 발생할 것이라고 상상하긴 어려웠지. 이것만은 내 패착일세.",
+    "context": "EN :\nThe mere words 'thirst' does quite the insufficient job of describing the intensity with which you have lost control. This was my oversight, I must admit.\nJP :\n渇きという活字だけで、これほどの現象が起こるとは\n想像することが難しかった。それだけは私の読み違いであったな。"
+  },
+  {
+    "key": "60-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "60-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "61-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "61-content",
+    "original": "본능을 뿌리치려는 것에 대한 노력 자체는 존중하겠네. 하지만 지급받는 혈액팩을 소홀히 하지 않을 것을 추천하지.",
+    "context": "EN :\nI do respect your efforts to be liberated from your nature, I truly do. But I also maintain that it is highly advisable for you to regularly consume the provided blood packs.\nJP :\n本能を振り払おうとする努力自体は尊重しよう。\nだが、これからは支給される血液パックを怠らず摂取することをお勧めする。"
+  },
+  {
+    "key": "62-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "62-content",
+    "original": "…알겠네.",
+    "context": "EN :\n... Understood.\nJP :\n…分かったのだ。"
+  },
+  {
+    "key": "63-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "63-content",
+    "original": "하지만… 언젠가는… 로시난테에서 내리고…",
+    "context": "EN :\nBut… one day, I wish to dismount from Rocinante…\nJP :\nでも…いつかは…ロシナンテから降りて…。"
+  },
+  {
+    "key": "64-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "64-content",
+    "original": "땅을 밟고 걸어 보고 싶군…",
+    "context": "EN :\n… and walk bare of feet, and feel the earth under my own skin.\nJP :\n地を踏んで歩いてみたいものだな…。"
+  },
+  {
+    "key": "65-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "65-content",
+    "original": "그래도 한 가지 긍정적인 사실은 확실하게 정립할 수 있었지.",
+    "context": "EN :\nI was able to establish one positive fact from this exercise, however.\nJP :\nそれでもひとつ、肯定的な事実が確かに成立した。"
+  },
+  {
+    "key": "66-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "66-content",
+    "original": "무엇을…",
+    "context": "EN :\nWhat might that be…?\nJP :\n何がだ…。"
+  },
+  {
+    "key": "67-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "67-content",
+    "original": "신발을 벗어도, 그걸 죽을 때까지, 죽어서도 막아주는 자들이 있다는 것 말이야.",
+    "context": "EN :\nThat there are those who would, quite literally, throw their lives on the line to stop you even if you were to take off your shoes.\nJP :\n靴を脱ごうと、それを死ぬときまで、死してもなお\n止めてくれる者がいるということである。"
+  },
+  {
+    "key": "68-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "68-content",
+    "original": "즉, 다른 부서에서 별도로 통제하지 않아도 될 것 같다는 뜻이지.",
+    "context": "EN :\nIn other words, I don't believe it to be necessary for other departments to exercise any separate control over you.\nJP :\nつまり、他の部門で別途統制する必要は\n無さそうだということである。"
+  },
+  {
+    "key": "69-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "69-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "70-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "70-content",
+    "original": "결과를 직접 눈으로 보았으니, 보고서엔 이렇게 써야겠어.",
+    "context": "EN :\nWell, now that I’ve had a first-hand account of your conditions, I will write the following in the report.\nJP :\nこの目で確認した事実だ、レポートにはこう書くとしよう。"
+  },
+  {
+    "key": "71-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "71-content",
+    "original": "아직 불안정한 상태지만… 본인의 노력, 그리고 주위 환경의 노력 여하에 따라… 충분히 통제 가능하다고.",
+    "context": "EN :\nStill quite unstable… yet, with the effort from the subject herself, and efforts from various other environmental factors… this subject has been deemed sufficiently controllable.\nJP :\nまだ不安定な状態だが…本人の努力、\nそして周囲環境の協力次第で…十分制御可能であると。"
+  },
+  {
+    "key": "72-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "72-content",
+    "original": "다시 한번 말하지만, 나는 노력을 가상하게 여기네.",
+    "context": "EN :\nOnce again, I do respect your efforts. Or any kind of effort, really.\nJP :\n繰り返すが、私は努力を尊く思っておる。"
+  },
+  {
+    "key": "73-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "73-content",
+    "original": "해본 적이 없거든.",
+    "context": "EN :\nBecause I've never had much use for it myself.\nJP :\nやったことがないからな。"
+  },
+  {
+    "key": "74-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "74-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "75-content",
+    "original": "돈키호테는 잠시 호흡을 고르더니, 평소의 순한 눈빛으로 돌아와 수감자들 앞에 섰다.",
+    "context": "EN :\nDon Quixote took a deep breath, then turned to face the Sinners. By then, her eyes had regained their usual, softer look.\nJP :\nドンキホーテは少し息整えると、\nいつもの穏やかな目つきで囚人たちの前に立った。"
+  },
+  {
+    "key": "76-content",
+    "original": "하지만, 아직 침울한 마음을 지울 수는 없었는지… 말투는 여전히 라만차랜드 때를 떠올리게 하기도 했다.",
+    "context": "EN :\nBut… sorrow was seeping through the tone of her voice. Despite her theatrical manner of speech returning, her tone reminded me of our time at La Manchaland.\nJP :\nとはいえ、まだ沈んだ気持ちを消すことはできなかったせいか…\n口調はどこかラ・マンチャランドの頃を思い出せるものだった。"
+  },
+  {
+    "key": "77-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "77-content",
+    "original": "모두들 미안하네. 앞으로는 로시난테를… 신발을 벗을 일이 없도록… 노력하겠네.",
+    "context": "EN :\nMy deepest apologies, dearest friends. Forsooth, I shall ever-persevere to see that Rocinante... my shoes... are never to be removed again.\nJP :\nみんな、すまなかった。\n今後はロシナンテ…この靴を脱ぐことがないよう…努力しよう。"
+  },
+  {
+    "key": "78-model",
+    "original": "후디히스",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "78-content",
+    "original": "야, 방향이 잘못 됐잖아.",
+    "context": "EN :\nLass, you're lookin' at it all wrong.\nJP :\nおい、目指す方向がおかしいぞ。"
+  },
+  {
+    "key": "79-model",
+    "original": "후디히스",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "79-content",
+    "original": "언젠가 그 누런 운동화를 벗고 다닐 수 있도록 노력해야지.",
+    "context": "EN :\nYou're going to remove those shoes one day, yeah? And that's what you're going to persevere towards.\nJP :\nいつかその黄ばんだ運動靴を脱いで\n歩けるように努力しろってことだ。"
+  },
+  {
+    "key": "80-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "80-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "81-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "81-content",
+    "original": "그래야지.",
+    "context": "EN :\nVerily.\nJP :\nその通りだな。"
+  },
+  {
+    "key": "82-content",
+    "original": "피식, 하고 웃은 것 같기도 하다.",
+    "context": "EN :\nI think she let out a brief, quiet laughter.\nJP :\nクスッと、笑ったようにも見えた。"
+  },
+  {
+    "key": "83-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "83-content",
+    "original": "그런데, 나리.",
+    "context": "EN :\nAh, Manager Esquire.\nJP :\nところで、管理人殿。"
+  },
+  {
+    "key": "84-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "84-content",
+    "original": "혹시 본인에게 말해주지 않은 것이 있는가?",
+    "context": "EN :\nPerchance, is there aught that thou concealest from my knowledge?\nJP :\nもしや、当人に言ってないことはないか？"
+  },
+  {
+    "key": "85-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "85-content",
+    "original": "<뭐, 뭘?>",
+    "context": "EN :\n<Whu-what do you mean?>\nJP :\n<な、何を？>"
+  },
+  {
+    "key": "86-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "86-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "87-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "87-content",
+    "original": "<딱히… 없는 것 같은데.>",
+    "context": "EN :\n<I... don't think so?>\nJP :\n<特には…無いと思うけど。>"
+  },
+  {
+    "key": "88-content",
+    "original": "파우스트와 눈이 마주친 건 우연이 아닐 테지.",
+    "context": "EN :\nIt’s no coincidence that, at this very moment, I noticed Faust looking in my direction.\nJP :\nファウストと目が合ったのは偶然ではないだろう。"
+  },
+  {
+    "key": "89-content",
+    "original": "이 선택이 옳은지는 알 수 없지만…",
+    "context": "EN :\nI don’t know if I made the right choice here, but…\nJP :\nこの選択が正しいのかは分からないけど…。"
+  },
+  {
+    "key": "90-content",
+    "original": "잘했다는 듯 고개를 살포시 끄덕이는 모습에 더 이상 째깍거리는 소리를 내지 않았다.",
+    "context": "EN :\nFaust nodded lightly, as though to say that I did. I stopped hesitating, and the tick-tocking noise came to a stop.\nJP :\n良くやったとでも言わんばかりに静かに頷いたので、\n私はもうカチカチと音を出すのをやめた。"
+  },
+  {
+    "key": "91-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "91-content",
+    "original": "음… 그렇다면 되었소.",
+    "context": "EN :\nMm... very well, then.\nJP :\nうむ…それならいいのだが。"
+  },
+  {
+    "key": "92-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "92-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "93-content",
+    "original": "다만, 아무 일 아니었다는 듯 돌아가는 돈키호테의 뒷모습에… 불안감이 드는 것은 어쩔 수 없었다.",
+    "context": "EN :\nHowever, I cannot help but admit that I felt some degree of anxiety as I watched Don Quixote walk away as though nothing had happened.\nJP :\nただ、何事も無かったかのように踵を返すドンキホーテの\n背中を見ると…不安が募ってくるのだけはどうしようもなかった。"
+  }
+]

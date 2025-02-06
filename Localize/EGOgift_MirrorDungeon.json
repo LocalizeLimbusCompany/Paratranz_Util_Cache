@@ -1331,8 +1331,8 @@
   },
   {
     "key": "9042-desc",
-    "original": "아군이 스킬 효과로 부여하는 [Laceration] 위력 수치가 2배로 적용.\n\n턴 종료 시 [Laceration] 또는 특수 출혈에 걸린 적들이 다음 턴에 속도가 2만큼 감소.",
-    "context": "EN :\nAllies inflict x2 [Laceration] Potency with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Unique Bleed' lose 2 Speed next turn.\nJP :\n味方がスキル効果で与える[Laceration]威力数値が2倍になる。\n\nターン終了時、[Laceration]または特殊出血状態の敵は次のターンに速度が2減少。"
+    "original": "아군이 스킬 효과로 적에게 부여하는 [Laceration] 위력 수치가 2배로 적용.\n\n턴 종료 시 [Laceration] 또는 특수 출혈에 걸린 적들이 다음 턴에 속도가 2만큼 감소.",
+    "context": "EN :\nAgainst enemies, allies inflict x2 [Laceration] Potency with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Unique Bleed' lose 2 Speed next turn.\nJP :\n味方がスキル効果で敵に与える[Laceration]威力数値が2倍になる。\n\nターン終了時、[Laceration]または特殊出血状態の敵は次のターンに速度が2減少。"
   },
   {
     "key": "9042-simpleDesc$[0].simpleDesc",
@@ -1371,8 +1371,8 @@
   },
   {
     "key": "29042-desc",
-    "original": "아군이 스킬 효과로 부여하는 <style=\"upgradeHighlight\">[Laceration] 위력 수치가 2.5배로 적용.</style>\n\n턴 종료 시 [Laceration] 또는 특수 출혈에 걸린 다음 턴에 속도가 3만큼 감소.",
-    "context": "EN :\nAllies inflict <style=\"upgradeHighlight\">x2.5 [Laceration] Potency</style> with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Unique Bleed' lose 3 Speed next turn.\nJP :\n味方がスキル効果で与える<style=\"upgradeHighlight\">[Laceration]威力数値を2.5倍で適用。</style>\n\nターン終了時、[Laceration]または特殊出血状態の敵は次のターンに速度が3減少。"
+    "original": "아군이 스킬 효과로 부여하는 <style=\"upgradeHighlight\">[Laceration] 위력 수치가 2.5배로 적용.</style>\n\n턴 종료 시 [Laceration] 또는 특수 출혈에 걸린 적들이 다음 턴에 속도가 3만큼 감소.",
+    "context": "EN :\nAllies inflict <style=\"upgradeHighlight\">x2.5 [Laceration] Potency</style> with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Unique Bleed' lose 3 Speed next turn.\nJP :\n味方がスキル効果で与える<style=\"upgradeHighlight\">[Laceration]威力数値を2.5倍で適用。</style>\n\nターン終了時、[Laceration]または特殊出血状態の敵全員が次のターンに速度が3減少。"
   },
   {
     "key": "29042-simpleDesc$[0].simpleDesc",
@@ -2431,8 +2431,8 @@
   },
   {
     "key": "9066-desc",
-    "original": "스테이지 첫 턴 시작 시, 모든 아군이 [Breath] 위력 4 얻고 [Breath] 횟수 4 증가.\n\n오만 완전 공명을 발동하였다면 전투 시작 시, 모든 아군이 [Breath] 위력 2 얻고 [Breath] 횟수 2 증가.",
-    "context": "EN :\nFirst Turn Start of an Encounter: all allies gain 4 [Breath] Potency and +4 [Breath] Count.\n\nWhen activating Pride Absolute Resonance, all allies gain 2 [Breath] Potency and +2 [Breath] Count at Combat Start.\nJP :\nステージの1ターン目が開始時、全味方が[Breath]威力4を得て[Breath]回数が4増加。\n\n傲慢完全共鳴を発動したなら戦闘開始時、全味方が[Breath]威力2を得て[Breath]回数が2増加。"
+    "original": "스테이지 첫 턴 시작 시, 모든 아군이 [Breath] 위력 4 얻고 [Breath] 횟수 4 증가.\n\n오만 완전 공명을 발동하였다면 전투 시작 시, 모든 아군이 [Breath] 위력 2 얻고 [Breath] 횟수 2 증가.\n- [중첩 발동 불가] 흉통 료슈 E.G.O 패시브 「숨」 발동 시, 이 효과가 발동하지 않음",
+    "context": "EN :\nFirst Turn Start of an Encounter: all allies gain 4 [Breath] Potency and +4 [Breath] Count.\n\nWhen activating Pride Absolute Resonance, all allies gain 2 [Breath] Potency and +2 [Breath] Count at Combat Start.\n- [Cannot Stack] When Thoracalgia Ryōshū E.G.O Passive 「Breath」 activates, this effect does not activate\nJP :\nステージの1ターン目が開始時、全味方が[Breath]威力4を得て[Breath]回数が4増加。\n\n傲慢完全共鳴を発動したなら戦闘開始時、全味方が[Breath]威力2を得て[Breath]回数が2増加。\n- [重複発動不可] 胸痛 良秀E.G.Oパッシブ「息」発動時、この効果が発動しない"
   },
   {
     "key": "9066-simpleDesc$[0].simpleDesc",
@@ -2451,8 +2451,8 @@
   },
   {
     "key": "19066-desc",
-    "original": "<style=\"upgradeHighlight\">웨이브 첫 턴 시작 시</style>, 모든 아군이 <style=\"upgradeHighlight\">[Breath] 위력 5</style> 얻고 [Breath] 횟수 4 증가.\n\n오만 완전 공명을 발동하였다면 전투 시작 시, 모든 아군이 <style=\"upgradeHighlight\">[Breath] 위력 3 얻고</style> [Breath] 횟수 2 증가.",
-    "context": "EN :\n<style=\"upgradeHighlight\">First Turn Start of a wave</style>: All allies gain <style=\"upgradeHighlight\">5 [Breath] Potency</style> and +4 [Breath] Count.\n\nWhen activating Pride Absolute Resonance, all allies gain <style=\"upgradeHighlight\">3 [Breath] Potency</style> and +2 [Breath] Count.\nJP :\n<style=\"upgradeHighlight\">ウェーブの1ターン目が開始時</style>、全味方が<style=\"upgradeHighlight\">[Breath]威力5</style>を得て[Breath]回数が4増加。\n\n傲慢完全共鳴を発動したなら戦闘開始時、全味方が<style=\"upgradeHighlight\">[Breath]威力3を得て</style>[Breath]回数が2増加。"
+    "original": "<style=\"upgradeHighlight\">웨이브 첫 턴 시작 시</style>, 모든 아군이 <style=\"upgradeHighlight\">[Breath] 위력 5</style> 얻고 [Breath] 횟수 4 증가.\n\n오만 완전 공명을 발동하였다면 전투 시작 시, 모든 아군이 <style=\"upgradeHighlight\">[Breath] 위력 3 얻고</style> [Breath] 횟수 2 증가.\n- [중첩 발동 불가] 흉통 료슈 E.G.O 패시브 「숨」 발동 시, 이 효과가 발동하지 않음",
+    "context": "EN :\n<style=\"upgradeHighlight\">First Turn Start of a wave</style>: All allies gain <style=\"upgradeHighlight\">5 [Breath] Potency</style> and +4 [Breath] Count.\n\nWhen activating Pride Absolute Resonance, all allies gain <style=\"upgradeHighlight\">3 [Breath] Potency</style> and +2 [Breath] Count.\n- [Cannot Stack] When Thoracalgia Ryōshū E.G.O Passive 「Breath」 activates, this effect does not activate\nJP :\n<style=\"upgradeHighlight\">ウェーブの1ターン目が開始時</style>、全味方が<style=\"upgradeHighlight\">[Breath]威力5</style>を得て[Breath]回数が4増加。\n\n傲慢完全共鳴を発動したなら戦闘開始時、全味方が<style=\"upgradeHighlight\">[Breath]威力3を得て</style>[Breath]回数が2増加。\n- [重複発動不可] 胸痛 良秀E.G.Oパッシブ「息」発動時、この効果が発動しない"
   },
   {
     "key": "19066-simpleDesc$[0].simpleDesc",
@@ -2471,8 +2471,8 @@
   },
   {
     "key": "29066-desc",
-    "original": "웨이브 첫 턴 시작 시, 모든 아군이 [Breath] 위력 5 얻고 <style=\"upgradeHighlight\">[Breath] 횟수 5 증가.</style>\n\n<style=\"upgradeHighlight\">오만 공명을 발동하였다면</style> 전투 시작 시, 모든 아군이 [Breath] 위력 3 얻고 <style=\"upgradeHighlight\">[Breath] 횟수 3 증가.</style>",
-    "context": "EN :\nFirst Turn Start of a wave: all allies gain 5 [Breath] Potency and <style=\"upgradeHighlight\">+5 [Breath] Count</style>.\n\nWhen activating <style=\"upgradeHighlight\">Pride Resonance</style>, all allies gain 3 [Breath] Potency and <style=\"upgradeHighlight\">+3 [Breath] Count</style> at Combat Start.\nJP :\nウェーブの1ターン目が開始時、全味方が[Breath]威力5を得て<style=\"upgradeHighlight\">[Breath]回数が5増加。</style>\n\n<style=\"upgradeHighlight\">傲慢共鳴を発動したなら</style>戦闘開始時、全味方が[Breath]威力3を得て<style=\"upgradeHighlight\">[Breath]回数が3増加。</style>"
+    "original": "웨이브 첫 턴 시작 시, 모든 아군이 [Breath] 위력 5 얻고 <style=\"upgradeHighlight\">[Breath] 횟수 5 증가.</style>\n\n<style=\"upgradeHighlight\">오만 공명을 발동하였다면</style> 전투 시작 시, 모든 아군이 [Breath] 위력 3 얻고 <style=\"upgradeHighlight\">[Breath] 횟수 3 증가.</style>\n- [중첩 발동 불가] 흉통 료슈 E.G.O 패시브 「숨」 발동 시, 이 효과가 발동하지 않음",
+    "context": "EN :\nFirst Turn Start of a wave: all allies gain 5 [Breath] Potency and <style=\"upgradeHighlight\">+5 [Breath] Count</style>.\n\nWhen activating <style=\"upgradeHighlight\">Pride Resonance</style>, all allies gain 3 [Breath] Potency and <style=\"upgradeHighlight\">+3 [Breath] Count</style> at Combat Start.\n- [Cannot Stack] When Thoracalgia Ryōshū E.G.O Passive 「Breath」 activates, this effect does not activate\nJP :\nウェーブの1ターン目が開始時、全味方が[Breath]威力5を得て<style=\"upgradeHighlight\">[Breath]回数が5増加。</style>\n\n<style=\"upgradeHighlight\">傲慢共鳴を発動したなら</style>戦闘開始時、全味方が[Breath]威力3を得て<style=\"upgradeHighlight\">[Breath]回数が3増加。</style>\n- [重複発動不可] 胸痛 良秀E.G.Oパッシブ「息」発動時、この効果が発動しない"
   },
   {
     "key": "29066-simpleDesc$[0].simpleDesc",
@@ -3236,8 +3236,8 @@
   },
   {
     "key": "9090-desc",
-    "original": "스테이지 시작 시, [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n아군이 스킬 효과로 부여하는 [Laceration] 위력과 [Laceration] 횟수가 2배로 적용.\n\n속도가 가장 빠른 아군 1명의 [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬의 코인 위력 +2, 피해량 +100%. 해당 캐릭터가 공격하거나, 합을 진행한 적이 사망했으면, 사망한 적의 남은 [Laceration] 위력을 모든 적에게 무작위로 나눠서 부여. (집중 전투인 경우, 부위로 판정)\n\n[Laceration] 위력, 횟수 또는 특수 출혈을 부여하는 스킬의 코인 위력 +1",
-    "context": "EN :\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Laceration] Potency, Count, or 'Unique Bleed' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nAllies inflict double the amount of [Laceration] Potency and Count with Skill effects.\n\n1 ally with the fastest Speed) Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed': Coin Power +2, damage dealt +100%. If the enemy attacked by or Clashed with the said ally dies, inflict the remaining [Laceration] Potency on the enemy randomly between all enemies. (for Focused Encounters, Parts)\n\nCoin Power +1 to all Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed'\nJP :\nステージ開始時、[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n味方がスキル効果で付与する[Laceration]威力と[Laceration]回数が2倍で適用。\n\n速度が最も高い味方1名の[Laceration]威力、[Laceration]回数または特殊出血を付与する撃スキルのコイン威力 +2, ダメージ量 +100%. 該当キャラクターが攻撃するか、マッチを実施した敵が死亡したなら、死亡した敵の残った[Laceration]威力を全ての敵へランダムに分けて付与。(集中戦闘の場合、部位で判定)\n\n[Laceration]威力、回数または特殊出血を付与するスキルのコイン威力 +1"
+    "original": "스테이지 시작 시, [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n아군이 스킬 효과로 적에게 부여하는 [Laceration] 위력과 [Laceration] 횟수가 2배로 적용.\n\n턴 시작 시 편성 순서가 제일 빠른 인격의 [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬의 코인 위력 +2, 피해량 +100%. 해당 캐릭터가 공격하거나, 합을 진행한 적이 사망했으면, 사망한 적의 남은 [Laceration] 위력을 모든 적에게 무작위로 나눠서 부여. (집중 전투인 경우, 부위로 판정)\n\n[Laceration] 위력, 횟수 또는 특수 출혈을 부여하는 스킬의 코인 위력 +1",
+    "context": "EN :\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Laceration] Potency, Count, or 'Unique Bleed' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nAllies inflict double the amount of [Laceration] Potency and Count with Skill effects against enemies.\n\nThe ally highest in the Deployment order) Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed': Coin Power +2, damage dealt +100%. If the enemy attacked by or Clashed with the said ally dies, inflict the remaining [Laceration] Potency on the enemy randomly between all enemies. (for Focused Encounters, Parts)\n\nCoin Power +1 to all Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed'\nJP :\nステージ開始時、[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n味方がスキル効果で敵に付与する[Laceration]威力と[Laceration]回数が2倍で適用。\n\nターン開始時、編成順が最も早い人格の[Laceration]威力、[Laceration]回数または特殊出血を付与する撃スキルのコイン威力 +2, ダメージ量 +100%. 該当キャラクターが攻撃するか、マッチを実施した敵が死亡したなら、死亡した敵の残った[Laceration]威力を全ての敵へランダムに分けて付与。(集中戦闘の場合、部位で判定)\n\n[Laceration]威力、回数または特殊出血を付与するスキルのコイン威力 +1"
   },
   {
     "key": "9090-simpleDesc$[0].simpleDesc",
@@ -3246,7 +3246,7 @@
   },
   {
     "key": "9090-simpleDesc$[1].simpleDesc",
-    "original": "스킬 코인 위력+2, 피해량 100% 증가",
+    "original": "스킬 코인 위력 +2, 피해량 100% 증가",
     "context": "EN :\nSkill Coin Power +2 and deal +100% more damage\nJP :\nスキルコイン威力 +2, ダメージ量100%増加"
   },
   {
@@ -3731,7 +3731,7 @@
   },
   {
     "key": "9103-desc",
-    "original": "[편성 1번, 2번 인격 전용 효과]\n\n[Combustion] 또는 특수 화상에 걸린 적에게 스킬 효과로 [Combustion] 또는 특수 화상을 부여할 경우, 다음 턴에 [Agility] 1 얻음. (스킬 당 1회, 턴당 최대 2회)\n\n[Agility]을 이미 보유한 경우, 효과가 강화되어 [Agility] 1, [AttackUp] 2 얻음. (스킬 당 1회, 턴당 최대 2회)",
+    "original": "[편성 1번, 2번 인격 전용 효과]\n\n[Combustion] 또는 특수 화상에 걸린 적에게 스킬 효과로 [Combustion] 또는 특수 화상을 부여할 경우, 다음 턴에 [Agility] 1 얻음. (스킬 당 1회, 턴 당 최대 2회)\n\n[Agility]을 이미 보유한 경우, 효과가 강화되어 [Agility] 1, [AttackUp] 2 얻음. (스킬 당 1회, 턴 당 최대 2회)",
     "context": "EN :\n[Effects apply only to #1, #2 Deployed Identities]\n\nWhen inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain 1 [Agility] and 2 [AttackUp] instead. (once per Skill, 2 times per turn)\nJP :\n[編成1・2番人格専用効果]\n\n[Combustion]または特殊火傷状態の敵へスキル効果で[Combustion]または特殊火傷をを付与する場合、次のターンに[Agility]1を得る(スキルごとに1回、1ターンにつき最大2回)\n\n[Agility]を既に持っているなら、効果が強化されて[Agility]1, [AttackUp]2を得る。(スキルごとに1回、1ターンにつき最大2回)"
   },
   {
@@ -3746,7 +3746,7 @@
   },
   {
     "key": "19103-desc",
-    "original": "[편성 1번, 2번, <style=\"upgradeHighlight\">3번</style> 인격 전용 효과]\n\n[Combustion] 또는 특수 화상에 걸린 적에게 스킬 효과로 [Combustion] 또는 특수 화상을 부여할 경우, 다음 턴에 [Agility] 1 얻음. (스킬 당 1회, 턴당 최대 2회)\n\n[Agility]을 이미 보유한 경우, 효과가 강화되어 <style=\"upgradeHighlight\">[Agility] 2</style>, [AttackUp] 2 얻음. (스킬 당 1회, 턴당 최대 2회)",
+    "original": "[편성 1번, 2번, <style=\"upgradeHighlight\">3번</style> 인격 전용 효과]\n\n[Combustion] 또는 특수 화상에 걸린 적에게 스킬 효과로 [Combustion] 또는 특수 화상을 부여할 경우, 다음 턴에 [Agility] 1 얻음. (스킬 당 1회, 턴 당 최대 2회)\n\n[Agility]을 이미 보유한 경우, 효과가 강화되어 <style=\"upgradeHighlight\">[Agility] 2</style>, [AttackUp] 2 얻음. (스킬 당 1회, 턴 당 최대 2회)",
     "context": "EN :\n[Effects apply only to #1, #2, <style=\"upgradeHighlight\">and #3</style> Deployed Identities]\n\nWhen inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain <style=\"upgradeHighlight\">2 [Agility]</style> and 2 [AttackUp] instead. (once per Skill, 2 times per turn)\nJP :\n[編成1・2・<style=\"upgradeHighlight\">3</style>番人格専用効果]\n\n[Combustion]または特殊火傷状態の敵へスキル効果で[Combustion]または特殊火傷をを付与する場合、次のターンに[Agility]1を得る(スキルごとに1回、1ターンにつき最大2回)\n\n[Agility]を既に持っているなら、効果が強化されて<style=\"upgradeHighlight\">[Agility]2</style>, [AttackUp]2を得る。(スキルごとに1回、1ターンにつき最大2回)"
   },
   {
@@ -3761,7 +3761,7 @@
   },
   {
     "key": "29103-desc",
-    "original": "[편성 1번, 2번, 3번 인격 전용 효과]\n\n[Combustion] 또는 특수 화상에 걸린 적에게 스킬 효과로 [Combustion] 또는 특수 화상을 부여할 경우, 다음 턴에 [Agility] 1 얻음. (스킬 당 1회, 턴당 최대 2회)\n\n[Agility]을 이미 보유한 경우, 효과가 강화되어 [Agility] 2, [AttackUp] 2, <style=\"upgradeHighlight\">[AttackDmgUp] 2</style> 얻음. (스킬 당 1회, 턴당 최대 2회)",
+    "original": "[편성 1번, 2번, 3번 인격 전용 효과]\n\n[Combustion] 또는 특수 화상에 걸린 적에게 스킬 효과로 [Combustion] 또는 특수 화상을 부여할 경우, 다음 턴에 [Agility] 1 얻음. (스킬 당 1회, 턴 당 최대 2회)\n\n[Agility]을 이미 보유한 경우, 효과가 강화되어 [Agility] 2, [AttackUp] 2, <style=\"upgradeHighlight\">[AttackDmgUp] 2</style> 얻음. (스킬 당 1회, 턴 당 최대 2회)",
     "context": "EN :\n[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nWhen inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain 2 [Agility], 2 [AttackUp], and <style=\"upgradeHighlight\">2 [AttackDmgUp]</style> instead. (once per Skill, 2 times per turn)\nJP :\n[編成1・2・3番人格専用効果]\n\n[Combustion]または特殊火傷状態の敵へスキル効果で[Combustion]または特殊火傷をを付与する場合、次のターンに[Agility]1を得る(スキルごとに1回、1ターンにつき最大2回)\n\n[Agility]を既に持っているなら、効果が強化されて[Agility]2, [AttackUp]2, <style=\"upgradeHighlight\">[AttackDmgUp] 2</style>を得る。(スキルごとに1回、1ターンにつき最大2回)"
   },
   {
@@ -3791,13 +3791,13 @@
   },
   {
     "key": "9105-desc",
-    "original": "[Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 E.G.O 각성 스킬 사용 시 발동 (침식 스킬은 적용되지 않음)\n\n소모하는 (분노 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가\n\n분노 속성 E.G.O 각성 스킬의 경우, 효과가 강화되어 공격 시작 전에 [Combustion] 횟수를 추가로 부여(E.G.O 등급에 비례하며 ZAYIN의 경우 2, 등급이 오를수록 +1)하고 피해량 +(공격 가중치/공격 대상 수x20)%",
-    "context": "EN :\nActivates when using E.G.O Awakening Skills that apply [Combustion] Potency, Count, or 'Unique Burn'. (NOT Corrosion Skills)\n\nGain Final Power equal to (Wrath E.G.O resource + sum of other E.G.O resources/3) consumed.\n\nWrath E.G.O Awakening Skills: Inflict additional [Combustion] Count based on E.G.O grades Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal +(Atk Weight/# of attack targets x 20)% more damage.\nJP :\n[Combustion]威力、[Combustion]回数または特殊火傷を与えるE.G.O覚醒スキル使用時に発動(侵蝕スキルは適用されない)\n\n消耗する(怠惰E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加\n\n憤怒属性E.G.O覚醒スキルの場合は効果が強化され、攻撃開始前に[Combustion]回数を追加で付与(E.G.Oランクに比例してZAYINなら2, ランク上昇につき+1)し、ダメージ量 +(攻撃加重値 ÷ 攻撃対象数 × 20)%"
+    "original": "[Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 E.G.O 스킬 사용 시 발동\n\n소모하는 (분노 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가, 피해량 +50%\n\n분노 속성 E.G.O 스킬의 경우, 효과가 강화되어 공격 시작 전에 [Combustion] 횟수를 추가로 부여(E.G.O 등급에 비례하며 ZAYIN의 경우 2, 등급이 오를수록 +1)하고 피해량 +(공격 가중치/공격 대상 수x20)%",
+    "context": "EN :\nActivates when using E.G.O Skills that apply [Combustion] Potency, Count, or 'Unique Burn'.\n\nGain Final Power equal to (Wrath E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nWrath E.G.O Skills: Inflict additional [Combustion] Count based on E.G.O grades Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal +(Atk Weight/# of attack targets x 20)% more damage.\nJP :\n[Combustion]威力、[Combustion]回数または特殊火傷を与えるE.G.Oスキル使用時に発動\n\n消耗する(怠惰E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加、ダメージ量 +50%\n\n憤怒属性E.G.Oスキルの場合は効果が強化され、攻撃開始前に[Combustion]回数を追加で付与(E.G.Oランクに比例してZAYINなら2, ランク上昇につき+1)し、ダメージ量 +(攻撃加重値 ÷ 攻撃対象数 × 20)%"
   },
   {
     "key": "9105-simpleDesc$[0].simpleDesc",
-    "original": "소모하는 (분노 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가",
-    "context": "EN :\nGain Final Power equal to (Wrath E.G.O resource + sum of other E.G.O resources/3) consumed.\nJP :\n消耗する(憤怒E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加"
+    "original": "소모하는 (분노 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가, 피해량 증가",
+    "context": "EN :\nGain Final Power equal to (Wrath E.G.O resource + sum of other E.G.O resources/3) consumed, and deal more damage\nJP :\n消耗する(憤怒E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加、ダメージ量増加"
   },
   {
     "key": "9105-simpleDesc$[1].simpleDesc",
@@ -3966,13 +3966,13 @@
   },
   {
     "key": "9110-desc",
-    "original": "[Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 E.G.O 각성 스킬 사용 시 발동 (침식 스킬은 적용되지 않음)\n\n소모하는 (색욕 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가\n\n색욕 속성 E.G.O 각성 스킬의 경우, 효과가 강화되어 공격 시작 전에 [Laceration] 횟수를 추가로 부여(E.G.O 등급에 비례하며 ZAYIN의 경우 2, 등급이 오를수록 +1)하고 대상이 보유한 [Laceration] 위력만큼 색욕 피해 추가로 입힘",
-    "context": "EN :\nActivates when using E.G.O Awakening Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed'. (NOT Corrosion Skills)\n\nGain Final Power equal to (Lust E.G.O resource + sum of other E.G.O resources/3) consumed.\n\nLust E.G.O Awakening Skills: Inflict additional [Laceration] Count based on E.G.O grades Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal additional Lust damage equal to [Laceration] Potency on target\nJP :\n[Laceration]威力、[Laceration]回数、または特殊出血を与えるE.G.O覚醒スキル使用時に発動(侵蝕スキルは適用されない)\n\n消耗する(色欲E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加\n\n色欲属性E.G.O覚醒スキルの場合は効果が強化され、攻撃開始前に[Laceration]回数を追加で付与(E.G.Oランクに比例してZAYINなら2, ランク上昇につき +1)し、対象が保有した[Laceration]威力だけ色欲ダメージを追加で付与"
+    "original": "[Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 E.G.O 스킬 사용 시 발동\n\n소모하는 (색욕 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가, 피해량 +50%\n\n색욕 속성 E.G.O 스킬의 경우, 효과가 강화되어 공격 시작 전에 [Laceration] 횟수를 추가로 부여(E.G.O 등급에 비례하며 ZAYIN의 경우 2, 등급이 오를수록 +1)하고 대상이 보유한 [Laceration] 위력만큼 색욕 피해 추가로 입힘",
+    "context": "EN :\nActivates when using E.G.O Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed'.\n\nGain Final Power equal to (Lust E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nLust E.G.O Skills: Inflict additional [Laceration] Count based on E.G.O grades Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal additional Lust damage equal to [Laceration] Potency on target\nJP :\n[Laceration]威力、[Laceration]回数、または特殊出血を与えるE.G.Oスキル使用時に発動\n\n消耗する(色欲E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加、ダメージ量 +50%\n\n色欲属性E.G.Oスキルの場合は効果が強化され、攻撃開始前に[Laceration]回数を追加で付与(E.G.Oランクに比例してZAYINなら2, ランク上昇につき +1)し、対象が保有した[Laceration]威力だけ色欲ダメージを追加で付与"
   },
   {
     "key": "9110-simpleDesc$[0].simpleDesc",
-    "original": "소모하는 (색욕 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가",
-    "context": "EN :\nGain Final Power equal to (Lust E.G.O resource + sum of other E.G.O resources/3) consumed.\nJP :\n消耗する(色欲E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加"
+    "original": "소모하는 (색욕 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가, 피해량 증가",
+    "context": "EN :\nGain Final Power equal to (Sloth E.G.O resource + sum of other E.G.O resources/3) consumed, and deal more damage\nJP :\n消耗する(色欲E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加、ダメージ量増加"
   },
   {
     "key": "9110-simpleDesc$[1].simpleDesc",
@@ -4196,13 +4196,13 @@
   },
   {
     "key": "9116-desc",
-    "original": "[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 E.G.O 각성 스킬 사용 시 발동 (침식 스킬은 적용되지 않음)\n\n소모하는 (나태 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가\n\n나태 속성 E.G.O 각성 스킬의 경우, 효과가 강화되어 공격 시작 전에 [Vibration] 횟수를 추가로 부여(ZAYIN의 경우 2, 등급이 오를수록 +1)하고 피해량 +(대상이 보유한 [Vibration] 위력 x1.5)%",
-    "context": "EN :\nActivates when using E.G.O Awakening Skills that apply [Vibration] Potency, Count, or 'Unique Tremor'. (NOT Corrosion Skills)\n\nGain Final Power equal to (Sloth E.G.O resource + sum of other E.G.O resources/3) consumed.\n\nSloth E.G.O Awakening Skills: Inflict additional [Vibration] Count Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on), and deal +([Vibration] Potency on target x 1.5)% more damage\nJP :\n[Vibration]威力、[Vibration]回数または特殊振動を与えるE.G.O覚醒スキル使用時に発動(侵蝕スキルは適用されない)\n\n消耗する(怠惰E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加\n\n怠惰属性E.G.O覚醒スキルの場合は効果が強化され、攻撃開始前に[Vibration]回数を追加で付与(E.G.Oランクに比例してZAYINなら2, ランク上昇につき +1)し、ダメージ量 +(対象の保有する[Vibration]威力 × 1.5)%"
+    "original": "[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 E.G.O 스킬 사용 시 발동\n\n소모하는 (나태 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가, 피해량 +50%\n\n나태 속성 E.G.O 스킬의 경우, 효과가 강화되어 공격 시작 전에 [Vibration] 횟수를 추가로 부여(ZAYIN의 경우 2, 등급이 오를수록 +1)하고 피해량 +(대상이 보유한 [Vibration] 위력 x1.5)%",
+    "context": "EN :\nActivates when using E.G.O Skills that apply [Vibration] Potency, Count, or 'Unique Tremor'.\n\nGain Final Power equal to (Sloth E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nSloth E.G.O Skills: Inflict additional [Vibration] Count Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on), and deal +([Vibration] Potency on target x 1.5)% more damage\nJP :\n[Vibration]威力、[Vibration]回数または特殊振動を与えるE.G.Oスキル使用時に発動\n\n消耗する(怠惰E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加、ダメージ量 +50%\n\n怠惰属性E.G.Oスキルの場合は効果が強化され、攻撃開始前に[Vibration]回数を追加で付与(E.G.Oランクに比例してZAYINなら2, ランク上昇につき +1)し、ダメージ量 +(対象の保有する[Vibration]威力 × 1.5)%"
   },
   {
     "key": "9116-simpleDesc$[0].simpleDesc",
-    "original": "소모하는 (나태 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가",
-    "context": "EN :\nGain Final Power equal to (Sloth E.G.O resource + sum of other E.G.O resources/3) consumed.\nJP :\n消耗する(怠惰E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加"
+    "original": "소모하는 (나태 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가, 피해량 증가",
+    "context": "EN :\nGain Final Power equal to (Sloth E.G.O resource + sum of other E.G.O resources/3) consumed, and deal more damage\nJP :\n消耗する(怠惰E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加、ダメージ量増加"
   },
   {
     "key": "9116-simpleDesc$[1].simpleDesc",
@@ -4331,13 +4331,13 @@
   },
   {
     "key": "9121-desc",
-    "original": "[Burst] 위력 또는 [Burst] 횟수를 부여하는 E.G.O 각성 스킬 사용 시 발동 (침식 스킬은 적용되지 않음).\n\n소모하는 (탐식 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가\n\n탐식 속성 E.G.O 각성 스킬을 사용할 경우, E.G.O 등급에 비례하여 [Burst] 횟수를 추가로 부여하고 피해량 +(사용한 E.G.O 자원 종류의 수x15)% (ZAYIN의 경우 2, 등급이 오를수록 +1).",
-    "context": "EN :\nActivates when using E.G.O Awakening Skills that inflict [Burst] Potency or Count. (NOT Corrosion Skills)\n\nGain Final Power equal to (Gluttony E.G.O resource + sum of other E.G.O resources/3) consumed.\n\nGluttony E.G.O Awakening Skills: Inflict additional [Burst] Count based on E.G.O grades (ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on), and deal +(# of different E.G.O resource used x 15)% more damage\nJP :\n[Burst]威力または[Burst]回数を与えるE.G.O覚醒スキル使用時に発動(侵蝕スキルは適用されない)\n\n消耗する(暴食E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加\n\n暴食属性E.G.O覚醒スキルを使用する場合、E.G.Oランクに比例して[Burst]回数を追加で付与し、ダメージ量 +(使用したE.G.O資源種類の数 × 15)% (ZAYINなら2, ランク上昇につき +1)"
+    "original": "[Burst] 위력 또는 [Burst] 횟수를 부여하는 E.G.O 스킬 사용 시 발동\n\n소모하는 (탐식 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가, 피해량 +50%\n\n탐식 속성 E.G.O 스킬을 사용할 경우, E.G.O 등급에 비례하여 [Burst] 횟수를 추가로 부여하고 피해량 +(사용한 E.G.O 자원 종류의 수x15)% (ZAYIN의 경우 2, 등급이 오를수록 +1).",
+    "context": "EN :\nActivates when using E.G.O Skills that inflict [Burst] Potency or Count.\n\nGain Final Power equal to (Gluttony E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nGluttony E.G.O Skills: Inflict additional [Burst] Count based on E.G.O grades (ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on), and deal +(# of different E.G.O resource used x 15)% more damage\nJP :\n[Burst]威力または[Burst]回数を与えるE.G.Oスキル使用時に発動\n\n消耗する(暴食E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加、ダメージ量 +50%\n\n暴食属性E.G.Oスキルを使用する場合、E.G.Oランクに比例して[Burst]回数を追加で付与し、ダメージ量 +(使用したE.G.O資源種類の数 × 15)% (ZAYINなら2, ランク上昇につき +1)"
   },
   {
     "key": "9121-simpleDesc$[0].simpleDesc",
-    "original": "소모하는 (탐식 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가",
-    "context": "EN :\nGain Final Power equal to (Gluttony E.G.O resource + sum of other E.G.O resources/3) consumed.\nJP :\n消耗する(暴食E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加"
+    "original": "소모하는 (탐식 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가, 피해량 증가",
+    "context": "EN :\nGain Final Power equal to (Gluttony E.G.O resource + sum of other E.G.O resources/3) consumed, and deal more damage\nJP :\n消耗する(暴食E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加、ダメージ量増加"
   },
   {
     "key": "9121-simpleDesc$[1].simpleDesc",
@@ -4516,13 +4516,13 @@
   },
   {
     "key": "9125-desc",
-    "original": "[편성 1번, 2번 인격 전용 효과]\n\n이번 전투 동안 [Sinking] 위력, [Sinking] 횟수 또는 특수 침잠을 부여하는 공격 스킬을 3회 사용한 아군의 [Sinking] 위력 부여 값+1 (4번째로 사용하는 스킬부터 효과 적용).\n\n집중 전투 방식의 전투 스테이지에서는 효과가 강화되어 [Sinking] 위력 부여 값 +2.",
-    "context": "EN :\n[Effects apply only to #1, #2 Deployed Identities]\n\nFor this Encounter, Ally that used Attack Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking' 3 times or more during this Encounter inflicts 1 additional [Sinking] Potency. (this effect applies from the 4th used [Sinking]-applying Skill onward)\n\nIn Focused Encounters: inflicts 2 additional [Sinking] Potency instead.\nJP :\n[編成1・2番人格専用効果]\n\n今回の戦闘中、[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを3回使用した味方の[Sinking]威力付与値 +1(4番目に使用するスキルから効果適用)\n\n集中戦闘方式の戦闘ステージでは効果が強化され、[Sinking]威力付与値 +2"
+    "original": "[Sinking] 위력, [Sinking] 횟수 또는 특수 침잠을 부여하거나 획득하는 기본 공격 스킬을 사용하여 적에게 적중 시, 대상이 보유한 [Sinking] 효과(특수 침잠을 포함)를 발동시킬 때마다 턴 종료 시 자신의 정신력 3 회복 (인격 별로 턴 당 2회).\n\n턴 시작 시 정신력이 45일 경우 효과가 변경되어, 기본 공격 스킬을 사용하여 적중 시 대상이 보유한 [Sinking] 효과(특수 침잠을 포함)를 발동시킬 때마다 대상 적에게 [Sinking] 횟수 2 부여 (인격 별로 턴 당 2회)",
+    "context": "EN :\nWhen activating the [Sinking] effect(including 'Unique Sinking') on the target with an On Hit effect from a Base Attack Skill that inflicts or gains [Sinking] Potency, [Sinking] Count, or 'Unique Sinking', heal 3 SP at Turn End (2 times per turn per Identity)\n\nIf the said unit was at 45 SP at Turn Start, the effect changes to the following: when activating the [Sinking] effect(including 'Unique Sinking') on the target with an On Hit effect with a Base Attack Skill, inflict +2 [Sinking] Count on the target (2 times per turn per Identity)\nJP :\n[Sinking]威力、[Sinking]回数または特殊沈潜を付与または獲得する基本攻撃スキルを使用して敵に的中時、対象が保有した[Sinking]効果(特殊沈潜を含む)を発動させるたびにターン終了時、自分の精神力を3回復(人格ごとに1ターンにつき2回)\n\nターン開始時に精神力が45の場合は効果が変更され、基本攻撃スキルを使用して的中時に対象の保有する[Sinking]効果(特殊沈潜を含む)を発動させるたび、対象の敵へ[Sinking]回数を2付与(人格ごとに1ターンにつき2回)"
   },
   {
     "key": "9125-simpleDesc$[0].simpleDesc",
-    "original": "[Sinking] 위력 부여 값+1.",
-    "context": "EN :\nInflict 1 more [Sinking] Potency\nJP :\n[Sinking]威力付与値 +1"
+    "original": "침잠 횟수 증가",
+    "context": "EN :\nInflict Sinking Count\nJP :\n沈潜 回数が増加"
   },
   {
     "key": "9126-name",
@@ -4531,21 +4531,16 @@
   },
   {
     "key": "9126-desc",
-    "original": "[Sinking] 위력, [Sinking] 횟수 또는 특수 침잠을 부여하는 E.G.O 각성 스킬 사용 시 발동 (침식 스킬은 적용되지 않음).\n\n소모하는 (우울 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가.\n\n우울 속성 E.G.O 각성 스킬의 경우, 효과가 강화되어 공격 시작 전에 [Sinking] 횟수를 추가로 부여(ZAYIN의 경우 2, 등급이 오를수록 +1)하고 피해량 +(E.G.O 스킬 사용 시 소모한 정신력x2.5)%.",
-    "context": "EN :\nActivates when using E.G.O Awakening Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking'. (NOT Corrosion Skills)\n\nGain Final Power equal to (Gloom E.G.O resource + sum of other E.G.O resources/3) consumed.\n\nGloom E.G.O Awakening Skills: Inflict additional [Sinking] Count Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on), and deal +(SP consumed to activate E.G.O Skill x 2.5)% more damage.\nJP :\n[Sinking]威力、[Sinking]回数または特殊沈潜を与えるE.G.O覚醒スキル使用時に発動(侵蝕スキルは適用されない)\n\n消耗する(憂鬱E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加\n\n憂鬱属性E.G.O覚醒スキルの場合は効果が強化され、攻撃開始前に[Sinking]回数を追加で付与(E.G.Oランクに比例してZAYINなら2, ランク上昇につき +1)し、ダメージ量 +(E.G.Oスキル使用時に消耗した精神力 × 2.5)%"
+    "original": "[Sinking] 위력, [Sinking] 횟수 또는 특수 침잠을 부여하는 E.G.O 스킬 사용 시 발동\n\n소모하는 (우울 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가, 피해량 +50%\n\n우울 속성 E.G.O 스킬의 경우, 효과가 강화되어 공격 시작 전에 [Sinking] 횟수를 추가로 부여(ZAYIN의 경우 2, 등급이 오를수록 +1)하고 피해량 +(E.G.O 스킬 사용 시 소모한 정신력x2.5)%.",
+    "context": "EN :\nActivates when using E.G.O Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking'.\n\nGain Final Power equal to (Gloom E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nGloom E.G.O Skills: Inflict additional [Sinking] Count Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on), and deal +(SP consumed to activate E.G.O Skill x 2.5)% more damage.\nJP :\n[Sinking]威力、[Sinking]回数または特殊沈潜を与えるE.G.Oスキル使用時に発動\n\n消耗する(憂鬱E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加、ダメージ量 +50%\n\n憂鬱属性E.G.Oスキルの場合は効果が強化され、攻撃開始前に[Sinking]回数を追加で付与(E.G.Oランクに比例してZAYINなら2, ランク上昇につき +1)し、ダメージ量 +(E.G.Oスキル使用時に消耗した精神力 × 2.5)%"
   },
   {
     "key": "9126-simpleDesc$[0].simpleDesc",
-    "original": "[Sinking] 위력, [Sinking] 횟수 또는 특수 침잠을 부여하는 E.G.O 각성 스킬 사용 시 발동",
-    "context": "EN :\nActivates when using E.G.O Awakening Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking'.\nJP :\n[Sinking]威力、[Sinking]回数または特殊沈潜を与えるE.G.O覚醒スキル使用時に発動"
+    "original": "소모하는 (우울 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가, 피해량 증가",
+    "context": "EN :\nGain Final Power equal to (Gloom E.G.O resource + sum of other E.G.O resources/3) consumed, and deal more damage\nJP :\n消耗する(憂鬱E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加、ダメージ量増加"
   },
   {
     "key": "9126-simpleDesc$[1].simpleDesc",
-    "original": "소모하는 (우울 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가",
-    "context": "EN :\nGain Final Power equal to (Gloom E.G.O resource + sum of other E.G.O resources/3) consumed.\nJP :\n消耗する(憂鬱E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加"
-  },
-  {
-    "key": "9126-simpleDesc$[2].simpleDesc",
     "original": "조건 만족시, 공격 시작 전에 [Sinking] 횟수를 추가로 부여(ZAYIN의 경우 2, 등급이 오를수록 +1)하고 피해량 +(E.G.O 스킬 사용 시 소모한 정신력x2.5)%",
     "context": "EN :\nIf conditions are met: Inflict additional [Sinking] Count based on E.G.O grades Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on), and deal +(SP consumed to activate E.G.O Skill x 2.5)% more damage\nJP :\n条件を満たした場合、攻撃開始前に[Sinking]回数を追加で付与(ZAYINなら2, ランク上昇につき +1)し、ダメージ量 +(E.G.Oスキル使用時に消耗した精神力 × 2.5)%"
   },
@@ -4716,13 +4711,13 @@
   },
   {
     "key": "9131-desc",
-    "original": "[Breath] 위력 또는 [Breath] 횟수를 부여 또는 획득하는 E.G.O 각성 스킬 사용 시 발동 (침식 스킬은 적용되지 않음).\n\n소모하는 (오만 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가\n\n오만 속성 E.G.O 각성 스킬의 경우, 효과가 강화되어 공격 시작 전에 [Breath] 횟수를 추가로 획득(ZAYIN의 경우 2, 등급이 오를수록 +1)하고 피해량 +(소모한 E.G.O 자원의 합x8)%",
-    "context": "EN :\nActivates when using E.G.O Awakening Skills that apply or gain [Breath] Potency or Count. (NOT Corrosion Skills)\n\nGain Final Power equal to (Pride E.G.O resource + sum of other E.G.O resources/3) consumed.\n\nPride E.G.O Awakening Skills: gain additional [Breath] Count Before Attack(ZAYIN gains +2 Count, TETH gains +3 Count, HE gains +4 Count, and so on), and deal +(sum of all E.G.O resources consumed x 8)% more damage.\nJP :\n[Breath]威力または[Breath]回数を付与・獲得するE.G.O覚醒スキル使用時に発動(侵蝕スキルは適用されない)\n\n消耗する(傲慢E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加\n\n傲慢属性E.G.O覚醒スキルの場合は効果が強化され、攻撃開始前に[Breath]回数を追加で獲得(ZAYINなら2, ランク上昇につき +1)し、ダメージ量 +(消耗したE.G.O資源の合計 × 8)%"
+    "original": "[Breath] 위력 또는 [Breath] 횟수를 부여 또는 획득하는 E.G.O 스킬 사용 시 발동\n\n소모하는 (오만 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가, 피해량 +50%\n\n오만 속성 E.G.O 스킬의 경우, 효과가 강화되어 공격 시작 전에 [Breath] 횟수를 추가로 획득(ZAYIN의 경우 2, 등급이 오를수록 +1)하고 피해량 +(소모한 E.G.O 자원의 합x8)%",
+    "context": "EN :\nActivates when using E.G.O Skills that apply or gain [Breath] Potency or Count.\n\nGain Final Power equal to (Pride E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nPride E.G.O Skills: gain additional [Breath] Count Before Attack(ZAYIN gains +2 Count, TETH gains +3 Count, HE gains +4 Count, and so on), and deal +(sum of all E.G.O resources consumed x 8)% more damage.\nJP :\n[Breath]威力または[Breath]回数を付与・獲得するE.G.Oスキル使用時に発動\n\n消耗する(傲慢E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加、ダメージ量 +50%\n\n傲慢属性E.G.Oスキルの場合は効果が強化され、攻撃開始前に[Breath]回数を追加で獲得(ZAYINなら2, ランク上昇につき +1)し、ダメージ量 +(消耗したE.G.O資源の合計 × 8)%"
   },
   {
     "key": "9131-simpleDesc$[0].simpleDesc",
-    "original": "소모하는 (오만 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가",
-    "context": "EN :\nGain Final Power equal to (Pride E.G.O resource + sum of other E.G.O resources/3) consumed.\nJP :\n消耗する(傲慢E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加"
+    "original": "소모하는 (오만 E.G.O 자원 +나머지 E.G.O 자원의 합/3)만큼 최종 위력이 증가, 피해량 증가",
+    "context": "EN :\nGain Final Power equal to (Pride E.G.O resource + sum of other E.G.O resources/3) consumed, and deal more damage\nJP :\n消耗する(傲慢E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加、ダメージ量増加"
   },
   {
     "key": "9131-simpleDesc$[1].simpleDesc",
@@ -4921,13 +4916,13 @@
   },
   {
     "key": "9136-desc",
-    "original": "[Charge] 횟수 또는 특수 충전을 획득하거나 소모하는 E.G.O 각성 스킬 사용 시 발동 (침식 스킬은 적용되지 않음).\n\n소모하는 (질투 E.G.O 자원 +나머지 E.G.O 자원/3)만큼 최종 위력이 증가.\n\n질투 속성 E.G.O 각성 스킬의 경우, 효과가 강화되어 공격 시작 전에 [Charge] 횟수를 추가로 획득(ZAYIN의 경우 2, 등급이 오를수록 +1)하고 피해량 +(보유한 [Charge] 횟수와 특수 충전의 합x5)% (최대 200%).",
-    "context": "EN :\nActivates when using E.G.O Awakening Skills that gain or consume [Charge] Count or 'Unique Charge'. (NOT Corrosion Skills)\n\nGain Final Power equal to (Envy E.G.O resource + sum of other E.G.O resources/3) consumed.\n\nEnvy E.G.O Awakening Skills: gain additional [Charge] Count Before Attack(ZAYIN gains +2 Count, TETH gains +3 Count, HE gains +4 Count, and so on), and deal +(([Charge] Count on self + 'Unique Charge') x 5)% more damage. (200% max)\nJP :\n[Charge]回数または特殊充電を獲得・消耗するE.G.O覚醒スキル使用時に発動(侵蝕スキルは適用されない)\n\n消耗する(嫉妬.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加\n\n嫉妬属性E.G.O覚醒スキルの場合は効果が強化され、攻撃開始前に[Charge]回数を追加で獲得(ZAYINなら2, ランク上昇につき +1)し、ダメージ量 +(保有している[Charge]特殊充電の合計 × 5)%(最大200%)"
+    "original": "[Charge] 횟수 또는 특수 충전을 획득하거나 소모하는 E.G.O 스킬 사용 시 발동\n\n소모하는 (질투 E.G.O 자원 +나머지 E.G.O 자원/3)만큼 최종 위력이 증가, 피해량 +50%\n\n질투 속성 E.G.O 스킬의 경우, 효과가 강화되어 공격 시작 전에 [Charge] 횟수를 추가로 획득(ZAYIN의 경우 2, 등급이 오를수록 +1)하고 피해량 +(보유한 [Charge] 횟수와 특수 충전의 합x5)% (최대 200%).",
+    "context": "EN :\nActivates when using E.G.O Awakening Skills that gain or consume [Charge] Count or 'Unique Charge'.\n\nGain Final Power equal to (Envy E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% more damage\n\nEnvy E.G.O Skills: gain additional [Charge] Count Before Attack(ZAYIN gains +2 Count, TETH gains +3 Count, HE gains +4 Count, and so on), and deal +(([Charge] Count on self + 'Unique Charge') x 5)% more damage. (200% max)\nJP :\n[Charge]回数または特殊充電を獲得・消耗するE.G.Oスキル使用時に発動\n\n消耗する(嫉妬.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加、ダメージ量 +50%\n\n嫉妬属性E.G.Oスキルの場合は効果が強化され、攻撃開始前に[Charge]回数を追加で獲得(ZAYINなら2, ランク上昇につき +1)し、ダメージ量 +(保有している[Charge]特殊充電の合計 × 5)%(最大200%)"
   },
   {
     "key": "9136-simpleDesc$[0].simpleDesc",
-    "original": "소모하는 (질투 E.G.O 자원 +나머지 E.G.O 자원/3)만큼 최종 위력이 증가.",
-    "context": "EN :\nGain Final Power equal to (Envy E.G.O resource + sum of other E.G.O resources/3) consumed.\nJP :\n消耗する(嫉妬E.G.O資源 + 残りのE.G.O資源の合計 ÷ 3)だけ最終威力が増加."
+    "original": "소모하는 (질투 E.G.O 자원 +나머지 E.G.O 자원/3)만큼 최종 위력이 증가, 피해량 증가",
+    "context": "EN :\nGain Final Power equal to (Envy E.G.O resource + sum of other E.G.O resources/3) consumed, and deal more damage\nJP :\n消耗する(嫉妬E.G.O資源 + 残りのE.G.O資源 ÷ 3)だけ最終威力が増加、ダメージ量増加"
   },
   {
     "key": "9136-simpleDesc$[1].simpleDesc",
@@ -5211,23 +5206,18 @@
   },
   {
     "key": "9142-desc",
-    "original": "[편성 3번 인격 전용 효과]\n\n참격 공격 스킬의 합 위력 +1, 최종 위력 +1 (E.G.O 스킬 제외).\n\n코인 수가 2 이하인 참격 공격 스킬을 사용할 경우, 효과가 변경되어 최종 위력 +3, 피해량 +20%.\n\n턴 종료 시 체력이 최대 체력의 50% 미만일 경우, 다음 턴에 [SlashDamageUp] 4 얻음.",
-    "context": "EN :\n[Effects apply only to #3 Deployed Identity]\n\nSlash Attack Skills(except E.G.O Skills) gain Clash Power +1 and Final Power +1.\n\nFor Slash Attack Skills with 2- Coins, gain Final Power +3 and deal +20% more damage instead.\n\nTurn End: If at less than 50% HP, gain 4 [SlashDamageUp] next turn.\nJP :\n[編成3番人格専用効果]\n\n斬撃攻撃スキルのマッチ威力 +1, 最終威力 +1(E.G.Oスキルを除く)\n\nコイン数が2以下の斬撃攻撃スキルを使用する場合は効果が変更され、最終威力 +3, ダメージ量+20%\n\nターン終了時の体力が、最大値の50%未満なら次のターンに[SlashDamageUp]4を得る。"
+    "original": "[편성 1번, 2번 인격 전용 효과]\n\n참격 공격 스킬의 기본 위력 +2, 더하기 코인 위력 +1, 빼기 코인 위력 -1 (E.G.O 스킬 포함).\n\n참격 공격 스킬을 사용하여 합 승리 시 피해량 +30%. 해당 스킬로 적중 시 자신의 잃은 체력 5%당 피해량 +5% (최대 20%) (E.G.O 스킬 제외).",
+    "context": "EN :\n[Effects apply only to #1 and #2 Deployed Identities]\n\nSlash Attack Skills(including E.G.O Skills) gain Base Power +2, Plus Coin Power +1, and Minus Coin Power -1\n\nOn Clash Win with a Slash Attack Skill(except E.G.O Skills), deal +30% more damage with that Skill; On Hit with that Skill, deal +5% more damage for every 5% missing HP on self (max 20%)\nJP :\n[編成1番・2番人格専用効果]\n\n斬撃攻撃スキルの基本威力 +2, 加算コイン威力 +1, 減算コイン威力 -1 (E.G.Oスキルを含む)\n\n斬撃攻撃スキルを使用してマッチ勝利時、ダメージ量 +30%. 該当スキルで的中時、自分の失った体力5%につきダメージ量 +5%(最大20%)(E.G.Oスキルを除く)"
   },
   {
     "key": "9142-simpleDesc$[0].simpleDesc",
-    "original": "합 위력 +1, 최종 위력 +1",
-    "context": "EN :\nClash Power +1, Final Power +1\nJP :\nマッチ威力 +1, 最終威力 +1"
+    "original": "참격 스킬 위력 증가",
+    "context": "EN :\nSlash Skill Power Up\nJP :\n斬撃スキル威力 が増加"
   },
   {
     "key": "9142-simpleDesc$[1].simpleDesc",
-    "original": "최종 위력 +3, 피해량 +20%",
-    "context": "EN :\nFinal Power +3, deal +20% more damage\nJP :\n最終威力+3, ダメージ量 +20%"
-  },
-  {
-    "key": "9142-simpleDesc$[2].simpleDesc",
-    "original": "다음 턴에 [SlashDamageUp] 4 얻음",
-    "context": "EN :\nGain 4 [SlashDamageUp] next turn\nJP :\n次のターンに[SlashDamageUp]4を得る"
+    "original": "참격 스킬 피해량 증가, 잃은 체력 비례 피해량 추가 증가",
+    "context": "EN :\nSlash Skills deal more damage; deal more damage based on missing HP\nJP :\n斬撃スキルダメージ量増加、失った体力に比例してダメージ量が追加で増加"
   },
   {
     "key": "9143-name",
@@ -5342,7 +5332,7 @@
   {
     "key": "9145-desc",
     "original": "관통 공격 스킬의 합 위력 +1\n\n[Bullet]을 소모하는 스킬의 피해량 +(40/코인 수)%\n\n[Bullet]을 전부 소모하였다면 다음 턴 시작 시, [Bullet] 2 얻음 (인격 별로 전투당 1회)",
-    "context": "EN :\nPierce Skills gain Clash Power +1\n\nSkills that consume [Bullet] deal +(40/# of Coins)% more damage\n\nIf the unit is out of [Bullet], gain 2 [Bullet] at the next Turn Start (once per Encounter per Identity)\nJP :\n貫通攻撃スキルのマッチ威力 +1\n\n[Bullet]を消耗するスキルのダメージ量 +(40 ÷ コイン数)%\n\n[Bullet]を全て消耗した場合、次のターン開始時に[Bullet]2を得る(人格ごとに、戦闘につき1回)"
+    "context": "EN :\nPierce Skills gain Clash Power +1\n\nSkills that consume [Bullet] deal +(40/# of Coins)% more damage\n\nIf the unit is out of [Bullet], gain 2 [Bullet] at the next Turn Start (once per Encounter per Identity)\nJP :\n貫通攻撃スキルのマッチ威力 +1\n\n[Bullet]を消耗するスキルのダメージ量 +(40 ÷ コイン数)%\n\n[Bullet]を全て消耗した場合、次のターン開始時に[Bullet]2を得る(人格ごとに戦闘につき1回)"
   },
   {
     "key": "9145-simpleDesc$[0].simpleDesc",
@@ -5356,8 +5346,8 @@
   },
   {
     "key": "9145-simpleDesc$[2].simpleDesc",
-    "original": "다음 턴 시작 시, [Bullet] 2 얻음 (전투 당 1회)",
-    "context": "EN :\nNext Turn Start: gain 2 [Bullet] (once per Encounter)\nJP :\n次のターン開始時、[Bullet]を2得る(戦闘につき1回)"
+    "original": "다음 턴 시작 시, [Bullet] 2 얻음",
+    "context": "EN :\nNext Turn Start: gain 2 [Bullet]\nJP :\n次のターン開始時、[Bullet]を2得る"
   },
   {
     "key": "19145-name",
@@ -5367,7 +5357,7 @@
   {
     "key": "19145-desc",
     "original": "관통 공격 스킬의 합 위력 +1, <style=\"upgradeHighlight\">피해량 +5%</style>\n\n[Bullet]을 소모하는 스킬의 피해량 +(<style=\"upgradeHighlight\">50</style>/코인 수)%\n\n[Bullet]을 전부 소모하였다면 다음 턴 시작 시, [Bullet] 2 얻음 (인격 별로 전투당 1회)",
-    "context": "EN :\nPierce Skills gain Clash Power +1 <style=\"upgradeHighlight\">and deal +5% more damage</style>\n\nSkills that consume [Bullet] deal +(<style=\"upgradeHighlight\">50</style>/# of Coins)% more damage\n\nIf the unit is out of [Bullet], gain 2 [Bullet] at the next Turn Start (once per Encounter per Identity)\nJP :\n貫通攻撃スキルのマッチ威力 +1, <style=\"upgradeHighlight\">ダメージ量 +5%</style>\n\n[Bullet]を消耗するスキルのダメージ量 +(<style=\"upgradeHighlight\">50</style> ÷ コイン数)%\n\n[Bullet]を全て消耗した場合、次のターン開始時に[Bullet]2を得る(人格ごとに、戦闘につき1回)"
+    "context": "EN :\nPierce Skills gain Clash Power +1 <style=\"upgradeHighlight\">and deal +5% more damage</style>\n\nSkills that consume [Bullet] deal +(<style=\"upgradeHighlight\">50</style>/# of Coins)% more damage\n\nIf the unit is out of [Bullet], gain 2 [Bullet] at the next Turn Start (once per Encounter per Identity)\nJP :\n貫通攻撃スキルのマッチ威力 +1, <style=\"upgradeHighlight\">ダメージ量 +5%</style>\n\n[Bullet]を消耗するスキルのダメージ量 +(<style=\"upgradeHighlight\">50</style> ÷ コイン数)%\n\n[Bullet]を全て消耗した場合、次のターン開始時に[Bullet]2を得る(人格ごとに戦闘につき1回)"
   },
   {
     "key": "19145-simpleDesc$[0].simpleDesc",
@@ -5381,8 +5371,8 @@
   },
   {
     "key": "19145-simpleDesc$[2].simpleDesc",
-    "original": "다음 턴 시작 시, [Bullet] 2 얻음 (전투 당 1회)",
-    "context": "EN :\nNext Turn Start: gain 2 [Bullet] (once per Encounter)\nJP :\n次のターン開始時、[Bullet]を2得る(戦闘につき1回)"
+    "original": "다음 턴 시작 시, [Bullet] 2 얻음",
+    "context": "EN :\nNext Turn Start: gain 2 [Bullet]\nJP :\n次のターン開始時、[Bullet]を2得る"
   },
   {
     "key": "29145-name",
@@ -5392,7 +5382,7 @@
   {
     "key": "29145-desc",
     "original": "관통 공격 스킬의 합 위력 +1, 피해량 +<style=\"upgradeHighlight\">10</style>%\n\n[Bullet]을 소모하는 스킬의 피해량 +(<style=\"upgradeHighlight\">60</style>/코인 수)%\n\n[Bullet]을 전부 소모하였다면 다음 턴 시작 시, [Bullet] 2 얻음 (인격 별로 전투당 1회)",
-    "context": "EN :\nPierce Skills gain Clash Power +1 and deal <style=\"upgradeHighlight\">+10%</style> more damage\n\nSkills that consume [Bullet] deal +(<style=\"upgradeHighlight\">60</style>/# of Coins)% more damage\n\nIf the unit is out of [Bullet], gain 2 [Bullet] at the next Turn Start (once per Encounter per Identity)\nJP :\n貫通攻撃スキルのマッチ威力 +1, ダメージ量 +<style=\"upgradeHighlight\">10</style>%\n\n[Bullet]を消耗するスキルのダメージ量 +(<style=\"upgradeHighlight\">60</style> ÷ コイン数)%\n\n[Bullet]を全て消耗した場合、次のターン開始時に[Bullet]2を得る(人格ごとに、戦闘につき1回)"
+    "context": "EN :\nPierce Skills gain Clash Power +1 and deal <style=\"upgradeHighlight\">+10%</style> more damage\n\nSkills that consume [Bullet] deal +(<style=\"upgradeHighlight\">60</style>/# of Coins)% more damage\n\nIf the unit is out of [Bullet], gain 2 [Bullet] at the next Turn Start (once per Encounter per Identity)\nJP :\n貫通攻撃スキルのマッチ威力 +1, ダメージ量 +<style=\"upgradeHighlight\">10</style>%\n\n[Bullet]を消耗するスキルのダメージ量 +(<style=\"upgradeHighlight\">60</style> ÷ コイン数)%\n\n[Bullet]を全て消耗した場合、次のターン開始時に[Bullet]2を得る(人格ごとに戦闘につき1回)"
   },
   {
     "key": "29145-simpleDesc$[0].simpleDesc",
@@ -5406,8 +5396,8 @@
   },
   {
     "key": "29145-simpleDesc$[2].simpleDesc",
-    "original": "다음 턴 시작 시, [Bullet] 2 얻음 (전투 당 1회)",
-    "context": "EN :\nNext Turn Start: gain 2 [Bullet] (once per Encounter)\nJP :\n次のターン開始時、[Bullet]を2得る(戦闘につき1回)"
+    "original": "다음 턴 시작 시, [Bullet] 2 얻음",
+    "context": "EN :\nNext Turn Start: gain 2 [Bullet]\nJP :\n次のターン開始時、[Bullet]を2得る"
   },
   {
     "key": "9146-name",
@@ -5476,23 +5466,18 @@
   },
   {
     "key": "9147-desc",
-    "original": "[편성 3번 인격 전용 효과]\n\n관통 공격 스킬의 합 위력 +2, 피해량 +15% (E.G.O 스킬 제외).\n\n관통 공격 스킬을 사용하여 합 승리 시, 피해량 +(합 횟수와 남은 코인 수 합x2.5, 최대 35)%.\n\n턴 종료 시 이번 턴에 관통 공격 스킬로 합을 승리하여 총합 15 이상의 체력 피해를 입혔다면, 다음 턴에 [PenetrateDamageUp] 4 얻음.",
-    "context": "EN :\n[Effects apply only to #3 Deployed Identity]\n\nPierce Attack Skills(except E.G.O Skills) gain Clash Power +2 and deal +15% more damage.\n\nWhen winning a Clash with a Pierce Attack Skill, deal +(2.5(# of Clashes + # of remaining Coins))% more damage. (max 35%)\n\nTurn End: if this unit dealt 15+ HP damage by winning a Clash with a Pierce Attack Skill this turn, gain 4 [PenetrateDamageUp] next turn.\nJP :\n[編成3番人格専用効果]\n\n貫通攻撃スキルのマッチ威力 +2, ダメージ量 +15%(E.G.Oスキルを除く)\n\n貫通攻撃スキルを使用してマッチ勝利時、ダメージ量 +(マッチ回数と残ったコイン数の合計 × 2.5, 最大35)%。\n\nターン終了時、このターンに貫通攻撃スキルで合計15以上のダメージを与えた場合、次のターンに[PenetrateDamageUp]4を得る。"
+    "original": "[편성 1번, 2번 인격 전용 효과]\n\n관통 공격 스킬의 기본 위력 +2, 더하기 코인 위력 +1, 빼기 코인 위력 -1 (E.G.O 스킬 포함).\n\n관통 공격 스킬을 사용하여 합 승리 시 피해량 +15%, 해당 스킬로 적중 시 메인 공격 대상보다 속도가 빠르다면 피해량 +(메인 공격 대상과의 속도 차이x 2.5, 최대 35)% (E.G.O 스킬 제외).",
+    "context": "EN :\n[Effects apply only to #1 and #2 Deployed Identities]\n\nPierce Attack Skills(including E.G.O Skills) gain Base Power +2, Plus Coin Power +1, and Minus Coin Power -1\n\nOn Clash Win with a Pierce Attack Skill(except E.G.O Skills), deal +15% more damage with that Skill; On Hit with that Skill, if faster than the main target, deal +(Speed difference with the main target x 2.5)% more damage(35% max)\nJP :\n[編成1番・2番人格専用効果]\n\n貫通攻撃スキルの基本威力 +2, 加算コイン威力 +1, 減算コイン威力 -1 (E.G.Oスキルを含む)\n\n貫通攻撃スキルを使用してマッチ勝利時、ダメージ量 +15%. 該当スキルで的中時、メイン攻撃対象より速度が高ければダメージ量 +(メイン攻撃対象との速度差 × 2.5, 最大35)% (E.G.Oスキルを除く)"
   },
   {
     "key": "9147-simpleDesc$[0].simpleDesc",
-    "original": "관통 공격 스킬의 합 위력 +2, 피해량 +15%",
-    "context": "EN :\nPierce Skills gain Clash Power +2 and deals +15% more damage\nJP :\n貫通攻撃スキルのマッチ威力 +2, ダメージ量 +15%"
+    "original": "관통 공격 스킬 위력 증가",
+    "context": "EN :\nPierce Attack Skill Power Up\nJP :\n貫通スキル威力 が増加"
   },
   {
     "key": "9147-simpleDesc$[1].simpleDesc",
-    "original": "합 승리 시, 피해량 +(합 횟수와 남은 코인 수 합x2.5, 최대 35)%",
-    "context": "EN :\nClash Win: deal +(2.5(# of Clashes + # of remaining Coins))% more damage. (max 35%)\nJP :\nマッチ勝利時、ダメージ量 +(マッチ回数と残ったコイン数の合計 × 2.5, 最大35)%"
-  },
-  {
-    "key": "9147-simpleDesc$[2].simpleDesc",
-    "original": "다음 턴에 [PenetrateDamageUp] 4 얻음",
-    "context": "EN :\nGain 4 [PenetrateDamageUp] next turn\nJP :\n次のターンに[PenetrateDamageUp]を4得る"
+    "original": "관통 공격 스킬 피해량 증가, 속도 차이에 비례하여 피해량 추가 증가",
+    "context": "EN :\nPierce Attack Skills deal more damage; deal more damage based on the Speed difference\nJP :\n貫通攻撃スキルダメージ量増加、速度差に比例してダメージ量が追加で増加"
   },
   {
     "key": "9148-name",
@@ -5741,23 +5726,18 @@
   },
   {
     "key": "9152-desc",
-    "original": "[편성 3번 인격 전용 효과]\n\n타격 공격 스킬의 합 위력 +(코인 수/3), 더하기 코인 위력 +1, 빼기 코인 위력 -1 (E.G.O 스킬 제외, 올림하여 처리).\n\n이번 전투 동안 타격 공격 스킬을 사용하여 한 번이라도 합 패배 시, 효과가 강화되어 합 위력 +(코인 수/2), 더하기 코인 위력 +2, 빼기 코인 위력 -2로 적용됨.\n\n턴 종료 시 이번 턴에 코인 수가 3개 이상인 타격 공격 스킬을 1회 이상 사용하였다면, 다음 턴에 [HitDamageUp] 4 얻음.",
-    "context": "EN :\n[Effects apply only to #3 Deployed Identity]\n\nBlunt Attack Skills gain Clash Power +(# of Coins/3): Plus Coins gain additional Coin Power +1, Minus Coins gain additional Coin Power -1. (except E.G.O Skills; rounded up)\n\nIf, in this Encounter, this unit lost even a single Clash using a Blunt Attack Skill, upgrade the above effect to the following: Blunt Attack Skills gain Clash Power +(# of Coins/2): Plus Coins gain additional Coin Power +2, Minus Coins gain additional Coin power -2.\n\nTurn End: If this unit used a Blunt Attack Skill with 3+ Coins this turn, gain 4 [HitDamageUp] next turn.\nJP :\n[編成3番人格専用効果]\n\n打撃攻撃スキルのマッチ威力 +(コイン数 ÷ 3), 加算コイン威力+1, 減算コイン威力 -1(E.G.Oスキルを除く繰り上げ処理)\n\n今回の戦闘の間、打撃攻撃スキルを使用して一度でもマッチ敗北した場合、効果が強化されて、マッチ威力 +(コイン数 ÷ 2)、加算コイン威力 +2, 減算コイン威力-2で適用される\n\nターン終了時、このターンにコイン数が3個以上の打撃攻撃スキルを1回以上使用した場合、次のターンに[HitDamageUp]4を得る。"
+    "original": "[편성 1번, 2번 인격 전용 효과]\n\n타격 공격 스킬의 기본 위력 +2, 더하기 코인 위력 +1, 빼기 코인 위력 -1 (E.G.O 스킬 포함).\n\n타격 공격 스킬을 사용하여 합 승리 시 피해량 +20%. 해당 스킬로 적중 시 피해량 +(30/코인 수, 최소 10)% (E.G.O 스킬 제외).",
+    "context": "EN :\n[Effects apply only to #1 and #2 Deployed Identities]\n\nBlunt Attack Skills(including E.G.O Skills) gain Base Power +2, Plus Coin Power +1, and Minus Coin Power -1\n\nOn Clash Win with a Blunt Attack Skill(except E.G.O Skills), deal +20% more damage with that Skill; On Hit with that Skill, deal +(30 / # of Coins)% more damage (min 10%)\nJP :\n[編成1番・2番人格専用効果]\n\n打撃攻撃スキルの基本威力 +2, 加算コイン威力 +1, 減算コイン威力 -1 (E.G.Oスキルを含む)\n\n打撃攻撃スキルを使用してマッチ勝利時、ダメージ量 +20%. 該当スキルで的中時、ダメージ量 +(30 ÷ コイン数、最小10)% (E.G.Oスキルを除く)"
   },
   {
     "key": "9152-simpleDesc$[0].simpleDesc",
-    "original": "합 위력 +(코인 수/3), 더하기 코인 위력 +1, 빼기 코인 위력 -1",
-    "context": "EN :\nClash Power +(# of Coins/3): Plus Coins gain additional Coin Power +1, Minus Coins gain additional Coin Power -1\nJP :\nマッチ威力 +(コイン数 ÷3), 加算コイン威力 +1, 減算コイン威力 -1"
+    "original": "타격 스킬 위력 증가",
+    "context": "EN :\nBlunt Skill Power Up\nJP :\n打撃スキル威力 が増加"
   },
   {
     "key": "9152-simpleDesc$[1].simpleDesc",
-    "original": "합 위력 +(코인 수/2), 더하기 코인 위력 +2, 빼기 코인 위력 -2",
-    "context": "EN :\nClash Power +(# of Coins/2): Plus Coins gain additional Coin Power +2, Minus Coins gain additional Coin Power -2\nJP :\nマッチ威力 +(コイン数 ÷2), 加算コイン威力 +2, 減算コイン威力 -2"
-  },
-  {
-    "key": "9152-simpleDesc$[2].simpleDesc",
-    "original": "다음 턴에 [HitDamageUp] 4 얻음",
-    "context": "EN :\nGain 4 [HitDamageUp] next turn\nJP :\n次のターンに[HitDamageUp]4を得る"
+    "original": "타격 스킬 피해량 증가, 코인 수가 적을수록 피해량 추가 증가",
+    "context": "EN :\nBlunt Skills deal more damage; the fewer coins they have, the more damage they deal\nJP :\n打撃スキルダメージ量増加、コイン数が少ないほどダメージ量が追加で増加"
   },
   {
     "key": "9153-name",
@@ -6236,7 +6216,7 @@
   },
   {
     "key": "9194-desc",
-    "original": "참격 기본 공격 스킬로 합 승리 시, 대상 적에게 다음 턴에 방어 레벨 감소 2 부여 (인격 별로 턴당 1회, 동일한 적에게 중첩 불가).\n- 세븐 협회 소속 인격은 관통, 타격 기본 공격 스킬에도 효과 적용\n\n스테이지 시작 시, 세븐 협회 소속 인격이 (자신을 제외한 다른 세븐 협회 소속 인격 수/2)만큼 합 위력 증가 얻음 (버림하여 처리, 최대 2).",
+    "original": "참격 기본 공격 스킬로 합 승리 시, 대상 적에게 다음 턴에 방어 레벨 감소 2 부여 (인격 별로 턴 당 1회, 동일한 적에게 중첩 불가).\n- 세븐 협회 소속 인격은 관통, 타격 기본 공격 스킬에도 효과 적용\n\n스테이지 시작 시, 세븐 협회 소속 인격이 (자신을 제외한 다른 세븐 협회 소속 인격 수/2)만큼 합 위력 증가 얻음 (버림하여 처리, 최대 2).",
     "context": "EN :\nWhen winning a Clash with a Slash Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)\n- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well\n\nEncounter Start: Seven Association Identities gain (# of other Seven Association Identities / 2) Clash Power Up (rounded down; max 2)\nJP :\n斬撃基本攻撃スキルでマッチ勝利時、対象の敵へ次のターンにて防御レベル減少2を付与(人格ごとに1ターンにつき1回、同じ敵へ重畳不可)\n- セブン協会所属人格は貫通、打撃基本攻撃スキルにも効果が適用\n\nステージ開始時、セブン協会所属人格が(自分を除く他のセブン協会所属人格数 ÷ 2)だけマッチ威力増加 を得る(切り捨て処理、最大2)"
   },
   {
@@ -6256,7 +6236,7 @@
   },
   {
     "key": "19194-desc",
-    "original": "참격 기본 공격 스킬로 합 승리 시, 대상 적에게 다음 턴에 방어 레벨 감소 2 부여 (인격 별로 턴당 1회, 동일한 적에게 중첩 불가).\n- 세븐 협회 소속 인격은 관통, 타격 기본 공격 스킬에도 효과가 적용되고 약점 분석 추가로 부여\n\n홀수 번째 턴 시작 시, 세븐 협회 소속 인격이 (자신을 제외한 다른 세븐 협회 소속 인격 수/2)만큼 합 위력 증가 얻음 (버림하여 처리, 최대 2).",
+    "original": "참격 기본 공격 스킬로 합 승리 시, 대상 적에게 다음 턴에 방어 레벨 감소 2 부여 (인격 별로 턴 당 1회, 동일한 적에게 중첩 불가).\n- 세븐 협회 소속 인격은 관통, 타격 기본 공격 스킬에도 효과가 적용되고 약점 분석 추가로 부여\n\n홀수 번째 턴 시작 시, 세븐 협회 소속 인격이 (자신을 제외한 다른 세븐 협회 소속 인격 수/2)만큼 합 위력 증가 얻음 (버림하여 처리, 최대 2).",
     "context": "EN :\nWhen winning a Clash with a Slash Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)\n- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well, and inflict Weakness Analyzed as well\n\nOdd-numbered Turn Start: Seven Association Identities gain (# of other Seven Association Identities / 2) Clash Power Up (rounded down; max 2)\nJP :\n斬撃基本攻撃スキルでマッチ勝利時、対象の敵へ次のターンにて防御レベル減少2を付与(人格ごとに1ターンにつき1回、同じ敵へ重畳不可)\n- セブン協会所属人格は貫通、打撃基本攻撃スキルにも効果が適用されて弱点分析 を追加で付与\n\n奇数番目のターン開始時、セブン協会所属人格が(自分を除く他のセブン協会所属人格数 ÷ 2)だけマッチ威力増加 を得る(切り捨て処理、最大2)"
   },
   {
@@ -6276,7 +6256,7 @@
   },
   {
     "key": "29194-desc",
-    "original": "참격 기본 공격 스킬로 합 승리 시, 대상 적에게 다음 턴에 방어 레벨 감소 2 부여 (인격 별로 턴당 1회, 동일한 적에게 중첩 불가).\n- 세븐 협회 소속 인격은 관통, 타격 기본 공격 스킬에도 효과가 적용되고 약점 분석, 합 위력 감소 1 추가로 부여\n\n턴 시작 시, 세븐 협회 소속 인격이 (자신을 제외한 다른 세븐 협회 소속 인격 수/2)만큼 합 위력 증가 얻음 (버림하여 처리, 최대 2). 합 승리 시 해당 스킬의 피해량 +20%.",
+    "original": "참격 기본 공격 스킬로 합 승리 시, 대상 적에게 다음 턴에 방어 레벨 감소 2 부여 (인격 별로 턴 당 1회, 동일한 적에게 중첩 불가).\n- 세븐 협회 소속 인격은 관통, 타격 기본 공격 스킬에도 효과가 적용되고 약점 분석, 합 위력 감소 1 추가로 부여\n\n턴 시작 시, 세븐 협회 소속 인격이 (자신을 제외한 다른 세븐 협회 소속 인격 수/2)만큼 합 위력 증가 얻음 (버림하여 처리, 최대 2). 합 승리 시 해당 스킬의 피해량 +20%.",
     "context": "EN :\nWhen winning a Clash with a Slash Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)\n- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well, and inflict Weakness Analyzed and 1 Clash Power Down as well\n\nTurn Start: Seven Association Identities gain (# of other Seven Association Identities / 2) Clash Power Up. (rounded down; max 2) On Clash Win, deal +20% more damage with the Skill.\nJP :\n斬撃基本攻撃スキルでマッチ勝利時、対象の敵へ次のターンにて防御レベル減少2を付与(人格ごとに1ターンにつき1回、同じ敵へ重畳不可)\n- セブン協会所属人格は貫通、打撃基本攻撃スキルにも効果が適用されて弱点分析 、マッチ威力減少1を追加で付与\n\nターン開始時、セブン協会所属人格が(自分を除く他のセブン協会所属人格数 ÷ 2)だけマッチ威力増加 を得る(切り捨て処理、最大2)。マッチ勝利時に該当スキルのダメージ量 +20%"
   },
   {
@@ -6296,7 +6276,7 @@
   },
   {
     "key": "9195-desc",
-    "original": "참격 유형인 스킬 1의 합 위력 +1, 적중 시 공격 레벨 감소 2 부여.\n- 흑운회 소속 인격은 효과가 변경되어, 참격 유형인 모든 기본 공격 스킬에 효과 적용\n\n흑운회 소속 인격이 턴 시작 시 위력 증가 1을 얻음. 기본 공격 스킬을 사용하여 적중 시 출혈 위력, 출혈 횟수를 부여할 때마다 호흡 위력 1 얻음 (인격 별로 턴당 최대 4).",
+    "original": "참격 유형인 스킬 1의 합 위력 +1, 적중 시 공격 레벨 감소 2 부여.\n- 흑운회 소속 인격은 효과가 변경되어, 참격 유형인 모든 기본 공격 스킬에 효과 적용\n\n흑운회 소속 인격이 턴 시작 시 위력 증가 1을 얻음. 기본 공격 스킬을 사용하여 적중 시 출혈 위력, 출혈 횟수를 부여할 때마다 호흡 위력 1 얻음 (인격 별로 턴 당 최대 4).",
     "context": "EN :\nSlash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.\n- For Kurokumo Clan Identities: the above effects apply to all Slash Attack Type Skills instead\n\nTurn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain 1 Poise Potency (4 times per turn for each Identity)\nJP :\n斬撃タイプのスキル1のマッチ威力 +1, 的中時に攻撃レベル減少2を付与。\n- 黒雲会所属人格は効果が変更され、斬撃タイプの全基本攻撃スキルに効果適用\n\n黒雲会所属人格がターン開始時に威力増加1を得る。基本攻撃スキルを使用して的中時、[Laceration]威力・[Laceration]回数を付与するたびに[Breath]威力1を得る。(人格ごとに1ターンにつき最大4)"
   },
   {
@@ -6316,7 +6296,7 @@
   },
   {
     "key": "19195-desc",
-    "original": "참격 유형인 스킬 1의 합 위력 +1, 적중 시 공격 레벨 감소 2 부여.\n- 흑운회 소속 인격은 효과가 변경되어, 참격 유형 또는 색욕 속성인 모든 기본 공격 스킬(중첩되지 않음)에 효과 적용\n\n흑운회 소속 인격이 턴 시작 시 위력 증가 1을 얻음. 기본 공격 스킬을 사용하여 적중 시 출혈 위력, 출혈 횟수를 부여할 때마다 호흡 위력 1 얻음 (인격 별로 턴당 최대 6).",
+    "original": "참격 유형인 스킬 1의 합 위력 +1, 적중 시 공격 레벨 감소 2 부여.\n- 흑운회 소속 인격은 효과가 변경되어, 참격 유형 또는 색욕 속성인 모든 기본 공격 스킬(중첩되지 않음)에 효과 적용\n\n흑운회 소속 인격이 턴 시작 시 위력 증가 1을 얻음. 기본 공격 스킬을 사용하여 적중 시 출혈 위력, 출혈 횟수를 부여할 때마다 호흡 위력 1 얻음 (인격 별로 턴 당 최대 6).",
     "context": "EN :\nSlash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.\n- For Kurokumo Clan Identities: the above effects apply to all Slash Attack Type or Lust Affinity Skills instead (effect does not stack)\n\nTurn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain 1 Poise Potency (6 times per turn for each Identity)\nJP :\n斬撃タイプのスキル1のマッチ威力 +1, 的中時に攻撃レベル減少2を付与。\n- 黒雲会所属人格は効果が変更され、斬撃タイプまたは色欲属性の全基本攻撃スキル1に効果適用(効果は重複しない)\n\n黒雲会所属人格がターン開始時に威力増加1を得る。基本攻撃スキルを使用して的中時、[Laceration]威力・[Laceration]回数を付与するたびに[Breath]威力1を得る。(人格ごとに1ターンにつき最大6)"
   },
   {
@@ -6336,7 +6316,7 @@
   },
   {
     "key": "29195-desc",
-    "original": "참격 유형인 스킬 1의 합 위력 +1, 적중 시 공격 레벨 감소 2 부여.\n- 흑운회 소속 인격은 효과가 변경되어, 모든 기본 공격 스킬(중첩되지 않음)에 효과 적용\n\n흑운회 소속 인격이 턴 시작 시 위력 증가 1을 얻음. 기본 공격 스킬을 사용하여 적중 시 출혈 위력, 출혈 횟수를 부여할 때마다 호흡 위력 1~2 얻음 (인격 별로 턴당 최대 8).",
+    "original": "참격 유형인 스킬 1의 합 위력 +1, 적중 시 공격 레벨 감소 2 부여.\n- 흑운회 소속 인격은 효과가 변경되어, 모든 기본 공격 스킬(중첩되지 않음)에 효과 적용\n\n흑운회 소속 인격이 턴 시작 시 위력 증가 1을 얻음. 기본 공격 스킬을 사용하여 적중 시 출혈 위력, 출혈 횟수를 부여할 때마다 호흡 위력 1~2 얻음 (인격 별로 턴 당 최대 8).",
     "context": "EN :\nSlash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.\n- For Kurokumo Clan Identities: the above effects apply to all Skills instead (effect does not stack)\n\nTurn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain 1~2 Poise Potency (8 times per turn for each Identity)\nJP :\n斬撃タイプのスキル1のマッチ威力 +1, 的中時に攻撃レベル減少2を付与。\n- 黒雲会所属人格は効果が変更され、全基本攻撃スキル1に効果適用(効果は重複しない)\n\n黒雲会所属人格がターン開始時に威力増加1を得る。基本攻撃スキルを使用して的中時、[Laceration]威力・[Laceration]回数を付与するたびに[Breath]威力1～6を得る。(人格ごとに1ターンにつき最大8)"
   },
   {
@@ -6356,13 +6336,13 @@
   },
   {
     "key": "9196-desc",
-    "original": "참격 유형인 스킬 1과 스킬 2를 사용하여 적에게 피해를 입힐 경우, 피해량 +(10+자신이 보유한 방어 레벨 증가 x 4)% (최대 50%).\n- 츠바이 협회 소속 인격은 효과가 변경되어, 모든 유형의 기본 공격 스킬에 효과 적용\n\n턴 시작 시, 츠바이 협회 소속 인격이 자신을 제외한 다른 츠바이 협회 소속 인격 수만큼 방어 레벨 증가 1 얻음 (최대 4).\n\n 종료 시, 이번 턴동안 적에게 피격받았거나 전투 시작 시 수비 스킬을 사용한 츠바이 협회 소속 인격이 다음 턴에 공격 위력 증가 2 얻음.",
-    "context": "EN :\nWhen dealing damage to an enemy with a Slash Attack Type Skill 1 or 2: deal +(10 + (Defense Level Up on self x 4))% more damage (max 50%)\n- For Zwei Association Identities: the above effect applies to all Attack Type Base Attack Skills\n\nTurn Start: Zwei Association Identities gain (# of other Zwei Association Identities) Defense Level Up (max 4)\n\nTurn End: if a Zwei Association Identity was hit by an enemy or used a Defensive Skill at the start of the Combat Phase, the unit gains 2 Attack Power Up next turn.\nJP :\n斬撃タイプのスキル1・2を使用して敵にダメージを与えるとき、ダメージ量 +(10 + 自分が保有する防御レベル増加 × 4)% (最大50%)\n- ツヴァイ協会所属人格は効果が変更され、全タイプの基本攻撃に効果適用\n\nターン開始時にツヴァイ協会所属人格が、自分を除く他のツヴァイ協会所属人格の数だけ防御レベル増加1を得る(最大4)\n\nターン終了時、このターンにてダメージを受けるか戦闘開始時に守備スキルを使用したツヴァイ協会所属人格が、次のターンにて攻撃威力増加2を得る。"
+    "original": "참격 기본 공격 스킬의 합 위력 +2. 전투 시작 시, 자신을 제외하고 이번 턴에 참격 기본 공격 스킬을 사용하는 인격 수만큼 [AttackUp] 얻음 (최대 3).\n\n보유한 모든 기본 공격 스킬이 참격 유형인 아군이 턴 시작 시 [SlashDamageUp] 2 얻음 (강화되거나 특수 발동하는 경우 제외).\n\n가드 스킬 사용 시 (강화 방어 제외), [Protection] 1, [DefenseUp] 3 얻음 (인격 별로 턴 당 1회). 아군 인격이 이번 턴 동안 적에게 단일 대상 공격 스킬로 적중당하여 체력 또는 보호막 피해를 2회 받을 때마다 다음 턴에 [DefenseUp] 1 얻음 (최대 3)\n\n츠바이 협회 소속 인격이 턴 시작 시 [Enhancement] 2, [SlashResultUp] 1 얻고 자신을 제외한 다른 츠바이 협회 소속 인격 수만큼 [DefenseUp] 2 얻음 (최대 8)",
+    "context": "EN :\nSlash Base Attack Skills gain Clash Power +2. On Combat Start, gain [AttackUp] equal to the number of Identities who are using Slash base Attack Skills this turn. (max 3)\n\nAllies with Slash Attack Type for all of their base Attack Skills gain 2 [SlashDamageUp] at Turn Start. (except for Empowered Skills or Skills that need unique conditionals)\n\nWhen using Guard(except Power Guard), gain 1 [Protection] and 3 [DefenseUp] (once per Identity per turn). When, in a single turn, an allied Identity takes 2 instances of HP or Shield HP damage by getting attacked by enemy's single-target Attack Skill, gain 1 [DefenseUp] next turn (max 3)\n\nAt Turn Start, Zwei Association Identities gain 2 [Enhancement] and 1 [SlashResultUp]; then, gain 2 [DefenseUp] for every other Zwei Association Identity (max 8)\nJP :\n斬撃基本攻撃スキルのマッチ威力 +2. 戦闘開始時、自分を除いてこのターンに斬撃基本攻撃スキルを使用する人格の数だけ[AttackUp]を得る(最大3)\n\n保有する全基本攻撃スキルが斬撃タイプの味方が、ターン開始時に[SlashDamageUp]2を得る(強化されるか特殊発動する場合を除く)\n\nガードスキル使用時(強化防御を除く)、[Protection]1, [DefenseUp]3を得る(人格ごとに1ターンにつき1回) 味方人格がこのターンの間、敵の単体対象の攻撃スキルによって体力またはバリアダメージを2回受けるたび、次のターンに[DefenseUp]1を得る(最大3)\n\nツヴァイ協会所属人格がターン開始時、[Enhancement]2, [SlashResultUp]1を得て自分を除く他のツヴァイ協会所属人格の数だけ[DefenseUp]2を得る(最大8)"
   },
   {
     "key": "9196-simpleDesc$[0].simpleDesc",
-    "original": "스킬 피해량 증가",
-    "context": "EN :\nSkills deal more damage\nJP :\nスキルダメージ量増加"
+    "original": "공격 레벨 증가 얻음",
+    "context": "EN :\nGain Offense Level Up\nJP :\n攻撃レベル増加 を得る"
   },
   {
     "key": "9196-simpleDesc$[1].simpleDesc",
@@ -6371,8 +6351,8 @@
   },
   {
     "key": "9196-simpleDesc$[2].simpleDesc",
-    "original": "공격 위력 증가 얻음",
-    "context": "EN :\nGain Attack Power Up\nJP :\n攻撃威力増加を得る"
+    "original": "공격 위력 증가, 방어 레벨 증가 얻음",
+    "context": "EN :\nGain Attack Power Up & Defense Level Up\nJP :\n攻撃威力増加 、防御レベル増加 を得る"
   },
   {
     "key": "9197-name",
@@ -6521,13 +6501,28 @@
   },
   {
     "key": "9200-desc",
-    "original": "[1번 편성 효과]\n\n회피 스킬 위력 +1~3, 회피를 3회 성공할 때마다 이번 턴과 다음 턴에 [PenetrateDamageUp] 1 얻음 (턴 당 최대 5).\n\n관통 스킬을 사용하여 피해를 입혔다면 다음 턴 시작 시, 이 E.G.O 기프트 효과로 얻은 [PenetrateDamageUp]가 초기화됨.",
-    "context": "EN :\n[Effects apply only to #1 Deployed Identity]\n\nEvade Skill Power +1~3; after every 3 successful Evade, gain 1 [PenetrateDamageUp] this turn and next turn (5 per turn)\n\nIf the unit dealt damage with a Pierce Skill, reset the [PenetrateDamageUp] Stack gained from this E.G.O Gift effect at the next Turn Start.\nJP :\n[編成1番人格専用効果]\n\n回避スキル威力 +1～3, 回避を3回成功させるたび、このターンと次のターンに[PenetrateDamageUp]1を得る。(1ターンにつき最大5)\n\n貫通スキルを使用してダメージを与えたなら次のターン開始時、このE.G.Oギフト効果で得た[PenetrateDamageUp]が初期化される。"
+    "original": "관통 기본 공격 스킬의 합 위력 +2. 전투 시작 시, 자신을 제외하고 이번 턴에 관통 기본 공격 스킬을 사용하는 인격 수만큼 [AttackUp] 얻음 (최대 3).\n\n보유한 모든 기본 공격 스킬이 관통 유형인 아군이 턴 시작 시 [PenetrateDamageUp] 2 얻음 (강화되거나 특수 발동하는 경우 제외).\n\n회피 스킬 위력 +2. 아군 인격이 이번 턴 동안 회피를 2회 성공할 때마다 다음 턴에 [AttackDmgUp] 1 얻음 (최대 3).\n\n섕크 협회 소속 인격이 턴 시작 시 [PenetrateResultUp] 1, [PenetrateDamageUp] 2 얻음. 섕크 협회 소속 인격이 본인이 부여한 결투 선포 또는 집중 공격을 보유한 적에게 기본 스킬로 공격 적중 시 피해를 입혔다면, 다음 턴에 [PenetrateDamageUp] 2, [Agility] 1 얻음 (인격 별로 턴 당 1회).",
+    "context": "EN :\nPierce Base Attack Skills gain Clash Power +2. On Combat Start, gain [AttackUp] equal to the number of Identities who are using Pierce base Attack Skills this turn. (max 3)\n\nAllies with Pierce Attack Type for all of their base Attack Skills gain 2 [PenetrateDamageUp] at Turn Start. (except for Empowered Skills or Skills that need unique conditionals)\n\nEvade Skill Power +2. Every time an allied Identity successfully Evades 2 times within a single turn, they gain 1 [AttackDmgUp] next turn (max 3)\n\nAt Turn Start, Cinq Association Identities gain 1 [PenetrateResultUp] and 2 [PenetrateDamageUp]; if a Cinq Association Identity dealt damage On Hit against an enemy inflicted by their Declared Duel or Focused Attack, gain 2 [PenetrateDamageUp] and 1 [Agility] next turn. (once per Identity per turn)\nJP :\n貫通基本攻撃スキルのマッチ威力 +2. 戦闘開始時、自分を除いてこのターンに貫通基本攻撃スキルを使用する人格の数だけ[AttackUp]を得る(最大3)\n\n保有する全基本攻撃スキルが貫通タイプの味方が、ターン開始時に[PenetrateDamageUp]2を得る(強化されるか特殊発動する場合を除く)\n\n回避スキル威力 +2. 味方人格がこのターンの間、回避を2回成功させるたび次のターンにて[AttackDmgUp]1を得る(最大3)\n\nセンク協会所属人格がターン開始時、[PenetrateResultUp]1, [PenetrateDamageUp]2を得る。 センク所属人格が自分で付与した決闘宣布、または集中攻撃を保有する敵に基本攻撃スキルで攻撃的中時、ダメージを与えたなら次のターンに[PenetrateDamageUp]2, [Agility]1を得る(人格ごとに1ターンにつき1回)"
   },
   {
     "key": "9200-simpleDesc$[0].simpleDesc",
-    "original": "회피 스킬 위력 증가. 회피 3회 성공시마다 관통 피해량 증가 얻음",
-    "context": "EN :\nGain Evade Skill Power. Gain Pierce DMG Up after every 3 successful Evade\nJP :\n回避スキル威力増加。回避が3回成功するたびに貫通ダメージ量増加を得る"
+    "original": "합 위력 증가",
+    "context": "EN :\nClash Power Up\nJP :\nマッチ威力増加"
+  },
+  {
+    "key": "9200-simpleDesc$[1].simpleDesc",
+    "original": "관통 피해량 증가",
+    "context": "EN :\nPierce DMG Up\nJP :\n貫通量ダメージ増加"
+  },
+  {
+    "key": "9200-simpleDesc$[2].simpleDesc",
+    "original": "회피 스킬 위력 증가. 회피 3회 성공시마다 관통 피해량 증가",
+    "context": "EN :\nGain Evade Skill Power. Gain Pierce DMG Up after every 3 successful Evade\nJP :\n回避スキル威力増加。回避が3回成功するたびに貫通ダメージ量増加"
+  },
+  {
+    "key": "9200-simpleDesc$[3].simpleDesc",
+    "original": "관통 위력 증가, 관통 피해량 증가",
+    "context": "EN :\nGain Pierce Power Up and deal more Pierce damage\nJP :\n貫通威力増加、貫通ダメージ量増加"
   },
   {
     "key": "9201-name",
@@ -6556,7 +6551,7 @@
   },
   {
     "key": "9202-desc",
-    "original": "타격 기본 공격 스킬로 합 승리 시, 대상 적에게 다음 턴에 방어 레벨 감소 2 부여 (인격 별로 턴당 1회, 동일한 적에게 중첩 불가).\n- 디에치 협회 소속 인격은 참격, 관통 기본 공격 스킬에도 효과가 적용되고 방어 레벨 감소 1 추가로 부여\n\n디에치 협회 소속 인격이 버림 스킬을 사용하여 자신의 스킬을 버렸다면, 다음 턴 시작 시 버린 스킬의 등급만큼 공격 레벨 증가 얻음 (가장 높은 등급으로 계산, 최대 3).",
+    "original": "타격 기본 공격 스킬로 합 승리 시, 대상 적에게 다음 턴에 방어 레벨 감소 2 부여 (인격 별로 턴 당 1회, 동일한 적에게 중첩 불가).\n- 디에치 협회 소속 인격은 참격, 관통 기본 공격 스킬에도 효과가 적용되고 방어 레벨 감소 1 추가로 부여\n\n디에치 협회 소속 인격이 버림 스킬을 사용하여 자신의 스킬을 버렸다면, 다음 턴 시작 시 버린 스킬의 등급만큼 공격 레벨 증가 얻음 (가장 높은 등급으로 계산, 최대 3).",
     "context": "EN :\nWhen winning a Clash with a Blunt Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)\n- For Dieci Association Identities: above effect applies to Slash and Pierce Base Attack Skills as well; inflict 1 additional Defense Level Down\n\nIf a Dieci Association Identity Discarded their own Skill using a Discard Skill, gain (rank of the Discarded Skill) Offense Level Up at the next Turn Start. (if multiple are discarded, take the highest value; max 3)\nJP :\n打撃基本攻撃スキルでマッチ勝利時、対象の敵へ次のターンにて防御レベル減少2を付与(人格ごとに1ターンにつき1回、同じ敵へ重畳不可)\n- ディエーチ協会所属人格は斬撃、貫通基本攻撃スキルにも効果が適用されて防御レベル減少1を追加で付与\n\nディエーチ協会所属人格が[Discard]スキルを使用して自分のスキルを捨てたなら、次のターン開始時に捨てたスキルのランクだけ[AttackUp]を得る(最も高いランクで計算、最大3)"
   },
   {
@@ -6576,8 +6571,8 @@
   },
   {
     "key": "19202-desc",
-    "original": "타격 기본 공격 스킬로 합 승리 시, 대상 적에게 다음 턴에 방어 레벨 감소 2 부여 (인격 별로 턴당 1회, 동일한 적에게 중첩 불가).\n- 디에치 협회 소속 인격은 참격, 관통 기본 공격 스킬에도 효과가 적용되고 방어 레벨 감소 1 추가로 부여\n\n디에치 협회 소속 인격이 버림 스킬을 사용하여 자신의 스킬을 버렸다면, 다음 턴 시작 시 (버린 스킬의 등급+1)만큼 공격 레벨 증가 얻음 (가장 높은 등급으로 계산, 최대 4).",
-    "context": "EN :\nWhen winning a Clash with a Blunt Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)\n- For Dieci Association Identities: above effect applies to Slash and Pierce Base Attack Skills as well; inflict 1 additional Defense Level Down\n\nIf a Dieci Association Identity Discarded their own Skill using a Discard Skill, gain (rank of the Discarded Skill + 1) Offense Level Up at the next Turn Start. (if multiple are discarded, take the highest value; max 4)\nJP :\n打撃基本攻撃スキルでマッチ勝利時、対象の敵へ次のターンにて防御レベル減少2を付与(人格ごとに1ターンにつき1回、同じ敵へ重畳不可)\n- ディエーチ協会所属人格は斬撃、貫通基本攻撃スキルにも効果が適用されて防御レベル減少1を追加で付与\n\nディエーチ協会所属人格が[Discard]スキルを使用して自分のスキルを捨てたなら、次のターン開始時に(捨てたスキルのランク + 1)だけ[AttackUp]を得る(最も高いランクで計算、最大4)"
+    "original": "타격 기본 공격 스킬로 합 승리 시, 대상 적에게 다음 턴에 방어 레벨 감소 2 부여 (인격 별로 턴 당 1회, 동일한 적에게 중첩 불가).\n- 디에치 협회 소속 인격은 참격, 관통 기본 공격 스킬에도 효과가 적용되고 방어 레벨 감소 1 추가로 부여\n\n디에치 협회 소속 인격이 버림 스킬을 사용하여 자신의 스킬을 버렸다면, 다음 턴 시작 시 (버린 스킬의 등급+1)만큼 공격 레벨 증가 얻음 (가장 높은 등급으로 계산, 최대 4).",
+    "context": "EN :\nWhen winning a Clash with a Blunt Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)\n- For Dieci Association Identities: above effect applies to Slash and Pierce Base Attack Skills as well; inflict 1 additional Defense Level Down\n\nIf a Dieci Association Identity Discarded their own Skill using a Discard Skill, gain (rank of the Discarded Skill + 1) Offense Level Up at the next Turn Start. (if multiple are discarded, take the highest value; max 4)\nJP :\n打撃基本攻撃スキルでマッチ勝利時、対象の敵へ次のターンにて防御レベル減少2を付与(人格ごとに1ターンにつき1回、同じ敵へ重畳不可)\n- ディエーチ協会所属人格は斬撃、貫通基本攻撃スキルにも効果が適用されて防御レベル減少1を追加で付与\n\nディエーチ協会所属人格が[Discard]スキルを使用して自分のスキルを捨てたなら、次のターン開始時に(捨てたスキルのランク+1)だけ[AttackUp]を得る(最も高いランクで計算、最大4)"
   },
   {
     "key": "19202-simpleDesc$[0].simpleDesc",
@@ -6596,8 +6591,8 @@
   },
   {
     "key": "29202-desc",
-    "original": "타격 기본 공격 스킬로 합 승리 시, 대상 적에게 다음 턴에 방어 레벨 감소 2 부여 (인격 별로 턴당 1회, 동일한 적에게 중첩 불가).\n- 디에치 협회 소속 인격은 참격, 관통 기본 공격 스킬에도 효과가 적용되고 방어 레벨 감소 1 추가로 부여\n\n디에치 협회 소속 인격이 버림 스킬을 사용하여 자신의 스킬을 버렸다면, 다음 턴 시작 시 (버린 스킬의 등급+2)만큼 공격 레벨 증가 얻음 (가장 높은 등급으로 계산, 최대 5).",
-    "context": "EN :\nWhen winning a Clash with a Blunt Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)\n- For Dieci Association Identities: above effect applies to Slash and Pierce Base Attack Skills as well; inflict 1 additional Defense Level Down\n\nIf a Dieci Association Identity Discarded their own Skill using a Discard Skill, gain (rank of the Discarded Skill + 2) Offense Level Up at the next Turn Start. (if multiple are discarded, take the highest value; max 5)\nJP :\n打撃基本攻撃スキルでマッチ勝利時、対象の敵へ次のターンにて防御レベル減少2を付与(人格ごとに1ターンにつき1回、同じ敵へ重畳不可)\n- ディエーチ協会所属人格は斬撃、貫通基本攻撃スキルにも効果が適用されて防御レベル減少1を追加で付与\n\nディエーチ協会所属人格が[Discard]スキルを使用して自分のスキルを捨てたなら、次のターン開始時に(捨てたスキルのランク + 2)だけ[AttackUp]を得る(最も高いランクで計算、最大5)"
+    "original": "타격 기본 공격 스킬로 합 승리 시, 대상 적에게 다음 턴에 방어 레벨 감소 2 부여 (인격 별로 턴 당 1회, 동일한 적에게 중첩 불가).\n- 디에치 협회 소속 인격은 참격, 관통 기본 공격 스킬에도 효과가 적용되고 방어 레벨 감소 1 추가로 부여\n\n디에치 협회 소속 인격이 버림 스킬을 사용하여 자신의 스킬을 버렸다면, 다음 턴 시작 시 (버린 스킬의 등급+2)만큼 공격 레벨 증가 얻음 (가장 높은 등급으로 계산, 최대 5).",
+    "context": "EN :\nWhen winning a Clash with a Blunt Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)\n- For Dieci Association Identities: above effect applies to Slash and Pierce Base Attack Skills as well; inflict 1 additional Defense Level Down\n\nIf a Dieci Association Identity Discarded their own Skill using a Discard Skill, gain (rank of the Discarded Skill + 2) Offense Level Up at the next Turn Start. (if multiple are discarded, take the highest value; max 5)\nJP :\n打撃基本攻撃スキルでマッチ勝利時、対象の敵へ次のターンにて防御レベル減少2を付与(人格ごとに1ターンにつき1回、同じ敵へ重畳不可)\n- ディエーチ協会所属人格は斬撃、貫通基本攻撃スキルにも効果が適用されて防御レベル減少1を追加で付与\n\nディエーチ協会所属人格が[Discard]スキルを使用して自分のスキルを捨てたなら、次のターン開始時に(捨てたスキルのランク+2)だけ[AttackUp]を得る(最も高いランクで計算、最大5)"
   },
   {
     "key": "29202-simpleDesc$[0].simpleDesc",
@@ -6616,7 +6611,7 @@
   },
   {
     "key": "9203-desc",
-    "original": "타격 유형인 스킬 1, 스킬 2의 공격 레벨 +(코인 수-1) (최대 2)\n- 버림 효과가 있는 스킬일 경우 효과가 강화되어, 공격 레벨 +(코인 수) (최대 4)\n\n버림 스킬을 사용하여 자신의 스킬을 버렸다면, 다음 턴 시작 시 피해량 증가 1, 버린 스킬의 등급만큼 공격 레벨 증가 얻음 (인격 별로 턴당 1회 적용되며 가장 높은 등급으로 계산, 최대 3).\n- 타격 유형 스킬을 버렸다면 효과가 강화되어, 타격 피해량 증가 1 추가로 얻음",
+    "original": "타격 유형인 스킬 1, 스킬 2의 공격 레벨 +(코인 수-1) (최대 2)\n- 버림 효과가 있는 스킬일 경우 효과가 강화되어, 공격 레벨 +(코인 수) (최대 4)\n\n버림 스킬을 사용하여 자신의 스킬을 버렸다면, 다음 턴 시작 시 피해량 증가 1, 버린 스킬의 등급만큼 공격 레벨 증가 얻음 (인격 별로 턴 당 1회 적용되며 가장 높은 등급으로 계산, 최대 3).\n- 타격 유형 스킬을 버렸다면 효과가 강화되어, 타격 피해량 증가 1 추가로 얻음",
     "context": "EN :\nBlunt Attack Type Skill 1 & 2: Offense Level +(# of Coins - 1) (max 2)\n- Skills with Discard effects gain Offense Level +(# of Coins) instead (max 4)\n\nIf a unit used a Discard Skill to discard their Skill, gain 1 Damage Up and (rank of the Discarded Skill) Offense Level Up. (once per turn for each Identity; if multiple were discarded, take the highest value; max 3)\n- If a Blunt Attack Type Skill was Discarded, gain 1 Blunt DMG Up as well\nJP :\n打撃タイプのスキル1, スキル2の攻撃レベル +(コイン数 - 1) (最大2)\n- [Discard]効果があるスキルの場合は効果が強化され、攻撃レベル +(コイン数) (最大4)\n\n[Discard]スキルを使用して自分のスキルを捨てたなら、次のターン開始時にダメージ量増加1, 捨てたスキルのランクだけ[AttackUp]を得る(人格ごとに1ターンにつき1回適用され、最も高いランクで計算。最大3)\n- 打撃タイプのスキルを捨てたなら効果が強化され、[HitDamageUp]1を追加で得る"
   },
   {
@@ -6636,22 +6631,27 @@
   },
   {
     "key": "9204-desc",
-    "original": "반격 스킬을 사용(강화 반격 제외)하여 피해를 받은 다음 반격 시, 반격 스킬의 피해량 +(12.5 x 최대 공명 수)% (턴 당 1회, 최대 75%. 해당 스킬과 공명으로 연결된 반격 스킬도 효과 적용).\n\n타격 유형 반격 스킬 사용 시(강화 반격 제외), 반격 스킬을 사용하기 전 최대 체력의 (2.5 x 최대 공명 수)% 만큼 보호막 획득 (자신이 보유한 보호막과 해당 보호막의 총합이 최대 체력의 25%을 넘을 수 없음).\n\n반격 스킬 사용 중 피격 시 피해로 흐트러지지 않음 (강화 반격 제외, 전투당 1회).",
-    "context": "EN :\nWhen counterattacking after using a Counter Skill(except Power Counters) and taking damage, the counterattack deals +(12.5 x highest Reson.)% more damage. (once per turn; max 75%; effect applies to other Counter Skills in the same Reson.\n\nWhen using a Blunt Counter Skill(except Power Counters), gain (2.5 x highest Reson.)% of max HP as Shield before using the Counter Skill. (the sum of Shield on self and the Shield from this effect cannot exceed 25% of max HP)\n\nCannot be Staggered by getting hit when using a Counter Skill. (except Power Counters; once per Encounter)\nJP :\n反撃スキルを使用(強化反撃を除く)してダメージを受けてから反撃時、反撃スキルのダメージ量 +(12.5 × 最大共鳴数)% (1ターンにつき、最大75%. 該当知ると共鳴で繋がった反撃スキルにも効果適用)\n\n打撃タイプの反撃スキル使用時(強化反撃を除く), 反撃スキルを使用する前の最大体力の(2.5 × 最大共鳴数)%だけバリアを得る(自分の保有するバリアと、このバリアの合計が体力最大値の25%を超過しない)\n\n反撃スキル使用中、被ダメージによって混乱しない(強化反撃を除く、戦闘ごとに1回)"
+    "original": "타격 기본 공격 스킬의 합 위력 +2. 전투 시작 시, 자신을 제외하고 이번 턴에 타격 기본 공격 스킬을 사용하는 인격 수만큼 [AttackUp] 얻음 (최대 3).\n\n보유한 모든 기본 공격 스킬이 타격 유형인 아군이 턴 시작 시 [HitDamageUp] 2 얻음 (강화되거나 특수 발동하는 경우 제외).\n\n반격 스킬 사용 시 (강화 반격 제외), 최대 체력의 7.5%만큼 보호막을 얻고 피해량 +20%. 반격 스킬 사용 중 피격 시 피해로 흐트러지지 않음 (인격 별로 전투당 1회).\n\n중지 소속 인격이 턴 시작 시 [HitResultUp] 1, [Endurance] 2 얻음. 중지 소속 인격이 반격 스킬 사용 시, 위의 반격 스킬 강화 효과가 전투당 2회 발동하고 반격 스킬의 피해량이 +40%로 강화됨.",
+    "context": "EN :\nBlunt Base Attack Skills gain Clash Power +2. On Combat Start, gain [AttackUp] equal to the number of Identities who are using Blunt base Attack Skills this turn. (max 3)\n\nAllies with Blunt Attack Type for all of their base Attack Skills gain 2 [HitDamageUp] at Turn Start. (except for Empowered Skills or Skills that need unique conditionals)\n\nWhen using a Counter Skill(except Power Counters), gain 7.5% of this unit's max HP as Shield HP and deal +20% more damage. Cannot be Staggered by damage when using a Counter Skill (once per Identity per Encounter)\n\nAt Turn Start, The Middle Identities gain 1 [HitResultUp] and 2 [Endurance]; when The Middle Identity uses a Counter Skill, the above Counter Skill enhancement activates twice per Encounter and deals +40% more damage instead.\nJP :\n打撃基本攻撃スキルのマッチ威力 +2. 戦闘開始時、自分を除いてこのターンに打撃基本攻撃スキルを使用する人格の数だけ[AttackUp]を得る(最大3)\n\n保有する全基本攻撃スキルが打撃タイプの味方が、ターン開始時に[HitDamageUp]2を得る(強化されるか特殊発動する場合を除く)\n\n反撃スキル使用時(強化反撃を除く)、体力最大値の7.5%だけバリアを得てダメージ量 +20%. 反撃スキル使用時、ダメージによって混乱しない(人格ごとに戦闘につき1回)\n\n中指所属人格がターン開始時、[HitResultUp]1, [Endurance]2を得る。中指所属人格が反撃スキル使用時、上記の反撃スキル強化効果が戦闘につき2回発動し、反撃スキルのダメージ量が +40%に強化される"
   },
   {
     "key": "9204-simpleDesc$[0].simpleDesc",
-    "original": "반격 스킬의 피해량 증가",
-    "context": "EN :\nCounter Skills deal more damage\nJP :\n反撃スキルのダメージ量増加"
+    "original": "합 위력, 공격 레벨 증가",
+    "context": "EN :\nGain Clash Power and Offense Level Up\nJP :\nマッチ威力、攻撃レベル増加"
   },
   {
     "key": "9204-simpleDesc$[1].simpleDesc",
-    "original": "보호막 얻음",
-    "context": "EN :\nGain Shield\nJP :\nバリアを得る"
+    "original": "타격 피해량 증가",
+    "context": "EN :\nGain Blunt DMG Up\nJP :\n打撃ダメージ量増加"
   },
   {
     "key": "9204-simpleDesc$[2].simpleDesc",
     "original": "반격 스킬 사용시 피해로 흐트러지지 않음",
     "context": "EN :\nCannot be Staggered from damage when counterattacking\nJP :\n反撃スキル使用時にダメージで混乱しない"
+  },
+  {
+    "key": "9204-simpleDesc$[3].simpleDesc",
+    "original": "타격 위력 증가, 수비 위력 증가, 반격 피해량 증가",
+    "context": "EN :\nGain Blunt DMG Up, Defense Power Up, and deal more damage with Counterattacks\nJP :\n打撃威力増加、守備威力増加、反撃ダメージ量増加"
   }
 ]

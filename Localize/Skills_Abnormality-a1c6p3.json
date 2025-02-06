@@ -17,7 +17,7 @@
   {
     "key": "816102-levelList$[0].desc",
     "original": "[WinDuel] 대상에게 [Combustion]이 있을 때, 기본 위력 +2",
-    "context": "EN :\n[WhenUse] If target has [Combustion], Base Power +2\nJP :\n[WinDuel] 対象へ[Combustion]があるとき、基本威力 +2"
+    "context": "EN :\n[WinDuel] If target has [Combustion], Base Power +2\nJP :\n[WinDuel] 対象に[Combustion]があるなら、基本威力 +2"
   },
   {
     "key": "816102-levelList$[0].coinlist[0].coindescs[0].desc",

@@ -1,0 +1,698 @@
+[
+  {
+    "key": "0-place",
+    "original": "LCE 연구팀 실험동",
+    "context": "EN :\nLCE Research Team Lab. Unit\nJP :\nLCE研究チーム 実験棟"
+  },
+  {
+    "key": "0-model",
+    "original": "후디히스",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "0-content",
+    "original": "그 뭐냐… 첫 번째 순서는…",
+    "context": "EN :\nUhh, let’s see. First one on the block’s...\nJP :\nその、なんだ…最初は…。"
+  },
+  {
+    "key": "1-content",
+    "original": "어느 순간부터 히스클리프는 종이를 펄럭거리면서 읽고 있었다.",
+    "context": "EN :\nHeathcliff had already begun flipping through the papers in his hands.\nJP :\nいつの間にかヒースクリフは\n紙をペラペラと捲りながら読み上げていた。"
+  },
+  {
+    "key": "2-content",
+    "original": "…익숙한 광경은 아니었다.",
+    "context": "EN :\n… What an unfamiliar sight.\nJP :\n…見慣れない光景だった。"
+  },
+  {
+    "key": "3-model",
+    "original": "후디히스",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "3-content",
+    "original": "너, 랑 너! 다. 들어가.",
+    "context": "EN :\nRight. You, and you there! Inside, now!\nJP :\nお前、とお前！だ。\n入れ。"
+  },
+  {
+    "key": "4-content",
+    "original": "조수 히스클리프가 가리킨 건 홍루와 싱클레어였다.",
+    "context": "EN :\nHeathcliff the assistant pointed toward Hong Lu and Sinclair.\nJP :\n助手ヒースクリフが指差したのは\nホンルとシンクレアだった。"
+  },
+  {
+    "key": "5-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "5-content",
+    "original": "아, 아. 잘 들리나? ",
+    "context": "EN :\nHello. One, two, testing. Am I coming through? \nJP :\nあー、あー。よく聞こえるかね？"
+  },
+  {
+    "key": "6-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "6-content",
+    "original": "자네들도 알다시피 죄종은 뒤틀림조차 되지 못한 개체일세.",
+    "context": "EN :\nAs you must be well aware by now, the Peccatula are entities that have failed to even Distort.\nJP :\n諸君らも知っての通り、大罪はねじれにすらなれない個体である。"
+  },
+  {
+    "key": "7-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "7-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "8-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "8-content",
+    "original": "이번에도 죄종들과 싸워야 할 것 같네요.",
+    "context": "EN :\nIt seems like we’ll be fighting the Peccatula again.\nJP :\n今回も大罪と戦うことになりそうですね。"
+  },
+  {
+    "key": "9-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "9-content",
+    "original": "아, 아까부터 마음에 걸렸던 건데요.",
+    "context": "EN :\nO-oh, right. I have a question. It's something that's been nagging at me the whole time since I arrived...\nJP :\nあ、さっきから気になってたんですけど。"
+  },
+  {
+    "key": "10-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "10-content",
+    "original": "이유 없이 사람을 죽이는 것과 비슷한 상황… 아닌가요?",
+    "context": "EN :\n... Aren't these tests basically just... us killing people for no reason?\nJP :\n理由なく人間を殺すのと似た状況…じゃないですか？"
+  },
+  {
+    "key": "11-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11-content",
+    "original": "격리되어 있다는 건 누군가에게 피해를 주고 있지 않다는 말인데…",
+    "context": "EN :\nThey're all safely contained, which means that they don't pose any danger to anyone...\nJP :\n隔離されてるってことは、誰かに害を\n及ぼしているわけじゃないってことですし…。"
+  },
+  {
+    "key": "12-model",
+    "original": "후디히스",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "12-content",
+    "original": "쟤는 왜 갑자기 감성이 풍부해졌어? 야, 지금까지 저런 것들 개수도 기억 안 날 만큼 실컷 죽였잖아!",
+    "context": "EN :\nWhy’s he being such a bleedin’ heart all of a sudden? Oi, we’ve been slaughterin’ countless scores of those sods, so what’s the holdup now?\nJP :\nあいつなんで急に感傷的になってんだ？\nおい、これまでああいう連中なんて数え切れないくらい\n散々殺してきたじゃねぇか！"
+  },
+  {
+    "key": "13-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "13-content",
+    "original": "하지만 그때는 피치 못한 임무 상황이었고요, 그리고…",
+    "context": "EN :\nYeah, but we didn’t have any choice back then because we were on a mission. And—\nJP :\nでもあのときやむを得ない\n任務状況だったじゃないですか、それに…。"
+  },
+  {
+    "key": "14-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "14-content",
+    "original": "살기 위해 살생하는 것과 살생만을 목적으로 해하는 것은 다르다고 생각하시는 건가요?",
+    "context": "EN :\nDo you believe that taking a life to live is unlike taking a life for the sake of it?\nJP :\n生きるために殺すことと、殺すこと自体が目的で殺すのは\n違うと考えているんですか？"
+  },
+  {
+    "key": "15-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "15-content",
+    "original": "…네.",
+    "context": "EN :\n… I do.\nJP :\n…はい。"
+  },
+  {
+    "key": "16-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "16-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "17-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "17-content",
+    "original": "이해하지. 인간의 기억력이라는 건 본래 유한하도록 만들어진 것 같으니. 극소수를 제외하면 바로 어제의 일도 쉽사리 망각하곤 한다네.",
+    "context": "EN :\nI understand. It seems that human memory is, after all, made to be finite. Save for few exceptional individuals, people are prone to misplacing memories even from yesterday.\nJP :\n理解できるさ。人の記憶というのは元来有限に作られているのだろう。\nごく一部の例外を除けば、昨日の出来事すら簡単に忘却するものだ。"
+  },
+  {
+    "key": "18-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "18-content",
+    "original": "단테, 자네가 지금 이끌고 있는 건 누구라고 생각하나?",
+    "context": "EN :\nSo, who are they, Dante? Who do you believe they are, this group you lead?\nJP :\nダンテ、君が今率いているのは誰だと思っている？"
+  },
+  {
+    "key": "19-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "19-content",
+    "original": "소통의 오류가 있을 테니 보기를 주도록 하지. 1번, 가족. 2번, 친구. 3번, 동료.",
+    "context": "EN :\nGiven the expected communication difficulties between us, allow me to make this a multiple choice question. One, family. Two, friends. Three, colleagues.\nJP :\n意思疎通に誤謬が生じるだろうから選択肢を与えよう。\n1番、家族。2番、友人。3番、仲間。"
+  },
+  {
+    "key": "20-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "20-content",
+    "original": "<음… 동… 동료에 가까우려나?>",
+    "context": "EN :\n<Um… I guess they’re closest to… colleagues?>\nJP :\n<うーん…な…仲間が近いかな？>"
+  },
+  {
+    "key": "21-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "21-content",
+    "original": "3번, 동료라고 하시네요~",
+    "context": "EN :\nDante says “three, colleagues”~\nJP :\n3番、仲間っておっしゃってますよ～。"
+  },
+  {
+    "key": "22-content",
+    "original": "우리가 하는 말을 들었는지, 홍루는 격리실 유리창 앞에 붙어 손가락으로 3이라는 숫자를 들어 보이고 있었다.",
+    "context": "EN :\nHong Lu was practically squished against the containment unit window, holding up three of his fingers. He must've heard us talking.\nJP :\n私たちの会話を聞いたのか、ホンルは隔離室のガラスに貼り付きながら\n指で3を示していた。"
+  },
+  {
+    "key": "23-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "23-content",
+    "original": "틀렸네. 보기에 없는 정답 찾기 문제였거든.",
+    "context": "EN :\nIncorrect. It’s ‘none of the above’.\nJP :\n不正解だ。\nそもそも選択肢にない答えを見つけるクイズだったからね。"
+  },
+  {
+    "key": "24-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "24-content",
+    "original": "정답은 그 무엇에도 해당 사항이 되지 않는 ‘수감자들’ 이라는 거야.",
+    "context": "EN :\nThe truth is that they are ‘Sinners’. Not family, not friends, not colleagues. ‘Prisoners’.\nJP :\n正解はどれにも当てはまらない、「囚人達」だ。"
+  },
+  {
+    "key": "25-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "25-content",
+    "original": "그런 건 알고 있어요…",
+    "context": "EN :\nI know…\nJP :\nそんなの分かってますけど…。"
+  },
+  {
+    "key": "26-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "26-content",
+    "original": "단순히 알고 있는 것과 받아들이고 있는 것은 다른 문제라네.",
+    "context": "EN :\nAh, but the knowledge of something and the acceptance of it must be distinguished.\nJP :\n単に分かっているのと、受け入れているのとは別の問題だ。"
+  },
+  {
+    "key": "27-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "27-content",
+    "original": "먹고 살만해지고 여유가 생겨지는 순간, 사람은 자신의 정확한 위치를 잊어버리게 되더군. 누군가는 이렇게 한 번씩 상기시켜 줘야 하지.",
+    "context": "EN :\nI learned that people are prone to forgetting their places when the going gets easy, when life becomes comfortable enough for them to consider the luxury of timely meals to be a certainty. Thus I find these reminders to be quite useful.\nJP :\n腹が満ちて余裕が生じる瞬間、人は自分の正確な\n立ち位置を忘れてしまうものだ。誰かしらがこうやって定期的に\n思い出させてやらなければならない。"
+  },
+  {
+    "key": "28-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "28-content",
+    "original": "림버스 컴퍼니에 수감된 자들은 사슬과 족쇄에 여전히 묶여있지. 그러니 자연히 거부권도 없고.",
+    "context": "EN :\nThese Sinners, bound to Limbus Company, are still fettered by their chains and shackles. Naturally, they have no access to such a thing as the right to refuse.\nJP :\nリンバス・カンパニーに囚われた者達は、\n今も鎖と足枷に繋がれたままだ。\nだから当然拒否権など無い。"
+  },
+  {
+    "key": "29-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "29-content",
+    "original": "아니면 이렇게 생각하는 게 더 나을지도 모르겠군. 이 또한 임무의 연장선이라고 여기는 게 어떤가. 그게 위안이 될 수도 있겠지.",
+    "context": "EN :\nOr would it be easier for you to accept that fact if I were to suggest that you consider this but a mere extension of your responsibilities?\nJP :\nあるいはこう考えた方が気が楽かもしれぬな。\nこれも任務の延長線上にあると受け止めるのはどうであろう。\nそれが多少の安らぎになるだろうさ。"
+  },
+  {
+    "key": "30-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "30-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "31-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "31-content",
+    "original": "<수감자들은 맞지만, 그런 식으로…>",
+    "context": "EN :\n<I know they’re Sinners, but you can’t talk to them like—>\nJP :\n<囚人というのは事実だけど、そんな言い方―>"
+  },
+  {
+    "key": "32-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "32-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "33-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "33-content",
+    "original": "통역해 주지 않아도 괜찮네. 분위기를 보니 대충 알 것 같군.",
+    "context": "EN :\nAh, translations are unnecessary. I think I get the picture of what was said, given the atmosphere of this room.\nJP :\n通訳は必要ない。\n雰囲気を見れば大体察しは付く。"
+  },
+  {
+    "key": "34-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "34-content",
+    "original": "단테, 자네도 어떠한 조건 없이 이곳과 계약을 맺은 건 아니지 않은가?",
+    "context": "EN :\nDante, when you agreed to the contract, you must have made a deal of sorts—to gain something to your benefit. Am I correct?\nJP :\nダンテ、君もいかなる条件もなしに\nここと契約したわけではなかろう？"
+  },
+  {
+    "key": "35-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "35-content",
+    "original": "자네의 기억, 머리, 과거.",
+    "context": "EN :\nYour memories, your head, and your past…\nJP :\n君の記憶、頭、過去。"
+  },
+  {
+    "key": "36-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "36-content",
+    "original": "찾고 싶은 게 많을 거야. 그래서 이 관리자 직책을 감내하는 것이기도 하겠지.",
+    "context": "EN :\nThere must be so much that you would like to know. And perhaps your desire to get them back is what stops you from simply quitting.\nJP :\n見つけたいものが沢山ある。\nだからこそ管理人という職責に耐えているのであろう。"
+  },
+  {
+    "key": "37-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "37-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "38-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "38-content",
+    "original": "결론적으로, 여기 있는 자들 그 누구에게도 투덜거리거나 거부 의사를 내비칠 권리를 가진 자들은 없다는 거지.",
+    "context": "EN :\nWhat I mean to say with this little demonstration is that no one in this room has any right to grumble or refuse.\nJP :\n結論として、ここにいる誰にも\n文句を言う権利や拒否する権利は無いということだ。"
+  },
+  {
+    "key": "39-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "39-content",
+    "original": "<파우스트 혹시…>",
+    "context": "EN :\n<Faust, is he usually…?>\nJP :\n<ファウスト、もしかして…。>"
+  },
+  {
+    "key": "40-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "40-content",
+    "original": "네, 원래 저렇습니다.",
+    "context": "EN :\nYes, this is his usual demeanor.\nJP :\nはい、元からああでした。"
+  },
+  {
+    "key": "41-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "41-content",
+    "original": "저기, 제가 할 말은 아니긴 하지만 주위에 싫어하는 사람 많죠?",
+    "context": "EN :\nHello, I know I’m not the one to talk, but… you don’t exactly have a lot of friends, do you?\nJP :\nあの。私が言うのもなんですが、\n周りに嫌われてますよね？"
+  },
+  {
+    "key": "42-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "42-content",
+    "original": "우등한 사람일수록 주위에 적이 많이 생기기 마련이라네. 이제 테스트를 시작해볼까? 밀려 있는 게 한두 개가 아니군.",
+    "context": "EN :\nThose who rise above their peers tend to attract a certain degree of hostility from others. Now, shall we begin? We are severely behind schedule.\nJP :\n優秀な者ほど敵を多く作るものだよ。\nさて、テストを始めるとしようか。\n溜まったタスクが1つや2つどころではないな。"
+  },
+  {
+    "key": "43-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "43-content",
+    "original": "전투가 진행되는 동안, 다른 수감자들은 이 유리로 죄종에 대한 프레젠테이션을 지켜보면 되겠네.",
+    "context": "EN :\nWhile the combatants do what they do, please pay attention to the following presentation about the Peccatula projected onto this glass panel.\nJP :\n戦闘が進行している間、他の囚人たちはこのガラスに映し出される\n大罪に関するプレゼンテーションを見ていればよい。"
+  },
+  {
+    "key": "44-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "44-content",
+    "original": "대부분의 평균 지식수준에 맞게 준비하였으니 이 발표가 지루하거나 어렵다고 느끼는 자들은 본인의 수준이 평균 이하라고 생각하면 될 걸세.",
+    "context": "EN :\nThis lecture has been prepared with the assumption that its students have an average level of knowledge; so, if you consider this presentation to be boring or too difficult to understand, then you may consider your knowledge level to be below average.\nJP :\n大多数の平均的知識レベルに合わせて用意してあるから、\n退屈だとか難しいと感じるものは\n自分のレベルが平均以下だと思えばよいであろう。"
+  },
+  {
+    "key": "45-model",
+    "original": "후디히스",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "45-content",
+    "original": "저언혀 안 어려운데? 다 이해되는데?",
+    "context": "EN :\nAll this material seems quite elementary to me! Not sure what's so difficult about this!\nJP :\nぜんっぜん難しくねえし？全部分かるし？"
+  },
+  {
+    "key": "46-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "46-content",
+    "original": "아직 시작도 안 했어요.",
+    "context": "EN :\nYeah, save that for when the lecture actually starts.\nJP :\nまだ始まってすらいないですよ。"
+  },
+  {
+    "key": "47-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "47-content",
+    "original": "알다시피, 죄종은 7가지 종류로 나눌 수 있고 자네들이 지금까지 관측한 건 3단계까지였을 거야. <size=80%>아직까지는…</size>",
+    "context": "EN :\nAs you must already know, there are seven categories of Peccatula. And as far as I am aware, the highest stage of Peccatula you observed was in stage 3. <size=80%>So far, at least…</size>\nJP :\nご存じの通り大罪は7種類に分類できて、諸君らが今まで目にしてきたのは\nせいぜい3段階目までだろう。<size=80%>今のところは…。</size>"
+  },
+  {
+    "key": "48-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "48-content",
+    "original": "왜 아직까지는 이라는 말이 들릴 듯 말 듯 조그맣게 덧붙여진 것인가?",
+    "context": "EN :\nWherefore didst thou utter a little muttering of “... so far, at least…” at the end of thine words, good sir?\nJP :\n何故「今のところは」という言葉を\n聞こえるか聞こえないかくらいの小声で付け足したのあるか？"
+  },
+  {
+    "key": "49-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "49-content",
+    "original": "나쁘지 않은 지적이었어. 우리 같은 연구자들은 모든 것에 제한을 두지 않는 버릇이 있다네.",
+    "context": "EN :\nSharp. Well, it's simple. We researchers have a habit of avoiding absolutes in all things. Never say never, or so they say.\nJP :\n悪くない指摘だった。我々のような研究者は、\n何事にも制限を設けない癖があってね。"
+  },
+  {
+    "key": "50-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "50-content",
+    "original": "요컨대 관측만 아직 안 되었을 뿐이지 3단계 그 이상도 나올 수 있다는 거군.",
+    "context": "EN :\nSo you’re not ruling out the possibility that we might be running into Peccatula beyond stage 3, huh.\nJP :\n要するに、観測されてないだけで\n3段階以上も出てくる可能性があるってことだろ。"
+  },
+  {
+    "key": "51-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "51-content",
+    "original": "그러한 방향성의 확정 또한 제한을 두지 않는 편이지.",
+    "context": "EN :\nIndeed. We prefer not to put down such arbitrary limitations.\nJP :\nそのような方向性の確定にも、\n制限を設けないことにしている。"
+  },
+  {
+    "key": "52-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "52-content",
+    "original": "…아무튼, 첫 번째 죄종은 붉은색의 분노 죄종이라네.",
+    "context": "EN :\n… Anyway, the first type of many Peccatula to be covered today is ‘Peccatula Irae’—red Peccatulum of Wrath.\nJP :\n…ともあれ、最初の大罪は赤色の憤怒である。"
+  },
+  {
+    "key": "53-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "53-content",
+    "original": "불이라는 건 한 번 타기 시작하면 더 태울 것이 없어질 때까지 태워버리려 하는 특성을 가지고 있지.",
+    "context": "EN :\nThe nature of fire is to burn and burn until there is nothing left to be burned.\nJP :\n火というものは、一旦燃え出すと燃やし尽くす対象が\n無くなるまで燃やそうとする性質を持つ。"
+  },
+  {
+    "key": "54-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "54-content",
+    "original": "‘화’ 로군요. 단어 그대로.",
+    "context": "EN :\nI see. They’re quite literally burning with rage.\nJP :\n怒りに燃えてるということですね。文字通り。"
+  },
+  {
+    "key": "55-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "55-content",
+    "original": "그러고 보니 싱클레어 씨도 비슷한 감정을 종종 표출하곤 하셨죠? 그때 막, 몸도 못 가누실 정도로 소리를 지르면서요.",
+    "context": "EN :\nNow that I think back on it, didn’t you express something like that before, Sinclair? I remember you screaming so fiercely that you could hardly control your own body.\nJP :\nそういえば、シンクレアさんも時々似た感情を\n表に出してらっしゃいましたよね？\nあのとき、身体が動かなくなるくらいの声を出しながらです。"
+  },
+  {
+    "key": "56-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "56-content",
+    "original": "…음.",
+    "context": "EN :\n… Mm.\nJP :\n…うっ。"
+  },
+  {
+    "key": "57-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "57-content",
+    "original": "반면에 홍루 씨는… 화를 내시는 걸 한 번도 본 적이 없는 것 같네요.",
+    "context": "EN :\nOn the other hand… I don’t think I’ve ever seen you get angry or upset, Hong Lu.\nJP :\n逆にホンルさんは…怒ってるところを\n見たことない気がしますね。"
+  },
+  {
+    "key": "58-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "58-content",
+    "original": "아하…",
+    "context": "EN :\nAha, that’s…\nJP :\nあはぁ…。"
+  },
+  {
+    "key": "59-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "59-content",
+    "original": "의미가 없다는 걸 알게 되면, 불이 지펴질 일도 없거든요.",
+    "context": "EN :\nBecause the realization of meaninglessness extinguishes the reason for the spark to start a fire.\nJP :\n意味が無いってことが分かれば、火が付くこともないんですよ。"
+  },
+  {
+    "key": "60-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "60-content",
+    "original": "아… 그런… 거군요…!",
+    "context": "EN :\nOhh… I see now…!\nJP :\nあぁ…そういう…ことなんですね…！"
+  },
+  {
+    "key": "61-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "61-content",
+    "original": "히스클리프 씨나 오티스 씨가 아무리 저를 모질게 구박해도…",
+    "context": "EN :\nNo matter how much Heathcliff or Ms. Outis bully me...\nJP :\nヒースクリフさんやウーティスさんに\nどれだけ辛く当たられても…。"
+  },
+  {
+    "key": "62-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "62-content",
+    "original": "거기에 분노를 표출하는 것엔… 아무런 의미가 없다는 것을… 비록 히스클리프 씨의 발을 몰래 밟아야 했을 때 조금 기쁘긴 했지만…",
+    "context": "EN :\n… expressing my anger at that is meaningless at the end of the day. … Okay, I did enjoy it a little when I had to ‘accidentally’ step on Heathcliff’s toes, but…\nJP :\nそこに怒りをぶつけるのは…まったく意味が無いってことを…。\nまあヒースクリフさんの足をこっそり踏んづけたときは、\nちょっとだけ楽しかったですけど…。"
+  },
+  {
+    "key": "63-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "63-content",
+    "original": "<뭘… 뭘 깨달은 거야…>",
+    "context": "EN :\n<What… what exactly is the takeaway supposed to be here...?>\nJP :\n<な…何を悟ったんだろ…。>"
+  },
+  {
+    "key": "64-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "64-content",
+    "original": "네, 바로 그런 거랍니다.",
+    "context": "EN :\nYes. That is exactly how it is.\nJP :\nはい、まさにそういうことなんです。"
+  }
+]

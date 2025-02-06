@@ -1,22 +1,32 @@
 [
   {
     "key": "910301-name",
-    "original": "3.5장 이벤트 노말 던전",
-    "context": "EN :\nCh. 3.5 Event Dungeon (Mild)\nJP :\n3.5章イベント ノーマルダンジョン"
+    "original": "3.5장 헬스치킨 던전",
+    "context": "EN :\nCh. 3.5 Hell's Chicken Dungeon\nJP :\n3.5章ヘルズチキン ダンジョン"
   },
   {
     "key": "910302-name",
-    "original": "3.5장 이벤트 하드 던전",
-    "context": "EN :\nCh. 3.5 Event Dungeon (Spicy)\nJP :\n3.5章イベント ハードダンジョン"
+    "original": "3.5장 헬스치킨 던전(어려움 난이도)",
+    "context": "EN :\nCh. 3.5 Hell's Chicken Dungeon (Hard Difficulty)\nJP :\n3.5章ヘルズチキン ダンジョン(ハード)"
   },
   {
     "key": "910701-name",
-    "original": "5.5장 이벤트 던전",
-    "context": "EN :\nCh. 5.5 Event Dungeon\nJP :\n5.5章イベントダンジョン"
+    "original": "5.5장 육참골단 던전",
+    "context": "EN :\nCh. 5.5 Yield My Flesh to Claim Their Bones Dungeon\nJP :\n5.5章肉斬骨断 ダンジョン"
   },
   {
     "key": "910901-name",
-    "original": "6.5장 이벤트 던전",
-    "context": "EN :\nCh. 6.5 Event Dungeon\nJP :\n6.5章イベントダンジョン"
+    "original": "6.5장 시간살인시간 던전",
+    "context": "EN :\nCh. 6.5 Timeilling Time Dungeon\nJP :\n6.5章時間殺人時間 ダンジョン"
+  },
+  {
+    "key": "911401-name",
+    "original": "7.5장 LCB 정기검진 던전",
+    "context": "EN :\nCh. 7.5 LCB Regular Check-up Dungeon\nJP :\n7.5章LCB定期検診 ダンジョン"
+  },
+  {
+    "key": "911501-name",
+    "original": "5.5장 육참골단 던전(어려움 난이도)",
+    "context": "EN :\nCh. 5.5 Yield My Flesh to Claim Their Bones Dungeon (Hard Difficulty)\nJP :\n5.5章肉斬骨断 ダンジョン(ハード)"
   }
 ]

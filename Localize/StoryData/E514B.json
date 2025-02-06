@@ -45,7 +45,7 @@
   {
     "key": "2-content",
     "original": "이상하군… 그렇지 않은가?",
-    "context": "EN :\nCurious... is it not?\nJP :\n変だな…そう思わないか？"
+    "context": "EN :\nCurious... is it not?\nJP :\n変だな…そう思わぬか？"
   },
   {
     "key": "3-model",
@@ -76,8 +76,8 @@
   },
   {
     "key": "4-content",
-    "original": "어리바리한 것들 투성이지 않은가.",
-    "context": "EN :\nThat they filled the stairwell full of weaklings who clearly don't know what they're doing.\nJP :\n鈍いヤツらばかりじゃないか。"
+    "original": "어리바리한 것들투성이지 않은가.",
+    "context": "EN :\nThat they filled the stairwell full of weaklings who clearly don't know what they're doing.\nJP :\n間抜けどもばかりではないか。"
   },
   {
     "key": "5-model",
@@ -98,7 +98,7 @@
   {
     "key": "5-content",
     "original": "어째 우리를 막아내려 자리한 것이 아니라, 밀려 올라가기 싫어하는…",
-    "context": "EN :\nPerhaps they weren't trying to stop us from going upstairs. Perhaps they were afraid of retreating upstairs...\nJP :\nなんだか私たちを阻もうと置いたわけではなく、上に行かれたくないような…。"
+    "context": "EN :\nPerhaps they weren't trying to stop us from going upstairs. Perhaps they were afraid of retreating upstairs...\nJP :\n\nどうにも、我々を阻まんと構えているのではなく、\n追いやられて上へ行くのを嫌がっているような…。"
   },
   {
     "key": "6-model",
@@ -140,7 +140,7 @@
   {
     "key": "9-content",
     "original": "우두머리… 라는 자가 걱정이 되는가?",
-    "context": "EN :\nDost thou... worry for thy mentor?\nJP :\n頭目…という者が心配なのか？"
+    "context": "EN :\nDost thou... worry for thy mentor?\nJP :\n頭目…という者が心配なのであるか？"
   },
   {
     "key": "10-content",
@@ -165,8 +165,8 @@
   },
   {
     "key": "11-content",
-    "original": "…그럴 수 밖에 없소.",
-    "context": "EN :\n... How could I not?\nJP :\n…心配になるしか。"
+    "original": "…그럴 수밖에 없소.",
+    "context": "EN :\n... How could I not?\nJP :\n…そうならざるを得ぬ。"
   },
   {
     "key": "12-model",
@@ -203,7 +203,7 @@
   {
     "key": "14-content",
     "original": "늠름한 사람이었지.",
-    "context": "EN :\nHe was... a steadfast man.\nJP :\n凜々しい人だったな。"
+    "context": "EN :\nHe was... a steadfast man.\nJP :\n凛々しき御方であったな。"
   },
   {
     "key": "15-model",
@@ -245,7 +245,7 @@
   {
     "key": "16-content",
     "original": "검계 안에서도 실력으로 줄을 세우면 반드시 손가락 안에 들으셨고.",
-    "context": "EN :\nHe was always one of the Blade Lineage's finest. I daresay that he was one of the most skilled swordsmen within the Lineage.\nJP :\n剣契の中でも、実力で並べれば必ず片手で数えられて。"
+    "context": "EN :\nHe was always one of the Blade Lineage's finest. I daresay that he was one of the most skilled swordsmen within the Lineage.\nJP :\n剣契においても、実力で\n序列を付ければ必ずや五指に入り。"
   },
   {
     "key": "17-model",
@@ -266,7 +266,7 @@
   {
     "key": "17-content",
     "original": "또, 말수는 적으셔도 자기 조 안의 사람은 끔찍하게 챙기셨지.",
-    "context": "EN :\nA man of few words who always sought to take good care of those under his wings.\nJP :\nまた口数は少ないが、自分の組に属する人に対しては\n恐ろしいほど面倒見が良かった。"
+    "context": "EN :\nA man of few words who always sought to take good care of those under his wings.\nJP :\nまた、寡黙であられたが自らの組の者たちは\nこの上なく大切にされたものよ。"
   },
   {
     "key": "18-model",
@@ -287,7 +287,7 @@
   {
     "key": "18-content",
     "original": "…그 결정만 없었더라도.",
-    "context": "EN :\n... If only he hadn't made that decision...\nJP :\n…あの決定さえ無かったのなら。"
+    "context": "EN :\n... If only he hadn't made that decision...\nJP :\n……あの決断さえなければ。"
   },
   {
     "key": "19-model",
@@ -308,7 +308,7 @@
   {
     "key": "19-content",
     "original": "우리의 친우가 이렇게까지 궁지에 몰리는 일은 없었겠지만…",
-    "context": "EN :\n... my fellows would not have met such a terrible fate...\nJP :\n我が親友がここまで窮地に追いやられることは無かっただろう…。"
+    "context": "EN :\n... my fellows would not have met such a terrible fate...\nJP :\n我らが親友がここまで窮地に追い込まれることもなかったであろうに…。"
   },
   {
     "key": "20-model",
@@ -350,7 +350,7 @@
   {
     "key": "23-content",
     "original": "어떤 상황이든, 빨리 올라가 보는 수밖에 없나…",
-    "context": "EN :\nWhichever may be the case, I have no choice but to make haste...\nJP :\nどんな状況であれ、早く登るしかないか…。"
+    "context": "EN :\nWhichever may be the case, I have no choice but to make haste...\nJP :\nいかなる状況であれ、速やかに上へ向かうほかあるまいな…。"
   },
   {
     "key": "24-content",

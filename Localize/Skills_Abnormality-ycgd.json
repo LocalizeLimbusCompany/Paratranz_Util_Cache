@@ -17,7 +17,7 @@
   {
     "key": "815102-levelList$[0].desc",
     "original": "[WinDuel] 대상에게 [Combustion]이 있을 때, 기본 위력 +2",
-    "context": "EN :\n[WhenUse] If target has [Combustion], Base Power +2\nJP :\n[WinDuel] 対象へ[Combustion]があるとき、基本威力 +2"
+    "context": "EN :\n[WinDuel] If target has [Combustion], Base Power +2\nJP :\n[WinDuel] 対象に[Combustion]があるなら、基本威力 +2"
   },
   {
     "key": "815102-levelList$[0].coinlist[0].coindescs[0].desc",
@@ -92,7 +92,7 @@
   {
     "key": "815202-levelList$[0].desc",
     "original": "[WinDuel] 대상에게 [Sinking]이 있을 때, 기본 위력 +2",
-    "context": "EN :\n[WhenUse] If target has [Sinking], Base Power +2\nJP :\n[WinDuel] 対象へ[Sinking]があるとき、基本威力 +2"
+    "context": "EN :\n[WhenUse] If target has [Sinking], Base Power +2\nJP :\n[WinDuel] 対象に[Sinking]があるなら、基本威力 +2"
   },
   {
     "key": "815202-levelList$[0].coinlist[0].coindescs[0].desc",
@@ -311,7 +311,7 @@
   },
   {
     "key": "815307-levelList$[0].desc",
-    "original": "반격 스킬을 발동시킨 스킬로 받은 피해량만큼 다음 턴에 [Grudge]을 얻음",
+    "original": "반격 스킬을 발동시킨 스킬로 받은 피해량만큼 다음 턴에 [Grudge]를 얻음",
     "context": "EN :\nGain X [Grudge] next turn (X = Damage dealt by the Skill that activated the Counter Skill)\nJP :\n反撃スキルを発動させたスキルで受けたダメージだけ[Grudge]を得る"
   },
   {
@@ -366,7 +366,7 @@
   },
   {
     "key": "815409-levelList$[0].desc",
-    "original": "[CantChangeTarget]\n체력이 가장 없는 대상 우선 공격\n[EnemyKill] [Grudge]이 2배가 됨.\n[EnemyKill] [Grudge]만큼 체력 회복",
+    "original": "[CantChangeTarget]\n체력이 가장 없는 대상 우선 공격\n[EnemyKill] [Grudge]가 2배가 됨.\n[EnemyKill] [Grudge]만큼 체력 회복",
     "context": "EN :\n[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] Heal HP equal to [Grudge] value\nJP :\n[CantChangeTarget]\n体力が最も低い対象を優先して攻撃\n[EnemyKill] [Grudge]が2倍になる\n[EnemyKill] [Grudge]だけ体力を回復"
   },
   {

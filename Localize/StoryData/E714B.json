@@ -1,0 +1,966 @@
+[
+  {
+    "key": "0-place",
+    "original": "LCE 연구팀 실험동",
+    "context": "EN :\nLCE Research Team Lab. Unit\nJP :\nLCE研究チーム 実験棟"
+  },
+  {
+    "key": "0-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "0-content",
+    "original": "이제 검진도 마지막 단계를 향해 가고 있군.",
+    "context": "EN :\nWe are almost done with the regular check-up.\nJP :\nこれで検診も最後の段階へと向かっているな。"
+  },
+  {
+    "key": "1-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "1-content",
+    "original": "지금까지 알려준 정보를 토대로 장애물을 극복하고…",
+    "context": "EN :\nFinally, we have a chance for you to overcome an adversity based on what you have learned thus far…\nJP :\n今まで伝えた情報をもとに障害を乗り越え…。"
+  },
+  {
+    "key": "2-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "2-content",
+    "original": "나의 가설을 증명할 기회이기도 하지.",
+    "context": "EN :\n… and for me to prove my hypothesis.\nJP :\n私の仮説を証明する機会でもある。"
+  },
+  {
+    "key": "3-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "3-content",
+    "original": "<무슨 가설인데?>",
+    "context": "EN :\n<What hypothesis is he talking about?>\nJP :\n<どんな仮説？>"
+  },
+  {
+    "key": "4-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "4-content",
+    "original": "걱정은 하지 말게. 내 가설은 틀린 적이 없으니, 대체로.",
+    "context": "EN :\nNo need to worry. My hypotheses have never been wrong. Most of the time.\nJP :\n心配はいらない。\n私の仮説が外れたことなど無いのだから、大抵は。"
+  },
+  {
+    "key": "5-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "5-content",
+    "original": "이번 실험은, 철저하게 내가 설계하며 내가 주관하는 것이지.",
+    "context": "EN :\nThis experiment is entirely of my own design and supervision.\nJP :\n今回の実験は、徹底的に私が設計し\n私が主導するものである。"
+  },
+  {
+    "key": "6-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "6-content",
+    "original": "오로지 연구자의 호기심과 본능이 시키는 대로 말이야.",
+    "context": "EN :\nAnd I will faithfully follow my own pure curiosities and instincts as a researcher.\nJP :\nただ、研究者の好奇心と本能の赴くままにな。"
+  },
+  {
+    "key": "7-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "7-content",
+    "original": "이 사람… 불길한 소리를 거침없이 뱉고 있어…",
+    "context": "EN :\nGuys, I have a feeling we’re not gonna like where this goes…\nJP :\nこの人…不穏なことをスラスラ喋ってるけど…。"
+  },
+  {
+    "key": "8-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "8-content",
+    "original": "여기 모노리스가 보이지?",
+    "context": "EN :\nNow, do you see this Monolith here?\nJP :\nここにモノリスが見えるであろう？"
+  },
+  {
+    "key": "9-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "9-content",
+    "original": "보여요, 아주 잘 보이는데…",
+    "context": "EN :\nYep, I do. That’s a Monolith alright. But…\nJP :\n見えます、バッチリ見えてますけど…。"
+  },
+  {
+    "key": "10-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "10-content",
+    "original": "아, 안심하게. 가동은 연구원들이 해줄 테니.",
+    "context": "EN :\nAh, don’t you worry. My researchers will be the ones to activate the artifact.\nJP :\nあぁ、安心したまえ。\n操作は研究員たちがやる。"
+  },
+  {
+    "key": "11-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "11-content",
+    "original": "가… 가동시키겠다고?",
+    "context": "EN :\nA-activate the artifact?\nJP :\nか…稼働させるのか？"
+  },
+  {
+    "key": "12-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "12-content",
+    "original": "자네에게 하진 않을 거니까 안심하고.",
+    "context": "EN :\nNot on <i>you</i>, relax.\nJP :\n君に使うわけではないから安心しろ。"
+  },
+  {
+    "key": "13-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "13-content",
+    "original": "이 실험의 자원자가 있지 않을 거라는 건 알고 있네.",
+    "context": "EN :\nI understand that none of you would be willing participants to this experiment.\nJP :\nこの実験の志願者がいないのは分かっている。"
+  },
+  {
+    "key": "14-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "14-content",
+    "original": "설마, 이 실험에서마저도 거부권이 없다느니 하면서… 저희 중 하나를 뒤틀리게 만들 생각이라면.",
+    "context": "EN :\nI swear, if you’re going to force us to distort saying that we have no right to refuse or something, I’m gonna…\nJP :\nまさか、この実験ですら拒否権がないとか言いながら…\n私たちの誰かをねじれさせるつもりなら。"
+  },
+  {
+    "key": "15-model",
+    "original": "후디히스",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "15-content",
+    "original": "잠깐, 그건 아무리 조수로서도 용납이 되지 않는 소리인데?",
+    "context": "EN :\nYeah, hang on. I can’t let you do that, even as your assistant.\nJP :\n待てよ、それはいくら助手の立場でも受け入れられねぇぞ？"
+  },
+  {
+    "key": "16-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "16-content",
+    "original": "그래, 굳이 보내야겠다면 제일 나약한 수감자를…",
+    "context": "EN :\nYes. But, if you must, we are willing to send the weakest Sinner among us for—\nJP :\nそうだ。どうしてもというなら、一番惰弱な囚人を―"
+  },
+  {
+    "key": "17-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "17-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "18-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "18-content",
+    "original": "음, 아닙니다. 제가 실언을 했습니다.",
+    "context": "EN :\nUm, forget I said that. That was foolish of me to say.\nJP :\nうむ、何でもありません。わたくしの失言です。"
+  },
+  {
+    "key": "19-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "19-content",
+    "original": "내 스스로가 실험체가 될 걸세.",
+    "context": "EN :\nI will be the subject of the experiment myself.\nJP :\n私自らが被検体になろう。"
+  },
+  {
+    "key": "20-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "20-content",
+    "original": "지금 스스로… 본인을 뒤틀리게 만들겠다는 소리를 하고 있는 건가?",
+    "context": "EN :\nYou’re going to… distort yourself? Am I hearing you right?\nJP :\n今、自分で…自分をねじれさせると言ったか？"
+  },
+  {
+    "key": "21-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "21-content",
+    "original": "궁금하지 않나? 자신이 어떤 뒤틀림이 되는지 한 번쯤 상상해 본 적이 있을 것 아닌가?",
+    "context": "EN :\nAren’t you curious to see what kind of Distortion you’d end up becoming? I’m sure this is a question you have all entertained at least once.\nJP :\n気にならないのか？\n自分がどんなねじれになるのか、\n一度は想像したことがあるのではないか？"
+  },
+  {
+    "key": "22-model",
+    "original": "후디히스",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "22-content",
+    "original": "아니, 전혀 궁금하지도 않고… 재미도 없어.",
+    "context": "EN :\nNo. I ain’t curious. It ain’t a very pleasant experience, either.\nJP :\nいや、全然気になんねぇし…面白くもねえよ。"
+  },
+  {
+    "key": "23-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "23-content",
+    "original": "너무 그렇게 뿌득거리며 말하지 말게나, 조수. 치아가 상하는 습관이니.",
+    "context": "EN :\nStop gritting your teeth like that, assistant. It will have an adverse effect on your long-term dental health.\nJP :\nそんなに歯を食いしばりながら言うでない、助手。\n習慣になると歯に悪いぞ。"
+  },
+  {
+    "key": "24-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "24-content",
+    "original": "…만일 그러다가 죄종이 되면요?",
+    "context": "EN :\n… What if you just end up turning into a Peccatulum?\nJP :\n…もしそれで大罪になったらどうするんです？"
+  },
+  {
+    "key": "25-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "25-content",
+    "original": "방금까지 저희가 ‘테스트’를 위해서 열심히 물리쳐 나갔던 죄종으로 될 수도 있는 길을… 스스로 걸어간다고요?",
+    "context": "EN :\nYou could end up becoming a Peccatulum, just another one of the fodder we slaughtered our way through for the ‘tests’ earlier. You’re risking that?\nJP :\n先程まで、私たちが「テスト」のために必死で倒してきた\nあの大罪になるかもしれない道へ…自ら歩いていくんですか？"
+  },
+  {
+    "key": "26-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "26-content",
+    "original": "확실히 그렇게 될 수도 있겠지.",
+    "context": "EN :\nIt is indeed a possibility.\nJP :\n確かにそうなるかもしれない。"
+  },
+  {
+    "key": "27-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "27-content",
+    "original": "그럼 나는 딱 거기까지였던 거야.",
+    "context": "EN :\nIt would signify nothing more than my very own limitations.\nJP :\nそうなったら、私は所詮その程度だったということだ。"
+  },
+  {
+    "key": "28-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "28-content",
+    "original": "이도 저도 아닌 껍데기의 수준.",
+    "context": "EN :\nJust a mediocre shell.\nJP :\n中途半端な殻というレベル。"
+  },
+  {
+    "key": "29-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "29-content",
+    "original": "그러면 여기 있는 직원들이 나를 격리실로 옮겨주겠지. 어떤 죄종이 될지 내기도 했다네.",
+    "context": "EN :\nIf such an incident comes to pass, these employees will transport me to a containment unit. We even made a bet on what kind of Peccatulum I would turn into.\nJP :\nそうなればここにいる職員たちが私を隔離室にでも\n移してくれるだろう。どの大罪になるか賭けもしたのだよ。"
+  },
+  {
+    "key": "30-model",
+    "original": "마튼",
+    "translation": "马顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMarton\nJP :\nマートン"
+  },
+  {
+    "key": "30-content",
+    "original": "팀장님은 탐식에, 저는 질투에, 이쪽은 나태에 걸었죠.",
+    "context": "EN :\nHe bet on Gulae, I on Invidiae, and her on Pigritiae.\nJP :\nチーフは暴食に、俺は嫉妬に、\n彼女は怠惰に賭けました。"
+  },
+  {
+    "key": "31-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "31-content",
+    "original": "하지만 아무리 그래도 어떻게…",
+    "context": "EN :\nBut how could you…\nJP :\nでも、いくら何でもそんな…。"
+  },
+  {
+    "key": "32-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "32-content",
+    "original": "단순하게 생각해 본다면 말일세, 내가 죄종이 된 것은 쉽게 말해… 꽝에 걸린 거라고 보면 된다네.",
+    "context": "EN :\nThink about it like this. If I were to become a Peccatula, it would be akin to… losing at a game of chance.\nJP :\n単純に考えるとだな、私が大罪になるというのは簡単に言うと…\nハズレを引いたと思えば良いのだ。"
+  },
+  {
+    "key": "34-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "34-content",
+    "original": "물론… 꽝이라는 건 단지 그 시점의 내가 어떤지에 따라 정해질 뿐이지만, 그저… 죄종이 되었다는 사실만으로도…",
+    "context": "EN :\nOf course, what counts as a 'loss' may depend on what I, at that precise time, consider to be losing. But, the mere fact of turning into a Peccatulum...\nJP :\nもちろん…ハズレというのはその時点の私がどうかによって\n決まるものでしかないが、ただ…大罪になったというのなら\nただそれだけで…。"
+  },
+  {
+    "key": "35-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "35-content",
+    "original": "내 삶의 가치는 없다고 본다네.",
+    "context": "EN :\n... reaves me of any value to life.\nJP :\n私の人生に価値は無いと見ている。"
+  },
+  {
+    "key": "36-content",
+    "original": "호엔하임의 그 말은… 자신에게 더 가혹하다는 말로는 설명하기 힘든 묘한 분위기를 품고 있었다.",
+    "context": "EN :\nI'd say he was being 'too hard on himself'... but that felt like too simple an expression to describe his tone.\nJP :\nホーエンハイムのその言葉は…自分に対して極めて厳しいという言葉だけでは\n説明できない、独特の雰囲気を帯びていた。"
+  },
+  {
+    "key": "37-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "37-content",
+    "original": "회사는 죄종이 된 나를 격리실로 옮기고 싶어 할 테지만 내 의견은 조금 달라. 그러니 현장에서 곧바로 처분을 해주도록.",
+    "context": "EN :\nThe company would most likely attempt to transport me to a containment unit, but I disagree with that decision. I would like to ask you to dispose of me on the spot.\nJP :\n会社は大罪と化した私を隔離室に移したがるだろうが、\n私の意見は少し違う。それゆえ、現場でただちに処分するように。"
+  },
+  {
+    "key": "38-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "38-content",
+    "original": "나는 기질적으로 누군가에게 호감을 사는 인물은 아니라는 건 알고 있네. 자네들과 그다지 친밀한 사이로 발전하지도 않았고. 그러니 큰 거부감은 들지 않을 거야.",
+    "context": "EN :\nI am well aware that I’m not the kind of congenial person who earns others’ favor at first meeting, if at all. I also don't believe that our brief relationship has been the most amicable kind. Therefore, I see little reason why you would hesitate to cut me down.\nJP :\n私には、気質的に誰かに好かれるタイプではないということは分かっている。\n諸君らとも特別仲良くなったわけではない。\nだから大して抵抗感もないはずだ。"
+  },
+  {
+    "key": "39-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "39-content",
+    "original": "비록 싱 군 같이 마음이 다소 무른 수감자가 이에 대해 반발을 표할 수도 있겠지만…",
+    "context": "EN :\nOf course, Sinners with gentle hearts like this young Sinclair here may express certain distaste against this decision…\nJP :\nただ、シン君のように\nやや情に流されやすい囚人が反発するかもしれぬが…。"
+  },
+  {
+    "key": "40-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "40-content",
+    "original": "죄종이 되었다는 건, 호엔하임이라는 개체가 죽었다는 의미나 다름없다네. 그러니 남은 부산물인 죄종을 죽이는 것에 죄책감 같은 불필요한 감정을 가지진 말게나.",
+    "context": "EN :\n... but once I become a Peccatulum, it may as well mean that Hohenheim, the entity, has ceased to be. So I hope no unnecessary emotions like guilt clouds your judgment in killing the Peccatulum, a mere byproduct.\nJP :\n大罪になったということは、ホーエンハイムという個体は死んだも\n同然ということだ。それゆえ、残った副産物である大罪を殺すことに、\n罪悪感のような不必要な感情を持たないでくれ。"
+  },
+  {
+    "key": "41-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "41-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "42-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "42-content",
+    "original": "하지만 만일… 돌발 상황이 일어나면요?",
+    "context": "EN :\nBut… what if something unexpected happens?\nJP :\nでも、もし…予想外の事態が起こったらどうするんですか？"
+  },
+  {
+    "key": "43-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "43-content",
+    "original": "아무리 그래도 인명이 걸려있는 건데 매뉴얼 같은 거라도…",
+    "context": "EN :\nWe’re talking about your life here. Don’t you have any manuals with backup plans or…\nJP :\nいくらなんでも、人命が掛かっているのに\nマニュアルみたいなものでも…。"
+  },
+  {
+    "key": "44-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "44-content",
+    "original": "간단하네. 둘 중 하나야. 꽝이냐, 아니냐.",
+    "context": "EN :\nThis is a very simple matter. Nothing more than a coin flip. Heads, or tails.\nJP :\n簡単さ。2つのうちどちらかだ。\nハズレか、そうでないか。"
+  },
+  {
+    "key": "45-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "45-content",
+    "original": "아직도 그 허무맹랑한 50:50 지론을 펼치고 있나요.",
+    "context": "EN :\nIt appears that you are still insisting on your absurd 50:50 theory.\nJP :\nまだその出鱈目な50:50の持論を展開なさっているのですか。"
+  },
+  {
+    "key": "46-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "46-content",
+    "original": "나는 평범한 연구자들과는 달리 수리통계학을 농락하고 싶어 하는 사람이니 말일세.",
+    "context": "EN :\nI am a researcher who wishes to humiliate the field of mathematical statistics, unlike the general lay of the academia.\nJP :\n私は普通の研究者と違い、数理統計学を弄びたがる人であるからな。"
+  },
+  {
+    "key": "47-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "47-content",
+    "original": "연구에도 낭만이라는 것이 있는 법이야. 책상 앞에서 끙끙댈 바에는 많은 임상 케이스를 확보하는 게 설레는 거지.",
+    "context": "EN :\nI believe there is a certain romanticism to research. It is much more exciting to run as many tests and gain as many samples as we can than to be stuck behind a desk, poring day and night over books and paper, isn't it?\nJP :\n研究には浪漫というものがある。机の前で唸っているくらいなら、\n豊富な臨床事例を確保する方が胸が躍るのだよ。"
+  },
+  {
+    "key": "48-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "48-content",
+    "original": "꽝이 나왔다면, 곧바로 나를 처분하면 되고… 그 뒤의 일은 여기 직원들이 알아서 해줄 거야. 가령 그 코트 주머니에 있는 그 열쇠와 캐비닛에 들어있는 파일에 대한 소거라던가…",
+    "context": "EN :\nIf it’s tails, then you may dispose of me immediately, and the employees here will take care of the rest. Don’t forget to destroy the key inside that coat pocket and the files inside my cabinets, for example…\nJP :\nハズレがでたら、すぐに私を処分すればいい…。その後のことは個々の職員達が\n勝手にやってくれるであろう。たとえばあのコートのポケットにあるあの鍵と、\nキャビネットに入ったファイルの消去だとか…。"
+  },
+  {
+    "key": "49-model",
+    "original": "알리사",
+    "translation": "阿莉莎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAlyssa\nJP :\nアリサ"
+  },
+  {
+    "key": "49-content",
+    "original": "네, 기억하고 있습니다.",
+    "context": "EN :\nYes, we remember.\nJP :\nはい、全て頭に入ってます。"
+  },
+  {
+    "key": "50-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "50-content",
+    "original": "만약, 내가 무사히 뒤틀림이 되었다면 절반은 해낸 걸세.",
+    "context": "EN :\nIf I were to successfully Distort, we would be halfway to success.\nJP :\nもし、私が無事にねじれになったのであれば、\n半分は成功だということだ。"
+  },
+  {
+    "key": "51-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "51-content",
+    "original": "처음으로 자네들이 부러워지는군. 나의 뒤틀림 결과를 두 눈으로 직접 관측할 수 있다니.",
+    "context": "EN :\nMy, for the first time, I am feeling quite the envy for you all. I wish I could be a witness to my very own Distortion…\nJP :\n初めて君たちが羨ましくなったきたよ。\n私のねじれの結果を両目で直々に観測できるだなんてな。"
+  },
+  {
+    "key": "52-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "52-content",
+    "original": "허어…",
+    "context": "EN :\nHuh…\nJP :\nはぁ…。"
+  },
+  {
+    "key": "53-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "53-content",
+    "original": "만일 내 설명을 지금까지 잘 귀담아들었다면 내 뒤틀림도 아까 말한 규칙에 맞게 일련번호를 추측해 볼 수도 있겠지.",
+    "context": "EN :\nIf you’ve been paying attention to my lectures, perhaps you could even come up with a classification code for my Distortion too, going by the standards we have discussed earlier.\nJP :\nもし、私の説明を今までしっかり聞いていたなら\n私のねじれも、先程話した規則に合わせて\nシリアル番号を推測することも可能だろう。"
+  },
+  {
+    "key": "54-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "54-content",
+    "original": "큰 기대는 하지 않아. 대부분의 사람이 고개를 끄덕이는 건 내 말을 이해해서가 아니라 그저 사회적인 리액션에 불과하다는 걸 최근에야 깨달았거든.",
+    "context": "EN :\nNot that I have a very high expectation that you would. I’ve recently come to a realization that people nodding along to my words is not a signifier of comprehension, but instead an expression of societal niceties.\nJP :\n大して期待はしていない。大抵の人間が頷くのは\n私の話を理解したからではなく、ただの社交辞令に\n過ぎないということを近頃になって悟ったからな。"
+  },
+  {
+    "key": "55-model",
+    "original": "마튼",
+    "translation": "马顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMarton\nJP :\nマートン"
+  },
+  {
+    "key": "55-content",
+    "original": "…끄덕.",
+    "context": "EN :\n…. Nods.\nJP :\n(…コクッ。)"
+  },
+  {
+    "key": "56-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "56-content",
+    "original": "그 다음엔 여기 관리자가 나의 심상 던전으로 가는 입구를 열어주겠지.",
+    "context": "EN :\nThen, the manager here will open the entrance to my Dungeon of the Fathoms…\nJP :\nその次は、ここの管理人が\n私の心象ダンジョンへの入口を開けてくれるであろう。"
+  },
+  {
+    "key": "57-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "57-content",
+    "original": "그런 후에는… 지금까지 자네들이 뒤틀림을 상대해 왔던 것처럼 거울 던전을 거쳐서 나의 가장 깊은 심상 속에 도착한 다음, 뒤틀림이 된 나를 한 번 더 상대하게 될 거야.",
+    "context": "EN :\n… and you will progress through the Mirror Dungeon, as you have always done when facing a Distortion, to reach into its deepest fathoms to face my Distortion once again.\nJP :\nそうしてからは…今まで諸君らがねじれを相手にしてきたように\n鏡ダンジョンを通って私の最深部へ到達し、\nねじれとなった私をもう一度相手取ることになる。"
+  },
+  {
+    "key": "58-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "58-content",
+    "original": "제압하고 돌아오게나.",
+    "context": "EN :\nI wish you the best of luck in your suppression efforts.\nJP :\n制圧して戻ってくるがよい。"
+  },
+  {
+    "key": "59-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "59-content",
+    "original": "음, 오체분시.",
+    "context": "EN :\nHm. Hexasection.\nJP :\nふむ、五体分割。"
+  },
+  {
+    "key": "60-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "60-content",
+    "original": "…여기까지 성공했다면, 심상 던전 밖의 나는 혼수 상태가 되어있거나 운이 조금 더 좋다면 정신을 바로 차릴 수도 있겠군.",
+    "context": "EN :\nAnd once you’ve made it that far, it is likely that you will find me unconscious. Or, if luck would have it, conscious.\nJP :\n…もしそこまで成功したのなら心象ダンジョンの\n外にいる私は昏睡状態になっているか、\n運がもう少し良ければすぐ意識を取り戻すかもしれぬな。"
+  },
+  {
+    "key": "61-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "61-content",
+    "original": "혼수 상태? 아니, 그래도 괜찮은 건가?",
+    "context": "EN :\nUnconscious? Are you sure this is safe?\nJP :\n昏睡状態？いや、それでも大丈夫なのか？"
+  },
+  {
+    "key": "62-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "62-content",
+    "original": "아마 사람마다 개체 차이가 있을 거라고 추측하네. 원래 모습으로 돌아오기야 하겠지만 시간이 얼마나 걸릴지는 확신하지 못하지.",
+    "context": "EN :\nA degree of case-by-case variance is to be expected. It may take some time for a full recovery, but it will happen, should you succeed.\nJP :\n恐らく個人差があると推測している。元の姿に戻りはするが、\nどれくらい時間が掛かるかは確信できておらぬな。"
+  },
+  {
+    "key": "63-model",
+    "original": "마튼",
+    "translation": "马顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMarton\nJP :\nマートン"
+  },
+  {
+    "key": "63-content",
+    "original": "그러고 보니 여러분들이 상대하셨다는 김삿갓이라는 자도 그렇게 돌아왔었죠.",
+    "context": "EN :\nThat reminds me, that’s how this ‘Bamboo-hatted Kim’ was brought back as well.\nJP :\nそういえば、皆さんがお相手したっていう\nキムサッガッという者もそんな感じで元に戻ってましたね。"
+  },
+  {
+    "key": "64-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "64-content",
+    "original": "김삿갓… 그자가 돌아왔나?",
+    "context": "EN :\nBamboo-hatted Kim… He’s recovered?\nJP :\nキムサッガッ…あの者は戻ったのか？"
+  },
+  {
+    "key": "65-model",
+    "original": "알리사",
+    "translation": "阿莉莎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAlyssa\nJP :\nアリサ"
+  },
+  {
+    "key": "65-content",
+    "original": "저희가 안전하게 잘 격리하고 있습니다.",
+    "context": "EN :\nHe is safely contained within our facilities.\nJP :\n私たちの方でちゃんと安全に隔離しています。"
+  },
+  {
+    "key": "66-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "66-content",
+    "original": "아, 모노리스 가동 준비가 끝난 모양일세.",
+    "context": "EN :\nAh, it seems that they are ready to activate the Monolith.\nJP :\nあぁ、モノリスの稼働準備が終わったようだ。"
+  },
+  {
+    "key": "67-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "67-content",
+    "original": "장담하는데, 나는 뒤틀림이 되어도 여전히 우등할 걸세.",
+    "context": "EN :\nI am confident that I, even as a Distortion, will be quite the exceptional specimen.\nJP :\n断言するが、私はねじれになっても依然として優秀なはずだ。"
+  },
+  {
+    "key": "68-model",
+    "original": "후디히스",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "68-content",
+    "original": "잠깐, 정말 이렇게 헤어진다고?",
+    "context": "EN :\nHang on, just like that?\nJP :\n待てよ、本当にこのまま別れちまうのか？"
+  },
+  {
+    "key": "69-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "69-content",
+    "original": "죄종은 되지 않으셨네요.",
+    "context": "EN :\nYou’re not a Peccatulum.\nJP :\n大罪にはならなかったみたいですね。"
+  },
+  {
+    "key": "70-model",
+    "original": "뒤틀린호엔하임",
+    "translation": "扭曲的霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDistorted Hohenheim\nJP :\nねじれたホーエンハイム"
+  },
+  {
+    "key": "70-content",
+    "original": "그래… 그리고, 이렇게…",
+    "context": "EN :\nIndeed… and I…\nJP :\nあぁ…かくて、こうして…。"
+  },
+  {
+    "key": "71-model",
+    "original": "뒤틀린호엔하임",
+    "translation": "扭曲的霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDistorted Hohenheim\nJP :\nねじれたホーエンハイム"
+  },
+  {
+    "key": "71-content",
+    "original": "그들의 소리는 여전히 들리는군…",
+    "context": "EN :\n… I can still hear them…\nJP :\n彼らの声は未だに聞こえるのだな…。"
+  },
+  {
+    "key": "72-model",
+    "original": "뒤틀린호엔하임",
+    "translation": "扭曲的霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDistorted Hohenheim\nJP :\nねじれたホーエンハイム"
+  },
+  {
+    "key": "72-content",
+    "original": "여전히… 기억하고 있다네.",
+    "context": "EN :\nYes, I… remember. I still do.\nJP :\nまだ…覚えているさ。"
+  },
+  {
+    "key": "73-model",
+    "original": "마튼",
+    "translation": "马顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMarton\nJP :\nマートン"
+  },
+  {
+    "key": "73-content",
+    "original": "돌아오실 분이라는 건 믿고 있지만… 꽤 떨리네요.",
+    "context": "EN :\nI know he’ll be back, but… Gosh, this is pretty unnerving.\nJP :\n戻る人だとは信じてはいますけど…結構身体が震えますね。"
+  },
+  {
+    "key": "74-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "74-content",
+    "original": "<…반드시 데려올 테니까 걱정마.>",
+    "context": "EN :\n<…Don’t worry. We’ll bring him back, no matter what.>\nJP :\n<…必ず連れて戻るから、心配しないで。>"
+  },
+  {
+    "key": "75-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "75-content",
+    "original": "관리자님이 반드시 데려오겠다고 말하시네요.",
+    "context": "EN :\nThe manager says that ‘we will bring him back, no matter what’.\nJP :\n管理人様が絶対連れ戻すと仰っています。"
+  },
+  {
+    "key": "76-model",
+    "original": "알리사",
+    "translation": "阿莉莎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAlyssa\nJP :\nアリサ"
+  },
+  {
+    "key": "76-content",
+    "original": "든든하네요. 그럼 이걸 부탁드리겠습니다.",
+    "context": "EN :\nSure sounds like a dependable sort, this manager of yours. Very well. Please, take a look at this.\nJP :\n心強いですね。それでは、これをお任せします。"
+  },
+  {
+    "key": "77-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "77-content",
+    "original": "<쪽지? 뭐 도움 될만한 거라도 적어준 건가?>",
+    "context": "EN :\n<Is this... a note? Did he write us tips on how to do this, or something?>\nJP :\n<メモ用紙？何か助けになることでも書いてくれたのかな？>"
+  },
+  {
+    "key": "78-model",
+    "original": "알리사",
+    "translation": "阿莉莎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAlyssa\nJP :\nアリサ"
+  },
+  {
+    "key": "78-content",
+    "original": "거기 적힌 걸 뒤틀린 자기 앞에서 읽어주면 된대요. 일종의… 암호 같은 거라고 하셨어요.",
+    "context": "EN :\nHe says that all you have to do is read what's on that note in front of his Distortion. Apparently it's some kind of... a code.\nJP :\nそこに書かれたのを本人の前で読めばいいそうです。\n一種の…暗号みたいなものと仰ってました。"
+  },
+  {
+    "key": "79-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "79-content",
+    "original": "<내가 말해도 째깍거리기만 할 텐데… 뫼르소, 읽어줄래?>",
+    "context": "EN :\n<I don't think he'll hear anything but ticking noises from me... Can you read this, Meursault?>\nJP :\n<私が喋ってもカチカチしか言わないし…ムルソー、読んでくれる？>"
+  },
+  {
+    "key": "80-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "80-content",
+    "original": "명령하신 대로 수행하겠습니다.",
+    "context": "EN :\nIt will be done as you commanded.\nJP :\nご命令通り遂行します。"
+  },
+  {
+    "key": "81-content",
+    "original": "고개를 끄덕인 뫼르소는 쪽지를 받아 의미 모를 단어들을 차례대로 읊어나갔다.",
+    "context": "EN :\nMeursault nodded, then began to read the words from the note aloud.\nJP :\n頷いたムルソーは紙を受け取り、\n意味不明な単語を順番に読み上げていった。"
+  },
+  {
+    "key": "82-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "82-content",
+    "original": "로보토미 코퍼레이션. 5분. 가능성. 기대. 오른팔. ",
+    "context": "EN :\nLobotomy Corporation. Five Minutes. Potentiality. Anticipation. Right-hand.\nJP :\nロボトミー・コーポレーション。5分。\n可能性。期待。右腕。"
+  },
+  {
+    "key": "83-content",
+    "original": "뫼르소가 다섯 개의 단어를 내뱉은 직후.",
+    "context": "EN :\nThe moment Meursault uttered them...\nJP :\nムルソーが5つの単語を口にした直後。"
+  },
+  {
+    "key": "84-content",
+    "original": "그것이 마치 문을 여는 암호라도 되는 듯, 뒤틀린 호엔하임을 중심으로 익숙한 포탈이 나타나기 시작했다.",
+    "context": "EN :\nThe all-too-familiar portal began to appear around Hohenheim's Distortion, as though they were a key to a door.\nJP :\nまるでそれが扉を開く暗号のように、\nねじれたホーエンハイムを中心に見慣れたポータルが現れ始めた。"
+  },
+  {
+    "key": "85-content",
+    "original": "일렁이는 공간 너머에는 익숙하면서도 낯선 풍경이 파편적으로 떠올랐다 사라지고 있었다.",
+    "context": "EN :\nScattering shards of familiar yet alien sights appeared intermittently beyond the shimmering veil.\nJP :\n揺らめく空間越しには、見慣れながらも見慣れぬ風景が\n断片的に浮かび、消えていく。"
+  },
+  {
+    "key": "86-content",
+    "original": "잠시 쳐다보던 사이 호엔하임은 포탈 안으로 이미 들어가 버린 듯 보이지 않았고, 대신 목소리가 실험실 내부에 울려 퍼졌다.",
+    "context": "EN :\nHohenheim had already entered the portal as we stood there gawking. But we could still hear his voice echoing through the laboratory.\nJP :\nしばらく見つめている間にホーエンハイムはもうポータルの中に\n入ってしまったらしく、姿が見当たらない代わりに\n声が実験室内に響き渡った。"
+  },
+  {
+    "key": "87-model",
+    "original": "뒤틀린호엔하임",
+    "translation": "扭曲的霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDistorted Hohenheim\nJP :\nねじれたホーエンハイム"
+  },
+  {
+    "key": "87-content",
+    "original": "보여주고 싶지 않았던, 누구도 궁금해하지 않을 나의 과거도 이곳에선 보여지게 되겠지.",
+    "context": "EN :\nI suppose I’ll be forced to share my past here. The past I never wanted to share, the past no one cares to learn about.\nJP :\n見せたくなかった、誰も興味など抱かないであろう\n私の過去までもここでは曝け出されるだろう。"
+  },
+  {
+    "key": "88-model",
+    "original": "뒤틀린호엔하임",
+    "translation": "扭曲的霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDistorted Hohenheim\nJP :\nねじれたホーエンハイム"
+  },
+  {
+    "key": "88-content",
+    "original": "실험을 위해서는 감내해야 하는 일이라는 건 알고 있네. 하지만…",
+    "context": "EN :\nIt is something I must endure for the sake of this experiment. However…\nJP :\n実験のためには甘んじて受け容れるしかないのは分かっている。\nしかし…。"
+  },
+  {
+    "key": "89-model",
+    "original": "뒤틀린호엔하임",
+    "translation": "扭曲的霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDistorted Hohenheim\nJP :\nねじれたホーエンハイム"
+  },
+  {
+    "key": "89-content",
+    "original": "<color=#ffffa1>그렇다고 모든 걸 드러낼 필요도 없겠지.</color>",
+    "context": "EN :\n… I needn’t expose every little detail of it.\nJP :\nだからといって、全てを曝け出す必要もないであろう。"
+  },
+  {
+    "key": "90-place",
+    "original": "과거, 로보토미 지부?",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90-model",
+    "original": "뒤틀린호엔하임",
+    "translation": "扭曲的霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDistorted Hohenheim\nJP :\nねじれたホーエンハイム"
+  },
+  {
+    "key": "90-content",
+    "original": "<color=#ffffa1>어차피… 이미 지나가 버린 일 아닌가.</color>",
+    "context": "EN :\n<color=#ffffa1>It’s… all in the past now anyway, isn’t it?</color>\nJP :\n<color=#ffffa1>どうせ…もう過ぎ去ったことではないか。</color>"
+  }
+]

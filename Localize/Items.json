@@ -1046,8 +1046,8 @@
   },
   {
     "key": "20012-desc",
-    "original": "검을 휘둘러온 자들이 쓰러진 곳에 피에 절여진 검집이 남겨진다.\n검의 길을 가는 자들에게는 검집이야말로 그들의 집이다.",
-    "context": "EN :\nThose who wield blades in life leave behind bloodied scabbards in death.\nThe true abode of those who walk the path of blades is their scabbard.\nJP :\n剣を振ってきた者たちが斃れた場所に、血に濡れた鞘が残される。\n剣の道を征く者たちにとっては鞘こそ彼らが収まり、落ち着く場所である。"
+    "original": "보상 교환 창에서 다양한 보상을 구입할 때 사용한다.\n\n<color=#a16a3b>검을 휘둘러온 자들이 쓰러진 곳에 피에 절여진 검집이 남겨진다.\n검의 길을 가는 자들에게는 검집이야말로 그들의 집이다.</color>",
+    "context": "EN :\nUsed to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>Those who wield blades in life leave behind bloodied scabbards in death.\nThe true abode of those who walk the path of blades is their scabbard.</color>\nJP :\n報酬交換ウィンドウにて、様々な報酬を購入するときに使用する。\n\n<color=#a16a3b> 血に濡れた鞘, 剣を振ってきた者たちが斃れた場所に、血に濡れた鞘が残される。\n剣の道を征く者たちにとっては鞘こそが彼らが収まり、落ち着ける居場所である。</color>"
   },
   {
     "key": "20013-name",
@@ -1056,8 +1056,8 @@
   },
   {
     "key": "20013-desc",
-    "original": "한이 맺힌 검을 휘둘러야 무릇 검귀라 한다.\n검귀에게 검집은 더 이상 필요하지 않으나, 집을 지니고 있는 까닭은 얕은 미련이 서린 한 때문이다.",
-    "context": "EN :\nOne who wields their blade with deep resentment is called a Demon of the Blade.\nDemon of the Blade no longer has need of a scabbard; yet they carry it, as that resentment is tinged with a lingering attachment.\nJP :\n恨の込められた剣を振ってこそ剣鬼と呼ばれる。\n剣鬼に鞘はもはや必要ないがゆえに、鞘を持つ理由は浅薄な未練が積もった恨のせいである。"
+    "original": "보상 교환 창에서 다양한 보상을 구입할 때 사용한다.\n\n<color=#a16a3b>한이 맺힌 검을 휘둘러야 무릇 검귀라 한다.\n검귀에게 검집은 더 이상 필요하지 않으나, 집을 지니고 있는 까닭은 얕은 미련이 서린 한 때문이다.</color>",
+    "context": "EN :\nUsed to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>One who wields their blade with deep resentment is called a Demon of the Blade.\nDemon of the Blade no longer has need of a scabbard; yet they carry it, as that resentment is tinged with a lingering attachment.</color>\nJP :\n報酬交換ウィンドウにて、様々な報酬を購入するときに使用する。\n\n<color=#a16a3b>恨の込められた剣を振ってこそ剣鬼と呼ばれる。\n剣鬼に鞘はもはや必要ないがゆえに、鞘を持つ理由は浅薄な未練が積もった恨のせいである。</color>"
   },
   {
     "key": "20017-name",
@@ -1188,5 +1188,25 @@
     "key": "234-flavor",
     "original": "LCA 연구개발팀에서 제작한 두번째 E.G.O 환상 해석 모듈. 떨리고 빛나는 끈을 단기간에 대량의 파편들과 엮어 [HE]급까지의 E.G.O의 해석을 특정 수준까지 급가속시킨다. 끈으로 파편을 엮어 실체를 짜낸다. 따스한 빛을 내는 끈은 어느날 오랫동안 도시를 비춘 빛과 닮아있다.",
     "context": "EN :\nThe second E.G.O Threadspinning Module developed by LCA R&D Team.\nWeaves the shimmering threads with numerous shards, enhancing the E.G.O Threadspinning tier to the [HE] level at an accelerated pace.\nWeave the shards together with the threads to compress together a form. The warm light of the threads is reminiscent of the light that had once showered the City for some time.\nJP :\nLCA研究開発チームにて制作した、2つ目のE.G.O解析モジュール。震えて輝く紐を短期間で大量の破片と編み込んで[HE]ランクのE.G.O解析を特定の水準にまで急加速させる。紐で破片を実体を編み込んで、実体を紡ぎ出す。暖かな光を放つ紐は、長いこと都市を照らしたある日の光と似ている。"
+  },
+  {
+    "key": "20024-name",
+    "original": "정보서류",
+    "context": "EN :\nAmassed Data\nJP :\n情報書類"
+  },
+  {
+    "key": "20024-desc",
+    "original": "보상 교환 창에서 다양한 보상을 구입할 때 사용한다.\n\n<color=#a16a3b>LCE 주관으로 작성한 LCB, 뒤틀림, 죄종들에 대한 사소하고 번잡한 자료들. 여러 테스트, 실험, 조사 등이 되는대로 적힌 서류들이다.\n\n'자료 정리는 연구원의 소관이 아닐세. 조수의 업무 아니겠나.'</color>",
+    "context": "EN :\nUsed to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>Various disorganized and trivial documentation on LCB, Distortions, and the Peccatula are haphazardly scribbled here. These data have been collected by the LCE—messy records of tests, experiments, and research litter the papers.\n\n'It is not the duty of a researcher to organize their findings. That is the assistants' responsibility.'</color>\nJP :\n報酬交換ウィンドウにて、様々な報酬を購入するときに使用する。\n\n<color=#a16a3b>LCEが主導して作成したLCB、ねじれ、大罪に関する些細で煩雑な資料の数々。様々なテスト、実験、調査などが手当たり次第記載された書類群だ。\n\n「資料整理は研究員の仕事でなかろう。助手の役割ではあるまいか。」</color>"
+  },
+  {
+    "key": "20025-name",
+    "original": "기밀서류",
+    "context": "EN :\nClassified Data\nJP :\n機密書類"
+  },
+  {
+    "key": "20025-desc",
+    "original": "낮은 확률로 얻을 수 있으며, 획득 즉시 정보서류 20개로 전환된다.\n\n<color=#a16a3b>LCE의 보조 연구원들만 열람 가능한, 호엔하임이 수집한 기밀 자료들. 림버스 컴퍼니 수감자들의 개인적인 정보(생일, 출신 등)부터 LCE에서 보유한 환상체나 뒤틀림에 대한 심도 깊은 내용까지 빠짐없이 기록되어 있다.\n\n'자료는 나열된 것만으로는 가치가 없습니다. 무엇을 조합하고, 언제 공개하여, 어떻게 이용하는지가 중요하죠. 그제야 자료는 가치 있는 정보가 됩니다.' - LCA 간부 중 누군가</color>",
+    "context": "EN :\nSpawns rarely. Converted to 20 Amassed Data immediately upon acquisition.\n\n<color=#a16a3b>Classified data collected by Hohenheim himself, available for viewing only for LCE's assistant researchers. It contains all kinds of in-depth information about Limbus Company—from each Sinner's personal information(Birthdays, birthplaces, etc.) to analyses on Abnormalities and Distortions contained within the LCE.\n\n'The enumeration of data alone is worthless. What matters is which data connects to which, when they are unveiled, and how they are put to use. Only then is data transformed into intelligence of worth.' - Anonymous LCA Officer</color>\nJP :\n低確率で獲得でき、獲得時に情報書類20個に即変換される。\n\n<color=#a16a3b>LCEの補助研究員のみが閲覧可能な、ホーエンハイムが収集した機密資料。リンバス・カンパニーの囚人たちの個人的な情報(誕生日、出身地など)から、LCEが保有する幻想体やねじれに関する深い内容まで、余すことなく記録されている。\n\n「資料はただ羅列されるだけでは価値がありません。何を組み合わせ、いつ公開し、どのように利用するかが重要なのです。そうして初めて、資料は価値ある情報となります。」- LCA幹部の某人物</color>"
   }
 ]

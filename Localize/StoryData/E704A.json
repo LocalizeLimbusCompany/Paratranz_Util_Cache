@@ -1,0 +1,964 @@
+[
+  {
+    "key": "0-place",
+    "original": "LCE 연구팀 실험동",
+    "context": "EN :\nLCE Research Team Lab. Unit\nJP :\nLCE研究チーム 実験棟"
+  },
+  {
+    "key": "0-content",
+    "original": "이후로도 질투 죄종을 이용한 지휘 능력 테스트를 비롯한 다양한 테스트가 우리에게 쏟아졌다.",
+    "context": "EN :\nWe went through various tests, including command ability trials using Peccatula Invidiae…\nJP :\nそれからというもの、嫉妬大罪を使った指揮能力テストなど\n多岐にわたるテストが私たちに次々と降りかかった。"
+  },
+  {
+    "key": "1-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "1-content",
+    "original": "관리자 나리! 본인 만점을 받았네!",
+    "context": "EN :\nHar, Manager Esquire! Heigh-ho! I have attained a score most perfect!\nJP :\n管理人殿！当人は満点を取れたのである！"
+  },
+  {
+    "key": "2-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "2-content",
+    "original": "으음… 돈키호테 양에게 질 줄은… 학업에 더욱 정진을…",
+    "context": "EN :\nMm… to be surpassed by Miss Don Quixote in a contest of knowledge… Must I delve further in my studies…?\nJP :\nうぅむ…。ドンキホーテ嬢に負くとは…。\n学業に一層精進を…。"
+  },
+  {
+    "key": "3-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "3-content",
+    "original": "아니, 이상 씨. 해결사 협회에 관한 문제였잖아.",
+    "context": "EN :\nHey, Yi Sang. Bud. They were testing our Fixer Association knowledge, huh?\nJP :\nいや、イサンさん。\nフィクサー協会関連の問題だったろ。"
+  },
+  {
+    "key": "4-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "4-content",
+    "original": "맞아~ 해결사 매니아는 버스에 한 명이면 충분하다구.",
+    "context": "EN :\nTotally~ Honestly, she's got more than enough Fixer fixation for the entire bus.\nJP :\nそうそう～。\nフィクサーマニアは、バスに1人いれば充分だってば。"
+  },
+  {
+    "key": "5-content",
+    "original": "분야별 상식 검사부터 시작해서…",
+    "context": "EN :\nAll kinds of general knowledge, trivia quizzes…\nJP :\n分野別の常識検査から始まり…。"
+  },
+  {
+    "key": "6-model",
+    "original": "마튼",
+    "translation": "马顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMarton\nJP :\nマートン"
+  },
+  {
+    "key": "6-content",
+    "original": "새로운 사람을 만났을 때 어떤 걸 먼저 주목하시나요?",
+    "context": "EN :\nWhat’s the first thing you focus on when meeting a new person?\nJP :\n新しい人と会ったとき、まず何に注目しますか？"
+  },
+  {
+    "key": "7-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "7-content",
+    "original": "…눈빛? 전투력? 아이씨… 어렵네.",
+    "context": "EN :\n… The look in their eyes? How strong they look? Bloody hell, this ain’t easy.\nJP :\n…目つき？戦闘能力？クソッ…難しいな。"
+  },
+  {
+    "key": "8-model",
+    "original": "알리사",
+    "translation": "阿莉莎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAlyssa\nJP :\nアリサ"
+  },
+  {
+    "key": "8-content",
+    "original": "리더쉽을 발휘할 때의 스타일은…",
+    "context": "EN :\nYour leadership style is…\nJP :\nリーダーシップを発揮する際のスタイルは…。"
+  },
+  {
+    "key": "9-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "9-content",
+    "original": "결정적이고 목표 지향적이다.",
+    "context": "EN :\nStrong, decisive, and goal-oriented.\nJP :\n決断的で目標重視型だ。"
+  },
+  {
+    "key": "10-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "10-content",
+    "original": "뫼르소 씨가요…?",
+    "context": "EN :\nYou are, Meursault…?\nJP :\nムルソーさんがですか…？"
+  },
+  {
+    "key": "11-content",
+    "original": "영문을 알 수 없는 성향 검사까지 잔뜩 받은 뒤에야 우리는 잠깐의 휴식 시간을 보낼 수 있었다.",
+    "context": "EN :\nWe were finally allowed a quick break after going through all kinds of mysterious, strange personality tests as well.\nJP :\nわけの分からない性格診断までたんまり受けてやっと\n私たちは少しだけ休憩時間をもらえたのだった。"
+  },
+  {
+    "key": "12-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "12-content",
+    "original": "다음은 수감자 전원의 기초 체력 검진이라네. 이제야 본격적인 검진을 시작할 수 있겠군.",
+    "context": "EN :\nNext—basic fitness test for all Sinners. We can finally get started on the real meat of this check-up.\nJP :\n次は囚人たち全員の基礎体力検診である。\nようやく本格的な検診が始められそうであるな。"
+  },
+  {
+    "key": "13-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "13-content",
+    "original": "이때까지 저희가 받은 건 다 뭐였는데요!?",
+    "context": "EN :\nWait, then what were all those tests you guys were running on us?\nJP :\n今まで僕たちが受けてきたのは、いったい何だったんですか！？"
+  },
+  {
+    "key": "14-model",
+    "original": "마튼",
+    "translation": "马顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMarton\nJP :\nマートン"
+  },
+  {
+    "key": "14-content",
+    "original": "LCE 부서에서 이때까지 궁금했던 여러 자료를 수집하기 위한… 일종의 사심 채우기 시간이었죠.",
+    "context": "EN :\nThey were conducted in order to collect various data that the LCE Department has been missing. In other words… we capitalized on this opportunity to fulfill our private curiosities.\nJP :\nLCE部門で、今まで知りたかった色々なデータを集める…。\nある種の個人的な動機のための時間でしたね。"
+  },
+  {
+    "key": "15-model",
+    "original": "알리사",
+    "translation": "阿莉莎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAlyssa\nJP :\nアリサ"
+  },
+  {
+    "key": "15-content",
+    "original": "그래도 검진 결과부터 여러분을 서포트하는 데 필요한 여러 정보를 수집할 수 있는 유익한 시간이었어요.",
+    "context": "EN :\nStill, I’d say it was very productive! We now know a lot about you guys that’ll help us support the LCB going forward.\nJP :\nそれでも、検診結果から皆さんをサポートするのに\n必要な情報が集められた有意義な時間でした。"
+  },
+  {
+    "key": "16-model",
+    "original": "알리사",
+    "translation": "阿莉莎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAlyssa\nJP :\nアリサ"
+  },
+  {
+    "key": "16-content",
+    "original": "자, 이제 빠르게 단체 검사부터 할 거니까 여기 모여주세요. ",
+    "context": "EN :\nAlright, we're gonna go over some tests that can be conducted in groups first. Please form a line here.\nJP :\nじゃあ、今から急ぎで団体検査から始めますので\nこちらに集まってください。"
+  },
+  {
+    "key": "17-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "17-content",
+    "original": "이, 이렇게 서 있으면 되는 건가?",
+    "context": "EN :\nW-what, like this?\nJP :\nこ、こうやって立てばいいのか？"
+  },
+  {
+    "key": "18-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "18-content",
+    "original": "남은 게 많아 보이니까 빨리빨리 하죠. ",
+    "context": "EN :\nLet's get this over with. Looks like we've got a long day ahead of us.\nJP :\nまだまだやることが多そうだし、\nちゃっちゃと進めましょう。"
+  },
+  {
+    "key": "19-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "19-content",
+    "original": "그래도 나눠주신 이 옷 말이에요, 착용감이 굉장히 좋네요. ",
+    "context": "EN :\nWow, these are some comfy clothes they've given us.\nJP :\nそれにしても貸してくださったこの服なんですけど、\n着心地がすごく良いですね。"
+  },
+  {
+    "key": "20-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "20-content",
+    "original": "그러게, 잠옷으로 입고 다녀도 되겠어. ",
+    "context": "EN :\nRight? I could totally see myself wearin' these to sleep.\nJP :\nそうだな、パジャマ代わりにもできそうだぜ。"
+  },
+  {
+    "key": "21-model",
+    "original": "알리사",
+    "translation": "阿莉莎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAlyssa\nJP :\nアリサ"
+  },
+  {
+    "key": "21-content",
+    "original": "잠옷…? 나눠드렸던 옷은 LCE 귀속이어서 곧바로 반납해 주셔야 돼요.",
+    "context": "EN :\nTo sleep...? They're LCE property, so you better return them as soon as we're done here.\nJP :\nパジャマ…？お渡しした服はLCE所属品ですので、\nすぐに返却していただかないといけません。"
+  },
+  {
+    "key": "22-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "22-content",
+    "original": "아, 본격적인 거 하기 전에 여기 팔목 좀 봐줘. 영 뻐근한데 시계를 안 돌려주는 거 있지…",
+    "context": "EN :\nGotcha. By the way, can ya take a look at my wrist here before we actually get started? I’ve been feelin’ a bit of soreness there, but Dante won’t turn the clock for just me, y’know?\nJP :\nあ、本格的なのやる前にちょっとここ、手首見てくれない？\nな～んか凝ってるんだけど、時計回してくれないんだよねぇ…。"
+  },
+  {
+    "key": "23-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "23-content",
+    "original": "그런 걸로 시계를 돌리려 하는 건 좋지 않은 습관인 듯하오… 뫼르소 군이 봐줄 수 있을 거라 생각하네만. ",
+    "context": "EN :\nTurning of the clock for such trivialities may cause the formation of an unfavorable habit... perhaps Meursault can remedy your pain.\nJP :\nさるもので時計を回さんとするは良き習慣にはあらずと思う…。\nムルソー君に願い出らば何とかなるやもしれぬが。"
+  },
+  {
+    "key": "24-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "24-content",
+    "original": "원한다면, 언제든지 준비는 되어 있다. ",
+    "context": "EN :\nI am always prepared to administer necessary aid, should you request it.\nJP :\n望むなら、いつでも準備はできている。"
+  },
+  {
+    "key": "25-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "25-content",
+    "original": "어, 아니다, 갑자기 싹 괜찮아졌어~ ",
+    "context": "EN :\nA-actually, ya know what? I'm totally fine now~! Don'tcha worry!\nJP :\nえっ、なんでもない。\n急にスッて良くなった気がする～。"
+  },
+  {
+    "key": "26-model",
+    "original": "알리사",
+    "translation": "阿莉莎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAlyssa\nJP :\nアリサ"
+  },
+  {
+    "key": "26-content",
+    "original": "똑바로 서주세요. 까치발 하신 분은 다 보이니까 내려주시고요. ",
+    "context": "EN :\nPlease stand still. If you think I can't see some of you on your tiptoes, you'd be very wrong. Heels on the ground, please.\nJP :\nまっすぐ立ってください。\n爪先立ちの人は全部見えてるから下げてください。"
+  },
+  {
+    "key": "27-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "27-content",
+    "original": "저… 저는 똑바로 서 있었는데요?",
+    "context": "EN :\nBut... My heels are on the ground?\nJP :\nぼ、僕はちゃんと立ってましたよ…？"
+  },
+  {
+    "key": "28-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "28-content",
+    "original": "끄으응…",
+    "context": "EN :\nFie…\nJP :\nうぐぐ…。"
+  },
+  {
+    "key": "29-model",
+    "original": "알리사",
+    "translation": "阿莉莎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAlyssa\nJP :\nアリサ"
+  },
+  {
+    "key": "29-content",
+    "original": "그리고 저… 체력 검진 전에 다들 담배는 꺼주실 수 있나요?",
+    "context": "EN :\nAnd uh... can you snuff out your cigarettes before the test begins?\nJP :\nそれとあの…検診の前なので\n皆さん煙草の火を消して貰っていいですか？"
+  },
+  {
+    "key": "30-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "30-content",
+    "original": "아, 이거는 그냥… 폼으로 물고 있는 거라…",
+    "context": "EN :\nOh, this one isn’t lit. It’s just there so I can… look cool…\nJP :\nあぁ、これはただ…見栄で咥えてるだけで…。"
+  },
+  {
+    "key": "31-model",
+    "original": "알리사",
+    "translation": "阿莉莎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAlyssa\nJP :\nアリサ"
+  },
+  {
+    "key": "31-content",
+    "original": "아하…",
+    "context": "EN :\nAha…\nJP :\nあはぁ…。"
+  },
+  {
+    "key": "32-model",
+    "original": "알리사",
+    "translation": "阿莉莎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAlyssa\nJP :\nアリサ"
+  },
+  {
+    "key": "32-content",
+    "original": "…저 다른 분은…",
+    "context": "EN :\n… And what about—\nJP :\n…。\nその、あの方は…。"
+  },
+  {
+    "key": "33-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "33-content",
+    "original": "용기는 가상했군. 꺼져.",
+    "context": "EN :\nBold. But scram.\nJP :\n度胸は感心だな。失せろ。"
+  },
+  {
+    "key": "34-model",
+    "original": "알리사",
+    "translation": "阿莉莎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAlyssa\nJP :\nアリサ"
+  },
+  {
+    "key": "34-content",
+    "original": "이, 일단… 단체 기초 검사는 끝났습니다. ",
+    "context": "EN :\nO-okay. So the basic group tests are complete.\nJP :\nと、とりあえず…団体基礎検査は終わりました。"
+  },
+  {
+    "key": "35-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "35-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "36-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "36-content",
+    "original": "검진을 실행하기 전에, 급히 테스트를 진행하느라 중요한 걸 한 가지 빼먹었군.",
+    "context": "EN :\nI seem to have forgotten something quite important I had to establish prior to beginning the tests in earnest.\nJP :\n検診を実施する前に、急いでテストを実施したせいで\n大事なことを1つ忘れていたようだ。"
+  },
+  {
+    "key": "37-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "37-content",
+    "original": "조수.",
+    "context": "EN :\nI need an assistant.\nJP :\n助手。"
+  },
+  {
+    "key": "38-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "38-content",
+    "original": "<조수?>",
+    "context": "EN :\n<An assistant?>\nJP :\n<助手？>"
+  },
+  {
+    "key": "39-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "39-content",
+    "original": "테스트를 원활하게 이끄는 걸 도와줄 조수가 필요하다네.",
+    "context": "EN :\nI need an assistant to help me smooth out the testing procedures.\nJP :\nテストを円滑に進めるのを手伝ってくれる助手が必要なのだよ。"
+  },
+  {
+    "key": "40-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "40-content",
+    "original": "그거라면… 자기 뒤에도 있지 않나? 두 명이나.",
+    "context": "EN :\nUh… ya got two of ‘em already. Right behind you, if ya need directions.\nJP :\nそれなら…あなたの後ろにいない？2人も。"
+  },
+  {
+    "key": "41-model",
+    "original": "마튼",
+    "translation": "马顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMarton\nJP :\nマートン"
+  },
+  {
+    "key": "41-content",
+    "original": "저희는 호엔하임 씨의 조수가 아닙니다. 보조 연구원이죠.",
+    "context": "EN :\nOh, we’re not Mr. Hohenheim’s assistants. We’re specifically assistant <i>researchers</i>.\nJP :\n俺たちはホーエンハイムさんの助手ではありません。\n補助研究員です。"
+  },
+  {
+    "key": "42-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "42-content",
+    "original": "그래, 그 둘의 차이는 굉장히 크지.",
+    "context": "EN :\nYes, of course. There is much that distinguishes these two occupations.\nJP :\nそうだ、その2つの違いは非常に大きいのだよ。"
+  },
+  {
+    "key": "43-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "43-content",
+    "original": "검진을 도와줄 조수를 자네들 중 한 명이 맡아줬으면 하는데…",
+    "context": "EN :\nI would like for one of you to be my assistant for the duration of this check-up…\nJP :\n検診を手伝う助手を\n諸君のうち一人が受け持ってくれるといいのだが…。"
+  },
+  {
+    "key": "44-content",
+    "original": "로쟈가 난데없이 손을 들었다.",
+    "context": "EN :\nRodya suddenly raised her hand.\nJP :\nロージャが唐突に手を挙げた。"
+  },
+  {
+    "key": "45-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "45-content",
+    "original": "자원을 받을 생각은 없었지만 일단 손을 들었으니 말해보게.",
+    "context": "EN :\nI wasn’t planning on asking for volunteers, but… now that you’ve raised your hand, I’ll give you the floor.\nJP :\n自薦を受け付けるつもりはなかったが、\nせっかく挙げたのなら話は聞こうじゃないか。"
+  },
+  {
+    "key": "46-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "46-content",
+    "original": "나는 시키지 말아줘. 이런 건 적성에 안 맞아서~ 아, 연구원 시켜주면 해볼 만하겠는데. 이 옷은 좀 마음에 들거든.",
+    "context": "EN :\nDon’t ask me to do it. It's just not my vibes, ya know? I’ll take a researcher job, though. I'm a big fan of her style.\nJP :\n私はやめてね。こういうのは性分に合わなくって～。\nあ、研究員にしてくれるならやってもいいかも。\nこの服は、結構気に入ったんだよね。"
+  },
+  {
+    "key": "47-content",
+    "original": "로쟈가 연구원의 옷을 탐스러운 눈빛으로 만지작거리며 말했다.",
+    "context": "EN :\nRodya trailed off, greedily caressing the clothes of one of the researchers.\nJP :\nロージャは研究員の服を物欲しそうに触りながら言った。"
+  },
+  {
+    "key": "48-model",
+    "original": "알리사",
+    "translation": "阿莉莎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nAlyssa\nJP :\nアリサ"
+  },
+  {
+    "key": "48-content",
+    "original": "왜… 왜 이러세요…",
+    "context": "EN :\nWhat… what are you doing…?\nJP :\nちょ…やめてください…。"
+  },
+  {
+    "key": "49-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "49-content",
+    "original": "…고려조차 하지 않았던 사항이었지만 참고하도록 하지.",
+    "context": "EN :\n… I didn’t really have you in mind anyway, but duly noted nonetheless.\nJP :\n…考慮すらしていなかったが、参考にはしておこう。"
+  },
+  {
+    "key": "50-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "50-content",
+    "original": "저도 사양하겠습니다.",
+    "context": "EN :\nI would also like to refuse your nomination.\nJP :\n私も辞退します。"
+  },
+  {
+    "key": "51-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "51-content",
+    "original": "통상적으로 저자의 조수라는 것은 호엔하임이라는 선임 연구원보다 부족한 실력을 갖췄다는 걸 의미하는 것일 테니까요.",
+    "context": "EN :\nThe position of an assistant to Hohenheim implies that the said assistant is, when it comes to skill, inferior to the person they are assisting.\nJP :\n一般的に、あの者の助手というのはホーエンハイムという\n先任研究員よりも未熟な実力であることを意味するはずですからね。"
+  },
+  {
+    "key": "52-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "52-content",
+    "original": "역시나 뽑아줄 사람은 생각도 안 했지만, 열렬한 의사에는 다시 감사를 표하지.",
+    "context": "EN :\nAgain, I didn’t have you in mind either, but your passionate expression of intent is nonetheless appreciated.\nJP :\nもちろん候補にすら入っていなかったが、\n熱烈な意思には再び謝意を表しよう。"
+  },
+  {
+    "key": "53-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "53-content",
+    "original": "쳇, 어차피 끼리끼리 붙어서 틀린 걸 지적하지 않으면 온몸에 발진이 돋아나는 병에 걸린 것 마냥 난리법석을 떨겠지.",
+    "context": "EN :\nTsk, I wonder who came up with this brilliant idea of putting two smartarses together to waste time pointing out each other's minor mistakes?\nJP :\nチッ、どうせ似た者同士くっついて、間違い指摘しないと\n全身に発疹が出る病気みてぇに大騒ぎするんだろ。"
+  },
+  {
+    "key": "54-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "54-content",
+    "original": "저… 저는 학창 시절에 부반장으로서 반장을 보필하여 근면하고 모범적인…",
+    "context": "EN :\nU-uh, if I were to talk about myself, I want to open by saying that I was a class vice-president in school, a diligent model student who assiduously facilitated the tasks of the class president in—\nJP :\nぼ…僕は学生のとき副学級委員長として委員長を補佐して、\n勤勉かつ模範的な―"
+  },
+  {
+    "key": "55-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "55-content",
+    "original": "흠… 흠…",
+    "context": "EN :\nAhem, ahem...\nJP :\nふむ…ふむ…。"
+  },
+  {
+    "key": "56-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "56-content",
+    "original": "다들 왜 긴장을 하고 있어?",
+    "context": "EN :\nWhat’s with everyone getting so anxious to get picked here?\nJP :\nみんな、なんでそんなに緊張してんだ？"
+  },
+  {
+    "key": "57-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "57-content",
+    "original": "조수 하고 싶은 거야…? 나서는 건 귀찮은 일이라니까?",
+    "context": "EN :\nDo you fellas actually want to be his assistant…? Getting in the front and center of things is just bothersome, you know?\nJP :\n助手やりたいのか…？\n出しゃばっても面倒なだけだぞ？"
+  },
+  {
+    "key": "58-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "58-content",
+    "original": "하지만 왠지 뽑혀야 할 것 같은 느낌이었단 말이에요…",
+    "context": "EN :\nI… kinda felt like I had to apply for the position, for some reason…\nJP :\nでも、なんだか自分が選ばれなきゃならない気がしたんですよ…。"
+  },
+  {
+    "key": "59-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "59-content",
+    "original": "자, 결정했네. 참고로 모든 판단 기준은 전적으로 내 주관적인 견해이니 참고하시게.",
+    "context": "EN :\nWell, the decision has already been made. Do note that the selection criteria is fully based on my very subjective opinion.\nJP :\nさあ、決定したぞ。なお、全ての判断基準はあくまで\n私の主観的な見解に基づくということを断っておこう。"
+  },
+  {
+    "key": "60-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "60-content",
+    "original": "거기, 주황 머리 수감자…",
+    "context": "EN :\nYou there, orange-haired Sinner…\nJP :\nそこ、オレンジ髪の囚人…。"
+  },
+  {
+    "key": "61-content",
+    "original": "이스마엘이 기다렸다는 듯이 앞으로 불쑥 튀어나온 덕에 하마터면 내동댕이쳐질 뻔했다.",
+    "context": "EN :\nIshmael almost threw me to the ground as she confidently strode up to the front of the line.\nJP :\nイシュメールが待ってましたと言わんばかりに前へ\nぐいと飛び出してきたせいで、危うく私は吹っ飛ばされそうになった。"
+  },
+  {
+    "key": "62-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "62-content",
+    "original": "<어이쿠…>",
+    "context": "EN :\n<Oof…>\nJP :\n<おっと…。>"
+  },
+  {
+    "key": "63-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "63-content",
+    "original": "안심하세요, 호엔하임 씨. 제 서류를 보셨다면 아시겠지만, 전 예전에 일한 협회와 사무소에서도 많은 분들의 기대를 충족시켰거든요.",
+    "context": "EN :\nGreetings, Mr. Hohenheim. As you must be aware if you’ve taken a look at my documents, I’ve rarely let anyone down during my various tenures at Offices and Associations. You'll have nothing to worry as long as I'm by your side.\nJP :\nご安心ください、ホーエンハイムさん。\n私の資料をご覧になったのならご存じかと思いますが、\n私は昔働いた協会と事務所でも多くの方の期待に応えてきました。"
+  },
+  {
+    "key": "64-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "64-content",
+    "original": "혹시, 나중에 본사로 자리 이동 신청을 할 기회가 온다면… 커리어에 반영될까요?",
+    "context": "EN :\nAlso, can I add this experience to my resume if I ever get a chance to submit a transfer request to work at the headquarters?\nJP :\nもし、いつか本社へ配置転換の申し込みをする機会があれば…\nキャリアに反映されますか？"
+  },
+  {
+    "key": "65-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "65-content",
+    "original": "그거 아직도 건재한 야심이었어? 포기한 줄 알았는데?",
+    "context": "EN :\nDidn’t know you were still holding onto that hope.\nJP :\nその野心、まだ消えてなかったのか？\nもう諦めたのかと思ってたんだけど？"
+  },
+  {
+    "key": "66-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "66-content",
+    "original": "…주황 머리 수감자 뒤에 있는 수감자를 말한 거였다네. 자네가 너무 앞에 나와 있어서 보이질 않았거든.",
+    "context": "EN :\nI… called on you to ask you to move, because you were standing in front of the Sinner I chose.\nJP :\n…オレンジ髪の囚人の後ろにいる囚人のことを言ったのだ。\n君が前に出過ぎて見えなかったからな。"
+  },
+  {
+    "key": "67-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "67-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "68-content",
+    "original": "모두의 시선이 콧등을 긁고 있는 히스클리프에게 집중되었다.",
+    "context": "EN :\nEveryone turned around to look at Heathcliff, who was absentmindedly scratching at the bridge of his nose.\nJP :\nみんなの視線が、鼻の頭をかいているヒースクリフに集中した。"
+  },
+  {
+    "key": "69-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "69-content",
+    "original": "뭐야…",
+    "context": "EN :\nHuh?\nJP :\nなんだよ…。"
+  },
+  {
+    "key": "70-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "70-content",
+    "original": "나… 나?",
+    "context": "EN :\nMe… huh? Me?\nJP :\nオ…オレ？"
+  },
+  {
+    "key": "71-content",
+    "original": "다만… 히스클리프보다 더 충격을 받은 건 이스마엘 같았다.",
+    "context": "EN :\nIt seemed that Ishmael was even more shocked than Heathcliff was.\nJP :\nただ…ヒースクリフ以上にショックを受けたのは\nイシュメールみたいだった。"
+  },
+  {
+    "key": "72-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "72-content",
+    "original": "왜… 왜요? 왜 저를 두고 저… 저런…",
+    "context": "EN :\nWait, but… wha… but… why? I’m right here, why would you pick someone like…\nJP :\nど…どうしてですか？\nどうして私じゃなくて、あ…あんな…。"
+  },
+  {
+    "key": "73-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "73-content",
+    "original": "대부분의 연구자는 종종 그릇된 실수를 범하곤 하지.",
+    "context": "EN :\nIt is a common misconception among many researchers…\nJP :\n大半の研究者はしばしば根本的な勘違いをするものだ。"
+  },
+  {
+    "key": "74-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "74-content",
+    "original": "고등한 교육 과정을 수료하고 경력이 화려할수록 우수한 인재라고 말이야.",
+    "context": "EN :\n… to assume that the higher their level of education and the more elaborate their resume, the better candidate one makes for a research project participant.\nJP :\n高度な教育課程を修了して経歴が華々しいほど\n優秀な人材だとな。"
+  },
+  {
+    "key": "75-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "75-content",
+    "original": "너… 너무나 상식적인 말 아닌가요? 적어도 연구라는 일에 한해서는…",
+    "context": "EN :\nB-but... but that's just common sense, isn't it? At least when it comes to research...?\nJP :\nじょ…常識的なことじゃないですか？\n少なくとも研究という仕事に限っては…。"
+  },
+  {
+    "key": "76-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "76-content",
+    "original": "하지만 대부분의 위대한 발견은 즉흥과 직관으로 이뤄진다는 사실을 알고 있나?",
+    "context": "EN :\nHowever, were you aware that most great discoveries are made from a potent mix of spontaneity and intuition?\nJP :\nだが、ほとんどの偉大な発見は即興と直感から\n生まれるという事実を知っているかね？"
+  },
+  {
+    "key": "77-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "77-content",
+    "original": "그야말로 이 자에게 딱 들어맞지.",
+    "context": "EN :\nA perfect descriptor for our friend here, I would say.\nJP :\nまさにこの者にぴったり当てはまるのだよ。"
+  },
+  {
+    "key": "78-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "78-content",
+    "original": "어… 어…",
+    "context": "EN :\nUh… uhh…\nJP :\nえっ…あっ…。"
+  },
+  {
+    "key": "79-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "79-content",
+    "original": "어떤가, 히스클리프 군. 자네의 저돌적인 직관성과 열정 넘치는 그 기세는 나를 대신해서 이자들을 통솔하고 이끌 자격이 충분하다고 보네만.",
+    "context": "EN :\nWhat say you, Heathcliff? I believe that this aggressive and passionate approach of yours gives you more than sufficient qualification to command and lead them in my stead.\nJP :\nどうかね、ヒースクリフ君。君のその猪突猛進的な直感と\n情熱溢れる勢いは、私の代わりにこの者たちを\n統率して率いる資格が十分あると見込んだのだが。"
+  },
+  {
+    "key": "80-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "80-content",
+    "original": "어… 그… 그런가?",
+    "context": "EN :\nUhm… Is… is that right?\nJP :\nあっ…その…そうか？"
+  },
+  {
+    "key": "81-content",
+    "original": "히스클리프가 머리를 벅벅 긁으며 대답했다.",
+    "context": "EN :\nHe replied, scratching his head.\nJP :\nヒースクリフは頭をガシガシ掻きながら答えた。"
+  },
+  {
+    "key": "82-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "82-content",
+    "original": "솔직히 말해, 이상 씨. 당신도 은근히 기대하고 있었지?",
+    "context": "EN :\nBe honest now, Yi Sang. Ya were kinda lookin’ forward to getting picked, weren’tcha?\nJP :\n正直に言ってね、イサンさん。\nあなたも内心ちょっと期待してたんじゃない？"
+  },
+  {
+    "key": "83-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "83-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "84-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "84-content",
+    "original": "시대의 주류는 언제나 바뀌어 가는 것이 필연일 테요…",
+    "context": "EN :\nIt is but fate that things that were once good in the eyes of the mainstream are to be made less desirable with the passage of time.\nJP :\n時代の潮流というものは、常に移ろいゆくが必然ならん…。"
+  },
+  {
+    "key": "85-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "85-content",
+    "original": "언젠가는 추억과 과거의 영역으로 비켜나는 것도 지식인의 도리…",
+    "context": "EN :\nAnd when one does indeed fall out of favor, the intelligentsia of the bygone days must rightly excuse themselves to the realm of memories and past…\nJP :\nいつかは思い出と過去の領域へ身を退くも、知識人の道理……。"
+  },
+  {
+    "key": "86-content",
+    "original": "이상이 유독 침울하게 눈을 내리깔며 대답했다.",
+    "context": "EN :\nYi Sang replied with a particularly downcast look.\nJP :\nイサンはやけに沈んだ様子で目を伏せながら答えた。"
+  },
+  {
+    "key": "87-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "87-content",
+    "original": "나의 조수가 된 것을 환영하네.",
+    "context": "EN :\nI am glad to have you on board as my new assistant.\nJP :\n我が助手になったことを歓迎しようではないか。"
+  },
+  {
+    "key": "88-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "88-content",
+    "original": "그럼… 내가 뭐부터 하면… 크흠… 되냐?",
+    "context": "EN :\nRighty-ho. So… uh, ahem. What have I got to do now?\nJP :\nそれじゃ…オレはまず何からすれば…けほん…いいんだ？"
+  },
+  {
+    "key": "89-model",
+    "original": "호엔하임",
+    "translation": "霍恩海姆",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHohenheim\nJP :\nホーエンハイム"
+  },
+  {
+    "key": "89-content",
+    "original": "어려울 것 없어. 자네가 가진 그 자유분방한 기질을 있는 그대로 발휘해 주면 되는 거지.",
+    "context": "EN :\nNothing too complicated. You only need to liberally express your free spirit, just as you are now.\nJP :\n難しいことはないさ。君の持っている自由奔放な気質を、\nあるがままに発揮してくれればいいだけだ。"
+  },
+  {
+    "key": "90-model",
+    "original": "마튼",
+    "translation": "马顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMarton\nJP :\nマートン"
+  },
+  {
+    "key": "90-content",
+    "original": "아, 그 타이밍이군요.",
+    "context": "EN :\nAha, now I see what he's doing.\nJP :\nあぁ、丁度そのタイミングですね。"
+  },
+  {
+    "key": "91-model",
+    "original": "마튼",
+    "translation": "马顿",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMarton\nJP :\nマートン"
+  },
+  {
+    "key": "91-content",
+    "original": "호엔하임 님은 누구를 휘어잡아야 편안해지는지 훤히 알고 계신다니까요.",
+    "context": "EN :\nHohenheim sure knows which one of the group to coax to make things go over smoothly.\nJP :\nホーエンハイムさんは、誰に手綱を付ければ\n楽できるか良く分かってらっしゃるんですよね。"
+  },
+  {
+    "key": "92-content",
+    "original": "마튼이 내게만 들리게 조용히 중얼거렸다.",
+    "context": "EN :\nMarton whispered quietly at me in a voice that only I could hear.\nJP :\nマートンが私にだけ聞こえるように、そっと囁いた。"
+  }
+]

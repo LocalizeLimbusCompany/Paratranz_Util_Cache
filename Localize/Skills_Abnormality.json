@@ -2032,7 +2032,7 @@
   {
     "key": "804509-levelList$[0].desc",
     "original": "체력이 가장 낮은 적 우선 공격\n[WhenUse] 자가 충전 2 소모\n[DefeatDuel] 자가 충전 2 소모",
-    "context": "EN :\nTargets the enemy with the least HP\n[WhenUse] Spend 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nJP :\n体力が最も低い敵を優先的に攻撃\n[WhenUse] 自家発電 を2消耗\n[DefeatDuel] 自家発電 を2消耗"
+    "context": "EN :\nTargets the enemy with the least HP\n[WhenUse] Spend 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nJP :\n体力が最も低い敵を優先して攻撃\n[WhenUse] 自家発電 を2消耗\n[DefeatDuel] 自家発電 を2消耗"
   },
   {
     "key": "804509-levelList$[0].coinlist[1].coindescs[0].desc",
@@ -2047,7 +2047,7 @@
   {
     "key": "804510-levelList$[0].desc",
     "original": "체력이 가장 낮은 적 우선 공격\n[WhenUse] 자가 충전 2 소모\n[DefeatDuel] 자가 충전 3 소모",
-    "context": "EN :\nTargets the enemy with the least HP\n[WhenUse] Spend 2 Self-charge\n[DefeatDuel] Lose 3 Self-charge\nJP :\n体力が最も低い敵を優先的に攻撃\n[WhenUse] 自家発電 を2消耗\n[DefeatDuel] 自家発電 を3消耗"
+    "context": "EN :\nTargets the enemy with the least HP\n[WhenUse] Spend 2 Self-charge\n[DefeatDuel] Lose 3 Self-charge\nJP :\n体力が最も低い敵を優先して攻撃\n[WhenUse] 自家発電 を2消耗\n[DefeatDuel] 自家発電 を3消耗"
   },
   {
     "key": "804510-levelList$[0].coinlist[2].coindescs[0].desc",

@@ -187,7 +187,7 @@
   {
     "key": "9755-desc",
     "original": "[편성 6번 인격 전용 효과]\n\n전투 시작 시, 자신을 타겟팅한 적의 공격 스킬당 가하는 피해량 +10% (최대 20%)\n\n전투 시작 시 2개 이상의 공격 스킬의 타겟이 되었으면, 자신을 타겟팅한 적에게 타겟팅한 스킬 수만큼 체력 고정 피해와 정신력 피해를 줌. (최대 3. 아군에게는 피해를 주지 않음)",
-    "context": "EN :\n[Effects apply only to #6 Deployed Identity]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 20%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit) fixed HP & SP damage against all enemies targeting this unit. (max 3; this effect does not hurt allies)\nJP :\n[編成6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大20%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲットにした敵に対してターゲティングしたスキル数だけ固定ダメージと精神力ダメージを与える。(最大3. 味方にはダメージを与えない)"
+    "context": "EN :\n[Effects apply only to #6 Deployed Identity]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 20%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit) fixed HP & SP damage against all enemies targeting this unit. (max 3; this effect does not hurt allies)\nJP :\n[編成6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大20%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲティングした敵に対してターゲティングしたスキル数だけ固定ダメージと精神力ダメージを与える。(最大3. 味方にはダメージを与えない)"
   },
   {
     "key": "9755-simpleDesc$[0].simpleDesc",
@@ -202,7 +202,7 @@
   {
     "key": "19755-desc",
     "original": "[편성 6번 인격 전용 효과]\n\n전투 시작 시, 자신을 타겟팅한 적의 공격 스킬당 가하는 피해량 +10% (최대 20%)\n\n전투 시작 시 2개 이상의 공격 스킬의 타겟이 되었으면, 자신을 타겟팅한 적에게 (2 x 타겟팅한 스킬 수)만큼 체력 고정 피해와 정신력 피해를 줌. (최대 5. 아군에게는 피해를 주지 않음)",
-    "context": "EN :\n[Effects apply only to #6 Deployed Identity]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 20%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit. (max 5; this effect does not hurt allies)\nJP :\n[編成6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大20%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲットにした敵に対して(2 × ターゲティングしたスキル数)だけ固定ダメージと精神力ダメージを与える。(最大5. 味方にはダメージを与えない)"
+    "context": "EN :\n[Effects apply only to #6 Deployed Identity]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 20%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit. (max 5; this effect does not hurt allies)\nJP :\n[編成6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大20%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲティングした敵に対して(2 × ターゲティングしたスキル数)だけ固定ダメージと精神力ダメージを与える。(最大5. 味方にはダメージを与えない)"
   },
   {
     "key": "19755-simpleDesc$[0].simpleDesc",
@@ -217,7 +217,7 @@
   {
     "key": "29755-desc",
     "original": "[편성 1번, 6번 인격 전용 효과]\n\n전투 시작 시, 자신을 타겟팅한 적의 공격 스킬당 가하는 피해량 +10% (최대 30%)\n\n전투 시작 시 2개 이상의 공격 스킬의 타겟이 되었으면, 자신을 타겟팅한 적에게 (2 x 타겟팅한 스킬 수)만큼 체력 고정 피해와 정신력 피해를 줌. (최대 10. 아군에게는 피해를 주지 않음)",
-    "context": "EN :\n[Effects apply only to #1 and #6 Deployed Identities]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 30%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit. (max 10; this effect does not hurt allies)\nJP :\n[編成1, 6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大30%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲットにした敵に対して(2 × ターゲティングしたスキル数)だけ固定ダメージと精神力ダメージを与える。(最大10. 味方にはダメージを与えない)"
+    "context": "EN :\n[Effects apply only to #1 and #6 Deployed Identities]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 30%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit. (max 10; this effect does not hurt allies)\nJP :\n[編成1, 6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大30%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲティングした敵に対して(2 × ターゲティングしたスキル数)だけ固定ダメージと精神力ダメージを与える。(最大10. 味方にはダメージを与えない)"
   },
   {
     "key": "29755-simpleDesc$[0].simpleDesc",
@@ -537,7 +537,7 @@
   {
     "key": "9769-desc",
     "original": "턴 종료시 이번 턴에 퇴각한 아군이 있으면, 다음 턴 시작시 속도가 가장 빠른 아군 1명이 [Enhancement] 2, [AttackDmgUp] 1 얻음\n\n전투 시작시 이번 턴에 대기해제된 아군이 있으면, 대기해제된 아군이 [Enhancement] 2, [Endurance] 2 얻음",
-    "context": "EN :\nTurn End: if any allies Retreated this turn, 1 ally with the fastest Speed gains 2 [Enhancement] and 1 [AttackDmgUp] at the next Turn Start\n\nCombat Start: if any allies were Substituted in this turn, allies that were Substituted in gain 2 [Enhancement] and 2 [Endurance]\nJP :\nターン終了時、このターンに退却した味方がいるなら、次のターン開始時に速度が最も高い味方1名が[Enhancement]2, [AttackDmgUp]1を得る\n\n戦闘開始時、このターンに待機解除した味方がいるなら、待機解除された味方が[Enhancement]2, [Endurance]2を得る\n\n"
+    "context": "EN :\nTurn End: if any allies Retreated this turn, 1 ally with the fastest Speed gains 2 [Enhancement] and 1 [AttackDmgUp] at the next Turn Start\n\nCombat Start: if any allies were Substituted in this turn, allies that were Substituted in gain 2 [Enhancement] and 2 [Endurance]\nJP :\nターン終了時、このターンに退却した味方がいるなら、次のターン開始時に速度が最も高い味方1名が[Enhancement]2, [AttackDmgUp]1を得る\n\n戦闘開始時、このターンに待機解除した味方がいるなら、待機解除された味方が[Enhancement]2, [Endurance]2を得る"
   },
   {
     "key": "9769-simpleDesc$[0].simpleDesc",
@@ -597,191 +597,311 @@
   {
     "key": "9772-name",
     "original": "점화 장갑",
-    "context": "EN :\n점화 장갑\nJP :\n점화 장갑"
+    "context": "EN :\nCombustion Gloves\nJP :\n点火グローブ"
   },
   {
     "key": "9772-desc",
-    "original": "[Combustion] 위력 또는 특수 화상을 부여하는 기본 공격 스킬로 적과 합 승리 시, [Combustion] 위력 2 부여 (인격 별로 턴당 2회).\n\n[Combustion] 횟수를 부여하는 기본 공격 스킬로 적과 합 승리 시, [Combustion] 횟수 1 증가. (인격 별로 턴당 2회)\n\n[Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3). 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가.",
-    "context": "EN :\n[Combustion] 위력 또는 특수 화상을 부여하는 기본 공격 스킬로 적과 합 승리 시, [Combustion] 위력 2 부여 (인격 별로 턴당 2회).\n\n[Combustion] 횟수를 부여하는 기본 공격 스킬로 적과 합 승리 시, [Combustion] 횟수 1 증가. (인격 별로 턴당 2회)\n\n[Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3). 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가.\nJP :\n[Combustion] 위력 또는 특수 화상을 부여하는 기본 공격 스킬로 적과 합 승리 시, [Combustion] 위력 2 부여 (인격 별로 턴당 2회).\n\n[Combustion] 횟수를 부여하는 기본 공격 스킬로 적과 합 승리 시, [Combustion] 횟수 1 증가. (인격 별로 턴당 2회)\n\n[Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3). 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가."
+    "original": "[Combustion] 위력 또는 특수 화상을 부여하는 기본 공격 스킬로 적과 합 승리 시, [Combustion] 위력 2 부여 (인격 별로 턴 당 2회).\n\n[Combustion] 횟수를 부여하는 기본 공격 스킬로 적과 합 승리 시, 대상의 [Combustion] 횟수 2 증가. (적 별로 턴 당 3회)\n\n[Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3).\n- 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가.",
+    "context": "EN :\nOn Clash Win with a Base Attack Skill that inflicts [Combustion] Potency or 'Unique Burn', inflict 2 [Combustion] Potency (2 times per turn per Identity)\n\nOn Clash Win with a Base Attack Skill that inflicts [Combustion] Count, inflict +2 [Combustion] Count (3 times per turn per enemy)\n\nBase Attack Skills that inflict [Combustion] Potency, Count, or 'Unique Burn': each Skill gains Offense Level equal to the number of copies of each Skill(max 3).\n- If a Skill has 3+ copies, gain 2 additional Offense Level.\nJP :\n[Combustion]威力または特殊火傷を付与する基本攻撃スキルで敵とマッチ勝利時、[Combustion]威力を2付与(人格ごとに2ターンにつき2回)\n\n[Combustion]回数を付与する基本攻撃スキルで敵とマッチ勝利時、対象の[Combustion]回数が1増加。(敵ごとに1ターンにつき3回)\n\n[Combustion]威力、[Combustion]回数または特殊火傷を付与する基本攻撃スキルが、各スキルの保有量だけ攻撃レベルが増加(最大3)。\n- 該当スキルの保有量が3つ以上なら、攻撃レベルが2だけ追加で増加"
   },
   {
     "key": "9772-simpleDesc$[0].simpleDesc",
     "original": "[Conbustion] 부여",
-    "context": "EN :\n[Conbustion] 부여\nJP :\n[Conbustion] 부여"
+    "context": "EN :\nInflict [Combustion]\nJP :\n[Conbustion]を付与"
   },
   {
     "key": "9772-simpleDesc$[1].simpleDesc",
     "original": "[Conbustion] 횟수 증가",
-    "context": "EN :\n[Conbustion] 횟수 증가\nJP :\n[Conbustion] 횟수 증가"
+    "context": "EN :\nInflict [Combustion] Count\nJP :\n[Conbustion]回数が増加"
   },
   {
     "key": "9772-simpleDesc$[2].simpleDesc",
     "original": "공격 레벨 증가",
-    "context": "EN :\n공격 레벨 증가\nJP :\n공격 레벨 증가"
+    "context": "EN :\nGain Offense Level\nJP :\n攻撃レベル増加"
   },
   {
     "key": "9773-name",
     "original": "가시 전투화",
-    "context": "EN :\n가시 전투화\nJP :\n가시 전투화"
+    "context": "EN :\nSpiked Combat Boots\nJP :\n棘の戦闘靴"
   },
   {
     "key": "9773-desc",
-    "original": "[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬을 사용하여 적에게 적중 시, [Burst] 위력 2 부여 (적 별로 턴당 1회).\n\n 적중 시 대상 적에게 [Burst]이 없으면, [Burst] 위력을 부여하는 코인 효과가 [Burst] 위력을 부여하는 대신 [Burst] 횟수를 부여 (최대 4, 적 별로 턴당 2회, 환상체일 경우 부위 별로 계산)\n\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3). 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가.",
-    "context": "EN :\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬을 사용하여 적에게 적중 시, [Burst] 위력 2 부여 (적 별로 턴당 1회).\n\n 적중 시 대상 적에게 [Burst]이 없으면, [Burst] 위력을 부여하는 코인 효과가 [Burst] 위력을 부여하는 대신 [Burst] 횟수를 부여 (최대 4, 적 별로 턴당 2회, 환상체일 경우 부위 별로 계산)\n\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3). 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가.\nJP :\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬을 사용하여 적에게 적중 시, [Burst] 위력 2 부여 (적 별로 턴당 1회).\n\n 적중 시 대상 적에게 [Burst]이 없으면, [Burst] 위력을 부여하는 코인 효과가 [Burst] 위력을 부여하는 대신 [Burst] 횟수를 부여 (최대 4, 적 별로 턴당 2회, 환상체일 경우 부위 별로 계산)\n\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3). 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가."
+    "original": "[Burst] 횟수를 부여하는 기본 공격 스킬로 적과 합 승리 시, 대상의 [Burst] 횟수 3 증가. (적 별로 턴 당 2회)\n\n적중 시 대상 적에게 [Burst]이 없으면, [Burst] 위력을 부여하는 코인 효과가 [Burst] 위력을 부여하는 대신 [Burst] 횟수를 부여 (최대 4, 적 별로 턴 당 2회, 환상체일 경우 부위 별로 계산)\n\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3).\n- 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가.",
+    "context": "EN :\nOn Clash Win with a Base Attack Skill that inflicts [Burst] Potency or Count against an enemy, inflict +3 [Burst] Count (2 times per turn per enemy)\n\nOn Hit: if the enemy does not have [Burst], Coin effects that inflict [Burst] Potency inflict [Burst] Count instead (max 4; 2 times per turn per enemy; for Abnormalities, for each Part)\n\nBase Attack Skills that inflict [Burst] Potency or Count: each Skill gains Offense Level equal to the number of copies of each Skill(max 3).\n- If a Skill has 3+ copies, gain 2 additional Offense Level.\nJP :\n[Burst]回数を付与する基本攻撃スキルで敵とマッチ勝利時、対象の[Burst]回数が3増加(敵ごとに1ターンにつき2回)\n\n的中時、対象の敵へ[Burst]が無ければ[Burst]威力を付与するコイン効果が、[Burst]威力を付与する代わりに[Burst]回数を付与(最大4, 敵ごとに1ターンにつき2回、幻想体の場合は部位別に計算)\n\n[Burst]威力または[Burst]回数を付与する基本攻撃スキルが、各スキルの保有量だけ攻撃レベルが増加(最大3)。\n- 該当スキルの保有量が3つ以上なら、攻撃レベルが2だけ追加で増加"
   },
   {
     "key": "9773-simpleDesc$[0].simpleDesc",
-    "original": "[Burst] 부여",
-    "context": "EN :\n[Burst] 부여\nJP :\n[Burst] 부여"
+    "original": "[Burst] 횟수 증가",
+    "context": "EN :\nInflict [Burst] Count\nJP :\n[Burst]回数が増加"
   },
   {
     "key": "9773-simpleDesc$[1].simpleDesc",
     "original": "[Burst] 횟수 증가",
-    "context": "EN :\n[Burst] 횟수 증가\nJP :\n[Burst] 횟수 증가"
+    "context": "EN :\nInflict [Burst] Count\nJP :\n[Burst]回数が増加"
   },
   {
     "key": "9773-simpleDesc$[2].simpleDesc",
     "original": "공격 레벨 증가",
-    "context": "EN :\n공격 레벨 증가\nJP :\n공격 레벨 증가"
+    "context": "EN :\nGain Offense Level\nJP :\n攻撃レベル増加"
   },
   {
     "key": "9774-name",
     "original": "재점화 플러그",
-    "context": "EN :\n재점화 플러그\nJP :\n재점화 플러그"
+    "context": "EN :\nRe-ignition Plug\nJP :\n再点火プラグ"
   },
   {
     "key": "9774-desc",
-    "original": "[Combustion] 횟수를 부여하는 기본 공격 스킬의 피해량 +20%, [Combustion] 횟수 부여량 +1. 해당 스킬을 사용하여 [Combustion] 또는 특수 화상을 보유한 적에게 적중 시, [DefenseDown] 1 부여 (인격 별로 턴당 2회)\n\n모든 기본 공격 스킬이 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 인격이 턴 시작 시, 생존한 턴만큼 [AttackUp]를 얻음 (등장 턴 제외, 최대 5)",
-    "context": "EN :\n[Combustion] 횟수를 부여하는 기본 공격 스킬의 피해량 +20%, [Combustion] 횟수 부여량 +1. 해당 스킬을 사용하여 [Combustion] 또는 특수 화상을 보유한 적에게 적중 시, [DefenseDown] 1 부여 (인격 별로 턴당 2회)\n\n모든 기본 공격 스킬이 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 인격이 턴 시작 시, 생존한 턴만큼 [AttackUp]를 얻음 (등장 턴 제외, 최대 5)\nJP :\n[Combustion] 횟수를 부여하는 기본 공격 스킬의 피해량 +20%, [Combustion] 횟수 부여량 +1. 해당 스킬을 사용하여 [Combustion] 또는 특수 화상을 보유한 적에게 적중 시, [DefenseDown] 1 부여 (인격 별로 턴당 2회)\n\n모든 기본 공격 스킬이 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 인격이 턴 시작 시, 생존한 턴만큼 [AttackUp]를 얻음 (등장 턴 제외, 최대 5)"
+    "original": "[Combustion] 횟수를 부여하는 기본 공격 스킬의 피해량 +20%, [Combustion] 횟수 부여량 +1. 해당 스킬을 사용하여 [Combustion] 또는 특수 화상을 보유한 적에게 적중 시, [DefenseDown] 1 부여 (인격 별로 턴 당 2회)\n\n모든 기본 공격 스킬이 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 인격이 턴 시작 시, 생존한 턴만큼 [AttackUp]를 얻음 (등장 턴 제외, 최대 5)",
+    "context": "EN :\nBase Attack Skills that inflict [Combustion] Count: deal +20% more damage and inflict +1 more [Combustion] Count. On Hit with these Skills against enemies with [Combustion] or 'Unique Burn': inflict 1 [DefenseDown] (2 times per turn per Identity)\n\nIdentities whose all Base Attack Skills inflict [Combustion] Potency, Count, or 'Unique Burn': at Turn Start, gain [AttackUp] equal to the number of surviving turns (except for the turn they join the Encounter; max 5)\nJP :\n[Combustion]回数を付与する基本攻撃スキルのダメージ量 +20%, [Combustion]回数付与量 +1. 該当スキルを使用して[Combustion]または特殊火傷を保有する敵に的中時、[DefenseDown]1を付与(人格ごとに1ターンにつき2回)\n\n全基本攻撃スキルが[Combustion]威力、[Combustion]回数または特殊火傷を付与する人格がターン開始時、生存したターンだけ[AttackUp]を得る(出場ターンを除く、最大5)"
   },
   {
     "key": "9774-simpleDesc$[0].simpleDesc",
     "original": "[DefenseDown] 부여",
-    "context": "EN :\n[DefenseDown] 부여\nJP :\n[DefenseDown] 부여"
+    "context": "EN :\nInflict [DefenseDown]\nJP :\n[DefenseDown]を付与"
   },
   {
     "key": "9774-simpleDesc$[1].simpleDesc",
     "original": "[AttackUp] 얻음",
-    "context": "EN :\n[AttackUp] 얻음\nJP :\n[AttackUp] 얻음"
+    "context": "EN :\nGain [AttackUp]\nJP :\n[AttackUp]を得る"
   },
   {
     "key": "9775-name",
     "original": "강화제 Mk.4",
-    "context": "EN :\n강화제 Mk.4\nJP :\n강화제 Mk.4"
+    "context": "EN :\nEnhancer Mk.4\nJP :\n強化剤 Mk.4"
   },
   {
     "key": "9775-desc",
-    "original": "[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬을 사용하여 [Burst] 위력을 15 이하로 보유한 적에게 마지막 코인 적중 시, 대상의 [Burst] 횟수 2 증가 (인격 별로 턴당 1회).\n\n[Burst] 횟수를 부여하는 기본 공격 스킬의 합 위력 +1, 피해량 +20%.",
-    "context": "EN :\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬을 사용하여 [Burst] 위력을 15 이하로 보유한 적에게 마지막 코인 적중 시, 대상의 [Burst] 횟수 2 증가 (인격 별로 턴당 1회).\n\n[Burst] 횟수를 부여하는 기본 공격 스킬의 합 위력 +1, 피해량 +20%.\nJP :\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬을 사용하여 [Burst] 위력을 15 이하로 보유한 적에게 마지막 코인 적중 시, 대상의 [Burst] 횟수 2 증가 (인격 별로 턴당 1회).\n\n[Burst] 횟수를 부여하는 기본 공격 스킬의 합 위력 +1, 피해량 +20%."
+    "original": "[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬을 사용하여 [Burst] 위력을 15 이하로 보유한 적에게 마지막 코인 적중 시, 대상의 [Burst] 횟수 3 증가 (인격 별로 턴 당 1회).\n\n[Burst] 횟수를 부여하는 기본 공격 스킬의 합 위력 +1, 피해량 +20%.",
+    "context": "EN :\nOn Hit with the final Coin against enemies with 15- [Burst] Potency when using a Base Attack Skill that inflicts [Burst] Potency or Count: inflict +3 [Burst] Count (once per turn per Identity)\n\nBase Attack Skills that inflict [Burst] Count: Clash Power +1, deal +20% more damage\nJP :\n[Burst]威力または[Burst]回数を付与する基本スキルを使用して[Burst]威力が15以下の敵に最終コイン的中時、対象の[Burst]回数が3増加(人格ごとに1ターンにつき1回)\n\n[Burst]回数を付与する基本攻撃スキルのマッチ威力 +1, ダメージ量+20%"
   },
   {
     "key": "9775-simpleDesc$[0].simpleDesc",
     "original": "[Burst] 횟수 증가",
-    "context": "EN :\n[Burst] 횟수 증가\nJP :\n[Burst] 횟수 증가"
+    "context": "EN :\nInflict [Burst] Count\nJP :\n[Burst]回数が増加"
   },
   {
     "key": "9775-simpleDesc$[1].simpleDesc",
     "original": "합 위력, 피해량 증가",
-    "context": "EN :\n합 위력, 피해량 증가\nJP :\n합 위력, 피해량 증가"
+    "context": "EN :\nGain Clash Power and deal more damage\nJP :\nマッチ威力, ダメージ量増加"
   },
   {
     "key": "9776-name",
     "original": "잔불",
-    "context": "EN :\n잔불\nJP :\n잔불"
+    "context": "EN :\nEmbers\nJP :\n残り火"
   },
   {
     "key": "9776-desc",
-    "original": "턴 시작 시, [Combustion] 횟수가 2 이상, 8 미만인 모든 적(환상체일 경우, 모든 부위)의 [Combustion] 횟수 1~2 증가.\n\n[Combustion]을 보유한 적이 아군으로부터 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 공격 스킬(E.G.O 스킬 포함)로 5회 적중받을 경우, [Combustion]이 1회 발동하고 [Combustion] 횟수 1 감소 (적 별로 턴당 2회, 환상체일 경우 부위 별로 계산)",
-    "context": "EN :\n턴 시작 시, [Combustion] 횟수가 2 이상, 8 미만인 모든 적(환상체일 경우, 모든 부위)의 [Combustion] 횟수 1~2 증가.\n\n[Combustion]을 보유한 적이 아군으로부터 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 공격 스킬(E.G.O 스킬 포함)로 5회 적중받을 경우, [Combustion]이 1회 발동하고 [Combustion] 횟수 1 감소 (적 별로 턴당 2회, 환상체일 경우 부위 별로 계산)\nJP :\n턴 시작 시, [Combustion] 횟수가 2 이상, 8 미만인 모든 적(환상체일 경우, 모든 부위)의 [Combustion] 횟수 1~2 증가.\n\n[Combustion]을 보유한 적이 아군으로부터 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 공격 스킬(E.G.O 스킬 포함)로 5회 적중받을 경우, [Combustion]이 1회 발동하고 [Combustion] 횟수 1 감소 (적 별로 턴당 2회, 환상체일 경우 부위 별로 계산)"
+    "original": "턴 시작 시, [Combustion] 횟수가 2 이상, 8 미만인 모든 적(환상체일 경우, 모든 부위)의 [Combustion] 횟수 1~2 증가.\n\n[Combustion]을 보유한 적이 아군으로부터 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 공격 스킬(E.G.O 스킬 포함)로 5회 적중받을 경우, [Combustion]이 1회 발동하고 [Combustion] 횟수 1 감소 (적 별로 턴 당 2회, 환상체일 경우 부위 별로 계산)",
+    "context": "EN :\nTurn Start: all enemies(for Abnormalities, all Parts) with 2~7 [Combustion] Count gain 1~2 [Combustion] Count.\n\nWhen enemies take 5 hits from ally Attack Skills(including E.G.O Skills) that inflict [Combustion] Potency, Count, or 'Unique Burn': trigger [Combustion] once, then reduce [Combustion] Count by 1 (2 times per turn per enemy; for Abnormalities, for each Part)\nJP :\nターン開始時、[Combustion]回数が2以上8未満の全ての敵(幻想体の場合は全部位)の[Combustion]回数が1～2増加。\n\n[Combustion]を保有する敵が味方から[Combustion]威力、[Combustion]回数または特殊火傷を付与する攻撃スキル(E.G.Oスキルを含む)で5回的中された場合、[Combustion]が1回発動して[Combustion]回数が1減少(敵ごとに1ターンにつき2回、幻想体の場合は部位別に計算)"
   },
   {
     "key": "9776-simpleDesc$[0].simpleDesc",
     "original": "[Combustion] 횟수 증가",
-    "context": "EN :\n[Combustion] 횟수 증가\nJP :\n[Combustion] 횟수 증가"
+    "context": "EN :\nInflict [Combustion] Count\nJP :\n[Conbustion]回数が増加"
   },
   {
     "key": "9776-simpleDesc$[1].simpleDesc",
     "original": "[Combustion] 발동",
-    "context": "EN :\n[Combustion] 발동\nJP :\n[Combustion] 발동"
+    "context": "EN :\nActivate [Combustion]\nJP :\n[Combustion]が発動"
   },
   {
     "key": "9777-name",
     "original": "잔가지",
-    "context": "EN :\n잔가지\nJP :\n잔가지"
+    "context": "EN :\nTwigs\nJP :\n小枝"
   },
   {
     "key": "9777-desc",
-    "original": "[Burst]을 보유한 적이 아군으로부터 [Burst] 위력 또는 [Burst] 횟수를 부여하는 공격 스킬(E.G.O 스킬 포함)로 적중받아 [Burst]이 3회 발동할 때마다 [AttackDown] 1 얻음 (적 별로 턴당 3회, 환상체일 경우 부위별로 계산)\n\n[Burst] 횟수를 부여하는 기본 공격 스킬로 적 처치 시, 사망한 대상이 보유한 남은 [Burst] 횟수를 다음 턴에 무작위 적에게 부여 (턴당 2회).",
-    "context": "EN :\n[Burst]을 보유한 적이 아군으로부터 [Burst] 위력 또는 [Burst] 횟수를 부여하는 공격 스킬(E.G.O 스킬 포함)로 적중받아 [Burst]이 3회 발동할 때마다 [AttackDown] 1 얻음 (적 별로 턴당 3회, 환상체일 경우 부위별로 계산)\n\n[Burst] 횟수를 부여하는 기본 공격 스킬로 적 처치 시, 사망한 대상이 보유한 남은 [Burst] 횟수를 다음 턴에 무작위 적에게 부여 (턴당 2회).\nJP :\n[Burst]을 보유한 적이 아군으로부터 [Burst] 위력 또는 [Burst] 횟수를 부여하는 공격 스킬(E.G.O 스킬 포함)로 적중받아 [Burst]이 3회 발동할 때마다 [AttackDown] 1 얻음 (적 별로 턴당 3회, 환상체일 경우 부위별로 계산)\n\n[Burst] 횟수를 부여하는 기본 공격 스킬로 적 처치 시, 사망한 대상이 보유한 남은 [Burst] 횟수를 다음 턴에 무작위 적에게 부여 (턴당 2회)."
+    "original": "[Burst]을 보유한 적이 아군으로부터 [Burst] 위력 또는 [Burst] 횟수를 부여하는 공격 스킬(E.G.O 스킬 포함)로 적중받아 [Burst]이 3회 발동할 때마다 다음 턴에 [AttackDown] 2 얻음 (적 별로 턴 당 3회, 환상체일 경우 부위별로 계산)\n\n[Burst] 횟수를 부여하는 기본 공격 스킬로 적 처치 시, 사망한 대상이 보유한 남은 [Burst] 횟수를 다음 턴에 무작위 적에게 부여 (턴 당 2회).",
+    "context": "EN :\nEvery time [Burst] activates 3 times on enemies with [Burst] due to getting hit by allies' Attack Skills(including E.G.O Skills) that inflict [Burst] Potency or Count, inflict 2 [AttackDown] on the said enemy next turn (3 times per turn per enemy; for Abnormalities, for each Part)\n\nOn Kill with a Base Attack Skill that inflicts [Burst] Count: inflict the remaining [Burst] Count on the defeated enemy on a random enemy next turn (2 times per turn)\nJP :\n[Burst]を保有する敵が味方から[Burst]威力または[Burst]回数を付与する攻撃スキル(E.G.Oスキルを除く)で的中されて[Burst]が3回発動するたび、次のターンにて[AttackDown]2を得る(敵ごとに1ターンにつき3回、幻想体の場合は部位別に計算)\n\n[Burst]回数を付与する基本攻撃スキルで敵討伐時、死亡した対象の保有する残った[Burst]回数を次のターンに敵へランダムに付与(1ターンにつき2回)"
   },
   {
     "key": "9777-simpleDesc$[0].simpleDesc",
     "original": "[AttackDown] 부여",
-    "context": "EN :\n[AttackDown] 부여\nJP :\n[AttackDown] 부여"
+    "context": "EN :\nInflict [AttackDown]\nJP :\n[AttackDown]を付与"
   },
   {
     "key": "9777-simpleDesc$[1].simpleDesc",
     "original": "[Burst] 횟수 증가",
-    "context": "EN :\n[Burst] 횟수 증가\nJP :\n[Burst] 횟수 증가"
+    "context": "EN :\nInflict [Burst] Count\nJP :\n[Burst]回数が増加"
   },
   {
     "key": "9778-name",
     "original": "통상 작전용 장비",
-    "context": "EN :\n통상 작전용 장비\nJP :\n통상 작전용 장비"
+    "context": "EN :\nRegular Operational Gear\nJP :\n通常作戦用装備"
   },
   {
     "key": "9778-desc",
-    "original": "LCE 또는 LCCB 소속 인격이 사용하는 스킬 2의 공격 레벨 +1, 피해량 +15%, 스킬 3의 공격 레벨 +2, 피해량 +30%\n\n대기 인원에 LCE 또는 LCCB 소속 인격이 4명 이상이면, 턴 시작 시 무작위 아군 둘이 [AttackUp] 2를 얻음",
-    "context": "EN :\nLCE 또는 LCCB 소속 인격이 사용하는 스킬 2의 공격 레벨 +1, 피해량 +15%, 스킬 3의 공격 레벨 +2, 피해량 +30%\n\n대기 인원에 LCE 또는 LCCB 소속 인격이 4명 이상이면, 턴 시작 시 무작위 아군 둘이 [AttackUp] 2를 얻음\nJP :\nLCE 또는 LCCB 소속 인격이 사용하는 스킬 2의 공격 레벨 +1, 피해량 +15%, 스킬 3의 공격 레벨 +2, 피해량 +30%\n\n대기 인원에 LCE 또는 LCCB 소속 인격이 4명 이상이면, 턴 시작 시 무작위 아군 둘이 [AttackUp] 2를 얻음"
+    "original": "림버스 컴퍼니 소속 인격이 사용하는 스킬 2의 공격 레벨 +1, 피해량 +15%, 스킬 3의 공격 레벨 +2, 피해량 +30%\n\n대기 인원에 림버스 컴퍼니 소속 인격이 4명 이상이면, 턴 시작 시 무작위 아군 둘이 [AttackUp] 2를 얻음",
+    "context": "EN :\nLimbus Company Identities: Skill 2 gains Offense Level +1 and deals +15% more damage; Skill 3 gains Offense Level +2 and deals +30% more damage\n\nIf there are 4+ Limbus Company Identities among the Backup Units, 2 random allies gain 2 [AttackUp] at Turn Start\nJP :\nリンバス・カンパニー所属人格が使用するスキル2の攻撃レベル +1, ダメージ量 +15%, スキル3の攻撃レベル +2, ダメージ量 +30%\n\n待機人員にリンバス・カンパニー所属人格が4名以上いるなら、ターン開始時にランダムな味方2名が[AttackUp]2を得る"
   },
   {
     "key": "9778-simpleDesc$[0].simpleDesc",
     "original": "공격 레벨, 피해량 증가",
-    "context": "EN :\n공격 레벨, 피해량 증가\nJP :\n공격 레벨, 피해량 증가"
+    "context": "EN :\nGain Offense Level and deal more damage\nJP :\n攻撃レベル, ダメージ量増加"
   },
   {
     "key": "9778-simpleDesc$[1].simpleDesc",
     "original": "공격 레벨 증가 얻음",
-    "context": "EN :\n공격 레벨 증가 얻음\nJP :\n공격 레벨 증가 얻음"
+    "context": "EN :\nGain Offense Level Up\nJP :\n攻撃レベル増加 を得る"
   },
   {
     "key": "9779-name",
     "original": "작전 승인 카드",
-    "context": "EN :\n작전 승인 카드\nJP :\n작전 승인 카드"
+    "context": "EN :\nOperation Authorization Card\nJP :\n作戦承認カード"
   },
   {
     "key": "9779-desc",
-    "original": "전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 3을 무작위로 나누어 얻음. (턴당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면 효과가 강화되어, [AttackUp] 6을 무작위로 나누어 얻음. (턴당 2회)",
-    "context": "EN :\n전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 3을 무작위로 나누어 얻음. (턴당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면 효과가 강화되어, [AttackUp] 6을 무작위로 나누어 얻음. (턴당 2회)\nJP :\n전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 3을 무작위로 나누어 얻음. (턴당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면 효과가 강화되어, [AttackUp] 6을 무작위로 나누어 얻음. (턴당 2회)"
+    "original": "전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 3을 무작위로 나누어 얻음. (턴 당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면 효과가 강화되어, [AttackUp] 6을 무작위로 나누어 얻음. (턴 당 2회)\n\n턴 시작 시, 정신력이 가장 낮은 아군 셋이 각각 정신력을 15, 10, 5만큼 회복 (중첩되지 않음, 정신력이 낮은 순으로 적용, 패닉 또는 침식 상태일 때는 적용되지 않음)",
+    "context": "EN :\nDuring the Encounter, when an ally retreats or is defeated, randomly apply 3 [AttackUp] between all Identities at next Turn Start. (2 times per turn)\n- When 3+ allies retreat or are defeated, randomly apply 6 [AttackUp] between all Identities at next Turn Start instead. (2 times per turn)\n\nTurn Start: 3 allies with the lowest SP heals 15, 10, and 5 SP each (does not stack; the numbers apply in the ascending order; does not activate if the affected units are Panicked or Corroded)\nJP :\n戦闘中に味方が死亡するか退却したなら、次のターン開始時に全人格が[AttackUp]3をランダムに分けて得る(1ターンにつき2回)\n- 味方が戦闘中に3名以上死亡するか退却したなら効果が強化され、[AttackUp]6をランダムに分けて付与(1ターンにつき2回)\n\nターン開始時、精神力が最も低い味方3名が各々精神力を15, 10, 5だけ回復(重複しない、精神力が低い順に適用。パニックまたは侵蝕状態なら適用されない)"
   },
   {
     "key": "9779-simpleDesc$[0].simpleDesc",
     "original": "공격 레벨 증가 얻음",
-    "context": "EN :\n공격 레벨 증가 얻음\nJP :\n공격 레벨 증가 얻음"
+    "context": "EN :\nGain Offense Level Up\nJP :\n攻撃レベル増加 を得る"
+  },
+  {
+    "key": "9779-simpleDesc$[1].simpleDesc",
+    "original": "정신력 회복",
+    "context": "EN :\nHeal SP\nJP :\n精神力を回復"
   },
   {
     "key": "9780-name",
     "original": "고위험 작전용 장비",
-    "context": "EN :\n고위험 작전용 장비\nJP :\n고위험 작전용 장비"
+    "context": "EN :\nHigh-risk Operational Gear\nJP :\n高危険作戦用装備"
   },
   {
     "key": "9780-desc",
-    "original": "LCE 또는 LCCB 소속 인격이 사용하는 스킬 2의 공격 레벨 +2, 피해량 +20%, 스킬 3의 공격 레벨 +3, 피해량 +40%.\n\n턴 시작 시 사망하였거나 대기 인원에 포함된 LCE 또는 LCCB 소속 인격의 수만큼, 무작위 아군이 [AttackUp] 2를 얻음.\n\n전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 4를 무작위로 나누어 얻음 (턴당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackUp] 7을 무작위로 나누어 얻음\n- LCE 또는 LCCB 소속 인격이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackDmgUp] 2, [AttackUp] 10을 무작위로 나누어 얻음",
-    "context": "EN :\nLCE 또는 LCCB 소속 인격이 사용하는 스킬 2의 공격 레벨 +2, 피해량 +20%, 스킬 3의 공격 레벨 +3, 피해량 +40%.\n\n턴 시작 시 사망하였거나 대기 인원에 포함된 LCE 또는 LCCB 소속 인격의 수만큼, 무작위 아군이 [AttackUp] 2를 얻음.\n\n전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 4를 무작위로 나누어 얻음 (턴당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackUp] 7을 무작위로 나누어 얻음\n- LCE 또는 LCCB 소속 인격이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackDmgUp] 2, [AttackUp] 10을 무작위로 나누어 얻음\nJP :\nLCE 또는 LCCB 소속 인격이 사용하는 스킬 2의 공격 레벨 +2, 피해량 +20%, 스킬 3의 공격 레벨 +3, 피해량 +40%.\n\n턴 시작 시 사망하였거나 대기 인원에 포함된 LCE 또는 LCCB 소속 인격의 수만큼, 무작위 아군이 [AttackUp] 2를 얻음.\n\n전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 4를 무작위로 나누어 얻음 (턴당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackUp] 7을 무작위로 나누어 얻음\n- LCE 또는 LCCB 소속 인격이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackDmgUp] 2, [AttackUp] 10을 무작위로 나누어 얻음"
+    "original": "림버스 컴퍼니 소속 인격이 사용하는 스킬 2의 공격 레벨 +2, 피해량 +20%, 스킬 3의 공격 레벨 +3, 피해량 +40%.\n\n턴 시작 시 사망하였거나 대기 인원에 포함된 림버스 컴퍼니 소속 인격의 수만큼, 무작위 아군이 [AttackUp] 2를 얻음.\n\n전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 3을 무작위로 나누어 얻음 (균등하게 부여, 턴 당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackUp] 6을 무작위로 나누어 얻음\n- 림버스 컴퍼니 소속 인격이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackUp] 8을 무작위로 나누어 얻음",
+    "context": "EN :\nLimbus Company Identities: Skill 2 gains Offense Level +2 and deals +20% more damage; Skill 3 gains Offense Level +3 and deals +40% more damage\n\nTurn Start: a random ally gains 2 [AttackUp] for every Backup or defeated Limbus Company Identities.\n\nDuring the Encounter, when an ally retreats or is defeated, randomly apply 3 [AttackUp] between all Identities at next Turn Start. (distributed equally, 2 times per turn)\n- When 3+ allies retreat or are defeated, randomly apply 6 [AttackUp] between all Identities at next Turn Start instead. (2 times per turn)\n- When 3+ Limbus Company Identities retreat or are defeated, randomly apply 8 [AttackUp] between all Identities instead.\nJP :\nリンバス・カンパニー所属人格が使用するスキル2の攻撃レベル +2, ダメージ量 +20%, スキル3の攻撃レベル +3, ダメージ量 +40%\n\nターン開始時、死亡したか待機人員に含まれるリンバス・カンパニー所属人格の数だけ、ランダムな味方が[AttackUp]2を得る\n\n戦闘中に味方が死亡するか退却したなら、次のターン開始時に全人格が[AttackUp]3をランダムに分けて得る(均等に付与、1ターンにつき2回)\n- 味方が戦闘の間3名以上死亡するか退却したなら効果が強化され、[AttackUp]6をランダムに分けて得る\n- リンバス・カンパニー所属人格が戦闘の間3名以上死亡するか退却したなら効果が強化され、[AttackUp]8をランダムに分けて得る"
   },
   {
     "key": "9780-simpleDesc$[0].simpleDesc",
     "original": "공격 레벨, 피해량 증가",
-    "context": "EN :\n공격 레벨, 피해량 증가\nJP :\n공격 레벨, 피해량 증가"
+    "context": "EN :\nGain Offense Level and deal more damage\nJP :\n攻撃レベル, ダメージ量増加"
   },
   {
     "key": "9780-simpleDesc$[1].simpleDesc",
     "original": "공격 레벨 증가를 무작위로 나누어 얻음",
-    "context": "EN :\n공격 레벨 증가를 무작위로 나누어 얻음\nJP :\n공격 레벨 증가를 무작위로 나누어 얻음"
+    "context": "EN :\nRandomly apply Offense Level Up between allies\nJP :\n攻撃レベル増加をランダムに分けて得る"
   },
   {
     "key": "9780-simpleDesc$[2].simpleDesc",
     "original": "공격 레벨 증가를 무작위로 나누어 얻음",
-    "context": "EN :\n공격 레벨 증가를 무작위로 나누어 얻음\nJP :\n공격 레벨 증가를 무작위로 나누어 얻음"
+    "context": "EN :\nRandomly apply Offense Level Up between allies\nJP :\n攻撃レベル増加をランダムに分けて得る"
+  },
+  {
+    "key": "9781-name",
+    "original": "원목 술잔",
+    "context": "EN :\nHardwood Liquor Cup\nJP :\n木盃"
+  },
+  {
+    "key": "9781-desc",
+    "original": "합 패배 시, [Protection] 1 얻고 정신력 3~6만큼 회복 (인격 별로 턴 당 1회).\n\n합에서 패배한 스킬의 [SuperCoin] 효과(E.G.O 스킬 제외)로 적 공격 시, 더하기 코인 스킬이면 더하기 코인 위력 +(3/코인 수), 피해량 +20% (더하기 코인 위력 증가값 최소 1), 빼기 코인이면, 피해량 +40%.",
+    "context": "EN :\nOn Clash Lose, gain 1 [Protection] and heal 3~6 SP (once per turn per Identity)\n\nWhen attacking an enemy with the [SuperCoin]'s effect of the Skill(except E.G.O Skills) that lost the Clash: \n- Plus Coin Skills receive Plus Coin Power +(3 / # of Coins) and deal +20% more damage (min. Plus Coin Power gain 1)\n- Minus Coin Skills deal +40% more damage\nJP :\nマッチ敗北時、[Protection]1を得て精神力を3～6回復(人格ごとに1ターンにつき1回)\n\nマッチにて敗北したスキルの[SuperCoin](E.G.Oスキルを除く)で敵を攻撃時、加算コインスキルなら加算コイン威力 +(3 ÷ コイン数), ダメージ量 +20%(加算コインの威力上昇値: 最小1), 減算コインならダメージ量 +40%"
+  },
+  {
+    "key": "9781-simpleDesc$[0].simpleDesc",
+    "original": "보호 얻음, 정신력 회복",
+    "context": "EN :\nGain Protection and heal SP\nJP :\n保護を得る、精神力回復"
+  },
+  {
+    "key": "9781-simpleDesc$[1].simpleDesc",
+    "original": "코인 위력, 피해량 증가",
+    "context": "EN :\nGain Coin Power and deal more damage\nJP :\nコイン威力、ダメージ量増加"
+  },
+  {
+    "key": "9782-name",
+    "original": "낡은 칼자루",
+    "context": "EN :\nWorn Hilt\nJP :\n古びた柄"
+  },
+  {
+    "key": "9782-desc",
+    "original": "아군이 턴 시작 시 [ScarletResultUp] 1 얻음.\n\n검계 또는 흑운회 소속일 경우 효과가 강화되어 [ScarletResultUp] 2, [SlashResultUp] 1 얻음.",
+    "context": "EN :\nTurn Start: all allies gain 1 [ScarletResultUp].\n\nBlade Lineage or Kurokumo Clan Identities gain 2 [ScarletResultUp] and 1 [SlashResultUp] instead.\nJP :\n味方がターン開始時[ScarletResultUp]1を得る\n\n剣契・黒雲会所属なら効果が強化されて[ScarletResultUp]2, [SlashResultUp]1を得る"
+  },
+  {
+    "key": "9782-simpleDesc$[0].simpleDesc",
+    "original": "색욕 위력 증가 얻음",
+    "context": "EN :\nGain Lust Power Up\nJP :\n色欲威力増加を得る"
+  },
+  {
+    "key": "9782-simpleDesc$[1].simpleDesc",
+    "original": "색욕 위력 증가, 참격 위력 증가 얻음",
+    "context": "EN :\nGain Lust Power Up and Slash Power Up\nJP :\n色欲威力増加、斬撃威力増加 を得る"
+  },
+  {
+    "key": "9783-name",
+    "original": "절경",
+    "context": "EN :\nResplendence\nJP :\n絶景"
+  },
+  {
+    "key": "9783-desc",
+    "original": "턴 시작 시, 흑운회 소속 인격이 3인 이상일 때 발동.\n\n아군이 턴 시작 시 [ScarletResultUp] 2, [SlashResultUp] 1 얻음.\n\n흑운회 소속 인격이 사용하는 기본 공격 스킬의 코인 위력 +(4/코인 수, 최소 1), [Laceration] 위력 부여량 +1, [Laceration] 횟수 부여량 +1, 피해량 +(80/코인 수)%.\n\n흑운회 소속 인격의 첫 흐트러짐 구간을 무효로 하고, 체력이 최대 체력의 50% 미만이면 턴 시작 시 [Protection] 2 얻음. 이번 턴에 적에게 피해를 받은 흑운회 소속 인격이 다음 턴에 [Agility] 2 얻음.",
+    "context": "EN :\nTurn Start: activates when there are 3 or more Kurokumo Clan Identities.\n\nAll allies gain 2 [ScarletResultUp] and 1 [SlashResultUp] at Turn Start.\n\nKurokumo Clan Identities' Base Attack Skills: gain Coin Power +(4 / # of Coins; min. 1), inflict an additional 1 [Laceration], +1 [Laceration] Count, and deal +(80/# of Coins)% more damage\n\nNullify Kurokumo Clan Identities' first Stagger Threshold; at less than 50% HP, gain 2 [Protection] at Turn Start. Identities that took damage from enemies this turn gain 2 [Agility] next turn.\nJP :\nターン開始時、黒雲会所属人格が3名以上のとき発動\n\n味方がターン開始時、[ScarletResultUp]2, [SlashResultUp]1を得る\n\n黒雲会所属人格が使用する基本攻撃スキルのコイン威力 +(4 ÷ コイン数、最低1), [Laceration]威力付与量 +1, [Laceration]回数付与量 +1, ダメージ量 +(80 ÷ コイン数)%\n\n黒雲会所属人格の最初の混乱区間を無効にし、体力が最大値の50%未満ならターン開始時[Protection]2を得る。このターンにて敵にダメージを受けた黒雲会所属人格が次のターンに[Agility]2を得る\n\n"
+  },
+  {
+    "key": "9783-simpleDesc$[0].simpleDesc",
+    "original": "색욕 위력 증가, 참격 위력 증가 얻음",
+    "context": "EN :\nGain Lust Power Up and Slash Power Up\nJP :\n色欲威力増加、斬撃威力増加 を得る"
+  },
+  {
+    "key": "9783-simpleDesc$[1].simpleDesc",
+    "original": "코인 위력, 출혈 부여량, 출혈 횟수 부여량, 피해량 증가",
+    "context": "EN :\nGain Coin Power, inflict more Bleed and Bleed Count, and deal more damage\nJP :\nコイン威力、出血付与量、出血回数付与量、ダメージ量増加"
+  },
+  {
+    "key": "9783-simpleDesc$[2].simpleDesc",
+    "original": "첫 흐트러짐 구간 무효, 체력이 일정 이하면 보호 얻음, 피해 받을 시 신속 얻음",
+    "context": "EN :\nNullify the first Stagger Threshold; gain Protection at under certain HP; gain Haste after taking damage\nJP :\n最初の混乱区間を無効、体力が一定未満なら保護を得る、被ダメージ時にクイックを得る"
+  },
+  {
+    "key": "9784-name",
+    "original": "탁마",
+    "context": "EN :\nCultivation\nJP :\n琢磨"
+  },
+  {
+    "key": "9784-desc",
+    "original": "턴 시작 시, 검계 소속 인격이 3인 이상일 때 발동.\n\n아군이 턴 시작 시 [SlashResultUp] 2 얻음, 가하는 피해량 +35%.\n\n검계 소속 인격이 적에게 치명타 피해를 입힐 때, 보유한 ([Breath] 위력/2)만큼 추가 오만 피해를 입힘.\n\n검계 소속 인격이 턴 종료 시 [Breath] 위력을 30 이상 보유하였다면, [Breath] 위력을 10 소모하여 다음 턴에 [SlashResultUp] 2 얻음.",
+    "context": "EN :\nTurn Start: activates when there are 3 or more Blade Lineage Identities.\n\nTurn Start: all allies gain 2 [SlashResultUp], and deal +35% more damage.\n\nTurn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to ([Breath] Potency / 2) on self.\n\nIf a Blade Lineage Identity has 30+ [Breath] Potency at Turn End, consume 10 [Breath] Potency and gain 2 [SlashResultUp] next turn\nJP :\nターン開始時、剣契所属人格が3名以上のとき発動\n\n味方がターン開始時に[SlashResultUp]2を得る、与ダメージ量 +35%\n\n剣契所属人格が敵にクリティカルダメージを与えるとき、保有する([Breath]威力 ÷ 2)だけ追加で傲慢ダメージを与える\n\n剣契所属人格がターン終了時、[Breath]威力を30以上保有しているなら[Breath]威力を10消耗し、次のターンに[SlashResultUp]2を得る"
+  },
+  {
+    "key": "9784-simpleDesc$[0].simpleDesc",
+    "original": "참격 위력 증가 얻음, 피해량 증가",
+    "context": "EN :\nGain Slash Power Up and deal more damage\nJP :\n斬撃威力増加 を得る、ダメージ量増加"
+  },
+  {
+    "key": "9784-simpleDesc$[1].simpleDesc",
+    "original": "([Breath] 위력/2)만큼 추가 오만 피해",
+    "context": "EN :\nDeal an additional ([Breath] Potency/2) Pride damage.\nJP :\n([Breath]威力 ÷ 2)だけ追加傲慢ダメージ"
+  },
+  {
+    "key": "9784-simpleDesc$[2].simpleDesc",
+    "original": "참격 피해량 증가 얻음",
+    "context": "EN :\nGain Slash DMG Up\nJP :\n斬撃ダメージ量増加を得る"
+  },
+  {
+    "key": "9785-name",
+    "original": "떼구름",
+    "context": "EN :\nSwarmcloud\nJP :\n叢雲"
+  },
+  {
+    "key": "9785-desc",
+    "original": "턴 시작 시, 흑운회 소속 인격이 3인 이상일 때 발동.\n\n기본 공격 스킬의 [SuperCoin]으로 적중 시 피해량 +(40/코인 수)% (E.G.O 스킬 제외). 흑운회 소속 인격일 경우 효과가 강화되어 피해량 +(80/코인 수)%.\n\n참격 기본 공격 스킬을 보유한 흑운회 소속 인격이 턴 시작 시 [SlashDamageUp] 2 얻음. 턴 종료 시 흑운회 소속 인격이 자신의 잃은 체력 10%당 다음 턴에 [AttackUp] 1, [DefenseUp] 1 얻음 (각각 최대 5).\n\n흑운회 소속 인격 사망 시, 다음 턴에 흑운회 소속 모든 인격이 [AttackDmgUp] 2 얻음 (턴 당 1회).",
+    "context": "EN :\nTurn Start: activates when there are 3 or more Kurokumo Clan Identities.\n\nOn Hit with Base Attack Skill(except E.G.O Skills)'s [SuperCoin]: deal +(40/# of Coins)% more damage\nKurokumo Clan Identities: deal +(80/# of Coins)% more damage instead\n\nKurokumo Clan Identities with Slash Base Attack Skills: gain 2 [SlashDamageUp] at Turn Start. Kurokumo Clan Identities gain 1 [AttackUp] and 1 [DefenseUp] next turn for every 10% missing HP on self at Turn End. (max 5 each)\n\nWhen a Kurokumo Clan Identity dies, all Kurokumo Clan Identities gain 2 [AttackDmgUp] next turn (once per turn)\nJP :\nターン開始時、黒雲会所属人格が3名以上のとき発動\n\n基本攻撃スキルの[SuperCoin]で的中時のダメージ量 +(40 ÷ コイン数)% (E.G.Oスキルを除く) 黒雲会所属人格の場合は効果が強化されてダメージ量 +(80 ÷ コイン数)%\n\n斬撃基本攻撃スキルを保有した黒雲会所属人格がターン開始時に[SlashDamageUp]2を得る。ターン終了時に黒雲会所属人格が、自分の失った体力10%につき次のターンに[AttackUp]1, [DefenseUp]1を得る(それぞれ最大5)\n\n黒雲会所属人格が死亡時、次のターンに黒雲会所属の全人格が[AttackDmgUp]2を得る(1ターンにつき1回)"
+  },
+  {
+    "key": "9785-simpleDesc$[0].simpleDesc",
+    "original": "피해량 증가",
+    "context": "EN :\nDeal more damage\nJP :\nダメージ量増加"
+  },
+  {
+    "key": "9785-simpleDesc$[1].simpleDesc",
+    "original": "참격 피해량 증가, 공격 레벨 증가, 방어 레벨 증가 얻음",
+    "context": "EN :\nGain Slash DMG Up, Offense Level Up, and Defense Level Up\nJP :\n斬撃ダメージ量増加、攻撃レベル増加、防御レベル増加を得る"
+  },
+  {
+    "key": "9785-simpleDesc$[2].simpleDesc",
+    "original": "피해량 증가 얻음",
+    "context": "EN :\nGain Damage Up\nJP :\nダメージ量増加 を得る"
   }
 ]

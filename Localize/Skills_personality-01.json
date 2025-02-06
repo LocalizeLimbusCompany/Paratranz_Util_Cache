@@ -1242,7 +1242,7 @@
   {
     "key": "1011004-levelList$[0].name",
     "original": "관에서나비가날아오리라",
-    "context": "EN :\nFromTheCoffinAButterflyTakesFlight\nJP :\n棺より蝶が翔び来む"
+    "context": "EN :\nFromTheCoffinAButterflyTakesFlight\nJP :\n棺ヨリ蝶ガ翔ビ来ン"
   },
   {
     "key": "1011004-levelList$[0].desc",
@@ -1252,11 +1252,251 @@
   {
     "key": "1011004-levelList$[1].name",
     "original": "관에서나비가날아오리라",
-    "context": "EN :\nFromTheCoffinAButterflyTakesFlight\nJP :\n棺より蝶が翔び来む"
+    "context": "EN :\nFromTheCoffinAButterflyTakesFlight\nJP :\n棺ヨリ蝶ガ翔ビ来ン"
   },
   {
     "key": "1011004-levelList$[1].desc",
     "original": "[StartBattle] [ReloadLament] (턴 당 1회)\n[StartBattle] 최대 체력의 (지정한 대상의 모든 [SinkingWhite])% 만큼 보호막을 얻음. (턴 당 최대 20%)",
     "context": "EN :\n[StartBattle] [ReloadLament] (once per turn)\n[StartBattle] Gain Shield equal to (the sum of both [SinkingWhite] on the selected target)% HP. (max 20% per turn)\nJP :\n[StartBattle] [ReloadLament] (1ターンにつき1回)\n[StartBattle] 体力最大値の(指定対象の全ての[SinkingWhite])%だけバリアを得る。(1ターンにつき最大20%)"
+  },
+  {
+    "key": "1011101-levelList$[0].name",
+    "original": "E.G.O는 제식 장비라 할지라도,",
+    "context": "EN :\nThough it must be prefaced that E.G.O gears are standardized equipment,\nJP :\nE.G.Oは制式装備と称さるるものの、"
+  },
+  {
+    "key": "1011101-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 [Aggro] 2 얻음\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 효과로 [Burst]을 부여하지 않음.",
+    "context": "EN :\n[WhenUse] Gain +2 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\nJP :\n[WhenUse] 次のターンに[Aggro]2を得る\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキル効果で[Burst]を付与しない。"
+  },
+  {
+    "key": "1011101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "1011101-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1011101-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "1011101-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1011101-levelList$[1].name",
+    "original": "E.G.O는 제식 장비라 할지라도,",
+    "context": "EN :\nThough it must be prefaced that E.G.O gears are standardized equipment,\nJP :\nE.G.Oは制式装備と称さるるものの、"
+  },
+  {
+    "key": "1011101-levelList$[1].desc",
+    "original": "[StartBattle] 자신을 타겟팅 한 스킬의 수만큼 합 패배 시 최종 위력이 증가 (최대 2)\n[WhenUse] 다음 턴에 [Aggro] 3 얻음\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 효과로 [Burst]을 부여하지 않음.\n[DefeatDuel] 이 스킬에서 부여하는 [Burst] 위력 +1",
+    "context": "EN :\n[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 2)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +1\nJP :\n[StartBattle] 自分をターゲティングしたスキルの数だけ、マッチ敗北時の最終威力が増加(最大2)\n[WhenUse] 次のターンに[Aggro]3を得る\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキル効果で[Burst]を付与しない。\n[DefeatDuel] このスキルで付与する[Burst]威力 +1"
+  },
+  {
+    "key": "1011101-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "1011101-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1011101-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "1011101-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1011101-levelList$[2].name",
+    "original": "E.G.O는 제식 장비라 할지라도,",
+    "context": "EN :\nThough it must be prefaced that E.G.O gears are standardized equipment,\nJP :\nE.G.Oは制式装備と称さるるものの、"
+  },
+  {
+    "key": "1011101-levelList$[2].desc",
+    "original": "[StartBattle] 자신을 타겟팅 한 스킬의 수만큼 합 패배 시 최종 위력이 증가 (최대 3)\n[WhenUse] 다음 턴에 [Aggro] 3 얻음\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 효과로 [Burst]을 부여하지 않음.\n[DefeatDuel] 이 스킬에서 부여하는 [Burst] 위력 +2",
+    "context": "EN :\n[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] with its effects\n[DefeatDuel] [Burst] Potency inflicted by this Skill +2\nJP :\n[StartBattle] 自分をターゲティングしたスキルの数だけ、マッチ敗北時の最終威力が増加(最大3)\n[WhenUse] 次のターンに[Aggro]3を得る\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキル効果で[Burst]を付与しない。\n[DefeatDuel] このスキルで付与する[Burst]威力 +2"
+  },
+  {
+    "key": "1011101-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "1011101-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1011101-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "1011101-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1011102-levelList$[0].name",
+    "original": "로보토미때의 E.G.O보다 환상체와의 감응 정도에 따라",
+    "context": "EN :\nwhen juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,\nJP :\nロボトミィ時代のE.G.Oよりも幻想体との感応度に応じ"
+  },
+  {
+    "key": "1011102-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 [Aggro] 2 얻음\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 효과로 [Burst] 횟수를 부여하지 않음.",
+    "context": "EN :\n[WhenUse] Gain +2 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\nJP :\n[WhenUse] 次のターンに[Aggro]2を得る\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキル効果で[Burst]回数を付与しない。"
+  },
+  {
+    "key": "1011102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "1011102-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が1増加"
+  },
+  {
+    "key": "1011102-levelList$[1].name",
+    "original": "로보토미때의 E.G.O보다 환상체와의 감응 정도에 따라",
+    "context": "EN :\nwhen juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,\nJP :\nロボトミィ時代のE.G.Oよりも幻想体との感応度に応じ"
+  },
+  {
+    "key": "1011102-levelList$[1].desc",
+    "original": "[StartBattle] 자신을 타겟팅 한 스킬의 수 만큼 합 패배 시 최종 위력이 증가 (최대 3)\n[WhenUse] 다음 턴에 [Aggro] 3 얻음\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 효과로 [Burst] 횟수를 부여하지 않음.\n[DefeatDuel] 이 스킬에서 부여하는 [Burst] 횟수 +1",
+    "context": "EN :\n[StartBattle] On Clash Lose, gain Final Power equal to the number of Skills targeting this unit (max 3)\n[WhenUse] Gain +3 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted by this Skill +1\nJP :\n[StartBattle] 自分をターゲティングしたスキルの数だけ、マッチ敗北時の最終威力が増加(最大3)\n[WhenUse] 次のターンに[Aggro]3を得る\n[WhenUse] 対象の[Burst]が15, [Burst]回数が3以上なら、このスキル効果で[Burst]回数を付与しない。\n[DefeatDuel] このスキルで付与する[Burst]回数 +1"
+  },
+  {
+    "key": "1011102-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "1011102-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "1011102-levelList$[2].name",
+    "original": "로보토미때의 E.G.O보다 환상체와의 감응 정도에 따라",
+    "context": "EN :\nwhen juxtaposed with E.G.O gear from L Corp., depending on the degree of attunement to the Abnormality,\nJP :\nロボトミィ時代のE.G.Oよりも幻想体との感応度に応じ"
+  },
+  {
+    "key": "1011102-levelList$[2].desc",
+    "original": "[StartBattle] <style=\"highlight\">(자신을 타겟팅 한 스킬의 수 X 2) 만큼 합 패배 시 최종 위력이 증가 (최대 6)</style>\n[WhenUse] 다음 턴에 [Aggro] 4 얻음\n[WhenUse] 대상의 [Burst] 위력이 15, 횟수가 3 이상이면, 이 스킬의 효과로 [Burst] 횟수를 부여하지 않음\n[DefeatDuel] 이 스킬에서 부여하는 [Burst] 횟수 +2",
+    "context": "EN :\n[StartBattle] <style=\"highlight\">On Clash Lose, gain (# of Skills targeting this unit x 2) Final Power (max 6)</style>\n[WhenUse] Gain +4 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its effects\n[DefeatDuel] [Burst] Count inflicted by this Skill +2\nJP :\n[StartBattle] <style=\"highlight\">(自分をターゲティングしたスキルの数 × 2)だけ、マッチ敗北時の最終威力が増加(最大6)</style>\n[WhenUse] 次のターンに[Aggro]4を得る\n[WhenUse] 対象の[Burst]威力が15, [Burst]回数が3以上なら、このスキル効果で[Burst]回数を付与しない。\n[DefeatDuel] このスキルで付与する[Burst]回数 +2"
+  },
+  {
+    "key": "1011102-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "1011102-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "1011103-levelList$[0].name",
+    "original": "본체의 특징을 더 유연하게 활용 가능하오",
+    "context": "EN :\nthe idiosyncrasies of the source may be utilized with greater flexibility\nJP :\n本体の特徴をより柔軟に活用することを可能とするものなり。"
+  },
+  {
+    "key": "1011103-levelList$[0].desc",
+    "original": "자신의 잃은 체력 1%당 피해량 0.5% 증가\n[StartBattle] 자신을 타겟팅 한 스킬의 수 만큼 기본 위력 +1 (최대 2)\n[WhenUse] [GlowingLantern] 2 얻음 (턴 당 1회)\n[WhenUse] 다음 턴에 [Aggro] 6 얻음\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 효과로 [Burst] 위력과 횟수를 부여하지 않고, 기본 위력 +1\n[EndSkill] 정신력 30 회복",
+    "context": "EN :\nDeal +0.5% more damage for every 1% missing HP on self\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 2)\n[WhenUse] Gain 2 [GlowingLantern] (once per turn)\n[WhenUse] Gain +6 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP\nJP :\n自分の失った体力1%につき、ダメージ量が0.5%増加\n[StartBattle] 自分をターゲティングしたスキルの数だけ、基本威力 +1(最大2)\n[WhenUse] [GlowingLantern]2を得る(1ターンにつき1回)\n[WhenUse] 次のターンに[Aggro]6を得る\n[WhenUse] 対象の[Burst]威力が15, [Burst]回数が3以上なら、このスキル効果で[Burst]威力と回数を付与せず基本威力 +1\n[EndSkill] 精神力を30回復"
+  },
+  {
+    "key": "1011103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "1011103-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Binding] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Binding]1を付与"
+  },
+  {
+    "key": "1011103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1011103-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1011103-levelList$[1].name",
+    "original": "본체의 특징을 더 유연하게 활용 가능하오",
+    "context": "EN :\nthe idiosyncrasies of the source may be utilized with greater flexibility\nJP :\n本体の特徴をより柔軟に活用することを可能とするものなり。"
+  },
+  {
+    "key": "1011103-levelList$[1].desc",
+    "original": "자신의 잃은 체력 1%당 피해량 0.8% 증가\n[StartBattle] 자신을 타겟팅 한 스킬의 수 만큼 기본 위력 +1 (최대 3)\n[WhenUse] [GlowingLantern] 3 얻음 (턴 당 1회)\n[WhenUse] 다음 턴에 [Aggro] 8 얻음\n[WhenUse] 대상의 [Burst]이 15, [Burst] 횟수가 3 이상이면, 이 스킬의 효과로 [Burst] 위력과 횟수를 부여하지 않고, 기본 위력 +1\n[EndSkill] 정신력 30 회복",
+    "context": "EN :\nDeal +0.8% more damage for every 1% missing HP on self\n[StartBattle] Base Power +1 for every Skill that targets this unit (max 3)\n[WhenUse] Gain 3 [GlowingLantern] (once per turn)\n[WhenUse] Gain +8 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects; instead, gain Base Power +1\n[EndSkill] Heal 30 SP\nJP :\n自分の失った体力1%につき、ダメージ量が0.8%増加\n[StartBattle] 自分をターゲティングしたスキルの数だけ、基本威力 +1(最大3)\n[WhenUse] [GlowingLantern]3を得る(1ターンにつき1回)\n[WhenUse] 次のターンに[Aggro]8を得る\n[WhenUse] 対象の[Burst]威力が15, [Burst]回数が3以上なら、このスキル効果で[Burst]威力と回数を付与せず基本威力 +1\n[EndSkill] 精神力を30回復"
+  },
+  {
+    "key": "1011103-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が3増加"
+  },
+  {
+    "key": "1011103-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Binding] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Binding] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Binding]2を付与"
+  },
+  {
+    "key": "1011103-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1011103-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1011104-levelList$[0].name",
+    "original": "다만 그 감응과 동기화 정도에 따라 잡아먹힐 수 있소",
+    "context": "EN :\nYet, the degree to which that attunement and synchronization are achieved may resultantly allow the user to be devoured\nJP :\n然れども、その感応と同期化の程度如何によりては喰わるることもあり。"
+  },
+  {
+    "key": "1011104-levelList$[0].desc",
+    "original": "[StartBattle] [GlowingLantern] 2 얻음 (턴 당 1회)\n[WhenUse] 다음 턴에 [Aggro] 6 얻음\n[WhenUse] 대상의 [Burst] 위력이 15, 횟수가 3 이상이면, 이 스킬의 효과로 [Burst] 횟수를 부여하지 않고, 기본 위력 +3",
+    "context": "EN :\n[StartBattle] Gain 2 [GlowingLantern] (once per turn)\n[WhenUse] Gain +6 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its effects; instead, gain Base Power +3\nJP :\n[StartBattle] [GlowingLantern]2を得る(1ターンにつき1回)\n[WhenUse] 次のターンに[Aggro]6を得る\n[WhenUse] 対象の[Burst]威力が15, 回数が3以上なら、このスキル効果で[Burst]回数を付与せず基本威力 +3"
+  },
+  {
+    "key": "1011104-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "1011104-levelList$[1].name",
+    "original": "다만 그 감응과 동기화 정도에 따라 잡아먹힐 수 있소",
+    "context": "EN :\nYet, the degree to which that attunement and synchronization are achieved may resultantly allow the user to be devoured\nJP :\n然れども、その感応と同期化の程度如何によりては喰わるることもあり。"
+  },
+  {
+    "key": "1011104-levelList$[1].desc",
+    "original": "[StartBattle] [GlowingLantern] 3 얻음 (턴 당 1회)\n[WhenUse] 다음 턴에 [Aggro] 8 얻음\n[WhenUse] 대상의 [Burst] 위력이 15, 횟수가 3 이상이면, 이 스킬의 효과로 [Burst] 횟수를 부여하지 않고, 기본 위력 +3",
+    "context": "EN :\n[StartBattle] Gain 3 [GlowingLantern] (once per turn)\n[WhenUse] Gain +8 [Aggro] next turn\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its effects; instead, gain Base Power +3\nJP :\n[StartBattle] [GlowingLantern]3を得る(1ターンにつき1回)\n[WhenUse] 次のターンに[Aggro]8を得る\n[WhenUse] 対象の[Burst]威力が15, 回数が3以上なら、このスキル効果で[Burst]回数を付与せず基本威力 +3"
+  },
+  {
+    "key": "1011104-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
   }
 ]

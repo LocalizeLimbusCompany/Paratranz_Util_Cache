@@ -6,8 +6,8 @@
   },
   {
     "key": "9701-desc",
-    "original": "스킬로 [Combustion] 부여 시 [Combustion] 횟수 3 증가",
-    "context": "EN :\nWhen inflicting [Combustion] with a Skill, inflict +3 [Combustion] Count\nJP :\nスキルで[Combustion]付与時、[Combustion]回数が3増加"
+    "original": "스킬로 적에게 [Combustion] 부여 시 [Combustion] 횟수 3 증가",
+    "context": "EN :\nWhen inflicting [Combustion] with Skills against enemies, inflict +3 [Combustion] Count\nJP :\nスキルで敵に[Combustion]付与時、[Combustion]回数が3増加"
   },
   {
     "key": "9701-simpleDesc$[0].simpleDesc",
@@ -21,8 +21,8 @@
   },
   {
     "key": "9702-desc",
-    "original": "스킬로 [Burst] 부여 시 [Burst] 횟수 3 증가",
-    "context": "EN :\nWhen inflicting [Burst] with a Skill, inflict +3 [Burst] Count\nJP :\nスキルで[Burst]付与時、[Burst]回数が3増加"
+    "original": "스킬로 적에게 [Burst] 부여 시 [Burst] 횟수 3 증가",
+    "context": "EN :\nWhen inflicting [Burst] with Skills against enemies, inflict +3 [Burst] Count\nJP :\nスキルで敵に[Burst]付与時、[Burst]回数が3増加"
   },
   {
     "key": "9702-simpleDesc$[0].simpleDesc",
@@ -81,7 +81,7 @@
   },
   {
     "key": "9706-desc",
-    "original": "타격 스킬의 피해량 +10%\n\n타격 스킬 마지막 코인 적중 시, 적에게 [Vibration] 위력 2 부여. (턴당 1회)",
+    "original": "타격 스킬의 피해량 +10%\n\n타격 스킬 마지막 코인 적중 시, 적에게 [Vibration] 위력 2 부여. (턴 당 1회)",
     "context": "EN :\nBlunt Skills deal +10% more damage\n\nFinal Coin of Blunt Skills inflict 2 [Vibration] Potency On Hit. (once per turn)\nJP :\n打撃スキルのダメージ量+10%\n\n打撃スキル最後のコインを的中させた場合、敵に[Vibration]威力2を付与。(1ターンにつき1回)"
   },
   {

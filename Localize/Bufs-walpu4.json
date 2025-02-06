@@ -142,6 +142,6 @@
   {
     "key": "ReloadLament-desc",
     "original": "- 정신력을 ((30 - 보유한 산나비·죽은나비)/2)만큼 소모. (소수점 버림)\n- 보유한 산나비·죽은나비를 0으로 만들고, 산나비·죽은나비를 합하여 최댓값만큼 '죽어가는나비를본다.' 패시브의 확률에 따라 얻음.\n- 재장전 시 산나비와 죽은나비를 최소 1씩 얻음.",
-    "context": "EN :\n- Consume (30 - (The Living + The Departed))/2 SP. (rounded down)\n- Reset both The Living and The Departed values on self to 0, and gain the max value of their sum based on the probabilities listed in the Passive 'ISeeTheDyingButterfly.'\n- On Reload, gain at least 1 of The Living and The Departed.\nJP :\n- 精神力を((30 - 保有する生きた蝶・死んだ蝶) ÷ 2)だけ消耗。(小数点切り捨て)\n- 保有した生きた蝶・死んだ蝶を0にして、生きた蝶・死んだ蝶を合計で最大値だけパッシブ'死にゆく蝶を見る。'を確率で獲得。\n- 再装填時、生きた蝶と死んだ蝶を最低1ずつ得る。"
+    "context": "EN :\n- Consume (30 - (The Living + The Departed))/2 SP. (rounded down)\n- Reset both The Living and The Departed values on self to 0, and gain the max value of their sum based on the probabilities listed in the Passive 'ISeeTheDyingButterfly.'\n- On Reload, gain at least 1 of The Living and The Departed.\nJP :\n- 精神力を((30 - 保有する生きた蝶・死んだ蝶) ÷ 2)だけ消耗。(小数点切り捨て)\n- 保有した生きた蝶・死んだ蝶を0にして、生きた蝶・死んだ蝶を合計で最大値だけパッシブ'死ニユク蝶ヲ見ル。'を確率で獲得。\n- 再装填時、生きた蝶と死んだ蝶を最低1ずつ得る。"
   }
 ]

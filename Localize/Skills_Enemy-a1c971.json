@@ -1,0 +1,222 @@
+[
+  {
+    "key": "9018101-levelList$[0].name",
+    "original": "■■라",
+    "context": "EN :\n■■ew\nJP :\n■め"
+  },
+  {
+    "key": "9018101-levelList$[0].desc",
+    "original": "[WhenUse] 대상에게 [Burst]이 없다면, 합 위력 +1",
+    "context": "EN :\n[WhenUse] If the target does not have [Burst], Clash Power +1\nJP :\n[WhenUse] 対象に[Burst]が無いなら、基本威力 +1"
+  },
+  {
+    "key": "9018101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\nJP :\n[OnSucceedAttack] [Burst]3を付与"
+  },
+  {
+    "key": "9018101-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 정신력 2 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal 2 SP damage\nJP :\n[OnSucceedAttack] 精神力2ダメージ"
+  },
+  {
+    "key": "9018102-levelList$[0].name",
+    "original": "■어 ■■자",
+    "context": "EN :\nLe■'■ ■■t\nJP :\n■い■■う"
+  },
+  {
+    "key": "9018102-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst]이 5 이상이면, 코인 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 5+ [Burst], Coin Power +1\nJP :\n[WhenUse] 対象の[Burst]が5以上なら、コイン威力 +1"
+  },
+  {
+    "key": "9018102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "9018102-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 정신력 3 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal 3 SP damage\nJP :\n[OnSucceedAttack] 精神力3ダメージ"
+  },
+  {
+    "key": "9018102-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "9018102-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 입힌 체력 피해량만큼 체력 회복 (최대 20)",
+    "context": "EN :\n[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)\nJP :\n[OnSucceedAttack] 与ダメージ量だけ体力を回復(最大20)"
+  },
+  {
+    "key": "9018102-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 정신력 5 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal 5 SP damage\nJP :\n[OnSucceedAttack] 精神力5ダメージ"
+  },
+  {
+    "key": "9018103-levelList$[0].name",
+    "original": "이■엔 ■야!!",
+    "context": "EN :\nI■'s Y■■r ■■rn N■■!!\nJP :\n次■お■だ！！"
+  },
+  {
+    "key": "9018103-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst] 3 당, 코인 위력 +1 (최대 2)",
+    "context": "EN :\n[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)\nJP :\n[WhenUse] 対象の[Burst]3につき、コイン威力 +1 (最大2)"
+  },
+  {
+    "key": "9018103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が3増加"
+  },
+  {
+    "key": "9018103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "9018103-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 피해량만큼 체력 회복 (최대 20)",
+    "context": "EN :\n[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)\nJP :\n[OnSucceedAttack] ダメージ量だけ体力を回復(最大20)"
+  },
+  {
+    "key": "9018103-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 체력이 최대 체력의 50% 미만이면, 코인 1회 재사용",
+    "context": "EN :\n[OnSucceedAttack] At less than 50% HP, Reuse Coin once\nJP :\n[OnSucceedAttack] 自分の体力が最大値の50%未満なら、コインを1回再使用"
+  },
+  {
+    "key": "9018103-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加\n"
+  },
+  {
+    "key": "9018103-levelList$[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 정신력 10 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal 10 SP damage\nJP :\n[OnSucceedAttack] 精神力10ダメージ"
+  },
+  {
+    "key": "9018103-levelList$[0].coinlist[2].coindescs[3].desc",
+    "original": "[OnSucceedAttack] 피해량만큼 체력 회복 (최대 20)",
+    "context": "EN :\n[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)\nJP :\n[OnSucceedAttack] ダメージ量だけ体力を回復(最大20)"
+  },
+  {
+    "key": "9018104-levelList$[0].name",
+    "original": "가■",
+    "context": "EN :\nGua■■\nJP :\nガー■"
+  },
+  {
+    "key": "9018104-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst]당 5의 보호막 체력 얻음\n[EndBattle] 남은 보호막 수치만큼 체력 회복",
+    "context": "EN :\n[WhenUse] Gain Shield HP for every 5 [Burst] on the target\n[EndBattle] Heal HP equal to the remaining Shield HP\nJP :\n[WhenUse] 対象の[Burst]1につき、5のバリアを得る\n[EndBattle] 残ったバリアの数値だけ体力を回復"
+  },
+  {
+    "key": "9018201-levelList$[0].name",
+    "original": "으■■하",
+    "context": "EN :\nWa■■■■ha\nJP :\nわ■■は"
+  },
+  {
+    "key": "9018201-levelList$[0].desc",
+    "original": "[WhenUse] 대상에게 [Burst]이 없다면, 합 위력 +1",
+    "context": "EN :\n[WhenUse] If the target does not have [Burst], Clash Power +1\nJP :\n[WhenUse] 対象に[Burst]が無いなら、基本威力 +1"
+  },
+  {
+    "key": "9018201-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "9018201-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 정신력 2 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal 2 SP damage\nJP :\n[OnSucceedAttack] 精神力2ダメージ"
+  },
+  {
+    "key": "9018202-levelList$[0].name",
+    "original": "■■자",
+    "context": "EN :\nC■■an\nJP :\n■■■よう"
+  },
+  {
+    "key": "9018202-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst]이 5 이상이면, 코인 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 5+ [Burst], Coin Power +1\nJP :\n[WhenUse] 対象の[Burst]が5以上なら、コイン威力 +1"
+  },
+  {
+    "key": "9018202-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\nJP :\n[OnSucceedAttack] [Burst]3を付与"
+  },
+  {
+    "key": "9018202-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 정신력 3 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal 3 SP damage\nJP :\n[OnSucceedAttack] 精神力3ダメージ"
+  },
+  {
+    "key": "9018202-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Burst]\nJP :\n[OnSucceedAttack] [Burst]4を付与"
+  },
+  {
+    "key": "9018202-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 입힌 체력 피해량만큼 체력 회복 (최대 20)",
+    "context": "EN :\n[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)\nJP :\n[OnSucceedAttack] 与ダメージ量だけ体力を回復(最大20)"
+  },
+  {
+    "key": "9018202-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 정신력 5 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal 5 SP damage\nJP :\n[OnSucceedAttack] 精神力5ダメージ"
+  },
+  {
+    "key": "9018203-levelList$[0].name",
+    "original": "식■ ■간이다!",
+    "context": "EN :\nTi■■ to E■■!\nJP :\n食■■■間だ！"
+  },
+  {
+    "key": "9018203-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst] 3 당, 코인 위력 +1 (최대 2)",
+    "context": "EN :\n[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)\nJP :\n[WhenUse] 対象の[Burst]3につき、コイン威力 +1 (最大2)"
+  },
+  {
+    "key": "9018203-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Burst]\nJP :\n[OnSucceedAttack] [Burst]4を付与"
+  },
+  {
+    "key": "9018203-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\nJP :\n[OnSucceedAttack] [Burst]3を付与"
+  },
+  {
+    "key": "9018203-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 피해량만큼 체력 회복 (최대 20)",
+    "context": "EN :\n[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)\nJP :\n[OnSucceedAttack] ダメージ量だけ体力を回復(最大20)"
+  },
+  {
+    "key": "9018203-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 체력이 최대 체력의 50% 미만이면, 코인 1회 재사용",
+    "context": "EN :\n[OnSucceedAttack] At less than 50% HP, Reuse Coin once\nJP :\n[OnSucceedAttack] 自分の体力が最大値の50%未満なら、コインを1回再使用"
+  },
+  {
+    "key": "9018203-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\nJP :\n[OnSucceedAttack] [Burst]3を付与"
+  },
+  {
+    "key": "9018203-levelList$[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 정신력 10 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal 10 SP damage\nJP :\n[OnSucceedAttack] 精神力10ダメージ"
+  },
+  {
+    "key": "9018203-levelList$[0].coinlist[2].coindescs[3].desc",
+    "original": "[OnSucceedAttack] 피해량만큼 체력 회복 (최대 20)",
+    "context": "EN :\n[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)\nJP :\n[OnSucceedAttack] ダメージ量だけ体力を回復(最大20)"
+  },
+  {
+    "key": "9018204-levelList$[0].name",
+    "original": "■드",
+    "context": "EN :\n■■■rd\nJP :\nガー■"
+  },
+  {
+    "key": "9018204-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst]당 5의 보호막 체력 얻음\n[EndBattle] 남은 보호막 수치만큼 체력 회복",
+    "context": "EN :\n[WhenUse] Gain Shield HP for every 5 [Burst] on the target\n[EndBattle] Heal HP equal to the remaining Shield HP\nJP :\n[WhenUse] 対象の[Burst]1につき、5のバリアを得る\n[EndBattle] 残ったバリアの数値だけ体力を回復"
+  }
+]

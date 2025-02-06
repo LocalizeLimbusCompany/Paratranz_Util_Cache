@@ -26,7 +26,7 @@
   },
   {
     "key": "815301-desc",
-    "original": "골단이 공격 슬롯에 있을 때, 턴 시작 시 [Grudge]을 얻음. 턴 종료 시 [Grudge]을 제거",
+    "original": "골단이 공격 슬롯에 있을 때, 턴 시작 시 [Grudge]를 얻음. 턴 종료 시 [Grudge]를 제거",
     "context": "EN :\nGain [Grudge] at Turn Start if 'To Claim Your Bones' is in the Skill Slot. Remove [Grudge] at Turn End\nJP :\n骨断が攻撃スロットにあるとき、ターン開始時に[Grudge]を得る。ターン終了時に[Grudge]を除去"
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "key": "815402-desc",
-    "original": "체력이 20% 남았을 때, 패턴이 변경됨.\n체력이 20% 이하가 될 때, 다음 턴부터 매 턴마다 [Grudge]을 20 얻음. [Grudge]이 제거되지 않음",
+    "original": "체력이 20% 남았을 때, 패턴이 변경됨.\n체력이 20% 이하가 될 때, 다음 턴부터 매 턴마다 [Grudge]를 20 얻음. [Grudge]가 제거되지 않음",
     "context": "EN :\nAt 20% HP, gains a new pattern.\nAt 20%- HP, starting next turn, gain 20 [Grudge] every turn. [Grudge] no longer expires\nJP :\n体力が20%残っているとき、パターンが変更。\n体力が20%以下になるとき、次のターンから毎ターン[Grudge]20を得る。[Grudge]が除去されない"
   },
   {

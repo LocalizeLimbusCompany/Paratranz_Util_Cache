@@ -13,5 +13,30 @@
     "key": "3-content",
     "original": "스테이지 클리어",
     "context": "EN :\nClear Stage\nJP :\nステージクリア"
+  },
+  {
+    "key": "40000-content",
+    "original": "모든 아군의 체력이 50% 이상 남은 상태로 클리어하기",
+    "context": "EN :\nClear Encounter with all allies at 50%+ HP\nJP :\n全味方の体力が50%以上残った状態でクリア"
+  },
+  {
+    "key": "50000-content",
+    "original": "죄종을 제한된 턴 안에 처리하기",
+    "context": "EN :\nDefeat the Peccatula within the turn limit\nJP :\n大罪を制限されたターン内に討伐"
+  },
+  {
+    "key": "60000-content",
+    "original": "적을 자폭하지 못하도록 처리하기",
+    "context": "EN :\nDefeat the enemies before they self-detonate\nJP :\n敵を自爆させずに討伐"
+  },
+  {
+    "key": "70000-content",
+    "original": "전투를 진행하는 동안 인격이 10회 이상 피격당하지 않기",
+    "context": "EN :\nDo not take 10+ hits during the Encounter for each Identity\nJP :\n戦闘の間、人格が10回以上ダメージを受けない"
+  },
+  {
+    "key": "80000-content",
+    "original": "각자 자신의 모습을 한 죄종 1회 처치",
+    "context": "EN :\nEach unit defeats the Peccatulum that has taken their shape once\nJP :\n各々が自分の姿をした大罪を1回討伐"
   }
 ]

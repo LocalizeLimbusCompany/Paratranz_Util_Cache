@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10811_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10811_1-dlg",
+    "original": "용무가 있다면 조금 이따 오시지요.\n칼날을 정돈하는 시간을 방해받고 싶진 않으니.",
+    "context": "EN :\nI would like to ask you to save business until later. I'd like to clean my blade in peace.\nJP :\n用事があるなら、少し後にいらしてください。刃を整える時間を邪魔されたくないので。"
+  },
+  {
+    "key": "lobby_morning_10811_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10811_1-dlg",
+    "original": "좋은 아침이네요. 오늘은 조직 회의도 있고, 엄지에게 상납 일정도 잡혀 있어서 바쁜 오전이 되겠지만…\n하, 급하게 앉은 자리라 그런가, 혼자서 일정까지 정하고 있으려니 머리가 지끈지끈하네요…",
+    "context": "EN :\nGood morning. A bit busy, though... Today, we have the Syndicate gathering to attend and payments to make for the Thumb.\nHaah, my head's starting to hurt, having to deal with scheduling on top of my other responsibilities. I guess this is what I get for getting shoved into this position last minute.\nJP :\nおはようございます。今日は組織会議もありますし、親指への上納の予定も入っているので、忙しい午前になりそうですけど…。\nはぁ。性急に就いた席だから、一人で予定まで立ててると頭がズキズキしてきますね…。"
+  },
+  {
+    "key": "lobby_noon_10811_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10811_1-dlg",
+    "original": "아… 이전 부조장께선 부하들과 제법 점심 식사를 즐기시긴 했죠. 저는 생각이 조금 달라서 그러진 않지만요.\n아래 애들하고 부대끼는 것도 지치는 일이라…",
+    "context": "EN :\nAh... yeah, the former Captain used to enjoy having lunches with the underlings from time to time. I don't, because I don't really agree with that philosophy.\nIt's exhausting that I have to deal with them at all.\nJP :\nあぁ…前の副組長様は部下たちとよく昼食を楽しんでいましたね。私は少し考えが違うので、そんなことはしませんけど。\n下の連中と付き合うのも、正直疲れるので…。"
+  },
+  {
+    "key": "lobby_night_10811_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10811_1-dlg",
+    "original": "밤까지 나와 있지 말고 일 없으면 빨리 들어가서… 아, 미안하군요. 아랫놈들인 줄 알았네요.\n가뜩이나 바쁜 마당에 밖에서 술 먹고 사고 치면 골치 아파서요…",
+    "context": "EN :\nIf you've got nothing better to do, quit loitering out here and get your ass—oh. Apologies, I thought you were one of my underlings.\nWhen they get drunk and make a mess, it can be a real headache to deal with. Especially when I'm already swamped with work...\nJP :\n夜遅くまで出張ってないで、用がないなら早く帰って…あ、失礼しました。部下かと思いました。\nただでさえ忙しいのに、外で酒飲んで事故でも起こされたら厄介ですからね…。"
+  },
+  {
+    "key": "smalltalk_10811_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10811_1-dlg",
+    "original": "흑운도… 이렇게 일찍 받게 될 줄은 사실 몰랐는데 말이죠. 부조장께서 갑자기 도서관이라는 곳에 끌려들어 갔다는 소식 이후론… 돌아오질 않으셔서.\n뭐, 부조장 자리를 오래 비워서 좋을 건 없으니 조장께서 급하셨던 것도 당연한 것일지도.",
+    "context": "EN :\nKokuundō... I didn't think I'd receive it so soon. The last we heard of our former Captain was that she got dragged into some Library or something, and... she's been gone ever since. So...\nWell, I guess the Patriarch also realized that the Captain's seat shouldn't remain vacant for too long. Makes sense he was so anxious to fill it quick.\nJP :\n黒雲刀…まさかこんなに早く受け取ることになるとは思いませんでしたよ。副組長が突然「図書館」とやらに連れて行かれたって話を聞いてから…戻られなかったもので。\nまあ、副組長の席を長く空けても良いことはないですし、組長が焦っていたのも当然なのやも。"
+  },
+  {
+    "key": "smalltalk_10811_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10811_2-dlg",
+    "original": "조장… 지금은 잘려버린 손목 대신 붙이신 의수 때문도 있고, 연로하신 이유도 있어서 그렇지, 원래는 '동부십검'에 들어가는 어마어마한 분이셨죠.\n유쾌하신 분이긴 하지만 진지하게 임할 때는… 바라만 봐도 온 몸이 얼어붙는 기분이…",
+    "context": "EN :\nOur Patriarch, he's... well, he's old now and had to replace one of his wrists with a prosthetic, but he used to be someone, you know? One of the Ten Blades of the East.\nHe's a pretty jolly old guy, but when he gets serious... I can feel the chill running down my spine just from looking at him.\nJP :\n組長…今でこそ切り落とされた手首の代わりに義手を着けていて、年齢も重ねていらっしゃるのもありますが、もともとは「東部十剣」に名を連ねるほどのとんでもないお方でした。\n愉快な方ではありますが、真剣に臨まれた際は…ただ見ているだけで全身が凍りつくような感覚が…。"
+  },
+  {
+    "key": "smalltalk_10811_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10811_3-dlg",
+    "original": "하아아… 좀이 다 쑤시네. 큰 건이 아니면 밖에 나가서 칼 쓸 일도 많지 않고. 아래 애들이 잘하고 다니는지도 신경 쓰이고.\n…옛날이 좋았는데, 깝죽거리는 놈들 혓바닥을 잘라버릴 때…",
+    "context": "EN :\nHaaah… this is the pits. I don’t even get to draw my blade often unless it’s for something important, and I always have to babysit my underlings.\nI miss the good old times, cutting off the tongues of bastards who thought they were hot shit…\nJP :\nはぁあ…身体がうずうずしてたまんない。大きな仕事でもなきゃ外で刀を振るうことも少ないし。下の連中がちゃんとやってるかも気になるし。\n昔はよかったのになぁ、生意気な奴らの舌を切り落としてやったあのとき…。"
+  },
+  {
+    "key": "smalltalk_10811_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10811_4-dlg",
+    "original": "고작 이 정도 끄나풀이나 족치려고 저까지 불러들인 건 아니었으면 좋겠군요. 길바닥에서 걸린 시비도 아니고, 조직끼리 목숨을 걸고 '결전'을 외쳤다면…\n당연히 당신들 윗대가리 쌍판은 봐야겠죠?",
+    "context": "EN :\nPlease tell me you didn't involve me in this mess just to deal with these small fries. This is no street brawl, know what I mean? This is a Syndicate Showdown. So...\n... you should understand that I can't let this go without seeing your boss's mug.\nJP :\nたかがこの程度の下っ端を締め上げるために、わざわざ私を呼び出したわけじゃないと嬉しいですね。道端でのいざこざってわけでもなく、組同士で命を懸けた「決戦」を声高に叫んだというのなら…。\n当然、あなたたちの親玉のツラは拝ませてもらわないとですね？"
+  },
+  {
+    "key": "smalltalk_10811_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10811_5-dlg",
+    "original": "이게 뒷골목의 규칙인 거랍니다. 혓바닥으로 해결되는 일은 이곳의 규칙이 아니니까요. …생각해 보니 괘씸하네. 당신 팔 한 짝도 가져가죠.\n…아, 이전 부조장 말투가 또 옮았네.",
+    "context": "EN :\nYou should get familiar with the rules of the Backstreets. And the rules don't take kindly to people trying to sweet-talk their way out of trouble. ...It’s rather infuriating now that I think about it. I'll be taking your arm as well.\n... Oh, huh. I guess the former Captain's habits are rubbing off on me.\nJP :\nこれが裏路地の掟というものです。舌先で解決することはここの掟ではないですからね。…考えてみると腹正しい。あなたの片腕も貰い受けましょう。\n…あぁ、前の副組長の口癖がまた移っちゃった。"
+  },
+  {
+    "key": "gacksung_10811_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10811_1-dlg",
+    "original": "흑운회 삼십사대 부조장 이스마엘. …당신의 결전 신청, 받아들이죠.",
+    "context": "EN :\nMy name is Ishmael, thirty-fourth Captain of the Kurokumo Clan... And I accept your Showdown challenge.\nJP :\n黒雲会、参拾肆代副組長イシュメール。…あなたの決戦の申し入れ、お受けしましょう。"
+  },
+  {
+    "key": "neglect_10811_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10811_1-dlg",
+    "original": "거슬리게 굴지 말고, 할 말 있으면 빨리하시죠.",
+    "context": "EN :\nStop hesitating and say it straight. You're starting to get on my nerves.\nJP :\n邪魔くさいことはしないで、言いたいことがあるならさっさと言ってください。"
+  },
+  {
+    "key": "formation_10811_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10811_1-dlg",
+    "original": "내가, 움직여야 하나?",
+    "context": "EN :\nYou want <i>me</i> to make a move?\nJP :\n私が、出なきゃならないの？"
+  },
+  {
+    "key": "battleentry_10811_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10811_1-dlg",
+    "original": "잘됐네.",
+    "context": "EN :\nNice.\nJP :\nいいね。"
+  },
+  {
+    "key": "battle_select_10811_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10811_1-dlg",
+    "original": "할 말이 남았나요.",
+    "context": "EN :\nAnything left to say?\nJP :\n言い残したことでも？"
+  },
+  {
+    "key": "battle_endcommand_10811_1-desc",
+    "original": "공격시작",
+    "context": "EN :\nCommencing Attack\nJP :\n공격 시작"
+  },
+  {
+    "key": "battle_endcommand_10811_1-dlg",
+    "original": "갑니다.",
+    "context": "EN :\nHere I go.\nJP :\n行きます。"
+  },
+  {
+    "key": "battle_enemy_break_10811_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10811_1-dlg",
+    "original": "저런, 베인 줄도 몰랐나.",
+    "context": "EN :\nMy, didn't you know? You've been cut.\nJP :\nあらら、斬られたことにも気付いてないか。"
+  },
+  {
+    "key": "battle_break_10811_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10811_1-dlg",
+    "original": "윽…",
+    "context": "EN :\nNgh...\nJP :\nうっ…。"
+  },
+  {
+    "key": "battle_kill_10811_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10811_1-dlg",
+    "original": "이 정도로 나와 검을 맞대…?",
+    "context": "EN :\nHow are you keeping up with me this well...?\nJP :\nこの程度で私と刀を合わせようと…？"
+  },
+  {
+    "key": "battle_dead_10811_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10811_1-dlg",
+    "original": "…컥. 삼십사대는… 여기까지… 였나.",
+    "context": "EN :\n... Kuh. So this... is where the thirty-fourth Captain falls...\nJP :\n…ぐっ。参拾肆代は…ここまで…だったか。"
+  },
+  {
+    "key": "choice_success_p_10811_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10811_2-dlg",
+    "original": "하. 시킬 사람이 없어서…",
+    "context": "EN :\nHah. Are you running short on people to do these chores?\nJP :\nはっ。人手が足りないってわけか…。"
+  },
+  {
+    "key": "choice_fail_n_10811_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10811_1-dlg",
+    "original": "…뒷처리는 애들 시켰어야지.",
+    "context": "EN :\n... These cleanups are underlings' jobs anyway.\nJP :\n…後始末は下の連中にやらせとけば良かったのに。"
+  },
+  {
+    "key": "battle_clear_10811_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10811_1-dlg",
+    "original": "이만 가죠. 히스클리프, 이 너저분한 것들은 치우고 돌아오세요. 위에 알려야 하니까 저기 나뒹구는 대가리 세 개 정돈 모아오고.",
+    "context": "EN :\nLet's go, Heathcliff. Clean up this mess, will you? And cut off their heads—about three would do. We'll need something to report back, after all.\nJP :\nそろそろ行きましょう。ヒースクリフ、この散らかったものは片付けてから戻ってください。上に報告しなきゃならないから、あそこで転がってるドタマを3つほど集めてくるように。"
+  },
+  {
+    "key": "battle_clear_ex_10811_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10811_1-dlg",
+    "original": "싱겁네요… 윗대가리가 죽었으니, 이제 당신들도 우리 조직 밑에서 구르게 되겠죠. …식구 취급을 해주진 않으니, 알아서 기세요.",
+    "context": "EN :\nThat was disappointing... Now that your leader's dead, looks like our Syndicate will be absorbing yours. ... You won't be a part of our family, though, so know your place.\nJP :\nつまらないですね…。親玉が死んだんだから、これからはあなたたちも私たちの組の下で動くことになるでしょう。\n…組の者としては扱いませんから、立場を弁えておいてください。"
+  },
+  {
+    "key": "battle_defeat_10811_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10811_1-dlg",
+    "original": "…이 되도 않는 싸움을 먼저 벌인 놈은 누구죠. 제. 가. 밖에서 사고치지 말라고… 했을 텐데…",
+    "context": "EN :\n... Be honest. Which one of you idiots started this ridiculous fight?\nI <i>clearly</i> remember asking all of you not to get into any trouble...\nJP :\n…こんな無茶な喧嘩を最初に仕掛けたのは誰ですか。わ・た・し、外で騒ぎは起こすなって…言ったはずですけど…。"
+  }
+]

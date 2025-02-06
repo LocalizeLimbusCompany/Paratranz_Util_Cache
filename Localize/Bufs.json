@@ -907,7 +907,7 @@
   {
     "key": "PenetrateDamageUp-name",
     "original": "관통 피해량 증가",
-    "context": "EN :\nPierce DMG Up\nJP :\n貫通量ダメージ増加"
+    "context": "EN :\nPierce DMG Up\nJP :\n貫通ダメージ量増加"
   },
   {
     "key": "PenetrateDamageUp-desc",
@@ -4466,8 +4466,8 @@
   },
   {
     "key": "WildHunt-desc",
-    "original": "- 처음 부여받은 턴동안 체력이 1 남고 턴 종료 시 전체 체력의 50%만큼 체력 회복, 정신력이 0으로 초기화됨.\n- 공격에 의해 사망시, 가장 적은 E.G.O 자원을 1 얻음\n- 공격에 의해 사망시, 마지막으로 자신을 공격한 대상에게 침잠 3 부여\n- 부활한 턴 종료시 사망",
-    "context": "EN :\n- In the same turn this unit gained Wild Hunt for the first time, always have 1 remaining HP; \"revive\"(heal 50% HP and reset SP to 0) this unit at Turn End.\n- If this unit is killed by an attack, gain E.G.O resource for the least-owned E.G.O resource\n- If this unit is killed by an attack, inflict 3 Sinking against the last attacker\n- Dies at the end of the same turn this unit was revived in\nJP :\n- 初めて付与されたターンの間は体力が1残り、ターン終了時に全体力の50%だけ体力回復、精神力が0に初期化\n- 攻撃により死亡時、最も少ないE.G.O資源を1得る \n- 攻撃により死亡時、最後に自分を攻撃した対象に沈潜3を付与\n- 復活したターン終了時に死亡"
+    "original": "- 처음 부여받은 턴동안 체력이 1 남고 턴 종료 시 전체 체력의 50%만큼 체력 회복, 정신력이 0으로 초기화됨.\n- 사망시, 가장 적은 E.G.O 자원을 1 얻음\n- 공격에 의해 사망시, 마지막으로 자신을 공격한 대상에게 침잠 3 부여\n- 부활한 턴 종료시 사망",
+    "context": "EN :\n- In the same turn this unit gained Wild Hunt for the first time, always have 1 remaining HP; \"revive\"(heal 50% HP and reset SP to 0) this unit at Turn End.\n- On death, gain 1 E.G.O resource for the least-owned E.G.O resource\n- If this unit is killed by an attack, inflict 3 Sinking against the last attacker\n- Dies at the end of the same turn this unit was revived in\nJP :\n- 初めて付与されたターンの間は体力が1残り、ターン終了時に全体力の50%だけ体力回復、精神力が0に初期化\n- 死亡時、最も少ないE.G.O資源を1得る \n- 攻撃により死亡時、最後に自分を攻撃した対象に沈潜3を付与\n- 復活したターン終了時に死亡"
   },
   {
     "key": "NightPathfinding-name",
@@ -4968,5 +4968,105 @@
     "key": "RequestedTarget-desc",
     "original": "참격, 관통, 타격 중 1.5 이하인 내성 +0.2. 이 버프가 부여된 대상을 처치하면, 모든 E.G.O 자원을 1 얻고 처치한 대상의 정신력을 10 회복시킴",
     "context": "EN :\n+0.2 Resistance to Attack Types with 1.5 or less Resistance. If the target with this effect is defeated, gain 1 E.G.O resource for all Affinities, and the unit that defeated the target heals 10 SP\nJP :\n斬撃・貫通・打撃のうち1.5以下の耐性が +0.2。このバフが付与された対象を討伐すると全E.G.O資源を1得て、討伐者の精神力を10回復させる"
+  },
+  {
+    "key": "GlowingLantern-name",
+    "original": "미끼 요정",
+    "context": "EN :\nFairy Lure\nJP :\n好餌妖精"
+  },
+  {
+    "key": "GlowingLantern-desc",
+    "original": "- 최댓값 5\n- 턴 시작 시 조작 패널에서 가장 왼쪽 슬롯이 도발치 10 얻음\n- 자신의 받는 피해량 + 50%\n- 피격 시 대상에게 파열 1 부여 (대상의 스킬당 최대 3회)\n· 자신의 체력이 최대 체력의 50% 미만이면, 파열 1 추가 부여\n· 대상의 파열 위력이 15 이상이면, 이 효과로 파열을 부여하지 않음\n- 턴 종료 시 1 감소",
+    "context": "EN :\n- Max Stack: 5\n- Turn Start: leftmost Slot on the Dashboard gains +10 Aggro\n- Take +50% more damage\n- When hit, inflict 1 Rupture against the Attacker (3 times per target's Skill)\n· At less than 50% HP, inflict 1 additional Rupture\n· If the target has 15+ Rupture, this effect does not inflict Rupture\n- Reduced by 1 at Turn End\nJP :\n- 最大値5\n- ターン開始時、操作パネルの最左方のスロットが挑発値10を得る\n- 自分が受けるダメージ量 +50%\n- 被ダメージ時、対象へ破裂1を付与(対象のスキルごとに最大3回)\n· 自分の現体力が最大値の50%未満なら、破裂1を追加で付与\n· 対象の破裂威力が15以上なら、この効果で破裂を付与しない\n- ターン終了時に1減少"
+  },
+  {
+    "key": "HoldingBreath-name",
+    "original": "깊은 들숨",
+    "context": "EN :\nDeep Breath\nJP :\n深い吸気"
+  },
+  {
+    "key": "HoldingBreath-desc",
+    "original": "- 최댓값 : 20\n- 크리티컬 발동 시 호흡 위력이 15, 호흡 횟수가 5 이상이면, 호흡 위력을 (보유한 호흡 위력/5)만큼 소모하여 크리티컬 피해량이 (소모한 값 x 4)%만큼 증가하고 수치 1 소모",
+    "context": "EN :\n- Max Stack: 20\n- On Crit, at 15+ Poise Potency and 5+ Poise Count, consume (Poise Potency on self / 5) Poise Potency to deal +(Poise Potency consumed x 4)% more Damage on Critical Hit and lose 1 Stack\nJP :\n- 最大値: 20\n- クリティカル発動時、呼吸威力が15, 呼吸回数が5以上なら、呼吸威力を(保有している呼吸威力 ÷ 5)だけ消耗してクリティカルダメージ量が(消耗した値 × 4)%だけ増加して数値を1消耗"
+  },
+  {
+    "key": "HoldingBreath-summary",
+    "original": "크리티컬 피해량 증가",
+    "context": "EN :\nDeal more Damage on Critical Hit\nJP :\nクリティカルダメージ量増加"
+  },
+  {
+    "key": "NebulizerInhale-name",
+    "original": "네뷸라이저 β",
+    "context": "EN :\nNebulizer β\nJP :\nネブライザーβ"
+  },
+  {
+    "key": "NebulizerInhale-desc",
+    "original": "- 최댓값 : 5\n- 이 효과는 이번 전투 동안 유지됨\n- 오만 완전 공명을 발동하였다면 전투 시작 시, 자신과 무작위 아군 (스택)명이 호흡 3 얻고 호흡 횟수 3 증가 (호흡 또는 호흡 횟수를 스스로 사용하거나 획득하는 스킬을 보유한 아군 중 호흡 위력이 낮은 대상에게 우선 적용)",
+    "context": "EN :\n- Max Stack: 5\n- This effect persists throughout the Encounter\n- When activating Pride A-Reson.: on Combat Start, apply 3 Poise and +3 Poise Count on self and (Stack) allies (prioritizes allies that gain or use Poise or Poise Count; among them, prioritize allies with the least Poise Potency)\nJP :\n- 最大値: 5\n- この効果はこの戦闘の間、保たれる\n- 傲慢完全共鳴を発動したなら戦闘開始時、自分とランダムな味方(スタック)名が呼吸3を得て呼吸回数が3増加(呼吸または呼吸回数を自ら使用するか獲得する味方のうち、呼吸威力が低い対象へ優先して適用)"
+  },
+  {
+    "key": "NebulizerInhale-summary",
+    "original": "호흡 위력 얻음, 호흡 횟수 증가",
+    "context": "EN :\nGain Poise and Poise Count\nJP :\n呼吸威力を得る、呼吸回数増加"
+  },
+  {
+    "key": "Hohenheim_LowMorale-name",
+    "original": "고뇌",
+    "context": "EN :\nAnguish\nJP :\n苦悩"
+  },
+  {
+    "key": "Hohenheim_LowMorale-desc",
+    "original": "턴 시작 시, 취약 1, 정신력 회복 효율 감소 2 얻음",
+    "context": "EN :\nTurn Start: gain 1 Fragile and 2 SP Heal Efficiency Down\nJP :\nターン開始時、脆弱1, 精神力回復効率減少2を得る"
+  },
+  {
+    "key": "Hohenheim_Panic-name",
+    "original": "고뇌",
+    "context": "EN :\nAnguish\nJP :\n苦悩"
+  },
+  {
+    "key": "Hohenheim_Panic-desc",
+    "original": "턴 시작 시, 취약 2 정신력 회복 효율 감소 3 얻음",
+    "context": "EN :\nTurn Start: gain 2 Fragile and 3 SP Heal Efficiency Down\nJP :\nターン開始時、脆弱2, 精神力回復効率減少3を得る"
+  },
+  {
+    "key": "BlackCloud-name",
+    "original": "검은 구름",
+    "context": "EN :\nDark Cloud\nJP :\n黒い雲"
+  },
+  {
+    "key": "BlackCloud-desc",
+    "original": "최댓값 : 1\n이번 턴에 자신이 사용하는 기본 공격 스킬의 코인이 [파괴 불가 코인]으로 변경되며, 해당 스킬 종료 시까지 피해로 인해 흐트러짐 상태가 되지 않고, 코인에서 적에게 부여하는 출혈 효과의 값 +1\n합 패배시 최종 위력 3 증가\n턴 종료시 버프 소멸",
+    "context": "EN :\nMax Stack: 1\nConverts all of this unit's Base Attack Skill Coins used this turn to [Unbreakable Coins], prevents damage from Staggering this unit until Skill End, and inflict +1 more of Bleed effects\nOn Clash Lose: gain Final Power +3\nTurn End: this effect expires\nJP :\n最大値: 1\nこのターンにて自分が使用する基本攻撃スキルのコインが[破壊不能コイン]に変更され、該当スキル終了時までダメージによって混乱せず、コインで敵に付与する出血効果の値 +1\nマッチ敗北時に最終威力が3増加\nターン終了時にバフ消滅"
+  },
+  {
+    "key": "BlackCloudBlade-name",
+    "original": "흑운도",
+    "context": "EN :\nDark Cloud Blade\nJP :\n黒雲刀"
+  },
+  {
+    "key": "BlackCloudBlade-desc",
+    "original": "최댓값 : 1\n참격 위력 1 증가 \n참격 스킬로 공격 적중시 출혈 1 부여",
+    "context": "EN :\nMax Stack: 1\nGain 1 Slash Power\nInflict 1 Bleed On Hit with Slash Skills\nJP :\n最大値: 1\n斬撃威力が1増加\n斬撃スキルで攻撃的中時、出血を1付与"
+  },
+  {
+    "key": "EngageToBattle-name",
+    "original": "임전",
+    "context": "EN :\nBattle Ready\nJP :\n臨戦"
+  },
+  {
+    "key": "EngageToBattle-desc",
+    "original": "최댓값 : 1\n자신의 스킬, 코인 효과로 출혈 위력, 횟수를 부여할 때 부여하는 값 +1\n이번 전투 동안 참격 위력 증가 1, 참격 피해량 증가 3 얻음",
+    "context": "EN :\nMax Value: 1\nBleed Potency and Count inflicted with this unit's Skill or Coin effects: +1\nGain 1 Slash Power Up and 3 Slash DMG Up for the duration of this Encounter\nJP :\n最大値: 1\n自分のスキル・コイン効果で出血威力・回数を付与するとき、付与する値 +1\n今回の戦闘の間、斬撃威力増加1, 斬撃ダメージ量増加3を得る"
+  },
+  {
+    "key": "CloudWall-name",
+    "original": "구름 장벽",
+    "context": "EN :\nCumulus Wall\nJP :\n雲の障壁"
+  },
+  {
+    "key": "CloudWall-desc",
+    "original": "최댓값 : 1\n수비 스킬 최종 위력 +1\n‘뒷골목의 규칙’으로 공격 종료시 또는 턴 종료시 버프 소멸",
+    "context": "EN :\nMax Stack: 1\nDefense Skill Final Power +1\nThis effect expires at Turn End or after the following attack ends: 'Rules of the Backstreets'\nJP :\n最大値: 1\n守備スキルの最終威力 +1\n「裏路地の掟」で攻撃終了時またはターン終了時にバフ消滅"
   }
 ]

@@ -226,8 +226,8 @@
   },
   {
     "key": "838003-desc",
-    "original": "턴 종료 시 (최대 체력 - 현재 체력) 10%당 [AttackUp] 1 얻음. (최대 5)\n턴 종료 시 [BloodDinner] 300당 다음 턴에 속도 최솟값, 최댓값 +1",
-    "context": "EN :\nTurn End: for every 10% missing HP, gain 1 [AttackUp]. (max 5)\nTurn End: gain +1 Min & Max Speed for every 300 [BloodDinner]\nJP :\nターン終了時、(体力最大値 - 現在の体力)10%につき[AttackUp]1を得る(最大5)\nターン終了時、[BloodDinner]300につき次ターンの速度最小・最大値 +1"
+    "original": "턴 종료 시 [BloodDinner] 300당 다음 턴에 속도 최솟값, 최댓값 +1",
+    "context": "EN :\nTurn End: Min & Max Speed +1 next turn for every 300 [BloodDinner]\nJP :\nターン終了時、[BloodDinner]300につき次のターンにて速度の最大・最小値 +1"
   },
   {
     "key": "838004-name",
@@ -247,7 +247,7 @@
   {
     "key": "838005-desc",
     "original": "전투 시작 시, [BloodArmor]을 1 얻음\n- [BloodArmor]이 1 미만으로 감소하지 않음.\n- [BloodArmor]이 10 이상이면, [BloodArmor_2nd]로 전환됨.\n- [BloodArmor] 가 20 이상이면, [BloodArmor_3rd]로 전환됨.\n단계에 따라 속도 최솟값, 최댓값 1 증가 (최대 2)\n[BloodArmor]이 소모되어, 부족해지면 이전 단계가 됨",
-    "context": "EN :\nCombat Start: gain 1 [BloodArmor]\n- [BloodArmor] cannot drop below 1\n- At 10+ [BloodArmor], convert them to [BloodArmor_2nd].\n- At 20+ [BloodArmor], convert them to [BloodArmor_3rd].\nGain Min & Max Speed based on the Stage of this effect (max 2)\nIf this unit consumes [BloodArmor] and drops below the above thresholds, revert to previous Stages accordingly\nJP :\n戦闘開始時、[BloodArmor]を1得る\n- [BloodArmor]が1未満に減少しない\n- [BloodArmor]が10以上なら、[BloodArmor_2nd]に変換される\n- [BloodArmor]が20以上なら、[BloodArmor_3rd]に変換される\n坦懐によって速度の最小・最大値が1増加(最大2)\n[BloodArmor]が消耗されて足りなくなったら前の段階になる"
+    "context": "EN :\nCombat Start: gain 1 [BloodArmor]\n- [BloodArmor] cannot drop below 1\n- At 10+ [BloodArmor], convert them to [BloodArmor_2nd].\n- At 20+ [BloodArmor], convert them to [BloodArmor_3rd].\nGain Min & Max Speed based on the Stage of this effect (max 2)\nIf this unit consumes [BloodArmor] and drops below the above thresholds, revert to previous Stages accordingly\nJP :\n戦闘開始時、[BloodArmor]を1得る\n- [BloodArmor]が1未満に減少しない\n- [BloodArmor]が10以上なら、[BloodArmor_2nd]に変換される\n- [BloodArmor]が20以上なら、[BloodArmor_3rd]に変換される\n段階によって速度の最小・最大値が1増加(最大2)\n[BloodArmor]が消耗されて足りなくなったら前の段階になる"
   },
   {
     "key": "838007-name",

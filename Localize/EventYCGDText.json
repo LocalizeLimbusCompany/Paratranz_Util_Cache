@@ -41,13 +41,13 @@
   },
   {
     "key": "ycgd_rewardpage_desc-content",
-    "original": "이벤트 스테이지와 던전을 클리어할 때마다 <color=#1998fe>[피에 절은 검집]</color>을 획득할 수 있습니다. 이외에도 주요 이야기\n스테이지와 던전을 최초로 클리어하거나 거울 던전 클리어 시, <color=#1998fe>[피에 절은 검집]</color>을 획득할 수 있습니다.\n\n이벤트와 주요 이야기의 스테이지와 던전 또는 거울 던전을 클리어하면 낮은 확률로 <color=#7fc6ff>[한 서린 검집]</color>을 획득할 수 있으며, <color=#7fc6ff>[한 서린 검집]</color>은 획득 즉시 <color=#1998fe>[피에 절은 검집]</color> 20개로 전환됩니다.\n\n<color=#1998fe>[보상 교환]</color> 창에서 <color=#1998fe>[피에 절은 검집]</color>을 지불하여 다양한 보상을 얻을 수 있습니다.",
-    "context": "EN :\nDuring the event, you can earn <color=#1998fe>[Bloodied Scabbard]</color> by clearing event Stages and Dungeons. You can also obtain <color=#1998fe>[Bloodied Scabbard]</color> by clearing Main Story Stages or Dungeons for the first time, or clearing the Mirror Dungeon.\n\nRarely, you may obtain <color=#7fc6ff>[Resentful Scabbard]</color> from clearing Event Stages, Main Story Stages, or Mirror Dungeons,\nand <color=#7fc6ff>[Resentful Scabbard]</color> is automatically converted to 20 <color=#1998fe>[Bloodied Scabbard]</color> upon acquisition.\n\nIn the <color=#1998fe>[Reward Exchange]</color> window, you can purchase various rewards by spending <color=#1998fe>[Bloodied Scabbard]</color> you have collected.\nJP :\nイベントステージとダンジョンをクリアする度に<color=#1998fe>[血に濡れた鞘]</color>を獲得できます。これ以外にもメインストーリー\nステージとダンジョンを初めてクリアするか、鏡ダンジョンクリア時に<color=#1998fe>[血に濡れた鞘]</color>を獲得できます。\n\nイベント、メインストーリーのステージ、または鏡ダンジョンをクリアすれば低確率で<color=#7fc6ff>[恨の宿った鞘]</color>獲得することができ、<color=#7fc6ff>[恨の宿った鞘]</color>は獲得すると即時<color=#1998fe>[血に濡れた鞘]</color> 20個に変換されます。\n\n<color=#1998fe>[報酬交換]</color>ウィンドウより<color=#1998fe>[血に濡れた鞘]</color>を支払い、様々な報酬を獲得できます。"
+    "original": "이벤트 스테이지와 던전을 클리어할 때마다\n<color=#1998fe>[피에 절은 검집]</color>을 획득할 수 있으며, 낮은 확률로\n<color=#7fc6ff>[한 서린 검집]</color>을 추가로 획득할 수 있습니다.\n\n<color=#7fc6ff>[한 서린 검집]</color>은 획득 즉시 <color=#1998fe>[피에 절은 검집]</color> 20개로 전환됩니다.",
+    "context": "EN :\nYou can obtain <color=#1998fe>[Bloodied Scabbard]</color> from Event Stages & Dungeon.\nYou also have a small chance to obtain <color=#7fc6ff>[Resentful Scabbard]</color> in the process.\n\n<color=#7fc6ff>[Resentful Scabbard]</color> is immediately converted to 20 <color=#1998fe>[Bloodied Scabbard]</color> upon acquisition.\nJP :\nイベントステージとダンジョンをクリアするたびに\n<color=#1998fe>[血に濡れた鞘]</color>を獲得でき、低確率で\n<color=#1998fe>[恨の宿った鞘]</color>を追加で獲得することができます。\n<color=#7fc6ff>[恨の宿った鞘]</color>は<color=#1998fe>[血に濡れた鞘]</color>20個に即変換されます。"
   },
   {
     "key": "ycgd_reward_popup_desc-content",
-    "original": "이벤트 스테이지와 던전, 주요 이야기\n최초 클리어, 거울 던전 클리어를 통해\n<color=#1998fe>[피에 절은 검집]</color>을 획득할 수 있습니다.\n\n<color=#1998fe>[보상 교환]</color> 창에서 <color=#1998fe>[피에 절은 검집]</color>을\n지불하여 다양한 보상을 얻을 수 있습니다.",
-    "context": "EN :\nEarn <color=#1998fe>[Bloodied Scabbard]</color> via the following methods:\nEvent Stage & Dungeon clears, Mirror Dungeon clears,\nand Main Story Stage & Dungeon first-time clears.\n\nIn the <color=#1998fe>[Reward Exchange]</color> window, you can purchase various rewards\nby spending <color=#1998fe>[Bloodied Scabbard]</color> you have collected.\nJP :\nイベントステージとダンジョン、メインストーリー\n初回クリア、鏡ダンジョンをクリアすることで\n<color=#1998fe>[血に濡れた鞘]</color>を獲得できます。\n\n<color=#1998fe>[報酬交換]</color>ウィンドウより<color=#1998fe>[血に濡れた鞘]</color>を\n支払い、様々な報酬を獲得できます。"
+    "original": "이벤트 스테이지와 주요 이야기 최초 클리어, 거울 던전 클리어를 통해 <color=#1998fe>[피에 절은 검집]</color>을 획득할 수 있습니다.\n\n<color=#1998fe>[보상 교환]</color> 창에서 <color=#1998fe>[피에 절은 검집]</color>을\n지불하여 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nEarn <color=#1998fe>[Bloodied Scabbard]</color> via the following methods:\nEvent Stage clears, Mirror Dungeon clears,\nand Main Story Stage first-time clears.\n\nIn the <color=#1998fe>[Reward Exchange]</color> window, you can purchase various rewards\nby spending <color=#1998fe>[Bloodied Scabbard]</color> you have collected.\nJP :\nイベントステージとメインストーリー初回クリア、鏡ダンジョンをクリアすることで<color=#1998fe>[血に濡れた鞘]</color>を獲得できます。\n\n<color=#1998fe>[報酬交換]</color>ウィンドウより<color=#1998fe>[血に濡れた鞘]</color>を\n支払い、様々な報酬を獲得できます。"
   },
   {
     "key": "ycgd_reward_popup_num_of_owned_items-content",
@@ -71,12 +71,27 @@
   },
   {
     "key": "ycgd_bonus_popup_title-content",
-    "original": "이벤트 보너스 캐릭터",
-    "context": "EN :\nEvent Bonus Identities\nJP :\nイベントボーナス\nキャラクター"
+    "original": "이벤트 특화 대상",
+    "context": "EN :\nEvent Bonus Units\nJP :\nイベント特化対象"
   },
   {
     "key": "ycgd_bonus_preview-content",
-    "original": "이벤트 보너스 캐릭터",
-    "context": "EN :\nEvent Bonus Identities\nJP :\nイベントボーナス\nキャラクター"
+    "original": "이벤트 특화 대상",
+    "context": "EN :\nEvent Bonus Units\nJP :\nイベント特化対象"
+  },
+  {
+    "key": "ycgd_chapter_map_difficulty_ui_9107-content",
+    "original": "NORMAL",
+    "context": "EN :\nNORMAL\nJP :\nNORMAL"
+  },
+  {
+    "key": "ycgd_chapter_map_difficulty_ui_9115-content",
+    "original": "HARD",
+    "context": "EN :\nHARD\nJP :\nHARD"
+  },
+  {
+    "key": "ycgd_chapter_map_difficulty_ui_unlock_condition-content",
+    "original": "{0}-{1} 이후 어려움 난이도 개방",
+    "context": "EN :\nClear {0}-{1} to Unlock the Hard Difficulty\nJP :\n{0}-{1}以降 ハードモード解放"
   }
 ]

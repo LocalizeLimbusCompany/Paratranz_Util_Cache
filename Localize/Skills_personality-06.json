@@ -67,7 +67,7 @@
   {
     "key": "1060602-levelList$[0].desc",
     "original": "[WhenUse] 자신의 충전 횟수 2 증가\n자신에게 보호막이 있을 때 합 위력 +1",
-    "context": "EN :\n[WhenUse] Gain +2 Charge Count\nClash Power +1 when Shielded\nJP :\n[WhenUse] 自分の充電 回数が2増加\n自分にバリアがあるとき、マッチ威力 +1"
+    "context": "EN :\n[WhenUse] Gain +2 Charge Count\nClash Power +1 when Shielded\nJP :\n[WhenUse] 自分の充電 回数が2増加\n自分にバリアがあるなら、マッチ威力 +1"
   },
   {
     "key": "1060602-levelList$[0].coinlist[1].coindescs[0].desc",
@@ -82,7 +82,7 @@
   {
     "key": "1060602-levelList$[1].desc",
     "original": "[WhenUse] 자신의 충전 횟수 3 증가\n자신에게 보호막이 있을 때 합 위력 +2",
-    "context": "EN :\n[WhenUse] Gain +3 Charge Count\nClash Power +2 when Shielded\nJP :\n[WhenUse] 自分の充電 回数が3増加\n自分にバリアがあるとき、マッチ威力 +2"
+    "context": "EN :\n[WhenUse] Gain +3 Charge Count\nClash Power +2 when Shielded\nJP :\n[WhenUse] 自分の充電 回数が3増加\n自分にバリアがあるなら、マッチ威力 +2"
   },
   {
     "key": "1060602-levelList$[1].coinlist[0].coindescs[0].desc",
@@ -102,7 +102,7 @@
   {
     "key": "1060602-levelList$[2].desc",
     "original": "[WhenUse] 자신의 충전 횟수 3 증가\n자신에게 보호막이 있을 때 합 위력 +2",
-    "context": "EN :\n[WhenUse] Gain +3 Charge Count\nClash Power +2 when Shielded\nJP :\n[WhenUse] 自分の充電 回数が3増加\n自分にバリアがあるとき、マッチ威力 +2"
+    "context": "EN :\n[WhenUse] Gain +3 Charge Count\nClash Power +2 when Shielded\nJP :\n[WhenUse] 自分の充電 回数が3増加\n自分にバリアがあるなら、マッチ威力 +2"
   },
   {
     "key": "1060602-levelList$[2].coinlist[0].coindescs[0].desc",

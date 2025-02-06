@@ -1,0 +1,961 @@
+[
+  {
+    "key": "0-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "0-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "0-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "1-content",
+    "original": "여느 때와 같은 LCE의 복도.",
+    "context": "EN :\nA hallway within the LCE.\nJP :\nいつも通りのLCEの廊下。"
+  },
+  {
+    "key": "2-content",
+    "original": "자료를 분석하던 아이는, 평소와 달리 등 뒤에서 느껴지는 시선을 느끼고 있어.",
+    "context": "EN :\nThe child who's been analyzing the amassed data suddenly senses two sets of eyes intensely focused on her back. This was unusual.\nJP :\n資料を分析していたその子は、いつもとは違って\n背後から視線が注がれるのを感じてるんだ。"
+  },
+  {
+    "key": "3-content",
+    "original": "잠시 고개를 돌려 바라본 시선의 주인은, 어제 들어왔을 신입 연구원이야.",
+    "context": "EN :\nShe briefly turned around and realized that the source of the intense gazing was their new junior researcher, who'd joined just yesterday.\nJP :\n少し首を回すと、その視線の主は\n昨日入ったばかりの新入りの研究員だ。"
+  },
+  {
+    "key": "4-content",
+    "original": "선임 연구원인 이상과 동행하고 있는 신입이 왜 눈을 빛내며 자신을 보고 있을까.",
+    "context": "EN :\nWhat could possibly be the reason for this staring, she wondered. Especially when he was already with another senior researcher.\nJP :\n先任研究員であるイサンと同行している新人が、\nどうして目を輝かせてこちらを見てるんだろう。"
+  },
+  {
+    "key": "5-content",
+    "original": "아이는 도무지 예상이 가지 않았지만, 이어진 대화에 그 이유를 알 수 있었지.",
+    "context": "EN :\nShe could not imagine why, until the pair began talking.\nJP :\n子供にはまったく予想がつかなかったけど、\nそれに続いた会話で理由を知ることになったんだ。"
+  },
+  {
+    "key": "6-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "6-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "6-content",
+    "original": "LCE의 E.G.O는 다 이상하게 생겼다고 생각했는데…",
+    "context": "EN :\nHuh, I thought all E.G.O gear worn by the LCE looked ridiculous, but...\nJP :\nLCEのE.G.Oはみんな変な見た目だと思ってましたけど…。"
+  },
+  {
+    "key": "7-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "7-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "7-content",
+    "original": "저분이 입고 계신 건 되게 깔끔하네요. 공방제 장비처럼요.",
+    "context": "EN :\n... the one she's wearing looks pretty clean. It almost looks workshop-made.\nJP :\nあの方が着ているものはすごくすっきりしてますね。\n工房製の装備みたいに。"
+  },
+  {
+    "key": "8-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "8-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "8-content",
+    "original": "로보토미의 E.G.O와 달리 꼬리나 비늘 같이 인간에게 없는 것이 생기니 이상하다 느꼈을 순 있겠구료.",
+    "context": "EN :\nPerhaps you found the E.G.O gears of the LCE odd, for unlike the gears of Lobotomy Corporation, various inhuman features such as tails or scales may sprout on their users.\nJP :\nロボトミィのE.G.Oとは異なり、尾や鱗のごとき人に無きものができれば、\n異様と感じられたのであろうな。"
+  },
+  {
+    "key": "9-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "9-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "9-content",
+    "original": "하지만… 너무 부러워하지는 마시게나. 저 E.G.O는… 누구도 입으려 하지 않았으니.",
+    "context": "EN :\nYet... hold not so much envy in your heart for her gear, for many failed to find it within themselves to don it.\nJP :\nされど…あまり羨望するでない。\nこのE.G.Oは…誰も着たがらざりしものなりければ。"
+  },
+  {
+    "key": "10-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "10-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "10-content",
+    "original": "네에!? 저렇게 멋진 E.G.O인 데도요?",
+    "context": "EN :\nWhaat! But that E.G.O gear looks so cool!\nJP :\nえぇ！？あんな格好いいE.G.Oなのにですか？"
+  },
+  {
+    "key": "11-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "11-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "11-content",
+    "original": "…펑, 하고 터지기 때문이오.",
+    "context": "EN :\n... For it may go... 'boom'.\nJP :\n…ぽん、と爆ぜるゆえなり。"
+  },
+  {
+    "key": "12-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "12-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "12-content",
+    "original": "그것이 전투 중이 될지, 아니면 연구 중이 될지는 알 수 없으니… 어쩌면 지금일 수도 있소.",
+    "context": "EN :\nShall it be during battle, or during study, one cannot say. Perhaps it may erupt... even now.\nJP :\nそれが戦闘中なるや、研究中なるや定かならぬがゆえ…。\nもしやすると今かもしれぬ。"
+  },
+  {
+    "key": "13-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "13-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "13-content",
+    "original": "그, 그럼…",
+    "context": "EN :\nW-wait, then...\nJP :\nじゃ、じゃあ…。"
+  },
+  {
+    "key": "14-content",
+    "original": "결국 듣다 못한 아이는 펜을 멈추고, 고개를 돌렸어.",
+    "context": "EN :\nThe child, unable to bear this any longer, paused and turned around.\nJP :\n聞きかねたその子供はペンを止め、振り返ったんだ。"
+  },
+  {
+    "key": "15-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "15-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "15-content",
+    "original": "신입 연구원에게 출처가 불분명한 괴담을 전파하는 건 지양하시죠. 이상 씨.",
+    "context": "EN :\nPlease refrain from sharing rumors of ambiguous sources to new hires, Yi Sang.\nJP :\n新入りの研究員に出所不明の怪談を伝播させるのはおやめください、\nイサンさん。"
+  },
+  {
+    "key": "16-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "16-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "16-content",
+    "original": "…또 장난 치신 거였어요?",
+    "context": "EN :\n... C'mon, were you trying to prank me again?\nJP :\n…またからかったんですか？"
+  },
+  {
+    "key": "17-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "17-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "17-content",
+    "original": "드물게 타인을 데리고 돌아다니신다 했습니다만, 아무래도 영양가 있는 동행은 아니었던 모양이군요.",
+    "context": "EN :\nI had wondered for what cause you could possibly have for bringing someone else along... But it does not seem to have been for any productive purpose.\nJP :\nめずらしく他人を連れて歩いていると聞きましたが、\nどうやら有益な同行にはならなかったようですね。"
+  },
+  {
+    "key": "18-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "18-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "18-content",
+    "original": "하하…",
+    "context": "EN :\nHa ha...\nJP :\nはは…。"
+  },
+  {
+    "key": "19-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "19-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "19-content",
+    "original": "뭐. 완전히 거짓은 아닙니다. 이 E.G.O가 폭발할 수 있는 확률이 존재한다는 건 엄연한 사실이니까요.",
+    "context": "EN :\nWell. He did not lie, to be precise. It is indeed true that this E.G.O gear is prone to reactions of explosive nature.\nJP :\nまあ。まったくの嘘というわけはありません。\nこのE.G.Oが爆発し得る確率が存在するのは\n厳然たる事実ですからね。"
+  },
+  {
+    "key": "20-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "20-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "20-content",
+    "original": "단지, 폭발에 대한 안전 검증이 완료되었기에… 두려울 이유가 없는 거죠.",
+    "context": "EN :\nYet, the safety trials have already been completed regarding such risks. There is no reason to fear.\nJP :\nただ、爆発に関する安全検証は完了していますから…\n恐れる理由はないということです。"
+  },
+  {
+    "key": "21-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "21-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "21-content",
+    "original": "으으, 전 그래도 못 입을 거 같아요.",
+    "context": "EN :\nUgh, I don't know. I don't think I'd ever feel safe if I had to wear that.\nJP :\nうぅ、私はそれでも着られないと思います。"
+  },
+  {
+    "key": "22-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "22-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "22-content",
+    "original": "위험성이 너무 높지 않나요?",
+    "context": "EN :\nIsn't it too risky?\nJP :\n危険性が高すぎませんか？\""
+  },
+  {
+    "key": "23-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "23-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "23-content",
+    "original": "… LCE에서 연구하는 대부분의 것은 미지의 위험으로 가득합니다. 위험도 높은 연구 과제가 주어졌을 때, 도망쳐서는 아무것도 이룰 수 없을 테죠.",
+    "context": "EN :\n... Most subjects of study here at LCE are fraught with risks of unknown natures. One cannot hope to accomplish anything should they flee before high-risk research projects.\nJP :\n…LCEで研究している大半のものは未知の危険に満ちています。\nリスクの高い研究課題が与えられたとき、\n逃げ出していては何も成し遂げられないでしょう。"
+  },
+  {
+    "key": "24-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "24-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "24-content",
+    "original": "연구에 뛰어들어 원리를 해명하고, 위험에 맞서 결과를 도출하는 것.",
+    "context": "EN :\nResearchers must endeavor to be able to explain the fundamentals of their operations, and thus face what dangers may lie ahead to establish conclusions.\nJP :\n研究に飛び込んで原理を解明し、\n危険に立ち向かいながら結果を導き出すこと。"
+  },
+  {
+    "key": "25-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "25-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "25-content",
+    "original": "당신이 이곳, LCE에서 연구를 통해 성과를 내고 싶다면… 기억해두는 게 좋을 것 같네요.",
+    "context": "EN :\nYou would do well to remember that, if your aim is to accomplish anything here at the LCE through research.\nJP :\nもしあなたがここ、LCEで研究を通じて成果を上げたいのなら…\n覚えておいたほうが良いでしょうね。"
+  },
+  {
+    "key": "26-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "26-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "26-content",
+    "original": "…확실히 LCE에서 다루는 환상체나 뒤틀림, E.G.O는 다른 회사에서는 한 번도 들어본 적 없는 미지의 영역이네요.",
+    "context": "EN :\n... That's true. Whatever you guys are dealing with here at the LCE, the Abnormalities, the Distortions are... I simply haven't seen or heard of anything like them anywhere else.\nJP :\n…確かにLCEが扱う幻想体やねじれ、E.G.Oは\n他の会社では一度も聞いたことのない未知の領域ですね。"
+  },
+  {
+    "key": "27-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "27-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "27-content",
+    "original": "말씀… 잘 기억해두겠습니다.",
+    "context": "EN :\nI... I'll remember that.\nJP :\nおっしゃったこと…しっかり覚えておきます。"
+  },
+  {
+    "key": "28-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "28-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "28-content",
+    "original": "너무 뭐라고 하진 마시게. 입사한지 이제 이틀이 되었으니…",
+    "context": "EN :\nBe not so harsh on him, for it has been but two days since his onboarding.\nJP :\nあまりとやかく言うでないぞ。\nまだ入社して2日目なのだからな…。"
+  },
+  {
+    "key": "29-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "29-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "29-content",
+    "original": "이상 씨는 E.G.O와의 감응도를 잘 조절하는 편이 좋을 것 같네요.",
+    "context": "EN :\nYi Sang, perhaps you should adjust your attunement level with that E.G.O.\nJP :\nイサンさんはE.G.Oとの感応度を\nちゃんと調整した方が良さそうですね。"
+  },
+  {
+    "key": "30-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "30-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "30-content",
+    "original": "크흠. 드물게 마음에 드는 후배가 들어와, 조금 더 장난기가 심해진 것 같소.",
+    "context": "EN :\nAhm. It may be that, in the process of welcoming a promising junior researcher, I have allowed my mischievousness to get out of hand.\nJP :\n珍しく気に入る後輩が入ったゆえか、\n幾分悪戯心が高じておるやもしれぬ。"
+  },
+  {
+    "key": "31-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "31-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "31-content",
+    "original": "네. 뭐. 그럼 저는 이만…",
+    "context": "EN :\nYes. Well. Then I will excuse myself.\nJP :\nええ。まあ。では、私はこれで…。"
+  },
+  {
+    "key": "32-content",
+    "original": "할 말은 끝났다고 생각한 걸까.",
+    "context": "EN :\nShe must have had nothing more to say.\nJP :\n言うべきことは終わったとでも思ったからかな。"
+  },
+  {
+    "key": "33-content",
+    "original": "미련 없이 떠나는 아이를 연구원이 붙잡았어.",
+    "context": "EN :\nBecause she whipped around and began walking away, as though her business here was concluded. But the researcher stopped her in her steps.\nJP :\n未練もなく去ろうとするその子を、研究員が引き止めたの。"
+  },
+  {
+    "key": "34-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "34-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "34-content",
+    "original": "아, 혹시 그대… 죄종 실험실로 가는 길인가?",
+    "context": "EN :\nAh. Are you... bound for the Peccatula Laboratory, by any chance?\nJP :\nあぁ、もしやそなた…大罪実験室へ向かうところなりや？"
+  },
+  {
+    "key": "35-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "35-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "35-content",
+    "original": "전투 테스트가 예정되어 있거든요.",
+    "context": "EN :\nYes. I am to participate in a combat capacity test.\nJP :\n戦闘テストが予定されておりまして。"
+  },
+  {
+    "key": "36-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "36-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "36-content",
+    "original": "그렇다면 나의 후배를 견학을 겸해 데려가 주지 않겠는가. 당장은 배정된 업무도 없고, 그렇다고 환상체 관리 작업을 하러 가는 나를 따라올 순 없으니.",
+    "context": "EN :\nThen will you, perhaps, bring my junior with you for a field trip? He is yet to be assigned a task, and I find him ill prepared to join me for an Abnormality management work.\nJP :\nそれなれば、我が後輩を見学も兼ねて連れて行ってはくれぬか。\n今はまだ割り当てられし業務もなく、\nさりとて幻想体の管理作業に連れて行くわけにもいかぬゆえな。"
+  },
+  {
+    "key": "37-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "37-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "37-content",
+    "original": "그러죠.",
+    "context": "EN :\nVery well.\nJP :\nいいですよ。"
+  },
+  {
+    "key": "38-content",
+    "original": "일반적인 회사의 연구직이라고 하면, 보통 전투와는 거리가 멀어.",
+    "context": "EN :\nIt's unusual for researchers of most companies to be involved in any degree of combat...\nJP :\n一般的な企業の研究職は、普通なら戦闘とは無縁なの。"
+  },
+  {
+    "key": "39-content",
+    "original": "그래서일까, 신입은 신기한지 아이에게 물음을 던졌어.",
+    "context": "EN :\nThis seemed to have piqued the junior researcher's interest.\nJP :\nだからなのか、新人は不思議そうに子供に問いかけたんだ。"
+  },
+  {
+    "key": "40-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "40-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "40-content",
+    "original": "오… 전투 실험도 꽤 있나 보네요.",
+    "context": "EN :\nWoah... combat tests?\nJP :\nおお…戦闘実験も結構あるんですね。"
+  },
+  {
+    "key": "41-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "41-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "41-content",
+    "original": "억압 작업의 효율 증가, 환상체 및 뒤틀림 탈출 시의 제압 효율 증가, 거기에 전투로 얻을 수 있는 여러 추가 데이터까지. 성과가 보장되는 실험이니까요.",
+    "context": "EN :\nYes. It guarantees results, should it succeed. Repression Work efficiency. Abnormality or Distortion containment breach suppression efficiency. Not to mention the various additional data that can be procured from engaging them in combat.\nJP :\n抑圧作業の効率向上、幻想体およびねじれの脱走時の制圧効率向上、\nさらに戦闘によって得られるさまざまな追加データまで。\n成果が保証される実験ですからね。"
+  },
+  {
+    "key": "42-content",
+    "original": "신입 연구원의 질문 세례를 받기 시작한지 몇 분 되지 않아, 아이는 실험실 앞에 도착했어.",
+    "context": "EN :\nBut the junior researcher didn't have much time to ask his questions, as they arrived at the laboratory within minutes.\nJP :\n新人研究員の質問攻めにあってから数分も経たぬうちに、\nその子は実験室の前に到着したんだ。"
+  },
+  {
+    "key": "43-content",
+    "original": "안쪽이 훤히 보이는 창문으로 신입 연구원이 지켜보는 사이. 아이는 홀로 실험실 안에 들어갔고.",
+    "context": "EN :\nThe child walked into the laboratory alone as the junior researcher watched through the glass window.\nJP :\n中がよく見える窓越しに新人研究員が見守っている間、\nその子供はひとりで実験室の中へ入っていったの。"
+  },
+  {
+    "key": "44-content",
+    "original": "무언가에 이끌리듯, 죄종은 아이를 에워싸고 달려들었지.",
+    "context": "EN :\nThe Peccatula in there surrounded the child as though they were drawn by something.\nJP :\n何かに誘われるように、大罪たちは\nその子供を取り囲みながら襲いかかったの。"
+  },
+  {
+    "key": "45-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "45-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "45-content",
+    "original": "괘, 괜찮으신 거 맞죠?",
+    "context": "EN :\nY-you're gonna be okay, right?\nJP :\nだ、大丈夫なんですよね？"
+  },
+  {
+    "key": "46-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "46-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "46-content",
+    "original": "문제 될 변수는 없어 보이는군요. 그럼…",
+    "context": "EN :\nNo variables of any risk have been observed.\nJP :\n問題になりそうな変数は見当たりませんね。\nそれでは…。"
+  },
+  {
+    "key": "47-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "47-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "47-content",
+    "original": "감응도 상승. 공명합니다.",
+    "context": "EN :\nRaising attunement level. Resonating.\nJP :\n感応度上昇。共鳴します。"
+  },
+  {
+    "key": "48-content",
+    "original": "홀린 듯 달려오던 죄종들을 두고, 아이는 순식간에 천장으로 날아올랐어.",
+    "context": "EN :\nThe child soared toward the ceiling, making some distance between herself and the gathering Peccatula.\nJP :\n魅了されたかのたように突進してきた大罪たちを前に、\nその子供はあっという間に天井へ舞い上がったんだ。"
+  },
+  {
+    "key": "49-content",
+    "original": "E.G.O와의 동화율. 여기서는 감응도라고 불리는 것이 올라간 덕분일 테지.",
+    "context": "EN :\nThis must've been made possible thanks to her assimilation rate—also known here as attunement rate.\nJP :\nE.G.Oとの同化率。ここでは感応度って呼ばれるものが\n上がったおかげだろうね。"
+  },
+  {
+    "key": "50-content",
+    "original": "보통은 감응도가 높다고 해서 흉내 낼 수 있는 일이 아니었지만… LCE는 조금 달라.",
+    "context": "EN :\nNormally, this wouldn't have been possible even with a high attunement rate, but the LCE E.G.O were different.\nJP :\n普通なら、感応度が高いからって\n真似できるようなことじゃないけど…LCEは少し違うの。"
+  },
+  {
+    "key": "51-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "51-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "51-content",
+    "original": "날개가 있는 E.G.O는 비행도 가능한 건가요? 장식 같은 게 아니라!?",
+    "context": "EN :\nWoah, wait. Winged E.G.Os can fly? I thought they were just for show?!\nJP :\n翼のあるE.G.Oって、飛行もできるんですか？\n単なる飾りとかじゃなくて！？"
+  },
+  {
+    "key": "52-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "52-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "52-content",
+    "original": "항상 그렇지는 않아요. 날지 못하는 날개가 훨씬 많을 테니.",
+    "context": "EN :\nNot necessarily. Most Winged E.G.O gears do not have flight capabilities.\nJP :\n常にそうとは限りません。\n飛べない翼の方が遥かに多いでしょうから。"
+  },
+  {
+    "key": "53-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "53-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "53-content",
+    "original": "그래도, 로보토미 코퍼레이션의 E.G.O에 비해, 감응도만 높다면 환상체 본연의 특징을 더 유연하게 사용할 수 있는 건 사실이죠.",
+    "context": "EN :\nIndeed, it is true that, as long as high attunement level can be maintained, it can utilize the source Abnormality's idiosyncrasies with greater flexibility compared to Lobotomy Corporation E.G.O.\nJP :\nそれでも、ロボトミ・コーポレーションのE.G.Oと比べると\n感応度さえ高ければ、幻想体本来の特徴をより柔軟に使えるのは事実ですね。"
+  },
+  {
+    "key": "54-content",
+    "original": "환상체를 이해하고, 잠깐이지만 그것에 공감하는 태도를 취하는 것으로…",
+    "context": "EN :\nBy gaining a deep understanding of the Abnormality, and by maintaining, even for a brief moment, empathy for it...\nJP :\n幻想体を理解し、しばしの間でもそれに共感する態度をとることで…。"
+  },
+  {
+    "key": "55-content",
+    "original": "아이는 일시적이지만, 감응도를 자발적으로 끌어올린 거야.",
+    "context": "EN :\n... she was able to temporarily raise her attunement level by her own volition.\nJP :\n子供は一時的にだけど、感応度を自発的に引き上げたんだ。"
+  },
+  {
+    "key": "56-content",
+    "original": "어떤 의미에서는 로보토미 코퍼레이션의 E.G.O보다 더… E.G.O에 가까운 사용 방식이네.",
+    "context": "EN :\nPerhaps, in a way, it is closer to the usage of actual E.G.O rather than E.G.O gears of Lobotomy Corporation.\nJP :\nある意味、ロボトミ・コーポレーションのE.G.Oより\nもっと…E.G.Oに近い使い方だね。"
+  },
+  {
+    "key": "57-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "57-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "57-content",
+    "original": "감응도를 올릴 수 있도록 열심히 해야겠네요.",
+    "context": "EN :\nI see. So I should try my best to raise my attunement levels.\nJP :\n感応度を上げられるよう、頑張らないといけませんね。"
+  },
+  {
+    "key": "58-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "58-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "58-content",
+    "original": "나쁘지 않은 발상이지만, 너무 열의를 가지는 것은 추천 드리지 않습니다.",
+    "context": "EN :\nMaybe so, but over-investment is discouraged.\nJP :\n悪くない発想ですが、あまり熱心になりすぎるのはお勧めしません。"
+  },
+  {
+    "key": "59-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "59-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "59-content",
+    "original": "연구하고, 심취할수록… E.G.O는 서서히 착용자를 잠식하기 때문이죠.",
+    "context": "EN :\nDeeper studies and obsession may cause the wearer to be consumed by the E.G.O.\nJP :\n研究し、心酔するほど…E.G.Oは、徐々に\n着用者を蝕んでいきますからね。"
+  },
+  {
+    "key": "60-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "60-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "60-content",
+    "original": "이런 식으로.",
+    "context": "EN :\nLike so.\nJP :\nこんな風に。"
+  },
+  {
+    "key": "61-content",
+    "original": "죄종들을 하나둘 태워버리던 아이의 움직임은, 점점 화려하게 변해가는 중이야.",
+    "context": "EN :\nThe child's moves began to grow increasingly flashy as she burns the Peccatula away one by one.\nJP :\n大罪を次々と焼き払っていたその子供の動きは、\nますます華やかになっていってるね。"
+  },
+  {
+    "key": "62-content",
+    "original": "마치 환상체인… 홍염나방이 움직이듯 나풀거리며 사방에 불씨를 퍼트렸지.",
+    "context": "EN :\nSpreading embers everywhere... just like the Abnormality, Ardor Blossom Moth.\nJP :\nまるで幻想体の紅炎蛾が舞うように\nひらひらと動きながら四方に火の粉を撒き散らしたの。"
+  },
+  {
+    "key": "63-content",
+    "original": "그 순간, 타닥…하는 소리가 실험실에 울려 퍼졌어.",
+    "context": "EN :\nThat's when a sudden crackling noise echoed through the laboratory.\nJP :\nその瞬間、パチッ…という音が実験室に響き渡ったんだ。"
+  },
+  {
+    "key": "64-content",
+    "original": "불길로 가득한 내부를 보면, 별것 아닌 소리였지만…",
+    "context": "EN :\nIt wasn't anything special, considering that the entire chamber was practically on fire...\nJP :\n中が炎に満ちてるのを見れば、大した音じゃなかったけど…。"
+  },
+  {
+    "key": "65-content",
+    "original": "아까 전 다른 연구원이 일러준 괴담 때문에 신입 연구원은 흠칫할 수 밖에 없었어.",
+    "context": "EN :\n... but the junior researcher couldn't help but flinch out of fear, given what the senior researcher from earlier had told him.\nJP :\nさっき他の研究員に聞かされた怪談のせいで、\n新人研究員はびくっとするしかなかったんだ。"
+  },
+  {
+    "key": "66-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "66-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "66-content",
+    "original": "서, 설마 터지는 거예요?",
+    "context": "EN :\nA-are you about to blow?\nJP :\nま、まさか爆発するんですか？\""
+  },
+  {
+    "key": "67-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "67-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "67-content",
+    "original": "여기서 감응도를 더 올려 최대치가 된다면 그러겠죠.",
+    "context": "EN :\nWere I to raise the attunement level further, yes. I would explode.\nJP :\nここから更に感応度を上げて\n最大値に達すれば、そうなるでしょうね。"
+  },
+  {
+    "key": "68-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "68-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "68-content",
+    "original": "물론 그럴 생각은 없어요. 아직 실증해야할 것이 많으니까요.",
+    "context": "EN :\nBut I don't intend to, of course. There is still much that must be studied.\nJP :\nもちろん、そのつもりはありません。\nまだ実証すべきことが沢山ありますからね。"
+  },
+  {
+    "key": "69-content",
+    "original": "기이한 열기가 아이의 몸으로 모여드는 순간, 아이는 생각을 비우듯 잠시 눈을 감았고…",
+    "context": "EN :\nJust as that bizarre heat began to coalesce around her, the child closed her eyes as though she was emptying her thoughts. And...\nJP :\n奇妙な熱気がその子供の身体に集まった瞬間、\nその子供は思考を空にするようにしばらく目を閉じると…。"
+  },
+  {
+    "key": "70-content",
+    "original": "이내 타오르는 날개도, 무기에 붙은 불길도 사라졌지.",
+    "context": "EN :\n... the flames were extinguished. The burning wings, the fire that had traced the path of her weapon... all gone.\nJP :\nやがて燃え盛る翼も、\n武器に宿っていた炎も消えていったんだ。"
+  },
+  {
+    "key": "71-content",
+    "original": "그 모습을 홀린 듯이 바라보던 연구원은 실험이 끝나자마자 아이에게 달려왔어.",
+    "context": "EN :\nJust as the experiment was over, the researcher ran up to the child, mesmerized.\nJP :\nその様子に魅了されたかのように眺めていた研究員は\n実験が終わるや否や、その子供のもとへ駆け寄ったの。"
+  },
+  {
+    "key": "72-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "72-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "72-content",
+    "original": "굉장하네요. E.G.O와의 감응을 이렇게 자유자재로 할 수 있다니.",
+    "context": "EN :\nThat was awesome. Crazy how you could so freely control your attunement to the E.G.O just like that.\nJP :\n凄いですね。E.G.Oとの感応をこんな自由自在にできるだなんて。"
+  },
+  {
+    "key": "73-teller",
+    "original": "신입 연구원",
+    "context": "EN :\nNovice Researcher\nJP :\n新入りの研究員"
+  },
+  {
+    "key": "73-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "73-content",
+    "original": "저도 언젠가 파우스트 씨 같은 연구원이 될 수 있을까요?",
+    "context": "EN :\nThink I can be a researcher like you, Ms. Faust?\nJP :\n私もいつか、ファウストさんみたいな研究員になれますかね？"
+  },
+  {
+    "key": "74-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "74-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "74-content",
+    "original": "좋은 발상은 아니군요. 마음대로 조절하는 것 같아 보일 순 있지만…",
+    "context": "EN :\nIt is inadvisable to do so, however. Though it may appear as though the attunement levels were freely controlled...\nJP :\nあまり良い発想とは言えませんね。\n自由自在に制御しているように見えるかもしれませんが…。"
+  },
+  {
+    "key": "75-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "75-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "75-content",
+    "original": "파우스트조차, 침식의 영향을 피해갈 순 없었으니까요.",
+    "context": "EN :\n... not even Faust may be free from the effects of corrosion.\nJP :\nファウストでさえ、侵蝕の影響を\n免れることはできなかったのですから。"
+  },
+  {
+    "key": "76-content",
+    "original": "위험을 감수하는 것도, 지식을 파고드는 것도. 본래 아이의 성격과 다르지 않지만…",
+    "context": "EN :\nIt was indeed the child's natural disposition to welcome risks in pursuit of knowledge.\nJP :\n危険を甘受するのも、知識を深く追い求めることも。\n本来の子供の性格と変わらないけど…。"
+  },
+  {
+    "key": "77-content",
+    "original": "E.G.O의 영향을 받고 있는 이곳의 아이는 유독 그 정도가 심해지곤 해.",
+    "context": "EN :\nHowever, this child here is more extreme than others, given that she is affected by the E.G.O.\nJP :\nE.G.Oの影響を受けているここの子供は、\nその傾向が一層強くなることがあるんだ。"
+  },
+  {
+    "key": "78-content",
+    "original": "그렇기에 아이는 바라지 않는 거야.",
+    "context": "EN :\nThat is why this child does not wish...\nJP :\nだからこそ、その子供は望まないんだ。"
+  },
+  {
+    "key": "79-content",
+    "original": "신입이 자신과 같은 연구원이 되는 것을.",
+    "context": "EN :\n... for this junior researcher to walk the same path as she does.\nJP :\n新入りが自分と同じ研究員になることをね。"
+  },
+  {
+    "key": "80-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "80-title",
+    "original": "LCE 연구팀",
+    "context": "EN :\nLCE Research Team\nJP :\nLCE研究チーム"
+  },
+  {
+    "key": "80-content",
+    "original": "감응도를 올릴 때는 항상 주의하시는 게 좋습니다. 특히 환상체 앞에 있을 때는 더더욱.",
+    "context": "EN :\nAlways exercise utmost caution when raising attunement levels. Especially when you are in the source Abnormality's immediate presence.\nJP :\n感応度を上げる際は、常に注意した方が良いでしょう。\n特に幻想体の前ではより一層。"
+  },
+  {
+    "key": "81-content",
+    "original": "연신 고개를 끄덕이는 연구원을 보며, 아이는 실험실 내부를 정리하기 시작했어.",
+    "context": "EN :\nWatching the researcher nod vigorously, the child began cleaning up the testing chamber.\nJP :\nひっきりなしにうなずく研究員を横目に、\nその子供は実験室内部の後片付けを始めたんだ。"
+  },
+  {
+    "key": "82-content",
+    "original": "그렇게 등을 돌린 아이는, 미처 연구원의 불온한 열의를 보지 못했지.",
+    "context": "EN :\nSo she failed to notice a look of ominous passion in the researcher's eyes.\nJP :\nそうして背を向けたその子供は、\n研究員の不穏な熱意を見逃してしまったの。"
+  },
+  {
+    "key": "83-content",
+    "original": "E.G.O. 그리고 환상체와의 감응.",
+    "context": "EN :\nE.G.O. And attunement to the Abnormality.\nJP :\nE.G.O、そして幻想体との感応。"
+  },
+  {
+    "key": "84-content",
+    "original": "그것이 언젠가 좋지 못한 일을 불러올, 불씨가 될 줄도 모르고 말이야.",
+    "context": "EN :\nFailing to see the misfortune that the burning embers of his passion will one day spark.\nJP :\nそれがいつか良からぬ事態を呼び起こす、\n火種となることも知らずにね。"
+  }
+]

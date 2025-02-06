@@ -526,8 +526,8 @@
   },
   {
     "key": "1052-desc",
-    "original": "스킬로 화상 부여 시 화상 횟수 5 증가",
-    "context": "EN :\nWhen inflicting Burn with skill effects, inflict +5 Burn Count.\nJP :\nスキルで火傷 付与時、火傷 回数が5増加"
+    "original": "스킬로 적에게 화상 부여 시 화상 횟수 5 증가",
+    "context": "EN :\nWhen inflicting Burn with skill effects against enemies, inflict +5 Burn Count.\nJP :\nスキルで敵へ火傷 付与時、火傷 回数が5増加"
   },
   {
     "key": "1053-name",
@@ -536,8 +536,8 @@
   },
   {
     "key": "1053-desc",
-    "original": "스킬로 파열 부여 시 파열 횟수 5 증가",
-    "context": "EN :\nWhen inflicting Rupture with skill effects, inflict +5 Rupture Count.\nJP :\nスキルで破裂 付与時、破裂 回数が5増加"
+    "original": "스킬로 적에게 파열 부여 시 파열 횟수 5 증가",
+    "context": "EN :\nWhen inflicting Rupture with skill effects against enemies, inflict +5 Rupture Count.\nJP :\nスキルで敵へ破裂 付与時、破裂 回数が5増加"
   },
   {
     "key": "1054-name",

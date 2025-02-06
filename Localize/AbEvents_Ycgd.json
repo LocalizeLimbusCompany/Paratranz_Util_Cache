@@ -158,5 +158,45 @@
     "key": "1051002-failureDesc$[0]",
     "original": "푸른 글자들이 스르르 사라지더니, 새로운 글자가 떠올랐다.\n\n'애'\n\n그 글자는 잠시간 떠 있더니, 무언가 불타오르듯 화르륵 하고 사라졌다.\n\n...마음에 들지 않았던 걸까?",
     "context": "EN :\nThe blue letters slowly fade away, and a new word appears in their place.\n\n'Sorrow.'\n\nThe word stays there for a moment before burning up and fading away.\n\n... Maybe it didn't like our answer?\nJP :\n青い文字が段々と消え、新しい文字が浮かんだ。\n\n「哀」\n\nその文字はしばらく浮かんでいたが、何かが燃えるかのように消えてしまった。\n\n…気に入らなかったのだろうか？"
+  },
+  {
+    "key": "97104901-title",
+    "original": "뭘 좀 아는군요",
+    "context": "EN :\nYou know your stuff\nJP :\nわかってるじゃねぇか"
+  },
+  {
+    "key": "97104901-behaveDesc",
+    "original": "어느 수감자가 말할까?",
+    "context": "EN :\nWho will speak?\nJP :\nどの囚人が言うんだろうか？"
+  },
+  {
+    "key": "97104901-successDesc$[0]",
+    "original": "\"이 자식. 뭘 좀 아는데요?\"\n\n\"하하! 그래 다른 무기가 별로라는 건 아닌데, 낭만은 검이지.\"\n\n\"검이 확실히 멋있긴 하지. 얘들아 그렇지?\"\n\n{0} 수감자의 말에 술집의 모두가 환호한다.\n\n검에 관한 여러 이야기를 즐겁게 나누다 일어서려는 순간...\n\n대장으로 보이는 이가 무언가를 탁자 위에 올렸다.\n\n\"애들 상대해 줘서 고마워. 이거라도 가져가렴.\"",
+    "context": "EN :\n\"Now ain't that the truth!\"\n\n\"Ha ha! Yeah, it's not like we're saying that other weapons suck. It's just that there's something really cool about swords, am I right?\"\n\n\"Blades are indeed quite impressive to look at. Am I right, boys?\"\n\nThe bar fills with cheers and hollers of its patrons at {0}'s decision.\n\nJust as we were about to bid them goodbye, after sharing our passionate thoughts on this particular brand of bladed instruments...\n\n... the woman who appeared to be their leader left something on the desk.\n\n\"Thank you for indulging them. Why don't you take these with you, for your troubles?\"\nJP :\n「こいつ、わかってるじゃねぇか。」\n\n「ハハ！そうだな、他の武器が悪いってわけじゃないけど、やっぱり刀は浪漫だよな。」\n\n「刀って確かにカッコいいよな。な、野郎ども？」\n\n囚人{0}の言葉に、酒場の全員が歓声を上げた。\n\n刀についてのさまざまな話をひとしきり楽しく交わし、立ち上がろうとしたその瞬間―\n\nお頭らしき人物が何かをテーブルの上に置いた。\n\n「こいつらの相手してくれてありがとうな。これでも持っていけ。」"
+  },
+  {
+    "key": "97104901-failureDesc$[0]",
+    "original": "\"왕이라니, 말은 멋있는데… 과하지 않아?\"\n\n\"그 말엔… 진심이 느껴지지 않아.\"\n\n\"그러게, 왕은 너무 갔다.\"\n\n{0} 수감자의 말이 조금 과했던 걸까.\n\n몇몇 사람이 머쓱한 표정으로 이쪽을 쳐다보고 있다.\n\n\"뭐… 그래. 검이 최고라는 그 뜻은 알겠어.\"\n\n대장으로 보이는 이가 {0} 수감자에게 술 한 잔을 따라주었다.\n\n꽤 맛있는 술인지 {0} 수감자가 놀란 표정으로 잔을 비웠다.",
+    "context": "EN :\n\"The king of weapons, huh? That's cool, but... I think you laid it on a little thick with the compliments.\"\n\n\"Yeah... almost like your heart's just not in it.\"\n\n\"Yeah, did you really have to hail it, too?\"\n\nMaybe {0} went a bit overboard with compliments.\n\nSome of them are looking over at us with an awkward expression.\n\n\"Well... alright. I get what you mean. Swords are indeed the best, hm?\"\n\nTheir boss pours {0} a drink.\n\nIt must've been unexpectedly delicious; {0} quickly emptied the cup.\nJP :\n「王って、言葉はカッコいいけど…ちょっと大げさじゃねぇか？」\n\n「その言葉にゃ…真心が感じられねぇな。」\n\n「そうだな、王ってのは言い過ぎだ。」\n\n囚人{0}の言葉が少し大袈裟すぎたのだろうか。\n\n何人かが気まずそうな表情でこちらを見ている。\n\n「まあ…そうだな。剣が最高だっていう気持ちは伝わったよ。」\n\nお頭らしき人物が囚人{0}に一杯の酒を注いだ。\n\nかなり美味しい酒だったのか、囚人{0}は驚いた表情で杯を空にした。"
+  },
+  {
+    "key": "97105001-title",
+    "original": "그런갑다 싶습니다",
+    "context": "EN :\nI gues so\nJP :\nそうみたいですね"
+  },
+  {
+    "key": "97105001-behaveDesc",
+    "original": "어느 수감자가 말할까?",
+    "context": "EN :\nWho will speak?\nJP :\nどの囚人が言うんだろうか？"
+  },
+  {
+    "key": "97105001-successDesc$[0]",
+    "original": "\"오…\"\n\n\"하긴 그게 최선이겠지. 싸움만이 답이라, 제법 운치도 있고.\"\n\n\"재밌는 녀석이네. 시간 있냐?\"\n\n두 사람은 {0} 수감자를 데려가더니 술 몇잔을 마시고 나서야 보내줬다.\n\n돌아온 {0} 수감자의 손에는 술잔 하나가 쥐여져 있다.",
+    "context": "EN :\n\"Oh...\"\n\n\"I suppose that's true. The only option is to go to war, is it? I see that you've a dramatic streak.\"\n\n\"You're a funny one. Got some time to kill?\"\n\nThe pair of them dragged {0} to a bar and released them only after sharing a few drinks.\n\n{0} returned with a drinking cup in hand.\nJP :\n「おお…。」\n\n「まぁ、それが最善だろうな。戦いのみが答えか、なかなか雅じゃないか。」\n\n「面白い奴だな。時間あるか？」\n\n2人は囚人{0}を連れて行くと、数杯の酒を飲んでようやく解放した。\n\n戻ってきた囚人{0}の手には、杯が1つ握らされている。"
+  },
+  {
+    "key": "97105001-failureDesc$[0]",
+    "original": "\"오…\"\n\n\"그런데 너 말이 좀 짧다?\"\n\n\"그걸 우리가 모르겠냐고. 야, 너 이리 와봐.\"\n\n두 사람은 {0} 수감자를 향해 폭력을 행사하기 시작했다.\n\n깜짝 놀란 우리는 {0} 수감자를 챙겨 재빨리 달아났다.",
+    "context": "EN :\n\"Oh...\"\n\n\"That's great and all, but what's with that tone, huh?\"\n\n\"Think we're stupid? Think we're stupid, punk? C'mere.\"\n\nThe pair of them began to beat {0} up.\n\nWe quickly pried {0} free from this unexpected outburst of violence and made ourselves scarce.\nJP :\n「おぉ…。」\n\n「ところでお前、口の利き方がなってないな？」\n\n「そんなこと分かってんだよ。おい、こっち来い。」\n\n2人は囚人{0}に暴力を振るい始めた。\n\n驚いた私たちは囚人{0}を連れて急いで逃げ出した。"
   }
 ]

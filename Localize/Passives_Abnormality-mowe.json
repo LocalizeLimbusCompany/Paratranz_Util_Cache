@@ -47,7 +47,7 @@
   {
     "key": "835005-desc",
     "original": "자신에게 [Laceration]이 있을 때,\n- [Laceration] 5당 공격 레벨 증가 1, 방어 레벨 증가 1을 얻음 (최대 10)\n- [Laceration] 10당 합 위력 증가 1을 얻음 (최대 5)\n- 자신이 받는 [Laceration] 피해 50% 감소 (소수점 버림)",
-    "context": "EN :\nWhen this unit has [Laceration]:\n- Gain 1 Offense Level Up and 1 Defense Level Up for every 5 [Laceration] (max 10)\n- Gain 1 Clash Power Up for every 10 [Laceration] (max 5)\n- Take 50% less damage from [Laceration] (rounded down)\nJP :\n自分に[Laceration]があるとき、\n- [Laceration]5につき攻撃レベル増加1, 防御レベル増加1を得る(最大10)\n- [Laceration]10につきマッチ威力増加1を得る(最大5)\n- 自分が受ける[Laceration]ダメージを50%減少(小数点切り捨て)"
+    "context": "EN :\nWhen this unit has [Laceration]:\n- Gain 1 Offense Level Up and 1 Defense Level Up for every 5 [Laceration] (max 10)\n- Gain 1 Clash Power Up for every 10 [Laceration] (max 5)\n- Take 50% less damage from [Laceration] (rounded down)\nJP :\n自分に[Laceration]があるなら、\n- [Laceration]5につき攻撃レベル増加1, 防御レベル増加1を得る(最大10)\n- [Laceration]10につきマッチ威力増加1を得る(最大5)\n- 自分が受ける[Laceration]ダメージを50%減少(小数点切り捨て)"
   },
   {
     "key": "9014501-name",

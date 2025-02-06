@@ -39,7 +39,7 @@
   {
     "key": "4-content",
     "original": "<파우스트, 이런 건 정당한 건의잖아. 슬슬 말을 전해줘도…>",
-    "context": "EN :\n<Come on, Faust. I legitimately think that this is something we have to talk about. Can you please relay my question to Vergilius...?>\nJP :\n<ファウスト、こういうのは正当な建議じゃないかな。\nそろそろ伝えてもらっても…。>"
+    "context": "EN :\n<Come on, Faust. I legitimately think that this is something we have to talk about. Can you please relay my question to Vergilius...?>\nJP :\n<ファウスト、こういうのは正当な意見じゃないかな。\nそろそろ伝えてもらっても…。>"
   },
   {
     "key": "5-model",
@@ -115,7 +115,7 @@
   {
     "key": "12-content",
     "original": "상황에 몰아넣고 학습해야 깨닫는 인재들이라 굳이 먼저 말하진 않았을 뿐이다. 어차피 먼저 말해봐야 반발심밖에 더 생길까.",
-    "context": "EN :\nIt's because you're the kind of people who never learn until the 'problem' crashes through your front door. Would you have done anything differently if you knew in advance? It'll only serve to give you an excuse to whine about it.\nJP :\n状況に追い込んで学習してこそ悟るような人材なので、あえて予め\n言わなかっただけだ。どうせ先に言っても反発心しか生じないだろうしな。"
+    "context": "EN :\nIt's because you're the kind of people who never learn until the 'problem' crashes through your front door. Would you have done anything differently if you knew in advance? It'll only serve to give you an excuse to whine about it.\nJP :\n状況に追い込んで学ばせないと気づかない人材だから、\nあえて先に言わなかっただけだ。\nどうせ先に言ったところで、反発心しか生まれないだろうしな。"
   },
   {
     "key": "13-model",
@@ -137,7 +137,7 @@
   {
     "key": "14-content",
     "original": "<…그럴 순 없겠지. 그런 선택을 하면 지금도 땅바닥인 우리의 취급이 지하실을 열고 들어갈 것 같은걸.>",
-    "context": "EN :\n<... How could I? They're already treating us like dirt. If I refuse this, I can't imagine how much worse it'll get.>\nJP :\n<…それは無理かな。そんな選択をしちゃえば、現時点で底辺の\n私たちに対する扱いが底辺超えて地下室に突入しそうだし。>"
+    "context": "EN :\n<... How could I? They're already treating us like dirt. If I refuse this, I can't imagine how much worse it'll get.>\nJP :\n<…それは無理かな。そんな選択をしちゃえば、現時点ですら\n底辺の私たちに対する扱いが底辺超えて地下室に突入しそうだし。>"
   },
   {
     "key": "15-model",
@@ -216,7 +216,7 @@
   {
     "key": "25-content",
     "original": "자신을 도와준다면, 그런 검은 비석은 자신들에게 필요 없으니 당연히 줄 것이라는 이야기와 함께.",
-    "context": "EN :\nShe had also told us that, as long as we assisted her with her mission, she wouldn't mind us taking the black stele for ourselves.\nJP :\n自分を助けてくれるなら、そんな黒い碑石とやらは必要ないので\n当然くれるだろうという話と共に。"
+    "context": "EN :\nShe had also told us that, as long as we assisted her with her mission, she wouldn't mind us taking the black stele for ourselves.\nJP :\n自分を助けてくれるなら、そんな黒い碑石とやらは必要ないので\n当然くれてやるという話と共に。"
   },
   {
     "key": "26-model",
@@ -258,7 +258,7 @@
   {
     "key": "27-content",
     "original": "저것들이… 벌써 진을 저렇게 치고서…!",
-    "context": "EN :\nThey've already set up camp there...!\nJP :\nアイツら…もうあんな風に陣取って…！"
+    "context": "EN :\nThey've already set up camp there...!\nJP :\nあやつらめ…もうあんな風に陣取って…！"
   },
   {
     "key": "28-content",
@@ -283,8 +283,8 @@
   },
   {
     "key": "29-content",
-    "original": "내려야...! 큭, 김삿갓 님…!",
-    "context": "EN :\nI have to...! Agh, mentor Bamboo-hatted Kim...!\nJP :\n降りなきゃ…！くっ、キムサッガッ様…！"
+    "original": "내려야…! 큭, 김삿갓 님…!",
+    "context": "EN :\nI have to...! Agh, mentor Bamboo-hatted Kim...!\nJP :\n降りねば…！くっ、キムサッガッ様…！"
   },
   {
     "key": "30-model",

@@ -1,0 +1,247 @@
+[
+  {
+    "key": "112204-levelList$[0].name",
+    "original": "살주",
+    "context": "EN :\nOverthrow\nJP :\n殺主"
+  },
+  {
+    "key": "112204-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Breath] 횟수 3 증가",
+    "context": "EN :\n[WhenUse] Gain +3 [Breath] Count\nJP :\n[WhenUse] 自分の[Breath]回数が3増加"
+  },
+  {
+    "key": "112204-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112204-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "파괴된 코인이면, 최종 위력 10 감소",
+    "context": "EN :\nIf this Coin is Cracked, lose 10 Final Power\nJP :\n破壊されたコインなら、最終威力が10減少"
+  },
+  {
+    "key": "112204-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Breath] 3 얻음, [Breath] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 [Breath] and +1 [Breath] Count\nJP :\n[OnSucceedAttack] [Breath]3を得る、[Breath]回数が1増加"
+  },
+  {
+    "key": "112204-levelList$[0].coinlist[0].coindescs[3].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[UnBrokenCoinOnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "112204-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112204-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "파괴된 코인이면, 최종 위력 10 감소",
+    "context": "EN :\nIf this Coin is Cracked, lose 10 Final Power\nJP :\n破壊されたコインなら、最終威力が10減少"
+  },
+  {
+    "key": "112204-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [SlashDamageUp] 2 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 [SlashDamageUp] next turn\nJP :\n[OnSucceedAttack] 次のターンに[SlashDamageUp]2を得る"
+  },
+  {
+    "key": "112204-levelList$[0].coinlist[1].coindescs[3].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [SlashResistDown] 2 부여",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [SlashResistDown]\nJP :\n[UnBrokenCoinOnSucceedAttack] [SlashResistDown]2を付与"
+  },
+  {
+    "key": "112204-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112204-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "파괴된 코인이면, 최종 위력 10 감소",
+    "context": "EN :\nIf this Coin is Cracked, lose 10 Final Power\nJP :\n破壊されたコインなら、最終威力が10減少"
+  },
+  {
+    "key": "112204-levelList$[0].coinlist[2].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Laceration] 5 부여",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Inflict 5 [Laceration]\nJP :\n[UnBrokenCoinOnSucceedAttack] [Laceration]5を付与"
+  },
+  {
+    "key": "112204-levelList$[0].coinlist[2].coindescs[3].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] 다음 턴에 [Paralysis] 2 부여",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [Paralysis] next turn\nJP :\n[UnBrokenCoinOnSucceedAttack] 次のターンに[Paralysis]2を付与"
+  },
+  {
+    "key": "112204-levelList$[0].coinlist[2].coindescs[4].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 3 증가",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Inflict +3 [Laceration] Count\nJP :\n[UnBrokenCoinOnSucceedAttack] [Laceration]回数が3増加"
+  },
+  {
+    "key": "112205-levelList$[0].name",
+    "original": "골단",
+    "context": "EN :\nTo Claim Their Bones\nJP :\n骨断"
+  },
+  {
+    "key": "112205-levelList$[0].desc",
+    "original": "[StartBattle] 보호막 100 얻음\n[WhenUse] 보호막이 전부 소모되지 않았다면, 합 위력 +5",
+    "context": "EN :\n[StartBattle] Gain 100 Shield\n[WhenUse] If the Shield isn't fully depleted, Clash Power +5\nJP :\n[StartBattle] バリアを100得る\n[WhenUse] バリアが全て消耗されなかったら、マッチ威力 +5"
+  },
+  {
+    "key": "112205-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112205-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "파괴된 코인이면, 최종 위력 20 감소",
+    "context": "EN :\nIf this Coin is Cracked, lose 20 Final Power\nJP :\n破壊されたコインなら、最終威力が20減少"
+  },
+  {
+    "key": "112205-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [SlashResistDown] 3 부여",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Inflict 3 [SlashResistDown]\nJP :\n[UnBrokenCoinOnSucceedAttack] [SlashResistDown]3を付与"
+  },
+  {
+    "key": "112205-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112205-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "파괴된 코인이면, 최종 위력 20 감소",
+    "context": "EN :\nIf this Coin is Cracked, lose 20 Final Power\nJP :\n破壊されたコインなら、最終威力が20減少"
+  },
+  {
+    "key": "112205-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] 크리티컬 피해량 +100%",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] +100% Damage on Critical Hit\nJP :\n[UnBrokenCoinOnSucceedAttack] クリティカルダメージ量 +100%"
+  },
+  {
+    "key": "112205-levelList$[0].coinlist[1].coindescs[3].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Laceration] 10 부여, [Laceration] 횟수 2 증가",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count\nJP :\n[UnBrokenCoinOnSucceedAttack] [Laceration]10を付与、[Laceration]回数が2増加"
+  },
+  {
+    "key": "112205-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112205-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "파괴된 코인이면, 최종 위력 20 감소",
+    "context": "EN :\nIf this Coin is Cracked, lose 20 Final Power\nJP :\n破壊されたコインなら、最終威力が20減少"
+  },
+  {
+    "key": "112205-levelList$[0].coinlist[2].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] 보호막이 전부 소모되지 않았다면, 공격 가중치만큼 [Grudge] 수치를 나눠 고정 피해로 부여함.",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage.\nJP :\n[UnBrokenCoinOnSucceedAttack] バリアが全て消耗されなかったら、[Grudge]を攻撃加重値で割った数値をそれぞれ固定ダメージとして付与"
+  },
+  {
+    "key": "112305-levelList$[0].name",
+    "original": "골단",
+    "context": "EN :\nTo Claim Their Bones\nJP :\n骨断"
+  },
+  {
+    "key": "112305-levelList$[0].desc",
+    "original": "[StartBattle] 보호막 250 얻음\n[WhenUse] 자신의 [Breath] 횟수 3 증가\n[WhenUse] 보호막이 전부 소모되지 않았다면, 합 위력 +10",
+    "context": "EN :\n[StartBattle] Gain 250 Shield\n[WhenUse] Gain +3 [Breath] Count\n[WhenUse] If the Shield isn't fully depleted, Clash Power +10\nJP :\n[StartBattle] バリアを250得る\n[WhenUse] 自分の[Breath]回数が3増加\n[WhenUse] バリアが全て消耗されなかったら、マッチ威力 +10"
+  },
+  {
+    "key": "112305-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112305-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "파괴된 코인이면, 최종 위력 23 감소",
+    "context": "EN :\nIf this Coin is Cracked, lose 23 Final Power\nJP :\n破壊されたコインなら、最終威力が23減少"
+  },
+  {
+    "key": "112305-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [SlashResistDown] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [SlashResistDown]\nJP :\n[OnSucceedAttack] [SlashResistDown]3を付与"
+  },
+  {
+    "key": "112305-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112305-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "파괴된 코인이면, 최종 위력 23 감소",
+    "context": "EN :\nIf this Coin is Cracked, lose 23 Final Power\nJP :\n破壊されたコインなら、最終威力が23減少"
+  },
+  {
+    "key": "112305-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] 크리티컬 피해량 +100%",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] +100% Damage on Critical Hit\nJP :\n[UnBrokenCoinOnSucceedAttack] クリティカルダメージ量 +100%"
+  },
+  {
+    "key": "112305-levelList$[0].coinlist[1].coindescs[3].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] 다음 턴에 [Paralysis] 5 부여",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Inflict 5 [Paralysis] next turn\nJP :\n[UnBrokenCoinOnSucceedAttack] 次のターンに[Paralysis]5を付与"
+  },
+  {
+    "key": "112305-levelList$[0].coinlist[1].coindescs[4].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Laceration] 10 부여, [Laceration] 횟수 2 증가",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count\nJP :\n[UnBrokenCoinOnSucceedAttack] [Laceration]10を付与、[Laceration]回数が2増加"
+  },
+  {
+    "key": "112305-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112305-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "파괴된 코인이면, 최종 위력 23 감소",
+    "context": "EN :\nIf this Coin is Cracked, lose 23 Final Power\nJP :\n破壊されたコインなら、最終威力が23減少"
+  },
+  {
+    "key": "112305-levelList$[0].coinlist[2].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] 보호막이 전부 소모되지 않았다면, 공격 가중치만큼 [Grudge] 수치를 나눠 고정 피해로 부여함.",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage.\nJP :\n[UnBrokenCoinOnSucceedAttack] バリアが全て消耗されなかったら、[Grudge]を攻撃加重値で割った数値をそれぞれ固定ダメージとして付与"
+  },
+  {
+    "key": "112309-levelList$[0].name",
+    "original": "골단",
+    "context": "EN :\nTo Claim Their Bones\nJP :\n骨断"
+  },
+  {
+    "key": "112309-levelList$[0].desc",
+    "original": "[CantChangeTarget]\n체력이 가장 없는 대상 우선 공격\n[EnemyKill] [Grudge]가 2배가 됨.\n[EnemyKill] [Grudge]만큼 체력 회복",
+    "context": "EN :\n[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] Heal HP equal to [Grudge] value\nJP :\n[CantChangeTarget]\n体力が最も低い対象を優先して攻撃\n[EnemyKill] [Grudge]が2倍になる\n[EnemyKill] [Grudge]だけ体力を回復"
+  },
+  {
+    "key": "112309-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112309-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "파괴된 코인이면, 최종 위력 25 감소",
+    "context": "EN :\nIf this Coin is Cracked, lose 25 Final Power\nJP :\n破壊されたコインなら、最終威力が25減少"
+  },
+  {
+    "key": "112309-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112309-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "파괴된 코인이면, 최종 위력 25 감소",
+    "context": "EN :\nIf this Coin is Cracked, lose 25 Final Power\nJP :\n破壊されたコインなら、最終威力が25減少"
+  },
+  {
+    "key": "112309-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112309-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "파괴된 코인이면, 최종 위력 25 감소",
+    "context": "EN :\nIf this Coin is Cracked, lose 25 Final Power\nJP :\n破壊されたコインなら、最終威力が25減少"
+  },
+  {
+    "key": "112309-levelList$[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Grudge] 수치만큼 고정 피해.",
+    "context": "EN :\n[OnSucceedAttack] Deal fixed damage equal to [Grudge] value.\nJP :\n[OnSucceedAttack] [Grudge]数値だけ固定ダメージ"
+  }
+]

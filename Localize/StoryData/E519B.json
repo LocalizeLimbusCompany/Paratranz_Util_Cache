@@ -45,7 +45,7 @@
   {
     "key": "2-content",
     "original": "이 저택은… 분명 S사를 떠나기 전 마지막으로 맡으셨던 호위 임무의 대상이 살던 집인데.",
-    "context": "EN :\nThis manor must be... where the mentor's last protectee resided before we departed S Corp.\nJP :\nこの邸宅は…確かS社を去る前、\n最後に引き受けた護衛任務の対象が住んでいた家のはずだ。"
+    "context": "EN :\nThis manor must be... where the mentor's last protectee resided before we departed S Corp.\nJP :\nこの邸宅は…確かS社を去る前、\n最後に引き受けた護衛任務の対象が住んでいた家だな。"
   },
   {
     "key": "3-model",
@@ -87,7 +87,7 @@
   {
     "key": "4-content",
     "original": "여태껏… 이 참상의 기억이 우두의 발목을 부여잡고 있던 것입니까…",
-    "context": "EN :\nMentor, was this carnage the memory that has haunted your dreams and your waking hours for so long...?\nJP :\n今まで…この惨状の記憶がお頭の足を引っ張っていたということでしょうか…。"
+    "context": "EN :\nMentor, was this carnage the memory that has haunted your dreams and your waking hours for so long...?\nJP :\n今まで…この惨状の記憶がお頭の足を\n引っ張っておったのか…。"
   },
   {
     "key": "5-model",
@@ -202,7 +202,7 @@
   {
     "key": "13-content",
     "original": "그 마수를 나의 검으로 뿌리친다는 호위무사라는 일감이, 나에게는 제법 명예로운 일이었으니.",
-    "context": "EN :\nAnd I considered it an honorable deed to be a protector of the virtuous, to hew those that sought harm against them.\nJP :\nその魔の手を私の剣で振り解くという護衛武士という仕事が、\n俺にとってはそれなり名誉なことだったのだから。"
+    "context": "EN :\nAnd I considered it an honorable deed to be a protector of the virtuous, to hew those that sought harm against them.\nJP :\nその魔の手を俺の剣で振り解くという護衛武士という仕事が、\n俺にとってはそれなり名誉なことだったのだから。"
   },
   {
     "key": "14-model",
@@ -264,7 +264,7 @@
   },
   {
     "key": "16-content",
-    "original": "결국 부러진 마음을 끌어안고, 동료들과 함께 S사를 떠날 수 밖에.",
+    "original": "결국 부러진 마음을 끌어안고, 동료들과 함께 S사를 떠날 수밖에.",
     "context": "EN :\nI had little choice but to leave S Corp. cradling my broken spirit alongside my fellows.\nJP :\n結局は折れた心を抱き、仲間たちと共にS社から離れるしかない。"
   },
   {
@@ -307,7 +307,7 @@
   {
     "key": "18-content",
     "original": "있을 곳을 잃고 이곳저곳을 돌아다니며 지치는 나의 동료들과 나.",
-    "context": "EN :\nWe became vagabonds. Lost, wandering, and weary; aimless drifters without a place to call their home.\nJP :\n居場所を失い、あちこち歩き回りながら疲れていく\n私の仲間達と私。"
+    "context": "EN :\nWe became vagabonds. Lost, wandering, and weary; aimless drifters without a place to call their home.\nJP :\n居場所を失い、あちこち歩き回りながら疲れていく\n俺の仲間達と俺。"
   },
   {
     "key": "19-model",
@@ -453,12 +453,12 @@
   },
   {
     "key": "25-content",
-    "original": "또 다시 그때와 같은 모습을 재현하고…",
+    "original": "또다시 그때와 같은 모습을 재현하고…",
     "context": "EN :\nAgain, I am returned to the land of my failure...\nJP :\nまたあのときと同じ姿になり…。"
   },
   {
     "key": "26-content",
-    "original": "그 이후에도 무언가 말을 하는 것만 같았지만… 낮은 울음 같은 소리로 웅얼거리는 것으로 밖에 들리지 않았다.",
+    "original": "그 이후에도 무언가 말을 하는 것만 같았지만… 낮은 울음 같은 소리로 웅얼거리는 것으로밖에 들리지 않았다.",
     "context": "EN :\nThe voice continued to murmur. But... it had devolved into nothing but a low growl, a quiet and incoherent rumbling.\nJP :\nその後も何か言っているような気がしたが…。\n低いうなり声のように、もごもごという音しか聞こえなかった。"
   },
   {

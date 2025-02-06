@@ -893,5 +893,235 @@
     "key": "1081004-levelList$[1].coinlist[0].coindescs[0].desc",
     "original": "[SuperCoin]",
     "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "1081101-levelList$[0].name",
+    "original": "뒷처리",
+    "context": "EN :\nClean Up\nJP :\n後始末"
+  },
+  {
+    "key": "1081101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]1を付与"
+  },
+  {
+    "key": "1081101-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "1081101-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [AttackDown] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [AttackDown]\nJP :\n[OnSucceedAttack] [AttackDown]1を付与"
+  },
+  {
+    "key": "1081101-levelList$[1].name",
+    "original": "뒷처리",
+    "context": "EN :\nClean Up\nJP :\n後始末"
+  },
+  {
+    "key": "1081101-levelList$[1].desc",
+    "original": "<style=\"highlight\">대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>",
+    "context": "EN :\n<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>\nJP :\n<style=\"highlight\">対象の[Laceration]が6以上ならコイン威力 +1</style>"
+  },
+  {
+    "key": "1081101-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1081101-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1081101-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [AttackDown] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [AttackDown]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [AttackDown]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1081101-levelList$[2].name",
+    "original": "뒷처리",
+    "context": "EN :\nClean Up\nJP :\n後始末"
+  },
+  {
+    "key": "1081101-levelList$[2].desc",
+    "original": "<style=\"highlight\">대상의 [Laceration] 6 당, 코인 위력 +1 (최대 2)\n대상이 보유한 부정적인 효과 1개당 피해량 +10% (최대 30%)</style>",
+    "context": "EN :\n<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on the target (max 2)\nDeal +10% more damage for every type of negative effect on the target (max 30%)</style>\nJP :\n<style=\"highlight\">対象の[Laceration]6につき、コイン威力 +1(最大2)\n対象が保有するマイナス効果1つにつき、ダメージ量 +10%(最大30%)</style>"
+  },
+  {
+    "key": "1081101-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1081101-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1081101-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [AttackDown] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [AttackDown]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [AttackDown]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1081102-levelList$[0].name",
+    "original": "날카로운 칼날",
+    "context": "EN :\nSharpened Blade\nJP :\n鋭い刃"
+  },
+  {
+    "key": "1081102-levelList$[0].desc",
+    "original": "[StartBattle] 자신을 제외하고 속도가 가장 빠른 아군 흑운회 소속 인격 2명에게 [AttackDmgUp] 1 부여 (턴 당 1회)\n- 자신 포함 흑운회 소속이 6명 이상이면 대신 5명에게 [AttackDmgUp] 2 부여",
+    "context": "EN :\n[StartBattle] On 2 other allied Kurokumo Clan Identities with the fastest Speed: apply 1 [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan allies, including this unit, apply 2 [AttackDmgUp] to 5 allies instead\nJP :\n[StartBattle] 自分を除いて速度が最も高い味方の黒雲会所属人格2名へ[AttackDmgUp]1を付与(1ターンにつき1回)\n- 自分を含めて黒雲会が6名以上なら、代わりに5名へ[AttackDmgUp]2を付与"
+  },
+  {
+    "key": "1081102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "1081102-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "1081102-levelList$[1].name",
+    "original": "날카로운 칼날",
+    "context": "EN :\nSharpened Blade\nJP :\n鋭い刃"
+  },
+  {
+    "key": "1081102-levelList$[1].desc",
+    "original": "<style=\"highlight\">대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[StartBattle] 자신을 제외하고 속도가 가장 빠른 아군 흑운회 소속 인격 2명에게 [AttackDmgUp] <style=\"highlight\">2</style> 부여 (턴 당 1회)\n- 자신 포함 흑운회 소속이 6명 이상이면 대신 5명에게 [AttackDmgUp] <style=\"highlight\">3</style> 부여",
+    "context": "EN :\n<style=\"highlight\">If the target has 6+ [Laceration], Coin Power +1</style>\n[StartBattle] On 2 other allied Kurokumo Clan Identities with the fastest Speed: apply <style=\"highlight\">2</style> [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan units, including this unit, apply <style=\"highlight\">3</style> [AttackDmgUp] to 5 allies instead\nJP :\n<style=\"highlight\">対象の[Laceration]が6以上なら、コイン威力 +1</style>\n[StartBattle] 自分を除いて速度が最も高い味方の黒雲会所属人格2名へ[AttackDmgUp]<style=\"highlight\">2</style>を付与(1ターンにつき1回)\n- 自分を含めて黒雲会が6名以上なら、代わりに5名へ[AttackDmgUp]<style=\"highlight\">3</style>を付与"
+  },
+  {
+    "key": "1081102-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1081102-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttackHead] [SlashTakeDamageUp] 1 부여 (턴 당 1회)</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttackHead] Inflict 1 [SlashTakeDamageUp] (once per turn)</style>\nJP :\n<style=\"highlight\">[OnSucceedAttackHead] [SlashTakeDamageUp]1を付与(1ターンにつき1回)</style>"
+  },
+  {
+    "key": "1081102-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1081102-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 다음 턴에 [SlashResultUp] 1 얻음 (턴 당 1회)</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Gain 1 [SlashResultUp] next turn (once per turn)</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 次のターンに[SlashResultUp]1を得る(1ターンにつき1回)</style>"
+  },
+  {
+    "key": "1081102-levelList$[2].name",
+    "original": "날카로운 칼날",
+    "context": "EN :\nSharpened Blade\nJP :\n鋭い刃"
+  },
+  {
+    "key": "1081102-levelList$[2].desc",
+    "original": "<style=\"highlight\">대상의 [Laceration] 6 당, 코인 위력 +1 (최대 2)\n대상이 보유한 부정적인 효과 1개당 피해량 +10% (최대 50%)</style>\n[StartBattle] 자신을 제외하고 속도가 가장 빠른 아군 흑운회 소속 인격 2명에게 [AttackDmgUp] 2 부여 (턴 당 1회)\n- 자신 포함 흑운회 소속이 6명 이상이면 대신 5명에게 [AttackDmgUp] 4 부여",
+    "context": "EN :\n<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on the target (max 2)\nDeal +10% more damage for every type of negative effect on the target (max 50%)</style>\n[StartBattle] On 2 other allied Kurokumo Clan Identities with the fastest Speed: apply 2 [AttackDmgUp] (once per turn)\n- If there are 6+ Kurokumo Clan units, including this unit, apply 4 [AttackDmgUp] to 5 allies instead\nJP :\n<style=\"highlight\">対象の[Laceration]6につき、コイン威力 +1(最大2)\n対象が保有するマイナス効果1つにつき、ダメージ量 +10%(最大50%)</style>\n[StartBattle] 自分を除いて速度が最も高い味方の黒雲会所属人格2名へ[AttackDmgUp]2を付与(1ターンにつき1回)\n- 自分を含めて黒雲会が6名以上なら、代わりに5名へ[AttackDmgUp]4を付与"
+  },
+  {
+    "key": "1081102-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1081102-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [SlashTakeDamageUp] 1 부여 (턴 당 1회)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 [SlashTakeDamageUp] (once per turn)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttackHead] [SlashTakeDamageUp]1を付与(1ターンにつき1回)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1081102-levelList$[2].coinlist[0].coindescs[2].desc",
+    "original": "<style=\"highlight\">- 자신 포함 흑운회 소속이 6명 이상이면, 대신 [Vulnerable] 2 부여</style>",
+    "context": "EN :\n<style=\"highlight\">- If there are 6+ Kurokumo Clan units, including this unit, inflict 2 [Vulnerable] instead</style>\nJP :\n<style=\"highlight\">- 自分を含む黒雲会が6名以上なら、代わりに[Vulnerable]2を付与</style>"
+  },
+  {
+    "key": "1081102-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1081102-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [SlashResultUp] 1 얻음 (턴 당 <style=\"highlight\">2</style>회)",
+    "context": "EN :\n[OnSucceedAttack] Gain 1 [SlashResultUp] next turn (<style=\"highlight\">2 times</style> per turn)\nJP :\n[OnSucceedAttack] 次のターンに[SlashResultUp]1を得る(1ターンにつき<style=\"highlight\">2</style>回)"
+  },
+  {
+    "key": "1081103-levelList$[0].name",
+    "original": "먹칠",
+    "context": "EN :\nInk Over\nJP :\n墨塗り"
+  },
+  {
+    "key": "1081103-levelList$[0].desc",
+    "original": "대상의 [Laceration]이 6 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf target has 6+ [Laceration], Coin Power +1\nJP :\n対象の[Laceration]が6以上ならコイン威力 +1"
+  },
+  {
+    "key": "1081103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "1081103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]3を付与"
+  },
+  {
+    "key": "1081103-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration] 3회 발동. 대상의 출혈 횟수 3 감소",
+    "context": "EN :\n[OnSucceedAttack] Activate [Laceration] on the target 3 times; then, reduce their [Laceration] Count by 3\nJP :\n[OnSucceedAttack] 対象の[Laceration]を3回発動。対象の[Laceration]回数が3減少"
+  },
+  {
+    "key": "1081103-levelList$[1].name",
+    "original": "먹칠",
+    "context": "EN :\nInk Over\nJP :\n墨塗り"
+  },
+  {
+    "key": "1081103-levelList$[1].desc",
+    "original": "<style=\"highlight\">대상의 [Laceration] 6 당, 코인 위력 +1 (최대 2)\n[EnemyKill] 다음 턴에 [SlashResultUp] 2 얻음 (턴 당 1회)</style>",
+    "context": "EN :\n<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on the target (max 2)\n[EnemyKill] Gain 2 [SlashResultUp] next turn (once per turn)</style>\nJP :\n<style=\"highlight\">対象の[Laceration]6につき、コイン威力 +1(最大2)\n[EnemyKill] 次のターンに[SlashResultUp]2を得る(1ターンにつき1回)</style>"
+  },
+  {
+    "key": "1081103-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1081103-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]3を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1081103-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "<style=\"highlight\">대상이 보유한 부정적인 효과 1개당 피해량 +10% (최대 100%)</style>",
+    "context": "EN :\n<style=\"highlight\">Deal +10% more damage for every type of negative effect on target (max 100%)</style>\nJP :\n<style=\"highlight\">対象の保有するマイナス効果1つにつき与ダメージ量 +10%(最大100%)</style>"
+  },
+  {
+    "key": "1081103-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration] 3회 발동. 대상의 출혈 횟수 3 감소<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Activate [Laceration] on the target 3 times; then, reduce their [Laceration] Count by 3<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 対象の[Laceration]を3回発動。対象の[Laceration]回数が3減少<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1081104-levelList$[0].name",
+    "original": "흩어지는 검격",
+    "context": "EN :\nScattering Slash\nJP :\n飛び散る剣撃"
+  },
+  {
+    "key": "1081104-levelList$[0].desc",
+    "original": "[StartBattle] [Protection] 1 얻음 (턴 당 1회)",
+    "context": "EN :\n[StartBattle] Gain 1 [Protection] (once per turn)\nJP :\n[StartBattle] [Protection]1を得る(1ターンにつき1回)"
+  },
+  {
+    "key": "1081104-levelList$[1].name",
+    "original": "흩어지는 검격",
+    "context": "EN :\nScattering Slash\nJP :\n飛び散る剣撃"
+  },
+  {
+    "key": "1081104-levelList$[1].desc",
+    "original": "[StartBattle] [Protection] 1 얻음 (턴 당 1회)\n<style=\"highlight\">[StartBattle] 자신을 포함하여 속도가 가장 빠른 아군 흑운회 소속 인격 (2 + 최대 공명 수)명에게 [Endurance] 2 부여 (턴 당 1회)</style>",
+    "context": "EN :\n[StartBattle] Gain 1 [Protection] (once per turn)\n<style=\"highlight\">[StartBattle] On (2 + highest Reson.) allied Kurokumo Clan Identities, including this unit, with the fastest Speed: apply 2 [Endurance] (once per turn)</style>\nJP :\n[StartBattle] [Protection]1を得る(1ターンにつき1回)\n<style=\"highlight\">[StartBattle] 自分を含めて速度が最も高い味方の黒雲会所属人格(2 + 最大共鳴数)名へ[Endurance]2を付与(1ターンにつき1回)</style>"
   }
 ]

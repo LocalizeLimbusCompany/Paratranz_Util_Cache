@@ -293,5 +293,10 @@
     "key": "AllyKillFail-name",
     "original": "[아군 처치 실패시]",
     "context": "EN :\n[On Ally Kill Fail]\nJP :\n[味方討伐失敗時]"
+  },
+  {
+    "key": "UnBrokenCoinOnSucceedAttack-name",
+    "original": "[파괴되지 않고 적중시]",
+    "context": "EN :\n[On Hit without Cracking]\nJP :\n[破壊されずに的中時]"
   }
 ]

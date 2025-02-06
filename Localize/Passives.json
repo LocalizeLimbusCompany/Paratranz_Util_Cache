@@ -1742,7 +1742,7 @@
   {
     "key": "1120721-desc",
     "original": "<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">호흡</color></link></u>을 가장 많이 보유한 아군 1명이 적 처치 시 다음 턴에 관통 피해량 증가 1 을 얻음. (턴 당 1회)",
-    "context": "EN :\nIf 1 ally with the most <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> defeats an enemy, gain 1 Pierce DMG Up next turn. (Once per turn)\nJP :\n<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>を最も多く保有する味方1名が敵討伐時、次のターンに貫通ダメージ量増加 1を得る。(1ターンにつき1回)"
+    "context": "EN :\nIf 1 ally with the most <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> defeats an enemy, gain 1 Pierce DMG Up next turn. (Once per turn)\nJP :\n<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>を最も多く保有する味方1名が敵討伐時、次のターンに[PenetrateDamageDown]1を得る。(1ターンにつき1回)"
   },
   {
     "key": "1040601-name",
@@ -2072,7 +2072,7 @@
   {
     "key": "1030721-desc",
     "original": "[Aggro]가 가장 높은 슬롯을 보유한 아군 1명이 자신을 타겟으로 삼은 적에게 공격을 적중할 때마다 체력 2 회복 ([Aggro]가 없으면 적용되지 않음.)",
-    "context": "EN :\nThe ally with the highest [Aggro] Skill Slot heals 2 HP every time they hit an enemy that targets this unit (Does not apply to units without [Aggro])\nJP :\n[Aggro]が最も高いスロットを保有した味方1名へ、自分をターゲットした敵へ攻撃を的中させるたびに体力を2回復([Aggro]がないなら適用されない。)"
+    "context": "EN :\nThe ally with the highest [Aggro] Skill Slot heals 2 HP every time they hit an enemy that targets this unit (Does not apply to units without [Aggro])\nJP :\n[Aggro]が最も高いスロットを保有した味方1名へ、自分をターゲティング敵へ攻撃を的中させるたびに体力を2回復([Aggro]がないなら適用されない。)"
   },
   {
     "key": "1030731-name",
@@ -2082,7 +2082,7 @@
   {
     "key": "1030731-desc",
     "original": "[Aggro]가 가장 높은 슬롯을 보유한 아군 1명이 자신을 타겟으로 삼은 적에게 공격을 적중할 때마다 체력 4 회복 ([Aggro]가 없으면 적용되지 않음.)",
-    "context": "EN :\nThe ally with the highest [Aggro] Skill Slot heals 4 HP every time they hit an enemy that targets this unit (Does not apply to units without [Aggro])\nJP :\n[Aggro]が最も高いスロットを保有した味方1名へ、自分をターゲットした敵へ攻撃を的中させるたびに体力を4回復([Aggro]がないなら適用されない。)"
+    "context": "EN :\nThe ally with the highest [Aggro] Skill Slot heals 4 HP every time they hit an enemy that targets this unit (Does not apply to units without [Aggro])\nJP :\n[Aggro]が最も高いスロットを保有した味方1名へ、自分をターゲティング敵へ攻撃を的中させるたびに体力を4回復([Aggro]がないなら適用されない。)"
   },
   {
     "key": "1060801-name",
@@ -3372,7 +3372,7 @@
   {
     "key": "1011001-name",
     "original": "쏘아라.쏘으리로다.",
-    "context": "EN :\nFire.IShallFire.\nJP :\n撃て。撃たん。"
+    "context": "EN :\nFire.IShallFire.\nJP :\n撃テ。撃タン。"
   },
   {
     "key": "1011001-desc",
@@ -3387,7 +3387,7 @@
   {
     "key": "1011002-name",
     "original": "죽어가는나비를본다.",
-    "context": "EN :\nISeeTheDyingButterfly.\nJP :\n死にゆく蝶を見る。"
+    "context": "EN :\nISeeTheDyingButterfly.\nJP :\n死ニユク蝶ヲ見ル。"
   },
   {
     "key": "1011002-desc",
@@ -3402,7 +3402,7 @@
   {
     "key": "1011011-name",
     "original": "쏘아라.쏘으리로다.",
-    "context": "EN :\nFire.IShallFire.\nJP :\n撃て。撃たん。"
+    "context": "EN :\nFire.IShallFire.\nJP :\n撃テ。撃タン。"
   },
   {
     "key": "1011011-desc",
@@ -3938,5 +3938,165 @@
     "key": "1071121-desc",
     "original": "[Bullet]을 가장 적게 보유한 아군 1명이 [Bullet]을 소모하는 스킬을 사용할 때, [Breath] 횟수 2 증가\n- 대상이 마침표 사무소 인격이거나, 대상의 [Breath] 횟수가 5 미만이면, 대신 4 증가 (턴 당 1회. [Bullet]이 없는 대상에게는 적용되지 않음)",
     "context": "EN :\n1 ally with the least [Bullet] gains +2 [Breath] Count when using a Skill that consumes [Bullet].\n- If the said ally is a Full-Stop Office Identity, or if they have less than 5 [Breath] Count, gain +4 [Breath] Count instead (once per turn; does not apply to units without [Bullet])\nJP :\n[Bullet]を最も少なく保有した味方1名が[Bullet]を消耗するスキルを使用するとき、[Breath]回数が2増加\n\n- 対象が終止符事務所人格か、対象の[Breath]回数が5未満なら代わりに4増加(1ターンにつき1回。[Bullet]の無い対象には適用されない)"
+  },
+  {
+    "key": "1011101-name",
+    "original": "외형 또한 이전 L사의 E.G.O에 비해, 환상체와 가깝게 추출할 수 있소",
+    "context": "EN :\nThis is reflected in their appearance, more closely resembling the source Abnormality than E.G.O of the former L Corp. do\nJP :\n外見もまた在りしL社のE.G.Oに比し、幻想体により近き形にて抽出すること能う。"
+  },
+  {
+    "key": "1011101-desc",
+    "original": "사망 시 자신을 가장 마지막으로 공격한 대상에게 [Burst] 4, [Burst] 횟수 2를 부여하고, 가장 부족한 속성의 E.G.O 자원 4종을 2개씩 얻음.\n- 공격자가 없거나 아군에게 사망한 경우, 현재 [Burst] 횟수가 가장 적은 적에게 [Burst] 4, [Burst] 횟수 2 부여 ",
+    "context": "EN :\nOn death, inflict 4 [Burst] and +2 [Burst] Count against the target that attacked this unit last; then, gain 2 E.G.O resources for 4 least-owned E.G.O resources.\n- If no one attacked this unit, or if an ally killed this unit, inflict 4 [Burst] and +2 [Burst] Count against the enemy with the least [Burst] Count\nJP :\n死亡時、自分を最後に攻撃した対象へ[Burst]4, [Burst]回数2を付与し、最も少ない属性のE.G.O資源4種を2つずつ得る。\n- 攻撃者がいないか味方に殺された場合、現在[Burst]回数が最も低い敵へ[Burst]4, [Burst]回数2を付与 "
+  },
+  {
+    "key": "1011111-name",
+    "original": "외형 또한 이전 L사의 E.G.O에 비해, 환상체와 가깝게 추출할 수 있소",
+    "context": "EN :\nThis is reflected in their appearance, more closely resembling the source Abnormality than E.G.O of the former L Corp. do\nJP :\n外見もまた在りしL社のE.G.Oに比し、幻想体により近き形にて抽出すること能う。"
+  },
+  {
+    "key": "1011111-desc",
+    "original": "사망 시 자신을 가장 마지막으로 공격한 대상에게 [Burst] <style=\"highlight\">5</style>, [Burst] 횟수 <style=\"highlight\">3</style>을 부여하고, 가장 부족한 속성의 E.G.O 자원 4종을 2개씩 얻음.\n- 공격자가 없거나 아군에게 사망한 경우, 현재 [Burst] 횟수가 가장 적은 적에게 [Burst] 5, [Burst] 횟수 3 부여\n- 자신이 [GlowingLantern] 상태인 경우, 이 효과로 부여하는 [Burst] 위력이 2배로 적용됨.",
+    "context": "EN :\nOn death, inflict <style=\"highlight\">5</style> [Burst] and +<style=\"highlight\">3</style> [Burst] Count against the target that attacked this unit last; then, gain 2 E.G.O resources for 4 least-owned E.G.O resources.\n- If no one attacked this unit, or if an ally killed this unit, inflict 5 [Burst] and +3 [Burst] Count against the enemy with the least [Burst] Count\n- If this unit is in a [GlowingLantern] state, inflict double the [Burst] potency with this effect\nJP :\n死亡時、自分を最後に攻撃した対象へ[Burst]<style=\"highlight\">5</style>, [Burst]回数<style=\"highlight\">3</style>を付与し、最も少ない属性のE.G.O資源4種を2つずつ得る。\n- 攻撃者がいないか味方に殺された場合、現在[Burst]回数が最も低い敵へ[Burst]5, [Burst]回数3を付与\n- 自分が[GlowingLantern]状態の場合、この効果で付与する[Burst]威力が2倍になる"
+  },
+  {
+    "key": "1011121-name",
+    "original": "E.G.O가 붕괴될 때 거름과 같이 분해되오",
+    "context": "EN :\nE.G.O disintegration is not unlike decomposition of compost\nJP :\nE.G.Oの崩壊するとき、肥料のごとく分解さる。"
+  },
+  {
+    "key": "1011121-desc",
+    "original": "현재 체력이 가장 낮은 아군 1명이 사망 시 가장 부족한 속성의 E.G.O 자원 2종을 2개씩 얻음.",
+    "context": "EN :\nWhen 1 ally with the least HP is killed, gain 2 E.G.O resources for 2 E.G.O least-owned E.G.O resources\nJP :\n現体力が最も低い味方1名が死亡時、最も少ない属性のE.G.O資源2種を2つずつ得る。"
+  },
+  {
+    "key": "1021101-name",
+    "original": "내화",
+    "context": "EN :\nFireproof\nJP :\n耐火"
+  },
+  {
+    "key": "1021101-desc",
+    "original": "[Combustion] 피해로 흐트러짐 상태가 되거나 체력이 1 미만으로 감소하지 않음.",
+    "context": "EN :\nCannot be Staggered or fall below 1 HP due to [Combustion] damage.\nJP :\n[Combustion]ダメージで混乱状態になったり、体力が1未満に減少しない。"
+  },
+  {
+    "key": "1021111-name",
+    "original": "불나방",
+    "context": "EN :\nFlame Moth\nJP :\n火取蛾"
+  },
+  {
+    "key": "1021111-desc",
+    "original": "전투 시작 시 자신의 잃은 체력이 80% 이상이고 [Combustion]이 30 미만이면, [Combustion]을 30까지 얻음. (스테이지 당 1회)\n\n턴 종료 시 자신의 [Combustion] 6당, 다음 턴에 [AttackUp] 1 얻음 (최대 5)\n\n사망 시 아래의 효과 발동\n- 모든 적에게 [Combustion] 2 부여. 자신의 [Combustion]을 나누어 부여 (1명당 최대 3)\n- 가장 부족한 속성의 E.G.O 자원 2종 2개씩 획득\n\n홍염살 최대 감응 【열화침식】 스킬의 효과로 사망하였으면, 효과가 강화됨\n- 모든 적에게 [Combustion] 3 부여. 자신의 [Combustion]을 나누어 부여 (1명당 최대 5)\n- 가장 부족한 속성의 E.G.O 자원 2종 2개씩 획득\n- 자신의 [Combustion]이 30 이상이었으면, 대기 해제되는 인원 1명에게 [AttackUp] 3 부여",
+    "context": "EN :\nCombat Start: at 80%+ missing HP, and at less than 30 [Combustion], gain up to 30 [Combustion] (once per Encounter)\n\nTurn End: gain 1 [AttackUp] next turn for every 6 [Combustion] on self (max 5)\n\nOn death, activate the following:\n- Inflict 2 [Combustion] on all enemies; inflict Burn on self between all enemies (max 3 per enemy)\n- Gain 2 E.G.O resource for 2 least-owned E.G.O resources\n\nIf this unit died due to the A.B.S. Max Attunement 【Degraded Corrosion】 Skill, enhance the effect:\n- Inflict 3 [Combustion] on all enemies; inflict [Combustion] on self between all enemies (max 5 per enemy)\n- Gain 2 E.G.O resource for 2 least-owned E.G.O resources\n- If this unit had 30+ Burn, apply 3 [AttackUp] to 1 ally that gets Substituted in\nJP :\n戦闘開始時、自分の失った体力が80%以上かつ[Combustion]が30未満なら火傷を30まで得る。(ステージにつき1回)\n\nターン終了時、自分の[Combustion]6につき次のターンにて[AttackUp]1を得る(最大5)\n\n死亡時、以下の効果が発動\n- 全ての敵へ[Combustion]2を付与。自分の[Combustion]を分けて付与(1名につき最大3)\n- 最も少ない属性のE.G.O資源2種を2つずつ得る\n\n紅炎殺 最大感応【劣化侵蝕】スキルの効果で死亡したなら、効果が強化される\n- 全ての敵へ[Combustion]3を付与。自分の[Combustion]を分けて付与(1名につき最大5)\n- 最も少ない属性のE.G.O資源2種を2つずつ得る\n- 自分の[Combustion]が30以上だったなら、待機解除される人員1名へ[AttackUp]3を付与"
+  },
+  {
+    "key": "1021121-name",
+    "original": "잔열",
+    "context": "EN :\nResidual Heat\nJP :\n残熱"
+  },
+  {
+    "key": "1021121-desc",
+    "original": "정신력이 가장 낮은 아군 1명이 기본 스킬의 적중시 효과로 [Combustion]을 부여할 때 [Combustion] 2 추가 부여 (최대 3회 발동)\n- 피격 대상의 [Combustion]이 30 이상이면, 대신 [Combustion] 횟수 1 증가 (최대 3회 발동)",
+    "context": "EN :\nWhen 1 ally with the least SP inflicts [Combustion] with a Base Attack Skill's On Hit effect, inflict 2 additional [Combustion] (3 times max)\n- If the target the ally is attacking has 30+ Burn, inflict +1 Burn Count instead (3 times max)\nJP :\n精神力が最も低い味方1名が基本スキルの的中時効果で[Combustion]を付与するとき、[Combustion]2を追加で付与(最大3回発動)\n- 被ダメージ対象の[Combustion]が30以上なら、代わりに[Combustion]回数が1増加(最大3回発動)"
+  },
+  {
+    "key": "1071201-name",
+    "original": "흑운도",
+    "context": "EN :\nDark Cloud Blade\nJP :\n黒雲道"
+  },
+  {
+    "key": "1071201-desc",
+    "original": "자신을 포함해 전투에 참여한 아군 흑운회 소속 인격이 2명 이상이면 [BlackCloudBlade] 1 얻음 (최대 1)\n\n이번 턴에 수비 스킬을 사용한 적 또는 공격 시작 전에 최대 체력인 적에게 입히는 피해량 +10%\n\n이번 턴에 적이 자신을 제외한 아군을 스킬로 공격하여 피해를 입혔으면, 공격자를 스킬 1로 일방 공격함 (턴 당 1회)",
+    "context": "EN :\nWhen there are 2+ allied Kurokumo Clan Identities on the field, including this unit, gain 1 [BlackCloudBlade] (max 1)\n\nAgainst enemies that, in this turn, used Defense Skills or were at max HP before attacking: deal +10% more damage\n\nIf an enemy attacked an other ally with a Skill and dealt damage this turn: use an Unopposed Attack against the attacker with Skill 1 (once per turn)\nJP :\n自分を含めて戦闘に参加した味方の黒雲会所属人格が2名以上なら[BlackCloudBlade]1を得る(最大1)\n\nこのターンに守備スキルを使用した敵、攻撃開始前にて体力満タン状態の敵への与ダメージ量 +10%\n\nこのターンに、敵が自分を除いた味方をスキルで攻撃してダメージを与えたなら、攻撃者をスキル1で一方攻撃(1ターンにつき1回)"
+  },
+  {
+    "key": "1071201-summary",
+    "original": "[BlackCloudBlade] 얻음, 최대 체력이거나 수비 스킬을 사용한 적 대상 피해량 증가, 아군이 공격당하면 반격 발동",
+    "context": "EN :\nGain [BlackCloudBlade]; deal more damage against enemies that were at max HP or used a Defense Skill; counterattack when an ally is attacked\nJP :\n[BlackCloudBlade]を得る、体力が満タンか守備スキルを使用した敵へのダメージ量増加、味方が攻撃したら反撃発動"
+  },
+  {
+    "key": "1071202-name",
+    "original": "임전",
+    "context": "EN :\nBattle Ready\nJP :\n臨戦"
+  },
+  {
+    "key": "1071202-desc",
+    "original": "흑운회 소속 아군이 사망하면, 이번 전투 동안 [SlashResultUp] 1 얻음\n\n흑운회 소속 아군이 3명 이상 사망하면 이번 전투 동안 [EngageToBattle]을 얻음",
+    "context": "EN :\nWhen a Kurokumo Clan ally dies, gain 1 [SlashResultUp] for this Encounter\n\nWhen 3 or more Kurokumo Clan allies are defeated, gain [EngageToBattle] for this Encounter\nJP :\n黒雲会所属の味方が死亡したなら、この戦闘の間[SlashResultUp]1を得る\n\n黒雲会所属の味方が3名以上死亡したなら、この戦闘の間[EngageToBattle]を得る"
+  },
+  {
+    "key": "1071211-name",
+    "original": "흑운도",
+    "context": "EN :\nDark Cloud Blade\nJP :\n黒雲道"
+  },
+  {
+    "key": "1071211-desc",
+    "original": "자신을 포함해 전투에 참여한 아군 흑운회 소속 인격이 2명 이상이면 [BlackCloudBlade] 1 얻음 (최대 1)\n\n이번 턴에 수비 스킬을 사용한 적 또는 공격 시작 전에 최대 체력인 적에게 입히는 피해량 +10%\n\n적이 자신을 제외한 아군을 스킬로 공격하여 피해를 입혔으면, 공격자를 스킬 1로 일방 공격함 (턴 당 1회)\n\n<style=\"highlight\">적이 자신을 제외한 아군을 처치했거나, 공격 종료후 공격당한 아군의 체력이 25% 미만이면, 공격자를 <뒷골목의 규칙> 으로 일방 공격함 (아군 캐릭터 당 1회, 턴 당 2회. 해당 효과로 발동된 스킬은 공격 스킬로 간주함)</style>",
+    "context": "EN :\nWhen there are 2+ allied Kurokumo Clan Identities on the field, including this unit, gain 1 [BlackCloudBlade] (max 1)\n\nAgainst enemies that, in this turn, used Defense Skills or were at max HP before attacking: deal +10% more damage\n\nIf an enemy attacked an other ally with a Skill and dealt damage this turn: use an Unopposed Attack against the attacker with Skill 1 (once per turn)\n\n<style=\"highlight\">If the enemy killed an other ally, or if the said ally's HP is at less than 25% after the enemy's attack, use an Unopposed Attack against the attacker with <Rules of the Backstreets> instead (once per ally; 2 times per turn; the Skill activated with this effect counts as an Attack Skill)</style>\nJP :\n自分を含めて戦闘に参加した味方の黒雲会所属人格が2名以上なら[BlackCloudBlade]1を得る(最大1)\n\nこのターンに守備スキルを使用した敵、攻撃開始前にて体力満タン状態の敵への与ダメージ量 +10%\n\n敵が自分を除いた味方をスキルで攻撃してダメージを与えたなら、攻撃者をスキル1で一方攻撃(1ターンにつき1回)\n\n<style=\"highlight\">- 敵が自分を除く味方を倒したか、攻撃終了後に攻撃された味方の体力が25%未満なら、攻撃者を<裏路地の掟>で一方攻撃(味方キャラクターごとに1回、1ターンにつき2回。この効果で発動したスキルは攻撃スキルとみなす)</style>"
+  },
+  {
+    "key": "1071211-summary",
+    "original": "[BlackCloudBlade] 얻음, 최대 체력이거나 수비 스킬을 사용한 적 대상 피해량 증가, 아군이 공격당하면 반격 발동",
+    "context": "EN :\nGain [BlackCloudBlade]; deal more damage against enemies that were at max HP or used a Defense Skill; counterattack when an ally is attacked\nJP :\n[BlackCloudBlade]を得る、体力が満タンか守備スキルを使用した敵へのダメージ量増加、味方が攻撃したら反撃発動"
+  },
+  {
+    "key": "1071221-name",
+    "original": "후벼파기",
+    "context": "EN :\nImpale\nJP :\n抉り出し"
+  },
+  {
+    "key": "1071221-desc",
+    "original": "속도가 가장 빠른 아군 1명이 이번 턴에 수비 스킬을 사용했거나, 공격 시작 전에 최대 체력인 적에게 가하는 피해량 +10%",
+    "context": "EN :\n1 ally with the fastest Speed: against enemies that used Defense Skills or were at max HP before attacking this turn: deal +10% more damage\nJP :\n速度が最も高い味方1名がこのターンに守備スキルを使用するか、攻撃開始前にて体力満タン状態の敵への与ダメージ量 +10%"
+  },
+  {
+    "key": "1081101-name",
+    "original": "몰려드는 검은 구름",
+    "context": "EN :\nGathering Dark Clouds\nJP :\n押し寄せる黒い雲"
+  },
+  {
+    "key": "1081101-desc",
+    "original": "전투 시작시 자신을 포함해 전투에 참여한 아군 흑운회 소속 인격이 2명 이상이면, [BlackCloudBlade] 1 얻음\n\n전투 시작시 조작 패널에서 자신의 양 옆의 흑운회 소속 인격에게 [BlackCloud] 1 부여",
+    "context": "EN :\nCombat Start: if there are 2+ allied Kurokumo Clan Identities in this Encounter, including this unit, gain 1 [BlackCloudBlade]\n\nCombat Start: apply 1 [BlackCloud] to Kurokumo Clan Identities adjacent to this unit on the Dashboard\nJP :\n戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与"
+  },
+  {
+    "key": "1081101-summary",
+    "original": "[BlackCloudBlade] 얻음, 아군 흑운회 소속 인격에게 [BlackCloud] 부여",
+    "context": "EN :\nGain [BlackCloudBlade]; apply [BlackCloud] to allied Kurokumo Clan Identities\nJP :\n[BlackCloudBlade]を得る、味方の黒雲会所属人格へ[BlackCloud]付与"
+  },
+  {
+    "key": "1081102-name",
+    "original": "임전",
+    "context": "EN :\nBattle Ready\nJP :\n臨戦"
+  },
+  {
+    "key": "1081102-desc",
+    "original": "흑운회 소속 아군이 사망하면, 이번 전투 동안 [SlashResultUp] 1 얻음\n\n흑운회 소속 아군이 3명 이상 사망하면 이번 전투 동안 [EngageToBattle]을 얻음",
+    "context": "EN :\nWhen a Kurokumo Clan ally dies, gain 1 [SlashResultUp] for this Encounter\n\nWhen 3 or more Kurokumo Clan allies are defeated, gain [EngageToBattle] for this Encounter\nJP :\n黒雲会所属の味方が死亡したなら、この戦闘の間[SlashResultUp]1を得る\n\n黒雲会所属の味方が3名以上死亡したなら、この戦闘の間[EngageToBattle]を得る"
+  },
+  {
+    "key": "1081111-name",
+    "original": "몰려드는 검은 구름",
+    "context": "EN :\nGathering Dark Clouds\nJP :\n押し寄せる黒い雲"
+  },
+  {
+    "key": "1081111-desc",
+    "original": "전투 시작시 자신을 포함해 전투에 참여한 아군 흑운회 소속 인격이 2명 이상이면, [BlackCloudBlade] 1 얻음\n\n전투 시작시 조작 패널에서 자신의 양 옆의 흑운회 소속 인격에게 [BlackCloud] 1 부여\n<style=\"highlight\">- 색욕 공명이 4 이상이면, 자신을 제외한 모든 흑운회 소속 아군에게 [BlackCloud] 1 부여</style>",
+    "context": "EN :\nCombat Start: if there are 2+ allied Kurokumo Clan Identities in this Encounter, including this unit, gain 1 [BlackCloudBlade]\n\nCombat Start: apply 1 [BlackCloud] to Kurokumo Clan Identities adjacent to this unit on the Dashboard\n<style=\"highlight\">- At 4+ Lust Reson., apply 1 [BlackCloud] to all other Kurokumo Clan allies</style>\nJP :\n戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<style=\"highlight\">- 色欲共鳴が4以上なら、自分を除いた全黒雲会所属の味方へ[BlackCloud]1を付与</style>"
+  },
+  {
+    "key": "1081111-summary",
+    "original": "[BlackCloudBlade] 얻음, 아군 흑운회 소속 인격에게 [BlackCloud] 부여",
+    "context": "EN :\nGain [BlackCloudBlade]; apply [BlackCloud] to allied Kurokumo Clan Identities\nJP :\n[BlackCloudBlade]を得る、味方の黒雲会所属人格へ[BlackCloud]付与"
+  },
+  {
+    "key": "1081121-name",
+    "original": "구름 공방 칼날",
+    "context": "EN :\nCloud Workshop Blade\nJP :\n雲工房の刃"
+  },
+  {
+    "key": "1081121-desc",
+    "original": "속도가 가장 빠른 아군 1명이 적에게 부여하는 [Laceration]의 값 +1",
+    "context": "EN :\n1 ally with the fastest Speed inflicts +1 more [Laceration]\nJP :\n速度が最も高い味方1名が、敵に付与する[Laceration]の値 +1"
   }
 ]
