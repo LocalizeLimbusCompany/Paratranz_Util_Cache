@@ -1351,8 +1351,8 @@
   },
   {
     "key": "19042-desc",
-    "original": "아군이 스킬 효과로 부여하는 [Laceration] 위력 수치가 2배로 적용.\n\n턴 종료 시 [Laceration] 또는 특수 출혈에 걸린 적들이 다음 턴에 <style=\"upgradeHighlight\">속도가 3만큼 감소.</style>",
-    "context": "EN :\nAllies inflict x2 [Laceration] Potency with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Unique Bleed' lose <style=\"upgradeHighlight\">3</style> Speed next turn.\nJP :\n味方がスキル効果で与える[Laceration]威力数値が2倍になる。\n\nターン終了時、[Laceration]または特殊出血状態の敵は次のターンに<style=\"upgradeHighlight\">速度が3減少。"
+    "original": "아군이 스킬 효과로 적에게 부여하는 [Laceration] 위력 수치가 2배로 적용.\n\n턴 종료 시 [Laceration] 또는 특수 출혈에 걸린 적들이 다음 턴에 <style=\"upgradeHighlight\">속도가 3만큼 감소.</style>",
+    "context": "EN :\nAgainst enemies, allies inflict x2 [Laceration] Potency with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Unique Bleed' lose <style=\"upgradeHighlight\">3</style> Speed next turn.\nJP :\n味方がスキル効果で敵に与える[Laceration]威力数値が2倍になる。\n\nターン終了時、[Laceration]または特殊出血状態の敵は次のターンに<style=\"upgradeHighlight\">速度が3減少。"
   },
   {
     "key": "19042-simpleDesc$[0].simpleDesc",
@@ -1371,8 +1371,8 @@
   },
   {
     "key": "29042-desc",
-    "original": "아군이 스킬 효과로 부여하는 <style=\"upgradeHighlight\">[Laceration] 위력 수치가 2.5배로 적용.</style>\n\n턴 종료 시 [Laceration] 또는 특수 출혈에 걸린 적들이 다음 턴에 속도가 3만큼 감소.",
-    "context": "EN :\nAllies inflict <style=\"upgradeHighlight\">x2.5 [Laceration] Potency</style> with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Unique Bleed' lose 3 Speed next turn.\nJP :\n味方がスキル効果で与える<style=\"upgradeHighlight\">[Laceration]威力数値を2.5倍で適用。</style>\n\nターン終了時、[Laceration]または特殊出血状態の敵全員が次のターンに速度が3減少。"
+    "original": "아군이 스킬 효과로 적에게 부여하는 <style=\"upgradeHighlight\">[Laceration] 위력 수치가 2.5배로 적용.</style>\n\n턴 종료 시 [Laceration] 또는 특수 출혈에 걸린 적들이 다음 턴에 속도가 3만큼 감소.",
+    "context": "EN :\nAgainst enemies, allies inflict <style=\"upgradeHighlight\">x2.5 [Laceration] Potency</style> with Skill effects.\n\nTurn End: enemies with [Laceration] or 'Unique Bleed' lose 3 Speed next turn.\nJP :\n味方がスキル効果で敵に与える<style=\"upgradeHighlight\">[Laceration]威力数値を2.5倍で適用。</style>\n\nターン終了時、[Laceration]または特殊出血状態の敵全員が次のターンに速度が3減少。"
   },
   {
     "key": "29042-simpleDesc$[0].simpleDesc",
@@ -6512,7 +6512,7 @@
   {
     "key": "9200-simpleDesc$[1].simpleDesc",
     "original": "관통 피해량 증가",
-    "context": "EN :\nPierce DMG Up\nJP :\n貫通量ダメージ増加"
+    "context": "EN :\nPierce DMG Up\nJP :\n貫通ダメージ量増加"
   },
   {
     "key": "9200-simpleDesc$[2].simpleDesc",

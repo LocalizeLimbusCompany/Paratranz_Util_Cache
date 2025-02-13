@@ -96,8 +96,8 @@
   },
   {
     "key": "9163-desc",
-    "original": "[Vibration] 횟수를 소모한 스킬로 합 승리시, 대상에게 진동이 없다면 대상의 [Vibration] 횟수 2 증가.\n\n해당 공격 스킬을 포함하여 나태 공명 3 이상이면, 대신 대상의 [Vibration] 횟수 3 증가",
-    "context": "EN :\nWhen winning a Clash with a Skill that consumed [Vibration] Count: if the target does not have [Vibration], inflict +2 [Vibration] Count\n\nAt 3+ Sloth Reson. including this Skill, inflict +3 [Vibration] Count instead\nJP :\n[Vibration]回数を消耗したスキルでマッチ勝利時、対象に振動がなければ対象の[Vibration]回数を2増加\n\n該当する攻撃スキルを含めて怠惰共鳴3以上なら、代わりに対象の[Vibration]回数を3増加"
+    "original": "[Vibration] 횟수를 소모한 스킬로 합 승리시, 대상에게 [Vibration]이 없다면 대상의 [Vibration] 횟수 2 증가.\n\n해당 공격 스킬을 포함하여 나태 공명 3 이상이면, 대신 대상의 [Vibration] 횟수 3 증가",
+    "context": "EN :\nWhen winning a Clash with a Skill that consumed [Vibration] Count: if the target does not have [Vibration], inflict +2 [Vibration] Count\n\nAt 3+ Sloth Reson. including this Skill, inflict +3 [Vibration] Count instead\nJP :\n[Vibration]回数を消耗したスキルでマッチ勝利時、対象に[Vibration]がなければ対象の[Vibration]回数を2増加\n\n該当する攻撃スキルを含めて怠惰共鳴3以上なら、代わりに対象の[Vibration]回数を3増加"
   },
   {
     "key": "9163-simpleDesc$[0].simpleDesc",
@@ -166,8 +166,8 @@
   },
   {
     "key": "9167-simpleDesc$[0].simpleDesc",
-    "original": "합 승리 시, 남은 코인만큼 진동 부여. 대상에게 진동이 없으면, 진동 횟수 증가",
-    "context": "EN :\nOn Clash Win, inflict Tremor equal to the # of remaining Coins. If the target does not have Tremor, inflict Tremor Count\nJP :\nマッチ勝利時、残りコイン数だけ振動付与。対象に振動がなければ振動回数が増加"
+    "original": "합 승리 시, 남은 코인만큼 진동 부여. 대상에게 [Vibration]이 없으면, 진동 횟수 증가",
+    "context": "EN :\nOn Clash Win, inflict Tremor equal to the # of remaining Coins. If the target does not have [Vibration], inflict Tremor Count\nJP :\nマッチ勝利時、残りコイン数だけ振動付与。対象に[Vibration]がなければ[Vibration]回数が増加"
   },
   {
     "key": "9167-simpleDesc$[1].simpleDesc",

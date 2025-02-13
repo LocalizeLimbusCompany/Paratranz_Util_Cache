@@ -111,8 +111,8 @@
   },
   {
     "key": "816405-desc",
-    "original": "스킬 종료 시 히스클리프에게 공격을 적중시키지 못했으면 폭발하는 감정 1 감소\n턴 시작 시 흐트러짐 상태였으면, 턴 종료 시 폭발하는 감정 3 감소\n폭발하는 감정은 한 턴 당 최대 3 감소하며, 턴 종료 시 수치가 1이면, 해당 버프가 해제됨",
-    "context": "EN :\nIf this unit failed to land a hit on Heathcliff by Skill End, lose 1 Explosive Emotion\nIf this unit is Staggered at Turn Start, lose 3 Explosive Emotion at Turn End\nThis unit does not lose more than 3 Explosive Emotion per turn; if the value of Explosive Emotion is 1 at Turn End, lose the said effect\nJP :\nスキル終了時、ヒースクリフに攻撃を的中させられなかったら爆発する感情 が1減少\nターン開始時に混乱状態だったなら、ターン終了時に爆発する感情 が3減少\n爆発する感情は1ターンにつき最大3減少し、ターン終了時の数値が1なら該当バフが解除される"
+    "original": "스킬 종료 시 히스클리프에게 공격을 적중시키지 못했으면 폭발하는 감정 1 감소\n턴 종료 시 흐트러짐 상태였으면, 폭발하는 감정 3 감소\n폭발하는 감정은 한 턴 당 최대 3 감소하며, 턴 종료 시 수치가 1이면, 해당 버프가 해제됨",
+    "context": "EN :\nIf this unit failed to land a hit on Heathcliff by Skill End, lose 1 Explosive Emotion\nIf this unit is Staggered at Turn End, lose 3 Explosive Emotion\nThis unit does not lose more than 3 Explosive Emotion per turn; if the value of Explosive Emotion is 1 at Turn End, lose the said effect\nJP :\nスキル終了時、ヒースクリフに攻撃を的中させられなかったら爆発する感情 が1減少\nターン終了時に混乱状態だったなら、爆発する感情 が3減少\n爆発する感情は1ターンにつき最大3減少し、ターン終了時の数値が1なら該当バフが解除される"
   },
   {
     "key": "816406-name",
@@ -136,12 +136,12 @@
   },
   {
     "key": "816407-name",
-    "original": "악에 받친",
-    "context": "EN :\nSpite-driven\nJP :\n頭にくる"
+    "original": "뜻 모를 분노",
+    "context": "EN :\nFathomless Wrath\nJP :\n訳の分からぬ憤怒"
   },
   {
     "key": "816407-desc",
-    "original": "스킬 종료 시 히스클리프에게 공격을 적중시키지 못했으면 폭발하는 감정 1 감소\n턴 시작 시 흐트러짐 상태였으면, 턴 종료 시 폭발하는 감정 3 감소\n폭발하는 감정은 한 턴 당 최대 3 감소하며, 턴 종료 시 수치가 1이면, 해당 버프가 해제됨",
-    "context": "EN :\nIf this unit failed to land a hit on Heathcliff by Skill End, lose 1 Explosive Emotion\nIf this unit is Staggered at Turn Start, lose 3 Explosive Emotion at Turn End\nThis unit does not lose more than 3 Explosive Emotion per turn; if the value of Explosive Emotion is 1 at Turn End, lose the said effect\nJP :\nスキル終了時、ヒースクリフに攻撃を的中させられなかったら爆発する感情 が1減少\nターン開始時に混乱状態だったなら、ターン終了時に爆発する感情 が3減少\n爆発する感情は1ターンにつき最大3減少し、ターン終了時の数値が1なら該当バフが解除される"
+    "original": "스킬 종료 시 공격을 적중시키지 못했으면 폭발하는 감정 1 감소\n턴 종료 시 흐트러짐 상태였으면, 폭발하는 감정 3 감소\n폭발하는 감정은 한 턴 당 최대 3 감소하며, 턴 종료 시 수치가 1이면, 해당 버프가 해제됨",
+    "context": "EN :\nIf this unit failed to land a hit by Skill End, lose 1 Explosive Emotion\nIf this unit is Staggered at Turn End, lose 3 Explosive Emotion\nThis unit does not lose more than 3 Explosive Emotion per turn; if the value of Explosive Emotion is 1 at Turn End, lose the said effect\nJP :\nスキル終了時、攻撃を的中させられなかったら爆発する感情 が1減少\nターン終了時に混乱状態だったなら、爆発する感情 が3減少\n爆発する感情は1ターンにつき最大3減少し、ターン終了時の数値が1なら該当バフが解除される"
   }
 ]

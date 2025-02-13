@@ -57,7 +57,7 @@
   {
     "key": "837202-desc",
     "original": "공격 적중시 대상에게 [Laceration]이 있으면, 입힌 체력 피해량의 40%만큼 부위와 본체 체력 회복\n공격 종료 시 체력을 100만큼 회복한 경우, 정신력 10 회복\n파괴 불가 코인의 경우 합 패배 후 적중 시 이 효과는 발동되지 않음.",
-    "context": "EN :\nOn Hit, if the target has [Laceration], heal this unit's Part & Core by 40% of the HP damage dealt.\nAfter Attack, if this unit healed at least 100 HP, heal 10 SP\nThis effect does not activate On Hit with an Unbreakable Coin Skill if it loses the Clash.\nJP :\n攻撃的中時、対象に[Laceration]があれば、被ダメージ量の40%だけ部位と本体の体力を回復\n攻撃終了時に体力を100回復した場合、精神力を10回復\n破壊不能コインスキルでマッチ敗北後に的中時、この効果は発動しない。"
+    "context": "EN :\nOn Hit, if the target has [Laceration], heal this unit's Part & Core by 40% of the HP damage dealt.\nAfter Attack, if this unit healed at least 100 HP, heal 10 SP\nThis effect does not activate On Hit with an Unbreakable Coin Skill if it loses the Clash.\nJP :\n攻撃的中時、対象に[Laceration]があれば、被ダメージ量の40%だけ部位と本体の体力を回復\n攻撃終了時に体力を100回復した場合、精神力を10回復\n[SuperCoin]スキルでマッチ敗北後に的中時、この効果は発動しない。"
   },
   {
     "key": "837203-name",

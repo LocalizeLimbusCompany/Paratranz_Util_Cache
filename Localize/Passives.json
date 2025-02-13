@@ -112,7 +112,7 @@
   {
     "key": "1040301-name",
     "original": "흑운도",
-    "context": "EN :\nKokuundō\nJP :\n黒雲道"
+    "context": "EN :\nKokuuntō\nJP :\n黒雲刀"
   },
   {
     "key": "1040301-desc",
@@ -162,7 +162,7 @@
   {
     "key": "1060201-name",
     "original": "흑운도",
-    "context": "EN :\nHēiyúndào\nJP :\n黒雲道"
+    "context": "EN :\nHēiyúndào\nJP :\n黒雲刀"
   },
   {
     "key": "1060201-desc",
@@ -262,7 +262,7 @@
   {
     "key": "1090201-name",
     "original": "흑운도",
-    "context": "EN :\nDark Cloud Blade\nJP :\n黒雲道"
+    "context": "EN :\nDark Cloud Blade\nJP :\n黒雲刀"
   },
   {
     "key": "1090201-desc",
@@ -1166,8 +1166,8 @@
   },
   {
     "key": "1120501-desc",
-    "original": "진동이 있는 대상에게 부여하는 파열 +1",
-    "context": "EN :\nInflict +1 Rupture to targets with Tremor\nJP :\n振動 がある対象に付与する破裂 +1"
+    "original": "[Vibration]이 있는 대상에게 부여하는 파열 +1",
+    "context": "EN :\nInflict +1 Rupture to targets with [Vibration]\nJP :\n[Vibration]を持つ対象に付与する破裂 +1"
   },
   {
     "key": "1120521-name",
@@ -1176,8 +1176,8 @@
   },
   {
     "key": "1120521-desc",
-    "original": "속도가 가장 느린 아군 1명이 진동이 있는 대상에게 부여하는 파열 +1",
-    "context": "EN :\n1 ally with the lowest Speed inflicts +1 Rupture to targets with Tremor\nJP :\n速度が最も低い味方1名が、振動のある対象に付与する破裂 +1"
+    "original": "속도가 가장 느린 아군 1명이 [Vibration]이 있는 대상에게 부여하는 파열 +1",
+    "context": "EN :\n1 ally with the lowest Speed inflicts +1 Rupture to targets with [Vibration]\nJP :\n速度が最も低い味方1名が、[Vibration]を持つ対象に付与する破裂 +1"
   },
   {
     "key": "1010401-name",
@@ -1346,8 +1346,8 @@
   },
   {
     "key": "1080701-desc",
-    "original": "진동이 있는 대상에게 공격 적중 시 침잠 횟수 1 증가",
-    "context": "EN :\nOn hit against a target with Tremor, inflict +1 Sinking Count\nJP :\n振動 がある対象に攻撃的中時、沈潜 回数が1増加"
+    "original": "[Vibration]이 있는 대상에게 공격 적중 시 침잠 횟수 1 증가",
+    "context": "EN :\nOn hit against a target with [Vibration], inflict +1 Sinking Count\nJP :\n[Vibration]がある対象に攻撃的中時、[Sinking]回数が1増加"
   },
   {
     "key": "1080721-name",
@@ -2307,7 +2307,7 @@
   {
     "key": "1120801-name",
     "original": "흑운도",
-    "context": "EN :\nDark Cloud Blade\nJP :\n黒雲道"
+    "context": "EN :\nDark Cloud Blade\nJP :\n黒雲刀"
   },
   {
     "key": "1120801-desc",
@@ -4002,7 +4002,7 @@
   {
     "key": "1071201-name",
     "original": "흑운도",
-    "context": "EN :\nDark Cloud Blade\nJP :\n黒雲道"
+    "context": "EN :\nDark Cloud Blade\nJP :\n黒雲刀"
   },
   {
     "key": "1071201-desc",
@@ -4027,7 +4027,7 @@
   {
     "key": "1071211-name",
     "original": "흑운도",
-    "context": "EN :\nDark Cloud Blade\nJP :\n黒雲道"
+    "context": "EN :\nDark Cloud Blade\nJP :\n黒雲刀"
   },
   {
     "key": "1071211-desc",

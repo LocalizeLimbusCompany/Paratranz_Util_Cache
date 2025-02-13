@@ -2921,8 +2921,8 @@
   },
   {
     "key": "1080401-levelList$[2].desc",
-    "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 도발치 4 증가\n대상의 진동이 8 이상이면, 스킬 위력 +2",
-    "context": "EN :\n[WhenUse] Gain +4 Aggro to this Skill Slot next turn\nIf target has 8+ Tremor, Skill Power +2\nJP :\n[WhenUse] 次のターンにこのスキルスロットの挑発値 が4増加\n対象の振動 が8以上なら、スキル威力 +2"
+    "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 도발치 4 증가\n대상의 [Vibration]이 8 이상이면, 스킬 위력 +2",
+    "context": "EN :\n[WhenUse] Gain +4 Aggro to this Skill Slot next turn\nIf target has 8+ [Vibration], Skill Power +2\nJP :\n[WhenUse] 次のターンにこのスキルスロットの挑発値 が4増加\n対象の[Vibration]が8以上なら、スキル威力 +2"
   },
   {
     "key": "1080401-levelList$[2].coinlist[0].coindescs[0].desc",
@@ -6606,8 +6606,8 @@
   },
   {
     "key": "1050502-levelList$[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 진동이 5 이상 있을 때 다음 턴에 공격 위력 감소 1 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has 5+ Tremor, inflict 1 Attack Power Down next turn\nJP :\n[OnSucceedAttack] 対象に振動 が5以上あるなら、次のターンに攻撃威力減少 1を付与"
+    "original": "[OnSucceedAttack] 대상에게 [Vibration]이 5 이상 있을 때 다음 턴에 공격 위력 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has 5+ [Vibration], inflict 1 Attack Power Down next turn\nJP :\n[OnSucceedAttack] 対象に[Vibration]が5以上あるなら、次のターンに攻撃威力減少 1を付与"
   },
   {
     "key": "1050502-levelList$[1].name",
@@ -6626,8 +6626,8 @@
   },
   {
     "key": "1050502-levelList$[1].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 진동이 5 이상 있을 때 다음 턴에 공격 위력 감소 1 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has 5+ Tremor, inflict 1 Attack Power Down next turn\nJP :\n[OnSucceedAttack] 対象に振動 が5以上あるなら、次のターンに攻撃威力減少 1を付与"
+    "original": "[OnSucceedAttack] 대상에게 [Vibration]이 5 이상 있을 때 다음 턴에 공격 위력 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has 5+ [Vibration], inflict 1 Attack Power Down next turn\nJP :\n[OnSucceedAttack] 対象に[Vibration]が5以上あるなら、次のターンに攻撃威力減少 1を付与"
   },
   {
     "key": "1050502-levelList$[2].name",
@@ -6651,8 +6651,8 @@
   },
   {
     "key": "1050502-levelList$[2].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 진동이 5 이상 있을 때 다음 턴에 공격 위력 감소 1 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has 5+ Tremor, inflict 1 Attack Power Down next turn\nJP :\n[OnSucceedAttack] 対象に振動 が5以上あるなら、次のターンに攻撃威力減少 1を付与"
+    "original": "[OnSucceedAttack] 대상에게 [Vibration]이 5 이상 있을 때 다음 턴에 공격 위력 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has 5+ [Vibration], inflict 1 Attack Power Down next turn\nJP :\n[OnSucceedAttack] 対象に[Vibration]が5以上あるなら、次のターンに攻撃威力減少 1を付与"
   },
   {
     "key": "1050503-levelList$[0].name",
@@ -8027,7 +8027,7 @@
   {
     "key": "1050601-levelList$[2].desc",
     "original": "충전 횟수가 10 이상이면, 최종 위력 + 2\n속도가 7 이상이면, 피해량 +25%\n[WhenUse] 자신의 충전 횟수 2 증가",
-    "context": "EN :\nAt 10+ Charge Count, Final Power +1\nAt 7+ Speed, deal +25% Damage\n[WhenUse] Gain +2 Charge Count\nJP :\n充電 回数が10以上なら、最終威力 +2\n速度が7以上なら、ダメージ量 +25%\n[WhenUse] 自分の充電 回数が2増加"
+    "context": "EN :\nAt 10+ Charge Count, Final Power +2\nAt 7+ Speed, deal +25% Damage\n[WhenUse] Gain +2 Charge Count\nJP :\n充電 回数が10以上なら、最終威力 +2\n速度が7以上なら、ダメージ量 +25%\n[WhenUse] 自分の充電 回数が2増加"
   },
   {
     "key": "1050601-levelList$[2].coinlist[0].coindescs[0].desc",
