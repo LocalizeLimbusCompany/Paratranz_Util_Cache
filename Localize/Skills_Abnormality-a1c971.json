@@ -151,8 +151,8 @@
   },
   {
     "key": "108104-levelList$[0].desc",
-    "original": "대상의 정신력이 0 미만이면, 코인 위력 +1\n대상의 [Sinking]이 10 이상이면, 기본 위력 +1\n[OnSucceedEvade] 대상의 정신력 5 감소",
-    "context": "EN :\nIf the target has less than 0 SP, Coin Power +1\nIf the target has 10+ [Sinking], Base Power +1\n[OnSucceedEvade] Target loses 5 SP\nJP :\n対象の精神力が0未満なら、コイン威力 +1\n対象の[Sinking]が10以上なら、基本威力 +1\n[OnSucceedEvade] 対象の精神力が5減少"
+    "original": "[OnSucceedEvade] 대상의 정신력 5 감소",
+    "context": "EN :\n[OnSucceedEvade] Target loses 5 SP\nJP :\n[OnSucceedEvade] 対象の精神力を5減少"
   },
   {
     "key": "107901-levelList$[0].name",

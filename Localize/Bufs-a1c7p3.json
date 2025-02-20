@@ -6,8 +6,8 @@
   },
   {
     "key": "BloodyHand_2nd-desc",
-    "original": "- 피로 물든 손을 얻는 효과가 해당 버프를 얻는 효과로 변경됨\n- 최댓값 : 20\n- 기본값 : 10\n- 자신의 스킬 적중시 파열 2 추가로 부여\n- 수치 6당 공격 레벨 1 증가\n- 자신의 스킬 적중시 자신과 공격 대상에게 서로 출혈 1 부여",
-    "context": "EN :\n- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 20\n- Base Value: 10\n- On Hit with this unit's Skill, inflict 2 more Rupture\n- Gain 1 Offense Level for every 6 Stack\n- On Hit with this unit's Skill, inflict 1 Bleed both on self and against the target\nJP :\n- 血に染まった手を得る効果が、該当バフを得る効果に変更\n- 最大値 : 20\n- 基本値 : 10\n- 自身のスキル的中時、破裂2を追加で付与\n- 数値6につき攻撃レベルが1増加\n- 自身のスキル的中時、自身と攻撃対象へお互いに出血を1付与"
+    "original": "- 피로 물든 손을 얻는 효과가 해당 버프를 얻는 효과로 변경됨\n- 최댓값 : 20\n- 기본값 : 10\n- 수치 6당 공격 레벨 1 증가",
+    "context": "EN :\n- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 20\n- Base Value: 10\n- Gain 1 Offense Level for every 6 Stack\nJP :\n- 血に染まった手 を得る効果が、該当バフを得る効果に変更\n- 最大値 : 20\n- 基本値 : 10\n- 数値6につき、攻撃レベル が1増加"
   },
   {
     "key": "BloodyHand_3rd-name",
@@ -16,8 +16,8 @@
   },
   {
     "key": "BloodyHand_3rd-desc",
-    "original": "- 피로 물든 손을 얻는 효과가 해당 버프를 얻는 효과로 변경됨\n- 최댓값 : 30\n- 기본값 : 20\n- 자신의 스킬 적중시 파열 2, 파열 횟수 1 추가로 부여\n- 공격 위력 1 증가\n- 자신의 스킬 적중시 자신과 공격 대상에게 서로 출혈 3 부여",
-    "context": "EN :\n- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 30\n- Base Value: 20\n- On Hit with this unit's Skill, inflict additional 2 Rupture and +1 Rupture Count\n- Gain 1 Attack Power\n- On Hit with this unit's Skill, inflict 3 Bleed both on self and against the target\nJP :\n- 血に染まった手を得る効果が、該当バフを得る効果に変更\n- 最大値 : 30\n- 基本値 : 20\n- 自身のスキル的中時、破裂2, 破裂回数1を追加で付与\n- 攻撃威力が1増加\n- 自身のスキル的中時、自身と攻撃対象へお互いに出血を3付与"
+    "original": "- 피로 물든 손을 얻는 효과가 해당 버프를 얻는 효과로 변경됨\n- 최댓값 : 30\n- 기본값 : 20\n- 공격 위력 1 증가\n- 수치가 30이면, 자신의 스킬 적중시 파열 2, 파열 횟수 1 추가로 부여\n- 수치가 30이면, 자신의 스킬 적중시 자신과 공격 대상에게 서로 출혈 3 부여",
+    "context": "EN :\n- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 30\n- Base Value: 20\n- Gain 1 Attack Power\n- At 30 Stack: On Hit with this unit's Skill, inflict additional 2 Rupture and +1 Rupture Count\n- At 30 Stack: On Hit with this unit's Skill, inflict 3 Bleed both on self and against the target\nJP :\n- 血に染まった手を得る効果が、該当バフを得る効果に変更\n- 最大値 : 30\n- 基本値 : 20\n- 攻撃威力が1増加\n- 数値が30なら自分のスキル的中時、破裂2, 破裂回数1を追加で付与\n- 数値が30なら自分のスキル的中時、自身と攻撃対象へお互いに出血を3付与"
   },
   {
     "key": "WornHeart-name",
@@ -26,8 +26,8 @@
   },
   {
     "key": "WornHeart-desc",
-    "original": "- 최대 10 스택\n- 처음부터 3을 가지고 전투 시작.\n- 턴 시작시, 수치 1당 방어 레벨 감소 1 얻음\n- 턴 시작시, 수치 2당 공격 레벨 증가 1 얻음\n- 턴 시작시, 수치가 10이면 취약 3 얻고 정신력 5 감소\n- 수치가 10이면, 자신의 공격 적중시 피해량의 40%만큼 부위와 본체 체력 회복",
-    "context": "EN :\n- Max Stack: 10\n- Enters Encounter with 3 Stack\n- Turn Start: gain 1 Defense Level Down for every Stack\n- Turn Start: gain 1 Offense Level Down for every 2 Stack\n- Turn Start: at 10 Stack, gain 3 Fragile and lose 5 SP\n- At 10 Stack: On Hit, heal 40% of the damage dealt to this unit's Part and Core\nJP :\n- 最大10スタック\n- 初期値3で戦闘開始\n- ターン開始時、数値1につき防御レベル減少1を得る\n- ターン開始時、数値2につき攻撃レベル増加1を得る\n- ターン開始時、数値が10なら脆弱3を得て精神力が5減少\n- 数値が10なら、自身の攻撃が命中時、ダメージ量の40%だけ部位と本体の体力を回復"
+    "original": "- 최대 10 스택\n- 처음부터 3을 가지고 전투 시작.\n- 턴 시작시, 수치 1당 방어 레벨 감소 1 얻음\n- 턴 시작시, 수치 2당 공격 레벨 증가 1 얻음\n- 턴 시작시, 수치가 10이면 취약 3 얻고 정신력 5 감소\n- 수치가 10이면, 자신의 공격 적중시 피해량의 40%만큼 부위와 본체 체력 회복하고 피로 물든 손을 2 얻음",
+    "context": "EN :\n- Max Stack: 10\n- Enters Encounter with 3 Stack\n- Turn Start: gain 1 Defense Level Down for every Stack\n- Turn Start: gain 1 Offense Level Up for every 2 Stack\n- Turn Start: at 10 Stack, gain 3 Fragile and lose 5 SP\n- At 10 Stack: On Hit, heal 40% of the damage dealt to this unit's Part and Core, and gain 2 Bloodied Hand\nJP :\n- 最大10スタック\n- 初期値3で戦闘開始\n- ターン開始時、数値1につき防御レベル減少1を得る\n- ターン開始時、数値2につき攻撃レベル増加1を得る\n- ターン開始時、数値が10なら脆弱3を得て精神力が5減少\n- 数値が10なら、自身の攻撃が命中時、ダメージ量の40%だけ部位と本体の体力を回復して血に染まった手2を得る"
   },
   {
     "key": "StarvingPriestTwo-name",

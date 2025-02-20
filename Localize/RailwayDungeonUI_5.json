@@ -1,0 +1,112 @@
+[
+  {
+    "key": "railway_5_must_participate_all-content",
+    "original": "편성되지 않은 인격이 존재합니다.\n\n※ 거울굴절철도 5호선에서는 모든 수감자가 편성에 포함되어야 입장할 수 있습니다.",
+    "context": "EN :\nPlease Deploy all Sinners.\n\n※ In Refraction Railway Line 5, every Sinner has to be Deployed in order to enter.\nJP :\n編成されていない人格癌存在します。\n\n※鏡屈折鉄道5号線では、全囚人が編成に含まれていないと入場できません。"
+  },
+  {
+    "key": "mainui_personality_blocked-content",
+    "original": "편성 불가",
+    "context": "EN :\nCannot Deploy\nJP :\n編成不可"
+  },
+  {
+    "key": "railway5_clear_info-content",
+    "original": "클리어 정보",
+    "context": "EN :\nClear Info\nJP :\nクリア情報"
+  },
+  {
+    "key": "railway5_clear_info_node_ui-content",
+    "original": "클리어 정보",
+    "context": "EN :\nClear Info\nJP :\nクリア情報"
+  },
+  {
+    "key": "railway_dungeon_5_entrance_recommended_level-content",
+    "original": "- 인격 : 동기화 4단계, 레벨 50",
+    "context": "EN :\n- Identities : Uptie Tier 4, Level 50\nJP :\n- 人格 : 同期化段階4段階・レベル50"
+  },
+  {
+    "key": "railway5_clear_info_clear_turn_count-content",
+    "original": "클리어 턴 수",
+    "context": "EN :\nClear Turns\nJP :\nクリアターン数"
+  },
+  {
+    "key": "railway5_clear_info_ego_stock-content",
+    "original": "남은 자원",
+    "context": "EN :\nRemaining Resources\nJP :\n残り資源"
+  },
+  {
+    "key": "railway5_clear_info_selected_buffs-content",
+    "original": "선택 버프",
+    "context": "EN :\nSelected Buff\nJP :\n選択バフ"
+  },
+  {
+    "key": "railway_dungeon_5_reward_condition_special_ticket-content",
+    "original": "시즌 5 오블리비언 기간 내에 누적 턴 수 100턴 이하로 5호선 클리어 시 획득할 수 있습니다.",
+    "context": "EN :\nObtained by clearing Line 5 with 100 or fewer Total Turns before Season 5: Oblivion ends.\nJP :\nシーズン5 オブリヴィオン期間内に累計ターン数100以下で5号線クリア時に獲得できます。"
+  },
+  {
+    "key": "railway_dungeon_5_statistics_button-content",
+    "original": "상세 정보",
+    "context": "EN :\nDetails\nJP :\n詳細情報"
+  },
+  {
+    "key": "railway_dungeon_5_required_condition_to_enter_format-content",
+    "original": "※ 안내 사항\n\n{0}에 입장하기 위해서는 수감자 별로 최소 2개의 인격이 필요합니다.",
+    "context": "EN :\n※ Information\n\nEach Sinner needs to have at least 2 Identities in order to enter {0}.\nJP :\n※ご案内\n\n{0}に入場するには、周囲人ごとに最低2つの人格が必要です。"
+  },
+  {
+    "key": "railway_dungeon_5_reward_condition_special_ticket_warning-content",
+    "original": "<color=#990000>※ 시즌 5 오블리비언 기간이 종료된 이후에는 획득할 수 없습니다.</color>",
+    "context": "EN :\n<color=#990000>※ This cannot be obtained after Season 5: Oblivion ends.</color>\nJP :\n<color=#990000>※シーズン5 オブリヴィオンの期間が終了してからは獲得できません。</color>"
+  },
+  {
+    "key": "railway_dungeon_5_reward_condition_warning-content",
+    "original": "※ 시즌 5 오블리비언 기간이 종료된 이후에 보상 수령 시, 시즌 이월이 적용되어 시즌 관련 재화인 <color=#990000>자아 파편 상자, 자아 파편 선택 상자의 획득 수량이 반감</color>되오니 참고해주시기 바랍니다.\n(이월되지 않은 자아 파편 상자, 자아 파편 선택 상자는 끈 상자로 전환됩니다.)",
+    "context": "EN :\n※ Please note that any rewards claimed after Season 5: Oblivion ends will be affected by the Seasonal carryover process. Any Seasonal currencies, such as <color=#990000>Egoshard Crates and Nominable Egoshard Crates</color> will be halved.\n(Egoshard Crates—both Random and Nominable—that have not been carried over are converted into Thread Crates.)\nJP :\n※シーズン5 オブリヴィオン期間が終了してから報酬受領時、シーズン繰り越しが適用されてシーズン関連アイテムの<color=#990000>自我の破片ボックス、自我の破片セレクトボックス獲得数が半減</color>されますのでご注意ください。\n(繰り越されない自我の破片ボックス、自我の破片セレクトボックスは紐の箱に変換されます。)"
+  },
+  {
+    "key": "railway_dungeon_5_banner_reward_condition_1-content",
+    "original": "거울굴절철도 5호선 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Refraction Railway Line 5\nJP :\n鏡屈折鉄道5号線 クリア時に獲得"
+  },
+  {
+    "key": "railway_dungeon_5_banner_reward_condition_2-content",
+    "original": "<color=#9a0634>시즌 5 오블리비언</color> 기간 내에 누적 턴 수 {0}턴 이하로 거울굴절철도 5호선 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Line 5 with {0} or fewer Total Turns before <color=#9a0634>Season 5: Oblivion</color> ends.\nJP :\n<color=#9a0634>シーズン5 オブリヴィオン</color>期間内に累計ターン数{0}以下で鏡屈折鉄道5号線クリア時に獲得"
+  },
+  {
+    "key": "railway_5_banned_personality_exist-content",
+    "original": "사용할 수 없는 인격이 편성되어있습니다.\n\n※ 거울굴절철도 5호선 제 2 구간에서는 제 1 구간에서 선택한 인격을 사용할 수 없습니다.",
+    "context": "EN :\nA locked Identity is among the Deployed Identities.\n\n※ Please note that, in Refraction Railway Line 5, Identities that participated in Section #1 cannot participate in Section #2.\nJP :\n使用できない人格が編成されています。\n\n※鏡屈折鉄道5号線の第2区間では、第1区間で選択した人格が使用できません。"
+  },
+  {
+    "key": "railway_5_ally_buff-content",
+    "original": "버프",
+    "context": "EN :\nBuffs\nJP :\nバフ"
+  },
+  {
+    "key": "railway_5_enemy_buff-content",
+    "original": "고난",
+    "context": "EN :\nTrials\nJP :\n苦難"
+  },
+  {
+    "key": "railway_5_section-content",
+    "original": "제 {0} 구간",
+    "context": "EN :\nSection #{0}\nJP :\n第{0}区間"
+  },
+  {
+    "key": "railway_5_warning_enter_node_1-content",
+    "original": "제 1 구간 전투에 참여한 인격은 제 2 구간 전투에 참여할 수 없습니다.\n\n해당 편성으로 제 1 구간 전투를 진행하시겠습니까?",
+    "context": "EN :\nPlease note that Identities participating in Section #1 cannot participate in Section #2.\n\nAre you sure you want to use this loadout for Section #1?\nJP :\n第1区間の戦闘に参加した人格は、第2区間の戦闘に参加できません。\n\nこの編成で第1区間の戦闘を進行しますか？"
+  },
+  {
+    "key": "railway_5_select_buff_title-content",
+    "original": "버프 선택",
+    "context": "EN :\nSelect Buffs\nJP :\nバフ選択"
+  },
+  {
+    "key": "railway_5_stage_level_warning-content",
+    "original": "※ 현재 인격 평균 레벨 : <color=#990000>{0}</color> (권장 레벨: <color=#990000>{1}</color>)",
+    "context": "EN :\n※ Current Avg. ID Level: <color=#990000>{0}</color> (Recommended Level: <color=#990000>{1}</color>)\nJP :\n※現在の人格平均レベル : <color=#990000>{0}</color> (推奨レベル: <color=#990000>{1}</color>)"
+  }
+]

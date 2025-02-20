@@ -66,8 +66,8 @@
   },
   {
     "key": "TakeHpHealMultiplier-desc",
-    "original": "스킬 효과를 통한 체력 회복량 {0}%",
-    "context": "EN :\nHP Healed from Skill Effects {0}%\nJP :\nスキル効果による体力回復量 {0}%"
+    "original": "스킬, 코인 효과를 통한 체력 회복량 {0}%",
+    "context": "EN :\nHP Healed from Skill and Coin Effects {0}%\nJP :\nスキル・コイン効果による体力回復量 {0}%"
   },
   {
     "key": "RecoverSelfHpOnSucceedAttackByDmg-desc",
@@ -218,5 +218,235 @@
     "key": "DefaultMaxHpMultiplier-desc",
     "original": "최대 체력 {0}%",
     "context": "EN :\nMax HP {0}%\nJP :\n最大体力 {0}%"
+  },
+  {
+    "key": "ResistAdderForLastBoss-desc",
+    "original": "3구간 마지막 보스의 {0} 내성 {1}",
+    "context": "EN :\nFinal Boss of Section 3 {0} Resistance {1}\nJP :\n区間3最終ボスの{0}耐性 {1}"
+  },
+  {
+    "key": "MRR519P-desc",
+    "original": "아군이 사망할 때마다 적 전체에게 사망한 아군의 최대 체력의 20%만큼 고정 피해를 입힘",
+    "context": "EN :\nWhenever an ally dies, inflict fixed damage equal to 20% of the dead ally's max HP against all enemies\nJP :\n味方が死亡するたび、敵全体へ死亡した味方の体力最大値20%分の固定ダメージを与える"
+  },
+  {
+    "key": "HealSelfOnSucceedAttackByDmgRatio-desc",
+    "original": "공격 적중시 적의 체력이 감소했으면, 가한 피해량의 {0}% 만큼 체력 회복",
+    "context": "EN :\nOn Hit, if the hit reduced the target's HP, heal by {0}% of the damage dealt\nJP :\n攻撃的中時に敵の体力が減少したなら、与ダメージ量の{0}%だけ体力を回復"
+  },
+  {
+    "key": "MRR524P-desc",
+    "original": "자신의 {0} 10 당 모든 스킬 피해량 +1% (최대 30%)",
+    "context": "EN :\nAll Skills deal +1% more damage for every 10 {0} on self (max 30%)\nJP :\n自分の{0}10につき、全スキルのダメージ量 +1%(最大30%)"
+  },
+  {
+    "key": "MRR525-desc",
+    "original": "턴 종료시 {0} 횟수 {1} 감소",
+    "context": "EN :\nTurn End: lose {1} {0} Count\nJP :\nターン終了時に{0}回数が{1}減少"
+  },
+  {
+    "key": "CoinScaleAdderByAtkType-desc",
+    "original": "{0} 스킬의 더하기 코인 위력 +{1}, 빼기 코인 위력 -{1}",
+    "context": "EN :\n{0} Skills gain Plus Coin Power +{1}, Minus Coin Power -{1}\nJP :\n{0}スキルの加算コイン威力 +{1}, 減算コイン威力 -{1}"
+  },
+  {
+    "key": "GiveBuffOnReleaseStandBy-desc",
+    "original": "대기 해제 시 {0} {1} 얻음",
+    "context": "EN :\nGain {1} {0} when Substituting in\nJP :\n待機解除時に{0}を{1}得る"
+  },
+  {
+    "key": "MRR532-desc",
+    "original": "각성 E.G.O 스킬 공격 종료시 보유한 E.G.O 자원 중 1개 이상인 무작위 속성 자원을 1개씩, 총 2개 소모",
+    "context": "EN :\nAfter using an Awakening E.G.O, also consume 1 E.G.O resource from 3 random Sin Affinities with more than 1 E.G.O resource.\nJP :\n覚醒E.G.Oスキル攻撃終了時、保有しているE.G.O資源の内1つ以上のランダムな属性資源を1つずつ、合計で2つ消耗"
+  },
+  {
+    "key": "LacerationStackAndTurnAdder-desc",
+    "original": "스킬, 코인 효과로 부여하는 {1} 위력, 횟수 {0}",
+    "context": "EN :\n+{0} to {1} Potency and Count inflicted with Skill & Coin effects\nJP :\nスキル・コイン効果で付与する{1}威力、回数{0}"
+  },
+  {
+    "key": "MRR536-desc",
+    "original": "스킬로 피격 시 마다 다음 턴에 {0} 1, {1} 1 중 무작위 1개를 얻음 (최대 4회)",
+    "context": "EN :\nWhen hit by a Skill, randomly gain 1 of the following next turn: {0}, {1} (4 times max)\nJP :\nスキルでダメージを受けるたび、次のターンに{0} 1,{1} 1の内ランダムに1つを得る(最大4回)"
+  },
+  {
+    "key": "MRR540-desc",
+    "original": "{0}을 소모하는 스킬의 최종 위력 +1, 가하는 피해량 10% 증가",
+    "context": "EN :\nSkills that consume {0} gain the following: Final Power +1, deal +10% more damage\nJP :\n{0}を消耗するスキルの最終威力 +1, 与ダメージ量10%増加"
+  },
+  {
+    "key": "MRR541-desc",
+    "original": "{1}이 가장 낮은 대상이 메인 타겟이면, 스킬 최종 위력 +{0}",
+    "context": "EN :\nWhen mainly targeting the unit with the lowest {1}, Skill Final Power +{0}\nJP :\n{1}最も低い対象がメインターゲットなら、スキルの最終威力 +{0}"
+  },
+  {
+    "key": "MRR518P-desc",
+    "original": "전투 시작 시 현재 편성 순서가 가장 빠른 아군 3명이 호흡 위력 10 얻음",
+    "context": "EN :\nCombat Start: 3 currently earliest Deployed allies gain 10 Poise Potency\nJP :\n戦闘開始時、編成順が最も早い味方3名が呼吸 威力10を得る"
+  },
+  {
+    "key": "MRR520P-desc",
+    "original": "사망할 때, 적 전체에게 사망자 최대 체력의 {0}% 만큼 고정 피해를 입힘 (집중 전투인 경우 부위에 적용 됨)",
+    "context": "EN :\nOn death, inflict fixed damage equal to {0}% of the dead unit's max HP against all enemies (for Focused Encounters, all Parts)\nJP :\n死亡するとき、敵全体に死亡者の体力最大値{0}%だけ固定ダメージを与える(集中戦闘の場合は部位に適用される)"
+  },
+  {
+    "key": "MRR517-desc",
+    "original": "스킬로 피격 시마다 다음 턴에 공격 레벨 증가 2 얻음. (최대 6)",
+    "context": "EN :\nWhen hit by a Skill, gain 2 Offense Level Up next turn (max 6)\nJP :\nスキルでダメージを受ける度、次のターンに攻撃レベル増加2を得る(最大6)"
+  },
+  {
+    "key": "MRR5051-desc",
+    "original": "{0} 횟수를 8 이상 소모한 스킬 적중 시 이번 전투동안 대상의 {1} 내성 +0.1\n- 적 1명 당 1개의 스킬로 1회만 적용 가능\n- 이 효과로 적 1명의 내성은 최대 0.3 까지 증가시킬 수 있음",
+    "context": "EN :\nOn Hit with Skills that consumed 8+ {0} Count: +0.1 to {1} Resistance on the target for this Encounter\n- Once per Skill per Enemy\n- Max Resistance adjustment with this effect: 0.3\nJP :\n{0}回数を8以上消耗したスキル的中時に今回の戦闘の間、対象の{1}耐性 +0.1 \n- 敵1名につき、1つのスキルに1回のみ適用可能\n- この効果で敵1名の耐性は最大0.3まで増加可能"
+  },
+  {
+    "key": "MRR5052-desc",
+    "original": "{0} 횟수를 획득하거나 소모하는 스킬의 피해량 +(10 + 소모한 값 x 2)% (최대 50%)",
+    "context": "EN :\nSkills that gain or consume {0} Count deal +(10 + (Charge Count consumed x 2))% more damage (max 50%)\nJP :\n{0}回数を獲得するか消耗するスキルのダメージ量 +(10 + 消耗した値 × 2)% (最大50%)"
+  },
+  {
+    "key": "MRR506-desc",
+    "original": "턴 종료 시 각 키워드의 횟수가 2 이상이면, 모든 부위에 {0} 위력만큼 {1} 피해를 주고, {0} 횟수 1 감소, {2}을 1회 발동시키고, {3} 횟수 1 감소",
+    "context": "EN :\nTurn End: for each Keyword, against all enemy Parts with 2+ Count, inflict {1} damage equal to {0} Potency on each Part; then, reduce their {0} Count by 1, trigger {2} once, and reduce their {3} Count by 1\nJP :\nターン終了時、各キーワードの回数が2以上なら全部位に{0}威力だけ{1}ダメージを与え、{0}回数が1減少。{2}を1回発動させて、{3}回数が1減少"
+  },
+  {
+    "key": "MRR507-desc",
+    "original": "{0} 위력이나 횟수를 부여하는 스킬의 최종 위력 +2",
+    "context": "EN :\nSkills that inflict {0} Potency or Count: Final Power +2\nJP :\n{0}威力や回数を付与するスキルの最終威力 +2"
+  },
+  {
+    "key": "MRR508-desc",
+    "original": "정신력이 없거나 0 미만인 적에게 입히는 피해량 + (대상의 {0} 위력)% (최대 45%)",
+    "context": "EN :\nDeal +({0} Potency on the target)% more damage against targets at less than 0 SP or without SP (max 45%)\nJP :\n精神力が無いか0未満の敵への与ダメージ量 +(対象の{0}威力)% (最大45%)"
+  },
+  {
+    "key": "MRR509P-desc",
+    "original": "파괴되었거나, 흐트러짐 상태인 부위에 가하는 피해량 {0}%",
+    "context": "EN :\nDeal +{0}% more damage against Destroyed or Staggered Parts\nJP :\n破壊されたか、混乱状態の部位への与ダメージ量 {0}%"
+  },
+  {
+    "key": "GiveBuffOnFirstRoundStartPerWave-desc",
+    "original": "웨이브 첫 턴 시작시 {0} 위력 {1} 얻고 {0} 횟수 {2} 증가",
+    "context": "EN :\nFirst Turn Start of a wave: gain {1} {0} Potency and +{2} {0} Count\nJP :\nウェーブの最初のターン開始時、{0}威力を{1}得て{0}回数が{2}増加"
+  },
+  {
+    "key": "GiveBuffOnBattleStartAR-desc",
+    "original": "{0} 공명을 발동하였다면 전투 시작 시, 모든 아군이 {1} 위력 {2} 얻고 {1} 횟수 {3} 증가",
+    "context": "EN :\nIf {0} Reson. was activated, all allies gain {2} {1} Potency and +{3} {1} Count at Combat Start\nJP :\n{0}共鳴を発動したなら戦闘開始時に全味方が{1}威力{2}を得て、{1}回数が{3}増加"
+  },
+  {
+    "key": "MRR511PMaxSpeedAdder-desc",
+    "original": "편성 순서 1번인 아군의 속도 최댓값 +1",
+    "context": "EN :\n#1 Deployed ally: Max Speed +1\nJP :\n編成順1番の味方の速度最大値 +1"
+  },
+  {
+    "key": "MRR511PMinSpeedAdder-desc",
+    "original": "편성 순서 1번인 아군의 속도 최솟값 +1",
+    "context": "EN :\n#1 Deployed ally: Min Speed +1\nJP :\n編成順1番の味方の速度最小値 +1"
+  },
+  {
+    "key": "MRR511PMinSpeedChangeSkill-desc",
+    "original": "편성 순서 1번인 아군의 1스킬 1개 감소. 3스킬 1개 증가",
+    "context": "EN :\n#1 Deployed Ally: lose a Skill 1, but gain a Skill 3\nJP :\n編成順1番の味方のスキル1を1つ減少。スキル3を1つ増加。"
+  },
+  {
+    "key": "MRR512-desc",
+    "original": "7번째 편성 순서부터 대기 해제된 턴 시작시 정신력 {0} 회복, 이번 전투동안 {1} {2}를 얻고, 자신의 스킬 1, 2, 3 속성의 E.G.O 자원을 {3}개씩 얻음",
+    "context": "EN :\nStarting from #7 Deployed Sinner, at the start of the same turn it Substitutes in, heal {0} SP, gain {2} {1} for the Encounter, and gain {3} E.G.O resource for each one of their Skills 1, 2, and 3\nJP :\n連続戦闘にて、編成7番目以降から待機解除されたターン開始時に精神力を{0}回復、この戦闘の間{1}を{2}得て、自分のスキル1, 2, 3属性のE.G.O資源を{3}つずつ得る。"
+  },
+  {
+    "key": "AddSinStockOnKillTargetByUsedSkillAttribute-desc",
+    "original": "공격, 반격 스킬 종료 시 적이 사망한 경우, 사용한 스킬 속성의 E.G.O 자원 +{0} (스킬당 1회, E.G.O 스킬 포함)",
+    "context": "EN :\nAfter using an Attack or a Counter Skill, if the enemy is defeated, gain {0} E.G.O resource of the Skill Affinity that was used (once per Skill, including E.G.O Skills)\nJP :\n攻撃・反撃スキル終了時に敵が死亡した場合、使用したスキル属性のE.G.O資源 +{0}(スキルごとに1回、E.G.Oスキルを含む)"
+  },
+  {
+    "key": "MRR514-desc",
+    "original": "새로운 적이 증원되면, 전투 시작 시 해당 적에게 출혈 5, 출혈 횟수 3 부여. 아군에 <혈귀>가 있다면, 위 조건 만족 시 모든 적의 출혈을 1회 발동시키고, 모든 적의 출혈 횟수 1 감소",
+    "context": "EN :\nWhen backup enemies enter the battle, inflict 5 Bleed and +3 Bleed against them at Combat Start. If there is a <Bloodfiend> among allies: when above conditions are met: activate Bleed on all enemies once and reduce their Bleed Count by 1\nJP :\n新しい敵が増員されれば、戦闘開始時に該当する敵へ出血 5, 出血 回数を3付与。味方に<血鬼>がいるなら、上記の条件を満たすたびに全ての敵の出血 を1回発動発動させ、全ての敵の出血 回数が1減少"
+  },
+  {
+    "key": "EnemyLevelTextOnly-desc",
+    "original": "적 레벨 {0}",
+    "context": "EN :\nEnemy Level {0}\nJP :\n敵レベル {0}"
+  },
+  {
+    "key": "MRR501-desc",
+    "original": "적에게 스킬, 코인 효과로 부여하는 화상, 출혈, 진동, 파열, 침잠 위력 {0}",
+    "context": "EN :\n+{0} to Burn, Bleed, Tremor, Rupture, and Sinking Potency inflicted against enemies with Skills & Coin effects\nJP :\n敵にスキル・コイン効果で付与する火傷・出血・振動・破裂・沈潜威力 {0}"
+  },
+  {
+    "key": "TakeBuffTurnAdder-desc",
+    "original": "아군이 스킬, 코인 효과로 얻는 {0} 횟수 {1} ",
+    "context": "EN :\n{1} to {0} Count gained by allies with Skills & Coin effects\nJP :\n味方がスキル・コイン効果で得る{0}回数 {1}"
+  },
+  {
+    "key": "MRR503-desc",
+    "original": "턴 종료 시 정신력이 가장 낮은 아군 {0}명 정신력 {1} 회복 (패닉, 침식 상태인 아군 제외)",
+    "context": "EN :\n{0} allies with the least SP heal {1} SP at Turn End (excluding: allies that are Panicked or Corroded)\nJP :\nターン終了時に精神力が最も低い味方{0}名が精神力を{1}回復(パニック・侵蝕状態の味方を除く)"
+  },
+  {
+    "key": "CriticalDamageBoostWithBuffUse-desc",
+    "original": "크리티컬 발동 시 보유한 {0} 위력이 {1}을 초과했으면, 초과한 {0} 위력을 최대 {1} 소모하여 크리티컬 피해량 + (소모한 값 x {2})% (최대 {3}%)",
+    "context": "EN :\nOn Crit, at more than {1} {0} Potency, consume up to {1} of the excess {0} Potency to deal +(Poise Potency consumed x {2})% more damage on Critical Hit (max {3}%)\nJP :\nクリティカル発動時に保有した{0}威力が{1}を超過しているなら、超過した{0}威力を最大{1}消耗して、クリティカルダメージ量 +(消耗した × {2}) (最大{3}%)"
+  },
+  {
+    "key": "GainSinStockOnDieByDefaultSkill-desc",
+    "original": "사망 시 보유한 기본 공격 스킬의 속성과 동일한 E.G.O 자원을 등급만큼 얻음",
+    "context": "EN :\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has\nJP :\n死亡時、保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る"
+  },
+  {
+    "key": "MRR547-desc",
+    "original": "턴 시작 시 적의 스킬 최종 위력 +1 ~ 3",
+    "context": "EN :\nTurn Start: All enemy Skills gain Final Power +1~3\nJP :\nターン開始時、敵のスキル最終威力 +1～3"
+  },
+  {
+    "key": "MRR544-desc",
+    "original": "턴 시작 시 모든 아군의 스킬 최종 위력 +1 ~ 3",
+    "context": "EN :\nTurn Start: All ally Skills gain Final Power +1~3\nJP :\nターン開始時、全味方の最終威力 +1～3"
+  },
+  {
+    "key": "MRR551-desc",
+    "original": "턴 시작 시 체력이 최대라면 {0} 위력 {1} 얻음, 횟수 {2} 증가 (적 1명당 부위별 전투당 1회 발동)",
+    "context": "EN :\nTurn Start: at max HP, gain {1} {0} Potency and +{2} Count (once per enemy per Part per Encounter)\nJP :\nターン開始時、体力が最大なら{0}威力を{1}得る、回数が{2}増加 (敵1名ごとに、部位別で戦闘につき1回発動)"
+  },
+  {
+    "key": "MRR552-desc",
+    "original": "사망 시, 다음 턴에 현재 체력이 가장 낮은 아군 1명이 {0} {1} 얻음",
+    "context": "EN :\nOn death, 1 ally with the least current HP gains {1} {0} next turn\nJP :\n死亡時、次のターンに現体力が最も低い味方1名が{0}を{1}得る"
+  },
+  {
+    "key": "MRR553-desc",
+    "original": "E.G.O 스킬의 피해량 {0}%",
+    "context": "EN :\nE.G.O Skills deal +{0}% more damage\nJP :\nE.G.Oスキルのダメージ量 {0}%"
+  },
+  {
+    "key": "MRR521-desc",
+    "original": "첫 번째 흐트러짐 선 제거",
+    "context": "EN :\nRemove the first Stagger threshold\nJP :\n最初の混乱ラインを除去"
+  },
+  {
+    "key": "MRR557-desc",
+    "original": "크리티컬 피해량 + (10 + 보유한 {0} 위력과 횟수의 합)% (최대 50%)",
+    "context": "EN :\nDeal +(10 + {0} Potency + {0} Count)% more damage on Critical Hit (max 50%)\nJP :\nクリティカルダメージ量 +(10 + 保有する{0}威力と回数の合計)% (最大50%)"
+  },
+  {
+    "key": "LacerationStackAndTurnAdderIfNotZero-desc",
+    "original": "스킬, 코인 효과로 부여하는 {1} 위력, 횟수 {0}",
+    "context": "EN :\n+{0} to {1} Potency and Count inflicted with Skill & Coin effects\nJP :\nスキル・コイン効果で付与する{1}威力、回数{0}"
+  },
+  {
+    "key": "AttackDmgMultiplierSpecificType-desc",
+    "original": "{0} 속성 스킬의 피해량 +30%",
+    "context": "EN :\n{0} Skills deal +30% more damage\nJP :\n{0}属性スキルのダメージ量 +30%"
+  },
+  {
+    "key": "MRR565MaxSpeedAdder-desc",
+    "original": "속도 최댓값 {0}",
+    "context": "EN :\nMax Speed {0}\nJP :\n速度最大値 {0}"
+  },
+  {
+    "key": "MRR565MinSpeedAdder-desc",
+    "original": "속도 최솟값 {0}",
+    "context": "EN :\nMin Speed {0}\nJP :\n速度最小値 {0}"
   }
 ]

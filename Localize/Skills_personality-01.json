@@ -1498,5 +1498,270 @@
     "key": "1011104-levelList$[1].coinlist[0].coindescs[0].desc",
     "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
     "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "1011201-levelList$[0].name",
+    "original": "염참",
+    "context": "EN :\nFlame Hew\nJP :\n炎斬"
+  },
+  {
+    "key": "1011201-levelList$[0].desc",
+    "original": "대상의 [Combustion] 6 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf the target has 6+ [Combustion], Coin Power +1\nJP :\n対象の[Combustion]が6以上ならコイン威力 +1"
+  },
+  {
+    "key": "1011201-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttackHead] [Combustion]1を付与"
+  },
+  {
+    "key": "1011201-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttackHead] [Combustion]1を付与"
+  },
+  {
+    "key": "1011201-levelList$[1].name",
+    "original": "염참",
+    "context": "EN :\nFlame Hew\nJP :\n炎斬"
+  },
+  {
+    "key": "1011201-levelList$[1].desc",
+    "original": "대상의 [Combustion] <style=\"highlight\">3</style> 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf the target has <style=\"highlight\">3</style>+ [Combustion], Coin Power +1\nJP :\n対象の[Combustion]が<style=\"highlight\">3</style>以上ならコイン威力 +1"
+  },
+  {
+    "key": "1011201-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1011201-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1011201-levelList$[2].name",
+    "original": "염참",
+    "context": "EN :\nFlame Hew\nJP :\n炎斬"
+  },
+  {
+    "key": "1011201-levelList$[2].desc",
+    "original": "대상의 [Combustion] <style=\"highlight\">3 당</style>, 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n<style=\"highlight\">대상의 [Combustion] 10 당, 피해량 +10% (최대 30%)</style>",
+    "context": "EN :\nCoin Power +1 <style=\"highlight\">for every 3</style> [Combustion] on the target <style=\"highlight\">(max 2)</style>\n<style=\"highlight\">Deal +10% more damage for every 10 [Combustion] on the target (max 30%)</style>\nJP :\n対象の[Combustion]<style=\"highlight\">3につき</style>コイン威力 +1<style=\"highlight\">(最大2)</style>\n<style=\"highlight\">対象の[Combustion]10につき、ダメージ量 +10%(最大30%)</style>"
+  },
+  {
+    "key": "1011201-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1011201-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttackHead] [Combustion]1を付与"
+  },
+  {
+    "key": "1011201-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1011201-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttackHead] [Combustion]1を付与"
+  },
+  {
+    "key": "1011202-levelList$[0].name",
+    "original": "정면돌파",
+    "context": "EN :\nFrontal Assault\nJP :\n正面突破"
+  },
+  {
+    "key": "1011202-levelList$[0].desc",
+    "original": "대상의 [Combustion] 6 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf the target has 6+ [Combustion], Coin Power +1\nJP :\n対象の[Combustion]が6以上ならコイン威力 +1"
+  },
+  {
+    "key": "1011202-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1011202-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1011202-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Combustion]이 6 이상이면, [Combustion] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] If the target has 6+ [Combustion], inflict +2 [Combustion] Count on target\nJP :\n[OnSucceedAttack] 対象の[Combustion]が6以上なら、[Combustion]回数が2増加"
+  },
+  {
+    "key": "1011202-levelList$[1].name",
+    "original": "정면돌파",
+    "context": "EN :\nFrontal Assault\nJP :\n正面突破"
+  },
+  {
+    "key": "1011202-levelList$[1].desc",
+    "original": "대상의 [Combustion] 6 당, 코인 위력 +1 (최대 2)",
+    "context": "EN :\nCoin Power +1 for every 6 [Combustion] on the target (max 2)\nJP :\n対象の[Combustion]6につきコイン威力 +1(最大2)"
+  },
+  {
+    "key": "1011202-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1011202-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1011202-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "대상의 [Combustion]당, 피해량 +2.5% (최대 30%)",
+    "context": "EN :\nDeal +2.5% more damage for every [Combustion] on the target (max 30%)\nJP :\n対象の[Combustion]1につき、ダメージ量 +2.5%(最大30%)"
+  },
+  {
+    "key": "1011202-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Combustion]이 6 이상이면, [Combustion] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] If the target has 6+ [Combustion], inflict +2 [Combustion] Count on the target<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 対象の[Combustion]が6以上なら、[Combustion]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1011202-levelList$[2].name",
+    "original": "정면돌파",
+    "context": "EN :\nFrontal Assault\nJP :\n正面突破"
+  },
+  {
+    "key": "1011202-levelList$[2].desc",
+    "original": "대상의 [Combustion] 6 당, 코인 위력 +1 (최대 2)",
+    "context": "EN :\nCoin Power +1 for every 6 [Combustion] on the target (max 2)\nJP :\n対象の[Combustion]6につきコイン威力 +1(最大2)"
+  },
+  {
+    "key": "1011202-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1011202-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1011202-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "대상의 [Combustion]당, 피해량 +<style=\"highlight\">5</style>% (최대  <style=\"highlight\">60</style>%)",
+    "context": "EN :\nDeal +<style=\"highlight\">5</style>% more damage for every [Combustion] on the target (max <style=\"highlight\">60</style>%)\nJP :\n対象の[Combustion]1につき、ダメージ量 +<style=\"highlight\">5</style>%(最大<style=\"highlight\">60</style>%)"
+  },
+  {
+    "key": "1011202-levelList$[2].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Combustion]이 6 이상이면, [Combustion] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] If the target has 6+ [Combustion], inflict +2 [Combustion] Count on the target<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 対象の[Combustion]が6以上なら、[Combustion]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1011203-levelList$[0].name",
+    "original": "검의 흐름",
+    "context": "EN :\nFlow of the Sword\nJP :\n剣の流れ"
+  },
+  {
+    "key": "1011203-levelList$[0].desc",
+    "original": "대상의 [Combustion] 6 이상이면, 코인 위력 +1\n대상의 [Combustion] 6 당, 피해량 +10% (최대 30%)\n[EndSkill] 자신을 제외한 정신력이 가장 낮은 아군 1명 정신력 10 회복\n- 공격 대상을 처치했거나 공격 대상의 [Combustion]이 10 이상이면, 인원 1명 추가",
+    "context": "EN :\nIf the target has 6+ [Combustion], Coin Power +1\nDeal +10% more damage for every 6 [Combustion] on the target (max 30%)\n[EndSkill] Heal 10 SP for 1 other ally with the least SP\n- If this attack killed the target, or if the target had 10+ [Combustion], heal 1 more ally\nJP :\n対象の[Combustion]が6以上なら、コイン威力 +1\n対象の[Combustion]6につき、ダメージ量 +10% (最大30%)\n[EndSkill] 自分を除く、精神力が最も低い味方1名の精神力が10回復\n- 攻撃対象を倒すか、攻撃対象の[Combustion]が10以上なら、回復対象が1名追加"
+  },
+  {
+    "key": "1011203-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1011203-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1011203-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1011203-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "대상의 [Combustion]당, 피해량 +2% (최대 60%)",
+    "context": "EN :\nDeal +2% more damage for every [Combustion] on the target (max 60%)\nJP :\n対象の[Combustion]1につき、ダメージ量 +2%(最大60%)"
+  },
+  {
+    "key": "1011203-levelList$[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Combustion] 위력만큼 분노 속성 피해를 줌 (최대 30). 대상의 [Combustion] 횟수 2 감소",
+    "context": "EN :\n[OnSucceedAttack] Inflict Wrath Affinity damage equal to [Combustion] Potency on target. (max 30) Reduce Target's [Combustion] Count by 2\nJP :\n[OnSucceedAttack] 対象の[Combustion]威力だけ憤怒属性ダメージを与える(最大30) 対象の[Combustion]回数が2減少"
+  },
+  {
+    "key": "1011203-levelList$[1].name",
+    "original": "검의 흐름",
+    "context": "EN :\nFlow of the Sword\nJP :\n剣の流れ"
+  },
+  {
+    "key": "1011203-levelList$[1].desc",
+    "original": "대상의 [Combustion] 6 <style=\"highlight\">당</style>, 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n대상의 [Combustion] 6 당, 피해량 +10% (최대 30%)\n[EndSkill] 자신을 제외한 정신력이 가장 낮은 아군 1명 정신력 <style=\"highlight\">15</style> 회복\n- 공격 대상을 처치했거나 공격 대상의 [Combustion]이 10 이상이면, 인원 1명 추가",
+    "context": "EN :\nCoin Power +1 <style=\"highlight\">for every</style> 6 [Combustion] on the target <style=\"highlight\">(max 2)</style>\nDeal +10% more damage for every 6 [Combustion] on the target (max 30%)\n[EndSkill] Heal <style=\"highlight\">15</style> SP for 1 other ally with the least SP\n- If this attack killed the target, or if the target had 10+ [Combustion], heal 1 more ally\nJP :\n対象の[Combustion]6<style=\"highlight\">につき</style>、コイン威力 +1<style=\"highlight\">(最大2)</style>\n対象の[Combustion]6につき、ダメージ量 +10% (最大30%)\n[EndSkill] 自分を除く、精神力が最も低い味方1名の精神力が<style=\"highlight\">15</style>回復\n- 攻撃対象を倒すか、攻撃対象の[Combustion]が10以上なら、回復対象が1名追加"
+  },
+  {
+    "key": "1011203-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1011203-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1011203-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1011203-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "대상의 [Combustion]당, 피해량 +2% (최대 60%)",
+    "context": "EN :\nDeal +2% more damage for every [Combustion] on the target (max 60%)\nJP :\n対象の[Combustion]1につき、ダメージ量 +2%(最大60%)"
+  },
+  {
+    "key": "1011203-levelList$[1].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Combustion] 위력만큼 분노 속성 피해를 줌 (최대 30). 대상의 [Combustion] 횟수 2 감소",
+    "context": "EN :\n[OnSucceedAttack] Inflict Wrath Affinity damage equal to [Combustion] Potency on target. (max 30) Reduce Target's [Combustion] Count by 2\nJP :\n[OnSucceedAttack] 対象の[Combustion]威力だけ憤怒属性ダメージを与える(最大30) 対象の[Combustion]回数が2減少"
+  },
+  {
+    "key": "1011204-levelList$[0].name",
+    "original": "염반",
+    "context": "EN :\nFlame Counter\nJP :\n炎反"
+  },
+  {
+    "key": "1011204-levelList$[0].desc",
+    "original": "[BeforeHit] 대상의 [Combustion]만큼 보호막을 얻음 (최대 10, 턴 당 1회)",
+    "context": "EN :\n[BeforeHit] Gain Shield equal to [Combustion] on the target (max 10, once per turn)\nJP :\n[BeforeHit] 対象の[Combustion]だけバリアを得る(最大10, 1ターンにつき1回)"
+  },
+  {
+    "key": "1011204-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Combustion] 1 부여\n- 자신에게 보호막이 있으면, [Combustion] 1 추가 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 [Combustion]\n- If this unit has Shield, inflict 1 additional [Combustion]\nJP :\n[OnSucceedAttackHead] [Combustion]1を付与\n- 自分にバリアがあるなら、[Combustion]1を追加で付与"
+  },
+  {
+    "key": "1011204-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Combustion] 1 부여\n- 자신에게 보호막이 있으면, [Combustion] 1 추가 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 [Combustion]\n- If this unit has Shield, inflict 1 additional [Combustion]\nJP :\n[OnSucceedAttackHead] [Combustion]1を付与\n- 自分にバリアがあるなら、[Combustion]1を追加で付与"
+  },
+  {
+    "key": "1011204-levelList$[1].name",
+    "original": "염반",
+    "context": "EN :\nFlame Counter\nJP :\n炎反"
+  },
+  {
+    "key": "1011204-levelList$[1].desc",
+    "original": "[BeforeHit] 대상의 [Combustion]만큼 보호막을 얻음 (최대 15, 턴 당 1회)\n[WhenUse] 대상의 [Combustion]이 10 이상이면, 피해량 +10%",
+    "context": "EN :\n[BeforeHit] Gain Shield equal to [Combustion] on the target (max 15, once per turn)\n[WhenUse] If the target has 10+ [Combustion], deal +10% more damage\nJP :\n[BeforeHit] 対象の[Combustion]だけバリアを得る(最大15, 1ターンにつき1回)\n[WhenUse] 対象の[Combustion]が10以上なら、ダメージ量 +10%"
+  },
+  {
+    "key": "1011204-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Combustion] 1 부여\n- 자신에게 보호막이 있으면, [Combustion] 1 추가 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 [Combustion]\n- If this unit has Shield, inflict 1 additional [Combustion]\nJP :\n[OnSucceedAttackHead] [Combustion]1を付与\n- 自分にバリアがあるなら、[Combustion]1を追加で付与"
+  },
+  {
+    "key": "1011204-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Combustion] 1 부여\n- 자신에게 보호막이 있으면, [Combustion] 1 추가 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 [Combustion]\n- If this unit has Shield, inflict 1 additional [Combustion]\nJP :\n[OnSucceedAttackHead] [Combustion]1を付与\n- 自分にバリアがあるなら、[Combustion]1を追加で付与"
   }
 ]

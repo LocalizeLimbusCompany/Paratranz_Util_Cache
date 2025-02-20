@@ -298,5 +298,10 @@
     "key": "UnBrokenCoinOnSucceedAttack-name",
     "original": "[파괴되지 않고 적중시]",
     "context": "EN :\n[On Hit without Cracking]\nJP :\n[破壊されずに的中時]"
+  },
+  {
+    "key": "BeforeHit-name",
+    "original": "[피격 직전]",
+    "context": "EN :\n[Before Getting Hit]\nJP :\n[被ダメージ直前]"
   }
 ]

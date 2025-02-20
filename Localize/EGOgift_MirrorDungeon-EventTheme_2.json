@@ -307,7 +307,7 @@
   {
     "key": "9758-desc",
     "original": "연속 전투에서 7번째 편성 순서부터 대기 해제된 턴 시작 시 정신력 10 회복, [ParryingResultUp] 2 얻음, 자신의 스킬 1, 2, 3 속성의 E.G.O 자원을 1개씩 얻음.",
-    "context": "EN :\nChain Battles) Starting from #7 Deployed Sinner, at the start of the same turn it Substitutes in, heal 10 SP, gain 2 [ParryingResultUp], and gain 1 E.G.O resource for each one of their Skills 1, 2, and 3\nJP :\n連続戦闘にて編成7番目のから待機解除されたターン開始時に精神力を10回復、[ParryingResultUp]2を得る、自分のスキル1, 2, 3属性のE.G.O資源を1つずつ得る。"
+    "context": "EN :\nChain Battles) Starting from #7 Deployed Sinner, at the start of the same turn it Substitutes in, heal 10 SP, gain 2 [ParryingResultUp], and gain 1 E.G.O resource for each one of their Skills 1, 2, and 3\nJP :\n連続戦闘にて、編成7番目以降から待機解除されたターン開始時に精神力を10回復、[ParryingResultUp]2を得る、自分のスキル1, 2, 3属性のE.G.O資源を1つずつ得る。"
   },
   {
     "key": "9758-simpleDesc$[0].simpleDesc",

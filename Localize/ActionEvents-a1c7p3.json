@@ -20,9 +20,19 @@
     "context": "EN :\nHug the teddy bear.\nJP :\n抱きしめてあげる。"
   },
   {
+    "key": "837901-options$[0].messageDesc",
+    "original": "선택 시, 환상체 합 위력 감소. 색욕 판정 성공 시, 판정한 인격 체력 약간 감소하고 정신력 대폭 회복",
+    "context": "EN :\nSelect to reduce the Abnormality's Clash Power. Pass a Lust check, and the selected Identity loses some HP but greatly heals SP\nJP :\n選択時、幻想体のマッチ威力減少。色欲判定成功時、判定した人格の体力が若干減少して精神力が大幅に回復。"
+  },
+  {
     "key": "837901-options$[1].message",
     "original": "시선을 피한다.",
     "context": "EN :\nLook away.\nJP :\n視線を避ける。"
+  },
+  {
+    "key": "837901-options$[1].messageDesc",
+    "original": "선택 시, 모든 인격 정신력 감소",
+    "context": "EN :\nAll Identities lose SP\nJP :\n選択時、全人格の精神力が減少"
   },
   {
     "key": "837901-options$[1].result[0]",

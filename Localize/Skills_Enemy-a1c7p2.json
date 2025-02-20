@@ -676,8 +676,8 @@
   },
   {
     "key": "9017303-levelList$[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [BloomingThorns] 2 얻음",
-    "context": "EN :\n[OnSucceedAttack] Gain 2 [BloomingThorns]\nJP :\n[OnSucceedAttack] [BloomingThorns]を2得る"
+    "original": "[OnSucceedAttack] [FestivalFever] 2 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 [FestivalFever]\nJP :\n[OnSucceedAttack] [FestivalFever]を2得る"
   },
   {
     "key": "9017304-levelList$[0].name",
@@ -756,8 +756,8 @@
   },
   {
     "key": "9017403-levelList$[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [BloomingThorns] 2 얻음",
-    "context": "EN :\n[OnSucceedAttack] Gain 2 [BloomingThorns]\nJP :\n[OnSucceedAttack] [BloomingThorns]を2得る"
+    "original": "[OnSucceedAttack] [FestivalFever] 2 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 [FestivalFever]\nJP :\n[OnSucceedAttack] [FestivalFever]を2得る"
   },
   {
     "key": "9017404-levelList$[0].name",
@@ -921,8 +921,8 @@
   },
   {
     "key": "9017602-levelList$[0].coinlist[1].coindescs[1].desc",
-    "original": "[WinDuelAttack] [Laceration] 5 부여, [Laceration] 횟수 2 증가",
-    "context": "EN :\n[WinDuelAttack] Inflict 5 [Laceration] and +2 [Laceration] Count\nJP :\n[WinDuelAttack] [Laceration]5を付与、[Laceration]回数が2増加"
+    "original": "[WinDuelAttack] [Laceration] 4 부여, [Laceration] 횟수 3 증가",
+    "context": "EN :\n[WinDuelAttack] Inflict 4 [Laceration] and +3 [Laceration] Count\nJP :\n[WinDuelAttack] [Laceration]4を付与、[Laceration]回数が3増加"
   },
   {
     "key": "9017602-levelList$[0].coinlist[1].coindescs[2].desc",

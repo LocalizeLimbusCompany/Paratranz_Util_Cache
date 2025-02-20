@@ -1,0 +1,307 @@
+[
+  {
+    "key": "FellBulletMark-name",
+    "original": "징표",
+    "context": "EN :\nStigmatized\nJP :\nマーク"
+  },
+  {
+    "key": "FellBulletMark-desc",
+    "original": "- 흉탄의 사수 표적이 됨\n- 턴 종료시 제거됨",
+    "context": "EN :\n- Targeted by Der Fluchschütze\n- Expires at Turn End\nJP :\n- 凶弾の射手の標的になる\n- ターン終了時に除去"
+  },
+  {
+    "key": "MRR501-name",
+    "original": "부여량 굴절",
+    "context": "EN :\nInfliction Refraction\nJP :\n付与量屈折"
+  },
+  {
+    "key": "MRR502-name",
+    "original": "획득량 굴절",
+    "context": "EN :\nGain Refraction\nJP :\n獲得量屈折"
+  },
+  {
+    "key": "MRR503-name",
+    "original": "굴절된 정신",
+    "context": "EN :\nRefracted Mind\nJP :\n屈折された精神"
+  },
+  {
+    "key": "MRR504-name",
+    "original": "굴절된 호흡",
+    "context": "EN :\nRefracted Poise\nJP :\n屈折された呼吸"
+  },
+  {
+    "key": "MRR505-name",
+    "original": "굴절된 충전",
+    "context": "EN :\nRefracted Charge\nJP :\n屈折された充電"
+  },
+  {
+    "key": "MRR506-name",
+    "original": "굴절된 폭발",
+    "context": "EN :\nRefracted Burst\nJP :\n屈折された爆発"
+  },
+  {
+    "key": "MRR507-name",
+    "original": "굴절된 파열",
+    "context": "EN :\nRefracted Rupture\nJP :\n屈折された破裂"
+  },
+  {
+    "key": "MRR508-name",
+    "original": "굴절된 침잠",
+    "context": "EN :\nRefracted Sinking\nJP :\n屈折された沈潜"
+  },
+  {
+    "key": "MRR509-name",
+    "original": "약점 파괴",
+    "context": "EN :\nWeakness Destroyed\nJP :\n弱点破壊"
+  },
+  {
+    "key": "MRR510-name",
+    "original": "네뷸라이저",
+    "context": "EN :\nNebulizer\nJP :\nネブライザー"
+  },
+  {
+    "key": "MRR511-name",
+    "original": "고독한 사수",
+    "context": "EN :\nThe Lone Gunman\nJP :\n孤独な射手"
+  },
+  {
+    "key": "MRR512-name",
+    "original": "이어지는 투지",
+    "context": "EN :\nLasting Battle Spirit\nJP :\n続く闘志"
+  },
+  {
+    "key": "MRR513-name",
+    "original": "자원 수확",
+    "context": "EN :\nResource Reaping\nJP :\n資源収穫"
+  },
+  {
+    "key": "MRR514-name",
+    "original": "버프 이름",
+    "context": "EN :\n버프 이름\nJP :\nバフ名"
+  },
+  {
+    "key": "MRR515-name",
+    "original": "완강한 방어",
+    "context": "EN :\nDogged Defense\nJP :\n頑強な防御"
+  },
+  {
+    "key": "MRR516-name",
+    "original": "사생결단",
+    "context": "EN :\nLife or Death\nJP :\n死生決断"
+  },
+  {
+    "key": "MRR517-name",
+    "original": "격노한 반격",
+    "context": "EN :\nWrathful Counter\nJP :\n激怒の反撃"
+  },
+  {
+    "key": "MRR518-name",
+    "original": "추억의 펜던트",
+    "context": "EN :\nPendant of Nostalgia\nJP :\n思い出のペンダント"
+  },
+  {
+    "key": "MRR519-name",
+    "original": "버프 이름",
+    "context": "EN :\n버프 이름\nJP :\nバフ名"
+  },
+  {
+    "key": "MRR520-name",
+    "original": "흉탄 쇄도",
+    "context": "EN :\nFell Bullet Deluge\nJP :\n凶弾殺到"
+  },
+  {
+    "key": "MRR521-name",
+    "original": "체력 왜곡",
+    "context": "EN :\nHP Manipulation\nJP :\n体力歪曲"
+  },
+  {
+    "key": "MRR522-name",
+    "original": "위태로운 승부",
+    "context": "EN :\nPerilous Contest\nJP :\n危うい勝負"
+  },
+  {
+    "key": "MRR523-name",
+    "original": "핏빛 연회",
+    "context": "EN :\nBloody Banquet\nJP :\n血染めの宴"
+  },
+  {
+    "key": "MRR524-name",
+    "original": "피의 축제",
+    "context": "EN :\nFestival of Blood\nJP :\n血の祝祭"
+  },
+  {
+    "key": "MRR526-name",
+    "original": "굴절된 참격",
+    "context": "EN :\nRefracted Slash\nJP :\n屈折された斬撃"
+  },
+  {
+    "key": "MRR527-name",
+    "original": "굴절된 관통",
+    "context": "EN :\nRefracted Pierce\nJP :\n屈折された貫通"
+  },
+  {
+    "key": "MRR528-name",
+    "original": "굴절된 타격",
+    "context": "EN :\nRefracted Blunt\nJP :\n屈折された打撃"
+  },
+  {
+    "key": "MRR529-name",
+    "original": "성장 굴절 I",
+    "context": "EN :\nGrowth Refraction I\nJP :\n成長屈折 I"
+  },
+  {
+    "key": "MRR530-name",
+    "original": "성장 굴절 II",
+    "context": "EN :\nGrowth Refraction II\nJP :\n成長屈折 II"
+  },
+  {
+    "key": "MRR531-name",
+    "original": "버프 이름",
+    "context": "EN :\n버프 이름\nJP :\nバフ名"
+  },
+  {
+    "key": "MRR532-name",
+    "original": "자원 휘발",
+    "context": "EN :\nResource Vaporization\nJP :\n資源揮発"
+  },
+  {
+    "key": "MRR533-name",
+    "original": "만발한 피",
+    "context": "EN :\nBlossomed Blood\nJP :\n満開の血"
+  },
+  {
+    "key": "MRR534-name",
+    "original": "완강한 방어",
+    "context": "EN :\nDogged Defense\nJP :\n頑強な防御"
+  },
+  {
+    "key": "MRR535-name",
+    "original": "사생결단",
+    "context": "EN :\nLife or Death\nJP :\n死生決断"
+  },
+  {
+    "key": "MRR536-name",
+    "original": "굴절된 격노",
+    "context": "EN :\nRefracted Rage\nJP :\n屈折された激怒"
+  },
+  {
+    "key": "MRR537-name",
+    "original": "체력 굴절 II",
+    "context": "EN :\nHP Refraction II\nJP :\n体力屈折 II"
+  },
+  {
+    "key": "MRR538-name",
+    "original": "버프 이름",
+    "context": "EN :\n버프 이름\nJP :\nバフ名"
+  },
+  {
+    "key": "MRR539-name",
+    "original": "핏빛 연회",
+    "context": "EN :\nBloody Banquet\nJP :\n血染めの宴"
+  },
+  {
+    "key": "MRR540-name",
+    "original": "버프 이름",
+    "context": "EN :\n버프 이름\nJP :\nバフ名"
+  },
+  {
+    "key": "MRR541-name",
+    "original": "버프 이름",
+    "context": "EN :\n버프 이름\nJP :\nバフ名"
+  },
+  {
+    "key": "MRR542-name",
+    "original": "체력 굴절 I",
+    "context": "EN :\nHP Refraction I\nJP :\n体力屈折 I"
+  },
+  {
+    "key": "MRR543-name",
+    "original": "이어지는 의지",
+    "context": "EN :\nLasting Determination\nJP :\n続く意志"
+  },
+  {
+    "key": "FellBulletGroggy-name",
+    "original": "타겟 설정",
+    "context": "EN :\nTargeting Settings\nJP :\nターゲット設定"
+  },
+  {
+    "key": "FellBulletGroggy-desc",
+    "original": "- 해제 불가능\n- 턴 종료 시 0이 되면, 다음 턴에 흐트러짐 상태가 됨\n- 대상 지정 사격 스킬 사용시 타겟에게 징표가 없으면 1 감소\n- 대상 조정 사격 스킬이 합에서 패배하면 1 감소\n- 대상 조정 사격 스킬 사용 전 타겟으로 삼은 아군이 사망한 경우 1 감소 (타겟이 적 유닛인 경우에만 발동한다는 뜻입니다.)",
+    "context": "EN :\n- Cannot be removed\n- If at 0 at Turn End, become Staggered next turn\n- When using 'Designated Target Fire' Skill, if the target isn't Marked, lose 1 Stack\n- If the 'Designated Target Fire' Skill loses the Clash, lose 1 Stack\n- If the ally this unit targeted before using the 'Designated Target Fire' Skill is killed, lose 1 Stack\nJP :\n- 解除不能\n- ターン終了時に0になると、次のターンに混乱状態になる\n- 対象指定射撃使用時、ターゲットにマークが無ければ1減少\n- 対象調整射撃スキルがマッチで敗北すると1減少\n- 対象調整射撃スキル使用前、ターゲットに指定した味方が死亡した場合は1減少"
+  },
+  {
+    "key": "MRR544-name",
+    "original": "위력 룰렛",
+    "context": "EN :\nPower Roulette\nJP :\n威力ルーレット"
+  },
+  {
+    "key": "MRR545-name",
+    "original": "유리 대포",
+    "context": "EN :\nGlass Cannon\nJP :\n硝子の大砲"
+  },
+  {
+    "key": "MRR546-name",
+    "original": "하이리스크",
+    "context": "EN :\nHigh-risk\nJP :\nハイリスク"
+  },
+  {
+    "key": "MRR547-name",
+    "original": "위력 룰렛",
+    "context": "EN :\nPower Roulette\nJP :\n威力ルーレット"
+  },
+  {
+    "key": "MRR548-name",
+    "original": "위태로운 승부",
+    "context": "EN :\nPerilous Contest\nJP :\n危うい勝負"
+  },
+  {
+    "key": "MRR549-name",
+    "original": "사생결단",
+    "context": "EN :\nLife or Death\nJP :\n死生決断"
+  },
+  {
+    "key": "MRR550-name",
+    "original": "하이리스크",
+    "context": "EN :\nHigh-risk\nJP :\nハイリスク"
+  },
+  {
+    "key": "MRR551-name",
+    "original": "굴절된 출혈",
+    "context": "EN :\nRefracted Bleed\nJP :\n屈折された出血"
+  },
+  {
+    "key": "MRR552-name",
+    "original": "굴절된 투지",
+    "context": "EN :\nRefracted Determination\nJP :\n屈折された闘志"
+  },
+  {
+    "key": "MRR553-name",
+    "original": "한 번의 숨",
+    "context": "EN :\nA Single Breath\nJP :\n一度の息"
+  },
+  {
+    "key": "MRR554-name",
+    "original": "사생결단",
+    "context": "EN :\nLife or Death\nJP :\n死生決断"
+  },
+  {
+    "key": "MRR555-name",
+    "original": "합 위력 굴절",
+    "context": "EN :\nClash Power Refraction\nJP :\nマッチ威力屈折"
+  },
+  {
+    "key": "MRR556-name",
+    "original": "유리 대포",
+    "context": "EN :\nGlass Cannon\nJP :\n硝子の大砲"
+  },
+  {
+    "key": "MRR5BaseP-name",
+    "original": "적용 중인 버프",
+    "context": "EN :\nActive Buffs\nJP :\n適用中のバフ"
+  },
+  {
+    "key": "MRR5BaseN-name",
+    "original": "적용 중인 고난",
+    "context": "EN :\nActive Trials\nJP :\n適用中の苦難"
+  }
+]

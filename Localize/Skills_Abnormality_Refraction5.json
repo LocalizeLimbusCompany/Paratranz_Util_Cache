@@ -1,0 +1,612 @@
+[
+  {
+    "key": "863001-levelList$[0].name",
+    "original": "후방 사격",
+    "context": "EN :\nRear Line Fire\nJP :\n後方射撃"
+  },
+  {
+    "key": "863001-levelList$[0].desc",
+    "original": "이 스킬에서 크리티컬 피해량 +10%\n[WhenUse] 자신의 [Breath] 10 이상이면, 기본 위력 +1\n[WhenUse] [Breath] 2 얻음",
+    "context": "EN :\nThis Skill deals +10% damage on Critical Hit\n[WhenUse] At 10+ [Breath], Base Power +1\n[WhenUse] Gain 2 [Breath]\nJP :\nこのスキルでのクリティカルダメージ量 +10%\n[WhenUse] 自分の[Breath]が10以上なら、基本威力 +1\n[WhenUse] [Breath]2を得る"
+  },
+  {
+    "key": "863001-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]4を付与"
+  },
+  {
+    "key": "863001-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] [Laceration] 4 부여",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict 4 [Laceration]\nJP :\n[CriticalOnSucceedAttack] [Laceration]4を付与"
+  },
+  {
+    "key": "863002-levelList$[0].name",
+    "original": "전방 사격",
+    "context": "EN :\nFront Line Fire\nJP :\n前方射撃"
+  },
+  {
+    "key": "863002-levelList$[0].desc",
+    "original": "이 스킬에서 크리티컬 피해량 +10%\n[WhenUse] 자신의 [Breath] 10 이상이면, 기본 위력 +1\n[WhenUse] [Breath] 횟수 3 증가",
+    "context": "EN :\nThis Skill deals +10% damage on Critical Hit\n[WhenUse] At 10+ [Breath], Base Power +1\n[WhenUse] Gain +3 [Breath] Count\nJP :\nこのスキルでのクリティカルダメージ量 +10%\n[WhenUse] 自分の[Breath]が10以上なら、基本威力 +1\n[WhenUse] [Breath]回数が3増加"
+  },
+  {
+    "key": "863002-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Sinking] Count\nJP :\n[OnSucceedAttack] [Sinking]回数が3増加"
+  },
+  {
+    "key": "863002-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] [Laceration] 횟수 3 증가",
+    "context": "EN :\n[CriticalOnSucceedAttack] Inflict +3 [Laceration] Count\nJP :\n[CriticalOnSucceedAttack] [Laceration]回数が3増加"
+  },
+  {
+    "key": "863003-levelList$[0].name",
+    "original": "꿰뚫으리라",
+    "context": "EN :\nPunch Through\nJP :\n貫かん"
+  },
+  {
+    "key": "863003-levelList$[0].desc",
+    "original": "[WhenUse] [Breath] 2 얻음\n[WhenUse] 자신의 [Breath] 10 이상이면, 기본 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 5 당, 코인 위력 +1 (최대 2)\n[WinDuel] 이 공격 스킬의 크리티컬 피해량 +50%",
+    "context": "EN :\n[WhenUse] Gain 2 [Breath]\n[WhenUse] At 10+ [Breath], Base Power +1\n[WhenUse] Coin Power +1 for every 5 [Breath] Count on self (max 2)\n[WinDuel] This Attack Skill deals +50% more damage on Critical Hit\nJP :\n[WhenUse] [Breath]2を得る\n[WhenUse] 自分の[Breath]が10以上なら、基本威力 +1\n[WhenUse] 自分の[Breath]回数5につき、コイン威力 +1(最大2)\n[WinDuel] この攻撃スキルのクリティカルダメージ量 +50%"
+  },
+  {
+    "key": "863003-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863003-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Breath] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 [Breath] Count\nJP :\n[OnSucceedAttack] [Breath]回数が2増加"
+  },
+  {
+    "key": "863003-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "이 코인에는 메인 타겟만 피해를 입음.",
+    "context": "EN :\nThis Coin deals damage only against the main target.\nJP :\nこのコインはメインターゲットにのみダメージを与える。"
+  },
+  {
+    "key": "863003-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863003-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 대상이 흐트러짐 상태가 아니거나 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음",
+    "context": "EN :\nThis Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally or if the target wasn't Staggered, 1 random sub-target takes damage\nJP :\nこのコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方が混乱状態ではないか倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける"
+  },
+  {
+    "key": "863003-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Sinking] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]4を付与"
+  },
+  {
+    "key": "863003-levelList$[0].coinlist[1].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [Laceration] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]4を付与"
+  },
+  {
+    "key": "863004-levelList$[0].name",
+    "original": "재장전 사격",
+    "context": "EN :\nReload, Fire\nJP :\n再装填射撃"
+  },
+  {
+    "key": "863004-levelList$[0].desc",
+    "original": "이 공격 스킬의 크리티컬 피해량 +50%\n[WhenUse] 자신의 [Breath] 횟수 5 당, 코인 위력 +1 (최대 3)\n[WhenUse] [Breath] 3 얻음",
+    "context": "EN :\nThis Skill deals +50% damage on Critical Hit\n[WhenUse] Coin Power +1 for every 5 [Breath] Count on self (max 3)\n[WhenUse] Gain 3 [Breath]\nJP :\nこの攻撃スキルのクリティカルダメージ量 +50%\n[WhenUse] 自分の[Breath]回数5につき、コイン威力 +1(最大3)\n[WhenUse] [Breath]3を得る"
+  },
+  {
+    "key": "863004-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] 코인 1회 재사용",
+    "context": "EN :\n[CriticalOnSucceedAttack] Reuse Coin once\nJP :\n[CriticalOnSucceedAttack] コインを1回再使用"
+  },
+  {
+    "key": "863005-levelList$[0].name",
+    "original": "헛점 파악",
+    "context": "EN :\nSee Through Defenses\nJP :\n隙把握"
+  },
+  {
+    "key": "863005-levelList$[0].desc",
+    "original": "[DefeatDuel] 자신의 [Breath] 절반만큼 잃음\n- 이번 턴동안 얻는 [Breath]도 절반이 됨\n- 다음 턴에 [Paralysis] 4 얻음",
+    "context": "EN :\n[DefeatDuel] Halve [Breath] on self\n- Any [Breath] gained during this turn are halved as well\n- Gain 4 [Paralysis] next turn\nJP :\n[DefeatDuel] 自分の[Breath]を半分失う\n- 今回のターンの間、[Breath]も半分になる\n- 次のターンに[Paralysis]4を得る"
+  },
+  {
+    "key": "863005-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Sinking]\nJP :\n[OnSucceedAttack] [Sinking]4を付与"
+  },
+  {
+    "key": "863005-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]4を付与"
+  },
+  {
+    "key": "863006-levelList$[0].name",
+    "original": "대상 지정 사격",
+    "context": "EN :\nDesignated Target Fire\nJP :\n対象指定射撃"
+  },
+  {
+    "key": "863006-levelList$[0].desc",
+    "original": "[FellBulletMark]를 가진 대상 공격\n자신의 [Breath] 5당, 코인 위력 +1 (최대 2)\n자신의 [Breath] 횟수 3당, 기본 위력 +1 (최대 3)\n[WhenUse] 메인 타겟에게 [FellBulletMark]가 없다면, [Paralysis] 1, [Vulnerable] 3 얻음\n[EndSkill] 대상이 사망했으면, [Breath] 10 얻음, 모든 적의 정신력 15 감소",
+    "context": "EN :\nAttacks the target with [FellBulletMark]\nCoin Power +1 for every 5 [Breath] on self (max 2)\nBase Power +1 for every 3 [Breath] Count on self (max 3)\n[WhenUse] If the main target does not have [FellBulletMark], gain 1 [Paralysis] and 3 [Vulnerable]\n[EndSkill] If the target is defeated, gain 10 [Breath] and lower every enemy's SP by 15\nJP :\n[FellBulletMark]を持つ対象を攻撃\n自分の[Breath]5につき、コイン威力 +1(最大2)\n自分の[Breath]回数3につき、基本威力 +1(最大3)\n[WhenUse] メインターゲットに[FellBulletMark]が無ければ、[Paralysis]1, [Vulnerable]3を得る\n[EndSkill] 対象が死亡したなら、[Breath]10を得る、全ての敵の精神力を15減少"
+  },
+  {
+    "key": "863006-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863006-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "이 코인에는 메인 타겟만 피해를 입음.",
+    "context": "EN :\nThis Coin deals damage only against the main target.\nJP :\nこのコインはメインターゲットにのみダメージを与える。"
+  },
+  {
+    "key": "863006-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "대상에게 [FellBulletMark]가 있다면, 피해량 +100%",
+    "context": "EN :\nIf the target has [FellBulletMark], deal +100% more damage\nJP :\n対象へ[FellBulletMark]があれば、ダメージ量 +100%"
+  },
+  {
+    "key": "863006-levelList$[0].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] 대상에게 [FellBulletMark]가 있다면, 다음 턴에 [Breath] 10 얻음",
+    "context": "EN :\n[OnSucceedAttack] If the target has [FellBulletMark], gain 10 [Breath] next turn\nJP :\n[OnSucceedAttack] 対象へ[FellBulletMark]があれば、次のターンに[Breath]10を得る"
+  },
+  {
+    "key": "863006-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863006-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 대상을 처치하지 못했다면, 서브 타겟 중 무작위 2명이 피해를 입음",
+    "context": "EN :\nThis Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the target, 2 random sub-targets take damage\nJP :\nこのコインはサブターゲットにのみダメージを与える。\n- 最初のコインで対象を倒せなかった場合、サブターゲットのうちランダムな2名がダメージを受ける"
+  },
+  {
+    "key": "863006-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Sinking] 5, [Laceration] 5 부여",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Inflict 5 [Sinking] and 5 [Laceration]\nJP :\n[UnBrokenCoinOnSucceedAttack] [Sinking]5, [Laceration]5を付与"
+  },
+  {
+    "key": "863007-levelList$[0].name",
+    "original": "대상 조정 사격",
+    "context": "EN :\nTarget Readjustment Fire\nJP :\n対象調整射撃"
+  },
+  {
+    "key": "863007-levelList$[0].desc",
+    "original": "[CantIdentify]\n[CantChangeTarget]\n[FellBulletMark] 우선 공격\n징표를 공격하지 못했으면, 스킬이 취소됨.\n자신의 [Breath] 5당, 코인 위력 +1 (최대 2)\n자신의 [Breath] 횟수 3당, 기본 위력 +1 (최대 3)\n[EndSkill] 대상이 사망했으면, [Breath] 10 얻음, 모든 적의 정신력 15 감소",
+    "context": "EN :\n[CantIdentify]\n[CantChangeTarget]\nPrioritizes the target with [FellBulletMark]\nIf this unit failed to attack the Stigmatized target, cancel this Skill.\nCoin Power +1 for every 5 [Breath] on self (max 2)\nBase Power +1 for every 3 [Breath] Count on self (max 3)\n[EndSkill] If the target is defeated, gain 10 [Breath] and lower every enemy's SP by 15\nJP :\n[CantIdentify]\n[CantChangeTarget]\n[FellBulletMark]を優先して攻撃\nマークを攻撃できなければ、スキルがキャンセルされる。\n自分の[Breath]5につき、コイン威力 +1(最大2)\n自分の[Breath]回数3につき、基本威力 +1(最大3)\n[EndSkill] 対象が死亡したなら[Breath]10を得る、全ての敵の精神力を15減少"
+  },
+  {
+    "key": "863007-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863007-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "이 코인에는 메인 타겟만 피해를 입음",
+    "context": "EN :\nThis Coin deals damage only against the main target\nJP :\nこのコインはメインターゲットにのみダメージを与える。"
+  },
+  {
+    "key": "863007-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] 대상에게 [FellBulletMark]가 있으면, 대상이 사망함",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] If the target has [FellBulletMark], kill the target\nJP :\n[UnBrokenCoinOnSucceedAttack] 対象に[FellBulletMark]があれば、対象が死亡する"
+  },
+  {
+    "key": "863007-levelList$[0].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Breath] 10 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 10 [Breath] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Breath]10を得る"
+  },
+  {
+    "key": "863007-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863007-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 대상을 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음",
+    "context": "EN :\nThis Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the target, 1 random sub-target takes damage\nJP :\nこのコインはサブターゲットにのみダメージを与える。\n- 最初のコインで対象を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける"
+  },
+  {
+    "key": "863007-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Sinking] 5, [Laceration] 5 부여",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Inflict 5 [Sinking] and 5 [Laceration]\nJP :\n[UnBrokenCoinOnSucceedAttack] [Sinking]5, [Laceration]5を付与"
+  },
+  {
+    "key": "863201-levelList$[0].name",
+    "original": "깨물기",
+    "context": "EN :\nMaul\nJP :\n噛みつく"
+  },
+  {
+    "key": "863201-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Breath] 위력 4당 최종 위력 +1 (최대 5)",
+    "context": "EN :\n[WhenUse] Final Power +1 for every 4 [Breath] Potency on self (max 5)\nJP :\n[WhenUse] 自分の[Breath]威力4につき、最終威力 +1 (最大5)"
+  },
+  {
+    "key": "863201-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath] 위력 3 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 [Breath] Potency\nJP :\n[OnSucceedAttack] [Breath]威力3を得る"
+  },
+  {
+    "key": "863201-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] [Breath] 횟수 3 증가",
+    "context": "EN :\n[CriticalOnSucceedAttack] Gain +3 [Breath] Count\nJP :\n[CriticalOnSucceedAttack] [Breath]回数が3増加"
+  },
+  {
+    "key": "863202-levelList$[0].name",
+    "original": "아작내기",
+    "context": "EN :\nDevastate\nJP :\n噛み潰す"
+  },
+  {
+    "key": "863202-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Breath] 위력 4당 최종 위력 +1 (최대 5)",
+    "context": "EN :\n[WhenUse] Final Power +1 for every 4 [Breath] Potency on self (max 5)\nJP :\n[WhenUse] 自分の[Breath]威力4につき、最終威力 +1 (最大5)"
+  },
+  {
+    "key": "863202-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath] 2 위력 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 [Breath] Potency\nJP :\n[OnSucceedAttack] [Breath]威力を2得る"
+  },
+  {
+    "key": "863202-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] [Breath] 횟수 2 증가",
+    "context": "EN :\n[CriticalOnSucceedAttack] Gain +2 [Breath] Count\nJP :\n[CriticalOnSucceedAttack] [Breath]回数が2増加"
+  },
+  {
+    "key": "863202-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath] 2 위력 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 [Breath] Potency\nJP :\n[OnSucceedAttack] [Breath]威力を2得る"
+  },
+  {
+    "key": "863202-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] [Breath] 횟수 2 증가",
+    "context": "EN :\n[CriticalOnSucceedAttack] Gain +2 [Breath] Count\nJP :\n[CriticalOnSucceedAttack] [Breath]回数が2増加"
+  },
+  {
+    "key": "863203-levelList$[0].name",
+    "original": "고통스런 숨소리",
+    "context": "EN :\nLabored Breathing\nJP :\n苦痛に満ちた息の音"
+  },
+  {
+    "key": "863203-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Breath] 위력 8당 최종 위력 +1 (최대 5)\n[WhenUse] 자신의 [Breath] 횟수 8당 코인 위력 +1 (최대 5)\n[DefeatDuel] 자신의 [Breath] 위력이 절반으로 감소\n[EndSkill] 자신의 [Breath] 위력과 [Breath] 횟수가 절반으로 감소",
+    "context": "EN :\n[WhenUse] Final Power +1 for every 8 [Breath] Potency on self (max 5)\n[WhenUse] Coin Power +1 for every 8 [Breath] Count on self (max 5)\n[DefeatDuel] Halve [Breath] Potency on self\n[EndSkill] Halve [Breath] Potency and Count on self\nJP :\n[WhenUse] 自分の[Breath]威力8につき、最終威力 +1(最大5)\n[WhenUse] 自分の[Breath]回数8につき、コイン威力 +1(最大5)\n[DefeatDuel] 自分の[Breath]威力が半減\n[EndSkill] 自分の[Breath]威力と[Breath]回数が半減"
+  },
+  {
+    "key": "863203-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863203-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "크리티컬 피해량 +([Breath] 위력)%",
+    "context": "EN :\nDeal ([Breath] Potency)% more damage on Critical Hit\nJP :\nクリティカルダメージ量 +([Breath]威力)%"
+  },
+  {
+    "key": "863211-levelList$[0].name",
+    "original": "웅크리기",
+    "context": "EN :\nProne\nJP :\nうずくまる"
+  },
+  {
+    "key": "863211-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Breath] 위력 4당 최종 위력 +1 (최대 5)\n[WhenUse] [Breath] 위력 4 얻음\n- 체력이 50% 이하면, [Breath] 횟수 4 추가로 증가",
+    "context": "EN :\n[WhenUse] Final Power +1 for every 4 [Breath] Potency on self (max 5)\n[WhenUse] Gain 4 [Breath] Potency\n- At 50%- HP, also gain +4 [Breath] Count\nJP :\n[WhenUse] 自分の[Breath]威力4につき、最終威力 +1(最大5)\n[WhenUse] [Breath]威力4を得る\n- 体力が50%以下なら、[Breath]回数が4追加で増加"
+  },
+  {
+    "key": "863212-levelList$[0].name",
+    "original": "그건… 내꺼야!",
+    "context": "EN :\nThat's... MINE!\nJP :\nそれは…私のだ！"
+  },
+  {
+    "key": "863212-levelList$[0].desc",
+    "original": "[CantChangeTarget]\n[WhenUse] 자신의 [Breath] 위력 4당 합 위력 +1 (최대 3)\n[WhenUse] 자신의 [Breath] 횟수 4당 합 위력 +1 (최대 3)",
+    "context": "EN :\n[CantChangeTarget]\n[WhenUse] Clash Power +1 for every 4 [Breath] Potency on self (max 3)\n[WhenUse] Clash Power +1 for every 4 [Breath] Count on self (max 3)\nJP :\n[CantChangeTarget]\n[WhenUse] 自分の[Breath]威力4につき、マッチ威力 +1(最大3)\n[WhenUse] 自分の[Breath]回数4につき、マッチ威力 +1(最大3)"
+  },
+  {
+    "key": "863212-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863212-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] 대상이 보유한 [Breath] 위력과 [Breath] 횟수를 각각 가져옴 (각각 최대 6)",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Siphons [Breath] Potency and [Breath] Count from the target (max 6 each)\nJP :\n[UnBrokenCoinOnSucceedAttack] 対象の保有する[Breath]威力と[Breath]回数をそれぞれ奪う(それぞれ最大6)"
+  },
+  {
+    "key": "863212-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[DefeatDuelAttack] 대상이 보유한 [Breath] 위력과 [Breath] 횟수를 각각 1/3만큼 가져옴 (각각 최대 2)",
+    "context": "EN :\n[DefeatDuelAttack] Siphons 1/3 of the [Breath] Potency and [Breath] Count on the target (max 2 each)\nJP :\n[DefeatDuelAttack] 対象の保有する[Breath]威力と[Breath]回数をそれぞれ1/3だけ奪う(それぞれ最大2)"
+  },
+  {
+    "key": "863213-levelList$[0].name",
+    "original": "고통 함께하기",
+    "context": "EN :\nShare the Pain\nJP :\n苦痛を共にする"
+  },
+  {
+    "key": "863213-levelList$[0].desc",
+    "original": "[WhenUse] 자신의 [Breath] 위력 8당 최종 위력 +1 (최대 5)\n[WhenUse] 자신의 [Breath] 횟수 8당 코인 위력 +1 (최대 5)\n[DefeatDuel] 피해량이 75%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] 자신의 [Breath] 위력과 [Breath] 횟수가 절반으로 감소",
+    "context": "EN :\n[WhenUse] Final Power +1 for every 8 [Breath] Potency on self (max 5)\n[WhenUse] Coin Power +1 for every 8 [Breath] Count on self (max 5)\n[DefeatDuel] Deal -75% less damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] Halve [Breath] Potency and Count on self\nJP :\n[WhenUse] 自分の[Breath]威力8につき、最終威力 +1(最大5)\n[WhenUse] 自分の[Breath]回数8につき、コイン威力 +1(最大5)\n[DefeatDuel] ダメージ量が75%だけ減少し、このスキルのダメージで対象が混乱しない\n[EndSkill] 自分の[Breath]威力と[Breath]回数が半減"
+  },
+  {
+    "key": "863213-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863213-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[WinDuelAttack] 다음 턴에 [Binding] 2 부여",
+    "context": "EN :\n[WinDuelAttack] Inflict 2 [Binding] next turn\nJP :\n[WinDuelAttack] 次のターンに[Binding]2を付与"
+  },
+  {
+    "key": "863213-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863213-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[WinDuelAttack] [Vulnerable] 2 부여",
+    "context": "EN :\n[WinDuelAttack] Inflict 2 [Vulnerable]\nJP :\n[WinDuelAttack] [Vulnerable]2を付与"
+  },
+  {
+    "key": "863213-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863213-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "크리티컬 피해량 +([Breath] 위력과 [Breath] 횟수의 합)%",
+    "context": "EN :\nDeal +([Breath] Potency + [Breath] Count)% more damage on Critical Hit\nJP :\nクリティカルダメージ量 +([Breath]威力と[Breath]回数の合計)%"
+  },
+  {
+    "key": "863221-levelList$[0].name",
+    "original": "고통스런 삶에서의 해방",
+    "context": "EN :\nFreed from the Life of Suffering\nJP :\n苦痛に満ちた人生からの解放"
+  },
+  {
+    "key": "863221-levelList$[0].desc",
+    "original": "[StartBattle] [Vulnerable] 2 얻음",
+    "context": "EN :\n[StartBattle] Gain 2 [Vulnerable]\nJP :\n[StartBattle] [Vulnerable]2を得る"
+  },
+  {
+    "key": "863301-levelList$[0].name",
+    "original": "집요한 상처내기",
+    "context": "EN :\nTenacious Wound\nJP :\n執拗に傷を付ける"
+  },
+  {
+    "key": "863301-levelList$[0].desc",
+    "original": "대상의 [Laceration] 위력이 6 이상이면, 이 스킬에서 부여하는 [Laceration] 위력과 횟수의 값 +1",
+    "context": "EN :\nIf the target has 6+ [Laceration] Potency, +1 to [Laceration] Potency and Count inflicted by this Skill\nJP :\n対象の[Laceration]威力が6以上なら、このスキルにて付与する[Laceration]威力と回数の値 +1"
+  },
+  {
+    "key": "863301-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863301-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "863301-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863301-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]3を付与"
+  },
+  {
+    "key": "863302-levelList$[0].name",
+    "original": "상처내기",
+    "context": "EN :\nWound\nJP :\n傷を付ける"
+  },
+  {
+    "key": "863302-levelList$[0].desc",
+    "original": "대상의 [Laceration] 위력이 6 이상이면, 이 스킬에서 부여하는 [Laceration] 위력과 횟수의 값 +1",
+    "context": "EN :\nIf the target has 6+ [Laceration] Potency, +1 to [Laceration] Potency and Count inflicted by this Skill\nJP :\n対象の[Laceration]威力が6以上なら、このスキルにて付与する[Laceration]威力と回数の値 +1"
+  },
+  {
+    "key": "863302-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "863302-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]4を付与"
+  },
+  {
+    "key": "863303-levelList$[0].name",
+    "original": "죄어오는 가시덩굴",
+    "context": "EN :\nBrambles that Constrict\nJP :\n締め付ける棘の蔓"
+  },
+  {
+    "key": "863303-levelList$[0].desc",
+    "original": "대상의 [Laceration] 위력이 6 이상이면, 이 스킬에서 부여하는 [Laceration] 위력의 값 +1",
+    "context": "EN :\nIf the target has 6+ [Laceration] Potency, +1 to [Laceration] Potency inflicted by this Skill\nJP :\n対象の[Laceration]威力が6以上なら、このスキルにて付与する[Laceration]威力の値 +1"
+  },
+  {
+    "key": "863303-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863303-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "863303-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[UnBrokenCoinOnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "863311-levelList$[0].name",
+    "original": "목마른 꽃잎",
+    "context": "EN :\nPolydipsic Petals\nJP :\n喉の渇いた花びら"
+  },
+  {
+    "key": "863311-levelList$[0].desc",
+    "original": "[Laceration] 위력과 횟수의 합이 가장 높은 대상에게 시전\n[WhenUse] 대상의 [Laceration] 위력이 6 이상이면, 최종 위력 +2",
+    "context": "EN :\nAttacks the target with the highest sum of [Laceration] Potency + Count\n[WhenUse] If the target has 6+ [Laceration] Potency, Final Power +2\nJP :\n[Laceration]威力と回数の合計が最も高い対象に使用\n[WhenUse] 対象の[Laceration]威力が6以上なら、最終威力 +2"
+  },
+  {
+    "key": "863311-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [ScarletTakeDamageUp] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [ScarletTakeDamageUp]\nJP :\n[OnSucceedAttack] [ScarletTakeDamageUp]2を付与"
+  },
+  {
+    "key": "863311-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1 감소)",
+    "context": "EN :\n[OnSucceedAttack] Activate [Laceration] on the target once (reduce [Laceration] Count by 1)\nJP :\n[OnSucceedAttack] 対象の[Laceration]が1回発動([Laceration]回数が1減少)"
+  },
+  {
+    "key": "863312-levelList$[0].name",
+    "original": "폭발하는 꽃잎",
+    "context": "EN :\nBursting Petals\nJP :\n爆発する花びら"
+  },
+  {
+    "key": "863312-levelList$[0].desc",
+    "original": "[Laceration] 위력과 횟수의 합이 가장 높은 대상에게 시전\n[WhenUse] 대상의 [Laceration] 위력이 6 이상이면, 최종 위력 +2",
+    "context": "EN :\nAttacks the target with the highest sum of [Laceration] Potency + Count\n[WhenUse] If the target has 6+ [Laceration] Potency, Final Power +2\nJP :\n[Laceration]威力と回数の合計が最も高い対象に使用\n[WhenUse] 対象の[Laceration]威力が6以上なら、最終威力 +2"
+  },
+  {
+    "key": "863312-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [ScarletTakeDamageUp] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [ScarletTakeDamageUp]\nJP :\n[OnSucceedAttack] [ScarletTakeDamageUp]2を付与"
+  },
+  {
+    "key": "863312-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration] 모두 발동 ([Laceration] 횟수 모두 감소)",
+    "context": "EN :\n[OnSucceedAttack] Activate all [Laceration] on the target (completely reduce [Laceration] Count)\nJP :\n[OnSucceedAttack] 対象の[Laceration]が全て発動 ([Laceration]回数が全て減少)"
+  },
+  {
+    "key": "863313-levelList$[0].name",
+    "original": "가시 폭풍",
+    "context": "EN :\nStorm of Spikes\nJP :\n棘の嵐"
+  },
+  {
+    "key": "863313-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Laceration] 위력이 6 이상이면, 최종 위력 +2",
+    "context": "EN :\n[WhenUse] If the target has 6+ [Laceration] Potency, Final Power +2\nJP :\n[WhenUse] 対象の[Laceration]威力が6以上なら、最終威力 +2"
+  },
+  {
+    "key": "863313-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration] 1회 발동 ([Laceration] 횟수 1회 감소)",
+    "context": "EN :\n[OnSucceedAttack] Activate [Laceration] on the target once (reduce [Laceration] Count by 1)\nJP :\n[OnSucceedAttack] 対象の[Laceration]が1回発動([Laceration]回数が1減少)"
+  },
+  {
+    "key": "863314-levelList$[0].name",
+    "original": "목마른 가시",
+    "context": "EN :\nPolydipsic Thorn\nJP :\n喉の渇いた棘"
+  },
+  {
+    "key": "863314-levelList$[0].desc",
+    "original": "[StartBattle] [AttackDmgUp] 2, [Vulnerable] 2 얻음",
+    "context": "EN :\n[StartBattle] Gain 3 [AttackDmgUp] and 2 [Vulnerable]\nJP :\n[StartBattle] [AttackDmgUp]3, [Vulnerable]2を得る"
+  },
+  {
+    "key": "863314-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863314-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "863314-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[UnBrokenCoinOnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "863314-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863314-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "863314-levelList$[0].coinlist[1].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[UnBrokenCoinOnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "863314-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863314-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+  },
+  {
+    "key": "863314-levelList$[0].coinlist[2].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 1 증가",
+    "context": "EN :\n[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count\nJP :\n[UnBrokenCoinOnSucceedAttack] [Laceration]回数が1増加"
+  },
+  {
+    "key": "863315-levelList$[0].name",
+    "original": "멈추지 않는 피",
+    "context": "EN :\nEndless Spring of Blood\nJP :\n止まらない血"
+  },
+  {
+    "key": "863315-levelList$[0].desc",
+    "original": "[DuelCounter]\n[WhenUse] 이 스킬과 합을 하는 대상은 합을 진행하는 동안 [Laceration] 횟수가 감소하지 않음",
+    "context": "EN :\n[DuelCounter]\n[WhenUse] Targets that clash against this Skill do not lose [Laceration] Count while clashing\nJP :\n[DuelCounter]\n[WhenUse] このスキルとマッチする対象は、マッチを進行する間[Laceration]回数が減少しない"
+  },
+  {
+    "key": "863315-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863315-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]을 1회 발동시키고, 해당 [Laceration] 피해로 생성된 [BloodDinner]을 즉시 소모함",
+    "context": "EN :\n[OnSucceedAttack] Activate [Laceration] on the target once, and immediately consume [BloodDinner] generated by the [Laceration] damage\nJP :\n[OnSucceedAttack] 対象の[Laceration]を1回発動させて、該当[Laceration]ダメージで生成された[BloodDinner]を即消耗する"
+  },
+  {
+    "key": "863315-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863315-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]을 1회 발동시키고, 해당 [Laceration] 피해로 생성된 [BloodDinner]을 즉시 소모함",
+    "context": "EN :\n[OnSucceedAttack] Activate [Laceration] on the target once, and immediately consume [BloodDinner] generated by the [Laceration] damage\nJP :\n[OnSucceedAttack] 対象の[Laceration]を1回発動させて、該当[Laceration]ダメージで生成された[BloodDinner]を即消耗する"
+  },
+  {
+    "key": "863315-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "863315-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Laceration]을 1회 발동시키고, 해당 [Laceration] 피해로 생성된 [BloodDinner]을 즉시 소모함",
+    "context": "EN :\n[OnSucceedAttack] Activate [Laceration] on the target once, and immediately consume [BloodDinner] generated by the [Laceration] damage\nJP :\n[OnSucceedAttack] 対象の[Laceration]を1回発動させて、該当[Laceration]ダメージで生成された[BloodDinner]を即消耗する"
+  },
+  {
+    "key": "863316-levelList$[0].name",
+    "original": "양분 탐닉",
+    "context": "EN :\nNutrient Craving\nJP :\n養分耽溺"
+  },
+  {
+    "key": "863316-levelList$[0].desc",
+    "original": "[BloodDinner]이 100 이상이면 사용\n[EndBattle] [BloodDinner]을 최대 100 소모하여 아래 효과 적용\n- 소모한 [BloodDinner]만큼 본체와 몸통 부위 체력 회복\n- 소모한 [BloodDinner] 20 당 다음 턴에 [AttackUp] 1 얻음",
+    "context": "EN :\nActivates at 100+ [BloodDinner]\n[EndBattle] Consume up to 100 [BloodDinner] to activate the following effects:\n- Heal the Core and the Body Parts' HP by [BloodDinner] consumed\n- Gain 1 [AttackUp] next turn for every 20 [BloodDinner] consumed\nJP :\n[BloodDinner]が100以上なら使用\n[EndBattle] [BloodDinner]を最大100消耗し、下記の効果を適用\n- 消耗した[BloodDinner]だけ本体と胴体部位の体力を回復\n- 消耗した[BloodDinner]20につき、次のターンに[AttackUp]1を得る"
+  },
+  {
+    "key": "863317-levelList$[0].name",
+    "original": "갈망하는 가시덩굴",
+    "context": "EN :\nBrambles that Yearn\nJP :\n渇望する棘の蔓"
+  },
+  {
+    "key": "863317-levelList$[0].desc",
+    "original": "[WhenUse] [BloodDinner]을 최대 100 소모하여 아래 효과 적용\n- 소모한 [BloodDinner]만큼 본체와 몸통 부위 체력 회복\n- 소모한 [BloodDinner] 20 당 이 스킬의 최종 위력 +1\n[DefeatDuel] 최종 위력 -5\n[EndSkill] 이 스킬로 소모한 [BloodDinner]이 30 미만이면, 다음 턴에 [Vulnerable] 2 얻음",
+    "context": "EN :\n[WhenUse] Consume up to 100 [BloodDinner] to activate the following effects:\n- Heal the Core and the Body Parts' HP by [BloodDinner] consumed\n- This Skill gains Final Power +1 for every 20 [BloodDinner] consumed\n[DefeatDuel] Final Power -5\n[EndSkill] If this Skill consumed less than 30 [BloodDinner], gain 2 [Vulnerable] next turn\nJP :\n[WhenUse] [BloodDinner]を最大100消耗し、下記の効果を適用\n- 消耗した[BloodDinner]だけ本体と胴体部位の体力を回復\n- 消耗した[BloodDinner]20につき、このスキルの最終威力 +1\n[DefeatDuel] 最終威力 -5\n[EndSkill] このスキルで消耗した[BloodDinner]が30未満なら、次のターンに[Vulnerable]2を得る"
+  }
+]

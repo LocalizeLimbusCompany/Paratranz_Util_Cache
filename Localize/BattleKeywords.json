@@ -3582,7 +3582,7 @@
   {
     "key": "HoldingBreath-name",
     "original": "깊은 들숨",
-    "context": "EN :\nDeep Breath\nJP :\n深い吸気"
+    "context": "EN :\nDeep Inhale\nJP :\n深い吸気"
   },
   {
     "key": "HoldingBreath-desc",
@@ -3678,5 +3678,25 @@
     "key": "ScarletResultUp-desc",
     "original": "이번 턴 동안 색욕 속성 스킬의 최종 위력이 수치만큼 증가",
     "context": "EN :\nLust Skills gain Final Power by the effect’s Count for one turn.\nJP :\nこのターンの間、色欲属性スキルの最終威力が数値だけ増加"
+  },
+  {
+    "key": "NebulizerExhale-name",
+    "original": "네뷸라이저 α",
+    "context": "EN :\nNebulizer α\nJP :\nネブライザーα"
+  },
+  {
+    "key": "NebulizerExhale-desc",
+    "original": "- 최댓값 : 5\n- 이 효과는 이번 전투 동안 유지됨\n- 전투 시작시 자신을 포함한 모든 아군이 호흡 위력 1 얻고, 호흡 횟수 1 증가",
+    "context": "EN :\n- Max Stack: 5\n- This effect persists throughout the Encounter\n- Combat Start: on all allies, including this unit, apply 1 Poise Potency and +1 Poise Count\nJP :\n- 最大値 : 5\n- この効果は今回の戦闘のあいだ維持される\n- 戦闘開始時に自分を含む全味方が呼吸 威力1を得て、呼吸 回数が1増加"
+  },
+  {
+    "key": "ReleaseBreath-name",
+    "original": "가쁜 날숨",
+    "context": "EN :\nShallow Exhale\nJP :\n荒い呼気"
+  },
+  {
+    "key": "ReleaseBreath-desc",
+    "original": "- 최댓값 : 1\n- 자신의 호흡 위력이 20 이상이면, 자신의 스킬, 코인 효과로 호흡 위력을 얻을 때, 횟수 1 증가.\n- 턴 종료 시 소멸",
+    "context": "EN :\n- Max Value: 1\n- At 20+ Poise Potency, gain +1 Count as well whenever this unit gains Poise Potency with Skill and Coin effects\n- Expires at Turn End\nJP :\n- 最大値 : 1\n- 自分の呼吸威力が20以上なら、自分のスキル・コイン効果で呼吸威力を得るときに回数が1増加。\n- ターン終了時に消滅"
   }
 ]

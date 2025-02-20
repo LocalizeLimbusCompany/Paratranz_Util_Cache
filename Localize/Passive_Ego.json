@@ -928,5 +928,15 @@
     "key": "2040811-desc",
     "original": "이 E.G.O 스킬을 사용한 다음 턴 시작 시, [NebulizerInhale] 1 얻음 (턴 당 1회)\n- 이 스킬로 적을 처치하였다면 처치한 대상 수만큼 [NebulizerInhale] 추가로 얻음\n- 이 스킬로 아군을 처치하였다면 (처치한 대상 수 X 2)만큼 [NebulizerInhale] 추가로 얻음\n- 이 수치는 이번 전투 동안 누적됨",
     "context": "EN :\nNext Turn Start after using this E.G.O Skill: gain 1 [NebulizerInhale] (once per turn)\n- If this Skill defeated enemies, gain additional [NebulizerInhale] equal to the number of targets defeated\n- If this Skill defeated allies, gain (targets defeated x 2) additional [NebulizerInhale]\n- This value Stacks over this Encounter's duration\nJP :\nこのスキルを使用してから次のターン開始時、[NebulizerInhale]1を得る(1ターンにつき1回)\n- このスキルで敵を倒したなら、倒した対象の数だけ[NebulizerInhale]を追加で得る\n- このスキルで味方を倒したなら、(倒した対象の数 × 2)だけ[NebulizerInhale]を追加で得る\n- この数値はこの戦闘の間、蓄積する"
+  },
+  {
+    "key": "2020811-name",
+    "original": "숨",
+    "context": "EN :\nBreath\nJP :\n息"
+  },
+  {
+    "key": "2020811-desc",
+    "original": "이 E.G.O 스킬을 사용한 다음 턴 시작 시, [NebulizerExhale] 1 얻음 (턴 당 1회)\n- 이 수치는 이번 전투 동안 누적됨\n\n전투 시작 시 [NebulizerExhale]의 효과로 아군에게 [Breath] 횟수를 10 부여할 때마다 [NebulizerExhale] 1 얻음\n\n턴 종료시 아군 (최대 공명 수)명의 체력을 현재 체력 비율이 가장 낮은 순으로 최대 체력의 ([NebulizerExhale] 수치)%만큼 회복 (최대 6명)\n- 회복 대상의 [Breath] 위력이 20 이상이면, 회복 1회 추가 발동",
+    "context": "EN :\nNext Turn Start after using this E.G.O Skill: gain 1 [NebulizerExhale] (once per turn)\n- This value Stacks throughout the Encounter\n\nCombat Start: gain 1 [NebulizerExhale] every time this unit applies 10 [Breath] Count to allies with [NebulizerExhale] effects\n\nTurn End: starting from allies with the lowest HP percentages, heal ([NebulizerExhale] Stack)% HP for (highest Reson.) allies (max 6)\n- If the unit receiving healing has 20+ [Breath] Potency, activate healing 1 more time\nJP :\nこのE.G.Oスキルを使用した次のターン開始時、[NebulizerExhale]1を得る(1ターンにつき回)\n- この数値は今回の戦闘のあいだ累積する\n\n戦闘開始時に[NebulizerExhale]の効果で味方に[Breath]回数を10付与する度に[NebulizerExhale]1を得る\n\nターン終了時、味方(最大共鳴数)名の体力を現体力の比率が最も低い順に、体力最大値の([NebulizerExhale]の数値)%だけ回復(最大6名)\n- 回復対象の[Breath]威力が20以上なら、回復が1回追加で発動"
   }
 ]

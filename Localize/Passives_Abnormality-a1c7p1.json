@@ -60,6 +60,11 @@
     "context": "EN :\nOn Hit, if the target has [Laceration], heal this unit's Part & Core by 40% of the HP damage dealt.\nAfter Attack, if this unit healed at least 100 HP, heal 10 SP\nThis effect does not activate On Hit with an Unbreakable Coin Skill if it loses the Clash.\nJP :\n攻撃的中時、対象に[Laceration]があれば、被ダメージ量の40%だけ部位と本体の体力を回復\n攻撃終了時に体力を100回復した場合、精神力を10回復\n[SuperCoin]スキルでマッチ敗北後に的中時、この効果は発動しない。"
   },
   {
+    "key": "837202-summary",
+    "original": "출혈 상태인 적 공격시 체력 회복. 체력을 100 회복했으면 정신력도 회복.",
+    "context": "EN :\nHeal when attacking enemies with Bleed. When this unit heals 100 HP, heal SP as well.\nJP :\n出血状態の敵を攻撃時に体力が回復。体力を100回復したなら精神力も回復。"
+  },
+  {
     "key": "837203-name",
     "original": "아름답지 않은 건 필요없어!!",
     "context": "EN :\nI Don't Need Ugly Things!!\nJP :\n美しくないものは要らないわぁ！！"

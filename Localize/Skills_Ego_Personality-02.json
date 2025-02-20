@@ -487,7 +487,7 @@
   {
     "key": "2020711-levelList$[2].desc",
     "original": "자신과 대상의 속도의 합이 6 이상이면, 코인 위력 +1\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n[BeforeAttack] 다음 턴에 [Agility] 2 얻음\n[BeforeAttack] 최대 공명이 4 이상이면, 공격 가중치 +1\n<style=\"highlight\">- 해당 공명이 탐식 공명이면, 공격 가중치 +1</style>",
-    "context": "EN :\nIf the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for ever 7 [Burst] on the target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n<style=\"highlight\">- If the said Reson. was a Gluttony Reson., Atk Weight +1</style>\nJP :\n自分と対象の速度の合計6が以上なら、コイン威力 +1\n対象の[Burst]7につきコイン威力 +1(最大2)\n[BeforeAttack] 次のターンに[Agility]2を得る\n[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1\n<style=\"highlight\">- 該当共鳴が暴食共鳴なら、攻撃加重値 +1</style>"
+    "context": "EN :\nIf the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on the target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n<style=\"highlight\">- If the said Reson. was a Gluttony Reson., Atk Weight +1</style>\nJP :\n自分と対象の速度の合計6が以上なら、コイン威力 +1\n対象の[Burst]7につきコイン威力 +1(最大2)\n[BeforeAttack] 次のターンに[Agility]2を得る\n[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1\n<style=\"highlight\">- 該当共鳴が暴食共鳴なら、攻撃加重値 +1</style>"
   },
   {
     "key": "2020711-levelList$[2].coinlist[0].coindescs[0].desc",
@@ -603,5 +603,135 @@
     "key": "2020721-levelList$[2].coinlist[2].coindescs[1].desc",
     "original": "[OnSucceedAttack] 대상의 [Burst] 1 당 피해량 +2% (최대 60%)",
     "context": "EN :\n[OnSucceedAttack] Deal +2% more damage for every [Burst] on the target (max 60%)\nJP :\n[OnSucceedAttack] 対象の[Burst]1につきダメージ量 +2%(最大60%)"
+  },
+  {
+    "key": "2020811-levelList$[0].name",
+    "original": "흉통",
+    "context": "EN :\nThoracalgia\nJP :\n胸痛"
+  },
+  {
+    "key": "2020811-levelList$[0].abName",
+    "original": "지난 날의 침낭",
+    "context": "EN :\nSleeping Bag of a Bygone Day\nJP :\n過ぎ去りし日の寝袋"
+  },
+  {
+    "key": "2020811-levelList$[0].desc",
+    "original": "[BeforeAttack] 모든 아군에게 [Breath] 위력을 (최대 공명 수)만큼 부여 (최대 부여량 : 4)\n- 오만 공명 3 이상이면, 부여 대상의 [Breath] 횟수 1 증가, 부여 대상에게 다음 턴에 [ReleaseBreath] 1 부여",
+    "context": "EN :\n[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max 4)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] as well next turn\nJP :\n[BeforeAttack] 全味方に[Breath]威力を(最大共鳴数)だけ付与(最大付与量 : 4)\n- 傲慢共鳴3以上なら、付与対象の[Breath]回数1増加、付与対象に次のターンにて[ReleaseBreath]1を付与"
+  },
+  {
+    "key": "2020811-levelList$[1].name",
+    "original": "흉통",
+    "context": "EN :\nThoracalgia\nJP :\n胸痛"
+  },
+  {
+    "key": "2020811-levelList$[1].abName",
+    "original": "지난 날의 침낭",
+    "context": "EN :\nSleeping Bag of a Bygone Day\nJP :\n過ぎ去りし日の寝袋"
+  },
+  {
+    "key": "2020811-levelList$[1].desc",
+    "original": "[BeforeAttack] 모든 아군에게 [Breath] 위력을 (최대 공명 수)만큼 부여 (최대 부여량 : <style=\"highlight\">6</style>)\n- 오만 공명 3 이상이면, 부여 대상의 [Breath] 횟수 1 증가, 부여 대상에게 다음 턴에 [ReleaseBreath] 1 부여",
+    "context": "EN :\n[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max <style=\"highlight\">6</style>)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] as well next turn\nJP :\n[BeforeAttack] 全味方に[Breath]威力を(最大共鳴数)だけ付与(最大付与量 : 6)\n- 傲慢共鳴3以上なら、付与対象の[Breath]回数1増加、付与対象に次のターンにて[ReleaseBreath]1を付与"
+  },
+  {
+    "key": "2020811-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Gain +1 [Breath] Count</style>\nJP :\n[OnSucceedAttack] 自分の[Breath]回数が1増加"
+  },
+  {
+    "key": "2020811-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "<style=\"highlight\">크리티컬 피해량 +([Breath] 위력과 [Breath] 횟수의 합)% (최대 20%)</style>",
+    "context": "EN :\n<style=\"highlight\">Deal +([Breath] Potency + [Breath] Count)% more damage on Critical Hit (max 20%)</style>\nJP :\nクリティカルダメージ量 +([Breath]威力と[Breath]回数の合計)% (最大20%)"
+  },
+  {
+    "key": "2020811-levelList$[2].name",
+    "original": "흉통",
+    "context": "EN :\nThoracalgia\nJP :\n胸痛"
+  },
+  {
+    "key": "2020811-levelList$[2].abName",
+    "original": "지난 날의 침낭",
+    "context": "EN :\nSleeping Bag of a Bygone Day\nJP :\n過ぎ去りし日の寝袋"
+  },
+  {
+    "key": "2020811-levelList$[2].desc",
+    "original": "[BeforeAttack] 모든 아군에게 [Breath] 위력을 (최대 공명 수)만큼 부여 (최대 부여량 : 6)\n- 오만 공명 3 이상이면, 부여 대상의 [Breath] 횟수 1 증가, 부여 대상에게 다음 턴에 [ReleaseBreath] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max 6)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] as well next turn<style=\"highlight\"></style>\nJP :\n[BeforeAttack] 全味方に[Breath]威力を(最大共鳴数)だけ付与(最大付与量 : 6)\n- 傲慢共鳴3以上なら、付与対象の[Breath]回数1増加、付与対象に次のターンにて[ReleaseBreath]1を付与"
+  },
+  {
+    "key": "2020811-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の[Breath]回数が1増加"
+  },
+  {
+    "key": "2020811-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "크리티컬 피해량 +([Breath] 위력과 [Breath] 횟수의 합)% (최대 <style=\"highlight\">40%</style>)",
+    "context": "EN :\nDeal +([Breath] Potency + [Breath] Count)% more damage on Critical Hit (max <style=\"highlight\">40%</style>)\nJP :\nクリティカルダメージ量 +([Breath]威力と[Breath]回数の合計)% (最大40%)"
+  },
+  {
+    "key": "2020821-levelList$[0].name",
+    "original": "흉통",
+    "context": "EN :\nThoracalgia\nJP :\n胸痛"
+  },
+  {
+    "key": "2020821-levelList$[0].abName",
+    "original": "지난 날의 침낭",
+    "context": "EN :\nSleeping Bag of a Bygone Day\nJP :\n過ぎ去りし日の寝袋"
+  },
+  {
+    "key": "2020821-levelList$[0].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 [Breath] 위력이 20 미만이면, [Breath] 위력을 20 까지 얻고 최대 체력의 (얻은 [Breath] 위력 x 2)%만큼 체력 소모\n- 이 효과로 흐트러지거나 사망하지 않음\n[BeforeAttack] 모든 아군에게 [Breath] 위력을 (최대 공명 수)만큼 부여 (최대 부여량 : 4)\n- 오만 공명 3 이상이면, 부여 대상의 [Breath] 횟수 1 증가, 부여 대상에게 다음 턴에 [ReleaseBreath] 1, [IndigoDamageUp] 1 부여",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n[BeforeAttack] At less than 20 [Breath] Potency, gain up to 20 [Breath] Potency and consume ([Breath] Potency gained x 2)% HP on self\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max 4)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] and 1 [IndigoDamageUp] as well next turn\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の[Breath]威力が20未満なら、[Breath]威力を20まで得て体力最大値の(得た[Breath]威力 × 2)%だけ体力を消耗\n- この効果で混乱・死亡しない\n[BeforeAttack] 全味方に[Breath]威力を(最大共鳴数)だけ付与(最大付与量 : 4)\n- 傲慢共鳴が3以上なら、付与対象の[Breath]回数が1増加、付与対象に次のターンにて[ReleaseBreath]1, [IndigoDamageUp]1を付与"
+  },
+  {
+    "key": "2020821-levelList$[1].name",
+    "original": "흉통",
+    "context": "EN :\nThoracalgia\nJP :\n胸痛"
+  },
+  {
+    "key": "2020821-levelList$[1].abName",
+    "original": "지난 날의 침낭",
+    "context": "EN :\nSleeping Bag of a Bygone Day\nJP :\n過ぎ去りし日の寝袋"
+  },
+  {
+    "key": "2020821-levelList$[1].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 [Breath] 위력이 20 미만이면, [Breath] 위력을 20 까지 얻고 최대 체력의 (얻은 [Breath] 위력 x 2)%만큼 체력 소모\n- 이 효과로 흐트러지거나 사망하지 않음\n[BeforeAttack] 모든 아군에게 [Breath] 위력을 (최대 공명 수)만큼 부여 (최대 부여량 : <style=\"highlight\">6</style>)\n- 오만 공명 3 이상이면, 부여 대상의 [Breath] 횟수 1 증가, 부여 대상에게 다음 턴에 [ReleaseBreath] 1, [IndigoDamageUp] 1 부여",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n[BeforeAttack] At less than 20 [Breath] Potency, gain up to 20 [Breath] Potency and consume ([Breath] Potency gained x 2)% HP on self\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max <style=\"highlight\">6</style>)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] and 1 [IndigoDamageUp] as well next turn\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の[Breath]威力が20未満なら、[Breath]威力を20まで得て体力最大値の(得た[Breath]威力 × 2)%だけ体力を消耗\n- この効果で混乱・死亡しない\n[BeforeAttack] 全味方に[Breath]威力を(最大共鳴数)だけ付与(最大付与量 : 6)\n- 傲慢共鳴が3以上なら、付与対象の[Breath]回数が1増加、付与対象に次のターンにて[ReleaseBreath]1, [IndigoDamageUp]1を付与"
+  },
+  {
+    "key": "2020821-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Gain +1 [Breath] Count</style>\nJP :\n[OnSucceedAttack] 自分の[Breath]回数が1増加"
+  },
+  {
+    "key": "2020821-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "<style=\"highlight\">크리티컬 피해량 +([Breath] 위력과 [Breath] 횟수의 합)% (최대 20%)</style>",
+    "context": "EN :\n<style=\"highlight\">Deal +([Breath] Potency + [Breath] Count)% more damage on Critical Hit (max 20%)</style>\nJP :\nクリティカルダメージ量 +([Breath]威力と[Breath]回数の合計)% (最大20%)"
+  },
+  {
+    "key": "2020821-levelList$[2].name",
+    "original": "흉통",
+    "context": "EN :\nThoracalgia\nJP :\n胸痛"
+  },
+  {
+    "key": "2020821-levelList$[2].abName",
+    "original": "지난 날의 침낭",
+    "context": "EN :\nSleeping Bag of a Bygone Day\nJP :\n過ぎ去りし日の寝袋"
+  },
+  {
+    "key": "2020821-levelList$[2].desc",
+    "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 [Breath] 위력이 20 미만이면, [Breath] 위력을 20 까지 얻고 최대 체력의 (얻은 [Breath] 위력 x 2)%만큼 체력 소모\n- 이 효과로 흐트러지거나 사망하지 않음\n[BeforeAttack] 모든 아군에게 [Breath] 위력을 (최대 공명 수)만큼 부여 (최대 부여량 : 6)\n- 오만 공명 3 이상이면, 부여 대상의 [Breath] 횟수 1 증가, 부여 대상에게 다음 턴에 [ReleaseBreath] 1, [IndigoDamageUp] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[CantIdentify]\nTargets randomly\n[BeforeAttack] At less than 20 [Breath] Potency, gain up to 20 [Breath] Potency and consume ([Breath] Potency gained x 2)% HP on self\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max 6)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] and 1 [IndigoDamageUp] as well next turn<style=\"highlight\"></style>\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の[Breath]威力が20未満なら、[Breath]威力を20まで得て体力最大値の(得た[Breath]威力 × 2)%だけ体力を消耗\n- この効果で混乱・死亡しない\n[BeforeAttack] 全味方に[Breath]威力を(最大共鳴数)だけ付与(最大付与量 : 6)\n- 傲慢共鳴が3以上なら、付与対象の[Breath]回数が1増加、付与対象に次のターンにて[ReleaseBreath]1, [IndigoDamageUp]1を付与"
+  },
+  {
+    "key": "2020821-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の[Breath]回数が1増加"
+  },
+  {
+    "key": "2020821-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "크리티컬 피해량 +([Breath] 위력과 [Breath] 횟수의 합)% (최대 <style=\"highlight\">40%</style>)",
+    "context": "EN :\nDeal +([Breath] Potency + [Breath] Count)% more damage on Critical Hit (max <style=\"highlight\">40%</style>)\nJP :\nクリティカルダメージ量 +([Breath]威力と[Breath]回数の合計)% (最大40%)"
   }
 ]

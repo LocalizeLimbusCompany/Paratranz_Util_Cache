@@ -6,8 +6,8 @@
   },
   {
     "key": "837801-levelList$[0].desc",
-    "original": "[WhenUse] 자신에게 [Laceration] 20 부여, 자신의 [Laceration] 횟수 1 증가\n[DefeatDuel] 자신의 [Laceration] 횟수 1 증가",
-    "context": "EN :\n[WhenUse] Gain 20 [Laceration] and +1 [Laceration] Count\n[DefeatDuel] Gain +1 [Laceration] Count\nJP :\n[WhenUse] 自分へ[Laceration]20を付与、自分の[Laceration]回数が1増加\n[DefeatDuel] 自分の[Laceration]回数が1増加"
+    "original": "[WhenUse] 자신에게 [Laceration] 20 부여, 자신의 [Laceration] 횟수 1 증가",
+    "context": "EN :\n[WhenUse] Gain 20 [Laceration] and +1 [Laceration] Count\nJP :\n[WhenUse] 自分に[Laceration]20を付与、自分の[Laceration]回数が1増加"
   },
   {
     "key": "837801-levelList$[0].coinlist[0].coindescs[0].desc",
@@ -21,8 +21,8 @@
   },
   {
     "key": "837802-levelList$[0].desc",
-    "original": "[WhenUse] 자신에게 [Laceration] 20 부여, 자신의 [Laceration] 횟수 1 증가\n[DefeatDuel] 자신의 [Laceration] 횟수 1 증가",
-    "context": "EN :\n[WhenUse] Gain 20 [Laceration] and +1 [Laceration] Count\n[DefeatDuel] Gain +1 [Laceration] Count\nJP :\n[WhenUse] 自分へ[Laceration]20を付与、自分の[Laceration]回数が1増加\n[DefeatDuel] 自分の[Laceration]回数が1増加"
+    "original": "[WhenUse] 자신에게 [Laceration] 20 부여, 자신의 [Laceration] 횟수 1 증가",
+    "context": "EN :\n[WhenUse] Gain 20 [Laceration] and +1 [Laceration] Count\nJP :\n[WhenUse] 自分に[Laceration]20を付与、自分の[Laceration]回数が1増加"
   },
   {
     "key": "837802-levelList$[0].coinlist[0].coindescs[0].desc",
@@ -42,7 +42,7 @@
   {
     "key": "837803-levelList$[0].desc",
     "original": "[WhenUse] 자신에게 [Laceration] 10 부여\n[WhenUse] [BloodDinner]을 최대 30까지 소모하여 체력이 가장 낮은 아군의 (본체와 부위의) 체력을 (소모한 [BloodDinner]x2) 만큼 회복 (본인 제외. 소수점 버림)",
-    "context": "EN :\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] Consume up to 30 [BloodDinner]: heal the ally with the least HP by ([BloodDinner] consumed x 2). (excludes self; rounded down)\nJP :\n[WhenUse] 自分へ[Laceration]10を付与\n[WhenUse] [BloodDinner]を最大30まで消耗し、体力が最も低い味方の(本体と部位の)体力を(消耗した[BloodDinner] × 2)だけ回復(本人を除く。小数点切り捨て)"
+    "context": "EN :\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] Consume up to 30 [BloodDinner]: heal the Core and the Part of the ally with the least HP by ([BloodDinner] consumed x 2). (excludes self; rounded down)\nJP :\n[WhenUse] 自分へ[Laceration]10を付与\n[WhenUse] [BloodDinner]を最大30まで消耗し、体力が最も低い味方の(本体と部位の)体力を(消耗した[BloodDinner] × 2)だけ回復(本人を除く。小数点切り捨て)"
   },
   {
     "key": "837803-levelList$[0].coinlist[0].coindescs[0].desc",
@@ -51,8 +51,8 @@
   },
   {
     "key": "837803-levelList$[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [WornHeart]과 [BloodyHand] 1 얻음",
-    "context": "EN :\n[OnSucceedAttack] Gain 1 [WornHeart] and 1 [BloodyHand]\nJP :\n[OnSucceedAttack] [WornHeart]と[BloodyHand]1を得る"
+    "original": "[OnSucceedAttack] [WornHeart]과 [BloodyHand] 2 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 2 [WornHeart] and [BloodyHand]\nJP :\n[OnSucceedAttack] [WornHeart]と[BloodyHand]2を得る"
   },
   {
     "key": "837804-levelList$[0].name",
@@ -66,13 +66,28 @@
   },
   {
     "key": "837804-levelList$[0].coinlist[0].coindescs[0].desc",
-    "original": "[SuperCoin]\n[OnSucceedAttack] [Laceration] 횟수 2 증가\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 50% 이상이면, 자신의 [Laceration]을 발동시킴. 자신의 [Laceration] 횟수 1 소모",
-    "context": "EN :\n[SuperCoin]\n[OnSucceedAttack] Inflict +2 [Laceration] Count\n[OnSucceedAttack] If this unit has 50%+ HP, activate [Laceration] on self and consume 1 [Laceration] Count on self\nJP :\n[SuperCoin]\n[OnSucceedAttack] [Laceration]回数が2増加\n[OnSucceedAttack] 自分の減退力が最大値の50%以上なら、自分の[Laceration]を発動させる。自分の[Laceration]回数を1消耗"
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "837804-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+  },
+  {
+    "key": "837804-levelList$[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 50% 이상이면, 자신의 [Laceration]을 발동시킴. 자신의 [Laceration] 횟수 1 소모",
+    "context": "EN :\n[OnSucceedAttack] At 50%+ HP, activate [Laceration] on self. Lose 1 [Laceration] Count on self\nJP :\n[OnSucceedAttack] 自分の現体力が最大値の50%以上なら、自分の[Laceration]を発動させる。自分の[Laceration]回数を1消耗"
   },
   {
     "key": "837804-levelList$[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [WornHeart]과 [BloodyHand] 3 얻음\n[OnSucceedAttack] [WornHeart]이 10이면, [BloodyHand]을 추가로 3 얻고 다음 턴에 [AttackUp] 1 얻음",
-    "context": "EN :\n[OnSucceedAttack] Gain 3 [WornHeart] and [BloodyHand]\n[OnSucceedAttack] At 10 [WornHeart], gain 3 additional [BloodyHand] and gain 1 [AttackUp] next turn\nJP :\n[OnSucceedAttack] [WornHeart]と[BloodyHand]3を得る\n[OnSucceedAttack] [WornHeart]が10なら、[BloodyHand]を追加で3得て次のターンに[AttackUp]1を得る"
+    "original": "[OnSucceedAttack] [WornHeart]과 [BloodyHand] 3 얻음",
+    "context": "EN :\n[OnSucceedAttack] Gain 3 [WornHeart] and [BloodyHand]\nJP :\n[OnSucceedAttack] [WornHeart]と[BloodyHand]3を得る"
+  },
+  {
+    "key": "837804-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [WornHeart]이 10이면, [BloodyHand]을 추가로 3 얻고 다음 턴에 [AttackUp] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] At 10 [WornHeart], gain 3 additional [BloodyHand] and gain 1 [AttackUp] next turn\nJP :\n[OnSucceedAttack] [WornHeart]が10なら、[BloodyHand]を追加で3得て次のターンに[AttackUp]1を得る"
   },
   {
     "key": "837805-levelList$[0].name",
@@ -96,13 +111,18 @@
   },
   {
     "key": "837806-levelList$[0].desc",
-    "original": "[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] [BloodDinner]을 최대 30 소모하여, 소모한 [BloodDinner] 10당 코인 위력 +1\n[DefeatDuel] 다음 턴에 [Vulnerable] 1 얻음",
-    "context": "EN :\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume up to 30 [BloodDinner]: gain Coin Power +1 for every [BloodDinner] consumed\n[DefeatDuel] Gain 1 [Vulnerable] next turn\nJP :\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [BloodDinner]を最大30消耗し、消耗した[BloodDinner]10につきコイン威力 +1\n[DefeatDuel] 次のターンに[Vulnerable]1を得る"
+    "original": "[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] [BloodDinner]을 최대 30 소모하여, 소모한 [BloodDinner] 10당 코인 위력 +1 (첫번째 코인의 공격 종료시 효과 소멸)\n[DefeatDuel] 다음 턴에 [Vulnerable] 1 얻음",
+    "context": "EN :\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume up to 30 [BloodDinner]: gain Coin Power +1 for every 10 [BloodDinner] consumed (effect expires after the first Coin attack)\n[DefeatDuel] Gain 1 [Vulnerable] next turn\nJP :\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [BloodDinner]を最大30消耗し、消耗した[BloodDinner]10につきコイン威力 +1(最初のコインの攻撃終了時に効果消滅)\n[DefeatDuel] 次のターンに[Vulnerable]1を得る"
   },
   {
     "key": "837806-levelList$[0].coinlist[0].coindescs[0].desc",
-    "original": "[SuperCoin]\n[OnSucceedAttack] [Laceration] 4 부여",
-    "context": "EN :\n[SuperCoin]\n[OnSucceedAttack] Inflict 4 [Laceration]\nJP :\n[SuperCoin]\n[OnSucceedAttack] [Laceration]4を付与"
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "837806-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration] 4 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 4 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]4を付与"
   },
   {
     "key": "837806-levelList$[0].coinlist[1].coindescs[0].desc",
@@ -111,8 +131,18 @@
   },
   {
     "key": "837806-levelList$[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 피해량만큼 체력 회복 (최대 30)\n[OnSucceedAttack] 이 스킬에서 [BloodDinner]을 30 소모했고, [BloodyHand_3rd]이 30이면 이 코인 1회 재사용\n- 이 스킬에서 [BloodDinner]을 소모하지 못했으면, 자신에게 [Laceration] 20 부여",
-    "context": "EN :\n[OnSucceedAttack] Heal HP equal to the damage dealt (max 30)\n[OnSucceedAttack] If this Skill consumed 30 [BloodDinner], and if this unit is at 30+ [BloodyHand_3rd], Reuse this Coin once\n- If this Skill failed to consume [BloodDinner], gain 20 [Laceration]\nJP :\n[OnSucceedAttack] ダメージ量だけ体力を回復(最大30)\n[OnSucceedAttack] このスキル[BloodDinner]を30消耗し、[BloodyHand_3rd]が30ならこのコインを1回再使用\n- このスキルで[BloodDinner]を消耗できなければ、自分に[Laceration]を20付与"
+    "original": "[OnSucceedAttack] 피해량만큼 체력 회복 (최대 30)",
+    "context": "EN :\n[OnSucceedAttack] Heal HP equal to damage dealt (Max 30)\nJP :\n[OnSucceedAttack] ダメージ量だけ体力を回復(最大30)"
+  },
+  {
+    "key": "837806-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 이 스킬에서 [BloodDinner]을 30 소모했고, [BloodyHand_3rd]이 30이면 이 코인 1회 재사용",
+    "context": "EN :\n[OnSucceedAttack] If this Skill consumed 30 [BloodDinner], and if this unit is at 30+ [BloodyHand_3rd], Reuse this Coin once\nJP :\n[OnSucceedAttack] このスキルで[BloodDinner]を30消耗したかつ、BloodyHand_3rd]が30ならこのコインを1回再使用"
+  },
+  {
+    "key": "837806-levelList$[0].coinlist[2].coindescs[2].desc",
+    "original": "- 이 스킬에서 [BloodDinner]을 소모하지 못했으면, 자신에게 [Laceration] 20 부여",
+    "context": "EN :\n- If this unit failed to consume [BloodDinner] with this Skill, gain 20 [Laceration]\nJP :\n- このスキルで[BloodDinner]を消耗できなければ、自分に[Laceration]20を付与"
   },
   {
     "key": "837807-levelList$[0].name",
@@ -121,8 +151,8 @@
   },
   {
     "key": "837807-levelList$[0].desc",
-    "original": "[WhenUse] 자신의 현재 체력이 최대 체력의 50% 이상이면, 자신의 [Laceration]을 발동시킴 (최대 3회. 발동된 횟수만큼 출혈 횟수 감소. 이 피해로 흐트러지지 않음)\n[WhenUse] 모든 아군의 정신력 5 회복 (자신 포함)",
-    "context": "EN :\n[WhenUse] At 50%+ HP, activate [Laceration] on self (max 3 times; reduce Bleed Count every time it is activated; cannot be Staggered from this damage)\n[WhenUse] All allies heal 5 SP (including self)\nJP :\n[WhenUse] 自分の現体力が最大値の50%以上なら、自分の[Laceration]を発動させる(最大3回。発動回数だけ出血回数減少。このダメージで混乱しない)\n[WhenUse] 全味方の精神力を5回復(自分を含む)"
+    "original": "[StartBattle] 자신의 현재 체력이 최대 체력의 50% 이상이면, 자신의 [Laceration]을 발동시킴 (최대 3회. 발동된 횟수만큼 출혈 횟수 감소. 이 피해로 흐트러지지 않음)\n[StartBattle] 모든 아군의 정신력 5 회복 (자신 포함)",
+    "context": "EN :\n[StartBattle] At 50%+ HP, activate [Laceration] on self (max 3 times; reduce Bleed Count every time it is activated; cannot be Staggered from this damage)\n[StartBattle] All allies heal 5 SP (including self)\nJP :\n[StartBattle] 自分の現体力が最大値の50%以上なら、自分の[Laceration]を発動させる(最大3回。発動回数だけ出血回数減少。このダメージで混乱しない)\n[StartBattle] 全味方の精神力を5回復(自分を含む)"
   },
   {
     "key": "837808-levelList$[0].name",
@@ -367,7 +397,7 @@
   {
     "key": "837303-levelList$[0].coinlist[2].coindescs[1].desc",
     "original": "[OnSucceedAttack] 다음 턴에 [ScarletTakeDamageUp] 2 부여",
-    "context": "EN :\n[OnSucceedAttack] Inflict 2 [ScarletTakeDamageUp] next turn\nJP :\n[OnSucceedAttack] 次のターンのダメージ量減少[ScarletTakeDamageUp]2を付与"
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [ScarletTakeDamageUp] next turn\nJP :\n[OnSucceedAttack] 次のターンに[ScarletTakeDamageUp]2を付与"
   },
   {
     "key": "837304-levelList$[0].name",

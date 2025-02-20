@@ -408,5 +408,25 @@
     "key": "43-desc",
     "original": "LCB 정기검진 이벤트에서 획득",
     "context": "EN :\nObtained from the LCB Regular Check-up event\nJP :\nLCB定期検診イベントにて獲得"
+  },
+  {
+    "key": "44-name",
+    "original": "5호선",
+    "context": "EN :\nLine 5\nJP :\n5号線"
+  },
+  {
+    "key": "44-desc",
+    "original": "거울굴절철도 5호선 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Refraction Railway Line 5\nJP :\n鏡屈折鉄道5号線 クリア時に獲得"
+  },
+  {
+    "key": "45-name",
+    "original": "5호선 : Merry Go Round",
+    "context": "EN :\nLine 5: Merry Go Round\nJP :\n5号線 : Merry Go Round"
+  },
+  {
+    "key": "45-desc",
+    "original": "시즌 5 오블리비언 기간 내에 누적 턴 수 100턴 이하로 거울굴절철도 5호선 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Line 5 with 100 or fewer Total Turns before Season 5: Oblivion ends.\nJP :\nシーズン5 オブリヴィオン期間内に累計ターン数100以下で鏡屈折鉄道5号線クリア時に獲得"
   }
 ]
