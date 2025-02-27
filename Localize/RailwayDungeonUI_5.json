@@ -2,7 +2,7 @@
   {
     "key": "railway_5_must_participate_all-content",
     "original": "편성되지 않은 인격이 존재합니다.\n\n※ 거울굴절철도 5호선에서는 모든 수감자가 편성에 포함되어야 입장할 수 있습니다.",
-    "context": "EN :\nPlease Deploy all Sinners.\n\n※ In Refraction Railway Line 5, every Sinner has to be Deployed in order to enter.\nJP :\n編成されていない人格癌存在します。\n\n※鏡屈折鉄道5号線では、全囚人が編成に含まれていないと入場できません。"
+    "context": "EN :\nPlease Deploy all Sinners.\n\n※ In Refraction Railway Line 5, every Sinner has to be Deployed in order to enter.\nJP :\n編成されていない人格が存在します。\n\n※鏡屈折鉄道5号線では、全囚人が編成に含まれていないと入場できません。"
   },
   {
     "key": "mainui_personality_blocked-content",
@@ -107,6 +107,6 @@
   {
     "key": "railway_5_stage_level_warning-content",
     "original": "※ 현재 인격 평균 레벨 : <color=#990000>{0}</color> (권장 레벨: <color=#990000>{1}</color>)",
-    "context": "EN :\n※ Current Avg. ID Level: <color=#990000>{0}</color> (Recommended Level: <color=#990000>{1}</color>)\nJP :\n※現在の人格平均レベル : <color=#990000>{0}</color> (推奨レベル: <color=#990000>{1}</color>)"
+    "context": "EN :\n※ Current Avg. ID Level: <color=#990000>{0}</color> (Recommended Level: <color=#990000>{1}</color>)\nJP :\n※現在の人格平均レベル : {0} (推奨レベル: {1})"
   }
 ]

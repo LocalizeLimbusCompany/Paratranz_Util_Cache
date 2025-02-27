@@ -312,7 +312,7 @@
   {
     "key": "1060703-levelList$[0].coinlist[0].coindescs[0].desc",
     "original": "[OnSucceedAttackHead] 대상의 출혈 1당 정신력 1 회복 (최대 5)",
-    "context": "EN :\n[OnSucceedAttackHead] Heal 1 SP per Bleed on target (Max 5)\nJP :\n[OnSucceedAttackHead] 対象の出血 1につき、精神力を1回復(最大5%)"
+    "context": "EN :\n[OnSucceedAttackHead] Heal 1 SP per Bleed on target (Max 5)\nJP :\n[OnSucceedAttackHead] 対象の出血 1につき、精神力を1回復(最大5)"
   },
   {
     "key": "1060703-levelList$[0].coinlist[2].coindescs[0].desc",
@@ -337,7 +337,7 @@
   {
     "key": "1060703-levelList$[1].coinlist[0].coindescs[0].desc",
     "original": "[OnSucceedAttackHead] 대상의 출혈 1당 정신력 1 회복 (최대 10)",
-    "context": "EN :\n[OnSucceedAttackHead] Heal 1 SP per Bleed on target (Max 10)\nJP :\n[OnSucceedAttackHead] 対象の出血 1につき、精神力を1回復(最大10%)"
+    "context": "EN :\n[OnSucceedAttackHead] Heal 1 SP per Bleed on target (Max 10)\nJP :\n[OnSucceedAttackHead] 対象の出血 1につき、精神力を1回復(最大10)"
   },
   {
     "key": "1060703-levelList$[1].coinlist[2].coindescs[0].desc",

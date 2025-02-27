@@ -1147,7 +1147,7 @@
   {
     "key": "1070501-desc",
     "original": "전투 시작 시 침잠 횟수를 1 소모하여 침잠 만큼 정신력 감소\n피격 전 자신의 침잠 만큼 보호를 얻음.(턴 당 획득 가능한 보호 : 최대 5)\n피격 시 다음 턴에 타격 피해량 증가 1을 얻음 (턴 당 최대 3)",
-    "context": "EN :\nAt the start of the combat phase, spend 1 Sinking Count and lose SP by the current amount of Sinking.\nBefore being hit by an attack, gain Protection equal to this unit's Sinking. (Up to 5 Protection can be gained per turn)\nWhen hit, gain 1 Blunt DMG Up next turn. (3 per turn)\nJP :\n戦闘開始時、沈潜 回数を1消耗して沈潜 の数だけ精神力を減少\n被ダメージ前に自分の沈潜 回数分の保護 を得る。(1ターンにつき獲得可能な保護 : 最大5)\n被ダメージ時に次のターンにて、打撃ダメージ量増加 1を得る(1ターンにつき最大3)"
+    "context": "EN :\nAt the start of the combat phase, spend 1 Sinking Count and lose SP by the current amount of Sinking.\nBefore being hit by an attack, gain Protection equal to this unit's Sinking. (Up to 5 Protection can be gained per turn)\nWhen hit, gain 1 Blunt DMG Up next turn. (3 per turn)\nJP :\n戦闘開始時、沈潜 回数を1消耗して沈潜 の数だけ精神力を減少\n被ダメージ前に自分の沈潜 だけ保護 を得る。(1ターンにつき獲得可能な保護 : 最大5)\n被ダメージ時に次のターンにて、打撃ダメージ量増加 1を得る(1ターンにつき最大3)"
   },
   {
     "key": "1070521-name",
@@ -1742,7 +1742,7 @@
   {
     "key": "1120721-desc",
     "original": "<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">호흡</color></link></u>을 가장 많이 보유한 아군 1명이 적 처치 시 다음 턴에 관통 피해량 증가 1 을 얻음. (턴 당 1회)",
-    "context": "EN :\nIf 1 ally with the most <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> defeats an enemy, gain 1 Pierce DMG Up next turn. (Once per turn)\nJP :\n<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>を最も多く保有する味方1名が敵討伐時、次のターンに[PenetrateDamageDown]1を得る。(1ターンにつき1回)"
+    "context": "EN :\nIf 1 ally with the most <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> defeats an enemy, gain 1 Pierce DMG Up next turn. (Once per turn)\nJP :\n<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>を最も多く保有する味方1名が敵討伐時、次のターンに[PenetrateDamageUp]1を得る。(1ターンにつき1回)"
   },
   {
     "key": "1040601-name",
@@ -2407,7 +2407,7 @@
   {
     "key": "1040711-desc",
     "original": "자신이 [Combustion]이 부여된 적 처치 시 [Combustion]이 없거나 [Combustion] 위력이 가장 낮은 무작위 적 2명에게 [Combustion] 4 부여 (턴 당 2회)\n- 집중 전투에서는 부위에 부여",
-    "context": "EN :\nWhen this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 2 random enemies with no [Combustion] or with the least [Combustion] Potency. (Once per turn)\n- In Focused Encounters, to 2 random Parts\nJP :\n自分が[Combustion]の付与された敵を討伐時、[Combustion]がないか[Combustion]威力が最も低いランダムな敵2名へ[Combustion]4を付与(1ターンにつき2回)\n- 集中戦闘では部位に付与"
+    "context": "EN :\nWhen this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 2 random enemies with no [Combustion] or with the least [Combustion] Potency. (2 times per turn)\n- In Focused Encounters, to 2 random Parts\nJP :\n自分が[Combustion]の付与された敵を討伐時、[Combustion]がないか[Combustion]威力が最も低いランダムな敵2名へ[Combustion]4を付与(1ターンにつき2回)\n- 集中戦闘では部位に付与"
   },
   {
     "key": "1040711-summary",
@@ -3747,7 +3747,7 @@
   {
     "key": "1091111-desc",
     "original": "자신을 제외한 아군이 [Laceration] 피해를 받거나 [BloodDinner]을 소모할 때마다, 자신이 [BloomingThornsRodionFirst] 1 얻음 (턴 당 최대 5회)\n자신이 기본 스킬로 가한 피해량의 20%만큼 자신의 체력 회복 (스킬당 최대 10)\n- 자신이 최대 체력이면, 초과하는 회복량만큼 현재 체력 비율이 가장 낮은 아군 1명의 체력 회복",
-    "context": "EN :\nWhen an other ally takes [Laceration] damage or consumes [BloodDinner], this unit gains 1 [BloomingThornsRodionFirst] (5 times per turn)\nHeal HP on self by 20% of the damage dealt with base Skills (max 10 per Skill)\n- At max HP, heal 1 ally with the lowest HP percentage by excess healing\nJP :\n自分を除く味方が[Laceration]ダメージを受けるか[BloodDinner]を消耗する度、自分が[BloomingThornsRodionFirst]1を得る(1ターンにつき最大3回)\n自分が基本スキルで与えたダメージ量の20%だけ自分の体力を回復(スキルごとに最大10)\n- 自分の体力が最大なら、超過した回復量だけ現体力の比率が最も低い味方1名の体力を回復"
+    "context": "EN :\nWhen an other ally takes [Laceration] damage or consumes [BloodDinner], this unit gains 1 [BloomingThornsRodionFirst] (5 times per turn)\nHeal HP on self by 20% of the damage dealt with base Skills (max 10 per Skill)\n- At max HP, heal 1 ally with the lowest HP percentage by excess healing\nJP :\n自分を除く味方が[Laceration]ダメージを受けるか[BloodDinner]を消耗する度、自分が[BloomingThornsRodionFirst]1を得る(1ターンにつき最大5回)\n自分が基本スキルで与えたダメージ量の20%だけ自分の体力を回復(スキルごとに最大10)\n- 自分の体力が最大なら、超過した回復量だけ現体力の比率が最も低い味方1名の体力を回復"
   },
   {
     "key": "1091121-name",

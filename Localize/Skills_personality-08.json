@@ -507,7 +507,7 @@
   {
     "key": "1080902-levelList$[2].desc",
     "original": "대상의 속도가 자신보다 느리면 코인 위력 +1\n[WhenUse] [Breath] 횟수 2 증가\n[WinDuel] [Breath] 2 얻음",
-    "context": "EN :\nIf this unit's Speed is faster than the target's, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 2 [Breath]\nJP :\n対象の速度が自分より低ければ、コイン威力 +1\n[WhenUse] [Breath]回数が2増加\n[WinDuel] [Breath]を得る"
+    "context": "EN :\nIf this unit's Speed is faster than the target's, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 2 [Breath]\nJP :\n対象の速度が自分より低ければ、コイン威力 +1\n[WhenUse] [Breath]回数が2増加\n[WinDuel] [Breath]2を得る"
   },
   {
     "key": "1080902-levelList$[2].coinlist[0].coindescs[0].desc",

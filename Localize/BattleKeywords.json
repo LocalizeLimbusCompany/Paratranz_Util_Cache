@@ -2832,7 +2832,7 @@
   {
     "key": "VibrationCollapse-desc",
     "original": "대상의 진동 위력 4 당 방어 레벨 1 감소\n진동 폭발 스킬로 피격 시, 효과 위력만큼 흐트러짐 손상\n턴 종료 후 횟수 1 감소\n(진동 위력 및 횟수를 증가, 감소시키는 효과를 동일하게 적용받음)",
-    "context": "EN :\nLose 1 Defense Level for every 4 Tremor Potency on self\nWhen Hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\nTurn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raises or reduces Tremor Potency/Count)\nJP :\n対象の振動 威力4につき、マッチ威力が1減少\n振動爆発スキルで被ダメージ時、効果威力だけ混乱区間が前進\nターン終了時に回数が1減少\n(振動 威力および回数を増減させる効果を同様に受ける)"
+    "context": "EN :\nLose 1 Defense Level for every 4 Tremor Potency on self\nWhen Hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\nTurn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raises or reduces Tremor Potency/Count)\nJP :\n対象の振動 威力4につき、防御レベルが1減少\n振動爆発スキルで被ダメージ時、効果威力だけ混乱区間が前進\nターン終了時に回数が1減少\n(振動 威力および回数を増減させる効果を同様に受ける)"
   },
   {
     "key": "EchoOfMansion-name",
@@ -3152,7 +3152,7 @@
   {
     "key": "UninvitedGuestPersonality-desc",
     "original": "- 최대 2\n- 사망 시 마지막 공격자의 정신력 3 회복, 이 효과가 효과를 보유하지 않은 무작위 아군에게 2로 옮겨감.\n- 자신의 침잠 1당 받는 피해량 +0.5% (최대 10%, 집중 전투일 경우 부위마다 별도로 판정)\n- 턴 종료시 1 감소",
-    "context": "EN :\n- Max Value: 2\n- Upon death, the last attacker heals 3 SP; then, a random ally without this effect gains 2 Stacks of this effect.\n- Take +0.5% more damage for every Sinking on self (max 10%; for Focused Encounters, count Sinking on each Part separately)\n- Turn End: reduced by 1\nJP :\n- 最大2\n- 死亡時に最後の攻撃者の精神力を3回復。この効果が、効果を保有しないランダムな味方に移る。\n- 自分の沈潜1につき、被ダメージ量 +0.5%(最大10%, 集中戦闘の場合は部位ごとに別途判定)\n- ターン終了時に1減少"
+    "context": "EN :\n- Max Value: 2\n- Upon death, the last attacker heals 3 SP; then, a random ally without this effect gains 2 Stacks of this effect.\n- Take +0.5% more damage for every Sinking on self (max 10%; for Focused Encounters, count Sinking on each Part separately)\n- Turn End: reduced by 1\nJP :\n- 最大2\n- 死亡時に最後の攻撃者の精神力を3回復。この効果が、効果を保有しないランダムな味方に2移る。\n- 自分の沈潜1につき、被ダメージ量 +0.5%(最大10%, 集中戦闘の場合は部位ごとに別途判定)\n- ターン終了時に1減少"
   },
   {
     "key": "DevyatDimensionalSack-name",

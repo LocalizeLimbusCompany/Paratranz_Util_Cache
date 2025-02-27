@@ -391,7 +391,7 @@
   },
   {
     "key": "863301-levelList$[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Laceration] 2 부여",
+    "original": "[OnSucceedAttack] [Laceration] 3 부여",
     "context": "EN :\n[OnSucceedAttack] Inflict 3 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]3を付与"
   },
   {
@@ -411,7 +411,7 @@
   },
   {
     "key": "863302-levelList$[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration] 3 부여",
+    "original": "[OnSucceedAttack] [Laceration] 4 부여",
     "context": "EN :\n[OnSucceedAttack] Inflict 4 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]4を付与"
   },
   {
@@ -451,7 +451,7 @@
   },
   {
     "key": "863311-levelList$[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [ScarletTakeDamageUp] 1 부여",
+    "original": "[OnSucceedAttack] [ScarletTakeDamageUp] 2 부여",
     "context": "EN :\n[OnSucceedAttack] Inflict 2 [ScarletTakeDamageUp]\nJP :\n[OnSucceedAttack] [ScarletTakeDamageUp]2を付与"
   },
   {
@@ -471,7 +471,7 @@
   },
   {
     "key": "863312-levelList$[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [ScarletTakeDamageUp] 1 부여",
+    "original": "[OnSucceedAttack] [ScarletTakeDamageUp] 2 부여",
     "context": "EN :\n[OnSucceedAttack] Inflict 2 [ScarletTakeDamageUp]\nJP :\n[OnSucceedAttack] [ScarletTakeDamageUp]2を付与"
   },
   {
@@ -501,7 +501,7 @@
   },
   {
     "key": "863314-levelList$[0].desc",
-    "original": "[StartBattle] [AttackDmgUp] 2, [Vulnerable] 2 얻음",
+    "original": "[StartBattle] [AttackDmgUp] 3, [Vulnerable] 2 얻음",
     "context": "EN :\n[StartBattle] Gain 3 [AttackDmgUp] and 2 [Vulnerable]\nJP :\n[StartBattle] [AttackDmgUp]3, [Vulnerable]2を得る"
   },
   {

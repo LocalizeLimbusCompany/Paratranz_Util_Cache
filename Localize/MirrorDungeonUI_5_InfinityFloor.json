@@ -1,0 +1,87 @@
+[
+  {
+    "key": "InfinityFloor_CheckEnter_Modal_Title-content",
+    "original": "평행중첩 모드",
+    "context": "EN :\nParallel Superposition Mode\nJP :\n並行重畳モード"
+  },
+  {
+    "key": "InfinityFloor_CheckEnter_Modal_Desc-content",
+    "original": "평행중첩 모드를 적용할 수 있습니다.\n\n평행중첩 모드를 적용하여 다음 층으로 이동하시겠습니까?",
+    "context": "EN :\nYou can enter the Parallel Superposition Mode.\n\nEnter the Parallel Superposition Mode and proceed to the next floor?\nJP :\n並行重畳モードを適用できます。\n\n並行重畳モードを適用して、次の階層に移動しますか？"
+  },
+  {
+    "key": "InfinityFloor_Mode_Button_Title-content",
+    "original": "평행중첩 모드 : ",
+    "context": "EN :\nParallel Superposition Mode : \nJP :\n並行重畳モード : "
+  },
+  {
+    "key": "InfinityFloor_Mode_Button_Title_forProgressPopup-content",
+    "original": "평행중첩",
+    "context": "EN :\nParallel S.\nJP :\n並行重畳"
+  },
+  {
+    "key": "mirror_dungeon_infinity_difficulty-content",
+    "original": "infinity",
+    "context": "EN :\ninfinity\nJP :\ninfinity"
+  },
+  {
+    "key": "mirror_dungeon_achievement_panel_title-content",
+    "original": "업적",
+    "context": "EN :\nAchievements\nJP :\nアチーブメント"
+  },
+  {
+    "key": "mirror_dungeon_achievement_reward_title-content",
+    "original": "보상 목록",
+    "context": "EN :\nRewards List\nJP :\n報酬リスト"
+  },
+  {
+    "key": "mirror_dungeon_achievement_list_title-content",
+    "original": "업적 목록",
+    "context": "EN :\nAchievements List\nJP :\nアチーブメントリスト"
+  },
+  {
+    "key": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_COLLECTION-content",
+    "original": "수집",
+    "context": "EN :\nCollection\nJP :\n収集"
+  },
+  {
+    "key": "mirrordungeon_mission_category_title_MIRROR_DUNGEON5_CLEAR-content",
+    "original": "클리어",
+    "context": "EN :\nClears\nJP :\nクリア"
+  },
+  {
+    "key": "mirrordungeon_mission_date-content",
+    "original": "거울 던전 6 업데이트 전까지 보상을 수령할 수 있습니다.",
+    "context": "EN :\nThe rewards can be claimed until before the Mirror Dungeon #6 Update.\nJP :\n鏡ダンジョン6アップデートまで報酬を受け取ることがで来ます。"
+  },
+  {
+    "key": "mirrordungeon_infinityFloor_Entrance_ThemeSelectPanel-content",
+    "original": "평행중첩 모드 활성화",
+    "context": "EN :\nParallel Superposition Engaged\nJP :\n並行重畳モード 活性化"
+  },
+  {
+    "key": "mirrordungeon_mission_clear_condition-content",
+    "original": "※ 보상 수령 창에서 엔케팔린 모듈을 소모한 경우에만 클리어한 것으로 간주됩니다.",
+    "context": "EN :\n※ Mirror Dungeon floors are counted as 'cleared' only when the player consumed Enkephalin Modules in the Reward Claim window.\nJP :\n※報酬受領ウィンドウにてエンケファリンモジュールを消耗した場合にのみ、クリアしたものとみなされます。"
+  },
+  {
+    "key": "mirrordungeon_infinity_open_condition-content",
+    "original": "6장 클리어",
+    "context": "EN :\nClear Canto VI\nJP :\n6章クリア"
+  },
+  {
+    "key": "InfinityFloor_Mode_Button_Notie-content",
+    "original": "※ 모든 층을 하드 난이도로 클리어 시, 적용됩니다.",
+    "context": "EN :\n※ Clear every Floor of your run in Hard difficulty to enter.\nJP :\n※ 全ての階層をハードでクリア時、適用されます。"
+  },
+  {
+    "key": "IsOnInfinityMod-content",
+    "original": "ON",
+    "context": "EN :\nON\nJP :\nON"
+  },
+  {
+    "key": "IsOFFInfinityMod-content",
+    "original": "OFF",
+    "context": "EN :\nOFF\nJP :\nOFF"
+  }
+]

@@ -708,5 +708,85 @@
     "key": "TutoMD05_P14_D4-content",
     "original": "단, 주간 추가 보상 기회를 한 번에 사용하는 것보다는 한 번에 1회씩 사용하는 것이 소모한 엔케팔린 대비 보상 효율이 제일 높습니다.",
     "context": "EN :\nHowever, it is more enkephalin-efficient to use 1 Weekly Bonus at a time rather than to use them all at once.\nJP :\nただし、ウィークリー追加報酬を一括で使用するよりかは、1度に1回ずつ使用する方が消耗エンケファリン効率が高くなります。"
+  },
+  {
+    "key": "TutoMD05_P15_T1-content",
+    "original": "업적",
+    "context": "EN :\nAchievements\nJP :\nアチーブメント"
+  },
+  {
+    "key": "TutoMD05_P15_D1-content",
+    "original": "꿈결의 거울 업적을 확인할 수 있습니다.",
+    "context": "EN :\nYou can view the Achievements for The Mirror of the Dreaming here.\nJP :\n夢心地の鏡のアチーブメントを確認できます。"
+  },
+  {
+    "key": "TutoMD05_P16_T1-content",
+    "original": "업적 목록",
+    "context": "EN :\nAchievements List\nJP :\nアチーブメントリスト"
+  },
+  {
+    "key": "TutoMD05_P16_D1-content",
+    "original": "달성 시 업적 진행도를 얻을 수 있는 업적 목록입니다.",
+    "context": "EN :\nComplete these Achievements to raise your Achievements progress.\nJP :\n達成時、アチーブメント進行度を得られるアチーブメント一覧です。"
+  },
+  {
+    "key": "TutoMD05_P16_D2-content",
+    "original": "보상 수령 창에서 엔케팔린 모듈을 소모한 경우에만 클리어한 것으로 적용됩니다.\n\n클리어를 조건으로 하는 업적을 도전하실 때 이를 참고해주시기 바랍니다.",
+    "context": "EN :\nAchievements that require the player to 'clear' the Mirror Dungeon count only when the Enkephalin Modules have been consumed at the reward claim window.\n\nPlease note this information before attempting to complete an Achievement tied to clearing the Mirror Dungeon.\nJP :\n報酬受け取りウィンドウにて、エンケファリンモジュールを消耗した場合にのみクリアしたものとみなされます。クリアを条件とするアチーブメントに挑戦なさる場合はご注意ください。"
+  },
+  {
+    "key": "TutoMD05_P17_T1-content",
+    "original": "보상 목록",
+    "context": "EN :\nRewards List\nJP :\n報酬リスト"
+  },
+  {
+    "key": "TutoMD05_P17_D1-content",
+    "original": "업적 진행도에 따라 각종 보상을 획득할 수 있습니다.",
+    "context": "EN :\nReceive various rewards by raising your Achievements progress bar.\nJP :\nアチーブメント進行度によって各種報酬が獲得できます。"
+  },
+  {
+    "key": "TutoMD05_P18_T1-content",
+    "original": "평행중첩 모드",
+    "context": "EN :\nParallel Superposition Mode\nJP :\n並行重畳モード"
+  },
+  {
+    "key": "TutoMD05_P18_D1-content",
+    "original": "평행중첩 모드 적용 시, 거울 던전을 최대 10층까지 도전할 수 있습니다.",
+    "context": "EN :\nEngage the Parallel Superposition Mode to extend the Mirror Dungeon up to 10 Floors.\nJP :\n並行重畳モードを適用すると、鏡ダンジョンを最大10階層まで挑戦できます。"
+  },
+  {
+    "key": "TutoMD05_P18_D2-content",
+    "original": "평행중첩 모드는 도전 또는 업적 달성을 위한 모드이며, 5층 클리어 기준으로 별도로 보상이 증가하지는 않으니 참고해주시기 바랍니다.",
+    "context": "EN :\nPlease note that Parallel Superposition Mode is solely for Achievements, and does not yield additional rewards on its own past Floor 5.\nJP :\n並行重畳モードは挑戦またはアチーブメント達成のモードであり、5階層クリア基準から別途報酬が増加しませんのでご注意ください。"
+  },
+  {
+    "key": "TutoMD05_P19_D1-content",
+    "original": "거울 던전 입장화면 또는 던전 진행도 창에서 평행중첩 모드 활성화 여부를 언제든지 선택할 수 있습니다.",
+    "context": "EN :\nYou can choose at any time to engage the Parallel Superposition Mode at the Mirror Dungeon entrance and the Dungeon Progress window.\nJP :\n鏡ダンジョン入場画面またはダンジョン進行度ウィンドウから、並行重畳モードの活性化状況をいつでも選択できます。"
+  },
+  {
+    "key": "TutoMD05_P19_D2-content",
+    "original": "단, 평행중첩 모드를 적용하기 위해서는 5층까지의 모든 테마팩을 하드 난이도로 클리어해야 합니다.",
+    "context": "EN :\nHowever, in order to enter the Parallel Superposition Mode, you had to have finished every Floor Theme Pack up to Floor 5 of that run in Hard difficulty.\nJP :\nただし、並行重畳モードを適用するには5階層までの全てのテーマパックをハードでクリアする必要があります。"
+  },
+  {
+    "key": "TutoMD05_P20_D1-content",
+    "original": "평행중첩 모드를 활성화한 상태에서 5층 클리어 시, 평행중첩 모드 적용 여부를 묻는 창이 등장합니다.",
+    "context": "EN :\nClear Floor 5 while the Parallel Superposition Mode is engaged, and a prompt will appear asking if you would like to enter the Parallel Superposition Mode.\nJP :\n並行重畳モードを活性化した状態で5階層クリア時、並行重畳モードの適用についてのウィンドウが表示されます。"
+  },
+  {
+    "key": "TutoMD05_P20_D2-content",
+    "original": "확인 선택 시, 평행중첩 모드가 적용되어 6층으로 진입할 수 있습니다.",
+    "context": "EN :\nConfirm to enter Parallel Superposition Mode and move up to Floor 6.\nJP :\n確認を選択すると、並行重畳モードが適用されて6階層へ進入できます。"
+  },
+  {
+    "key": "TutoMD05_P20_D3-content",
+    "original": "5층 클리어 이후에는 실패 혹은 중도 포기하더라도 5층 클리어 보상을 획득할 수 있으니 참고하시기 바랍니다.",
+    "context": "EN :\nPlease note that failing or exiting the Mirror Dungeon at any point past Floor 5 will still yield full Floor 5 Clear Rewards.\nJP :\n5階層クリア後には失敗または途中でギブアップしても5階層のクリア報酬が獲得できます。"
+  },
+  {
+    "key": "TutoMD05_P20_P1-content",
+    "original": "25. 02. 27 (KST) 업데이트 추가",
+    "context": "EN :\nAdded with the Feb 27th, 2025 (KST) Scheduled Update\nJP :\n25. 02. 27 (KST)アップデート追加"
   }
 ]

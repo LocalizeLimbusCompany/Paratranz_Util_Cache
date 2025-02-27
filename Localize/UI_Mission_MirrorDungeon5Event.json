@@ -1,0 +1,137 @@
+[
+  {
+    "key": "mission_ui_condition_tags_201001001-content",
+    "original": "E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {1} or higher with {0}+ E.G.O Gifts\nJP :\nE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001002-content",
+    "original": "화상 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {1} or higher with {0}+ Burn E.G.O Gifts\nJP :\n火傷キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001003-content",
+    "original": "출혈 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {1} or higher with {0}+ Bleed E.G.O Gifts\nJP :\n出血キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001004-content",
+    "original": "진동 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {1} or higher with {0}+ Tremor E.G.O Gifts\nJP :\n振動キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001005-content",
+    "original": "파열 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {1} or higher with {0}+ Rupture E.G.O Gifts\nJP :\n破裂キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001006-content",
+    "original": "침잠 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {1} or higher with {0}+ Sinking E.G.O Gifts\nJP :\n沈潜キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001007-content",
+    "original": "호흡 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {1} or higher with {0}+ Poise E.G.O Gifts\nJP :\n呼吸キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001008-content",
+    "original": "충전 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {1} or higher with {0}+ Charge E.G.O Gifts\nJP :\n充電キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001009-content",
+    "original": "참격 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {1} or higher with {0}+ Slash E.G.O Gifts\nJP :\n斬撃キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001010-content",
+    "original": "관통 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {1} or higher with {0}+ Pierce E.G.O Gifts\nJP :\n貫通キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001011-content",
+    "original": "타격 키워드 E.G.O 기프트를 {0}개 이상 보유하고 거울 던전 {1}층 이상 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {1} or higher with {0}+ Blunt E.G.O Gifts\nJP :\n打撃キーワードE.G.Oギフトを{0}個以上保有して、鏡ダンジョンを{1}階層以上クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001012-content",
+    "original": "{0}티어 E.G.O 기프트를 {1}개 이상 보유하고 거울 던전 {2}층 이상 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {2} or higher with {1}+ Tier {0} or higher E.G.O Gifts\nJP :\n{0}ティアE.G.Oギフトを{1}個以上保有して、鏡ダンジョンを{2}階層以上クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001013-content",
+    "original": "{0}티어 E.G.O 기프트를 보유하고 거울 던전 {1}층 이상 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {1} or higher with Tier {0} E.G.O Gift(s)\nJP :\n{0}ティアE.G.Oギフトを保有して、鏡ダンジョンを{1}階層以上クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001014-content",
+    "original": "특정 조합식을 통한 합성으로만 획득 가능한 {0}티어 E.G.O 기프트를 {1}개 이상 보유하고 거울 던전 {2}층 이상 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {2} or higher with {1}+ Fusion Recipe-only Tier {0} E.G.O Gifts\nJP :\n特定の調合式による合成にのみ獲得可能な{0}ティアE.G.Oギフトを{1}個以上保有して、鏡ダンジョンを{2}階層以上クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001015-content",
+    "original": "E.G.O 기프트 기록집의 화상 E.G.O 기프트 {0}개 해금",
+    "context": "EN :\nUnlock {0} Burn E.G.O Gifts in the E.G.O Gift Compendium\nJP :\nE.G.Oギフト記録集の火傷E.G.Oギフトを{0}個解禁"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001016-content",
+    "original": "E.G.O 기프트 기록집의 출혈 E.G.O 기프트 {0}개 해금",
+    "context": "EN :\nUnlock {0} Bleed E.G.O Gifts in the E.G.O Gift Compendium\nJP :\nE.G.Oギフト記録集の出血E.G.Oギフトを{0}個解禁"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001017-content",
+    "original": "E.G.O 기프트 기록집의 진동 E.G.O 기프트 {0}개 해금",
+    "context": "EN :\nUnlock {0} Tremor E.G.O Gifts in the E.G.O Gift Compendium\nJP :\nE.G.Oギフト記録集の振動E.G.Oギフトを{0}個解禁"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001018-content",
+    "original": "E.G.O 기프트 기록집의 파열 E.G.O 기프트 {0}개 해금",
+    "context": "EN :\nUnlock {0} Rupture E.G.O Gifts in the E.G.O Gift Compendium\nJP :\nE.G.Oギフト記録集の破裂E.G.Oギフトを{0}個解禁"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001019-content",
+    "original": "E.G.O 기프트 기록집의 침잠 E.G.O 기프트 {0}개 해금",
+    "context": "EN :\nUnlock {0} Sinking E.G.O Gifts in the E.G.O Gift Compendium\nJP :\nE.G.Oギフト記録集の沈潜E.G.Oギフトを{0}個解禁"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001020-content",
+    "original": "E.G.O 기프트 기록집의 호흡 E.G.O 기프트 {0}개 해금",
+    "context": "EN :\nUnlock {0} Poise E.G.O Gifts in the E.G.O Gift Compendium\nJP :\nE.G.Oギフト記録集の呼吸E.G.Oギフトを{0}個解禁"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001021-content",
+    "original": "E.G.O 기프트 기록집의 충전 E.G.O 기프트 {0}개 해금",
+    "context": "EN :\nUnlock {0} Charge E.G.O Gifts in the E.G.O Gift Compendium\nJP :\nE.G.Oギフト記録集の充電E.G.Oギフトを{0}個解禁"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001022-content",
+    "original": "E.G.O 기프트 기록집의 E.G.O 기프트 {0}개 해금",
+    "context": "EN :\nUnlock {0} E.G.O Gifts in the E.G.O Gift Compendium\nJP :\nE.G.Oギフト記録集のE.G.Oギフトを{0}個解禁"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001023-content",
+    "original": "테마팩 {0}개 이상 해금 (노말)",
+    "context": "EN :\nUnlock {0}+ Theme Packs (NORMAL)\nJP :\nテーマパックを{0}個以上解禁(ノーマル)"
+  },
+  {
+    "key": "mission_ui_condition_tags_201001024-content",
+    "original": "테마팩 {0}개 이상 해금 (하드)",
+    "context": "EN :\nUnlock {0}+ Theme Packs (HARD)\nJP :\nテーマパックを{0}個以上解禁(ハード)"
+  },
+  {
+    "key": "mission_ui_condition_tags_201002001-content",
+    "original": "거울 던전 {0}층 이상 {1}회 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {0} or higher {1} time(s)\nJP :\n鏡ダンジョンを{0}階層以上{1}回クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201002002-content",
+    "original": "거울 던전의 모든 층을 하드 난이도로 {0}층 이상 {1}회 클리어",
+    "context": "EN :\nClear Mirror Dungeon at Floor {0} or higher {1} time(s) - every floor has to be in Hard Difficulty\nJP :\n鏡ダンジョンの全階層をハード難易度で{0}階層以上{1}回クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201002003-content",
+    "original": "거울 던전 {0}층 클리어",
+    "context": "EN :\nClear Mirror Dungeon Floor {0}\nJP :\n鏡ダンジョンを{0}階層クリア"
+  }
+]

@@ -633,5 +633,205 @@
     "key": "992239-content",
     "original": "받는 피해량 -25%, 가하는 피해량 +25%",
     "context": "EN :\nDamage Taken -25%, Damage Dealt +25%\nJP :\n被ダメージ量 -25%, 与ダメージ量 +25%"
+  },
+  {
+    "key": "992241-content",
+    "original": "공격 레벨 +4, 최대 체력 +10%, 가하는 피해량 +5%",
+    "context": "EN :\nOffense Level +4, Max HP +10%, Damage Dealt +5%\nJP :\n攻撃レベル +4, 体力最大値 +10%, 与ダメージ量 +5%"
+  },
+  {
+    "key": "992242-content",
+    "original": "공격 레벨 +3, 방어 레벨 +3, 최대 체력 +7.5%, 가하는 피해량 +5%",
+    "context": "EN :\nOffense Level +3, Defense Level +3, Max HP +7.5%, Damage Dealt +5%\nJP :\n攻撃レベル +3, 防御レベル +3, 最大体力 +7.5%, 与ダメージ量 +5％"
+  },
+  {
+    "key": "992243-content",
+    "original": "공격 레벨 +4, 방어 레벨 +2, 최대 체력 +5%, 가하는 피해량 +5%",
+    "context": "EN :\nOffense Level +4, Defense Level +2, Max HP +5%, Damage Dealt +5%\nJP :\n攻撃レベル +4, 防御レベル +2, 最大体力 +5%, 与ダメージ量 +5％"
+  },
+  {
+    "key": "992244-content",
+    "original": "공격 레벨 +1, 최대 체력 +25%, 가하는 피해량 +5%",
+    "context": "EN :\nOffense Level +1, Max HP +25%, Damage Dealt +5%\nJP :\n攻撃レベル +1, 体力最大値 +25%, 与ダメージ量 +5%"
+  },
+  {
+    "key": "992245-content",
+    "original": "합 위력 +1, 공격 레벨 +1, 최대 체력 +10%, 가하는 피해량 +5%",
+    "context": "EN :\nClash Power +1, Offense Level +1, Max HP +10%, Damage Dealt +5%\nJP :\nマッチ威力 +1, 攻撃レベル +1, 最大体力 +10%, 与ダメージ量 +5％"
+  },
+  {
+    "key": "992246-content",
+    "original": "최종 위력 +1, 공격 레벨 +1, 최대 체력 +7.5%, 가하는 피해량 +5%",
+    "context": "EN :\nFinal Power +1, Offense Level +1, Max HP +7.5%, Damage Dealt +5%\nJP :\n最終威力 +1, 攻撃レベル +1, 最大体力 +7.5%, 与ダメージ量 +5％"
+  },
+  {
+    "key": "992247-content",
+    "original": "기본 위력 +1, 공격 레벨 +1, 최대 체력 +5%, 가하는 피해량 +5%",
+    "context": "EN :\nBase Power +1, Offense Level +1, Max HP +5%, Damage Dealt +5%\nJP :\n基本威力 +1, 攻撃レベル +1, 最大体力 +5%, 与ダメージ量 +5％"
+  },
+  {
+    "key": "992248-content",
+    "original": "더하기 코인 위력 +1, 빼기 코인 위력 -1, 가하는 피해량 +5%",
+    "context": "EN :\nPlus Coin Power +1, Minus Coin Power -1, Damage Dealt +5%\nJP :\n加算コイン威力 +1, 減算コイン威力 -1, 与ダメージ量 +5%"
+  },
+  {
+    "key": "992251-content",
+    "original": "공격 레벨 +5, 최대 체력 +10%, 가하는 피해량 +5%",
+    "context": "EN :\nOffense Level +5, Max HP +10%, Damage Dealt +5%\nJP :\n攻撃レベル +5, 体力最大値 +10%, 与ダメージ量 +5%"
+  },
+  {
+    "key": "992252-content",
+    "original": "공격 레벨 +2, 방어 레벨 +6, 최대 체력 +10%, 가하는 피해량 +5%",
+    "context": "EN :\nOffense Level +2, Defense Level +6, Max HP +10%, Damage Dealt +5%\nJP :\n攻撃レベル +2, 防御レベル +6, 最大体力 +10%, 与ダメージ量 +5％"
+  },
+  {
+    "key": "992253-content",
+    "original": "공격 레벨 +5, 방어 레벨 +2, 최대 체력 +5%, 가하는 피해량 +5%",
+    "context": "EN :\nOffense Level +5, Defense Level +2, Max HP +5%, Damage Dealt +5%\nJP :\n攻撃レベル +5, 防御レベル +2, 最大体力 +5%, 与ダメージ量 +5％"
+  },
+  {
+    "key": "992254-content",
+    "original": "공격 레벨 +2, 최대 체력 +25%, 가하는 피해량 +5%",
+    "context": "EN :\nOffense Level +2, Max HP +25%, Damage Dealt +5%\nJP :\n攻撃レベル +2, 体力最大値 +25%, 与ダメージ量 +5%"
+  },
+  {
+    "key": "992255-content",
+    "original": "합 위력 +1, 공격 레벨 +2, 최대 체력 +10%, 가하는 피해량 +5%",
+    "context": "EN :\nClash Power +1, Offense Level +2, Max HP +10%, Damage Dealt +5%\nJP :\nマッチ威力 +1, 攻撃レベル +2, 最大体力 +10%, 与ダメージ量 +5％"
+  },
+  {
+    "key": "992256-content",
+    "original": "최종 위력 +1, 공격 레벨 +2, 최대 체력 +7.5%, 가하는 피해량 +5%",
+    "context": "EN :\nFinal Power +1, Offense Level +2, Max HP +7.5%, Damage Dealt +5%\nJP :\n最終威力 +1, 攻撃レベル +2, 最大体力 +7.5%, 与ダメージ量 +5％"
+  },
+  {
+    "key": "992257-content",
+    "original": "기본 위력 +1, 공격 레벨 +2, 최대 체력 +5%, 가하는 피해량 +5%",
+    "context": "EN :\nBase Power +1, Offense Level +2, Max HP +5%, Damage Dealt +5%\nJP :\n基本威力 +1, 攻撃レベル +2, 最大体力 +5%, 与ダメージ量 +5％"
+  },
+  {
+    "key": "992258-content",
+    "original": "더하기 코인 위력 +1, 빼기 코인 위력 -1, 가하는 피해량 +5%",
+    "context": "EN :\nPlus Coin Power +1, Minus Coin Power -1, Damage Dealt +5%\nJP :\n加算コイン威力 +1, 減算コイン威力 -1, 与ダメージ量 +5%"
+  },
+  {
+    "key": "992261-content",
+    "original": "공격 레벨 +5, 최대 체력 +20%, 가하는 피해량 +7.5%",
+    "context": "EN :\nOffense Level +5, Max HP +20%, Damage Dealt +7.5%\nJP :\n攻撃レベル +5, 体力最大値 +20%, 与ダメージ量 +7.5%"
+  },
+  {
+    "key": "992262-content",
+    "original": "공격 레벨 +2, 방어 레벨 +6, 최대 체력 +20%, 가하는 피해량 +7.5%",
+    "context": "EN :\nOffense Level +2, Defense Level +6, Max HP +20%, Damage Dealt +7.5%\nJP :\n攻撃レベル +2, 防御レベル +6, 最大体力 +20%, 与ダメージ量 +7.5％"
+  },
+  {
+    "key": "992263-content",
+    "original": "공격 레벨 +5, 방어 레벨 +2, 최대 체력 +15%, 가하는 피해량 +7.5%",
+    "context": "EN :\nOffense Level +5, Defense Level +2, Max HP +15%, Damage Dealt +7.5%\nJP :\n攻撃レベル +5, 防御レベル +2, 最大体力 +15%, 与ダメージ量 +7.5％"
+  },
+  {
+    "key": "992264-content",
+    "original": "공격 레벨 +2, 최대 체력 +35%, 가하는 피해량 +7.5%",
+    "context": "EN :\nOffense Level +2, Max HP +35%, Damage Dealt +7.5%\nJP :\n攻撃レベル +2, 体力最大値 +35%, 与ダメージ量 +7.5%"
+  },
+  {
+    "key": "992265-content",
+    "original": "합 위력 +1, 공격 레벨 +2, 최대 체력 +20%, 가하는 피해량 +7.5%",
+    "context": "EN :\nClash Power +1, Offense Level +2, Max HP +20%, Damage Dealt +7.5%\nJP :\nマッチ威力 +1, 攻撃レベル +2, 最大体力 +20%, 与ダメージ量 +7.5％"
+  },
+  {
+    "key": "992266-content",
+    "original": "최종 위력 +1, 공격 레벨 +2, 최대 체력 +17.5%, 가하는 피해량 +7.5%",
+    "context": "EN :\nFinal Power +1, Offense Level +2, Max HP +17.5%, Damage Dealt +7.5%\nJP :\n最終威力 +1, 攻撃レベル +2, 最大体力 +17.5%, 与ダメージ量 +7.5％"
+  },
+  {
+    "key": "992267-content",
+    "original": "기본 위력 +1, 공격 레벨 +2, 최대 체력 +15%, 가하는 피해량 +7.5%",
+    "context": "EN :\nBase Power +1, Offense Level +2, Max HP +15%, Damage Dealt +7.5%\nJP :\n基本威力 +1, 攻撃レベル +2, 最大体力 +15%, 与ダメージ量 +7.5％"
+  },
+  {
+    "key": "992268-content",
+    "original": "더하기 코인 위력 +1, 빼기 코인 위력 -1, 가하는 피해량 +7.5%",
+    "context": "EN :\nPlus Coin Power +1, Minus Coin Power -1, Damage Dealt +7.5%\nJP :\n加算コイン威力 +1, 減算コイン威力 -1, 与ダメージ量 +7.5%"
+  },
+  {
+    "key": "992271-content",
+    "original": "공격 레벨 +6, 최대 체력 +30%, 가하는 피해량 +7.5%",
+    "context": "EN :\nOffense Level +6, Max HP +30%, Damage Dealt +7.5%\nJP :\n攻撃レベル +6, 体力最大値 +30%, 与ダメージ量 +7.5%"
+  },
+  {
+    "key": "992272-content",
+    "original": "공격 레벨 +3, 방어 레벨 +6, 최대 체력 +30%, 가하는 피해량 +7.5%",
+    "context": "EN :\nOffense Level +3, Defense Level +6, Max HP +30%, Damage Dealt +7.5%\nJP :\n攻撃レベル +3, 防御レベル +6, 最大体力 +30%, 与ダメージ量 +7.5％"
+  },
+  {
+    "key": "992273-content",
+    "original": "공격 레벨 +5, 방어 레벨 +4, 최대 체력 +22.5%, 가하는 피해량 +7.5%",
+    "context": "EN :\nOffense Level +5, Defense Level +4, Max HP +22.5%, Damage Dealt +7.5%\nJP :\n攻撃レベル +5, 防御レベル +4, 最大体力 +22.5%, 与ダメージ量 +7.5％"
+  },
+  {
+    "key": "992274-content",
+    "original": "공격 레벨 +3, 최대 체력 +45%, 가하는 피해량 +7.5%",
+    "context": "EN :\nOffense Level +3, Max HP +45%, Damage Dealt +7.5%\nJP :\n攻撃レベル +3, 体力最大値 +45%, 与ダメージ量 +7.5%"
+  },
+  {
+    "key": "992275-content",
+    "original": "합 위력 +2, 공격 레벨 +1, 최대 체력 +25%, 가하는 피해량 +7.5%",
+    "context": "EN :\nClash Power +2, Offense Level +1, Max HP +25%, Damage Dealt +7.5%\nJP :\nマッチ威力 +2, 攻撃レベル +1, 最大体力 +25%, 与ダメージ量 +7.5％"
+  },
+  {
+    "key": "992276-content",
+    "original": "최종 위력 +2, 공격 레벨 +1, 최대 체력 +20%, 가하는 피해량 +7.5%",
+    "context": "EN :\nFinal Power +2, Offense Level +1, Max HP +20%, Damage Dealt +7.5%\nJP :\n最終威力 +2, 攻撃レベル +1, 最大体力 +20%, 与ダメージ量 +7.5％"
+  },
+  {
+    "key": "992277-content",
+    "original": "기본 위력 +2, 공격 레벨 +1, 최대 체력 +15%, 가하는 피해량 +7.5%",
+    "context": "EN :\nBase Power +2, Offense Level +1, Max HP +15%, Damage Dealt +7.5%\nJP :\n基本威力 +2, 攻撃レベル +1, 最大体力 +15%, 与ダメージ量 +7.5％"
+  },
+  {
+    "key": "992278-content",
+    "original": "더하기 코인 위력 +2, 빼기 코인 위력 -2, 가하는 피해량 +7.5%",
+    "context": "EN :\nPlus Coin Power +2, Minus Coin Power -2, Damage Dealt +7.5%\nJP :\n加算コイン威力 +2, 減算コイン威力 -2, 与ダメージ量 +7.5%"
+  },
+  {
+    "key": "992281-content",
+    "original": "공격 레벨 +8, 최대 체력 +40%, 가하는 피해량 +10%",
+    "context": "EN :\nOffense Level +8, Max HP +40%, Damage Dealt +10%\nJP :\n攻撃レベル +8, 体力最大値 +40%, 与ダメージ量 +10%"
+  },
+  {
+    "key": "992282-content",
+    "original": "공격 레벨 +3, 방어 레벨 +9, 최대 체력 +40%, 가하는 피해량 +10%",
+    "context": "EN :\nOffense Level +3, Defense Level +9, Max HP +40%, Damage Dealt +10%\nJP :\n攻撃レベル +3, 防御レベル +9, 最大体力 +40%, 与ダメージ量 +10％"
+  },
+  {
+    "key": "992283-content",
+    "original": "공격 레벨 +6, 방어 레벨 +5, 최대 체력 +32.5%, 가하는 피해량 +10%",
+    "context": "EN :\nOffense Level +6, Defense Level +5, Max HP +32.5%, Damage Dealt +10%\nJP :\n攻撃レベル +6, 防御レベル +5, 最大体力 +32.5%, 与ダメージ量 +10％"
+  },
+  {
+    "key": "992284-content",
+    "original": "공격 레벨 +3, 최대 체력 +72.5%, 가하는 피해량 +10%",
+    "context": "EN :\nOffense Level +3, Max HP +72.5%, Damage Dealt +10%\nJP :\n攻撃レベル +3, 体力最大値 +72.5%, 与ダメージ量 +10%"
+  },
+  {
+    "key": "992285-content",
+    "original": "합 위력 +2, 공격 레벨 +2, 최대 체력 +40%, 가하는 피해량 +10%",
+    "context": "EN :\nClash Power +2, Offense Level +2, Max HP +40%, Damage Dealt +10%\nJP :\nマッチ威力 +2, 攻撃レベル +2, 最大体力 +40%, 与ダメージ量 +10％"
+  },
+  {
+    "key": "992286-content",
+    "original": "최종 위력 +2, 공격 레벨 +2, 최대 체력 +35%, 가하는 피해량 +10%",
+    "context": "EN :\nFinal Power +2, Offense Level +2, Max HP +35%, Damage Dealt +10%\nJP :\n最終威力 +2, 攻撃レベル +2, 最大体力 +35%, 与ダメージ量 +10％"
+  },
+  {
+    "key": "992287-content",
+    "original": "기본 위력 +2, 공격 레벨 +2, 최대 체력 +30%, 가하는 피해량 +10%",
+    "context": "EN :\nBase Power +2, Offense Level +2, Max HP +30%, Damage Dealt +10%\nJP :\n基本威力 +2, 攻撃レベル +2, 最大体力 +30%, 与ダメージ量 +10％"
+  },
+  {
+    "key": "992288-content",
+    "original": "더하기 코인 위력 +2, 빼기 코인 위력 -2, 가하는 피해량 +10%",
+    "context": "EN :\nPlus Coin Power +2, Minus Coin Power -2, Damage Dealt +10%\nJP :\n加算コイン威力 +2, 減算コイン威力 -2, 与ダメージ量 +10%"
   }
 ]

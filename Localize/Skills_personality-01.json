@@ -1647,7 +1647,7 @@
   {
     "key": "1011202-levelList$[2].coinlist[2].coindescs[0].desc",
     "original": "대상의 [Combustion]당, 피해량 +<style=\"highlight\">5</style>% (최대  <style=\"highlight\">60</style>%)",
-    "context": "EN :\nDeal +<style=\"highlight\">5</style>% more damage for every [Combustion] on the target (max <style=\"highlight\">60</style>%)\nJP :\n対象の[Combustion]1につき、ダメージ量 +<style=\"highlight\">5</style>%(最大<style=\"highlight\">60</style>%)"
+    "context": "EN :\nDeal +<style=\"highlight\">5</style>% more damage for every [Combustion] on target (max <style=\"highlight\">60</style>%)\nJP :\n対象の[Combustion]1につき、ダメージ量 +<style=\"highlight\">5</style>%(最大<style=\"highlight\">60</style>%)"
   },
   {
     "key": "1011202-levelList$[2].coinlist[2].coindescs[1].desc",

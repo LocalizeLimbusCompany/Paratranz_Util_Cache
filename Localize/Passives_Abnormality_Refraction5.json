@@ -26,7 +26,7 @@
   },
   {
     "key": "863003-desc",
-    "original": "남은 체력이 전체 체력의 75% 이하일 때, 패턴 변경\n패턴 변경 시 옛 G사 부장와 짙어진 패잔병를 소환하고, 현재 체력이 가장 낮은 대상에게 징표 부여.\n- 자신의 속도 최솟값, 최댓값이 1이 됨.\n- 보호막 체력 300을 얻음.",
+    "original": "남은 체력이 전체 체력의 75% 이하일 때, 패턴 변경\n패턴 변경 시 옛 G사 부장과 짙어진 패잔병을 소환하고, 현재 체력이 가장 낮은 대상에게 징표 부여.\n- 자신의 속도 최솟값, 최댓값이 1이 됨.\n- 보호막 체력 300을 얻음.",
     "context": "EN :\nAt 75%- HP, gain a new pattern\nWhen gaining a new pattern, summon G Corp. Head Manager and Downcast Veteran; then, inflict Stigmatized on the target with the least current HP\n- Change Min & Max Speed values on self to 1.\n- Gain 300 Shield HP.\nJP :\n残り体力が全体力の75%以下のとき、パターン変更\nパターン変更時、元G社部長と強烈になった敗残兵を召喚して現体力が最も低い対象にマークを付与。\n- 自分の速度最小・最大値が1になる。\n- バリア体力300を得る。"
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "key": "863309-desc",
-    "original": "이 캐릭터가 등장한지 9턴 경과하면, 다음 턴부터 공격 레벨 증가를 10턴 이상 경과한 턴 당 1씩 얻음 (최대 10)",
+    "original": "이 캐릭터가 등장한지 9턴 경과하면, 다음 턴부터 [AttackUp]를 10턴 이상 경과한 턴 당 1씩 얻음 (최대 10)",
     "context": "EN :\nIf 9 turns have passed since this unit appeared on the field, starting next turn, gain 1 [AttackUp] every turn past the 10th turn (max 10)\nJP :\nこのキャラクターが出現して9ターンが経過すれば、次のターンから10ターン以上経過したターンにつき、[AttackUp]を1ずつ得る(最大10)"
   },
   {
@@ -216,7 +216,7 @@
   },
   {
     "key": "863101-desc",
-    "original": "흉탄의 사수에게 사망 시 다음 턴에 흉탄의 사수에게 신속 1, 공격 위력 증가 1, 피해량 증가 2 부여",
+    "original": "흉탄의 사수에게 사망 시 다음 턴에 흉탄의 사수에게 [Agility] 1, [Enhancement] 1, [AttackDmgUp] 2 부여",
     "context": "EN :\nWhen killed by Der Fluchschütze, apply 1 [Agility], 1 [Enhancement], and 2 [AttackDmgUp] next turn to Der Fluchschütze\nJP :\n凶弾の射手に殺されたとき、次のターンに凶弾の射手へ[Agility]1, [Enhancement]1, [AttackDmgUp]2を付与"
   },
   {

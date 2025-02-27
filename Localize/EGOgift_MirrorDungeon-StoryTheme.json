@@ -332,7 +332,7 @@
   {
     "key": "9433-desc",
     "original": "웨이브 첫 턴 시작 시, 속도가 제일 낮은 적 하나(환상체일 경우, 무작위 부위 하나)를 선택하여 다음 턴부터 5턴 동안 [Binding] 5를 부여.\n\n합 승리 시 대상보다 속도가 높을 경우, 대상과의 속도 차이만큼 정신력을 회복하고 그 수치의 절반만큼 공격 레벨이 증가 (해당 스킬에만 적용되며, 공격 레벨 증가량 최대 3).",
-    "context": "EN :\nFirst Turn Start of a wave: select 1 enemy with the slowest Speed(or a random Abnormality part), and inflict 5 [Binding] for 5 turns starting next turn.\n\nClash Win: If this unit's Speed is faster than the target's, heal SP equal to the Speed difference, and gain 'Offense Level' equal to the half of that Speed difference. (only applies to the Skill used to win the Skill. Max 'Offense Level' gain: 3)\nJP :\nウェーブの1ターン目が開始時、速度が最も低い敵1体(幻想体の場合はランダムな部位1つ)を選択し、次のターンから5ターンの間、[Binding]5を付与。\n\nマッチ勝利時、対象より速度が高いなら、対象との速度差だけ精神力を回復し、その数値の半分だけ攻撃レベルが増加(該当スキルにのみ適用される、最大攻撃レベル増加量 : 3)。"
+    "context": "EN :\nFirst Turn Start of a wave: select 1 enemy with the slowest Speed(or a random Abnormality part), and inflict 5 [Binding] for 5 turns starting next turn.\n\nClash Win: If this unit's Speed is faster than the target's, heal SP equal to the Speed difference, and gain 'Offense Level' equal to the half of that Speed difference. (only applies to the Skill used to win the Clash. Max 'Offense Level' gain: 3)\nJP :\nウェーブの1ターン目が開始時、速度が最も低い敵1体(幻想体の場合はランダムな部位1つ)を選択し、次のターンから5ターンの間、[Binding]5を付与。\n\nマッチ勝利時、対象より速度が高いなら、対象との速度差だけ精神力を回復し、その数値の半分だけ攻撃レベルが増加(該当スキルにのみ適用される、最大攻撃レベル増加量 : 3)。"
   },
   {
     "key": "9433-simpleDesc$[0].simpleDesc",

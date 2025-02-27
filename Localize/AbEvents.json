@@ -182,7 +182,7 @@
   {
     "key": "800203-prevDesc",
     "original": "환상체의 불꽃이 모두를 힘들게 만들고 있어.\n화를 잠재우기 위해선, 역시 무언가를 주어야만 할 것 같아.",
-    "context": "EN :\nThe heat of the Abnormality is wearing everyone down.\nWe’ll have to make an offering to calm its wrath.\nJP :\n幻想体の火花が皆を苦しめている。\n怒りを鎮めるためには、やっぱり何かをあげなきゃいけないみたい。"
+    "context": "EN :\nThe heat of the Abnormality is wearing everyone down.\nWe’ll have to make an offering to calm its wrath.\nJP :\n幻想体の炎が皆を苦しめている。\n怒りを鎮めるためには、やっぱり何かをあげなきゃいけないみたい。"
   },
   {
     "key": "800204-title",
@@ -202,12 +202,12 @@
   {
     "key": "800204-successDesc$[0]",
     "original": "{0} 수감자가 환상체의 불꽃을 식혀주었어.\n불꽃이 자그맣게 사그라들었어.",
-    "context": "EN :\n{0} was able to cool the Abnormality’s fervor.\nThe flame shrunk to a flicker.\nJP :\n囚人{0}が幻想体の火花を冷やしてくれたよ。\n火花が小さくしぼんでいった。"
+    "context": "EN :\n{0} was able to cool the Abnormality’s fervor.\nThe flame shrunk to a flicker.\nJP :\n囚人{0}が幻想体の炎を冷やしてくれたよ。\n炎が小さくしぼんでいった。"
   },
   {
     "key": "800204-failureDesc$[0]",
     "original": "{0} 수감자는 우리의 생각보다 따뜻한 사람이었나 봐.\n환상체는 아까보다 뜨거운 불꽃을 내뿜고 있어.",
-    "context": "EN :\nMaybe {0} was warmer than we thought.\nThe Abnormality’s belching an even fiercer flame now.\nJP :\n囚人{0}が囚人は私たちが思っているより温かい人だったみたい。\n幻想体はさっきより熱い火花を散らしているよ。"
+    "context": "EN :\nMaybe {0} was warmer than we thought.\nThe Abnormality’s belching an even fiercer flame now.\nJP :\n囚人{0}が囚人は私たちが思っているより温かい人だったみたい。\n幻想体はさっきより熱い炎を散らしているよ。"
   },
   {
     "key": "800205-prevDesc",
