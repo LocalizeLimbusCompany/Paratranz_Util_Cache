@@ -613,5 +613,30 @@
     "key": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade-content",
     "original": "22점 이상",
     "context": "EN :\n22+ Points\nJP :\n22点以上"
+  },
+  {
+    "key": "mirrordungeon_start_bonus_personality_title-content",
+    "original": "휴식 보너스 보존 대상",
+    "context": "EN :\nRest Bonus Retention Units\nJP :\n休息ボーナス保存対象"
+  },
+  {
+    "key": "mirrordungeon_start_bonus_personality_desc-content",
+    "original": "휴식 보너스 보존 기간 동안 해당 인격으로 거울 던전 클리어 시 휴식 보너스가 소모되지 않습니다.",
+    "context": "EN :\nFor the retention duration, these units' Rest Bonuses will not be spent upon clearing a Mirror Dungeon run.\nJP :\n休息ボーナス保存期間中、該当人格で鏡ダンジョンクリア時に休息ボーナスが消耗されません。"
+  },
+  {
+    "key": "mirrordungeon_start_bonus_personality_label-content",
+    "original": "적용 대상",
+    "context": "EN :\nAffected Units\nJP :\n適用対象"
+  },
+  {
+    "key": "mirrordungeon_start_bonus_personality_button_label-content",
+    "original": "휴식 보너스 보존 대상",
+    "context": "EN :\nRest Bonus Retention Units\nJP :\n休息ボーナス保存対象"
+  },
+  {
+    "key": "mirrordungeon_start_bonus_personality_period-content",
+    "original": "{0}까지",
+    "context": "EN :\nUntil {0}\nJP :\n{0}まで"
   }
 ]

@@ -3727,7 +3727,7 @@
   {
     "key": "2010421-levelList$[1].desc",
     "original": "[CantIdentify]\n무작위 대상 공격\n\n[BeforeAttack] 충전 횟수를 소모하고 소모한만큼 피해량이 증가함 (최대 <style=\"highlight\">75</style>%)",
-    "context": "EN :\n[CantIdentify]\nTargets a random unit\n\n[BeforeAttack] Spend Charge to deal more damage (Max <style=\"highlight\">75</style>%)\nJP :\n[CantIdentify] \nランダムに対象を攻撃\n\n[BeforeAttack] 充電 回数を消耗し、消耗した分ダメージ量が増加(最大<style=\"highlight\">75</style>%)"
+    "context": "EN :\n[CantIdentify]\nTargets a random unit\n\n[BeforeAttack] Spend Charge Count to deal more damage (Max <style=\"highlight\">75</style>%)\nJP :\n[CantIdentify] \nランダムに対象を攻撃\n\n[BeforeAttack] 充電 回数を消耗し、消耗した分ダメージ量が増加(最大<style=\"highlight\">75</style>%)"
   },
   {
     "key": "2010421-levelList$[1].coinlist[0].coindescs[0].desc",
@@ -3757,7 +3757,7 @@
   {
     "key": "2010421-levelList$[2].desc",
     "original": "[CantIdentify]\n무작위 대상 공격\n\n[BeforeAttack] 충전 횟수를 소모하고 소모한만큼 피해량이 증가함 (최대 75%)<style=\"highlight\"></style>",
-    "context": "EN :\n[CantIdentify]\nTargets a random unit\n\n[BeforeAttack] Spend Charge to deal more damage (Max 75%)<style=\"highlight\"></style>\nJP :\n[CantIdentify] \nランダムに対象を攻撃\n\n[BeforeAttack] 充電 回数を消耗し、消耗した分ダメージ量が増加(最大75%)<style=\"highlight\"></style>"
+    "context": "EN :\n[CantIdentify]\nTargets a random unit\n\n[BeforeAttack] Spend Charge Count to deal more damage (Max 75%)<style=\"highlight\"></style>\nJP :\n[CantIdentify] \nランダムに対象を攻撃\n\n[BeforeAttack] 充電 回数を消耗し、消耗した分ダメージ量が増加(最大75%)<style=\"highlight\"></style>"
   },
   {
     "key": "2010421-levelList$[2].coinlist[0].coindescs[0].desc",

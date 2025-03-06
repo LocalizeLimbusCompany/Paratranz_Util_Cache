@@ -1368,5 +1368,240 @@
     "key": "1031008-levelList$[1].coinlist[1].coindescs[1].desc",
     "original": "[OnSucceedAttack] [Laceration] 횟수 3 증가",
     "context": "EN :\n[OnSucceedAttack] Inflict +3 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が3増加"
+  },
+  {
+    "key": "1031101-levelList$[0].name",
+    "original": "발경",
+    "context": "EN :\nFa Jin\nJP :\n発勁"
+  },
+  {
+    "key": "1031101-levelList$[0].desc",
+    "original": "자신의 속도가 대상보다 3 이상 높으면, 코인 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\nIf this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\nJP :\n自分の速度が対象より3以上高ければ、コイン威力 +1\n[WhenUse] 自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "1031101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttackHead] [Combustion]1を付与"
+  },
+  {
+    "key": "1031101-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttackHead] [Combustion]1を付与"
+  },
+  {
+    "key": "1031101-levelList$[1].name",
+    "original": "발경",
+    "context": "EN :\nFa Jin\nJP :\n発勁"
+  },
+  {
+    "key": "1031101-levelList$[1].desc",
+    "original": "자신의 속도가 대상보다 <style=\"highlight\">2</style> 이상 높으면, 코인 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\nIf this unit's Speed is faster than the target's by <style=\"highlight\">2</style> or more, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\nJP :\n自分の速度が対象より<style=\"highlight\">2</style>以上高ければ、コイン威力 +1\n[WhenUse] 自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "1031101-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack]</style> [Combustion] 1 부여",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack]</style> Inflict 1 [Combustion]\nJP :\n<style=\"highlight\">[OnSucceedAttack]</style> [Combustion]1を付与"
+  },
+  {
+    "key": "1031101-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack]</style> [Combustion] 1 부여",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack]</style> Inflict 1 [Combustion]\nJP :\n<style=\"highlight\">[OnSucceedAttack]</style> [Combustion]1を付与"
+  },
+  {
+    "key": "1031101-levelList$[2].name",
+    "original": "발경",
+    "context": "EN :\nFa Jin\nJP :\n発勁"
+  },
+  {
+    "key": "1031101-levelList$[2].desc",
+    "original": "<style=\"highlight\">자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2당 코인 위력 +1. 최대 2)</style>\n[WhenUse] 자신의 [Breath] 횟수 <style=\"highlight\">3</style> 증가",
+    "context": "EN :\n<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)</style>\n[WhenUse] Gain +<style=\"highlight\">3</style> [Breath] Count\nJP :\n<style=\"highlight\">自分の速度が、対象より高いほどコイン威力 +1(速度差2につきコイン威力 +1, 最大2)</style>\n[WhenUse] 自分の[Breath]回数が<style=\"highlight\">3</style>増加"
+  },
+  {
+    "key": "1031101-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Combustion]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1031101-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Combustion]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1031101-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "<style=\"highlight\">[CriticalOnSucceedAttack] [Combustion] 횟수 1 증가</style>",
+    "context": "EN :\n<style=\"highlight\">[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count</style>\nJP :\n<style=\"highlight\">[CriticalOnSucceedAttack] [Combustion]回数が1増加</style>"
+  },
+  {
+    "key": "1031102-levelList$[0].name",
+    "original": "초염장",
+    "context": "EN :\nVirescent Flame Palm\nJP :\n草炎掌"
+  },
+  {
+    "key": "1031102-levelList$[0].desc",
+    "original": "자신의 속도가 대상보다 3 이상 높으면, 코인 위력 +1\n[WinDuel] [Breath] 3 얻음",
+    "context": "EN :\nIf this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WinDuel] Gain 3 [Breath]\nJP :\n自分の速度が対象より3以上高ければ、コイン威力 +1\n[WinDuel] [Breath]3を得る"
+  },
+  {
+    "key": "1031102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttackHead] Gain +2 [Breath] Count\nJP :\n[OnSucceedAttackHead] 自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "1031102-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttackHead] [Combustion]1を付与"
+  },
+  {
+    "key": "1031102-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1031102-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Combustion] 6당 [DefenseDown] 1 부여 (최대 2, 턴당 1회)",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion] on the target (max 2, once per turn)\nJP :\n[OnSucceedAttack] 対象の[Combustion]6につき[DefenseDown]を1付与(最大2, 1ターンにつき1回)"
+  },
+  {
+    "key": "1031102-levelList$[1].name",
+    "original": "초염장",
+    "context": "EN :\nVirescent Flame Palm\nJP :\n草炎掌"
+  },
+  {
+    "key": "1031102-levelList$[1].desc",
+    "original": "자신의 속도가 대상보다 <style=\"highlight\">2</style> 이상 높으면, 코인 위력 +1\n[WinDuel] [Breath] 3 얻음",
+    "context": "EN :\nIf this unit's Speed is faster than the target's by <style=\"highlight\">2</style> or more, Coin Power +1\n[WinDuel] Gain 3 [Breath]\nJP :\n自分の速度が対象より<style=\"highlight\">2</style>以上高ければ、コイン威力 +1\n[WinDuel] [Breath]3を得る"
+  },
+  {
+    "key": "1031102-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack]</style> 자신의 [Breath] 횟수 2 증가",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack]</style> Gain +2 [Breath] Count\nJP :\n<style=\"highlight\">[OnSucceedAttack]</style> 自分の[Breath]回数が2増加"
+  },
+  {
+    "key": "1031102-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack]</style> [Combustion] 1 부여",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack]</style> Inflict 1 [Combustion]\nJP :\n<style=\"highlight\">[OnSucceedAttack]</style> [Combustion]1を付与"
+  },
+  {
+    "key": "1031102-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Combustion]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1031102-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Combustion] 6당 [DefenseDown] 1 부여 (최대 <style=\"highlight\">3</style>, 턴당 1회)",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion] on the target (max <style=\"highlight\">3</style>, once per turn)\nJP :\n[OnSucceedAttack] 対象の[Combustion]6につき[DefenseDown]を1付与(最大<style=\"highlight\">3</style>, 1ターンにつき1回)"
+  },
+  {
+    "key": "1031102-levelList$[2].name",
+    "original": "초염장",
+    "context": "EN :\nVirescent Flame Palm\nJP :\n草炎掌"
+  },
+  {
+    "key": "1031102-levelList$[2].desc",
+    "original": "<style=\"highlight\">자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2당 코인 위력 +1. 최대 2)</style>\n[WinDuel] [Breath] 3 얻음\n<style=\"highlight\">- 대상의 [DianxueDonQuixote]만큼 추가로 [Breath] 횟수 증가</style>",
+    "context": "EN :\n<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] Gain 3 [Breath]\n<style=\"highlight\">- Gain additional [Breath] Count equal to [DianxueDonQuixote] on the target</style>\nJP :\n<style=\"highlight\">自分の速度が、対象より高いほどコイン威力 +1(速度差2につきコイン威力 +1, 最大2)</style>\n[WinDuel] [Breath]3を得る\n<style=\"highlight\">- 対象の[DianxueDonQuixote]だけ追加で[Breath]回数が増加</style>"
+  },
+  {
+    "key": "1031102-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 자신의 [Breath] 횟수 2 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Gain +2 [Breath] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の[Breath]回数が2増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1031102-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] <style=\"highlight\">2</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]<style=\"highlight\">2</style> を付与"
+  },
+  {
+    "key": "1031102-levelList$[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Combustion]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1031102-levelList$[2].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 [Combustion] 6당 [DefenseDown] 1 부여 (최대 <style=\"highlight\">5</style>, 턴당 1회)\n<style=\"highlight\">- 대상의 [DianxueDonQuixote]만큼 [DefenseDown] 추가로 부여</style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion] on the target (max <style=\"highlight\">5</style>, once per turn)\n<style=\"highlight\">- Inflict additional [DefenseDown] equal to [DianxueDonQuixote] on the target</style>\nJP :\n[OnSucceedAttack] 対象の[Combustion]6につき[DefenseDown]を1付与(最大<style=\"highlight\">5</style>, 1ターンにつき1回)\n<style=\"highlight\">- 対象の[DianxueDonQuixote]だけ[DefenseDown]を追加で付与</style>"
+  },
+  {
+    "key": "1031103-levelList$[0].name",
+    "original": "한 수 부탁드리겠네",
+    "context": "EN :\nPrithee, let this be an enlightening bout\nJP :\n一手頼み申す"
+  },
+  {
+    "key": "1031103-levelList$[0].desc",
+    "original": "대상의 [DianxueDonQuixote] 1당 피해량 +10% (최대 30%)\n자신의 속도가 대상보다 2 이상 높으면, 코인 위력 +1\n[WinDuel] [Breath] 5 얻음\n- 대상에게 [DianxueDonQuixote]가 있으면 추가로 [Breath] 3 얻음",
+    "context": "EN :\nDeal +10% more damage for every 1 [DianxueDonQuixote] on the target (max 30%)\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WinDuel] Gain 5 [Breath]\n- If the target has [DianxueDonQuixote], gain 3 additional [Breath]\nJP :\n対象の[DianxueDonQuixote]1につきダメージ量 +10% (最大30%)\n自分の速度が対象より2以上高ければ、コイン威力 +1\n[WinDuel] [Breath]5を得る\n- 対象に[DianxueDonQuixote]があれば、追加で[Breath]3を得る"
+  },
+  {
+    "key": "1031103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1031103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1031103-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1031103-levelList$[0].coinlist[3].coindescs[0].desc",
+    "original": "크리티컬 피해량 +(자신의 [Breath] + 대상의 [Combustion])% (최대 30%)",
+    "context": "EN :\nDeal +([Breath] on self + [Combustion] on the target)% more damage on Critical Hit (max 30%)\nJP :\nクリティカルダメージ量 +(自分の[Breath] + 対象の[Combustion])% (最大30%)"
+  },
+  {
+    "key": "1031103-levelList$[1].name",
+    "original": "한 수 부탁드리겠네",
+    "context": "EN :\nPrithee, let this be an enlightening bout\nJP :\n一手頼み申す"
+  },
+  {
+    "key": "1031103-levelList$[1].desc",
+    "original": "대상의 [DianxueDonQuixote] 1당 피해량 <style=\"highlight\">+15%</style> (최대 <style=\"highlight\">45%</style>)\n<style=\"highlight\">자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2당 코인 위력 +1. 최대 2)</style>\n[WinDuel] [Breath] 5 얻음\n- 대상에게 [DianxueDonQuixote]가 있으면 추가로 [Breath] 3 얻음",
+    "context": "EN :\nDeal <style=\"highlight\">+15%</style> more damage for every 1 [DianxueDonQuixote] on the target (max <style=\"highlight\">45%</style>)\n<style=\"highlight\">If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)</style>\n[WinDuel] Gain 5 [Breath]\n- If the target has [DianxueDonQuixote], gain 3 additional [Breath]\nJP :\n対象の[DianxueDonQuixote]1につきダメージ量 <style=\"highlight\">+15%</style> (最大<style=\"highlight\">45%</style>)\n<style=\"highlight\">自分の速度が、対象より高いほどコイン威力 +1(速度差2につきコイン威力 +1, 最大2)</style>\n[WinDuel] [Breath]5を得る\n- 対象に[DianxueDonQuixote]があれば、追加で[Breath]3を得る"
+  },
+  {
+    "key": "1031103-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Combustion]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1031103-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Combustion]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1031103-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Combustion]2を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1031103-levelList$[1].coinlist[3].coindescs[0].desc",
+    "original": "크리티컬 피해량 +(자신의 [Breath] + 대상의 [Combustion])% (최대 <style=\"highlight\">50%</style>)",
+    "context": "EN :\nDeal +([Breath] on self + [Combustion] on the target)% more damage on Critical Hit (max <style=\"highlight\">50%</style>)\nJP :\nクリティカルダメージ量 +(自分の[Breath] + 対象の[Combustion])% (最大<style=\"highlight\">50%</style>)"
+  },
+  {
+    "key": "1031103-levelList$[1].coinlist[3].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 대상에게 [DianxueDonQuixote]가 있으면 [DefenseDown] 3 부여</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] If the target has [DianxueDonQuixote], inflict 3 [DefenseDown]</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 対象に[DianxueDonQuixote]があれば、[DefenseDown]3を付与</style>"
+  },
+  {
+    "key": "1031104-levelList$[0].name",
+    "original": "밥상머리 예절부터 배우시게!",
+    "context": "EN :\nThou'rt in dire need of a lesson in table manners!\nJP :\n食卓での礼儀作法から学び直すがよい！"
+  },
+  {
+    "key": "1031104-levelList$[1].name",
+    "original": "밥상머리 예절부터 배우시게!",
+    "context": "EN :\nThou'rt in dire need of a lesson in table manners!\nJP :\n食卓での礼儀作法から学び直すがよい！"
+  },
+  {
+    "key": "1031104-levelList$[1].desc",
+    "original": "<style=\"highlight\">자신의 속도가 공격자보다 높으면, 속도 차이 2당 코인 위력 +1 (최대 2)</style>",
+    "context": "EN :\n<style=\"highlight\">If this unit's Speed is faster than the target's, gain +1 Coin Power for every 2 Speed difference (max 2)</style>\nJP :\n<style=\"highlight\">自分の速度が攻撃者より高ければ、速度差2につきコイン威力 +1 (最大2)</style>"
   }
 ]

@@ -4138,5 +4138,75 @@
     "key": "1011231-desc",
     "original": "정신력이 가장 낮은 아군 2명이 이번 턴에 정신력이 감소한 경우 턴 종료 시 정신력 5 회복\n- 회복 대상이 [Combustion] 위력이나 횟수를 부여하는 기본 스킬을 보유하고 있으면, 대신 5 - 10 회복",
     "context": "EN :\nFor 2 allies with the least SP: if they lost SP this turn, heal 5 SP at Turn End\n- If the said allies have Base Skills that inflict [Combustion] Potency or Count, heal 5~10 SP instead\nJP :\n精神力が最も低い味方2名がこのターンで精神力が減少した場合、ターン終了時に精神力を5回復\n- 回復対象が[Combustion]威力か回数を付与する基本スキルを保有しているなら、代わりに5～10回復"
+  },
+  {
+    "key": "1121102-name",
+    "original": "12구산 특제 공방 연료",
+    "context": "EN :\nDistrict 12 Special Workshop Fuel\nJP :\n12区産特製工房燃料"
+  },
+  {
+    "key": "1121102-desc",
+    "original": "[FirePunchFuel] 100을 가지고 시작\n- 수치가 50 초과면, [FirePunchFuel]로 교체됨\n- 수치가 50 이하면, [FirePunchFuel]가 [FirePunchFuelOverheated]로 교체됨",
+    "context": "EN :\nBegin Encounters with 100 [FirePunchFuel]\n- At over 50 Stack, become [FirePunchFuel]\n- At 50 or less Stack, any [FirePunchFuel] becomes [FirePunchFuelOverheated]\nJP :\n[FirePunchFuel] 100を持って開始\n- 数値が50を超過しているなら、[FirePunchFuel]になる\n- 数値が50以下なら、[FirePunchFuel]が[FirePunchFuelOverheated]になる"
+  },
+  {
+    "key": "1121101-name",
+    "original": "나만 살아남아버렸어...",
+    "context": "EN :\nI'm the only survivor...\nJP :\n俺だけ生き残っちまった…"
+  },
+  {
+    "key": "1121101-desc",
+    "original": "자신이 이번 전투에서 소모한 [FirePunchFuel], [FirePunchFuelOverheated]당 피해량 +0.2% (최대 40%)\n- 메인 타겟이 <혈귀>, <피주머니>거나, 대상의 [Combustion]과 [Combustion] 횟수의 합이 30 이상이면, 대신 피해량 +0.3% (최대 60%)\n\n[FirePunchFuel], [FirePunchFuelOverheated]가 1 이상일 때, [Combustion]이 부여된 적을 흐트러짐 상태로 만들거나 처치하면 [Combustion]이 없거나 [Combustion] 횟수가 가장 낮은 무작위 적 2명의 [Combustion] 횟수 2 증가 (턴 당 1 회)\n- 집중 전투인 경우 부위에 부여",
+    "context": "EN :\nDeal +0.2% more damage for every [FirePunchFuel] and [FirePunchFuelOverheated] this unit consumed in this Encounter (max 40%)\n- If the main target is a <Bloodfiend>, <Bloodbag>, or if their sum of [Combustion] and [Combustion] Count is 30+, deal +0.3% more damage instead (max 60%)\n\nAt 1+ [FirePunchFuel] or [FirePunchFuelOverheated], if this unit Staggers or defeats enemies with [Combustion], inflict +2 [Combustion] Count against 2 random enemies without [Combustion] or with the least [Combustion] Count (once per turn)\n- For Focused Encounters, on Parts\nJP :\n自分がこのターンにて消耗した[FirePunchFuel], [FirePunchFuelOverheated]1につきダメージ量 +0.2% (最大40%)\n- メインターゲットが<血鬼>・<血袋>や、対象の[Combustion]と[Combustion]回数の合計が30以上なら、代わりにダメージ量 +0.3%(最大60%)\n\n[FirePunchFuel], [FirePunchFuelOverheated]が1以上のとき、[Combustion]が付与された敵を混乱状態にするか討伐したなら、[Combustion]が無いか[Combustion]回数が最も低いランダムな敵2名の[Combustion]回数が2増加(1ターンにつき1回)\n- 集中戦闘の場合は部位に付与"
+  },
+  {
+    "key": "1121121-name",
+    "original": "저건 우리 사무소의 복장이길...",
+    "context": "EN :\nI hope they're from our Office...\nJP :\nあれはうちの事務所の制服のはずじゃ…"
+  },
+  {
+    "key": "1121121-desc",
+    "original": "속도가 가장 빠른 인격 1명이 공격 적중 시 대상의 [Combustion] 6 당, 분노 피해량 +5% (최대 20%)",
+    "context": "EN :\n1 ally with the fastest Speed: On Hit, deal +5% more Wrath Damage for every 6 [Combustion] on the target (max 20%)\nJP :\n速度が最も高い味方1名が攻撃的中時、対象の[Combustion]威力6につき憤怒ダメージ量 +5%(最大20%)"
+  },
+  {
+    "key": "1031101-name",
+    "original": "초염옥구",
+    "context": "EN :\nVirescent Pyrojade\nJP :\n草炎玉球"
+  },
+  {
+    "key": "1031101-desc",
+    "original": "턴 종료 시 자신의 [Breath] 위력 5당, 다음 턴에 [Agility] 1 얻음 (최대 2)\n\n기본 공격 스킬로 마지막에 적중한 대상(또는 부위)에게 다음 턴에 [DianxueDonQuixote] 부여 (턴당 1회)\n\n크리티컬 피해량 +(대상의 [Combustion] 위력)% (최대 15%)",
+    "context": "EN :\nTurn End: gain 1 [Agility] next turn for every 5 [Breath] Potency on self (max 2)\n\nAgainst the target(or the Part) a Base Attack Skill hit last, inflict [DianxueDonQuixote] next turn (once per turn)\n\nDeal +([Combustion] Potency on the target)% more damage on Critical Hit (max 15%)\nJP :\nターン終了時、自分の[Breath]威力5につき次のターンにて[Agility]1を得る(最大2)\n\n基本攻撃スキルで最後に的中した対象(または部位)へ次のターンにて[DianxueDonQuixote]を付与(1ターンにつき1回)\n\nクリティカルダメージ量 +(対象の[Combustion]威力)％ (最大15％)"
+  },
+  {
+    "key": "1031111-name",
+    "original": "초염옥구",
+    "context": "EN :\nVirescent Pyrojade\nJP :\n草炎玉球"
+  },
+  {
+    "key": "1031111-desc",
+    "original": "턴 종료 시 자신의 [Breath] 위력 <style=\"highlight\">3</style>당, 다음 턴에 [Agility] 1 얻음 (최대 2)\n\n기본 공격 스킬로 마지막에 적중한 대상(또는 부위)에게 다음 턴에 [DianxueDonQuixote] 부여 (턴당 1회)\n\n크리티컬 피해량 +(대상의 [Combustion] 위력)% (최대 15%)\n<style=\"highlight\">- 대상의 [DianxueDonQuixote] 1당 최댓값 5% 증가</style>",
+    "context": "EN :\nTurn End: gain 1 [Agility] next turn for every <style=\"highlight\">3</style> [Breath] Potency on self (max 2)\n\nAgainst the target(or the Part) a Base Attack Skill hit last, inflict [DianxueDonQuixote] next turn (once per turn)\n\nDeal +([Combustion] Potency on the target)% more damage on Critical Hit (max 15%)\n<style=\"highlight\">- Increase max cap by 5% for every 1 [DianxueDonQuixote] on the target</style>\nJP :\nターン終了時、自分の[Breath]威力<style=\"highlight\">3</style>につき次のターンにて[Agility]1を得る(最大2)\n\n基本攻撃スキルで最後に的中した対象(または部位)へ次のターンにて[DianxueDonQuixote]を付与(1ターンにつき1回)\n\nクリティカルダメージ量 +(対象の[Combustion]威力)％ (最大15％)\n<style=\"highlight\">- 対象の[DianxueDonQuixote]1につき、最大値が5%増加</style>"
+  },
+  {
+    "key": "1031121-name",
+    "original": "경신법",
+    "context": "EN :\nFeatherstride Technique\nJP :\n軽身法"
+  },
+  {
+    "key": "1031121-desc",
+    "original": "속도가 가장 빠른 아군 1명이 [Combustion] 또는 특수 화상을 보유한 적에게 합 승리 시, 다음 턴에 [Agility] 1을 얻음 (턴당 1회)",
+    "context": "EN :\n1 ally with the fastest Speed : On Clash Win against enemies with [Combustion] or 'Unique Burn', gain 1 [Agility] next turn (once per turn)\nJP :\n速度が最も高い味方1名が[Combustion]または特殊火傷を保有した敵にマッチ勝利時、次のターンに[Agility]1を得る(1ターンにつき1回)"
+  },
+  {
+    "key": "1031131-name",
+    "original": "경신법",
+    "context": "EN :\nFeatherstride Technique\nJP :\n軽身法"
+  },
+  {
+    "key": "1031131-desc",
+    "original": "속도가 가장 빠른 아군 1명이 [Combustion] 또는 특수 화상을 보유한 적에게 합 승리 시, 다음 턴에 [Agility] 1을 얻음 (턴당 1회)\n<style=\"highlight\">- 대상의 [Combustion] 위력이 20 이상이면, 신속 1을 추가로 얻음</style>",
+    "context": "EN :\n1 ally with the fastest Speed : On Clash Win against enemies with [Combustion] or 'Unique Burn', gain 1 [Agility] next turn (once per turn)\n<style=\"highlight\">- If the target has 20+ [Combustion] Potency, gain 1 additional [Agility]</style>\nJP :\n速度が最も高い味方1名が[Combustion]または特殊火傷を保有した敵にマッチ勝利時、次のターンに[Agility]1を得る(1ターンにつき1回)\n<style=\"highlight\">- 対象の[Combustion]威力が20以上なら、[Agility]1を追加で得る</style>"
   }
 ]

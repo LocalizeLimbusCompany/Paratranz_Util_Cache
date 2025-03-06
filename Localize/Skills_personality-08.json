@@ -287,7 +287,7 @@
   {
     "key": "1080802-levelList$[1].desc",
     "original": "[WhenUse] 가장 높은 공명의 공명 당 15% 확률로 조작 패널에서 자신의 우측에 위치한 아군에게 이번 턴에 [CoverAttack]을 명령함.\n- 가장 높은 완전 공명의 합이 4 이상이면, 대상에게 피해량 증가 1 부여\n- 오만 완전 공명의 합이 4 이상이면, 오만 위력 증가 1 추가 부여",
-    "context": "EN :\n[WhenUse] Every Reson. of the highest Reson. adds 15% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- At 4+ highest A-Reson., apply 1 'Damage Up' to the ally\n- At 4+ Pride A-Reson., apply 1 additional Pride Power Up\nJP :\n[WhenUse] 最も多い共鳴の共鳴数1につき、15%の確率で操作パネルにて自分の右側に位置する味方へ、このターンにて[CoverAttack]を命令する。\n- 最も多い共鳴数の合計が4以上なら、対象へダメージ量増加 1を付与\n- 傲慢完全共鳴数の合計が4以上なら、傲慢威力増加 1を追加で付与"
+    "context": "EN :\n[WhenUse] Every Reson. of the highest Reson. adds 15% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- At 4+ highest A-Reson., apply 1 Damage Up to the ally\n- At 4+ Pride A-Reson., apply 1 additional Pride Power Up\nJP :\n[WhenUse] 最も多い共鳴の共鳴数1につき、15%の確率で操作パネルにて自分の右側に位置する味方へ、このターンにて[CoverAttack]を命令する。\n- 最も多い共鳴数の合計が4以上なら、対象へダメージ量増加 1を付与\n- 傲慢完全共鳴数の合計が4以上なら、傲慢威力増加 1を追加で付与"
   },
   {
     "key": "1080802-levelList$[1].coinlist[1].coindescs[0].desc",
@@ -307,7 +307,7 @@
   {
     "key": "1080802-levelList$[2].desc",
     "original": "[StartBattle] 조작 패널에서 자신의 양 옆의 아군에게 공격 레벨 증가 3 부여\n[WhenUse] 가장 높은 공명의 공명 당 20% 확률로 조작 패널에서 자신의 우측에 위치한 아군에게 이번 턴에 [CoverAttack]을 명령함.\n- 가장 높은 완전 공명의 합이 4 이상이면, 대상에게 피해량 증가 2 부여\n- 오만 완전 공명의 합이 4 이상이면, 오만 위력 증가 2 추가 부여",
-    "context": "EN :\n[StartBattle] Apply 3 Offense Level Up to 2 allies adjacent to this unit on the Dashboard\n[WhenUse] Every Reson. of the highest Reson. adds 20% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- At 4+ highest A-Reson., apply 2 'Damage Up' to the ally\n- At 4+ Pride A-Reson., apply 2 additional Pride Power Up\nJP :\n[StartBattle] 操作パネルにて、自分の両隣の味方へ攻撃レベル増加 3を付与\n[WhenUse] 最も多い共鳴の共鳴数1につき、20%の確率で操作パネルにて自分の右側に位置する味方へ、このターンにて[CoverAttack]を命令する。\n- 最も多い共鳴数の合計が4以上なら、対象へダメージ量増加 2を付与\n- 傲慢完全共鳴数の合計が4以上なら、傲慢威力増加 2を追加で付与"
+    "context": "EN :\n[StartBattle] Apply 3 Offense Level Up to 2 allies adjacent to this unit on the Dashboard\n[WhenUse] Every Reson. of the highest Reson. adds 20% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- At 4+ highest A-Reson., apply 2 Damage Up to the ally\n- At 4+ Pride A-Reson., apply 2 additional Pride Power Up\nJP :\n[StartBattle] 操作パネルにて、自分の両隣の味方へ攻撃レベル増加 3を付与\n[WhenUse] 最も多い共鳴の共鳴数1につき、20%の確率で操作パネルにて自分の右側に位置する味方へ、このターンにて[CoverAttack]を命令する。\n- 最も多い共鳴数の合計が4以上なら、対象へダメージ量増加 2を付与\n- 傲慢完全共鳴数の合計が4以上なら、傲慢威力増加 2を追加で付与"
   },
   {
     "key": "1080802-levelList$[2].coinlist[1].coindescs[0].desc",

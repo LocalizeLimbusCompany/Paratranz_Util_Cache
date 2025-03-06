@@ -1547,7 +1547,7 @@
   {
     "key": "1011201-levelList$[2].desc",
     "original": "대상의 [Combustion] <style=\"highlight\">3 당</style>, 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n<style=\"highlight\">대상의 [Combustion] 10 당, 피해량 +10% (최대 30%)</style>",
-    "context": "EN :\nCoin Power +1 <style=\"highlight\">for every 3</style> [Combustion] on the target <style=\"highlight\">(max 2)</style>\n<style=\"highlight\">Deal +10% more damage for every 10 [Combustion] on the target (max 30%)</style>\nJP :\n対象の[Combustion]<style=\"highlight\">3につき</style>コイン威力 +1<style=\"highlight\">(最大2)</style>\n<style=\"highlight\">対象の[Combustion]10につき、ダメージ量 +10%(最大30%)</style>"
+    "context": "EN :\n<style=\"highlight\">Coin Power +1 for every 3 [Combustion] on the target (max 2)</style>\n<style=\"highlight\">Deal +10% more damage for every 10 [Combustion] on the target (max 30%)</style>\nJP :\n対象の[Combustion]<style=\"highlight\">3につき</style>コイン威力 +1<style=\"highlight\">(最大2)</style>\n<style=\"highlight\">対象の[Combustion]10につき、ダメージ量 +10%(最大30%)</style>"
   },
   {
     "key": "1011201-levelList$[2].coinlist[0].coindescs[0].desc",
@@ -1697,7 +1697,7 @@
   {
     "key": "1011203-levelList$[1].desc",
     "original": "대상의 [Combustion] 6 <style=\"highlight\">당</style>, 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n대상의 [Combustion] 6 당, 피해량 +10% (최대 30%)\n[EndSkill] 자신을 제외한 정신력이 가장 낮은 아군 1명 정신력 <style=\"highlight\">15</style> 회복\n- 공격 대상을 처치했거나 공격 대상의 [Combustion]이 10 이상이면, 인원 1명 추가",
-    "context": "EN :\nCoin Power +1 <style=\"highlight\">for every</style> 6 [Combustion] on the target <style=\"highlight\">(max 2)</style>\nDeal +10% more damage for every 6 [Combustion] on the target (max 30%)\n[EndSkill] Heal <style=\"highlight\">15</style> SP for 1 other ally with the least SP\n- If this attack killed the target, or if the target had 10+ [Combustion], heal 1 more ally\nJP :\n対象の[Combustion]6<style=\"highlight\">につき</style>、コイン威力 +1<style=\"highlight\">(最大2)</style>\n対象の[Combustion]6につき、ダメージ量 +10% (最大30%)\n[EndSkill] 自分を除く、精神力が最も低い味方1名の精神力が<style=\"highlight\">15</style>回復\n- 攻撃対象を倒すか、攻撃対象の[Combustion]が10以上なら、回復対象が1名追加"
+    "context": "EN :\n<style=\"highlight\">Coin Power +1 for every 6 [Combustion] on the target (max 2)</style>\nDeal +10% more damage for every 6 [Combustion] on the target (max 30%)\n[EndSkill] Heal <style=\"highlight\">15</style> SP for 1 other ally with the least SP\n- If this attack killed the target, or if the target had 10+ [Combustion], heal 1 more ally\nJP :\n対象の[Combustion]6<style=\"highlight\">につき</style>、コイン威力 +1<style=\"highlight\">(最大2)</style>\n対象の[Combustion]6につき、ダメージ量 +10% (最大30%)\n[EndSkill] 自分を除く、精神力が最も低い味方1名の精神力が<style=\"highlight\">15</style>回復\n- 攻撃対象を倒すか、攻撃対象の[Combustion]が10以上なら、回復対象が1名追加"
   },
   {
     "key": "1011203-levelList$[1].coinlist[0].coindescs[0].desc",

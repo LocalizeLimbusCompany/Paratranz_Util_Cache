@@ -422,7 +422,7 @@
   {
     "key": "2100621-levelList$[0].desc",
     "original": "[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 최대 공명 수가 4 이상이면, 공격 가중치 +1\n[BeforeAttack] 다음 턴에 이 스킬 슬롯의 [Aggro] 5 증가",
-    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ highest Reson., Atk Weight +1\n[BeforeAttack] Gain +5 [Aggro] to this Skill Slot next turn\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 最大共鳴数が4以上なら、攻撃加重値 +1\n[BeforeAttack] 次のターンにこのスキルスロットの[Aggro]が5増加"
+    "context": "EN :\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n[BeforeAttack] Gain +5 [Aggro] to this Skill Slot next turn\nJP :\n[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 最大共鳴数が4以上なら、攻撃加重値 +1\n[BeforeAttack] 次のターンにこのスキルスロットの[Aggro]が5増加"
   },
   {
     "key": "2100621-levelList$[0].coinlist[0].coindescs[0].desc",

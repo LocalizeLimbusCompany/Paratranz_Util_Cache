@@ -827,22 +827,22 @@
   {
     "key": "1121001-levelList$[1].desc",
     "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] [Laceration] 10 얻음\n- 자신의 체력이 50% 이상이면, [Laceration] 15 추가로 얻음",
-    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [Laceration]を10得る\n- 自分の体力が50%以上なら、[Laceration]15を追加で得る"
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>\n[WhenUse] [Laceration]を10得る\n- 自分の体力が50%以上なら、[Laceration]15を追加で得る"
   },
   {
     "key": "1121001-levelList$[1].coinlist[0].coindescs[0].desc",
     "original": "[OnSucceedAttack] [Laceration] 1 부여<style=\"highlight\"></style>",
-    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]1を付与"
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]1を付与<style=\"highlight\"></style>"
   },
   {
     "key": "1121001-levelList$[1].coinlist[1].coindescs[0].desc",
     "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
-    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
   },
   {
     "key": "1121001-levelList$[1].coinlist[1].coindescs[1].desc",
     "original": "[OnSucceedAttack] [BloodyHandGregFirst] <style=\"highlight\">2</style> 얻음",
-    "context": "EN :\n[OnSucceedAttack] Gain 2 [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]を2得る"
+    "context": "EN :\n[OnSucceedAttack] Gain <style=\"highlight\">2</style> [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]<style=\"highlight\">2</style>を得る"
   },
   {
     "key": "1121001-levelList$[2].name",
@@ -852,22 +852,22 @@
   {
     "key": "1121001-levelList$[2].desc",
     "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n<style=\"highlight\">[WhenUse] 대상의 [Laceration] 6 당, 코인 위력 +1 (최대 2)</style>\n[WhenUse] [Laceration] 10 얻음\n- 자신의 체력이 50% 이상이면, [Laceration] 15 추가로 얻음\n",
-    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)\n[WhenUse] [Laceration]を10得る\n- 自分の体力が50%以上なら、[Laceration]15を追加で得る"
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n<style=\"highlight\">[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)</style>\n[WhenUse] [Laceration]を10得る\n- 自分の体力が50%以上なら、[Laceration]15を追加で得る"
   },
   {
     "key": "1121001-levelList$[2].coinlist[0].coindescs[0].desc",
     "original": "[OnSucceedAttack] [Laceration] <style=\"highlight\">2</style> 부여",
-    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]<style=\"highlight\">2</style>を付与"
   },
   {
     "key": "1121001-levelList$[2].coinlist[1].coindescs[0].desc",
     "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
-    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
   },
   {
     "key": "1121001-levelList$[2].coinlist[1].coindescs[1].desc",
     "original": "[OnSucceedAttack] [BloodyHandGregFirst] <style=\"highlight\">3</style> 얻음",
-    "context": "EN :\n[OnSucceedAttack] Gain 3 [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]を3得る"
+    "context": "EN :\n[OnSucceedAttack] Gain <style=\"highlight\">3</style> [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]<style=\"highlight\">3</style>を得る"
   },
   {
     "key": "1121002-levelList$[0].name",
@@ -902,22 +902,22 @@
   {
     "key": "1121002-levelList$[1].desc",
     "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n<style=\"highlight\">[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1</style>\n[WhenUse] [Laceration] 10 얻음\n[WhenUse] 자신의 [WornHeartGreg]이 5 이상이면, [BloodDinner]을 최대 60 소모하여, 소모한 [BloodDinner] 6당 [BloodyHandGregFirst] 1 얻음\n- [WornHeartGreg]이 5 미만이면, [Laceration] 10과 [BloodyHandGregFirst] 2 얻음",
-    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 2 [BloodyHandGregFirst]\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [Laceration]10を得る\n[WhenUse] 自分の[WornHeartGreg]が5以上なら、[BloodDinner]を最大60消耗し、消耗した[BloodDinner]6につき[BloodyHandGregFirst]1を得る\n- [WornHeartGreg]が5未満なら、[Laceration]10と[BloodyHandGregFirst]2を得る"
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 2 [BloodyHandGregFirst]\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n<style=\"highlight\">[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1</style>\n[WhenUse] [Laceration]10を得る\n[WhenUse] 自分の[WornHeartGreg]が5以上なら、[BloodDinner]を最大60消耗し、消耗した[BloodDinner]6につき[BloodyHandGregFirst]1を得る\n- [WornHeartGreg]が5未満なら、[Laceration]10と[BloodyHandGregFirst]2を得る"
   },
   {
     "key": "1121002-levelList$[1].coinlist[0].coindescs[0].desc",
     "original": "[OnSucceedAttack] [Laceration] 횟수 <style=\"highlight\">2</style> 증가",
-    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+    "context": "EN :\n[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が<style=\"highlight\">2</style>増加"
   },
   {
     "key": "1121002-levelList$[1].coinlist[1].coindescs[0].desc",
     "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
-    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
   },
   {
     "key": "1121002-levelList$[1].coinlist[1].coindescs[1].desc",
     "original": "[OnSucceedAttack] [BloodyHandGregFirst] <style=\"highlight\">2</style> 얻음",
-    "context": "EN :\n[OnSucceedAttack] Gain 2 [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]を2得る"
+    "context": "EN :\n[OnSucceedAttack] Gain <style=\"highlight\">2</style> [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]<style=\"highlight\">2</style>を得る"
   },
   {
     "key": "1121002-levelList$[2].name",
@@ -927,22 +927,22 @@
   {
     "key": "1121002-levelList$[2].desc",
     "original": "[WhenUse] 다음 턴에 이 스킬 슬롯의 [Aggro] 3 증가\n<style=\"highlight\">[WhenUse] 대상의 [Laceration] 6 당, 코인 위력 +1 (최대 2)</style>\n[WhenUse] [Laceration] 10 얻음\n[WhenUse] 자신의 [WornHeartGreg]이 5 이상이면, [BloodDinner]을 최대 60 소모하여, 소모한 [BloodDinner] 6당 [BloodyHandGregFirst] 1 얻음\n- [WornHeartGreg]이 5 미만이면, [Laceration] 10과 [BloodyHandGregFirst] <style=\"highlight\">3</style> 얻음",
-    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 3 [BloodyHandGregFirst]\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)\n[WhenUse] [Laceration]10を得る\n[WhenUse] 自分の[WornHeartGreg]が5以上なら、[BloodDinner]を最大60消耗し、消耗した[BloodDinner]6につき[BloodyHandGregFirst]1を得る\n- [WornHeartGreg]が5未満なら、[Laceration]10と[BloodyHandGregFirst]3を得る"
+    "context": "EN :\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and <style=\"highlight\">3</style> [BloodyHandGregFirst]\nJP :\n[WhenUse] 次のターンにこのスキルスロットの[Aggro]が3増加\n<style=\"highlight\">[WhenUse] 対象の[Laceration]6につき、コイン威力 +1(最大2)</style>\n[WhenUse] [Laceration]10を得る\n[WhenUse] 自分の[WornHeartGreg]が5以上なら、[BloodDinner]を最大60消耗し、消耗した[BloodDinner]6につき[BloodyHandGregFirst]1を得る\n- [WornHeartGreg]が5未満なら、[Laceration]10と[BloodyHandGregFirst]<style=\"highlight\">3</style>を得る"
   },
   {
     "key": "1121002-levelList$[2].coinlist[0].coindescs[0].desc",
     "original": "[OnSucceedAttack] [Laceration] 횟수 2 증가<style=\"highlight\"></style>",
-    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加<style=\"highlight\"></style>"
   },
   {
     "key": "1121002-levelList$[2].coinlist[1].coindescs[0].desc",
     "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
-    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
   },
   {
     "key": "1121002-levelList$[2].coinlist[1].coindescs[1].desc",
     "original": "[OnSucceedAttack] [BloodyHandGregFirst] <style=\"highlight\">3</style> 얻음",
-    "context": "EN :\n[OnSucceedAttack] Gain 3 [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]を3得る"
+    "context": "EN :\n[OnSucceedAttack] Gain <style=\"highlight\">3</style> [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]<style=\"highlight\">3</style>を得る"
   },
   {
     "key": "1121003-levelList$[0].name",
@@ -987,32 +987,32 @@
   {
     "key": "1121003-levelList$[1].desc",
     "original": "이 스킬에서 적중 시, 입힌 체력 피해량의 50%만큼 체력 회복 (스킬당 최대 100)\n[WhenUse] 자신의 잃은 체력 1%당 피해량 <style=\"highlight\">+ 1.5% (최대 90%)</style>\n[WhenUse] 대상의 [Laceration]이 6 이상이면, 코인 위력 +1\n[WhenUse] [BloodyHandGregFirst]을 10을 초과하는 만큼 소모하여 아래 효과를 얻음\n- (소모한 수치 x 3)만큼 자신의 체력을 회복\n- 소모한 수치가 10 이상이면, 코인 위력 +1\n<style=\"highlight\">- 소모한 수치가 20이면, 이 스킬의 마지막 코인 재사용</style>\n[WhenUse] [Laceration] 10 얻음\n[EndSkill] 최대 체력의 10%만큼 체력 회복",
-    "context": "EN :\nOn Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal +1.5% more damage for every 1% missing HP on self (max 90%)\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n- If this unit consumed 20 Stack, Reuse the final Coin\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self\nJP :\nこのスキルが的中時、与ダメージ量の50%だけ体力を回復(スキルごとに最大100)\n[WhenUse] 自分の失った体力1%につきダメージ量 +1.5%(最大90%)\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [BloodyHandGregFirst]が10を超えた分だけ消耗して下記の効果を得る\n- (消耗数値 × 3)だけ自分の体力を回復\n- 消耗した数値が10以上なら、コイン威力 +1\n- 消耗した数値が20なら、このスキルの最終コインを再使用\n[WhenUse] [Laceration]10を得る\n[EndSkill] 体力最大値の10%だけ体力を回復"
+    "context": "EN :\nOn Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal <style=\"highlight\">+1.5%</style> more damage for every 1% missing HP on self <style=\"highlight\">(max 90%)</style>\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n<style=\"highlight\">- If this unit consumed 20 Stack, Reuse the final Coin</style>\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self\nJP :\nこのスキルが的中時、与ダメージ量の50%だけ体力を回復(スキルごとに最大100)\n[WhenUse] 自分の失った体力1%につきダメージ量 <style=\"highlight\">+1.5%(最大90%)</style>\n[WhenUse] 対象の[Laceration]が6以上なら、コイン威力 +1\n[WhenUse] [BloodyHandGregFirst]が10を超えた分だけ消耗して下記の効果を得る\n- (消耗数値 × 3)だけ自分の体力を回復\n- 消耗した数値が10以上なら、コイン威力 +1\n<style=\"highlight\">- 消耗した数値が20なら、このスキルの最終コインを再使用</style>\n[WhenUse] [Laceration]10を得る\n[EndSkill] 体力最大値の10%だけ体力を回復"
   },
   {
     "key": "1121003-levelList$[1].coinlist[0].coindescs[0].desc",
     "original": "[OnSucceedAttack] [BloodyHandGregFirst] <style=\"highlight\">3</style> 얻음",
-    "context": "EN :\n[OnSucceedAttack] Gain 3 [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]を3得る"
+    "context": "EN :\n[OnSucceedAttack] Gain <style=\"highlight\">3</style> [BloodyHandGregFirst]\nJP :\n[OnSucceedAttack] [BloodyHandGregFirst]<style=\"highlight\">3</style>を得る"
   },
   {
     "key": "1121003-levelList$[1].coinlist[1].coindescs[0].desc",
     "original": "[OnSucceedAttack] [Laceration] 횟수 <style=\"highlight\">2</style> 증가",
-    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が2増加"
+    "context": "EN :\n[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Laceration] Count\nJP :\n[OnSucceedAttack] [Laceration]回数が<style=\"highlight\">2</style>増加"
   },
   {
     "key": "1121003-levelList$[1].coinlist[1].coindescs[1].desc",
     "original": "[OnSucceedAttack] [Burst] 횟수 <style=\"highlight\">2</style> 증가",
-    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+    "context": "EN :\n[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が<style=\"highlight\">2</style>増加"
   },
   {
     "key": "1121003-levelList$[1].coinlist[2].coindescs[0].desc",
     "original": "[OnSucceedAttack] [Laceration] <style=\"highlight\">2</style> 부여",
-    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]2を付与"
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Laceration]\nJP :\n[OnSucceedAttack] [Laceration]<style=\"highlight\">2</style>を付与"
   },
   {
     "key": "1121003-levelList$[1].coinlist[2].coindescs[1].desc",
     "original": "[OnSucceedAttack] [Burst] <style=\"highlight\">2</style> 부여",
-    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Burst]\nJP :\n[OnSucceedAttack] [Burst]<style=\"highlight\">2</style> を付与"
   },
   {
     "key": "1121004-levelList$[0].name",
@@ -1032,6 +1032,236 @@
   {
     "key": "1121004-levelList$[1].desc",
     "original": "<style=\"highlight\">[StartBattle] 자신의 현재 체력이 최대 체력의 40% 이상이면, [Laceration] 5 얻고 자신의 [Laceration] 최대 3회 발동 (턴 당 1회. 발동된 횟수만큼 [Laceration] 횟수 감소)\n[StartBattle] 자신의 현재 체력이 최대 체력의 40% 미만이면, [BloodDinner]을 최대 20 소모하여, 소모한 [BloodDinner]만큼 자신의 체력 회복 (턴 당 1회)</style>\n[StartBattle] [WornHeartGreg] 3 얻음 (턴 당 1회)",
-    "context": "EN :\n[StartBattle] At 40%+ HP, gain 5 [Laceration] and activate [Laceration] up to 3 times on self (once per turn; lose [Laceration] Count equal to the number of times it was activated)\n[StartBattle] At less than 40% HP, consume up to 20 [BloodDinner] and heal the same value as HP (once per turn)\n[StartBattle] Gain 3 [WornHeartGreg] (once per turn)\nJP :\n[StartBattle] 自分の現体力が最大値の40%以上なら、[Laceration]5を得て自分の[Laceration]を最大3回発動(1ターンにつき1回。発動回数だけ[Laceration]回数が減少)\n[StartBattle] 自分の現体力が最大値の40%未満なら、[BloodDinner]を最大20消耗し、消耗した[BloodDinner]だけ自分の体力を回復(1ターンにつき1回)\n[StartBattle] [WornHeartGreg]3を得る(1ターンにつき1回)"
+    "context": "EN :\n<style=\"highlight\">[StartBattle] At 40%+ HP, gain 5 [Laceration] and activate [Laceration] up to 3 times on self (once per turn; lose [Laceration] Count equal to the number of times it was activated)\n[StartBattle] At less than 40% HP, consume up to 20 [BloodDinner] and heal the same value as HP (once per turn)</style>\n[StartBattle] Gain 3 [WornHeartGreg] (once per turn)\nJP :\n<style=\"highlight\">[StartBattle] 自分の現体力が最大値の40%以上なら、[Laceration]5を得て自分の[Laceration]を最大3回発動(1ターンにつき1回。発動回数だけ[Laceration]回数が減少)\n[StartBattle] 自分の現体力が最大値の40%未満なら、[BloodDinner]を最大20消耗し、消耗した[BloodDinner]だけ自分の体力を回復(1ターンにつき1回)</style>\n[StartBattle] [WornHeartGreg]3を得る(1ターンにつき1回)"
+  },
+  {
+    "key": "1121101-levelList$[0].name",
+    "original": "화염방사",
+    "context": "EN :\nFlamethrow\nJP :\n火炎放射"
+  },
+  {
+    "key": "1121101-levelList$[0].desc",
+    "original": "대상의 [Combustion]이 6 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf the target has 6+ [Combustion], Coin Power +1\nJP :\n対象の[Combustion]が6以上ならコイン威力 +1"
+  },
+  {
+    "key": "1121101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1121101-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [FirePunchFuel]를 15 소모하여, [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Consume 15 [FirePunchFuel] and inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [FirePunchFuel]を15消耗し、[Combustion]回数が1増加"
+  },
+  {
+    "key": "1121101-levelList$[1].name",
+    "original": "화염방사",
+    "context": "EN :\nFlamethrow\nJP :\n火炎放射"
+  },
+  {
+    "key": "1121101-levelList$[1].desc",
+    "original": "대상의 [Combustion]이 <style=\"highlight\">3</style> 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf the target has <style=\"highlight\">3</style>+ [Combustion], Coin Power +1\nJP :\n対象の[Combustion]が<style=\"highlight\">3</style>以上ならコイン威力 +1"
+  },
+  {
+    "key": "1121101-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1121101-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [FirePunchFuel]를 15 소모하여, [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Consume 15 [FirePunchFuel] and inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [FirePunchFuel]を15消耗し、[Combustion]回数が1増加"
+  },
+  {
+    "key": "1121101-levelList$[2].name",
+    "original": "화염방사",
+    "context": "EN :\nFlamethrow\nJP :\n火炎放射"
+  },
+  {
+    "key": "1121101-levelList$[2].desc",
+    "original": "대상의 화상 <style=\"highlight\">3 당</style>, 코인 위력 +1 (최대 2)",
+    "context": "EN :\n<style=\"highlight\">Coin Power +1 for every 3 Burn on target (max 2)</style>\nJP :\n対象の火傷<style=\"highlight\">3につき</style>、コイン威力 +1(最大2)"
+  },
+  {
+    "key": "1121101-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] <style=\"highlight\">2</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]<style=\"highlight\">2</style> を付与"
+  },
+  {
+    "key": "1121101-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [FirePunchFuel]를 15 소모하여, [Combustion] 횟수 <style=\"highlight\">2</style> 증가",
+    "context": "EN :\n[OnSucceedAttack] Consume 15 [FirePunchFuel] and inflict +<style=\"highlight\">2</style> [Combustion] Count\nJP :\n[OnSucceedAttack] [FirePunchFuel]を15消耗し、[Combustion]回数が<style=\"highlight\">2</style>増加"
+  },
+  {
+    "key": "1121102-levelList$[0].name",
+    "original": "더러운 피 한방울조차 남지 않게 전부 태워버리겠어",
+    "context": "EN :\nI'll burn away every last drop of your filthy blood\nJP :\n汚れた血一滴すら残さず焼き尽くしてやる"
+  },
+  {
+    "key": "1121102-levelList$[0].desc",
+    "original": "대상의 [Combustion]이 6 이상이면, 코인 위력 +1\n[FirePunchFuelOverheated] 상태면, [FirePunchFuel]를 소모할 때 해당 코인의 피해량 +10%",
+    "context": "EN :\nIf the target has 6+ [Combustion], Coin Power +1\nWhen in [FirePunchFuelOverheated] state, deal +10% more damage with Coins that consumed [FirePunchFuel]\nJP :\n対象の[Combustion]が6以上なら、コイン威力 +1\n[FirePunchFuelOverheated]状態なら[FirePunchFuel]を消耗するとき、該当コインのダメージ量 +10%"
+  },
+  {
+    "key": "1121102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1121102-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [FirePunchFuel]를 10 소모하여, [Combustion] 위력이 가장 낮은 적 2명에게 [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict 1 [Combustion] against 2 enemies with the least [Combustion] Potency\nJP :\n[OnSucceedAttack] [FirePunchFuel]を10消耗し、[Combustion]威力が最も低い敵2名へ[Combustion]1を付与"
+  },
+  {
+    "key": "1121102-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1121102-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [FirePunchFuel]를 10 소모하여, [Combustion] 횟수가 가장 낮은 적 1명에게 [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against 1 enemy with the least [Combustion] Count\nJP :\n[OnSucceedAttack] [FirePunchFuel]を10消耗し、[Combustion]回数が最も低い敵1名の[Combustion]回数が1増加"
+  },
+  {
+    "key": "1121102-levelList$[1].name",
+    "original": "더러운 피 한방울조차 남지 않게 전부 태워버리겠어",
+    "context": "EN :\nI'll burn away every last drop of your filthy blood\nJP :\n汚れた血一滴すら残さず焼き尽くしてやる"
+  },
+  {
+    "key": "1121102-levelList$[1].desc",
+    "original": "대상의 [Combustion]이 6 이상이면, 코인 위력 +1\n[FirePunchFuel]를 소모할 때 해당 코인의 피해량 +10%\n<style=\"highlight\">- [FirePunchFuelOverheated] 상태면, 대신 피해량 +20%로 적용</style>",
+    "context": "EN :\nIf the target has 6+ [Combustion], Coin Power +1\nCoins that consumed [FirePunchFuel] deal +10% more damage\n<style=\"highlight\">- When in [FirePunchFuelOverheated] state, deal +20% more damage instead</style>\nJP :\n対象の[Combustion]が6以上なら、コイン威力 +1\n[FirePunchFuel]を消耗するとき、該当コインのダメージ量 +10％\n<style=\"highlight\">- [FirePunchFuelOverheated]状態なら、代わりにダメージ量 +20%として適用</style>"
+  },
+  {
+    "key": "1121102-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1121102-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [FirePunchFuel]를 10 소모하여, [Combustion] 위력이 가장 낮은 적 2명에게 [Combustion] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict 1 [Combustion] against 2 enemies with the least [Combustion] Potency<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [FirePunchFuel]を10消耗し、[Combustion]威力が最も低い敵2名へ[Combustion]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1121102-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
+  },
+  {
+    "key": "1121102-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [FirePunchFuel]를 10 소모하여, [Combustion] 횟수가 가장 낮은 적 <style=\"highlight\">2</style>명에게 [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against <style=\"highlight\">2 enemies</style> with the least [Combustion] Count\nJP :\n[OnSucceedAttack] [FirePunchFuel]を10消耗し、[Combustion]回数が最も低い敵<style=\"highlight\">2</style>名の[Combustion]回数が1増加"
+  },
+  {
+    "key": "1121102-levelList$[2].name",
+    "original": "더러운 피 한방울조차 남지 않게 전부 태워버리겠어",
+    "context": "EN :\nI'll burn away every last drop of your filthy blood\nJP :\n汚れた血一滴すら残さず焼き尽くしてやる"
+  },
+  {
+    "key": "1121102-levelList$[2].desc",
+    "original": "대상의 [Combustion] 6 <style=\"highlight\">당</style>, 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n[[FirePunchFuel]를 소모할 때 해당 코인의 피해량 +<style=\"highlight\">15</style>%\n- [FirePunchFuelOverheated] 상태면, 대신 피해량 +<style=\"highlight\">30</style>%로 적용",
+    "context": "EN :\n<style=\"highlight\">Coin Power +1 for every 6 [Combustion] on the target (max 2)</style>\nCoins that consumed [FirePunchFuel] deal +<style=\"highlight\">15</style>% more damage\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">30</style>% more damage instead\nJP :\n対象の[Combustion]6<style=\"highlight\">につき</style>、コイン威力 +1 <style=\"highlight\">(最大2)</style>\n[FirePunchFuel]を消耗するとき、該当コインのダメージ量 +<style=\"highlight\">15</style>％\n- [FirePunchFuelOverheated]状態なら、代わりにダメージ量 +<style=\"highlight\">30</style>%として適用"
+  },
+  {
+    "key": "1121102-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]2を付与"
+  },
+  {
+    "key": "1121102-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [FirePunchFuel]를 10 소모하여, [Combustion] 위력이 가장 낮은 적 2명에게 [Combustion] <style=\"highlight\">2</style> 부여",
+    "context": "EN :\n[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict <style=\"highlight\">2</style> [Combustion] against 2 enemies with the least [Combustion] Potency\nJP :\n[OnSucceedAttack] [FirePunchFuel]を10消耗し、[Combustion]威力が最も低い敵2名へ[Combustion]<style=\"highlight\">2</style>を付与"
+  },
+  {
+    "key": "1121102-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 횟수 <style=\"highlight\">2</style> 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict <style=\"highlight\">+2</style> [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が<style=\"highlight\">2</style>増加"
+  },
+  {
+    "key": "1121102-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [FirePunchFuel]를 10 소모하여, [Combustion] 횟수가 가장 낮은 적 2명에게 [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against 2 enemies with the least [Combustion] Count\nJP :\n[OnSucceedAttack] [FirePunchFuel]を10消耗し、[Combustion]回数が最も低い敵2名の[Combustion]回数が1増加"
+  },
+  {
+    "key": "1121103-levelList$[0].name",
+    "original": "불주먹",
+    "context": "EN :\nFirefist\nJP :\n炎拳"
+  },
+  {
+    "key": "1121103-levelList$[0].desc",
+    "original": "대상의 [Combustion] 횟수 3 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Combustion] 6 당, 기본 위력 +1 (최대 2)\n[WhenUse] [FirePunchFuel]를 최대 25까지 소모하여 소모한 [FirePunchFuel]당 피해량 +1% (최대 25%)\n- [FirePunchFuelOverheated] 상태면, 소모한 [FirePunchFuel]당 피해량 +3% (최대 75%)\n[EndSkill] 대상이 사망했거나, 이 스킬에서 [FirePunchFuel]를 소모했다면, 다음 턴에 [HitDamageUp] 1 얻음",
+    "context": "EN :\nIf the target has 3+ [Combustion] Count, Coin Power +1\n[WhenUse] Base Power +1 for every 6 [Combustion] on the target (max 2)\n[WhenUse] Consume up to 25 [FirePunchFuel] and deal +1% more damage for every [FirePunchFuel] consumed (max 25%)\n- When in [FirePunchFuelOverheated] state, deal +3% more damage for every [FirePunchFuel] consumed instead (max 75%)\n[EndSkill] If the target is defeated, or if this Skill consumed [FirePunchFuel], gain 1 [HitDamageUp] next turn\nJP :\n対象の[Combustion]回数が3以上なら、コイン威力 +1\n[WhenUse] 対象の[Combustion]6につき、基本威力 +1 (最大2)\n[WhenUse] [FirePunchFuel]を最大25まで消耗し、消耗した[FirePunchFuel]1につきダメージ量 +1% (最大25%)\n- [FirePunchFuelOverheated]状態なら、消耗した[FirePunchFuel]1につきダメージ +3% (最大75%)\n[EndSkill] 対象が死亡するか、このスキルで[FirePunchFuel]を消耗したなら次のターンに[HitDamageUp]1を得る"
+  },
+  {
+    "key": "1121103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [FirePunchFuel]를 소모했으면, [Combustion] 1 부여, [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] If this unit consumed [FirePunchFuel], inflict 1 [Combustion] and +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [FirePunchFuel]を消耗したなら[Combustion]1を付与、[Combustion]回数が1増加"
+  },
+  {
+    "key": "1121103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [FirePunchFuel]를 소모했으면, [Combustion] 1 부여, [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] If this unit consumed [FirePunchFuel], inflict 1 [Combustion] and +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [FirePunchFuel]を消耗したなら[Combustion]1を付与、[Combustion]回数が1増加"
+  },
+  {
+    "key": "1121103-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 이 스킬에서 소모한 [FirePunchFuel]당, 피해량 +1% (최대 25%)\n- [FirePunchFuelOverheated] 상태면, 소모한 [FirePunchFuel]당 피해량 +3% (최대 75%)",
+    "context": "EN :\n[OnSucceedAttack] Deal +1% more damage for every [FirePunchFuel] consumed by this Skill (max 25%)\n- When in [FirePunchFuelOverheated] state, deal +3% more damage for every [FirePunchFuel] consumed instead (max 75%)\nJP :\n[OnSucceedAttack] このスキルで消耗した[FirePunchFuel]1につき、ダメージ量 +1% (最大25%)\n- [FirePunchFuelOverheated]状態なら、消耗した[FirePunchFuel]1につきダメージ量 +3% (最大75%)"
+  },
+  {
+    "key": "1121103-levelList$[1].name",
+    "original": "불주먹",
+    "context": "EN :\nFirefist\nJP :\n炎拳"
+  },
+  {
+    "key": "1121103-levelList$[1].desc",
+    "original": "대상의 [Combustion] 횟수 3 <style=\"highlight\">당</style>, 코인 위력 +1 <style=\"highlight\">(최대 2)</style>\n[WhenUse] 대상의 [Combustion] 6 당, 기본 위력 +1 (최대 <style=\"highlight\">3</style>)\n[WhenUse] [FirePunchFuel]를 최대 25까지 소모하여 소모한 [FirePunchFuel]당 피해량 +<style=\"highlight\">2</style>% (최대 <style=\"highlight\">50</style>%)\n- [FirePunchFuelOverheated] 상태면, 소모한 [FirePunchFuel]당 피해량 +<style=\"highlight\">4</style>% (최대 <style=\"highlight\">100</style>%)\n[EndSkill] 대상이 사망했거나, 이 스킬에서[FirePunchFuel]를 소모했다면, 다음 턴에 [HitDamageUp] <style=\"highlight\">2</style> 얻음",
+    "context": "EN :\n<style=\"highlight\">Coin Power +1 for every 3 [Combustion] Count on the target (max 2)</style>\n[WhenUse] Base Power +1 for every 6 [Combustion] on the target (max <style=\"highlight\">3</style>)\n[WhenUse] Consume up to 25 [FirePunchFuel] and deal +<style=\"highlight\">2</style>% more damage for every [FirePunchFuel] consumed (max <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">4</style>% more damage for every [FirePunchFuel] consumed (max <style=\"highlight\">100</style>%)\n[EndSkill] If the target is defeated, or if this Skill consumed [FirePunchFuel], gain <style=\"highlight\">2</style> [HitDamageUp] next turn\nJP :\n対象の[Combustion]回数が3<style=\"highlight\">につき</style>、コイン威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 対象の[Combustion]6につき、基本威力 +1 (最大<style=\"highlight\">3</style>)\n[WhenUse] [FirePunchFuel]を最大25まで消耗し、消耗した[FirePunchFuel]1につきダメージ量 +<style=\"highlight\">2</style>% (最大<style=\"highlight\">50</style>%)\n- [FirePunchFuelOverheated]状態なら、消耗した[FirePunchFuel]1につきダメージ +<style=\"highlight\">4</style>% (最大<style=\"highlight\">100</style>%)\n[EndSkill] 対象が死亡するか、このスキルで[FirePunchFuel]を消耗したなら次のターンに[HitDamageUp]<style=\"highlight\">2</style>を得る"
+  },
+  {
+    "key": "1121103-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [FirePunchFuel]를 소모했으면, [Combustion] <style=\"highlight\">2</style> 부여, [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] If this unit consumed [FirePunchFuel], inflict <style=\"highlight\">2</style> [Combustion] and +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [FirePunchFuel]を消耗したなら[Combustion]<style=\"highlight\">2</style>を付与、[Combustion]回数が1増加"
+  },
+  {
+    "key": "1121103-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [FirePunchFuel]를 소모했으면, [Combustion] <style=\"highlight\">2</style> 부여, [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] If this unit consumed [FirePunchFuel], inflict <style=\"highlight\">2</style> [Combustion] and +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [FirePunchFuel]を消耗したなら[Combustion]<style=\"highlight\">2</style>を付与、[Combustion]回数が1増加"
+  },
+  {
+    "key": "1121103-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 이 스킬에서 소모한 [FirePunchFuel]당, 피해량 +<style=\"highlight\">2</style>% (최대 <style=\"highlight\">50</style>%)\n- [FirePunchFuelOverheated] 상태면, 소모한 [FirePunchFuel]당 피해량 +<style=\"highlight\">4</style>% (최대 <style=\"highlight\">100</style>%)",
+    "context": "EN :\n[OnSucceedAttack] Deal +<style=\"highlight\">2</style>% more damage for every [FirePunchFuel] consumed by this Skill (max <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">4</style>% more damage for every [FirePunchFuel] consumed instead (max <style=\"highlight\">100</style>%)\nJP :\n[OnSucceedAttack] このスキルで消耗した[FirePunchFuel1につき、ダメージ量 +<style=\"highlight\">2</style>% (最大<style=\"highlight\">50</style>%)\n- [FirePunchFuelOverheated]状態なら、消耗した[FirePunchFuel]1につきダメージ量 +<style=\"highlight\">4</style>% (最大<style=\"highlight\">100</style>%)"
+  },
+  {
+    "key": "1121104-levelList$[0].name",
+    "original": "누님의 몫이 아직 남았다",
+    "context": "EN :\nI have to keep going for big sis\nJP :\n姐さんの分がまだだ"
+  },
+  {
+    "key": "1121104-levelList$[0].desc",
+    "original": "[DuelCounter]\n[StartBattle] [FirePunchFuel]를 100 얻음",
+    "context": "EN :\n[DuelCounter]\n[StartBattle] Gain 100 [FirePunchFuel]\nJP :\n[DuelCounter]\n[StartBattle] [FirePunchFuel]を100得る"
+  },
+  {
+    "key": "1121104-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
+  },
+  {
+    "key": "1121104-levelList$[1].name",
+    "original": "누님의 몫이 아직 남았다",
+    "context": "EN :\nI have to keep going for big sis\nJP :\n姐さんの分がまだだ"
+  },
+  {
+    "key": "1121104-levelList$[1].desc",
+    "original": "[DuelCounter]\n[StartBattle] [FirePunchFuel]를 100 얻음",
+    "context": "EN :\n[DuelCounter]\n[StartBattle] Gain 100 [FirePunchFuel]\nJP :\n[DuelCounter]\n[StartBattle] [FirePunchFuel]を100得る"
+  },
+  {
+    "key": "1121104-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]\nJP :\n[OnSucceedAttack] [Combustion]1を付与"
   }
 ]

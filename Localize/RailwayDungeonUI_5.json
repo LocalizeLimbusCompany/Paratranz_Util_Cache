@@ -107,6 +107,6 @@
   {
     "key": "railway_5_stage_level_warning-content",
     "original": "※ 현재 인격 평균 레벨 : <color=#990000>{0}</color> (권장 레벨: <color=#990000>{1}</color>)",
-    "context": "EN :\n※ Current Avg. ID Level: <color=#990000>{0}</color> (Recommended Level: <color=#990000>{1}</color>)\nJP :\n※現在の人格平均レベル : {0} (推奨レベル: {1})"
+    "context": "EN :\n※ Current Avg. ID Level: <color=#990000>{0}</color> (Recommended Level: <color=#990000>{1}</color>)\nJP :\n※現在の人格平均レベル : <color=#990000>{0}</color> (推奨レベル: <color=#990000>{1}</color>)"
   }
 ]

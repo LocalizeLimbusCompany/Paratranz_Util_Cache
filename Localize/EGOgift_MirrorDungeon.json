@@ -3732,7 +3732,7 @@
   {
     "key": "9103-desc",
     "original": "[편성 1번, 2번 인격 전용 효과]\n\n[Combustion] 또는 특수 화상에 걸린 적에게 스킬 효과로 [Combustion] 또는 특수 화상을 부여할 경우, 다음 턴에 [Agility] 1 얻음. (스킬 당 1회, 턴 당 최대 2회)\n\n[Agility]을 이미 보유한 경우, 효과가 강화되어 [Agility] 1, [AttackUp] 2 얻음. (스킬 당 1회, 턴 당 최대 2회)",
-    "context": "EN :\n[Effects apply only to #1, #2 Deployed Identities]\n\nWhen inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain 1 [Agility] and 2 [AttackUp] instead. (once per Skill, 2 times per turn)\nJP :\n[編成1・2番人格専用効果]\n\n[Combustion]または特殊火傷状態の敵へスキル効果で[Combustion]または特殊火傷をを付与する場合、次のターンに[Agility]1を得る(スキルごとに1回、1ターンにつき最大2回)\n\n[Agility]を既に持っているなら、効果が強化されて[Agility]1, [AttackUp]2を得る。(スキルごとに1回、1ターンにつき最大2回)"
+    "context": "EN :\n[Effects apply only to #1, #2 Deployed Identities]\n\nWhen inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain 1 [Agility] and 2 [AttackUp] instead. (once per Skill, 2 times per turn)\nJP :\n[編成1・2番人格専用効果]\n\n[Combustion]または特殊火傷状態の敵へスキル効果で[Combustion]または特殊火傷を付与する場合、次のターンに[Agility]1を得る(スキルごとに1回、1ターンにつき最大2回)\n\n[Agility]を既に持っているなら、効果が強化されて[Agility]1, [AttackUp]2を得る。(スキルごとに1回、1ターンにつき最大2回)"
   },
   {
     "key": "9103-simpleDesc$[0].simpleDesc",
@@ -3747,7 +3747,7 @@
   {
     "key": "19103-desc",
     "original": "[편성 1번, 2번, <style=\"upgradeHighlight\">3번</style> 인격 전용 효과]\n\n[Combustion] 또는 특수 화상에 걸린 적에게 스킬 효과로 [Combustion] 또는 특수 화상을 부여할 경우, 다음 턴에 [Agility] 1 얻음. (스킬 당 1회, 턴 당 최대 2회)\n\n[Agility]을 이미 보유한 경우, 효과가 강화되어 <style=\"upgradeHighlight\">[Agility] 2</style>, [AttackUp] 2 얻음. (스킬 당 1회, 턴 당 최대 2회)",
-    "context": "EN :\n[Effects apply only to #1, #2, <style=\"upgradeHighlight\">and #3</style> Deployed Identities]\n\nWhen inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain <style=\"upgradeHighlight\">2 [Agility]</style> and 2 [AttackUp] instead. (once per Skill, 2 times per turn)\nJP :\n[編成1・2・<style=\"upgradeHighlight\">3</style>番人格専用効果]\n\n[Combustion]または特殊火傷状態の敵へスキル効果で[Combustion]または特殊火傷をを付与する場合、次のターンに[Agility]1を得る(スキルごとに1回、1ターンにつき最大2回)\n\n[Agility]を既に持っているなら、効果が強化されて<style=\"upgradeHighlight\">[Agility]2</style>, [AttackUp]2を得る。(スキルごとに1回、1ターンにつき最大2回)"
+    "context": "EN :\n[Effects apply only to #1, #2, <style=\"upgradeHighlight\">and #3</style> Deployed Identities]\n\nWhen inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain <style=\"upgradeHighlight\">2 [Agility]</style> and 2 [AttackUp] instead. (once per Skill, 2 times per turn)\nJP :\n[編成1・2・<style=\"upgradeHighlight\">3</style>番人格専用効果]\n\n[Combustion]または特殊火傷状態の敵へスキル効果で[Combustion]または特殊火傷を付与する場合、次のターンに[Agility]1を得る(スキルごとに1回、1ターンにつき最大2回)\n\n[Agility]を既に持っているなら、効果が強化されて<style=\"upgradeHighlight\">[Agility]2</style>, [AttackUp]2を得る。(スキルごとに1回、1ターンにつき最大2回)"
   },
   {
     "key": "19103-simpleDesc$[0].simpleDesc",
@@ -3762,7 +3762,7 @@
   {
     "key": "29103-desc",
     "original": "[편성 1번, 2번, 3번 인격 전용 효과]\n\n[Combustion] 또는 특수 화상에 걸린 적에게 스킬 효과로 [Combustion] 또는 특수 화상을 부여할 경우, 다음 턴에 [Agility] 1 얻음. (스킬 당 1회, 턴 당 최대 2회)\n\n[Agility]을 이미 보유한 경우, 효과가 강화되어 [Agility] 2, [AttackUp] 2, <style=\"upgradeHighlight\">[AttackDmgUp] 2</style> 얻음. (스킬 당 1회, 턴 당 최대 2회)",
-    "context": "EN :\n[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nWhen inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain 2 [Agility], 2 [AttackUp], and <style=\"upgradeHighlight\">2 [AttackDmgUp]</style> instead. (once per Skill, 2 times per turn)\nJP :\n[編成1・2・3番人格専用効果]\n\n[Combustion]または特殊火傷状態の敵へスキル効果で[Combustion]または特殊火傷をを付与する場合、次のターンに[Agility]1を得る(スキルごとに1回、1ターンにつき最大2回)\n\n[Agility]を既に持っているなら、効果が強化されて[Agility]2, [AttackUp]2, <style=\"upgradeHighlight\">[AttackDmgUp] 2</style>を得る。(スキルごとに1回、1ターンにつき最大2回)"
+    "context": "EN :\n[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nWhen inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain 2 [Agility], 2 [AttackUp], and <style=\"upgradeHighlight\">2 [AttackDmgUp]</style> instead. (once per Skill, 2 times per turn)\nJP :\n[編成1・2・3番人格専用効果]\n\n[Combustion]または特殊火傷状態の敵へスキル効果で[Combustion]または特殊火傷を付与する場合、次のターンに[Agility]1を得る(スキルごとに1回、1ターンにつき最大2回)\n\n[Agility]を既に持っているなら、効果が強化されて[Agility]2, [AttackUp]2, <style=\"upgradeHighlight\">[AttackDmgUp] 2</style>を得る。(スキルごとに1回、1ターンにつき最大2回)"
   },
   {
     "key": "29103-simpleDesc$[0].simpleDesc",
@@ -6381,7 +6381,7 @@
   },
   {
     "key": "9198-desc",
-    "original": "관통 기본 공격 스킬로 합 승리 후 적중 시, 대상 적에게 다음 턴에 속박 1 부여 (인격 별로 턴 당 1회, 동일한 적에게 중첩 불가).\n- 섕크 협회 소속 인격은 효과가 추가되어 다음 턴에 신속 1 얻음 (인격 별로 턴 당 1회)\n\n섕크 협회 소속 인격이 각 자신이 부여하는 결투 선포 또는 집중 공격을 보유한 적(환상체일 경우, 부위)에게 기본 공격 스킬을 사용하여 합 승리 후 적중 시, 호흡 위력 2 얻음 (인격 별로 턴 당 1회).",
+    "original": "관통 기본 공격 스킬로 합 승리 후 적중 시, 대상 적에게 다음 턴에 속박 1 부여 (인격 별로 턴 당 1회, 동일한 적에게 중첩 불가).\n- 섕크 협회 소속 인격은 효과가 추가되어 다음 턴에 신속 1 얻음 (인격 별로 턴 당 1회)\n\n섕크 협회 소속 인격이 각 자신이 부여하는 결투 선포, 점혈 또는 집중 공격을 보유한 적(환상체일 경우, 부위)에게 기본 공격 스킬을 사용하여 합 승리 후 적중 시, 호흡 위력 2 얻음 (인격 별로 턴 당 1회).",
     "context": "EN :\nOn Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn for each Identity; does not stack against the same enemy)\n- For Cinq Association Identities: gain 1 Haste next turn as well.\n\nWhen a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets(for Abnormalities, Parts) with 'Declared Duel' or 'Focused Attack', gain 2 Poise Potency On Hit (once per turn for each Identity)\nJP :\n貫通基本攻撃スキルでマッチ勝利後に的中時、対象の敵へ次のターンに束縛1を付与(人格ごとに1ターンにつき1回、同じ敵への重複付与不可)\n- センク協会所属人格は効果が追加され、次のターンにクイック1を得る(人格ごとに1ターンにつき1回)\n\nセンク協会所属人格がそれぞれ付与する自分の決闘宣布、または集中攻撃を保有する敵(幻想体の場合は部位)へ基本攻撃スキルを使用してマッチ勝利後に的中時、[Breath]威力2を得る(人格ごとに1ターンにつき1回)"
   },
   {
@@ -6401,7 +6401,7 @@
   },
   {
     "key": "19198-desc",
-    "original": "관통 기본 공격 스킬로 합 승리 후 적중 시, 대상 적에게 다음 턴에 속박 1 부여 (인격 별로 턴 당 1회, 동일한 적에게 최대 2).\n- 섕크 협회 소속 인격은 효과가 추가되어 다음 턴에 신속 1 얻음 (인격 별로 턴 당 1회)\n\n섕크 협회 소속 인격이 각 자신이 부여하는 결투 선포 또는 집중 공격을 보유한 적(환상체일 경우, 부위)에게 기본 공격 스킬을 사용하여 합 승리 후 적중 시, 호흡 위력 4 얻음 (인격 별로 턴 당 1회).",
+    "original": "관통 기본 공격 스킬로 합 승리 후 적중 시, 대상 적에게 다음 턴에 속박 1 부여 (인격 별로 턴 당 1회, 동일한 적에게 최대 2).\n- 섕크 협회 소속 인격은 효과가 추가되어 다음 턴에 신속 1 얻음 (인격 별로 턴 당 1회)\n\n섕크 협회 소속 인격이 각 자신이 부여하는 결투 선포, 점혈 또는 집중 공격을 보유한 적(환상체일 경우, 부위)에게 기본 공격 스킬을 사용하여 합 승리 후 적중 시, 호흡 위력 4 얻음 (인격 별로 턴 당 1회).",
     "context": "EN :\nOn Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn for each Identity; max 2 for each enemy)\n- For Cinq Association Identities: gain 1 Haste next turn as well.\n\nWhen a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets(for Abnormalities, Parts) with 'Declared Duel' or 'Focused Attack', gain 4 Poise Potency On Hit (once per turn for each Identity)\nJP :\n貫通基本攻撃スキルでマッチ勝利後に的中時、対象の敵へ次のターンに束縛1を付与(人格ごとに1ターンにつき1回、同じ敵へは最大2付与可能)\n- センク協会所属人格は効果が追加され、次のターンにクイック1を得る(人格ごとに1ターンにつき1回)\n\nセンク協会所属人格がそれぞれ付与する自分の決闘宣布、または集中攻撃を保有する敵(幻想体の場合は部位)へ基本攻撃スキルを使用してマッチ勝利後に的中時、[Breath]威力4を得る(人格ごとに1ターンにつき1回)"
   },
   {
@@ -6421,7 +6421,7 @@
   },
   {
     "key": "29198-desc",
-    "original": "관통 기본 공격 스킬로 합 승리 후 적중 시, 대상 적에게 다음 턴에 속박 1 부여 (인격 별로 턴 당 1회, 동일한 적에게 최대 2).\n- 섕크 협회 소속 인격은 효과가 추가되어 다음 턴에 신속 1 얻음 (인격 별로 턴 당 2회)\n\n섕크 협회 소속 인격이 각 자신이 부여하는 결투 선포 또는 집중 공격을 보유한 적(환상체일 경우, 부위)에게 기본 공격 스킬을 사용하여 합 승리 후 적중 시, 호흡 위력 4 얻음 (인격 별로 턴 당 2회).",
+    "original": "관통 기본 공격 스킬로 합 승리 후 적중 시, 대상 적에게 다음 턴에 속박 1 부여 (인격 별로 턴 당 1회, 동일한 적에게 최대 2).\n- 섕크 협회 소속 인격은 효과가 추가되어 다음 턴에 신속 1 얻음 (인격 별로 턴 당 2회)\n\n섕크 협회 소속 인격이 각 자신이 부여하는 결투 선포, 점혈 또는 집중 공격을 보유한 적(환상체일 경우, 부위)에게 기본 공격 스킬을 사용하여 합 승리 후 적중 시, 호흡 위력 4 얻음 (인격 별로 턴 당 2회).",
     "context": "EN :\nOn Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn for each Identity; max 2 for each enemy)\n- For Cinq Association Identities: gain 1 Haste next turn as well. (2 times per turn for each Identity)\n\nWhen a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets(for Abnormalities, Parts) with 'Declared Duel' or 'Focused Attack', gain 4 Poise Potency On Hit (2 times per turn for each Identity)\nJP :\n貫通基本攻撃スキルでマッチ勝利後に的中時、対象の敵へ次のターンに束縛1を付与(人格ごとに1ターンにつき1回、同じ敵へは最大2付与可能)\n- センク協会所属人格は効果が追加され、次のターンにクイック1を得る(人格ごとに1ターンにつき2回)\n\nセンク協会所属人格がそれぞれ付与する自分の決闘宣布、または集中攻撃を保有する敵(幻想体の場合は部位)へ基本攻撃スキルを使用してマッチ勝利後に的中時、[Breath]威力4を得る(人格ごとに1ターンにつき2回)"
   },
   {
@@ -6501,8 +6501,8 @@
   },
   {
     "key": "9200-desc",
-    "original": "관통 기본 공격 스킬의 합 위력 +2. 전투 시작 시, 자신을 제외하고 이번 턴에 관통 기본 공격 스킬을 사용하는 인격 수만큼 [AttackUp] 얻음 (최대 3).\n\n보유한 모든 기본 공격 스킬이 관통 유형인 아군이 턴 시작 시 [PenetrateDamageUp] 2 얻음 (강화되거나 특수 발동하는 경우 제외).\n\n회피 스킬 위력 +2. 아군 인격이 이번 턴 동안 회피를 2회 성공할 때마다 다음 턴에 [AttackDmgUp] 1 얻음 (최대 3).\n\n섕크 협회 소속 인격이 턴 시작 시 [PenetrateResultUp] 1, [PenetrateDamageUp] 2 얻음. 섕크 협회 소속 인격이 본인이 부여한 결투 선포 또는 집중 공격을 보유한 적에게 기본 스킬로 공격 적중 시 피해를 입혔다면, 다음 턴에 [PenetrateDamageUp] 2, [Agility] 1 얻음 (인격 별로 턴 당 1회).",
-    "context": "EN :\nPierce Base Attack Skills gain Clash Power +2. On Combat Start, gain [AttackUp] equal to the number of Identities who are using Pierce base Attack Skills this turn. (max 3)\n\nAllies with Pierce Attack Type for all of their base Attack Skills gain 2 [PenetrateDamageUp] at Turn Start. (except for Empowered Skills or Skills that need unique conditionals)\n\nEvade Skill Power +2. Every time an allied Identity successfully Evades 2 times within a single turn, they gain 1 [AttackDmgUp] next turn (max 3)\n\nAt Turn Start, Cinq Association Identities gain 1 [PenetrateResultUp] and 2 [PenetrateDamageUp]; if a Cinq Association Identity dealt damage On Hit against an enemy inflicted by their Declared Duel or Focused Attack, gain 2 [PenetrateDamageUp] and 1 [Agility] next turn. (once per Identity per turn)\nJP :\n貫通基本攻撃スキルのマッチ威力 +2. 戦闘開始時、自分を除いてこのターンに貫通基本攻撃スキルを使用する人格の数だけ[AttackUp]を得る(最大3)\n\n保有する全基本攻撃スキルが貫通タイプの味方が、ターン開始時に[PenetrateDamageUp]2を得る(強化されるか特殊発動する場合を除く)\n\n回避スキル威力 +2. 味方人格がこのターンの間、回避を2回成功させるたび次のターンにて[AttackDmgUp]1を得る(最大3)\n\nセンク協会所属人格がターン開始時、[PenetrateResultUp]1, [PenetrateDamageUp]2を得る。 センク所属人格が自分で付与した決闘宣布、または集中攻撃を保有する敵に基本攻撃スキルで攻撃的中時、ダメージを与えたなら次のターンに[PenetrateDamageUp]2, [Agility]1を得る(人格ごとに1ターンにつき1回)"
+    "original": "관통 기본 공격 스킬의 합 위력 +2. 전투 시작 시, 자신을 제외하고 이번 턴에 관통 기본 공격 스킬을 사용하는 인격 수만큼 [AttackUp] 얻음 (최대 3).\n\n보유한 모든 기본 공격 스킬이 관통 유형인 아군이 턴 시작 시 [PenetrateDamageUp] 2 얻음 (강화되거나 특수 발동하는 경우 제외).\n\n회피 스킬 위력 +2. 아군 인격이 이번 턴 동안 회피를 2회 성공할 때마다 다음 턴에 [AttackDmgUp] 1 얻음 (최대 3).\n\n섕크 협회 소속 인격이 턴 시작 시 [PenetrateResultUp] 1, [PenetrateDamageUp] 2 얻음. 섕크 협회 소속 인격이 본인이 부여한 결투 선포, 점혈 또는 집중 공격을 보유한 적에게 기본 스킬로 공격 적중 시 피해를 입혔다면, 다음 턴에 [PenetrateDamageUp] 2, [Agility] 1 얻음 (인격 별로 턴 당 1회).",
+    "context": "EN :\nPierce Base Attack Skills gain Clash Power +2. On Combat Start, gain [AttackUp] equal to the number of Identities who are using Pierce base Attack Skills this turn. (max 3)\n\nAllies with Pierce Attack Type for all of their base Attack Skills gain 2 [PenetrateDamageUp] at Turn Start. (except for Empowered Skills or Skills that need unique conditionals)\n\nEvade Skill Power +2. Every time an allied Identity successfully Evades 2 times within a single turn, they gain 1 [AttackDmgUp] next turn (max 3)\n\nAt Turn Start, Cinq Association Identities gain 1 [PenetrateResultUp] and 2 [PenetrateDamageUp]; if a Cinq Association Identity dealt damage On Hit against an enemy inflicted by their Declared Duel, Nerve Strike, or Focused Attack, gain 2 [PenetrateDamageUp] and 1 [Agility] next turn. (once per Identity per turn)\nJP :\n貫通基本攻撃スキルのマッチ威力 +2. 戦闘開始時、自分を除いてこのターンに貫通基本攻撃スキルを使用する人格の数だけ[AttackUp]を得る(最大3)\n\n保有する全基本攻撃スキルが貫通タイプの味方が、ターン開始時に[PenetrateDamageUp]2を得る(強化されるか特殊発動する場合を除く)\n\n回避スキル威力 +2. 味方人格がこのターンの間、回避を2回成功させるたび次のターンにて[AttackDmgUp]1を得る(最大3)\n\nセンク協会所属人格がターン開始時、[PenetrateResultUp]1, [PenetrateDamageUp]2を得る。 センク所属人格が自分で付与した決闘宣布、点穴、または集中攻撃を保有する敵に基本攻撃スキルで攻撃的中時、ダメージを与えたなら次のターンに[PenetrateDamageUp]2, [Agility]1を得る(人格ごとに1ターンにつき1回)"
   },
   {
     "key": "9200-simpleDesc$[0].simpleDesc",
