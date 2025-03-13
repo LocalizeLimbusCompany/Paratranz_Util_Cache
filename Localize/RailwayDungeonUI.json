@@ -82,7 +82,7 @@
   {
     "key": "use_enkephalin_module_to_acquire_rewards-content",
     "original": "<color=#990000>엔케팔린 모듈 {0}개</color>를 소모하여\n보상을 수령하시겠습니까?",
-    "context": "EN :\nSpend <color=#990000>{0} Enkephalin Modules</color>\nto unlock the rewards?\nJP :\n<color=#990000>エンケファリンモジュールを{0}つ</color>を消耗し\n報酬を受け取りますか？"
+    "context": "EN :\nSpend <color=#990000>{0} Enkephalin Modules</color>\nto unlock the rewards?\nJP :\n<color=#990000>エンケファリンモジュールを{0}個</color>消耗し\n報酬を受け取りますか？"
   },
   {
     "key": "able_to_acquire_rewards_without_using_enkephalin_module-content",

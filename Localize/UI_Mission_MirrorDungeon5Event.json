@@ -246,12 +246,87 @@
   },
   {
     "key": "mission_ui_condition_tags_201004005-content",
-    "original": "{0}등급 이상의 기프트 1개를 ++단계까지 강화하고 거울 던전 {1}층 클리어",
-    "context": "EN :\nEnhance 1 Tier {0} or higher E.G.O Gift to Enhancement stage ++; then, clear Mirror Dungeon Floor {1}\nJP :\nランク{0}以上のギフト1つを++段階まで強化して、鏡ダンジョン{1}階層をクリア"
+    "original": "{0}등급 이상의 기프트 1개를 ++단계까지 강화하고 거울 던전 {1}층 이상 클리어",
+    "context": "EN :\nEnhance 1 Tier {0} or higher E.G.O Gift to Enhancement stage ++; then, clear Mirror Dungeon at Floor {1} or higher\nJP :\nランク{0}以上のギフト1つを++段階まで強化して、鏡ダンジョンを{1}階層以上クリア"
   },
   {
     "key": "mission_ui_condition_tags_201004006-content",
-    "original": "아군 1명의 스킬 1을 상점에서 전부 스킬 3으로 교환하고 거울 던전 {0}층 클리어",
-    "context": "EN :\nFor 1 ally, replace all of their Skill 1 copies with Skill 3 in the Shop; then, clear Mirror Dungeon Floor {0}\nJP :\n味方1名のスキル1をショップで全てスキル3に交換して鏡ダンジョン{0}階層をクリア"
+    "original": "아군 1명의 스킬 1을 상점에서 전부 스킬 3으로 교환하고 거울 던전 {0}층 이상 클리어",
+    "context": "EN :\nFor 1 ally, replace all of their Skill 1 copies with Skill 3 in the Shop; then, clear Mirror Dungeon at Floor {0} or higher\nJP :\n味方1名のスキル1をショップで全てスキル3に交換して鏡ダンジョンを{0}階層以上クリア"
+  },
+  {
+    "key": "mission_ui_condition_tags_201005001-content",
+    "original": "스킬 1회 사용으로 1000 이상의 피해 가하기\n(보호막 피해 포함)",
+    "context": "EN :\nDeal 1000+ damage with a single Skill use\n(damage against Shield HP counts)\nJP :\nスキル1回で1000以上のダメージを与える\n(バリアへのダメージを含む)"
+  },
+  {
+    "key": "mission_ui_condition_tags_201005002-content",
+    "original": "스킬 1회 사용으로 3000 이상의 피해 가하기\n(보호막 피해 포함)",
+    "context": "EN :\nDeal 3000+ damage with a single Skill use\n(damage against Shield HP counts)\nJP :\nスキル1回で3000以上のダメージを与える\n(バリアへのダメージを含む)"
+  },
+  {
+    "key": "mission_ui_condition_tags_201005003-content",
+    "original": "스킬 1회 사용으로 5000 이상의 피해 가하기\n(보호막 피해 포함)",
+    "context": "EN :\nDeal 5000+ damage with a single Skill use\n(damage against Shield HP counts)\nJP :\nスキル1回で5000以上のダメージを与える\n(バリアへのダメージを含む)"
+  },
+  {
+    "key": "mission_ui_condition_tags_201005004-content",
+    "original": "스킬 1회 사용으로 10000 이상의 피해 가하기\n(보호막 피해 포함)",
+    "context": "EN :\nDeal 10000+ damage with a single Skill use\n(damage against Shield HP counts)\nJP :\nスキル1回で10000以上のダメージを与える\n(バリアへのダメージを含む)"
+  },
+  {
+    "key": "mission_ui_condition_tags_201005005-content",
+    "original": "적 1명에게 부여된 화상 위력 99 달성\n(집중 전투인 경우 부위로 체크)",
+    "context": "EN :\nRaise 1 enemy's Burn Potency to 99\n(in Focused Encounters, a Part)\nJP :\n敵1名へ付与された火傷威力が99を達成\n(集中戦闘の場合は部位でチェック)"
+  },
+  {
+    "key": "mission_ui_condition_tags_201005006-content",
+    "original": "적 1명에게 부여된 출혈 위력 99 달성\n(집중 전투인 경우 부위로 체크)",
+    "context": "EN :\nRaise 1 enemy's Bleed Potency to 99\n(in Focused Encounters, a Part)\nJP :\n敵1名へ付与された出血威力が99を達成\n(集中戦闘の場合は部位でチェック)"
+  },
+  {
+    "key": "mission_ui_condition_tags_201005007-content",
+    "original": "적 1명에게 부여된 진동 위력 99 달성\n(집중 전투인 경우 부위로 체크)",
+    "context": "EN :\nRaise 1 enemy's Tremor Potency to 99\n(in Focused Encounters, a Part)\nJP :\n敵1名へ付与された振動威力が99を達成\n(集中戦闘の場合は部位でチェック)"
+  },
+  {
+    "key": "mission_ui_condition_tags_201005008-content",
+    "original": "적 1명에게 부여된 파열 위력 99 달성\n(집중 전투인 경우 부위로 체크)",
+    "context": "EN :\nRaise 1 enemy's Rupture Potency to 99\n(in Focused Encounters, a Part)\nJP :\n敵1名へ付与された破裂威力が99を達成\n(集中戦闘の場合は部位でチェック)"
+  },
+  {
+    "key": "mission_ui_condition_tags_201005009-content",
+    "original": "적 1명에게 부여된 침잠 위력 99 달성\n(집중 전투인 경우 부위로 체크)",
+    "context": "EN :\nRaise 1 enemy's Sinking Potency to 99\n(in Focused Encounters, a Part)\nJP :\n敵1名へ付与された沈潜威力が99を達成\n(集中戦闘の場合は部位でチェック)"
+  },
+  {
+    "key": "mission_ui_condition_tags_201005010-content",
+    "original": "아군 1명에게 부여된 호흡 위력 80 달성",
+    "context": "EN :\nRaise 1 ally's Poise Potency to 80\nJP :\n味方1名に付与した呼吸威力が80を達成"
+  },
+  {
+    "key": "mission_ui_condition_tags_201005011-content",
+    "original": "아군 1명에게 부여된 충전 위력 10 달성",
+    "context": "EN :\nRaise 1 ally's Charge Potency to 10\nJP :\n味方1名に付与した充電威力が10を達成"
+  },
+  {
+    "key": "mission_ui_condition_tags_201005012-content",
+    "original": "1회 전투에서 공격 스킬 1회 사용으로 적 6명 이상 처치 (E.G.O 스킬 포함)",
+    "context": "EN :\nKill 6+ enemies with a single Attack Skill use in an Encounter (can use E.G.O Skills)\nJP :\n1回の戦闘にて、攻撃スキル1回の使用で敵を6名以上討伐(E.G.Oスキルを含む)"
+  },
+  {
+    "key": "mission_ui_condition_tags_201005013-content",
+    "original": "1회 전투에서 최대 체력이 3000 이상인 적을 전투의 첫번째 턴 종료시까지 처치",
+    "context": "EN :\nIn a single Encounter, defeat an enemy with 3000+ max HP before the first turn ends\nJP :\n1回の戦闘にて最大体力が3000以上の敵を、戦闘の最初のターン終了時まで討伐"
+  },
+  {
+    "key": "mission_ui_condition_tags_201005014-content",
+    "original": "한 턴에 적 1명이 부정적인 효과를 10종류 이상 얻기\n(집중 전투인 경우 부위로 체크)",
+    "context": "EN :\nIn a single turn, make 1 enemy gain 10+ types of negative effects\n(in Focused Encounters, a Part)\nJP :\n1ターンに、敵1名へ状態異常バフを10種以上保有させる\n(集中戦闘の場合は部位でチェック)"
+  },
+  {
+    "key": "mission_ui_condition_tags_201005015-content",
+    "original": "거울 던전 6층 이상의 스테이지에서 단 한 명의 아군 외에 모두 사망한 상태로 전투 승리 (대기 및 서포트 인격 포함)",
+    "context": "EN :\nAt Floor 6 or higher in the Mirror Dungeon, win an Encounter after every ally except for one is dead (including Backup/Support Identities)\nJP :\n鏡ダンジョン6階層以上のステージにて、1名のみ生存した状態で戦闘勝利(待機およびサポート人格を含む)"
   }
 ]

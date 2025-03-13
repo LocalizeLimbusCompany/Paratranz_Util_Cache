@@ -5106,7 +5106,7 @@
   },
   {
     "key": "FirePunchFuelOverheated-desc",
-    "original": "최댓값: 100\n과열 연료 상태에서 12구산 연료를 소모 시, 대신 과열 연료가 소모됨\n이 연료를 소모 시, 12구산 연료가 소모된 것으로 판정됨\n수치가 50 초과시, 연료가 됨\n소모한 연료 : {0}",
+    "original": "최댓값: 100\n과열 연료 상태에서 12구산 연료를 소모 시, 대신 과열 연료가 소모됨\n이 연료를 소모 시, 12구산 연료가 소모된 것으로 판정됨\n수치가 50 초과시, 12구산 연료가 됨\n소모한 연료 : {0}",
     "context": "EN :\nMax Stack: 100\nConsuming District 12 Fuel in Overheated Fuel State consumes Overheated Fuel instead\nConsuming Overheated Fuel counts as consuming District 12 Fuel\nAt over 50 Stack, become District 12 Fuel\nFuel consumed: {0}\nJP :\n最大値: 100\n過熱燃料状態で12区産燃料を消耗時、代わりに過熱燃料が消耗される\nこの燃料を消耗時、12区産燃料が消耗されたものと判定される\n数値が50超過時、12区産燃料になる\n消耗した燃料 : {0}"
   },
   {

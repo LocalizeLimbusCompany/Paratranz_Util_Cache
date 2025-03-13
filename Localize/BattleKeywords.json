@@ -3707,7 +3707,7 @@
   {
     "key": "FirePunchFuel-desc",
     "original": "최댓값: 100\n특정 스킬 사용 시 연료가 소모됨.\n수치가 50 이하가 되면, 과열 연료가 됨",
-    "context": "EN :\nMax Stack: 100\nConsumed by certain Skills.\nAt 50- Stack, become Overheated Fuel\nJP :\n最大値: 100特定スキル使用時に燃料が消耗される\n数値が50以下になると、過熱燃料になる"
+    "context": "EN :\nMax Stack: 100\nConsumed by certain Skills.\nAt 50- Stack, become Overheated Fuel\nJP :\n最大値: 100\n特定スキル使用時に燃料が消耗される\n数値が50以下になると、過熱燃料になる"
   },
   {
     "key": "FirePunchFuelOverheated-name",
@@ -3716,8 +3716,8 @@
   },
   {
     "key": "FirePunchFuelOverheated-desc",
-    "original": "최댓값: 100\n과열 연료 상태에서 12구산 연료를 소모 시, 대신 과열 연료가 소모됨\n이 연료를 소모 시, 12구산 연료가 소모된 것으로 판정됨\n수치가 50 초과시, 연료가 됨",
-    "context": "EN :\nMax Stack: 100\nConsuming District 12 Fuel in Overheated Fuel State consumes Overheated Fuel instead\nConsuming Overheated Fuel counts as consuming District 12 Fuel\nAt over 50 Stack, become District 12 Fuel\nJP :\n最大値: 100過熱燃料状態で12区産燃料を消耗時、代わりに過熱燃料が消耗される\nこの燃料を消耗時、12区産燃料が消耗されたものと判定される\n数値が50超過時、12区産燃料になる"
+    "original": "최댓값: 100\n과열 연료 상태에서 12구산 연료를 소모 시, 대신 과열 연료가 소모됨\n이 연료를 소모 시, 12구산 연료가 소모된 것으로 판정됨\n수치가 50 초과시, 12구산 연료가 됨",
+    "context": "EN :\nMax Stack: 100\nConsuming District 12 Fuel in Overheated Fuel State consumes Overheated Fuel instead\nConsuming Overheated Fuel counts as consuming District 12 Fuel\nAt over 50 Stack, become District 12 Fuel\nJP :\n最大値: 100\n過熱燃料状態で12区産燃料を消耗時、代わりに過熱燃料が消耗される\nこの燃料を消耗時、12区産燃料が消耗されたものと判定される\n数値が50超過時、12区産燃料になる"
   },
   {
     "key": "DianxueDonQuixote-name",

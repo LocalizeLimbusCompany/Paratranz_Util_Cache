@@ -332,7 +332,7 @@
   {
     "key": "9719-desc",
     "original": "스테이지 시작 시, 검계 소속 인격이 3인 이상일 때 발동 (출격 인원을 기준으로 함).\n\n아군이 가하는 참격 피해량 +50%\n\n검계 소속일 경우, [Breath] 상태일 때 치명타 발동 확률이 100%로 고정됨.\n\n검계 소속일 경우 효과가 강화되어 치명타로 가하는 피해량이 1.5배 증가",
-    "context": "EN :\nEncounter Start: activates when there are 3 or more Blade Lineage Identities(only counts Identities on the field at Encounter Start).\n\nAll allies deal +50% more Slash damage\n\nBlade Lineage Identities: if the ally has [Breath], Critical rate is fixed to 100%.\n\nBlade Lineage Identities: inflict x1.5 more damage on Crit\nJP :\nステージ開始時、剣契所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方の斬撃与ダメージ量 +50%\n\n剣契所属の場合、[Breath]状態のときにクリティカル発動確率が100%に固定。\n\n剣契所属の場合、効果が強化されてクリティカル与ダメージ量が1.5倍に増化"
+    "context": "EN :\nEncounter Start: activates when there are 3 or more Blade Lineage Identities(only counts Identities on the field at Encounter Start).\n\nAll allies deal +50% more Slash damage\n\nBlade Lineage Identities: if the ally has [Breath], Critical rate is fixed to 100%.\n\nBlade Lineage Identities: inflict x1.5 more damage on Crit\nJP :\nステージ開始時、剣契所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方の斬撃与ダメージ量 +50%\n\n剣契所属の場合、[Breath]状態のときにクリティカル発動確率が100%に固定。\n\n剣契所属の場合、効果が強化されてクリティカル与ダメージ量が1.5倍に増加"
   },
   {
     "key": "9719-simpleDesc$[0].simpleDesc",

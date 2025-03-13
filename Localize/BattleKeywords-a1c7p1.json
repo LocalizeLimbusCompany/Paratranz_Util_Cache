@@ -177,7 +177,7 @@
   {
     "key": "RighteousFeeling-desc",
     "original": "- 매 턴 종료 시, 다음 턴에 신속 1, 공격 레벨 증가 3, 방어 레벨 감소 3 얻음\n- 누적된 턴 3 당, 공격 레벨 증가 2 추가로 얻음 (최대 6)\n- 합 승리 시 정신력 3 회복\n- 적 처치 시 다음 턴에 합 위력 증가 1 얻음 (턴 당 1회)",
-    "context": "EN :\n- At every Turn End: gain 1 Haste, 3 Offense Level Up, and 3 Defense Level Down next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)\nJP :\n- 毎ターン終了時、次のターンにクイック1, 攻撃レベル増加3, 防御レベル減少3を得る\n- 累計3ターンにつき、攻撃レベル増加を追加で2得る(最大6)\n- マッチ勝利時、精神力を3回復\n- 的討伐時、次のターンにマッチ威力増加1を得る(1ターンにつき1回)"
+    "context": "EN :\n- At every Turn End: gain 1 Haste, 3 Offense Level Up, and 3 Defense Level Down next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)\nJP :\n- 毎ターン終了時、次のターンにクイック1, 攻撃レベル増加3, 防御レベル減少3を得る\n- 累計3ターンにつき、攻撃レベル増加を追加で2得る(最大6)\n- マッチ勝利時、精神力を3回復\n- 敵討伐時、次のターンにマッチ威力増加1を得る(1ターンにつき1回)"
   },
   {
     "key": "DuelDeclarationMeursault-name",
@@ -227,7 +227,7 @@
   {
     "key": "RighteousFeelingSancho-desc",
     "original": "- 경혈을 얻을 때마다, 경혈을 1 추가로 얻음. (턴 당 최대 5회)\n- 매 턴 종료 시, 다음 턴에 신속 2, 공격 레벨 증가 3 얻음\n- 누적된 턴 3 당, 공격 레벨 증가 2 추가로 얻음 (최대 6)\n- 합 승리 시 정신력 3 회복\n- 적 처치 시 다음 턴에 합 위력 증가 1 얻음 (턴 당 1회)",
-    "context": "EN :\n- Gain 1 additional Hardblood every time this unit gains Hardblood. (5 times per turn)\n- At every Turn End: gain 2 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)\nJP :\n- 硬血を得るたび、硬血を1追加で得る。(1ターンにつき最大5回)\n- 毎ターン終了時、次のターンにクイック2, 攻撃レベル増加3を得る\n- 累計3ターンにつき、攻撃レベル増加を追加で2得る(最大6)\n- マッチ勝利時、精神力を3回復\n- 的討伐時、次のターンにマッチ威力増加1を得る(1ターンにつき1回)"
+    "context": "EN :\n- Gain 1 additional Hardblood every time this unit gains Hardblood. (5 times per turn)\n- At every Turn End: gain 2 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)\nJP :\n- 硬血を得るたび、硬血を1追加で得る。(1ターンにつき最大5回)\n- 毎ターン終了時、次のターンにクイック2, 攻撃レベル増加3を得る\n- 累計3ターンにつき、攻撃レベル増加を追加で2得る(最大6)\n- マッチ勝利時、精神力を3回復\n- 敵討伐時、次のターンにマッチ威力増加1を得る(1ターンにつき1回)"
   },
   {
     "key": "UnfinishedDreamSancho-name",
@@ -237,7 +237,7 @@
   {
     "key": "UnfinishedDreamSancho-desc",
     "original": "- 경혈을 얻을 때마다, 경혈을 2 추가로 얻음. (턴 당 최대 5회)\n- 매 턴 종료 시, 다음 턴에 신속 2, 공격 레벨 증가 3 얻음\n- 누적된 턴 3 당, 공격 레벨 증가 2 추가로 얻음 (최대 6)\n- 합 승리 시 정신력 3 회복\n- 적 처치 시 다음 턴에 합 위력 증가 1 얻음 (턴 당 1회)",
-    "context": "EN :\n- Gain 2 additional Hardblood every time this unit gains Hardblood. (5 times per turn)\n- At every Turn End: gain 2 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 2 Clash Power Up next turn (once per turn)\nJP :\n- 硬血を得るたび、硬血を2追加で得る。(1ターンにつき最大5回)\n- 毎ターン終了時、次のターンにクイック2, 攻撃レベル増加3を得る\n- 累計3ターンにつき、攻撃レベル増加を追加で2得る(最大6)\n- マッチ勝利時、精神力を3回復\n- 的討伐時、次のターンにマッチ威力増加1を得る(1ターンにつき1回)"
+    "context": "EN :\n- Gain 2 additional Hardblood every time this unit gains Hardblood. (5 times per turn)\n- At every Turn End: gain 2 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 2 Clash Power Up next turn (once per turn)\nJP :\n- 硬血を得るたび、硬血を2追加で得る。(1ターンにつき最大5回)\n- 毎ターン終了時、次のターンにクイック2, 攻撃レベル増加3を得る\n- 累計3ターンにつき、攻撃レベル増加を追加で2得る(最大6)\n- マッチ勝利時、精神力を3回復\n- 敵討伐時、次のターンにマッチ威力増加1を得る(1ターンにつき1回)"
   },
   {
     "key": "FragmentOfHopeSancho-name",

@@ -1082,7 +1082,7 @@
   {
     "key": "1121101-levelList$[2].desc",
     "original": "대상의 화상 <style=\"highlight\">3 당</style>, 코인 위력 +1 (최대 2)",
-    "context": "EN :\n<style=\"highlight\">Coin Power +1 for every 3 Burn on target (max 2)</style>\nJP :\n対象の火傷<style=\"highlight\">3につき</style>、コイン威力 +1(最大2)"
+    "context": "EN :\n<style=\"highlight\">Coin Power +1 for every 3 Burn on target (max 2)</style>\nJP :\n対象の[Combustion]<style=\"highlight\">3につき</style>、コイン威力 +1(最大2)"
   },
   {
     "key": "1121101-levelList$[2].coinlist[0].coindescs[0].desc",
@@ -1232,7 +1232,7 @@
   {
     "key": "1121103-levelList$[1].coinlist[2].coindescs[0].desc",
     "original": "[OnSucceedAttack] 이 스킬에서 소모한 [FirePunchFuel]당, 피해량 +<style=\"highlight\">2</style>% (최대 <style=\"highlight\">50</style>%)\n- [FirePunchFuelOverheated] 상태면, 소모한 [FirePunchFuel]당 피해량 +<style=\"highlight\">4</style>% (최대 <style=\"highlight\">100</style>%)",
-    "context": "EN :\n[OnSucceedAttack] Deal +<style=\"highlight\">2</style>% more damage for every [FirePunchFuel] consumed by this Skill (max <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">4</style>% more damage for every [FirePunchFuel] consumed instead (max <style=\"highlight\">100</style>%)\nJP :\n[OnSucceedAttack] このスキルで消耗した[FirePunchFuel1につき、ダメージ量 +<style=\"highlight\">2</style>% (最大<style=\"highlight\">50</style>%)\n- [FirePunchFuelOverheated]状態なら、消耗した[FirePunchFuel]1につきダメージ量 +<style=\"highlight\">4</style>% (最大<style=\"highlight\">100</style>%)"
+    "context": "EN :\n[OnSucceedAttack] Deal +<style=\"highlight\">2</style>% more damage for every [FirePunchFuel] consumed by this Skill (max <style=\"highlight\">50</style>%)\n- When in [FirePunchFuelOverheated] state, deal +<style=\"highlight\">4</style>% more damage for every [FirePunchFuel] consumed instead (max <style=\"highlight\">100</style>%)\nJP :\n[OnSucceedAttack] このスキルで消耗した[FirePunchFuel]1につき、ダメージ量 +<style=\"highlight\">2</style>% (最大<style=\"highlight\">50</style>%)\n- [FirePunchFuelOverheated]状態なら、消耗した[FirePunchFuel]1につきダメージ量 +<style=\"highlight\">4</style>% (最大<style=\"highlight\">100</style>%)"
   },
   {
     "key": "1121104-levelList$[0].name",
