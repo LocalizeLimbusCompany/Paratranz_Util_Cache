@@ -1,0 +1,207 @@
+[
+  {
+    "key": "112701-levelList$[0].name",
+    "original": "시험은 끝났다",
+    "context": "EN :\nNo More Tests\nJP :\n試験は終わりだ"
+  },
+  {
+    "key": "112701-levelList$[0].desc",
+    "original": "[WhenUse] 다음 턴에 [HitDamageUp] 3 얻음\n[WhenUse] 메인 타겟의 [MiddleFingerBook] 수치가 3 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨",
+    "context": "EN :\n[WhenUse] Gain 3 [HitDamageUp] next turn\n[WhenUse] If the main target has 3+ [MiddleFingerBook], convert all Coins in this Skill to [SuperCoin]s\nJP :\n[WhenUse] 次のターンに[HitDamageUp]3を得る\n[WhenUse] メインターゲットの[MiddleFingerBook]数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される"
+  },
+  {
+    "key": "112701-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 다음 턴에 [Binding] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Binding] next turn\nJP :\n[OnSucceedAttack] 次のターンに[Binding]1を付与"
+  },
+  {
+    "key": "112702-levelList$[0].name",
+    "original": "고통 새기기",
+    "context": "EN :\nPromised Suffering\nJP :\n苦痛を刻む"
+  },
+  {
+    "key": "112702-levelList$[0].desc",
+    "original": "[MiddleFingerBook] 수치가 가장 높은 대상을 우선 지정\n[WhenUse] 대상의 [MiddleFingerBook] 수치가 3 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨",
+    "context": "EN :\nPrioritizes targets with the highest [MiddleFingerBook]\n[WhenUse] If the target has 3+ [MiddleFingerBook], convert all Coins in this Skill to [SuperCoin]s\nJP :\n[MiddleFingerBook]の数値が最も高い対象を優先して指定\n[WhenUse] 対象の[MiddleFingerBook]数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される"
+  },
+  {
+    "key": "112702-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 이번 턴과 다음 턴에 [Vulnerable] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vulnerable] this turn and next turn\nJP :\n[OnSucceedAttack] このターンと次のターンに[Vulnerable]1を付与"
+  },
+  {
+    "key": "112702-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 이번 턴과 다음 턴에 [Vulnerable] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Vulnerable] this turn and next turn\nJP :\n[OnSucceedAttack] このターンと次のターンに[Vulnerable]1を付与"
+  },
+  {
+    "key": "112702-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] (대상의 [MiddleFingerBook] 수치 x 3)만큼 타격 추가 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal ([MiddleFingerBook] on target x 3) Blunt Bonus damage\nJP :\n[OnSucceedAttack] (対象の[MiddleFingerBook]数値 × 3)だけ打撃追加ダメージ"
+  },
+  {
+    "key": "112702-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상의 모든 [MiddleFingerBook] 제거",
+    "context": "EN :\n[OnSucceedAttack] Remove [MiddleFingerBook] on target\nJP :\n[OnSucceedAttack] 対象の[MiddleFingerBook]を除去"
+  },
+  {
+    "key": "112703-levelList$[0].name",
+    "original": "장난이 길었군",
+    "context": "EN :\nEnough games\nJP :\nお遊びはここまで"
+  },
+  {
+    "key": "112703-levelList$[0].desc",
+    "original": "[StartBattle] 모든 아군의 정신력 10 회복\n[EndBattle] 패닉 상태인 아군이 있으면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력을 0으로 초기화함\n[EndBattle] 다음 턴에 자신을 포함한 모든 아군에게 [HitResultUp] 1 부여",
+    "context": "EN :\n[StartBattle] Heal all allies' SP by 10\n[EndBattle] If there are Panicked allies, recover them from Panic at the next Turn Start and reset their SP to 0\n[EndBattle] Apply 1 [HitResultUp] to all allies, including this unit\nJP :\n[StartBattle] 全ての味方の精神力を10回復\n[EndBattle] パニック状態の味方がいるなら、次のターン開始時にパニック状態を解除して精神力を0に初期化\n[EndBattle] 次のターンに自分を含む全味方へ[HitResultUp]1を付与"
+  },
+  {
+    "key": "112704-levelList$[0].name",
+    "original": "전원, 처형이다!!!",
+    "context": "EN :\nCOMPLETE AND TOTAL EXTERMINATION!!!\nJP :\n全員、処刑だ！！！"
+  },
+  {
+    "key": "112704-levelList$[0].desc",
+    "original": "속도에 상관없이 이 스킬과 합을 할 수 있음\n메인 타겟의 [MiddleFingerBook] 수치가 5 이상이면, 최종 위력 +5\n[EndSkill] 공격 당한 모든 대상의 [MiddleFingerBook] 제거",
+    "context": "EN :\nCan Clash with this Skill regardless of Speed\nIf the main target has 5+ [MiddleFingerBook], Final Power +5\n[EndSkill] Remove [MiddleFingerBook] from all targets that were hit by this attack\nJP :\n速度と関係なくこのスキルとマッチが可能\nメインターゲットの[MiddleFingerBook]数値が5以上なら、最終威力 +5\n[EndSkill] 攻撃された全対象の[MiddleFingerBook]を除去"
+  },
+  {
+    "key": "112704-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112704-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] (대상의 [MiddleFingerBook] 수치 x 10)만큼 타격 추가 피해",
+    "context": "EN :\n[OnSucceedAttack] Deal ([MiddleFingerBook] on target x 10) Blunt Bonus damage\nJP :\n[OnSucceedAttack] (対象の[MiddleFingerBook]数値 × 10)だけ打撃追加ダメージ"
+  },
+  {
+    "key": "112601-levelList$[0].name",
+    "original": "초격",
+    "context": "EN :\nFirst Strike\nJP :\n初撃"
+  },
+  {
+    "key": "112601-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst]이 5 이상이면, 합 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 5+ [Burst], Clash Power +1\nJP :\n[WhenUse] 対象の[Burst]が5以上なら、マッチ威力 +1"
+  },
+  {
+    "key": "112601-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "112602-levelList$[0].name",
+    "original": "척살",
+    "context": "EN :\nPerforating Kill\nJP :\n刺殺"
+  },
+  {
+    "key": "112602-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst]이 5 이상이면, 합 위력 +1\n[WhenUse] 각력 3 얻음",
+    "context": "EN :\n[WhenUse] If the target has 5+ [Burst], Clash Power +1\n[WhenUse] Gain 3 Leg Musculature\nJP :\n[WhenUse] 対象の[Burst]が5以上なら、マッチ威力 +1\n[WhenUse] 脚力 3を得る"
+  },
+  {
+    "key": "112602-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "112602-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 대상에게 [BurstAgility]이 있으면, 다음 턴에 [Agility] 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] If the target has [BurstAgility], gain 1 [Agility] next turn\nJP :\n[OnSucceedAttack] 対象に[BurstAgility]があれば、次のターンに[Agility]1を得る"
+  },
+  {
+    "key": "112603-levelList$[0].name",
+    "original": "표각",
+    "context": "EN :\nEtching Strike\nJP :\n標刻"
+  },
+  {
+    "key": "112603-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst]이 5 이상이면, 코인 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 5+ [Burst], Coin Power +1\nJP :\n[WhenUse] 対象の[Burst]が5以上なら、コイン威力 +1"
+  },
+  {
+    "key": "112603-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "112603-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 2 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 [Burst]\nJP :\n[OnSucceedAttack] [Burst]2を付与"
+  },
+  {
+    "key": "112603-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BurstAgility] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [BurstAgility]\nJP :\n[OnSucceedAttack] [BurstAgility]を付与"
+  },
+  {
+    "key": "112604-levelList$[0].name",
+    "original": "각주살검 - 순보",
+    "context": "EN :\nCursewrit Butcherblade - Blinkstep\nJP :\n刻呪殺剣 - 瞬歩"
+  },
+  {
+    "key": "112604-levelList$[0].desc",
+    "original": "[BurstAgility]이 있는 대상을 우선 공격함\n자신과 대상의 속도 차이 2 당 피해량 +15% (최대 60%)\n[WhenUse] 대상의 [Burst]이 5 당, 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst] 횟수 2 당, 기본 위력 +1 (최대 3)\n[EndSkill] 자신의 속도가 10 이상이고 대상이 사망했다면, 이 스킬을 무작위 대상 한 명에게 다시 사용함 (턴 당 1회)",
+    "context": "EN :\nPrioritizes targets with [BurstAgility]\nDeal +15% more damage for every 2 Speed difference between this unit and the target (max 60%)\n[WhenUse] Coin Power +1 for every 5 [Burst] on the target (max 2)\n[WhenUse] Base Power +1 for every 2 [Burst] Count on the target (max 3)\n[EndSkill] At 10+ Speed, and if the target is defeated, Reuse this Skill against a random enemy (once per turn)\nJP :\n[BurstAgility]を持つ対象を優先して攻撃する\n自分と対象の速度差2につきダメージ量 +15% (最大60%)\n[WhenUse] 対象の[Burst]5につき、コイン威力 +1 (最大2)\n[WhenUse] 対象の[Burst]回数2につき、基本威力 +1 (最大3)\n[EndSkill] 自分の速度が10以上かつ対象が死亡したなら、このスキルをランダムな対象1名へ再使用する(1ターンにつき1回)"
+  },
+  {
+    "key": "112604-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112604-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 3 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +3 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が3増加"
+  },
+  {
+    "key": "112604-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112604-levelList$[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Burst]\nJP :\n[OnSucceedAttack] [Burst]5を付与"
+  },
+  {
+    "key": "112604-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]",
+    "context": "EN :\n[SuperCoin]\nJP :\n[SuperCoin]"
+  },
+  {
+    "key": "112604-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "대상에게 [BurstAgility]이 있으면, 피해량 +50%",
+    "context": "EN :\nIf the target has [BurstAgility], deal +50% more damage\nJP :\n対象に[BurstAgility]があれば、ダメージ量 +50%"
+  },
+  {
+    "key": "112604-levelList$[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Burst] 5 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 5 [Burst]\nJP :\n[OnSucceedAttack] [Burst]5を付与"
+  },
+  {
+    "key": "112605-levelList$[0].name",
+    "original": "각주",
+    "context": "EN :\nCursewrit\nJP :\n刻呪"
+  },
+  {
+    "key": "112605-levelList$[0].desc",
+    "original": "[DuelCounter]\n[WhenUse] 대상에게 [BurstAgility]이 있으면, 이 스킬에서 부여하는 [Burst] 횟수 1 추가 증가",
+    "context": "EN :\n[DuelCounter]\n[WhenUse] If the target has [BurstAgility], inflict +1 more [Burst] Count with this Skill\nJP :\n[DuelCounter]\n[WhenUse] 対象に[BurstAgility]があるなら、このスキルで付与する[Burst]回数が1追加で増加"
+  },
+  {
+    "key": "112605-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 2 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +2 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が2増加"
+  },
+  {
+    "key": "112605-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が1増加"
+  },
+  {
+    "key": "112605-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が1増加"
+  }
+]

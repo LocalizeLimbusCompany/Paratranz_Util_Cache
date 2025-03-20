@@ -1,0 +1,32 @@
+[
+  {
+    "key": "1038-panicName",
+    "original": "뒷골목의 밤",
+    "context": "EN :\nNight in the Backstreets\nJP :\n裏路地の夜"
+  },
+  {
+    "key": "1038-lowMoraleDescription",
+    "original": "턴 시작시 [Enhancement] 1, [TakeHpHealIncrease] 1, [Vulnerable] 1을 얻음",
+    "context": "EN :\nTurn Start: gain 1 [Enhancement], 1 [TakeHpHealIncrease], and 1 [Vulnerable]\nJP :\nターン開始時、[Enhancement]1, [TakeHpHealIncrease]1, [Vulnerable]1を得る"
+  },
+  {
+    "key": "1038-panicDescription",
+    "original": "턴 시작시 [Enhancement] 2, [TakeHpHealIncrease] 2, [Vulnerable] 1을 얻음",
+    "context": "EN :\nTurn Start: gain 2 [Enhancement], 2 [TakeHpHealIncrease], and 1 [Vulnerable]\nJP :\nターン開始時、[Enhancement]2, [TakeHpHealIncrease]2, [Vulnerable]1を得る"
+  },
+  {
+    "key": "1039-panicName",
+    "original": "암수",
+    "context": "EN :\nDeception\nJP :\n暗数"
+  },
+  {
+    "key": "1039-lowMoraleDescription",
+    "original": "자신의 속도가 대상보다 빠르거나 일방 공격을 할 경우, 대상에게 피해량 +10%",
+    "context": "EN :\nIf this unit's Speed is faster than the target or when using an Unopposed Attack, deal +10% more damage against the target\nJP :\n自分の速度が対象より高いか一方攻撃をするとき、対象へダメージ量 +10%"
+  },
+  {
+    "key": "1039-panicDescription",
+    "original": "자신의 속도가 대상보다 빠르거나 일방 공격을 할 경우, 대상에게 피해량 +20%, 자신의 속도가 대상보다 빠르면, 받는 피해량 -20%",
+    "context": "EN :\nIf this unit's Speed is faster than the target or when using an Unopposed Attack, deal +20% more damage against the target; if this unit's Speed is faster than the target's, take -20% less damage\nJP :\n自分の速度が対象より高いか一方攻撃をするとき、対象へダメージ量 +20%, 自分の速度が対象より高ければ、被ダメージ量 -20%"
+  }
+]

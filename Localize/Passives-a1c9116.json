@@ -1,0 +1,142 @@
+[
+  {
+    "key": "9018301-name",
+    "original": "맞춰진 합",
+    "context": "EN :\nMeasured Clashes\nJP :\n合わせられたマッチ"
+  },
+  {
+    "key": "9018301-desc",
+    "original": "합 승리시, 다음 턴에 [Agility] 2 얻음 (턴 당 1회)",
+    "context": "EN :\nOn Clash Win, gain 2 [Agility] next turn (once per turn)\nJP :\nマッチ勝利時、次のターンに[Agility]2を得る(1ターンにつき1回)"
+  },
+  {
+    "key": "9019301-name",
+    "original": "억제된 움직임",
+    "context": "EN :\nSuppressed Movements\nJP :\n抑制された動き"
+  },
+  {
+    "key": "9019301-desc",
+    "original": "합 승리시, 다음 턴에 대상에게 [Binding] 2 부여  (턴 당 1회)",
+    "context": "EN :\nOn Clash Win, inflict 2 [Binding] on the target next turn (once per turn)\nJP :\nマッチ勝利時、次のターンに対象へ[Binding]2を付与"
+  },
+  {
+    "key": "9018501-name",
+    "original": "하달받은 명령",
+    "context": "EN :\nBestowed Mission\nJP :\n下達された命令"
+  },
+  {
+    "key": "9018501-desc",
+    "original": "스테이지 시작 시, [RepressedMurderousIntend]를 얻음",
+    "context": "EN :\nEncounter Start: gain [RepressedMurderousIntend]\nJP :\nステージ開始時、[RepressedMurderousIntend]を得る"
+  },
+  {
+    "key": "9018502-name",
+    "original": "각력[묘]",
+    "context": "EN :\nStrider [Mao]\nJP :\n脚力[卯]"
+  },
+  {
+    "key": "9018502-desc",
+    "original": "[BurstAgility]을 가지고 있는 적 적중시, 대상의 [Burst] 횟수 1 증가 (턴 당 최대 3회)",
+    "context": "EN :\nOn Hit against enemy with [BurstAgility]: inflict +1 [Burst] Count on the target (3 times per turn)\nJP :\n[BurstAgility]を持つ敵に的中時、対象の[Burst]回数が1増加(1ターンにつき最大3回)"
+  },
+  {
+    "key": "9018503-name",
+    "original": "기세[묘]",
+    "context": "EN :\nVigor [Mao]\nJP :\n気勢[卯]"
+  },
+  {
+    "key": "9018503-desc",
+    "original": "자신보다 속도가 낮은 대상 공격 시, 부여하는 [Burst] 혹은 [Burst] 횟수 +1",
+    "context": "EN :\nWhen attacking targets with slower Speed than this unit's, inflict +1 more [Burst] or [Burst] Count\nJP :\n自分より速度が低い対象を攻撃時、付与する[Burst]もしくは[Burst]回数 +1"
+  },
+  {
+    "key": "9018504-name",
+    "original": "압도[묘]",
+    "context": "EN :\nDominator [Mao]\nJP :\n圧倒[卯]"
+  },
+  {
+    "key": "9018504-desc",
+    "original": "자신의 속도가 대상보다 3 이상 높으면 코인 위력 +1",
+    "context": "EN :\nIf this unit's Speed is faster than the target's by 3 or more, Coin Power +1\nJP :\n自分の速度が対象より3以上高ければ、コイン威力 +1"
+  },
+  {
+    "key": "9102001-name",
+    "original": "앙갚음 장부",
+    "context": "EN :\nThe Book of Vengeance\nJP :\n仕返し帳簿"
+  },
+  {
+    "key": "9102001-desc",
+    "original": "피격 시, 대상에게 [MiddleFingerBook] 1 부여 (턴 당 1명의 대상에게 최대 1)\n스킬 사용시 대상이 [MiddleFingerBook]이면, ([MiddleFingerBook] 수치 / 4)만큼 합 위력이 증가 (최대 2)\n- 대상의 [MiddleFingerBook] 수치가 8 이상이면, ([MiddleFingerBook] 수치 / 3)만큼 기본 위력이 증가 (최대 3)",
+    "context": "EN :\nWhen hit, inflict 1 [MiddleFingerBook] against the attacker (1 target per turn; max 1)\nOn Skill Use, if the target has [MiddleFingerBook], gain ([MiddleFingerBook] / 4) Clash Power (max 2)\n- If the target has 8+ [MiddleFingerBook], gain ([MiddleFingerBook] / 3) Base Power (Max 3)\nJP :\n被ダメージ時、対象に[MiddleFingerBook]1を付与(1ターンにつき1名の対象へ最大1)\nスキル使用時、対象[MiddleFingerBook]なら、([MiddleFingerBook]の数値 ÷ 4)だけマッチ威力が増加(最大2)\n対象の[MiddleFingerBook]の数値が8以上なら、([MiddleFingerBook]の数値 ÷ 3)だけ基本威力が増加(最大3)"
+  },
+  {
+    "key": "9102002-name",
+    "original": "원한 문신",
+    "context": "EN :\nVengeance Tattoo\nJP :\n怨恨の刺青"
+  },
+  {
+    "key": "9102002-desc",
+    "original": "이번 전투에서 중지 소속 아군이 사망할 때마다 [AttackUp] 1 얻음 (최대 5)",
+    "context": "EN :\nEvery time a Middle ally is killed in this encounter, gain 1 [AttackUp] (max 5)\nJP :\n今回の戦闘にて、中指所属の味方が死亡するたびに[AttackUp]1を得る(最大5)"
+  },
+  {
+    "key": "9102003-name",
+    "original": "의리 사슬",
+    "context": "EN :\nChains of Loyalty\nJP :\n義理の鎖"
+  },
+  {
+    "key": "9102003-desc",
+    "original": "중지 소속 아군 사망 시 다음 턴에 [PlusCoinValueUp] 1 얻음. (최대 2)",
+    "context": "EN :\nWhen an ally from the Middle is killed, gain 1 [PlusCoinValueUp] next turn. (max 2)\nJP :\n中指所属の味方が死亡時、次のターンに[PlusCoinValueUp]1を得る(最大2)"
+  },
+  {
+    "key": "9018701-name",
+    "original": "액화 육체",
+    "context": "EN :\nLiquified Body\nJP :\n液化肉体"
+  },
+  {
+    "key": "9018701-desc",
+    "original": "받는 피해량 -10%",
+    "context": "EN :\nDamage Taken -10%\nJP :\n被ダメージ量 -10%"
+  },
+  {
+    "key": "9018702-name",
+    "original": "시체 청소",
+    "context": "EN :\nCorpse Cleanup\nJP :\n死体掃除"
+  },
+  {
+    "key": "9018702-desc",
+    "original": "턴 종료 시 이번 턴에 사망한 캐릭터가 있으면, 최대 체력의 5% 회복\n적 처치 시 최대 체력의 2~5% 회복",
+    "context": "EN :\nTurn End: if anyone died this turn, heal 5% HP\nOn Kill, heal 2~5% HP\nJP :\nターン終了時、このターンにて死亡したキャラクターがいるなら、体力最大値の5%だけ回復\n敵討伐時、体力最大値の2～5%が回復"
+  },
+  {
+    "key": "9018703-name",
+    "original": "가족을 위하여",
+    "context": "EN :\nFor the Family\nJP :\n家族のため"
+  },
+  {
+    "key": "9018703-desc",
+    "original": "턴 종료시 생존한 청소부의 수만큼 정신력 회복",
+    "context": "EN :\nTurn End: heal SP equal to the number of surviving Sweepers\nJP :\nターン終了時、生存した掃除屋の数だけ精神力が回復"
+  },
+  {
+    "key": "9018704-name",
+    "original": "뒷골목의 밤",
+    "context": "EN :\nNight in the Backstreets\nJP :\n裏路地の夜"
+  },
+  {
+    "key": "9018704-desc",
+    "original": "2웨이브 이후로 등장할 경우, 정신력 30으로 등장함.",
+    "context": "EN :\nWhen joining after Wave 2, enter with 30 SP.\nJP :\n2ウェーブ以降出現する場合、精神力30で出場する"
+  },
+  {
+    "key": "9102004-name",
+    "original": "기회 잡기",
+    "context": "EN :\nSeize ya Chance\nJP :\nチャンスを掴む"
+  },
+  {
+    "key": "9102004-desc",
+    "original": "사용할 수 있는 반격 스킬이 있는 동안 흐트러짐 상태가 되지 않음.",
+    "context": "EN :\nCannot be Staggered while a usable Counter Skill is in this unit's Skill Slot.\nJP :\n使用できる反撃スキルがある間、混乱状態にならない"
+  }
+]

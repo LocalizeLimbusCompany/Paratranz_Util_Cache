@@ -1,0 +1,102 @@
+[
+  {
+    "key": "112601-name",
+    "original": "부여받은 명령",
+    "context": "EN :\nBestowed Mission\nJP :\n授けられた命令"
+  },
+  {
+    "key": "112601-desc",
+    "original": "스테이지 시작 시, [WeighedMurderousIntend]를 얻음",
+    "context": "EN :\nEncounter Start: gain [WeighedMurderousIntend]\nJP :\nステージ開始時、[WeighedMurderousIntend]を得る"
+  },
+  {
+    "key": "112603-name",
+    "original": "각력[묘]",
+    "context": "EN :\nStrider [Mao]\nJP :\n脚力[卯]"
+  },
+  {
+    "key": "112603-desc",
+    "original": "자신보다 속도가 낮은 대상 공격 시, 부여하는 [Burst] 혹은 [Burst] 횟수 +2, 피해량 +10%",
+    "context": "EN :\nWhen attacking targets with slower Speed than this unit's, inflict +1 more [Burst] or [Burst] Count and deal +10% more damage\nJP :\n自分より速度が低い対象を攻撃時、付与する[Burst]もしくは[Burst]回数 +2, ダメージ量 +10％"
+  },
+  {
+    "key": "112602-name",
+    "original": "기세[묘]",
+    "context": "EN :\nVigor [Mao]\nJP :\n気勢[卯]"
+  },
+  {
+    "key": "112602-desc",
+    "original": "[BurstAgility]을 가지고 있는 적 적중시, 대상의 [Burst] 횟수 2 증가 (턴 당 최대 6)",
+    "context": "EN :\nOn Hit against enemy with [BurstAgility]: inflict +2 [Burst] Count on the target (6 times per turn)\nJP :\n[BurstAgility]を持つ敵に的中時、対象の[Burst]回数が2増加(1ターンにつき最大6)"
+  },
+  {
+    "key": "112604-name",
+    "original": "압도[묘]",
+    "context": "EN :\nDominator [Mao]\nJP :\n圧倒[卯]"
+  },
+  {
+    "key": "112604-desc",
+    "original": "스킬 사용 시 자신의 속도가 대상보다 2 이상 높으면 코인 위력 +1",
+    "context": "EN :\nOn Skill Use, if this unit's Speed is faster than the target's by 2 or more, Coin Power +1\nJP :\nスキル使用時、自分の速度が対象より2以上高いならコイン威力+1"
+  },
+  {
+    "key": "112701-name",
+    "original": "작은 형님",
+    "context": "EN :\nThe Big Brother\nJP :\n末兄"
+  },
+  {
+    "key": "112701-desc",
+    "original": "턴 시작 시 자신을 포함한 모든 아군의 정신력 10 회복\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]으로 받는 피해량 -20%",
+    "context": "EN :\nTurn Start: all allies, including this unit, heal 10 SP\nTake -20% less damage from [Combustion], [Laceration], [Vibration], [Burst], [Sinking]\nJP :\nターン開始時、自分を含む全味方の精神力を10回復\n[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]での被ダメージ量 -20%"
+  },
+  {
+    "key": "112702-name",
+    "original": "원한 문신",
+    "context": "EN :\nVengeance Tattoo\nJP :\n怨恨の刺青"
+  },
+  {
+    "key": "112702-desc",
+    "original": "이번 전투에서 중지 소속 아군이 사망할 때마다 [AttackUp] 1을 얻음 (최대 5)",
+    "context": "EN :\nEvery time a Middle ally is killed in this encounter, gain 1 [AttackUp] (max 5)\nJP :\n今回の戦闘にて、中指所属の味方が死亡するたびに[AttackUp]1を得る(最大5)"
+  },
+  {
+    "key": "112703-name",
+    "original": "조금 더 퍼석해져버린 머리",
+    "context": "EN :\nDeeper in the World of Bristly\nJP :\n更にパサついてしまった髪"
+  },
+  {
+    "key": "112703-desc",
+    "original": "합에서 2회 패배하면, 다음 턴에 [DefenseDown] 6을 얻음",
+    "context": "EN :\nIf this unit loses 2 Clashes, gain 6 [DefenseDown] next turn\nJP :\nマッチで2回敗北すると、次のターンにて[DefenseDown]6を得る"
+  },
+  {
+    "key": "112704-name",
+    "original": "앙갚음 장부",
+    "context": "EN :\nThe Book of Vengeance\nJP :\n仕返し帳簿"
+  },
+  {
+    "key": "112704-desc",
+    "original": "자신 또는 아군 중지 조직원이 피격 시, 공격자에게 [MiddleFingerBook]을 1 부여하고, 다음 턴에 [AttackUp] 1 얻음 (턴 당 최대 5)\n- 아군 중지 조직원이 스킬로 사망 시, 공격자에게 [MiddleFingerBook] 2 추가 부여",
+    "context": "EN :\nWhen this unit or its ally is hit, inflict 1 [MiddleFingerBook] against the attacker, then gain 1 [AttackUp] next turn (max 5 per turn)\n- When an allied unit from The Middle is killed by a Skill, inflict 2 additional [MiddleFingerBook] against the attacker\nJP :\n自分または味方の中指組員被ダメージ時、攻撃者に[MiddleFingerBook]を1付与し、次のターンに[AttackUp]1を得る(1ターンにつき最大5)\n- 味方の中指組員がスキルで死亡時、攻撃者へ[MiddleFingerBook]2を追加で付与"
+  },
+  {
+    "key": "112705-name",
+    "original": "전투 부상",
+    "context": "EN :\nWounded in Battle\nJP :\n戦闘負傷"
+  },
+  {
+    "key": "112705-desc",
+    "original": "최대 체력의 40% 만큼 체력이 감소한 상태로 전투 시작 (부위 포함)",
+    "context": "EN :\nBegins Encounter with 40% less HP (including Parts)\nJP :\n体力が最大値の40%だけ減少した状態で戦闘開始(部位を含む)"
+  },
+  {
+    "key": "112707-name",
+    "original": "머리 털기",
+    "context": "EN :\nBrush it Off\nJP :\n髪を振り払う"
+  },
+  {
+    "key": "112707-desc",
+    "original": "패닉 상태가 되면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력이 0으로 초기화 됨.",
+    "context": "EN :\nWhen in panic, recover from panic at the start of the next turn and reset SP to 0.\nJP :\nパニック状態になると、次のターン開始時にパニック状態を解除して精神力が0に初期化される。"
+  }
+]

@@ -1,0 +1,516 @@
+[
+  {
+    "key": "0-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "0-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "0-content",
+    "original": "으함… 단테, 어제 먹고 남았던 케이크 어디 있는지 못 봤어?",
+    "context": "EN :\nYawn... Dante, any idea where that leftover cake from yesterday went?\nJP :\nふぁあ…ダンテ、昨日食べ残したケーキ見てない？"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<…글쎄? 나는 먹지도 못해서 주의 깊게 보질 않으니까…>",
+    "context": "EN :\n<… No idea. I mean, why would I know? I can't even eat...>\nJP :\n<…さぁ？私は食べられもしないから\n気にもしてなかったけど……。>"
+  },
+  {
+    "key": "2-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "2-content",
+    "original": "끄응… 이미 돈키가 먹었나…?",
+    "context": "EN :\nDarn… Did Donqui already get her paws on ‘em…?\nJP :\nうぅ…もうドンキが食べちゃった…？"
+  },
+  {
+    "key": "3-content",
+    "original": "이러니까 내 방에서 하자니까~ 라는 말을 남기곤, 로쟈는 졸려 보이는 눈을 비비적거리며 뒷문을 향해 걸어갔다.",
+    "context": "EN :\nRodya rubbed her tired eyes, muttered something about how we should've partied in her room instead, and stumbled to the Backdoor.\nJP :\nだから私の部屋でやろうって言ったでしょ～って言葉を残して、\nロージャは眠たそうな目を擦りながら\n裏口に向かってゆっくりと歩いていった。"
+  },
+  {
+    "key": "4-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "4-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "5-content",
+    "original": "수감자들이 LCE에서 이런저런 소동을 겪은 지도 얼마 지나지 않아, 버스의 안에는 어느새 새해가 찾아왔다.",
+    "context": "EN :\nThe new year's came swiftly to the inhabitants of the bus after the various incidents at the LCE.\nJP :\n囚人たちがLCEでいろいろ騒ぎを起こしてから間もなく、\nバスの中にはいつの間にか新年が訪れていた。"
+  },
+  {
+    "key": "6-place",
+    "original": "어제, 메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles, Yesterday\nJP :\n昨日、メフィストフェレス 内部"
+  },
+  {
+    "key": "6-content",
+    "original": "각자 지내고 살아온 곳은 다르더라도 모두가 해를 넘길 때 크고 작게나마 축하하던 문화가 있었던 것인지, 버스에서 간단한 신년회를 하자는 이야기가 돌았고…",
+    "context": "EN :\nThe Sinners all came from different backgrounds and parts of the City, but annual celebration for new year’s seemed to be a thread that connected their cultures together. They began floating the idea of a new year’s party, and…\nJP :\nそれぞれ過ごしてきた場所は違ったとしても、\nみんな年を越すときに大小ながら祝う文化があったのか、\nバスでも簡単に新年会を開こうとする話が出て…。"
+  },
+  {
+    "key": "7-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "7-content",
+    "original": "좋네! 그러면 본인이 직접 주최하지!",
+    "context": "EN :\nExcellent! Then permit me the honor of hosting this banquet!\nJP :\nよいな！それなら当人が手ずから主催しよう！"
+  },
+  {
+    "key": "8-content",
+    "original": "자리에서 벌떡 일어난 돈키호테가 여느 때처럼 눈을 빛내며 힘차게 외치는 것으로, 신년회가 결정되었다.",
+    "context": "EN :\n... with her usual overdramatic boast, coupled with the familiar twinkle in her eyes, Don Quixote declared that there would indeed be a new year's party. And thus it was decided.\nJP :\nその場からバッと立ち上がったドンキホーテが\nいつものように目を輝かせながら力一杯叫んだことで\n新年会が決まった。"
+  },
+  {
+    "key": "9-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "9-content",
+    "original": "또…? 저번에도 크리스마스랍시고 뒷문까지 들어가서 난장판을 벌였었잖아… ",
+    "context": "EN :\nAgain…? After all the hell we went through with the Backdoor and whatnot for the out-of-season Christmas celebration…?\nJP :\nまた…？この前もクリスマスだなんだ言って\n裏口まで入って滅茶苦茶になったろ…。"
+  },
+  {
+    "key": "10-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10-content",
+    "original": "크흠… 그때는 가져온 장식품으로 버스를 꾸미기만 했지 따로 무얼 하진 않았잖는가…",
+    "context": "EN :\nAhem... Yet I must insist, for 'twas but an effort to decorate the bus, the intent quite divorced from the act of celebration...\nJP :\nケホン…あのときは持ってきた装飾品でバスを\n飾っただけで他に何かしらやったわけでは\nないではないか…。"
+  },
+  {
+    "key": "11-content",
+    "original": "돈키호테는 뒷머리를 긁적이며 슬며시 싱클레어를 쳐다보았다.",
+    "context": "EN :\nDon Quixote glanced at Sinclair, sheepishly scratching the back of her head.\nJP :\nドンキホーテは後頭部を掻きながらチラリとシンクレアを見つめた。"
+  },
+  {
+    "key": "12-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "12-content",
+    "original": "음? 아아… 저는 이제 진짜 괜찮은데요, 하하…",
+    "context": "EN :\nHuh? Ohh… Don’t worry about me, really. Ha ha…\nJP :\nうん？あぁ…僕はもうホントに\nだいじょぶなんですけど、あはは…。"
+  },
+  {
+    "key": "13-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "13-content",
+    "original": "그, 저… 크흠. 이전에 본인이 난장을 좀 피운 것도 있고… 물론! 본의는 아니었지만~ 이렇게 분위기를 환기하는 것이…",
+    "context": "EN :\nWell, 'tis... ahem. 'Tis true that mine actions hath brought thee quite the distress—unintentionally, I might add—thus I ask thee... wouldst thou not agree that a communal event to mark the occasion might freshen both our spirits and bodies?\nJP :\nそっ、その…ケホン。この前に当人が騒ぎを起こしたこともあり…。\n勿論！本意では無かったが～。こうやって気分転換をするのが…。"
+  },
+  {
+    "key": "14-content",
+    "original": "…예전 같았다면 그저 꾸미는 데에 정신이 팔려 싱클레어의 기분 따위는 신경 쓰지 않았겠지만, 아무래도 지금의 돈키호테는 주변에 좀 더 신경을 쓰게 된 것 같다.",
+    "context": "EN :\n... I can't even begin to imagine her amnesiac self even taking a moment to give a damn about how Sinclair might take it, but I guess with memory came tact.\nJP :\n…以前なら飾りつけに夢中でシンクレアの気持ちなんか気にも\n留めなかっただろうけど、どうやら今のドンキホーテは\n周りに少し気を配るようになったみたいだ。"
+  },
+  {
+    "key": "15-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "15-content",
+    "original": "뭐~ 다 같이 보내는 첫 새해인데 기념할 만하지 않나? 종소리를 딱 들어줘야 뭔가 넘어간 기분이 든단 말이지~",
+    "context": "EN :\nYa know~ It's our first new year's together! It sure is an occasion for a celebration, huh? Gotta hear that bell go ding~ to really mark the transition to a new year, right~?\nJP :\nまあ～。みんなで迎える初めての新年だし、記念する価値はあるでしょ？\n鐘の音をちゃんと聞いてこそ新年越したって気がするし～。"
+  },
+  {
+    "key": "16-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "16-content",
+    "original": "다 같이 신년의 첫 해돋이를 보겠구료. 기념할 일이라고 보오.",
+    "context": "EN :\nAh, it seems that we shall be welcoming the first light of the new year in company of one another. This is indeed a cause for celebration.\nJP :\n皆ともに新年の初日の出を拝することとなりそうなり。\n記念すべきことならん。"
+  },
+  {
+    "key": "17-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "17-content",
+    "original": "신년전야의 국수는 제법 클래식하지.",
+    "context": "EN :\nA bowl of noodles before the last night of the year fades... classic.\nJP :\n大晦日の年越し蕎麦はなかなかクラシックだな。"
+  },
+  {
+    "key": "18-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "18-content",
+    "original": "크흡, 모두들 이렇게 좋아해 주니 본인의 가슴도 따듯해지네…!",
+    "context": "EN :\nSob… such bubbling enthusiasm from ye warmeth mine own heart…!\nJP :\nけほん、皆がこれほどまでに喜んでくれると\n当人の胸も温まるな…！"
+  },
+  {
+    "key": "19-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "19-content",
+    "original": "성대하게 준비하겠네! 반짝반짝 폭죽도 잔뜩! 그리고 맛있는 것도…",
+    "context": "EN :\nForsooth, the grandiosity of this banquet shall be one for the books! Fireworks most brilliant! Enough delicacies to—\nJP :\n盛大に準備しようぞ！キラキラのクラッカーもどっさり！\nそれに美味しい食べ物も…。"
+  },
+  {
+    "key": "20-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "20-content",
+    "original": "카론, 다음 정차 예정은 언제지?",
+    "context": "EN :\nCharon, when’s our next stop?\nJP :\nカロン、次の停車予定はいつだ？"
+  },
+  {
+    "key": "21-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "21-content",
+    "original": "메피는 앞으로 사흘은 달릴 거야. 빠른 도로에서 멈추는 바보는 없어.",
+    "context": "EN :\nMephi’ll be running nonstop for three days at least. Only dumb-dumbs stop on a fast road.\nJP :\nメフィはあと3日間は走るよ。\nはやい道路でとまるバカはいない。"
+  },
+  {
+    "key": "22-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "22-content",
+    "original": "…그렇다는군.",
+    "context": "EN :\n… So she says.\nJP :\n…だそうだ。"
+  },
+  {
+    "key": "23-content",
+    "original": "베르길리우스는 시큰둥하게 턱을 괴곤 비웃듯 그렇게 말했고.",
+    "context": "EN :\nVergilius muttered with his usual sardonic edge, one fist under his chin...\nJP :\nヴェルギリウスは気乗りしなさそうな顔で\n頬杖をつき、嘲るようにそう言い。"
+  },
+  {
+    "key": "24-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "24-content",
+    "original": "아아…",
+    "context": "EN :\nFie...\nJP :\nあぁ…。"
+  },
+  {
+    "key": "25-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "25-content",
+    "original": "내년… 에는… 미리 사두겠네…",
+    "context": "EN :\nFor next year’s celebration... the banquet shall be prepared… ere the promised hour…\nJP :\n来年…には…前もって買って置こうぞ…。"
+  },
+  {
+    "key": "26-content",
+    "original": "돈키호테의 성대한 분위기 환기 계획은 물거품이 되고 말았지만…",
+    "context": "EN :\nDon Quixote’s idea of a grand banquet depressingly fizzled into nothingness, but...\nJP :\nドンキホーテの盛大な気分転換計画は\n水の泡になってしまったけど…。"
+  },
+  {
+    "key": "27-content",
+    "original": "그 대신, 로쟈가 아껴둔 케이크와 과자들을 꺼내어 조촐하게나마 신년회를 열었다.",
+    "context": "EN :\n... Rodya brought out the cakes and cookies she'd stashed in her room so we could at least hold a small celebration for the new year's together.\nJP :\nその代わり、ロージャが取っておいたケーキや\nお菓子を取り出し、ささやかな新年会が開かれた。"
+  },
+  {
+    "key": "28-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "28-content",
+    "original": "그렇게 우리는 도시에 떠오르는 새해 첫 태양을 함께 바라본 뒤에 잠들었고…",
+    "context": "EN :\nAfter that, we all stayed up together, watched the new year's first sunrise briefly paint the City in gold, then retired to sleep.\nJP :\nそして、私たちは都市に昇る新年最初の太陽を\n皆で眺めてから眠りにつき…。"
+  },
+  {
+    "key": "29-content",
+    "original": "모두가 눈을 비비적거리며 일어났을 땐, 버스 바깥으로 비쳐 보이는 풍경이 달라져 있었다.",
+    "context": "EN :\nWhen everyone woke up, rubbing their tired eyes, the world outside the bus had completely transformed.\nJP :\n皆が目を擦りながら目覚めたときには、\nバスの外に映る風景は変わっていた。"
+  },
+  {
+    "key": "30-content",
+    "original": "거대한… 철판이 모여있는 것만 같은, 기이한 느낌의 공간으로.",
+    "context": "EN :\nThere was a... behemoth of a structure, bizarre in its presence, and its walls seemingly made of gargantuan steel plates.\nJP :\n巨大な…鉄板を寄せ集めたような、異様な空間へと。"
+  },
+  {
+    "key": "31-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "31-content",
+    "original": "H사… 인 것이오?",
+    "context": "EN :\nH Corp...?\nJP :\nH社…なりや？"
+  },
+  {
+    "key": "32-content",
+    "original": "수감자들의 소감대로, 바깥으로 보이는 풍경은… 여태껏 마주쳐온 다른 둥지들과는 사뭇 다른 느낌이었다.",
+    "context": "EN :\nThe Sinners began to voice their surprise; appropriately so, as what came into view was different from any of the Nests we'd passed by on our journey thus far.\nJP :\n囚人たちの感想通り、外に見える風景は…\nこれまで見てきた他の巣とはまるで異なっていた。"
+  },
+  {
+    "key": "33-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "33-content",
+    "original": "<저게 통째로 하나의 건물인 건가…?>",
+    "context": "EN :\n<Is that... is that massive structure all one building...?>\nJP :\n<あれが丸ごと一つの建物なの…？>"
+  },
+  {
+    "key": "34-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "34-content",
+    "original": "저게 통째로 둥지면… 여긴 뒷골목이 어떻게 있는 거야? 저 정도면 H사가 관리하는 면적을 다 덮고도 남겠는데?",
+    "context": "EN :\nIf that whole thing's the Nest... then where the hell's the Backstreets? That's big enough to cover H Corp.'s territory and then some.\nJP :\nあれが丸ごと巣ってんなら…ここは裏路地がどうなってんだ？\nあんくらいならH社が管理してる面積を\n覆い尽くしても余りそうじゃねぇか？"
+  },
+  {
+    "key": "35-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "35-content",
+    "original": "…뭐. 기대도 안 했어요. 바보 같은 소리를 하는 걸 보니 안내서는 손도 안 댄 거겠죠.",
+    "context": "EN :\n… Well. There he goes again, asking dumb questions without ever taking a peep at the guidebook.\nJP :\n…まぁ。期待すらしてませんでした。\n馬鹿みたいなこと言ってるのを聞くに、\n案内書には手にも付けなかったんでしょうね。"
+  },
+  {
+    "key": "36-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "36-content",
+    "original": "설명하자면 저건 둥지가 아니에요. 저 건물 전체가 8구거든요.",
+    "context": "EN :\nThat’s not the Nest. That huge box you see over there? That's District 8.\nJP :\n説明するとアレは巣じゃないです。\nあの建物全体が8区なんですよ。"
+  },
+  {
+    "key": "37-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "37-content",
+    "original": "H사에서는 홍원이라고 부른답니다.",
+    "context": "EN :\nWe call it Hongyuan—The Vast Garden—here at H Corp.\nJP :\nH社では鴻園(ホンユェン)と呼びます。"
+  },
+  {
+    "key": "38-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "38-content",
+    "original": "건물의 중앙에는 둥지, 그 테두리로는 뒷골목이 있죠.",
+    "context": "EN :\nThe Nest lies within the center of the structure, and the Backstreets without.\nJP :\n建物の中央には巣、\nその囲いには裏路地があります。"
+  },
+  {
+    "key": "39-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "39-content",
+    "original": "으윽… 저 안에 그럼 바글바글 모여서 살고 있다는 거야? 빛도 안 드는 곳에서?",
+    "context": "EN :\nUgh… so they squeezed the entire population of this district in there? Do they just not get a ray of sunlight all year round?\nJP :\nうぅ…じゃあ、あの中にうじゃうじゃ集まって生きてるってことか？\n光も差さない場所で？"
+  },
+  {
+    "key": "40-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "40-content",
+    "original": "허… 그래도 뭐, 비 맞을 걱정은 덜겠네.",
+    "context": "EN :\nHuh… well, at least they won’t have to worry about the rain.\nJP :\nはっ…それでもまぁ、雨に濡れる心配はなさそうだな。"
+  },
+  {
+    "key": "41-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "41-content",
+    "original": "어, 어디! 본인도 좀 보겠네!",
+    "context": "EN :\nA-ah! Prithee, avail me a sight as well!\nJP :\nど、どれ！当人も少し見せてくだされ！"
+  },
+  {
+    "key": "42-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "42-content",
+    "original": "<…….>",
+    "context": "EN :\n<…….>\nJP :\n<……。>"
+  },
+  {
+    "key": "43-content",
+    "original": "뒤늦게 일어난 수감자들이 하나둘 모여 창밖을 바라보는 동안, 나는 슬며시 앉아 있는 홍루의 얼굴을 바라보았다.",
+    "context": "EN :\nAs the Sinners began to gather one by one at the other side of the bus, stirred awake from their late night’s rest, I felt my gaze drawn toward Hong Lu.\nJP :\n遅れて起き出した囚人たちが一人また一人と集まって窓の外を眺めている間、\n私はそっと座っているホンルの顔を眺めた。"
+  },
+  {
+    "key": "44-content",
+    "original": "혹시나 수심이 깊지는 않을까, 걱정하는 마음으로.",
+    "context": "EN :\nI look for signs of concern or distress on his face, worried.\nJP :\nもしかすると深く思い悩んでいるのではないかと、\n気がかりで。"
+  },
+  {
+    "key": "45-content",
+    "original": "으레 자신의 차례가 다가오는 수감자들이 그랬던 것도 있지만, 1년이 넘는 시간 동안 드문드문 들어왔던 홍루의 ‘고향 이야기’는 일관되게 암울했으니까.",
+    "context": "EN :\nIt wasn't exactly something unique to Hong Lu, but the stories about his past home life we've heard throughout the year, whenever he felt like sharing them, were all consistently and terribly depressing.\nJP :\n当然、自分の順番が近づいてきた囚人はいつもそうだったのもあるけど、\nこの1年あまりの間、時折耳にしたホンルの「故郷の話」は、\n一貫して暗いものだったから。"
+  },
+  {
+    "key": "46-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "46-content",
+    "original": "후후, 막상 지내보면 생각만큼 나쁜 곳은 아니랍니다~",
+    "context": "EN :\nFuhu, it’s not such a bad place once you actually try living here for a while~\nJP :\nふふ、いざ暮らしてみると\n思ったほど悪い所ではありませんよ～。"
+  },
+  {
+    "key": "47-content",
+    "original": "하지만, 홍루의 표정은 여느 때와 다름없는 온화하고 가벼운 웃음기가 올라온 채다.",
+    "context": "EN :\nBut his lips, ever-so-slightly curled upward into a kindly and relaxed smile, are making the same expression as ever.\nJP :\nけれども、ホンルはいつもと変わらぬ\n穏やかで軽い微笑みを浮かべている。"
+  },
+  {
+    "key": "48-content",
+    "original": "처음 만났을 때와 단 한 번도 달라진 적이 없이.",
+    "context": "EN :\nAn expression that hasn't changed at all since our first meeting.\nJP :\n初めて会ったときから\nたったの一度も変わることなく。"
+  },
+  {
+    "key": "49-content",
+    "original": "어쩌면 홍루가 항상 아무렇지 않다는 듯이 넘기는 것처럼, 그저 문화의 차이일지도 모르지만…",
+    "context": "EN :\nMaybe it’s just a cultural difference, kinda like how Hong Lu can be so nonchalant about things that should give most people pause. But…\nJP :\nもしかしたら、ホンルがいつも平気そうに受け流しているように、\n単に文化の違いなのかもしれないけれど…。"
+  },
+  {
+    "key": "50-content",
+    "original": "아니, 이런 생각은 지금 그다지 도움이 되진 않을 것 같다.",
+    "context": "EN :\nActually, no. I'm not helping anyone or anything by entertaining these thoughts.\nJP :\nいや、こんな考えは今したところで\nそこまで役に立たないだろう。"
+  },
+  {
+    "key": "51-content",
+    "original": "우선 내가 해야 할 일은, 홍루를 평소보다 면밀히 잘 지켜보는 일…",
+    "context": "EN :\nMy job, at this moment, is to keep a close eye on Hong Lu, more so than usual…\nJP :\nとにかく私がやるべきなのは、\nホンルを普段よりも注意深く見守ること…。"
+  },
+  {
+    "key": "52-content",
+    "original": "그리고 관리자로서 도울 수 있는 순간이 찾아올 때 최선을 다하는 일일 테니까.",
+    "context": "EN :\nAnd if the time comes for me to help him, as the manager, I'll give it my all.\nJP :\nそして管理人として、助けられる瞬間が訪れたら\n最善を尽くすことなのだから。"
+  },
+  {
+    "key": "53-content",
+    "original": "더욱이…",
+    "context": "EN :\nBesides...\nJP :\nましてや…。"
+  },
+  {
+    "key": "54-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "54-content",
+    "original": "우아… 가까이서 보니까 생각보다 엄청 크잖아…?",
+    "context": "EN :\nWhoa… This thing’s even bigger up close…!\nJP :\nうわぁ…近くで見ると思ったよりずっと大きいね…？"
+  },
+  {
+    "key": "55-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "55-content",
+    "original": "이런 건 과거의 어떤 모험에서도 본 적이 없는 규모네만…!",
+    "context": "EN :\nVerily, I carry no recollection of a structure so grand, even in past adventures of mine…!\nJP :\nこんなものは過去のいかなる冒険でも\n見たことのない規模であるな…！"
+  },
+  {
+    "key": "56-content",
+    "original": "그조차 부족한 상황이 온다면, 꼭 수감자들이 도움을 줄 테니까.",
+    "context": "EN :\n… if my efforts aren't enough, I know I can trust the Sinners to lend me a hand.\nJP :\nそれでも足りない状況が訪れたら、\nきっと囚人たちが力を貸してくれるだろうから。"
+  },
+  {
+    "key": "57-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "57-content",
+    "original": "<어디, 나도 좀 볼게.>",
+    "context": "EN :\n<Hey, let me see, too.>\nJP :\n<どれ、私にも見して。>"
+  },
+  {
+    "key": "58-content",
+    "original": "나는 그렇게 마음을 정돈하며, 유리창에 껌딱지처럼 달라붙어 있는 수감자들에게 조금 더 다가갔다.",
+    "context": "EN :\nI collected my thoughts and approached the Sinners who were flattened up against the glass window to get a good view.\nJP :\n私はそうやって気持ちを整えながら、窓ガラスへ\nガムのようにべったり張り付いている囚人たちにもう少し近づいた。"
+  }
+]

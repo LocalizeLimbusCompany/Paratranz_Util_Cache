@@ -1,0 +1,142 @@
+[
+  {
+    "key": "BurstAgility-name",
+    "original": "주살【신속】",
+    "context": "EN :\nDeathrite【Haste】\nJP :\n呪殺【迅速】"
+  },
+  {
+    "key": "BurstAgility-desc",
+    "original": "기본값: 3\n속도가 10 이상인 대상에게 공격 스킬로 피격되어 파열이 발동될 때 1 감소, 자신의 파열 횟수 1 증가\n수치가 0이 될 때, (파열 위력)만큼 탐식 속성 피해를 받고 소멸\n※ 이 효과는 갱신되지 않음",
+    "context": "EN :\nBase Stack: 3\nWhen getting Rupture triggered by getting hit by an Attack Skill from a target with 10+ Speed, lose 1 Stack and gain +1 Rupture Count\nAt 0 Stack, take Gluttony damage equal to Rupture Potency on self; then, this effect expires\n※ Cannot gain additional Stacks of this effect while it is already active\nJP :\n基本値: 3\n速度が10以上の対象に攻撃スキルでダメージを受けて破裂が発動するときに1減少、自分の破裂回数が1増加\n数値が0になるとき、(破裂威力)だけ暴食属性ダメージを受けて消滅\n※この効果は更新されない"
+  },
+  {
+    "key": "BurstAgility-summary",
+    "original": "조건 만족시, 탐식 추가 피해 입힘",
+    "context": "EN :\nIf conditions are met: inflict Gluttony bonus damage\nJP :\n条件満足時、暴食追加ダメージを与える"
+  },
+  {
+    "key": "LegStrength-name",
+    "original": "각력【묘】",
+    "context": "EN :\nStrider【Mao】\nJP :\n脚力【卯】"
+  },
+  {
+    "key": "LegStrength-desc",
+    "original": "최댓값: 3\n턴 종료 시 다음 턴에 신속을 5 얻음\n턴 종료 시 1 감소",
+    "context": "EN :\nMax Stack: 3\nTurn End: gain 5 Haste next turn\nReduced by 1 at Turn End\nJP :\n最大値: 3\nターン終了時、次のターンにクイックを5得る\nターン終了時に1減少"
+  },
+  {
+    "key": "LegStrength-summary",
+    "original": "조건 만족시, 탐식 추가 피해 입힘",
+    "context": "EN :\nIf conditions are met: inflict Gluttony bonus damage\nJP :\n条件満足時、暴食追加ダメージを与える"
+  },
+  {
+    "key": "DarkBeast_LowMorale-name",
+    "original": "암수",
+    "context": "EN :\nDeception\nJP :\n暗数"
+  },
+  {
+    "key": "DarkBeast_LowMorale-desc",
+    "original": "- 사기 저하\n- 자신의 속도가 대상보다 빠르거나 일방 공격을 할 경우, 대상에게 피해량 +10%",
+    "context": "EN :\n- Low Morale\n- If this unit's Speed is faster than the target or when using an Unopposed Attack, deal +10% more damage against the target\nJP :\n- 士気低下\n- 自分の速度が対象より高いか一方攻撃をするとき、対象へダメージ量 +10%"
+  },
+  {
+    "key": "DarkBeast_Panic-name",
+    "original": "암수",
+    "context": "EN :\nDeception\nJP :\n暗数"
+  },
+  {
+    "key": "DarkBeast_Panic-desc",
+    "original": "- 패닉\n- 자신의 속도가 대상보다 빠르거나 일방 공격을 할 경우, 대상에게 피해량 +20%, 자신의 속도가 대상보다 빠르면, 받는 피해량 -20%",
+    "context": "EN :\n- Panic\n- If this unit's Speed is faster than the target or when using an Unopposed Attack, deal +20% more damage against the target; if this unit's Speed is faster than the target's, take -20% less damage\nJP :\n- パニック\n- 自分の速度が対象より高いか一方攻撃をするとき、対象へダメージ量 +20%, 自分の速度が対象より高ければ、被ダメージ量 -20%"
+  },
+  {
+    "key": "RepressedMurderousIntend-name",
+    "original": "억눌린 살기",
+    "context": "EN :\nRepressed Bloodthirst\nJP :\n抑え込まれた殺気"
+  },
+  {
+    "key": "RepressedMurderousIntend-desc",
+    "original": "공격 레벨 -10, 방어 레벨 -10",
+    "context": "EN :\nOffense Level -10, Defense Level -10\nJP :\n攻撃レベル -10、防御レベル -10"
+  },
+  {
+    "key": "WeighedMurderousIntend-name",
+    "original": "짓눌린 살기",
+    "context": "EN :\nCrushed Bloodthirst\nJP :\n押し潰された殺気"
+  },
+  {
+    "key": "WeighedMurderousIntend-desc",
+    "original": "공격 레벨 -25, 방어 레벨 -25",
+    "context": "EN :\nOffense Level -25, Defense Level -25\nJP :\n攻撃レベル -25、防御レベル -25"
+  },
+  {
+    "key": "MiddleFingerBook-name",
+    "original": "복수 대상",
+    "context": "EN :\nPunishment Mark\nJP :\n復讐対象"
+  },
+  {
+    "key": "MiddleFingerBook-desc",
+    "original": "최댓값 : 10\n중지 소속에게 공격당할 때, 받는 피해량 +3% (최대 30%)",
+    "context": "EN :\nMax Stack: 10\nWhen attacked by The Middle, take +3% more damage per Stack (max 30%)\nJP :\n最大値: 10\n中指所属に攻撃されるとき、被ダメージ量 +3%(最大30%)"
+  },
+  {
+    "key": "Persistent-name",
+    "original": "끈질김",
+    "context": "EN :\nPersistence\nJP :\nしつこさ"
+  },
+  {
+    "key": "Persistent-desc",
+    "original": "최댓값 : 4\n체력이 0이 되는 피해를 받으면, 80% 확률로 해당 피해를 받지 않고, 체력을 60 회복, 흐트러짐 해제하고 이 버프 소멸\n\n아래 상황에서는 사망 방지 및 회복 효과가 발동하지 않음\n- 피격 시 코인 피해량이 자신의 최대 체력을 초과\n- 체력 회복 감소 효과를 보유\n턴 종료시 수치 1 감소",
+    "context": "EN :\nMax Stack: 4\nWhen taking lethal damage, 80% chance to not take that damage, heal 60 HP, recover from Stagger, and lose this effect\n\nThe above effects do not activate under the following conditions:\n- When the Coin damage taken exceeds this unit's max HP\n- When this unit has the HP Healing Down effect\nReduced by 1 at Turn End\nJP :\n最大値: 4\n体力が0になるダメージを受けると、80%の確率で該当ダメージを受けずに体力を60回復、混乱状態が解除されてこのバフが消滅\n\n下記の状態では死亡防止および回復効果が発動しない\n- 被ダメージ時にコインダメージ量が自分の体力最大値を超過\n- 体力回復効果減少を保有\nターン終了時に数値が1減少"
+  },
+  {
+    "key": "BackstreetsNight_LowMorale-name",
+    "original": "뒷골목의 밤",
+    "context": "EN :\nNight in the Backstreets\nJP :\n裏路地の夜"
+  },
+  {
+    "key": "BackstreetsNight_LowMorale-desc",
+    "original": "- 사기 저하\n- 턴 시작시 공격 위력 증가 1, 체력 회복 증가 1, 취약 1을 얻음",
+    "context": "EN :\n- Low Morale\n- Turn Start: gain 1 Attack Power Up, 1 HP Healing Boost, and 1 Fragile\nJP :\n- 士気低下\n- ターン開始時に攻撃威力増加 1, 体力回復増加 1, 脆弱 1を得る"
+  },
+  {
+    "key": "BackstreetsNight_Panic-name",
+    "original": "뒷골목의 밤",
+    "context": "EN :\nNight in the Backstreets\nJP :\n裏路地の夜"
+  },
+  {
+    "key": "BackstreetsNight_Panic-desc",
+    "original": "- 패닉\n- 턴 시작시 공격 위력 증가 2, 체력 회복 증가 2, 취약 1을 얻음",
+    "context": "EN :\n- Panic\n- Turn Start: gain 2 Attack Power Up, 2 HP Healing Boost, and 1 Fragile\nJP :\n- パニック\n- ターン開始時に攻撃威力増加 2, 体力回復増加 2, 脆弱 1を得る"
+  },
+  {
+    "key": "SweeperA-name",
+    "original": "제 1파",
+    "context": "EN :\nThe First Wave\nJP :\n第1波"
+  },
+  {
+    "key": "SweeperA-desc",
+    "original": "{0}턴 후 제 1파 종료",
+    "context": "EN :\nThe first wave ends after {0} turn(s)\nJP :\n{0}ターン後に第1波終了"
+  },
+  {
+    "key": "SweeperB-name",
+    "original": "제 2파",
+    "context": "EN :\nThe Second Wave\nJP :\n第2波"
+  },
+  {
+    "key": "SweeperB-desc",
+    "original": "{0}턴 후 제 2파 종료",
+    "context": "EN :\nThe second wave ends after {0} turn(s)\nJP :\n{0}ターン後に第2波終了"
+  },
+  {
+    "key": "SweeperC-name",
+    "original": "제 3파",
+    "context": "EN :\nThe Third Wave\nJP :\n第3波"
+  },
+  {
+    "key": "SweeperC-desc",
+    "original": "{0}턴 후 제 3파 종료",
+    "context": "EN :\nThe third wave ends after {0} turn(s)\nJP :\n{0}ターン後に第3波終了"
+  }
+]

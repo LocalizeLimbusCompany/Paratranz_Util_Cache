@@ -1,0 +1,723 @@
+[
+  {
+    "key": "0-place",
+    "original": "객잔 로비",
+    "context": "EN :\nKezhan Lobby\nJP :\n客桟 ロビー"
+  },
+  {
+    "key": "0-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "0-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "1-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "1-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "2-content",
+    "original": "다들 숙소의 안을 둘러보면서 떠들썩했지만, 유독 싱클레어가 왠지 모르게 어수선해 보인다.",
+    "context": "EN :\nEveryone was busy looking around and commenting on various things in our lodging, but Sinclair appeared to be the most anxious of them all.\nJP :\nみんな宿の中を見回しながらにぎやかにしていたが、\nシンクレアだけはどうにも落ち着かない様子だった。"
+  },
+  {
+    "key": "3-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "3-content",
+    "original": "<싱클레어?>",
+    "context": "EN :\n<Sinclair?>\nJP :\n<シンクレア？>"
+  },
+  {
+    "key": "4-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "4-content",
+    "original": "이, 이건 이상해요.",
+    "context": "EN :\nS-something in here stands out... like, imagine an ideal picture—\nJP :\nこ、これは恐ろしい惨事(さんじ)です。"
+  },
+  {
+    "key": "5-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "5-content",
+    "original": "불렀소?",
+    "context": "EN :\nDid you call?\nJP :\nお呼びかね？"
+  },
+  {
+    "key": "6-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "6-content",
+    "original": "그 농담 오랜만이네~",
+    "context": "EN :\nAw, I missed that joke, Yi Sang~\nJP :\nその冗談久しぶりだね～。"
+  },
+  {
+    "key": "7-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "7-content",
+    "original": "부른 건 아니지만… 아니, 아무튼! 지금… 지금 아무도 이상한 걸 모르겠어요?",
+    "context": "EN :\nThat's not what I was— I'm not—agh, anyway! Am I the only who feels like something stands out like a sore thumb from the whole picture?\nJP :\n呼んだわけじゃないですけど…。いえ、とにかく！\nいま…今、誰も変だってことに気付いてないんですか？"
+  },
+  {
+    "key": "8-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "8-content",
+    "original": "오! 그래, 마침 잘 말했어. 나도 나만 이상하게 느끼는 건가 싶어 말을 안 했거든.",
+    "context": "EN :\nOoh! Yeah, glad ya brought it up. I didn't say anything 'cuz I thought it was just me.\nJP :\nおっ！よく言ったね。私も私だけ変に感じるのかと思って黙ってたんだけどさ。"
+  },
+  {
+    "key": "9-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "9-content",
+    "original": "로쟈 씨…!",
+    "context": "EN :\nRodya...!\nJP :\nロージャさん…！"
+  },
+  {
+    "key": "10-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "10-content",
+    "original": "그래서 뭐가 이상하다는 건데?",
+    "context": "EN :\nSo what's so off about this place?\nJP :\nそれで、何が変だってんだ？"
+  },
+  {
+    "key": "11-model",
+    "original": "로쟈싱클",
+    "context": "这是当前说话人物的默认名称,仅供参考\n但是,令人震惊的是,此版本并没有相关翻译,请前往NickName条目查看相关内容"
+  },
+  {
+    "key": "11-content",
+    "original": "그야 당연히!",
+    "context": "EN :\nIsn't it obvious?!\nJP :\nそれはもちろん！"
+  },
+  {
+    "key": "12-model",
+    "original": "로쟈싱클",
+    "context": "这是当前说话人物的默认名称,仅供参考\n但是,令人震惊的是,此版本并没有相关翻译,请前往NickName条目查看相关内容"
+  },
+  {
+    "key": "12-content",
+    "original": "웰컴 푸드가 너무 적잖아!\n저 중앙에 있는 정체불명의 탁자죠!",
+    "context": "EN :\nWhere'd all the complimentary snacks go?!\nWhat's that weird mystery table at the center of this room?!\nJP :\nウェルカムフードが少なすぎるでしょ！\nあの中央にある正体不明のテーブルですよ！"
+  },
+  {
+    "key": "13-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "13-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "14-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "14-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "15-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "15-content",
+    "original": "어, 어라? 그러고 보니 저런 게 왜 여기에 있지?",
+    "context": "EN :\nH-huh, that <i>is</i> kinda weird, though. What's that table doing there?\nJP :\nあ、あれ？\nそういえば、なんであんなのが置いてあるんだろ？"
+  },
+  {
+    "key": "16-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "16-content",
+    "original": "색이 밝은 것이 꽤 귀엽구료.",
+    "context": "EN :\nIts saturated colors are quite the pleasant sight to behold.\nJP :\n色鮮やかにして、なかなか愛らしきものなり。"
+  },
+  {
+    "key": "17-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "17-content",
+    "original": "안은 좀 어떤…",
+    "context": "EN :\nSo, is it any better insi—\nJP :\n中はどうで―"
+  },
+  {
+    "key": "18-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "18-content",
+    "original": "아니, 뭔가요. 저 흉측한 탁자는?",
+    "context": "EN :\n... What the hell is that hideous table?\nJP :\nいや、何なんですか。あの気色悪いテーブルは？"
+  },
+  {
+    "key": "19-content",
+    "original": "객잔의 인테리어에서 시작된 소란은 수감자들이 모두 안쪽까지 들어온 뒤에서야 조금 진정됐다.",
+    "context": "EN :\nThe kerfuffle sparked by the particularly unsightly piece of indoor furniture calmed somewhat once everyone made it inside the building.\nJP :\n客桟のインテリアにまつわる騒ぎは、\n囚人たちが全員奥まで入ってきてやっと少し落ち着いた。"
+  },
+  {
+    "key": "20-content",
+    "original": "…물론 아직까지도 저 탁자의 의미에 대해선 아무도 감을 잡지 못했다.",
+    "context": "EN :\n... Of course, no one was able to discern the real purpose of that table yet.\nJP :\n…もっとも、あのテーブルの意味については\nまだ誰もわかっていないけれど。"
+  },
+  {
+    "key": "21-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "21-content",
+    "original": "음. 걸을 때마다 신발에 검은 것이 묻어나고 있다.",
+    "context": "EN :\nMm. Every step on the floor leaves black residue on the shoes.\nJP :\nうむ。歩くたびに靴に黒いものがくっついてくる。"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-content",
+    "original": "바닥만이 아니군요. 벽에도, 만질 때마다 검은 무언가가 묻어나오고 있네요.",
+    "context": "EN :\nNot only the floor. Touching the walls leaves an unidentified black substance on one's fingers.\nJP :\n床だけではありませんね。\n壁も、触れる度に黒い何かがついてきます。"
+  },
+  {
+    "key": "23-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "23-content",
+    "original": "거기에 벽이 묘하게 찰랑이고 있소. 도대체 무엇으로 만든 벽인지…",
+    "context": "EN :\nNot to mention how the walls... ripple in an odd fashion. What could possibly be the construction of this structure...?\nJP :\nしかも、壁の揺らぐこと妙なるかな。\nいったい何をもって造られしものか…。"
+  },
+  {
+    "key": "24-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "24-content",
+    "original": "뭐. 어지간히 관리를 안 한 거겠지…",
+    "context": "EN :\nWell. My guess is that the maintenance staff's been slacking...\nJP :\nまあ、よっぽど手入れされてないだけじゃないか…。"
+  },
+  {
+    "key": "25-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "25-content",
+    "original": "그렇다기엔 또 꽤 정갈하단 말이지… 내가 개차반인 데를 하도 돌아다녀서, 진짜 사람 손이 안 닿은 거랑 구분은 꽤 잘하거든.",
+    "context": "EN :\nMaybe, but why's everything so neatly organized if that's the case? I've been to enough seedy establishments to tell when a place has gone a while without a tidy-up.\nJP :\nそういうにはやたらと清潔なんだよな…。\n俺、汚ぇとこ散々うろついてっから、ガチで人の手が入ってない\n場所ってのは結構分かるんだけどよ。"
+  },
+  {
+    "key": "26-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "26-content",
+    "original": "크흠. 그래도 방마다 침상은 하나씩 있는 것으로 보입니다, 관리자님. 부족하지만, 휴식은 취할 수 있겠군요.",
+    "context": "EN :\nAhem. At least it appears that each room is furnished with a bed. While this is far from optimal, Executive Manager, we may be able to rest here.\nJP :\nけほん。それでも部屋ごとに寝床は1つずつあるようです、管理人様。\n粗末ながらも休息は取れそうですね。"
+  },
+  {
+    "key": "27-model",
+    "original": "가시춘",
+    "translation": "贾惜春",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nJia Xichun\nJP :\nジア・シーチュン"
+  },
+  {
+    "key": "27-title",
+    "original": "가씨 가문",
+    "context": "EN :\nJia Family\nJP :\nジア氏一家"
+  },
+  {
+    "key": "27-content",
+    "original": "허. 시간이 없긴 없었나 보지?",
+    "context": "EN :\nHuh. I guess they really didn't have the time to clean up.\nJP :\nはあ。ホントに時間が無かったみたいね？"
+  },
+  {
+    "key": "28-content",
+    "original": "로비의 바깥을 둘러보다 가장 마지막으로 안에 들어온 가시춘은 기가 막히는지 한동안 안을 바라보다가…",
+    "context": "EN :\nJia Xichun, the last person to walk in after having taken her time to examine the area outside the lobby, stared blankly around the room with an aghast expression...\nJP :\nロビーの外をざっと見回してから最後に入ってきた\nジア・シーチュンは、呆れた顔でしばらく中を眺めると…。"
+  },
+  {
+    "key": "29-model",
+    "original": "가시춘",
+    "translation": "贾惜春",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nJia Xichun\nJP :\nジア・シーチュン"
+  },
+  {
+    "key": "29-title",
+    "original": "가씨 가문",
+    "context": "EN :\nJia Family\nJP :\nジア氏一家"
+  },
+  {
+    "key": "29-content",
+    "original": "…성의가 없어도 너무 없어서 기가 차네.",
+    "context": "EN :\n... I'm not even sure what to say to this ridiculous negligence.\nJP :\n…雑すぎて言葉が出てこないね。"
+  },
+  {
+    "key": "30-content",
+    "original": "한마디를 쏘아붙이곤 방을 골라 안으로 들어갔다.",
+    "context": "EN :\n... then found her room after leaving a scathing remark.\nJP :\n一言そう言い放つと、部屋をひとつ選んで中に入っていった。"
+  },
+  {
+    "key": "31-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "31-content",
+    "original": "에휴, 우리가 뭐 수상쩍은 거 한두 번 당하냐. 이러다가 한바탕 하자고 하면 하는 거고 뭐.",
+    "context": "EN :\nSigh, it ain't the first time we're saunterin' right into some shady business, innit? Let's just cross that bridge when we come to it, yeah?\nJP :\nはぁ、オレらもまぁ怪しい状況なんてもうごまんと経験してるしな。\n何かあったらそのときボコスカやりゃいいだろ、まぁ。"
+  },
+  {
+    "key": "32-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "32-content",
+    "original": "뭐, 아까 그 양반 수상한 건 지나가는 애도 알 정도니까…",
+    "context": "EN :\nHm, I guess. Anyone could tell that there was something definitely wrong about that guy.\nJP :\nまぁ、さっきの旦那が怪しいのは\n通りすがりのガキにでも分かるしな…。"
+  },
+  {
+    "key": "33-content",
+    "original": "히스클리프를 포함한 몇몇 수감자는 이미 체념한 듯 한숨을 쉬며 바닥에 퍼져 앉았다.",
+    "context": "EN :\nSome Sinners, including Heathcliff, had already slumped to the floor, vociferously expressing their desire to rest with a collective sigh of exhaustion.\nJP :\nヒースクリフを含む、数人の囚人たちは既に諦めたかのように\n溜め息をつき、床へ倒れるように腰をおろした。"
+  },
+  {
+    "key": "34-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "34-content",
+    "original": "<뭐, 기묘하긴 하지만 일단 몸을 뉘일 곳은 있는 것 같네.>",
+    "context": "EN :\n<Well, it is pretty weird... but at least we have a roof over our heads.>\nJP :\n<まあ、妙といえば妙だけど\nとりあえず寝られる場所はあるみたいだし。>"
+  },
+  {
+    "key": "35-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "35-content",
+    "original": "그렇다면… 단테, 휴식을 선언해도 좋을 것 같네요.",
+    "context": "EN :\nIn that case, Dante... perhaps this may be a good time to announce today's close of business.\nJP :\nそれなら… ダンテ、休憩を宣言しても良いと思います。"
+  },
+  {
+    "key": "36-content",
+    "original": "버스 밖에서 이 말을 하는 건 처음인 것 같다.",
+    "context": "EN :\nHuh, I've never made this announcement outside the bus before.\nJP :\nバスの外でこの台詞を言うのは初めてな気がする。"
+  },
+  {
+    "key": "37-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "37-content",
+    "original": "<아, 아아… 수감자들의 업무 종료를 승인합니다.>",
+    "context": "EN :\n<O-oh, right... I hereby confirm today's close of business for the Sinners.>\nJP :\n<あ、あぁ…。囚人の業務終了を承認します。>"
+  },
+  {
+    "key": "38-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "38-content",
+    "original": "네, 감사합니다. 지금부터 변동 가능성을 가진 최대 12시간의 수면 및 휴식을 시작합니다. 좋은 밤 되시길.",
+    "context": "EN :\nUnderstood, thank you kindly. Starting now, you all will be given a maximum of 12 hours to partake in sleep and rest; the duration is subject to change. Have a good night.\nJP :\nはい、ありがとうございます。今から変動可能性のある最大12時間の\n就寝および休息を開始します。良い夜を。"
+  },
+  {
+    "key": "39-content",
+    "original": "그 말이 끝난 직후, 수감자들도 저마다 비틀거리며 방을 골라 찾아 들어가거나 중앙의 기묘한 탁자를 두고 개인 시간을 보내기 시작했다.",
+    "context": "EN :\nAs soon as she finished, the Sinners each began to relax in their own ways—some stumbling into their rooms, while others lingered to speculate over the bizarre table at the center of the room.\nJP :\nその言葉が終わると同時に、囚人たちは思い思いに部屋を選んで入ったり\n中央の妙なテーブルの周りで自由に時間を過ごし始めた。"
+  },
+  {
+    "key": "40-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "40-content",
+    "original": "…….",
+    "context": "EN :\n…….\nJP :\n……。"
+  },
+  {
+    "key": "41-content",
+    "original": "오티스를 제외하고.",
+    "context": "EN :\nSave for Outis, that is.\nJP :\nウーティスを除いて。"
+  },
+  {
+    "key": "42-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "42-content",
+    "original": "<…무슨 할 말이라도 있는 거야?>",
+    "context": "EN :\n<... Got something to say, Outis?>\nJP :\n<…何か言いたいことがあるの？>"
+  },
+  {
+    "key": "43-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "43-content",
+    "original": "예, 관리자님. 아까 그 경도라는 자 말입니다.",
+    "context": "EN :\nYes, Executive Manager. It's about our guide—Qingtao.\nJP :\nはい、管理人様。先程のあの\nチンタオという者についてです。"
+  },
+  {
+    "key": "44-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "44-content",
+    "original": "<아… 네 새로운 친구 말하는 거야? 아주 죽이 잘 맞던데?>",
+    "context": "EN :\n<Oh... your new best friend from earlier? Seemed like you guys were getting along pretty well.>\nJP :\n<ああ…君の新しい友だちのこと？\nすごくウマが合いそうだったけど？>"
+  },
+  {
+    "key": "45-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "45-content",
+    "original": "…예?! 그, 그런 게 아닙니다! 제가 ‘신호’도 보내지 않았습니까?",
+    "context": "EN :\n... I—what?! T-that is simply untrue! Did you not see the 'signal' I gave you earlier?\nJP :\n…はい！？そ、そんなことはありません！\n私が「合図」も送ったではありませんか！"
+  },
+  {
+    "key": "46-content",
+    "original": "신호…?",
+    "context": "EN :\nWhat signal...?\nJP :\n合図…？"
+  },
+  {
+    "key": "47-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "47-content",
+    "original": "<설마, 고개를 까딱거린 거?>",
+    "context": "EN :\n<Oh, you mean when you nodded slightly in my direction?>\nJP :\n<もしかして、あの首をちょっと動かしてたやつ？>"
+  },
+  {
+    "key": "48-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "48-content",
+    "original": "예! 그자는 이리저리 의혹을 꺼내 들어봐야 이곳의 지리를 이용해서 우리를 기만하기 쉬운 자였습니다.",
+    "context": "EN :\nIndeed! That individual has an informational advantage over us when it comes to this locale. Regardless of how sound the accusations we came up with were, he would have been able to explain them away using his familiarity with the region.\nJP :\nはい！あの男はいくら疑いを突きつけても、\nこの地理を利用して私たちを欺きやすい者でした。"
+  },
+  {
+    "key": "49-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "49-content",
+    "original": "차라리 기회를 봐 그런 식으로 친화를 포장하고, 의도대로 어울려주는 것이 정보가 모자란 저희가 취할 수 있는 가장 안전한…",
+    "context": "EN :\nI thought, as the party with an informational disadvantage, it would be wise to feign camaraderie and friendship with that individual and go along with their plans while trying to dig out as much intel as possible...\nJP :\nむしろ隙を見て、こちらがああいう形で親和性を装い、意図した通り\n付き合ってやるほうが、情報が乏しいこちらにとっては最も安全な…。"
+  },
+  {
+    "key": "50-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "50-content",
+    "original": "<나는… 진짜 그 수상쩍은 자에게 감화된 줄 알았는데…>",
+    "context": "EN :\n<I... I seriously thought that suspicious guy totally won you over...>\nJP :\n<私は…てっきり、ホントにあの怪しいヤツにほだされたのかと…。>"
+  },
+  {
+    "key": "51-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "51-content",
+    "original": "제 경력이 몇 년인데… 어찌… 그런 티가 풀풀 나는 첩자에게… 하아, 아닙니다…",
+    "context": "EN :\nExecutive Manager, I... I've been in this business for many years. How... how could you even imagine that I would be fooled by an amateur spy who's so overtly suspi— Haah, it's nothing.\nJP :\n私が何年この仕事をやってるというのに…なぜ…あんな露骨な間者に…。\nはぁ、いや…。"
+  },
+  {
+    "key": "52-content",
+    "original": "오티스는 눈에 띄게 실망한 것 같았지만, 좀 더 중요한 이야기가 있다는 듯 헛기침을 두어 번 하고 말을 이었다.",
+    "context": "EN :\nOutis's disappointment was palpable, but she stopped herself as though she remembered that there were more important matters at hand.\nJP :\nウーティスは目に見えて落胆した様子だったけど、\nもっと大事な話があると言わんばかりに、\n咳払いを二、三度してから話を続けた。"
+  },
+  {
+    "key": "53-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "53-content",
+    "original": "크흠, 그자가 언제까지 저희와 함께 할지는 모르겠지만… 홍루, 가보옥을 제거하기 위해 처음부터 LCCB에게 접근했다고 보는 것이 제일 합당한 추측 같습니다.",
+    "context": "EN :\nAhem. While it is uncertain as to how long that individual will be accompanying us, it would be reasonable to speculate that he approached the LCCB with the explicit purpose of eliminating Hong Lu... Jia Baoyu.\nJP :\nけほん、あの者がいつまで我々と共にいるかは分かりませんが…。\nホンル、つまりジア・バオユを排除するつもりでLCCBに\n接触したと考えるのが、最も筋が通った推測になると思われます。"
+  },
+  {
+    "key": "54-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "54-content",
+    "original": "파일럿, 그 어수룩한 초보의 모습을 보면… 그 근거로써 채택할 만하죠.",
+    "context": "EN :\nI present the fact that it was Pilot, that inexperienced greenhorn, who somehow conveniently came across this connection... as another evidence supporting this suspicion.\nJP :\nパイロット、あの浮ついた新人の様子を見れば…\nその根拠として充分でしょう。"
+  },
+  {
+    "key": "55-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "55-content",
+    "original": "<…그건, 그렇지.>",
+    "context": "EN :\n<... That's... also true.>\nJP :\n<それは…そうだね…。>"
+  },
+  {
+    "key": "56-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "56-content",
+    "original": "파우스트 측에서도 전달할 말이 있습니다.",
+    "context": "EN :\nFaust also has information to share.\nJP :\nファウストからも、お伝えすることがあります。"
+  },
+  {
+    "key": "57-content",
+    "original": "언제부터 듣고있었는지, 파우스트도 슬그머니 대화에 합류했다.",
+    "context": "EN :\nFaust joined the conversation after listening to us discuss for some time.\nJP :\nいつからか聞いていたらしいファウストが、\nそっと会話に加わった。"
+  },
+  {
+    "key": "58-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "58-content",
+    "original": "알려진 금기를 전부 확인해봤지만, 가내불가침이라는 금기를 찾을 수는 없었습니다.",
+    "context": "EN :\nA review of every known taboo has failed to identify one he called residential non-aggression taboo that universally prohibits acts of violence within residential areas.\nJP :\n既知の禁忌を全て確認してみましたが、\n家内不可侵という禁忌は見つかりませんでした。"
+  },
+  {
+    "key": "59-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "59-content",
+    "original": "<그럼 역시, 그것도…>",
+    "context": "EN :\n<Then that also has to be...>\nJP :\n<じゃあやっぱり、それも…。>"
+  },
+  {
+    "key": "60-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "60-content",
+    "original": "거짓으로 예단하긴 이릅니다. 이 홍원이라는 곳은 구역에 따라 금기가 바뀌는 경우도 있는 것 같으니.",
+    "context": "EN :\nIt is too early to come to conclusions regarding that matter. It appears that this area, Hongyuan, has taboos that change depending on your location within its territory.\nJP :\n嘘と予断するのは早いです。この鴻園という場所は\n区域によって禁忌が変わることもあるようですから。"
+  },
+  {
+    "key": "61-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "61-content",
+    "original": "하지만 여러 정황상, 진실일 확률이 희박한 것도 사실일 것입니다…",
+    "context": "EN :\nHowever, considering every other circumstantial evidence, we can come to a conclusion that he was most likely lying to us.\nJP :\nですがこれらの状況的に、\n本当である確率が希薄なのも事実でしょう…。"
+  },
+  {
+    "key": "62-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "62-content",
+    "original": "부정하진 않겠습니다.",
+    "context": "EN :\nYour assessment cannot be denied.\nJP :\n否定はしません。"
+  },
+  {
+    "key": "63-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "63-content",
+    "original": "그렇다면 저희는 이미 계획 속에 들어와 있을 것입니다. 아마 계속되었던 습격도… 약속된 게릴라일 가능성이 높고…",
+    "context": "EN :\nIn that case, we must already be deep within the enemy's machinations. The constant stream of 'random' assailants we faced earlier was also most likely also a part of their plan.\nJP :\nであれば、我々はすでにあちらの計画の中に入っているでしょう。\n恐らくずっと続いていた襲撃も…計画されたゲリラである可能性が高く…。"
+  },
+  {
+    "key": "64-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "64-content",
+    "original": "지금도 함정 안에 들어앉아 있을 수도 있을 것입니다. 저희 모두가 이 뒷골목에 대한 정보가 많진 않으니.",
+    "context": "EN :\nIt may very well be that this building itself is also a trap. Yet we lack the intelligence about this particular Backstreets to be certain.\nJP :\n今も罠の中に居座っているかもしれません。\n我々全員、この裏路地について十分な情報を持っているわけではありませんから。"
+  },
+  {
+    "key": "65-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "65-content",
+    "original": "…하지만 저쪽도 저희의 전력을 너무 허접하게 분석했을 것입니다. 그러니 그런 잡배들을 수배해서 습격했을 것이고.",
+    "context": "EN :\n... However, we do have one minor advantage; it seems that they have severely underestimated our capabilities, given the low caliber of the assailants they decided to send after us.\nJP :\n…しかし、向こうもこちらの戦力を過度に低く分析したのでしょう。\nだからあんな雑魚を使って襲わせたのだと思われます。"
+  },
+  {
+    "key": "66-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "66-content",
+    "original": "서로 정보가 부족한 상태입니다. 경계를 늦추지만 않으면, 이 상황을 파훼할 수 있을 것입니다. 관리자님.",
+    "context": "EN :\nOne thing we can capitalize on is that mutual lack of intel. Keep our guard up, remain alert, and we should be able to navigate our way out of this trap, Executive Manager.\nJP :\nお互い情報が足りない状況です。警戒さえ怠らなければ、\nこの状況を切り抜けることは可能でしょう。管理人様。"
+  },
+  {
+    "key": "67-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "67-content",
+    "original": "<그래… 알겠어.>",
+    "context": "EN :\n<Okay... I get it now.>\nJP :\n<うん…分かった。>"
+  },
+  {
+    "key": "68-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "68-content",
+    "original": "<오해한 건… 미안해. 사실 반신반의이긴 했어.>",
+    "context": "EN :\n<I'm... sorry about the misunderstanding. Honestly, I didn't know who or what to trust.>\nJP :\n<誤解したのは…ごめん。正直、半信半疑だったんだ。>"
+  },
+  {
+    "key": "69-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "这是当前说话人物的默认名称,仅供参考\nEN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "69-content",
+    "original": "…다음엔 전부 신뢰가 될 수 있으면 좋겠군요.",
+    "context": "EN :\n... Then I would appreciate it if you could trust me fully next time.\nJP :\n…次は全幅の信頼を寄せていただけるといいのですがね。"
+  },
+  {
+    "key": "70-content",
+    "original": "오티스는 그렇게 꾸벅, 인사를 하곤 자신의 방으로 들어갔고…",
+    "context": "EN :\nOutis bowed politely and returned to her room…\nJP :\nウーティスはそう言って軽く一礼し、\n自分の部屋へと戻っていき…。"
+  },
+  {
+    "key": "71-content",
+    "original": "파우스트와는 간단히 경도에 대한 이야기를 더 나누었지만, 확실한 무언가를 얻어내진 못하고 대화가 마무리되었다.",
+    "context": "EN :\nFaust and I chatted a little more about Qingtao and his plans, but our discussion ended without bearing much fruit.\nJP :\nファウストとはチンタオについてもう少し話をしたけど、\nはっきりとしたものは掴めないまま会話は終わった。"
+  }
+]

@@ -638,5 +638,35 @@
     "key": "mirrordungeon_start_bonus_personality_period-content",
     "original": "{0}까지",
     "context": "EN :\nUntil {0}\nJP :\n{0}まで"
+  },
+  {
+    "key": "mirrordungeon_purchase_achievement_level_using_lunacy_desc-content",
+    "original": "※ 업적 경험치 {0} 구매 시, 유료 광기 {1} 소모",
+    "context": "EN :\n※ Purchasing {0} Achievement EXP costs {1} Paid Lunacy.\nJP :\n※アチーブメント経験時{0}購入時、有償狂気を{1}消耗"
+  },
+  {
+    "key": "mirrordungeon_purchase_achievement_level_ask_using_lunacy-content",
+    "original": "유료 광기 {0}개를 소모하여 경험치를 구매하시겠습니까?",
+    "context": "EN :\nSpend {0} Paid Lunacy to purchase Achievements EXP?\nJP :\n有償狂気{0}を消耗し、経験値を購入しますか？"
+  },
+  {
+    "key": "mirrordungeon_purchase_achievement_title-content",
+    "original": "업적 경험치 구매",
+    "context": "EN :\nPurchase Achievement EXP\nJP :\nアチーブメント経験値購入"
+  },
+  {
+    "key": "mirrordungeon_achievement_progress-content",
+    "original": "업적 진행도",
+    "context": "EN :\nProgress\nJP :\nアチーブメント進行度"
+  },
+  {
+    "key": "mirrordungeon_purchase_achievement_block_by_max_level-content",
+    "original": "구매 가능한 업적 레벨 초과",
+    "context": "EN :\nExceeded purchasable Achievement Level\nJP :\n購入可能なアチーブメントレベル超過"
+  },
+  {
+    "key": "mirrordungeon_achievement_max_level-content",
+    "original": "업적 레벨 최대 달성",
+    "context": "EN :\nAchievement Level maxed out\nJP :\nアチーブメントレベル最大値達成"
   }
 ]

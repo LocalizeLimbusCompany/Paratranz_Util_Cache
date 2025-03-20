@@ -576,8 +576,8 @@
   },
   {
     "key": "9009603-levelList$[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 다음 턴에 공격 위력 감소 1 부여",
-    "context": "EN :\n[OnSucceedAttack] Inflict 1 Attack Power Down next turn\nJP :\n[OnSucceedAttack] 次のターンに攻撃威力減少 1を付与"
+    "original": "[OnSucceedAttackHead] 다음 턴에 공격 위력 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Attack Power Down next turn\nJP :\n[OnSucceedAttackHead] 次のターンに攻撃威力減少 1を付与"
   },
   {
     "key": "9009603-levelList$[0].coinlist[1].coindescs[0].desc",
@@ -631,8 +631,8 @@
   },
   {
     "key": "9009606-levelList$[0].coinlist[0].coindescs[2].desc",
-    "original": "[OnSucceedAttack] 다음 턴에 마비 3 부여",
-    "context": "EN :\n[OnSucceedAttack] Inflict 3 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 3を付与"
+    "original": "[OnSucceedAttackHead] 다음 턴에 마비 3 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 3 Paralyze next turn\nJP :\n[OnSucceedAttackHead] 次のターンに麻痺 3を付与"
   },
   {
     "key": "9009701-levelList$[0].name",
@@ -641,8 +641,8 @@
   },
   {
     "key": "9009701-levelList$[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 다음 턴에 마비 1 부여",
-    "context": "EN :\n[OnSucceedAttack] Inflict 1 Paralyze next turn\nJP :\n[OnSucceedAttack] 次のターンに麻痺 1を付与"
+    "original": "[OnSucceedAttackHead] 다음 턴에 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Paralyze next turn\nJP :\n[OnSucceedAttackHead] 次のターンに麻痺 1を付与"
   },
   {
     "key": "9009702-levelList$[0].name",
@@ -671,8 +671,8 @@
   },
   {
     "key": "9009703-levelList$[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 다음 턴에 더하기 코인 약화1 부여",
-    "context": "EN :\n[OnSucceedAttack] Inflict 1 Plus Coin Drop next turn\nJP :\n[OnSucceedAttack] 次のターンに加算コイン弱化 1を付与"
+    "original": "[OnSucceedAttackHead] 다음 턴에 더하기 코인 약화1 부여",
+    "context": "EN :\n[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn\nJP :\n[OnSucceedAttackHead] 次のターンに加算コイン弱化 1を付与"
   },
   {
     "key": "9009703-levelList$[0].coinlist[1].coindescs[0].desc",

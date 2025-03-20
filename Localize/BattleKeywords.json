@@ -2842,7 +2842,7 @@
   {
     "key": "EchoOfMansion-desc",
     "original": "- 스킬, 코인의 효과로 침잠 위력이나 횟수가 부여될 때, 50% 확률로 침잠 횟수 1 증가\n- 정신력이 있는 대상인 경우, 패닉 유형이 '저택의 메아리'로 변경되고, 패닉이 되면 다음 턴에 자신을 제외한 같은 팀의 무작위 캐릭터 2명에게 저택의 메아리 2 부여\n- 정신력이 없는 대상인 경우, 앞면이 나올 확률 -10%\n- 턴 종료 시 1 감소\n- 이 효과는 합산되지 않고, 갱신됨.\n- 패닉 유형을 변경할 수 없는 일부 정신력이 있는 적에게는 정신력이 없는 대상의 효과가 적용됨.",
-    "context": "EN :\n- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Units with SP: Change Panic Type to Echoes of the Manor. When this unit Panics, inflict 2 Echoes of the Manor to 2 random other allies of this unit\n- Units without SP: -10% chance to flip Heads\n- Reduce by 1 at Turn End\nThis effect is not cumulative; inflicting it will replace the current value with the inflicted value.\n※ Apply the \"Units without SP\" conditional to certain enemies that have SP but can't change their Panic Types.\nJP :\n- スキル・コイン効果で沈潜威力や回数が付与されるとき、50％の確立で沈潜回数が1増加\n- 精神力を持つ対象の場合はパニックタイプが「邸宅の木霊」に変化し、パニックになると次のターンに自分を除いた同じチームのランダムなキャラクター2名に邸宅の木霊を2付与。\n- 精神力が無い対象の場合、表面が出る確率 -10％\n- ターン終了時に1減少\n- この効果は合算されず、更新される。\n- 精神力を持つがパニックタイプが変更されない一部の敵には、精神力を持たない場合の効果が適用される。"
+    "context": "EN :\n- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Units with SP: Change Panic Type to Echoes of the Manor. When this unit Panics, inflict 2 Echoes of the Manor to 2 random other allies of this unit next turn\n- Units without SP: -10% chance to flip Heads\n- Reduced by 1 at Turn End\nThis effect is not cumulative; inflicting it will replace the current value with the inflicted value.\n※ Apply the \"Units without SP\" conditional to certain enemies that have SP but can't change their Panic Types.\nJP :\n- スキル・コイン効果で沈潜威力や回数が付与されるとき、50％の確立で沈潜回数が1増加\n- 精神力を持つ対象の場合はパニックタイプが「邸宅の木霊」に変化し、パニックになると次のターンに自分を除いた同じチームのランダムなキャラクター2名に邸宅の木霊を2付与。\n- 精神力が無い対象の場合、表面が出る確率 -10％\n- ターン終了時に1減少\n- この効果は合算されず、更新される。\n- 精神力を持つがパニックタイプが変更されない一部の敵には、精神力を持たない場合の効果が適用される。"
   },
   {
     "key": "Switch_Vibration-name",
@@ -3112,7 +3112,7 @@
   {
     "key": "WanderingFootsteps_Sub-desc",
     "original": "- 앞면이 나올 확률 -10%\n- 턴 종료 시 1 감소",
-    "context": "EN :\n-10% chance to flip Heads\n- Reduced by 1 at Turn End\nJP :\n- 表面の出る確率 -10%\n- ターン終了時に1減少"
+    "context": "EN :\n- -10% chance to flip Heads\n- Reduced by 1 at Turn End\nJP :\n- 表面の出る確率 -10%\n- ターン終了時に1減少"
   },
   {
     "key": "WanderingFootsteps_LowMorale-name",

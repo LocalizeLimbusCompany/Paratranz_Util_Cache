@@ -1122,7 +1122,7 @@
   {
     "key": "233-desc",
     "original": "사용 시, E.G.O의 환상 해석 단계가 4단계까지 증가한다. (최대 WAW 등급까지 적용 가능)",
-    "context": "EN :\nRaises an E.G.O's Threadspinning Tier up to Tier 4. (Usable only on E.G.Os WAW Level or lower)\nJP :\n使用時にE.G.Oの幻想解析が4段階まで増加する。(最大WAVランクまで適用可能)"
+    "context": "EN :\nRaises an E.G.O's Threadspinning Tier up to Tier 4. (Usable only on E.G.Os WAW Level or lower)\nJP :\n使用時にE.G.Oの幻想解析が4段階まで増加する。(最大WAWランクまで適用可能)"
   },
   {
     "key": "233-flavor",
@@ -1238,5 +1238,25 @@
     "key": "235-flavor",
     "original": "이 티켓은 찢어야 사용된다.\n어떤 차원이나 시공간을 찢어너머 인격의 성장을 비정상적인 속도로 동기화 시키며 성장시킨다.\n찢는 소리가 중독적이어서 여러 개를 찢고 싶어진다고 한다.",
     "context": "EN :\nTear this ticket to activate it.\nIt tears through the space-time, uptying and enhancing an Identity at a ridiculous speed.\nIt makes a pretty addicting sound when it tears; makes one want to tear more tickets.\nJP :\nこのチケットは破くことで使用できる。\nとある次元や時空間を裂きながら、人格の成長を異常な速度で同期化しながら成長させる。\n破る音にやみつきになって、何枚も破りたくなるとのこと。"
+  },
+  {
+    "key": "20029-name",
+    "original": "청소부 액체 연료통",
+    "context": "EN :\n[Sweeper Fuel Cylinder]\nJP :\n掃除屋液体燃料タンク"
+  },
+  {
+    "key": "20029-desc",
+    "original": "보상 교환 창에서 다양한 보상을 구입할 때 사용한다.\n\n<color=#a16a3b>뒷골목의 밤마다 도시를 청소하는 청소부들의 연료가 담긴 통이에요. 매일같이 도시를 무대로 벌어지는 난장판 속에서도 청소부 덕분에 사람들은 아침마다 깨끗한 거리로 출근할 수 있죠. 청소부는 길가의 쓰레기나 허가받지 않은 건축물처럼 도시에 있어선 안될 것들을 액체 연료로 녹이며 물결을 이어갑니다. 이들은 정해진 시간마다 도시의 지하에서 올라오는데, 과연 얼마나 깊은 곳에서 오는 건지 궁금하네요. - 어느 LCCB 팀원의 인터뷰</color>",
+    "context": "EN :\nUsed to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>These fuel cylinders contain the energy source for the Sweepers, who cleanse the City every Night in the Backstreets. Despite the nightly chaos, people step out each morning to pristine streets on their way to work—all thanks to the Sweepers. Using their fluid fuel, they dissolve anything that doesn't belong in the City, from street litter to unauthorized structures, as they flood the streets at night. Like clockwork, they emerge from the subterranean depths beneath the City every night. I do wonder, though—just how deep do they come from? - Excerpt from an interview with an LCCB Employee</color>\nJP :\n報酬交換ウィンドウにて、様々な報酬を購入するときに使用する。\n\n<color=#a16a3b>裏路地の夜の旅に都市を掃除する掃除屋の燃料が入ったタンクです。毎日のように都市を舞台に繰り広がれられる修羅場の中でも、掃除屋のおかげで人々は毎朝清潔な街へと出勤できるんです。掃除屋は道端のゴミや、許可されていない建築物のように都市にあってはならないものを液体燃料で融かしながら波を繋げていきます。この者達は定められた時間になる度、都市の地下から沸き上がってくるんですが、一体どれだけ深い場所から来るのか気になりますね。- とあるLCCBチームメンバーのインタビュー</color>"
+  },
+  {
+    "key": "20030-name",
+    "original": "특대형 액체 연료통",
+    "context": "EN :\n[Sweeper Fuel Tank]\nJP :\n特大型液体燃料タンク"
+  },
+  {
+    "key": "20030-desc",
+    "original": "낮은 확률로 얻을 수 있으며, 획득 즉시 청소부 액체 연료통 20개로 전환된다.\n\n<color=#a16a3b>청소부의 청소가 언제부터 시작되었고, 청소부가 어디에서 오는지에 대해선 아직도 많은 것이 베일에 싸여 있죠. 그들이 유일하게 협력하는 단체는 머리 뿐이라고 알려져 있으니까요. 청소부가 사용하는 액체 연료는 그들의 신체를 구성하는 물질이면서, 상대를 녹이는 융해 무기이며, 동시에 생존을 위한 영양분이기도 합니다. 개인적인 궁금증입니다만, 그들이 어떻게 개체수를 증식해왔는지 의문이네요. 아마 뒷골목의 밤에 아이들을 데려가거나, 외곽에 버려진 아이들을 납치하는 것이 그 단서가 되지 않을까 싶습니다. - 어느 LCCA 팀원의 인터뷰</color>",
+    "context": "EN :\nSpawns rarely. Converted to 20 Sweeper Fuel Cylinder immediately upon acquisition.\n\n<color=#a16a3b>Much about the Sweepers remains a mystery. When did they first begin their nightly labors? Where do they come from? It is said that the only institution they cooperate with is the Head. The Sweepers' fluid fuel is a multifunctional resource—it forms their bodies, serves as a weapon to dissolve whatever lies in their path, and sustains them. This is merely a personal curiosity, but I cannot help but wonder how they propagate. Perhaps they are the culprits behind reports of children vanishing during Nights in the Backstreets… or kidnappings from the Outskirts. - Excerpt from an interview with an LCCA Employee</color>\nJP :\n低確率で獲得でき、獲得すると掃除屋液体燃料タンク20個に即変換される。\n\n<color=#a16a3b>掃除屋の掃除がいつから始まり、掃除屋がどこから来たのかについては未だ多くの部分がヴェールに包まれています。彼らが唯一協力する団体は頭だけだと知られていますからね。掃除屋が使用する液体燃料は、彼らの身体を構成する物質であり、敵を溶かす融解兵器であり、同時に生存のための栄養源でもあります。個人的な疑問ですが、彼らがどのように個体数を増殖させてきたのかが気になりますね。おそらくですが、裏路地の夜に子供達を連れていったり、外郭に捨てられた子供達を誘拐することが、その疑問を解決する手がかりになるんじゃないでしょうか。- とあるLCCAチームメンバーの</color>インタビュー"
   }
 ]

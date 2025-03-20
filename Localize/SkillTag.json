@@ -303,5 +303,15 @@
     "key": "BeforeHit-name",
     "original": "[피격 직전]",
     "context": "EN :\n[Before Getting Hit]\nJP :\n[被ダメージ直前]"
+  },
+  {
+    "key": "OnDirectAttack-name",
+    "original": "[일방 공격 시]",
+    "context": "EN :\n[On Unopposed Attack]\nJP :\n[一方攻撃時]"
+  },
+  {
+    "key": "ReUseOnSucceedAttack-name",
+    "original": "[재사용 적중시]",
+    "context": "EN :\n[Reuse - On Hit]\nJP :\n[再使用的中時]"
   }
 ]

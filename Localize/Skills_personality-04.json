@@ -1348,5 +1348,265 @@
     "key": "1041005-levelList$[1].coinlist[2].coindescs[3].desc",
     "original": "[OnSucceedAttack] 다음 턴에 [Binding] 3, [Reduction] 2 부여 (턴 당 1회)<style=\"highlight\"></style>",
     "context": "EN :\n[OnSucceedAttack] Inflict 3 [Binding] and 2 [Reduction] next turn (once per turn)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 次のターンに[Binding]3, [Reduction]2を付与(1ターンにつき1回)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1041101-levelList$[0].name",
+    "original": "순보",
+    "context": "EN :\nBlinkstep\nJP :\n瞬歩"
+  },
+  {
+    "key": "1041101-levelList$[0].desc",
+    "original": "[WhenUse] 대상의 [Burst]이 6 이상이면, 코인 위력 +1",
+    "context": "EN :\n[WhenUse] If the target has 6+ [Burst], Coin Power +1\nJP :\n[WhenUse] 対象の[Burst]が6以上なら、コイン威力 +1"
+  },
+  {
+    "key": "1041101-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1041101-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が1増加"
+  },
+  {
+    "key": "1041101-levelList$[1].name",
+    "original": "순보",
+    "context": "EN :\nBlinkstep\nJP :\n瞬歩"
+  },
+  {
+    "key": "1041101-levelList$[1].desc",
+    "original": "[WhenUse] 대상의 [Burst]이 <style=\"highlight\">4</style> 이상이면, 코인 위력 +1\n<style=\"highlight\">[WinDuel] [Burst] 횟수 1 증가</style>",
+    "context": "EN :\n[WhenUse] If the target has <style=\"highlight\">4</style>+ [Burst], Coin Power +1\n<style=\"highlight\">[WinDuel] Inflict +1 [Burst] Count</style>\nJP :\n[WhenUse] 対象の[Burst]が<style=\"highlight\">4</style>以上なら、コイン威力 +1\n<style=\"highlight\">[WinDuel] [Burst]回数が1増加</style>"
+  },
+  {
+    "key": "1041101-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1041101-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1041101-levelList$[1].coinlist[1].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 자신의 속도가 10 이상이면, 코인 1회 재사용 (스킬당 1회)</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)</style>"
+  },
+  {
+    "key": "1041101-levelList$[2].name",
+    "original": "순보",
+    "context": "EN :\nBlinkstep\nJP :\n瞬歩"
+  },
+  {
+    "key": "1041101-levelList$[2].desc",
+    "original": "<style=\"highlight\">자신의 속도가 대상보다 3 이상 높으면, 코인 위력 +1</style>\n[WhenUse] 대상의 [Burst]이 4 이상이면, 코인 위력 +1\n[WinDuel] [Burst] 횟수 1 증가",
+    "context": "EN :\n<style=\"highlight\">If this unit's Speed is faster than the target's by 3 or more, Coin Power +1</style>\n[WhenUse] If the target has 4+ [Burst], Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count\nJP :\n<style=\"highlight\">自分の速度が対象より3以上高ければコイン威力 +1</style>\n[WhenUse] 対象の[Burst]が4以上なら、コイン威力 +1\n[WinDuel] [Burst]回数が1増加"
+  },
+  {
+    "key": "1041101-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1041101-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1041101-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 속도가 10 이상이면, 코인 1회 재사용 (스킬당 1회)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1041102-levelList$[0].name",
+    "original": "새겨진대로",
+    "context": "EN :\nAs Written\nJP :\n刻まれた通り"
+  },
+  {
+    "key": "1041102-levelList$[0].desc",
+    "original": "자신의 속도가 대상보다 빠르면, (대상과의 속도 차이 x 대상의 [Burst] 위력)%만큼 피해량이 증가 (최대 50%)\n[WhenUse] 대상의 [Burst]이 6 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\n[WhenUse] If the target has 6+ [Burst], Coin Power +1\nJP :\n自分の速度が対象より高いなら、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n[WhenUse] 対象の[Burst]が6以上なら、コイン威力 +1"
+  },
+  {
+    "key": "1041102-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1041102-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "자신의 속도가 10 이상이면, 피해량 +10%",
+    "context": "EN :\nAt 10+ Speed, deal +10% more damage\nJP :\n自分の速度が10以上なら、ダメージ量 +10%"
+  },
+  {
+    "key": "1041102-levelList$[1].name",
+    "original": "새겨진대로",
+    "context": "EN :\nAs Written\nJP :\n刻まれた通り"
+  },
+  {
+    "key": "1041102-levelList$[1].desc",
+    "original": "자신의 속도가 대상보다 빠르면, (대상과의 속도 차이 x 대상의 [Burst] 위력)%만큼 피해량이 증가 (최대 50%)\n[WhenUse] 대상의 [Burst]이 <style=\"highlight\">4</style> 이상이면, 코인 위력 +1\n<style=\"highlight\">[WhenUse] 다음 턴에 [Agility] 2 얻음 (턴 당 1회)\n[WinDuel] [Burst] 횟수 1 증가</style>",
+    "context": "EN :\nIf this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\n[WhenUse] If the target has <style=\"highlight\">4</style>+ [Burst], Coin Power +1\n<style=\"highlight\">[WhenUse] Gain 2 [Agility] next turn (once per turn)\n[WinDuel] Inflict +1 [Burst] Count</style>\nJP :\n自分の速度が対象より高いなら、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n[WhenUse] 対象の[Burst]が<style=\"highlight\">4</style>以上なら、コイン威力 +1\n<style=\"highlight\">[WhenUse] 次のターンに[Agility]2を得る(1ターンにつき1回)\n[WinDuel] [Burst]回数が1増加</style>"
+  },
+  {
+    "key": "1041102-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1041102-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 자신의 속도가 10 이상이면, [Burst] 횟수 1 증가</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] At 10+ Speed, inflict +1 [Burst] Count</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] 自分の速度が10以上なら、[Burst]回数が1増加</style>"
+  },
+  {
+    "key": "1041102-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "자신의 속도가 10 이상이면, 피해량 +<style=\"highlight\">20</style>%",
+    "context": "EN :\nAt 10+ Speed, deal +<style=\"highlight\">20</style>% more damage\nJP :\n自分の速度が10以上なら、ダメージ量 +<style=\"highlight\">20</style>%"
+  },
+  {
+    "key": "1041102-levelList$[2].name",
+    "original": "새겨진대로",
+    "context": "EN :\nAs Written\nJP :\n刻まれた通り"
+  },
+  {
+    "key": "1041102-levelList$[2].desc",
+    "original": "자신의 속도가 대상보다 빠르면, (대상과의 속도 차이 x 대상의 [Burst] 위력)%만큼 피해량이 증가 (최대 50%)\n<style=\"highlight\">자신의 속도가 대상보다 3 이상 높으면, 코인 위력 +1</style>\n[WhenUse] 대상의 [Burst]이 4 이상이면, 코인 위력 +1\n[WhenUse] 다음 턴에 [Agility] 2 얻음 (턴 당 1회)\n[WinDuel] [Burst] 횟수 1 증가",
+    "context": "EN :\nIf this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\n<style=\"highlight\">If this unit's Speed is faster than the target's by 3 or more, Coin Power +1</style>\n[WhenUse] If the target has 4+ [Burst], Coin Power +1\n[WhenUse] Gain 2 [Agility] next turn (once per turn)\n[WinDuel] Inflict +1 [Burst] Count\nJP :\n自分の速度が対象より高いなら、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n<style=\"highlight\">自分の速度が対象より3以上高ければコイン威力 +1</style>\n[WhenUse] 対象の[Burst]が4以上なら、コイン威力 +1\n[WhenUse] 次のターンに[Agility]を2得る(1ターンにつき1回)\n[WinDuel] [Burst]回数が1増加"
+  },
+  {
+    "key": "1041102-levelList$[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1041102-levelList$[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 자신의 속도가 10 이상이면, [Burst] 횟수 1 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] At 10+ Speed, inflict +1 [Burst] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の速度が10以上なら、[Burst]回数が1増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1041102-levelList$[2].coinlist[1].coindescs[0].desc",
+    "original": "자신의 속도가 10 이상이면, 피해량 +<style=\"highlight\">30</style>%",
+    "context": "EN :\nAt 10+ Speed, deal +<style=\"highlight\">30</style>% more damage\nJP :\n自分の速度が10以上なら、ダメージ量 +<style=\"highlight\">30</style>%"
+  },
+  {
+    "key": "1041102-levelList$[2].coinlist[1].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [Burst] 1 부여</style>",
+    "context": "EN :\n<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Burst]</style>\nJP :\n<style=\"highlight\">[OnSucceedAttack] [Burst]1を付与</style>"
+  },
+  {
+    "key": "1041103-levelList$[0].name",
+    "original": "저주가 새겨진 검을 쑤셔주지",
+    "context": "EN :\nI'll gut you with a curse-engraved blade\nJP :\n呪いが刻まれた剣をブッ刺してやろう"
+  },
+  {
+    "key": "1041103-levelList$[0].desc",
+    "original": "자신의 속도가 대상보다 빠르면, (대상과의 속도 차이 x 대상의 [Burst] 위력)%만큼 피해량이 증가 (최대 50%)\n자신의 속도가 대상보다 2 이상 높으면 코인 위력 +1\n[WhenUse] [LegStrength] 3 얻음\n[WinDuel] [Burst] 횟수 2 증가",
+    "context": "EN :\nIf this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst] Count\nJP :\n自分の速度が対象より高ければ、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n自分の速度が対象より2以上高ければコイン威力 +1\n[WhenUse] [LegStrength]を3得る\n[WinDuel] [Burst]回数が2増加"
+  },
+  {
+    "key": "1041103-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が1増加"
+  },
+  {
+    "key": "1041103-levelList$[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BurstAgility] 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict [BurstAgility]\nJP :\n[OnSucceedAttack] [BurstAgility]を付与"
+  },
+  {
+    "key": "1041103-levelList$[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]\nJP :\n[OnSucceedAttack] [Burst]1を付与"
+  },
+  {
+    "key": "1041103-levelList$[0].coinlist[2].coindescs[0].desc",
+    "original": "자신의 속도가 10 이상이면, 피해량 +30%",
+    "context": "EN :\nAt 10+ Speed, deal +30% more damage\nJP :\n自分の速度が10以上なら、ダメージ量 +30%"
+  },
+  {
+    "key": "1041103-levelList$[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]\nJP :\n[OnSucceedAttack] [Burst]3を付与"
+  },
+  {
+    "key": "1041103-levelList$[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 자신의 속도가 10 이상이면, 코인 1회 재사용 (스킬당 1회)",
+    "context": "EN :\n[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)\nJP :\n[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)"
+  },
+  {
+    "key": "1041103-levelList$[1].name",
+    "original": "저주가 새겨진 검을 쑤셔주지",
+    "context": "EN :\nI'll gut you with a curse-engraved blade\nJP :\n呪いが刻まれた剣をブッ刺してやろう"
+  },
+  {
+    "key": "1041103-levelList$[1].desc",
+    "original": "자신의 속도가 대상보다 빠르면, (대상과의 속도 차이 x 대상의 [Burst] 위력)%만큼 피해량이 증가 (최대 50%)\n자신의 속도가 대상보다 <style=\"highlight\">높을수록 코인 위력 +1 (속도 차이 2 당 코인 위력 +1. 최대 2)\n[WhenUse] 대상의 [Burst]이 15 이상이면, 코인 위력 +1</style>\n[WhenUse] [LegStrength] 3 얻음\n[WinDuel] [Burst] 횟수 2 증가",
+    "context": "EN :\nIf this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\nIf this unit's Speed is faster <style=\"highlight\">than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)\n[WhenUse] If the target has 15+ [Burst], Coin Power +1</style>\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst] Count\nJP :\n自分の速度が対象より高ければ、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n自分の速度が対象より<style=\"highlight\">高いほどコイン威力 +1(速度差2につきコイン威力 +1. 最大2)\n[WhenUse] 対象の[Burst]が15以上なら、コイン威力 +1</style>\n[WhenUse] [LegStrength]を3得る\n[WinDuel] [Burst]回数が2増加"
+  },
+  {
+    "key": "1041103-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1041103-levelList$[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BurstAgility] 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict [BurstAgility]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [BurstAgility]を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1041103-levelList$[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 1 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1041103-levelList$[1].coinlist[2].coindescs[0].desc",
+    "original": "자신의 속도가 10 이상이면, 피해량 +30%<style=\"highlight\"></style>",
+    "context": "EN :\nAt 10+ Speed, deal +30% more damage<style=\"highlight\"></style>\nJP :\n自分の速度が10以上なら、ダメージ量 +30%<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1041103-levelList$[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst] 3 부여<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict 3 [Burst]<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]3を付与<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1041103-levelList$[1].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 자신의 속도가 10 이상이면, 코인 1회 재사용 (스킬당 1회)<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)<style=\"highlight\"></style>"
+  },
+  {
+    "key": "1041103-levelList$[1].coinlist[2].coindescs[3].desc",
+    "original": "<style=\"highlight\">[ReUseOnSucceedAttack] [BurstAgility] 부여</style>",
+    "context": "EN :\n<style=\"highlight\">[ReUseOnSucceedAttack] Inflict [BurstAgility]</style>\nJP :\n<style=\"highlight\">[ReUseOnSucceedAttack] [BurstAgility]を付与</style>"
+  },
+  {
+    "key": "1041104-levelList$[0].name",
+    "original": "각력. 해방. 훗",
+    "context": "EN :\nStrider. Unleashed. Heh\nJP :\n脚力。解放。ふっ。"
+  },
+  {
+    "key": "1041104-levelList$[0].desc",
+    "original": "[DuelCounter]\n[WhenUse] [LegStrength] 3 얻음",
+    "context": "EN :\n[DuelCounter]\n[WhenUse] Gain 3 [LegStrength]\nJP :\n[DuelCounter]\n[WhenUse] [LegStrength]3を得る"
+  },
+  {
+    "key": "1041104-levelList$[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count\nJP :\n[OnSucceedAttack] [Burst]回数が1増加"
+  },
+  {
+    "key": "1041104-levelList$[1].name",
+    "original": "각력. 해방. 훗",
+    "context": "EN :\nStrider. Unleashed. Heh\nJP :\n脚力。解放。ふっ。"
+  },
+  {
+    "key": "1041104-levelList$[1].desc",
+    "original": "[DuelCounter]\n[WhenUse] [LegStrength] 3 얻음\n<style=\"highlight\">[WhenUse] 자신의 속도가 대상보다 높을수록, 기본 위력 +1 (속도 차이 2 당 기본 위력 +1. 최대 2)</style>",
+    "context": "EN :\n[DuelCounter]\n[WhenUse] Gain 3 [LegStrength]\n<style=\"highlight\">[WhenUse] If this unit's Speed is faster than the target's, gain Base Power based on Speed difference (Base Power +1 for every 2 Speed difference; max 2)</style>\nJP :\n[DuelCounter]\n[WhenUse] [LegStrength]を3得る\n<style=\"highlight\">[WhenUse] 自分の速度が対象より高いほど、基本威力 +1(速度差2につき基本威力 +1. 最大2)</style>"
+  },
+  {
+    "key": "1041104-levelList$[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst] 횟수 1 증가<style=\"highlight\"></style>",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>\nJP :\n[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>"
   }
 ]

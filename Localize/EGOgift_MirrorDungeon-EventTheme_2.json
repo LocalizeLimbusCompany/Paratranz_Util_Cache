@@ -861,8 +861,8 @@
   },
   {
     "key": "9784-desc",
-    "original": "턴 시작 시, 검계 소속 인격이 3인 이상일 때 발동.\n\n아군이 턴 시작 시 [SlashResultUp] 2 얻음, 가하는 피해량 +35%.\n\n검계 소속 인격이 적에게 치명타 피해를 입힐 때, 보유한 ([Breath] 위력/2)만큼 추가 오만 피해를 입힘.\n\n검계 소속 인격이 턴 종료 시 [Breath] 위력을 30 이상 보유하였다면, [Breath] 위력을 10 소모하여 다음 턴에 [SlashResultUp] 2 얻음.",
-    "context": "EN :\nTurn Start: activates when there are 3 or more Blade Lineage Identities.\n\nTurn Start: all allies gain 2 [SlashResultUp], and deal +35% more damage.\n\nTurn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to ([Breath] Potency / 2) on self.\n\nIf a Blade Lineage Identity has 30+ [Breath] Potency at Turn End, consume 10 [Breath] Potency and gain 2 [SlashResultUp] next turn\nJP :\nターン開始時、剣契所属人格が3名以上のとき発動\n\n味方がターン開始時に[SlashResultUp]2を得る、与ダメージ量 +35%\n\n剣契所属人格が敵にクリティカルダメージを与えるとき、保有する([Breath]威力 ÷ 2)だけ追加で傲慢ダメージを与える\n\n剣契所属人格がターン終了時、[Breath]威力を30以上保有しているなら[Breath]威力を10消耗し、次のターンに[SlashResultUp]2を得る"
+    "original": "턴 시작 시, 검계 소속 인격이 3인 이상일 때 발동.\n\n아군이 턴 시작 시 [SlashResultUp] 2 얻음, 가하는 피해량 +35%.\n\n검계 소속 인격이 적에게 치명타 피해를 입힐 때, 보유한 ([Breath] 위력/2)만큼 추가 오만 피해를 입힘.\n\n검계 소속 인격이 턴 종료 시 [Breath] 위력을 30 이상 보유하였다면, [Breath] 위력을 10 소모하여 다음 턴에 [SlashDamageUp] 2 얻음.",
+    "context": "EN :\nTurn Start: activates when there are 3 or more Blade Lineage Identities.\n\nTurn Start: all allies gain 2 [SlashResultUp], and deal +35% more damage.\n\nTurn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to ([Breath] Potency / 2) on self.\n\nIf a Blade Lineage Identity has 30+ [Breath] Potency at Turn End, consume 10 [Breath] Potency and gain 2 [SlashDamageUp] next turn\nJP :\nターン開始時、剣契所属人格が3名以上のとき発動\n\n味方がターン開始時に[SlashResultUp]2を得る、与ダメージ量 +35%\n\n剣契所属人格が敵にクリティカルダメージを与えるとき、保有する([Breath]威力 ÷ 2)だけ追加で傲慢ダメージを与える\n\n剣契所属人格がターン終了時、[Breath]威力を30以上保有しているなら[Breath]威力を10消耗し、次のターンに[SlashDamageUp]2を得る"
   },
   {
     "key": "9784-simpleDesc$[0].simpleDesc",
@@ -903,5 +903,185 @@
     "key": "9785-simpleDesc$[2].simpleDesc",
     "original": "피해량 증가 얻음",
     "context": "EN :\nGain Damage Up\nJP :\nダメージ量増加 を得る"
+  },
+  {
+    "key": "9786-name",
+    "original": "강화 문신 - 중지",
+    "context": "EN :\nEnh. Tattoos - The Middle\nJP :\n強化刺青 - 中指"
+  },
+  {
+    "key": "9786-desc",
+    "original": "타격 스킬의 합 위력 +1\n- 중지 소속 인격일 경우 효과를 대신하여, 합 위력 +1, 코인 위력 +1\n- 중지 소속 인격일 경우 메인 대상이 [RetaliationBook]이면 효과를 대신하여, 합 위력 +1, 코인 위력 +1, 피해량 +10%",
+    "context": "EN :\nBlunt Skills: Clash Power +1\n- The Middle Identities: gain Clash Power +1 and Coin Power +1 instead\n- The Middle Identities: if the main target has [RetaliationBook], gain Clash Power +1, Coin Power +1, and deal +10% more damage instead\nJP :\n打撃スキルのマッチ威力 +1\n- 中指所属人格の場合、この効果の代わりにマッチ威力 +1, コイン威力 +1\n- 中指所属人格の場合、メインターゲットが[RetaliationBook]ならこの効果の代わりにマッチ威力 +1, コイン威力 +1, ダメージ量 +10%"
+  },
+  {
+    "key": "9786-simpleDesc$[0].simpleDesc",
+    "original": "합 위력 증가. 중지 소속이면 코인 위력과 피해량도 증가",
+    "context": "EN :\nGain Clash Power. The Middle Identities gain Coin Power and deal more damage as well\nJP :\nマッチ威力増加。中指所属ならコイン威力とダメージ量も増加"
+  },
+  {
+    "key": "9787-name",
+    "original": "괴문자 부적",
+    "context": "EN :\nStrange Glyph Talisman\nJP :\n怪文字のお札"
+  },
+  {
+    "key": "9787-desc",
+    "original": "자신의 공격 스킬로 [Burst]을 가진 대상을 처치할 시 (집중 전투의 경우 부위 파괴), 대상의 [Burst] 위력을 나누어 모든 적 (집중 전투일 경우 부위)에게 부여함 (최대 2씩, 소수점 버림)\n\n자신의 공격 스킬로 [BurstAgility]을 가진 대상을 처치할 시 (집중 전투의 경우 부위 파괴), 위 효과를 대신하여 대상의 [Burst] 위력과 횟수를 나누어 모든 적 (집중 전투일 경우 부위)에게 부여함 (최대 2씩, 소수점 버림)",
+    "context": "EN :\nWhen defeating a target with [Burst](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency on the target between all enemies(for Focused Encounters, all Parts) (max 2 per enemy, rounded down)\n\nWhen defeating a target with [BurstAgility](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency and Count on the target between all enemies(for Focused Encounters, all Parts) (max 2 per enemy, rounded down)\nJP :\n自分の攻撃スキルで[Burst]を持つ対象を討伐するとき、(集中戦闘の場合は部位破壊)対象の[Burst]威力を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大2ずつ、小数点切り捨て)\n\n自分の攻撃スキルで[BurstAgility]を持つ対象を討伐するとき、(集中戦闘の場合は部位破壊)上記の効果の代わりに対象の[Burst]威力と回数を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大2ずつ、小数点切り捨て)"
+  },
+  {
+    "key": "9787-simpleDesc$[0].simpleDesc",
+    "original": "파열 부여",
+    "context": "EN :\nInflict Rupture\nJP :\n破裂付与"
+  },
+  {
+    "key": "9787-simpleDesc$[1].simpleDesc",
+    "original": "파열 위력, 횟수 부여",
+    "context": "EN :\nInflict Rupture Potency and Count\nJP :\n破裂威力、回数付与"
+  },
+  {
+    "key": "9788-name",
+    "original": "묘각",
+    "context": "EN :\nHarestride\nJP :\n卯脚"
+  },
+  {
+    "key": "9788-desc",
+    "original": "자신의 속도가 대상보다 빠를 때, 스킬로 부여하는 파열 혹은 파열 횟수를 대상에게 (속도 차 / 3)만큼 추가 부여 (최대 3)",
+    "context": "EN :\nIf an ally's Speed is faster than the target's, the ally inflicts (Speed difference / 3) additional [Burst] or [Burst] Count when inflicting them with Skills (max 3)\nJP :\n自分の速度が対象より高いとき、スキルで付与する破裂または破裂回数を対象へ(速度差 ÷ 3)だけ追加で付与(最大3)"
+  },
+  {
+    "key": "9788-simpleDesc$[0].simpleDesc",
+    "original": "파열 또는 파열 횟수 부여",
+    "context": "EN :\nInflict Rupture or Rupture Count\nJP :\n破裂 または破裂 回数付与"
+  },
+  {
+    "key": "9789-name",
+    "original": "의리 사슬",
+    "context": "EN :\nChains of Loyalty\nJP :\n義理の鎖"
+  },
+  {
+    "key": "9789-desc",
+    "original": "같은 소속의 인격이 피격 시, 같은 소속의 인원들 타격 피해량 +5% (턴 당 최대 15%)\n\n중지 소속 인격일 경우, 효과를 대신하여 [AttackUp] 1 얻음, 타격 피해량 +10% (턴 당 최대 3, 턴 당 최대 30%)",
+    "context": "EN :\nWhen hit, all allies in the same faction deal +5% more Blunt damage (15% per turn)\n\nFor The Middle Identities, gain 1 [AttackUp] and deal +10% more Blunt damage instead (3 per turn, 30% per turn)\nJP :\n同じ所属の人格が被ダメージ時、同じ所属の人員達の打撃ダメージ量 +5% (1ターンにつき最大15%)\n\n中指所属人格の場合、この効果の代わりに[AttackUp]1を得て打撃ダメージ量 +10% (1ターンにつき最大3, 1ターンにつき最大30%)"
+  },
+  {
+    "key": "9789-simpleDesc$[0].simpleDesc",
+    "original": "타격 피해량 증가. 중지 소속이면 공격 레벨 증가도 얻음",
+    "context": "EN :\nDeal more Blunt damage. The Middle Identities gain Offense Level Up as well\nJP :\n打撃ダメージ量増加。中指所属なら攻撃レベル増加も得る"
+  },
+  {
+    "key": "9790-name",
+    "original": "새겨넣어진 괴문자",
+    "context": "EN :\nStrange Glyph Inscriptions\nJP :\n刻み込まれた怪文字"
+  },
+  {
+    "key": "9790-desc",
+    "original": "[Burst]을 가진 대상과 합을 할 때, (대상의 [Burst] / 20)만큼 합 위력이 증가 (최대 2)\n- [BurstAgility]을 가진 대상과 합을 할 때, 위 효과를 대신하여 (대상의 [Burst] / 15)만큼 합 위력이 증가 (최대 3)\n\n[BurstAgility] 효과로 피해를 줄 때, ([BurstAgility] 피해 / 3)만큼 고정 피해 입힘",
+    "context": "EN :\nWhen clashing against targets with [Burst], gain ([Burst] on the target / 20) Clash Power (max 2)\n- When clashing against targets with [BurstAgility], gain ([Burst] on the target / 15) Clash Power instead (max 3)\n\nWhen dealing damage with [BurstAgility] effect, deal fixed damage by ([BurstAgility] damage / 3)\nJP :\n[Burst]を持つ対象とマッチするとき、(対象の[Burst] ÷ 20)だけマッチ威力が増加(最大2)\n- [BurstAgility]を持つ対象とマッチをするとき、上記の効果の代わりに(対象の[Burst] ÷ 15)だけマッチ威力が増加(最大3)\n\n[BurstAgility]効果でダメージを与えるとき、([BurstAgility]ダメージ ÷ 3)だけ固定ダメージを与える"
+  },
+  {
+    "key": "9790-simpleDesc$[0].simpleDesc",
+    "original": "합 위력 증가",
+    "context": "EN :\nClash Power Up\nJP :\nマッチ威力増加"
+  },
+  {
+    "key": "9790-simpleDesc$[1].simpleDesc",
+    "original": "흑수 - 묘 부적으로 피해 줄 시, 추가 피해",
+    "context": "EN :\nDeal additional damage when dealing damage with Heishou - Mao Talisman\nJP :\n黒獣 - 卯のお札でダメージを与えるとき、追加ダメージ"
+  },
+  {
+    "key": "9791-name",
+    "original": "그림자 삿갓",
+    "context": "EN :\nShadow Bamboo Hat\nJP :\n影の編み笠"
+  },
+  {
+    "key": "9791-desc",
+    "original": "턴 종료 시 흑수묘 소속이면, 다음 턴에 [Agility] 2 얻음\n\n자신의 속도가 대상보다 빠르거나 일방 공격을 할 경우, (속도 차 / 3)만큼 참격 피해량 +10% (최대 30%)\n\n자신의 속도가 대상보다 빠르면, (속도 차 / 3)당 받는 피해량 -10% (최대 30%)",
+    "context": "EN :\nTurn End: Heishou Pack - Mao Branch Identities gain 2 [Agility] next turn\n\nIf an ally's Speed is faster than the target's, or when activating Unopposed Attacks, deal +10% more Slash damage for every (Speed difference / 3) (max 30%)\n\nIf an ally's Speed is faster than the target's, take -10% less damage for every (Speed difference / 3) (max 30%)\nJP :\nターン終了時、黒獣卯所属なら次のターンに[Agility]2を得る\n\n自分の速度が対象より高いか、一方攻撃をする場合は(速度差 ÷ 3)だけ斬撃ダメージ量 +10% (最大30%)\n\n自分の速度が対象よりも高ければ、(速度差 ÷ 3)につき被ダメージ量 -10% (最大30%)"
+  },
+  {
+    "key": "9791-simpleDesc$[0].simpleDesc",
+    "original": "신속 얻음",
+    "context": "EN :\nGain Haste\nJP :\nクイック を得る"
+  },
+  {
+    "key": "9791-simpleDesc$[1].simpleDesc",
+    "original": "참격 피해량 증가",
+    "context": "EN :\nDeal more Slash damage\nJP :\n斬撃ダメージ量増加"
+  },
+  {
+    "key": "9791-simpleDesc$[2].simpleDesc",
+    "original": "받는 피해량 감소",
+    "context": "EN :\nTake less damage\nJP :\n被ダメージ量 減少"
+  },
+  {
+    "key": "9792-name",
+    "original": "영속하는 인연 사슬",
+    "context": "EN :\nEverlasting Chains of Bond\nJP :\n永続する因縁の鎖"
+  },
+  {
+    "key": "9792-desc",
+    "original": "스테이지 시작 시, 중지 소속 인격이 2인 이상일 때 발동 (출격 인원을 기준으로 함)\n\n같은 소속의 인격이 피격 시, 같은 소속의 인원들 타격 피해량 +5% (턴 당 최대 15%)\n중지 소속 인격일 경우, 효과를 대신하여 공격 레벨 증가 1 얻음, 타격 피해량 +10% (턴 당 최대 3, 턴 당 최대 30%)\n\n타격 스킬의 기본 위력 +1\n- 중지 소속 인격일 경우 효과를 대신하여, 기본 위력 +1, 코인 위력 +1\n- 중지 소속 인격일 경우 대상이 [RetaliationBook]이면 효과를 대신하여, 기본 위력 +1, 코인 위력 +1, 피해량 +30%\n\n중지 인격의 경우, 전투 동안 속도 최솟값 +1, 속도 최댓값 +1",
+    "context": "EN :\nEncounter Start: activates when there are 2 or more The Middle Identities (only counts Identities on the field at Encounter Start)\n\nWhen hit, all allies in the same faction deal +5% more Blunt damage (15% per turn)\nThe Middle Identities gain 1 [AttackUp] and deal +10% more Blunt damage instead (3 per turn, 30% per turn)\n\nBlunt Skills gain Base Power +1\n- The Middle Identities gain Base Power +1 and Coin Power +1 instead\n- If the target has [RetaliationBook], The Middle Identities gain Base Power +1, Coin Power +1, and deal +30% more damage instead\n\nThe Middle Identities gain Min Speed +1 and Max Speed +1 for the Encounter\nJP :\nステージ開始時、中指所属人格が2名以上のとき発動(出撃人員を基準とする)\n\n同じ所属の人格が被ダメージ時、同じ所属の人員達の打撃ダメージ量 +5% (1ターンにつき最大15%)\n中指所属人格の場合、この効果の代わりに攻撃レベル増加1を得て打撃ダメージ量 +10% (1ターンにつき最大3, 1ターンにつき最大30%)\n\n打撃スキルの基本威力 +1\n- 中指所属人格の場合、この効果の代わりに基本威力 +1, コイン威力 +1\n- 中指所属人格の場合、対象が[RetaliationBook]ならこの効果の代わりに基本威力 +1, コイン威力 +1, ダメージ量 +30%\n\n中指所属人格の場合、戦闘中の速度最小・最大値 +1"
+  },
+  {
+    "key": "9792-simpleDesc$[0].simpleDesc",
+    "original": "타격 피해량 증가. 중지 소속이면 공격 레벨도 증가",
+    "context": "EN :\nDeal more Blunt damage. The Middle Identities gain Offense Level Up as well\nJP :\n打撃ダメージ量増加。中指所属なら攻撃レベルも増加"
+  },
+  {
+    "key": "9792-simpleDesc$[1].simpleDesc",
+    "original": "타격 스킬 위력 증가",
+    "context": "EN :\nBlunt Skill Power Up\nJP :\n打撃スキル威力増加"
+  },
+  {
+    "key": "9792-simpleDesc$[2].simpleDesc",
+    "original": "속도 최솟값, 최댓값 증가",
+    "context": "EN :\nGain Min and Max Speed\nJP :\n速度の最小・最大値増加"
+  },
+  {
+    "key": "9793-name",
+    "original": "이전칠자",
+    "context": "EN :\nGlyph of Glass Shards\nJP :\n璃鈿漆字"
+  },
+  {
+    "key": "9793-desc",
+    "original": "스테이지 시작 시, [Burst] 위력 또는 [Burst] 횟수를 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외)\n\n자신의 공격 스킬로 [Burst]을 가진 대상을 처치할 시 (집중 전투의 경우 부위 파괴), 대상의 [Burst] 위력을 나누어 모든 적 (집중 전투일 경우 부위)에게 부여함 (최대 3씩)\n\n자신의 공격 스킬로 [BurstAgility]을 가진 대상을 처치할 시 (집중 전투의 경우 부위 파괴), 위 효과를 대신하여 대상의 [Burst] 위력과 횟수를 나누어 모든 적 (집중 전투일 경우 부위)에게 부여함 (최대 6씩)\n\n[Burst]을 가진 대상과 합을 할 때, (대상의 [Burst] / 20)만큼 합 위력이 증가 (최대 2)\n- [BurstAgility]을 가진 대상과 합을 할 때, 위 효과를 대신하여 (대상의 [BurstAgility] / 10)만큼 코인 위력이 증가 (최대 2)\n\n[BurstAgility] 효과로 피해를 줄 때, ([BurstAgility] 피해 / 2)만큼 고정 피해 입힘",
+    "context": "EN :\nEncounter Start: activates when there are 5 or more Identities that inflict [Burst] Potency or [Burst] Count (except E.G.O Skills)\n\nWhen defeating a target with [Burst](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency on the target between all enemies(for Focused Encounters, all Parts) (max 3 per enemy)\n\nWhen defeating a target with [BurstAgility](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency and Count on the target between all enemies(for Focused Encounters, all Parts) (max 6 per enemy)\n\nWhen clashing against targets with [Burst], gain ([Burst] on the target / 20) Clash Power (max 2)\n- When clashing against targets with [BurstAgility], gain ([BurstAgility] on the target / 10) Coin Power instead (max 2)\n\nWhen dealing damage with [BurstAgility] effect, deal fixed damage by ([BurstAgility] damage / 2)\nJP :\nステージ開始時、[Burst]威力または[Burst]回数を付与する攻撃スキルを保有した人格が5名以上のとき発動(E.G.Oスキルを除く)\n\n自分の攻撃スキルで[Burst]を持つ対象を伐するとき、(集中戦闘の場合は部位破壊)対象の[Burst]威力を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大3ずつ)\n\n自分の攻撃スキルで[BurstAgility]を持つ対象を討伐するとき、(集中戦闘の場合は部位破壊)上記の効果の代わりに対象の[Burst]威力と回数を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大6)\n\n[Burst]を持つ対象とマッチするとき、(対象の[Burst] ÷ 20)だけマッチ威力が増加(最大2)\n- [BurstAgility]を持つ対象とマッチするとき、上記の効果の代わり(対象の[BurstAgility] ÷ 10)だけコイン威力が増加(最大2)\n\n[BurstAgility]効果でダメージを与えるとき、([BurstAgility]ダメージ ÷ 2)だけ固定ダメージを与える"
+  },
+  {
+    "key": "9793-simpleDesc$[0].simpleDesc",
+    "original": "파열 부여",
+    "context": "EN :\nInflict Rupture\nJP :\n破裂付与"
+  },
+  {
+    "key": "9793-simpleDesc$[1].simpleDesc",
+    "original": "파열 부여",
+    "context": "EN :\nInflict Rupture\nJP :\n破裂付与"
+  },
+  {
+    "key": "9793-simpleDesc$[2].simpleDesc",
+    "original": "합 위력 증가",
+    "context": "EN :\nClash Power Up\nJP :\nマッチ威力増加"
+  },
+  {
+    "key": "9793-simpleDesc$[3].simpleDesc",
+    "original": "흑수 - 묘 부적으로 피해 줄 시, 추가 피해",
+    "context": "EN :\nDeal additional damage when dealing damage with Heishou - Mao Talisman\nJP :\n黒獣 - 卯のお札でダメージを与えるとき、追加ダメージ"
+  },
+  {
+    "key": "9794-name",
+    "original": "찰랑이는 연료통",
+    "context": "EN :\nSwishing Fuel Tank\nJP :\nたぷたぷの燃料タンク"
+  },
+  {
+    "key": "9794-desc",
+    "original": "[편성 순서 2, 4번 인격 전용 효과]\n\n체력이 0이 되는 피해를 받으면, 60% 확률로 해당 피해를 받지 않고, 체력을 30 회복함. (전투당 1회 발동)\n아래 상황에서는 사망 방지 및 회복 효과가 발동하지 않음\n- 피격 시 스킬 피해량이 자신의 최대 체력을 초과\n- 체력 회복 감소 효과를 보유",
+    "context": "EN :\n[Effects apply only to #2, #4 Deployed Identities]\n\nWhen taking lethal damage, 60% chance to not take that damage and heal 30 HP. (once per Encounter)\nThe above effect does not activate under the following conditions:\n- When the Skill damage taken exceeds the unit's max HP\n- When the unit has the HP Healing Down effect\nJP :\n[編成順2, 4番人格専用効果]\n体力が0になるダメージを受けると、60%の確率で該当ダメージを受けずに体力を30回復(戦闘につき1回発動)\n下記の状態では死亡防止および回復効果が発動しない\n- 被ダメージ時にスキルダメージ量が自分の体力最大値を超過\n- 体力回復効果減少を保有"
+  },
+  {
+    "key": "9794-simpleDesc$[0].simpleDesc",
+    "original": "체력 회복",
+    "context": "EN :\nHeal HP\nJP :\n体力回復"
   }
 ]

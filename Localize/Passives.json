@@ -1537,7 +1537,7 @@
   {
     "key": "1020601-desc",
     "original": "상대의 약점, 취약 속성(내성 1 초과) 으로 공격할 때, 공격 전 대상의 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">파열</color></link></u>만큼 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">호흡</color></link></u>을 얻음 (턴 당 최대 20)",
-    "context": "EN :\nWhen attacking a target with a damage type the target is \"Weak\" or \"Fatal\" (Resistance>x1) to, gain 1 <sprite name=\"Breath\"><color=#e30000><u><link=\"Breath\">Poise</color></link></u> for each <sprite name=\"Burst\"><color=#f8c200><u><link=\"Burst\">Rupture</color></link></u> on target before the attack (Max 20 per turn)\nJP :\n対象の弱点・脆弱属性(耐性1超過)で攻撃するとき、攻撃前対象の<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>だけ<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>を得る(1ターンにつき最大20)"
+    "context": "EN :\nWhen attacking a target with a damage type the target is \"Weak\" or \"Fatal\" (Resistance>x1) to, gain 1 [Breath] for each [Rupture] on target before the attack (Max 20 per turn)\nJP :\n対象の弱点・脆弱属性(耐性1超過)で攻撃するとき、攻撃前対象の<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>だけ<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>を得る(1ターンにつき最大20)"
   },
   {
     "key": "1020601-summary",
@@ -4208,5 +4208,55 @@
     "key": "1031131-desc",
     "original": "속도가 가장 빠른 아군 1명이 [Combustion] 또는 특수 화상을 보유한 적에게 합 승리 시, 다음 턴에 [Agility] 1을 얻음 (턴당 1회)\n<style=\"highlight\">- 대상의 [Combustion] 위력이 20 이상이면, 신속 1을 추가로 얻음</style>",
     "context": "EN :\n1 ally with the fastest Speed : On Clash Win against enemies with [Combustion] or 'Unique Burn', gain 1 [Agility] next turn (once per turn)\n<style=\"highlight\">- If the target has 20+ [Combustion] Potency, gain 1 additional [Agility]</style>\nJP :\n速度が最も高い味方1名が[Combustion]または特殊火傷を保有した敵にマッチ勝利時、次のターンに[Agility]1を得る(1ターンにつき1回)\n<style=\"highlight\">- 対象の[Combustion]威力が20以上なら、[Agility]1を追加で得る</style>"
+  },
+  {
+    "key": "1041101-name",
+    "original": "흑수화[묘]",
+    "context": "EN :\nHeishou Mutation [Mao]\nJP :\n黒獣化[卯]"
+  },
+  {
+    "key": "1041101-desc",
+    "original": "자신에게 [LegStrength]가 있으면 가하는 피해량 +5%",
+    "context": "EN :\nIf this unit has [LegStrength], deal +5% more damage\nJP :\n自分に[LegStrength]があるなら、与ダメージ量 +5%"
+  },
+  {
+    "key": "1041111-name",
+    "original": "흑수화[묘]",
+    "context": "EN :\nHeishou Mutation [Mao]\nJP :\n黒獣化[卯]"
+  },
+  {
+    "key": "1041111-desc",
+    "original": "자신에게 [LegStrength]가 있으면 가하는 피해량 +5%\n대상에게 [BurstAgility]이 있으면 가하는 피해량 +5%",
+    "context": "EN :\nIf this unit has [LegStrength], deal +5% more damage\nIf the target has [BurstAgility], deal +5% more damage\nJP :\n自分に[LegStrength]があるなら、与ダメージ量 +5%\n対象へ[BurstAgility]があるなら、与ダメージ量 +5%"
+  },
+  {
+    "key": "1041121-name",
+    "original": "부분 흑수화 수련",
+    "context": "EN :\nPartial Heishou Mutation Training\nJP :\n部分黒獣化の修練"
+  },
+  {
+    "key": "1041121-desc",
+    "original": "턴 종료시 속도가 가장 빠른 아군 1명이 다음 턴에 [Agility] 2 얻음",
+    "context": "EN :\nTurn End: 1 ally with the fastest Speed gains 2 [Agility] next turn\nJP :\nターン終了時、速度が最も高い味方1名が次のターンに[Agility]2を得る"
+  },
+  {
+    "key": "1111201-name",
+    "original": "흑수화[묘]",
+    "context": "EN :\nHeishou Mutation [Mao]\nJP :\n黒獣化[卯]"
+  },
+  {
+    "key": "1111201-desc",
+    "original": "자신에게 [LegStrength]가 있고 대상에게 [BurstAgility]이 있으면 [LegStrength]당 가하는 피해량 +5% (최대 15%) ",
+    "context": "EN :\nIf this unit has [LegStrength] and the target has [BurstAgility], deal +5% more damage for every [LegStrength] (max 15%)\nJP :\n自分に[LegStrength]があるかつ、対象に[BurstAgility]があるなら[LegStrength]1につき与ダメージ量 +5% (最大15%) "
+  },
+  {
+    "key": "1111221-name",
+    "original": "무리짓는 토끼",
+    "context": "EN :\nA Husk of Hares\nJP :\n群れなす兎"
+  },
+  {
+    "key": "1111221-desc",
+    "original": "속도가 가장 빠른 아군 1명이 [Burst]이 있는 대상을 공격할 때, 가하는 피해량 +10%\n다음 턴에 [Agility] 1 얻음 (턴 당 최대 1회)",
+    "context": "EN :\n1 ally with the fastest Speed: when attacking targets with [Burst], deal +10% more damage\nGain 1 [Agility] next turn (once per turn)\nJP :\n速度が最も高い味方1名が[Burst]がある対象を攻撃するとき、与ダメージ量 +10%\n次のターンに[Agility]1を得る(1ターンにつき最大1回)"
   }
 ]

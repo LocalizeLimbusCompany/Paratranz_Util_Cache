@@ -256,23 +256,23 @@
   },
   {
     "key": "mission_ui_condition_tags_201005001-content",
-    "original": "스킬 1회 사용으로 1000 이상의 피해 가하기\n(보호막 피해 포함)",
-    "context": "EN :\nDeal 1000+ damage with a single Skill use\n(damage against Shield HP counts)\nJP :\nスキル1回で1000以上のダメージを与える\n(バリアへのダメージを含む)"
+    "original": "스킬 1회 사용으로 적에게 1000 이상의 스킬 피해 가하기 (보호막 피해, 스킬 적중시 발동되는 침잠 쇄도 및 시간 유예 피해 포함, 키워드 피해를 포함한 그 외 피해 제외)",
+    "context": "EN :\nDeal 1000+ Skill damage against an enemy with a single Skill use (Shield HP dmg & dmg dealt On Hit such as Sinking Deluge or Time Moratorium counts; excludes dmg from Keywords and other sources)\nJP :\nスキル1回使用で敵へ1000以上のスキルダメージを与える(バリアダメージ、スキル的中時に発動する沈潜殺到および時間猶予を含む。キーワードダメージを含むその他のダメージを除く)"
   },
   {
     "key": "mission_ui_condition_tags_201005002-content",
-    "original": "스킬 1회 사용으로 3000 이상의 피해 가하기\n(보호막 피해 포함)",
-    "context": "EN :\nDeal 3000+ damage with a single Skill use\n(damage against Shield HP counts)\nJP :\nスキル1回で3000以上のダメージを与える\n(バリアへのダメージを含む)"
+    "original": "스킬 1회 사용으로 적에게 3000 이상의 스킬 피해 가하기 (보호막 피해, 스킬 적중시 발동되는 침잠 쇄도 및 시간 유예 피해 포함, 키워드 피해를 포함한 그 외 피해 제외)",
+    "context": "EN :\nDeal 3000+ Skill damage against an enemy with a single Skill use (Shield HP dmg & dmg dealt On Hit such as Sinking Deluge or Time Moratorium counts; excludes dmg from Keywords and other sources)\nJP :\nスキル1回使用で敵へ3000以上のスキルダメージを与える(バリアダメージ、スキル的中時に発動する沈潜殺到および時間猶予を含む。キーワードダメージを含むその他のダメージを除く)"
   },
   {
     "key": "mission_ui_condition_tags_201005003-content",
-    "original": "스킬 1회 사용으로 5000 이상의 피해 가하기\n(보호막 피해 포함)",
-    "context": "EN :\nDeal 5000+ damage with a single Skill use\n(damage against Shield HP counts)\nJP :\nスキル1回で5000以上のダメージを与える\n(バリアへのダメージを含む)"
+    "original": "스킬 1회 사용으로 적에게 5000 이상의 스킬 피해 가하기 (보호막 피해, 스킬 적중시 발동되는 침잠 쇄도 및 시간 유예 피해 포함, 키워드 피해를 포함한 그 외 피해 제외)",
+    "context": "EN :\nDeal 5000+ Skill damage against an enemy with a single Skill use (Shield HP dmg & dmg dealt On Hit such as Sinking Deluge or Time Moratorium counts; excludes dmg from Keywords and other sources)\nJP :\nスキル1回使用で敵へ5000以上のスキルダメージを与える(バリアダメージ、スキル的中時に発動する沈潜殺到および時間猶予を含む。キーワードダメージを含むその他のダメージを除く)"
   },
   {
     "key": "mission_ui_condition_tags_201005004-content",
-    "original": "스킬 1회 사용으로 10000 이상의 피해 가하기\n(보호막 피해 포함)",
-    "context": "EN :\nDeal 10000+ damage with a single Skill use\n(damage against Shield HP counts)\nJP :\nスキル1回で10000以上のダメージを与える\n(バリアへのダメージを含む)"
+    "original": "스킬 1회 사용으로 적에게 10000 이상의 스킬 피해 가하기 (보호막 피해, 스킬 적중시 발동되는 침잠 쇄도 및 시간 유예 피해 포함, 키워드 피해를 포함한 그 외 피해 제외)",
+    "context": "EN :\nDeal 10000+ Skill damage against an enemy with a single Skill use (Shield HP dmg & dmg dealt On Hit such as Sinking Deluge or Time Moratorium counts; excludes dmg from Keywords and other sources)\nJP :\nスキル1回使用で敵へ10000以上のスキルダメージを与える(バリアダメージ、スキル的中時に発動する沈潜殺到および時間猶予を含む。キーワードダメージを含むその他のダメージを除く)"
   },
   {
     "key": "mission_ui_condition_tags_201005005-content",
@@ -322,11 +322,16 @@
   {
     "key": "mission_ui_condition_tags_201005014-content",
     "original": "한 턴에 적 1명이 부정적인 효과를 10종류 이상 얻기\n(집중 전투인 경우 부위로 체크)",
-    "context": "EN :\nIn a single turn, make 1 enemy gain 10+ types of negative effects\n(in Focused Encounters, a Part)\nJP :\n1ターンに、敵1名へ状態異常バフを10種以上保有させる\n(集中戦闘の場合は部位でチェック)"
+    "context": "EN :\nIn a single turn, make 1 enemy gain 10+ types of negative effects\n(in Focused Encounters, a Part)\nJP :\n1ターンに、敵1名がマイナス効果を10種以上保有\n(集中戦闘の場合は部位でチェック)"
   },
   {
     "key": "mission_ui_condition_tags_201005015-content",
     "original": "거울 던전 6층 이상의 스테이지에서 단 한 명의 아군 외에 모두 사망한 상태로 전투 승리 (대기 및 서포트 인격 포함)",
     "context": "EN :\nAt Floor 6 or higher in the Mirror Dungeon, win an Encounter after every ally except for one is dead (including Backup/Support Identities)\nJP :\n鏡ダンジョン6階層以上のステージにて、1名のみ生存した状態で戦闘勝利(待機およびサポート人格を含む)"
+  },
+  {
+    "key": "mission_ui_condition_tags_201006001-content",
+    "original": "모든 미션 클리어",
+    "context": "EN :\nClear all missions\nJP :\n全ミッションクリア"
   }
 ]
