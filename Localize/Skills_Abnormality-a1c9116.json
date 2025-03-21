@@ -96,8 +96,8 @@
   },
   {
     "key": "112602-levelList$[0].desc",
-    "original": "[WhenUse] 대상의 [Burst]이 5 이상이면, 합 위력 +1\n[WhenUse] 각력 3 얻음",
-    "context": "EN :\n[WhenUse] If the target has 5+ [Burst], Clash Power +1\n[WhenUse] Gain 3 Leg Musculature\nJP :\n[WhenUse] 対象の[Burst]が5以上なら、マッチ威力 +1\n[WhenUse] 脚力 3を得る"
+    "original": "[WhenUse] 대상의 [Burst]이 5 이상이면, 합 위력 +1\n[WhenUse] [LegStrength] 3 얻음",
+    "context": "EN :\n[WhenUse] If the target has 5+ [Burst], Clash Power +1\n[WhenUse] Gain 3 [LegStrength]\nJP :\n[WhenUse] 対象の[Burst]が5以上なら、マッチ威力 +1\n[WhenUse] [LegStrength] 3を得る"
   },
   {
     "key": "112602-levelList$[0].coinlist[0].coindescs[0].desc",
