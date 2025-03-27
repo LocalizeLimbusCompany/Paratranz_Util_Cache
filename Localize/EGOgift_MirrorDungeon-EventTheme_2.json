@@ -21,8 +21,8 @@
   },
   {
     "key": "19751-desc",
-    "original": "턴 시작시, 모든 아군이 [DefenseUp] 4 얻음.\n각 아군이 (자신의 [DefenseUp]/3)만큼 공격 레벨이 증가함. (최대 10)",
-    "context": "EN :\nTurn Start: all allies gain 4 [DefenseUp].\nEach ally gains ([DefenseUp] on self / 3) Offense Level. (max 10)\nJP :\nターン開始時、全味方が[DefenseUp]4を得る。\n各味方が(自分の[DefenseUp] ÷ 3)だけ攻撃レベルが増加する。(最大10)"
+    "original": "턴 시작시, 모든 아군이 [DefenseUp] <style=\"upgradeHighlight\">4</style> 얻음.\n각 아군이 (자신의 [DefenseUp]/<style=\"upgradeHighlight\">3</style>)만큼 공격 레벨이 증가함. (최대 10)",
+    "context": "EN :\nTurn Start: all allies gain <style=\"upgradeHighlight\">4</style> [DefenseUp].\nEach ally gains ([DefenseUp] on self / <style=\"upgradeHighlight\">3</style>) Offense Level. (max 10)\nJP :\nターン開始時、全味方が[DefenseUp]<style=\"upgradeHighlight\">4</style>を得る。\n各味方が(自分の[DefenseUp] ÷ <style=\"upgradeHighlight\">3</style>)だけ攻撃レベルが増加する。(最大10)"
   },
   {
     "key": "19751-simpleDesc$[0].simpleDesc",
@@ -36,8 +36,8 @@
   },
   {
     "key": "29751-desc",
-    "original": "턴 시작시, 모든 아군이 [DefenseUp] 4 얻음.\n각 아군이 (자신의 [DefenseUp]/2)만큼 공격 레벨이 증가함. (최대 10)",
-    "context": "EN :\nTurn Start: all allies gain 4 [DefenseUp].\nEach ally gains ([DefenseUp] on self / 2) Offense Level. (max 10)\nJP :\nターン開始時、全味方が[DefenseUp]4を得る。\n各味方が(自分の[DefenseUp] ÷ 2)だけ攻撃レベルが増加する。(最大10)"
+    "original": "턴 시작시, 모든 아군이 [DefenseUp] 4 얻음.\n각 아군이 (자신의 [DefenseUp]/<style=\"upgradeHighlight\">2</style>)만큼 공격 레벨이 증가함. (최대 10)",
+    "context": "EN :\nTurn Start: all allies gain 4 [DefenseUp].\nEach ally gains ([DefenseUp] on self / <style=\"upgradeHighlight\">2</style>) Offense Level. (max 10)\nJP :\nターン開始時、全味方が[DefenseUp]4を得る。\n各味方が(自分の[DefenseUp] ÷ <style=\"upgradeHighlight\">2</style>)だけ攻撃レベルが増加する。(最大10)"
   },
   {
     "key": "29751-simpleDesc$[0].simpleDesc",
@@ -66,8 +66,8 @@
   },
   {
     "key": "19752-desc",
-    "original": "공격 적중시마다 [Zazen] 1 얻음. (스킬 당 3회)\n자신이 이번 턴에 적에게 스킬로 피격 당한 상태면, 얻는 [Zazen] +1.",
-    "context": "EN :\nOn Hit, gain 1 [Zazen]. (3 times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time.\nJP :\n攻撃が的中するたびに[Zazen]1を得る(スキルごとに3回)\n自分がこのターンに敵にスキルでダメージを受けた状態なら、得る[Zazen] +1"
+    "original": "공격 적중시마다 [Zazen] 1 얻음. (스킬 당 <style=\"upgradeHighlight\">3</style>회)\n자신이 이번 턴에 적에게 스킬로 피격 당한 상태면, 얻는 [Zazen] +1.",
+    "context": "EN :\nOn Hit, gain 1 [Zazen]. (<style=\"upgradeHighlight\">3</style> times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time.\nJP :\n攻撃が的中するたびに[Zazen]1を得る(スキルごとに<style=\"upgradeHighlight\">3</style>回)\n自分がこのターンに敵にスキルでダメージを受けた状態なら、得る[Zazen] +1"
   },
   {
     "key": "19752-simpleDesc$[0].simpleDesc",
@@ -81,8 +81,8 @@
   },
   {
     "key": "29752-desc",
-    "original": "공격 적중시마다 [Zazen] 2 얻음. (스킬 당 3회)\n자신이 이번 턴에 적에게 스킬로 피격 당한 상태면, 얻는 [Zazen] +1.",
-    "context": "EN :\nOn Hit, gain 2 [Zazen]. (3 times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time.\nJP :\n攻撃が的中するたびに[Zazen]2を得る(スキルごとに3回)\n自分がこのターンに敵にスキルでダメージを受けた状態なら、得る[Zazen] +1"
+    "original": "공격 적중시마다 [Zazen] <style=\"upgradeHighlight\">2</style> 얻음. (스킬 당 3회)\n자신이 이번 턴에 적에게 스킬로 피격 당한 상태면, 얻는 [Zazen] +1.",
+    "context": "EN :\nOn Hit, gain <style=\"upgradeHighlight\">2</style> [Zazen]. (3 times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time.\nJP :\n攻撃が的中するたびに[Zazen]<style=\"upgradeHighlight\">2</style>を得る(スキルごとに3回)\n自分がこのターンに敵にスキルでダメージを受けた状態なら、得る[Zazen] +1"
   },
   {
     "key": "29752-simpleDesc$[0].simpleDesc",
@@ -111,8 +111,8 @@
   },
   {
     "key": "19753-desc",
-    "original": " 홀수 턴이면, 모든 아군이 [AttackDmgUp] 1 얻음. 짝수 턴이면, 모든 아군이 [Protection] 1, [DefenseUp] 1 얻음.",
-    "context": "EN :\nIn odd-numbered turns, all allies gain 1 [AttackDmgUp]. In even-numbered turns, all allies gain 1 [Protection] and 1 [DefenseUp].\nJP :\n奇数ターンなら、全味方が[AttackDmgUp]1を得る。偶数ターンなら、全味方が[Protection]1, [DefenseUp]を得る。"
+    "original": " 홀수 턴이면, 모든 아군이 [AttackDmgUp] 1 얻음. 짝수 턴이면, 모든 아군이 [Protection] 1, <style=\"upgradeHighlight\">[DefenseUp] 1</style> 얻음.",
+    "context": "EN :\nIn odd-numbered turns, all allies gain 1 [AttackDmgUp]. In even-numbered turns, all allies gain 1 [Protection] <style=\"upgradeHighlight\">and 1 [DefenseUp]</style>.\nJP :\n奇数ターンなら、全味方が[AttackDmgUp]1を得る。偶数ターンなら、全味方が[Protection]1, <style=\"upgradeHighlight\">[DefenseUp]1</style>を得る。"
   },
   {
     "key": "19753-simpleDesc$[0].simpleDesc",
@@ -126,8 +126,8 @@
   },
   {
     "key": "29753-desc",
-    "original": " 홀수 턴이면, 모든 아군이 [AttackDmgUp] 1, [AttackUp] 1 얻음. 짝수 턴이면, 모든 아군이 [Protection] 1, [DefenseUp] 1 얻음.",
-    "context": "EN :\nIn odd-numbered turns, all allies gain 1 [AttackDmgUp] and 1 [AttackUp]. In even-numbered turns, all allies gain 1 [Protection] and 1 [DefenseUp].\nJP :\n奇数ターンなら、全味方が[AttackDmgUp]1, [AttackUp]1を得る。偶数ターンなら、全味方が[Protection]1, [DefenseUp]を得る。"
+    "original": " 홀수 턴이면, 모든 아군이 [AttackDmgUp] 1, <style=\"upgradeHighlight\">[AttackUp] 1</style> 얻음. 짝수 턴이면, 모든 아군이 [Protection] 1, [DefenseUp] 1 얻음.",
+    "context": "EN :\nIn odd-numbered turns, all allies gain 1 [AttackDmgUp] <style=\"upgradeHighlight\">and 1 [AttackUp]</style>. In even-numbered turns, all allies gain 1 [Protection] and 1 [DefenseUp].\nJP :\n奇数ターンなら、全味方が[AttackDmgUp]1, <style=\"upgradeHighlight\">[AttackUp]1</style>を得る。偶数ターンなら、全味方が[Protection]1, [DefenseUp]1を得る。"
   },
   {
     "key": "29753-simpleDesc$[0].simpleDesc",
@@ -156,8 +156,8 @@
   },
   {
     "key": "19754-desc",
-    "original": "스테이지 시작 시 (현재 층 x 3)%만큼 모든 아군의 최대 체력이 증가 (최대 30%)",
-    "context": "EN :\nEncounter Start: all allies gain (current Floor x 3)% max HP (max 30%)\nJP :\nステージ開始時、(現在の階層 × 3)%だけ全味方の体力最大値が増加(最大30%)"
+    "original": "스테이지 시작 시 (현재 층 x <style=\"upgradeHighlight\">3</style>)%만큼 모든 아군의 최대 체력이 증가 (최대 <style=\"upgradeHighlight\">30</style>%)",
+    "context": "EN :\nEncounter Start: all allies gain (current Floor x <style=\"upgradeHighlight\">3</style>)% max HP (max <style=\"upgradeHighlight\">30</style>%)\nJP :\nステージ開始時、(現在の階層 × <style=\"upgradeHighlight\">3</style>)%だけ全味方の体力最大値が増加(最大<style=\"upgradeHighlight\">30</style>%)"
   },
   {
     "key": "19754-simpleDesc$[0].simpleDesc",
@@ -171,8 +171,8 @@
   },
   {
     "key": "29754-desc",
-    "original": "스테이지 시작 시 (현재 층 x 5)%만큼 모든 아군의 최대 체력이 증가 (최대 50%)",
-    "context": "EN :\nEncounter Start: all allies gain (current Floor x 5)% max HP (max 50%)\nJP :\nステージ開始時、(現在の階層 × 5)%だけ全味方の体力最大値が増加(最大50%)"
+    "original": "스테이지 시작 시 (현재 층 x <style=\"upgradeHighlight\">5</style>)%만큼 모든 아군의 최대 체력이 증가 (최대 <style=\"upgradeHighlight\">50</style>%)",
+    "context": "EN :\nEncounter Start: all allies gain (current Floor x <style=\"upgradeHighlight\">5</style>)% max HP (max <style=\"upgradeHighlight\">50</style>%)\nJP :\nステージ開始時、(現在の階層 × <style=\"upgradeHighlight\">5</style>)%だけ全味方の体力最大値が増加(最大<style=\"upgradeHighlight\">50</style>%)"
   },
   {
     "key": "29754-simpleDesc$[0].simpleDesc",
@@ -201,8 +201,8 @@
   },
   {
     "key": "19755-desc",
-    "original": "[편성 6번 인격 전용 효과]\n\n전투 시작 시, 자신을 타겟팅한 적의 공격 스킬당 가하는 피해량 +10% (최대 20%)\n\n전투 시작 시 2개 이상의 공격 스킬의 타겟이 되었으면, 자신을 타겟팅한 적에게 (2 x 타겟팅한 스킬 수)만큼 체력 고정 피해와 정신력 피해를 줌. (최대 5. 아군에게는 피해를 주지 않음)",
-    "context": "EN :\n[Effects apply only to #6 Deployed Identity]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 20%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit. (max 5; this effect does not hurt allies)\nJP :\n[編成6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大20%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲティングした敵に対して(2 × ターゲティングしたスキル数)だけ固定ダメージと精神力ダメージを与える。(最大5. 味方にはダメージを与えない)"
+    "original": "[편성 6번 인격 전용 효과]\n\n전투 시작 시, 자신을 타겟팅한 적의 공격 스킬당 가하는 피해량 +10% (최대 20%)\n\n전투 시작 시 2개 이상의 공격 스킬의 타겟이 되었으면, 자신을 타겟팅한 적에게 <style=\"upgradeHighlight\">(2 x 타겟팅한 스킬 수)</style>만큼 체력 고정 피해와 정신력 피해를 줌. (최대 <style=\"upgradeHighlight\">5</style>. 아군에게는 피해를 주지 않음)",
+    "context": "EN :\n[Effects apply only to #6 Deployed Identity]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 20%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal <style=\"upgradeHighlight\">(# of Skills targeting this unit x 2)</style> fixed HP & SP damage against all enemies targeting this unit. (max <style=\"upgradeHighlight\">5</style>; this effect does not hurt allies)\nJP :\n[編成6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大20%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲティングした敵に対して<style=\"upgradeHighlight\">(2 × ターゲティングしたスキル数)</style>だけ固定ダメージと精神力ダメージを与える。(最大<style=\"upgradeHighlight\">5</style>. 味方にはダメージを与えない)"
   },
   {
     "key": "19755-simpleDesc$[0].simpleDesc",
@@ -216,8 +216,8 @@
   },
   {
     "key": "29755-desc",
-    "original": "[편성 1번, 6번 인격 전용 효과]\n\n전투 시작 시, 자신을 타겟팅한 적의 공격 스킬당 가하는 피해량 +10% (최대 30%)\n\n전투 시작 시 2개 이상의 공격 스킬의 타겟이 되었으면, 자신을 타겟팅한 적에게 (2 x 타겟팅한 스킬 수)만큼 체력 고정 피해와 정신력 피해를 줌. (최대 10. 아군에게는 피해를 주지 않음)",
-    "context": "EN :\n[Effects apply only to #1 and #6 Deployed Identities]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 30%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit. (max 10; this effect does not hurt allies)\nJP :\n[編成1, 6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大30%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲティングした敵に対して(2 × ターゲティングしたスキル数)だけ固定ダメージと精神力ダメージを与える。(最大10. 味方にはダメージを与えない)"
+    "original": "[편성 <style=\"upgradeHighlight\">1번,</style> 6번 인격 전용 효과]\n\n전투 시작 시, 자신을 타겟팅한 적의 공격 스킬당 가하는 피해량 +10% (최대 <style=\"upgradeHighlight\">30</style>%)\n\n전투 시작 시 2개 이상의 공격 스킬의 타겟이 되었으면, 자신을 타겟팅한 적에게 (2 x 타겟팅한 스킬 수)만큼 체력 고정 피해와 정신력 피해를 줌. (최대 <style=\"upgradeHighlight\">10</style>. 아군에게는 피해를 주지 않음)",
+    "context": "EN :\n[Effects apply only to <style=\"upgradeHighlight\">#1</style> and #6 Deployed Identities]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max <style=\"upgradeHighlight\">30</style>%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit. (max <style=\"upgradeHighlight\">10</style>; this effect does not hurt allies)\nJP :\n[編成<style=\"upgradeHighlight\">1</style>, 6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大<style=\"upgradeHighlight\">30%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲティングした敵に対して(2 × ターゲティングしたスキル数)だけ固定ダメージと精神力ダメージを与える。(最大<style=\"upgradeHighlight\">10</style>. 味方にはダメージを与えない)"
   },
   {
     "key": "29755-simpleDesc$[0].simpleDesc",
@@ -246,8 +246,8 @@
   },
   {
     "key": "19756-desc",
-    "original": "사망할 정도의 피해를 입었다면, 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 20%만큼 회복함. (전투당 1회 발동)\n\n자신에게 [Combustion]이 있으면, 대신 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 30%만큼 회복함.(위 효과와 합쳐 전투 당 1회 발동)",
-    "context": "EN :\nWhen taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)\n\nIf the affect unit has [Combustion]: fix HP to 1 for the attack; After Attack, heal 30% of max HP instead. (once per Encounter for both this and the above effect)\nJP :\n致死ダメージを受けたなら該当する攻撃の間、体力が1に保たれる。該当攻撃が終了したときに全体力の20%だけ回復(戦闘につき1回発動)\n\n自分に[Combustion]があるなら、該当攻撃が終了したときの全体力回復量が30%になる。(上記の効果と合わせて戦闘につき1回発動)"
+    "original": "사망할 정도의 피해를 입었다면, 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 20%만큼 회복함. (전투당 1회 발동)\n\n<style=\"upgradeHighlight\">자신에게 [Combustion]이 있으면, 대신 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 30%만큼 회복함.(위 효과와 합쳐 전투 당 1회 발동)</style>",
+    "context": "EN :\nWhen taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)\n\n<style=\"upgradeHighlight\">If the affected unit has [Combustion]: fix HP to 1 for the attack; After Attack, heal 30% of max HP instead. (once per Encounter for both this and the above effect)</style>\nJP :\n致死ダメージを受けたなら該当する攻撃の間、体力が1に保たれる。該当攻撃が終了したときに全体力の20%だけ回復(戦闘につき1回発動)\n\n<style=\"upgradeHighlight\">自分に[Combustion]があるなら、該当攻撃が終了したときの全体力回復量が30%になる。(上記の効果と合わせて戦闘につき1回発動)</style>"
   },
   {
     "key": "19756-simpleDesc$[0].simpleDesc",
@@ -261,8 +261,8 @@
   },
   {
     "key": "29756-desc",
-    "original": "사망할 정도의 피해를 입었다면, 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 20%만큼 회복함. (전투당 1회 발동)\n\n자신에게 [Combustion]이 있으면, 대신 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 40%만큼 회복함.(위 효과와 합쳐 전투 당 1회 발동)",
-    "context": "EN :\nWhen taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)\n\nIf the affect unit has [Combustion]: fix HP to 1 for the attack; After Attack, heal 40% of max HP instead. (once per Encounter for both this and the above effect)\nJP :\n致死ダメージを受けたなら該当する攻撃の間、体力が1に保たれる。該当攻撃が終了したときに全体力の20%だけ回復(戦闘につき1回発動)\n\n自分に[Combustion]があるなら、該当攻撃が終了したときの全体力回復量が40%になる。(上記の効果と合わせて戦闘につき1回発動)"
+    "original": "사망할 정도의 피해를 입었다면, 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 20%만큼 회복함. (전투당 1회 발동)\n\n자신에게 [Combustion]이 있으면, 대신 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 <style=\"upgradeHighlight\">40</style>%만큼 회복함.(위 효과와 합쳐 전투 당 1회 발동)",
+    "context": "EN :\nWhen taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)\n\nIf the affected unit has [Combustion]: fix HP to 1 for the attack; After Attack, heal <style=\"upgradeHighlight\">40</style>% of max HP instead. (once per Encounter for both this and the above effect)\nJP :\n致死ダメージを受けたなら該当する攻撃の間、体力が1に保たれる。該当攻撃が終了したときに全体力の20%だけ回復(戦闘につき1回発動)\n\n自分に[Combustion]があるなら、該当攻撃が終了したときの全体力回復量が<style=\"upgradeHighlight\">40</style>%になる。(上記の効果と合わせて戦闘につき1回発動)"
   },
   {
     "key": "29756-simpleDesc$[0].simpleDesc",
@@ -291,8 +291,8 @@
   },
   {
     "key": "19757-desc",
-    "original": "전투 중 피격당했다면, 공격자에게 다음 턴에 [Paralysis] 1 부여. (캐릭터 1명당 턴 당 1 회)\n\n전투 시작 시 질투 완전 공명 5 이상이면, 모든 적에게 [Paralysis] 1 부여.",
-    "context": "EN :\nWhen hit during the combat phase, inflict 1 [Paralysis] against the attacker next turn. (Once per turn for each character)\n\nAt 5+ Envy A-Reson., at Combat Start: inflict 1 [Paralysis] against all enemies.\nJP :\n戦闘中にダメージを受けたなら、攻撃者へ次のターンに[Paralysis]1を付与(キャラクター1名ごとに1ターンにつき1回)\n\n戦闘開始時に嫉妬完全共鳴5以上なら、全ての敵へ[Paralysis]1を付与"
+    "original": "전투 중 피격당했다면, 공격자에게 다음 턴에 [Paralysis] 1 부여. (캐릭터 1명당 턴 당 1 회)\n\n<style=\"upgradeHighlight\">전투 시작 시 질투 완전 공명 5 이상이면, 모든 적에게 [Paralysis] 1 부여.</style>",
+    "context": "EN :\nWhen hit during the combat phase, inflict 1 [Paralysis] against the attacker next turn. (Once per turn for each character)\n\n<style=\"upgradeHighlight\">At 5+ Envy A-Reson., at Combat Start: inflict 1 [Paralysis] against all enemies.</style>\nJP :\n戦闘中にダメージを受けたなら、攻撃者へ次のターンに[Paralysis]1を付与(キャラクター1名ごとに1ターンにつき1回)\n\n<style=\"upgradeHighlight\">戦闘開始時に嫉妬完全共鳴5以上なら、全ての敵へ[Paralysis]1を付与</style>"
   },
   {
     "key": "19757-simpleDesc$[0].simpleDesc",
@@ -996,8 +996,8 @@
   },
   {
     "key": "9791-desc",
-    "original": "턴 종료 시 흑수묘 소속이면, 다음 턴에 [Agility] 2 얻음\n\n자신의 속도가 대상보다 빠르거나 일방 공격을 할 경우, (속도 차 / 3)만큼 참격 피해량 +10% (최대 30%)\n\n자신의 속도가 대상보다 빠르면, (속도 차 / 3)당 받는 피해량 -10% (최대 30%)",
-    "context": "EN :\nTurn End: Heishou Pack - Mao Branch Identities gain 2 [Agility] next turn\n\nIf an ally's Speed is faster than the target's, or when activating Unopposed Attacks, deal +10% more Slash damage for every (Speed difference / 3) (max 30%)\n\nIf an ally's Speed is faster than the target's, take -10% less damage for every (Speed difference / 3) (max 30%)\nJP :\nターン終了時、黒獣卯所属なら次のターンに[Agility]2を得る\n\n自分の速度が対象より高いか、一方攻撃をする場合は(速度差 ÷ 3)だけ斬撃ダメージ量 +10% (最大30%)\n\n自分の速度が対象よりも高ければ、(速度差 ÷ 3)につき被ダメージ量 -10% (最大30%)"
+    "original": "턴 종료 시 흑수 - 묘 소속이면, 다음 턴에 [Agility] 2 얻음\n\n자신의 속도가 대상보다 빠르거나 일방 공격을 할 경우, (속도 차 / 3)만큼 참격 피해량 +10% (최대 30%)\n\n자신의 속도가 대상보다 빠르면, (속도 차 / 3)당 받는 피해량 -10% (최대 30%)",
+    "context": "EN :\nTurn End: Heishou Pack - Mao Branch Identities gain 2 [Agility] next turn\n\nIf an ally's Speed is faster than the target's, or when activating Unopposed Attacks, deal +10% more Slash damage for every (Speed difference / 3) (max 30%)\n\nIf an ally's Speed is faster than the target's, take -10% less damage for every (Speed difference / 3) (max 30%)\nJP :\nターン終了時、黒獣 - 卯所属なら次のターンに[Agility]2を得る\n\n自分の速度が対象より高いか、一方攻撃をする場合は(速度差 ÷ 3)だけ斬撃ダメージ量 +10% (最大30%)\n\n自分の速度が対象よりも高ければ、(速度差 ÷ 3)につき被ダメージ量 -10% (最大30%)"
   },
   {
     "key": "9791-simpleDesc$[0].simpleDesc",
@@ -1046,8 +1046,8 @@
   },
   {
     "key": "9793-desc",
-    "original": "스테이지 시작 시, [Burst] 위력 또는 [Burst] 횟수를 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외)\n\n자신의 공격 스킬로 [Burst]을 가진 대상을 처치할 시 (집중 전투의 경우 부위 파괴), 대상의 [Burst] 위력을 나누어 모든 적 (집중 전투일 경우 부위)에게 부여함 (최대 3씩)\n\n자신의 공격 스킬로 [BurstAgility]을 가진 대상을 처치할 시 (집중 전투의 경우 부위 파괴), 위 효과를 대신하여 대상의 [Burst] 위력과 횟수를 나누어 모든 적 (집중 전투일 경우 부위)에게 부여함 (최대 6씩)\n\n[Burst]을 가진 대상과 합을 할 때, (대상의 [Burst] / 20)만큼 합 위력이 증가 (최대 2)\n- [BurstAgility]을 가진 대상과 합을 할 때, 위 효과를 대신하여 (대상의 [BurstAgility] / 10)만큼 코인 위력이 증가 (최대 2)\n\n[BurstAgility] 효과로 피해를 줄 때, ([BurstAgility] 피해 / 2)만큼 고정 피해 입힘",
-    "context": "EN :\nEncounter Start: activates when there are 5 or more Identities that inflict [Burst] Potency or [Burst] Count (except E.G.O Skills)\n\nWhen defeating a target with [Burst](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency on the target between all enemies(for Focused Encounters, all Parts) (max 3 per enemy)\n\nWhen defeating a target with [BurstAgility](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency and Count on the target between all enemies(for Focused Encounters, all Parts) (max 6 per enemy)\n\nWhen clashing against targets with [Burst], gain ([Burst] on the target / 20) Clash Power (max 2)\n- When clashing against targets with [BurstAgility], gain ([BurstAgility] on the target / 10) Coin Power instead (max 2)\n\nWhen dealing damage with [BurstAgility] effect, deal fixed damage by ([BurstAgility] damage / 2)\nJP :\nステージ開始時、[Burst]威力または[Burst]回数を付与する攻撃スキルを保有した人格が5名以上のとき発動(E.G.Oスキルを除く)\n\n自分の攻撃スキルで[Burst]を持つ対象を伐するとき、(集中戦闘の場合は部位破壊)対象の[Burst]威力を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大3ずつ)\n\n自分の攻撃スキルで[BurstAgility]を持つ対象を討伐するとき、(集中戦闘の場合は部位破壊)上記の効果の代わりに対象の[Burst]威力と回数を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大6)\n\n[Burst]を持つ対象とマッチするとき、(対象の[Burst] ÷ 20)だけマッチ威力が増加(最大2)\n- [BurstAgility]を持つ対象とマッチするとき、上記の効果の代わり(対象の[BurstAgility] ÷ 10)だけコイン威力が増加(最大2)\n\n[BurstAgility]効果でダメージを与えるとき、([BurstAgility]ダメージ ÷ 2)だけ固定ダメージを与える"
+    "original": "스테이지 시작 시, [Burst] 위력 또는 [Burst] 횟수를 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외)\n\n자신의 공격 스킬로 [Burst]을 가진 대상을 처치할 시 (집중 전투의 경우 부위 파괴), 대상의 [Burst] 위력을 나누어 모든 적 (집중 전투일 경우 부위)에게 부여함 (최대 3씩)\n\n자신의 공격 스킬로 [BurstAgility]을 가진 대상을 처치할 시 (집중 전투의 경우 부위 파괴), 위 효과를 대신하여 대상의 [Burst] 위력과 횟수를 나누어 모든 적 (집중 전투일 경우 부위)에게 부여함 (최대 6씩)\n\n[Burst]을 가진 대상과 합을 할 때, (대상의 [Burst] / 20)만큼 합 위력이 증가 (최대 2)\n- [BurstAgility]을 가진 대상과 합을 할 때, 위 효과를 대신하여 (대상의 [Burst] / 10)만큼 코인 위력이 증가 (최대 2)\n\n[BurstAgility] 효과로 피해를 줄 때, ([BurstAgility] 피해 / 2)만큼 고정 피해 입힘",
+    "context": "EN :\nEncounter Start: activates when there are 5 or more Identities that inflict [Burst] Potency or [Burst] Count (except E.G.O Skills)\n\nWhen defeating a target with [Burst](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency on the target between all enemies(for Focused Encounters, all Parts) (max 3 per enemy)\n\nWhen defeating a target with [BurstAgility](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency and Count on the target between all enemies(for Focused Encounters, all Parts) (max 6 per enemy)\n\nWhen clashing against targets with [Burst], gain ([Burst] on the target / 20) Clash Power (max 2)\n- When clashing against targets with [BurstAgility], gain ([Burst] on the target / 10) Coin Power instead (max 2)\n\nWhen dealing damage with [BurstAgility] effect, deal fixed damage by ([BurstAgility] damage / 2)\nJP :\nステージ開始時、[Burst]威力または[Burst]回数を付与する攻撃スキルを保有した人格が5名以上のとき発動(E.G.Oスキルを除く)\n\n自分の攻撃スキルで[Burst]を持つ対象を伐するとき、(集中戦闘の場合は部位破壊)対象の[Burst]威力を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大3ずつ)\n\n自分の攻撃スキルで[BurstAgility]を持つ対象を討伐するとき、(集中戦闘の場合は部位破壊)上記の効果の代わりに対象の[Burst]威力と回数を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大6)\n\n[Burst]を持つ対象とマッチするとき、(対象の[Burst] ÷ 20)だけマッチ威力が増加(最大2)\n- [BurstAgility]を持つ対象とマッチするとき、上記の効果の代わり(対象の[Burst] ÷ 10)だけコイン威力が増加(最大2)\n\n[BurstAgility]効果でダメージを与えるとき、([BurstAgility]ダメージ ÷ 2)だけ固定ダメージを与える"
   },
   {
     "key": "9793-simpleDesc$[0].simpleDesc",

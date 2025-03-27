@@ -3180,12 +3180,12 @@
     "context": "EN :\n\nJP :\n"
   },
   {
-    "key": "이상-krname",
-    "original": "이상",
+    "key": "이상다침-krname",
+    "original": "이상다침",
     "context": "EN :\nYi Sang\nJP :\nイサン"
   },
   {
-    "key": "이상-nickName",
+    "key": "이상다침-nickName",
     "original": "1번 수감자",
     "context": "EN :\nSinner #1\nJP :\n囚人1番"
   },
@@ -3296,6 +3296,16 @@
   },
   {
     "key": "베르너-nickName",
+    "original": "중지",
+    "context": "EN :\nThe Middle\nJP :\n中指"
+  },
+  {
+    "key": "베르너다침-krname",
+    "original": "베르너다침",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "베르너다침-nickName",
     "original": "중지",
     "context": "EN :\nThe Middle\nJP :\n中指"
   },

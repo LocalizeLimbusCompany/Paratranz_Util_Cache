@@ -1476,8 +1476,8 @@
   },
   {
     "key": "1050202-levelList$[1].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 대상의 화상이 6 이상이면, 무작위 적 2명에게 화상 2 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has 6+ Burn, inflict 2 Burn on 2 random enemies\nJP :\n[OnSucceedAttack] 対象の火傷 が6以上なら、ランダムな敵2名に火傷 2を付与"
+    "original": "[OnSucceedAttack] 대상의 [Combustion]이 6 이상이면, 무작위 적 2명에게 화상 2 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn on 2 random enemies\nJP :\n[OnSucceedAttack] 対象の[Combustion]が6以上なら、ランダムな敵2名に火傷 2を付与"
   },
   {
     "key": "1050202-levelList$[1].coinlist[1].coindescs[0].desc",
@@ -1496,8 +1496,8 @@
   },
   {
     "key": "1050202-levelList$[2].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 대상의 화상이 6 이상이면, 무작위 적 2명에게 화상 3 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has 6+ Burn, inflict 3 Burn on 2 random enemies\nJP :\n[OnSucceedAttack] 対象の火傷 が6以上なら、ランダムな敵2名に火傷 3を付与"
+    "original": "[OnSucceedAttack] 대상의 [Combustion]이 6 이상이면, 무작위 적 2명에게 화상 3 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has 6+ [Combustion], inflict 3 Burn on 2 random enemies\nJP :\n[OnSucceedAttack] 対象の[Combustion]が6以上なら、ランダムな敵2名に火傷 3を付与"
   },
   {
     "key": "1050202-levelList$[2].coinlist[1].coindescs[0].desc",
@@ -1521,8 +1521,8 @@
   },
   {
     "key": "1050203-levelList$[0].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 대상의 화상이 6 이상이면, 무작위 적 2명에게 화상 3 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has 6+ Burn, inflict 3 Burn on 2 random enemies\nJP :\n[OnSucceedAttack] 対象の火傷 が6以上なら、ランダムな敵2名に火傷 3を付与"
+    "original": "[OnSucceedAttack] 대상의 [Combustion]이 6 이상이면, 무작위 적 2명에게 화상 3 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has 6+ [Combustion], inflict 3 Burn on 2 random enemies\nJP :\n[OnSucceedAttack] 対象の[Combustion]が6以上なら、ランダムな敵2名に火傷 3を付与"
   },
   {
     "key": "1050203-levelList$[1].name",
@@ -1546,8 +1546,8 @@
   },
   {
     "key": "1050203-levelList$[1].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 대상의 화상이 6 이상이면, 무작위 적 2명에게 화상 3 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has 6+ Burn, inflict 3 Burn on 2 random enemies\nJP :\n[OnSucceedAttack] 対象の火傷 が6以上なら、ランダムな敵2名に火傷 3を付与"
+    "original": "[OnSucceedAttack] 대상의 [Combustion]이 6 이상이면, 무작위 적 2명에게 화상 3 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has 6+ [Combustion], inflict 3 Burn on 2 random enemies\nJP :\n[OnSucceedAttack] 対象の[Combustion]が6以上なら、ランダムな敵2名に火傷 3を付与"
   },
   {
     "key": "1050204-levelList$[0].name",
@@ -2041,8 +2041,8 @@
   },
   {
     "key": "1060302-levelList$[2].desc",
-    "original": "대상의 출혈이 7 이상이면, 피해량 +20%",
-    "context": "EN :\nIf target has 7+ Bleed, deal +20% damage\nJP :\n対象の出血 が7以上のとき、与ダメージ量 +20%"
+    "original": "대상의 [Laceration]이 7 이상이면, 피해량 +20%",
+    "context": "EN :\nIf target has 7+ [Laceration], deal +20% more damage\nJP :\n対象の[Laceration]が7以上なら、ダメージ量 +20%"
   },
   {
     "key": "1060302-levelList$[2].coinlist[0].coindescs[0].desc",
@@ -2106,8 +2106,8 @@
   },
   {
     "key": "1060303-levelList$[1].coinlist[0].coindescs[2].desc",
-    "original": "[ReUseOnSucceedAttackHead] 대상의 출혈이 10 이상이면, 피해량 +50%",
-    "context": "EN :\n[ReUseOnSucceedAttackHead] If target has 10+ Bleed, deal +50% damage\nJP :\n[ReUseOnSucceedAttackHead] 対象の出血 が10以上なら、与ダメージ量 +50%"
+    "original": "[ReUseOnSucceedAttackHead] 대상의 [Laceration]이 10 이상이면, 피해량 +50%",
+    "context": "EN :\n[ReUseOnSucceedAttackHead] If target has 10+ [Laceration], deal +50% damage\nJP :\n[ReUseOnSucceedAttackHead] 対象の[Laceration]が10以上なら、与ダメージ量 +50%"
   },
   {
     "key": "1060304-levelList$[0].name",
@@ -2121,8 +2121,8 @@
   },
   {
     "key": "1060304-levelList$[1].desc",
-    "original": "대상의 출혈이 5 이상이면, 코인 위력 +2\n[OnSucceedEvade] 정신력 3 회복",
-    "context": "EN :\nIf target has 5+ Bleed, Coin Power +2\n[OnSucceedEvade] Heal 3 SP\nJP :\n対象の出血が5以上なら、コイン威力 +2\n[OnSucceedEvade] 精神力を3回復"
+    "original": "대상의 [Laceration]이 5 이상이면, 코인 위력 +2\n[OnSucceedEvade] 정신력 3 회복",
+    "context": "EN :\nIf target has 5+ [Laceration], Coin Power +2\n[OnSucceedEvade] Heal 3 SP\nJP :\n対象の[Laceration]が5以上なら、コイン威力 +2\n[OnSucceedEvade] 精神力を3回復"
   },
   {
     "key": "1070101-levelList$[0].name",
@@ -3121,8 +3121,8 @@
   },
   {
     "key": "1090103-levelList$[0].coinlist[3].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상의 출혈이 6 이상이면, 피해량 +20%",
-    "context": "EN :\n[OnSucceedAttack] If target has 6+ Bleed, deal +20% damage\nJP :\n[OnSucceedAttack] 対象の出血 が6以上なら、与ダメージ量 +20%"
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 6 이상이면, 피해량 +20%",
+    "context": "EN :\n[OnSucceedAttack] If target has 6+ [Laceration], deal +20% more damage\nJP :\n[OnSucceedAttack] 対象の[Laceration]が6以上なら、ダメージ量 +20%"
   },
   {
     "key": "1090103-levelList$[1].name",
@@ -3151,8 +3151,8 @@
   },
   {
     "key": "1090103-levelList$[1].coinlist[3].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상의 출혈이 6 이상이면, 피해량 +20%",
-    "context": "EN :\n[OnSucceedAttack] If target has 6+ Bleed, deal +20% damage\nJP :\n[OnSucceedAttack] 対象の出血 が6以上なら、与ダメージ量 +20%"
+    "original": "[OnSucceedAttack] 대상의 [Laceration]이 6 이상이면, 피해량 +20%",
+    "context": "EN :\n[OnSucceedAttack] If target has 6+ [Laceration], deal +20% more damage\nJP :\n[OnSucceedAttack] 対象の[Laceration]が6以上なら、ダメージ量 +20%"
   },
   {
     "key": "1090104-levelList$[0].name",
@@ -3186,8 +3186,8 @@
   },
   {
     "key": "1090201-levelList$[2].desc",
-    "original": "자신의 호흡이 4 이상이면, 코인 위력 +2",
-    "context": "EN :\nAt 4+ Poise, Coin Power +2\nJP :\n自分の呼吸 が4以上なら、コイン威力 +2"
+    "original": "자신의 [Breath]이 4 이상이면, 코인 위력 +2",
+    "context": "EN :\nAt 4+ [Breath], Coin Power +2\nJP :\n自分の[Breath]が4以上ならコイン威力 +2"
   },
   {
     "key": "1090201-levelList$[2].coinlist[0].coindescs[0].desc",
@@ -3256,8 +3256,8 @@
   },
   {
     "key": "1090202-levelList$[2].desc",
-    "original": "[WhenUse] 자신의 호흡 횟수 2 증가\n호흡이 5이상이면, 코인 위력 +2",
-    "context": "EN :\n[WhenUse] Gain +2 Poise Count\nAt 5+ Poise, Coin Power +2\nJP :\n[WhenUse] 自分の呼吸 回数が2増加\n呼吸 が5以上なら、コイン威力 +2"
+    "original": "[WhenUse] 자신의 호흡 횟수 2 증가\n[Breath]이 5이상이면, 코인 위력 +2",
+    "context": "EN :\n[WhenUse] Gain +2 Poise Count\nAt 5+ [Breath], Coin Power +2\nJP :\n[WhenUse] 自分の[Breath]回数が2増加\n[Breath]が5以上なら、コイン威力 +2"
   },
   {
     "key": "1090202-levelList$[2].coinlist[0].coindescs[0].desc",
@@ -3286,8 +3286,8 @@
   },
   {
     "key": "1090203-levelList$[0].desc",
-    "original": "대상에게 출혈이 6이상있다면, 크리티컬 발동 확률 2배",
-    "context": "EN :\nIf target has 6+ Bleed, double the crit chance\nJP :\n対象に出血 が6以上あると、クリティカル発動確率が2倍"
+    "original": "대상에게 [Laceration]이 6이상있다면, 크리티컬 발동 확률 2배",
+    "context": "EN :\nIf target has 6+ [Laceration], double the crit chance\nJP :\n対象に[Laceration]が6以上あるなら、クリティカル発動確率が2倍"
   },
   {
     "key": "1090203-levelList$[0].coinlist[0].coindescs[0].desc",
@@ -3301,8 +3301,8 @@
   },
   {
     "key": "1090203-levelList$[1].desc",
-    "original": "대상에게 출혈이 6이상있다면, 크리티컬 발동 확률 2배\n호흡이 10 이상이면, 크리티컬 피해량 +100%",
-    "context": "EN :\nIf target has 6+ Bleed, double the crit chance\nAt 10+ Poise, +100% Critical Damage\nJP :\n対象に出血 が6以上あるなら、クリティカル発動率が2倍\n呼吸 が10以上なら、クリティカルダメージ量 +100%"
+    "original": "대상에게 [Laceration]이 6이상있다면, 크리티컬 발동 확률 2배\n[Breath]이 10 이상이면, 크리티컬 피해량 +100%",
+    "context": "EN :\nIf target has 6+ [Laceration], double the crit chance\nAt 10+ [Breath], +100% Critical Damage\nJP :\n対象に[Laceration]が6以上あるなら、クリティカル発動率が2倍\n[Breath]が10以上なら、クリティカルダメージ量 +100%"
   },
   {
     "key": "1090203-levelList$[1].coinlist[0].coindescs[0].desc",
@@ -3336,8 +3336,8 @@
   },
   {
     "key": "1090205-levelList$[0].desc",
-    "original": "대상에게 출혈이 6이상있다면, 크리티컬 발동 확률 2배",
-    "context": "EN :\nIf target has 6+ Bleed, double the crit chance\nJP :\n対象に出血 が6以上あると、クリティカル発動確率が2倍"
+    "original": "대상에게 [Laceration]이 6이상있다면, 크리티컬 발동 확률 2배",
+    "context": "EN :\nIf target has 6+ [Laceration], double the crit chance\nJP :\n対象に[Laceration]が6以上あるなら、クリティカル発動確率が2倍"
   },
   {
     "key": "1090205-levelList$[0].coinlist[0].coindescs[0].desc",
@@ -3351,8 +3351,8 @@
   },
   {
     "key": "1090205-levelList$[1].desc",
-    "original": "대상에게 출혈이 6이상있다면, 크리티컬 발동 확률 2배\n호흡이 10 이상이면, 크리티컬 피해량 +100%",
-    "context": "EN :\nIf target has 6+ Bleed, double the crit chance\nAt 10+ Poise, +100% Critical Damage\nJP :\n対象に出血が6 以上あるなら、クリティカル発動率が2倍\n呼吸 が10以上なら、クリティカルダメージ量 +100%"
+    "original": "대상에게 [Laceration]이 6이상있다면, 크리티컬 발동 확률 2배\n[Breath]이 10 이상이면, 크리티컬 피해량 +100%",
+    "context": "EN :\nIf target has 6+ [Laceration], double the crit chance\nAt 10+ [Breath], +100% Critical Damage\nJP :\n対象に[Laceration]が6以上あるなら、クリティカル発動率が2倍\n[Breath]が10以上なら、クリティカルダメージ量 +100%"
   },
   {
     "key": "1090205-levelList$[1].coinlist[0].coindescs[0].desc",
@@ -3896,8 +3896,8 @@
   },
   {
     "key": "1100401-levelList$[2].desc",
-    "original": "대상의 침잠이 4 이상이면, 코인 위력 +1",
-    "context": "EN :\nIf target has 4+ Sinking, Coin Power +1\nJP :\n対象の沈潜 が4以上なら、コイン威力 +1"
+    "original": "대상의 [Sinking]이 4 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf target has 4+ [Sinking], Coin Power +1\nJP :\n対象の[Sinking]が4以上ならコイン威力 +1"
   },
   {
     "key": "1100401-levelList$[2].coinlist[0].coindescs[0].desc",
@@ -3961,8 +3961,8 @@
   },
   {
     "key": "1100402-levelList$[2].desc",
-    "original": "대상의 침잠이 6 이상이면, 코인 위력 +2",
-    "context": "EN :\nIf target has 6+ Sinking, Coin Power +2\nJP :\n対象の沈潜 が6以上なら、コイン威力 +2"
+    "original": "대상의 [Sinking]이 6 이상이면, 코인 위력 +2",
+    "context": "EN :\nIf target has 6+ [Sinking], Coin Power +2\nJP :\n対象の[Sinking]が6以上ならコイン威力 +2"
   },
   {
     "key": "1100402-levelList$[2].coinlist[0].coindescs[0].desc",
@@ -4017,7 +4017,7 @@
   {
     "key": "1100403-levelList$[1].coinlist[0].coindescs[0].desc",
     "original": "[OnSucceedAttack] 피해량의 50%만큼 흐트러짐 회복",
-    "context": "EN :\n[OnSucceedAttack] Lower user’s Stagger Threshold by 50% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の50%精神力を回復"
+    "context": "EN :\n[OnSucceedAttack] Lower user’s Stagger Threshold by 50% of damage dealt\nJP :\n[OnSucceedAttack] ダメージ量の50%混乱区間を後退"
   },
   {
     "key": "1100404-levelList$[0].name",
@@ -4156,8 +4156,8 @@
   },
   {
     "key": "1110201-levelList$[2].desc",
-    "original": "자신의 호흡이 5 이상이면, 코인 위력 +1",
-    "context": "EN :\nAt 5+ Poise, Coin Power +1\nJP :\n自分の呼吸 が5以上なら、コイン威力 +1"
+    "original": "자신의 [Breath]이 5 이상이면, 코인 위력 +1",
+    "context": "EN :\nAt 5+ [Breath], Coin Power +1\nJP :\n自分の[Breath]が5以上ならコイン威力 +1"
   },
   {
     "key": "1110201-levelList$[2].coinlist[0].coindescs[0].desc",
@@ -4246,8 +4246,8 @@
   },
   {
     "key": "1110204-levelList$[1].desc",
-    "original": "자신의 호흡이 6 이상이면, 코인 위력 +3",
-    "context": "EN :\nAt 6+ Poise, Coin Power +3\nJP :\n自分の呼吸 が6以上なら、コイン威力 +3"
+    "original": "자신의 [Breath]이 6 이상이면, 코인 위력 +3",
+    "context": "EN :\nAt 6+ [Breath], Coin Power +3\nJP :\n自分の[Breath]が6以上ならコイン威力 +3"
   },
   {
     "key": "1110301-levelList$[0].name",
@@ -4276,8 +4276,8 @@
   },
   {
     "key": "1110301-levelList$[2].desc",
-    "original": "대상의 침잠이 5 이상이면, 스킬 위력 +2",
-    "context": "EN :\nIf target has 5+ Sinking, Coin Power +2\nJP :\n対象の沈潜 が5以上なら、スキル威力 +2"
+    "original": "대상의 [Sinking]이 5 이상이면, 스킬 위력 +2",
+    "context": "EN :\nIf target has 5+ [Sinking], Coin Power +2\nJP :\n対象の[Sinking]が5以上ならスキル威力 +2"
   },
   {
     "key": "1110301-levelList$[2].coinlist[0].coindescs[0].desc",
@@ -4436,13 +4436,13 @@
   },
   {
     "key": "1120103-levelList$[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량 +10%",
-    "context": "EN :\n[OnSucceedAttack] If target has Rupture, +10% Damage\nJP :\n[OnSucceedAttack] 対象に破裂 がある場合、ダメージ量 +10%"
+    "original": "[OnSucceedAttack] 대상에게 [Burst]이 있을 때 피해량 +10%",
+    "context": "EN :\n[OnSucceedAttack] If target has [Burst], +10% Damage\nJP :\n[OnSucceedAttack] 対象に[Burst]がある場合、ダメージ量 +10%"
   },
   {
     "key": "1120103-levelList$[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량 +10%",
-    "context": "EN :\n[OnSucceedAttack] If target has Rupture, +10% Damage\nJP :\n[OnSucceedAttack] 対象に破裂 がある場合、ダメージ量 +10%"
+    "original": "[OnSucceedAttack] 대상에게 [Burst]이 있을 때 피해량 +10%",
+    "context": "EN :\n[OnSucceedAttack] If target has [Burst], +10% Damage\nJP :\n[OnSucceedAttack] 対象に[Burst]がある場合、ダメージ量 +10%"
   },
   {
     "key": "1120103-levelList$[0].coinlist[1].coindescs[1].desc",
@@ -4491,8 +4491,8 @@
   },
   {
     "key": "1120201-levelList$[2].desc",
-    "original": "대상의 화상이 6 이상이면, 코인 위력 +1",
-    "context": "EN :\nIf target has 6+ Burn, Coin Power +1\nJP :\n対象の火傷 が6以上なら、コイン威力 +1"
+    "original": "대상의 [Combustion]이 6 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf target has 6+ [Combustion], Coin Power +1\nJP :\n対象の[Combustion]が6以上ならコイン威力 +1"
   },
   {
     "key": "1120201-levelList$[2].coinlist[0].coindescs[0].desc",
@@ -4546,8 +4546,8 @@
   },
   {
     "key": "1120202-levelList$[1].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 대상의 화상이 6 이상이면, 다음 턴에 공격 위력 증가 1 얻음",
-    "context": "EN :\n[OnSucceedAttack] If target has 6+ Burn, gain 1 Attack Power Up next turn\nJP :\n[OnSucceedAttack] 対象の火傷 が6以上なら、次のターンに攻撃威力増加 1を得る"
+    "original": "[OnSucceedAttack] 대상의 [Combustion]이 6 이상이면, 다음 턴에 공격 위력 증가 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] If target has 6+ [Combustion], gain 1 Attack Power Up next turn\nJP :\n[OnSucceedAttack] 対象の[Combustion]が6以上なら、次のターンに攻撃威力増加 1を得る"
   },
   {
     "key": "1120202-levelList$[2].name",
@@ -4556,8 +4556,8 @@
   },
   {
     "key": "1120202-levelList$[2].desc",
-    "original": "대상의 화상이 6 이상이면, 코인 위력 +1",
-    "context": "EN :\nIf target has 6+ Burn, Coin Power +1\nJP :\n対象の火傷 が6以上なら、コイン威力 +1"
+    "original": "대상의 [Combustion]이 6 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf target has 6+ [Combustion], Coin Power +1\nJP :\n対象の[Combustion]が6以上ならコイン威力 +1"
   },
   {
     "key": "1120202-levelList$[2].coinlist[0].coindescs[0].desc",
@@ -4576,8 +4576,8 @@
   },
   {
     "key": "1120202-levelList$[2].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 대상의 화상이 6 이상이면, 다음 턴에 공격 위력 증가 1 얻음",
-    "context": "EN :\n[OnSucceedAttack] If target has 6+ Burn, gain 1 Attack Power Up next turn\nJP :\n[OnSucceedAttack] 対象の火傷 が6以上なら、次のターンに攻撃威力増加 1を得る"
+    "original": "[OnSucceedAttack] 대상의 [Combustion]이 6 이상이면, 다음 턴에 공격 위력 증가 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] If target has 6+ [Combustion], gain 1 Attack Power Up next turn\nJP :\n[OnSucceedAttack] 対象の[Combustion]が6以上なら、次のターンに攻撃威力増加 1を得る"
   },
   {
     "key": "1120203-levelList$[0].name",
@@ -4611,8 +4611,8 @@
   },
   {
     "key": "1120203-levelList$[1].desc",
-    "original": "대상의 화상이 6 이상이면, 피해량 +10%",
-    "context": "EN :\nIf target has 6+ Burn, deal +10% damage\nJP :\n対象の火傷 が6以上なら、与ダメージ量 +10%"
+    "original": "대상의 [Combustion]이 6 이상이면, 피해량 +10%",
+    "context": "EN :\nIf target has 6+ [Combustion], deal +10% damage\nJP :\n対象の[Combustion]が6以上なら、ダメージ量 +10%"
   },
   {
     "key": "1120203-levelList$[1].coinlist[0].coindescs[0].desc",
@@ -4676,8 +4676,8 @@
   },
   {
     "key": "1120301-levelList$[2].desc",
-    "original": "[WinDuel] 피해량 +40%\n대상의 파열이 5 이상이면, 코인 위력 +1",
-    "context": "EN :\n[WinDuel] Damage +40%\nIf target has 5+ Rupture, Coin Power +1\nJP :\n[WinDuel] ダメージ量 +40%\n対象の破裂 が5以上なら、コイン威力 +1"
+    "original": "[WinDuel] 피해량 +40%\n대상의 [Burst]이 5 이상이면, 코인 위력 +1",
+    "context": "EN :\n[WinDuel] Damage +40%\nIf target has 5+ [Burst], Coin Power +1\nJP :\n[WinDuel] ダメージ量 +40%\n対象の[Burst]が5以上なら、コイン威力 +1"
   },
   {
     "key": "1120301-levelList$[2].coinlist[0].coindescs[0].desc",
@@ -4716,8 +4716,8 @@
   },
   {
     "key": "1120302-levelList$[2].desc",
-    "original": "대상의 파열이 5 이상이면, 피해량 +50%",
-    "context": "EN :\nIf target has 5+ Rupture, deal +50% damage\nJP :\n対象の破裂 が5以上なら、与ダメージ量 +50%"
+    "original": "대상의 [Burst]이 5 이상이면, 피해량 +50%",
+    "context": "EN :\nIf target has 5+ [Burst], deal +50% damage\nJP :\n対象の[Burst]が5以上なら、ダメージ量 +50%"
   },
   {
     "key": "1120302-levelList$[2].coinlist[0].coindescs[0].desc",
@@ -4736,18 +4736,18 @@
   },
   {
     "key": "1120303-levelList$[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해",
-    "context": "EN :\n[OnSucceedAttack] If target has Rupture, deal 30% of damage dealt as bonus damage\nJP :\n[OnSucceedAttack] 対象に破裂 があるなら、与ダメージ量30%分の追加ダメージを与える"
+    "original": "[OnSucceedAttack] 대상에게 [Burst]이 있을 때 피해량의 30%만큼 추가 피해",
+    "context": "EN :\n[OnSucceedAttack] If target has [Burst], deal 30% of damage dealt as bonus damage\nJP :\n[OnSucceedAttack] 対象に[Burst]があるなら、与ダメージ量30%分の追加ダメージを与える"
   },
   {
     "key": "1120303-levelList$[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해",
-    "context": "EN :\n[OnSucceedAttack] If target has Rupture, deal 30% of damage dealt as bonus damage\nJP :\n[OnSucceedAttack] 対象に破裂 があるなら、与ダメージ量30%分の追加ダメージを与える"
+    "original": "[OnSucceedAttack] 대상에게 [Burst]이 있을 때 피해량의 30%만큼 추가 피해",
+    "context": "EN :\n[OnSucceedAttack] If target has [Burst], deal 30% of damage dealt as bonus damage\nJP :\n[OnSucceedAttack] 対象に[Burst]があるなら、与ダメージ量30%分の追加ダメージを与える"
   },
   {
     "key": "1120303-levelList$[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해",
-    "context": "EN :\n[OnSucceedAttack] If target has Rupture, deal 30% of damage dealt as bonus damage\nJP :\n[OnSucceedAttack] 対象に破裂 があるなら、与ダメージ量30%分の追加ダメージを与える"
+    "original": "[OnSucceedAttack] 대상에게 [Burst]이 있을 때 피해량의 30%만큼 추가 피해",
+    "context": "EN :\n[OnSucceedAttack] If target has [Burst], deal 30% of damage dealt as bonus damage\nJP :\n[OnSucceedAttack] 対象に[Burst]があるなら、与ダメージ量30%分の追加ダメージを与える"
   },
   {
     "key": "1120303-levelList$[0].coinlist[3].coindescs[0].desc",
@@ -4761,23 +4761,23 @@
   },
   {
     "key": "1120303-levelList$[1].desc",
-    "original": "대상의 파열이 5 이상이면, 코인 위력 +1",
-    "context": "EN :\nIf target has 5+ Rupture, Coin Power +1\nJP :\n対象の破裂 が5以上なら、コイン威力 +1"
+    "original": "대상의 [Burst]이 5 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf target has 5+ [Burst], Coin Power +1\nJP :\n対象の[Burst]が5以上ならコイン威力 +1"
   },
   {
     "key": "1120303-levelList$[1].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해",
-    "context": "EN :\n[OnSucceedAttack] If target has Rupture, deal 30% of damage dealt as bonus damage\nJP :\n[OnSucceedAttack] 対象に破裂 があるなら、与ダメージ量30%分の追加ダメージを与える"
+    "original": "[OnSucceedAttack] 대상에게 [Burst]이 있을 때 피해량의 30%만큼 추가 피해",
+    "context": "EN :\n[OnSucceedAttack] If target has [Burst], deal 30% of damage dealt as bonus damage\nJP :\n[OnSucceedAttack] 対象に[Burst]があるなら、与ダメージ量30%分の追加ダメージを与える"
   },
   {
     "key": "1120303-levelList$[1].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해",
-    "context": "EN :\n[OnSucceedAttack] If target has Rupture, deal 30% of damage dealt as bonus damage\nJP :\n[OnSucceedAttack] 対象に破裂 があるなら、与ダメージ量30%分の追加ダメージを与える"
+    "original": "[OnSucceedAttack] 대상에게 [Burst]이 있을 때 피해량의 30%만큼 추가 피해",
+    "context": "EN :\n[OnSucceedAttack] If target has [Burst], deal 30% of damage dealt as bonus damage\nJP :\n[OnSucceedAttack] 対象に[Burst]があるなら、与ダメージ量30%分の追加ダメージを与える"
   },
   {
     "key": "1120303-levelList$[1].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 파열이 있을 때 피해량의 30%만큼 추가 피해",
-    "context": "EN :\n[OnSucceedAttack] If target has Rupture, deal 30% of damage dealt as bonus damage\nJP :\n[OnSucceedAttack] 対象に破裂 があるなら、与ダメージ量30%分の追加ダメージを与える"
+    "original": "[OnSucceedAttack] 대상에게 [Burst]이 있을 때 피해량의 30%만큼 추가 피해",
+    "context": "EN :\n[OnSucceedAttack] If target has [Burst], deal 30% of damage dealt as bonus damage\nJP :\n[OnSucceedAttack] 対象に[Burst]があるなら、与ダメージ量30%分の追加ダメージを与える"
   },
   {
     "key": "1120303-levelList$[1].coinlist[3].coindescs[0].desc",
@@ -5576,8 +5576,8 @@
   },
   {
     "key": "1110403-levelList$[1].desc",
-    "original": "합 진행 시 대상의 합 위력 - 2\n대상의 파열이 7 이상이면, 코인 위력 +2",
-    "context": "EN :\nIn a clash, opponent has -2 Clash Power\nIf target has 7+ Rupture, Coin Power +2\nJP :\nマッチ進行時、対象のマッチ威力 -2\n 対象の破裂 が7以上なら、コイン威力 +2"
+    "original": "합 진행 시 대상의 합 위력 - 2\n대상의 [Burst]이 7 이상이면, 코인 위력 +2",
+    "context": "EN :\nIn a clash, opponent has -2 Clash Power\nIf target has 7+ [Burst], Coin Power +2\nJP :\nマッチ進行時、対象のマッチ威力 -2\n 対象の[Burst]が7以上なら、コイン威力 +2"
   },
   {
     "key": "1110403-levelList$[1].coinlist[0].coindescs[0].desc",
@@ -5636,13 +5636,13 @@
   },
   {
     "key": "1060402-levelList$[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 화상 1 부여. 대상에게 화상이 있으면 1 추가 부여",
-    "context": "EN :\n[OnSucceedAttack] Inflict 1 Burn; if target already has Burn, inflict 1 more\nJP :\n[OnSucceedAttack] 火傷 1を付与。対象に火傷 がある場合、追加で1付与"
+    "original": "[OnSucceedAttack] [Combustion] 1 부여. 대상에게 [Combustion]이 있으면 1 추가 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]; if target already has [Combustion], inflict 1 more\nJP :\n[OnSucceedAttack] [Combustion]を1付与。対象に[Combustion]があるなら1追加で付与"
   },
   {
     "key": "1060402-levelList$[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 화상 횟수 1 증가",
-    "context": "EN :\n[OnSucceedAttack] Inflict +1 Burn Count\nJP :\n[OnSucceedAttack] 火傷 回数が1増加"
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加"
   },
   {
     "key": "1060402-levelList$[1].name",
@@ -5651,13 +5651,13 @@
   },
   {
     "key": "1060402-levelList$[1].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 화상 1 부여. 대상에게 화상이 있으면 1 추가 부여",
-    "context": "EN :\n[OnSucceedAttack] Inflict 1 Burn; if target already has Burn, inflict 1 more\nJP :\n[OnSucceedAttack] 火傷 1を付与。対象に火傷 がある場合、追加で1付与"
+    "original": "[OnSucceedAttack] [Combustion] 1 부여. 대상에게 [Combustion]이 있으면 1 추가 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]; if target already has [Combustion], inflict 1 more\nJP :\n[OnSucceedAttack] [Combustion]を1付与。対象に[Combustion]があるなら1追加で付与"
   },
   {
     "key": "1060402-levelList$[1].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 화상 횟수 1 증가. 자신의 정신력이 30 이상이면, 1, 45 이상이면, 2 추가 증가",
-    "context": "EN :\n[OnSucceedAttack] Inflict +1 Burn Count; at 30+ SP, inflict 1 more; at 45+ SP, inflict 2 more\nJP :\n[OnSucceedAttack] 火傷 回数が1増加。自分の精神力が30以上なら1、45以上なら追加で2増加"
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가. 자신의 정신력이 30 이상이면, 1, 45 이상이면, 2 추가 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count; at 30+ SP, inflict 1 more; at 45+ SP, inflict 2 more\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加。自分の精神力が30以上なら1、45以上なら追加で2増加"
   },
   {
     "key": "1060402-levelList$[2].name",
@@ -5666,18 +5666,18 @@
   },
   {
     "key": "1060402-levelList$[2].desc",
-    "original": "대상의 화상 횟수가 6 이상이면, 코인 위력 +2",
-    "context": "EN :\nIf target has 6+ Burn Count, Coin Power +2\nJP :\n対象の火傷 回数が6以上なら、コイン威力 +2"
+    "original": "대상의 [Combustion] 횟수가 6 이상이면, 코인 위력 +2",
+    "context": "EN :\nIf target has 6+ [Combustion] Count, Coin Power +2\nJP :\n対象の[Combustion]回数が6以上なら、コイン威力 +2"
   },
   {
     "key": "1060402-levelList$[2].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 화상 1 부여. 대상에게 화상이 있으면 1 추가 부여",
-    "context": "EN :\n[OnSucceedAttack] Inflict 1 Burn; if target already has Burn, inflict 1 more\nJP :\n[OnSucceedAttack] 火傷 1を付与。対象に火傷がある場合、追加で1付与"
+    "original": "[OnSucceedAttack] [Combustion] 1 부여. 대상에게 [Combustion]이 있으면 1 추가 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]; if target already has [Combustion], inflict 1 more\nJP :\n[OnSucceedAttack] [Combustion]を1付与。対象に[Combustion]があるなら1追加で付与"
   },
   {
     "key": "1060402-levelList$[2].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 화상 횟수 1 증가. 자신의 정신력이 30 이상이면, 1, 45 이상이면, 2 추가 증가",
-    "context": "EN :\n[OnSucceedAttack] Inflict +1 Burn Count; at 30+ SP, inflict 1 more; at 45+ SP, inflict 2 more\nJP :\n[OnSucceedAttack] 火傷 回数が1増加。自分の精神力が30以上なら1、45以上なら追加で2増加"
+    "original": "[OnSucceedAttack] [Combustion] 횟수 1 증가. 자신의 정신력이 30 이상이면, 1, 45 이상이면, 2 추가 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict +1 [Combustion] Count; at 30+ SP, inflict 1 more; at 45+ SP, inflict 2 more\nJP :\n[OnSucceedAttack] [Combustion]回数が1増加。自分の精神力が30以上なら1、45以上なら追加で2増加"
   },
   {
     "key": "1060403-levelList$[0].name",
@@ -5686,8 +5686,8 @@
   },
   {
     "key": "1060403-levelList$[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 화상 1 부여. 대상에게 화상이 있으면 화상 횟수 1 증가",
-    "context": "EN :\n[OnSucceedAttack] Inflict 1 Burn; if target already has Burn, inflict +1 Burn Count\nJP :\n[OnSucceedAttack] 火傷 1を付与。対象に火傷がある場合、火傷 回数を追加で1付与"
+    "original": "[OnSucceedAttack] [Combustion] 1 부여. 대상에게 [Combustion]이 있으면 [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]; if target already has [Combustion], inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]を1付与。対象に[Combustion]があるなら[Combustion]回数が1増加"
   },
   {
     "key": "1060403-levelList$[0].coinlist[1].coindescs[0].desc",
@@ -5696,8 +5696,8 @@
   },
   {
     "key": "1060403-levelList$[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 대상의 화상 횟수가 6 이상이면, 피해량의 30%만큼 흐트러짐 손상을 입힘",
-    "context": "EN :\n[OnSucceedAttack] If target has 6+ Burn Count, raise Stagger Threshold by 30% of damage dealt\nJP :\n[OnSucceedAttack] 対象の火傷 回数が6以上なら、ダメージ量の30%分混乱区間を前進"
+    "original": "[OnSucceedAttack] 대상의 [Combustion] 횟수가 6 이상이면, 피해량의 30%만큼 흐트러짐 손상을 입힘",
+    "context": "EN :\n[OnSucceedAttack] If target has 6+ [Combustion] Count, raise Stagger Threshold by 30% of damage dealt\nJP :\n[OnSucceedAttack] 対象の[Combustion]回数が6以上なら、ダメージ量の30%だけ混乱区間を前進"
   },
   {
     "key": "1060403-levelList$[1].name",
@@ -5706,13 +5706,13 @@
   },
   {
     "key": "1060403-levelList$[1].desc",
-    "original": "대상의 화상 횟수가 6 이상이면, 코인 위력 +1",
-    "context": "EN :\nIf target has 6+ Burn Count, Coin Power +1\nJP :\n対象の火傷 回数が6以上なら、コイン威力 +1"
+    "original": "대상의 [Combustion] 횟수가 6 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf target has 6+ [Combustion] Count, Coin Power +1\nJP :\n対象の[Combustion]回数が6以上なら、コイン威力 +1"
   },
   {
     "key": "1060403-levelList$[1].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 화상 1 부여. 대상에게 화상이 있으면 화상 횟수 1 증가",
-    "context": "EN :\n[OnSucceedAttack] Inflict 1 Burn; if target already has Burn, inflict +1 Burn Count\nJP :\n[OnSucceedAttack] 火傷 1を付与。対象に火傷がある場合、火傷 回数を追加で1付与"
+    "original": "[OnSucceedAttack] [Combustion] 1 부여. 대상에게 [Combustion]이 있으면 [Combustion] 횟수 1 증가",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 [Combustion]; if target already has [Combustion], inflict +1 [Combustion] Count\nJP :\n[OnSucceedAttack] [Combustion]を1付与。対象に[Combustion]があるなら[Combustion]回数が1増加"
   },
   {
     "key": "1060403-levelList$[1].coinlist[1].coindescs[0].desc",
@@ -5721,8 +5721,8 @@
   },
   {
     "key": "1060403-levelList$[1].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 대상의 화상 횟수가 6 이상이면, 피해량의 30%만큼 흐트러짐 손상을 입힘",
-    "context": "EN :\n[OnSucceedAttack] If target has 6+ Burn Count, raise Stagger Threshold by 30% of damage dealt\nJP :\n[OnSucceedAttack] 対象の火傷 回数が6以上なら、ダメージ量の30%分混乱区間を前進"
+    "original": "[OnSucceedAttack] 대상의 [Combustion] 횟수가 6 이상이면, 피해량의 30%만큼 흐트러짐 손상을 입힘",
+    "context": "EN :\n[OnSucceedAttack] If target has 6+ [Combustion] Count, raise Stagger Threshold by 30% of damage dealt\nJP :\n[OnSucceedAttack] 対象の[Combustion]回数が6以上なら、ダメージ量の30%だけ混乱区間を前進"
   },
   {
     "key": "1060404-levelList$[0].name",
@@ -5896,8 +5896,8 @@
   },
   {
     "key": "1120401-levelList$[1].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 마비 1 부여. 대상에게 출혈이 있으면 다음 턴에 마비 1 부여",
-    "context": "EN :\n[OnSucceedAttack] Inflict 1 Paralyze; if target has Bleed, inflict 1 Paralyze next turn\nJP :\n[OnSucceedAttack] 麻痺 1を付与。対象に出血 がある場合、次のターンに麻痺 1を付与"
+    "original": "[OnSucceedAttack] 마비 1 부여. 대상에게 [Laceration]이 있으면 다음 턴에 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Paralyze; if target has [Laceration], inflict 1 Paralyze next turn\nJP :\n[OnSucceedAttack] 麻痺 1を付与。対象に[Laceration]があるなら、次のターンに麻痺 1を付与"
   },
   {
     "key": "1120401-levelList$[1].coinlist[1].coindescs[0].desc",
@@ -5911,13 +5911,13 @@
   },
   {
     "key": "1120401-levelList$[2].desc",
-    "original": "대상의 속박이 4 이상이면, 피해량 +30%",
-    "context": "EN :\nIf target has 4+ Bind, deal +30% damage\nJP :\n対象の束縛 が4以上なら、与ダメージ量 +30%"
+    "original": "대상의 [Binding]이 4 이상이면, 피해량 +30%",
+    "context": "EN :\nIf target has 4+ [Binding], deal +30% damage\nJP :\n対象の[Binding]が4以上なら、ダメージ量 +30%"
   },
   {
     "key": "1120401-levelList$[2].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 마비 1 부여. 대상에게 출혈이 있으면 다음 턴에 마비 1 부여",
-    "context": "EN :\n[OnSucceedAttack] Inflict 1 Paralyze; if target has Bleed, inflict 1 Paralyze next turn\nJP :\n[OnSucceedAttack] 麻痺 1を付与。対象に出血 がある場合、次のターンに麻痺 1を付与"
+    "original": "[OnSucceedAttack] 마비 1 부여. 대상에게 [Laceration]이 있으면 다음 턴에 마비 1 부여",
+    "context": "EN :\n[OnSucceedAttack] Inflict 1 Paralyze; if target has [Laceration], inflict 1 Paralyze next turn\nJP :\n[OnSucceedAttack] 麻痺 1を付与。対象に[Laceration]があるなら、次のターンに麻痺 1を付与"
   },
   {
     "key": "1120401-levelList$[2].coinlist[1].coindescs[0].desc",
@@ -5981,8 +5981,8 @@
   },
   {
     "key": "1120403-levelList$[0].coinlist[3].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상의 출혈에 비례하여 체력 회복 (최대 20%)",
-    "context": "EN :\n[OnSucceedAttack] Heal HP based on target’s Bleed (Max 20%)\nJP :\n[OnSucceedAttack] 対象の出血に比例して体力を回復(最大20%)"
+    "original": "[OnSucceedAttack] 대상의 [Laceration]에 비례하여 체력 회복 (최대 20%)",
+    "context": "EN :\n[OnSucceedAttack] Heal HP based on target’s [Laceration] (Max 20%)\nJP :\n[OnSucceedAttack] 対象の[Laceration]に比例して体力を回復(最大20%)"
   },
   {
     "key": "1120403-levelList$[1].name",
@@ -6011,8 +6011,8 @@
   },
   {
     "key": "1120403-levelList$[1].coinlist[3].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상의 출혈에 비례하여 체력 회복 (최대 20%)",
-    "context": "EN :\n[OnSucceedAttack] Heal HP based on target’s Bleed (Max 20%)\nJP :\n[OnSucceedAttack] 対象の出血に比例して体力を回復(最大20%)"
+    "original": "[OnSucceedAttack] 대상의 [Laceration]에 비례하여 체력 회복 (최대 20%)",
+    "context": "EN :\n[OnSucceedAttack] Heal HP based on target’s [Laceration] (Max 20%)\nJP :\n[OnSucceedAttack] 対象の[Laceration]に比例して体力を回復(最大20%)"
   },
   {
     "key": "1120404-levelList$[0].name",
@@ -6691,13 +6691,13 @@
   },
   {
     "key": "1050503-levelList$[0].coinlist[3].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 진동 폭발\n진동 폭발 시 진동 횟수 3 감소, 충전 횟수를 전부 소모하여 (소모한 충전 횟수 X 5)% 만큼 진동 폭발의 흐트러짐 피해량이 증가함 (최대 50%)",
-    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nWhen triggering Tremor Burst, reduce Tremor Count by 3, then spend all Charge Count to further raise Stagger Threshold by (Charge Count x 5)% (Max 50%)\nJP :\n[OnSucceedAttack] 振動爆発\n振動爆発時、振動 回数が3減少。充電 回数を全て消耗して(消耗した充電 回数 × 5)%分、振動爆発の混乱区間前進量が増加(最大50%)"
+    "original": "[OnSucceedAttack] [VibrationExplosion]\n[VibrationExplosion] 시 진동 횟수 3 감소, 충전 횟수를 전부 소모하여 (소모한 충전 횟수 X 5)% 만큼 [VibrationExplosion]의 흐트러짐 피해량이 증가함 (최대 50%)",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], reduce Tremor Count by 3, then spend all Charge Count to further raise Stagger Threshold by (Charge Count x 5)% (Max 50%)\nJP :\n[OnSucceedAttack] [VibrationExplosion]\n[VibrationExplosion]時に振動 回数が3減少、充電 回数を全て消耗して(消耗した充電 回数 × 5)%だけ[VibrationExplosion]の混乱ダメージ量が増加(最大50%)"
   },
   {
     "key": "1050503-levelList$[0].coinlist[3].coindescs[0].summary",
-    "original": "[OnSucceedAttack] 진동 폭발. 진동 횟수 3 감소. 충전 횟수를 소모하여 흐트러짐 피해량이 증가",
-    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 3; Spend Charge Count to further raise Stagger Threshold\nJP :\n[OnSucceedAttack] 振動爆発。振動 回数が3減少。充電 回数を消耗し、混乱区間前進量が増加"
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 진동 횟수 3 감소. 충전 횟수를 소모하여 흐트러짐 피해량이 증가",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion], then reduce Tremor Count by 3; Spend Charge Count to further raise Stagger Threshold\nJP :\n[OnSucceedAttack] [VibrationExplosion]。振動 回数が3減少。充電 回数を消耗し、混乱区間前進量が増加"
   },
   {
     "key": "1050503-levelList$[1].name",
@@ -6741,13 +6741,13 @@
   },
   {
     "key": "1050503-levelList$[1].coinlist[3].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 진동 폭발\n진동 폭발 시 진동 횟수 3 감소, 충전 횟수를 전부 소모하여 (소모한 충전 횟수 X 5)% 만큼 진동 폭발의 흐트러짐 피해량이 증가함 (최대 50%)",
-    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst\nWhen triggering Tremor Burst, reduce Tremor Count by 3, then spend all Charge Count to further raise Stagger Threshold by (Charge Count x 5)% (Max 50%)\nJP :\n[OnSucceedAttack] 振動爆発\n振動爆発時、振動 回数が3減少。充電 回数を全て消耗して(消耗した充電 回数 × 5)%分、振動爆発の混乱区間前進量が増加(最大50%)"
+    "original": "[OnSucceedAttack] [VibrationExplosion]\n[VibrationExplosion] 시 진동 횟수 3 감소, 충전 횟수를 전부 소모하여 (소모한 충전 횟수 X 5)% 만큼 [VibrationExplosion]의 흐트러짐 피해량이 증가함 (최대 50%)",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion]\nWhen triggering [VibrationExplosion], reduce Tremor Count by 3, then spend all Charge Count to further raise Stagger Threshold by (Charge Count x 5)% (Max 50%)\nJP :\n[OnSucceedAttack] [VibrationExplosion]\n[VibrationExplosion]時に振動 回数が3減少、充電 回数を全て消耗して(消耗した充電 回数 × 5)%だけ[VibrationExplosion]の混乱ダメージ量が増加(最大50%)"
   },
   {
     "key": "1050503-levelList$[1].coinlist[3].coindescs[0].summary",
-    "original": "[OnSucceedAttack] 진동 폭발. 진동 횟수 3 감소. 충전 횟수를 소모하여 흐트러짐 피해량이 증가",
-    "context": "EN :\n[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 3; Spend Charge Count to further raise Stagger Threshold\nJP :\n[OnSucceedAttack] 振動爆発。振動 回数が3減少。充電 回数を消耗し、混乱区間前進量が増加"
+    "original": "[OnSucceedAttack] [VibrationExplosion]. 진동 횟수 3 감소. 충전 횟수를 소모하여 흐트러짐 피해량이 증가",
+    "context": "EN :\n[OnSucceedAttack] Trigger [VibrationExplosion], then reduce Tremor Count by 3; Spend Charge Count to further raise Stagger Threshold\nJP :\n[OnSucceedAttack] [VibrationExplosion]。振動 回数が3減少。充電 回数を消耗し、混乱区間前進量が増加"
   },
   {
     "key": "1050504-levelList$[0].name",
@@ -7311,8 +7311,8 @@
   },
   {
     "key": "1010403-levelList$[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상의 침잠이 6 이상이면, 침잠쇄도",
-    "context": "EN :\n[OnSucceedAttack] If target has 6+ Sinking, cause Sinking Deluge\nJP :\n[OnSucceedAttack] 対象の沈潜が6以上なら、沈潜殺到"
+    "original": "[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 침잠쇄도",
+    "context": "EN :\n[OnSucceedAttack] If target has 6+ [Sinking], cause Sinking Deluge\nJP :\n[OnSucceedAttack] 対象の[Sinking]が6以上なら、沈潜殺到"
   },
   {
     "key": "1010403-levelList$[0].coinlist[2].coindescs[1].desc",
@@ -7341,8 +7341,8 @@
   },
   {
     "key": "1010403-levelList$[1].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상의 침잠이 6 이상이면, 침잠쇄도",
-    "context": "EN :\n[OnSucceedAttack] If target has 6+ Sinking, cause Sinking Deluge\nJP :\n[OnSucceedAttack] 対象の沈潜が6以上なら、沈潜殺到"
+    "original": "[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 침잠쇄도",
+    "context": "EN :\n[OnSucceedAttack] If target has 6+ [Sinking], cause Sinking Deluge\nJP :\n[OnSucceedAttack] 対象の[Sinking]が6以上なら、沈潜殺到"
   },
   {
     "key": "1010403-levelList$[1].coinlist[2].coindescs[1].desc",
@@ -7501,8 +7501,8 @@
   },
   {
     "key": "1060501-levelList$[0].desc",
-    "original": "대상에게 파열이 5 이상 있으면 코인 위력 +1",
-    "context": "EN :\nCoin Power +1 to targets with 5+ Rupture\nJP :\n対象に破裂 が5以上あるならコイン威力 +1"
+    "original": "대상에게 [Burst]이 5 이상 있으면 코인 위력 +1",
+    "context": "EN :\nIf target has 5+ [Burst], Coin Power +1\nJP :\n対象に[Burst]が5以上あるなら、コイン威力 +1"
   },
   {
     "key": "1060501-levelList$[1].name",
@@ -7511,8 +7511,8 @@
   },
   {
     "key": "1060501-levelList$[1].desc",
-    "original": "대상에게 파열이 5 이상 있으면 코인 위력 +2",
-    "context": "EN :\nCoin Power +2 to targets with 5+ Rupture\nJP :\n対象に破裂 が5以上あるならコイン威力 +2"
+    "original": "대상에게 [Burst]이 5 이상 있으면 코인 위력 +2",
+    "context": "EN :\nIf target has 5+ [Burst], Coin Power +2\nJP :\n対象に[Burst]が5以上あるなら、コイン威力 +2"
   },
   {
     "key": "1060501-levelList$[2].name",
@@ -7521,8 +7521,8 @@
   },
   {
     "key": "1060501-levelList$[2].desc",
-    "original": "대상에게 파열이 5 이상 있으면 코인 위력 +3\n[WhenUse] 다음 턴에 이 스킬 슬롯의 도발치 5 증가",
-    "context": "EN :\nIf target has 5+ Rupture, Coin Power +3\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn\nJP :\n対象に破裂 が5以上あるなら、コイン威力 +3\n[WhenUse] 次のターンにこのスキルスロットの挑発値 が5増加"
+    "original": "대상에게 [Burst]이 5 이상 있으면 코인 위력 +3\n[WhenUse] 다음 턴에 이 스킬 슬롯의 도발치 5 증가",
+    "context": "EN :\nIf target has 5+ [Burst], Coin Power +3\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn\nJP :\n対象に[Burst]が5以上あるなら、コイン威力 +3\n[WhenUse] 次のターンにこのスキルスロットの挑発値 が5増加"
   },
   {
     "key": "1060502-levelList$[0].name",
@@ -7531,13 +7531,13 @@
   },
   {
     "key": "1060502-levelList$[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 파열 2 부여\n대상에게 파열이 10 이상 있으면 피해량의 20%만큼 체력 회복",
-    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ Rupture, heal by 20% of damage dealt\nJP :\n[OnSucceedAttack] 破裂 2を付与\n対象に破裂 が10以上あるなら、ダメージ量の20%分体力を回復"
+    "original": "[OnSucceedAttack] 파열 2 부여\n대상에게 [Burst]이 10 이상 있으면 피해량의 20%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 20% of damage dealt\nJP :\n[OnSucceedAttack] 破裂 2を付与\n対象に[Burst]が10以上あるなら、ダメージ量の20%分体力を回復"
   },
   {
     "key": "1060502-levelList$[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 파열 2 부여\n대상에게 파열이 10 이상 있으면 피해량의 20%만큼 체력 회복",
-    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ Rupture, heal by 20% of damage dealt\nJP :\n[OnSucceedAttack] 破裂 2を付与\n対象に破裂 が10以上あるなら、ダメージ量の20%分体力を回復"
+    "original": "[OnSucceedAttack] 파열 2 부여\n대상에게 [Burst]이 10 이상 있으면 피해량의 20%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 20% of damage dealt\nJP :\n[OnSucceedAttack] 破裂 2を付与\n対象に[Burst]が10以上あるなら、ダメージ量の20%分体力を回復"
   },
   {
     "key": "1060502-levelList$[1].name",
@@ -7546,13 +7546,13 @@
   },
   {
     "key": "1060502-levelList$[1].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 파열 2 부여\n대상에게 파열이 10 이상 있으면 피해량의 50%만큼 체력 회복",
-    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ Rupture, heal by 50% of damage dealt\nJP :\n[OnSucceedAttack] 破裂 2を付与\n対象に破裂 が10以上あるなら、ダメージ量の50%分体力を回復"
+    "original": "[OnSucceedAttack] 파열 2 부여\n대상에게 [Burst]이 10 이상 있으면 피해량의 50%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt\nJP :\n[OnSucceedAttack] 破裂 2を付与\n対象に[Burst]が10以上あるなら、ダメージ量の50%分体力を回復"
   },
   {
     "key": "1060502-levelList$[1].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 파열 2 부여\n대상에게 파열이 10 이상 있으면 피해량의 50%만큼 체력 회복",
-    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ Rupture, heal by 50% of damage dealt\nJP :\n[OnSucceedAttack] 破裂 2を付与\n対象に破裂 が10以上あるなら、ダメージ量の50%分体力を回復"
+    "original": "[OnSucceedAttack] 파열 2 부여\n대상에게 [Burst]이 10 이상 있으면 피해량의 50%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt\nJP :\n[OnSucceedAttack] 破裂 2を付与\n対象に[Burst]が10以上あるなら、ダメージ量の50%分体力を回復"
   },
   {
     "key": "1060502-levelList$[2].name",
@@ -7566,13 +7566,13 @@
   },
   {
     "key": "1060502-levelList$[2].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 파열 2 부여\n대상에게 파열이 10 이상 있으면 피해량의 50%만큼 체력 회복",
-    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ Rupture, heal by 50% of damage dealt\nJP :\n[OnSucceedAttack] 破裂 2を付与\n対象に破裂 が10以上あるなら、ダメージ量の50%分体力を回復"
+    "original": "[OnSucceedAttack] 파열 2 부여\n대상에게 [Burst]이 10 이상 있으면 피해량의 50%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt\nJP :\n[OnSucceedAttack] 破裂 2を付与\n対象に[Burst]が10以上あるなら、ダメージ量の50%分体力を回復"
   },
   {
     "key": "1060502-levelList$[2].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 파열 2 부여\n대상에게 파열이 10 이상 있으면 피해량의 50%만큼 체력 회복",
-    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ Rupture, heal by 50% of damage dealt\nJP :\n[OnSucceedAttack] 破裂 2を付与\n対象に破裂 が10以上あるなら、ダメージ量の50%分体力を回復"
+    "original": "[OnSucceedAttack] 파열 2 부여\n대상에게 [Burst]이 10 이상 있으면 피해량의 50%만큼 체력 회복",
+    "context": "EN :\n[OnSucceedAttack] Inflict 2 Rupture\nIf target has 10+ [Burst], heal by 50% of damage dealt\nJP :\n[OnSucceedAttack] 破裂 2を付与\n対象に[Burst]が10以上あるなら、ダメージ量の50%分体力を回復"
   },
   {
     "key": "1060503-levelList$[0].name",
@@ -7656,8 +7656,8 @@
   },
   {
     "key": "1100601-levelList$[1].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 대상의 파열이 5 이상이면, 부적 1 얻음",
-    "context": "EN :\n[OnSucceedAttackHead] If target has 5+ Rupture, gain 1 Talisman\nJP :\n[OnSucceedAttackHead] 対象の破裂が5以上なら、お札 1を得る"
+    "original": "[OnSucceedAttackHead] 대상의 [Burst]이 5 이상이면, 부적 1 얻음",
+    "context": "EN :\n[OnSucceedAttackHead] If target has 5+ [Burst], gain 1 Talisman\nJP :\n[OnSucceedAttackHead] 対象の[Burst]が5以上なら、お札 を1得る"
   },
   {
     "key": "1100601-levelList$[2].name",
@@ -7671,8 +7671,8 @@
   },
   {
     "key": "1100601-levelList$[2].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 대상의 파열이 5 이상이면, 부적 1 얻음",
-    "context": "EN :\n[OnSucceedAttack] If target has 5+ Rupture, gain 1 Talisman\nJP :\n[OnSucceedAttack] 対象の破裂が5以上なら、お札 1を得る"
+    "original": "[OnSucceedAttack] 대상의 [Burst]이 5 이상이면, 부적 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] If target has 5+ [Burst], gain 1 Talisman\nJP :\n[OnSucceedAttack] 対象の[Burst]が5以上なら、お札 を1得る"
   },
   {
     "key": "1100602-levelList$[0].name",
@@ -7716,8 +7716,8 @@
   },
   {
     "key": "1100602-levelList$[1].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 대상의 파열이 3 이상이면, 부적 1 얻음",
-    "context": "EN :\n[OnSucceedAttack] If target has 3+ Rupture, gain 1 Talisman\nJP :\n[OnSucceedAttack] 対象の破裂が3以上なら、お札 1を得る"
+    "original": "[OnSucceedAttack] 대상의 [Burst]이 3 이상이면, 부적 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] If target has 3+ [Burst], gain 1 Talisman\nJP :\n[OnSucceedAttack] 対象の[Burst]が3以上なら、お札 を1得る"
   },
   {
     "key": "1100602-levelList$[2].name",
@@ -7731,8 +7731,8 @@
   },
   {
     "key": "1100602-levelList$[2].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 대상에게 파열이 있으면 부적 1 얻음",
-    "context": "EN :\n[OnSucceedAttack] If target has Rupture, gain 1 Talisman\nJP :\n[OnSucceedAttack] 対象に破裂があるなら、お札 1を得る"
+    "original": "[OnSucceedAttack] 대상에게 [Burst]이 있으면 부적 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] If target has [Burst], gain 1 Talisman\nJP :\n[OnSucceedAttack] 対象に[Burst]があるなら、お札 1を得る"
   },
   {
     "key": "1100602-levelList$[2].coinlist[1].coindescs[0].desc",
@@ -7741,8 +7741,8 @@
   },
   {
     "key": "1100602-levelList$[2].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 대상에게 파열이 있으면 부적 1 얻음",
-    "context": "EN :\n[OnSucceedAttack] If target has Rupture, gain 1 Talisman\nJP :\n[OnSucceedAttack] 対象に破裂があるなら、お札 1を得る"
+    "original": "[OnSucceedAttack] 대상에게 [Burst]이 있으면 부적 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] If target has [Burst], gain 1 Talisman\nJP :\n[OnSucceedAttack] 対象に[Burst]があるなら、お札 1を得る"
   },
   {
     "key": "1100602-levelList$[2].coinlist[2].coindescs[0].desc",
@@ -7751,8 +7751,8 @@
   },
   {
     "key": "1100602-levelList$[2].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 대상에게 파열이 있으면 부적 1 얻음",
-    "context": "EN :\n[OnSucceedAttack] If target has Rupture, gain 1 Talisman\nJP :\n[OnSucceedAttack] 対象に破裂があるなら、お札 1を得る"
+    "original": "[OnSucceedAttack] 대상에게 [Burst]이 있으면 부적 1 얻음",
+    "context": "EN :\n[OnSucceedAttack] If target has [Burst], gain 1 Talisman\nJP :\n[OnSucceedAttack] 対象に[Burst]があるなら、お札 1を得る"
   },
   {
     "key": "1100603-levelList$[0].name",
@@ -7766,7 +7766,7 @@
   },
   {
     "key": "1100603-levelList$[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 부적이 있으면 파열 횟수 1 증가",
+    "original": "[OnSucceedAttack] 대상에게 [Talisman]이 있으면 파열 횟수 1 증가",
     "context": "EN :\n[OnSucceedAttack] If target has Talisman, inflict +1 Rupture Count\nJP :\n[OnSucceedAttack] 対象にお札 がある場合、破裂 回数を1 増加"
   },
   {
@@ -7781,7 +7781,7 @@
   },
   {
     "key": "1100603-levelList$[1].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 부적이 있으면 파열 횟수 3 증가",
+    "original": "[OnSucceedAttack] 대상에게 [Talisman]이 있으면 파열 횟수 3 증가",
     "context": "EN :\n[OnSucceedAttack] If target has Talisman, inflict +3 Rupture Count\nJP :\n[OnSucceedAttack] 対象にお札 がある場合、破裂 回数を3 増加"
   },
   {
@@ -7816,8 +7816,8 @@
   },
   {
     "key": "1080601-levelList$[1].desc",
-    "original": "대상의 화상이 3 이상이면, 코인 위력 +1",
-    "context": "EN :\nIf target has 3+ Burn, Coin Power +1\nJP :\n対象の火傷 が3以上なら、コイン威力 +1"
+    "original": "대상의 [Combustion]이 3 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf target has 3+ [Combustion], Coin Power +1\nJP :\n対象の[Combustion]が3以上ならコイン威力 +1"
   },
   {
     "key": "1080601-levelList$[1].coinlist[0].coindescs[0].desc",
@@ -7866,8 +7866,8 @@
   },
   {
     "key": "1080602-levelList$[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상의 화상이 6 이상이면, 화상 횟수 2 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has 6+ Burn, inflict +2 Burn Count\nJP :\n[OnSucceedAttack] 対象の火傷 が6以上なら、火傷 回数2を付与"
+    "original": "[OnSucceedAttack] 대상의 [Combustion]이 6 이상이면, 화상 횟수 2 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn Count\nJP :\n[OnSucceedAttack] 対象の[Combustion]が6以上なら、火傷 回数2を付与"
   },
   {
     "key": "1080602-levelList$[1].name",
@@ -7876,8 +7876,8 @@
   },
   {
     "key": "1080602-levelList$[1].desc",
-    "original": "대상의 화상이 6 이상이면, 코인 위력 +1",
-    "context": "EN :\nIf target has 6+ Burn, Coin Power +1\nJP :\n対象の火傷 が6以上なら、コイン威力 +1"
+    "original": "대상의 [Combustion]이 6 이상이면, 코인 위력 +1",
+    "context": "EN :\nIf target has 6+ [Combustion], Coin Power +1\nJP :\n対象の[Combustion]が6以上ならコイン威力 +1"
   },
   {
     "key": "1080602-levelList$[1].coinlist[0].coindescs[0].desc",
@@ -7891,8 +7891,8 @@
   },
   {
     "key": "1080602-levelList$[1].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상의 화상이 6 이상이면, 화상 횟수 2 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has 6+ Burn, inflict +2 Burn Count\nJP :\n[OnSucceedAttack] 対象の火傷 が6以上なら、火傷 回数2を付与"
+    "original": "[OnSucceedAttack] 대상의 [Combustion]이 6 이상이면, 화상 횟수 2 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn Count\nJP :\n[OnSucceedAttack] 対象の[Combustion]が6以上なら、火傷 回数2を付与"
   },
   {
     "key": "1080602-levelList$[2].name",
@@ -7916,8 +7916,8 @@
   },
   {
     "key": "1080602-levelList$[2].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상의 화상이 6 이상이면, 화상 횟수 2 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has 6+ Burn, inflict +2 Burn Count\nJP :\n[OnSucceedAttack] 対象の火傷 が6以上なら、火傷 回数2を付与"
+    "original": "[OnSucceedAttack] 대상의 [Combustion]이 6 이상이면, 화상 횟수 2 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has 6+ [Combustion], inflict 2 Burn Count\nJP :\n[OnSucceedAttack] 対象の[Combustion]が6以上なら、火傷 回数2を付与"
   },
   {
     "key": "1080603-levelList$[0].name",

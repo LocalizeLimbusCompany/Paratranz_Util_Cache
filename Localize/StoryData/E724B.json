@@ -218,7 +218,7 @@
   {
     "key": "21-content",
     "original": "중대한 사안이었으면 이자가 먼저 그랬겠지. 그것보다 처음 물어봤을 때 했던 그 손동작은 뭐지? 이렇게… 손가락을 볼… 쯤에 가져다 대는 동작.",
-    "context": "EN :\nThey would've done that themself if it were something important. I'm kinda curious, though. What was that hand gesture you made when I first asked? You, uh... brought your index fingers up to your... cheeks.\nJP :\n重大事案なら、この人が先にそうしたでしょう。\nそれより、最初訊いたときの指の動きは何？\nこう…指を頬の…辺りに持っていくみたいな動き。"
+    "context": "EN :\nThey would've done that themself if it were something important. I'm kinda curious, though. What was that hand gesture you made when I first asked? You, uh... brought your index fingers up to your... cheeks.\nJP :\n重大事案なら、この人が先にそうしたでしょう。\nそれより、最初に訊いたときの指の動きは何？\nこう…指を頬の…辺りに持っていくみたいな動き。"
   },
   {
     "key": "22-content",
@@ -361,7 +361,7 @@
   {
     "key": "34-content",
     "original": "뭘 말하려고 그렇게 용쓰나 했더니… 쳇.",
-    "context": "EN :\nSo that's what you were trying so hard to communicate...? Tch.\nJP :\n何をそんなに必死に言おうとしてるのかと思ったら…ちぇっ。"
+    "context": "EN :\nSo that's what you were trying so hard to communicate...? Tch.\nJP :\n何をそんなに必死に伝えようとしてるのかと思ったら…ちぇっ。"
   },
   {
     "key": "35-content",
@@ -424,7 +424,7 @@
   {
     "key": "41-content",
     "original": "바깥에는 몇몇 사람이 비틀거리며 거리를 거닐고 있다.",
-    "context": "EN :\nThere were some people stumbling through the streets outside.\nJP :\n外では、何人かがふらつきながら通りを行き交っていた。"
+    "context": "EN :\nThere were some people stumbling through the streets outside.\nJP :\n外では、何人かがふらつきながら通りを\nぶらついていた。"
   },
   {
     "key": "42-content",
@@ -528,7 +528,7 @@
   {
     "key": "51-content",
     "original": "그저, 새로운 경험이 될 거라 생각해서 왔을 뿐이에요.",
-    "context": "EN :\nI joined only to have some new experience, that's all.\nJP :\nただ、新しい経験になるかと思って来ただけなんです。"
+    "context": "EN :\nI joined only to have some new experience, that's all.\nJP :\nただ、新しい経験になると思って来ただけなんです。"
   },
   {
     "key": "52-model",
@@ -577,7 +577,7 @@
   {
     "key": "56-content",
     "original": "홍루의 말이 전부 끝마쳐지기도 전에, 예상치 못한 목소리가 쩌렁쩌렁 울려 퍼졌다.",
-    "context": "EN :\nA loud, boisterous bellow suddenly cut Hong Lu off even before he could finish his sentence.\nJP :\nホンルの言葉が言い終わらないうちに、\n思いがけない声が大きく響き渡った。"
+    "context": "EN :\nA loud, boisterous bellow suddenly cut Hong Lu off even before he could finish his sentence.\nJP :\nホンルが言い終わる前に、\n思いがけない声が大きく響き渡った。"
   },
   {
     "key": "57-model",
@@ -626,7 +626,7 @@
   {
     "key": "61-content",
     "original": "역시 이 자식이랑 같이 오는 게 아니었어. 그 잠깐을 못 참고 튀어 나가서…",
-    "context": "EN :\nI knew I shouldn't have come here with this guy. Couldn't you be patient for even a few minutes before bursting outta here...?\nJP :\nやっぱこいつと一緒に来るんじゃなかったな\nちょっとすらも我慢できずに飛び出しちまって…。"
+    "context": "EN :\nI knew I shouldn't have come here with this guy. Couldn't you be patient for even a few minutes before bursting outta here...?\nJP :\nやっぱこいつと一緒に来るんじゃなかったな\nほんのちょっとの間すらも我慢できずに飛び出しちまって…。"
   },
   {
     "key": "62-model",
@@ -703,7 +703,7 @@
   {
     "key": "68-content",
     "original": "어휴. 이제 좀 조용해졌네. 아무튼… 엿들은 건 미안해. 대신 그… 좋은 거 하나 알려줄 테니, 좀 봐주면 안 될까? ",
-    "context": "EN :\nFinally, some silence. Anyways... sorry about listening in, fellas. I'll let you in on some big secret if you let this one slide, though.\nJP :\nはあ。やっと静かになったな。とにかく…盗み聞きしたのは悪かった。\n代わりにその…良いことひとつ教えてあげるから、勘弁してくれないか？ "
+    "context": "EN :\nFinally, some silence. Anyways... sorry about listening in, fellas. I'll let you in on some big secret if you let this one slide, though.\nJP :\nはあ。やっと静かになったな。とにかく…盗み聞きしたのは悪かったよ。\n代わりにその…良いことひとつ教えてあげるから、勘弁してくれないか？ "
   },
   {
     "key": "69-model",
@@ -811,7 +811,7 @@
   {
     "key": "80-content",
     "original": "그러자… 후두둑하는 어울리지 않는 소리와 함께 먹물 같은 것이 쏟아지더니, 그 위로 로쟈와 오티스가 철퍽하고 떨어졌다.",
-    "context": "EN :\nAnd, with an uncharacteristically wet noise for something cutting through a wall, a black, ink-like substance dripped onto the floor… followed by Rodya and Outis crashing down after it.\nJP :\nすると…ぱらぱらという場違いな音とともに、墨汁のようなものが降ぐと\nその上からロージャとウーティスがべしゃりと落ちてきた。"
+    "context": "EN :\nAnd, with an uncharacteristically wet noise for something cutting through a wall, a black, ink-like substance dripped onto the floor… followed by Rodya and Outis crashing down after it.\nJP :\nすると…ぱらぱらという場違いな音と共に、墨汁のようなものが降り注ぐと\nその上からロージャとウーティスがべしゃりと落ちてきた。"
   },
   {
     "key": "81-model",

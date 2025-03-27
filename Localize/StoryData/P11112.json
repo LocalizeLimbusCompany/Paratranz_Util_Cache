@@ -2,7 +2,7 @@
   {
     "key": "0-content",
     "original": "밤이 되었음에도 인공적인 빛 아래 여전히 밝은 홍원의 밤.",
-    "context": "EN :\nOne night in Hongyuan, brightly lit under its artificial light.\nJP :\n夜になっても人工的な光の下で\n依然として明るい鴻園の夜。"
+    "context": "EN :\nOne night in Hongyuan, brightly lit under its artificial light.\nJP :\n夜になっても、人工的な光の下で\n依然として明るい鴻園。"
   },
   {
     "key": "1-content",
@@ -74,7 +74,7 @@
   {
     "key": "8-content",
     "original": "여러 건물로 인해 복잡한 홍원의 뒷골목이지만, 매일같이 홍원을 무대로 암투를 벌이는 흑수에게, 그자의 도주로는 손바닥 들여다보듯 훤했겠지.",
-    "context": "EN :\nThe Backstreets of Hongyuan teems with a chaotic jumble of buildings, but to a Heishou like herself—who roamed its alleys nightly and fought in every corner of the District—it was easy to anticipate the thief’s escape route.\nJP :\n幾つもの建物が入り組む複雑な鴻園の裏路地とはいえ、\n毎日のように鴻園を舞台に暗闘を繰り広げる黒獣にとっては、\nその者の逃走経路など手の平の上だったんでしょう。"
+    "context": "EN :\nThe Backstreets of Hongyuan teems with a chaotic jumble of buildings, but to a Heishou like herself—who roamed its alleys nightly and fought in every corner of the District—it was easy to anticipate the thief’s escape route.\nJP :\n幾つもの建物が入り組む複雑な鴻園の裏路地とはいえ、\n毎日のように鴻園を舞台に暗闘を繰り広げる黒獣にとっては\nその者の逃走経路など、まるで手の平の上だったんでしょう。"
   },
   {
     "key": "9-model",
@@ -100,7 +100,7 @@
   {
     "key": "11-content",
     "original": "미끈한 표면과 물컹거리는 몸뚱이가 부자연스럽게 움직이는 모습도 흉하지만...",
-    "context": "EN :\nIt was a truly hideous thing, its surface slick and its body wriggling in an unnatural and unpleasant motion... but that wasn't the worst of it.\nJP :\nぬるりとした表面と、ぶよぶよした身体が\n不自然な動きをする様子もおぞましいけど…。"
+    "context": "EN :\nIt was a truly hideous thing, its surface slick and its body wriggling in an unnatural and unpleasant motion... but that wasn't the worst of it.\nJP :\nぬるりとした表面と、ぶよぶよした身体が\n不自然にうごめく様子もおぞましいけど…。"
   },
   {
     "key": "12-content",
@@ -110,7 +110,7 @@
   {
     "key": "13-content",
     "original": "사람과 똑같이 생겼지만, 살갗은 창백하게 늘어져 있고, 퀭한 눈구멍은 초점을 잃은 채 허공을 바라보고 있는 흉물.",
-    "context": "EN :\nIts features are arranged like those of a human face—yet its sallow flesh hangs loose, its hollow eyes staring into the distant void. A monstrosity.\nJP :\n人間と瓜二つだけど、肌は青白く垂れさがり、落ち窪んだ眼孔は\n焦点を失ったまま虚空を見つめている、見るに堪えない顔面。"
+    "context": "EN :\nIts features are arranged like those of a human face—yet its sallow flesh hangs loose, its hollow eyes staring into the distant void. A monstrosity.\nJP :\n人間そっくりだけど肌は青白く垂れ下がり、落ち窪んだ眼孔は\n焦点を失ったまま虚空を見つめている、見るに堪えない顔面。"
   },
   {
     "key": "14-content",
@@ -145,23 +145,28 @@
   },
   {
     "key": "18-content",
-    "original": "체내에 넣으면 재료가 된 사람의 기억을 가질 수 있는 특수한 벌레.",
+    "original": "체내에 넣으면 재료가 된 사람의 기억을 가질 수 있는 특수한 벌레이자,",
     "context": "EN :\nAnyone can gain the memories of the person who was used to make the grub by inserting it into their body,\nJP :\n体内に入れれば\n材料になった人間の記憶を持てる特殊な虫であり、"
   },
   {
+    "key": "null-content",
+    "original": "재료의 귀천에 상관없이도 그 수를 물건이 아닌 사람으로 셈할 만큼 특별한 존재.",
+    "context": "EN :\nand even once they have been mutated into this worm-like form, they are counted as people, not tools.\nJP :\n材料の貴賤を問わず、、数える時は物ではなく\n人として扱われるほど特別な存在。"
+  },
+  {
     "key": "19-content",
-    "original": "도둑이 훔쳐 간 충은 가문의 많은 비밀을 알고 있는 홍원의 격식 높은 사람을 재료로 만들어진 귀물이었으니까.",
-    "context": "EN :\nand even once they have been mutated into this worm-like form, they are counted as people, not tools.\nJP :\n材料の貴賤を問わず、その数を物ではなく人として\n数えるほど特別な存在。"
+    "original": "그중에서도 도둑이 훔쳐 간 충은 가문의 많은 비밀을 알고 있는 홍원의 격식 높은 사람을 재료로 만들어진 귀물이었던 거야.",
+    "context": "EN :\nThis particular Anamnaworm, currently held in the thief's palms, was created from someone of high prestige in Hongyuan with deep knowledge of the secrets of the family.\nJP :\nなかでも泥棒が盗んだ蟲は、一家の多くの秘密を抱えている\n鴻園でも格式高い人物を材料にしたという貴重品だったんだ。"
   },
   {
     "key": "20-content",
     "original": "그 안에는 아이가 모시는 주군과 관련된 가문의 여러 정보가 기억의 형태로 담겨 있을 테고…",
-    "context": "EN :\nThis particular Anamnaworm, currently held in the thief's palms, was created from someone of high prestige in Hongyuan with deep knowledge of the secrets of the family.\nJP :\nなかでも泥棒が盗んだ蟲は、一家の多くの秘密を抱えている\n鴻園でも格式高い人物を材料にしたという貴重品だったんだ。"
+    "context": "EN :\nVarious familial secrets of the lord were preserved within it in the form of a memory...\nJP :\nその中には子供が仕える主君と関連する、一家にまつわる\n数多の情報が記憶という形で収められているだろうし…。"
   },
   {
     "key": "21-content",
     "original": "적대 가문의 후보가 충을 손에 넣어 제 몸에 넣는다면, 순식간에 아이의 주군은 가문의 여러 비밀을 빼앗기는 셈이 되어버릴 테지.",
-    "context": "EN :\nVarious familial secrets of the lord were preserved within it in the form of a memory...\nJP :\nその中には子供が仕える主君と関連する、一家にまつわる\n数多の情報が記憶という形で収められているだろうし…。"
+    "context": "EN :\nSo letting a hostile candidate from a rival family obtain this Anamnaworm would amount to giving them a significant intelligence advantage.\nJP :\nもし敵対する一家の候補がこの蟲を手に入れ、自分の身体に\n取り込んだりでもすれば、あっという間に子供の主君は一家の様々な秘密を\n奪われてしまうことになるだろうね。"
   },
   {
     "key": "22-model",
@@ -172,52 +177,52 @@
   {
     "key": "22-title",
     "original": "흑수 - 묘",
-    "context": "EN :\n\nJP :\n"
+    "context": "EN :\nHeishou Pack - Mao Branch\nJP :\n黒獣 - 卯"
   },
   {
     "key": "22-content",
     "original": "충을 탐한 이유를 듣겠다.",
-    "context": "EN :\nSo letting a hostile candidate from a rival family obtain this Anamnaworm would amount to giving them a significant intelligence advantage.\nJP :\nもし敵対する一家の候補がこの蟲を手に入れ、自分の身体に\n取り込んだりでもすれば、あっという間に子供の主君は一家の様々な秘密を\n奪われてしまうことになるだろうね。"
+    "context": "EN :\nExplain what motivated you to steal the worm.\nJP :\n蟲を狙った理由を聞こう。"
   },
   {
     "key": "23-content",
     "original": "그럼에도 아이는 곧장 도둑의 목을 베기보단, 사정을 묻기로 했어.",
-    "context": "EN :\nExplain what motivated you to steal the worm.\nJP :\n蟲を狙った理由を聞こう。"
+    "context": "EN :\nDespite the thief's grave crimes, the child decided to ask what drove him to steal the worm.\nJP :\nそれでも子供は、すぐさま泥棒の首を落とすのではなく\n事情を問いただすことにした。"
   },
   {
     "key": "24-content",
     "original": "아이가 동정심을 품은 건 아냐.",
-    "context": "EN :\nDespite the thief's grave crimes, the child decided to ask what drove him to steal the worm.\nJP :\nそれでも子供は、すぐさま泥棒の首を落とすのではなく\n事情を問いただすことにした。"
+    "context": "EN :\nNot out of pity, of course.\nJP :\n子供が哀れみをかけたわけじゃないの。"
   },
   {
     "key": "25-content",
     "original": "그저 아이의 주군이 그것을 바랐기 때문이지.",
-    "context": "EN :\nNot out of pity, of course.\nJP :\n子供が哀れみをかけたわけじゃないの。"
+    "context": "EN :\nShe was simply carrying out the will of her lord.\nJP :\nただ、子供の主君がそう望んだからなんだ。"
   },
   {
     "key": "26-content",
     "original": "차갑기 그지없는 아이의 말투에서도 명령을 내린 이가 내어준 기회를 읽은 걸까?",
-    "context": "EN :\nShe was simply carrying out the will of her lord.\nJP :\nただ、子供の主君がそう望んだからなんだ。"
+    "context": "EN :\nPerhaps the thief saw the slimmest chance for life through the child's cold, cold words?\nJP :\n冷淡きわまりない子供の口調からも、\n命令を下した者が与えたチャンスを悟ったからかな？"
   },
   {
     "key": "27-content",
     "original": "도둑은 곧장 무릎을 꿇고 구슬픈 목소리로 제 사연을 털어놓기 시작했어.",
-    "context": "EN :\nPerhaps the thief saw the slimmest chance for life through the child's cold, cold words?\nJP :\n冷淡きわまりない子供の口調からも、\n命令を下した者が与えたチャンスを悟ったからかな？"
+    "context": "EN :\nHe dropped to his knees and began to share a tearful tale of his own.\nJP :\n泥棒はすぐに膝を突いて、\n悲痛な声で己の身の上を語り出したんだ。"
   },
   {
     "key": "28-teller",
     "original": "도둑",
-    "context": "EN :\n\nJP :\n"
+    "context": "EN :\nThief\nJP :\n泥棒"
   },
   {
     "key": "28-title",
     "original": "???",
-    "context": "EN :\n\nJP :\n"
+    "context": "EN :\n???\nJP :\n???"
   },
   {
     "key": "28-content",
     "original": "도, 돈이 필요했을 뿐이오.",
-    "context": "EN :\nHe dropped to his knees and began to share a tearful tale of his own.\nJP :\n泥棒はすぐに膝を突いて、\n悲痛な声で己の身の上を語り出したんだ。"
+    "context": "EN :\nI-I only needed some money, that's all.\nJP :\nか、金が必要だっただけなのです。"
   },
   {
     "key": "29-teller",
@@ -232,7 +237,7 @@
   {
     "key": "29-content",
     "original": "다, 다른 가문에서 충을 가져오기만 하면, 평생 먹고 살 재산을 베풀어 준다 하였소.",
-    "context": "EN :\nI-I only needed some money, that's all.\nJP :\nか、金が必要だっただけなのです。"
+    "context": "EN :\nO-one of the other families approached me first, offering me enough riches to live the rest of my life without concern as long as I brought this to them.\nJP :\nほ、他の一家から蟲を持ってくれば、\n一生遊んで暮らせるだけの財産を与えると言われまして。"
   },
   {
     "key": "30-teller",
@@ -247,7 +252,7 @@
   {
     "key": "30-content",
     "original": "병든 노모를 돌보기 위해선 어쩔 수 없었…",
-    "context": "EN :\nO-one of the other families approached me first, offering me enough riches to live the rest of my life without concern as long as I brought this to them.\nJP :\nほ、他の一家から蟲を持ってくれば、\n一生遊んで暮らせるだけの財産を与えると言われまして。"
+    "context": "EN :\nPlease, I had no choice but to accept the offer. My mother is very sick, and, and with her old age—\nJP :\n病に伏せる老いた母のためには、こうするしかなか―"
   },
   {
     "key": "31-model",
@@ -258,12 +263,12 @@
   {
     "key": "31-title",
     "original": "흑수 - 묘",
-    "context": "EN :\n???\nJP :\n???"
+    "context": "EN :\nHeishou Pack - Mao Branch\nJP :\n黒獣 - 卯"
   },
   {
     "key": "31-content",
     "original": "거짓이군. 흑수가 그것도 알아보지 않고 찾아왔을 것 같나.",
-    "context": "EN :\nPlease, I had no choice but to accept the offer. My mother is very sick, and, and with her old age—\nJP :\n病に伏せる老いた母のためには、こうするしかなか―"
+    "context": "EN :\nYou lie. Do you take me, a beast of a Heishou Pack, for a fool?\nJP :\n嘘だな。黒獣がそこまで調べずに尋ねてきたとでも思ったのか。"
   },
   {
     "key": "32-model",
@@ -279,22 +284,22 @@
   {
     "key": "32-content",
     "original": "병든 노모… 하. 네 노모는 진작 3년 전 목숨을 잃었을 터.",
-    "context": "EN :\nYou lie. Do you take me, a beast of a Heishou Pack, for a fool?\nJP :\n嘘だな。黒獣がそこまで調べずに尋ねてきたとでも思ったのか。"
+    "context": "EN :\nYour \"sick and old\" mother died three years ago.\nJP :\n病の母…はぁ。お前の母親ならもう\n3年前に亡くなっているはずだ。"
   },
   {
     "key": "33-teller",
     "original": "도둑",
-    "context": "EN :\n\nJP :\n"
+    "context": "EN :\nThief\nJP :\n泥棒"
   },
   {
     "key": "33-title",
     "original": "???",
-    "context": "EN :\nHeishou Pack - Mao Branch\nJP :\n黒獣 - 卯"
+    "context": "EN :\n???\nJP :\n???"
   },
   {
     "key": "33-content",
     "original": "그 짧은 시간에 그걸…",
-    "context": "EN :\nYour \"sick and old\" mother died three years ago.\nJP :\n病の母…はぁ。お前の母親ならもう\n3年前に亡くなっているはずだ。"
+    "context": "EN :\nHow do you already know so much about me...?\nJP :\nあの短い時間にそれを…。"
   },
   {
     "key": "34-model",
@@ -305,12 +310,12 @@
   {
     "key": "34-title",
     "original": "흑수 - 묘",
-    "context": "EN :\n???\nJP :\n???"
+    "context": "EN :\nHeishou Pack - Mao Branch\nJP :\n黒獣 - 卯"
   },
   {
     "key": "34-content",
     "original": "솔직히 말해라.",
-    "context": "EN :\nHow do you already know so much about me...?\nJP :\nあの短い時間にそれを…。"
+    "context": "EN :\nNow, the truth.\nJP :\n正直に言え。"
   },
   {
     "key": "35-model",
@@ -326,7 +331,7 @@
   {
     "key": "35-content",
     "original": "주군께서 네게 내민 동아줄은 그리 길지 않다.",
-    "context": "EN :\nNow, the truth.\nJP :\n正直に言え。"
+    "context": "EN :\nMy lord has given you a way out of this hole you've dug yourself into, but know that the path is extremely narrow.\nJP :\n主君がお前に差し出した命綱はそう長くない。"
   },
   {
     "key": "36-model",
@@ -342,27 +347,27 @@
   {
     "key": "36-content",
     "original": "괜한 거짓으로 혓바닥을 늘렸다간…",
-    "context": "EN :\nMy lord has given you a way out of this hole you've dug yourself into, but know that the path is extremely narrow.\nJP :\n主君がお前に差し出した命綱はそう長くない。"
+    "context": "EN :\nShould you lie any further...\nJP :\nつまらぬ嘘で舌を動かせば…。"
   },
   {
     "key": "37-content",
     "original": "아이의 단호한 태도에 도둑은 한참을 망설이다 겨우 입을 열었어.",
-    "context": "EN :\nShould you lie any further...\nJP :\nつまらぬ嘘で舌を動かせば…。"
+    "context": "EN :\nThe thief hesitated for a long time, sensing that he was likely walking on very thin ice.\nJP :\n子供の毅然とした態度に\n泥棒はしばらく戸惑った末、ようやく口を開いたんだ。"
   },
   {
     "key": "38-teller",
     "original": "도둑",
-    "context": "EN :\n\nJP :\n"
+    "context": "EN :\nThief\nJP :\n泥棒"
   },
   {
     "key": "38-title",
     "original": "???",
-    "context": "EN :\n\nJP :\n"
+    "context": "EN :\n???\nJP :\n???"
   },
   {
     "key": "38-content",
     "original": "…….",
-    "context": "EN :\nThe thief hesitated for a long time, sensing that he was likely walking on very thin ice.\nJP :\n子供の毅然とした態度に\n泥棒はしばらく戸惑った末、ようやく口を開いたんだ。"
+    "context": "EN :\n…….\nJP :\n……。"
   },
   {
     "key": "39-teller",
@@ -377,27 +382,27 @@
   {
     "key": "39-content",
     "original": "언제까지 재적일에 추락하지 않을까 전전긍긍하며 살기 싫었다네.",
-    "context": "EN :\n…….\nJP :\n……。"
+    "context": "EN :\nI... I was tired and scared of waiting for the restructuring days to come. That I might tumble down a hole I could never come back from.\nJP :\nいつまで再積日で墜落しないか\nビクビクしながら生きるのが嫌だったのだよ。"
   },
   {
     "key": "40-content",
     "original": "홍원에 존재하는 대부분의 건물은, 일정 주기마다 움직여.",
-    "context": "EN :\nI... I was tired and scared of waiting for the restructuring days to come. That I might tumble down a hole I could never come back from.\nJP :\nいつまで再積日で墜落しないか\nビクビクしながら生きるのが嫌だったのだよ。"
+    "context": "EN :\nThe buildings within Hongyuan shift after every set interval.\nJP :\n鴻園に存在する建物の多くは、一定周期で動くんだ。"
   },
   {
     "key": "41-content",
     "original": "그건 각자 가진 재산에 따라 소유한 공간을 재분배하는 과정이지.",
-    "context": "EN :\nThe buildings within Hongyuan shift after every set interval.\nJP :\n鴻園に存在する建物の多くは、一定周期で動くんだ。"
+    "context": "EN :\nThe process is called 'restructuring', a redistribution of living spaces based on each individual's net worth.\nJP :\nそれは各々の財産に応じて、\n所有する空間を再分配する仕組みなの。"
   },
   {
     "key": "42-content",
     "original": "가난한 이들이 사는 공간은 점점 좁아질 테고, 휴식처가 되어야 할 집에서도 마음 편히 쉴 수 없었을 거야.",
-    "context": "EN :\nThe process is called 'restructuring', a redistribution of living spaces based on each individual's net worth.\nJP :\nそれは各々の財産に応じて、\n所有する空間を再分配する仕組みなの。"
+    "context": "EN :\nThe poor are fated to live in their ever-shrinking homes, feeling unsafe even where they should feel the safest.\nJP :\n貧しい者が住む場所はどんどん狭くなっていき、\n休むべき自宅でも安心して休めなくなるでしょう。"
   },
   {
     "key": "43-content",
     "original": "안타깝다면 안타까운 사정이지만… 흑수인 아이에게는 와닿지 않는 사연인 것 같네.",
-    "context": "EN :\nThe poor are fated to live in their ever-shrinking homes, feeling unsafe even where they should feel the safest.\nJP :\n貧しい者が住む場所はどんどん狭くなっていき、\n休むべき自宅でも安心して休めなくなるなるでしょう。"
+    "context": "EN :\nIt is unfortunate, yes... but to the child, a beast of a Heishou Pack, it mattered very little.\nJP :\n気の毒と言えば気の毒な話だけど…\n黒獣である子供には響かないみたい。"
   },
   {
     "key": "44-model",
@@ -408,12 +413,12 @@
   {
     "key": "44-title",
     "original": "흑수 - 묘",
-    "context": "EN :\n\nJP :\n"
+    "context": "EN :\nHeishou Pack - Mao Branch\nJP :\n黒獣 - 卯"
   },
   {
     "key": "44-content",
     "original": "재물에 눈이 멀어 저지른 일이었나.",
-    "context": "EN :\nIt is unfortunate, yes... but to the child, a beast of a Heishou Pack, it mattered very little.\nJP :\n気の毒と言えば気の毒な話だけど…\n黒獣である子供には響かないみたい。"
+    "context": "EN :\nSo it was greed, after all.\nJP :\n財に目がくらんで起こしたことだったのか。"
   },
   {
     "key": "45-model",
@@ -429,22 +434,22 @@
   {
     "key": "45-content",
     "original": "그 정도 사유라면… 우리가 나눌 대화는 여기서 끝이겠군.",
-    "context": "EN :\nSo it was greed, after all.\nJP :\n財に目がくらんで起こしたことだったのか。"
+    "context": "EN :\nIf that's all there was to it, then... we have nothing more to discuss.\nJP :\nその程度の理由なら…私たちが交わす会話はここで終わりだろう。"
   },
   {
     "key": "46-teller",
     "original": "도둑",
-    "context": "EN :\n\nJP :\n"
+    "context": "EN :\nThief\nJP :\n泥棒"
   },
   {
     "key": "46-title",
     "original": "???",
-    "context": "EN :\nHeishou Pack - Mao Branch\nJP :\n黒獣 - 卯"
+    "context": "EN :\n???\nJP :\n???"
   },
   {
     "key": "46-content",
     "original": "가, 가까이 다가오거나, 발을 변형하려는 낌새가 보이면… 귀에 바로 이 충을 넣을 것일세!",
-    "context": "EN :\nIf that's all there was to it, then... we have nothing more to discuss.\nJP :\nその程度の理由なら…私たちが交わす会話はここで終わりだろう。"
+    "context": "EN :\nT-take a single step, or if I see signs of your heels transforming... I'm inserting the Anamnaworm into my ear!\nJP :\nち、近づいたり、足を変形させる素振りを少しでも見せれば…。\nすぐさまこの蟲を耳に入れるぞ！"
   },
   {
     "key": "47-model",
@@ -455,27 +460,27 @@
   {
     "key": "47-title",
     "original": "흑수 - 묘",
-    "context": "EN :\n???\nJP :\n???"
+    "context": "EN :\nHeishou Pack - Mao Branch\nJP :\n黒獣 - 卯"
   },
   {
     "key": "47-content",
     "original": "…명을 재촉하는군. 네놈이 감당할 수 있는 기억이 아니다. 하물며…",
-    "context": "EN :\nT-take a single step, or if I see signs of your heels transforming... I'm inserting the Anamnaworm into my ear!\nJP :\nち、近づいたり、足を変形させる素振りを少しでも見せれば…。\nすぐさまこの蟲を耳に入れるぞ！"
+    "context": "EN :\n... You must have a death wish. Those memories aren't for the faint of heart. Besides—\nJP :\n…死に急ぐか。お前が耐えられる記憶じゃない。\nましてや…。"
   },
   {
     "key": "48-teller",
     "original": "도둑",
-    "context": "EN :\n\nJP :\n"
+    "context": "EN :\nThief\nJP :\n泥棒"
   },
   {
     "key": "48-title",
     "original": "???",
-    "context": "EN :\nHeishou Pack - Mao Branch\nJP :\n黒獣 - 卯"
+    "context": "EN :\n???\nJP :\n???"
   },
   {
     "key": "48-content",
     "original": "자, 잠깐!!!",
-    "context": "EN :\n... You must have a death wish. Those memories aren't for the faint of heart. Besides—\nJP :\n…死に急ぐか。お前が耐えられる記憶じゃない。\nましてや…。"
+    "context": "EN :\nW-wait, stop!!!\nJP :\nま、待て！！！"
   },
   {
     "key": "49-model",
@@ -486,72 +491,72 @@
   {
     "key": "49-title",
     "original": "흑수 - 묘",
-    "context": "EN :\n???\nJP :\n???"
+    "context": "EN :\nHeishou Pack - Mao Branch\nJP :\n黒獣 - 卯"
   },
   {
     "key": "49-content",
     "original": "아니. 이 대화는 이걸로 충분해졌다.",
-    "context": "EN :\nW-wait, stop!!!\nJP :\nま、待て！！！"
+    "context": "EN :\nNo, we've talked enough.\nJP :\nいや。これ以上話す必要はない。"
   },
   {
     "key": "50-content",
     "original": "도둑이 말을 끝맺기도 전, 아이의 등에 메인 검에서 흉흉한 빛이 감돌기 시작했어.",
-    "context": "EN :\nNo, we've talked enough.\nJP :\nいや。これ以上話す必要はない。"
+    "context": "EN :\nThe sword hanging from the child's back began to shimmer with a sinister glow.\nJP :\n泥棒が言い終わる前に、\n子供が背負った剣が邪悪な光を放ち始めたの。"
   },
   {
     "key": "51-content",
     "original": "Q사의 기술로 새겨진 검의 괴문자는 특정한 조건이 만족되었을 때에서야, 그 힘을 제대로 발휘해.",
-    "context": "EN :\nThe sword hanging from the child's back began to shimmer with a sinister glow.\nJP :\n泥棒が言い終わる終わる前に、\n子供が背負った剣が邪悪な光を放ち始めたの。"
+    "context": "EN :\nThe glyphs were inscribed onto the sword using Q Corp.'s technology, and they activate and bestow power when a specific trigger is met.\nJP :\nQ社の技術で刻まれたこの剣の怪文字は、\n特定の条件を満たしたときにこそ真の力を発揮するんだ。"
   },
   {
     "key": "52-content",
     "original": "이번 임무에서 아이가 힘을 쓸 수 있는 조건은, 충을 훔쳐 간 사람이 주군의 자비를 거부하는 것이었을 테지.",
-    "context": "EN :\nThe glyphs were inscribed onto the sword using Q Corp.'s technology, and they activate and bestow power when a specific trigger is met.\nJP :\nQ社の技術で刻まれたこの剣の怪文字な文字は、\n特定の条件を満たしたときにこそ真の力を発揮するんだ。"
+    "context": "EN :\nAnd for this mission, the condition was... the Anamnaworm thief refusing her lord's mercy.\nJP :\n今回の任務において子供が力を使う条件は、蟲を盗んだ者が\n主君の情けを拒むことだったんだろうね。"
   },
   {
     "key": "53-content",
     "original": "검을 겨눈 아이의 발은 순식간에 토끼와 같은 역관절로 변하며 도둑에게 쏘아질 준비를 마쳤고…",
-    "context": "EN :\nAnd for this mission, the condition was... the Anamnaworm thief refusing her lord's mercy.\nJP :\n今回の任務において子供が力を使う条件は、蟲を盗んだ者が\n主君の情けを拒むことだったんだろうね。"
+    "context": "EN :\nThe child unsheathes her sword, and her feet begin to crack and mutate into a hare's reverse-jointed legs. She prepares to rush toward the thief.\nJP :\n剣を構える子供の脚は瞬く間に兎のみたいな逆関節へと変化し、\n泥棒に向かって飛びかかる準備を整え…。"
   },
   {
     "key": "54-content",
     "original": "미래를 직감한 도둑은 의미 없음을 알면서도 전력을 다해 뒤로 몸을 던졌어.",
-    "context": "EN :\nThe child unsheathes her sword, and her feet begin to crack and mutate into a hare's reverse-jointed legs. She prepares to rush toward the thief.\nJP :\n剣を構える子供の脚は瞬く間に兎のみたいな逆関節へと変化し、\n泥棒に向かって飛びかかる準備を整え…。"
+    "context": "EN :\nAt this point, he realizes that his efforts were most likely for nothing. But as a last ditch effort, he leaped backward, and—\nJP :\n未来を直感した泥棒は、無駄と知りながらも\n全力で後方へ身体を投げたんだ。"
   },
   {
     "key": "55-teller",
     "original": "도둑",
-    "context": "EN :\n\nJP :\n"
+    "context": "EN :\nThief\nJP :\n泥棒"
   },
   {
     "key": "55-title",
     "original": "???",
-    "context": "EN :\n\nJP :\n"
+    "context": "EN :\n???\nJP :\n???"
   },
   {
     "key": "55-content",
     "original": "크으윽… 젠장!",
-    "context": "EN :\nAt this point, he realizes that his efforts were most likely for nothing. But as a last ditch effort, he leaped backward, and—\nJP :\n未来を直感した泥棒は、無駄と知りながらも\n全力で後方へ身体を投げたんだ。"
+    "context": "EN :\nAgh... Dammit!\nJP :\nくぅうっ…クソッ！"
   },
   {
     "key": "56-content",
     "original": "끝내 최후의 수단으로 도둑은 다급히 귓속으로 충을 집어넣었지만…",
-    "context": "EN :\nAgh... Dammit!\nJP :\nくぅうっ…クソッ！"
+    "context": "EN :\n—hurriedly shoved the Anamnaworm into his ear.\nJP :\n最後の手段として泥棒は慌てて蟲を耳に入れたけど…。"
   },
   {
     "key": "57-teller",
     "original": "도둑",
-    "context": "EN :\n\nJP :\n"
+    "context": "EN :\nThief\nJP :\n泥棒"
   },
   {
     "key": "57-title",
     "original": "???",
-    "context": "EN :\n\nJP :\n"
+    "context": "EN :\n???\nJP :\n???"
   },
   {
     "key": "57-content",
     "original": "커헉…",
-    "context": "EN :\n—hurriedly shoved the Anamnaworm into his ear.\nJP :\n最後の手段として泥棒は慌てて蟲を耳に入れたけど…。"
+    "context": "EN :\nGuhhh...\nJP :\nかはっ…。"
   },
   {
     "key": "58-model",
@@ -562,12 +567,12 @@
   {
     "key": "58-title",
     "original": "흑수 - 묘",
-    "context": "EN :\n???\nJP :\n???"
+    "context": "EN :\nHeishou Pack - Mao Branch\nJP :\n黒獣 - 卯"
   },
   {
     "key": "58-content",
     "original": "체내에 충을 넣었어도, 그 즉시 목숨을 거둔다면… 몸에 있는 충이 동화되기 전에 다시 멀쩡히 꺼낼 수 있다.",
-    "context": "EN :\nGuhhh...\nJP :\nかはっ…。"
+    "context": "EN :\nYou can try inserting the Anamnaworm into your body... but I can get it back fully intact as long as I cut you down immediately.\nJP :\n体内に蟲を入れたところで、その直後に命が断たれれば…\nまだ同化する前のまま、元通り取り出せる。"
   },
   {
     "key": "59-model",
@@ -583,22 +588,22 @@
   {
     "key": "59-content",
     "original": "그 점을 간과했군.",
-    "context": "EN :\nYou can try inserting the Anamnaworm into your body... but I can get it back fully intact as long as I cut you down immediately.\nJP :\n体内に蟲を入れたところで、その直後に命が断たれれば…\nまだ同化する前のまま、元通り取り出せる。"
+    "context": "EN :\nYou seem to have missed that part.\nJP :\nその点を看過したな。"
   },
   {
     "key": "60-content",
     "original": "너무도 빠르게 도약한 아이의 검에 비명조차 지르지 못하고 죽음을 맞이하고 말았어.",
-    "context": "EN :\nYou seem to have missed that part.\nJP :\nその点を看過したな。"
+    "context": "EN :\nThe child, who leaped forward in an explosive burst of speed, had killed the thief before he even had a chance to let out his final cry.\nJP :\nあまりにも素早く跳躍した子供の剣に、\n泥棒は悲鳴を上げる暇すらなく死を迎えてしまったの。"
   },
   {
     "key": "61-content",
     "original": "조금만 지나도 충은 도둑의 신체와 하나 되어… 충으로 만들어질 때 새겨진 조건을 만족하기 전까진 어떤 수단으로도 꺼낼 수 없었을 테지만…",
-    "context": "EN :\nThe child, who leaped forward in an explosive burst of speed, had killed the thief before he even had a chance to let out his final cry.\nJP :\nあまりにも素早く跳躍した子供の剣に、\n泥棒は悲鳴を上げる暇すらなく死を迎えてしまったの。"
+    "context": "EN :\nNormally, if one lingers too much after inserting the Anamnaworm into their body, the grub would assimilate with the host, unable to be removed until the conditions prescribed upon its creation are met...\nJP :\nもう少し時間が経っていれば蟲は泥棒の身体と一体化して…\n蟲にされる際に刻まれた条件を満たさない限り、\nどんな手段でも取り出せなくなるところだったけど…。"
   },
   {
     "key": "62-content",
     "original": "동화되기 전에 목숨을 취한 이상, 아이는 손쉽게 충을 되찾을 수 있었지.",
-    "context": "EN :\nNormally, if one lingers too much after inserting the Anamnaworm into their body, the grub would assimilate with the host, unable to be removed until the conditions prescribed upon its creation are met...\nJP :\nもう少し時間が経っていれば蟲は泥棒の身体と一体化して…\n蟲にされる際に刻まれた条件を満たさない限り、\nどんな手段でも取り出せなくなるところだったけど…。"
+    "context": "EN :\n... But the child managed to retrieve it without much trouble by killing the thief before the assimilation began.\nJP :\n同化する前に命を奪ってしまった以上、\n子供は容易に蟲を取り戻すことができたの。"
   },
   {
     "key": "63-model",
@@ -609,26 +614,26 @@
   {
     "key": "63-title",
     "original": "흑수 - 묘",
-    "context": "EN :\n\nJP :\n"
+    "context": "EN :\nHeishou Pack - Mao Branch\nJP :\n黒獣 - 卯"
   },
   {
     "key": "63-content",
     "original": "다음 임무는…",
-    "context": "EN :\n... But the child managed to retrieve it without much trouble by killing the thief before the assimilation began.\nJP :\n同化する前に命を奪ってしまった以上、\n子供は容易に蟲を取り戻すことができたの。"
+    "context": "EN :\nMy next mission...\nJP :\n次の任務は…。"
   },
   {
     "key": "64-content",
     "original": "하지만 아이의 밤은 임무 하나로 끝나지 않아.",
-    "context": "EN :\nMy next mission...\nJP :\n次の任務は…。"
+    "context": "EN :\nThe night is yet young for the child. There were more missions for her on the horizon.\nJP :\nでも、子供の夜は任務1つじゃ終わらないんだ。"
   },
   {
     "key": "65-content",
     "original": "홍원에는 수많은 암투가 벌어지고 있었고, 그 암투의 중심에 선 흑수가 된 아이는…",
-    "context": "EN :\nThe night is yet young for the child. There were more missions for her on the horizon.\nJP :\nでも、子供の夜は任務1つじゃ終わらないんだ。"
+    "context": "EN :\nTo live in Hongyuan is to be mired in a constant vortex of dark conspiracies and battles. And as a beast of a Heishou Pack, the child...\nJP :\n鴻園ではいくつもの暗闘が起こってて、\nその暗闘の中心に立つ黒獣となった子供は…。"
   },
   {
     "key": "66-content",
     "original": "주군이 내린 또 다른 명이 가리키는 곳을 향해 계속해서 뜀박질할 테지.",
-    "context": "EN :\nTo live in Hongyuan is to be mired in a constant vortex of dark conspiracies and battles. And as a beast of a Heishou Pack, the child...\nJP :\n鴻園ではいくつもの暗闘が起こってて、\nその暗闘の中心に立つ黒獣となった子供は…。"
+    "context": "EN :\n... would have no rest and continue to hop between mission after mission bestowed upon her by her lord.\nJP :\n主君が下した別の命が示す場所へむかって、\nまた飛び跳ねるんでしょうね。"
   }
 ]

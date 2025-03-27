@@ -921,8 +921,8 @@
   },
   {
     "key": "1061004-levelList$[1].desc",
-    "original": "[StartBattle] 자신의 [Laceration] 위력 2 감소 (턴 당 3회. 출혈이 감소하여 0 이하가 되면, 출혈 소멸)",
-    "context": "EN :\n[StartBattle] Lose 2 [Laceration] Potency on self (3 times per turn. If Bleed Potency drops to 0 or less, the Bleed effect expires)\nJP :\n[StartBattle] 自分の[Laceration]威力を2減少(1ターンにつき3回。出血が減少し0になると、出血が消滅)"
+    "original": "[StartBattle] 자신의 [Laceration] 위력 2 감소 (턴 당 3회. [Laceration]이 감소하여 0 이하가 되면, 출혈 소멸)",
+    "context": "EN :\n[StartBattle] Lose 2 [Laceration] Potency on self (3 times per turn. If [Laceration] Potency drops to 0 or less, the Bleed effect expires)\nJP :\n[StartBattle] 自分の[Laceration]威力を2減少(1ターンにつき3回。[Laceration]が減少し0になると、[Laceration]が消滅)"
   },
   {
     "key": "1061101-levelList$[0].name",

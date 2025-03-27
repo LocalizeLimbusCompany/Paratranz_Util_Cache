@@ -81,8 +81,8 @@
   },
   {
     "key": "1090702-levelList$[2].desc",
-    "original": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 10%)만큼 보호막을 얻음.\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 5를 얻음\n[WhenUse] 대상의 침잠이 5 이상이면, 합 위력 +2",
-    "context": "EN :\nGain (Insight x 10% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 Aggro next turn\n[WhenUse] If target has 5+ Sinking, gain Clash Power +2\nJP :\nこのスキルが捨てられると、(探求した知識 × 体力最大値の10%)バリアを得る。\n[WhenUse] 自分の全スキルスロットから、ランクが最も低いスキル1つを捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値5を得る\n[WhenUse] 対象の沈潜が5以上なら、マッチ威力 +2"
+    "original": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 10%)만큼 보호막을 얻음.\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 5를 얻음\n[WhenUse] 대상의 [Sinking]이 5 이상이면, 합 위력 +2",
+    "context": "EN :\nGain (Insight x 10% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 Aggro next turn\n[WhenUse] If target has 5+ [Sinking], gain Clash Power +2\nJP :\nこのスキルが捨てられると、(探求した知識 × 体力最大値の10%)バリアを得る。\n[WhenUse] 自分の全スキルスロットから、ランクが最も低いスキル1つを捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値5を得る\n[WhenUse] 対象の[Sinking]が5以上なら、マッチ威力 +2"
   },
   {
     "key": "1090702-levelList$[2].coinlist[3].coindescs[0].desc",
@@ -116,8 +116,8 @@
   },
   {
     "key": "1090703-levelList$[1].desc",
-    "original": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 20%)만큼 보호막을 얻음.\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 2개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 5를 얻음\n[WhenUse] 대상의 침잠이 7 이상이면, 코인 위력 +1",
-    "context": "EN :\nGain (Insight x 20% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 2 Skills of the lowest ranks in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 Aggro next turn\n[WhenUse] If target has 7+ Sinking, gain Coin Power +1\nJP :\nこのスキルが捨てられると、(探求した知識 × 体力最大値の20%)バリアを得る。\n[WhenUse] 自分の全スキルスロットから、ランクが最も低いスキル2つを捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値5を得る\n[WhenUse] 対象の沈潜が7以上なら、コイン威力 +1"
+    "original": "이 스킬이 버려지면 (탐구한 지식 x 최대 체력의 20%)만큼 보호막을 얻음.\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 2개를 버림\n[WhenUse] 다음 턴에 이 슬롯이 도발치 5를 얻음\n[WhenUse] 대상의 [Sinking]이 7 이상이면, 코인 위력 +1",
+    "context": "EN :\nGain (Insight x 20% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 2 Skills of the lowest ranks in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 Aggro next turn\n[WhenUse] If target has 7+ [Sinking], gain Coin Power +1\nJP :\nこのスキルが捨てられると、(探求した知識 × 体力最大値の20%)バリアを得る。\n[WhenUse] 自分の全スキルスロットから、ランクが最も低いスキル2つを捨てる\n[WhenUse] 次のターンにて、このスロットが挑発値5を得る\n[WhenUse] 対象の[Sinking]が7以上なら、コイン威力 +1"
   },
   {
     "key": "1090703-levelList$[1].coinlist[0].coindescs[0].desc",

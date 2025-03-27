@@ -668,5 +668,10 @@
     "key": "mirrordungeon_achievement_max_level-content",
     "original": "업적 레벨 최대 달성",
     "context": "EN :\nAchievement Level maxed out\nJP :\nアチーブメントレベル最大値達成"
+  },
+  {
+    "key": "lack_of_point_for_shop_without_new_line-content",
+    "original": "코스트 부족",
+    "context": "EN :\nNot Enough Cost\nJP :\nコスト不足"
   }
 ]

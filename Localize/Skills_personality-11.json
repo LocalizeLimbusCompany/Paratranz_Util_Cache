@@ -336,8 +336,8 @@
   },
   {
     "key": "1110603-levelList$[0].desc",
-    "original": "자신의 [Breath]이 7 이상이면 최종 위력 + 2\n[WinDuel] 합 횟수만큼 호흡을 얻음 (최대 10)",
-    "context": "EN :\nAt 7+ [Breath], Final Power +2\n[WinDuel] Gain Poise based on Clash count (Max 10)\nJP :\n自分の[Breath]が7以上なら、最終威力 +2\n[WinDuel] マッチ回数だけ呼吸を得る(最大10)"
+    "original": "자신의 [Breath]이 7 이상이면 최종 위력 + 2\n[WinDuel] 합 횟수만큼 [Breath]을 얻음 (최대 10)",
+    "context": "EN :\nAt 7+ [Breath], Final Power +2\n[WinDuel] Gain [Breath] based on Clash count (Max 10)\nJP :\n自分の[Breath]が7以上なら、最終威力 +2\n[WinDuel] マッチ回数だけ[Breath]を得る(最大10)"
   },
   {
     "key": "1110603-levelList$[0].coinlist[0].coindescs[0].desc",
@@ -361,8 +361,8 @@
   },
   {
     "key": "1110603-levelList$[1].desc",
-    "original": "자신의 [Breath]이 7 이상이면 최종 위력 + 4\n[WinDuel] 합 횟수만큼 호흡을 얻음 (최대 10)",
-    "context": "EN :\nAt 7+ [Breath], Final Power +4\n[WinDuel] Gain Poise based on Clash Count (Max 10)\nJP :\n自分の[Breath]が7以上なら、最終威力 +4\n[WinDuel] マッチ回数だけ呼吸を得る(最大10)"
+    "original": "자신의 [Breath]이 7 이상이면 최종 위력 + 4\n[WinDuel] 합 횟수만큼 [Breath]을 얻음 (최대 10)",
+    "context": "EN :\nAt 7+ [Breath], Final Power +4\n[WinDuel] Gain [Breath] based on Clash Count (Max 10)\nJP :\n自分の[Breath]が7以上なら、最終威力 +4\n[WinDuel] マッチ回数だけ[Breath]を得る(最大10)"
   },
   {
     "key": "1110603-levelList$[1].coinlist[0].coindescs[0].desc",

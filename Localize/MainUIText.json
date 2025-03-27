@@ -1426,8 +1426,8 @@
   },
   {
     "key": "remote_download_return_title-content",
-    "original": "새로운 다운로드 항목이 추가되었습니다.\n타이틀로 돌아갑니다.",
-    "context": "EN :\nA new download has been added.\nReturning to the title screen.\nJP :\n新たにダウンロード項目が追加されました。\nタイトルへ戻ります。"
+    "original": "새로운 다운로드 항목이 추가되었습니다.\n타이틀로 돌아갑니다.\\n\\n※ 타이틀 화면에서 다운로드를 받은 후 게임 진행시 오류가 발생하므로, 게임을 <b><color=#da0000><u><size=110%>완전히 종료 및 재실행</size></u></color></b>하여 다운로드를 진행해주시기 바랍니다.",
+    "context": "EN :\nA new download has been added.\nReturning to the title screen.\n\n※ Playing the game immediately after downloading the update from the title screen will cause an error. Therefore, please <b><color=#da0000><u><size=110%>\"fully close and restart the game\"</size></u></color></b> before downloading the update.\nJP :\n新たにダウンロード項目が追加されました。\nタイトルへ戻ります。\n\n※タイトル画面にてダウンロード後にゲームを進行すると不具合が発生しますので、ゲームを<b><color=#da0000><u><size=110%>「完全に終了および再度起動」</size></u></color></b>してからダウンロードを実施してください。"
   },
   {
     "key": "battle_skip-content",
@@ -2313,5 +2313,15 @@
     "key": "paid_lunacy_ui-content",
     "original": "유료 광기",
     "context": "EN :\nPaid Lunacy\nJP :\n有償狂気"
+  },
+  {
+    "key": "story_unable_to_skip-content",
+    "original": "스킵할 수 없는 스토리입니다.",
+    "context": "EN :\nThis story cannot be skipped.\nJP :\nスキップできないストーリーです"
+  },
+  {
+    "key": "remote_download_quit_game-content",
+    "original": "새로운 다운로드 항목이 추가되었습니다.\n게임이 종료되며, 재시작을 통해 다운로드 받아주시기 바랍니다.",
+    "context": "EN :\nA new download has been added.\nThe game will be closed; please restart the game to download.\nJP :\n新しいダウンロード項目が追加されました。\nゲームが終了しますので、再スタートしてダウンロードしてください。"
   }
 ]

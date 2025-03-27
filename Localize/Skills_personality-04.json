@@ -1542,7 +1542,7 @@
   {
     "key": "1041103-levelList$[1].desc",
     "original": "자신의 속도가 대상보다 빠르면, (대상과의 속도 차이 x 대상의 [Burst] 위력)%만큼 피해량이 증가 (최대 50%)\n자신의 속도가 대상보다 <style=\"highlight\">높을수록 코인 위력 +1 (속도 차이 2 당 코인 위력 +1. 최대 2)\n[WhenUse] 대상의 [Burst]이 15 이상이면, 코인 위력 +1</style>\n[WhenUse] [LegStrength] 3 얻음\n[WinDuel] [Burst] 횟수 2 증가",
-    "context": "EN :\nIf this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\nIf this unit's Speed is faster <style=\"highlight\">than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)\n[WhenUse] If the target has 15+ [Burst], Coin Power +1</style>\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst] Count\nJP :\n自分の速度が対象より高ければ、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n自分の速度が対象より<style=\"highlight\">高いほどコイン威力 +1(速度差2につきコイン威力 +1. 最大2)\n[WhenUse] 対象の[Burst]が15以上なら、コイン威力 +1</style>\n[WhenUse] [LegStrength]を3得る\n[WinDuel] [Burst]回数が2増加"
+    "context": "EN :\nIf this unit's Speed is faster than the target's, deal (Speed difference x [Burst] Potency on the target)% more damage (max 50%)\nIf this unit's Speed is faster than the target's, <style=\"highlight\">gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)\n[WhenUse] If the target has 15+ [Burst], Coin Power +1</style>\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst] Count\nJP :\n自分の速度が対象より高いなら、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n自分の速度が対象より<style=\"highlight\">高いほどコイン威力 +1(速度差2につきコイン威力 +1. 最大2)\n[WhenUse] 対象の[Burst]が15以上なら、コイン威力 +1</style>\n[WhenUse] [LegStrength]を3得る\n[WinDuel] [Burst]回数が2増加"
   },
   {
     "key": "1041103-levelList$[1].coinlist[0].coindescs[0].desc",

@@ -51,7 +51,7 @@
   {
     "key": "4-content",
     "original": "이, 이건 이상해요.",
-    "context": "EN :\nS-something in here stands out... like, imagine an ideal picture—\nJP :\nこ、これは恐ろしい惨事(さんじ)です。"
+    "context": "EN :\nS-something in here stands out... like, imagine an ideal picture—\nJP :\nこ、これは酷い惨(さん)状です。"
   },
   {
     "key": "5-model",
@@ -281,7 +281,7 @@
   {
     "key": "26-content",
     "original": "크흠. 그래도 방마다 침상은 하나씩 있는 것으로 보입니다, 관리자님. 부족하지만, 휴식은 취할 수 있겠군요.",
-    "context": "EN :\nAhem. At least it appears that each room is furnished with a bed. While this is far from optimal, Executive Manager, we may be able to rest here.\nJP :\nけほん。それでも部屋ごとに寝床は1つずつあるようです、管理人様。\n粗末ながらも休息は取れそうですね。"
+    "context": "EN :\nAhem. At least it appears that each room is furnished with a bed. While this is far from optimal, Executive Manager, we may be able to rest here.\nJP :\nけほん。それでも各部屋には寝床が1つずつ用意されているようです、\n管理人様。粗末ながらも休息は取れそうですね。"
   },
   {
     "key": "27-model",
@@ -377,7 +377,7 @@
   {
     "key": "36-content",
     "original": "버스 밖에서 이 말을 하는 건 처음인 것 같다.",
-    "context": "EN :\nHuh, I've never made this announcement outside the bus before.\nJP :\nバスの外でこの台詞を言うのは初めてな気がする。"
+    "context": "EN :\nHuh, I've never made this announcement outside the bus before.\nJP :\nバスの外でこの台詞を言うのは\n初めてのような気がする。"
   },
   {
     "key": "37-model",

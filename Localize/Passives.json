@@ -86,8 +86,8 @@
   },
   {
     "key": "1030301-desc",
-    "original": "다음 턴에 신속을 (분노 공명 수/3)만큼 얻음",
-    "context": "EN :\nGain Haste by (Wrath Reson. / 3) next turn.\nJP :\n次のターンにクイック を(憤怒共鳴数÷3)だけ得る"
+    "original": "다음 턴에 [Agility]을 (분노 공명 수/3)만큼 얻음",
+    "context": "EN :\nGain [Agility] by (Wrath Reson. / 3) next turn.\nJP :\n次のターンに[Agility]を(憤怒共鳴数÷3)だけ得る"
   },
   {
     "key": "1040101-name",
@@ -116,8 +116,8 @@
   },
   {
     "key": "1040301-desc",
-    "original": "출혈이 부여된 적 공격 시 피해량 +10 %",
-    "context": "EN :\nDeal +10% damage to targets with Bleed.\nJP :\n出血 が付与された敵を攻撃時、与ダメージ量 +10%"
+    "original": "[Laceration]이 부여된 적 공격 시 피해량 +10 %",
+    "context": "EN :\nDeal +10% damage to targets with [Laceration].\nJP :\n[Laceration]が付与された敵を攻撃時、ダメージ量 +10%"
   },
   {
     "key": "1050101-name",
@@ -266,8 +266,8 @@
   },
   {
     "key": "1090201-desc",
-    "original": "반격 시 자신의 호흡이 5 이상이면 스킬 3으로 발동",
-    "context": "EN :\nAt 5+ Poise, counter skills use Skill 3.\nJP :\n反撃時、自分の呼吸 が5以上ならスキル3で発動"
+    "original": "반격 시 자신의 [Breath]이 5 이상이면 스킬 3으로 발동",
+    "context": "EN :\nAt 5+ [Breath], counter skills use Skill 3.\nJP :\n反撃時、自分の[Breath]が5以上ならスキル3で発動"
   },
   {
     "key": "1090301-name",
@@ -1106,8 +1106,8 @@
   },
   {
     "key": "1090501-desc",
-    "original": "진동 폭발 시 충전 횟수 3을 소모하여, 진동 폭발의 흐트러짐 피해량 +40%\n진동 폭발 발동 시 다음 턴에 신속 1, 타격 피해량 증가 1을 얻음",
-    "context": "EN :\nOn Tremor Burst, spend 3 Charge Count to increase the Stagger Threshold raise by +40%.\nAfter triggering Tremor Burst, gain 1 Haste and 1 Blunt DMG Up next turn.\nJP :\n振動爆発時に充電回数3を消耗し、振動爆発による混乱区間前進量を +40%\n振動爆発が発動したとき、次のターンにクイック 1, 打撃ダメージ量増加 1を得る"
+    "original": "[VibrationExplosion] 시 충전 횟수 3을 소모하여, [VibrationExplosion]의 흐트러짐 피해량 +40%\n[VibrationExplosion] 발동 시 다음 턴에 신속 1, 타격 피해량 증가 1을 얻음",
+    "context": "EN :\nOn [VibrationExplosion], spend 3 Charge Count to increase the Stagger Threshold raise by +40%.\nAfter triggering [VibrationExplosion], gain 1 Haste and 1 Blunt DMG Up next turn.\nJP :\n[VibrationExplosion]時、充電 回数3を消耗して[VibrationExplosion]の混乱区間前進量 +40%\n[VibrationExplosion]発動時、次のターンにクイック1, 打撃ダメージ量増加1を得る"
   },
   {
     "key": "1090521-name",
@@ -1116,8 +1116,8 @@
   },
   {
     "key": "1090521-desc",
-    "original": "속도가 가장 느린 아군 1명이 진동 폭발로 입히는 흐트러짐 피해량 +20%",
-    "context": "EN :\nWhen 1 ally with the lowest Speed triggers Tremor Burst, increase the Stagger Threshold raise by +20%.\nJP :\n速度が最も遅い味方1名が振動爆発によって与える混乱区間前進量 +20%"
+    "original": "속도가 가장 느린 아군 1명이 [VibrationExplosion]로 입히는 흐트러짐 피해량 +20%",
+    "context": "EN :\nWhen 1 ally with the lowest Speed triggers [VibrationExplosion], increase the Stagger Threshold raise by +20%.\nJP :\n速度が最も低い味方1名が[VibrationExplosion]で与える混乱区間前進量 +20%"
   },
   {
     "key": "1050501-name",
@@ -1246,8 +1246,8 @@
   },
   {
     "key": "1100601-desc",
-    "original": "공격 적중 시 대상에게 파열이 있으면 부적 1을 얻음",
-    "context": "EN :\nOn hit, if the target had Rupture, gain 1 Talisman.\nJP :\n攻撃的中時、対象に破裂があればお札 1を得る"
+    "original": "공격 적중 시 대상에게 [Burst]이 있으면 부적 1을 얻음",
+    "context": "EN :\nOn hit, if the target had [Burst], gain 1 Talisman.\nJP :\n攻撃的中時、対象に[Burst]があればお札 1を得る"
   },
   {
     "key": "1100621-name",
@@ -1537,7 +1537,7 @@
   {
     "key": "1020601-desc",
     "original": "상대의 약점, 취약 속성(내성 1 초과) 으로 공격할 때, 공격 전 대상의 <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">파열</color></link></u>만큼 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">호흡</color></link></u>을 얻음 (턴 당 최대 20)",
-    "context": "EN :\nWhen attacking a target with a damage type the target is \"Weak\" or \"Fatal\" (Resistance>x1) to, gain 1 [Breath] for each [Rupture] on target before the attack (Max 20 per turn)\nJP :\n対象の弱点・脆弱属性(耐性1超過)で攻撃するとき、攻撃前対象の<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>だけ<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>を得る(1ターンにつき最大20)"
+    "context": "EN :\nWhen attacking a target with a damage type the target is \"Weak\" or \"Fatal\" (Resistance>x1) to, gain 1 [Breath] for each [Burst] on target before the attack (Max 20 per turn)\nJP :\n対象の弱点・脆弱属性(耐性1超過)で攻撃するとき、攻撃前対象の<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>だけ<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>を得る(1ターンにつき最大20)"
   },
   {
     "key": "1020601-summary",
@@ -1661,8 +1661,8 @@
   },
   {
     "key": "1020701-desc",
-    "original": "- 합 진행 시 대상이 보유한 부정적인 효과가 3개 이상이면, 대상의 합 위력 -1\n- 자신이 생존해있을 때, 진동 폭발을 당하는 적이 방어 레벨 감소 2를 얻음. (턴 당 적 1명당 최대 1회)\n- 정신 오염: 턴 종료 시 정신력이 -25 미만일 때 다음 턴에 속박 2,  타격 위력 증가 1을 얻음",
-    "context": "EN :\n- In a clash, the target has -1 Clash Power if they have 3+ types of negative effects\n- When this unit is alive, enemies affected by Tremor Burst gain 2 Defense Level Down. (Once per enemy per turn)\n- Mental Corruption: If at less than -25 SP at Turn End, gain 2 Bind and 1 Blunt Power Up next turn\nJP :\n- マッチ進行時、対象の保有したマイナス効果が3つ以上なら対象のマッチ威力-1\n- 自分が生存しているとき、振動爆発を受ける敵が防御レベル減少 2を得る。(1ターンにつき敵1体に最大1回)\n- 精神汚染: ターン終了時に精神力が-25未満なら、次のターンに束縛 2, 打撃威力増加 1を得る"
+    "original": "- 합 진행 시 대상이 보유한 부정적인 효과가 3개 이상이면, 대상의 합 위력 -1\n- 자신이 생존해있을 때, [VibrationExplosion]을 당하는 적이 방어 레벨 감소 2를 얻음. (턴 당 적 1명당 최대 1회)\n- 정신 오염: 턴 종료 시 정신력이 -25 미만일 때 다음 턴에 속박 2,  타격 위력 증가 1을 얻음",
+    "context": "EN :\n- In a clash, the target has -1 Clash Power if they have 3+ types of negative effects\n- When this unit is alive, enemies affected by [VibrationExplosion] gain 2 Defense Level Down. (Once per enemy per turn)\n- Mental Corruption: If at less than -25 SP at Turn End, gain 2 Bind and 1 Blunt Power Up next turn\nJP :\n- マッチ進行時、対象の保有したマイナス効果が3つ以上なら対象のマッチ威力-1\n- 自分が生存しているとき、[VibrationExplosion]を受ける敵が防御レベル減少 2を得る。(1ターンにつき敵1体に最大1回)\n- 精神汚染: ターン終了時に精神力が-25未満なら、次のターンに束縛 2, 打撃威力増加 1を得る"
   },
   {
     "key": "1020711-name",
@@ -1671,8 +1671,8 @@
   },
   {
     "key": "1020711-desc",
-    "original": "- 합 진행 시 대상이 보유한 부정적인 효과 3개 당 대상의 합 위력 -1 (최대 2)\n- 자신이 생존해있을 때, 진동 폭발을 당하는 적이 방어 레벨 감소 2를 얻음 (턴 당 적 1명당 최대 3회)\n- 정신 오염: 턴 종료 시 정신력이 -25 미만일 때 다음 턴에 속박 2,  타격 위력 증가 1을 얻음",
-    "context": "EN :\n- In a clash, the target has -1 Clash Power for every 3 types of negative effects it has (Max -2 Clash Power)\n- When this unit is alive, enemies affected by Tremor Burst gain 2 Defense Level Down. (3 times per enemy per turn)\n- Mental Corruption: If at less than -25 SP at Turn End, gain 2 Bind and 1 Blunt Power Up next turn\nJP :\n- マッチ進行時、対象の保有するマイナス効果3つにつき、対象のマッチ威力-1(最大2)\n- 自分が生存しているとき、振動爆発を受ける敵が防御レベル減少 2を得る。(1ターンにつき敵1体に最大3回)\n- 精神汚染: ターン終了時に精神力が-25未満なら、次のターンに束縛 2, 打撃威力増加 1を得る"
+    "original": "- 합 진행 시 대상이 보유한 부정적인 효과 3개 당 대상의 합 위력 -1 (최대 2)\n- 자신이 생존해있을 때, [VibrationExplosion]을 당하는 적이 방어 레벨 감소 2를 얻음 (턴 당 적 1명당 최대 3회)\n- 정신 오염: 턴 종료 시 정신력이 -25 미만일 때 다음 턴에 속박 2,  타격 위력 증가 1을 얻음",
+    "context": "EN :\n- In a clash, the target has -1 Clash Power for every 3 types of negative effects it has (Max -2 Clash Power)\n- When this unit is alive, enemies affected by [VibrationExplosion] gain 2 Defense Level Down. (3 times per enemy per turn)\n- Mental Corruption: If at less than -25 SP at Turn End, gain 2 Bind and 1 Blunt Power Up next turn\nJP :\n- マッチ進行時、対象の保有したマイナス効果3つにつき、対象のマッチ威力 -1(最大2)\n- 自分が生存しているとき、[VibrationExplosion]を受ける敵が防御レベル減少 2を得る。(1ターンにつき敵1体に最大3回)\n- 精神汚染: ターン終了時に精神力が-25未満なら、次のターンに束縛 2, 打撃威力増加 1を得る"
   },
   {
     "key": "1020721-name",
@@ -2091,8 +2091,8 @@
   },
   {
     "key": "1060801-desc",
-    "original": "자신이 스킬을 버릴 때 버린 스킬의 등급만큼 피해량 증가를 얻음. (턴 당 최대 3)",
-    "context": "EN :\nWhen Discarding a Skill, gain 'Damage Up' equal to the Discarded Skill's Rank. (Max 3 per turn)\nJP :\n自分がスキルを捨てるとき、捨てたスキルのランクだけダメージ量増加を得る。(1ターンにつき最大3)"
+    "original": "자신이 스킬을 버릴 때 버린 스킬의 등급만큼 [AttackDmgUp]를 얻음. (턴 당 최대 3)",
+    "context": "EN :\nWhen Discarding a Skill, gain [AttackDmgUp] equal to the Discarded Skill's Rank. (Max 3 per turn)\nJP :\n自分がスキルを捨てるとき、捨てたスキルのランクだけ[AttackDmgUp]を得る。(1ターンにつき最大3)"
   },
   {
     "key": "1060811-name",
@@ -2101,8 +2101,8 @@
   },
   {
     "key": "1060811-desc",
-    "original": "자신이 스킬을 버릴 때 버린 스킬의 등급만큼 피해량 증가를 얻음. (턴 당 최대 3)\n자신을 제외한 아군이 스킬을 버릴 때, 버린 스킬의 등급이 자신의 [KnowledgeExplored]보다 높으면, 자신의 [KnowledgeExplored] +1",
-    "context": "EN :\nWhen Discarding a Skill, gain 'Damage Up' equal to the Discarded Skill Rank. (Max 3 per turn)\nWhen other allies Discard a Skill, and if the ally's Discarded Skill Rank is higher than this unit's [KnowledgeExplored] value, this unit gains +1 [KnowledgeExplored].\nJP :\n自分がスキルを捨てるとき、捨てたスキルのランクだけダメージ量増加を得る。(1ターンにつき最大3)\n自分を除いた味方がスキルを捨てるとき、捨てたスキルのランクが自分[KnowledgeExplored]より高ければ、自分の[KnowledgeExplored] +1"
+    "original": "자신이 스킬을 버릴 때 버린 스킬의 등급만큼 [AttackDmgUp]를 얻음. (턴 당 최대 3)\n자신을 제외한 아군이 스킬을 버릴 때, 버린 스킬의 등급이 자신의 [KnowledgeExplored]보다 높으면, 자신의 [KnowledgeExplored] +1",
+    "context": "EN :\nWhen Discarding a Skill, gain [AttackDmgUp] equal to the Discarded Skill Rank. (Max 3 per turn)\nWhen other allies Discard a Skill, and if the ally's Discarded Skill Rank is higher than this unit's [KnowledgeExplored] value, this unit gains +1 [KnowledgeExplored].\nJP :\n自分がスキルを捨てるとき、捨てたスキルのランクだけ[AttackDmgUp]を得る。(1ターンにつき最大3)\n自分を除いた味方がスキルを捨てるとき、捨てたスキルのランクが自分[KnowledgeExplored]より高ければ、自分の[KnowledgeExplored] +1"
   },
   {
     "key": "1060821-name",
@@ -2291,8 +2291,8 @@
   },
   {
     "key": "1030821-desc",
-    "original": "[Breath]을 가장 적게 보유한 아군 1명이 자신의 스킬, 코인 효과로 [Breath] 위력을 얻을 때 얻는 [Breath] 위력 +1 (최대 2회. 호흡이 없는 대상에게는 적용되지 않음)",
-    "context": "EN :\n1 ally with the least [Breath] gains 1 more [Breath] Potency when gaining [Breath] Potency with its own Skill or Coin effects. (2 times max. Does not apply to allies without [Breath])\nJP :\n[Breath]を最も少なく保有する味方1名が自分のスキル・コイン効果で[Breath]威力を得るときに得る[Breath]威力 +1 (最大2回。呼吸がない対象には適用されない)"
+    "original": "[Breath]을 가장 적게 보유한 아군 1명이 자신의 스킬, 코인 효과로 [Breath] 위력을 얻을 때 얻는 [Breath] 위력 +1 (최대 2회. [Breath]이 없는 대상에게는 적용되지 않음)",
+    "context": "EN :\n1 ally with the least [Breath] gains 1 more [Breath] Potency when gaining [Breath] Potency with its own Skill or Coin effects. (2 times max. Does not apply to allies without [Breath])\nJP :\n[Breath]を最も少なく保有する味方1名が自分のスキル・コイン効果で[Breath]威力を得るときに得る[Breath]威力 +1 (最大2回。[Breath]がない対象には適用されない)"
   },
   {
     "key": "1030831-name",
@@ -2301,8 +2301,8 @@
   },
   {
     "key": "1030831-desc",
-    "original": "[Breath]을 가장 적게 보유한 아군 1명이 자신의 스킬, 코인 효과로 [Breath] 위력을 얻을 때 얻는 [Breath] 위력 +2 (최대 2회. 호흡이 없는 대상에게는 적용되지 않음)",
-    "context": "EN :\n1 ally with the least [Breath] gains 2 more [Breath] Potency when gaining [Breath] Potency with its own Skill or Coin effects. (2 times max. Does not apply to allies without [Breath])\nJP :\n[Breath]を最も少なく保有する味方1名が自分のスキル・コイン効果で[Breath]威力を得るときに得る[Breath]威力 +2 (最大2回。呼吸がない対象には適用されない)"
+    "original": "[Breath]을 가장 적게 보유한 아군 1명이 자신의 스킬, 코인 효과로 [Breath] 위력을 얻을 때 얻는 [Breath] 위력 +2 (최대 2회. [Breath]이 없는 대상에게는 적용되지 않음)",
+    "context": "EN :\n1 ally with the least [Breath] gains 2 more [Breath] Potency when gaining [Breath] Potency with its own Skill or Coin effects. (2 times max. Does not apply to allies without [Breath])\nJP :\n[Breath]を最も少なく保有する味方1名が自分のスキル・コイン効果で[Breath]威力を得るときに得る[Breath]威力 +2 (最大2回。[Breath]がない対象には適用されない)"
   },
   {
     "key": "1120801-name",

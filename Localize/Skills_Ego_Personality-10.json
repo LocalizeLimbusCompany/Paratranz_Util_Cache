@@ -166,8 +166,8 @@
   },
   {
     "key": "2100511-levelList$[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 4 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has no Burn, inflict 4 Burn\nJP :\n[OnSucceedAttack] 対象に火傷 がないなら、火傷 4を付与"
+    "original": "[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has no [Combustion], inflict 4 Burn\nJP :\n[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 4を付与"
   },
   {
     "key": "2100511-levelList$[0].coinlist[0].coindescs[1].desc",
@@ -191,8 +191,8 @@
   },
   {
     "key": "2100511-levelList$[1].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 4 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has no Burn, inflict 4 Burn\nJP :\n[OnSucceedAttack] 対象に火傷 がないなら、火傷 4を付与"
+    "original": "[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has no [Combustion], inflict 4 Burn\nJP :\n[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 4を付与"
   },
   {
     "key": "2100511-levelList$[1].coinlist[0].coindescs[1].desc",
@@ -216,8 +216,8 @@
   },
   {
     "key": "2100511-levelList$[2].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 4 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has no Burn, inflict 4 Burn\nJP :\n[OnSucceedAttack] 対象に火傷 がないなら、火傷 4を付与"
+    "original": "[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 4 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has no [Combustion], inflict 4 Burn\nJP :\n[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 4を付与"
   },
   {
     "key": "2100511-levelList$[2].coinlist[0].coindescs[1].desc",
@@ -226,8 +226,8 @@
   },
   {
     "key": "2100511-levelList$[2].coinlist[0].coindescs[2].desc",
-    "original": "[OnSucceedAttackTail] 대상의 화상이 10 이상이면 다음 턴에 공격 위력 감소 1, 수비 위력 감소 1 부여",
-    "context": "EN :\n[OnSucceedAttackTail] If target has 10+ Burn, inflict 1 Attack Power Down and 1 Defense Power Down next turn\nJP :\n[OnSucceedAttackTail] 対象の火傷が10以上なら、次のターンに攻撃威力減少 1, 守備威力減少 1を付与"
+    "original": "[OnSucceedAttackTail] 대상의 [Combustion]이 10 이상이면 다음 턴에 공격 위력 감소 1, 수비 위력 감소 1 부여",
+    "context": "EN :\n[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 1 Attack Power Down and 1 Defense Power Down next turn\nJP :\n[OnSucceedAttackTail] 対象の[Combustion]が10以上なら、次のターンに攻撃威力減少 1, 守備威力減少 1を付与"
   },
   {
     "key": "2100521-levelList$[0].name",
@@ -246,8 +246,8 @@
   },
   {
     "key": "2100521-levelList$[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 6 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has no Burn, inflict 6 Burn\nJP :\n[OnSucceedAttack] 対象に火傷 がないなら、火傷 6を付与"
+    "original": "[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 6 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has no [Combustion], inflict 6 Burn\nJP :\n[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 6を付与"
   },
   {
     "key": "2100521-levelList$[0].coinlist[0].coindescs[1].desc",
@@ -271,8 +271,8 @@
   },
   {
     "key": "2100521-levelList$[1].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 6 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has no Burn, inflict 6 Burn\nJP :\n[OnSucceedAttack] 対象に火傷 がないなら、火傷 6を付与"
+    "original": "[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 6 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has no [Combustion], inflict 6 Burn\nJP :\n[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 6を付与"
   },
   {
     "key": "2100521-levelList$[1].coinlist[0].coindescs[1].desc",
@@ -281,8 +281,8 @@
   },
   {
     "key": "2100521-levelList$[1].coinlist[0].coindescs[2].desc",
-    "original": "[OnSucceedAttackTail] 대상의 화상이 10 이상이면 다음 턴에 색욕 취약 1 부여",
-    "context": "EN :\n[OnSucceedAttackTail] If target has 10+ Burn, inflict 1 Lust Fragility next turn\nJP :\n[OnSucceedAttackTail] 対象の火傷が10以上なら、次のターンに色欲脆弱 1を付与"
+    "original": "[OnSucceedAttackTail] 대상의 [Combustion]이 10 이상이면 다음 턴에 색욕 취약 1 부여",
+    "context": "EN :\n[OnSucceedAttackTail] If the target has 10+ [Combustion], inflict 1 Lust Fragility next turn\nJP :\n[OnSucceedAttackTail] 対象の[Combustion]が10以上なら、次のターンに色欲脆弱 1を付与"
   },
   {
     "key": "2100521-levelList$[2].name",
@@ -301,8 +301,8 @@
   },
   {
     "key": "2100521-levelList$[2].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 대상에게 화상이 없으면 화상 6 부여",
-    "context": "EN :\n[OnSucceedAttack] If target has no Burn, inflict 6 Burn\nJP :\n[OnSucceedAttack] 対象に火傷 がないなら、火傷 6を付与"
+    "original": "[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 6 부여",
+    "context": "EN :\n[OnSucceedAttack] If target has no [Combustion], inflict 6 Burn\nJP :\n[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 6を付与"
   },
   {
     "key": "2100521-levelList$[2].coinlist[0].coindescs[1].desc",
@@ -311,8 +311,8 @@
   },
   {
     "key": "2100521-levelList$[2].coinlist[0].coindescs[2].desc",
-    "original": "[OnSucceedAttackTail] 대상의 화상이 10 이상이면 다음 턴에 색욕 취약 2 부여",
-    "context": "EN :\n[OnSucceedAttackTail] If target has 10+ Burn, inflict 2 Lust Fragility next turn\nJP :\n[OnSucceedAttackTail] 対象の火傷が10以上なら、次のターンに色欲脆弱 2を付与"
+    "original": "[OnSucceedAttackTail] 대상의 [Combustion]이 10 이상이면 다음 턴에 색욕 취약 2 부여",
+    "context": "EN :\n[OnSucceedAttackTail] If the target has 10+ [Combustion], inflict 2 Lust Fragility next turn\nJP :\n[OnSucceedAttackTail] 対象の[Combustion]が10以上なら、次のターンに色欲脆弱 2を付与"
   },
   {
     "key": "2100611-levelList$[0].name",

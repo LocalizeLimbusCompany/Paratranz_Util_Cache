@@ -81,8 +81,8 @@
   },
   {
     "key": "971054-options$[0].messageDesc",
-    "original": "탐식 · 오만 유리 판정 진행 시, 파열 E.G.O GIFT 획득",
-    "context": "EN :\nRun a Gluttony & Pride Advantage check to gain a Rupture E.G.O Gift.\nJP :\n暴食・傲慢有利判定進行時、破裂E.G.O GIFTを獲得"
+    "original": "탐식 · 오만 유리 판정 진행 시, 범용 E.G.O GIFT 획득",
+    "context": "EN :\nRun a Gluttony & Pride Advantage check to gain a Keywordless E.G.O Gift.\nJP :\n暴食・傲慢有利判定進行時、汎用E.G.O GIFTを獲得"
   },
   {
     "key": "971054-options$[1].message",
@@ -91,8 +91,8 @@
   },
   {
     "key": "971054-options$[1].messageDesc",
-    "original": "50% 확률로 전투 발생. 승리 시 E.G.O GIFT 획득",
-    "context": "EN :\n50% chance to begin a combat encounter. Win to gain an E.G.O Gift.\nJP :\n50%の確率で戦闘発生。勝利時にE.G.O GIFT獲得"
+    "original": "50% 확률로 전투 발생. 승리 시 범용 E.G.O GIFT 획득",
+    "context": "EN :\n50% chance to begin a combat encounter. Win to gain a Keywordless E.G.O Gift.\nJP :\n50%の確率で戦闘発生。勝利時に汎用E.G.O GIFT獲得"
   },
   {
     "key": "971054-options$[1].result[0]",
