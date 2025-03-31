@@ -3180,12 +3180,12 @@
     "context": "EN :\n\nJP :\n"
   },
   {
-    "key": "이상다침-krname",
-    "original": "이상다침",
+    "key": "이상-krname",
+    "original": "이상",
     "context": "EN :\nYi Sang\nJP :\nイサン"
   },
   {
-    "key": "이상다침-nickName",
+    "key": "이상-nickName",
     "original": "1번 수감자",
     "context": "EN :\nSinner #1\nJP :\n囚人1番"
   },
@@ -3318,5 +3318,35 @@
     "key": "베르너다침-nickName",
     "original": "중지",
     "context": "EN :\nThe Middle\nJP :\n中指"
+  },
+  {
+    "key": "이스마엘F-krname",
+    "original": "이스마엘F",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "이스마엘F-nickName",
+    "original": "8번 수감자",
+    "context": "EN :\nSinner #8\nJP :\n囚人8番"
+  },
+  {
+    "key": "그레고르F-krname",
+    "original": "그레고르F",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "그레고르F-nickName",
+    "original": "13번 수감자",
+    "context": "EN :\nSinner #13\nJP :\n囚人13番"
+  },
+  {
+    "key": "료슈F-krname",
+    "original": "료슈F",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "료슈F-nickName",
+    "original": "4번 수감자",
+    "context": "EN :\nSinner #4\nJP :\n囚人4番"
   }
 ]
